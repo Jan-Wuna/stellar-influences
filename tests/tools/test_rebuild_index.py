@@ -1,3 +1,7 @@
+import subprocess
+import sys
+from pathlib import Path
+
 from tools.rebuild_index import build_index
 
 
@@ -49,3 +53,14 @@ def test_build_index_sorts_titles_within_a_section(tmp_path):
     index_text = build_index(tmp_path / "wiki")
 
     assert index_text.index("- [Moon]") < index_text.index("- [Sun]")
+
+
+def test_rebuild_index_script_runs_from_repo_root():
+    result = subprocess.run(
+        [sys.executable, "tools/rebuild_index.py"],
+        cwd=Path(__file__).resolve().parents[2],
+        capture_output=True,
+        text=True,
+        check=False,
+    )
+    assert result.returncode == 0, result.stderr

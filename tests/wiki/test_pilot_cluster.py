@@ -24,3 +24,16 @@ def test_triad_hub_links_all_orientations():
         "Sun/Moon = Venus",
         "Sun/Venus = Moon",
     ]
+
+
+def test_axis_pages_cover_all_activation_axes():
+    activation_paths = [
+        Path("wiki/activations/sun-moon-equals-venus.md"),
+        Path("wiki/activations/sun-venus-equals-moon.md"),
+        Path("wiki/activations/moon-venus-equals-sun.md"),
+    ]
+    for activation_path in activation_paths:
+        activation = load_page(activation_path)
+        axis_slug = activation.meta["axis"].lower().replace("/", "-")
+        axis_path = Path("wiki/axes") / f"{axis_slug}.md"
+        assert axis_path.exists(), f"missing axis page for {activation_path.name}"

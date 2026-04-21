@@ -3,7 +3,7 @@ title: Mercury/Jupiter
 page_type: axis
 slug: mercury-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Jupiter
@@ -56,6 +56,8 @@ aliases:
   - Jupiter/Mercury
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - michelle-falis-planet-combinations-astrological-brainstorms
+  - charles-carter-the-astrological-aspects
 updated_at: 2026-04-21
 ---
 
@@ -63,25 +65,90 @@ updated_at: 2026-04-21
 
 - Axis: `Mercury/Jupiter`
 - Astronomicon axis: `T/V`
-- Source heading: `Mercury + Jupiter`
-- Source page: `161`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Mercury + Jupiter`
+- Source page: `161`
+
 #### Pair Summary
 
 Cheerful mood. Liking to speak. Fluent speech. Talent for speech. Talkativeness. Joyful thinking or speech. Positive dialogues, thoughts or news. The legal mind. Financial reports. Legal correspondence. Thoughts or news about money.
 
+### Michelle Falis - Planet Combinations: Astrological Brainstorms
+
+- Source heading: `Mercury/Jupiter`
+- Source page: `37`
+
+#### Falis Entry
+
+Big ideas. Too much talking, not enough action. Arrogant opinions. Open-minded. Broad minded. Expansive thinking. Speculating. The philosophical mind. Gener alizing. Lumping everything together. Glossing over the particulars. Getting the gist of it. Motivational speakers. Keynote speakers. Epic stories and tales. Full of hot air. Blowhards. Laughing it off. Missing the details. Exaggerating. Wanting to talk about meaningful subjects. Wanting more education. Talking about morality. Thinking about moral issues. Contemplating ethics. Speaking with conscience. Meaningful messages. Believing in your own thoughts. Having faith in your opin ions. Confident verbal expression. Confident written expression. Mental confi dence. Confidence in communication in general. Cheerleaders. Contemplating reli gion and faith. People who ponder, contemplate and mull. Looking forward. Think ing about the future. Hope and optimism. Seeing the big picture. Thinking ahead. Premonitions. Foresight. Prolific writers and authors. Publishers. Lecturers. Sermon givers. Preachers. Teachers and professors. Garrulous. Blowing your opinion out of proportion. A self-important way of communicating. Bloated ideas. Thinking highly of your own opinions. Talking a lot. Conveying information. Having faith in your ideas. Distor tion of an idea through over-emphasis. Making a big deal out of something in significant. Beating a dead horse. Students of life. Mind expansion. Making your self laugh. Cracking yourself up. The ability to brush off negative thinking. Affir mations. "I think I can, I think I can." Positive thinking. Getting away with saying ridiculous things. Latching onto one idea and expanding it beyond recognition. Pollyanna. Becoming blind to the things you don't want to hear or see. Misinterpretation through not gathering all the facts. Misinterpretation through focusing only on the parts that you want to focus on. Inflated sense of the importance of your own thoughts. Interest in archetypes. Wanting to know what things mean. Getting beyond mere accumulation of facts to find meaning. Positive sibling relationships. One sibling looms large over the other. A little knowledge is a dangerous thing.
+
+### Charles Carter - The Astrological Aspects
+
+- Source heading: `ASPECTS OF MERCURY & JUPITER`
+- Source page: `35`
+
+#### Harmonious Aspects
+
+These contacts are indicative of good-nature, benevolence and mildness of temper. There is seldom much originality, but the mind is active, acute and frequently industrious, the intelligence being as a rule considerably above the average, especially in booklearning. The religious views are vague and general, and there is more natural piety than formal devotion. Sometimes there is a rather mild skepticism, with an equally mild optimism, but it is an aspect which avoids religious difficulties and is often little concerned with problems of this sort.
+
+It is not ambitious, and can even verge to the unpractical, easily satisfied, and easy-going type, with a certain amount of imprudence and lack of forethought. The pleasures are often of an artistic or intellectual kind, and in this direction there may be considerable proficiency.
+
+The self-assurance that sometimes goes with the Inharmonious aspects is rare, and there is more often a quiet, modest and retiring attitude.
+
+In a material way it confers benefits through both Jovian and Mercurian things, but it is rare that it seeks for itself so far as worldly objects are concerned: it is more often addicted to a simple and frugal mode of life and is wrapt up in intellectual interests. The chief difference between the favourable and unfavourable Mercury-Jovian contacts lies in the results from a material point of view. The Harmonious contacts operate less eccentrically and are more often profitable in terms of cash. Even so, the aspects of Jupiter, in themselves, are seldom energetically ambitious. In fact, I should not call it a good combination for worldly success. There seems to be a distinct element of "self-undoing" in it, as a perusal of the ensuing examples will show. Even if this may be traced to other elements in the map, yet it is plain that the good aspects of Mercury and Jupiter do not prevent it.
+
+This is not negated by the fact that several well-known modern astrologers have good aspects of Mercury and Jupiter, for Astrology at this period has to be practiced professionally beneath the frown of the law and in a semi-surreptitious manner, conferring, in a worldly sense, much more blame than credit.
+
+#### The Conjunction
+
+This is a powerful position, and one that usually causes the native to be considerably above the average of intelligence. Yet I found it difficult to collect examples of it, perhaps because the people whose nativities are published, who are for the most part either famous or notorious, are unlikely to have this Conjunction, for, like the Harmonious aspects, it often leads to a quiet and uneventful life - perhaps that of a "learned recluse."
+
+Probably the native is more original and investigatory that those with the good aspects usually are.
+
+There is the same good-nature and kindliness, and often there is a definite propensity to philanthropic pursuits.
+
+It brings success, of a quiet kind, in all matters coming under the planets, such as religion, law, literature, art or music.
+
+It is said sometimes to be conceited, and not infrequently there is a spice of self-will and stubbornness. It is not favourable for exact thought or patient, detailed work, unless Saturn is also strong.
+
+#### Inharmonious Aspects
+
+The Inharmonious contacts of these bodies are by no means altogether unfavourable, the mind being active and very fertile of new ideas.
+
+But there is a tendency for each planet to injure the other. Mercury loses some of its sharpness and acuteness. There may be a propensity to forget names and words sometimes in the midst of conversation, and absentmindedness is frequent. There may be a wool-gathering tendency. The mind may be skeptical in religious matters, or, on the other hand, there may be superstition; that not uncommon person, the superstitious infidel, seems to come under these configurations. It is not a combination that will give balance in religious thought or practice, and although it is often kind and generous, nevertheless here too its action is often eccentric. Reason and faith are commonly in conflict. It is often found in maps of those who have "religious difficulties."
+
+It inclines to carelessness and imprudence, especially in small things; the native tends to exaggerate and scorns the dull formality of facts. Judgment is poor and the native is not likely to give good advice, especially in matters coming under either planet. He is a poor prophet, and astrologers with these afflictions are not likely to win credit for themselves or their art so far as predictive work is concerned.
+
+Sometimes there is considerable self-assurance and conceit, even to the extent of intolerable self-opiniation and self-sufficiency. But under quick cross-examination this bluff is easily dispelled, for the native can rarely collect his mental resources rapidly and is readily flustered; he cannot, as it were, maneuver under fire. In fact, he will do well to learn to refuse to be hurried into answering questions, and to cultivate the faculty of forming cool, precise opinions.
+
+It is generally an indiscreet contact, apt to "let the cat out of the bag" in an embarrassing manner.
+
+In ordinary life this combination usually denotes many little troubles, but if the native should occupy himself with matters ruled by the two planets he may find them a constant and possibly serious danger, owing to the deception, duplicity and muddle that they may cause. Thus, in any matter coming under banking, insurance, any kind of guaranteeing, of going surety, sports and hunting, publishing and travelling their influence is often strong. It often denotes losses through the mistakes or dishonesty of employees or subordinates of some sort, and sometimes through imprudent optimism on the native's own part. There is a danger of loss through the bankruptcy of others. What other more serious afflictions it may combine to indicate danger of fraud, libel, slander, and similar Mercurial attacks on one's money and reputation.
+
+It tends to injure the health through the liver, and there is often a direct poisoning of the nervous system in consequence.
+
+The artistic and literary proclivities of the good aspects are equally present with the bad, and sometimes there is more activity and ambition with the latter. The religious or philosophic motif is often present, and such a poem as Tennyson's In Memoriam may, as regards its general tenor, be considered a good exemplification of this aspect.
+
+There is often a distinct tendency to neglect worldly matters for art, religion, literature or some cognate occupation.
+
+#### Examples
+
+- Harmonious: Oscar Wilde, Swinburne, Nicholas II, "A Spendthrift" (Notable Nativities, 894), Washington, Lord French, Baden Powell, S.T. Coleridge.
+- The Conjunction: William Blake, Joseph Wallace (food reformer), Dr. John Dee.
+
 ## Comparative Schema
 
-- core meaning: Cheerful mood. Liking to speak. Fluent speech. Talent for speech. Talkativeness. Joyful thinking or speech. Positive dialogues, thoughts or news. The legal mind. Financial reports. Legal correspondence. Thoughts or news about money.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+- core meaning: source-native Witte, Falis, and Carter statements are preserved side by side above on the same canonical axis page.
+- psychology: Witte remains compressed and aphoristic, Falis remains experiential, and Carter adds explicit aspect-family distinctions when the source supplies them.
+- body/health: Carter sometimes states health and bodily outcomes directly by aspect family; the other sources remain less sectioned here.
+- social/relationship: each source keeps interpersonal implications inside its own source block instead of being silently merged.
+- events/manifestations: Carter remains axis-level aspect doctrine only; activation pages stay orientation-specific and unchanged.
+- conflicts/notes: this page intentionally mixes midpoint-axis doctrine and Carter's planetary-aspect doctrine because Carter was approved for collapse into the canonical axis page.
 
 ## Related Activations
 
@@ -108,7 +175,8 @@ Cheerful mood. Liking to speak. Fluent speech. Talent for speech. Talkativeness.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices and aspect-family emphases rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -119,3 +187,5 @@ Cheerful mood. Liking to speak. Fluent speech. Talent for speech. Talkativeness.
 - [Mercury](../factors/mercury.md)
 - [Jupiter](../factors/jupiter.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
+- [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)

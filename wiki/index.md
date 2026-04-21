@@ -6907,7 +6907,11 @@
 
 ## Sources
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Charles Carter - The Astrological Aspects](sources/charles-carter-the-astrological-aspects.md)
+- [Michelle Falis - Planet Combinations: Astrological Brainstorms](sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 
 ## Derived Pages
-- None
+- [Corpus Coverage: Witte vs Ebertin](derived/corpus-coverage-witte-vs-ebertin.md)
+- [Orientation Matters: Sun Moon Venus](derived/orientation-matters-sun-moon-venus.md)
+- [Shared Factors: Witte vs Ebertin](derived/shared-factors-witte-vs-ebertin.md)

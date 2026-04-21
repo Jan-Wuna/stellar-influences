@@ -3,7 +3,7 @@ title: Moon/Mercury
 page_type: axis
 slug: moon-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Mercury
@@ -56,6 +56,8 @@ aliases:
   - Mercury/Moon
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - michelle-falis-planet-combinations-astrological-brainstorms
+  - charles-carter-the-astrological-aspects
 updated_at: 2026-04-21
 ---
 
@@ -63,25 +65,89 @@ updated_at: 2026-04-21
 
 - Axis: `Moon/Mercury`
 - Astronomicon axis: `R/T`
-- Source heading: `Moon + Mercury`
-- Source page: `122`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Moon + Mercury`
+- Source page: `122`
+
 #### Pair Summary
 
 Motion of the brain. Thinking capacity. The memory. The imaginative power. Superficial thinking. The young generation. Young girl. Young woman. Several hours. Office hours. Vehicles. Shifted hour. Lively and changeable train of thoughts. The general opinion in relation to the hour and female persons.
 
+### Michelle Falis - Planet Combinations: Astrological Brainstorms
+
+- Source heading: `Moon/Mercury`
+- Source page: `20`
+
+#### Falis Entry
+
+Thinking with your heart. Logical emotions. Emotional conversations. Com partmentalizing feelings. A retentive memory. Conversations with women. Sensi tive communication. Emotional communication. Having reasons for feelings. Heartfelt letters. Putting feelings in words. Instinct to communicate. Chatterbox. Gossip. Leaving Post-it notes with sweet nothings written on them. Quick emo tions. Feeling the need to be on the move. Feeling with the mind. Irrational mind. Thoughts based on feelings. Being compelled to speak by unconscious forces. Being unable to speak if feeling threatened. Changing thoughts. Changing your mind a lot. Speaking habits. Being able to tell what people are thinking or feeling by the way they move. Communicating your feelings through movement. Needing to find an appropriate communication channel for your emotions. Writing to get feelings off your chest. Getting feelings out on paper. Keeping a diary. Writing with feeling. Speaking with emotion. Heartfelt words. Emotionally charged language. Inability to separate feeling from thought. Stuck in thought patterns. Rationalizing your emo tions. Habitual talking without reason. Needing to keep everyone updated on how you're feeling. Emoticons. Quick defenses. Quick reactions. Quick emotions. Fleet ing emotions. Fleeting moods. Fleeting thoughts. Talking as a security blanket. Talking about comfortable topics. Everyday chit chat and how you feel about it. Feeling secure with your communication skills - or not. Finding security in logic. Making connections between feelings. Making connec tions with women. A communicative mother - or not. Superficial feelings. Needing mental stimulation to feel happy. Needing books, papers, journals and diaries to feel happy. Needing to communicate feelings. Needing to feel safe enough to communicate feelings. Scattered emotions. Scattered thoughts. Quick-change point of view. Emotional learning. Learning by feeling. Nurturing through educa tion. Nourishing your intellect. Feeding your brain. Feeling nourished by reading. Feeling nourished by writing. Feeling nourished through relationships with sib lings. Sharing feelings with siblings. Feeling safe to communicate with siblings. Clever habits. Sly inclinations. Deceptive communication. Mentally receptive. Com municating to people's feelings rather than to their minds. Feeling someone's thoughts. Loving wit and cleverness. Emotional skills - whether you have them or not. Loving to make mental connections. Your emotional intelligence quotient. Your emotions impact your ability to communicate - for better or worse. Copying other people's emotional states. Naming feelings. Naming behaviors. Putting names to the past. Talking about the past. Talking about your mother. Early school experiences and the feelings they bring up. Emotional ties to siblings. Your mother's relationship to your siblings. Restlessness. Changing body positions frequently. Fidgety. Quick metabolism. Changeable appetite. Eating habits that change with your mood. Eating on the go. Eat and run. Fast food. Eating little bits of food. Not wanting to be tied down emo tionally. Needing space to breathe emotionally. Curious about emotions, moods and feelings. A way of sensing information. Unconsciously picking up on infor mation- facts and data. Feeling emotionally tied to certain names. Having an emo tional response upon hearing certain words. Words that evoke feelings. The need for information. The need to learn. Associating words with feelings. Synaethesia.
+
+### Charles Carter - The Astrological Aspects
+
+- Source heading: `ASPECTS OF THE MOON & MERCURY`
+- Source page: `20`
+
+#### Harmonious Aspects
+
+These configurations indicate a happy relationship between brain and common-sense, two things by no mean always found in unison. There is usually a shrewd, careful, understanding mind, with a good deal of sense and a kindly disposition, the benevolence of the Moon tempering the Mercurial matter-of-fact tendencies.
+
+Often there is nothing strikingly brilliant in the mentality, but it is sound, logical and judicious. Usually it is honest and straightdealing.
+
+The contacts are excellent for all mental matters and for affairs of the 3rd house, such as writing, lecturing and all ways and means of communicating ideas, news and information.
+
+Furthermore, the 4th house benefits through the lunar influence; the mind is fitted to deal with all domestic things; with land, house-property, furniture and so forth. It is good for an architect, builder, brick-maker, carpenter, plumber or dealer in furnishings of any sort.
+
+In monarchs, officials and governors it seems to make for popularity and a good Press.
+
+The speech and literary style are usually plain, direct and matter-of-fact.
+
+Through the 6th house the configuration benefits health, gives healthful habits, prudence in care of the body and sound nerves.
+
+To a man the marriage is usually beneficial, unless other factors, such as the 7th house, contradict this. The wife is often clever, entertaining, astute and helpful in business matters.
+
+#### The Conjunction
+
+This is often the indication of an unusually active, penetrating understanding; a powerful brain and a fertile imagination.
+
+It occurs in the maps of persons of high intelligence, and its only disadvantage is its sensitiveness. Sometimes there is a certain whimsicality and eccentricity in those born with it.
+
+It inclines to make the native careful about, and interested in, matters of hygiene, the effect upon the health and nervous system being apparently beneficial.
+
+#### Inharmonious Aspects
+
+This contact seems as a rule to signify a more acute intellect than the Harmonious aspects; but the mind is less stable and wellordered. There is very often a combative tendency and a sharp tongue - Raphael speaks of "backbiting, lying and slandering," which is probably rather excessive. But there is a noticeable proclivity for gossip, and sometimes expressions are used in the wrong manner or at the wrong time, giving rise to misunderstandings and offence. It is a very independent influence, and occurs often in the maps of reformers, especially of those who attack the habits of the people: it is prone to be sensitive and even withdrawn. Sometimes the native may live before the public, but reside figuratively speaking on a pedestal, or, on the other hand, he may seek physical seclusion.
+
+It does not incline to popularity, or the popularity may be fitful; it is bad for all 3rd house matters, such as publications; and it induces criticism, especially in the press. On the other hand, the native may have many perfervid followers but he may be equally disliked by other sections: it brings one into the arena and storms are apt to gather round the native's head. Usually the abilities are sufficient to enable him to hold his own.
+
+In men's maps it tends to slanderous attacks or criticisms in regard to women: for example, the imprisonment of W.T. Stead in consequence of the "Maiden Tribute" affair. (Venus also Square Neptune.) In neither sex is it good for marriage, although it is in itself a general rather than a specific influence; and it should not be regarded as likely to cause any definite condition unless aspects of a more decisive character intervene. I have known cases in which men have been persistently attacked on the score of their morals when this aspect has been combined with some such indication as Venus in affliction with Neptune.
+
+These contacts seem to make the people born with them very sympathetic, and often actively so; there are many examples where they have been the champions of the weak, as a reference to the examples will demonstrate. They are in fact very sensitive to any attacks upon their protégés or friends. It is one of the loyalest of aspects, and will always fly to arms on behalf of those it likes, demanding that strangers should treat its allies much more considerately than it is often prepared to do itself. It is often a genuine patriot and gets much misunderstood for its pain (Lord Roberts); on the other hand, it may champion its country's enemies, and get abused yet more (W.T. Stead - "Shall I slay my brother Boer?"
+
+In many respects this conformation seems to me to resemble what is commonly ascribed to Uranus. It may easily become violent like that planet; sometimes it is rather inclined to jeremiads.
+
+It is usually highly-strung, restless and excitable. The nervous system may not be strong, and it may incline (through Mercury's rulership of Virgo) to make the native interested in health, even to the extent of worrying unduly on that account. Probably the body is specially affected by the mind in those born with these positions.
+
+The influence of the Moon on Mercury may lead to the mind being stamped with family prejudices and limited points of view.
+
+#### Examples
+
+- Harmonious: Kant, Alan Leo, Edward III, Edward VII, William of Orange.
+- The Conjunction: Baden-Powell, Blackbourne (chess champion), Professor R.A. Milliken, Horatio Bottomley.
+- Inharmonious: Shelley, William Blake, Mrs. Eddy, Mrs. Besant, Ruskin, Oscar Wilde, Gladstone, Hindenburg, Don Carlos of Portugal, Sarah Bernhardt.
+
 ## Comparative Schema
 
-- core meaning: Motion of the brain. Thinking capacity. The memory. The imaginative power. Superficial thinking. The young generation. Young girl. Young woman. Several hours. Office hours. Vehicles. Shifted hour. Lively and changeable train of thoughts. The general opinion in relation to the hour and female persons.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+- core meaning: source-native Witte, Falis, and Carter statements are preserved side by side above on the same canonical axis page.
+- psychology: Witte remains compressed and aphoristic, Falis remains experiential, and Carter adds explicit aspect-family distinctions when the source supplies them.
+- body/health: Carter sometimes states health and bodily outcomes directly by aspect family; the other sources remain less sectioned here.
+- social/relationship: each source keeps interpersonal implications inside its own source block instead of being silently merged.
+- events/manifestations: Carter remains axis-level aspect doctrine only; activation pages stay orientation-specific and unchanged.
+- conflicts/notes: this page intentionally mixes midpoint-axis doctrine and Carter's planetary-aspect doctrine because Carter was approved for collapse into the canonical axis page.
 
 ## Related Activations
 
@@ -108,7 +174,8 @@ Motion of the brain. Thinking capacity. The memory. The imaginative power. Super
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices and aspect-family emphases rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -119,3 +186,5 @@ Motion of the brain. Thinking capacity. The memory. The imaginative power. Super
 - [Moon](../factors/moon.md)
 - [Mercury](../factors/mercury.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
+- [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)

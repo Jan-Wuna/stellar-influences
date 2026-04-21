@@ -3,7 +3,7 @@ title: Sun/Mars
 page_type: axis
 slug: sun-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Mars
@@ -56,6 +56,8 @@ aliases:
   - Mars/Sun
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - michelle-falis-planet-combinations-astrological-brainstorms
+  - charles-carter-the-astrological-aspects
 updated_at: 2026-04-21
 ---
 
@@ -63,25 +65,89 @@ updated_at: 2026-04-21
 
 - Axis: `Sun/Mars`
 - Astronomicon axis: `S/U`
-- Source heading: `Sun + Mars`
-- Source page: `105`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Sun + Mars`
+- Source page: `105`
+
 #### Pair Summary
 
 The man. The husband. The active man. The soldier. The action of the living body. Work with physical strength. The working day. Men at work. Daily action. Handyman. Energy level of the body. (In the solar cycle: period concerning to work.)
 
+### Michelle Falis - Planet Combinations: Astrological Brainstorms
+
+- Source heading: `Sun/Mars`
+- Source page: `8`
+
+#### Falis Entry
+
+Self-assertive. Self-directed. Vital force. Primal force. An action-oriented person. Doers. Physical vitality. Sexual vitality. Acting in your own self-interest. Self centered action. The ability to challenge yourself Self-propelled. Self-motivated. Initiators. Creative action. Challenging yourself to reach your creative potential. Challenging yourself to be all that you can be. Beating yourself up when you lose. Competitive people. People who know how to assert themselves to get what they want. People who know what they want. Directors. People who tell other people what to do. Leaders. Managers. Coaches. Trainers. Rough, gruff, abrasive people. Antagonists. People who are spurred to achieve more when they are challenged or when they have worthy competitors. People who want to be where the action is. People who won't back down from a fight. Heads of companies. Entrepreneurs. People who challenge themselves to be the best at what they do. Fighting against, or simply rejecting, other people's efforts to get you to do what they want you to do. People, who refuse to do what they are told, yet have no problem telling other people what to do. The desire to be your own boss. Inability to listen to authority or be put in an inferior position. Asserting your rights. What's my next objective? What will I conquer next? What else can I be the best at? Who else can I beat? The need to take your shot when the time is right. The need to prove who you are in the moment. Going for it, with no hesitation, proving who you are. Not letting opportu nities to assert who you are - your individuality - pass you by. Being brave enough to show who you are. Being brave enough to prove yourself. Possibility for violence. Experiencing violence at the hands of men. Experiencing men as base and primal, lacking in refinement. Having a natural affinity for typi cally "masculine" pursuits. Identifying with men. Identifying with typically "mascu line" interests. Tomboys. Self-made men and women. Fighting against authority. Fighting against you. Inner tension caused by fighting against your own best inter ests. Depression when there are no worthy opponents and nothing worth fighting for. Depression through not reaching your potential. Depression through not tak ing opportunities. "I could have been a contender. I could have been somebody." Depression through boredom. Needing goals and challenges to reach your full potential. Needing goals and challenges to feel vital and alive. Seizing the moment. Setting the bar higher and higher. Having a direction. Having aim. Directing your energy toward something. Having things to do. Physical activity as a way to get in touch with your core self Needing outlets for aggression and hostile tendencies. Needing activities to funnel your competitive spirit into. Identifying with cham pions, fighters, heroes and heroines, and people who generally kick ass.
+
+### Charles Carter - The Astrological Aspects
+
+- Source heading: `ASPECTS OF THE SUN AND MARS`
+- Source page: `10`
+
+#### Pair Overview
+
+Since the planet Mars has an orbit that lies beyond that of the Earth, it follows that, unlike Mercury and Venus, it can form all possible aspects with the Sun.
+
+The aspects formed by planets with the Sun are not as a rule susceptible of such detailed treatment as those formed between two planets, despite their great importance. This is due to the fact that the astrological value of the Sun is of a simple or primal character, whereas the planets possess values of varying complexity, so that their mutual aspects produce a more intricate blend than can arise from contacts between the Sun and any one planet.
+
+In the case of the Sun-Mars aspects the problem is the more simple because Mars itself is not at all dissimilar to the Sun, although it is more aggressive, less affectional, and more directly practical.
+
+#### Harmonious Aspects
+
+These indicate great energy, and, subject to the remainder of the map, much actual daring and adventurousness. Nevertheless, this energy is frequently expressed in intellectual fields and is by no means always concerned with adventures in the usual sense of this word.
+
+There is usually strength and hardihood of body, though the physique is often spare and wiry rather than heavy and powerful. There is quick decision, alertness and ability in all matters appertaining to objective problems. Nothing is too much trouble; the native likes to exercise his powers both physical and mental, and he is never happy unless doing something. He is far happier when busy performing or discussing his own doings than when forced to listen to others. If airy or mutable signs rise the energy is often intellectual; with watery signs ascending the force of character is seen in the personality, which is of the kind often called magnetic. Regard must also naturally be paid to the signs containing the aspecting bodies themselves, but in any case there will probably be a decisive type of character, knowing well what it thinks, wishes and intends.
+
+The profounder Scorpio side of Mars often causes the native to be a seeker after "hidden" things, a deep thinker, and an incisive, close-knit writer, such as R.W. Emerson. It likes epigram and apothegm. The same influence makes the native secretive, having a distinct inner side that is rarely exhibited; it is also productive of personal dignity and self-control. Likewise patient endurance of physical pain comes under this configuration, such as was exempliefied by the late Earl Curzon. It may be emphatically said that the aspects of the Sun and Mars are by no means the purely pugnacious and brawn-producing influences that they are sometimes supposed
+
+to be: in their highest manifestation they signify the true hero, or man who fights, as it were, in the front ranks of mankind for the welfare of the race, a modern Hercules, in the ideal sense of the myth.
+
+Note that even the Harmonious contacts usually bring some of the effects more often ascribed to the Inharmonious, especially if either body is weak by sign or by other aspects. But these are likely to fall short of actual harm and may be rather of the nature of narrow escapes. For example, Lord Roberts was in the utmost danger when he won his Victoria Cross.
+
+#### The Conjunction
+
+I do not think that this can be differentiated from the Trine and Sextile, except that it usually denotes some danger of physical injury or disease - usually the former. It is tremendously hard-working, and may toil on the verge of break-down year after year. On the whole it is beneficial, unless the Conjunction itself receives other important bad aspects; but it will bring some of the deleterious effects of the bad aspects into the life.
+
+#### Inharmonious Aspects
+
+These are likely to be most obvious in physical rather than psychological form, though there is sure to be great excitability, a tendency to run risks and to overwork, a love of hazard, and a headlong precipitate disposition, combative, self-opinionated, often generous-hearted and well-meaning, but without calm, poise, or impartial judgment.
+
+In some cases the native espouses causes and has a conviction that he ought to lead crusades and seek the reformation of everyone and everything (except perhaps himself); in other cases the quarrel is more personal and is with individuals. One meets types who seem incapable of agreeing to any statement: there is always a desire to contradict or at least to modify. It is said that it takes two to make a quarrel, but people with this configuration sometimes seem as if, failing any other antagonist, they would almost set one hand against the other. But, as with good contacts, this predisposition is often expressed in mental form rather than physical, especially if the body is too frail to encourage the latter. It is an influence which seems to force the native to fight something, and even if he is a convinced pacifist he will be a militant one. In religion there is a love of military forms, and the conception of being a "soldier" of God is a favourite one.
+
+Politics, military exploits, boating, sporting, and debating are all common pursuits.
+
+These afflictions (especially the Square) are common in criminal maps and probably lead to evil courses by their imprudent, hasty tendency and their lack of restraining imagination; I do not consider the contacts in themselves actually immoral or even cruel, but they do not promote the cultivation of the finer feelings, because of their restlessness and objectivism.
+
+There is less probability of disease, I think, than of accidents and strain through over-work. I know a man with Sun Square Mars who has never missed a day's work in his life, though he has had several serious strains and is not strong. Nevertheless there seems good evidence that a close Opposition of the Sun to Mars is decidedly injurious to health. The heart may be affected, but not necessarily gravely. Such complaints as may arise are usually acute, painful, but not prolonged.
+
+The children of the native seem as a rule to be few and they are likely to be of a Martian type in some respect (*) and to be liable to febrile complaints and accidents. This is particularly true of the first male child. With all Soli-Martian aspects there is a tendency for the father, husband, and eldest child to exhibit Martian qualities to a greater of less degree.
+
+(*)Although these family influences are not easily reduced to rule they are marked in many cases and are very interesting. From the point of view of the nativity the family is merely one of the channels through which the effects of the planetary influences make their way to the native. It is hardly a question of heredity except in the sense that our map is our heritage. The use of the word may lead to serious misconceptions, as is usually the case when we apply the terms of physical science to astrological facts. A boy with the Sun in aspect to Mars is just as likely to meet the effects of this aspect in a master as in a parent or elder brother. Astrological heredity, if there be such a thing, is something much wider than any eugenist conceives. It overlaps physical bounds.
+
+As an example of the above statement take King Georg V. with Sun in aspect to Mars. His father had Sun in Scorpio and his eldest son has Mars rising in its own sign.
+
+#### Examples
+
+- Harmonious: Richard Wagner, Sarah Bernhardt, Lord Roberts, Lord Curzon, Edward VII, Mussolini, Richard Garnett, R. W. Emerson, Goethe, Albert Einstein, Abraham Lincoln, Richard E. Byrd.
+- The Conjunction: President Harding, R.L. Stevenson, Zola, Gambetta, Frederick the Great, Thomas Hardy, Henry Irving, Huxley, Anna Kingsford, Lenin
+- Inharmonious: W.J. Bryan, Duke of Windsor, Ramsay MacDonald, Swami Vivekananda, Savonarola
+
 ## Comparative Schema
 
-- core meaning: The man. The husband. The active man. The soldier. The action of the living body. Work with physical strength. The working day. Men at work. Daily action. Handyman. Energy level of the body. (In the solar cycle: period concerning to work.)
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+- core meaning: source-native Witte, Falis, and Carter statements are preserved side by side above on the same canonical axis page.
+- psychology: Witte remains compressed and aphoristic, Falis remains experiential, and Carter adds explicit aspect-family distinctions when the source supplies them.
+- body/health: Carter sometimes states health and bodily outcomes directly by aspect family; the other sources remain less sectioned here.
+- social/relationship: each source keeps interpersonal implications inside its own source block instead of being silently merged.
+- events/manifestations: Carter remains axis-level aspect doctrine only; activation pages stay orientation-specific and unchanged.
+- conflicts/notes: this page intentionally mixes midpoint-axis doctrine and Carter's planetary-aspect doctrine because Carter was approved for collapse into the canonical axis page.
 
 ## Related Activations
 
@@ -108,7 +174,8 @@ The man. The husband. The active man. The soldier. The action of the living body
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices and aspect-family emphases rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -119,3 +186,5 @@ The man. The husband. The active man. The soldier. The action of the living body
 - [Sun](../factors/sun.md)
 - [Mars](../factors/mars.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
+- [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)

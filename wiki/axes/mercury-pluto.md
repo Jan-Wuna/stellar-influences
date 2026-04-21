@@ -3,7 +3,7 @@ title: Mercury/Pluto
 page_type: axis
 slug: mercury-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Pluto
@@ -56,6 +56,7 @@ aliases:
   - Pluto/Mercury
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - michelle-falis-planet-combinations-astrological-brainstorms
 updated_at: 2026-04-21
 ---
 
@@ -63,25 +64,36 @@ updated_at: 2026-04-21
 
 - Axis: `Mercury/Pluto`
 - Astronomicon axis: `T/Z`
-- Source heading: `Mercury + Pluto`
-- Source page: `165`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Mercury + Pluto`
+- Source page: `165`
+
 #### Pair Summary
 
 The function of the nerves. External and internal motion. The development of the thinking. From thinking to understanding. To develop or transform a thought. Thinking and perception is one thing. The development or change of the opinion, of the outlook on life, or of the understanding.
 
+### Michelle Falis - Planet Combinations: Astrological Brainstorms
+
+- Source heading: `Mercury/Pluto`
+- Source page: `42`
+
+#### Falis Entry
+
+Mystery writers. Sleuths. Whodunnit? Crime writers. Tunnel vision. Fixation. Get ting stuck on a particular idea or concept. Obsessive thoughts. Secretive. Probing. Investigators. Researchers. Detectives. Paranoid. Deeply suspicious mind. Con spiracy theorists. Attempting to uncover plots where none may exist. Psychopath. Deranged. Powerful words and language - for better or worse. The power of per suasion. Withholding information to gain power. Using information to gain power over others. Keeping silent. Concealing your thoughts. The need for privacy in communication. Secret languages. Coded languages. Occult knowledge. The ferret. Healing words. Catharsis through language. Getting to the bottom of things. Speaking in absolutes. The dirty mind. Smutty. Sex on the brain. Thinking the worst of people. Trying to uncover everyone's deep dark secrets. Mentally turning some thing innocent into something else entirely. Deft. Subtle. Penetrating. Relentless. Passionate communication. Overwhelming people with words. Controlling people with words. Abusive language. Mind control. Thought control. Mind manipulation. Uncovering layers of thought. Plunging deeper and deeper into an idea or concept. Inability to gain distance from your own ideas. Lack of objectivity. Pushing your ideas on other people. Inability to consider another viewpoint. Impressing your opinions on others through sheer passion and conviction, not logic. Deeply healing conversations. The ability to cut to the core of an issue. Psychother apists. Cutting through the crap. A willingness to broach taboo subjects. A will ingness to bring unpopular topics out for discussion. A willingness to take a look at the problems that society would rather sweep under the rug. The need to purge dark thoughts through writing or conversation. Writing about the underworld. Looking to get to the root of problems. Looking to solve a mystery from the bottom up. Needing a mystery to unravel. Finding ways to rebirth the mind. Take an idea and transforming it - for better or worse. The ability to fully, fundamentally, and to tally, change your mind.
+
 ## Comparative Schema
 
-- core meaning: The function of the nerves. External and internal motion. The development of the thinking. From thinking to understanding. To develop or transform a thought. Thinking and perception is one thing. The development or change of the opinion, of the outlook on life, or of the understanding.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+- core meaning: source-native Witte and Falis axis statements are preserved side by side above.
+- psychology: Falis leans more heavily into experiential and psychological phrasing, while Witte stays compressed and aphoristic.
+- body/health: no dedicated body or health subsection is isolated by either source on this axis page.
+- social/relationship: both sources keep interpersonal implications inside the axis entry itself when relevant.
+- events/manifestations: see the source entries above and the orientation-specific activation pages linked below; Falis remains axis-only here.
+- conflicts/notes: this page preserves distinct source voices side by side instead of flattening them into one wording.
 
 ## Related Activations
 
@@ -108,7 +120,8 @@ The function of the nerves. External and internal motion. The development of the
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet between Witte and Falis on this axis.
+- Differences are currently treated as emphasis and vocabulary, not as silently merged doctrine.
 
 ## Derived Synthesis
 
@@ -119,3 +132,4 @@ The function of the nerves. External and internal motion. The development of the
 - [Mercury](../factors/mercury.md)
 - [Pluto](../factors/pluto.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)

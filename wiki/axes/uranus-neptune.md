@@ -3,7 +3,7 @@ title: Uranus/Neptune
 page_type: axis
 slug: uranus-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Neptune
@@ -56,6 +56,8 @@ aliases:
   - Neptune/Uranus
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - michelle-falis-planet-combinations-astrological-brainstorms
+  - charles-carter-the-astrological-aspects
 updated_at: 2026-04-21
 ---
 
@@ -63,25 +65,79 @@ updated_at: 2026-04-21
 
 - Axis: `Uranus/Neptune`
 - Astronomicon axis: `X/Y`
-- Source heading: `Uranus + Neptune`
-- Source page: `234`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Uranus + Neptune`
+- Source page: `234`
+
 #### Pair Summary
 
 Suddenly incapacitated. Unconsciousness. Checkmated. The transition into the beyond. Crisis. Dead persons. Revolution. Sudden disagreeable events. To cause sudden confusion and deception of a revolutionary kind. To give up something. To bring an end to something. Futile excitement. Sudden uncertainty.
 
+### Michelle Falis - Planet Combinations: Astrological Brainstorms
+
+- Source heading: `Uranus/Neptune`
+- Source page: `77`
+
+#### Falis Entry
+
+Extremely unusual spiritual interests. Embracing all the cutting edge technologies to understand the spiritual realm. Fringe spiritual groups. Wanting to get lost in the group experience. Getting lost in fringe interest - the paranormal, psychic and mys tical. Experimental mysticism. Experimental drug use. LSD. Extremely open to high er dimensions and realms. Radical sensitivity. Radical drug use. Extremely delu sional. Mystical rebels. Technicians of the sacred. Open to the mysteries of the universe. Open to unusual and far out subjects. Fans of Coast to Coast AM radio. Spiritual radicals. Spiritual non-conformists. Compas sion for those in need. Compassion for people on the fringe of society. Rebellions on behalf of the downtrodden. Rebellions for the weak. Resistance to merging and assimilation. Rebelling against assimilation. Widespread idealism. Taking up caus es on behalf of the weak. Taking up causes in the name of artistic ideals. Taking up causes in the name of spiritual ideals. Idealistic notions about progress. Progress in compassion and caring. Progress in spiritual development. Progress in cinema and the fine arts. Spirituality merges with technology. Technology suddenly becomes a way to get in touch with your spirituality. Spiritual astrology. Technology merges with high art. Advanced methods of creating higher art. Technology becomes a high art form and no longer a means to an end. The oppression of the spiritual life is overturned. The oppression of the soul is overturned. Idealistic revolutions. Unpredictable meth ods of escape. Erratic interest in spirituality. Unconventional paranormal interests. ESP. Psi. Direct experience of the unknown. Surging interest in Indigo children. Strange notions about spirituality. Strange notions about paranormal and psychic activities. Spiritual revolutions. Delusional notions about spirituality and progress. We're all glamoured by technology. Kooky ideas about higher consciousness. Chal lenging spiritual authorities. Direct understanding that has nothing to do with logic or reality. The unimpeded spread of technology and the internet. The diffusion of technology. Technology becomes insidious. The lines of where technology begins and ends blurs. The unimpeded spread of deviant behavior. Questioning assumptions about spirituality. Questioning assumptions about what is real. Having a fantasy life on the internet. Technological dreams and fantasies. Role-playing games that use technology. Hiding behind your computer. Rebelling through the use of drugs and alcohol. Psychic sensitivity + genius. I magi nation + progress. Sensitivity + inven tion. Refinement+ individuality. Freaking out+ lack of normal concepts of reality. Eccentric and impractical. Upsetting dreams states. Extreme sensitivity to drugs and alcohol. Irritability, contrariness and rebellious tendencies aggravated by drugs and alcohol. Finding your individuality through spiritual practice. Inability to stick to just one spiritual practice. Skipping from one spiritual high to another. Skipping from one psychic experience to another. Inability to hunker down and develop any particular spiritual discipline. Feeling free from the need to conform to any partic ular spiritual path. Spiritual free agents. Cult followers. Modern music, dance, poetry and art. Art forms that take a distinct departure from the past. Technology becomes a part of high culture. Special effects. Movies based on special effects. Movies based around technology. Addicted to unpredictability. Addicted to rebelling. Addicted to asserting your individuality. A really far-out sense of humor. Presenting material in a completely unpredictable out-there way. Crazy spaced-out people. Drugged-out weirdoes. Cranks. Nut jobs. CrackRots. Super sensitive touchy artists. Wackadoo. Uranus and Neptune form a conjunction every 171 years. Recent conjunctions were in 1821 and 1993. The next conjunction will be in 2164.
+
+### Charles Carter - The Astrological Aspects
+
+- Source heading: `ASPECTS OF URANUS & NEPTUNE`
+- Source page: `69`
+
+#### Harmonious Aspects
+
+Since contacts between these two bodies extend over considerable periods and therefore are to be found in the horoscopes of very large numbers of people, it has been usual rather to discount their importance in individual maps and to ascribe to them an influence over national and world-wide conditions, which only affect individuals powerfully when they are either very close, when they are aspected by other bodies or when they occupy important house-positions.
+
+A most important Conjunction took place in the early part of the nineteenth century, falling at the end of Sagittary and the beginning of Capricorn: this occurs in the natus of Queen Victoria and in many of the maps of the "giants" of the Victorian Age. It may well be related to the enormous advance in physical science (Capricorn) and the revolution that took place in our religious ideas. Evolution may be placed under Sagittary, the sign of progressive unfoldment. About 1870 there was a protracted Square, between Aries and Cancer. The Trine Taurus-Virgo followed about 1881, after which there was the Opposition about 1910, Cancer-Capricorn, this being a disturbing feature in the maps of the present day.
+
+An examination of maps seems to indicate that these aspects do affect individuals, and I cannot say that it seems necessary to restrict the orbs of aspect very much in judging them. But the effects are naturally most noticeable when the planets occupy prominent house-positions and receive other aspects.
+
+They bestow a strong touch of mysticism and a love of the esoteric and arcane. There is a good deal of emotional force, and there may be considerable enthusiasm for some cause or cult. The modern cases in which good aspects fall are either the Trine from Taurus to Virgo, or the Sextile from Pisces to Taurus, of which the former seems to be steady, practical, clear-headed and investigatory, with a strong bent for art and music; while the latter is also either religious, artistic or more or less devoted to occult research or practice. The love of art and music is very marked. Even in practical pursuits there is generally a sort of vision or inspiration towards ideals. This we see in the enterprises of the late Lord Leverhulme.
+
+It is on the whole a kindly, beneficent influence. Napoleon I is an exception - but in this case Mars is Conj. Neptune. In another case the aspect seems only to have produced a rather arid turn for metaphysical discussion, but here Saturn is with Neptune.
+
+#### The Conjunction
+
+This potent influence occurs again and again in the maps of the great. It stands midway between the Harmonious and Inharmonious contacts, and produces the great savant or prophet, such as Pasteur and Ruskin and people of remarkable but more doubtful repute such as Nell Gwyn, Caesar Borgia and "A Drunkard" (Notable Nativities). Dr. A.R. Wallace exemplifies the spiritualist tendencies of the aspect, but it does not occur in theosophical maps, the 1820 contact having been too early in point of time. Mrs. Eddy had it, as well as Jupiter Conj. Saturn.
+
+It seems on the whole to be self-willed, but frequently extremely able, and rarely to be lightly disregarded. It is a pity that little information is available as to how it worked out in ordinary maps. Naturally at the time (since Neptune had not been discovered) this was not recorded, and now, when our knowledge is greater and our interest keener, the nativities of "ordinary people" born around
+
+1820 have mostly disappeared. One would expect eccentricity, self-will, but on the whole good intentions and kindness, Neptune softening Uranus, as it softens Mars.
+
+#### Inharmonious Aspects
+
+In these cases the intensity of emotion is very marked, the native being as a rule highly-strung, intense, sensitive and easily upset. Self-will is marked, and the native will not readily be thwarted or persuaded. The emotional force may be discharged in some such form as art, music, dancing, rhetoric, religious or pseudo-religious devotion, some form of service, or, in bad maps, in drink, sex or neurotic collapse. It does not lack courage and may cause the native to seek excitement in risks ("Polar Explorer" and "Bullfighter" in Notable Nativities).
+
+Usually motives and ideals are high, and the native means well, but is apt to go to extremes, to lack all sense of humour (in regard to his or her own interests and pursuits), and to be unable to co-operate or compromise. It may indeed be termed an aspect of fanaticism, but in many cases its actions is chiefly external, giving taut nerves, an "edgy" temper and various forms of disease, usually of neural character.
+
+It is often present in the maps of very conscientious people, who are hard on themselves and on others, exhibiting rigidity of outlook. It does not favour calm, moderation, reflectiveness and detachment, for the emotions are set at variance with the will.
+
+Like all Neptunian afflictions it sometimes causes unpleasant or deceptive "astral" experiences, and it constitutes a warning against the cultivation of pursuits of this nature. A well-known example of this error is the case of Dr. John Hee, astrologer to Queen Elizabeth and an alchemist. He was a man of true piety and learning, but his whole career was ruined by his reliance on the guidance, or misguidance, of supposed angelic monitors. He had Neptune in the 3rd in the Fishes, Square to Uranus in the 7th.
+
+Much of the unhappiness, "never been young" attitude of modern youth, their confusion of outlook, and lack of standards may be attributed without risk of error to the Opposition of these planets that prevailed some twenty years ago.
+
+#### Examples
+
+- Harmonious: Cecil Rhodes, Mussolini, Savonarola, G.B. Shaw, Maupassant, Coue, Napoleion I, Lord Leverhulme.
+- The Conjunction: General Grant, Pasteur, Queen Victoria, Mrs. Eddy, Sir Richard Burton, Ruskin, W.H. Chaney (American astrologer), President Kruger, A.R. Wallace, Caesar Borgia, F.B. Cobbe (anti-vivisectionist).
+- Inharmonious: Nicholas II of Russia, Ghandhi, Ramsay MacDonald, Harry Lauder.
+
 ## Comparative Schema
 
-- core meaning: Suddenly incapacitated. Unconsciousness. Checkmated. The transition into the beyond. Crisis. Dead persons. Revolution. Sudden disagreeable events. To cause sudden confusion and deception of a revolutionary kind. To give up something. To bring an end to something. Futile excitement. Sudden uncertainty.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+- core meaning: source-native Witte, Falis, and Carter statements are preserved side by side above on the same canonical axis page.
+- psychology: Witte remains compressed and aphoristic, Falis remains experiential, and Carter adds explicit aspect-family distinctions when the source supplies them.
+- body/health: Carter sometimes states health and bodily outcomes directly by aspect family; the other sources remain less sectioned here.
+- social/relationship: each source keeps interpersonal implications inside its own source block instead of being silently merged.
+- events/manifestations: Carter remains axis-level aspect doctrine only; activation pages stay orientation-specific and unchanged.
+- conflicts/notes: this page intentionally mixes midpoint-axis doctrine and Carter's planetary-aspect doctrine because Carter was approved for collapse into the canonical axis page.
 
 ## Related Activations
 
@@ -108,7 +164,8 @@ Suddenly incapacitated. Unconsciousness. Checkmated. The transition into the bey
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices and aspect-family emphases rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -119,3 +176,5 @@ Suddenly incapacitated. Unconsciousness. Checkmated. The transition into the bey
 - [Uranus](../factors/uranus.md)
 - [Neptune](../factors/neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
+- [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)

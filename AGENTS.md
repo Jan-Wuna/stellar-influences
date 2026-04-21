@@ -14,8 +14,8 @@ This repo is a markdown-first LLM wiki for astrological combinations derived fro
 ## V1 Scope
 
 - Ingest one source at a time.
-- Ingest only explicit combination formulas stated by a source.
-- Do not ingest standalone factor chapters into factor pages in v1.
+- Ingest explicit combination formulas stated by a source.
+- Ingest standalone factor chapters into factor pages when the source provides them.
 - Do not model natal, transit, direction, progression, or timing layers.
 
 ## Page Types
@@ -39,6 +39,11 @@ This repo is a markdown-first LLM wiki for astrological combinations derived fro
   These are distinct pages and must never be merged interpretively.
 - Triad hubs normalize unordered three-factor sets only.
   - They are structural hubs, not merged doctrine pages.
+- Keep full-name factor identities canonical in filenames, titles, and normalized formulas.
+- Astronomicon tokens are display-only helpers and must never replace canonical page identity.
+  - Moon through Pluto: `R S T Q U V W X Y Z`
+  - Node: `g`
+  - TNPs Cupido through Poseidon: `¡ ¢ £ ¤ ¥ ¦ § ¨`
 
 ## Canonical Structure
 
@@ -79,4 +84,3 @@ This repo is a markdown-first LLM wiki for astrological combinations derived fro
 - `tools/rebuild_index.py` rebuilds `wiki/index.md`.
 - `tools/lint_wiki.py` validates frontmatter and orientation-safe identity rules.
 - Ignore `wiki/_templates/` when treating markdown files as live pages.
-

@@ -1,0 +1,65 @@
+---
+title: Jupiter/Node = Uranus
+page_type: activation
+slug: jupiter-node-equals-uranus
+status: source_ingested
+framework_scope: cosmobiology
+factors:
+  - Jupiter
+  - Node
+  - Uranus
+normalized_formula: Jupiter/Node = Uranus
+axis: Jupiter/Node
+activated_by: Uranus
+triad_set:
+  - Jupiter
+  - Uranus
+  - Node
+aliases: []
+source_pages:
+  - reinhold-ebertin-the-combination-of-stellar-influences
+updated_at: 2026-04-21
+---
+
+## Identity
+
+- Formula: `Jupiter/Node = Uranus`
+- Astronomicon formula: `V/g = X`
+- Axis page: [Jupiter/Node](../axes/jupiter-node.md)
+- Triad hub: [Jupiter Uranus Node](../triads/jupiter-uranus-node.md)
+
+## Source Entries
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Entry: `0837`
+- Source page: `238`
+
+#### Ebertin Entry
+
+A spirited and witty companion. A sudden entering into new contacts or new business partnerships.
+
+## Comparative Schema
+
+- core meaning: A spirited and witty companion. A sudden entering into new contacts or new business partnerships.
+- psychology: source-backed meaning retained in the entry above.
+- body/health: no separate body-specific bucket is isolated automatically at ingest time.
+- social/relationship: source-backed meaning retained in the entry above.
+- events/manifestations: source-backed meaning retained in the entry above.
+- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+
+## Contradictions
+
+- None recorded yet for this source-only page.
+
+## Derived Synthesis
+
+- None yet beyond source structuring.
+
+## Links
+
+- [Jupiter](../factors/jupiter.md)
+- [Node](../factors/node.md)
+- [Uranus](../factors/uranus.md)
+- [Jupiter/Node](../axes/jupiter-node.md)
+- [Jupiter Uranus Node](../triads/jupiter-uranus-node.md)

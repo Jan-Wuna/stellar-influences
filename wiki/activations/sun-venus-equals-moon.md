@@ -2,7 +2,7 @@
 title: Sun/Venus = Moon
 page_type: activation
 slug: sun-venus-equals-moon
-status: pilot
+status: source_ingested
 framework_scope: cosmobiology
 factors:
   - Sun
@@ -24,6 +24,7 @@ updated_at: 2026-04-21
 ## Identity
 
 - Formula: `Sun/Venus = Moon`
+- Astronomicon formula: `S/Q = R`
 - Axis page: [Sun/Venus](../axes/sun-venus.md)
 - Triad hub: [Sun Moon Venus](../triads/sun-moon-venus.md)
 
@@ -32,57 +33,33 @@ updated_at: 2026-04-21
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 - Entry: `0207`
-- Source page: `83`
-- Source-native note:
-  - strong feeling of love
-  - attractive personality
-  - demonstration of love
+- Source page: `84`
+
+#### Ebertin Entry
+
+Strong feeling of love, attractive personality, demonstration of love.
 
 ## Comparative Schema
 
-- Core meaning:
-  - Claim: the `Sun/Venus` axis is brought into expression as a strong feeling of love
-    Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-    Pages: 83
-    Evidence note: paraphrase of entry `0207`
-- Psychology:
-  - Claim: attractive personality and demonstrative affection
-    Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-    Pages: 83
-    Evidence note: paraphrase of personality language in entry `0207`
-- Body/health:
-  - Claim: no separate body-specific manifestation is given in the activation entry itself
-    Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-    Pages: 83
-    Evidence note: body material belongs to the axis page rather than this activation entry
-- Social/relationship:
-  - Claim: this orientation emphasizes demonstrated affection rather than marriage structure as such
-    Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-    Pages: 83
-    Evidence note: inferred from entry emphasis on feeling and demonstration of love
-- Events/manifestations:
-  - Claim: strong felt love becomes visible through personality and conduct
-    Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-    Pages: 83
-    Evidence note: paraphrase of entry `0207`
-- Conflicts/notes:
-  - Claim: this orientation is distinct from `Sun/Moon = Venus` because Moon is the activated factor, not one half of the axis
-    Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-    Pages: 83
-    Evidence note: orientation preserved by wiki identity rules
+- core meaning: Strong feeling of love, attractive personality, demonstration of love.
+- psychology: source-backed meaning retained in the entry above.
+- body/health: no separate body-specific bucket is isolated automatically at ingest time.
+- social/relationship: source-backed meaning retained in the entry above.
+- events/manifestations: source-backed meaning retained in the entry above.
+- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
 
 ## Contradictions
 
-- None in the pilot slice.
+- None recorded yet for this source-only page.
 
 ## Derived Synthesis
 
-- This orientation is narrower and more demonstrative than `Sun/Moon = Venus`: it reads less like relational harmony in general and more like love being felt and shown through the `Sun/Venus` configuration.
+- None yet beyond source structuring.
 
 ## Links
 
 - [Sun](../factors/sun.md)
-- [Moon](../factors/moon.md)
 - [Venus](../factors/venus.md)
-- [Sun/Moon = Venus](sun-moon-equals-venus.md)
-- [Moon/Venus = Sun](moon-venus-equals-sun.md)
+- [Moon](../factors/moon.md)
+- [Sun/Venus](../axes/sun-venus.md)
+- [Sun Moon Venus](../triads/sun-moon-venus.md)

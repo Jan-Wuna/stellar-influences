@@ -2,7 +2,7 @@
 title: Moon/Venus
 page_type: axis
 slug: moon-venus
-status: pilot
+status: source_ingested
 framework_scope: cosmobiology
 factors:
   - Moon
@@ -12,7 +12,27 @@ factor_a: Moon
 factor_b: Venus
 related_activations:
   - Moon/Venus = Sun
+  - Moon/Venus = Mercury
+  - Moon/Venus = Mars
+  - Moon/Venus = Jupiter
+  - Moon/Venus = Saturn
+  - Moon/Venus = Uranus
+  - Moon/Venus = Neptune
+  - Moon/Venus = Pluto
+  - Moon/Venus = Node
+  - Moon/Venus = Asc
+  - Moon/Venus = MC
 related_triad_hubs:
+  - Moon Mercury Venus
+  - Moon Venus Asc
+  - Moon Venus Jupiter
+  - Moon Venus MC
+  - Moon Venus Mars
+  - Moon Venus Neptune
+  - Moon Venus Node
+  - Moon Venus Pluto
+  - Moon Venus Saturn
+  - Moon Venus Uranus
   - Sun Moon Venus
 aliases:
   - Venus/Moon
@@ -24,48 +44,68 @@ updated_at: 2026-04-21
 ## Identity
 
 - Axis: `Moon/Venus`
-- Source anchor: Ebertin pages `115-116`
+- Astronomicon axis: `R/Q`
+- Source heading: `Moon/Venus`
+- Source page: `116`
 
 ## Source Entries
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
-- Principle: the feeling of love, devotion.
-- Psychological Correspondence:
-  - tenderness, affectionate nature, artistic talent, gracefulness
-  - or moodiness, shyness, weak judgment, and suggestibility
-- Biological Correspondence:
-  - glandular secretions, menstruation, female capability of conception
-- Sociological Correspondence:
-  - loving women, mothers, female artists
-- Probable Manifestations:
-  - harmonious love unions, many children, happy family life, desire for motherhood
-  - or glandular disturbance, irritability, and conflict in love
+#### Principle
+
+The feeling of love, devotion.
+
+#### Psychological Correspondence
+
++ A strong feeling of love, desire for the expression of tenderness, an affectionate nature, artistic talent, good judgement concerning the real value of all things, cheerftil disposition, gracefulness. - Moodiness, a disharmonious nature, shyness, weakness, inclination to be easily led, poor powers of assessment or estimation. C An intense emotional life, the joy of living, desire for tenderness, artistic appreciation, self-love.
+
+#### Biological Correspondence
+
+Glandular secretions (hormones, ferments in the stage of generation), menstruation. The female capability of conception.
+
+#### Sociological Correspondence
+
+Loving women, mothers (also expectant mothers), female artists.
+
+#### Probable Manifestations
+
++ Harmonious love unions, a marriage blessed with many children, a happy family life, desire for motherhood. - Disturbed functions of the glands, irritability, moodiness, conflict in love. 17 It has been observed that in many cases a direction between Moon and Venus, e.g., Moon pr. = Venus, and Venus pr. = Moon rad., have been found in the case of women at the time of their first conception or birth. MoonA/enus D/9
+
 
 ## Comparative Schema
 
-- Core meaning: feeling of love, devotion, tenderness.
-- Psychology: affectionate grace versus moodiness and weak judgment.
-- Body/health: glandular secretions, menstruation, conception.
-- Social/relationship: loving women, mothers, female artists, family life.
-- Events/manifestations: harmonious union, family happiness, motherhood, or conflict in love.
-- Conflicts/notes: no cross-source contradictions in the pilot slice.
+- core meaning: The feeling of love, devotion.
+- psychology: + A strong feeling of love, desire for the expression of tenderness, an affectionate nature, artistic talent, good judgement concerning the real value of all things, cheerftil disposition, gracefulness. - Moodiness, a disharmonious nature, shyness, weakness, inclination to be easily led, poor powers of assessment or estimation. C An intense emotional life, the joy of living, desire for tenderness, artistic appreciation, self-love.
+- body/health: Glandular secretions (hormones, ferments in the stage of generation), menstruation. The female capability of conception.
+- social/relationship: Loving women, mothers (also expectant mothers), female artists.
+- events/manifestations: + Harmonious love unions, a marriage blessed with many children, a happy family life, desire for motherhood. - Disturbed functions of the glands, irritability, moodiness, conflict in love. 17 It has been observed that in many cases a direction between Moon and Venus, e.g., Moon pr. = Venus, and Venus pr. = Moon rad., have been found in the case of women at the time of their first conception or birth. MoonA/enus D/9
+- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
 
 ## Related Activations
 
 - [Moon/Venus = Sun](../activations/moon-venus-equals-sun.md)
+- [Moon/Venus = Mercury](../activations/moon-venus-equals-mercury.md)
+- [Moon/Venus = Mars](../activations/moon-venus-equals-mars.md)
+- [Moon/Venus = Jupiter](../activations/moon-venus-equals-jupiter.md)
+- [Moon/Venus = Saturn](../activations/moon-venus-equals-saturn.md)
+- [Moon/Venus = Uranus](../activations/moon-venus-equals-uranus.md)
+- [Moon/Venus = Neptune](../activations/moon-venus-equals-neptune.md)
+- [Moon/Venus = Pluto](../activations/moon-venus-equals-pluto.md)
+- [Moon/Venus = Node](../activations/moon-venus-equals-node.md)
+- [Moon/Venus = Asc](../activations/moon-venus-equals-asc.md)
+- [Moon/Venus = MC](../activations/moon-venus-equals-mc.md)
 
 ## Contradictions
 
-- None in the pilot slice.
+- None recorded yet for this source-only page.
 
 ## Derived Synthesis
 
-- In the pilot cluster, `Moon/Venus` is the most explicitly tender and maternal love axis, and the companion activation page shows what happens when that axis is externalized through `Sun`.
+- None yet beyond source structuring.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Venus](../factors/venus.md)
-- [Sun Moon Venus](../triads/sun-moon-venus.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

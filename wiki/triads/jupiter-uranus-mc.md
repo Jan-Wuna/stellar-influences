@@ -3,7 +3,7 @@ title: Jupiter Uranus MC
 page_type: triad_hub
 slug: jupiter-uranus-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Uranus
@@ -18,7 +18,7 @@ orientations:
   - Uranus/MC = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/MC = Uranus](../activations/jupiter-mc-equals-uranus.md)
-  Source page `244`, entry `0861`
+  Source page `65`
 - [Jupiter/Uranus = MC](../activations/jupiter-uranus-equals-mc.md)
-  Source page `230`, entry `0805`
+  Source page `208`
 - [Uranus/MC = Jupiter](../activations/uranus-mc-equals-jupiter.md)
-  Source page `278`, entry `0992`
+  Source page `67`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/MC = Uranus`: page `244`, entry `0861`
-- `Jupiter/Uranus = MC`: page `230`, entry `0805`
-- `Uranus/MC = Jupiter`: page `278`, entry `0992`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/MC = Uranus`: page `65`
+- `Jupiter/Uranus = MC`: page `208`
+- `Uranus/MC = Jupiter`: page `67`
 
 ## Contradictions Across Orientations
 

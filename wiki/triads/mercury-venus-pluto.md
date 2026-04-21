@@ -3,7 +3,7 @@ title: Mercury Venus Pluto
 page_type: triad_hub
 slug: mercury-venus-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Venus
@@ -18,7 +18,7 @@ orientations:
   - Venus/Pluto = Mercury
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mercury/Pluto = Venus](../activations/mercury-pluto-equals-venus.md)
-  Source page `164`, entry `0533`
+  Source page `165`
 - [Mercury/Venus = Pluto](../activations/mercury-venus-equals-pluto.md)
-  Source page `147`, entry `0466`
+  Source page `159`
 - [Venus/Pluto = Mercury](../activations/venus-pluto-equals-mercury.md)
-  Source page `191`, entry `0641`
+  Source page `181`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mercury/Pluto = Venus`: page `164`, entry `0533`
-- `Mercury/Venus = Pluto`: page `147`, entry `0466`
-- `Venus/Pluto = Mercury`: page `191`, entry `0641`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mercury/Pluto = Venus`: page `165`
+- `Mercury/Venus = Pluto`: page `159`
+- `Venus/Pluto = Mercury`: page `181`
 
 ## Contradictions Across Orientations
 

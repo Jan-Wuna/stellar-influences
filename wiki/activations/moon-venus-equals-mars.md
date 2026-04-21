@@ -3,7 +3,7 @@ title: Moon/Venus = Mars
 page_type: activation
 slug: moon-venus-equals-mars
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Venus
@@ -17,7 +17,7 @@ triad_set:
   - Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0341`
-- Source page: `117`
+- Source heading: `Moon + Venus`
+- Source page: `123`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A strongly instinctive, emotional or passionate way of living, actions are caused by feelings. A devoted wife. The desire to become a mother, a love of travel.
+The passionate woman. To become a mother. To be active because of love of the subject.
 
 ## Comparative Schema
 
-- core meaning: A strongly instinctive, emotional or passionate way of living, actions are caused by feelings. A devoted wife. The desire to become a mother, a love of travel.
+- core meaning: The passionate woman. To become a mother. To be active because of love of the subject.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A strongly instinctive, emotional or passionate way of living, actions are cause
 - [Venus](../factors/venus.md)
 - [Mars](../factors/mars.md)
 - [Moon/Venus](../axes/moon-venus.md)
-- [Moon Venus Mars](../triads/moon-venus-mars.md)

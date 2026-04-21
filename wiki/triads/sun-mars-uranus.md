@@ -3,7 +3,7 @@ title: Sun Mars Uranus
 page_type: triad_hub
 slug: sun-mars-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Mars
@@ -18,7 +18,7 @@ orientations:
   - Sun/Uranus = Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Uranus = Sun](../activations/mars-uranus-equals-sun.md)
-  Source page `208`, entry `0711`
+  Source page `194`
 - [Sun/Mars = Uranus](../activations/sun-mars-equals-uranus.md)
-  Source page `87`, entry `0224`
+  Source page `105`
 - [Sun/Uranus = Mars](../activations/sun-uranus-equals-mars.md)
-  Source page `96`, entry `0258`
+  Source page `108`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/Uranus = Sun`: page `208`, entry `0711`
-- `Sun/Mars = Uranus`: page `87`, entry `0224`
-- `Sun/Uranus = Mars`: page `96`, entry `0258`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/Uranus = Sun`: page `194`
+- `Sun/Mars = Uranus`: page `105`
+- `Sun/Uranus = Mars`: page `108`
 
 ## Contradictions Across Orientations
 

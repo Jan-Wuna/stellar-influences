@@ -3,7 +3,7 @@ title: Moon Mercury Saturn
 page_type: triad_hub
 slug: moon-mercury-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Mercury
@@ -18,7 +18,7 @@ orientations:
   - Moon/Saturn = Mercury
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mercury/Saturn = Moon](../activations/mercury-saturn-equals-moon.md)
-  Source page `155`, entry `0496`
+  Source page `162`
 - [Moon/Mercury = Saturn](../activations/moon-mercury-equals-saturn.md)
-  Source page `114`, entry `0331`
+  Source page `122`
 - [Moon/Saturn = Mercury](../activations/moon-saturn-equals-mercury.md)
-  Source page `126`, entry `0376`
+  Source page `126`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mercury/Saturn = Moon`: page `155`, entry `0496`
-- `Moon/Mercury = Saturn`: page `114`, entry `0331`
-- `Moon/Saturn = Mercury`: page `126`, entry `0376`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mercury/Saturn = Moon`: page `162`
+- `Moon/Mercury = Saturn`: page `122`
+- `Moon/Saturn = Mercury`: page `126`
 
 ## Contradictions Across Orientations
 

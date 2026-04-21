@@ -3,7 +3,7 @@ title: Moon Venus Uranus
 page_type: triad_hub
 slug: moon-venus-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Venus
@@ -18,7 +18,7 @@ orientations:
   - Venus/Uranus = Moon
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Moon/Uranus = Venus](../activations/moon-uranus-equals-venus.md)
-  Source page `129`, entry `0389`
+  Source page `127`
 - [Moon/Venus = Uranus](../activations/moon-venus-equals-uranus.md)
-  Source page `117`, entry `0344`
+  Source page `123`
 - [Venus/Uranus = Moon](../activations/venus-uranus-equals-moon.md)
-  Source page `185`, entry `0616`
+  Source page `179`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Moon/Uranus = Venus`: page `129`, entry `0389`
-- `Moon/Venus = Uranus`: page `117`, entry `0344`
-- `Venus/Uranus = Moon`: page `185`, entry `0616`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Moon/Uranus = Venus`: page `127`
+- `Moon/Venus = Uranus`: page `123`
+- `Venus/Uranus = Moon`: page `179`
 
 ## Contradictions Across Orientations
 

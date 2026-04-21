@@ -3,10 +3,10 @@ title: Node/Asc = Moon
 page_type: activation
 slug: node-asc-equals-moon
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Node
   - Asc
+  - Node
   - Moon
 normalized_formula: Node/Asc = Moon
 axis: Node/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1084`
-- Source page: `301`
+- Source heading: `Asc + Node`
+- Source page: `82`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Desire to establish an inner bond or contact with other people, ability to gain an understanding of other people both by instinct and feeling, sympathetic understanding of other people. The establishment of contact with others. A female acquaintanceship.
+Acquaintances with females or people. Connections resulting in public.
 
 ## Comparative Schema
 
-- core meaning: Desire to establish an inner bond or contact with other people, ability to gain an understanding of other people both by instinct and feeling, sympathetic understanding of other people. The establishment of contact with others. A female acquaintanceship.
+- core meaning: Acquaintances with females or people. Connections resulting in public.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Desire to establish an inner bond or contact with other people, ability to gain 
 - [Asc](../factors/asc.md)
 - [Moon](../factors/moon.md)
 - [Node/Asc](../axes/node-asc.md)
-- [Moon Node Asc](../triads/moon-node-asc.md)

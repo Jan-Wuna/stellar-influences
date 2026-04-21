@@ -3,7 +3,7 @@ title: Venus/Mars = Saturn
 page_type: activation
 slug: venus-mars-equals-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Mars
@@ -17,7 +17,7 @@ triad_set:
   - Saturn
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0583`
+- Source heading: `Venus + Mars`
 - Source page: `176`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Inhibitions in love life, inclination to adultery, abnormal and pathological sex-expression. A separation in love.
+Venereal diseases. Severance of the sexual intercourse. Older relatives or close friends. Separation from them.
 
 ## Comparative Schema
 
-- core meaning: Inhibitions in love life, inclination to adultery, abnormal and pathological sex-expression. A separation in love.
+- core meaning: Venereal diseases. Severance of the sexual intercourse. Older relatives or close friends. Separation from them.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Inhibitions in love life, inclination to adultery, abnormal and pathological sex
 - [Mars](../factors/mars.md)
 - [Saturn](../factors/saturn.md)
 - [Venus/Mars](../axes/venus-mars.md)
-- [Venus Mars Saturn](../triads/venus-mars-saturn.md)

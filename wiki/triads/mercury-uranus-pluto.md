@@ -3,7 +3,7 @@ title: Mercury Uranus Pluto
 page_type: triad_hub
 slug: mercury-uranus-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Uranus
@@ -18,7 +18,7 @@ orientations:
   - Uranus/Pluto = Mercury
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mercury/Pluto = Uranus](../activations/mercury-pluto-equals-uranus.md)
-  Source page `164`, entry `0537`
+  Source page `165`
 - [Mercury/Uranus = Pluto](../activations/mercury-uranus-equals-pluto.md)
-  Source page `159`, entry `0514`
+  Source page `163`
 - [Uranus/Pluto = Mercury](../activations/uranus-pluto-equals-mercury.md)
-  Source page `269`, entry `0953`
+  Source page `235`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mercury/Pluto = Uranus`: page `164`, entry `0537`
-- `Mercury/Uranus = Pluto`: page `159`, entry `0514`
-- `Uranus/Pluto = Mercury`: page `269`, entry `0953`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mercury/Pluto = Uranus`: page `165`
+- `Mercury/Uranus = Pluto`: page `163`
+- `Uranus/Pluto = Mercury`: page `235`
 
 ## Contradictions Across Orientations
 

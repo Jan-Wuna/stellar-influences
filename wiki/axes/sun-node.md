@@ -3,7 +3,7 @@ title: Sun/Node
 page_type: axis
 slug: sun-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Node
@@ -11,6 +11,9 @@ normalized_axis: Sun/Node
 factor_a: Sun
 factor_b: Node
 related_activations:
+  - Sun/Node = Aries
+  - Sun/Node = MC
+  - Sun/Node = Asc
   - Sun/Node = Moon
   - Sun/Node = Mercury
   - Sun/Node = Venus
@@ -20,16 +23,31 @@ related_activations:
   - Sun/Node = Uranus
   - Sun/Node = Neptune
   - Sun/Node = Pluto
-  - Sun/Node = Asc
-  - Sun/Node = MC
+  - Sun/Node = Cupido
+  - Sun/Node = Hades
+  - Sun/Node = Zeus
+  - Sun/Node = Kronos
+  - Sun/Node = Apollon
+  - Sun/Node = Admetos
+  - Sun/Node = Vulcanus
+  - Sun/Node = Poseidon
 related_triad_hubs:
+  - Aries Sun Node
   - Sun Jupiter Node
   - Sun Mars Node
   - Sun Mercury Node
   - Sun Moon Node
   - Sun Neptune Node
+  - Sun Node Admetos
+  - Sun Node Apollon
   - Sun Node Asc
+  - Sun Node Cupido
+  - Sun Node Hades
+  - Sun Node Kronos
   - Sun Node MC
+  - Sun Node Poseidon
+  - Sun Node Vulcanus
+  - Sun Node Zeus
   - Sun Pluto Node
   - Sun Saturn Node
   - Sun Uranus Node
@@ -37,7 +55,7 @@ related_triad_hubs:
 aliases:
   - Node/Sun
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,45 +63,31 @@ updated_at: 2026-04-21
 
 - Axis: `Sun/Node`
 - Astronomicon axis: `S/g`
-- Source heading: `Sun/Dragon's Head`
-- Source page: `104`
+- Source heading: `Sun + Node`
+- Source page: `102`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-Intellectual or physical associations, the public. (Family ties.)
-
-#### Psychological Correspondence
-
-+ Adaptation, preference for associations and teamwork, the search for intellectual contacts. - A disharmonious attitude toward living or working with others. C Seeking contact with others, the desire to associate.
-
-#### Biological Correspondence
-
-The function of the autonomic nervous system.
-
-#### Sociological Correspondence
-
-Associations between male persons, good fellowship, colleagues.
-
-#### Probable Manifestations
-
-+ Physical associations, intellectual cooperation, union with the husband. Shared experiences. Relationship with the public. - The termination of associations. o/&
-
+A physical union. Connections with the public. To be a witness. A physical fusion. Day of establishment of contact.
 
 ## Comparative Schema
 
-- core meaning: Intellectual or physical associations, the public. (Family ties.)
-- psychology: + Adaptation, preference for associations and teamwork, the search for intellectual contacts. - A disharmonious attitude toward living or working with others. C Seeking contact with others, the desire to associate.
-- body/health: The function of the autonomic nervous system.
-- social/relationship: Associations between male persons, good fellowship, colleagues.
-- events/manifestations: + Physical associations, intellectual cooperation, union with the husband. Shared experiences. Relationship with the public. - The termination of associations. o/&
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: A physical union. Connections with the public. To be a witness. A physical fusion. Day of establishment of contact.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Sun/Node = Aries](../activations/sun-node-equals-aries.md)
+- [Sun/Node = MC](../activations/sun-node-equals-mc.md)
+- [Sun/Node = Asc](../activations/sun-node-equals-asc.md)
 - [Sun/Node = Moon](../activations/sun-node-equals-moon.md)
 - [Sun/Node = Mercury](../activations/sun-node-equals-mercury.md)
 - [Sun/Node = Venus](../activations/sun-node-equals-venus.md)
@@ -93,8 +97,14 @@ Associations between male persons, good fellowship, colleagues.
 - [Sun/Node = Uranus](../activations/sun-node-equals-uranus.md)
 - [Sun/Node = Neptune](../activations/sun-node-equals-neptune.md)
 - [Sun/Node = Pluto](../activations/sun-node-equals-pluto.md)
-- [Sun/Node = Asc](../activations/sun-node-equals-asc.md)
-- [Sun/Node = MC](../activations/sun-node-equals-mc.md)
+- [Sun/Node = Cupido](../activations/sun-node-equals-cupido.md)
+- [Sun/Node = Hades](../activations/sun-node-equals-hades.md)
+- [Sun/Node = Zeus](../activations/sun-node-equals-zeus.md)
+- [Sun/Node = Kronos](../activations/sun-node-equals-kronos.md)
+- [Sun/Node = Apollon](../activations/sun-node-equals-apollon.md)
+- [Sun/Node = Admetos](../activations/sun-node-equals-admetos.md)
+- [Sun/Node = Vulcanus](../activations/sun-node-equals-vulcanus.md)
+- [Sun/Node = Poseidon](../activations/sun-node-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Associations between male persons, good fellowship, colleagues.
 
 - [Sun](../factors/sun.md)
 - [Node](../factors/node.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

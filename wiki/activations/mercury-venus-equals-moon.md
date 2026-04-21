@@ -3,7 +3,7 @@ title: Mercury/Venus = Moon
 page_type: activation
 slug: mercury-venus-equals-moon
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Venus
@@ -17,7 +17,7 @@ triad_set:
   - Venus
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0460`
-- Source page: `146`
+- Source heading: `Mercury + Venus`
+- Source page: `159`
+#### Witte Entry
 
-#### Ebertin Entry
-
-The ability to shape plain surfaces, a talent for painting or drawing (Sun = living body, Moon = plain surface, Mercury = a drawn outline of a shape), a perception and feeling of beauty. A beautiful young person, a person who is susceptible to beauty, a love contact.
+Youthful beauty. Female acquaintance. To be fond of flat artwork (paintings etc.)
 
 ## Comparative Schema
 
-- core meaning: The ability to shape plain surfaces, a talent for painting or drawing (Sun = living body, Moon = plain surface, Mercury = a drawn outline of a shape), a perception and feeling of beauty. A beautiful young person, a person who is susceptible to beauty, a love contact.
+- core meaning: Youthful beauty. Female acquaintance. To be fond of flat artwork (paintings etc.)
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ The ability to shape plain surfaces, a talent for painting or drawing (Sun = liv
 - [Venus](../factors/venus.md)
 - [Moon](../factors/moon.md)
 - [Mercury/Venus](../axes/mercury-venus.md)
-- [Moon Mercury Venus](../triads/moon-mercury-venus.md)

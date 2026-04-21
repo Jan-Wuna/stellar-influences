@@ -3,7 +3,7 @@ title: Moon Saturn Uranus
 page_type: triad_hub
 slug: moon-saturn-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Saturn
@@ -18,7 +18,7 @@ orientations:
   - Saturn/Uranus = Moon
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Moon/Saturn = Uranus](../activations/moon-saturn-equals-uranus.md)
-  Source page `126`, entry `0380`
+  Source page `126`
 - [Moon/Uranus = Saturn](../activations/moon-uranus-equals-saturn.md)
-  Source page `129`, entry `0392`
+  Source page `127`
 - [Saturn/Uranus = Moon](../activations/saturn-uranus-equals-moon.md)
-  Source page `247`, entry `0868`
+  Source page `221`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Moon/Saturn = Uranus`: page `126`, entry `0380`
-- `Moon/Uranus = Saturn`: page `129`, entry `0392`
-- `Saturn/Uranus = Moon`: page `247`, entry `0868`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Moon/Saturn = Uranus`: page `126`
+- `Moon/Uranus = Saturn`: page `127`
+- `Saturn/Uranus = Moon`: page `221`
 
 ## Contradictions Across Orientations
 

@@ -3,10 +3,10 @@ title: Uranus/Node = Jupiter
 page_type: activation
 slug: uranus-node-equals-jupiter
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Uranus
   - Node
+  - Uranus
   - Jupiter
 normalized_formula: Uranus/Node = Jupiter
 axis: Uranus/Node
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0968`
-- Source page: `272`
+- Source heading: `Node + Uranus`
+- Source page: `146`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A great liking for social functions and entertainment, tendency to seek advantages with the help of other people. Sharing happy experiences in life with others.
+To enjoy advantages. To come into money suddenly through acquaintances.
 
 ## Comparative Schema
 
-- core meaning: A great liking for social functions and entertainment, tendency to seek advantages with the help of other people. Sharing happy experiences in life with others.
+- core meaning: To enjoy advantages. To come into money suddenly through acquaintances.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A great liking for social functions and entertainment, tendency to seek advantag
 - [Node](../factors/node.md)
 - [Jupiter](../factors/jupiter.md)
 - [Uranus/Node](../axes/uranus-node.md)
-- [Jupiter Uranus Node](../triads/jupiter-uranus-node.md)

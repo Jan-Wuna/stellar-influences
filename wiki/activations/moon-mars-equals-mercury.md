@@ -3,7 +3,7 @@ title: Moon/Mars = Mercury
 page_type: activation
 slug: moon-mars-equals-mercury
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Mars
@@ -17,7 +17,7 @@ triad_set:
   - Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0352`
-- Source page: `120`
+- Source heading: `Moon + Mars`
+- Source page: `124`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Premature criticism, nervousness, easy irritability. A young woman, a woman doing intellectual work.
+The active brain. Incline to heated arguments. Thinking or quarrels about working time and procedures. The angry woman. The youthful wife. Thinking about the establishing of a home.
 
 ## Comparative Schema
 
-- core meaning: Premature criticism, nervousness, easy irritability. A young woman, a woman doing intellectual work.
+- core meaning: The active brain. Incline to heated arguments. Thinking or quarrels about working time and procedures. The angry woman. The youthful wife. Thinking about the establishing of a home.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Premature criticism, nervousness, easy irritability. A young woman, a woman doin
 - [Mars](../factors/mars.md)
 - [Mercury](../factors/mercury.md)
 - [Moon/Mars](../axes/moon-mars.md)
-- [Moon Mercury Mars](../triads/moon-mercury-mars.md)

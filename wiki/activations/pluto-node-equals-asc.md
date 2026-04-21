@@ -3,10 +3,10 @@ title: Pluto/Node = Asc
 page_type: activation
 slug: pluto-node-equals-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Pluto
   - Node
+  - Pluto
   - Asc
 normalized_formula: Pluto/Node = Asc
 axis: Pluto/Node
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1056`
-- Source page: `293`
+- Source heading: `Node + Pluto`
+- Source page: `148`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Desire to gain influence upon the public.
+Changes in the relations or connections cause changes in or of the place where you live. Changes in the relationship with the near environment.
 
 ## Comparative Schema
 
-- core meaning: Desire to gain influence upon the public.
+- core meaning: Changes in the relations or connections cause changes in or of the place where you live. Changes in the relationship with the near environment.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Desire to gain influence upon the public.
 - [Node](../factors/node.md)
 - [Asc](../factors/asc.md)
 - [Pluto/Node](../axes/pluto-node.md)
-- [Pluto Node Asc](../triads/pluto-node-asc.md)

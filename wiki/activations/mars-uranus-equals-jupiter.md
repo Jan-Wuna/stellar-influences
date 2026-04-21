@@ -3,7 +3,7 @@ title: Mars/Uranus = Jupiter
 page_type: activation
 slug: mars-uranus-equals-jupiter
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Uranus
@@ -17,7 +17,7 @@ triad_set:
   - Uranus
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0715`
-- Source page: `208`
+- Source heading: `Mars + Uranus`
+- Source page: `194`
+#### Witte Entry
 
-#### Ebertin Entry
-
-The correct grasp of a situation coupled with timely action. Successful contests of strength, good fortune and a lucky hand in unusual actions, good luck with injuries, accidents or operations.
+Success through spontaneous decisions or acts. Fortunate in danger. Good luck in injury.
 
 ## Comparative Schema
 
-- core meaning: The correct grasp of a situation coupled with timely action. Successful contests of strength, good fortune and a lucky hand in unusual actions, good luck with injuries, accidents or operations.
+- core meaning: Success through spontaneous decisions or acts. Fortunate in danger. Good luck in injury.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ The correct grasp of a situation coupled with timely action. Successful contests
 - [Uranus](../factors/uranus.md)
 - [Jupiter](../factors/jupiter.md)
 - [Mars/Uranus](../axes/mars-uranus.md)
-- [Mars Jupiter Uranus](../triads/mars-jupiter-uranus.md)

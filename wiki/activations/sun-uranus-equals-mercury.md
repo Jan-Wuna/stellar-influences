@@ -3,7 +3,7 @@ title: Sun/Uranus = Mercury
 page_type: activation
 slug: sun-uranus-equals-mercury
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Uranus
@@ -17,7 +17,7 @@ triad_set:
   - Uranus
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0256`
-- Source page: `96`
+- Source heading: `Sun + Uranus`
+- Source page: `108`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Presence of mind, quick and prudent acting, sudden flashes of cognition. A young reformer, making arrangements.
+To comprehend fast. New spontaneous ideas. Vivid thinking. To give orders suddenly. To be excited while speaking or writing. A rescue team present at an accident. A day with surprising news or messages.
 
 ## Comparative Schema
 
-- core meaning: Presence of mind, quick and prudent acting, sudden flashes of cognition. A young reformer, making arrangements.
+- core meaning: To comprehend fast. New spontaneous ideas. Vivid thinking. To give orders suddenly. To be excited while speaking or writing. A rescue team present at an accident. A day with surprising news or messages.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Presence of mind, quick and prudent acting, sudden flashes of cognition. A young
 - [Uranus](../factors/uranus.md)
 - [Mercury](../factors/mercury.md)
 - [Sun/Uranus](../axes/sun-uranus.md)
-- [Sun Mercury Uranus](../triads/sun-mercury-uranus.md)

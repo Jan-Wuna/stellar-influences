@@ -3,10 +3,10 @@ title: Mars/Node = Mercury
 page_type: activation
 slug: mars-node-equals-mercury
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Mars
   - Node
+  - Mars
   - Mercury
 normalized_formula: Mars/Node = Mercury
 axis: Mars/Node
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0749`
-- Source page: `217`
+- Source heading: `Node + Mars`
+- Source page: `143`
+#### Witte Entry
 
-#### Ebertin Entry
-
-One's personal attitude toward the community in general, inclination to form associations to serve one's own ends, intended cooperation or collaboration. Inclination to think about a union based entirely on physical attraction.
+Thoughts concerned with union with the other sex. Intentions of concerted action.
 
 ## Comparative Schema
 
-- core meaning: One's personal attitude toward the community in general, inclination to form associations to serve one's own ends, intended cooperation or collaboration. Inclination to think about a union based entirely on physical attraction.
+- core meaning: Thoughts concerned with union with the other sex. Intentions of concerted action.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ One's personal attitude toward the community in general, inclination to form ass
 - [Node](../factors/node.md)
 - [Mercury](../factors/mercury.md)
 - [Mars/Node](../axes/mars-node.md)
-- [Mercury Mars Node](../triads/mercury-mars-node.md)

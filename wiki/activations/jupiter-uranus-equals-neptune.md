@@ -3,7 +3,7 @@ title: Jupiter/Uranus = Neptune
 page_type: activation
 slug: jupiter-uranus-equals-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Uranus
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0801`
-- Source page: `229`
+- Source heading: `Jupiter + Uranus`
+- Source page: `208`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Guided by false perceptions, quick disappointment, lack of prudence and farsightedness. Unearned gains, a fortunate turn after a loss, e.g., inheritance after a death, favorable prospects after the loss of a position.
+Luck through occult matters or matters from beyond. Good fortune through deaths. Inheritance. Legacy.
 
 ## Comparative Schema
 
-- core meaning: Guided by false perceptions, quick disappointment, lack of prudence and farsightedness. Unearned gains, a fortunate turn after a loss, e.g., inheritance after a death, favorable prospects after the loss of a position.
+- core meaning: Luck through occult matters or matters from beyond. Good fortune through deaths. Inheritance. Legacy.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Guided by false perceptions, quick disappointment, lack of prudence and farsight
 - [Uranus](../factors/uranus.md)
 - [Neptune](../factors/neptune.md)
 - [Jupiter/Uranus](../axes/jupiter-uranus.md)
-- [Jupiter Uranus Neptune](../triads/jupiter-uranus-neptune.md)

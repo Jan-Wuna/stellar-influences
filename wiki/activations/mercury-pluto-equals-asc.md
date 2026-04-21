@@ -3,7 +3,7 @@ title: Mercury/Pluto = Asc
 page_type: activation
 slug: mercury-pluto-equals-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Pluto
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0540`
-- Source page: `164`
+- Source heading: `Mercury + Pluto`
+- Source page: `165`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Intellectual domination of the environment. Ability to exercise an influence upon those in one's environment.
+To have dealings with adaptable people. To speak about a changed situation with others. Others change their views. To be persuade by others.
 
 ## Comparative Schema
 
-- core meaning: Intellectual domination of the environment. Ability to exercise an influence upon those in one's environment.
+- core meaning: To have dealings with adaptable people. To speak about a changed situation with others. Others change their views. To be persuade by others.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Intellectual domination of the environment. Ability to exercise an influence upo
 - [Pluto](../factors/pluto.md)
 - [Asc](../factors/asc.md)
 - [Mercury/Pluto](../axes/mercury-pluto.md)
-- [Mercury Pluto Asc](../triads/mercury-pluto-asc.md)

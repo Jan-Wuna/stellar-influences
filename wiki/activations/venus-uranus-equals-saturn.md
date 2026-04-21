@@ -3,7 +3,7 @@ title: Venus/Uranus = Saturn
 page_type: activation
 slug: venus-uranus-equals-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Uranus
@@ -17,7 +17,7 @@ triad_set:
   - Uranus
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0620`
-- Source page: `185`
+- Source heading: `Venus + Uranus`
+- Source page: `179`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Controlled sensuality, suppressed tensions in love life, passing sexual and emotional inhibitions. Awakening from love illusions, estrangement, separation. (Difficult birth.)
+Sudden interrupted or separated love union. One’s tend to break up.
 
 ## Comparative Schema
 
-- core meaning: Controlled sensuality, suppressed tensions in love life, passing sexual and emotional inhibitions. Awakening from love illusions, estrangement, separation. (Difficult birth.)
+- core meaning: Sudden interrupted or separated love union. One’s tend to break up.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Controlled sensuality, suppressed tensions in love life, passing sexual and emot
 - [Uranus](../factors/uranus.md)
 - [Saturn](../factors/saturn.md)
 - [Venus/Uranus](../axes/venus-uranus.md)
-- [Venus Saturn Uranus](../triads/venus-saturn-uranus.md)

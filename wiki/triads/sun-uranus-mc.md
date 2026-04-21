@@ -3,7 +3,7 @@ title: Sun Uranus MC
 page_type: triad_hub
 slug: sun-uranus-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Uranus
@@ -18,7 +18,7 @@ orientations:
   - Uranus/MC = Sun
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Sun/MC = Uranus](../activations/sun-mc-equals-uranus.md)
-  Source page `111`, entry `0321`
+  Source page `59`
 - [Sun/Uranus = MC](../activations/sun-uranus-equals-mc.md)
-  Source page `97`, entry `0265`
+  Source page `108`
 - [Uranus/MC = Sun](../activations/uranus-mc-equals-sun.md)
-  Source page `278`, entry `0987`
+  Source page `67`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Sun/MC = Uranus`: page `111`, entry `0321`
-- `Sun/Uranus = MC`: page `97`, entry `0265`
-- `Uranus/MC = Sun`: page `278`, entry `0987`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Sun/MC = Uranus`: page `59`
+- `Sun/Uranus = MC`: page `108`
+- `Uranus/MC = Sun`: page `67`
 
 ## Contradictions Across Orientations
 

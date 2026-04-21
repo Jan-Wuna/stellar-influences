@@ -3,10 +3,10 @@ title: Uranus/Node = Neptune
 page_type: activation
 slug: uranus-node-equals-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Uranus
   - Node
+  - Uranus
   - Neptune
 normalized_formula: Uranus/Node = Neptune
 axis: Uranus/Node
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0970`
-- Source page: `272`
+- Source heading: `Node + Uranus`
+- Source page: `146`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A person easily influenced or impressed by others. The misfortune to be suddenly deceived by others, undermining of an association, retirement of a partner from a joint enterprise.
+To become a widower or widow suddenly. To be suddenly connected with a disagreeable heritage. Taking over things or matters highly disorganized. To be connected with chaotic things.
 
 ## Comparative Schema
 
-- core meaning: A person easily influenced or impressed by others. The misfortune to be suddenly deceived by others, undermining of an association, retirement of a partner from a joint enterprise.
+- core meaning: To become a widower or widow suddenly. To be suddenly connected with a disagreeable heritage. Taking over things or matters highly disorganized. To be connected with chaotic things.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A person easily influenced or impressed by others. The misfortune to be suddenly
 - [Node](../factors/node.md)
 - [Neptune](../factors/neptune.md)
 - [Uranus/Node](../axes/uranus-node.md)
-- [Uranus Neptune Node](../triads/uranus-neptune-node.md)

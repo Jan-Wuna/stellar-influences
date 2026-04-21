@@ -3,10 +3,10 @@ title: Neptune/Node = Uranus
 page_type: activation
 slug: neptune-node-equals-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Neptune
   - Node
+  - Neptune
   - Uranus
 normalized_formula: Neptune/Node = Uranus
 axis: Neptune/Node
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1018`
-- Source page: `284`
+- Source heading: `Node + Neptune`
+- Source page: `147`
+#### Witte Entry
 
-#### Ebertin Entry
-
-The inability to become an integrated unit of a community owing to an unrestrained self-will, inclination to get upset over the anti-social 63 Mars = Neptune/Node can under special circumstances indicate admission to hospital or an institution. conduct of others. A sudden undermining or destruction of relationships.
+Sudden connections which are not tenable. Passing union or connections.
 
 ## Comparative Schema
 
-- core meaning: The inability to become an integrated unit of a community owing to an unrestrained self-will, inclination to get upset over the anti-social 63 Mars = Neptune/Node can under special circumstances indicate admission to hospital or an institution. conduct of others. A sudden undermining or destruction of relationships.
+- core meaning: Sudden connections which are not tenable. Passing union or connections.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ The inability to become an integrated unit of a community owing to an unrestrain
 - [Node](../factors/node.md)
 - [Uranus](../factors/uranus.md)
 - [Neptune/Node](../axes/neptune-node.md)
-- [Uranus Neptune Node](../triads/uranus-neptune-node.md)

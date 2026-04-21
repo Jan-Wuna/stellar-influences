@@ -3,10 +3,10 @@ title: Jupiter/MC = Sun
 page_type: activation
 slug: jupiter-mc-equals-sun
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Jupiter
   - MC
+  - Jupiter
   - Sun
 normalized_formula: Jupiter/MC = Sun
 axis: Jupiter/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0855`
-- Source page: `244`
+- Source heading: `MC + Jupiter`
+- Source page: `65`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Healthy physique, striving happily for the attainment of a particular aim or objective, harmonious disposition, optimism, a person who is able to make the best of life's opportunities. The good fortune to live in pleasant and agreeable circumstances, well-to-do people.
+Objects that trigger a feeling of happiness. Physical well-being. The day of happy feelings.
 
 ## Comparative Schema
 
-- core meaning: Healthy physique, striving happily for the attainment of a particular aim or objective, harmonious disposition, optimism, a person who is able to make the best of life's opportunities. The good fortune to live in pleasant and agreeable circumstances, well-to-do people.
+- core meaning: Objects that trigger a feeling of happiness. Physical well-being. The day of happy feelings.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Healthy physique, striving happily for the attainment of a particular aim or obj
 - [MC](../factors/mc.md)
 - [Sun](../factors/sun.md)
 - [Jupiter/MC](../axes/jupiter-mc.md)
-- [Sun Jupiter MC](../triads/sun-jupiter-mc.md)

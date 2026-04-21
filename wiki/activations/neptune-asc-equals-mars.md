@@ -3,10 +3,10 @@ title: Neptune/Asc = Mars
 page_type: activation
 slug: neptune-asc-equals-mars
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Neptune
   - Asc
+  - Neptune
   - Mars
 normalized_formula: Neptune/Asc = Mars
 axis: Neptune/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1027`
-- Source page: `287`
+- Source heading: `Asc + Neptune`
+- Source page: `89`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Inclination to fight against disharmonious influences of the environment, experiencing angry upsets or quarrels within one's environment. Primitive and instinctive urges wrongly expressed, unpleasantness in teamwork and cooperation, suffering of harm or damage.
+To be damaged. To be infected by other people. Uncertain, unclear behavior of the counterpart at work.
 
 ## Comparative Schema
 
-- core meaning: Inclination to fight against disharmonious influences of the environment, experiencing angry upsets or quarrels within one's environment. Primitive and instinctive urges wrongly expressed, unpleasantness in teamwork and cooperation, suffering of harm or damage.
+- core meaning: To be damaged. To be infected by other people. Uncertain, unclear behavior of the counterpart at work.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Inclination to fight against disharmonious influences of the environment, experi
 - [Asc](../factors/asc.md)
 - [Mars](../factors/mars.md)
 - [Neptune/Asc](../axes/neptune-asc.md)
-- [Mars Neptune Asc](../triads/mars-neptune-asc.md)

@@ -3,7 +3,7 @@ title: Sun/Mercury
 page_type: axis
 slug: sun-mercury
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Mercury
@@ -11,7 +11,11 @@ normalized_axis: Sun/Mercury
 factor_a: Sun
 factor_b: Mercury
 related_activations:
+  - Sun/Mercury = Aries
+  - Sun/Mercury = MC
+  - Sun/Mercury = Asc
   - Sun/Mercury = Moon
+  - Sun/Mercury = Node
   - Sun/Mercury = Venus
   - Sun/Mercury = Mars
   - Sun/Mercury = Jupiter
@@ -19,25 +23,39 @@ related_activations:
   - Sun/Mercury = Uranus
   - Sun/Mercury = Neptune
   - Sun/Mercury = Pluto
-  - Sun/Mercury = Node
-  - Sun/Mercury = Asc
-  - Sun/Mercury = MC
+  - Sun/Mercury = Cupido
+  - Sun/Mercury = Hades
+  - Sun/Mercury = Zeus
+  - Sun/Mercury = Kronos
+  - Sun/Mercury = Apollon
+  - Sun/Mercury = Admetos
+  - Sun/Mercury = Vulcanus
+  - Sun/Mercury = Poseidon
 related_triad_hubs:
+  - Aries Sun Mercury
+  - Sun Mercury Admetos
+  - Sun Mercury Apollon
   - Sun Mercury Asc
+  - Sun Mercury Cupido
+  - Sun Mercury Hades
   - Sun Mercury Jupiter
-  - Sun Mercury MC
+  - Sun Mercury Kronos
   - Sun Mercury Mars
+  - Sun Mercury MC
   - Sun Mercury Neptune
   - Sun Mercury Node
   - Sun Mercury Pluto
+  - Sun Mercury Poseidon
   - Sun Mercury Saturn
   - Sun Mercury Uranus
   - Sun Mercury Venus
+  - Sun Mercury Vulcanus
+  - Sun Mercury Zeus
   - Sun Moon Mercury
 aliases:
   - Mercury/Sun
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,46 +63,33 @@ updated_at: 2026-04-21
 
 - Axis: `Sun/Mercury`
 - Astronomicon axis: `S/T`
-- Source heading: `Sun/Mercury`
-- Source page: `80`
+- Source heading: `Sun + Mercury`
+- Source page: `103`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-Mind and common sense, a thinking being, the power of thought, understanding and knowledge.
-
-#### Psychological Correspondence
-
-+ Practical thinking, a clear mind, consciousness of objective, understanding and knowledge of the world, ability to organize, circumspection and prudence, a busy occupation. - Lack of clarity, absentminded, aimless. C A subjective or personal outlook.
-
-#### Biological Correspondence
-
-Connective tissue, the formation of granules, puberty of the male.
-
-#### Sociological Correspondence
-
-Young people, intellectual workers, business people.
-
-#### Probable Manifestations
-
-+ Good chances of developing the practical and mental faculties, success in business. - Inclination to nervousness through overwork. O/S
-
+A body in motion. Young body. The head. The nerves. Consciousness. Thoughts in general. Youth. The thinking faculty. The mobility of the body. News of the day.
 
 ## Comparative Schema
 
-- core meaning: Mind and common sense, a thinking being, the power of thought, understanding and knowledge.
-- psychology: + Practical thinking, a clear mind, consciousness of objective, understanding and knowledge of the world, ability to organize, circumspection and prudence, a busy occupation. - Lack of clarity, absentminded, aimless. C A subjective or personal outlook.
-- body/health: Connective tissue, the formation of granules, puberty of the male.
-- social/relationship: Young people, intellectual workers, business people.
-- events/manifestations: + Good chances of developing the practical and mental faculties, success in business. - Inclination to nervousness through overwork. O/S
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: A body in motion. Young body. The head. The nerves. Consciousness. Thoughts in general. Youth. The thinking faculty. The mobility of the body. News of the day.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Sun/Mercury = Aries](../activations/sun-mercury-equals-aries.md)
+- [Sun/Mercury = MC](../activations/sun-mercury-equals-mc.md)
+- [Sun/Mercury = Asc](../activations/sun-mercury-equals-asc.md)
 - [Sun/Mercury = Moon](../activations/sun-mercury-equals-moon.md)
+- [Sun/Mercury = Node](../activations/sun-mercury-equals-node.md)
 - [Sun/Mercury = Venus](../activations/sun-mercury-equals-venus.md)
 - [Sun/Mercury = Mars](../activations/sun-mercury-equals-mars.md)
 - [Sun/Mercury = Jupiter](../activations/sun-mercury-equals-jupiter.md)
@@ -92,9 +97,14 @@ Young people, intellectual workers, business people.
 - [Sun/Mercury = Uranus](../activations/sun-mercury-equals-uranus.md)
 - [Sun/Mercury = Neptune](../activations/sun-mercury-equals-neptune.md)
 - [Sun/Mercury = Pluto](../activations/sun-mercury-equals-pluto.md)
-- [Sun/Mercury = Node](../activations/sun-mercury-equals-node.md)
-- [Sun/Mercury = Asc](../activations/sun-mercury-equals-asc.md)
-- [Sun/Mercury = MC](../activations/sun-mercury-equals-mc.md)
+- [Sun/Mercury = Cupido](../activations/sun-mercury-equals-cupido.md)
+- [Sun/Mercury = Hades](../activations/sun-mercury-equals-hades.md)
+- [Sun/Mercury = Zeus](../activations/sun-mercury-equals-zeus.md)
+- [Sun/Mercury = Kronos](../activations/sun-mercury-equals-kronos.md)
+- [Sun/Mercury = Apollon](../activations/sun-mercury-equals-apollon.md)
+- [Sun/Mercury = Admetos](../activations/sun-mercury-equals-admetos.md)
+- [Sun/Mercury = Vulcanus](../activations/sun-mercury-equals-vulcanus.md)
+- [Sun/Mercury = Poseidon](../activations/sun-mercury-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Young people, intellectual workers, business people.
 
 - [Sun](../factors/sun.md)
 - [Mercury](../factors/mercury.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

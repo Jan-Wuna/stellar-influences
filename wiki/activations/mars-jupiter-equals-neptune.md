@@ -3,7 +3,7 @@ title: Mars/Jupiter = Neptune
 page_type: activation
 slug: mars-jupiter-equals-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Jupiter
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0693`
-- Source page: `202`
+- Source heading: `Mars + Jupiter`
+- Source page: `192`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Feeling of inferiority, falsehood, unfaithfulness, plans without a chance of realization. A hopeless relationship, failures, delayed or difficult births. 36 Mars/Jupiter = Neptune need not always be negative. This combination has been found in the charts of well-known chemists.
+Denials of betrothals. Dissolution of promises or agreements. Hopeless relationship. Project which was not executed. End of a happy activity. Happy activity, but without success. Impotence. Miscarriages.
 
 ## Comparative Schema
 
-- core meaning: Feeling of inferiority, falsehood, unfaithfulness, plans without a chance of realization. A hopeless relationship, failures, delayed or difficult births. 36 Mars/Jupiter = Neptune need not always be negative. This combination has been found in the charts of well-known chemists.
+- core meaning: Denials of betrothals. Dissolution of promises or agreements. Hopeless relationship. Project which was not executed. End of a happy activity. Happy activity, but without success. Impotence. Miscarriages.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Feeling of inferiority, falsehood, unfaithfulness, plans without a chance of rea
 - [Jupiter](../factors/jupiter.md)
 - [Neptune](../factors/neptune.md)
 - [Mars/Jupiter](../axes/mars-jupiter.md)
-- [Mars Jupiter Neptune](../triads/mars-jupiter-neptune.md)

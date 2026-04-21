@@ -3,7 +3,7 @@ title: Saturn Node MC
 page_type: triad_hub
 slug: saturn-node-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Saturn
   - Node
@@ -18,7 +18,7 @@ orientations:
   - Saturn/Node = MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Node/MC = Saturn](../activations/node-mc-equals-saturn.md)
-  Source page `304`, entry `1101`
+  Source page `61`
 - [Saturn/MC = Node](../activations/saturn-mc-equals-node.md)
-  Source page `264`, entry `0936`
+  Source page `66`
 - [Saturn/Node = MC](../activations/saturn-node-equals-mc.md)
-  Source page `258`, entry `0913`
+  Source page `145`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Node/MC = Saturn`: page `304`, entry `1101`
-- `Saturn/MC = Node`: page `264`, entry `0936`
-- `Saturn/Node = MC`: page `258`, entry `0913`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Node/MC = Saturn`: page `61`
+- `Saturn/MC = Node`: page `66`
+- `Saturn/Node = MC`: page `145`
 
 ## Contradictions Across Orientations
 

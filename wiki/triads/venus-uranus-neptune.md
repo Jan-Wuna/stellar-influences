@@ -3,7 +3,7 @@ title: Venus Uranus Neptune
 page_type: triad_hub
 slug: venus-uranus-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Uranus
@@ -18,7 +18,7 @@ orientations:
   - Venus/Uranus = Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Uranus/Neptune = Venus](../activations/uranus-neptune-equals-venus.md)
-  Source page `266`, entry `0942`
+  Source page `234`
 - [Venus/Neptune = Uranus](../activations/venus-neptune-equals-uranus.md)
-  Source page `188`, entry `0633`
+  Source page `180`
 - [Venus/Uranus = Neptune](../activations/venus-uranus-equals-neptune.md)
-  Source page `185`, entry `0621`
+  Source page `179`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Uranus/Neptune = Venus`: page `266`, entry `0942`
-- `Venus/Neptune = Uranus`: page `188`, entry `0633`
-- `Venus/Uranus = Neptune`: page `185`, entry `0621`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Uranus/Neptune = Venus`: page `234`
+- `Venus/Neptune = Uranus`: page `180`
+- `Venus/Uranus = Neptune`: page `179`
 
 ## Contradictions Across Orientations
 

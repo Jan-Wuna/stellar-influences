@@ -3,7 +3,7 @@ title: Uranus/Neptune = Asc
 page_type: activation
 slug: uranus-neptune-equals-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Uranus
   - Neptune
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0948`
-- Source page: `267`
+- Source heading: `Uranus + Neptune`
+- Source page: `234`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A person who is easily influenced. Instability, hyper-sensitivity. The state of being depressed or sad together with others.
+Other people do not know what they want. They are pro and con and try to create difficulties and disturbances. Notices of death. Acquaintance with dead people.
 
 ## Comparative Schema
 
-- core meaning: A person who is easily influenced. Instability, hyper-sensitivity. The state of being depressed or sad together with others.
+- core meaning: Other people do not know what they want. They are pro and con and try to create difficulties and disturbances. Notices of death. Acquaintance with dead people.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A person who is easily influenced. Instability, hyper-sensitivity. The state of 
 - [Neptune](../factors/neptune.md)
 - [Asc](../factors/asc.md)
 - [Uranus/Neptune](../axes/uranus-neptune.md)
-- [Uranus Neptune Asc](../triads/uranus-neptune-asc.md)

@@ -3,7 +3,7 @@ title: Moon Neptune Pluto
 page_type: triad_hub
 slug: moon-neptune-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Neptune
@@ -18,7 +18,7 @@ orientations:
   - Neptune/Pluto = Moon
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Moon/Neptune = Pluto](../activations/moon-neptune-equals-pluto.md)
-  Source page `132`, entry `0406`
+  Source page `128`
 - [Moon/Pluto = Neptune](../activations/moon-pluto-equals-neptune.md)
-  Source page `135`, entry `0418`
+  Source page `129`
 - [Neptune/Pluto = Moon](../activations/neptune-pluto-equals-moon.md)
-  Source page `281`, entry `1000`
+  Source page `246`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Moon/Neptune = Pluto`: page `132`, entry `0406`
-- `Moon/Pluto = Neptune`: page `135`, entry `0418`
-- `Neptune/Pluto = Moon`: page `281`, entry `1000`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Moon/Neptune = Pluto`: page `128`
+- `Moon/Pluto = Neptune`: page `129`
+- `Neptune/Pluto = Moon`: page `246`
 
 ## Contradictions Across Orientations
 

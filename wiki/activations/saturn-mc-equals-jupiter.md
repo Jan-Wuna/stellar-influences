@@ -3,10 +3,10 @@ title: Saturn/MC = Jupiter
 page_type: activation
 slug: saturn-mc-equals-jupiter
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Saturn
   - MC
+  - Saturn
   - Jupiter
 normalized_formula: Saturn/MC = Jupiter
 axis: Saturn/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0932`
-- Source page: `263`
+- Source heading: `MC + Saturn`
+- Source page: `66`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Plain and simple, modest, contented. Clinging to hopes or trying to look on the good side of things. Changing fortunes, change of abode or residence.
+A change of residence. Constraining happiness. Happy separation. To lose of burden.
 
 ## Comparative Schema
 
-- core meaning: Plain and simple, modest, contented. Clinging to hopes or trying to look on the good side of things. Changing fortunes, change of abode or residence.
+- core meaning: A change of residence. Constraining happiness. Happy separation. To lose of burden.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Plain and simple, modest, contented. Clinging to hopes or trying to look on the 
 - [MC](../factors/mc.md)
 - [Jupiter](../factors/jupiter.md)
 - [Saturn/MC](../axes/saturn-mc.md)
-- [Jupiter Saturn MC](../triads/jupiter-saturn-mc.md)

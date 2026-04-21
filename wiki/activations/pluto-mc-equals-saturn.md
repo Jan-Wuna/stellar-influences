@@ -3,10 +3,10 @@ title: Pluto/MC = Saturn
 page_type: activation
 slug: pluto-mc-equals-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Pluto
   - MC
+  - Pluto
   - Saturn
 normalized_formula: Pluto/MC = Saturn
 axis: Pluto/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1077`
-- Source page: `298`
+- Source heading: `MC + Pluto`
+- Source page: `69`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Self-sacrifice. Attainment of one's objectives through sacrifices. A toilsome struggle of existence, a death or bereavement.
+The own development runs under inhibitions or slows down. The moment when the change or transformation is in delay.
 
 ## Comparative Schema
 
-- core meaning: Self-sacrifice. Attainment of one's objectives through sacrifices. A toilsome struggle of existence, a death or bereavement.
+- core meaning: The own development runs under inhibitions or slows down. The moment when the change or transformation is in delay.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Self-sacrifice. Attainment of one's objectives through sacrifices. A toilsome st
 - [MC](../factors/mc.md)
 - [Saturn](../factors/saturn.md)
 - [Pluto/MC](../axes/pluto-mc.md)
-- [Saturn Pluto MC](../triads/saturn-pluto-mc.md)

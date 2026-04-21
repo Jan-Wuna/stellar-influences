@@ -3,7 +3,7 @@ title: Mars Jupiter Saturn
 page_type: triad_hub
 slug: mars-jupiter-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Jupiter
@@ -18,7 +18,7 @@ orientations:
   - Mars/Saturn = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Saturn = Mars](../activations/jupiter-saturn-equals-mars.md)
-  Source page `226`, entry `0787`
+  Source page `207`
 - [Mars/Jupiter = Saturn](../activations/mars-jupiter-equals-saturn.md)
-  Source page `202`, entry `0691`
+  Source page `192`
 - [Mars/Saturn = Jupiter](../activations/mars-saturn-equals-jupiter.md)
-  Source page `205`, entry `0703`
+  Source page `193`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/Saturn = Mars`: page `226`, entry `0787`
-- `Mars/Jupiter = Saturn`: page `202`, entry `0691`
-- `Mars/Saturn = Jupiter`: page `205`, entry `0703`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/Saturn = Mars`: page `207`
+- `Mars/Jupiter = Saturn`: page `192`
+- `Mars/Saturn = Jupiter`: page `193`
 
 ## Contradictions Across Orientations
 

@@ -3,7 +3,7 @@ title: Venus/Jupiter = MC
 page_type: activation
 slug: venus-jupiter-equals-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Jupiter
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0601`
-- Source page: `180`
+- Source heading: `Venus + Jupiter`
+- Source page: `177`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Ability to radiate one's inner happiness, demonstration of gladness and warm heart when meeting others. A union between two people which is founded on deep affection.
+The sensation of love. To be recipient of loves joy.
 
 ## Comparative Schema
 
-- core meaning: Ability to radiate one's inner happiness, demonstration of gladness and warm heart when meeting others. A union between two people which is founded on deep affection.
+- core meaning: The sensation of love. To be recipient of loves joy.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Ability to radiate one's inner happiness, demonstration of gladness and warm hea
 - [Jupiter](../factors/jupiter.md)
 - [MC](../factors/mc.md)
 - [Venus/Jupiter](../axes/venus-jupiter.md)
-- [Venus Jupiter MC](../triads/venus-jupiter-mc.md)

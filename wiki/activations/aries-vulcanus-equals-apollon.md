@@ -1,0 +1,63 @@
+---
+title: Aries/Vulcanus = Apollon
+page_type: activation
+slug: aries-vulcanus-equals-apollon
+status: source_ingested
+framework_scope: hamburg_school
+factors:
+  - Aries
+  - Vulcanus
+  - Apollon
+normalized_formula: Aries/Vulcanus = Apollon
+axis: Aries/Vulcanus
+activated_by: Apollon
+triad_set:
+  - Aries
+  - Apollon
+  - Vulcanus
+aliases: []
+source_pages:
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+updated_at: 2026-04-21
+---
+
+## Identity
+
+- Formula: `Aries/Vulcanus = Apollon`
+- Astronomicon formula: `Aries/§ = ¥`
+- Axis page: [Aries/Vulcanus](../axes/aries-vulcanus.md)
+- Triad hub: [Aries Apollon Vulcanus](../triads/aries-apollon-vulcanus.md)
+
+## Source Entries
+
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Aries + Vulcanus`
+- Source page: `54`
+#### Witte Entry
+
+Wholesale merchants. Power of trade and commerce. Great expansion or success. Far reaching power and influence. Powerful through the use of science.
+
+## Comparative Schema
+
+- core meaning: Wholesale merchants. Power of trade and commerce. Great expansion or success. Far reaching power and influence. Powerful through the use of science.
+- psychology: source-backed meaning retained in the entry above.
+- body/health: no separate body-specific bucket is isolated automatically at ingest time.
+- social/relationship: source-backed meaning retained in the entry above.
+- events/manifestations: source-backed meaning retained in the entry above.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+
+## Contradictions
+
+- None recorded yet for this source-only page.
+
+## Derived Synthesis
+
+- None yet beyond source structuring.
+
+## Links
+
+- [Aries](../factors/aries.md)
+- [Vulcanus](../factors/vulcanus.md)
+- [Apollon](../factors/apollon.md)
+- [Aries/Vulcanus](../axes/aries-vulcanus.md)

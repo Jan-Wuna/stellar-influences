@@ -3,7 +3,7 @@ title: Mercury Venus Uranus
 page_type: triad_hub
 slug: mercury-venus-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Venus
@@ -18,7 +18,7 @@ orientations:
   - Venus/Uranus = Mercury
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mercury/Uranus = Venus](../activations/mercury-uranus-equals-venus.md)
-  Source page `158`, entry `0509`
+  Source page `163`
 - [Mercury/Venus = Uranus](../activations/mercury-venus-equals-uranus.md)
-  Source page `146`, entry `0464`
+  Source page `159`
 - [Venus/Uranus = Mercury](../activations/venus-uranus-equals-mercury.md)
-  Source page `185`, entry `0617`
+  Source page `179`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mercury/Uranus = Venus`: page `158`, entry `0509`
-- `Mercury/Venus = Uranus`: page `146`, entry `0464`
-- `Venus/Uranus = Mercury`: page `185`, entry `0617`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mercury/Uranus = Venus`: page `163`
+- `Mercury/Venus = Uranus`: page `159`
+- `Venus/Uranus = Mercury`: page `179`
 
 ## Contradictions Across Orientations
 

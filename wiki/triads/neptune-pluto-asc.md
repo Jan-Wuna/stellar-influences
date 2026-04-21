@@ -3,7 +3,7 @@ title: Neptune Pluto Asc
 page_type: triad_hub
 slug: neptune-pluto-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Neptune
   - Pluto
@@ -18,7 +18,7 @@ orientations:
   - Pluto/Asc = Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Neptune/Asc = Pluto](../activations/neptune-asc-equals-pluto.md)
-  Source page `288`, entry `1031`
+  Source page `89`
 - [Neptune/Pluto = Asc](../activations/neptune-pluto-equals-asc.md)
-  Source page `282`, entry `1008`
+  Source page `246`
 - [Pluto/Asc = Neptune](../activations/pluto-asc-equals-neptune.md)
-  Source page `295`, entry `1067`
+  Source page `90`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Neptune/Asc = Pluto`: page `288`, entry `1031`
-- `Neptune/Pluto = Asc`: page `282`, entry `1008`
-- `Pluto/Asc = Neptune`: page `295`, entry `1067`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Neptune/Asc = Pluto`: page `89`
+- `Neptune/Pluto = Asc`: page `246`
+- `Pluto/Asc = Neptune`: page `90`
 
 ## Contradictions Across Orientations
 

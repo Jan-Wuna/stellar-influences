@@ -3,7 +3,7 @@ title: Moon Mars Jupiter
 page_type: triad_hub
 slug: moon-mars-jupiter
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Mars
@@ -18,7 +18,7 @@ orientations:
   - Moon/Mars = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Jupiter = Moon](../activations/mars-jupiter-equals-moon.md)
-  Source page `202`, entry `0688`
+  Source page `192`
 - [Moon/Jupiter = Mars](../activations/moon-jupiter-equals-mars.md)
-  Source page `123`, entry `0366`
+  Source page `125`
 - [Moon/Mars = Jupiter](../activations/moon-mars-equals-jupiter.md)
-  Source page `120`, entry `0354`
+  Source page `124`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/Jupiter = Moon`: page `202`, entry `0688`
-- `Moon/Jupiter = Mars`: page `123`, entry `0366`
-- `Moon/Mars = Jupiter`: page `120`, entry `0354`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/Jupiter = Moon`: page `192`
+- `Moon/Jupiter = Mars`: page `125`
+- `Moon/Mars = Jupiter`: page `124`
 
 ## Contradictions Across Orientations
 

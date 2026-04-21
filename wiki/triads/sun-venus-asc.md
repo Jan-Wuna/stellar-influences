@@ -3,7 +3,7 @@ title: Sun Venus Asc
 page_type: triad_hub
 slug: sun-venus-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Venus
@@ -18,7 +18,7 @@ orientations:
   - Venus/Asc = Sun
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Sun/Asc = Venus](../activations/sun-asc-equals-venus.md)
-  Source page `108`, entry `0305`
+  Source page `80`
 - [Sun/Venus = Asc](../activations/sun-venus-equals-asc.md)
-  Source page `84`, entry `0216`
+  Source page `104`
 - [Venus/Asc = Sun](../activations/venus-asc-equals-sun.md)
-  Source page `196`, entry `0663`
+  Source page `84`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Sun/Asc = Venus`: page `108`, entry `0305`
-- `Sun/Venus = Asc`: page `84`, entry `0216`
-- `Venus/Asc = Sun`: page `196`, entry `0663`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Sun/Asc = Venus`: page `80`
+- `Sun/Venus = Asc`: page `104`
+- `Venus/Asc = Sun`: page `84`
 
 ## Contradictions Across Orientations
 

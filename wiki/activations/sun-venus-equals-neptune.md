@@ -3,7 +3,7 @@ title: Sun/Venus = Neptune
 page_type: activation
 slug: sun-venus-equals-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Venus
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0213`
-- Source page: `84`
+- Source heading: `Sun + Venus`
+- Source page: `104`
+#### Witte Entry
 
-#### Ebertin Entry
-
-An untrue feeling in love, inclination to wrong ways or wrong expression in love, wrong ideas about true love or about genuine art. Love torment, disappointment in love, aberration in love.
+Overly sensitive in matters of love. Coolness in expressing affection. Unhappy love of a man. Love without prospects.
 
 ## Comparative Schema
 
-- core meaning: An untrue feeling in love, inclination to wrong ways or wrong expression in love, wrong ideas about true love or about genuine art. Love torment, disappointment in love, aberration in love.
+- core meaning: Overly sensitive in matters of love. Coolness in expressing affection. Unhappy love of a man. Love without prospects.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ An untrue feeling in love, inclination to wrong ways or wrong expression in love
 - [Venus](../factors/venus.md)
 - [Neptune](../factors/neptune.md)
 - [Sun/Venus](../axes/sun-venus.md)
-- [Sun Venus Neptune](../triads/sun-venus-neptune.md)

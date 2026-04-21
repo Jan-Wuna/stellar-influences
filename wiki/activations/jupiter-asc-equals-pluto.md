@@ -3,10 +3,10 @@ title: Jupiter/Asc = Pluto
 page_type: activation
 slug: jupiter-asc-equals-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Jupiter
   - Asc
+  - Jupiter
   - Pluto
 normalized_formula: Jupiter/Asc = Pluto
 axis: Jupiter/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0851`
-- Source page: `241`
+- Source heading: `Asc + Jupiter`
+- Source page: `86`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Desire to exercise a good influence upon many, gaining recognition.
+To experience increasing benevolence from others. Good adaptability to the environment. Happy change with others.
 
 ## Comparative Schema
 
-- core meaning: Desire to exercise a good influence upon many, gaining recognition.
+- core meaning: To experience increasing benevolence from others. Good adaptability to the environment. Happy change with others.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Desire to exercise a good influence upon many, gaining recognition.
 - [Asc](../factors/asc.md)
 - [Pluto](../factors/pluto.md)
 - [Jupiter/Asc](../axes/jupiter-asc.md)
-- [Jupiter Pluto Asc](../triads/jupiter-pluto-asc.md)

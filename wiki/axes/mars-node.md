@@ -3,7 +3,7 @@ title: Mars/Node
 page_type: axis
 slug: mars-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Node
@@ -11,6 +11,9 @@ normalized_axis: Mars/Node
 factor_a: Mars
 factor_b: Node
 related_activations:
+  - Mars/Node = Aries
+  - Mars/Node = MC
+  - Mars/Node = Asc
   - Mars/Node = Sun
   - Mars/Node = Moon
   - Mars/Node = Mercury
@@ -20,13 +23,28 @@ related_activations:
   - Mars/Node = Uranus
   - Mars/Node = Neptune
   - Mars/Node = Pluto
-  - Mars/Node = Asc
-  - Mars/Node = MC
+  - Mars/Node = Cupido
+  - Mars/Node = Hades
+  - Mars/Node = Zeus
+  - Mars/Node = Kronos
+  - Mars/Node = Apollon
+  - Mars/Node = Admetos
+  - Mars/Node = Vulcanus
+  - Mars/Node = Poseidon
 related_triad_hubs:
+  - Aries Mars Node
   - Mars Jupiter Node
   - Mars Neptune Node
+  - Mars Node Admetos
+  - Mars Node Apollon
   - Mars Node Asc
+  - Mars Node Cupido
+  - Mars Node Hades
+  - Mars Node Kronos
   - Mars Node MC
+  - Mars Node Poseidon
+  - Mars Node Vulcanus
+  - Mars Node Zeus
   - Mars Pluto Node
   - Mars Saturn Node
   - Mars Uranus Node
@@ -37,7 +55,7 @@ related_triad_hubs:
 aliases:
   - Node/Mars
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,45 +63,31 @@ updated_at: 2026-04-21
 
 - Axis: `Mars/Node`
 - Astronomicon axis: `U/g`
-- Source heading: `Mars/Dragon's Head`
-- Source page: `216`
+- Source heading: `Node + Mars`
+- Source page: `143`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-Collaboration and cooperation, union based on physical attraction alone.
-
-#### Psychological Correspondence
-
-+ Desire to cooperate with others, comradeship and team spirit, a social conscience, desire for progeny. - Disharmonious collaboration, desire to quarrel, lack of good fellowship. C Lack of adaptability, desire to quarrel.
-
-#### Biological Correspondence
-
-"The activity of the astral body." A disturbance of the great life rhythms: precocity, disturbances during the climacteric years, eunuchs and eunuch-like behavior.
-
-#### Sociological Correspondence
-
-Associations of people working together to a common end or purpose.
-
-#### Probable Manifestations
-
-+ Attainment of joint or shared successes, entering into union with others. - Quarrels and disputes within communities, organizations and associations, an interruption of associations. Mars/Dragon's Head o7&
-
+Working community. Concerted action. Betrothal. Sexual union. Erotic unions. Common action. Connected through work or activities. Joint activities.
 
 ## Comparative Schema
 
-- core meaning: Collaboration and cooperation, union based on physical attraction alone.
-- psychology: + Desire to cooperate with others, comradeship and team spirit, a social conscience, desire for progeny. - Disharmonious collaboration, desire to quarrel, lack of good fellowship. C Lack of adaptability, desire to quarrel.
-- body/health: "The activity of the astral body." A disturbance of the great life rhythms: precocity, disturbances during the climacteric years, eunuchs and eunuch-like behavior.
-- social/relationship: Associations of people working together to a common end or purpose.
-- events/manifestations: + Attainment of joint or shared successes, entering into union with others. - Quarrels and disputes within communities, organizations and associations, an interruption of associations. Mars/Dragon's Head o7&
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: Working community. Concerted action. Betrothal. Sexual union. Erotic unions. Common action. Connected through work or activities. Joint activities.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Mars/Node = Aries](../activations/mars-node-equals-aries.md)
+- [Mars/Node = MC](../activations/mars-node-equals-mc.md)
+- [Mars/Node = Asc](../activations/mars-node-equals-asc.md)
 - [Mars/Node = Sun](../activations/mars-node-equals-sun.md)
 - [Mars/Node = Moon](../activations/mars-node-equals-moon.md)
 - [Mars/Node = Mercury](../activations/mars-node-equals-mercury.md)
@@ -93,8 +97,14 @@ Associations of people working together to a common end or purpose.
 - [Mars/Node = Uranus](../activations/mars-node-equals-uranus.md)
 - [Mars/Node = Neptune](../activations/mars-node-equals-neptune.md)
 - [Mars/Node = Pluto](../activations/mars-node-equals-pluto.md)
-- [Mars/Node = Asc](../activations/mars-node-equals-asc.md)
-- [Mars/Node = MC](../activations/mars-node-equals-mc.md)
+- [Mars/Node = Cupido](../activations/mars-node-equals-cupido.md)
+- [Mars/Node = Hades](../activations/mars-node-equals-hades.md)
+- [Mars/Node = Zeus](../activations/mars-node-equals-zeus.md)
+- [Mars/Node = Kronos](../activations/mars-node-equals-kronos.md)
+- [Mars/Node = Apollon](../activations/mars-node-equals-apollon.md)
+- [Mars/Node = Admetos](../activations/mars-node-equals-admetos.md)
+- [Mars/Node = Vulcanus](../activations/mars-node-equals-vulcanus.md)
+- [Mars/Node = Poseidon](../activations/mars-node-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Associations of people working together to a common end or purpose.
 
 - [Mars](../factors/mars.md)
 - [Node](../factors/node.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

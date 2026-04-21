@@ -3,7 +3,7 @@ title: Sun/Mercury = Node
 page_type: activation
 slug: sun-mercury-equals-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Mercury
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0203`
-- Source page: `82`
+- Source heading: `Sun + Mercury`
+- Source page: `103`
+#### Witte Entry
 
-#### Ebertin Entry
-
-The inclination to enjoy talking with people, the state of being united in thoughts with someone else. A good companion. Sociableness and entertainment, proceedings or discussions.
+Union of thought (a mental connection). To signal. To wink.
 
 ## Comparative Schema
 
-- core meaning: The inclination to enjoy talking with people, the state of being united in thoughts with someone else. A good companion. Sociableness and entertainment, proceedings or discussions.
+- core meaning: Union of thought (a mental connection). To signal. To wink.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ The inclination to enjoy talking with people, the state of being united in thoug
 - [Mercury](../factors/mercury.md)
 - [Node](../factors/node.md)
 - [Sun/Mercury](../axes/sun-mercury.md)
-- [Sun Mercury Node](../triads/sun-mercury-node.md)

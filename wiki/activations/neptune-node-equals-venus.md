@@ -3,10 +3,10 @@ title: Neptune/Node = Venus
 page_type: activation
 slug: neptune-node-equals-venus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Neptune
   - Node
+  - Neptune
   - Venus
 normalized_formula: Neptune/Node = Venus
 axis: Neptune/Node
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1014`
-- Source page: `284`
+- Source heading: `Node + Neptune`
+- Source page: `147`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Misconceptions with regard to other people's relationships and associations. Wrong liaisons, unfaithfulness.
+Unfortunate love unions. Unions which seems to be harmonious at first, but later become untenable.
 
 ## Comparative Schema
 
-- core meaning: Misconceptions with regard to other people's relationships and associations. Wrong liaisons, unfaithfulness.
+- core meaning: Unfortunate love unions. Unions which seems to be harmonious at first, but later become untenable.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Misconceptions with regard to other people's relationships and associations. Wro
 - [Node](../factors/node.md)
 - [Venus](../factors/venus.md)
 - [Neptune/Node](../axes/neptune-node.md)
-- [Venus Neptune Node](../triads/venus-neptune-node.md)

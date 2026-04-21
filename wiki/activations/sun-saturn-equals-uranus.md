@@ -3,7 +3,7 @@ title: Sun/Saturn = Uranus
 page_type: activation
 slug: sun-saturn-equals-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Saturn
@@ -17,7 +17,7 @@ triad_set:
   - Uranus
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0248`
-- Source page: `93`
+- Source heading: `Sun + Saturn`
+- Source page: `107`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Fluctuating attitude toward life, emotional tension, sudden inhibitions, nervousness. Unusual circumstances, crises, separation, mourning, seclusion (imprisonment).
+Trouble or losses through older people. Sudden separations.
 
 ## Comparative Schema
 
-- core meaning: Fluctuating attitude toward life, emotional tension, sudden inhibitions, nervousness. Unusual circumstances, crises, separation, mourning, seclusion (imprisonment).
+- core meaning: Trouble or losses through older people. Sudden separations.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Fluctuating attitude toward life, emotional tension, sudden inhibitions, nervous
 - [Saturn](../factors/saturn.md)
 - [Uranus](../factors/uranus.md)
 - [Sun/Saturn](../axes/sun-saturn.md)
-- [Sun Saturn Uranus](../triads/sun-saturn-uranus.md)

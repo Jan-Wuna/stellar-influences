@@ -3,7 +3,7 @@ title: Moon/Uranus
 page_type: axis
 slug: moon-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Uranus
@@ -11,7 +11,11 @@ normalized_axis: Moon/Uranus
 factor_a: Moon
 factor_b: Uranus
 related_activations:
+  - Moon/Uranus = Aries
+  - Moon/Uranus = MC
+  - Moon/Uranus = Asc
   - Moon/Uranus = Sun
+  - Moon/Uranus = Node
   - Moon/Uranus = Mercury
   - Moon/Uranus = Venus
   - Moon/Uranus = Mars
@@ -19,25 +23,39 @@ related_activations:
   - Moon/Uranus = Saturn
   - Moon/Uranus = Neptune
   - Moon/Uranus = Pluto
-  - Moon/Uranus = Node
-  - Moon/Uranus = Asc
-  - Moon/Uranus = MC
+  - Moon/Uranus = Cupido
+  - Moon/Uranus = Hades
+  - Moon/Uranus = Zeus
+  - Moon/Uranus = Kronos
+  - Moon/Uranus = Apollon
+  - Moon/Uranus = Admetos
+  - Moon/Uranus = Vulcanus
+  - Moon/Uranus = Poseidon
 related_triad_hubs:
+  - Aries Moon Uranus
   - Moon Jupiter Uranus
   - Moon Mars Uranus
   - Moon Mercury Uranus
   - Moon Saturn Uranus
+  - Moon Uranus Admetos
+  - Moon Uranus Apollon
   - Moon Uranus Asc
+  - Moon Uranus Cupido
+  - Moon Uranus Hades
+  - Moon Uranus Kronos
   - Moon Uranus MC
   - Moon Uranus Neptune
   - Moon Uranus Node
   - Moon Uranus Pluto
+  - Moon Uranus Poseidon
+  - Moon Uranus Vulcanus
+  - Moon Uranus Zeus
   - Moon Venus Uranus
   - Sun Moon Uranus
 aliases:
   - Uranus/Moon
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,46 +63,33 @@ updated_at: 2026-04-21
 
 - Axis: `Moon/Uranus`
 - Astronomicon axis: `R/X`
-- Source heading: `Moon/Uranus`
-- Source page: `128`
+- Source heading: `Moon + Uranus`
+- Source page: `127`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-Emotional tensions. Sudden manifestation of subconscious forces.
-
-#### Psychological Correspondence
-
-+ Increased emotional excitability, attentiveness, ambition, tendency to act according to one's instincts, a strong self-will, tendency to strive tor a goal or objective, determination, an unconditional pursuit of one's own conviction, interest in the metaphysical sciences and realms (clairvoyance). - An excessive self-will, stubbornness, fanaticism, tendency to exaggerate or magnify things, inclination to strain the nerves, striving for absolute independence, unrest or restlessness, craving of sensation. C An over-strained emotional life, peculiar interests, intellectual talents, individualism.
-
-#### Biological Correspondence
-
-The rhythm of the water economy in the blood, blood pressure disturbances, colic of the water-excreting organs (prostate diseases). Connections with the female period.
-
-#### Sociological Correspondence
-
-Restless, nervous or ambitious women, female reformists.
-
-#### Probable Manifestations
-
-+ Sacrifices for the attainment of special aims, help and assistance through friends, attainment of sudden success, accomplishment of a change in one's circumstances. - Tendency to overdo things either in work or in the pursuit of objectives strains the nervous system. States of fear and anxiety. 23 Schizophrenic symptoms have been found at times, but one should be careful not to diagnose schizophrenia in the case of every Moon -Uranus aspect. If such a tendency is found there are usually additional factors which are inherited. Moon/Uranus D/W
-
+Awake. Rouse. Excite. Vibrating motion. Interest. Attention. Restlessness of the body and the mind. Womens ambition. Energetic woman. Hour of tension. Eventful hour. Uproar of the populace. Excitement. Nervousness of female persons. Uproars caused by women. Excited persons and people.
 
 ## Comparative Schema
 
-- core meaning: Emotional tensions. Sudden manifestation of subconscious forces.
-- psychology: + Increased emotional excitability, attentiveness, ambition, tendency to act according to one's instincts, a strong self-will, tendency to strive tor a goal or objective, determination, an unconditional pursuit of one's own conviction, interest in the metaphysical sciences and realms (clairvoyance). - An excessive self-will, stubbornness, fanaticism, tendency to exaggerate or magnify things, inclination to strain the nerves, striving for absolute independence, unrest or restlessness, craving of sensation. C An over-strained emotional life, peculiar interests, intellectual talents, individualism.
-- body/health: The rhythm of the water economy in the blood, blood pressure disturbances, colic of the water-excreting organs (prostate diseases). Connections with the female period.
-- social/relationship: Restless, nervous or ambitious women, female reformists.
-- events/manifestations: + Sacrifices for the attainment of special aims, help and assistance through friends, attainment of sudden success, accomplishment of a change in one's circumstances. - Tendency to overdo things either in work or in the pursuit of objectives strains the nervous system. States of fear and anxiety. 23 Schizophrenic symptoms have been found at times, but one should be careful not to diagnose schizophrenia in the case of every Moon -Uranus aspect. If such a tendency is found there are usually additional factors which are inherited. Moon/Uranus D/W
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: Awake. Rouse. Excite. Vibrating motion. Interest. Attention. Restlessness of the body and the mind. Womens ambition. Energetic woman. Hour of tension. Eventful hour. Uproar of the populace. Excitement. Nervousness of female persons. Uproars caused by women. Excited persons and people.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Moon/Uranus = Aries](../activations/moon-uranus-equals-aries.md)
+- [Moon/Uranus = MC](../activations/moon-uranus-equals-mc.md)
+- [Moon/Uranus = Asc](../activations/moon-uranus-equals-asc.md)
 - [Moon/Uranus = Sun](../activations/moon-uranus-equals-sun.md)
+- [Moon/Uranus = Node](../activations/moon-uranus-equals-node.md)
 - [Moon/Uranus = Mercury](../activations/moon-uranus-equals-mercury.md)
 - [Moon/Uranus = Venus](../activations/moon-uranus-equals-venus.md)
 - [Moon/Uranus = Mars](../activations/moon-uranus-equals-mars.md)
@@ -92,9 +97,14 @@ Restless, nervous or ambitious women, female reformists.
 - [Moon/Uranus = Saturn](../activations/moon-uranus-equals-saturn.md)
 - [Moon/Uranus = Neptune](../activations/moon-uranus-equals-neptune.md)
 - [Moon/Uranus = Pluto](../activations/moon-uranus-equals-pluto.md)
-- [Moon/Uranus = Node](../activations/moon-uranus-equals-node.md)
-- [Moon/Uranus = Asc](../activations/moon-uranus-equals-asc.md)
-- [Moon/Uranus = MC](../activations/moon-uranus-equals-mc.md)
+- [Moon/Uranus = Cupido](../activations/moon-uranus-equals-cupido.md)
+- [Moon/Uranus = Hades](../activations/moon-uranus-equals-hades.md)
+- [Moon/Uranus = Zeus](../activations/moon-uranus-equals-zeus.md)
+- [Moon/Uranus = Kronos](../activations/moon-uranus-equals-kronos.md)
+- [Moon/Uranus = Apollon](../activations/moon-uranus-equals-apollon.md)
+- [Moon/Uranus = Admetos](../activations/moon-uranus-equals-admetos.md)
+- [Moon/Uranus = Vulcanus](../activations/moon-uranus-equals-vulcanus.md)
+- [Moon/Uranus = Poseidon](../activations/moon-uranus-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Restless, nervous or ambitious women, female reformists.
 
 - [Moon](../factors/moon.md)
 - [Uranus](../factors/uranus.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

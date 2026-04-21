@@ -3,10 +3,10 @@ title: Sun/Asc = Venus
 page_type: activation
 slug: sun-asc-equals-venus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Sun
   - Asc
+  - Sun
   - Venus
 normalized_formula: Sun/Asc = Venus
 axis: Sun/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0305`
-- Source page: `108`
+- Source heading: `Asc + Sun`
+- Source page: `80`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Impersonal love of humanity, harmonious attitude with regard to one's environment, an affectionate nature. Affection and attachment.
+Harmony in associations with women. Love relationships. Pleasant social relations.
 
 ## Comparative Schema
 
-- core meaning: Impersonal love of humanity, harmonious attitude with regard to one's environment, an affectionate nature. Affection and attachment.
+- core meaning: Harmony in associations with women. Love relationships. Pleasant social relations.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Impersonal love of humanity, harmonious attitude with regard to one's environmen
 - [Asc](../factors/asc.md)
 - [Venus](../factors/venus.md)
 - [Sun/Asc](../axes/sun-asc.md)
-- [Sun Venus Asc](../triads/sun-venus-asc.md)

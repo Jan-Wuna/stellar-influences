@@ -3,7 +3,7 @@ title: Mercury Jupiter Node
 page_type: triad_hub
 slug: mercury-jupiter-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Jupiter
@@ -14,10 +14,11 @@ triad_set:
   - Node
 orientations:
   - Jupiter/Node = Mercury
+  - Mercury/Jupiter = Node
   - Mercury/Node = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,15 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Node = Mercury](../activations/jupiter-node-equals-mercury.md)
-  Source page `238`, entry `0833`
+  Source page `144`
+- [Mercury/Jupiter = Node](../activations/mercury-jupiter-equals-node.md)
+  Source page `161`
 - [Mercury/Node = Jupiter](../activations/mercury-node-equals-jupiter.md)
-  Source page `167`, entry `0547`
+  Source page `141`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/Node = Mercury`: page `238`, entry `0833`
-- `Mercury/Node = Jupiter`: page `167`, entry `0547`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/Node = Mercury`: page `144`
+- `Mercury/Jupiter = Node`: page `161`
+- `Mercury/Node = Jupiter`: page `141`
 
 ## Contradictions Across Orientations
 

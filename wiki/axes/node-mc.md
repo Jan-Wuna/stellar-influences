@@ -3,7 +3,7 @@ title: Node/MC
 page_type: axis
 slug: node-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Node
   - MC
@@ -11,6 +11,8 @@ normalized_axis: Node/MC
 factor_a: Node
 factor_b: MC
 related_activations:
+  - Node/MC = Aries
+  - Node/MC = Asc
   - Node/MC = Sun
   - Node/MC = Moon
   - Node/MC = Mercury
@@ -21,14 +23,30 @@ related_activations:
   - Node/MC = Uranus
   - Node/MC = Neptune
   - Node/MC = Pluto
-  - Node/MC = Asc
+  - Node/MC = Cupido
+  - Node/MC = Hades
+  - Node/MC = Zeus
+  - Node/MC = Kronos
+  - Node/MC = Apollon
+  - Node/MC = Admetos
+  - Node/MC = Vulcanus
+  - Node/MC = Poseidon
 related_triad_hubs:
+  - Aries Node MC
   - Jupiter Node MC
   - Mars Node MC
   - Mercury Node MC
   - Moon Node MC
   - Neptune Node MC
   - Node Asc MC
+  - Node MC Admetos
+  - Node MC Apollon
+  - Node MC Cupido
+  - Node MC Hades
+  - Node MC Kronos
+  - Node MC Poseidon
+  - Node MC Vulcanus
+  - Node MC Zeus
   - Pluto Node MC
   - Saturn Node MC
   - Sun Node MC
@@ -37,7 +55,7 @@ related_triad_hubs:
 aliases:
   - MC/Node
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,45 +63,30 @@ updated_at: 2026-04-21
 
 - Axis: `Node/MC`
 - Astronomicon axis: `g/MC`
-- Source heading: `Dragon's Head/Medium Coeli`
-- Source page: `303`
+- Source heading: `MC + Node`
+- Source page: `61`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-Individual relationships.
-
-#### Psychological Correspondence
-
-+ Desire to seek people with the same ideas as oneself, enthusiasm for joint ideals and aspirations, tendency to lay stress on inner understanding as regards one's personal relationships with others. - Inconstancy in the pursuit of joint objectives. Inclination to differ from other people and show it. Placing one's own personal interests and objectives above those of the community or the group to which one belongs. C Desire for individual associations.
-
-#### Biological Correspondence
-
-The sidereal or astral body and ego-consciousness. The psychic or inner stress of the soul. (The half-sum Dragon's Head/Medium Coeli indicates in what manner the position of the Moon in the chart will be utilized personally.)
-
-#### Sociological Correspondence
-
-Associations of people with the same interests. Friends with the same outlook on life.
-
-#### Probable Manifestations
-
-+ Establishment of an association for the attainment of joint objectives. Unions based on a mutual inner understanding. - Cropping up of difficulties in the pursuit of joint and common interests between people. Dragon's Head/Medium Coeli ^/M
-
+Soul mates. One s close personal connections. Contacts in profession. Inner or emotional bonds. The moment (minute) of contact. The moment of connection.
 
 ## Comparative Schema
 
-- core meaning: Individual relationships.
-- psychology: + Desire to seek people with the same ideas as oneself, enthusiasm for joint ideals and aspirations, tendency to lay stress on inner understanding as regards one's personal relationships with others. - Inconstancy in the pursuit of joint objectives. Inclination to differ from other people and show it. Placing one's own personal interests and objectives above those of the community or the group to which one belongs. C Desire for individual associations.
-- body/health: The sidereal or astral body and ego-consciousness. The psychic or inner stress of the soul. (The half-sum Dragon's Head/Medium Coeli indicates in what manner the position of the Moon in the chart will be utilized personally.)
-- social/relationship: Associations of people with the same interests. Friends with the same outlook on life.
-- events/manifestations: + Establishment of an association for the attainment of joint objectives. Unions based on a mutual inner understanding. - Cropping up of difficulties in the pursuit of joint and common interests between people. Dragon's Head/Medium Coeli ^/M
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: Soul mates. One s close personal connections. Contacts in profession. Inner or emotional bonds. The moment (minute) of contact. The moment of connection.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Node/MC = Aries](../activations/node-mc-equals-aries.md)
+- [Node/MC = Asc](../activations/node-mc-equals-asc.md)
 - [Node/MC = Sun](../activations/node-mc-equals-sun.md)
 - [Node/MC = Moon](../activations/node-mc-equals-moon.md)
 - [Node/MC = Mercury](../activations/node-mc-equals-mercury.md)
@@ -94,7 +97,14 @@ Associations of people with the same interests. Friends with the same outlook on
 - [Node/MC = Uranus](../activations/node-mc-equals-uranus.md)
 - [Node/MC = Neptune](../activations/node-mc-equals-neptune.md)
 - [Node/MC = Pluto](../activations/node-mc-equals-pluto.md)
-- [Node/MC = Asc](../activations/node-mc-equals-asc.md)
+- [Node/MC = Cupido](../activations/node-mc-equals-cupido.md)
+- [Node/MC = Hades](../activations/node-mc-equals-hades.md)
+- [Node/MC = Zeus](../activations/node-mc-equals-zeus.md)
+- [Node/MC = Kronos](../activations/node-mc-equals-kronos.md)
+- [Node/MC = Apollon](../activations/node-mc-equals-apollon.md)
+- [Node/MC = Admetos](../activations/node-mc-equals-admetos.md)
+- [Node/MC = Vulcanus](../activations/node-mc-equals-vulcanus.md)
+- [Node/MC = Poseidon](../activations/node-mc-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Associations of people with the same interests. Friends with the same outlook on
 
 - [Node](../factors/node.md)
 - [MC](../factors/mc.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

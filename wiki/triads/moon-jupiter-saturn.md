@@ -3,7 +3,7 @@ title: Moon Jupiter Saturn
 page_type: triad_hub
 slug: moon-jupiter-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Jupiter
@@ -18,7 +18,7 @@ orientations:
   - Moon/Saturn = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Saturn = Moon](../activations/jupiter-saturn-equals-moon.md)
-  Source page `226`, entry `0784`
+  Source page `207`
 - [Moon/Jupiter = Saturn](../activations/moon-jupiter-equals-saturn.md)
-  Source page `123`, entry `0367`
+  Source page `125`
 - [Moon/Saturn = Jupiter](../activations/moon-saturn-equals-jupiter.md)
-  Source page `126`, entry `0379`
+  Source page `126`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/Saturn = Moon`: page `226`, entry `0784`
-- `Moon/Jupiter = Saturn`: page `123`, entry `0367`
-- `Moon/Saturn = Jupiter`: page `126`, entry `0379`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/Saturn = Moon`: page `207`
+- `Moon/Jupiter = Saturn`: page `125`
+- `Moon/Saturn = Jupiter`: page `126`
 
 ## Contradictions Across Orientations
 

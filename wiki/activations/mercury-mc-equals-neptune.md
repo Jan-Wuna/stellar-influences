@@ -3,10 +3,10 @@ title: Mercury/MC = Neptune
 page_type: activation
 slug: mercury-mc-equals-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Mercury
   - MC
+  - Mercury
   - Neptune
 normalized_formula: Mercury/MC = Neptune
 axis: Mercury/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0574`
-- Source page: `173`
+- Source heading: `MC + Mercury`
+- Source page: `62`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Reveling in one's own thoughts, contemplation, fantastic notions, receptive to external stimuli and influences. Reverie or ecstasy, tendency to let oneself go, disappointments.
+Thinking of nothing. Not able to recognize important points. To be absentminded. To be prepared for something. To receive intuitive messages.
 
 ## Comparative Schema
 
-- core meaning: Reveling in one's own thoughts, contemplation, fantastic notions, receptive to external stimuli and influences. Reverie or ecstasy, tendency to let oneself go, disappointments.
+- core meaning: Thinking of nothing. Not able to recognize important points. To be absentminded. To be prepared for something. To receive intuitive messages.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Reveling in one's own thoughts, contemplation, fantastic notions, receptive to e
 - [MC](../factors/mc.md)
 - [Neptune](../factors/neptune.md)
 - [Mercury/MC](../axes/mercury-mc.md)
-- [Mercury Neptune MC](../triads/mercury-neptune-mc.md)

@@ -3,10 +3,10 @@ title: Venus/MC = Mercury
 page_type: activation
 slug: venus-mc-equals-mercury
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Venus
   - MC
+  - Venus
   - Mercury
 normalized_formula: Venus/MC = Mercury
 axis: Venus/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0677`
-- Source page: `199`
+- Source heading: `MC + Venus`
+- Source page: `63`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A sense of beauty and art, artistic trends of thoughts, occupation with art as a hobby. Revealing one's attachment.
+To make acquaintances easily. To enjoy beautiful objects. Talks about beauty.
 
 ## Comparative Schema
 
-- core meaning: A sense of beauty and art, artistic trends of thoughts, occupation with art as a hobby. Revealing one's attachment.
+- core meaning: To make acquaintances easily. To enjoy beautiful objects. Talks about beauty.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A sense of beauty and art, artistic trends of thoughts, occupation with art as a
 - [MC](../factors/mc.md)
 - [Mercury](../factors/mercury.md)
 - [Venus/MC](../axes/venus-mc.md)
-- [Mercury Venus MC](../triads/mercury-venus-mc.md)

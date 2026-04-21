@@ -3,7 +3,7 @@ title: Jupiter/Saturn = Mars
 page_type: activation
 slug: jupiter-saturn-equals-mars
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Saturn
@@ -17,7 +17,7 @@ triad_set:
   - Saturn
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0787`
-- Source page: `226`
+- Source heading: `Jupiter + Saturn`
+- Source page: `207`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Lack of endurance or tenacity, discontent, an inconstant will. Desire to enforce a change of circumstances and conditions in life, the act of separation.
+Happy activity of short duration. The results of an activity only show later. Betrothal with following separation.
 
 ## Comparative Schema
 
-- core meaning: Lack of endurance or tenacity, discontent, an inconstant will. Desire to enforce a change of circumstances and conditions in life, the act of separation.
+- core meaning: Happy activity of short duration. The results of an activity only show later. Betrothal with following separation.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Lack of endurance or tenacity, discontent, an inconstant will. Desire to enforce
 - [Saturn](../factors/saturn.md)
 - [Mars](../factors/mars.md)
 - [Jupiter/Saturn](../axes/jupiter-saturn.md)
-- [Mars Jupiter Saturn](../triads/mars-jupiter-saturn.md)

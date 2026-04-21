@@ -3,7 +3,7 @@ title: Mars/Neptune
 page_type: axis
 slug: mars-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Neptune
@@ -11,23 +11,41 @@ normalized_axis: Mars/Neptune
 factor_a: Mars
 factor_b: Neptune
 related_activations:
+  - Mars/Neptune = Aries
+  - Mars/Neptune = MC
+  - Mars/Neptune = Asc
   - Mars/Neptune = Sun
   - Mars/Neptune = Moon
+  - Mars/Neptune = Node
   - Mars/Neptune = Mercury
   - Mars/Neptune = Venus
   - Mars/Neptune = Jupiter
   - Mars/Neptune = Saturn
   - Mars/Neptune = Uranus
   - Mars/Neptune = Pluto
-  - Mars/Neptune = Node
-  - Mars/Neptune = Asc
-  - Mars/Neptune = MC
+  - Mars/Neptune = Cupido
+  - Mars/Neptune = Hades
+  - Mars/Neptune = Zeus
+  - Mars/Neptune = Kronos
+  - Mars/Neptune = Apollon
+  - Mars/Neptune = Admetos
+  - Mars/Neptune = Vulcanus
+  - Mars/Neptune = Poseidon
 related_triad_hubs:
+  - Aries Mars Neptune
   - Mars Jupiter Neptune
+  - Mars Neptune Admetos
+  - Mars Neptune Apollon
   - Mars Neptune Asc
+  - Mars Neptune Cupido
+  - Mars Neptune Hades
+  - Mars Neptune Kronos
   - Mars Neptune MC
   - Mars Neptune Node
   - Mars Neptune Pluto
+  - Mars Neptune Poseidon
+  - Mars Neptune Vulcanus
+  - Mars Neptune Zeus
   - Mars Saturn Neptune
   - Mars Uranus Neptune
   - Mercury Mars Neptune
@@ -37,7 +55,7 @@ related_triad_hubs:
 aliases:
   - Neptune/Mars
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,56 +63,48 @@ updated_at: 2026-04-21
 
 - Axis: `Mars/Neptune`
 - Astronomicon axis: `U/Y`
-- Source heading: `Mars/Neptune`
-- Source page: `210`
+- Source heading: `Mars + Neptune`
+- Source page: `195`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-Irritability, weakness.
-
-#### Psychological Correspondence
-
-+ Control of the feelings and passions through one's mental attitude and inner or spiritual aspirations, occasional or temporary interest in artistic pursuits. - Conscious direction of the will without the ability to take action, desire to harm other people, misuse or abuse of physical energy, misdirected powers and capabilities (also in a criminal sense), self-destructive forces and agents (such as narcotic poisons or drugs, as well as the misuse of the procreative power), moodiness. Irritability, discontent, feelings of inferiority. C Lack of energy, dissatisfaction, feeling of inferiority.
-
-#### Biological Correspondence
-
-"Activity paralyzed." A paralysis of the muscles, wasting away of the muscles. Susceptibility to epidemic infections, consequences or results of an infection (the basic formula for the normal and predictable course of diseases = diseases of infection). The discharge of pus.
-
-#### Sociological Correspondence
-
-Sick people, people craving for drugs. People connected generally with water or navigation.
-
-#### Probable Manifestations
-
-+ Inspirations, a lot of plans, help at the right time. - Failures caused through the absence of plans or through lack of energy, the misfortune to suffer harm or exploitation, dislike of work, obstinacy and stubbornness, narrow-mindedness. 42 Mars/Neptune contacts should be given particular consideration in cases of illness as it is often characteristic of an infection from outside or of a type of auto-toxin which in severe cases can lead to death if the body has not been freed of the toxin early on. Mars/Neptune cW
-
+Rejection. Denial. Destruction. Infection. Failures. Future employment. Causing poisoning. To act with poor results. To be hindered, prevented. Inability to carry out the plans. Unclear or incomprehensible actions. Working under insecure or unknown conditions. Activities or labor in connection with water or air.
 
 ## Comparative Schema
 
-- core meaning: Irritability, weakness.
-- psychology: + Control of the feelings and passions through one's mental attitude and inner or spiritual aspirations, occasional or temporary interest in artistic pursuits. - Conscious direction of the will without the ability to take action, desire to harm other people, misuse or abuse of physical energy, misdirected powers and capabilities (also in a criminal sense), self-destructive forces and agents (such as narcotic poisons or drugs, as well as the misuse of the procreative power), moodiness. Irritability, discontent, feelings of inferiority. C Lack of energy, dissatisfaction, feeling of inferiority.
-- body/health: "Activity paralyzed." A paralysis of the muscles, wasting away of the muscles. Susceptibility to epidemic infections, consequences or results of an infection (the basic formula for the normal and predictable course of diseases = diseases of infection). The discharge of pus.
-- social/relationship: Sick people, people craving for drugs. People connected generally with water or navigation.
-- events/manifestations: + Inspirations, a lot of plans, help at the right time. - Failures caused through the absence of plans or through lack of energy, the misfortune to suffer harm or exploitation, dislike of work, obstinacy and stubbornness, narrow-mindedness. 42 Mars/Neptune contacts should be given particular consideration in cases of illness as it is often characteristic of an infection from outside or of a type of auto-toxin which in severe cases can lead to death if the body has not been freed of the toxin early on. Mars/Neptune cW
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: Rejection. Denial. Destruction. Infection. Failures. Future employment. Causing poisoning. To act with poor results. To be hindered, prevented. Inability to carry out the plans. Unclear or incomprehensible actions. Working under insecure or unknown conditions. Activities or labor in connection with water or air.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Mars/Neptune = Aries](../activations/mars-neptune-equals-aries.md)
+- [Mars/Neptune = MC](../activations/mars-neptune-equals-mc.md)
+- [Mars/Neptune = Asc](../activations/mars-neptune-equals-asc.md)
 - [Mars/Neptune = Sun](../activations/mars-neptune-equals-sun.md)
 - [Mars/Neptune = Moon](../activations/mars-neptune-equals-moon.md)
+- [Mars/Neptune = Node](../activations/mars-neptune-equals-node.md)
 - [Mars/Neptune = Mercury](../activations/mars-neptune-equals-mercury.md)
 - [Mars/Neptune = Venus](../activations/mars-neptune-equals-venus.md)
 - [Mars/Neptune = Jupiter](../activations/mars-neptune-equals-jupiter.md)
 - [Mars/Neptune = Saturn](../activations/mars-neptune-equals-saturn.md)
 - [Mars/Neptune = Uranus](../activations/mars-neptune-equals-uranus.md)
 - [Mars/Neptune = Pluto](../activations/mars-neptune-equals-pluto.md)
-- [Mars/Neptune = Node](../activations/mars-neptune-equals-node.md)
-- [Mars/Neptune = Asc](../activations/mars-neptune-equals-asc.md)
-- [Mars/Neptune = MC](../activations/mars-neptune-equals-mc.md)
+- [Mars/Neptune = Cupido](../activations/mars-neptune-equals-cupido.md)
+- [Mars/Neptune = Hades](../activations/mars-neptune-equals-hades.md)
+- [Mars/Neptune = Zeus](../activations/mars-neptune-equals-zeus.md)
+- [Mars/Neptune = Kronos](../activations/mars-neptune-equals-kronos.md)
+- [Mars/Neptune = Apollon](../activations/mars-neptune-equals-apollon.md)
+- [Mars/Neptune = Admetos](../activations/mars-neptune-equals-admetos.md)
+- [Mars/Neptune = Vulcanus](../activations/mars-neptune-equals-vulcanus.md)
+- [Mars/Neptune = Poseidon](../activations/mars-neptune-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Sick people, people craving for drugs. People connected generally with water or 
 
 - [Mars](../factors/mars.md)
 - [Neptune](../factors/neptune.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

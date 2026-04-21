@@ -3,7 +3,7 @@ title: Mars/Pluto = Saturn
 page_type: activation
 slug: mars-pluto-equals-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Pluto
@@ -17,7 +17,7 @@ triad_set:
   - Pluto
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0740`
-- Source page: `214`
+- Source heading: `Mars + Pluto`
+- Source page: `196`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A person unafraid of hard work leaving no stone unturned in the pursuit of a particular task, desire to overcome difficulties and obstacles at all costs.
+Plan of a periodically performed work. Plans for the distant future. Plans, hindered or interrupted in their development.
 
 ## Comparative Schema
 
-- core meaning: A person unafraid of hard work leaving no stone unturned in the pursuit of a particular task, desire to overcome difficulties and obstacles at all costs.
+- core meaning: Plan of a periodically performed work. Plans for the distant future. Plans, hindered or interrupted in their development.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A person unafraid of hard work leaving no stone unturned in the pursuit of a par
 - [Pluto](../factors/pluto.md)
 - [Saturn](../factors/saturn.md)
 - [Mars/Pluto](../axes/mars-pluto.md)
-- [Mars Saturn Pluto](../triads/mars-saturn-pluto.md)

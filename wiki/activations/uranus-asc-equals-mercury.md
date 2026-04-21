@@ -3,10 +3,10 @@ title: Uranus/Asc = Mercury
 page_type: activation
 slug: uranus-asc-equals-mercury
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Uranus
   - Asc
+  - Uranus
   - Mercury
 normalized_formula: Uranus/Asc = Mercury
 axis: Uranus/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0977`
-- Source page: `275`
+- Source heading: `Asc + Uranus`
+- Source page: `88`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Act of criticizing, tendency to interfere in everything, curiosity and inquisitiveness, ability to quickly sum up conditions or circumstances, organizing power, ability to quickly grasp things. Making arrangements, sudden news, technological or industrial progress.
+To receive a message suddenly.
 
 ## Comparative Schema
 
-- core meaning: Act of criticizing, tendency to interfere in everything, curiosity and inquisitiveness, ability to quickly sum up conditions or circumstances, organizing power, ability to quickly grasp things. Making arrangements, sudden news, technological or industrial progress.
+- core meaning: To receive a message suddenly.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Act of criticizing, tendency to interfere in everything, curiosity and inquisiti
 - [Asc](../factors/asc.md)
 - [Mercury](../factors/mercury.md)
 - [Uranus/Asc](../axes/uranus-asc.md)
-- [Mercury Uranus Asc](../triads/mercury-uranus-asc.md)

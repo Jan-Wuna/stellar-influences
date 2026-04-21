@@ -3,7 +3,7 @@ title: Sun/Neptune = MC
 page_type: activation
 slug: sun-neptune-equals-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Neptune
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0277`
-- Source page: `100`
+- Source heading: `Sun + Neptune`
+- Source page: `109`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Being sensitive, weak, ill or impressionable. A negative outlook. Periods of depression, hyper-sensitivity or mental and emotional stress. 13 Pluto = Sun/Neptune has also been found in cases of polio as well as in cases of blood disease. 14 Moon's Node or Ascendant = Sun/Neptune has frequently been found to indicate a stay in hospital.
+Receptive. Hypersensitive. Delicate. Being unwilling or weak. Confusion and disturbances by own self-deceptions.
 
 ## Comparative Schema
 
-- core meaning: Being sensitive, weak, ill or impressionable. A negative outlook. Periods of depression, hyper-sensitivity or mental and emotional stress. 13 Pluto = Sun/Neptune has also been found in cases of polio as well as in cases of blood disease. 14 Moon's Node or Ascendant = Sun/Neptune has frequently been found to indicate a stay in hospital.
+- core meaning: Receptive. Hypersensitive. Delicate. Being unwilling or weak. Confusion and disturbances by own self-deceptions.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Being sensitive, weak, ill or impressionable. A negative outlook. Periods of dep
 - [Neptune](../factors/neptune.md)
 - [MC](../factors/mc.md)
 - [Sun/Neptune](../axes/sun-neptune.md)
-- [Sun Neptune MC](../triads/sun-neptune-mc.md)

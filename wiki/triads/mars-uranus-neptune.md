@@ -3,7 +3,7 @@ title: Mars Uranus Neptune
 page_type: triad_hub
 slug: mars-uranus-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Uranus
@@ -18,7 +18,7 @@ orientations:
   - Uranus/Neptune = Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Neptune = Uranus](../activations/mars-neptune-equals-uranus.md)
-  Source page `211`, entry `0729`
+  Source page `195`
 - [Mars/Uranus = Neptune](../activations/mars-uranus-equals-neptune.md)
-  Source page `208`, entry `0717`
+  Source page `194`
 - [Uranus/Neptune = Mars](../activations/uranus-neptune-equals-mars.md)
-  Source page `266`, entry `0943`
+  Source page `234`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/Neptune = Uranus`: page `211`, entry `0729`
-- `Mars/Uranus = Neptune`: page `208`, entry `0717`
-- `Uranus/Neptune = Mars`: page `266`, entry `0943`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/Neptune = Uranus`: page `195`
+- `Mars/Uranus = Neptune`: page `194`
+- `Uranus/Neptune = Mars`: page `234`
 
 ## Contradictions Across Orientations
 

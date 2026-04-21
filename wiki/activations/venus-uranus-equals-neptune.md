@@ -3,7 +3,7 @@ title: Venus/Uranus = Neptune
 page_type: activation
 slug: venus-uranus-equals-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Uranus
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0621`
-- Source page: `185`
+- Source heading: `Venus + Uranus`
+- Source page: `179`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A peculiar disposition in sex expression, sensitivity, tendency to listen to other people's suggestions too readily. Seduction, a peculiar love relationship, the necessity to renounce love suddenly.
+Unhappy love with resignation. Secrets in sudden romantic love.
 
 ## Comparative Schema
 
-- core meaning: A peculiar disposition in sex expression, sensitivity, tendency to listen to other people's suggestions too readily. Seduction, a peculiar love relationship, the necessity to renounce love suddenly.
+- core meaning: Unhappy love with resignation. Secrets in sudden romantic love.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A peculiar disposition in sex expression, sensitivity, tendency to listen to oth
 - [Uranus](../factors/uranus.md)
 - [Neptune](../factors/neptune.md)
 - [Venus/Uranus](../axes/venus-uranus.md)
-- [Venus Uranus Neptune](../triads/venus-uranus-neptune.md)

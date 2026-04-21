@@ -3,10 +3,10 @@ title: Jupiter/MC = Pluto
 page_type: activation
 slug: jupiter-mc-equals-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Jupiter
   - MC
+  - Jupiter
   - Pluto
 normalized_formula: Jupiter/MC = Pluto
 axis: Jupiter/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0863`
-- Source page: `245`
+- Source heading: `MC + Jupiter`
+- Source page: `65`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A successful person with extraordinary achievements. A great gain.
+To be delighted over growing happiness. To be happy about the way things are developing. Joy because of a lucky change.
 
 ## Comparative Schema
 
-- core meaning: A successful person with extraordinary achievements. A great gain.
+- core meaning: To be delighted over growing happiness. To be happy about the way things are developing. Joy because of a lucky change.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A successful person with extraordinary achievements. A great gain.
 - [MC](../factors/mc.md)
 - [Pluto](../factors/pluto.md)
 - [Jupiter/MC](../axes/jupiter-mc.md)
-- [Jupiter Pluto MC](../triads/jupiter-pluto-mc.md)

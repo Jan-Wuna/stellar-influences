@@ -3,7 +3,7 @@ title: Moon/Jupiter = Mercury
 page_type: activation
 slug: moon-jupiter-equals-mercury
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Jupiter
@@ -17,7 +17,7 @@ triad_set:
   - Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0364`
-- Source page: `123`
+- Source heading: `Moon + Jupiter`
+- Source page: `125`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Far-reaching plans, a large sphere of thinking, consciousness of objective, urge to learn and study. Union with a wealthy or happy woman. Successes through speaking or writing.
+To think of happy hours. Happy hours with cheerful conversations. Thoughts of a happy woman. News that make a people happy.
 
 ## Comparative Schema
 
-- core meaning: Far-reaching plans, a large sphere of thinking, consciousness of objective, urge to learn and study. Union with a wealthy or happy woman. Successes through speaking or writing.
+- core meaning: To think of happy hours. Happy hours with cheerful conversations. Thoughts of a happy woman. News that make a people happy.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Far-reaching plans, a large sphere of thinking, consciousness of objective, urge
 - [Jupiter](../factors/jupiter.md)
 - [Mercury](../factors/mercury.md)
 - [Moon/Jupiter](../axes/moon-jupiter.md)
-- [Moon Mercury Jupiter](../triads/moon-mercury-jupiter.md)

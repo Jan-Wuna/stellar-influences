@@ -3,7 +3,7 @@ title: Moon Mercury Node
 page_type: triad_hub
 slug: moon-mercury-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Mercury
@@ -18,7 +18,7 @@ orientations:
   - Moon/Node = Mercury
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mercury/Node = Moon](../activations/mercury-node-equals-moon.md)
-  Source page `167`, entry `0544`
+  Source page `141`
 - [Moon/Mercury = Node](../activations/moon-mercury-equals-node.md)
-  Source page `114`, entry `0335`
+  Source page `122`
 - [Moon/Node = Mercury](../activations/moon-node-equals-mercury.md)
-  Source page `137`, entry `0424`
+  Source page `121`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mercury/Node = Moon`: page `167`, entry `0544`
-- `Moon/Mercury = Node`: page `114`, entry `0335`
-- `Moon/Node = Mercury`: page `137`, entry `0424`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mercury/Node = Moon`: page `141`
+- `Moon/Mercury = Node`: page `122`
+- `Moon/Node = Mercury`: page `121`
 
 ## Contradictions Across Orientations
 

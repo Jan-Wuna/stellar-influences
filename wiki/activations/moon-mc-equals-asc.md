@@ -3,10 +3,10 @@ title: Moon/MC = Asc
 page_type: activation
 slug: moon-mc-equals-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Moon
   - MC
+  - Moon
   - Asc
 normalized_formula: Moon/MC = Asc
 axis: Moon/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0457`
-- Source page: `144`
+- Source heading: `MC + Moon`
+- Source page: `60`
+#### Witte Entry
 
-#### Ebertin Entry
-
-An emotional attitude to one's environment, comprehension of other people's spiritual needs.
+One’s mental attitude toward others. The psychological or emotional influence of women in the near environment.
 
 ## Comparative Schema
 
-- core meaning: An emotional attitude to one's environment, comprehension of other people's spiritual needs.
+- core meaning: One’s mental attitude toward others. The psychological or emotional influence of women in the near environment.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ An emotional attitude to one's environment, comprehension of other people's spir
 - [MC](../factors/mc.md)
 - [Asc](../factors/asc.md)
 - [Moon/MC](../axes/moon-mc.md)
-- [Moon Asc MC](../triads/moon-asc-mc.md)

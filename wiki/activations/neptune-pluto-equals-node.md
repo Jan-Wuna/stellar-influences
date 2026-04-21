@@ -3,7 +3,7 @@ title: Neptune/Pluto = Node
 page_type: activation
 slug: neptune-pluto-equals-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Neptune
   - Pluto
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1007`
-- Source page: `282`
+- Source heading: `Neptune + Pluto`
+- Source page: `246`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Sharing peculiar experiences with others, inherited psychical or metaphysical talents.
+Connections which slowly come and go, hardly noticed. Hidden changes in a relationship. A joint planning for the future.
 
 ## Comparative Schema
 
-- core meaning: Sharing peculiar experiences with others, inherited psychical or metaphysical talents.
+- core meaning: Connections which slowly come and go, hardly noticed. Hidden changes in a relationship. A joint planning for the future.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Sharing peculiar experiences with others, inherited psychical or metaphysical ta
 - [Pluto](../factors/pluto.md)
 - [Node](../factors/node.md)
 - [Neptune/Pluto](../axes/neptune-pluto.md)
-- [Neptune Pluto Node](../triads/neptune-pluto-node.md)

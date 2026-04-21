@@ -3,7 +3,7 @@ title: Venus/Pluto = Node
 page_type: activation
 slug: venus-pluto-equals-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Pluto
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0647`
-- Source page: `191`
+- Source heading: `Venus + Pluto`
+- Source page: `181`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Ability to exercise a fascination or an attraction upon many people, inclination to associate with other persons for better or worse.
+Development of harmonious connections. Consideration results in connections.
 
 ## Comparative Schema
 
-- core meaning: Ability to exercise a fascination or an attraction upon many people, inclination to associate with other persons for better or worse.
+- core meaning: Development of harmonious connections. Consideration results in connections.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Ability to exercise a fascination or an attraction upon many people, inclination
 - [Pluto](../factors/pluto.md)
 - [Node](../factors/node.md)
 - [Venus/Pluto](../axes/venus-pluto.md)
-- [Venus Pluto Node](../triads/venus-pluto-node.md)

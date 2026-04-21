@@ -3,7 +3,7 @@ title: Mercury Venus Saturn
 page_type: triad_hub
 slug: mercury-venus-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Venus
@@ -18,7 +18,7 @@ orientations:
   - Venus/Saturn = Mercury
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mercury/Saturn = Venus](../activations/mercury-saturn-equals-venus.md)
-  Source page `155`, entry `0497`
+  Source page `162`
 - [Mercury/Venus = Saturn](../activations/mercury-venus-equals-saturn.md)
-  Source page `146`, entry `0463`
+  Source page `159`
 - [Venus/Saturn = Mercury](../activations/venus-saturn-equals-mercury.md)
-  Source page `182`, entry `0605`
+  Source page `178`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mercury/Saturn = Venus`: page `155`, entry `0497`
-- `Mercury/Venus = Saturn`: page `146`, entry `0463`
-- `Venus/Saturn = Mercury`: page `182`, entry `0605`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mercury/Saturn = Venus`: page `162`
+- `Mercury/Venus = Saturn`: page `159`
+- `Venus/Saturn = Mercury`: page `178`
 
 ## Contradictions Across Orientations
 

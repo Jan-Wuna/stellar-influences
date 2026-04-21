@@ -3,7 +3,7 @@ title: Venus Jupiter Node
 page_type: triad_hub
 slug: venus-jupiter-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Jupiter
@@ -18,7 +18,7 @@ orientations:
   - Venus/Node = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Node = Venus](../activations/jupiter-node-equals-venus.md)
-  Source page `238`, entry `0834`
+  Source page `144`
 - [Venus/Jupiter = Node](../activations/venus-jupiter-equals-node.md)
-  Source page `179`, entry `0599`
+  Source page `177`
 - [Venus/Node = Jupiter](../activations/venus-node-equals-jupiter.md)
-  Source page `193`, entry `0655`
+  Source page `142`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/Node = Venus`: page `238`, entry `0834`
-- `Venus/Jupiter = Node`: page `179`, entry `0599`
-- `Venus/Node = Jupiter`: page `193`, entry `0655`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/Node = Venus`: page `144`
+- `Venus/Jupiter = Node`: page `177`
+- `Venus/Node = Jupiter`: page `142`
 
 ## Contradictions Across Orientations
 

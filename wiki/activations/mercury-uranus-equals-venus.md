@@ -3,7 +3,7 @@ title: Mercury/Uranus = Venus
 page_type: activation
 slug: mercury-uranus-equals-venus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Uranus
@@ -17,7 +17,7 @@ triad_set:
   - Uranus
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0509`
-- Source page: `158`
+- Source heading: `Mercury + Uranus`
+- Source page: `163`
+#### Witte Entry
 
-#### Ebertin Entry
-
-An artistic feeling or perception, an eye for artistic creation and work, ability to think in forms or shapes and to resonate and tune in into rhythms such as occur in dancing, gymnastics and song. A sudden recognition or awareness of a personal love relationship, a sudden act of love.
+Sudden love. Sense for rhythmic or plastic beauty. Singing. Sudden pleasant news. Sudden news from friends. Excitement with or through acquaintances.
 
 ## Comparative Schema
 
-- core meaning: An artistic feeling or perception, an eye for artistic creation and work, ability to think in forms or shapes and to resonate and tune in into rhythms such as occur in dancing, gymnastics and song. A sudden recognition or awareness of a personal love relationship, a sudden act of love.
+- core meaning: Sudden love. Sense for rhythmic or plastic beauty. Singing. Sudden pleasant news. Sudden news from friends. Excitement with or through acquaintances.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ An artistic feeling or perception, an eye for artistic creation and work, abilit
 - [Uranus](../factors/uranus.md)
 - [Venus](../factors/venus.md)
 - [Mercury/Uranus](../axes/mercury-uranus.md)
-- [Mercury Venus Uranus](../triads/mercury-venus-uranus.md)

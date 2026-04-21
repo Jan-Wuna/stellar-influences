@@ -3,7 +3,7 @@ title: Sun/Uranus = Pluto
 page_type: activation
 slug: sun-uranus-equals-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Uranus
@@ -17,7 +17,7 @@ triad_set:
   - Pluto
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0262`
-- Source page: `96`
+- Source heading: `Sun + Uranus`
+- Source page: `108`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A radical reformer, the desire to rearrange things. Tragic experiences, great physical suffering, sudden physical restrictions. (Imprisonment.)
+The proper tone of the body is only gained throughout the course of the lifetime. Acquired nervousness. Transformation through tension and excitement. Neuralgia.
 
 ## Comparative Schema
 
-- core meaning: A radical reformer, the desire to rearrange things. Tragic experiences, great physical suffering, sudden physical restrictions. (Imprisonment.)
+- core meaning: The proper tone of the body is only gained throughout the course of the lifetime. Acquired nervousness. Transformation through tension and excitement. Neuralgia.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A radical reformer, the desire to rearrange things. Tragic experiences, great ph
 - [Uranus](../factors/uranus.md)
 - [Pluto](../factors/pluto.md)
 - [Sun/Uranus](../axes/sun-uranus.md)
-- [Sun Uranus Pluto](../triads/sun-uranus-pluto.md)

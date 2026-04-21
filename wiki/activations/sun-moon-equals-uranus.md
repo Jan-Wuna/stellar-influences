@@ -3,7 +3,7 @@ title: Sun/Moon = Uranus
 page_type: activation
 slug: sun-moon-equals-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Moon
@@ -17,7 +17,7 @@ triad_set:
   - Uranus
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0188`
-- Source page: `78`
+- Source heading: `Sun + Moon`
+- Source page: `101`
+#### Witte Entry
 
-#### Ebertin Entry
-
-The urge for freedom, the urge to act independently, lack of adaptability, inner rebellion. Sudden events in friendship, marriage, parental home, shared upsets, sudden conflicts, separation of the partners.
+Exciting and trying days. Daily tension. Sudden events in a partnership or marriage. A clash in marriage or partnership.
 
 ## Comparative Schema
 
-- core meaning: The urge for freedom, the urge to act independently, lack of adaptability, inner rebellion. Sudden events in friendship, marriage, parental home, shared upsets, sudden conflicts, separation of the partners.
+- core meaning: Exciting and trying days. Daily tension. Sudden events in a partnership or marriage. A clash in marriage or partnership.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ The urge for freedom, the urge to act independently, lack of adaptability, inner
 - [Moon](../factors/moon.md)
 - [Uranus](../factors/uranus.md)
 - [Sun/Moon](../axes/sun-moon.md)
-- [Sun Moon Uranus](../triads/sun-moon-uranus.md)

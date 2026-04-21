@@ -3,7 +3,7 @@ title: Moon Mars MC
 page_type: triad_hub
 slug: moon-mars-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Mars
@@ -18,7 +18,7 @@ orientations:
   - Moon/Mars = MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/MC = Moon](../activations/mars-mc-equals-moon.md)
-  Source page `223`, entry `0772`
+  Source page `64`
 - [Moon/MC = Mars](../activations/moon-mc-equals-mars.md)
-  Source page `143`, entry `0450`
+  Source page `60`
 - [Moon/Mars = MC](../activations/moon-mars-equals-mc.md)
-  Source page `121`, entry `0361`
+  Source page `124`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/MC = Moon`: page `223`, entry `0772`
-- `Moon/MC = Mars`: page `143`, entry `0450`
-- `Moon/Mars = MC`: page `121`, entry `0361`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/MC = Moon`: page `64`
+- `Moon/MC = Mars`: page `60`
+- `Moon/Mars = MC`: page `124`
 
 ## Contradictions Across Orientations
 

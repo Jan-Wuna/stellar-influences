@@ -3,7 +3,7 @@ title: Saturn Uranus Asc
 page_type: triad_hub
 slug: saturn-uranus-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Saturn
   - Uranus
@@ -18,7 +18,7 @@ orientations:
   - Uranus/Asc = Saturn
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Saturn/Asc = Uranus](../activations/saturn-asc-equals-uranus.md)
-  Source page `260`, entry `0921`
+  Source page `87`
 - [Saturn/Uranus = Asc](../activations/saturn-uranus-equals-asc.md)
-  Source page `248`, entry `0876`
+  Source page `221`
 - [Uranus/Asc = Saturn](../activations/uranus-asc-equals-saturn.md)
-  Source page `275`, entry `0981`
+  Source page `88`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Saturn/Asc = Uranus`: page `260`, entry `0921`
-- `Saturn/Uranus = Asc`: page `248`, entry `0876`
-- `Uranus/Asc = Saturn`: page `275`, entry `0981`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Saturn/Asc = Uranus`: page `87`
+- `Saturn/Uranus = Asc`: page `221`
+- `Uranus/Asc = Saturn`: page `88`
 
 ## Contradictions Across Orientations
 

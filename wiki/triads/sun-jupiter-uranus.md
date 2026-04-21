@@ -3,7 +3,7 @@ title: Sun Jupiter Uranus
 page_type: triad_hub
 slug: sun-jupiter-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Jupiter
@@ -18,7 +18,7 @@ orientations:
   - Sun/Uranus = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Uranus = Sun](../activations/jupiter-uranus-equals-sun.md)
-  Source page `229`, entry `0795`
+  Source page `208`
 - [Sun/Jupiter = Uranus](../activations/sun-jupiter-equals-uranus.md)
-  Source page `90`, entry `0236`
+  Source page `106`
 - [Sun/Uranus = Jupiter](../activations/sun-uranus-equals-jupiter.md)
-  Source page `96`, entry `0259`
+  Source page `108`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/Uranus = Sun`: page `229`, entry `0795`
-- `Sun/Jupiter = Uranus`: page `90`, entry `0236`
-- `Sun/Uranus = Jupiter`: page `96`, entry `0259`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/Uranus = Sun`: page `208`
+- `Sun/Jupiter = Uranus`: page `106`
+- `Sun/Uranus = Jupiter`: page `108`
 
 ## Contradictions Across Orientations
 

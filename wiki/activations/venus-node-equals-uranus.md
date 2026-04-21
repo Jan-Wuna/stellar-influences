@@ -3,10 +3,10 @@ title: Venus/Node = Uranus
 page_type: activation
 slug: venus-node-equals-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Venus
   - Node
+  - Venus
   - Uranus
 normalized_formula: Venus/Node = Uranus
 axis: Venus/Node
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0657`
-- Source page: `193`
+- Source heading: `Node + Venus`
+- Source page: `142`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Ability to easily make contacts and to like people. Lovesick, a sudden love union of short duration.
+Sudden love union. Spontaneous excitement in an agreeable relationships.
 
 ## Comparative Schema
 
-- core meaning: Ability to easily make contacts and to like people. Lovesick, a sudden love union of short duration.
+- core meaning: Sudden love union. Spontaneous excitement in an agreeable relationships.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Ability to easily make contacts and to like people. Lovesick, a sudden love unio
 - [Node](../factors/node.md)
 - [Uranus](../factors/uranus.md)
 - [Venus/Node](../axes/venus-node.md)
-- [Venus Uranus Node](../triads/venus-uranus-node.md)

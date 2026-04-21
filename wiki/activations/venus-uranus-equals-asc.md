@@ -3,7 +3,7 @@ title: Venus/Uranus = Asc
 page_type: activation
 slug: venus-uranus-equals-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Uranus
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0624`
-- Source page: `185`
+- Source heading: `Venus + Uranus`
+- Source page: `179`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Demonstration of love in the presence of others. A sudden meeting or 34 Venus/Uranus = Moon by direction can indicate conception as well as birth. contact, a hasty engagement.
+Flirtations. Betrothal or marriage. Excitement about the love of others. Favors for others.
 
 ## Comparative Schema
 
-- core meaning: Demonstration of love in the presence of others. A sudden meeting or 34 Venus/Uranus = Moon by direction can indicate conception as well as birth. contact, a hasty engagement.
+- core meaning: Flirtations. Betrothal or marriage. Excitement about the love of others. Favors for others.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Demonstration of love in the presence of others. A sudden meeting or 34 Venus/Ur
 - [Uranus](../factors/uranus.md)
 - [Asc](../factors/asc.md)
 - [Venus/Uranus](../axes/venus-uranus.md)
-- [Venus Uranus Asc](../triads/venus-uranus-asc.md)

@@ -3,10 +3,10 @@ title: Sun/Asc = Moon
 page_type: activation
 slug: sun-asc-equals-moon
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Sun
   - Asc
+  - Sun
   - Moon
 normalized_formula: Sun/Asc = Moon
 axis: Sun/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0303`
-- Source page: `108`
+- Source heading: `Asc + Sun`
+- Source page: `80`
+#### Witte Entry
 
-#### Ebertin Entry
-
-The personal attitude to other persons according to one's feelings, fruitful activity in conjunction with others. Association with the female sex.
+Social intercourse and physical relations with women.
 
 ## Comparative Schema
 
-- core meaning: The personal attitude to other persons according to one's feelings, fruitful activity in conjunction with others. Association with the female sex.
+- core meaning: Social intercourse and physical relations with women.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ The personal attitude to other persons according to one's feelings, fruitful act
 - [Asc](../factors/asc.md)
 - [Moon](../factors/moon.md)
 - [Sun/Asc](../axes/sun-asc.md)
-- [Sun Moon Asc](../triads/sun-moon-asc.md)

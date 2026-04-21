@@ -3,7 +3,7 @@ title: Uranus Pluto MC
 page_type: triad_hub
 slug: uranus-pluto-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Uranus
   - Pluto
@@ -18,7 +18,7 @@ orientations:
   - Uranus/Pluto = MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Pluto/MC = Uranus](../activations/pluto-mc-equals-uranus.md)
-  Source page `298`, entry `1078`
+  Source page `69`
 - [Uranus/MC = Pluto](../activations/uranus-mc-equals-pluto.md)
-  Source page `278`, entry `0995`
+  Source page `67`
 - [Uranus/Pluto = MC](../activations/uranus-pluto-equals-mc.md)
-  Source page `270`, entry `0961`
+  Source page `235`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Pluto/MC = Uranus`: page `298`, entry `1078`
-- `Uranus/MC = Pluto`: page `278`, entry `0995`
-- `Uranus/Pluto = MC`: page `270`, entry `0961`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Pluto/MC = Uranus`: page `69`
+- `Uranus/MC = Pluto`: page `67`
+- `Uranus/Pluto = MC`: page `235`
 
 ## Contradictions Across Orientations
 

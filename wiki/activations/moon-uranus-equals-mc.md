@@ -3,7 +3,7 @@ title: Moon/Uranus = MC
 page_type: activation
 slug: moon-uranus-equals-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Uranus
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0397`
-- Source page: `130`
+- Source heading: `Moon + Uranus`
+- Source page: `127`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Prone to states of excitement and great energy. The pursuit of ambitious aims, determination, readiness for action. Tendency to take a hand or to suddenly interfere.
+Attentive. Capable of quick action. To show interest. Wanting to take part. To be under steady mental tenseness. Irritable mind or attitude. Moment of a sudden event in public.
 
 ## Comparative Schema
 
-- core meaning: Prone to states of excitement and great energy. The pursuit of ambitious aims, determination, readiness for action. Tendency to take a hand or to suddenly interfere.
+- core meaning: Attentive. Capable of quick action. To show interest. Wanting to take part. To be under steady mental tenseness. Irritable mind or attitude. Moment of a sudden event in public.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Prone to states of excitement and great energy. The pursuit of ambitious aims, d
 - [Uranus](../factors/uranus.md)
 - [MC](../factors/mc.md)
 - [Moon/Uranus](../axes/moon-uranus.md)
-- [Moon Uranus MC](../triads/moon-uranus-mc.md)

@@ -3,10 +3,10 @@ title: Node/MC = Neptune
 page_type: activation
 slug: node-mc-equals-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Node
   - MC
+  - Node
   - Neptune
 normalized_formula: Node/MC = Neptune
 axis: Node/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1103`
-- Source page: `304`
+- Source heading: `MC + Node`
+- Source page: `61`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A lack of adaptability in individual relationships, experiencing difficulties in maintaining contacts and associations with other people. Separation caused through the process of sobering and "coming down to earth again" and through disappointment or deceit. Mourning and bereavement, a grievous loss.
+Dissolution of personal connections. Unreliable associations.
 
 ## Comparative Schema
 
-- core meaning: A lack of adaptability in individual relationships, experiencing difficulties in maintaining contacts and associations with other people. Separation caused through the process of sobering and "coming down to earth again" and through disappointment or deceit. Mourning and bereavement, a grievous loss.
+- core meaning: Dissolution of personal connections. Unreliable associations.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A lack of adaptability in individual relationships, experiencing difficulties in
 - [MC](../factors/mc.md)
 - [Neptune](../factors/neptune.md)
 - [Node/MC](../axes/node-mc.md)
-- [Neptune Node MC](../triads/neptune-node-mc.md)

@@ -3,10 +3,10 @@ title: Uranus/MC = Mercury
 page_type: activation
 slug: uranus-mc-equals-mercury
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Uranus
   - MC
+  - Uranus
   - Mercury
 normalized_formula: Uranus/MC = Mercury
 axis: Uranus/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0989`
-- Source page: `278`
+- Source heading: `MC + Uranus`
+- Source page: `67`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Speaking with excitement, nervous unrest, an excitable nervous system. The stage of expectancy, an excited discussion amongst people, realization of sudden ideas.
+become energetic. To use harsh words. Tension created by a call.
 
 ## Comparative Schema
 
-- core meaning: Speaking with excitement, nervous unrest, an excitable nervous system. The stage of expectancy, an excited discussion amongst people, realization of sudden ideas.
+- core meaning: become energetic. To use harsh words. Tension created by a call.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Speaking with excitement, nervous unrest, an excitable nervous system. The stage
 - [MC](../factors/mc.md)
 - [Mercury](../factors/mercury.md)
 - [Uranus/MC](../axes/uranus-mc.md)
-- [Mercury Uranus MC](../triads/mercury-uranus-mc.md)

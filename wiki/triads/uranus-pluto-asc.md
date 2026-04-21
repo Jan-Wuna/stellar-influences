@@ -3,7 +3,7 @@ title: Uranus Pluto Asc
 page_type: triad_hub
 slug: uranus-pluto-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Uranus
   - Pluto
@@ -18,7 +18,7 @@ orientations:
   - Uranus/Pluto = Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Pluto/Asc = Uranus](../activations/pluto-asc-equals-uranus.md)
-  Source page `295`, entry `1066`
+  Source page `90`
 - [Uranus/Asc = Pluto](../activations/uranus-asc-equals-pluto.md)
-  Source page `276`, entry `0983`
+  Source page `88`
 - [Uranus/Pluto = Asc](../activations/uranus-pluto-equals-asc.md)
-  Source page `270`, entry `0960`
+  Source page `235`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Pluto/Asc = Uranus`: page `295`, entry `1066`
-- `Uranus/Asc = Pluto`: page `276`, entry `0983`
-- `Uranus/Pluto = Asc`: page `270`, entry `0960`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Pluto/Asc = Uranus`: page `90`
+- `Uranus/Asc = Pluto`: page `88`
+- `Uranus/Pluto = Asc`: page `235`
 
 ## Contradictions Across Orientations
 

@@ -3,7 +3,7 @@ title: Jupiter/Neptune = Uranus
 page_type: activation
 slug: jupiter-neptune-equals-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Neptune
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0813`
-- Source page: `232`
+- Source heading: `Jupiter + Neptune`
+- Source page: `209`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Experiencing the contrast between imagination and reality, coming down to earth with a bump, sudden recognition of a difficult situation.
+To feel suddenly free and easy without mental pressure. Sudden collapse. Sudden bankruptcy. Suddenly getting money which is easily earned.
 
 ## Comparative Schema
 
-- core meaning: Experiencing the contrast between imagination and reality, coming down to earth with a bump, sudden recognition of a difficult situation.
+- core meaning: To feel suddenly free and easy without mental pressure. Sudden collapse. Sudden bankruptcy. Suddenly getting money which is easily earned.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Experiencing the contrast between imagination and reality, coming down to earth 
 - [Neptune](../factors/neptune.md)
 - [Uranus](../factors/uranus.md)
 - [Jupiter/Neptune](../axes/jupiter-neptune.md)
-- [Jupiter Uranus Neptune](../triads/jupiter-uranus-neptune.md)

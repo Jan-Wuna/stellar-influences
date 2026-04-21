@@ -3,7 +3,7 @@ title: Pluto Node MC
 page_type: triad_hub
 slug: pluto-node-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Pluto
   - Node
@@ -18,7 +18,7 @@ orientations:
   - Pluto/Node = MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Node/MC = Pluto](../activations/node-mc-equals-pluto.md)
-  Source page `305`, entry `1104`
+  Source page `61`
 - [Pluto/MC = Node](../activations/pluto-mc-equals-node.md)
-  Source page `299`, entry `1080`
+  Source page `69`
 - [Pluto/Node = MC](../activations/pluto-node-equals-mc.md)
-  Source page `293`, entry `1057`
+  Source page `148`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Node/MC = Pluto`: page `305`, entry `1104`
-- `Pluto/MC = Node`: page `299`, entry `1080`
-- `Pluto/Node = MC`: page `293`, entry `1057`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Node/MC = Pluto`: page `61`
+- `Pluto/MC = Node`: page `69`
+- `Pluto/Node = MC`: page `148`
 
 ## Contradictions Across Orientations
 

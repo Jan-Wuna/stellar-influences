@@ -3,7 +3,7 @@ title: Sun Moon MC
 page_type: triad_hub
 slug: sun-moon-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Moon
@@ -18,7 +18,7 @@ orientations:
   - Sun/Moon = MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Moon/MC = Sun](../activations/moon-mc-equals-sun.md)
-  Source page `143`, entry `0447`
+  Source page `60`
 - [Sun/MC = Moon](../activations/sun-mc-equals-moon.md)
-  Source page `111`, entry `0315`
+  Source page `59`
 - [Sun/Moon = MC](../activations/sun-moon-equals-mc.md)
-  Source page `79`, entry `0193`
+  Source page `101`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Moon/MC = Sun`: page `143`, entry `0447`
-- `Sun/MC = Moon`: page `111`, entry `0315`
-- `Sun/Moon = MC`: page `79`, entry `0193`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Moon/MC = Sun`: page `60`
+- `Sun/MC = Moon`: page `59`
+- `Sun/Moon = MC`: page `101`
 
 ## Contradictions Across Orientations
 

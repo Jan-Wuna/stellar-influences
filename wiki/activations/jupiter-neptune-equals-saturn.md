@@ -3,7 +3,7 @@ title: Jupiter/Neptune = Saturn
 page_type: activation
 slug: jupiter-neptune-equals-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Neptune
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0812`
-- Source page: `232`
+- Source heading: `Jupiter + Neptune`
+- Source page: `209`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Pessimism, lack of confidence, feeling abandoned by luck. Experiencing the consequences issuing from false hopes, plans which come to nothing, disappointments, losses.
+To worry about money matters. Separation caused by sickness. To awaken from carelessness. Losses through speculation.
 
 ## Comparative Schema
 
-- core meaning: Pessimism, lack of confidence, feeling abandoned by luck. Experiencing the consequences issuing from false hopes, plans which come to nothing, disappointments, losses.
+- core meaning: To worry about money matters. Separation caused by sickness. To awaken from carelessness. Losses through speculation.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Pessimism, lack of confidence, feeling abandoned by luck. Experiencing the conse
 - [Neptune](../factors/neptune.md)
 - [Saturn](../factors/saturn.md)
 - [Jupiter/Neptune](../axes/jupiter-neptune.md)
-- [Jupiter Saturn Neptune](../triads/jupiter-saturn-neptune.md)

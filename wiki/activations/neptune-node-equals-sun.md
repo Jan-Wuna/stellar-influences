@@ -3,10 +3,10 @@ title: Neptune/Node = Sun
 page_type: activation
 slug: neptune-node-equals-sun
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Neptune
   - Node
+  - Neptune
   - Sun
 normalized_formula: Neptune/Node = Sun
 axis: Neptune/Node
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1011`
-- Source page: `284`
+- Source heading: `Node + Neptune`
+- Source page: `147`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Difficulty in establishing contacts with other people, inability to explain one's ideas to others and to come to an understanding with other people. The misfortune to be tormented, disappointed or let down by others.
+Untenable connections or unions. Divorce. To be deserted. Insecurity in personal relationships.
 
 ## Comparative Schema
 
-- core meaning: Difficulty in establishing contacts with other people, inability to explain one's ideas to others and to come to an understanding with other people. The misfortune to be tormented, disappointed or let down by others.
+- core meaning: Untenable connections or unions. Divorce. To be deserted. Insecurity in personal relationships.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Difficulty in establishing contacts with other people, inability to explain one'
 - [Node](../factors/node.md)
 - [Sun](../factors/sun.md)
 - [Neptune/Node](../axes/neptune-node.md)
-- [Sun Neptune Node](../triads/sun-neptune-node.md)

@@ -3,10 +3,10 @@ title: Venus/MC = Moon
 page_type: activation
 slug: venus-mc-equals-moon
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Venus
   - MC
+  - Venus
   - Moon
 normalized_formula: Venus/MC = Moon
 axis: Venus/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0676`
-- Source page: `199`
+- Source heading: `MC + Venus`
+- Source page: `63`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Deep feelings of love, a warm-hearted and cordial disposition, a motherly nature, typically female qualities. The deep attachment of a wife or of a mother.
+Preference for females persons.
 
 ## Comparative Schema
 
-- core meaning: Deep feelings of love, a warm-hearted and cordial disposition, a motherly nature, typically female qualities. The deep attachment of a wife or of a mother.
+- core meaning: Preference for females persons.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Deep feelings of love, a warm-hearted and cordial disposition, a motherly nature
 - [MC](../factors/mc.md)
 - [Moon](../factors/moon.md)
 - [Venus/MC](../axes/venus-mc.md)
-- [Moon Venus MC](../triads/moon-venus-mc.md)

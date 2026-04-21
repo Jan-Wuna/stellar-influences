@@ -3,7 +3,7 @@ title: Jupiter Uranus Node
 page_type: triad_hub
 slug: jupiter-uranus-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Uranus
@@ -18,7 +18,7 @@ orientations:
   - Uranus/Node = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Node = Uranus](../activations/jupiter-node-equals-uranus.md)
-  Source page `238`, entry `0837`
+  Source page `144`
 - [Jupiter/Uranus = Node](../activations/jupiter-uranus-equals-node.md)
-  Source page `230`, entry `0803`
+  Source page `208`
 - [Uranus/Node = Jupiter](../activations/uranus-node-equals-jupiter.md)
-  Source page `272`, entry `0968`
+  Source page `146`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/Node = Uranus`: page `238`, entry `0837`
-- `Jupiter/Uranus = Node`: page `230`, entry `0803`
-- `Uranus/Node = Jupiter`: page `272`, entry `0968`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/Node = Uranus`: page `144`
+- `Jupiter/Uranus = Node`: page `208`
+- `Uranus/Node = Jupiter`: page `146`
 
 ## Contradictions Across Orientations
 

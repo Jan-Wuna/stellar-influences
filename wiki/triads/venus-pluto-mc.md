@@ -3,7 +3,7 @@ title: Venus Pluto MC
 page_type: triad_hub
 slug: venus-pluto-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Pluto
@@ -18,7 +18,7 @@ orientations:
   - Venus/Pluto = MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Pluto/MC = Venus](../activations/pluto-mc-equals-venus.md)
-  Source page `298`, entry `1074`
+  Source page `69`
 - [Venus/MC = Pluto](../activations/venus-mc-equals-pluto.md)
-  Source page `199`, entry `0683`
+  Source page `63`
 - [Venus/Pluto = MC](../activations/venus-pluto-equals-mc.md)
-  Source page `191`, entry `0649`
+  Source page `181`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Pluto/MC = Venus`: page `298`, entry `1074`
-- `Venus/MC = Pluto`: page `199`, entry `0683`
-- `Venus/Pluto = MC`: page `191`, entry `0649`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Pluto/MC = Venus`: page `69`
+- `Venus/MC = Pluto`: page `63`
+- `Venus/Pluto = MC`: page `181`
 
 ## Contradictions Across Orientations
 

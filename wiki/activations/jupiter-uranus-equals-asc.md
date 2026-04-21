@@ -3,7 +3,7 @@ title: Jupiter/Uranus = Asc
 page_type: activation
 slug: jupiter-uranus-equals-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Uranus
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0804`
-- Source page: `230`
+- Source heading: `Jupiter + Uranus`
+- Source page: `208`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Ability to shape one's environment according to one's ideas and to furnish one's home according to personal taste or choice. Shared happiness with others or with a partner.
+Happy companionship. Others with sudden luck. Happy surprises at the place.
 
 ## Comparative Schema
 
-- core meaning: Ability to shape one's environment according to one's ideas and to furnish one's home according to personal taste or choice. Shared happiness with others or with a partner.
+- core meaning: Happy companionship. Others with sudden luck. Happy surprises at the place.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Ability to shape one's environment according to one's ideas and to furnish one's
 - [Uranus](../factors/uranus.md)
 - [Asc](../factors/asc.md)
 - [Jupiter/Uranus](../axes/jupiter-uranus.md)
-- [Jupiter Uranus Asc](../triads/jupiter-uranus-asc.md)

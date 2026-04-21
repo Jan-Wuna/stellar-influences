@@ -3,7 +3,7 @@ title: Sun/Venus = Mercury
 page_type: activation
 slug: sun-venus-equals-mercury
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Venus
@@ -17,7 +17,7 @@ triad_set:
   - Venus
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0208`
-- Source page: `84`
+- Source heading: `Sun + Venus`
+- Source page: `104`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Idea or concept of love, thoughts of love, tendency to express one's ideas on love problems, artistic trends of thought, love dialogues.
+Expressions of love through thinking or speaking. Thoughts of love. Love conversations of a man. Love acquaintances.
 
 ## Comparative Schema
 
-- core meaning: Idea or concept of love, thoughts of love, tendency to express one's ideas on love problems, artistic trends of thought, love dialogues.
+- core meaning: Expressions of love through thinking or speaking. Thoughts of love. Love conversations of a man. Love acquaintances.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Idea or concept of love, thoughts of love, tendency to express one's ideas on lo
 - [Venus](../factors/venus.md)
 - [Mercury](../factors/mercury.md)
 - [Sun/Venus](../axes/sun-venus.md)
-- [Sun Mercury Venus](../triads/sun-mercury-venus.md)

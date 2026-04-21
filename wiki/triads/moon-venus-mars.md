@@ -3,7 +3,7 @@ title: Moon Venus Mars
 page_type: triad_hub
 slug: moon-venus-mars
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Venus
@@ -18,7 +18,7 @@ orientations:
   - Venus/Mars = Moon
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Moon/Mars = Venus](../activations/moon-mars-equals-venus.md)
-  Source page `120`, entry `0353`
+  Source page `124`
 - [Moon/Venus = Mars](../activations/moon-venus-equals-mars.md)
-  Source page `117`, entry `0341`
+  Source page `123`
 - [Venus/Mars = Moon](../activations/venus-mars-equals-moon.md)
-  Source page `176`, entry `0580`
+  Source page `176`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Moon/Mars = Venus`: page `120`, entry `0353`
-- `Moon/Venus = Mars`: page `117`, entry `0341`
-- `Venus/Mars = Moon`: page `176`, entry `0580`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Moon/Mars = Venus`: page `124`
+- `Moon/Venus = Mars`: page `123`
+- `Venus/Mars = Moon`: page `176`
 
 ## Contradictions Across Orientations
 

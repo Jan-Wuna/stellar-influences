@@ -3,7 +3,7 @@ title: Sun/Mars = Uranus
 page_type: activation
 slug: sun-mars-equals-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Mars
@@ -17,7 +17,7 @@ triad_set:
   - Uranus
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0224`
-- Source page: `87`
+- Source heading: `Sun + Mars`
+- Source page: `105`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Premature action or hastiness, impulsive behavior, tendency to do one's work in a state of excitement, overtaxing one's strength. Sudden events, adjustment to new conditions or circumstances, change of vocation, military call-up.
+The violent man. To threaten or beat-up somebody. The man who suddenly becomes active. Being summoned for war (campaign).
 
 ## Comparative Schema
 
-- core meaning: Premature action or hastiness, impulsive behavior, tendency to do one's work in a state of excitement, overtaxing one's strength. Sudden events, adjustment to new conditions or circumstances, change of vocation, military call-up.
+- core meaning: The violent man. To threaten or beat-up somebody. The man who suddenly becomes active. Being summoned for war (campaign).
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Premature action or hastiness, impulsive behavior, tendency to do one's work in 
 - [Mars](../factors/mars.md)
 - [Uranus](../factors/uranus.md)
 - [Sun/Mars](../axes/sun-mars.md)
-- [Sun Mars Uranus](../triads/sun-mars-uranus.md)

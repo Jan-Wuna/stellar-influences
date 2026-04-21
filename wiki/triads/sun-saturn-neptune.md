@@ -3,7 +3,7 @@ title: Sun Saturn Neptune
 page_type: triad_hub
 slug: sun-saturn-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Saturn
@@ -18,7 +18,7 @@ orientations:
   - Sun/Saturn = Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Saturn/Neptune = Sun](../activations/saturn-neptune-equals-sun.md)
-  Source page `250`, entry `0879`
+  Source page `222`
 - [Sun/Neptune = Saturn](../activations/sun-neptune-equals-saturn.md)
-  Source page `99`, entry `0272`
+  Source page `109`
 - [Sun/Saturn = Neptune](../activations/sun-saturn-equals-neptune.md)
-  Source page `93`, entry `0249`
+  Source page `107`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Saturn/Neptune = Sun`: page `250`, entry `0879`
-- `Sun/Neptune = Saturn`: page `99`, entry `0272`
-- `Sun/Saturn = Neptune`: page `93`, entry `0249`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Saturn/Neptune = Sun`: page `222`
+- `Sun/Neptune = Saturn`: page `109`
+- `Sun/Saturn = Neptune`: page `107`
 
 ## Contradictions Across Orientations
 

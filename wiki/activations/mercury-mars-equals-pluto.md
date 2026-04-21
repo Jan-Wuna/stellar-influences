@@ -3,7 +3,7 @@ title: Mercury/Mars = Pluto
 page_type: activation
 slug: mercury-mars-equals-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Mars
@@ -17,7 +17,7 @@ triad_set:
   - Pluto
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0478`
-- Source page: `149`
+- Source heading: `Mercury + Mars`
+- Source page: `160`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A fanatical critic, over-zealous orator, sharp analyst. The misfortune of having to suffer heavy attacks or assaults from others.
+To comprehend and to express thoughts. To demonstrate will power in several different fields. To act according to well made plans.
 
 ## Comparative Schema
 
-- core meaning: A fanatical critic, over-zealous orator, sharp analyst. The misfortune of having to suffer heavy attacks or assaults from others.
+- core meaning: To comprehend and to express thoughts. To demonstrate will power in several different fields. To act according to well made plans.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A fanatical critic, over-zealous orator, sharp analyst. The misfortune of having
 - [Mars](../factors/mars.md)
 - [Pluto](../factors/pluto.md)
 - [Mercury/Mars](../axes/mercury-mars.md)
-- [Mercury Mars Pluto](../triads/mercury-mars-pluto.md)

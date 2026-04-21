@@ -3,7 +3,7 @@ title: Moon/Jupiter = Saturn
 page_type: activation
 slug: moon-jupiter-equals-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Jupiter
@@ -17,7 +17,7 @@ triad_set:
   - Saturn
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0367`
-- Source page: `123`
+- Source heading: `Moon + Jupiter`
+- Source page: `125`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Indifference, negligence, injustice, inner conflict. Inability to be happy, social disadvantages or injuries, cut off from happiness, separation from wife. Successes with and through old people. Diseases of the liver and gall bladder.
+Saddening of happy moments. A woman separated from happiness. Girls whose betrothal has been broken off. To be separated from the mother. The successful hour of separation (birth).
 
 ## Comparative Schema
 
-- core meaning: Indifference, negligence, injustice, inner conflict. Inability to be happy, social disadvantages or injuries, cut off from happiness, separation from wife. Successes with and through old people. Diseases of the liver and gall bladder.
+- core meaning: Saddening of happy moments. A woman separated from happiness. Girls whose betrothal has been broken off. To be separated from the mother. The successful hour of separation (birth).
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Indifference, negligence, injustice, inner conflict. Inability to be happy, soci
 - [Jupiter](../factors/jupiter.md)
 - [Saturn](../factors/saturn.md)
 - [Moon/Jupiter](../axes/moon-jupiter.md)
-- [Moon Jupiter Saturn](../triads/moon-jupiter-saturn.md)

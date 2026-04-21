@@ -3,7 +3,7 @@ title: Mercury Saturn Asc
 page_type: triad_hub
 slug: mercury-saturn-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Saturn
@@ -18,7 +18,7 @@ orientations:
   - Saturn/Asc = Mercury
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mercury/Asc = Saturn](../activations/mercury-asc-equals-saturn.md)
-  Source page `170`, entry `0560`
+  Source page `83`
 - [Mercury/Saturn = Asc](../activations/mercury-saturn-equals-asc.md)
-  Source page `156`, entry `0504`
+  Source page `162`
 - [Saturn/Asc = Mercury](../activations/saturn-asc-equals-mercury.md)
-  Source page `260`, entry `0917`
+  Source page `87`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mercury/Asc = Saturn`: page `170`, entry `0560`
-- `Mercury/Saturn = Asc`: page `156`, entry `0504`
-- `Saturn/Asc = Mercury`: page `260`, entry `0917`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mercury/Asc = Saturn`: page `83`
+- `Mercury/Saturn = Asc`: page `162`
+- `Saturn/Asc = Mercury`: page `87`
 
 ## Contradictions Across Orientations
 

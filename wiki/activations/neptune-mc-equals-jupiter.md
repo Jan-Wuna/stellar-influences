@@ -3,10 +3,10 @@ title: Neptune/MC = Jupiter
 page_type: activation
 slug: neptune-mc-equals-jupiter
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Neptune
   - MC
+  - Neptune
   - Jupiter
 normalized_formula: Neptune/MC = Jupiter
 axis: Neptune/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1040`
-- Source page: `290`
+- Source heading: `MC + Neptune`
+- Source page: `68`
+#### Witte Entry
 
-#### Ebertin Entry
-
-The joy of expectation, tendency to dream of happiness and good fortune, pretense of happiness and good luck. Inclination to put all one's eggs in one basket, speculation, gambling.
+Imaginary luck. To imagine or pretend luck. A money swindler. A speculator.
 
 ## Comparative Schema
 
-- core meaning: The joy of expectation, tendency to dream of happiness and good fortune, pretense of happiness and good luck. Inclination to put all one's eggs in one basket, speculation, gambling.
+- core meaning: Imaginary luck. To imagine or pretend luck. A money swindler. A speculator.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ The joy of expectation, tendency to dream of happiness and good fortune, pretens
 - [MC](../factors/mc.md)
 - [Jupiter](../factors/jupiter.md)
 - [Neptune/MC](../axes/neptune-mc.md)
-- [Jupiter Neptune MC](../triads/jupiter-neptune-mc.md)

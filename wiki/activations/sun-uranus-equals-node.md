@@ -3,7 +3,7 @@ title: Sun/Uranus = Node
 page_type: activation
 slug: sun-uranus-equals-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Uranus
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0263`
-- Source page: `96`
+- Source heading: `Sun + Uranus`
+- Source page: `108`
+#### Witte Entry
 
-#### Ebertin Entry
-
-The ability to quickly make new contacts. Sudden meetings, sudden 9 Sun/Uranus = Neptune has been found frequently in the case of aircraft disasters and other catastrophes in the air. experiences with other persons, being together with excited persons.
+Sudden physical connection, meeting. Excitements, through a personal connection or in a relationship. To be present at an accident.
 
 ## Comparative Schema
 
-- core meaning: The ability to quickly make new contacts. Sudden meetings, sudden 9 Sun/Uranus = Neptune has been found frequently in the case of aircraft disasters and other catastrophes in the air. experiences with other persons, being together with excited persons.
+- core meaning: Sudden physical connection, meeting. Excitements, through a personal connection or in a relationship. To be present at an accident.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ The ability to quickly make new contacts. Sudden meetings, sudden 9 Sun/Uranus =
 - [Uranus](../factors/uranus.md)
 - [Node](../factors/node.md)
 - [Sun/Uranus](../axes/sun-uranus.md)
-- [Sun Uranus Node](../triads/sun-uranus-node.md)

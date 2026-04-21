@@ -3,7 +3,7 @@ title: Moon/Saturn = Pluto
 page_type: activation
 slug: moon-saturn-equals-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Saturn
@@ -17,7 +17,7 @@ triad_set:
   - Pluto
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0382`
+- Source heading: `Moon + Saturn`
 - Source page: `126`
+#### Witte Entry
 
-#### Ebertin Entry
-
-The necessity to rely only upon oneself, inclination or necessity to rise in life by using force and to go one's way alone. Organic suffering in conjunction with strong feelings of depression. Separation from the wife or mother.
+Slowing up of the glandular action. Transition period to old age. For women, the age of the menopause. Colorful evening hours. Separation after a short acquaintance.
 
 ## Comparative Schema
 
-- core meaning: The necessity to rely only upon oneself, inclination or necessity to rise in life by using force and to go one's way alone. Organic suffering in conjunction with strong feelings of depression. Separation from the wife or mother.
+- core meaning: Slowing up of the glandular action. Transition period to old age. For women, the age of the menopause. Colorful evening hours. Separation after a short acquaintance.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ The necessity to rely only upon oneself, inclination or necessity to rise in lif
 - [Saturn](../factors/saturn.md)
 - [Pluto](../factors/pluto.md)
 - [Moon/Saturn](../axes/moon-saturn.md)
-- [Moon Saturn Pluto](../triads/moon-saturn-pluto.md)

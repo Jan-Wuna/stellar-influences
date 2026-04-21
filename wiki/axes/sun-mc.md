@@ -3,7 +3,7 @@ title: Sun/MC
 page_type: axis
 slug: sun-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - MC
@@ -11,7 +11,10 @@ normalized_axis: Sun/MC
 factor_a: Sun
 factor_b: MC
 related_activations:
+  - Sun/MC = Aries
+  - Sun/MC = Asc
   - Sun/MC = Moon
+  - Sun/MC = Node
   - Sun/MC = Mercury
   - Sun/MC = Venus
   - Sun/MC = Mars
@@ -20,12 +23,27 @@ related_activations:
   - Sun/MC = Uranus
   - Sun/MC = Neptune
   - Sun/MC = Pluto
-  - Sun/MC = Node
-  - Sun/MC = Asc
+  - Sun/MC = Cupido
+  - Sun/MC = Hades
+  - Sun/MC = Zeus
+  - Sun/MC = Kronos
+  - Sun/MC = Apollon
+  - Sun/MC = Admetos
+  - Sun/MC = Vulcanus
+  - Sun/MC = Poseidon
 related_triad_hubs:
+  - Aries Sun MC
   - Sun Asc MC
   - Sun Jupiter MC
   - Sun Mars MC
+  - Sun MC Admetos
+  - Sun MC Apollon
+  - Sun MC Cupido
+  - Sun MC Hades
+  - Sun MC Kronos
+  - Sun MC Poseidon
+  - Sun MC Vulcanus
+  - Sun MC Zeus
   - Sun Mercury MC
   - Sun Moon MC
   - Sun Neptune MC
@@ -37,7 +55,7 @@ related_triad_hubs:
 aliases:
   - MC/Sun
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,46 +63,32 @@ updated_at: 2026-04-21
 
 - Axis: `Sun/MC`
 - Astronomicon axis: `S/MC`
-- Source heading: `Sun/Medium Coeli`
-- Source page: `110`
+- Source heading: `MC + Sun`
+- Source page: `59`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-Individuality, the goal or object of life.
-
-#### Psychological Correspondence
-
-+ Consciousness of objective, striving for an aim or objective, development of the personality, awareness of one's mission in life, self-knowledge, a positive attitude to life. - Aimlessness, lack of clarity with regard to one's aspiration or intentions, a wrong or misguided outlook on life. C Well-developed ego-consciousness.
-
-#### Biological Correspondence
-
-The relationship between the physical body and ego-consciousness, the transformation of passive perception into personal reaction. The constitution.
-
-#### Sociological Correspondence
-
-One's own ego, the body and its soul.
-
-#### Probable Manifestations
-
-+ Individual progress or advancement, individual relations, pursuit of one's objective, successes. - Difficult aims in life, loss of interest in life. O/MC
-
+Body and soul. The appearance of the “I”. The body’s capacity to react to the mind. The interaction between the body and the soul. One’s own living body. One’s life and goals of life. One moment (minute) at the day. Daily cycle.
 
 ## Comparative Schema
 
-- core meaning: Individuality, the goal or object of life.
-- psychology: + Consciousness of objective, striving for an aim or objective, development of the personality, awareness of one's mission in life, self-knowledge, a positive attitude to life. - Aimlessness, lack of clarity with regard to one's aspiration or intentions, a wrong or misguided outlook on life. C Well-developed ego-consciousness.
-- body/health: The relationship between the physical body and ego-consciousness, the transformation of passive perception into personal reaction. The constitution.
-- social/relationship: One's own ego, the body and its soul.
-- events/manifestations: + Individual progress or advancement, individual relations, pursuit of one's objective, successes. - Difficult aims in life, loss of interest in life. O/MC
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: Body and soul. The appearance of the “I”. The body’s capacity to react to the mind. The interaction between the body and the soul. One’s own living body. One’s life and goals of life. One moment (minute) at the day. Daily cycle.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Sun/MC = Aries](../activations/sun-mc-equals-aries.md)
+- [Sun/MC = Asc](../activations/sun-mc-equals-asc.md)
 - [Sun/MC = Moon](../activations/sun-mc-equals-moon.md)
+- [Sun/MC = Node](../activations/sun-mc-equals-node.md)
 - [Sun/MC = Mercury](../activations/sun-mc-equals-mercury.md)
 - [Sun/MC = Venus](../activations/sun-mc-equals-venus.md)
 - [Sun/MC = Mars](../activations/sun-mc-equals-mars.md)
@@ -93,8 +97,14 @@ One's own ego, the body and its soul.
 - [Sun/MC = Uranus](../activations/sun-mc-equals-uranus.md)
 - [Sun/MC = Neptune](../activations/sun-mc-equals-neptune.md)
 - [Sun/MC = Pluto](../activations/sun-mc-equals-pluto.md)
-- [Sun/MC = Node](../activations/sun-mc-equals-node.md)
-- [Sun/MC = Asc](../activations/sun-mc-equals-asc.md)
+- [Sun/MC = Cupido](../activations/sun-mc-equals-cupido.md)
+- [Sun/MC = Hades](../activations/sun-mc-equals-hades.md)
+- [Sun/MC = Zeus](../activations/sun-mc-equals-zeus.md)
+- [Sun/MC = Kronos](../activations/sun-mc-equals-kronos.md)
+- [Sun/MC = Apollon](../activations/sun-mc-equals-apollon.md)
+- [Sun/MC = Admetos](../activations/sun-mc-equals-admetos.md)
+- [Sun/MC = Vulcanus](../activations/sun-mc-equals-vulcanus.md)
+- [Sun/MC = Poseidon](../activations/sun-mc-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ One's own ego, the body and its soul.
 
 - [Sun](../factors/sun.md)
 - [MC](../factors/mc.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

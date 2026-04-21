@@ -3,7 +3,7 @@ title: Uranus Neptune Asc
 page_type: triad_hub
 slug: uranus-neptune-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Uranus
   - Neptune
@@ -18,7 +18,7 @@ orientations:
   - Uranus/Neptune = Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Neptune/Asc = Uranus](../activations/neptune-asc-equals-uranus.md)
-  Source page `287`, entry `1030`
+  Source page `89`
 - [Uranus/Asc = Neptune](../activations/uranus-asc-equals-neptune.md)
-  Source page `275`, entry `0982`
+  Source page `88`
 - [Uranus/Neptune = Asc](../activations/uranus-neptune-equals-asc.md)
-  Source page `267`, entry `0948`
+  Source page `234`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Neptune/Asc = Uranus`: page `287`, entry `1030`
-- `Uranus/Asc = Neptune`: page `275`, entry `0982`
-- `Uranus/Neptune = Asc`: page `267`, entry `0948`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Neptune/Asc = Uranus`: page `89`
+- `Uranus/Asc = Neptune`: page `88`
+- `Uranus/Neptune = Asc`: page `234`
 
 ## Contradictions Across Orientations
 

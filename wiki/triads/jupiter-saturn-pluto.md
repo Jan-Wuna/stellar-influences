@@ -3,7 +3,7 @@ title: Jupiter Saturn Pluto
 page_type: triad_hub
 slug: jupiter-saturn-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Saturn
@@ -18,7 +18,7 @@ orientations:
   - Saturn/Pluto = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Pluto = Saturn](../activations/jupiter-pluto-equals-saturn.md)
-  Source page `235`, entry `0824`
+  Source page `210`
 - [Jupiter/Saturn = Pluto](../activations/jupiter-saturn-equals-pluto.md)
-  Source page `226`, entry `0790`
+  Source page `207`
 - [Saturn/Pluto = Jupiter](../activations/saturn-pluto-equals-jupiter.md)
-  Source page `254`, entry `0896`
+  Source page `223`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/Pluto = Saturn`: page `235`, entry `0824`
-- `Jupiter/Saturn = Pluto`: page `226`, entry `0790`
-- `Saturn/Pluto = Jupiter`: page `254`, entry `0896`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/Pluto = Saturn`: page `210`
+- `Jupiter/Saturn = Pluto`: page `207`
+- `Saturn/Pluto = Jupiter`: page `223`
 
 ## Contradictions Across Orientations
 

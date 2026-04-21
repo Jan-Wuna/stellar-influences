@@ -3,7 +3,7 @@ title: Sun/Mars = Node
 page_type: activation
 slug: sun-mars-equals-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Mars
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0227`
-- Source page: `88`
+- Source heading: `Sun + Mars`
+- Source page: `105`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Cultivation of good fellowship, desire to succeed in teamwork, joint plans or undertakings. Confederation and association in working or fighting for certain objectives. Marriage community.
+Acquaintance with men, the husband or soldiers through work.
 
 ## Comparative Schema
 
-- core meaning: Cultivation of good fellowship, desire to succeed in teamwork, joint plans or undertakings. Confederation and association in working or fighting for certain objectives. Marriage community.
+- core meaning: Acquaintance with men, the husband or soldiers through work.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Cultivation of good fellowship, desire to succeed in teamwork, joint plans or un
 - [Mars](../factors/mars.md)
 - [Node](../factors/node.md)
 - [Sun/Mars](../axes/sun-mars.md)
-- [Sun Mars Node](../triads/sun-mars-node.md)

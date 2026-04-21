@@ -3,7 +3,7 @@ title: Sun/Pluto = Mars
 page_type: activation
 slug: sun-pluto-equals-mars
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Pluto
@@ -17,7 +17,7 @@ triad_set:
   - Pluto
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0282`
-- Source page: `102`
+- Source heading: `Sun + Pluto`
+- Source page: `110`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Desire to perform record achievements, over-exertion or overtaxing one's powers, ruthlessness. Tendency to work to the point of a physical breakdown.
+Strong regeneration capacity. The kind of work decides how the body develops.
 
 ## Comparative Schema
 
-- core meaning: Desire to perform record achievements, over-exertion or overtaxing one's powers, ruthlessness. Tendency to work to the point of a physical breakdown.
+- core meaning: Strong regeneration capacity. The kind of work decides how the body develops.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Desire to perform record achievements, over-exertion or overtaxing one's powers,
 - [Pluto](../factors/pluto.md)
 - [Mars](../factors/mars.md)
 - [Sun/Pluto](../axes/sun-pluto.md)
-- [Sun Mars Pluto](../triads/sun-mars-pluto.md)

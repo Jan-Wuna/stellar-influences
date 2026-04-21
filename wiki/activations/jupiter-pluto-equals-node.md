@@ -3,7 +3,7 @@ title: Jupiter/Pluto = Node
 page_type: activation
 slug: jupiter-pluto-equals-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Pluto
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0827`
-- Source page: `235`
+- Source heading: `Jupiter + Pluto`
+- Source page: `210`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Joint aspiration, a relationship to the masses, political activity. A joint or shared success, far-reaching associations. 51 To Neptune = Jupiter/Pluto one might add; a tendency for infection. 52 Jupiter/Pluto = Node has been found frequently in the cases of economists, managers and directors of business concerns.
+Fortunate change in connections. New good connections. Many fluctuations in a relationship. Many changes in relationships.
 
 ## Comparative Schema
 
-- core meaning: Joint aspiration, a relationship to the masses, political activity. A joint or shared success, far-reaching associations. 51 To Neptune = Jupiter/Pluto one might add; a tendency for infection. 52 Jupiter/Pluto = Node has been found frequently in the cases of economists, managers and directors of business concerns.
+- core meaning: Fortunate change in connections. New good connections. Many fluctuations in a relationship. Many changes in relationships.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Joint aspiration, a relationship to the masses, political activity. A joint or s
 - [Pluto](../factors/pluto.md)
 - [Node](../factors/node.md)
 - [Jupiter/Pluto](../axes/jupiter-pluto.md)
-- [Jupiter Pluto Node](../triads/jupiter-pluto-node.md)

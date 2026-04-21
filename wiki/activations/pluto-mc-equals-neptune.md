@@ -3,10 +3,10 @@ title: Pluto/MC = Neptune
 page_type: activation
 slug: pluto-mc-equals-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Pluto
   - MC
+  - Pluto
   - Neptune
 normalized_formula: Pluto/MC = Neptune
 axis: Pluto/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1079`
-- Source page: `298`
+- Source heading: `MC + Pluto`
+- Source page: `69`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Peculiar objectives in life, mystic vision, purified and refined soul life, great imagination. A person subject to wrong ideas, taking the wrong path. The experience of grave disappointments. 66 Mercury = Pluto/MC should not only be interpreted as success in an academic subject but as success in a specialized field or profession. /
+The evolution and transformation of one’s awareness are hardly noticed on the surface. Creeping alterations of the self.
 
 ## Comparative Schema
 
-- core meaning: Peculiar objectives in life, mystic vision, purified and refined soul life, great imagination. A person subject to wrong ideas, taking the wrong path. The experience of grave disappointments. 66 Mercury = Pluto/MC should not only be interpreted as success in an academic subject but as success in a specialized field or profession. /
+- core meaning: The evolution and transformation of one’s awareness are hardly noticed on the surface. Creeping alterations of the self.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Peculiar objectives in life, mystic vision, purified and refined soul life, grea
 - [MC](../factors/mc.md)
 - [Neptune](../factors/neptune.md)
 - [Pluto/MC](../axes/pluto-mc.md)
-- [Neptune Pluto MC](../triads/neptune-pluto-mc.md)

@@ -3,7 +3,7 @@ title: Mercury Mars Neptune
 page_type: triad_hub
 slug: mercury-mars-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Mars
@@ -18,7 +18,7 @@ orientations:
   - Mercury/Neptune = Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Neptune = Mercury](../activations/mars-neptune-equals-mercury.md)
-  Source page `211`, entry `0725`
+  Source page `195`
 - [Mercury/Mars = Neptune](../activations/mercury-mars-equals-neptune.md)
-  Source page `149`, entry `0477`
+  Source page `160`
 - [Mercury/Neptune = Mars](../activations/mercury-neptune-equals-mars.md)
-  Source page `161`, entry `0522`
+  Source page `164`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/Neptune = Mercury`: page `211`, entry `0725`
-- `Mercury/Mars = Neptune`: page `149`, entry `0477`
-- `Mercury/Neptune = Mars`: page `161`, entry `0522`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/Neptune = Mercury`: page `195`
+- `Mercury/Mars = Neptune`: page `160`
+- `Mercury/Neptune = Mars`: page `164`
 
 ## Contradictions Across Orientations
 

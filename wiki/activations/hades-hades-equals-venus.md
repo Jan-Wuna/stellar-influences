@@ -1,0 +1,62 @@
+---
+title: Hades/Hades = Venus
+page_type: activation
+slug: hades-hades-equals-venus
+status: source_ingested
+framework_scope: hamburg_school
+factors:
+  - Hades
+  - Hades
+  - Venus
+normalized_formula: Hades/Hades = Venus
+axis: Hades/Hades
+activated_by: Venus
+triad_set:
+  - Venus
+  - Hades
+aliases: []
+source_pages:
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+updated_at: 2026-04-21
+---
+
+## Identity
+
+- Formula: `Hades/Hades = Venus`
+- Astronomicon formula: `¢/¢ = Q`
+- Axis page: [Hades/Hades](../axes/hades-hades.md)
+- Repeated-pair identity: no distinct triad hub exists for this activation.
+
+## Source Entries
+
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Hades + Hades`
+- Source page: `275`
+#### Witte Entry
+
+Repulsiveness in love. Love worries. To grieve. Secret love. Dirty minded. Low, purchasable love. Sterility (voluntary). Servitude. Domestic servant. Maidservant, waitress. Reproductive disorders. Immorality. Vulgar sensuality. To age beautifully. Old beautiful things. Old love.
+
+## Comparative Schema
+
+- core meaning: Repulsiveness in love. Love worries. To grieve. Secret love. Dirty minded. Low, purchasable love. Sterility (voluntary). Servitude. Domestic servant. Maidservant, waitress. Reproductive disorders. Immorality. Vulgar sensuality. To age beautifully. Old beautiful things. Old love.
+- psychology: source-backed meaning retained in the entry above.
+- body/health: no separate body-specific bucket is isolated automatically at ingest time.
+- social/relationship: source-backed meaning retained in the entry above.
+- events/manifestations: source-backed meaning retained in the entry above.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+
+## Contradictions
+
+- None recorded yet for this source-only page.
+
+## Derived Synthesis
+
+- None yet beyond source structuring.
+
+## Links
+
+- [Hades](../factors/hades.md)
+- [Hades](../factors/hades.md)
+- [Venus](../factors/venus.md)
+- [Hades/Hades](../axes/hades-hades.md)

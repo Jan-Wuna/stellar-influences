@@ -3,7 +3,7 @@ title: Mars/Pluto = Jupiter
 page_type: activation
 slug: mars-pluto-equals-jupiter
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Pluto
@@ -17,7 +17,7 @@ triad_set:
   - Pluto
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0739`
-- Source page: `214`
+- Source heading: `Mars + Pluto`
+- Source page: `196`
+#### Witte Entry
 
-#### Ebertin Entry
-
-The consciousness of an aim or objective, ability to organize, right use of one's energy. Attainment of unusual successes, enjoyment of one's freedom.
+Plans bring or should bring good fortune. Plans carried through successfully.
 
 ## Comparative Schema
 
-- core meaning: The consciousness of an aim or objective, ability to organize, right use of one's energy. Attainment of unusual successes, enjoyment of one's freedom.
+- core meaning: Plans bring or should bring good fortune. Plans carried through successfully.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ The consciousness of an aim or objective, ability to organize, right use of one'
 - [Pluto](../factors/pluto.md)
 - [Jupiter](../factors/jupiter.md)
 - [Mars/Pluto](../axes/mars-pluto.md)
-- [Mars Jupiter Pluto](../triads/mars-jupiter-pluto.md)

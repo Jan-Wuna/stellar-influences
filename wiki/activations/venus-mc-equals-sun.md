@@ -3,10 +3,10 @@ title: Venus/MC = Sun
 page_type: activation
 slug: venus-mc-equals-sun
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Venus
   - MC
+  - Venus
   - Sun
 normalized_formula: Venus/MC = Sun
 axis: Venus/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0675`
-- Source page: `199`
+- Source heading: `MC + Venus`
+- Source page: `63`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Self-love, vanity and conceit, desire to make oneself beautiflil and to get or to catch the limelight, expectation of admiration from other people. The bliss of being loved by another person.
+Self-love. Vanity. Being in harmony with one’s own body.
 
 ## Comparative Schema
 
-- core meaning: Self-love, vanity and conceit, desire to make oneself beautiflil and to get or to catch the limelight, expectation of admiration from other people. The bliss of being loved by another person.
+- core meaning: Self-love. Vanity. Being in harmony with one’s own body.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Self-love, vanity and conceit, desire to make oneself beautiflil and to get or t
 - [MC](../factors/mc.md)
 - [Sun](../factors/sun.md)
 - [Venus/MC](../axes/venus-mc.md)
-- [Sun Venus MC](../triads/sun-venus-mc.md)

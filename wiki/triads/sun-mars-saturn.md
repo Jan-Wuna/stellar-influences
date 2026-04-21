@@ -3,7 +3,7 @@ title: Sun Mars Saturn
 page_type: triad_hub
 slug: sun-mars-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Mars
@@ -18,7 +18,7 @@ orientations:
   - Sun/Saturn = Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Saturn = Sun](../activations/mars-saturn-equals-sun.md)
-  Source page `205`, entry `0699`
+  Source page `193`
 - [Sun/Mars = Saturn](../activations/sun-mars-equals-saturn.md)
-  Source page `87`, entry `0223`
+  Source page `105`
 - [Sun/Saturn = Mars](../activations/sun-saturn-equals-mars.md)
-  Source page `93`, entry `0246`
+  Source page `107`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/Saturn = Sun`: page `205`, entry `0699`
-- `Sun/Mars = Saturn`: page `87`, entry `0223`
-- `Sun/Saturn = Mars`: page `93`, entry `0246`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/Saturn = Sun`: page `193`
+- `Sun/Mars = Saturn`: page `105`
+- `Sun/Saturn = Mars`: page `107`
 
 ## Contradictions Across Orientations
 

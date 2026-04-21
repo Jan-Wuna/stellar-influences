@@ -3,7 +3,7 @@ title: Neptune/Pluto = Saturn
 page_type: activation
 slug: neptune-pluto-equals-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Neptune
   - Pluto
@@ -17,7 +17,7 @@ triad_set:
   - Pluto
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1005`
-- Source page: `281`
+- Source heading: `Neptune + Pluto`
+- Source page: `246`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Dark forebodings, pessimism, self-torment. Grievous emotional suffering, gradual decline of one's powers and faculties.
+A development which slowly leads to destruction.
 
 ## Comparative Schema
 
-- core meaning: Dark forebodings, pessimism, self-torment. Grievous emotional suffering, gradual decline of one's powers and faculties.
+- core meaning: A development which slowly leads to destruction.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Dark forebodings, pessimism, self-torment. Grievous emotional suffering, gradual
 - [Pluto](../factors/pluto.md)
 - [Saturn](../factors/saturn.md)
 - [Neptune/Pluto](../axes/neptune-pluto.md)
-- [Saturn Neptune Pluto](../triads/saturn-neptune-pluto.md)

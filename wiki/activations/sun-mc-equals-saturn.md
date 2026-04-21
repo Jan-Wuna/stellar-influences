@@ -3,10 +3,10 @@ title: Sun/MC = Saturn
 page_type: activation
 slug: sun-mc-equals-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Sun
   - MC
+  - Sun
   - Saturn
 normalized_formula: Sun/MC = Saturn
 axis: Sun/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0320`
-- Source page: `111`
+- Source heading: `MC + Sun`
+- Source page: `59`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A negative outlook on life, the negation of life, reserve, inhibitions. The tendency to withdraw or to retire, the mood of sadness. The necessity to make grave or difficult decisions.
+The body and soul are inhibited. Pessimist. Separation. Give up a particular objective. Sadness. Grief.
 
 ## Comparative Schema
 
-- core meaning: A negative outlook on life, the negation of life, reserve, inhibitions. The tendency to withdraw or to retire, the mood of sadness. The necessity to make grave or difficult decisions.
+- core meaning: The body and soul are inhibited. Pessimist. Separation. Give up a particular objective. Sadness. Grief.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A negative outlook on life, the negation of life, reserve, inhibitions. The tend
 - [MC](../factors/mc.md)
 - [Saturn](../factors/saturn.md)
 - [Sun/MC](../axes/sun-mc.md)
-- [Sun Saturn MC](../triads/sun-saturn-mc.md)

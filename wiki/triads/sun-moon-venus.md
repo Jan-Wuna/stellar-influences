@@ -3,7 +3,7 @@ title: Sun Moon Venus
 page_type: triad_hub
 slug: sun-moon-venus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Moon
@@ -18,7 +18,7 @@ orientations:
   - Sun/Venus = Moon
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Moon/Venus = Sun](../activations/moon-venus-equals-sun.md)
-  Source page `117`, entry `0339`
+  Source page `123`
 - [Sun/Moon = Venus](../activations/sun-moon-equals-venus.md)
-  Source page `78`, entry `0184`
+  Source page `101`
 - [Sun/Venus = Moon](../activations/sun-venus-equals-moon.md)
-  Source page `84`, entry `0207`
+  Source page `104`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Moon/Venus = Sun`: page `117`, entry `0339`
-- `Sun/Moon = Venus`: page `78`, entry `0184`
-- `Sun/Venus = Moon`: page `84`, entry `0207`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Moon/Venus = Sun`: page `123`
+- `Sun/Moon = Venus`: page `101`
+- `Sun/Venus = Moon`: page `104`
 
 ## Contradictions Across Orientations
 

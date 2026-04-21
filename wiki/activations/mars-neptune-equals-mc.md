@@ -3,7 +3,7 @@ title: Mars/Neptune = MC
 page_type: activation
 slug: mars-neptune-equals-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Neptune
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0733`
-- Source page: `212`
+- Source heading: `Mars + Neptune`
+- Source page: `195`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Lack of ego-consciousness, dependence on subconscious influences. Lack of energy, discontent, feelings of inferiority. Hopelessness, failures, a state of weakness or sickness. 43 Node = Mars/Neptune has frequently been found in the case of hospitalization.
+The native himself in a rejecting mood. Hopes which prove false. To experience failures and losses. Sorrow on account of disease.
 
 ## Comparative Schema
 
-- core meaning: Lack of ego-consciousness, dependence on subconscious influences. Lack of energy, discontent, feelings of inferiority. Hopelessness, failures, a state of weakness or sickness. 43 Node = Mars/Neptune has frequently been found in the case of hospitalization.
+- core meaning: The native himself in a rejecting mood. Hopes which prove false. To experience failures and losses. Sorrow on account of disease.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Lack of ego-consciousness, dependence on subconscious influences. Lack of energy
 - [Neptune](../factors/neptune.md)
 - [MC](../factors/mc.md)
 - [Mars/Neptune](../axes/mars-neptune.md)
-- [Mars Neptune MC](../triads/mars-neptune-mc.md)

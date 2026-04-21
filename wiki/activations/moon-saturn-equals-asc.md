@@ -3,7 +3,7 @@ title: Moon/Saturn = Asc
 page_type: activation
 slug: moon-saturn-equals-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Saturn
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0384`
-- Source page: `127`
+- Source heading: `Moon + Saturn`
+- Source page: `126`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Inhibition of development, inhibited development of the personality. Meeting with sick or depressed people, mourning or bereavement.
+Acquaintance with widows or with old, unfortunate or sick women. Hindrance, changes in the surroundings.
 
 ## Comparative Schema
 
-- core meaning: Inhibition of development, inhibited development of the personality. Meeting with sick or depressed people, mourning or bereavement.
+- core meaning: Acquaintance with widows or with old, unfortunate or sick women. Hindrance, changes in the surroundings.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Inhibition of development, inhibited development of the personality. Meeting wit
 - [Saturn](../factors/saturn.md)
 - [Asc](../factors/asc.md)
 - [Moon/Saturn](../axes/moon-saturn.md)
-- [Moon Saturn Asc](../triads/moon-saturn-asc.md)

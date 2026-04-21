@@ -3,10 +3,10 @@ title: Venus/Node = Saturn
 page_type: activation
 slug: venus-node-equals-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Venus
   - Node
+  - Venus
   - Saturn
 normalized_formula: Venus/Node = Saturn
 axis: Venus/Node
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0656`
-- Source page: `193`
+- Source heading: `Node + Venus`
+- Source page: `142`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Inhibitions, shyness. A renewed awakening to reality, awakening from a love dream, difficulties or worries in a love union.
+Short pleasant union. Sadness and disturbance in an agreeable connection. Separation of a flirtation. Also of other persons.
 
 ## Comparative Schema
 
-- core meaning: Inhibitions, shyness. A renewed awakening to reality, awakening from a love dream, difficulties or worries in a love union.
+- core meaning: Short pleasant union. Sadness and disturbance in an agreeable connection. Separation of a flirtation. Also of other persons.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Inhibitions, shyness. A renewed awakening to reality, awakening from a love drea
 - [Node](../factors/node.md)
 - [Saturn](../factors/saturn.md)
 - [Venus/Node](../axes/venus-node.md)
-- [Venus Saturn Node](../triads/venus-saturn-node.md)

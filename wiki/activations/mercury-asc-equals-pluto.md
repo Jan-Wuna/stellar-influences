@@ -3,10 +3,10 @@ title: Mercury/Asc = Pluto
 page_type: activation
 slug: mercury-asc-equals-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Mercury
   - Asc
+  - Mercury
   - Pluto
 normalized_formula: Mercury/Asc = Pluto
 axis: Mercury/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0563`
-- Source page: `170`
+- Source heading: `Asc + Mercury`
+- Source page: `83`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Desire to establish one's influence over people within one's own environment, attainment of success in life or advancement in one's career or vocation. Tendency to have violent arguments with others.
+The opinions about the native undergo change. Others draw their consequences or conclusions.
 
 ## Comparative Schema
 
-- core meaning: Desire to establish one's influence over people within one's own environment, attainment of success in life or advancement in one's career or vocation. Tendency to have violent arguments with others.
+- core meaning: The opinions about the native undergo change. Others draw their consequences or conclusions.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Desire to establish one's influence over people within one's own environment, at
 - [Asc](../factors/asc.md)
 - [Pluto](../factors/pluto.md)
 - [Mercury/Asc](../axes/mercury-asc.md)
-- [Mercury Pluto Asc](../triads/mercury-pluto-asc.md)

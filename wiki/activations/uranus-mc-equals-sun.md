@@ -3,10 +3,10 @@ title: Uranus/MC = Sun
 page_type: activation
 slug: uranus-mc-equals-sun
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Uranus
   - MC
+  - Uranus
   - Sun
 normalized_formula: Uranus/MC = Sun
 axis: Uranus/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0987`
-- Source page: `278`
+- Source heading: `MC + Uranus`
+- Source page: `67`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Emotional and physical unrest and mobility, inclination to become easily angered, lack of self-control. A nervous physique. An excitable man.
+To become enraged or excited. To be physically excited.
 
 ## Comparative Schema
 
-- core meaning: Emotional and physical unrest and mobility, inclination to become easily angered, lack of self-control. A nervous physique. An excitable man.
+- core meaning: To become enraged or excited. To be physically excited.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Emotional and physical unrest and mobility, inclination to become easily angered
 - [MC](../factors/mc.md)
 - [Sun](../factors/sun.md)
 - [Uranus/MC](../axes/uranus-mc.md)
-- [Sun Uranus MC](../triads/sun-uranus-mc.md)

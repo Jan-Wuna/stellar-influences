@@ -3,7 +3,7 @@ title: Node/Asc
 page_type: axis
 slug: node-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Node
   - Asc
@@ -11,6 +11,8 @@ normalized_axis: Node/Asc
 factor_a: Node
 factor_b: Asc
 related_activations:
+  - Node/Asc = Aries
+  - Node/Asc = MC
   - Node/Asc = Sun
   - Node/Asc = Moon
   - Node/Asc = Mercury
@@ -21,14 +23,30 @@ related_activations:
   - Node/Asc = Uranus
   - Node/Asc = Neptune
   - Node/Asc = Pluto
-  - Node/Asc = MC
+  - Node/Asc = Cupido
+  - Node/Asc = Hades
+  - Node/Asc = Zeus
+  - Node/Asc = Kronos
+  - Node/Asc = Apollon
+  - Node/Asc = Admetos
+  - Node/Asc = Vulcanus
+  - Node/Asc = Poseidon
 related_triad_hubs:
+  - Aries Node Asc
   - Jupiter Node Asc
   - Mars Node Asc
   - Mercury Node Asc
   - Moon Node Asc
   - Neptune Node Asc
+  - Node Asc Admetos
+  - Node Asc Apollon
+  - Node Asc Cupido
+  - Node Asc Hades
+  - Node Asc Kronos
   - Node Asc MC
+  - Node Asc Poseidon
+  - Node Asc Vulcanus
+  - Node Asc Zeus
   - Pluto Node Asc
   - Saturn Node Asc
   - Sun Node Asc
@@ -37,7 +55,7 @@ related_triad_hubs:
 aliases:
   - Asc/Node
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,45 +63,30 @@ updated_at: 2026-04-21
 
 - Axis: `Node/Asc`
 - Astronomicon axis: `g/Asc`
-- Source heading: `Dragon's Head/Ascendant`
-- Source page: `300`
+- Source heading: `Asc + Node`
+- Source page: `82`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-Personal relationships.
-
-#### Psychological Correspondence
-
-+ Harmonious conduct within the family circle and within one's own personal environment, as well as with one's associates or colleagues in work. A social conscience. - Disharmonious conduct within one's personal environment, an antisocial outlook. C The ability, to get along well with others.
-
-#### Biological Correspondence
-
-The power of faculty of memory (in a more subconscious manner). The internal respiration (oxygen metabolism).
-
-#### Sociological Correspondence
-
-One's family, colleagues and associates, fellowship.
-
-#### Probable Manifestations
-
-+ Agreeable contacts with others, profitable teamwork. Sharing the same interests with other people. - Estrangements, separations. Increasing difficulties with regard to the relationship between people sharing the same residence. Dragon's Head/Ascendant N/A
-
+Acquaintances. To establish connections. To keep in touch. Contact with the closer environment. Limits set by the environment. The mediator, broker or an agent. Being connected to one place. Connected locations. Links to the surroundings.
 
 ## Comparative Schema
 
-- core meaning: Personal relationships.
-- psychology: + Harmonious conduct within the family circle and within one's own personal environment, as well as with one's associates or colleagues in work. A social conscience. - Disharmonious conduct within one's personal environment, an antisocial outlook. C The ability, to get along well with others.
-- body/health: The power of faculty of memory (in a more subconscious manner). The internal respiration (oxygen metabolism).
-- social/relationship: One's family, colleagues and associates, fellowship.
-- events/manifestations: + Agreeable contacts with others, profitable teamwork. Sharing the same interests with other people. - Estrangements, separations. Increasing difficulties with regard to the relationship between people sharing the same residence. Dragon's Head/Ascendant N/A
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: Acquaintances. To establish connections. To keep in touch. Contact with the closer environment. Limits set by the environment. The mediator, broker or an agent. Being connected to one place. Connected locations. Links to the surroundings.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Node/Asc = Aries](../activations/node-asc-equals-aries.md)
+- [Node/Asc = MC](../activations/node-asc-equals-mc.md)
 - [Node/Asc = Sun](../activations/node-asc-equals-sun.md)
 - [Node/Asc = Moon](../activations/node-asc-equals-moon.md)
 - [Node/Asc = Mercury](../activations/node-asc-equals-mercury.md)
@@ -94,7 +97,14 @@ One's family, colleagues and associates, fellowship.
 - [Node/Asc = Uranus](../activations/node-asc-equals-uranus.md)
 - [Node/Asc = Neptune](../activations/node-asc-equals-neptune.md)
 - [Node/Asc = Pluto](../activations/node-asc-equals-pluto.md)
-- [Node/Asc = MC](../activations/node-asc-equals-mc.md)
+- [Node/Asc = Cupido](../activations/node-asc-equals-cupido.md)
+- [Node/Asc = Hades](../activations/node-asc-equals-hades.md)
+- [Node/Asc = Zeus](../activations/node-asc-equals-zeus.md)
+- [Node/Asc = Kronos](../activations/node-asc-equals-kronos.md)
+- [Node/Asc = Apollon](../activations/node-asc-equals-apollon.md)
+- [Node/Asc = Admetos](../activations/node-asc-equals-admetos.md)
+- [Node/Asc = Vulcanus](../activations/node-asc-equals-vulcanus.md)
+- [Node/Asc = Poseidon](../activations/node-asc-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ One's family, colleagues and associates, fellowship.
 
 - [Node](../factors/node.md)
 - [Asc](../factors/asc.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

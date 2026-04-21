@@ -3,7 +3,7 @@ title: Mars/Jupiter = MC
 page_type: activation
 slug: mars-jupiter-equals-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Jupiter
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0697`
-- Source page: `203`
+- Source heading: `Mars + Jupiter`
+- Source page: `192`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Joy of living, love of enterprise, creative urge, procreative powers. Becoming engaged or married, ability to make favorable arrangements.
+The betrothed person. Satisfaction and contentment in one’s activity. Content with oneself.
 
 ## Comparative Schema
 
-- core meaning: Joy of living, love of enterprise, creative urge, procreative powers. Becoming engaged or married, ability to make favorable arrangements.
+- core meaning: The betrothed person. Satisfaction and contentment in one’s activity. Content with oneself.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Joy of living, love of enterprise, creative urge, procreative powers. Becoming e
 - [Jupiter](../factors/jupiter.md)
 - [MC](../factors/mc.md)
 - [Mars/Jupiter](../axes/mars-jupiter.md)
-- [Mars Jupiter MC](../triads/mars-jupiter-mc.md)

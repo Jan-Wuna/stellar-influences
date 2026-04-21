@@ -3,7 +3,7 @@ title: Mars Jupiter Uranus
 page_type: triad_hub
 slug: mars-jupiter-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Jupiter
@@ -18,7 +18,7 @@ orientations:
   - Mars/Uranus = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Uranus = Mars](../activations/jupiter-uranus-equals-mars.md)
-  Source page `229`, entry `0799`
+  Source page `208`
 - [Mars/Jupiter = Uranus](../activations/mars-jupiter-equals-uranus.md)
-  Source page `202`, entry `0692`
+  Source page `192`
 - [Mars/Uranus = Jupiter](../activations/mars-uranus-equals-jupiter.md)
-  Source page `208`, entry `0715`
+  Source page `194`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/Uranus = Mars`: page `229`, entry `0799`
-- `Mars/Jupiter = Uranus`: page `202`, entry `0692`
-- `Mars/Uranus = Jupiter`: page `208`, entry `0715`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/Uranus = Mars`: page `208`
+- `Mars/Jupiter = Uranus`: page `192`
+- `Mars/Uranus = Jupiter`: page `194`
 
 ## Contradictions Across Orientations
 

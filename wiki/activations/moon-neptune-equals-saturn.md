@@ -3,7 +3,7 @@ title: Moon/Neptune = Saturn
 page_type: activation
 slug: moon-neptune-equals-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Neptune
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0404`
-- Source page: `132`
+- Source heading: `Moon + Neptune`
+- Source page: `128`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Pessimism, hopelessness and despair, tendency to be strongly influenced by prevailing and temporary circumstances. Suffering of the soul, pathological states of depression, tendency to feel inhibited, frustrated or paralyzed.
+Sickly, nervous women. Damage and separation through secrets of female persons. To be deprived of sleep. To be disturbed while sleeping. Insomnia. Fall from the air.
 
 ## Comparative Schema
 
-- core meaning: Pessimism, hopelessness and despair, tendency to be strongly influenced by prevailing and temporary circumstances. Suffering of the soul, pathological states of depression, tendency to feel inhibited, frustrated or paralyzed.
+- core meaning: Sickly, nervous women. Damage and separation through secrets of female persons. To be deprived of sleep. To be disturbed while sleeping. Insomnia. Fall from the air.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Pessimism, hopelessness and despair, tendency to be strongly influenced by preva
 - [Neptune](../factors/neptune.md)
 - [Saturn](../factors/saturn.md)
 - [Moon/Neptune](../axes/moon-neptune.md)
-- [Moon Saturn Neptune](../triads/moon-saturn-neptune.md)

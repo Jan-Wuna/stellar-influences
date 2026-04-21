@@ -3,7 +3,7 @@ title: Mercury Uranus Neptune
 page_type: triad_hub
 slug: mercury-uranus-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Uranus
@@ -18,7 +18,7 @@ orientations:
   - Uranus/Neptune = Mercury
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mercury/Neptune = Uranus](../activations/mercury-neptune-equals-uranus.md)
-  Source page `161`, entry `0525`
+  Source page `164`
 - [Mercury/Uranus = Neptune](../activations/mercury-uranus-equals-neptune.md)
-  Source page `159`, entry `0513`
+  Source page `163`
 - [Uranus/Neptune = Mercury](../activations/uranus-neptune-equals-mercury.md)
-  Source page `266`, entry `0941`
+  Source page `234`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mercury/Neptune = Uranus`: page `161`, entry `0525`
-- `Mercury/Uranus = Neptune`: page `159`, entry `0513`
-- `Uranus/Neptune = Mercury`: page `266`, entry `0941`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mercury/Neptune = Uranus`: page `164`
+- `Mercury/Uranus = Neptune`: page `163`
+- `Uranus/Neptune = Mercury`: page `234`
 
 ## Contradictions Across Orientations
 

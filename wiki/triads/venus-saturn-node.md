@@ -3,7 +3,7 @@ title: Venus Saturn Node
 page_type: triad_hub
 slug: venus-saturn-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Saturn
@@ -18,7 +18,7 @@ orientations:
   - Venus/Saturn = Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Saturn/Node = Venus](../activations/saturn-node-equals-venus.md)
-  Source page `257`, entry `0906`
+  Source page `145`
 - [Venus/Node = Saturn](../activations/venus-node-equals-saturn.md)
-  Source page `193`, entry `0656`
+  Source page `142`
 - [Venus/Saturn = Node](../activations/venus-saturn-equals-node.md)
-  Source page `183`, entry `0611`
+  Source page `178`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Saturn/Node = Venus`: page `257`, entry `0906`
-- `Venus/Node = Saturn`: page `193`, entry `0656`
-- `Venus/Saturn = Node`: page `183`, entry `0611`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Saturn/Node = Venus`: page `145`
+- `Venus/Node = Saturn`: page `142`
+- `Venus/Saturn = Node`: page `178`
 
 ## Contradictions Across Orientations
 

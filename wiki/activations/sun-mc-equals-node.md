@@ -3,10 +3,10 @@ title: Sun/MC = Node
 page_type: activation
 slug: sun-mc-equals-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Sun
   - MC
+  - Sun
   - Node
 normalized_formula: Sun/MC = Node
 axis: Sun/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0324`
-- Source page: `112`
+- Source heading: `MC + Sun`
+- Source page: `59`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Tendency to pick one's acquaintances and associates carefully, the personal search for friends and colleagues. Forming a relationship.
+The native’s relationships have, to the same extent, a physical and mental influence on him.
 
 ## Comparative Schema
 
-- core meaning: Tendency to pick one's acquaintances and associates carefully, the personal search for friends and colleagues. Forming a relationship.
+- core meaning: The native’s relationships have, to the same extent, a physical and mental influence on him.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Tendency to pick one's acquaintances and associates carefully, the personal sear
 - [MC](../factors/mc.md)
 - [Node](../factors/node.md)
 - [Sun/MC](../axes/sun-mc.md)
-- [Sun Node MC](../triads/sun-node-mc.md)

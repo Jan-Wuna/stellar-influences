@@ -3,10 +3,10 @@ title: Node/MC = Jupiter
 page_type: activation
 slug: node-mc-equals-jupiter
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Node
   - MC
+  - Node
   - Jupiter
 normalized_formula: Node/MC = Jupiter
 axis: Node/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1100`
-- Source page: `304`
+- Source heading: `MC + Node`
+- Source page: `61`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Love of jolly parties and entertainment. A liking of social meetings with others in a cozy atmosphere. A happy communion of souls.
+Happiness through ones own connections. Blissful feelings in relationships.
 
 ## Comparative Schema
 
-- core meaning: Love of jolly parties and entertainment. A liking of social meetings with others in a cozy atmosphere. A happy communion of souls.
+- core meaning: Happiness through ones own connections. Blissful feelings in relationships.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Love of jolly parties and entertainment. A liking of social meetings with others
 - [MC](../factors/mc.md)
 - [Jupiter](../factors/jupiter.md)
 - [Node/MC](../axes/node-mc.md)
-- [Jupiter Node MC](../triads/jupiter-node-mc.md)

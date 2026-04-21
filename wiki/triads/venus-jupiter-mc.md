@@ -3,7 +3,7 @@ title: Venus Jupiter MC
 page_type: triad_hub
 slug: venus-jupiter-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Jupiter
@@ -18,7 +18,7 @@ orientations:
   - Venus/MC = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/MC = Venus](../activations/jupiter-mc-equals-venus.md)
-  Source page `244`, entry `0858`
+  Source page `65`
 - [Venus/Jupiter = MC](../activations/venus-jupiter-equals-mc.md)
-  Source page `180`, entry `0601`
+  Source page `177`
 - [Venus/MC = Jupiter](../activations/venus-mc-equals-jupiter.md)
-  Source page `199`, entry `0679`
+  Source page `63`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/MC = Venus`: page `244`, entry `0858`
-- `Venus/Jupiter = MC`: page `180`, entry `0601`
-- `Venus/MC = Jupiter`: page `199`, entry `0679`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/MC = Venus`: page `65`
+- `Venus/Jupiter = MC`: page `177`
+- `Venus/MC = Jupiter`: page `63`
 
 ## Contradictions Across Orientations
 

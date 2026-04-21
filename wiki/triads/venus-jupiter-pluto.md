@@ -3,7 +3,7 @@ title: Venus Jupiter Pluto
 page_type: triad_hub
 slug: venus-jupiter-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Jupiter
@@ -18,7 +18,7 @@ orientations:
   - Venus/Pluto = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Pluto = Venus](../activations/jupiter-pluto-equals-venus.md)
-  Source page `235`, entry `0822`
+  Source page `210`
 - [Venus/Jupiter = Pluto](../activations/venus-jupiter-equals-pluto.md)
-  Source page `179`, entry `0598`
+  Source page `177`
 - [Venus/Pluto = Jupiter](../activations/venus-pluto-equals-jupiter.md)
-  Source page `191`, entry `0643`
+  Source page `181`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/Pluto = Venus`: page `235`, entry `0822`
-- `Venus/Jupiter = Pluto`: page `179`, entry `0598`
-- `Venus/Pluto = Jupiter`: page `191`, entry `0643`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/Pluto = Venus`: page `210`
+- `Venus/Jupiter = Pluto`: page `177`
+- `Venus/Pluto = Jupiter`: page `181`
 
 ## Contradictions Across Orientations
 

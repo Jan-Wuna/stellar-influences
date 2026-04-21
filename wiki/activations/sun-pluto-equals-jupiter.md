@@ -3,7 +3,7 @@ title: Sun/Pluto = Jupiter
 page_type: activation
 slug: sun-pluto-equals-jupiter
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Pluto
@@ -17,7 +17,7 @@ triad_set:
   - Pluto
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0283`
-- Source page: `102`
+- Source heading: `Sun + Pluto`
+- Source page: `110`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Successful striving for power, urge to expand and acquire wealth, a person who establishes his position in life successfully.
+Happiness through daily changes. Abundant development. Fat deposits.
 
 ## Comparative Schema
 
-- core meaning: Successful striving for power, urge to expand and acquire wealth, a person who establishes his position in life successfully.
+- core meaning: Happiness through daily changes. Abundant development. Fat deposits.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Successful striving for power, urge to expand and acquire wealth, a person who e
 - [Pluto](../factors/pluto.md)
 - [Jupiter](../factors/jupiter.md)
 - [Sun/Pluto](../axes/sun-pluto.md)
-- [Sun Jupiter Pluto](../triads/sun-jupiter-pluto.md)

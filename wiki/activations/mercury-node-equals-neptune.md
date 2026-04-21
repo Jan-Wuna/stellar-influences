@@ -3,10 +3,10 @@ title: Mercury/Node = Neptune
 page_type: activation
 slug: mercury-node-equals-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Mercury
   - Node
+  - Mercury
   - Neptune
 normalized_formula: Mercury/Node = Neptune
 axis: Mercury/Node
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0550`
-- Source page: `167`
+- Source heading: `Node + Mercury`
+- Source page: `141`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Difficult adjustment to community life. An interrupted contact, shared disappointments.
+Disappointing correspondence or exchange of thoughts. Fruitless waiting, to leave someone in the lurch.
 
 ## Comparative Schema
 
-- core meaning: Difficult adjustment to community life. An interrupted contact, shared disappointments.
+- core meaning: Disappointing correspondence or exchange of thoughts. Fruitless waiting, to leave someone in the lurch.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Difficult adjustment to community life. An interrupted contact, shared disappoin
 - [Node](../factors/node.md)
 - [Neptune](../factors/neptune.md)
 - [Mercury/Node](../axes/mercury-node.md)
-- [Mercury Neptune Node](../triads/mercury-neptune-node.md)

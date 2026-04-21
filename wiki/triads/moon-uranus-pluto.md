@@ -3,7 +3,7 @@ title: Moon Uranus Pluto
 page_type: triad_hub
 slug: moon-uranus-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Uranus
@@ -18,7 +18,7 @@ orientations:
   - Uranus/Pluto = Moon
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Moon/Pluto = Uranus](../activations/moon-pluto-equals-uranus.md)
-  Source page `135`, entry `0417`
+  Source page `129`
 - [Moon/Uranus = Pluto](../activations/moon-uranus-equals-pluto.md)
-  Source page `129`, entry `0394`
+  Source page `127`
 - [Uranus/Pluto = Moon](../activations/uranus-pluto-equals-moon.md)
-  Source page `269`, entry `0952`
+  Source page `235`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Moon/Pluto = Uranus`: page `135`, entry `0417`
-- `Moon/Uranus = Pluto`: page `129`, entry `0394`
-- `Uranus/Pluto = Moon`: page `269`, entry `0952`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Moon/Pluto = Uranus`: page `129`
+- `Moon/Uranus = Pluto`: page `127`
+- `Uranus/Pluto = Moon`: page `235`
 
 ## Contradictions Across Orientations
 

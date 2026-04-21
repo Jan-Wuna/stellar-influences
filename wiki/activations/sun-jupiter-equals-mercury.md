@@ -3,7 +3,7 @@ title: Sun/Jupiter = Mercury
 page_type: activation
 slug: sun-jupiter-equals-mercury
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Jupiter
@@ -17,7 +17,7 @@ triad_set:
   - Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0232`
-- Source page: `90`
+- Source heading: `Sun + Jupiter`
+- Source page: `106`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Thought processes of a healthy person, successful thinking, good mode of expression, a mobile and healthy body, meditating or reflecting on health (medical doctor), healthy outlook on life. Success through thinking, speaking and acting. Good news, conclusion of a contract or of an agreement, recognition.
+A good physician. Good news. Thoughts of success. Persevering speaker. Success through speaking, travel, writing commerce or trade.
 
 ## Comparative Schema
 
-- core meaning: Thought processes of a healthy person, successful thinking, good mode of expression, a mobile and healthy body, meditating or reflecting on health (medical doctor), healthy outlook on life. Success through thinking, speaking and acting. Good news, conclusion of a contract or of an agreement, recognition.
+- core meaning: A good physician. Good news. Thoughts of success. Persevering speaker. Success through speaking, travel, writing commerce or trade.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Thought processes of a healthy person, successful thinking, good mode of express
 - [Jupiter](../factors/jupiter.md)
 - [Mercury](../factors/mercury.md)
 - [Sun/Jupiter](../axes/sun-jupiter.md)
-- [Sun Mercury Jupiter](../triads/sun-mercury-jupiter.md)

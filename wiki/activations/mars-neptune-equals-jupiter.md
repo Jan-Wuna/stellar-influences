@@ -3,7 +3,7 @@ title: Mars/Neptune = Jupiter
 page_type: activation
 slug: mars-neptune-equals-jupiter
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Neptune
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0727`
-- Source page: `211`
+- Source heading: `Mars + Neptune`
+- Source page: `195`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Rich and colorful imagination, sensitivity, inspiration, spiritual perception despite a weak vitality. A fortunate turn or break after suffering disappointments or a disappointment under otherwise fortunate circumstances, unhappiness or ill luck in the midst of wealth. Pulmonary diseases.
+Happiness combined with great disappointments. Denial of happiness. Weak lungs. Loss of property.
 
 ## Comparative Schema
 
-- core meaning: Rich and colorful imagination, sensitivity, inspiration, spiritual perception despite a weak vitality. A fortunate turn or break after suffering disappointments or a disappointment under otherwise fortunate circumstances, unhappiness or ill luck in the midst of wealth. Pulmonary diseases.
+- core meaning: Happiness combined with great disappointments. Denial of happiness. Weak lungs. Loss of property.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Rich and colorful imagination, sensitivity, inspiration, spiritual perception de
 - [Neptune](../factors/neptune.md)
 - [Jupiter](../factors/jupiter.md)
 - [Mars/Neptune](../axes/mars-neptune.md)
-- [Mars Jupiter Neptune](../triads/mars-jupiter-neptune.md)

@@ -3,10 +3,10 @@ title: Mars/Node = Saturn
 page_type: activation
 slug: mars-node-equals-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Mars
   - Node
+  - Mars
   - Saturn
 normalized_formula: Mars/Node = Saturn
 axis: Mars/Node
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0752`
-- Source page: `217`
+- Source heading: `Node + Mars`
+- Source page: `143`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Reserve, inhibitions with regard to others. Disadvantages or difficulties through unions or associations, teamwork which is rendered more difficult as time goes on, separation. (The death of blood relatives.)
+To be separated from the work connections or work. Others are the cause of it. Separation from sex unions. Death in the family.
 
 ## Comparative Schema
 
-- core meaning: Reserve, inhibitions with regard to others. Disadvantages or difficulties through unions or associations, teamwork which is rendered more difficult as time goes on, separation. (The death of blood relatives.)
+- core meaning: To be separated from the work connections or work. Others are the cause of it. Separation from sex unions. Death in the family.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Reserve, inhibitions with regard to others. Disadvantages or difficulties throug
 - [Node](../factors/node.md)
 - [Saturn](../factors/saturn.md)
 - [Mars/Node](../axes/mars-node.md)
-- [Mars Saturn Node](../triads/mars-saturn-node.md)

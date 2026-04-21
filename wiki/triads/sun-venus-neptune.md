@@ -3,7 +3,7 @@ title: Sun Venus Neptune
 page_type: triad_hub
 slug: sun-venus-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Venus
@@ -18,7 +18,7 @@ orientations:
   - Venus/Neptune = Sun
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Sun/Neptune = Venus](../activations/sun-neptune-equals-venus.md)
-  Source page `99`, entry `0269`
+  Source page `109`
 - [Sun/Venus = Neptune](../activations/sun-venus-equals-neptune.md)
-  Source page `84`, entry `0213`
+  Source page `104`
 - [Venus/Neptune = Sun](../activations/venus-neptune-equals-sun.md)
-  Source page `188`, entry `0627`
+  Source page `180`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Sun/Neptune = Venus`: page `99`, entry `0269`
-- `Sun/Venus = Neptune`: page `84`, entry `0213`
-- `Venus/Neptune = Sun`: page `188`, entry `0627`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Sun/Neptune = Venus`: page `109`
+- `Sun/Venus = Neptune`: page `104`
+- `Venus/Neptune = Sun`: page `180`
 
 ## Contradictions Across Orientations
 

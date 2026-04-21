@@ -3,7 +3,7 @@ title: Venus/Pluto
 page_type: axis
 slug: venus-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Pluto
@@ -11,33 +11,51 @@ normalized_axis: Venus/Pluto
 factor_a: Venus
 factor_b: Pluto
 related_activations:
+  - Venus/Pluto = Aries
+  - Venus/Pluto = MC
+  - Venus/Pluto = Asc
   - Venus/Pluto = Sun
   - Venus/Pluto = Moon
+  - Venus/Pluto = Node
   - Venus/Pluto = Mercury
   - Venus/Pluto = Mars
   - Venus/Pluto = Jupiter
   - Venus/Pluto = Saturn
   - Venus/Pluto = Uranus
   - Venus/Pluto = Neptune
-  - Venus/Pluto = Node
-  - Venus/Pluto = Asc
-  - Venus/Pluto = MC
+  - Venus/Pluto = Cupido
+  - Venus/Pluto = Hades
+  - Venus/Pluto = Zeus
+  - Venus/Pluto = Kronos
+  - Venus/Pluto = Apollon
+  - Venus/Pluto = Admetos
+  - Venus/Pluto = Vulcanus
+  - Venus/Pluto = Poseidon
 related_triad_hubs:
+  - Aries Venus Pluto
   - Mercury Venus Pluto
   - Moon Venus Pluto
   - Sun Venus Pluto
   - Venus Jupiter Pluto
   - Venus Mars Pluto
   - Venus Neptune Pluto
+  - Venus Pluto Admetos
+  - Venus Pluto Apollon
   - Venus Pluto Asc
+  - Venus Pluto Cupido
+  - Venus Pluto Hades
+  - Venus Pluto Kronos
   - Venus Pluto MC
   - Venus Pluto Node
+  - Venus Pluto Poseidon
+  - Venus Pluto Vulcanus
+  - Venus Pluto Zeus
   - Venus Saturn Pluto
   - Venus Uranus Pluto
 aliases:
   - Pluto/Venus
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,56 +63,48 @@ updated_at: 2026-04-21
 
 - Axis: `Venus/Pluto`
 - Astronomicon axis: `Q/Z`
-- Source heading: `Venus/Pluto`
-- Source page: `190`
+- Source heading: `Venus + Pluto`
+- Source page: `181`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-Fanatic love, desire for sensual pleasure, lasciviousness.
-
-#### Psychological Correspondence
-
-+ A strong feeling of love, extraordinary power of attraction, intensified sex expression, unusual measure of procreative power, special artistic gift. - Excessive expression of the sex urge, lascivious or lewd desire. C Fanaticism in love.
-
-#### Biological Correspondence
-
-The first occurence of the menses, the ovaries. Corpus luteum. (Occasionally excessive or abnormal sex life?)
-
-#### Sociological Correspondence
-
-Fanatics in love or art.
-
-#### Probable Manifestations
-
-+ Being madly in love with one's lover, the state of being attracted to a lover by a kind of inner compulsion. - Extraordinary strains and stresses in love life. 35 One must be careful when making decisions regarding a Venus/Pluto aspect because these combinations are not only found in cases of lose-living women like a well-known Frankfurt prostitute, but can also be found in the case of deeply moral individuals. Here, as everywhere else, the inheritance is important, the home, upbringing, environment and the period in time. Venus-Pluto combinations are found at times in the case of creative personalities. Venus/Pluto Q/f
-
+Harmonious development or transformation. Development of a wish, of a hope. Beginning and harmonious development of love and affection. To give in. Consideration. Pleasant change. Thinking of the well-being of others. Glandular development.
 
 ## Comparative Schema
 
-- core meaning: Fanatic love, desire for sensual pleasure, lasciviousness.
-- psychology: + A strong feeling of love, extraordinary power of attraction, intensified sex expression, unusual measure of procreative power, special artistic gift. - Excessive expression of the sex urge, lascivious or lewd desire. C Fanaticism in love.
-- body/health: The first occurence of the menses, the ovaries. Corpus luteum. (Occasionally excessive or abnormal sex life?)
-- social/relationship: Fanatics in love or art.
-- events/manifestations: + Being madly in love with one's lover, the state of being attracted to a lover by a kind of inner compulsion. - Extraordinary strains and stresses in love life. 35 One must be careful when making decisions regarding a Venus/Pluto aspect because these combinations are not only found in cases of lose-living women like a well-known Frankfurt prostitute, but can also be found in the case of deeply moral individuals. Here, as everywhere else, the inheritance is important, the home, upbringing, environment and the period in time. Venus-Pluto combinations are found at times in the case of creative personalities. Venus/Pluto Q/f
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: Harmonious development or transformation. Development of a wish, of a hope. Beginning and harmonious development of love and affection. To give in. Consideration. Pleasant change. Thinking of the well-being of others. Glandular development.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Venus/Pluto = Aries](../activations/venus-pluto-equals-aries.md)
+- [Venus/Pluto = MC](../activations/venus-pluto-equals-mc.md)
+- [Venus/Pluto = Asc](../activations/venus-pluto-equals-asc.md)
 - [Venus/Pluto = Sun](../activations/venus-pluto-equals-sun.md)
 - [Venus/Pluto = Moon](../activations/venus-pluto-equals-moon.md)
+- [Venus/Pluto = Node](../activations/venus-pluto-equals-node.md)
 - [Venus/Pluto = Mercury](../activations/venus-pluto-equals-mercury.md)
 - [Venus/Pluto = Mars](../activations/venus-pluto-equals-mars.md)
 - [Venus/Pluto = Jupiter](../activations/venus-pluto-equals-jupiter.md)
 - [Venus/Pluto = Saturn](../activations/venus-pluto-equals-saturn.md)
 - [Venus/Pluto = Uranus](../activations/venus-pluto-equals-uranus.md)
 - [Venus/Pluto = Neptune](../activations/venus-pluto-equals-neptune.md)
-- [Venus/Pluto = Node](../activations/venus-pluto-equals-node.md)
-- [Venus/Pluto = Asc](../activations/venus-pluto-equals-asc.md)
-- [Venus/Pluto = MC](../activations/venus-pluto-equals-mc.md)
+- [Venus/Pluto = Cupido](../activations/venus-pluto-equals-cupido.md)
+- [Venus/Pluto = Hades](../activations/venus-pluto-equals-hades.md)
+- [Venus/Pluto = Zeus](../activations/venus-pluto-equals-zeus.md)
+- [Venus/Pluto = Kronos](../activations/venus-pluto-equals-kronos.md)
+- [Venus/Pluto = Apollon](../activations/venus-pluto-equals-apollon.md)
+- [Venus/Pluto = Admetos](../activations/venus-pluto-equals-admetos.md)
+- [Venus/Pluto = Vulcanus](../activations/venus-pluto-equals-vulcanus.md)
+- [Venus/Pluto = Poseidon](../activations/venus-pluto-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Fanatics in love or art.
 
 - [Venus](../factors/venus.md)
 - [Pluto](../factors/pluto.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

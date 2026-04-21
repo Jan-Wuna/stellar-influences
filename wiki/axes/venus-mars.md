@@ -3,7 +3,7 @@ title: Venus/Mars
 page_type: axis
 slug: venus-mars
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Mars
@@ -11,33 +11,51 @@ normalized_axis: Venus/Mars
 factor_a: Venus
 factor_b: Mars
 related_activations:
+  - Venus/Mars = Aries
+  - Venus/Mars = MC
+  - Venus/Mars = Asc
   - Venus/Mars = Sun
   - Venus/Mars = Moon
+  - Venus/Mars = Node
   - Venus/Mars = Mercury
   - Venus/Mars = Jupiter
   - Venus/Mars = Saturn
   - Venus/Mars = Uranus
   - Venus/Mars = Neptune
   - Venus/Mars = Pluto
-  - Venus/Mars = Node
-  - Venus/Mars = Asc
-  - Venus/Mars = MC
+  - Venus/Mars = Cupido
+  - Venus/Mars = Hades
+  - Venus/Mars = Zeus
+  - Venus/Mars = Kronos
+  - Venus/Mars = Apollon
+  - Venus/Mars = Admetos
+  - Venus/Mars = Vulcanus
+  - Venus/Mars = Poseidon
 related_triad_hubs:
+  - Aries Venus Mars
   - Mercury Venus Mars
   - Moon Venus Mars
   - Sun Venus Mars
+  - Venus Mars Admetos
+  - Venus Mars Apollon
   - Venus Mars Asc
+  - Venus Mars Cupido
+  - Venus Mars Hades
   - Venus Mars Jupiter
+  - Venus Mars Kronos
   - Venus Mars MC
   - Venus Mars Neptune
   - Venus Mars Node
   - Venus Mars Pluto
+  - Venus Mars Poseidon
   - Venus Mars Saturn
   - Venus Mars Uranus
+  - Venus Mars Vulcanus
+  - Venus Mars Zeus
 aliases:
   - Mars/Venus
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,56 +63,48 @@ updated_at: 2026-04-21
 
 - Axis: `Venus/Mars`
 - Astronomicon axis: `Q/U`
-- Source heading: `Venus/Mars`
-- Source page: `175`
+- Source heading: `Venus + Mars`
+- Source page: `176`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-The impulse to love. Passion.
-
-#### Psychological Correspondence
-
-+ Passionate love, sensuality, desire, a warm heart, descriptive talent, artistic creativity, a lively expression of feelings and sentiment. - A strongly emotional and sexual life coupled with disharmonious tendencies, inclination to exaggerate, irritability, the state of being dissatisfied or unsatisfied, excitability, lack of tact, sudden outburst of extreme passion or sensuality followed by a quick reaction of coolness. C A strongly sensual nature, sensitivity, excitability, lack of tenderness and tact.
-
-#### Biological Correspondence
-
-The sympathetic and parasympathetic nervous system. Autonomic disturbances of function (particularly in the bowels and kidneys), anomalies of menstruation, masturbation. Inclination to contract varicose veins.
-
-#### Sociological Correspondence
-
-People in love, sex unions.
-
-#### Probable Manifestations
-
-+ An early sexual maturity, the beginning of associations based purely on sex. - Disharmonious sex life, in some cases inclination to polygamy, infidelity. 31 In astrological textbooks, aspects between Venus and Mars, especially the square and opposition, are given a very negative interpretation. This is irresponsible. After all, this is a perfectly natural tendency, for without the regenerative function there would be no more children. It has actually been noticed that disruptions in love life have occured even when there were no inharmonious aspects between Venus and Mars. Venus/Mars Q/o"
-
+The blood-relationship. Intimate friendship. Sex love. To act with devotion, out of love for the cause. To become intimate. Sex activity. Joy of action. Acting like a maternal female. Passionate activity. Kinship.
 
 ## Comparative Schema
 
-- core meaning: The impulse to love. Passion.
-- psychology: + Passionate love, sensuality, desire, a warm heart, descriptive talent, artistic creativity, a lively expression of feelings and sentiment. - A strongly emotional and sexual life coupled with disharmonious tendencies, inclination to exaggerate, irritability, the state of being dissatisfied or unsatisfied, excitability, lack of tact, sudden outburst of extreme passion or sensuality followed by a quick reaction of coolness. C A strongly sensual nature, sensitivity, excitability, lack of tenderness and tact.
-- body/health: The sympathetic and parasympathetic nervous system. Autonomic disturbances of function (particularly in the bowels and kidneys), anomalies of menstruation, masturbation. Inclination to contract varicose veins.
-- social/relationship: People in love, sex unions.
-- events/manifestations: + An early sexual maturity, the beginning of associations based purely on sex. - Disharmonious sex life, in some cases inclination to polygamy, infidelity. 31 In astrological textbooks, aspects between Venus and Mars, especially the square and opposition, are given a very negative interpretation. This is irresponsible. After all, this is a perfectly natural tendency, for without the regenerative function there would be no more children. It has actually been noticed that disruptions in love life have occured even when there were no inharmonious aspects between Venus and Mars. Venus/Mars Q/o"
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: The blood-relationship. Intimate friendship. Sex love. To act with devotion, out of love for the cause. To become intimate. Sex activity. Joy of action. Acting like a maternal female. Passionate activity. Kinship.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Venus/Mars = Aries](../activations/venus-mars-equals-aries.md)
+- [Venus/Mars = MC](../activations/venus-mars-equals-mc.md)
+- [Venus/Mars = Asc](../activations/venus-mars-equals-asc.md)
 - [Venus/Mars = Sun](../activations/venus-mars-equals-sun.md)
 - [Venus/Mars = Moon](../activations/venus-mars-equals-moon.md)
+- [Venus/Mars = Node](../activations/venus-mars-equals-node.md)
 - [Venus/Mars = Mercury](../activations/venus-mars-equals-mercury.md)
 - [Venus/Mars = Jupiter](../activations/venus-mars-equals-jupiter.md)
 - [Venus/Mars = Saturn](../activations/venus-mars-equals-saturn.md)
 - [Venus/Mars = Uranus](../activations/venus-mars-equals-uranus.md)
 - [Venus/Mars = Neptune](../activations/venus-mars-equals-neptune.md)
 - [Venus/Mars = Pluto](../activations/venus-mars-equals-pluto.md)
-- [Venus/Mars = Node](../activations/venus-mars-equals-node.md)
-- [Venus/Mars = Asc](../activations/venus-mars-equals-asc.md)
-- [Venus/Mars = MC](../activations/venus-mars-equals-mc.md)
+- [Venus/Mars = Cupido](../activations/venus-mars-equals-cupido.md)
+- [Venus/Mars = Hades](../activations/venus-mars-equals-hades.md)
+- [Venus/Mars = Zeus](../activations/venus-mars-equals-zeus.md)
+- [Venus/Mars = Kronos](../activations/venus-mars-equals-kronos.md)
+- [Venus/Mars = Apollon](../activations/venus-mars-equals-apollon.md)
+- [Venus/Mars = Admetos](../activations/venus-mars-equals-admetos.md)
+- [Venus/Mars = Vulcanus](../activations/venus-mars-equals-vulcanus.md)
+- [Venus/Mars = Poseidon](../activations/venus-mars-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ People in love, sex unions.
 
 - [Venus](../factors/venus.md)
 - [Mars](../factors/mars.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

@@ -3,10 +3,10 @@ title: Jupiter/Asc = MC
 page_type: activation
 slug: jupiter-asc-equals-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Jupiter
   - Asc
+  - Jupiter
   - MC
 normalized_formula: Jupiter/Asc = MC
 axis: Jupiter/Asc
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0853`
-- Source page: `242`
+- Source heading: `Asc + Jupiter`
+- Source page: `86`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Pleasant and harmonious personality, the good fortune to be placed in good circumstances, a person who is successful in contact with other people.
+To get along well with others. To keep good friendship. To be fond of companionship. To have protection. To be protected by others.
 
 ## Comparative Schema
 
-- core meaning: Pleasant and harmonious personality, the good fortune to be placed in good circumstances, a person who is successful in contact with other people.
+- core meaning: To get along well with others. To keep good friendship. To be fond of companionship. To have protection. To be protected by others.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Pleasant and harmonious personality, the good fortune to be placed in good circu
 - [Asc](../factors/asc.md)
 - [MC](../factors/mc.md)
 - [Jupiter/Asc](../axes/jupiter-asc.md)
-- [Jupiter Asc MC](../triads/jupiter-asc-mc.md)

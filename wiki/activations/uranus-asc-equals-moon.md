@@ -3,10 +3,10 @@ title: Uranus/Asc = Moon
 page_type: activation
 slug: uranus-asc-equals-moon
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Uranus
   - Asc
+  - Uranus
   - Moon
 normalized_formula: Uranus/Asc = Moon
 axis: Uranus/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0976`
-- Source page: `275`
+- Source heading: `Asc + Uranus`
+- Source page: `88`
+#### Witte Entry
 
-#### Ebertin Entry
-
-The soul's response the environmental stimuli, highly emotional disposition, tendency to easily become excited through the influence of others, quick change of mood caused by others. Sudden experiences through females.
+Sudden unusual events with female persons.
 
 ## Comparative Schema
 
-- core meaning: The soul's response the environmental stimuli, highly emotional disposition, tendency to easily become excited through the influence of others, quick change of mood caused by others. Sudden experiences through females.
+- core meaning: Sudden unusual events with female persons.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ The soul's response the environmental stimuli, highly emotional disposition, ten
 - [Asc](../factors/asc.md)
 - [Moon](../factors/moon.md)
 - [Uranus/Asc](../axes/uranus-asc.md)
-- [Moon Uranus Asc](../triads/moon-uranus-asc.md)

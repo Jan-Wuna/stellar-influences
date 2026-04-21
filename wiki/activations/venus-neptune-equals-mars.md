@@ -3,7 +3,7 @@ title: Venus/Neptune = Mars
 page_type: activation
 slug: venus-neptune-equals-mars
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Neptune
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0630`
-- Source page: `188`
+- Source heading: `Venus + Neptune`
+- Source page: `180`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Strong wishing power on an amorous basis, the state of being unsatisfied, misdirected energy, sexual aberration. Love longings without fulfilment, perversions.
+Disharmony with close friends or relatives. Intercourse obstructed by sickness or abnormal build-up of other adverse conditions.
 
 ## Comparative Schema
 
-- core meaning: Strong wishing power on an amorous basis, the state of being unsatisfied, misdirected energy, sexual aberration. Love longings without fulfilment, perversions.
+- core meaning: Disharmony with close friends or relatives. Intercourse obstructed by sickness or abnormal build-up of other adverse conditions.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Strong wishing power on an amorous basis, the state of being unsatisfied, misdir
 - [Neptune](../factors/neptune.md)
 - [Mars](../factors/mars.md)
 - [Venus/Neptune](../axes/venus-neptune.md)
-- [Venus Mars Neptune](../triads/venus-mars-neptune.md)

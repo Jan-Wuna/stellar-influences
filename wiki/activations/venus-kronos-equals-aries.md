@@ -1,0 +1,63 @@
+---
+title: Venus/Kronos = Aries
+page_type: activation
+slug: venus-kronos-equals-aries
+status: source_ingested
+framework_scope: hamburg_school
+factors:
+  - Venus
+  - Kronos
+  - Aries
+normalized_formula: Venus/Kronos = Aries
+axis: Venus/Kronos
+activated_by: Aries
+triad_set:
+  - Aries
+  - Venus
+  - Kronos
+aliases: []
+source_pages:
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+updated_at: 2026-04-21
+---
+
+## Identity
+
+- Formula: `Venus/Kronos = Aries`
+- Astronomicon formula: `Q/¤ = Aries`
+- Axis page: [Venus/Kronos](../axes/venus-kronos.md)
+- Triad hub: [Aries Venus Kronos](../triads/aries-venus-kronos.md)
+
+## Source Entries
+
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Kronos`
+- Source page: `185`
+#### Witte Entry
+
+General charitable activity.
+
+## Comparative Schema
+
+- core meaning: General charitable activity.
+- psychology: source-backed meaning retained in the entry above.
+- body/health: no separate body-specific bucket is isolated automatically at ingest time.
+- social/relationship: source-backed meaning retained in the entry above.
+- events/manifestations: source-backed meaning retained in the entry above.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+
+## Contradictions
+
+- None recorded yet for this source-only page.
+
+## Derived Synthesis
+
+- None yet beyond source structuring.
+
+## Links
+
+- [Venus](../factors/venus.md)
+- [Kronos](../factors/kronos.md)
+- [Aries](../factors/aries.md)
+- [Venus/Kronos](../axes/venus-kronos.md)

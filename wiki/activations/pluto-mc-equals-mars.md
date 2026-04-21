@@ -3,10 +3,10 @@ title: Pluto/MC = Mars
 page_type: activation
 slug: pluto-mc-equals-mars
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Pluto
   - MC
+  - Pluto
   - Mars
 normalized_formula: Pluto/MC = Mars
 axis: Pluto/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1075`
-- Source page: `298`
+- Source heading: `MC + Pluto`
+- Source page: `69`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Great striving for power, urge to dominate other people. The misfortune to be forced into an uncongenial profession or occupation. A crisis in one's career.
+The development of the will. Personal change in action or at work. One’s attitude is transformed through activity or work.
 
 ## Comparative Schema
 
-- core meaning: Great striving for power, urge to dominate other people. The misfortune to be forced into an uncongenial profession or occupation. A crisis in one's career.
+- core meaning: The development of the will. Personal change in action or at work. One’s attitude is transformed through activity or work.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Great striving for power, urge to dominate other people. The misfortune to be fo
 - [MC](../factors/mc.md)
 - [Mars](../factors/mars.md)
 - [Pluto/MC](../axes/pluto-mc.md)
-- [Mars Pluto MC](../triads/mars-pluto-mc.md)

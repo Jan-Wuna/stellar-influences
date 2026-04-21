@@ -3,7 +3,7 @@ title: Moon/Venus = Neptune
 page_type: activation
 slug: moon-venus-equals-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Venus
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0345`
-- Source page: `117`
+- Source heading: `Moon + Venus`
+- Source page: `123`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Moody, impressionable, tendency to be tempted or seduced easily, misguided or misdirected feelings of love, an unnatural behavior. Weakened or abnormal gland activity. Love expressing itself in the wrong way, an unhappy love, the necessity for renunciation. 18 In many cases one can replace the word "love" with the word "art." MoonA/enus = Mercury has been found in the case of many artistically creative people. 19 Moon/Venus = Uranus has often been found in female charts to indicate early love relationships, seduction and rape.
+Unselfish love. Dreaming. Unfortunate (unhappy) love of a woman. The infection of a woman. Interruption of pregnancy. Denial of motherhood.
 
 ## Comparative Schema
 
-- core meaning: Moody, impressionable, tendency to be tempted or seduced easily, misguided or misdirected feelings of love, an unnatural behavior. Weakened or abnormal gland activity. Love expressing itself in the wrong way, an unhappy love, the necessity for renunciation. 18 In many cases one can replace the word "love" with the word "art." MoonA/enus = Mercury has been found in the case of many artistically creative people. 19 Moon/Venus = Uranus has often been found in female charts to indicate early love relationships, seduction and rape.
+- core meaning: Unselfish love. Dreaming. Unfortunate (unhappy) love of a woman. The infection of a woman. Interruption of pregnancy. Denial of motherhood.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Moody, impressionable, tendency to be tempted or seduced easily, misguided or mi
 - [Venus](../factors/venus.md)
 - [Neptune](../factors/neptune.md)
 - [Moon/Venus](../axes/moon-venus.md)
-- [Moon Venus Neptune](../triads/moon-venus-neptune.md)

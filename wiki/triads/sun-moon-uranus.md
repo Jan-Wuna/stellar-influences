@@ -3,7 +3,7 @@ title: Sun Moon Uranus
 page_type: triad_hub
 slug: sun-moon-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Moon
@@ -18,7 +18,7 @@ orientations:
   - Sun/Uranus = Moon
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Moon/Uranus = Sun](../activations/moon-uranus-equals-sun.md)
-  Source page `129`, entry `0387`
+  Source page `127`
 - [Sun/Moon = Uranus](../activations/sun-moon-equals-uranus.md)
-  Source page `78`, entry `0188`
+  Source page `101`
 - [Sun/Uranus = Moon](../activations/sun-uranus-equals-moon.md)
-  Source page `96`, entry `0255`
+  Source page `108`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Moon/Uranus = Sun`: page `129`, entry `0387`
-- `Sun/Moon = Uranus`: page `78`, entry `0188`
-- `Sun/Uranus = Moon`: page `96`, entry `0255`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Moon/Uranus = Sun`: page `127`
+- `Sun/Moon = Uranus`: page `101`
+- `Sun/Uranus = Moon`: page `108`
 
 ## Contradictions Across Orientations
 

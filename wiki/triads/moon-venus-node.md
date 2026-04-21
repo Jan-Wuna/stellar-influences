@@ -3,7 +3,7 @@ title: Moon Venus Node
 page_type: triad_hub
 slug: moon-venus-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Venus
@@ -18,7 +18,7 @@ orientations:
   - Venus/Node = Moon
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Moon/Node = Venus](../activations/moon-node-equals-venus.md)
-  Source page `137`, entry `0425`
+  Source page `121`
 - [Moon/Venus = Node](../activations/moon-venus-equals-node.md)
-  Source page `118`, entry `0347`
+  Source page `123`
 - [Venus/Node = Moon](../activations/venus-node-equals-moon.md)
-  Source page `193`, entry `0652`
+  Source page `142`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Moon/Node = Venus`: page `137`, entry `0425`
-- `Moon/Venus = Node`: page `118`, entry `0347`
-- `Venus/Node = Moon`: page `193`, entry `0652`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Moon/Node = Venus`: page `121`
+- `Moon/Venus = Node`: page `123`
+- `Venus/Node = Moon`: page `142`
 
 ## Contradictions Across Orientations
 

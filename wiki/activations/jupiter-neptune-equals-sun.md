@@ -3,7 +3,7 @@ title: Jupiter/Neptune = Sun
 page_type: activation
 slug: jupiter-neptune-equals-sun
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Neptune
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0807`
-- Source page: `232`
+- Source heading: `Jupiter + Neptune`
+- Source page: `209`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Lack of self-control, irresponsibility, speculation, squandering of physical strength. The act of deceiving or the misfortune of being deceived.
+Bodily well-being. Wastage of sustenance (the body). The man who makes himself believe he is lucky and happy. Speculators. Spendthrifts.
 
 ## Comparative Schema
 
-- core meaning: Lack of self-control, irresponsibility, speculation, squandering of physical strength. The act of deceiving or the misfortune of being deceived.
+- core meaning: Bodily well-being. Wastage of sustenance (the body). The man who makes himself believe he is lucky and happy. Speculators. Spendthrifts.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Lack of self-control, irresponsibility, speculation, squandering of physical str
 - [Neptune](../factors/neptune.md)
 - [Sun](../factors/sun.md)
 - [Jupiter/Neptune](../axes/jupiter-neptune.md)
-- [Sun Jupiter Neptune](../triads/sun-jupiter-neptune.md)

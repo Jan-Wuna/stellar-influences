@@ -3,10 +3,10 @@ title: Neptune/Asc = MC
 page_type: activation
 slug: neptune-asc-equals-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Neptune
   - Asc
+  - Neptune
   - MC
 normalized_formula: Neptune/Asc = MC
 axis: Neptune/Asc
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1033`
-- Source page: `288`
+- Source heading: `Asc + Neptune`
+- Source page: `89`
+#### Witte Entry
 
-#### Ebertin Entry
-
-The misfortune to suffer from lack of resistance and stamina or from lack of self-control. Tendency to act under the influence of others and to lay oneself open to being led astray or corrupted by others.
+To suffer from fraudulent deeds of others. Misconceptions. Distrust.
 
 ## Comparative Schema
 
-- core meaning: The misfortune to suffer from lack of resistance and stamina or from lack of self-control. Tendency to act under the influence of others and to lay oneself open to being led astray or corrupted by others.
+- core meaning: To suffer from fraudulent deeds of others. Misconceptions. Distrust.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ The misfortune to suffer from lack of resistance and stamina or from lack of sel
 - [Asc](../factors/asc.md)
 - [MC](../factors/mc.md)
 - [Neptune/Asc](../axes/neptune-asc.md)
-- [Neptune Asc MC](../triads/neptune-asc-mc.md)

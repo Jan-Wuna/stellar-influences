@@ -3,10 +3,10 @@ title: Mars/Node = MC
 page_type: activation
 slug: mars-node-equals-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Mars
   - Node
+  - Mars
   - MC
 normalized_formula: Mars/Node = MC
 axis: Mars/Node
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0757`
-- Source page: `218`
+- Source heading: `Node + Mars`
+- Source page: `143`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Integration of one's own individuality into the community, good teamworker or partner in work. Entering into individual relationships, a sex-union, (marriage).
+Inclinations to flirtations. Mutual activities with others. Common working interests with others.
 
 ## Comparative Schema
 
-- core meaning: Integration of one's own individuality into the community, good teamworker or partner in work. Entering into individual relationships, a sex-union, (marriage).
+- core meaning: Inclinations to flirtations. Mutual activities with others. Common working interests with others.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Integration of one's own individuality into the community, good teamworker or pa
 - [Node](../factors/node.md)
 - [MC](../factors/mc.md)
 - [Mars/Node](../axes/mars-node.md)
-- [Mars Node MC](../triads/mars-node-mc.md)

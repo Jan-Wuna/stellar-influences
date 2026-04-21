@@ -3,7 +3,7 @@ title: Uranus/Neptune = Node
 page_type: activation
 slug: uranus-neptune-equals-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Uranus
   - Neptune
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0947`
-- Source page: `267`
+- Source heading: `Uranus + Neptune`
+- Source page: `234`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Loss of one's inner balance together with others, having the same sensitive disposition as someone else, the joint or shared bearing of suffering and grief.
+Connections in the state of dissolution. Connections with dead people. To die.
 
 ## Comparative Schema
 
-- core meaning: Loss of one's inner balance together with others, having the same sensitive disposition as someone else, the joint or shared bearing of suffering and grief.
+- core meaning: Connections in the state of dissolution. Connections with dead people. To die.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Loss of one's inner balance together with others, having the same sensitive disp
 - [Neptune](../factors/neptune.md)
 - [Node](../factors/node.md)
 - [Uranus/Neptune](../axes/uranus-neptune.md)
-- [Uranus Neptune Node](../triads/uranus-neptune-node.md)

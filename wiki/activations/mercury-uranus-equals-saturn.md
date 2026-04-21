@@ -3,7 +3,7 @@ title: Mercury/Uranus = Saturn
 page_type: activation
 slug: mercury-uranus-equals-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Uranus
@@ -17,7 +17,7 @@ triad_set:
   - Uranus
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0512`
-- Source page: `158`
+- Source heading: `Mercury + Uranus`
+- Source page: `163`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Desire to liberate oneself from tension, sudden overcoming of inhibitions through quick actions, correct grasp of a difficult situation and attaining success and advancement in life, the act of separating oneself from others, attaining personal safety. 27 In the case of Mercury/Uranus = Sun, one could add "a good orator." In the case of Mercury/Uranus combinations, one frequently finds that both the positive and negative tendencies are equally strong, e.g., in the case of people with a very good intellect who easily learn and comprehend it is often noticed that there is a nervous restlessness if too great mental demands are put upon them.
+Sudden unpleasant news. Sudden incite to travel, to run away. Save yourself as best you can.
 
 ## Comparative Schema
 
-- core meaning: Desire to liberate oneself from tension, sudden overcoming of inhibitions through quick actions, correct grasp of a difficult situation and attaining success and advancement in life, the act of separating oneself from others, attaining personal safety. 27 In the case of Mercury/Uranus = Sun, one could add "a good orator." In the case of Mercury/Uranus combinations, one frequently finds that both the positive and negative tendencies are equally strong, e.g., in the case of people with a very good intellect who easily learn and comprehend it is often noticed that there is a nervous restlessness if too great mental demands are put upon them.
+- core meaning: Sudden unpleasant news. Sudden incite to travel, to run away. Save yourself as best you can.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Desire to liberate oneself from tension, sudden overcoming of inhibitions throug
 - [Uranus](../factors/uranus.md)
 - [Saturn](../factors/saturn.md)
 - [Mercury/Uranus](../axes/mercury-uranus.md)
-- [Mercury Saturn Uranus](../triads/mercury-saturn-uranus.md)

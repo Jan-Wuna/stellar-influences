@@ -3,7 +3,7 @@ title: Moon/Venus = Asc
 page_type: activation
 slug: moon-venus-equals-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Venus
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0348`
-- Source page: `118`
+- Source heading: `Moon + Venus`
+- Source page: `123`
+#### Witte Entry
 
-#### Ebertin Entry
-
-An affectionate behavior toward other people, a harmonious personality. Association with women, a love contact.
+Love acquaintances of a woman. Acquaintance with loving women. To be together with loving women. Acquaintance to a feminine or attractive woman.
 
 ## Comparative Schema
 
-- core meaning: An affectionate behavior toward other people, a harmonious personality. Association with women, a love contact.
+- core meaning: Love acquaintances of a woman. Acquaintance with loving women. To be together with loving women. Acquaintance to a feminine or attractive woman.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ An affectionate behavior toward other people, a harmonious personality. Associat
 - [Venus](../factors/venus.md)
 - [Asc](../factors/asc.md)
 - [Moon/Venus](../axes/moon-venus.md)
-- [Moon Venus Asc](../triads/moon-venus-asc.md)

@@ -3,7 +3,7 @@ title: Saturn/Uranus = Sun
 page_type: activation
 slug: saturn-uranus-equals-sun
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Saturn
   - Uranus
@@ -17,7 +17,7 @@ triad_set:
   - Uranus
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0867`
-- Source page: `247`
+- Source heading: `Saturn + Uranus`
+- Source page: `221`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Physical exposure to severe tests of strength, power of resistance, rebellion, inflexibility. Separation.
+Days of excitements, separations, obstacles. Sudden bodily separation. Overstrain. The man who is suddenly separated.
 
 ## Comparative Schema
 
-- core meaning: Physical exposure to severe tests of strength, power of resistance, rebellion, inflexibility. Separation.
+- core meaning: Days of excitements, separations, obstacles. Sudden bodily separation. Overstrain. The man who is suddenly separated.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Physical exposure to severe tests of strength, power of resistance, rebellion, i
 - [Uranus](../factors/uranus.md)
 - [Sun](../factors/sun.md)
 - [Saturn/Uranus](../axes/saturn-uranus.md)
-- [Sun Saturn Uranus](../triads/sun-saturn-uranus.md)

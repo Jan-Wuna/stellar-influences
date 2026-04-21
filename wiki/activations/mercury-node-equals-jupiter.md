@@ -3,10 +3,10 @@ title: Mercury/Node = Jupiter
 page_type: activation
 slug: mercury-node-equals-jupiter
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Mercury
   - Node
+  - Mercury
   - Jupiter
 normalized_formula: Mercury/Node = Jupiter
 axis: Mercury/Node
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0547`
-- Source page: `167`
+- Source heading: `Node + Mercury`
+- Source page: `141`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Cultivation of social contacts, a person who conducts lively correspondence with others, the beginning of far-reaching associations. A successful business partnership.
+To think of lucky or fortunate connections. To find a good contact for conversation.
 
 ## Comparative Schema
 
-- core meaning: Cultivation of social contacts, a person who conducts lively correspondence with others, the beginning of far-reaching associations. A successful business partnership.
+- core meaning: To think of lucky or fortunate connections. To find a good contact for conversation.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Cultivation of social contacts, a person who conducts lively correspondence with
 - [Node](../factors/node.md)
 - [Jupiter](../factors/jupiter.md)
 - [Mercury/Node](../axes/mercury-node.md)
-- [Mercury Jupiter Node](../triads/mercury-jupiter-node.md)

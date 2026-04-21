@@ -3,10 +3,10 @@ title: Jupiter/Node = Mars
 page_type: activation
 slug: jupiter-node-equals-mars
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Jupiter
   - Node
+  - Jupiter
   - Mars
 normalized_formula: Jupiter/Node = Mars
 axis: Jupiter/Node
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0835`
-- Source page: `238`
+- Source heading: `Node + Jupiter`
+- Source page: `144`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A good colleague or coworker, a happy partner. A happy physical union, engagement, procreation. Successful cooperation or teamwork.
+Happily connected in common activity. Betrothal and progeny. Union. Relations with the field of labour law. Beneficial relationships through labour.
 
 ## Comparative Schema
 
-- core meaning: A good colleague or coworker, a happy partner. A happy physical union, engagement, procreation. Successful cooperation or teamwork.
+- core meaning: Happily connected in common activity. Betrothal and progeny. Union. Relations with the field of labour law. Beneficial relationships through labour.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A good colleague or coworker, a happy partner. A happy physical union, engagemen
 - [Node](../factors/node.md)
 - [Mars](../factors/mars.md)
 - [Jupiter/Node](../axes/jupiter-node.md)
-- [Mars Jupiter Node](../triads/mars-jupiter-node.md)

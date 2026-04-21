@@ -3,7 +3,7 @@ title: Venus Saturn Pluto
 page_type: triad_hub
 slug: venus-saturn-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Saturn
@@ -18,7 +18,7 @@ orientations:
   - Venus/Saturn = Pluto
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Saturn/Pluto = Venus](../activations/saturn-pluto-equals-venus.md)
-  Source page `254`, entry `0894`
+  Source page `223`
 - [Venus/Pluto = Saturn](../activations/venus-pluto-equals-saturn.md)
-  Source page `191`, entry `0644`
+  Source page `181`
 - [Venus/Saturn = Pluto](../activations/venus-saturn-equals-pluto.md)
-  Source page `183`, entry `0610`
+  Source page `178`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Saturn/Pluto = Venus`: page `254`, entry `0894`
-- `Venus/Pluto = Saturn`: page `191`, entry `0644`
-- `Venus/Saturn = Pluto`: page `183`, entry `0610`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Saturn/Pluto = Venus`: page `223`
+- `Venus/Pluto = Saturn`: page `181`
+- `Venus/Saturn = Pluto`: page `178`
 
 ## Contradictions Across Orientations
 

@@ -3,7 +3,7 @@ title: Jupiter/Saturn = Asc
 page_type: activation
 slug: jupiter-saturn-equals-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Saturn
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0792`
-- Source page: `227`
+- Source heading: `Jupiter + Saturn`
+- Source page: `207`
+#### Witte Entry
 
-#### Ebertin Entry
-
-An inconstant or insecure attitude with regard to other persons. Change of residence, change of occupation, a separation.
+Separation for a person. Change of residence. Separation in the close environment.
 
 ## Comparative Schema
 
-- core meaning: An inconstant or insecure attitude with regard to other persons. Change of residence, change of occupation, a separation.
+- core meaning: Separation for a person. Change of residence. Separation in the close environment.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ An inconstant or insecure attitude with regard to other persons. Change of resid
 - [Saturn](../factors/saturn.md)
 - [Asc](../factors/asc.md)
 - [Jupiter/Saturn](../axes/jupiter-saturn.md)
-- [Jupiter Saturn Asc](../triads/jupiter-saturn-asc.md)

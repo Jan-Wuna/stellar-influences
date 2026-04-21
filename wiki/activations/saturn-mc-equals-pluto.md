@@ -3,10 +3,10 @@ title: Saturn/MC = Pluto
 page_type: activation
 slug: saturn-mc-equals-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Saturn
   - MC
+  - Saturn
   - Pluto
 normalized_formula: Saturn/MC = Pluto
 axis: Saturn/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0935`
-- Source page: `264`
+- Source heading: `MC + Saturn`
+- Source page: `66`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Attainment of success in life only under great difficulties. A fateful struggle, a struggle ordained by destiny.
+E Slow development. To feel downcast because of an interruption of one’s own development. To be sad over a divorce.
 
 ## Comparative Schema
 
-- core meaning: Attainment of success in life only under great difficulties. A fateful struggle, a struggle ordained by destiny.
+- core meaning: E Slow development. To feel downcast because of an interruption of one’s own development. To be sad over a divorce.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Attainment of success in life only under great difficulties. A fateful struggle,
 - [MC](../factors/mc.md)
 - [Pluto](../factors/pluto.md)
 - [Saturn/MC](../axes/saturn-mc.md)
-- [Saturn Pluto MC](../triads/saturn-pluto-mc.md)

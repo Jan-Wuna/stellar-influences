@@ -3,7 +3,7 @@ title: Moon/Neptune = Venus
 page_type: activation
 slug: moon-neptune-equals-venus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Neptune
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0401`
-- Source page: `132`
+- Source heading: `Moon + Neptune`
+- Source page: `128`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Over-enthusiastic love and adoration, peculiar and strange tendencies in the expression of love, odd or perverse inclinations. Spiritual and unearthly love or compassionate love, renunciation, disappointment in love.
+Anemic girls. Maidens. Nuns. Also, secret love of females. Tactful.
 
 ## Comparative Schema
 
-- core meaning: Over-enthusiastic love and adoration, peculiar and strange tendencies in the expression of love, odd or perverse inclinations. Spiritual and unearthly love or compassionate love, renunciation, disappointment in love.
+- core meaning: Anemic girls. Maidens. Nuns. Also, secret love of females. Tactful.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Over-enthusiastic love and adoration, peculiar and strange tendencies in the exp
 - [Neptune](../factors/neptune.md)
 - [Venus](../factors/venus.md)
 - [Moon/Neptune](../axes/moon-neptune.md)
-- [Moon Venus Neptune](../triads/moon-venus-neptune.md)

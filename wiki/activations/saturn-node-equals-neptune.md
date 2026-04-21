@@ -3,10 +3,10 @@ title: Saturn/Node = Neptune
 page_type: activation
 slug: saturn-node-equals-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Saturn
   - Node
+  - Saturn
   - Neptune
 normalized_formula: Saturn/Node = Neptune
 axis: Saturn/Node
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0910`
-- Source page: `257`
+- Source heading: `Node + Saturn`
+- Source page: `145`
+#### Witte Entry
 
-#### Ebertin Entry
-
-The feeling of being neglected by others, being misunderstood or being lonely. Emotional suffering through falsehood, deception, fraud, separation, illness.
+To be separated through sickness or falsehood. Dissolution of a disturbed connection.
 
 ## Comparative Schema
 
-- core meaning: The feeling of being neglected by others, being misunderstood or being lonely. Emotional suffering through falsehood, deception, fraud, separation, illness.
+- core meaning: To be separated through sickness or falsehood. Dissolution of a disturbed connection.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ The feeling of being neglected by others, being misunderstood or being lonely. E
 - [Node](../factors/node.md)
 - [Neptune](../factors/neptune.md)
 - [Saturn/Node](../axes/saturn-node.md)
-- [Saturn Neptune Node](../triads/saturn-neptune-node.md)

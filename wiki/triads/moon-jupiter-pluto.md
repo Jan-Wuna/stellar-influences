@@ -3,7 +3,7 @@ title: Moon Jupiter Pluto
 page_type: triad_hub
 slug: moon-jupiter-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Jupiter
@@ -18,7 +18,7 @@ orientations:
   - Moon/Pluto = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Pluto = Moon](../activations/jupiter-pluto-equals-moon.md)
-  Source page `235`, entry `0820`
+  Source page `210`
 - [Moon/Jupiter = Pluto](../activations/moon-jupiter-equals-pluto.md)
-  Source page `123`, entry `0370`
+  Source page `125`
 - [Moon/Pluto = Jupiter](../activations/moon-pluto-equals-jupiter.md)
-  Source page `135`, entry `0415`
+  Source page `129`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/Pluto = Moon`: page `235`, entry `0820`
-- `Moon/Jupiter = Pluto`: page `123`, entry `0370`
-- `Moon/Pluto = Jupiter`: page `135`, entry `0415`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/Pluto = Moon`: page `210`
+- `Moon/Jupiter = Pluto`: page `125`
+- `Moon/Pluto = Jupiter`: page `129`
 
 ## Contradictions Across Orientations
 

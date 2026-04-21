@@ -3,7 +3,7 @@ title: Venus/Asc
 page_type: axis
 slug: venus-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Asc
@@ -11,8 +11,11 @@ normalized_axis: Venus/Asc
 factor_a: Venus
 factor_b: Asc
 related_activations:
+  - Venus/Asc = Aries
+  - Venus/Asc = MC
   - Venus/Asc = Sun
   - Venus/Asc = Moon
+  - Venus/Asc = Node
   - Venus/Asc = Mercury
   - Venus/Asc = Mars
   - Venus/Asc = Jupiter
@@ -20,13 +23,28 @@ related_activations:
   - Venus/Asc = Uranus
   - Venus/Asc = Neptune
   - Venus/Asc = Pluto
-  - Venus/Asc = Node
-  - Venus/Asc = MC
+  - Venus/Asc = Cupido
+  - Venus/Asc = Hades
+  - Venus/Asc = Zeus
+  - Venus/Asc = Kronos
+  - Venus/Asc = Apollon
+  - Venus/Asc = Admetos
+  - Venus/Asc = Vulcanus
+  - Venus/Asc = Poseidon
 related_triad_hubs:
+  - Aries Venus Asc
   - Mercury Venus Asc
   - Moon Venus Asc
   - Sun Venus Asc
+  - Venus Asc Admetos
+  - Venus Asc Apollon
+  - Venus Asc Cupido
+  - Venus Asc Hades
+  - Venus Asc Kronos
   - Venus Asc MC
+  - Venus Asc Poseidon
+  - Venus Asc Vulcanus
+  - Venus Asc Zeus
   - Venus Jupiter Asc
   - Venus Mars Asc
   - Venus Neptune Asc
@@ -37,7 +55,7 @@ related_triad_hubs:
 aliases:
   - Asc/Venus
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,47 +63,33 @@ updated_at: 2026-04-21
 
 - Axis: `Venus/Asc`
 - Astronomicon axis: `Q/Asc`
-- Source heading: `Venus/Ascendant`
-- Source page: `195`
+- Source heading: `Asc + Venus`
+- Source page: `84`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-A harmonious personality.
-
-#### Psychological Correspondence
-
-+ A harmonious attitude toward other people, sociable, a sense for a beautiful and artistically furnished environment, artistic inclination. - A disharmonious relationship to environment, lack of good taste, wastefulness. C An affectionate behavior toward other persons, a sense of beauty, good taste.
-
-#### Biological Correspondence
-
-Harmonious proportions, the complexion.
-
-#### Sociological Correspondence
-
-Members of the female sex within the environment, such as the mother or wife.
-
-#### Probable Manifestations
-
-+ A love affair, the embellishment, adornment or beautification of the environment. - Preference for associations with people who are lacking in good taste, wastefulness, indulgence in enjoyment or a pleasure-seeking nature. Venus/Ascendant 9/A
-
+Lovable acquaintances. To be treated well by others. Others who long for the native. Personal love connections and love unions. To show evidence of love. Nice appearance. Peace in the immediate vicinity. Harmonious relations to the place. Harmonious surroundings. Peaceful place.
 
 ## Comparative Schema
 
-- core meaning: A harmonious personality.
-- psychology: + A harmonious attitude toward other people, sociable, a sense for a beautiful and artistically furnished environment, artistic inclination. - A disharmonious relationship to environment, lack of good taste, wastefulness. C An affectionate behavior toward other persons, a sense of beauty, good taste.
-- body/health: Harmonious proportions, the complexion.
-- social/relationship: Members of the female sex within the environment, such as the mother or wife.
-- events/manifestations: + A love affair, the embellishment, adornment or beautification of the environment. - Preference for associations with people who are lacking in good taste, wastefulness, indulgence in enjoyment or a pleasure-seeking nature. Venus/Ascendant 9/A
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: Lovable acquaintances. To be treated well by others. Others who long for the native. Personal love connections and love unions. To show evidence of love. Nice appearance. Peace in the immediate vicinity. Harmonious relations to the place. Harmonious surroundings. Peaceful place.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Venus/Asc = Aries](../activations/venus-asc-equals-aries.md)
+- [Venus/Asc = MC](../activations/venus-asc-equals-mc.md)
 - [Venus/Asc = Sun](../activations/venus-asc-equals-sun.md)
 - [Venus/Asc = Moon](../activations/venus-asc-equals-moon.md)
+- [Venus/Asc = Node](../activations/venus-asc-equals-node.md)
 - [Venus/Asc = Mercury](../activations/venus-asc-equals-mercury.md)
 - [Venus/Asc = Mars](../activations/venus-asc-equals-mars.md)
 - [Venus/Asc = Jupiter](../activations/venus-asc-equals-jupiter.md)
@@ -93,8 +97,14 @@ Members of the female sex within the environment, such as the mother or wife.
 - [Venus/Asc = Uranus](../activations/venus-asc-equals-uranus.md)
 - [Venus/Asc = Neptune](../activations/venus-asc-equals-neptune.md)
 - [Venus/Asc = Pluto](../activations/venus-asc-equals-pluto.md)
-- [Venus/Asc = Node](../activations/venus-asc-equals-node.md)
-- [Venus/Asc = MC](../activations/venus-asc-equals-mc.md)
+- [Venus/Asc = Cupido](../activations/venus-asc-equals-cupido.md)
+- [Venus/Asc = Hades](../activations/venus-asc-equals-hades.md)
+- [Venus/Asc = Zeus](../activations/venus-asc-equals-zeus.md)
+- [Venus/Asc = Kronos](../activations/venus-asc-equals-kronos.md)
+- [Venus/Asc = Apollon](../activations/venus-asc-equals-apollon.md)
+- [Venus/Asc = Admetos](../activations/venus-asc-equals-admetos.md)
+- [Venus/Asc = Vulcanus](../activations/venus-asc-equals-vulcanus.md)
+- [Venus/Asc = Poseidon](../activations/venus-asc-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Members of the female sex within the environment, such as the mother or wife.
 
 - [Venus](../factors/venus.md)
 - [Asc](../factors/asc.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

@@ -3,7 +3,7 @@ title: Mars/Neptune = Moon
 page_type: activation
 slug: mars-neptune-equals-moon
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Neptune
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0724`
-- Source page: `211`
+- Source heading: `Mars + Neptune`
+- Source page: `195`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Feelings of inferiority, sensitivity, nervous weakness. Weak, sick or moody women, crooks. Danger of infection.
+Heavy disturbance of the glandular system. Infection of the woman. Atrophy of the brain. Abnormal disposition of persons.
 
 ## Comparative Schema
 
-- core meaning: Feelings of inferiority, sensitivity, nervous weakness. Weak, sick or moody women, crooks. Danger of infection.
+- core meaning: Heavy disturbance of the glandular system. Infection of the woman. Atrophy of the brain. Abnormal disposition of persons.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Feelings of inferiority, sensitivity, nervous weakness. Weak, sick or moody wome
 - [Neptune](../factors/neptune.md)
 - [Moon](../factors/moon.md)
 - [Mars/Neptune](../axes/mars-neptune.md)
-- [Moon Mars Neptune](../triads/moon-mars-neptune.md)

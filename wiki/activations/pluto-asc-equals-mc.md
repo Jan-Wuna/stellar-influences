@@ -3,10 +3,10 @@ title: Pluto/Asc = MC
 page_type: activation
 slug: pluto-asc-equals-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Pluto
   - Asc
+  - Pluto
   - MC
 normalized_formula: Pluto/Asc = MC
 axis: Pluto/Asc
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1069`
-- Source page: `296`
+- Source heading: `Asc + Pluto`
+- Source page: `90`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Attainment of power and authority in life. Attainment of success in one's career or occupation in life. A fascinating personality.
+The influence by others on the native. Changes at the place interfere with the development of the native.
 
 ## Comparative Schema
 
-- core meaning: Attainment of power and authority in life. Attainment of success in one's career or occupation in life. A fascinating personality.
+- core meaning: The influence by others on the native. Changes at the place interfere with the development of the native.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Attainment of power and authority in life. Attainment of success in one's career
 - [Asc](../factors/asc.md)
 - [MC](../factors/mc.md)
 - [Pluto/Asc](../axes/pluto-asc.md)
-- [Pluto Asc MC](../triads/pluto-asc-mc.md)

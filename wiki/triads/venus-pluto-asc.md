@@ -3,7 +3,7 @@ title: Venus Pluto Asc
 page_type: triad_hub
 slug: venus-pluto-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Pluto
@@ -18,7 +18,7 @@ orientations:
   - Venus/Pluto = Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Pluto/Asc = Venus](../activations/pluto-asc-equals-venus.md)
-  Source page `295`, entry `1062`
+  Source page `90`
 - [Venus/Asc = Pluto](../activations/venus-asc-equals-pluto.md)
-  Source page `196`, entry `0671`
+  Source page `84`
 - [Venus/Pluto = Asc](../activations/venus-pluto-equals-asc.md)
-  Source page `191`, entry `0648`
+  Source page `181`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Pluto/Asc = Venus`: page `295`, entry `1062`
-- `Venus/Asc = Pluto`: page `196`, entry `0671`
-- `Venus/Pluto = Asc`: page `191`, entry `0648`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Pluto/Asc = Venus`: page `90`
+- `Venus/Asc = Pluto`: page `84`
+- `Venus/Pluto = Asc`: page `181`
 
 ## Contradictions Across Orientations
 

@@ -3,7 +3,7 @@ title: Saturn/Pluto = Uranus
 page_type: activation
 slug: saturn-pluto-equals-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Saturn
   - Pluto
@@ -17,7 +17,7 @@ triad_set:
   - Pluto
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0897`
-- Source page: `254`
+- Source heading: `Saturn + Pluto`
+- Source page: `223`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A person unafraid of danger, ability to make sudden decisions in the most difficult situations. Sudden acts of violence.
+Slowly developing separation which enters suddenly and very surprisingly into a crisis. Sudden divorce.
 
 ## Comparative Schema
 
-- core meaning: A person unafraid of danger, ability to make sudden decisions in the most difficult situations. Sudden acts of violence.
+- core meaning: Slowly developing separation which enters suddenly and very surprisingly into a crisis. Sudden divorce.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A person unafraid of danger, ability to make sudden decisions in the most diffic
 - [Pluto](../factors/pluto.md)
 - [Uranus](../factors/uranus.md)
 - [Saturn/Pluto](../axes/saturn-pluto.md)
-- [Saturn Uranus Pluto](../triads/saturn-uranus-pluto.md)

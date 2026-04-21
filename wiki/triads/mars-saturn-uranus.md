@@ -3,7 +3,7 @@ title: Mars Saturn Uranus
 page_type: triad_hub
 slug: mars-saturn-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Saturn
@@ -18,7 +18,7 @@ orientations:
   - Saturn/Uranus = Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Saturn = Uranus](../activations/mars-saturn-equals-uranus.md)
-  Source page `205`, entry `0704`
+  Source page `193`
 - [Mars/Uranus = Saturn](../activations/mars-uranus-equals-saturn.md)
-  Source page `208`, entry `0716`
+  Source page `194`
 - [Saturn/Uranus = Mars](../activations/saturn-uranus-equals-mars.md)
-  Source page `247`, entry `0871`
+  Source page `221`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/Saturn = Uranus`: page `205`, entry `0704`
-- `Mars/Uranus = Saturn`: page `208`, entry `0716`
-- `Saturn/Uranus = Mars`: page `247`, entry `0871`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/Saturn = Uranus`: page `193`
+- `Mars/Uranus = Saturn`: page `194`
+- `Saturn/Uranus = Mars`: page `221`
 
 ## Contradictions Across Orientations
 

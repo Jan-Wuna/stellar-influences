@@ -3,7 +3,7 @@ title: Jupiter/Neptune = Moon
 page_type: activation
 slug: jupiter-neptune-equals-moon
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Neptune
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0808`
-- Source page: `232`
+- Source heading: `Jupiter + Neptune`
+- Source page: `209`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Little sense of reality, desire to dream, tendency to lose oneself in plans, becoming involved in speculation, instability, wastefulness.
+Serene. Careless hours. Extravagant (wasteful) women. Speculating people. Many people pretend to be happy and fortunate.
 
 ## Comparative Schema
 
-- core meaning: Little sense of reality, desire to dream, tendency to lose oneself in plans, becoming involved in speculation, instability, wastefulness.
+- core meaning: Serene. Careless hours. Extravagant (wasteful) women. Speculating people. Many people pretend to be happy and fortunate.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Little sense of reality, desire to dream, tendency to lose oneself in plans, bec
 - [Neptune](../factors/neptune.md)
 - [Moon](../factors/moon.md)
 - [Jupiter/Neptune](../axes/jupiter-neptune.md)
-- [Moon Jupiter Neptune](../triads/moon-jupiter-neptune.md)

@@ -3,7 +3,7 @@ title: Uranus/Neptune = Jupiter
 page_type: activation
 slug: uranus-neptune-equals-jupiter
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Uranus
   - Neptune
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0944`
-- Source page: `266`
+- Source heading: `Uranus + Neptune`
+- Source page: `234`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Tendency to rely upon others, the joy of hope or of expectation. Strange luck or good fortune, acceptance of presents without thinking about it, gaining new courage to again face life.
+Unexpected, easily acquired money. Inheritance.
 
 ## Comparative Schema
 
-- core meaning: Tendency to rely upon others, the joy of hope or of expectation. Strange luck or good fortune, acceptance of presents without thinking about it, gaining new courage to again face life.
+- core meaning: Unexpected, easily acquired money. Inheritance.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Tendency to rely upon others, the joy of hope or of expectation. Strange luck or
 - [Neptune](../factors/neptune.md)
 - [Jupiter](../factors/jupiter.md)
 - [Uranus/Neptune](../axes/uranus-neptune.md)
-- [Jupiter Uranus Neptune](../triads/jupiter-uranus-neptune.md)

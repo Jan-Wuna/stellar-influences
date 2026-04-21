@@ -3,10 +3,10 @@ title: Mercury/Asc = Uranus
 page_type: activation
 slug: mercury-asc-equals-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Mercury
   - Asc
+  - Mercury
   - Uranus
 normalized_formula: Mercury/Asc = Uranus
 axis: Mercury/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0561`
-- Source page: `170`
+- Source heading: `Asc + Mercury`
+- Source page: `83`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Irritability, tendency to lose one's temper quickly in the presence of others, becoming upset or heated about other people. Frank talks or discussions brought about suddenly.
+Others get excited and talk excited. To be involved in an argument. Altercation.
 
 ## Comparative Schema
 
-- core meaning: Irritability, tendency to lose one's temper quickly in the presence of others, becoming upset or heated about other people. Frank talks or discussions brought about suddenly.
+- core meaning: Others get excited and talk excited. To be involved in an argument. Altercation.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Irritability, tendency to lose one's temper quickly in the presence of others, b
 - [Asc](../factors/asc.md)
 - [Uranus](../factors/uranus.md)
 - [Mercury/Asc](../axes/mercury-asc.md)
-- [Mercury Uranus Asc](../triads/mercury-uranus-asc.md)

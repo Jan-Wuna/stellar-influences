@@ -3,7 +3,7 @@ title: Mercury Jupiter Uranus
 page_type: triad_hub
 slug: mercury-jupiter-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Jupiter
@@ -14,10 +14,11 @@ triad_set:
   - Uranus
 orientations:
   - Jupiter/Uranus = Mercury
+  - Mercury/Jupiter = Uranus
   - Mercury/Uranus = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,15 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Uranus = Mercury](../activations/jupiter-uranus-equals-mercury.md)
-  Source page `229`, entry `0797`
+  Source page `208`
+- [Mercury/Jupiter = Uranus](../activations/mercury-jupiter-equals-uranus.md)
+  Source page `161`
 - [Mercury/Uranus = Jupiter](../activations/mercury-uranus-equals-jupiter.md)
-  Source page `158`, entry `0511`
+  Source page `163`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/Uranus = Mercury`: page `229`, entry `0797`
-- `Mercury/Uranus = Jupiter`: page `158`, entry `0511`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/Uranus = Mercury`: page `208`
+- `Mercury/Jupiter = Uranus`: page `161`
+- `Mercury/Uranus = Jupiter`: page `163`
 
 ## Contradictions Across Orientations
 

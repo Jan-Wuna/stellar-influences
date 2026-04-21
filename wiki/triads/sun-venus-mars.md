@@ -3,7 +3,7 @@ title: Sun Venus Mars
 page_type: triad_hub
 slug: sun-venus-mars
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Venus
@@ -18,7 +18,7 @@ orientations:
   - Venus/Mars = Sun
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Sun/Mars = Venus](../activations/sun-mars-equals-venus.md)
-  Source page `87`, entry `0221`
+  Source page `105`
 - [Sun/Venus = Mars](../activations/sun-venus-equals-mars.md)
-  Source page `84`, entry `0209`
+  Source page `104`
 - [Venus/Mars = Sun](../activations/venus-mars-equals-sun.md)
-  Source page `176`, entry `0579`
+  Source page `176`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Sun/Mars = Venus`: page `87`, entry `0221`
-- `Sun/Venus = Mars`: page `84`, entry `0209`
-- `Venus/Mars = Sun`: page `176`, entry `0579`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Sun/Mars = Venus`: page `105`
+- `Sun/Venus = Mars`: page `104`
+- `Venus/Mars = Sun`: page `176`
 
 ## Contradictions Across Orientations
 

@@ -3,7 +3,7 @@ title: Saturn Pluto MC
 page_type: triad_hub
 slug: saturn-pluto-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Saturn
   - Pluto
@@ -18,7 +18,7 @@ orientations:
   - Saturn/Pluto = MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Pluto/MC = Saturn](../activations/pluto-mc-equals-saturn.md)
-  Source page `298`, entry `1077`
+  Source page `69`
 - [Saturn/MC = Pluto](../activations/saturn-mc-equals-pluto.md)
-  Source page `264`, entry `0935`
+  Source page `66`
 - [Saturn/Pluto = MC](../activations/saturn-pluto-equals-mc.md)
-  Source page `255`, entry `0901`
+  Source page `223`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Pluto/MC = Saturn`: page `298`, entry `1077`
-- `Saturn/MC = Pluto`: page `264`, entry `0935`
-- `Saturn/Pluto = MC`: page `255`, entry `0901`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Pluto/MC = Saturn`: page `69`
+- `Saturn/MC = Pluto`: page `66`
+- `Saturn/Pluto = MC`: page `223`
 
 ## Contradictions Across Orientations
 

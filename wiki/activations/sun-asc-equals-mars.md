@@ -3,10 +3,10 @@ title: Sun/Asc = Mars
 page_type: activation
 slug: sun-asc-equals-mars
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Sun
   - Asc
+  - Sun
   - Mars
 normalized_formula: Sun/Asc = Mars
 axis: Sun/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0306`
-- Source page: `108`
+- Source heading: `Asc + Sun`
+- Source page: `80`
+#### Witte Entry
 
-#### Ebertin Entry
-
-The fighting spirit, the power to establish oneself in the world, industry and diligence. Cooperation, association with others fighting for common interests. Quarrels.
+Co-workers. Social relations with male persons, soldiers and co-workers. Fights and brawls. To quarrel. Persons in the environment who are not under self control.
 
 ## Comparative Schema
 
-- core meaning: The fighting spirit, the power to establish oneself in the world, industry and diligence. Cooperation, association with others fighting for common interests. Quarrels.
+- core meaning: Co-workers. Social relations with male persons, soldiers and co-workers. Fights and brawls. To quarrel. Persons in the environment who are not under self control.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ The fighting spirit, the power to establish oneself in the world, industry and d
 - [Asc](../factors/asc.md)
 - [Mars](../factors/mars.md)
 - [Sun/Asc](../axes/sun-asc.md)
-- [Sun Mars Asc](../triads/sun-mars-asc.md)

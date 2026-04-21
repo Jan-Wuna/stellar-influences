@@ -3,7 +3,7 @@ title: Jupiter Uranus Asc
 page_type: triad_hub
 slug: jupiter-uranus-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Uranus
@@ -18,7 +18,7 @@ orientations:
   - Uranus/Asc = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Asc = Uranus](../activations/jupiter-asc-equals-uranus.md)
-  Source page `241`, entry `0849`
+  Source page `86`
 - [Jupiter/Uranus = Asc](../activations/jupiter-uranus-equals-asc.md)
-  Source page `230`, entry `0804`
+  Source page `208`
 - [Uranus/Asc = Jupiter](../activations/uranus-asc-equals-jupiter.md)
-  Source page `275`, entry `0980`
+  Source page `88`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/Asc = Uranus`: page `241`, entry `0849`
-- `Jupiter/Uranus = Asc`: page `230`, entry `0804`
-- `Uranus/Asc = Jupiter`: page `275`, entry `0980`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/Asc = Uranus`: page `86`
+- `Jupiter/Uranus = Asc`: page `208`
+- `Uranus/Asc = Jupiter`: page `88`
 
 ## Contradictions Across Orientations
 

@@ -3,7 +3,7 @@ title: Sun/Jupiter
 page_type: axis
 slug: sun-jupiter
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Jupiter
@@ -11,7 +11,11 @@ normalized_axis: Sun/Jupiter
 factor_a: Sun
 factor_b: Jupiter
 related_activations:
+  - Sun/Jupiter = Aries
+  - Sun/Jupiter = MC
+  - Sun/Jupiter = Asc
   - Sun/Jupiter = Moon
+  - Sun/Jupiter = Node
   - Sun/Jupiter = Mercury
   - Sun/Jupiter = Venus
   - Sun/Jupiter = Mars
@@ -19,17 +23,31 @@ related_activations:
   - Sun/Jupiter = Uranus
   - Sun/Jupiter = Neptune
   - Sun/Jupiter = Pluto
-  - Sun/Jupiter = Node
-  - Sun/Jupiter = Asc
-  - Sun/Jupiter = MC
+  - Sun/Jupiter = Cupido
+  - Sun/Jupiter = Hades
+  - Sun/Jupiter = Zeus
+  - Sun/Jupiter = Kronos
+  - Sun/Jupiter = Apollon
+  - Sun/Jupiter = Admetos
+  - Sun/Jupiter = Vulcanus
+  - Sun/Jupiter = Poseidon
 related_triad_hubs:
+  - Aries Sun Jupiter
+  - Sun Jupiter Admetos
+  - Sun Jupiter Apollon
   - Sun Jupiter Asc
+  - Sun Jupiter Cupido
+  - Sun Jupiter Hades
+  - Sun Jupiter Kronos
   - Sun Jupiter MC
   - Sun Jupiter Neptune
   - Sun Jupiter Node
   - Sun Jupiter Pluto
+  - Sun Jupiter Poseidon
   - Sun Jupiter Saturn
   - Sun Jupiter Uranus
+  - Sun Jupiter Vulcanus
+  - Sun Jupiter Zeus
   - Sun Mars Jupiter
   - Sun Mercury Jupiter
   - Sun Moon Jupiter
@@ -37,7 +55,7 @@ related_triad_hubs:
 aliases:
   - Jupiter/Sun
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,46 +63,33 @@ updated_at: 2026-04-21
 
 - Axis: `Sun/Jupiter`
 - Astronomicon axis: `S/V`
-- Source heading: `Sun/Jupiter`
-- Source page: `89`
+- Source heading: `Sun + Jupiter`
+- Source page: `106`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-Health, joy, recognition. Psychologica/ Correspondence + Good health, good morał qualities, the urge to climb socially, a reli gious outlook, striving for possessions and power, will to expand. - Materialistic mentality, pretentious, negligent, heedless, extrava gant and squandering, ostentatious. The inclination to spend money unnecessarily. C Creative power, capability to perform record achievements. Biologica/ Correspondence Tissue elements of the organs, particularly of the glands (in contras! to the supporting tissues), regenerative functions of the blood. (Sun/Jupiter is particularly important for the restoration ofhealth). Sociologica/ Correspondence Wealthy people, healthy persons, people of prominence, persons higher up in the social scale than oneself.
-
-#### Psychological Correspondence
-
-- None extracted.
-
-#### Biological Correspondence
-
-- None extracted.
-
-#### Sociological Correspondence
-
-- None extracted.
-
-#### Probable Manifestations
-
-+ Advancement in life, recognition, success in the materiał or spiri tual sphere. - Contlicts caused by an arrogant and pretentious demeanor, illness through wrong nutrition, differences with people in one's environ ment or with superiors, a person in conflict with the laws of the land or realm. Q/h
-
+Physical happiness. The fortunate man. The cheerful man. The rich or wealthy man. The well-being of the body. Good health. A tendency to be overweight. Corpulence. Day of fortune. Pay day.
 
 ## Comparative Schema
 
-- core meaning: Health, joy, recognition. Psychologica/ Correspondence + Good health, good morał qualities, the urge to climb socially, a reli gious outlook, striving for possessions and power, will to expand. - Materialistic mentality, pretentious, negligent, heedless, extrava gant and squandering, ostentatious. The inclination to spend money unnecessarily. C Creative power, capability to perform record achievements. Biologica/ Correspondence Tissue elements of the organs, particularly of the glands (in contras! to the supporting tissues), regenerative functions of the blood. (Sun/Jupiter is particularly important for the restoration ofhealth). Sociologica/ Correspondence Wealthy people, healthy persons, people of prominence, persons higher up in the social scale than oneself.
-- psychology: None extracted.
-- body/health: None extracted.
-- social/relationship: None extracted.
-- events/manifestations: + Advancement in life, recognition, success in the materiał or spiri tual sphere. - Contlicts caused by an arrogant and pretentious demeanor, illness through wrong nutrition, differences with people in one's environ ment or with superiors, a person in conflict with the laws of the land or realm. Q/h
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: Physical happiness. The fortunate man. The cheerful man. The rich or wealthy man. The well-being of the body. Good health. A tendency to be overweight. Corpulence. Day of fortune. Pay day.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Sun/Jupiter = Aries](../activations/sun-jupiter-equals-aries.md)
+- [Sun/Jupiter = MC](../activations/sun-jupiter-equals-mc.md)
+- [Sun/Jupiter = Asc](../activations/sun-jupiter-equals-asc.md)
 - [Sun/Jupiter = Moon](../activations/sun-jupiter-equals-moon.md)
+- [Sun/Jupiter = Node](../activations/sun-jupiter-equals-node.md)
 - [Sun/Jupiter = Mercury](../activations/sun-jupiter-equals-mercury.md)
 - [Sun/Jupiter = Venus](../activations/sun-jupiter-equals-venus.md)
 - [Sun/Jupiter = Mars](../activations/sun-jupiter-equals-mars.md)
@@ -92,9 +97,14 @@ Health, joy, recognition. Psychologica/ Correspondence + Good health, good mora�
 - [Sun/Jupiter = Uranus](../activations/sun-jupiter-equals-uranus.md)
 - [Sun/Jupiter = Neptune](../activations/sun-jupiter-equals-neptune.md)
 - [Sun/Jupiter = Pluto](../activations/sun-jupiter-equals-pluto.md)
-- [Sun/Jupiter = Node](../activations/sun-jupiter-equals-node.md)
-- [Sun/Jupiter = Asc](../activations/sun-jupiter-equals-asc.md)
-- [Sun/Jupiter = MC](../activations/sun-jupiter-equals-mc.md)
+- [Sun/Jupiter = Cupido](../activations/sun-jupiter-equals-cupido.md)
+- [Sun/Jupiter = Hades](../activations/sun-jupiter-equals-hades.md)
+- [Sun/Jupiter = Zeus](../activations/sun-jupiter-equals-zeus.md)
+- [Sun/Jupiter = Kronos](../activations/sun-jupiter-equals-kronos.md)
+- [Sun/Jupiter = Apollon](../activations/sun-jupiter-equals-apollon.md)
+- [Sun/Jupiter = Admetos](../activations/sun-jupiter-equals-admetos.md)
+- [Sun/Jupiter = Vulcanus](../activations/sun-jupiter-equals-vulcanus.md)
+- [Sun/Jupiter = Poseidon](../activations/sun-jupiter-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Health, joy, recognition. Psychologica/ Correspondence + Good health, good mora�
 
 - [Sun](../factors/sun.md)
 - [Jupiter](../factors/jupiter.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

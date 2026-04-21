@@ -3,7 +3,7 @@ title: Moon Mercury Asc
 page_type: triad_hub
 slug: moon-mercury-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Mercury
@@ -14,10 +14,11 @@ triad_set:
   - Asc
 orientations:
   - Mercury/Asc = Moon
+  - Moon/Asc = Mercury
   - Moon/Mercury = Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,15 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mercury/Asc = Moon](../activations/mercury-asc-equals-moon.md)
-  Source page `170`, entry `0556`
+  Source page `83`
+- [Moon/Asc = Mercury](../activations/moon-asc-equals-mercury.md)
+  Source page `81`
 - [Moon/Mercury = Asc](../activations/moon-mercury-equals-asc.md)
-  Source page `115`, entry `0336`
+  Source page `122`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mercury/Asc = Moon`: page `170`, entry `0556`
-- `Moon/Mercury = Asc`: page `115`, entry `0336`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mercury/Asc = Moon`: page `83`
+- `Moon/Asc = Mercury`: page `81`
+- `Moon/Mercury = Asc`: page `122`
 
 ## Contradictions Across Orientations
 

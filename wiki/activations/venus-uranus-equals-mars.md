@@ -3,7 +3,7 @@ title: Venus/Uranus = Mars
 page_type: activation
 slug: venus-uranus-equals-mars
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Uranus
@@ -17,7 +17,7 @@ triad_set:
   - Uranus
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0618`
-- Source page: `185`
+- Source heading: `Venus + Uranus`
+- Source page: `179`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A great measure of excitability in love, quick response to the stimuli of the senses, suddenly active power of creation. A sudden stepping up of sex life, procreation, birth. (Operation.)
+Passionate sensuality, refined however. Sudden new acquaintances that become intimate.
 
 ## Comparative Schema
 
-- core meaning: A great measure of excitability in love, quick response to the stimuli of the senses, suddenly active power of creation. A sudden stepping up of sex life, procreation, birth. (Operation.)
+- core meaning: Passionate sensuality, refined however. Sudden new acquaintances that become intimate.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A great measure of excitability in love, quick response to the stimuli of the se
 - [Uranus](../factors/uranus.md)
 - [Mars](../factors/mars.md)
 - [Venus/Uranus](../axes/venus-uranus.md)
-- [Venus Mars Uranus](../triads/venus-mars-uranus.md)

@@ -3,7 +3,7 @@ title: Moon Uranus Asc
 page_type: triad_hub
 slug: moon-uranus-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Uranus
@@ -13,11 +13,12 @@ triad_set:
   - Uranus
   - Asc
 orientations:
+  - Moon/Asc = Uranus
   - Moon/Uranus = Asc
   - Uranus/Asc = Moon
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -29,16 +30,19 @@ updated_at: 2026-04-21
 
 ## Orientation Map
 
+- [Moon/Asc = Uranus](../activations/moon-asc-equals-uranus.md)
+  Source page `81`
 - [Moon/Uranus = Asc](../activations/moon-uranus-equals-asc.md)
-  Source page `129`, entry `0396`
+  Source page `127`
 - [Uranus/Asc = Moon](../activations/uranus-asc-equals-moon.md)
-  Source page `275`, entry `0976`
+  Source page `88`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Moon/Uranus = Asc`: page `129`, entry `0396`
-- `Uranus/Asc = Moon`: page `275`, entry `0976`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Moon/Asc = Uranus`: page `81`
+- `Moon/Uranus = Asc`: page `127`
+- `Uranus/Asc = Moon`: page `88`
 
 ## Contradictions Across Orientations
 

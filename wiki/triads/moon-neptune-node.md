@@ -3,7 +3,7 @@ title: Moon Neptune Node
 page_type: triad_hub
 slug: moon-neptune-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Neptune
@@ -18,7 +18,7 @@ orientations:
   - Neptune/Node = Moon
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Moon/Neptune = Node](../activations/moon-neptune-equals-node.md)
-  Source page `132`, entry `0407`
+  Source page `128`
 - [Moon/Node = Neptune](../activations/moon-node-equals-neptune.md)
-  Source page `137`, entry `0430`
+  Source page `121`
 - [Neptune/Node = Moon](../activations/neptune-node-equals-moon.md)
-  Source page `35`, entry `1012`
+  Source page `147`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Moon/Neptune = Node`: page `132`, entry `0407`
-- `Moon/Node = Neptune`: page `137`, entry `0430`
-- `Neptune/Node = Moon`: page `35`, entry `1012`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Moon/Neptune = Node`: page `128`
+- `Moon/Node = Neptune`: page `121`
+- `Neptune/Node = Moon`: page `147`
 
 ## Contradictions Across Orientations
 

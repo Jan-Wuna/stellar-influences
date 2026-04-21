@@ -3,7 +3,7 @@ title: Sun/Saturn = Jupiter
 page_type: activation
 slug: sun-saturn-equals-jupiter
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Saturn
@@ -17,7 +17,7 @@ triad_set:
   - Saturn
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0247`
-- Source page: `93`
+- Source heading: `Sun + Saturn`
+- Source page: `107`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Phlegmatic temperament, propensity to corpulence, happiness in solitude. Good fortune of a sick, old or serious person. A fortunate separation from someone.
+To be fortunate in old age. Fortunate through older people. To change the location.
 
 ## Comparative Schema
 
-- core meaning: Phlegmatic temperament, propensity to corpulence, happiness in solitude. Good fortune of a sick, old or serious person. A fortunate separation from someone.
+- core meaning: To be fortunate in old age. Fortunate through older people. To change the location.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Phlegmatic temperament, propensity to corpulence, happiness in solitude. Good fo
 - [Saturn](../factors/saturn.md)
 - [Jupiter](../factors/jupiter.md)
 - [Sun/Saturn](../axes/sun-saturn.md)
-- [Sun Jupiter Saturn](../triads/sun-jupiter-saturn.md)

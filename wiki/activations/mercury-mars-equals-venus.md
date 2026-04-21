@@ -3,7 +3,7 @@ title: Mercury/Mars = Venus
 page_type: activation
 slug: mercury-mars-equals-venus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Mars
@@ -17,7 +17,7 @@ triad_set:
   - Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0473`
-- Source page: `149`
+- Source heading: `Mercury + Mars`
+- Source page: `160`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Quick decision in matters of love and affection, tendency to quickly fall in love. Exaggerating or quarreling in love matters, quarreling about a beloved woman.
+The pleasant voice. Harmonious debates with good friends. Discussions about sex matters. Lover’s quarrels.
 
 ## Comparative Schema
 
-- core meaning: Quick decision in matters of love and affection, tendency to quickly fall in love. Exaggerating or quarreling in love matters, quarreling about a beloved woman.
+- core meaning: The pleasant voice. Harmonious debates with good friends. Discussions about sex matters. Lover’s quarrels.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Quick decision in matters of love and affection, tendency to quickly fall in lov
 - [Mars](../factors/mars.md)
 - [Venus](../factors/venus.md)
 - [Mercury/Mars](../axes/mercury-mars.md)
-- [Mercury Venus Mars](../triads/mercury-venus-mars.md)

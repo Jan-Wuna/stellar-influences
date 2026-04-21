@@ -3,7 +3,7 @@ title: Sun Mercury Neptune
 page_type: triad_hub
 slug: sun-mercury-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Mercury
@@ -18,7 +18,7 @@ orientations:
   - Sun/Neptune = Mercury
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mercury/Neptune = Sun](../activations/mercury-neptune-equals-sun.md)
-  Source page `161`, entry `0519`
+  Source page `164`
 - [Sun/Mercury = Neptune](../activations/sun-mercury-equals-neptune.md)
-  Source page `82`, entry `0201`
+  Source page `103`
 - [Sun/Neptune = Mercury](../activations/sun-neptune-equals-mercury.md)
-  Source page `99`, entry `0268`
+  Source page `109`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mercury/Neptune = Sun`: page `161`, entry `0519`
-- `Sun/Mercury = Neptune`: page `82`, entry `0201`
-- `Sun/Neptune = Mercury`: page `99`, entry `0268`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mercury/Neptune = Sun`: page `164`
+- `Sun/Mercury = Neptune`: page `103`
+- `Sun/Neptune = Mercury`: page `109`
 
 ## Contradictions Across Orientations
 

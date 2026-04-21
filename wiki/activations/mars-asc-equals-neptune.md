@@ -3,10 +3,10 @@ title: Mars/Asc = Neptune
 page_type: activation
 slug: mars-asc-equals-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Mars
   - Asc
+  - Mars
   - Neptune
 normalized_formula: Mars/Asc = Neptune
 axis: Mars/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0766`
-- Source page: `220`
+- Source heading: `Asc + Mars`
+- Source page: `85`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Lack of energy, maintaining one's position in life only with difficulty, diminishing creative power. Disharmonious working relationship. Illness caused through others.
+Thoughtless deeds of others. Deceit and disappointment through the deeds of others. Danger of infection. Danger of destruction.
 
 ## Comparative Schema
 
-- core meaning: Lack of energy, maintaining one's position in life only with difficulty, diminishing creative power. Disharmonious working relationship. Illness caused through others.
+- core meaning: Thoughtless deeds of others. Deceit and disappointment through the deeds of others. Danger of infection. Danger of destruction.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Lack of energy, maintaining one's position in life only with difficulty, diminis
 - [Asc](../factors/asc.md)
 - [Neptune](../factors/neptune.md)
 - [Mars/Asc](../axes/mars-asc.md)
-- [Mars Neptune Asc](../triads/mars-neptune-asc.md)

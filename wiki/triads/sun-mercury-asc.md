@@ -3,7 +3,7 @@ title: Sun Mercury Asc
 page_type: triad_hub
 slug: sun-mercury-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Mercury
@@ -18,7 +18,7 @@ orientations:
   - Sun/Mercury = Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mercury/Asc = Sun](../activations/mercury-asc-equals-sun.md)
-  Source page `170`, entry `0555`
+  Source page `83`
 - [Sun/Asc = Mercury](../activations/sun-asc-equals-mercury.md)
-  Source page `108`, entry `0304`
+  Source page `80`
 - [Sun/Mercury = Asc](../activations/sun-mercury-equals-asc.md)
-  Source page `82`, entry `0204`
+  Source page `103`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mercury/Asc = Sun`: page `170`, entry `0555`
-- `Sun/Asc = Mercury`: page `108`, entry `0304`
-- `Sun/Mercury = Asc`: page `82`, entry `0204`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mercury/Asc = Sun`: page `83`
+- `Sun/Asc = Mercury`: page `80`
+- `Sun/Mercury = Asc`: page `103`
 
 ## Contradictions Across Orientations
 

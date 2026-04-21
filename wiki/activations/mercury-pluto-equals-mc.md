@@ -3,7 +3,7 @@ title: Mercury/Pluto = MC
 page_type: activation
 slug: mercury-pluto-equals-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Pluto
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0541`
+- Source heading: `Mercury + Pluto`
 - Source page: `165`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Ability to cope with any situation, good powers of observation, keen powers of judgment or discernment, prudence or circumspection, foresight, ability to arrange matters well.
+Thinking and understanding are one thing. The capability of adjusting one’s thoughts. The mobility of the mind coordinates well with external nimbleness and adaptability.
 
 ## Comparative Schema
 
-- core meaning: Ability to cope with any situation, good powers of observation, keen powers of judgment or discernment, prudence or circumspection, foresight, ability to arrange matters well.
+- core meaning: Thinking and understanding are one thing. The capability of adjusting one’s thoughts. The mobility of the mind coordinates well with external nimbleness and adaptability.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Ability to cope with any situation, good powers of observation, keen powers of j
 - [Pluto](../factors/pluto.md)
 - [MC](../factors/mc.md)
 - [Mercury/Pluto](../axes/mercury-pluto.md)
-- [Mercury Pluto MC](../triads/mercury-pluto-mc.md)

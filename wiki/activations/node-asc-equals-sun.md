@@ -3,10 +3,10 @@ title: Node/Asc = Sun
 page_type: activation
 slug: node-asc-equals-sun
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Node
   - Asc
+  - Node
   - Sun
 normalized_formula: Node/Asc = Sun
 axis: Node/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1083`
-- Source page: `301`
+- Source heading: `Asc + Node`
+- Source page: `82`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Cultivation of social contacts and social entertainment. Desire to meet other people. A new contact with a man.
+Close personal connections. Physically being together with other people.
 
 ## Comparative Schema
 
-- core meaning: Cultivation of social contacts and social entertainment. Desire to meet other people. A new contact with a man.
+- core meaning: Close personal connections. Physically being together with other people.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Cultivation of social contacts and social entertainment. Desire to meet other pe
 - [Asc](../factors/asc.md)
 - [Sun](../factors/sun.md)
 - [Node/Asc](../axes/node-asc.md)
-- [Sun Node Asc](../triads/sun-node-asc.md)

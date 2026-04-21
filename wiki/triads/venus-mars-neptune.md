@@ -3,7 +3,7 @@ title: Venus Mars Neptune
 page_type: triad_hub
 slug: venus-mars-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Mars
@@ -18,7 +18,7 @@ orientations:
   - Venus/Neptune = Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Neptune = Venus](../activations/mars-neptune-equals-venus.md)
-  Source page `211`, entry `0726`
+  Source page `195`
 - [Venus/Mars = Neptune](../activations/venus-mars-equals-neptune.md)
-  Source page `176`, entry `0585`
+  Source page `176`
 - [Venus/Neptune = Mars](../activations/venus-neptune-equals-mars.md)
-  Source page `188`, entry `0630`
+  Source page `180`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/Neptune = Venus`: page `211`, entry `0726`
-- `Venus/Mars = Neptune`: page `176`, entry `0585`
-- `Venus/Neptune = Mars`: page `188`, entry `0630`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/Neptune = Venus`: page `195`
+- `Venus/Mars = Neptune`: page `176`
+- `Venus/Neptune = Mars`: page `180`
 
 ## Contradictions Across Orientations
 

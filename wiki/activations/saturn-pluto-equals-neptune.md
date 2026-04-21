@@ -3,7 +3,7 @@ title: Saturn/Pluto = Neptune
 page_type: activation
 slug: saturn-pluto-equals-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Saturn
   - Pluto
@@ -17,7 +17,7 @@ triad_set:
   - Pluto
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0898`
-- Source page: `254`
+- Source heading: `Saturn + Pluto`
+- Source page: `223`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Falsehood, lies, frauds, desire to harm others secretly, immorality, instability. Danger through water, poison or gas. Shattered nerves.
+A slow development seems to come to a standstill. One cannot see any change in a chronically slow development. A divorce extending over a long time.
 
 ## Comparative Schema
 
-- core meaning: Falsehood, lies, frauds, desire to harm others secretly, immorality, instability. Danger through water, poison or gas. Shattered nerves.
+- core meaning: A slow development seems to come to a standstill. One cannot see any change in a chronically slow development. A divorce extending over a long time.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Falsehood, lies, frauds, desire to harm others secretly, immorality, instability
 - [Pluto](../factors/pluto.md)
 - [Neptune](../factors/neptune.md)
 - [Saturn/Pluto](../axes/saturn-pluto.md)
-- [Saturn Neptune Pluto](../triads/saturn-neptune-pluto.md)

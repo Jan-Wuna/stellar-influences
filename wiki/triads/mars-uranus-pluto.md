@@ -3,7 +3,7 @@ title: Mars Uranus Pluto
 page_type: triad_hub
 slug: mars-uranus-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Uranus
@@ -18,7 +18,7 @@ orientations:
   - Uranus/Pluto = Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Pluto = Uranus](../activations/mars-pluto-equals-uranus.md)
-  Source page `214`, entry `0741`
+  Source page `196`
 - [Mars/Uranus = Pluto](../activations/mars-uranus-equals-pluto.md)
-  Source page `209`, entry `0718`
+  Source page `194`
 - [Uranus/Pluto = Mars](../activations/uranus-pluto-equals-mars.md)
-  Source page `269`, entry `0955`
+  Source page `235`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/Pluto = Uranus`: page `214`, entry `0741`
-- `Mars/Uranus = Pluto`: page `209`, entry `0718`
-- `Uranus/Pluto = Mars`: page `269`, entry `0955`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/Pluto = Uranus`: page `196`
+- `Mars/Uranus = Pluto`: page `194`
+- `Uranus/Pluto = Mars`: page `235`
 
 ## Contradictions Across Orientations
 

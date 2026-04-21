@@ -3,7 +3,7 @@ title: Moon/Saturn = Neptune
 page_type: activation
 slug: moon-saturn-equals-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Saturn
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0381`
+- Source heading: `Moon + Saturn`
 - Source page: `126`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Feelings of inferiority, depression, a melancholic nature, lack of self-confidence, mirthless, anxiety. Sickness of the soul.
+Lasting disease of a woman. The melancholy woman. The woman which is separated for a long time.
 
 ## Comparative Schema
 
-- core meaning: Feelings of inferiority, depression, a melancholic nature, lack of self-confidence, mirthless, anxiety. Sickness of the soul.
+- core meaning: Lasting disease of a woman. The melancholy woman. The woman which is separated for a long time.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Feelings of inferiority, depression, a melancholic nature, lack of self-confiden
 - [Saturn](../factors/saturn.md)
 - [Neptune](../factors/neptune.md)
 - [Moon/Saturn](../axes/moon-saturn.md)
-- [Moon Saturn Neptune](../triads/moon-saturn-neptune.md)

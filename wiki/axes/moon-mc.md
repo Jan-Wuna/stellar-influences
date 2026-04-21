@@ -3,7 +3,7 @@ title: Moon/MC
 page_type: axis
 slug: moon-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - MC
@@ -11,7 +11,10 @@ normalized_axis: Moon/MC
 factor_a: Moon
 factor_b: MC
 related_activations:
+  - Moon/MC = Aries
+  - Moon/MC = Asc
   - Moon/MC = Sun
+  - Moon/MC = Node
   - Moon/MC = Mercury
   - Moon/MC = Venus
   - Moon/MC = Mars
@@ -20,12 +23,27 @@ related_activations:
   - Moon/MC = Uranus
   - Moon/MC = Neptune
   - Moon/MC = Pluto
-  - Moon/MC = Node
-  - Moon/MC = Asc
+  - Moon/MC = Cupido
+  - Moon/MC = Hades
+  - Moon/MC = Zeus
+  - Moon/MC = Kronos
+  - Moon/MC = Apollon
+  - Moon/MC = Admetos
+  - Moon/MC = Vulcanus
+  - Moon/MC = Poseidon
 related_triad_hubs:
+  - Aries Moon MC
   - Moon Asc MC
   - Moon Jupiter MC
   - Moon Mars MC
+  - Moon MC Admetos
+  - Moon MC Apollon
+  - Moon MC Cupido
+  - Moon MC Hades
+  - Moon MC Kronos
+  - Moon MC Poseidon
+  - Moon MC Vulcanus
+  - Moon MC Zeus
   - Moon Mercury MC
   - Moon Neptune MC
   - Moon Node MC
@@ -37,7 +55,7 @@ related_triad_hubs:
 aliases:
   - MC/Moon
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,46 +63,32 @@ updated_at: 2026-04-21
 
 - Axis: `Moon/MC`
 - Astronomicon axis: `R/MC`
-- Source heading: `Moon/Medium Coeli`
-- Source page: `142`
+- Source heading: `MC + Moon`
+- Source page: `60`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-One's soul.
-
-#### Psychological Correspondence
-
-+ Deep sentiment and feeling, a rich soul life, the inner experiences of life and appreciation of spiritual values. Life objectives are rooted deeply in one's soul, great aspirations, desire to care for others, motherliness, an appreciation of home and family, flexible and mutable. - Untenable life objectives, wavering disposition, change of moods, unreliable. C A deep soul expression, impressionable, changeable character.
-
-#### Biological Correspondence
-
-The distribution of blood and liquid in the body. Collapse. The blood donor.
-
-#### Sociological Correspondence
-
-The female sex, people with feeling and sentiment.
-
-#### Probable Manifestations
-
-+ Strong soul ties, a soul relationship with the female sex, entering into a spiritual relationship with a member of the opposite sex. - Changing life objectives lead to many changes in life. Moon/Medium Coeli D/M
-
+The psychological influence of women. One’s own mind. The own attitude towards females, a people or to the public. The state of the mind and soul. Personal relations with females and to the public. Emotional hour. Emotions in a people. The start of an hour. The feeling or attitude of being a woman.
 
 ## Comparative Schema
 
-- core meaning: One's soul.
-- psychology: + Deep sentiment and feeling, a rich soul life, the inner experiences of life and appreciation of spiritual values. Life objectives are rooted deeply in one's soul, great aspirations, desire to care for others, motherliness, an appreciation of home and family, flexible and mutable. - Untenable life objectives, wavering disposition, change of moods, unreliable. C A deep soul expression, impressionable, changeable character.
-- body/health: The distribution of blood and liquid in the body. Collapse. The blood donor.
-- social/relationship: The female sex, people with feeling and sentiment.
-- events/manifestations: + Strong soul ties, a soul relationship with the female sex, entering into a spiritual relationship with a member of the opposite sex. - Changing life objectives lead to many changes in life. Moon/Medium Coeli D/M
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: The psychological influence of women. One’s own mind. The own attitude towards females, a people or to the public. The state of the mind and soul. Personal relations with females and to the public. Emotional hour. Emotions in a people. The start of an hour. The feeling or attitude of being a woman.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Moon/MC = Aries](../activations/moon-mc-equals-aries.md)
+- [Moon/MC = Asc](../activations/moon-mc-equals-asc.md)
 - [Moon/MC = Sun](../activations/moon-mc-equals-sun.md)
+- [Moon/MC = Node](../activations/moon-mc-equals-node.md)
 - [Moon/MC = Mercury](../activations/moon-mc-equals-mercury.md)
 - [Moon/MC = Venus](../activations/moon-mc-equals-venus.md)
 - [Moon/MC = Mars](../activations/moon-mc-equals-mars.md)
@@ -93,8 +97,14 @@ The female sex, people with feeling and sentiment.
 - [Moon/MC = Uranus](../activations/moon-mc-equals-uranus.md)
 - [Moon/MC = Neptune](../activations/moon-mc-equals-neptune.md)
 - [Moon/MC = Pluto](../activations/moon-mc-equals-pluto.md)
-- [Moon/MC = Node](../activations/moon-mc-equals-node.md)
-- [Moon/MC = Asc](../activations/moon-mc-equals-asc.md)
+- [Moon/MC = Cupido](../activations/moon-mc-equals-cupido.md)
+- [Moon/MC = Hades](../activations/moon-mc-equals-hades.md)
+- [Moon/MC = Zeus](../activations/moon-mc-equals-zeus.md)
+- [Moon/MC = Kronos](../activations/moon-mc-equals-kronos.md)
+- [Moon/MC = Apollon](../activations/moon-mc-equals-apollon.md)
+- [Moon/MC = Admetos](../activations/moon-mc-equals-admetos.md)
+- [Moon/MC = Vulcanus](../activations/moon-mc-equals-vulcanus.md)
+- [Moon/MC = Poseidon](../activations/moon-mc-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ The female sex, people with feeling and sentiment.
 
 - [Moon](../factors/moon.md)
 - [MC](../factors/mc.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

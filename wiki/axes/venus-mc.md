@@ -3,7 +3,7 @@ title: Venus/MC
 page_type: axis
 slug: venus-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - MC
@@ -11,8 +11,11 @@ normalized_axis: Venus/MC
 factor_a: Venus
 factor_b: MC
 related_activations:
+  - Venus/MC = Aries
+  - Venus/MC = Asc
   - Venus/MC = Sun
   - Venus/MC = Moon
+  - Venus/MC = Node
   - Venus/MC = Mercury
   - Venus/MC = Mars
   - Venus/MC = Jupiter
@@ -20,15 +23,30 @@ related_activations:
   - Venus/MC = Uranus
   - Venus/MC = Neptune
   - Venus/MC = Pluto
-  - Venus/MC = Node
-  - Venus/MC = Asc
+  - Venus/MC = Cupido
+  - Venus/MC = Hades
+  - Venus/MC = Zeus
+  - Venus/MC = Kronos
+  - Venus/MC = Apollon
+  - Venus/MC = Admetos
+  - Venus/MC = Vulcanus
+  - Venus/MC = Poseidon
 related_triad_hubs:
+  - Aries Venus MC
   - Mercury Venus MC
   - Moon Venus MC
   - Sun Venus MC
   - Venus Asc MC
   - Venus Jupiter MC
   - Venus Mars MC
+  - Venus MC Admetos
+  - Venus MC Apollon
+  - Venus MC Cupido
+  - Venus MC Hades
+  - Venus MC Kronos
+  - Venus MC Poseidon
+  - Venus MC Vulcanus
+  - Venus MC Zeus
   - Venus Neptune MC
   - Venus Node MC
   - Venus Pluto MC
@@ -37,7 +55,7 @@ related_triad_hubs:
 aliases:
   - MC/Venus
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,47 +63,33 @@ updated_at: 2026-04-21
 
 - Axis: `Venus/MC`
 - Astronomicon axis: `Q/MC`
-- Source heading: `Venus/Medium Coeli`
-- Source page: `198`
+- Source heading: `MC + Venus`
+- Source page: `63`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-Individual love.
-
-#### Psychological Correspondence
-
-+ An affectionate disposition, kindness and benevolence, a harmonious nature, a sense of beauty and art. - Vanity arid conceit, self-admiration, jealousy. C A rich and deep feeling of love.
-
-#### Biological Correspondence
-
-Gland center, the mid-brain, the third ventricle, the pituitary gland.
-
-#### Sociological Correspondence
-
-The loving human being, the artist.
-
-#### Probable Manifestations
-
-+ The experience of a deep and warm-hearted attachment, the stage of falling in love. - The loss of other people's sympathy through the demonstration of self-admiration and vanity. Venus/Medium Coeli 9/M
-
+One’s own personal affections. Love sentiments. One’s wishes and hopes. One’s own personal attraction. To have the power of attraction. To be attractive. To be fond of something. Peaceful minded. Feeling balanced. Sense of attraction. Sympathies.
 
 ## Comparative Schema
 
-- core meaning: Individual love.
-- psychology: + An affectionate disposition, kindness and benevolence, a harmonious nature, a sense of beauty and art. - Vanity arid conceit, self-admiration, jealousy. C A rich and deep feeling of love.
-- body/health: Gland center, the mid-brain, the third ventricle, the pituitary gland.
-- social/relationship: The loving human being, the artist.
-- events/manifestations: + The experience of a deep and warm-hearted attachment, the stage of falling in love. - The loss of other people's sympathy through the demonstration of self-admiration and vanity. Venus/Medium Coeli 9/M
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: One’s own personal affections. Love sentiments. One’s wishes and hopes. One’s own personal attraction. To have the power of attraction. To be attractive. To be fond of something. Peaceful minded. Feeling balanced. Sense of attraction. Sympathies.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Venus/MC = Aries](../activations/venus-mc-equals-aries.md)
+- [Venus/MC = Asc](../activations/venus-mc-equals-asc.md)
 - [Venus/MC = Sun](../activations/venus-mc-equals-sun.md)
 - [Venus/MC = Moon](../activations/venus-mc-equals-moon.md)
+- [Venus/MC = Node](../activations/venus-mc-equals-node.md)
 - [Venus/MC = Mercury](../activations/venus-mc-equals-mercury.md)
 - [Venus/MC = Mars](../activations/venus-mc-equals-mars.md)
 - [Venus/MC = Jupiter](../activations/venus-mc-equals-jupiter.md)
@@ -93,8 +97,14 @@ The loving human being, the artist.
 - [Venus/MC = Uranus](../activations/venus-mc-equals-uranus.md)
 - [Venus/MC = Neptune](../activations/venus-mc-equals-neptune.md)
 - [Venus/MC = Pluto](../activations/venus-mc-equals-pluto.md)
-- [Venus/MC = Node](../activations/venus-mc-equals-node.md)
-- [Venus/MC = Asc](../activations/venus-mc-equals-asc.md)
+- [Venus/MC = Cupido](../activations/venus-mc-equals-cupido.md)
+- [Venus/MC = Hades](../activations/venus-mc-equals-hades.md)
+- [Venus/MC = Zeus](../activations/venus-mc-equals-zeus.md)
+- [Venus/MC = Kronos](../activations/venus-mc-equals-kronos.md)
+- [Venus/MC = Apollon](../activations/venus-mc-equals-apollon.md)
+- [Venus/MC = Admetos](../activations/venus-mc-equals-admetos.md)
+- [Venus/MC = Vulcanus](../activations/venus-mc-equals-vulcanus.md)
+- [Venus/MC = Poseidon](../activations/venus-mc-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ The loving human being, the artist.
 
 - [Venus](../factors/venus.md)
 - [MC](../factors/mc.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

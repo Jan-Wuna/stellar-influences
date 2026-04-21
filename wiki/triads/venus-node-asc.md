@@ -3,7 +3,7 @@ title: Venus Node Asc
 page_type: triad_hub
 slug: venus-node-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Node
@@ -18,7 +18,7 @@ orientations:
   - Venus/Node = Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Node/Asc = Venus](../activations/node-asc-equals-venus.md)
-  Source page `301`, entry `1086`
+  Source page `82`
 - [Venus/Asc = Node](../activations/venus-asc-equals-node.md)
-  Source page `196`, entry `0672`
+  Source page `84`
 - [Venus/Node = Asc](../activations/venus-node-equals-asc.md)
-  Source page `194`, entry `0660`
+  Source page `142`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Node/Asc = Venus`: page `301`, entry `1086`
-- `Venus/Asc = Node`: page `196`, entry `0672`
-- `Venus/Node = Asc`: page `194`, entry `0660`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Node/Asc = Venus`: page `82`
+- `Venus/Asc = Node`: page `84`
+- `Venus/Node = Asc`: page `142`
 
 ## Contradictions Across Orientations
 

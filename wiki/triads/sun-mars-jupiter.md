@@ -3,7 +3,7 @@ title: Sun Mars Jupiter
 page_type: triad_hub
 slug: sun-mars-jupiter
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Mars
@@ -18,7 +18,7 @@ orientations:
   - Sun/Mars = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Jupiter = Sun](../activations/mars-jupiter-equals-sun.md)
-  Source page `202`, entry `0687`
+  Source page `192`
 - [Sun/Jupiter = Mars](../activations/sun-jupiter-equals-mars.md)
-  Source page `90`, entry `0234`
+  Source page `106`
 - [Sun/Mars = Jupiter](../activations/sun-mars-equals-jupiter.md)
-  Source page `87`, entry `0222`
+  Source page `105`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/Jupiter = Sun`: page `202`, entry `0687`
-- `Sun/Jupiter = Mars`: page `90`, entry `0234`
-- `Sun/Mars = Jupiter`: page `87`, entry `0222`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/Jupiter = Sun`: page `192`
+- `Sun/Jupiter = Mars`: page `106`
+- `Sun/Mars = Jupiter`: page `105`
 
 ## Contradictions Across Orientations
 

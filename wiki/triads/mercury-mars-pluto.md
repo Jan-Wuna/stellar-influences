@@ -3,7 +3,7 @@ title: Mercury Mars Pluto
 page_type: triad_hub
 slug: mercury-mars-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Mars
@@ -18,7 +18,7 @@ orientations:
   - Mercury/Pluto = Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Pluto = Mercury](../activations/mars-pluto-equals-mercury.md)
-  Source page `214`, entry `0737`
+  Source page `196`
 - [Mercury/Mars = Pluto](../activations/mercury-mars-equals-pluto.md)
-  Source page `149`, entry `0478`
+  Source page `160`
 - [Mercury/Pluto = Mars](../activations/mercury-pluto-equals-mars.md)
-  Source page `164`, entry `0534`
+  Source page `165`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/Pluto = Mercury`: page `214`, entry `0737`
-- `Mercury/Mars = Pluto`: page `149`, entry `0478`
-- `Mercury/Pluto = Mars`: page `164`, entry `0534`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/Pluto = Mercury`: page `196`
+- `Mercury/Mars = Pluto`: page `160`
+- `Mercury/Pluto = Mars`: page `165`
 
 ## Contradictions Across Orientations
 

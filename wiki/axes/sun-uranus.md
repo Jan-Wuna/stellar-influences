@@ -3,7 +3,7 @@ title: Sun/Uranus
 page_type: axis
 slug: sun-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Uranus
@@ -11,7 +11,11 @@ normalized_axis: Sun/Uranus
 factor_a: Sun
 factor_b: Uranus
 related_activations:
+  - Sun/Uranus = Aries
+  - Sun/Uranus = MC
+  - Sun/Uranus = Asc
   - Sun/Uranus = Moon
+  - Sun/Uranus = Node
   - Sun/Uranus = Mercury
   - Sun/Uranus = Venus
   - Sun/Uranus = Mars
@@ -19,25 +23,39 @@ related_activations:
   - Sun/Uranus = Saturn
   - Sun/Uranus = Neptune
   - Sun/Uranus = Pluto
-  - Sun/Uranus = Node
-  - Sun/Uranus = Asc
-  - Sun/Uranus = MC
+  - Sun/Uranus = Cupido
+  - Sun/Uranus = Hades
+  - Sun/Uranus = Zeus
+  - Sun/Uranus = Kronos
+  - Sun/Uranus = Apollon
+  - Sun/Uranus = Admetos
+  - Sun/Uranus = Vulcanus
+  - Sun/Uranus = Poseidon
 related_triad_hubs:
+  - Aries Sun Uranus
   - Sun Jupiter Uranus
   - Sun Mars Uranus
   - Sun Mercury Uranus
   - Sun Moon Uranus
   - Sun Saturn Uranus
+  - Sun Uranus Admetos
+  - Sun Uranus Apollon
   - Sun Uranus Asc
+  - Sun Uranus Cupido
+  - Sun Uranus Hades
+  - Sun Uranus Kronos
   - Sun Uranus MC
   - Sun Uranus Neptune
   - Sun Uranus Node
   - Sun Uranus Pluto
+  - Sun Uranus Poseidon
+  - Sun Uranus Vulcanus
+  - Sun Uranus Zeus
   - Sun Venus Uranus
 aliases:
   - Uranus/Sun
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,46 +63,33 @@ updated_at: 2026-04-21
 
 - Axis: `Sun/Uranus`
 - Astronomicon axis: `S/X`
-- Source heading: `Sun/Uranus`
-- Source page: `95`
+- Source heading: `Sun + Uranus`
+- Source page: `108`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-A revolutionary spirit, a progressive mind (as applied to reform and technology). Excitement or upset.
-
-#### Psychological Correspondence
-
-+ Originality, consciousness of and concentration upon an objective or aim, a far-seeing mind, love of freedom, tendency to strive for reforms, mobility. - Self-will, caprice or obstinacy, contradictory nature, impatience, excitable physical makeup, a muddle-head, a troublemaker. C Strained or tense inner life, a person trying to carry through reforms in a self-willed manner.
-
-#### Biological Correspondence
-
-Rhythmic function of the cells and the body, pulse and breathing. Heart neurosis.
-
-#### Sociological Correspondence
-
-Innovator, reformer, inventor, technician, rebel.
-
-#### Probable Manifestations
-
-+ A sudden turn in life, improvement of living conditions, a change of place or vocation, carrying out of innovations, reforms. - States of tension, sudden setbacks in life, upsetting experiences, sudden adjustment to new conditions or circumstances in life (found repeatedly in cases of military call-up and of imprisonment), connection with accidents or catastrophes. 8 Under Biological Correspondence it should be noted that Sun/Uranus combinations show a tendency to cardiac embolism if too little care is taken of the health. GW
-
+Tension of the body. Nervousness. Sudden physically exciting events. Apoplexy. Accidents. Condition of the nerves. Accidents of the body. Sudden body reaction. The physical restlessness. Accidents or excitements on the day. (In the solar cycle: a nervous period.)
 
 ## Comparative Schema
 
-- core meaning: A revolutionary spirit, a progressive mind (as applied to reform and technology). Excitement or upset.
-- psychology: + Originality, consciousness of and concentration upon an objective or aim, a far-seeing mind, love of freedom, tendency to strive for reforms, mobility. - Self-will, caprice or obstinacy, contradictory nature, impatience, excitable physical makeup, a muddle-head, a troublemaker. C Strained or tense inner life, a person trying to carry through reforms in a self-willed manner.
-- body/health: Rhythmic function of the cells and the body, pulse and breathing. Heart neurosis.
-- social/relationship: Innovator, reformer, inventor, technician, rebel.
-- events/manifestations: + A sudden turn in life, improvement of living conditions, a change of place or vocation, carrying out of innovations, reforms. - States of tension, sudden setbacks in life, upsetting experiences, sudden adjustment to new conditions or circumstances in life (found repeatedly in cases of military call-up and of imprisonment), connection with accidents or catastrophes. 8 Under Biological Correspondence it should be noted that Sun/Uranus combinations show a tendency to cardiac embolism if too little care is taken of the health. GW
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: Tension of the body. Nervousness. Sudden physically exciting events. Apoplexy. Accidents. Condition of the nerves. Accidents of the body. Sudden body reaction. The physical restlessness. Accidents or excitements on the day. (In the solar cycle: a nervous period.)
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Sun/Uranus = Aries](../activations/sun-uranus-equals-aries.md)
+- [Sun/Uranus = MC](../activations/sun-uranus-equals-mc.md)
+- [Sun/Uranus = Asc](../activations/sun-uranus-equals-asc.md)
 - [Sun/Uranus = Moon](../activations/sun-uranus-equals-moon.md)
+- [Sun/Uranus = Node](../activations/sun-uranus-equals-node.md)
 - [Sun/Uranus = Mercury](../activations/sun-uranus-equals-mercury.md)
 - [Sun/Uranus = Venus](../activations/sun-uranus-equals-venus.md)
 - [Sun/Uranus = Mars](../activations/sun-uranus-equals-mars.md)
@@ -92,9 +97,14 @@ Innovator, reformer, inventor, technician, rebel.
 - [Sun/Uranus = Saturn](../activations/sun-uranus-equals-saturn.md)
 - [Sun/Uranus = Neptune](../activations/sun-uranus-equals-neptune.md)
 - [Sun/Uranus = Pluto](../activations/sun-uranus-equals-pluto.md)
-- [Sun/Uranus = Node](../activations/sun-uranus-equals-node.md)
-- [Sun/Uranus = Asc](../activations/sun-uranus-equals-asc.md)
-- [Sun/Uranus = MC](../activations/sun-uranus-equals-mc.md)
+- [Sun/Uranus = Cupido](../activations/sun-uranus-equals-cupido.md)
+- [Sun/Uranus = Hades](../activations/sun-uranus-equals-hades.md)
+- [Sun/Uranus = Zeus](../activations/sun-uranus-equals-zeus.md)
+- [Sun/Uranus = Kronos](../activations/sun-uranus-equals-kronos.md)
+- [Sun/Uranus = Apollon](../activations/sun-uranus-equals-apollon.md)
+- [Sun/Uranus = Admetos](../activations/sun-uranus-equals-admetos.md)
+- [Sun/Uranus = Vulcanus](../activations/sun-uranus-equals-vulcanus.md)
+- [Sun/Uranus = Poseidon](../activations/sun-uranus-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Innovator, reformer, inventor, technician, rebel.
 
 - [Sun](../factors/sun.md)
 - [Uranus](../factors/uranus.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

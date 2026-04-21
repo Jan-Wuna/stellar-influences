@@ -3,7 +3,7 @@ title: Sun Venus Uranus
 page_type: triad_hub
 slug: sun-venus-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Venus
@@ -18,7 +18,7 @@ orientations:
   - Venus/Uranus = Sun
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Sun/Uranus = Venus](../activations/sun-uranus-equals-venus.md)
-  Source page `96`, entry `0257`
+  Source page `108`
 - [Sun/Venus = Uranus](../activations/sun-venus-equals-uranus.md)
-  Source page `84`, entry `0212`
+  Source page `104`
 - [Venus/Uranus = Sun](../activations/venus-uranus-equals-sun.md)
-  Source page `185`, entry `0615`
+  Source page `179`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Sun/Uranus = Venus`: page `96`, entry `0257`
-- `Sun/Venus = Uranus`: page `84`, entry `0212`
-- `Venus/Uranus = Sun`: page `185`, entry `0615`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Sun/Uranus = Venus`: page `108`
+- `Sun/Venus = Uranus`: page `104`
+- `Venus/Uranus = Sun`: page `179`
 
 ## Contradictions Across Orientations
 

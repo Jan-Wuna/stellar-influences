@@ -3,10 +3,10 @@ title: Venus/Asc = MC
 page_type: activation
 slug: venus-asc-equals-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Venus
   - Asc
+  - Venus
   - MC
 normalized_formula: Venus/Asc = MC
 axis: Venus/Asc
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0673`
-- Source page: `197`
+- Source heading: `Asc + Venus`
+- Source page: `84`
+#### Witte Entry
 
-#### Ebertin Entry
-
-An affectionate and harmonious person, a sense of beauty, an appreciation of art, artistic inclinations, beautification of the environment. Union with another person through the bonds of love.
+To be happy and glad about the treatment received from others. Love’s influence upon the mind.
 
 ## Comparative Schema
 
-- core meaning: An affectionate and harmonious person, a sense of beauty, an appreciation of art, artistic inclinations, beautification of the environment. Union with another person through the bonds of love.
+- core meaning: To be happy and glad about the treatment received from others. Love’s influence upon the mind.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ An affectionate and harmonious person, a sense of beauty, an appreciation of art
 - [Asc](../factors/asc.md)
 - [MC](../factors/mc.md)
 - [Venus/Asc](../axes/venus-asc.md)
-- [Venus Asc MC](../triads/venus-asc-mc.md)

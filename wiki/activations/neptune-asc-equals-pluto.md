@@ -3,10 +3,10 @@ title: Neptune/Asc = Pluto
 page_type: activation
 slug: neptune-asc-equals-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Neptune
   - Asc
+  - Neptune
   - Pluto
 normalized_formula: Neptune/Asc = Pluto
 axis: Neptune/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1031`
-- Source page: `288`
+- Source heading: `Asc + Neptune`
+- Source page: `89`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Depression caused by one's environment. Suffering harm or damage through deceit, libel or malice coming from other people.
+P Underhanded tricks and fraud which are not noticed. To give something up because one was misled by others. To be outwitted.
 
 ## Comparative Schema
 
-- core meaning: Depression caused by one's environment. Suffering harm or damage through deceit, libel or malice coming from other people.
+- core meaning: P Underhanded tricks and fraud which are not noticed. To give something up because one was misled by others. To be outwitted.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Depression caused by one's environment. Suffering harm or damage through deceit,
 - [Asc](../factors/asc.md)
 - [Pluto](../factors/pluto.md)
 - [Neptune/Asc](../axes/neptune-asc.md)
-- [Neptune Pluto Asc](../triads/neptune-pluto-asc.md)

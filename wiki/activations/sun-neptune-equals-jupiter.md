@@ -3,7 +3,7 @@ title: Sun/Neptune = Jupiter
 page_type: activation
 slug: sun-neptune-equals-jupiter
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Neptune
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0271`
-- Source page: `99`
+- Source heading: `Sun + Neptune`
+- Source page: `109`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Optimism in spite of little vitality. The capacity to enjoy pleasant things in life in spite of weakness or illness, achievement of success with little exertion.
+To be fortunate through passive physical behavior. Income gained through easy physical work.
 
 ## Comparative Schema
 
-- core meaning: Optimism in spite of little vitality. The capacity to enjoy pleasant things in life in spite of weakness or illness, achievement of success with little exertion.
+- core meaning: To be fortunate through passive physical behavior. Income gained through easy physical work.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Optimism in spite of little vitality. The capacity to enjoy pleasant things in l
 - [Neptune](../factors/neptune.md)
 - [Jupiter](../factors/jupiter.md)
 - [Sun/Neptune](../axes/sun-neptune.md)
-- [Sun Jupiter Neptune](../triads/sun-jupiter-neptune.md)

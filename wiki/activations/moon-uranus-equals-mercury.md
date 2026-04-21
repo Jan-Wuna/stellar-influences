@@ -3,7 +3,7 @@ title: Moon/Uranus = Mercury
 page_type: activation
 slug: moon-uranus-equals-mercury
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Uranus
@@ -17,7 +17,7 @@ triad_set:
   - Uranus
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0388`
-- Source page: `129`
+- Source heading: `Moon + Uranus`
+- Source page: `127`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Intuition, a person with ideas, suggestive thought power, great mental activity. A thinking woman. Sudden cognition and perception, a surprise, sudden news.
+Mentally active women. News of exciting events. Excited thinking. Thinking people.
 
 ## Comparative Schema
 
-- core meaning: Intuition, a person with ideas, suggestive thought power, great mental activity. A thinking woman. Sudden cognition and perception, a surprise, sudden news.
+- core meaning: Mentally active women. News of exciting events. Excited thinking. Thinking people.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Intuition, a person with ideas, suggestive thought power, great mental activity.
 - [Uranus](../factors/uranus.md)
 - [Mercury](../factors/mercury.md)
 - [Moon/Uranus](../axes/moon-uranus.md)
-- [Moon Mercury Uranus](../triads/moon-mercury-uranus.md)

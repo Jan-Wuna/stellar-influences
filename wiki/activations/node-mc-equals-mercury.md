@@ -3,10 +3,10 @@ title: Node/MC = Mercury
 page_type: activation
 slug: node-mc-equals-mercury
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Node
   - MC
+  - Node
   - Mercury
 normalized_formula: Node/MC = Mercury
 axis: Node/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1097`
-- Source page: `304`
+- Source heading: `MC + Node`
+- Source page: `61`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Emotional inclinations linked with spiritual and intellectual aspirations. Establishment of an association through shared thoughts and plans. Mutually stimulating exchange of ideas.
+Mental stimulation resulting from soul unions. Thought connections. To speak, think or write about the own emotional or professional connections.
 
 ## Comparative Schema
 
-- core meaning: Emotional inclinations linked with spiritual and intellectual aspirations. Establishment of an association through shared thoughts and plans. Mutually stimulating exchange of ideas.
+- core meaning: Mental stimulation resulting from soul unions. Thought connections. To speak, think or write about the own emotional or professional connections.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Emotional inclinations linked with spiritual and intellectual aspirations. Estab
 - [MC](../factors/mc.md)
 - [Mercury](../factors/mercury.md)
 - [Node/MC](../axes/node-mc.md)
-- [Mercury Node MC](../triads/mercury-node-mc.md)

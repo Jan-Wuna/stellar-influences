@@ -3,7 +3,7 @@ title: Moon/Venus
 page_type: axis
 slug: moon-venus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Venus
@@ -11,7 +11,11 @@ normalized_axis: Moon/Venus
 factor_a: Moon
 factor_b: Venus
 related_activations:
+  - Moon/Venus = Aries
+  - Moon/Venus = MC
+  - Moon/Venus = Asc
   - Moon/Venus = Sun
+  - Moon/Venus = Node
   - Moon/Venus = Mercury
   - Moon/Venus = Mars
   - Moon/Venus = Jupiter
@@ -19,25 +23,39 @@ related_activations:
   - Moon/Venus = Uranus
   - Moon/Venus = Neptune
   - Moon/Venus = Pluto
-  - Moon/Venus = Node
-  - Moon/Venus = Asc
-  - Moon/Venus = MC
+  - Moon/Venus = Cupido
+  - Moon/Venus = Hades
+  - Moon/Venus = Zeus
+  - Moon/Venus = Kronos
+  - Moon/Venus = Apollon
+  - Moon/Venus = Admetos
+  - Moon/Venus = Vulcanus
+  - Moon/Venus = Poseidon
 related_triad_hubs:
+  - Aries Moon Venus
   - Moon Mercury Venus
+  - Moon Venus Admetos
+  - Moon Venus Apollon
   - Moon Venus Asc
+  - Moon Venus Cupido
+  - Moon Venus Hades
   - Moon Venus Jupiter
-  - Moon Venus MC
+  - Moon Venus Kronos
   - Moon Venus Mars
+  - Moon Venus MC
   - Moon Venus Neptune
   - Moon Venus Node
   - Moon Venus Pluto
+  - Moon Venus Poseidon
   - Moon Venus Saturn
   - Moon Venus Uranus
+  - Moon Venus Vulcanus
+  - Moon Venus Zeus
   - Sun Moon Venus
 aliases:
   - Venus/Moon
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,46 +63,33 @@ updated_at: 2026-04-21
 
 - Axis: `Moon/Venus`
 - Astronomicon axis: `R/Q`
-- Source heading: `Moon/Venus`
-- Source page: `116`
+- Source heading: `Moon + Venus`
+- Source page: `123`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-The feeling of love, devotion.
-
-#### Psychological Correspondence
-
-+ A strong feeling of love, desire for the expression of tenderness, an affectionate nature, artistic talent, good judgement concerning the real value of all things, cheerftil disposition, gracefulness. - Moodiness, a disharmonious nature, shyness, weakness, inclination to be easily led, poor powers of assessment or estimation. C An intense emotional life, the joy of living, desire for tenderness, artistic appreciation, self-love.
-
-#### Biological Correspondence
-
-Glandular secretions (hormones, ferments in the stage of generation), menstruation. The female capability of conception.
-
-#### Sociological Correspondence
-
-Loving women, mothers (also expectant mothers), female artists.
-
-#### Probable Manifestations
-
-+ Harmonious love unions, a marriage blessed with many children, a happy family life, desire for motherhood. - Disturbed functions of the glands, irritability, moodiness, conflict in love. 17 It has been observed that in many cases a direction between Moon and Venus, e.g., Moon pr. = Venus, and Venus pr. = Moon rad., have been found in the case of women at the time of their first conception or birth. MoonA/enus D/9
-
+The feeling. The love. The loving woman. Hours of love. Pregnancy. Motherhood. Peaceful hour. The love or affection of women. The love of a people. The people’s peace or harmony.
 
 ## Comparative Schema
 
-- core meaning: The feeling of love, devotion.
-- psychology: + A strong feeling of love, desire for the expression of tenderness, an affectionate nature, artistic talent, good judgement concerning the real value of all things, cheerftil disposition, gracefulness. - Moodiness, a disharmonious nature, shyness, weakness, inclination to be easily led, poor powers of assessment or estimation. C An intense emotional life, the joy of living, desire for tenderness, artistic appreciation, self-love.
-- body/health: Glandular secretions (hormones, ferments in the stage of generation), menstruation. The female capability of conception.
-- social/relationship: Loving women, mothers (also expectant mothers), female artists.
-- events/manifestations: + Harmonious love unions, a marriage blessed with many children, a happy family life, desire for motherhood. - Disturbed functions of the glands, irritability, moodiness, conflict in love. 17 It has been observed that in many cases a direction between Moon and Venus, e.g., Moon pr. = Venus, and Venus pr. = Moon rad., have been found in the case of women at the time of their first conception or birth. MoonA/enus D/9
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: The feeling. The love. The loving woman. Hours of love. Pregnancy. Motherhood. Peaceful hour. The love or affection of women. The love of a people. The people’s peace or harmony.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Moon/Venus = Aries](../activations/moon-venus-equals-aries.md)
+- [Moon/Venus = MC](../activations/moon-venus-equals-mc.md)
+- [Moon/Venus = Asc](../activations/moon-venus-equals-asc.md)
 - [Moon/Venus = Sun](../activations/moon-venus-equals-sun.md)
+- [Moon/Venus = Node](../activations/moon-venus-equals-node.md)
 - [Moon/Venus = Mercury](../activations/moon-venus-equals-mercury.md)
 - [Moon/Venus = Mars](../activations/moon-venus-equals-mars.md)
 - [Moon/Venus = Jupiter](../activations/moon-venus-equals-jupiter.md)
@@ -92,9 +97,14 @@ Loving women, mothers (also expectant mothers), female artists.
 - [Moon/Venus = Uranus](../activations/moon-venus-equals-uranus.md)
 - [Moon/Venus = Neptune](../activations/moon-venus-equals-neptune.md)
 - [Moon/Venus = Pluto](../activations/moon-venus-equals-pluto.md)
-- [Moon/Venus = Node](../activations/moon-venus-equals-node.md)
-- [Moon/Venus = Asc](../activations/moon-venus-equals-asc.md)
-- [Moon/Venus = MC](../activations/moon-venus-equals-mc.md)
+- [Moon/Venus = Cupido](../activations/moon-venus-equals-cupido.md)
+- [Moon/Venus = Hades](../activations/moon-venus-equals-hades.md)
+- [Moon/Venus = Zeus](../activations/moon-venus-equals-zeus.md)
+- [Moon/Venus = Kronos](../activations/moon-venus-equals-kronos.md)
+- [Moon/Venus = Apollon](../activations/moon-venus-equals-apollon.md)
+- [Moon/Venus = Admetos](../activations/moon-venus-equals-admetos.md)
+- [Moon/Venus = Vulcanus](../activations/moon-venus-equals-vulcanus.md)
+- [Moon/Venus = Poseidon](../activations/moon-venus-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Loving women, mothers (also expectant mothers), female artists.
 
 - [Moon](../factors/moon.md)
 - [Venus](../factors/venus.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

@@ -3,10 +3,10 @@ title: Mars/MC = Venus
 page_type: activation
 slug: mars-mc-equals-venus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Mars
   - MC
+  - Mars
   - Venus
 normalized_formula: Mars/MC = Venus
 axis: Mars/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0774`
-- Source page: `223`
+- Source heading: `MC + Mars`
+- Source page: `64`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Sexual desire, tendency to do everything with love. Acting or deciding anything purely from motives of love, a person giving way to sexual impulse.
+To be sexually stimulated or to stimulate others. One’s own action for peace.
 
 ## Comparative Schema
 
-- core meaning: Sexual desire, tendency to do everything with love. Acting or deciding anything purely from motives of love, a person giving way to sexual impulse.
+- core meaning: To be sexually stimulated or to stimulate others. One’s own action for peace.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Sexual desire, tendency to do everything with love. Acting or deciding anything 
 - [MC](../factors/mc.md)
 - [Venus](../factors/venus.md)
 - [Mars/MC](../axes/mars-mc.md)
-- [Venus Mars MC](../triads/venus-mars-mc.md)

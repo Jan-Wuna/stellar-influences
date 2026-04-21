@@ -3,7 +3,7 @@ title: Venus Neptune Asc
 page_type: triad_hub
 slug: venus-neptune-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Neptune
@@ -18,7 +18,7 @@ orientations:
   - Venus/Neptune = Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Neptune/Asc = Venus](../activations/neptune-asc-equals-venus.md)
-  Source page `35`, entry `1026`
+  Source page `89`
 - [Venus/Asc = Neptune](../activations/venus-asc-equals-neptune.md)
-  Source page `196`, entry `0670`
+  Source page `84`
 - [Venus/Neptune = Asc](../activations/venus-neptune-equals-asc.md)
-  Source page `189`, entry `0636`
+  Source page `180`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Neptune/Asc = Venus`: page `35`, entry `1026`
-- `Venus/Asc = Neptune`: page `196`, entry `0670`
-- `Venus/Neptune = Asc`: page `189`, entry `0636`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Neptune/Asc = Venus`: page `89`
+- `Venus/Asc = Neptune`: page `84`
+- `Venus/Neptune = Asc`: page `180`
 
 ## Contradictions Across Orientations
 

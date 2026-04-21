@@ -3,7 +3,7 @@ title: Moon/Pluto = Jupiter
 page_type: activation
 slug: moon-pluto-equals-jupiter
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Pluto
@@ -17,7 +17,7 @@ triad_set:
   - Pluto
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0415`
-- Source page: `135`
+- Source heading: `Moon + Pluto`
+- Source page: `129`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A rich and deep emotional life. Great success, lucky chances.
+Fortunate changes of no duration. Changeable fortune of persons or of a nation.
 
 ## Comparative Schema
 
-- core meaning: A rich and deep emotional life. Great success, lucky chances.
+- core meaning: Fortunate changes of no duration. Changeable fortune of persons or of a nation.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A rich and deep emotional life. Great success, lucky chances.
 - [Pluto](../factors/pluto.md)
 - [Jupiter](../factors/jupiter.md)
 - [Moon/Pluto](../axes/moon-pluto.md)
-- [Moon Jupiter Pluto](../triads/moon-jupiter-pluto.md)

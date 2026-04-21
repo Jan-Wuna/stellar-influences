@@ -3,7 +3,7 @@ title: Venus Mars Uranus
 page_type: triad_hub
 slug: venus-mars-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Mars
@@ -18,7 +18,7 @@ orientations:
   - Venus/Uranus = Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Uranus = Venus](../activations/mars-uranus-equals-venus.md)
-  Source page `208`, entry `0714`
+  Source page `194`
 - [Venus/Mars = Uranus](../activations/venus-mars-equals-uranus.md)
-  Source page `176`, entry `0584`
+  Source page `176`
 - [Venus/Uranus = Mars](../activations/venus-uranus-equals-mars.md)
-  Source page `185`, entry `0618`
+  Source page `179`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/Uranus = Venus`: page `208`, entry `0714`
-- `Venus/Mars = Uranus`: page `176`, entry `0584`
-- `Venus/Uranus = Mars`: page `185`, entry `0618`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/Uranus = Venus`: page `194`
+- `Venus/Mars = Uranus`: page `176`
+- `Venus/Uranus = Mars`: page `179`
 
 ## Contradictions Across Orientations
 

@@ -3,7 +3,7 @@ title: Sun Jupiter MC
 page_type: triad_hub
 slug: sun-jupiter-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Jupiter
@@ -18,7 +18,7 @@ orientations:
   - Sun/MC = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/MC = Sun](../activations/jupiter-mc-equals-sun.md)
-  Source page `244`, entry `0855`
+  Source page `65`
 - [Sun/Jupiter = MC](../activations/sun-jupiter-equals-mc.md)
-  Source page `91`, entry `0241`
+  Source page `106`
 - [Sun/MC = Jupiter](../activations/sun-mc-equals-jupiter.md)
-  Source page `111`, entry `0319`
+  Source page `59`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/MC = Sun`: page `244`, entry `0855`
-- `Sun/Jupiter = MC`: page `91`, entry `0241`
-- `Sun/MC = Jupiter`: page `111`, entry `0319`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/MC = Sun`: page `65`
+- `Sun/Jupiter = MC`: page `106`
+- `Sun/MC = Jupiter`: page `59`
 
 ## Contradictions Across Orientations
 

@@ -3,7 +3,7 @@ title: Moon/Node = Asc
 page_type: activation
 slug: moon-node-equals-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Node
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0432`
-- Source page: `138`
+- Source heading: `Moon + Node`
+- Source page: `121`
+#### Witte Entry
 
-#### Ebertin Entry
-
-An emotional attitude toward the women in one's environment, the inclination to maintain inner contact with others. Acquaintances with women, establishment of personal relations or contacts with others.
+Acquaintance with female persons. To have a connection with a woman.
 
 ## Comparative Schema
 
-- core meaning: An emotional attitude toward the women in one's environment, the inclination to maintain inner contact with others. Acquaintances with women, establishment of personal relations or contacts with others.
+- core meaning: Acquaintance with female persons. To have a connection with a woman.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ An emotional attitude toward the women in one's environment, the inclination to 
 - [Node](../factors/node.md)
 - [Asc](../factors/asc.md)
 - [Moon/Node](../axes/moon-node.md)
-- [Moon Node Asc](../triads/moon-node-asc.md)

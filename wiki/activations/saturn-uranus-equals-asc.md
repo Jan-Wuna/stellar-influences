@@ -3,7 +3,7 @@ title: Saturn/Uranus = Asc
 page_type: activation
 slug: saturn-uranus-equals-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Saturn
   - Uranus
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0876`
-- Source page: `248`
+- Source heading: `Saturn + Uranus`
+- Source page: `221`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Being placed in difficult circumstances, the fate of standing alone in the world. Suffering difficulties caused by others, experiencing emotional suffering with others, mourning and bereavement.
+Grave misunderstandings with others. Sudden separation from other people.
 
 ## Comparative Schema
 
-- core meaning: Being placed in difficult circumstances, the fate of standing alone in the world. Suffering difficulties caused by others, experiencing emotional suffering with others, mourning and bereavement.
+- core meaning: Grave misunderstandings with others. Sudden separation from other people.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Being placed in difficult circumstances, the fate of standing alone in the world
 - [Uranus](../factors/uranus.md)
 - [Asc](../factors/asc.md)
 - [Saturn/Uranus](../axes/saturn-uranus.md)
-- [Saturn Uranus Asc](../triads/saturn-uranus-asc.md)

@@ -3,7 +3,7 @@ title: Jupiter Neptune MC
 page_type: triad_hub
 slug: jupiter-neptune-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Neptune
@@ -18,7 +18,7 @@ orientations:
   - Neptune/MC = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/MC = Neptune](../activations/jupiter-mc-equals-neptune.md)
-  Source page `244`, entry `0862`
+  Source page `65`
 - [Jupiter/Neptune = MC](../activations/jupiter-neptune-equals-mc.md)
-  Source page `233`, entry `0817`
+  Source page `209`
 - [Neptune/MC = Jupiter](../activations/neptune-mc-equals-jupiter.md)
-  Source page `290`, entry `1040`
+  Source page `68`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/MC = Neptune`: page `244`, entry `0862`
-- `Jupiter/Neptune = MC`: page `233`, entry `0817`
-- `Neptune/MC = Jupiter`: page `290`, entry `1040`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/MC = Neptune`: page `65`
+- `Jupiter/Neptune = MC`: page `209`
+- `Neptune/MC = Jupiter`: page `68`
 
 ## Contradictions Across Orientations
 

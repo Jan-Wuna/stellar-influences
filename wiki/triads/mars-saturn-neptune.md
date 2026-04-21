@@ -3,7 +3,7 @@ title: Mars Saturn Neptune
 page_type: triad_hub
 slug: mars-saturn-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Saturn
@@ -18,7 +18,7 @@ orientations:
   - Saturn/Neptune = Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Neptune = Saturn](../activations/mars-neptune-equals-saturn.md)
-  Source page `211`, entry `0728`
+  Source page `195`
 - [Mars/Saturn = Neptune](../activations/mars-saturn-equals-neptune.md)
-  Source page `205`, entry `0705`
+  Source page `193`
 - [Saturn/Neptune = Mars](../activations/saturn-neptune-equals-mars.md)
-  Source page `250`, entry `0883`
+  Source page `222`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/Neptune = Saturn`: page `211`, entry `0728`
-- `Mars/Saturn = Neptune`: page `205`, entry `0705`
-- `Saturn/Neptune = Mars`: page `250`, entry `0883`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/Neptune = Saturn`: page `195`
+- `Mars/Saturn = Neptune`: page `193`
+- `Saturn/Neptune = Mars`: page `222`
 
 ## Contradictions Across Orientations
 

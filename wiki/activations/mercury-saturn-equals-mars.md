@@ -3,7 +3,7 @@ title: Mercury/Saturn = Mars
 page_type: activation
 slug: mercury-saturn-equals-mars
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Saturn
@@ -17,7 +17,7 @@ triad_set:
   - Saturn
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0498`
-- Source page: `155`
+- Source heading: `Mercury + Saturn`
+- Source page: `162`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Incompatibility, unrest, desire to quarrel. Tendency to treat others badly, separations caused by disputes and arguments, tendency to bring about a separation by force, a change through force of circumstances.
+To be separated through quarrel or dissension. A trip that has to be made.
 
 ## Comparative Schema
 
-- core meaning: Incompatibility, unrest, desire to quarrel. Tendency to treat others badly, separations caused by disputes and arguments, tendency to bring about a separation by force, a change through force of circumstances.
+- core meaning: To be separated through quarrel or dissension. A trip that has to be made.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Incompatibility, unrest, desire to quarrel. Tendency to treat others badly, sepa
 - [Saturn](../factors/saturn.md)
 - [Mars](../factors/mars.md)
 - [Mercury/Saturn](../axes/mercury-saturn.md)
-- [Mercury Mars Saturn](../triads/mercury-mars-saturn.md)

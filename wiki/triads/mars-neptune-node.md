@@ -3,7 +3,7 @@ title: Mars Neptune Node
 page_type: triad_hub
 slug: mars-neptune-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Neptune
@@ -18,7 +18,7 @@ orientations:
   - Neptune/Node = Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Neptune = Node](../activations/mars-neptune-equals-node.md)
-  Source page `212`, entry `0731`
+  Source page `195`
 - [Mars/Node = Neptune](../activations/mars-node-equals-neptune.md)
-  Source page `217`, entry `0754`
+  Source page `143`
 - [Neptune/Node = Mars](../activations/neptune-node-equals-mars.md)
-  Source page `35`, entry `1015`
+  Source page `147`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/Neptune = Node`: page `212`, entry `0731`
-- `Mars/Node = Neptune`: page `217`, entry `0754`
-- `Neptune/Node = Mars`: page `35`, entry `1015`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/Neptune = Node`: page `195`
+- `Mars/Node = Neptune`: page `143`
+- `Neptune/Node = Mars`: page `147`
 
 ## Contradictions Across Orientations
 

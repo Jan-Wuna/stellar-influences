@@ -3,7 +3,7 @@ title: Sun/Saturn = MC
 page_type: activation
 slug: sun-saturn-equals-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Saturn
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0253`
-- Source page: `94`
+- Source heading: `Sun + Saturn`
+- Source page: `107`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Inhibitions in the manifestation of one's own individuality, the exercise of reserve, feeling ill. Loneliness or solitude, separation.
+To be forsaken. To retire. Rheumatic pains. Moment (minute) of a separation.
 
 ## Comparative Schema
 
-- core meaning: Inhibitions in the manifestation of one's own individuality, the exercise of reserve, feeling ill. Loneliness or solitude, separation.
+- core meaning: To be forsaken. To retire. Rheumatic pains. Moment (minute) of a separation.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Inhibitions in the manifestation of one's own individuality, the exercise of res
 - [Saturn](../factors/saturn.md)
 - [MC](../factors/mc.md)
 - [Sun/Saturn](../axes/sun-saturn.md)
-- [Sun Saturn MC](../triads/sun-saturn-mc.md)

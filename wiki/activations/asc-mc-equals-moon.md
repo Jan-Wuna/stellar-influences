@@ -3,10 +3,10 @@ title: Asc/MC = Moon
 page_type: activation
 slug: asc-mc-equals-moon
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Asc
   - MC
+  - Asc
   - Moon
 normalized_formula: Asc/MC = Moon
 axis: Asc/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1108`
-- Source page: `307`
+- Source heading: `MC + Asc`
+- Source page: `58`
+#### Witte Entry
 
-#### Ebertin Entry
-
-One's personal attitude to life as governed by feeling, seeking a cordial understanding with others, a person guided primarily by instinct. Attitude to the female principle in general. Association with the female sex.
+Ones behavior toward women. Professional relations to the public or women.
 
 ## Comparative Schema
 
-- core meaning: One's personal attitude to life as governed by feeling, seeking a cordial understanding with others, a person guided primarily by instinct. Attitude to the female principle in general. Association with the female sex.
+- core meaning: Ones behavior toward women. Professional relations to the public or women.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ One's personal attitude to life as governed by feeling, seeking a cordial unders
 - [MC](../factors/mc.md)
 - [Moon](../factors/moon.md)
 - [Asc/MC](../axes/asc-mc.md)
-- [Moon Asc MC](../triads/moon-asc-mc.md)

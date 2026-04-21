@@ -3,10 +3,10 @@ title: Venus/Asc = Moon
 page_type: activation
 slug: venus-asc-equals-moon
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Venus
   - Asc
+  - Venus
   - Moon
 normalized_formula: Venus/Asc = Moon
 axis: Venus/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0664`
-- Source page: `196`
+- Source heading: `Asc + Venus`
+- Source page: `84`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Attractive and engaging nature, motherliness. The expression of fondness, a love relationship.
+Nice female acquaintances. A woman’s love for the native.
 
 ## Comparative Schema
 
-- core meaning: Attractive and engaging nature, motherliness. The expression of fondness, a love relationship.
+- core meaning: Nice female acquaintances. A woman’s love for the native.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Attractive and engaging nature, motherliness. The expression of fondness, a love
 - [Asc](../factors/asc.md)
 - [Moon](../factors/moon.md)
 - [Venus/Asc](../axes/venus-asc.md)
-- [Moon Venus Asc](../triads/moon-venus-asc.md)

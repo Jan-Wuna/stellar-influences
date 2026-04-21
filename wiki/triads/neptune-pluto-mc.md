@@ -3,7 +3,7 @@ title: Neptune Pluto MC
 page_type: triad_hub
 slug: neptune-pluto-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Neptune
   - Pluto
@@ -18,7 +18,7 @@ orientations:
   - Pluto/MC = Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Neptune/MC = Pluto](../activations/neptune-mc-equals-pluto.md)
-  Source page `291`, entry `1043`
+  Source page `68`
 - [Neptune/Pluto = MC](../activations/neptune-pluto-equals-mc.md)
-  Source page `282`, entry `1009`
+  Source page `246`
 - [Pluto/MC = Neptune](../activations/pluto-mc-equals-neptune.md)
-  Source page `298`, entry `1079`
+  Source page `69`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Neptune/MC = Pluto`: page `291`, entry `1043`
-- `Neptune/Pluto = MC`: page `282`, entry `1009`
-- `Pluto/MC = Neptune`: page `298`, entry `1079`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Neptune/MC = Pluto`: page `68`
+- `Neptune/Pluto = MC`: page `246`
+- `Pluto/MC = Neptune`: page `69`
 
 ## Contradictions Across Orientations
 

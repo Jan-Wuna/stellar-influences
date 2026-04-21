@@ -3,10 +3,10 @@ title: Sun/Asc = Pluto
 page_type: activation
 slug: sun-asc-equals-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Sun
   - Asc
+  - Sun
   - Pluto
 normalized_formula: Sun/Asc = Pluto
 axis: Sun/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0311`
-- Source page: `108`
+- Source heading: `Asc + Sun`
+- Source page: `80`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Desire to attain influence, fighting against dependency on others. A turn of destiny.
+No steady relationships. Always forming new relationships. Change of associations with others. A change of social intercourse during meal times.
 
 ## Comparative Schema
 
-- core meaning: Desire to attain influence, fighting against dependency on others. A turn of destiny.
+- core meaning: No steady relationships. Always forming new relationships. Change of associations with others. A change of social intercourse during meal times.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Desire to attain influence, fighting against dependency on others. A turn of des
 - [Asc](../factors/asc.md)
 - [Pluto](../factors/pluto.md)
 - [Sun/Asc](../axes/sun-asc.md)
-- [Sun Pluto Asc](../triads/sun-pluto-asc.md)

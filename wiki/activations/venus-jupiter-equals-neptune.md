@@ -3,7 +3,7 @@ title: Venus/Jupiter = Neptune
 page_type: activation
 slug: venus-jupiter-equals-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Jupiter
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0597`
-- Source page: `179`
+- Source heading: `Venus + Jupiter`
+- Source page: `177`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Negligence, lack of correct behavior, falsehood. Hopelessness, a disharmonious or destructive relationship.
+Love and affection with obstacles. Hopelessness of love’s happiness. Deception in the bliss of love.
 
 ## Comparative Schema
 
-- core meaning: Negligence, lack of correct behavior, falsehood. Hopelessness, a disharmonious or destructive relationship.
+- core meaning: Love and affection with obstacles. Hopelessness of love’s happiness. Deception in the bliss of love.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Negligence, lack of correct behavior, falsehood. Hopelessness, a disharmonious o
 - [Jupiter](../factors/jupiter.md)
 - [Neptune](../factors/neptune.md)
 - [Venus/Jupiter](../axes/venus-jupiter.md)
-- [Venus Jupiter Neptune](../triads/venus-jupiter-neptune.md)

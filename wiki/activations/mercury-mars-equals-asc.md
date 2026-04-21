@@ -3,7 +3,7 @@ title: Mercury/Mars = Asc
 page_type: activation
 slug: mercury-mars-equals-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Mars
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0480`
-- Source page: `150`
+- Source heading: `Mercury + Mars`
+- Source page: `160`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A person fond of discussion. Turbulent or stormy proceedings.
+To negotiate with others. Debate. The strong opinion of others.
 
 ## Comparative Schema
 
-- core meaning: A person fond of discussion. Turbulent or stormy proceedings.
+- core meaning: To negotiate with others. Debate. The strong opinion of others.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A person fond of discussion. Turbulent or stormy proceedings.
 - [Mars](../factors/mars.md)
 - [Asc](../factors/asc.md)
 - [Mercury/Mars](../axes/mercury-mars.md)
-- [Mercury Mars Asc](../triads/mercury-mars-asc.md)

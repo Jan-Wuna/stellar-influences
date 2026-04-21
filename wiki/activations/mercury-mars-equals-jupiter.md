@@ -3,7 +3,7 @@ title: Mercury/Mars = Jupiter
 page_type: activation
 slug: mercury-mars-equals-jupiter
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Mars
@@ -17,7 +17,7 @@ triad_set:
   - Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0474`
-- Source page: `149`
+- Source heading: `Mercury + Mars`
+- Source page: `160`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Constructive criticism, constructive thinking, sound judgement. The ability to make one's way successfully, a celebrated orator or speaker, a good critic.
+Successful thinking. Merry conversation. Laughing. Valuable debates. Cheerfully proceeding to action.
 
 ## Comparative Schema
 
-- core meaning: Constructive criticism, constructive thinking, sound judgement. The ability to make one's way successfully, a celebrated orator or speaker, a good critic.
+- core meaning: Successful thinking. Merry conversation. Laughing. Valuable debates. Cheerfully proceeding to action.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Constructive criticism, constructive thinking, sound judgement. The ability to m
 - [Mars](../factors/mars.md)
 - [Jupiter](../factors/jupiter.md)
 - [Mercury/Mars](../axes/mercury-mars.md)
-- [Mercury Mars Jupiter](../triads/mercury-mars-jupiter.md)

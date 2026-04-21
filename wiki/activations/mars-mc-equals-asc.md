@@ -3,10 +3,10 @@ title: Mars/MC = Asc
 page_type: activation
 slug: mars-mc-equals-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Mars
   - MC
+  - Mars
   - Asc
 normalized_formula: Mars/MC = Asc
 axis: Mars/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0781`
-- Source page: `224`
+- Source heading: `MC + Mars`
+- Source page: `64`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Self-confidence, gains the respect of other people, assumption of leadership, recognition, attainment of success.
+To be active with other people. To give orders to others.
 
 ## Comparative Schema
 
-- core meaning: Self-confidence, gains the respect of other people, assumption of leadership, recognition, attainment of success.
+- core meaning: To be active with other people. To give orders to others.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Self-confidence, gains the respect of other people, assumption of leadership, re
 - [MC](../factors/mc.md)
 - [Asc](../factors/asc.md)
 - [Mars/MC](../axes/mars-mc.md)
-- [Mars Asc MC](../triads/mars-asc-mc.md)

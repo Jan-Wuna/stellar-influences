@@ -3,10 +3,10 @@ title: Uranus/Node = MC
 page_type: activation
 slug: uranus-node-equals-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Uranus
   - Node
+  - Uranus
   - MC
 normalized_formula: Uranus/Node = MC
 axis: Uranus/Node
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0973`
-- Source page: `273`
+- Source heading: `Node + Uranus`
+- Source page: `146`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Fondness of change and variety, tendency to seek stimulating ideas from other people. Sudden recognition of a joint goal, desire to bring plans to fruition together with others.
+The desire for innovations. To be connected with new things. Emotional excitement during contacts. Moment (minute) of a sudden contact.
 
 ## Comparative Schema
 
-- core meaning: Fondness of change and variety, tendency to seek stimulating ideas from other people. Sudden recognition of a joint goal, desire to bring plans to fruition together with others.
+- core meaning: The desire for innovations. To be connected with new things. Emotional excitement during contacts. Moment (minute) of a sudden contact.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Fondness of change and variety, tendency to seek stimulating ideas from other pe
 - [Node](../factors/node.md)
 - [MC](../factors/mc.md)
 - [Uranus/Node](../axes/uranus-node.md)
-- [Uranus Node MC](../triads/uranus-node-mc.md)

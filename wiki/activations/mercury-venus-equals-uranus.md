@@ -3,7 +3,7 @@ title: Mercury/Venus = Uranus
 page_type: activation
 slug: mercury-venus-equals-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Venus
@@ -17,7 +17,7 @@ triad_set:
   - Uranus
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0464`
-- Source page: `146`
+- Source heading: `Mercury + Venus`
+- Source page: `159`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Inventive ability, the gift of getting ideas, appreciation of the necessity for reform, rhythms, periods, numbers, symbols. A mathematician, a public speaker full of ideas and quick at repartee.
+Sudden acquaintances, quick at repartee. Witty, original. Strange forms of social intercourse. Mathematical sense.
 
 ## Comparative Schema
 
-- core meaning: Inventive ability, the gift of getting ideas, appreciation of the necessity for reform, rhythms, periods, numbers, symbols. A mathematician, a public speaker full of ideas and quick at repartee.
+- core meaning: Sudden acquaintances, quick at repartee. Witty, original. Strange forms of social intercourse. Mathematical sense.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Inventive ability, the gift of getting ideas, appreciation of the necessity for 
 - [Venus](../factors/venus.md)
 - [Uranus](../factors/uranus.md)
 - [Mercury/Venus](../axes/mercury-venus.md)
-- [Mercury Venus Uranus](../triads/mercury-venus-uranus.md)

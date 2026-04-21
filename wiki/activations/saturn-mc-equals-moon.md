@@ -3,10 +3,10 @@ title: Saturn/MC = Moon
 page_type: activation
 slug: saturn-mc-equals-moon
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Saturn
   - MC
+  - Saturn
   - Moon
 normalized_formula: Saturn/MC = Moon
 axis: Saturn/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0928`
-- Source page: `263`
+- Source heading: `MC + Saturn`
+- Source page: `66`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Sadness or melancholy, impressionable, a person easily depressed, inclination to fall into states of depression or psychoses. Suffering from members of the female sex.
+To avoid or to deny public appearance. To separate from others. The frame of mind due to the separation from a woman.
 
 ## Comparative Schema
 
-- core meaning: Sadness or melancholy, impressionable, a person easily depressed, inclination to fall into states of depression or psychoses. Suffering from members of the female sex.
+- core meaning: To avoid or to deny public appearance. To separate from others. The frame of mind due to the separation from a woman.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Sadness or melancholy, impressionable, a person easily depressed, inclination to
 - [MC](../factors/mc.md)
 - [Moon](../factors/moon.md)
 - [Saturn/MC](../axes/saturn-mc.md)
-- [Moon Saturn MC](../triads/moon-saturn-mc.md)

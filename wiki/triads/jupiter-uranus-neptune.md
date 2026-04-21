@@ -3,7 +3,7 @@ title: Jupiter Uranus Neptune
 page_type: triad_hub
 slug: jupiter-uranus-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Uranus
@@ -18,7 +18,7 @@ orientations:
   - Uranus/Neptune = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Neptune = Uranus](../activations/jupiter-neptune-equals-uranus.md)
-  Source page `232`, entry `0813`
+  Source page `209`
 - [Jupiter/Uranus = Neptune](../activations/jupiter-uranus-equals-neptune.md)
-  Source page `229`, entry `0801`
+  Source page `208`
 - [Uranus/Neptune = Jupiter](../activations/uranus-neptune-equals-jupiter.md)
-  Source page `266`, entry `0944`
+  Source page `234`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/Neptune = Uranus`: page `232`, entry `0813`
-- `Jupiter/Uranus = Neptune`: page `229`, entry `0801`
-- `Uranus/Neptune = Jupiter`: page `266`, entry `0944`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/Neptune = Uranus`: page `209`
+- `Jupiter/Uranus = Neptune`: page `208`
+- `Uranus/Neptune = Jupiter`: page `234`
 
 ## Contradictions Across Orientations
 

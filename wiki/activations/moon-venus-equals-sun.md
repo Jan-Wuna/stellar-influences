@@ -3,7 +3,7 @@ title: Moon/Venus = Sun
 page_type: activation
 slug: moon-venus-equals-sun
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Venus
@@ -17,7 +17,7 @@ triad_set:
   - Venus
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0339`
-- Source page: `117`
+- Source heading: `Moon + Venus`
+- Source page: `123`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Marital love, protective care of the family, graceftil, appreciation of artistic forms. Actors or stage performers. The expression of love.
+Woman’s love for the man. The man who is favored by women. The mother. Daily repeating harmonious hours. A feminine man.
 
 ## Comparative Schema
 
-- core meaning: Marital love, protective care of the family, graceftil, appreciation of artistic forms. Actors or stage performers. The expression of love.
+- core meaning: Woman’s love for the man. The man who is favored by women. The mother. Daily repeating harmonious hours. A feminine man.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Marital love, protective care of the family, graceftil, appreciation of artistic
 - [Venus](../factors/venus.md)
 - [Sun](../factors/sun.md)
 - [Moon/Venus](../axes/moon-venus.md)
-- [Sun Moon Venus](../triads/sun-moon-venus.md)

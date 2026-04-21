@@ -3,7 +3,7 @@ title: Moon/Pluto = Mercury
 page_type: activation
 slug: moon-pluto-equals-mercury
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Pluto
@@ -17,7 +17,7 @@ triad_set:
   - Pluto
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0412`
-- Source page: `135`
+- Source heading: `Moon + Pluto`
+- Source page: `129`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Far-reaching plans, zeal in pursuit of comprehensive ideas. The gift to wield a powerful influence upon the public through speaking or writing.
+To be quick and alert mentally. Easily gained knowledge or understanding.
 
 ## Comparative Schema
 
-- core meaning: Far-reaching plans, zeal in pursuit of comprehensive ideas. The gift to wield a powerful influence upon the public through speaking or writing.
+- core meaning: To be quick and alert mentally. Easily gained knowledge or understanding.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Far-reaching plans, zeal in pursuit of comprehensive ideas. The gift to wield a 
 - [Pluto](../factors/pluto.md)
 - [Mercury](../factors/mercury.md)
 - [Moon/Pluto](../axes/moon-pluto.md)
-- [Moon Mercury Pluto](../triads/moon-mercury-pluto.md)

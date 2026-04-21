@@ -3,7 +3,7 @@ title: Sun Mars Node
 page_type: triad_hub
 slug: sun-mars-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Mars
@@ -18,7 +18,7 @@ orientations:
   - Sun/Node = Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Node = Sun](../activations/mars-node-equals-sun.md)
-  Source page `217`, entry `0747`
+  Source page `143`
 - [Sun/Mars = Node](../activations/sun-mars-equals-node.md)
-  Source page `88`, entry `0227`
+  Source page `105`
 - [Sun/Node = Mars](../activations/sun-node-equals-mars.md)
-  Source page `105`, entry `0294`
+  Source page `102`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/Node = Sun`: page `217`, entry `0747`
-- `Sun/Mars = Node`: page `88`, entry `0227`
-- `Sun/Node = Mars`: page `105`, entry `0294`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/Node = Sun`: page `143`
+- `Sun/Mars = Node`: page `105`
+- `Sun/Node = Mars`: page `102`
 
 ## Contradictions Across Orientations
 

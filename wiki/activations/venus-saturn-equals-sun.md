@@ -3,7 +3,7 @@ title: Venus/Saturn = Sun
 page_type: activation
 slug: venus-saturn-equals-sun
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Saturn
@@ -17,7 +17,7 @@ triad_set:
   - Saturn
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0603`
-- Source page: `182`
+- Source heading: `Venus + Saturn`
+- Source page: `178`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Unsatisfied desire in love, inhibitions in sex expression, an unhealthy expression of the sex urge, weak powers of procreation. A lonely life, separation in love or marriage. Organic troubles.
+Transiently united or separated. Grass widower. Widower.
 
 ## Comparative Schema
 
-- core meaning: Unsatisfied desire in love, inhibitions in sex expression, an unhealthy expression of the sex urge, weak powers of procreation. A lonely life, separation in love or marriage. Organic troubles.
+- core meaning: Transiently united or separated. Grass widower. Widower.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Unsatisfied desire in love, inhibitions in sex expression, an unhealthy expressi
 - [Saturn](../factors/saturn.md)
 - [Sun](../factors/sun.md)
 - [Venus/Saturn](../axes/venus-saturn.md)
-- [Sun Venus Saturn](../triads/sun-venus-saturn.md)

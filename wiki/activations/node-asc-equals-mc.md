@@ -3,10 +3,10 @@ title: Node/Asc = MC
 page_type: activation
 slug: node-asc-equals-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Node
   - Asc
+  - Node
   - MC
 normalized_formula: Node/Asc = MC
 axis: Node/Asc
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1093`
-- Source page: `302`
+- Source heading: `Asc + Node`
+- Source page: `82`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Desire to establish an inner contact with other persons. Striving for close cooperation with other people. The expression of communal sense.
+The attitude of the soul in relation to others and the closer surroundings. Many personal contacts with acquaintances. Close personal contact.
 
 ## Comparative Schema
 
-- core meaning: Desire to establish an inner contact with other persons. Striving for close cooperation with other people. The expression of communal sense.
+- core meaning: The attitude of the soul in relation to others and the closer surroundings. Many personal contacts with acquaintances. Close personal contact.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Desire to establish an inner contact with other persons. Striving for close coop
 - [Asc](../factors/asc.md)
 - [MC](../factors/mc.md)
 - [Node/Asc](../axes/node-asc.md)
-- [Node Asc MC](../triads/node-asc-mc.md)

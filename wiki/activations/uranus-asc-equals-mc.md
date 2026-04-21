@@ -3,10 +3,10 @@ title: Uranus/Asc = MC
 page_type: activation
 slug: uranus-asc-equals-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Uranus
   - Asc
+  - Uranus
   - MC
 normalized_formula: Uranus/Asc = MC
 axis: Uranus/Asc
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0985`
-- Source page: `276`
+- Source heading: `Asc + Uranus`
+- Source page: `88`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A restless character changing his or her objectives in life and constantly searching for new stimuli and contacts. Excitement, making changes, cooperation in the technological and industrial sphere.
+To be excited by or over other people. Psychological influence due a restless environment.
 
 ## Comparative Schema
 
-- core meaning: A restless character changing his or her objectives in life and constantly searching for new stimuli and contacts. Excitement, making changes, cooperation in the technological and industrial sphere.
+- core meaning: To be excited by or over other people. Psychological influence due a restless environment.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A restless character changing his or her objectives in life and constantly searc
 - [Asc](../factors/asc.md)
 - [MC](../factors/mc.md)
 - [Uranus/Asc](../axes/uranus-asc.md)
-- [Uranus Asc MC](../triads/uranus-asc-mc.md)

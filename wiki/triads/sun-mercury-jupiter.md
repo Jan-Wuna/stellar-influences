@@ -3,7 +3,7 @@ title: Sun Mercury Jupiter
 page_type: triad_hub
 slug: sun-mercury-jupiter
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Mercury
@@ -13,11 +13,12 @@ triad_set:
   - Mercury
   - Jupiter
 orientations:
+  - Mercury/Jupiter = Sun
   - Sun/Jupiter = Mercury
   - Sun/Mercury = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -29,16 +30,19 @@ updated_at: 2026-04-21
 
 ## Orientation Map
 
+- [Mercury/Jupiter = Sun](../activations/mercury-jupiter-equals-sun.md)
+  Source page `161`
 - [Sun/Jupiter = Mercury](../activations/sun-jupiter-equals-mercury.md)
-  Source page `90`, entry `0232`
+  Source page `106`
 - [Sun/Mercury = Jupiter](../activations/sun-mercury-equals-jupiter.md)
-  Source page `81`, entry `0198`
+  Source page `103`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Sun/Jupiter = Mercury`: page `90`, entry `0232`
-- `Sun/Mercury = Jupiter`: page `81`, entry `0198`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mercury/Jupiter = Sun`: page `161`
+- `Sun/Jupiter = Mercury`: page `106`
+- `Sun/Mercury = Jupiter`: page `103`
 
 ## Contradictions Across Orientations
 

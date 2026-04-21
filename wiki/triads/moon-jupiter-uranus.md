@@ -3,7 +3,7 @@ title: Moon Jupiter Uranus
 page_type: triad_hub
 slug: moon-jupiter-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Jupiter
@@ -18,7 +18,7 @@ orientations:
   - Moon/Uranus = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Uranus = Moon](../activations/jupiter-uranus-equals-moon.md)
-  Source page `229`, entry `0796`
+  Source page `208`
 - [Moon/Jupiter = Uranus](../activations/moon-jupiter-equals-uranus.md)
-  Source page `123`, entry `0368`
+  Source page `125`
 - [Moon/Uranus = Jupiter](../activations/moon-uranus-equals-jupiter.md)
-  Source page `129`, entry `0391`
+  Source page `127`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/Uranus = Moon`: page `229`, entry `0796`
-- `Moon/Jupiter = Uranus`: page `123`, entry `0368`
-- `Moon/Uranus = Jupiter`: page `129`, entry `0391`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/Uranus = Moon`: page `208`
+- `Moon/Jupiter = Uranus`: page `125`
+- `Moon/Uranus = Jupiter`: page `127`
 
 ## Contradictions Across Orientations
 

@@ -3,7 +3,7 @@ title: Uranus/Neptune = Pluto
 page_type: activation
 slug: uranus-neptune-equals-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Uranus
   - Neptune
@@ -17,7 +17,7 @@ triad_set:
   - Pluto
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0946`
-- Source page: `266`
+- Source heading: `Uranus + Neptune`
+- Source page: `234`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A person who is influenced or easily impressed by others. Inclination to remain at the mercy of external conditions and circumstances without trying to make a firm stand. Abandonment of resistance, necessity to give in, great losses, calamities, catastrophes. 59 In cases of Mercury = Uranus/Neptune it is wise only to speak of "unusual problems" and not to specify them.
+Development of occult matters or of occult forces.
 
 ## Comparative Schema
 
-- core meaning: A person who is influenced or easily impressed by others. Inclination to remain at the mercy of external conditions and circumstances without trying to make a firm stand. Abandonment of resistance, necessity to give in, great losses, calamities, catastrophes. 59 In cases of Mercury = Uranus/Neptune it is wise only to speak of "unusual problems" and not to specify them.
+- core meaning: Development of occult matters or of occult forces.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A person who is influenced or easily impressed by others. Inclination to remain 
 - [Neptune](../factors/neptune.md)
 - [Pluto](../factors/pluto.md)
 - [Uranus/Neptune](../axes/uranus-neptune.md)
-- [Uranus Neptune Pluto](../triads/uranus-neptune-pluto.md)

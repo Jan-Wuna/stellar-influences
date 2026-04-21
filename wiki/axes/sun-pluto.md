@@ -3,7 +3,7 @@ title: Sun/Pluto
 page_type: axis
 slug: sun-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Pluto
@@ -11,7 +11,11 @@ normalized_axis: Sun/Pluto
 factor_a: Sun
 factor_b: Pluto
 related_activations:
+  - Sun/Pluto = Aries
+  - Sun/Pluto = MC
+  - Sun/Pluto = Asc
   - Sun/Pluto = Moon
+  - Sun/Pluto = Node
   - Sun/Pluto = Mercury
   - Sun/Pluto = Venus
   - Sun/Pluto = Mars
@@ -19,25 +23,39 @@ related_activations:
   - Sun/Pluto = Saturn
   - Sun/Pluto = Uranus
   - Sun/Pluto = Neptune
-  - Sun/Pluto = Node
-  - Sun/Pluto = Asc
-  - Sun/Pluto = MC
+  - Sun/Pluto = Cupido
+  - Sun/Pluto = Hades
+  - Sun/Pluto = Zeus
+  - Sun/Pluto = Kronos
+  - Sun/Pluto = Apollon
+  - Sun/Pluto = Admetos
+  - Sun/Pluto = Vulcanus
+  - Sun/Pluto = Poseidon
 related_triad_hubs:
+  - Aries Sun Pluto
   - Sun Jupiter Pluto
   - Sun Mars Pluto
   - Sun Mercury Pluto
   - Sun Moon Pluto
   - Sun Neptune Pluto
+  - Sun Pluto Admetos
+  - Sun Pluto Apollon
   - Sun Pluto Asc
+  - Sun Pluto Cupido
+  - Sun Pluto Hades
+  - Sun Pluto Kronos
   - Sun Pluto MC
   - Sun Pluto Node
+  - Sun Pluto Poseidon
+  - Sun Pluto Vulcanus
+  - Sun Pluto Zeus
   - Sun Saturn Pluto
   - Sun Uranus Pluto
   - Sun Venus Pluto
 aliases:
   - Pluto/Sun
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,46 +63,33 @@ updated_at: 2026-04-21
 
 - Axis: `Sun/Pluto`
 - Astronomicon axis: `S/Z`
-- Source heading: `Sun/Pluto`
-- Source page: `101`
+- Source heading: `Sun + Pluto`
+- Source page: `110`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-Striving for power, craving for rulership, power of attainment.
-
-#### Psychological Correspondence
-
-+ Striving for power by means of physical strength or mental energy, creative power, consciousness of aim or objective, an appreciation of innovations, qualities of leadership. - Craving for rulership, fanatical aspirations or tendencies, over-estimation of self, arrogance. C Desire to exercise power, craving for rulership and disadvantages through the former.
-
-#### Biological Correspondence
-
-Regeneration of the cells. Swellings.
-
-#### Sociological Correspondence
-
-Pioneers, fighters, persons accustomed to rule others (martyrs of their own ideas).
-
-#### Probable Manifestations
-
-+ Sudden advancement in life, ability to establish and consolidate one's own position as a leader, realization of new ideas. - Physical suffering, martyrdom. Danger to life, separation by providence. O/f
-
+Physical transformation, development and change. To grow. The circulation of the fluids in the body. The physical assimilation of nourishment. The regeneration capacity of the body. The ability of the body to transform itself. Changes in living conditions. The function of the internal organs. (In the solar cycle: period of changes, turnarounds or developments.)
 
 ## Comparative Schema
 
-- core meaning: Striving for power, craving for rulership, power of attainment.
-- psychology: + Striving for power by means of physical strength or mental energy, creative power, consciousness of aim or objective, an appreciation of innovations, qualities of leadership. - Craving for rulership, fanatical aspirations or tendencies, over-estimation of self, arrogance. C Desire to exercise power, craving for rulership and disadvantages through the former.
-- body/health: Regeneration of the cells. Swellings.
-- social/relationship: Pioneers, fighters, persons accustomed to rule others (martyrs of their own ideas).
-- events/manifestations: + Sudden advancement in life, ability to establish and consolidate one's own position as a leader, realization of new ideas. - Physical suffering, martyrdom. Danger to life, separation by providence. O/f
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: Physical transformation, development and change. To grow. The circulation of the fluids in the body. The physical assimilation of nourishment. The regeneration capacity of the body. The ability of the body to transform itself. Changes in living conditions. The function of the internal organs. (In the solar cycle: period of changes, turnarounds or developments.)
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Sun/Pluto = Aries](../activations/sun-pluto-equals-aries.md)
+- [Sun/Pluto = MC](../activations/sun-pluto-equals-mc.md)
+- [Sun/Pluto = Asc](../activations/sun-pluto-equals-asc.md)
 - [Sun/Pluto = Moon](../activations/sun-pluto-equals-moon.md)
+- [Sun/Pluto = Node](../activations/sun-pluto-equals-node.md)
 - [Sun/Pluto = Mercury](../activations/sun-pluto-equals-mercury.md)
 - [Sun/Pluto = Venus](../activations/sun-pluto-equals-venus.md)
 - [Sun/Pluto = Mars](../activations/sun-pluto-equals-mars.md)
@@ -92,9 +97,14 @@ Pioneers, fighters, persons accustomed to rule others (martyrs of their own idea
 - [Sun/Pluto = Saturn](../activations/sun-pluto-equals-saturn.md)
 - [Sun/Pluto = Uranus](../activations/sun-pluto-equals-uranus.md)
 - [Sun/Pluto = Neptune](../activations/sun-pluto-equals-neptune.md)
-- [Sun/Pluto = Node](../activations/sun-pluto-equals-node.md)
-- [Sun/Pluto = Asc](../activations/sun-pluto-equals-asc.md)
-- [Sun/Pluto = MC](../activations/sun-pluto-equals-mc.md)
+- [Sun/Pluto = Cupido](../activations/sun-pluto-equals-cupido.md)
+- [Sun/Pluto = Hades](../activations/sun-pluto-equals-hades.md)
+- [Sun/Pluto = Zeus](../activations/sun-pluto-equals-zeus.md)
+- [Sun/Pluto = Kronos](../activations/sun-pluto-equals-kronos.md)
+- [Sun/Pluto = Apollon](../activations/sun-pluto-equals-apollon.md)
+- [Sun/Pluto = Admetos](../activations/sun-pluto-equals-admetos.md)
+- [Sun/Pluto = Vulcanus](../activations/sun-pluto-equals-vulcanus.md)
+- [Sun/Pluto = Poseidon](../activations/sun-pluto-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Pioneers, fighters, persons accustomed to rule others (martyrs of their own idea
 
 - [Sun](../factors/sun.md)
 - [Pluto](../factors/pluto.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

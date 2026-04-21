@@ -3,7 +3,7 @@ title: Mercury Pluto MC
 page_type: triad_hub
 slug: mercury-pluto-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Pluto
@@ -18,7 +18,7 @@ orientations:
   - Pluto/MC = Mercury
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mercury/MC = Pluto](../activations/mercury-mc-equals-pluto.md)
-  Source page `174`, entry `0575`
+  Source page `62`
 - [Mercury/Pluto = MC](../activations/mercury-pluto-equals-mc.md)
-  Source page `165`, entry `0541`
+  Source page `165`
 - [Pluto/MC = Mercury](../activations/pluto-mc-equals-mercury.md)
-  Source page `298`, entry `1073`
+  Source page `69`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mercury/MC = Pluto`: page `174`, entry `0575`
-- `Mercury/Pluto = MC`: page `165`, entry `0541`
-- `Pluto/MC = Mercury`: page `298`, entry `1073`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mercury/MC = Pluto`: page `62`
+- `Mercury/Pluto = MC`: page `165`
+- `Pluto/MC = Mercury`: page `69`
 
 ## Contradictions Across Orientations
 

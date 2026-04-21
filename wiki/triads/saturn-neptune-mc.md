@@ -3,7 +3,7 @@ title: Saturn Neptune MC
 page_type: triad_hub
 slug: saturn-neptune-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Saturn
   - Neptune
@@ -18,7 +18,7 @@ orientations:
   - Saturn/Neptune = MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Neptune/MC = Saturn](../activations/neptune-mc-equals-saturn.md)
-  Source page `290`, entry `1041`
+  Source page `68`
 - [Saturn/MC = Neptune](../activations/saturn-mc-equals-neptune.md)
-  Source page `264`, entry `0934`
+  Source page `66`
 - [Saturn/Neptune = MC](../activations/saturn-neptune-equals-mc.md)
-  Source page `251`, entry `0889`
+  Source page `222`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Neptune/MC = Saturn`: page `290`, entry `1041`
-- `Saturn/MC = Neptune`: page `264`, entry `0934`
-- `Saturn/Neptune = MC`: page `251`, entry `0889`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Neptune/MC = Saturn`: page `68`
+- `Saturn/MC = Neptune`: page `66`
+- `Saturn/Neptune = MC`: page `222`
 
 ## Contradictions Across Orientations
 

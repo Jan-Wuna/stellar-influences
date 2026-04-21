@@ -3,7 +3,7 @@ title: Jupiter Saturn Uranus
 page_type: triad_hub
 slug: jupiter-saturn-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Saturn
@@ -18,7 +18,7 @@ orientations:
   - Saturn/Uranus = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Saturn = Uranus](../activations/jupiter-saturn-equals-uranus.md)
-  Source page `226`, entry `0788`
+  Source page `207`
 - [Jupiter/Uranus = Saturn](../activations/jupiter-uranus-equals-saturn.md)
-  Source page `229`, entry `0800`
+  Source page `208`
 - [Saturn/Uranus = Jupiter](../activations/saturn-uranus-equals-jupiter.md)
-  Source page `247`, entry `0872`
+  Source page `221`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/Saturn = Uranus`: page `226`, entry `0788`
-- `Jupiter/Uranus = Saturn`: page `229`, entry `0800`
-- `Saturn/Uranus = Jupiter`: page `247`, entry `0872`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/Saturn = Uranus`: page `207`
+- `Jupiter/Uranus = Saturn`: page `208`
+- `Saturn/Uranus = Jupiter`: page `221`
 
 ## Contradictions Across Orientations
 

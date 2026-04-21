@@ -3,7 +3,7 @@ title: Jupiter/Neptune = MC
 page_type: activation
 slug: jupiter-neptune-equals-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Neptune
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0817`
-- Source page: `233`
+- Source heading: `Jupiter + Neptune`
+- Source page: `209`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A visionary, fortune-hunter, speculator, philanthropist, spendthrift or squanderer. Harm or damage through thoughtlessness. 49 To MC = JupiteiTNeptune one should add: idealists.
+To be unburdened. Not to bother about anything. Spendthrift, speculator.
 
 ## Comparative Schema
 
-- core meaning: A visionary, fortune-hunter, speculator, philanthropist, spendthrift or squanderer. Harm or damage through thoughtlessness. 49 To MC = JupiteiTNeptune one should add: idealists.
+- core meaning: To be unburdened. Not to bother about anything. Spendthrift, speculator.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A visionary, fortune-hunter, speculator, philanthropist, spendthrift or squander
 - [Neptune](../factors/neptune.md)
 - [MC](../factors/mc.md)
 - [Jupiter/Neptune](../axes/jupiter-neptune.md)
-- [Jupiter Neptune MC](../triads/jupiter-neptune-mc.md)

@@ -3,7 +3,7 @@ title: Sun/Jupiter = MC
 page_type: activation
 slug: sun-jupiter-equals-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Jupiter
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0241`
-- Source page: `91`
+- Source heading: `Sun + Jupiter`
+- Source page: `106`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Aspiring health, wealth and possessions. A happy, harmonious and wealthy person. Good luck in one's own enterprises.
+Successful and lucky times. One’s own personal success and general well being. One’s own feeling of happiness.
 
 ## Comparative Schema
 
-- core meaning: Aspiring health, wealth and possessions. A happy, harmonious and wealthy person. Good luck in one's own enterprises.
+- core meaning: Successful and lucky times. One’s own personal success and general well being. One’s own feeling of happiness.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Aspiring health, wealth and possessions. A happy, harmonious and wealthy person.
 - [Jupiter](../factors/jupiter.md)
 - [MC](../factors/mc.md)
 - [Sun/Jupiter](../axes/sun-jupiter.md)
-- [Sun Jupiter MC](../triads/sun-jupiter-mc.md)

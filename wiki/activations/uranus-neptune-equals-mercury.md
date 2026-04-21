@@ -3,7 +3,7 @@ title: Uranus/Neptune = Mercury
 page_type: activation
 slug: uranus-neptune-equals-mercury
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Uranus
   - Neptune
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0941`
-- Source page: `266`
+- Source heading: `Uranus + Neptune`
+- Source page: `234`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A peculiar imagination, occupation with the metaphysical sciences and with supernatural problems, investigation or exploration of the unconscious. A longing for far-distant places, plans without the possibility of realization, journeys.
+Not to take the realities sufficiently into consideration when thinking. To stray in one’s mind from facts and realities. To be occupied with the hereafter. To think of the dead. To speak of the dead. To converse with the dead.
 
 ## Comparative Schema
 
-- core meaning: A peculiar imagination, occupation with the metaphysical sciences and with supernatural problems, investigation or exploration of the unconscious. A longing for far-distant places, plans without the possibility of realization, journeys.
+- core meaning: Not to take the realities sufficiently into consideration when thinking. To stray in one’s mind from facts and realities. To be occupied with the hereafter. To think of the dead. To speak of the dead. To converse with the dead.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A peculiar imagination, occupation with the metaphysical sciences and with super
 - [Neptune](../factors/neptune.md)
 - [Mercury](../factors/mercury.md)
 - [Uranus/Neptune](../axes/uranus-neptune.md)
-- [Mercury Uranus Neptune](../triads/mercury-uranus-neptune.md)

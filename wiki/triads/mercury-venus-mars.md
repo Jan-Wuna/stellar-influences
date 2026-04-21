@@ -3,7 +3,7 @@ title: Mercury Venus Mars
 page_type: triad_hub
 slug: mercury-venus-mars
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Venus
@@ -18,7 +18,7 @@ orientations:
   - Venus/Mars = Mercury
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mercury/Mars = Venus](../activations/mercury-mars-equals-venus.md)
-  Source page `149`, entry `0473`
+  Source page `160`
 - [Mercury/Venus = Mars](../activations/mercury-venus-equals-mars.md)
-  Source page `146`, entry `0461`
+  Source page `159`
 - [Venus/Mars = Mercury](../activations/venus-mars-equals-mercury.md)
-  Source page `176`, entry `0581`
+  Source page `176`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mercury/Mars = Venus`: page `149`, entry `0473`
-- `Mercury/Venus = Mars`: page `146`, entry `0461`
-- `Venus/Mars = Mercury`: page `176`, entry `0581`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mercury/Mars = Venus`: page `160`
+- `Mercury/Venus = Mars`: page `159`
+- `Venus/Mars = Mercury`: page `176`
 
 ## Contradictions Across Orientations
 

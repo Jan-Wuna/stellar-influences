@@ -3,7 +3,7 @@ title: Venus/Jupiter = Asc
 page_type: activation
 slug: venus-jupiter-equals-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Jupiter
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0600`
-- Source page: `179`
+- Source heading: `Venus + Jupiter`
+- Source page: `177`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Cheerfulness, a warm heart, sociable, confident. Acquaintanceship and love, being happy with others.
+Pleasantness and success through others. To be admired.
 
 ## Comparative Schema
 
-- core meaning: Cheerfulness, a warm heart, sociable, confident. Acquaintanceship and love, being happy with others.
+- core meaning: Pleasantness and success through others. To be admired.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Cheerfulness, a warm heart, sociable, confident. Acquaintanceship and love, bein
 - [Jupiter](../factors/jupiter.md)
 - [Asc](../factors/asc.md)
 - [Venus/Jupiter](../axes/venus-jupiter.md)
-- [Venus Jupiter Asc](../triads/venus-jupiter-asc.md)

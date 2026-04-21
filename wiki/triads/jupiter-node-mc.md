@@ -3,7 +3,7 @@ title: Jupiter Node MC
 page_type: triad_hub
 slug: jupiter-node-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Node
@@ -18,7 +18,7 @@ orientations:
   - Node/MC = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/MC = Node](../activations/jupiter-mc-equals-node.md)
-  Source page `245`, entry `0864`
+  Source page `65`
 - [Jupiter/Node = MC](../activations/jupiter-node-equals-mc.md)
-  Source page `239`, entry `0841`
+  Source page `144`
 - [Node/MC = Jupiter](../activations/node-mc-equals-jupiter.md)
-  Source page `304`, entry `1100`
+  Source page `61`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/MC = Node`: page `245`, entry `0864`
-- `Jupiter/Node = MC`: page `239`, entry `0841`
-- `Node/MC = Jupiter`: page `304`, entry `1100`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/MC = Node`: page `65`
+- `Jupiter/Node = MC`: page `144`
+- `Node/MC = Jupiter`: page `61`
 
 ## Contradictions Across Orientations
 

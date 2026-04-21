@@ -3,10 +3,10 @@ title: Saturn/MC = Uranus
 page_type: activation
 slug: saturn-mc-equals-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Saturn
   - MC
+  - Saturn
   - Uranus
 normalized_formula: Saturn/MC = Uranus
 axis: Saturn/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0933`
-- Source page: `263`
+- Source heading: `MC + Saturn`
+- Source page: `66`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Emotional excitability, desire to attain one's objectives at all costs. Making the greatest effort. A sudden emotional or occupational crisis, an emotional shock, mourning and bereavement. 57 Martha Judmaier spoke at the Conference for Cosmobiological Research in Aalen about many cases of brain tumors. In each case it was found that the horoscope of the patient had Sun = Saturn/MC. This combination has been found in other cases as well. It is, however, important not to make such a diagnosis from this one factor alone.
+Excitement by hindrances. To experience sudden sadness. To cause a sudden quarrel or a separation.
 
 ## Comparative Schema
 
-- core meaning: Emotional excitability, desire to attain one's objectives at all costs. Making the greatest effort. A sudden emotional or occupational crisis, an emotional shock, mourning and bereavement. 57 Martha Judmaier spoke at the Conference for Cosmobiological Research in Aalen about many cases of brain tumors. In each case it was found that the horoscope of the patient had Sun = Saturn/MC. This combination has been found in other cases as well. It is, however, important not to make such a diagnosis from this one factor alone.
+- core meaning: Excitement by hindrances. To experience sudden sadness. To cause a sudden quarrel or a separation.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Emotional excitability, desire to attain one's objectives at all costs. Making t
 - [MC](../factors/mc.md)
 - [Uranus](../factors/uranus.md)
 - [Saturn/MC](../axes/saturn-mc.md)
-- [Saturn Uranus MC](../triads/saturn-uranus-mc.md)

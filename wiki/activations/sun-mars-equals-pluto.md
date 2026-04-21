@@ -3,7 +3,7 @@ title: Sun/Mars = Pluto
 page_type: activation
 slug: sun-mars-equals-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Mars
@@ -17,7 +17,7 @@ triad_set:
   - Pluto
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0226`
-- Source page: `88`
+- Source heading: `Sun + Mars`
+- Source page: `105`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Fanaticism or one-sidedness in work, the desire to achieve a lot or to make a great effort, unscrupulous procedure. Overtaxing of one's strength, violence. (War).
+The man who makes plans. To schedule the work. To carry on several different jobs at the same time.
 
 ## Comparative Schema
 
-- core meaning: Fanaticism or one-sidedness in work, the desire to achieve a lot or to make a great effort, unscrupulous procedure. Overtaxing of one's strength, violence. (War).
+- core meaning: The man who makes plans. To schedule the work. To carry on several different jobs at the same time.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Fanaticism or one-sidedness in work, the desire to achieve a lot or to make a gr
 - [Mars](../factors/mars.md)
 - [Pluto](../factors/pluto.md)
 - [Sun/Mars](../axes/sun-mars.md)
-- [Sun Mars Pluto](../triads/sun-mars-pluto.md)

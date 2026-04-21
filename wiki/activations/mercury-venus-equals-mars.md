@@ -3,7 +3,7 @@ title: Mercury/Venus = Mars
 page_type: activation
 slug: mercury-venus-equals-mars
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Venus
@@ -17,7 +17,7 @@ triad_set:
   - Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0461`
-- Source page: `146`
+- Source heading: `Mercury + Venus`
+- Source page: `159`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Aesthetic aspirations or wishes, creative energy, appreciation of practical art and of utility objects made artistically, desire for physical activity, passion. A utility artist, metal worker, physicist.
+Acquaintances which become intimate. Passionate. Acquaintances in military circles. Military greeting. Fond of physical activities. Wrought-iron worker.
 
 ## Comparative Schema
 
-- core meaning: Aesthetic aspirations or wishes, creative energy, appreciation of practical art and of utility objects made artistically, desire for physical activity, passion. A utility artist, metal worker, physicist.
+- core meaning: Acquaintances which become intimate. Passionate. Acquaintances in military circles. Military greeting. Fond of physical activities. Wrought-iron worker.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Aesthetic aspirations or wishes, creative energy, appreciation of practical art 
 - [Venus](../factors/venus.md)
 - [Mars](../factors/mars.md)
 - [Mercury/Venus](../axes/mercury-venus.md)
-- [Mercury Venus Mars](../triads/mercury-venus-mars.md)

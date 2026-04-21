@@ -3,7 +3,7 @@ title: Saturn Neptune Asc
 page_type: triad_hub
 slug: saturn-neptune-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Saturn
   - Neptune
@@ -18,7 +18,7 @@ orientations:
   - Saturn/Neptune = Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Neptune/Asc = Saturn](../activations/neptune-asc-equals-saturn.md)
-  Source page `287`, entry `1029`
+  Source page `89`
 - [Saturn/Asc = Neptune](../activations/saturn-asc-equals-neptune.md)
-  Source page `260`, entry `0922`
+  Source page `87`
 - [Saturn/Neptune = Asc](../activations/saturn-neptune-equals-asc.md)
-  Source page `251`, entry `0888`
+  Source page `222`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Neptune/Asc = Saturn`: page `287`, entry `1029`
-- `Saturn/Asc = Neptune`: page `260`, entry `0922`
-- `Saturn/Neptune = Asc`: page `251`, entry `0888`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Neptune/Asc = Saturn`: page `89`
+- `Saturn/Asc = Neptune`: page `87`
+- `Saturn/Neptune = Asc`: page `222`
 
 ## Contradictions Across Orientations
 

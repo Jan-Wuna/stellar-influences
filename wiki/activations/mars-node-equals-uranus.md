@@ -3,10 +3,10 @@ title: Mars/Node = Uranus
 page_type: activation
 slug: mars-node-equals-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Mars
   - Node
+  - Mars
   - Uranus
 normalized_formula: Mars/Node = Uranus
 axis: Mars/Node
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0753`
-- Source page: `217`
+- Source heading: `Node + Mars`
+- Source page: `143`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Active cooperation, organizing activity or occupation. Sudden unions and associations, sudden experiences shared together, an upset or an excitement in an organization or within a community.
+Aggravations and excitements through them. Suddenly appearing unions or connections.
 
 ## Comparative Schema
 
-- core meaning: Active cooperation, organizing activity or occupation. Sudden unions and associations, sudden experiences shared together, an upset or an excitement in an organization or within a community.
+- core meaning: Aggravations and excitements through them. Suddenly appearing unions or connections.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Active cooperation, organizing activity or occupation. Sudden unions and associa
 - [Node](../factors/node.md)
 - [Uranus](../factors/uranus.md)
 - [Mars/Node](../axes/mars-node.md)
-- [Mars Uranus Node](../triads/mars-uranus-node.md)

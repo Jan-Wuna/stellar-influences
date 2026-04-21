@@ -3,10 +3,10 @@ title: Uranus/MC = Node
 page_type: activation
 slug: uranus-mc-equals-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Uranus
   - MC
+  - Uranus
   - Node
 normalized_formula: Uranus/MC = Node
 axis: Uranus/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0996`
-- Source page: `279`
+- Source heading: `MC + Uranus`
+- Source page: `67`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Desire to rise in one's position at the expense of others, successful elimination of competition, tension within a community or association of people, hectic family life, upset and quarrel.
+Connections that cause mental strain. Moment of sudden bonds.
 
 ## Comparative Schema
 
-- core meaning: Desire to rise in one's position at the expense of others, successful elimination of competition, tension within a community or association of people, hectic family life, upset and quarrel.
+- core meaning: Connections that cause mental strain. Moment of sudden bonds.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Desire to rise in one's position at the expense of others, successful eliminatio
 - [MC](../factors/mc.md)
 - [Node](../factors/node.md)
 - [Uranus/MC](../axes/uranus-mc.md)
-- [Uranus Node MC](../triads/uranus-node-mc.md)

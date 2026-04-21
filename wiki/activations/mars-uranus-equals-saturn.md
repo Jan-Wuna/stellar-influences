@@ -3,7 +3,7 @@ title: Mars/Uranus = Saturn
 page_type: activation
 slug: mars-uranus-equals-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Uranus
@@ -17,7 +17,7 @@ triad_set:
   - Uranus
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0716`
-- Source page: `208`
+- Source heading: `Mars + Uranus`
+- Source page: `194`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Violence, lack of adaptability. Energy concentrated on separation, heavy injury, operation, violent destruction.
+Sudden stop or interruption of one’s work. Violent separation. Amputation. Caesarian section.
 
 ## Comparative Schema
 
-- core meaning: Violence, lack of adaptability. Energy concentrated on separation, heavy injury, operation, violent destruction.
+- core meaning: Sudden stop or interruption of one’s work. Violent separation. Amputation. Caesarian section.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Violence, lack of adaptability. Energy concentrated on separation, heavy injury,
 - [Uranus](../factors/uranus.md)
 - [Saturn](../factors/saturn.md)
 - [Mars/Uranus](../axes/mars-uranus.md)
-- [Mars Saturn Uranus](../triads/mars-saturn-uranus.md)

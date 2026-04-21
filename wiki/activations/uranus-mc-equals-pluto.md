@@ -3,10 +3,10 @@ title: Uranus/MC = Pluto
 page_type: activation
 slug: uranus-mc-equals-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Uranus
   - MC
+  - Uranus
   - Pluto
 normalized_formula: Uranus/MC = Pluto
 axis: Uranus/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0995`
-- Source page: `278`
+- Source heading: `MC + Uranus`
+- Source page: `67`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Restless and energetic pursuit of one's objectives, fanatic ambition. A nervous breakdown caused through overwork.
+Sudden development and changes. To adapt or adjust oneself to something by leaps and bounds. To be pushed back and forth by one’s impulses.
 
 ## Comparative Schema
 
-- core meaning: Restless and energetic pursuit of one's objectives, fanatic ambition. A nervous breakdown caused through overwork.
+- core meaning: Sudden development and changes. To adapt or adjust oneself to something by leaps and bounds. To be pushed back and forth by one’s impulses.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Restless and energetic pursuit of one's objectives, fanatic ambition. A nervous 
 - [MC](../factors/mc.md)
 - [Pluto](../factors/pluto.md)
 - [Uranus/MC](../axes/uranus-mc.md)
-- [Uranus Pluto MC](../triads/uranus-pluto-mc.md)

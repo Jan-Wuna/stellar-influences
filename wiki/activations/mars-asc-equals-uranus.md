@@ -3,10 +3,10 @@ title: Mars/Asc = Uranus
 page_type: activation
 slug: mars-asc-equals-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Mars
   - Asc
+  - Mars
   - Uranus
 normalized_formula: Mars/Asc = Uranus
 axis: Mars/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0765`
-- Source page: `220`
+- Source heading: `Asc + Mars`
+- Source page: `85`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Violence, love of quarreling and fighting, inclination to threaten or to intimidate others. An agitated fighter, a sudden incident, injury, accident, sudden event.
+<i> Sudden or surprising actions of other people and excitement through them. To be injured suddenly.
 
 ## Comparative Schema
 
-- core meaning: Violence, love of quarreling and fighting, inclination to threaten or to intimidate others. An agitated fighter, a sudden incident, injury, accident, sudden event.
+- core meaning: <i> Sudden or surprising actions of other people and excitement through them. To be injured suddenly.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Violence, love of quarreling and fighting, inclination to threaten or to intimid
 - [Asc](../factors/asc.md)
 - [Uranus](../factors/uranus.md)
 - [Mars/Asc](../axes/mars-asc.md)
-- [Mars Uranus Asc](../triads/mars-uranus-asc.md)

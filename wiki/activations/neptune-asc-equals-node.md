@@ -3,10 +3,10 @@ title: Neptune/Asc = Node
 page_type: activation
 slug: neptune-asc-equals-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Neptune
   - Asc
+  - Neptune
   - Node
 normalized_formula: Neptune/Asc = Node
 axis: Neptune/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1032`
-- Source page: `288`
+- Source heading: `Asc + Neptune`
+- Source page: `89`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Suffering from falsehood, fraud or malice through one's association with disharmonious people. An accessory to malicious actions.
+To be embroiled in fraudulent activities. Uncertain, unstable behavior of the counterpart in a connection.
 
 ## Comparative Schema
 
-- core meaning: Suffering from falsehood, fraud or malice through one's association with disharmonious people. An accessory to malicious actions.
+- core meaning: To be embroiled in fraudulent activities. Uncertain, unstable behavior of the counterpart in a connection.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Suffering from falsehood, fraud or malice through one's association with disharm
 - [Asc](../factors/asc.md)
 - [Node](../factors/node.md)
 - [Neptune/Asc](../axes/neptune-asc.md)
-- [Neptune Node Asc](../triads/neptune-node-asc.md)

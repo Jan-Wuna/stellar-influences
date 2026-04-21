@@ -3,7 +3,7 @@ title: Neptune/Node
 page_type: axis
 slug: neptune-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Neptune
   - Node
@@ -11,6 +11,9 @@ normalized_axis: Neptune/Node
 factor_a: Neptune
 factor_b: Node
 related_activations:
+  - Neptune/Node = Aries
+  - Neptune/Node = MC
+  - Neptune/Node = Asc
   - Neptune/Node = Sun
   - Neptune/Node = Moon
   - Neptune/Node = Mercury
@@ -20,15 +23,30 @@ related_activations:
   - Neptune/Node = Saturn
   - Neptune/Node = Uranus
   - Neptune/Node = Pluto
-  - Neptune/Node = Asc
-  - Neptune/Node = MC
+  - Neptune/Node = Cupido
+  - Neptune/Node = Hades
+  - Neptune/Node = Zeus
+  - Neptune/Node = Kronos
+  - Neptune/Node = Apollon
+  - Neptune/Node = Admetos
+  - Neptune/Node = Vulcanus
+  - Neptune/Node = Poseidon
 related_triad_hubs:
+  - Aries Neptune Node
   - Jupiter Neptune Node
   - Mars Neptune Node
   - Mercury Neptune Node
   - Moon Neptune Node
+  - Neptune Node Admetos
+  - Neptune Node Apollon
   - Neptune Node Asc
+  - Neptune Node Cupido
+  - Neptune Node Hades
+  - Neptune Node Kronos
   - Neptune Node MC
+  - Neptune Node Poseidon
+  - Neptune Node Vulcanus
+  - Neptune Node Zeus
   - Neptune Pluto Node
   - Saturn Neptune Node
   - Sun Neptune Node
@@ -37,7 +55,7 @@ related_triad_hubs:
 aliases:
   - Node/Neptune
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,45 +63,31 @@ updated_at: 2026-04-21
 
 - Axis: `Neptune/Node`
 - Astronomicon axis: `Y/g`
-- Source heading: `Neptune/Dragon's Head`
-- Source page: `283`
+- Source heading: `Node + Neptune`
+- Source page: `147`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-Lack of community sense or team spirit.
-
-#### Psychological Correspondence
-
-■+■ Peculiar or strange conduct in communal life, occasional unreliability. - Lack of social or communal sense and feeling, inclination to exploit, deceive and cheat other people. C Antisocial behavior.
-
-#### Biological Correspondence
-
-Lack of tone or elasticity. Disturbed sleep, sleeplessness.
-
-#### Sociological Correspondence
-
-Antisocial elements.
-
-#### Probable Manifestations
-
-+ Inclination to expect more than is possible from a community or an association of people. - Lack of judgement leading to wrong ideas about other people or an association. The misfortune of being disappointed or the tendency to deceive other people.
-
+Dissolution of unions. Secret relationships or contacts. Future connections. Sensitive or uncertain connection. Unreliable relationships. Connection to metaphysics. Connections to the unknown. Avoiding certain contacts.
 
 ## Comparative Schema
 
-- core meaning: Lack of community sense or team spirit.
-- psychology: ■+■ Peculiar or strange conduct in communal life, occasional unreliability. - Lack of social or communal sense and feeling, inclination to exploit, deceive and cheat other people. C Antisocial behavior.
-- body/health: Lack of tone or elasticity. Disturbed sleep, sleeplessness.
-- social/relationship: Antisocial elements.
-- events/manifestations: + Inclination to expect more than is possible from a community or an association of people. - Lack of judgement leading to wrong ideas about other people or an association. The misfortune of being disappointed or the tendency to deceive other people.
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: Dissolution of unions. Secret relationships or contacts. Future connections. Sensitive or uncertain connection. Unreliable relationships. Connection to metaphysics. Connections to the unknown. Avoiding certain contacts.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Neptune/Node = Aries](../activations/neptune-node-equals-aries.md)
+- [Neptune/Node = MC](../activations/neptune-node-equals-mc.md)
+- [Neptune/Node = Asc](../activations/neptune-node-equals-asc.md)
 - [Neptune/Node = Sun](../activations/neptune-node-equals-sun.md)
 - [Neptune/Node = Moon](../activations/neptune-node-equals-moon.md)
 - [Neptune/Node = Mercury](../activations/neptune-node-equals-mercury.md)
@@ -93,8 +97,14 @@ Antisocial elements.
 - [Neptune/Node = Saturn](../activations/neptune-node-equals-saturn.md)
 - [Neptune/Node = Uranus](../activations/neptune-node-equals-uranus.md)
 - [Neptune/Node = Pluto](../activations/neptune-node-equals-pluto.md)
-- [Neptune/Node = Asc](../activations/neptune-node-equals-asc.md)
-- [Neptune/Node = MC](../activations/neptune-node-equals-mc.md)
+- [Neptune/Node = Cupido](../activations/neptune-node-equals-cupido.md)
+- [Neptune/Node = Hades](../activations/neptune-node-equals-hades.md)
+- [Neptune/Node = Zeus](../activations/neptune-node-equals-zeus.md)
+- [Neptune/Node = Kronos](../activations/neptune-node-equals-kronos.md)
+- [Neptune/Node = Apollon](../activations/neptune-node-equals-apollon.md)
+- [Neptune/Node = Admetos](../activations/neptune-node-equals-admetos.md)
+- [Neptune/Node = Vulcanus](../activations/neptune-node-equals-vulcanus.md)
+- [Neptune/Node = Poseidon](../activations/neptune-node-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Antisocial elements.
 
 - [Neptune](../factors/neptune.md)
 - [Node](../factors/node.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

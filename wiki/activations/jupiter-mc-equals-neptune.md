@@ -3,10 +3,10 @@ title: Jupiter/MC = Neptune
 page_type: activation
 slug: jupiter-mc-equals-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Jupiter
   - MC
+  - Jupiter
   - Neptune
 normalized_formula: Jupiter/MC = Neptune
 axis: Jupiter/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0862`
-- Source page: `244`
+- Source heading: `MC + Jupiter`
+- Source page: `65`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Dreaming of good fortune and success without the right sense or appreciation of reality, desire to gain success without effort. Luck established upon a weak basis, temporary and passing good fortune, disappointments, losses, being angry.
+The loss of happiness. Expected luck ends in a disappointment. A premonition of loss.
 
 ## Comparative Schema
 
-- core meaning: Dreaming of good fortune and success without the right sense or appreciation of reality, desire to gain success without effort. Luck established upon a weak basis, temporary and passing good fortune, disappointments, losses, being angry.
+- core meaning: The loss of happiness. Expected luck ends in a disappointment. A premonition of loss.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Dreaming of good fortune and success without the right sense or appreciation of 
 - [MC](../factors/mc.md)
 - [Neptune](../factors/neptune.md)
 - [Jupiter/MC](../axes/jupiter-mc.md)
-- [Jupiter Neptune MC](../triads/jupiter-neptune-mc.md)

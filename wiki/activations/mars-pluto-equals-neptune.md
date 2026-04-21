@@ -3,7 +3,7 @@ title: Mars/Pluto = Neptune
 page_type: activation
 slug: mars-pluto-equals-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Pluto
@@ -17,7 +17,7 @@ triad_set:
   - Pluto
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0742`
-- Source page: `214`
+- Source heading: `Mars + Pluto`
+- Source page: `196`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Irreconcilable or implacable, cunning and deceitful, tendency to cause harm to others secretly and unobtrusively, (a disaster or catastrophe caused by water).
+Secret plans. Plans which are not carried out. Plans aiming at destruction.
 
 ## Comparative Schema
 
-- core meaning: Irreconcilable or implacable, cunning and deceitful, tendency to cause harm to others secretly and unobtrusively, (a disaster or catastrophe caused by water).
+- core meaning: Secret plans. Plans which are not carried out. Plans aiming at destruction.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Irreconcilable or implacable, cunning and deceitful, tendency to cause harm to o
 - [Pluto](../factors/pluto.md)
 - [Neptune](../factors/neptune.md)
 - [Mars/Pluto](../axes/mars-pluto.md)
-- [Mars Neptune Pluto](../triads/mars-neptune-pluto.md)

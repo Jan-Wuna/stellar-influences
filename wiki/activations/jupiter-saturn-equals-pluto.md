@@ -3,7 +3,7 @@ title: Jupiter/Saturn = Pluto
 page_type: activation
 slug: jupiter-saturn-equals-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Saturn
@@ -17,7 +17,7 @@ triad_set:
   - Pluto
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0790`
-- Source page: `226`
+- Source heading: `Jupiter + Saturn`
+- Source page: `207`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A person unafraid of any necessary trouble or work to attain the de- 47 In certain cases Pluto = Jupiter/Saturn leads to an enforced change through imprisonment, in which case the political situation has to be considered. sired aims slowly but surely, immense effort. Violent changes, separation, restriction.
+Matters which are rapidly completed.
 
 ## Comparative Schema
 
-- core meaning: A person unafraid of any necessary trouble or work to attain the de- 47 In certain cases Pluto = Jupiter/Saturn leads to an enforced change through imprisonment, in which case the political situation has to be considered. sired aims slowly but surely, immense effort. Violent changes, separation, restriction.
+- core meaning: Matters which are rapidly completed.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A person unafraid of any necessary trouble or work to attain the de- 47 In certa
 - [Saturn](../factors/saturn.md)
 - [Pluto](../factors/pluto.md)
 - [Jupiter/Saturn](../axes/jupiter-saturn.md)
-- [Jupiter Saturn Pluto](../triads/jupiter-saturn-pluto.md)

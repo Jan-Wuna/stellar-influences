@@ -3,7 +3,7 @@ title: Saturn/Neptune = Mercury
 page_type: activation
 slug: saturn-neptune-equals-mercury
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Saturn
   - Neptune
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0881`
-- Source page: `250`
+- Source heading: `Saturn + Neptune`
+- Source page: `222`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Inhibitions in thinking, slow or difficult grasp of things, inclination to always think the worst. A nervous disease.
+Treacherous thoughts. Mental diseases.
 
 ## Comparative Schema
 
-- core meaning: Inhibitions in thinking, slow or difficult grasp of things, inclination to always think the worst. A nervous disease.
+- core meaning: Treacherous thoughts. Mental diseases.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Inhibitions in thinking, slow or difficult grasp of things, inclination to alway
 - [Neptune](../factors/neptune.md)
 - [Mercury](../factors/mercury.md)
 - [Saturn/Neptune](../axes/saturn-neptune.md)
-- [Mercury Saturn Neptune](../triads/mercury-saturn-neptune.md)

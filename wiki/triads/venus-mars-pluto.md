@@ -3,7 +3,7 @@ title: Venus Mars Pluto
 page_type: triad_hub
 slug: venus-mars-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Mars
@@ -18,7 +18,7 @@ orientations:
   - Venus/Pluto = Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Pluto = Venus](../activations/mars-pluto-equals-venus.md)
-  Source page `214`, entry `0738`
+  Source page `196`
 - [Venus/Mars = Pluto](../activations/venus-mars-equals-pluto.md)
-  Source page `176`, entry `0586`
+  Source page `176`
 - [Venus/Pluto = Mars](../activations/venus-pluto-equals-mars.md)
-  Source page `191`, entry `0642`
+  Source page `181`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/Pluto = Venus`: page `214`, entry `0738`
-- `Venus/Mars = Pluto`: page `176`, entry `0586`
-- `Venus/Pluto = Mars`: page `191`, entry `0642`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/Pluto = Venus`: page `196`
+- `Venus/Mars = Pluto`: page `176`
+- `Venus/Pluto = Mars`: page `181`
 
 ## Contradictions Across Orientations
 

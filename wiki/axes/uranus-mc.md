@@ -3,7 +3,7 @@ title: Uranus/MC
 page_type: axis
 slug: uranus-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Uranus
   - MC
@@ -11,8 +11,11 @@ normalized_axis: Uranus/MC
 factor_a: Uranus
 factor_b: MC
 related_activations:
+  - Uranus/MC = Aries
+  - Uranus/MC = Asc
   - Uranus/MC = Sun
   - Uranus/MC = Moon
+  - Uranus/MC = Node
   - Uranus/MC = Mercury
   - Uranus/MC = Venus
   - Uranus/MC = Mars
@@ -20,9 +23,16 @@ related_activations:
   - Uranus/MC = Saturn
   - Uranus/MC = Neptune
   - Uranus/MC = Pluto
-  - Uranus/MC = Node
-  - Uranus/MC = Asc
+  - Uranus/MC = Cupido
+  - Uranus/MC = Hades
+  - Uranus/MC = Zeus
+  - Uranus/MC = Kronos
+  - Uranus/MC = Apollon
+  - Uranus/MC = Admetos
+  - Uranus/MC = Vulcanus
+  - Uranus/MC = Poseidon
 related_triad_hubs:
+  - Aries Uranus MC
   - Jupiter Uranus MC
   - Mars Uranus MC
   - Mercury Uranus MC
@@ -30,6 +40,14 @@ related_triad_hubs:
   - Saturn Uranus MC
   - Sun Uranus MC
   - Uranus Asc MC
+  - Uranus MC Admetos
+  - Uranus MC Apollon
+  - Uranus MC Cupido
+  - Uranus MC Hades
+  - Uranus MC Kronos
+  - Uranus MC Poseidon
+  - Uranus MC Vulcanus
+  - Uranus MC Zeus
   - Uranus Neptune MC
   - Uranus Node MC
   - Uranus Pluto MC
@@ -37,7 +55,7 @@ related_triad_hubs:
 aliases:
   - MC/Uranus
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,47 +63,33 @@ updated_at: 2026-04-21
 
 - Axis: `Uranus/MC`
 - Astronomicon axis: `X/MC`
-- Source heading: `Uranus/Medium Coeli`
-- Source page: `277`
+- Source heading: `MC + Uranus`
+- Source page: `67`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-Power of assertion.
-
-#### Psychological Correspondence
-
-+ Pursuit of one's objectives with the greatest energy, emotional tension or stress, power to successfully make one's way in life, state of readiness for action, prudence and vision, originality, organizing ability. - Changing objectives or aims in life, emotional excitability, precipitate or premature action, unreliability, irate temper. C Tendency to go one's own way in life, extraordinary or unusual objectives or aims in life, ability to attain success through the display of unusual energy, emotional tension.
-
-#### Biological Correspondence
-
-Eurhythmies. Controlled breathing activity. (Yogi formula.)
-
-#### Sociological Correspondence
-
-Original personalities.
-
-#### Probable Manifestations
-
-+ Ability to advance in one's career or occupation in life, the good fortune to bring about fortunate changes, change of occupation, sudden rearrangement of one's circumstances. - Disadvantage through hasty or premature action, sudden turn of destiny, big upsets. Uranus/Medium Coeli WM
-
+To have a mind to do something. Personal tension. To be excited. Vibrations. One inclined to sudden decisions. An explosive manner. To show ambitions. Impatient. The moment (minute) of tenseness.
 
 ## Comparative Schema
 
-- core meaning: Power of assertion.
-- psychology: + Pursuit of one's objectives with the greatest energy, emotional tension or stress, power to successfully make one's way in life, state of readiness for action, prudence and vision, originality, organizing ability. - Changing objectives or aims in life, emotional excitability, precipitate or premature action, unreliability, irate temper. C Tendency to go one's own way in life, extraordinary or unusual objectives or aims in life, ability to attain success through the display of unusual energy, emotional tension.
-- body/health: Eurhythmies. Controlled breathing activity. (Yogi formula.)
-- social/relationship: Original personalities.
-- events/manifestations: + Ability to advance in one's career or occupation in life, the good fortune to bring about fortunate changes, change of occupation, sudden rearrangement of one's circumstances. - Disadvantage through hasty or premature action, sudden turn of destiny, big upsets. Uranus/Medium Coeli WM
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: To have a mind to do something. Personal tension. To be excited. Vibrations. One inclined to sudden decisions. An explosive manner. To show ambitions. Impatient. The moment (minute) of tenseness.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Uranus/MC = Aries](../activations/uranus-mc-equals-aries.md)
+- [Uranus/MC = Asc](../activations/uranus-mc-equals-asc.md)
 - [Uranus/MC = Sun](../activations/uranus-mc-equals-sun.md)
 - [Uranus/MC = Moon](../activations/uranus-mc-equals-moon.md)
+- [Uranus/MC = Node](../activations/uranus-mc-equals-node.md)
 - [Uranus/MC = Mercury](../activations/uranus-mc-equals-mercury.md)
 - [Uranus/MC = Venus](../activations/uranus-mc-equals-venus.md)
 - [Uranus/MC = Mars](../activations/uranus-mc-equals-mars.md)
@@ -93,8 +97,14 @@ Original personalities.
 - [Uranus/MC = Saturn](../activations/uranus-mc-equals-saturn.md)
 - [Uranus/MC = Neptune](../activations/uranus-mc-equals-neptune.md)
 - [Uranus/MC = Pluto](../activations/uranus-mc-equals-pluto.md)
-- [Uranus/MC = Node](../activations/uranus-mc-equals-node.md)
-- [Uranus/MC = Asc](../activations/uranus-mc-equals-asc.md)
+- [Uranus/MC = Cupido](../activations/uranus-mc-equals-cupido.md)
+- [Uranus/MC = Hades](../activations/uranus-mc-equals-hades.md)
+- [Uranus/MC = Zeus](../activations/uranus-mc-equals-zeus.md)
+- [Uranus/MC = Kronos](../activations/uranus-mc-equals-kronos.md)
+- [Uranus/MC = Apollon](../activations/uranus-mc-equals-apollon.md)
+- [Uranus/MC = Admetos](../activations/uranus-mc-equals-admetos.md)
+- [Uranus/MC = Vulcanus](../activations/uranus-mc-equals-vulcanus.md)
+- [Uranus/MC = Poseidon](../activations/uranus-mc-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Original personalities.
 
 - [Uranus](../factors/uranus.md)
 - [MC](../factors/mc.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

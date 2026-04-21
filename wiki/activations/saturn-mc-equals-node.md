@@ -3,10 +3,10 @@ title: Saturn/MC = Node
 page_type: activation
 slug: saturn-mc-equals-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Saturn
   - MC
+  - Saturn
   - Node
 normalized_formula: Saturn/MC = Node
 axis: Saturn/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0936`
-- Source page: `264`
+- Source heading: `MC + Saturn`
+- Source page: `66`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Sympathy and compassion. A link with others through bad circumstances or mourning. People in mourning.
+Burdening relationships. To suffer. To be united by suffering. To say good-bye. Disconnecting contacts or relationships.
 
 ## Comparative Schema
 
-- core meaning: Sympathy and compassion. A link with others through bad circumstances or mourning. People in mourning.
+- core meaning: Burdening relationships. To suffer. To be united by suffering. To say good-bye. Disconnecting contacts or relationships.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Sympathy and compassion. A link with others through bad circumstances or mournin
 - [MC](../factors/mc.md)
 - [Node](../factors/node.md)
 - [Saturn/MC](../axes/saturn-mc.md)
-- [Saturn Node MC](../triads/saturn-node-mc.md)

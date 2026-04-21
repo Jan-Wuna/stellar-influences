@@ -3,7 +3,7 @@ title: Sun/Mars
 page_type: axis
 slug: sun-mars
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Mars
@@ -11,7 +11,11 @@ normalized_axis: Sun/Mars
 factor_a: Sun
 factor_b: Mars
 related_activations:
+  - Sun/Mars = Aries
+  - Sun/Mars = MC
+  - Sun/Mars = Asc
   - Sun/Mars = Moon
+  - Sun/Mars = Node
   - Sun/Mars = Mercury
   - Sun/Mars = Venus
   - Sun/Mars = Jupiter
@@ -19,25 +23,39 @@ related_activations:
   - Sun/Mars = Uranus
   - Sun/Mars = Neptune
   - Sun/Mars = Pluto
-  - Sun/Mars = Node
-  - Sun/Mars = Asc
-  - Sun/Mars = MC
+  - Sun/Mars = Cupido
+  - Sun/Mars = Hades
+  - Sun/Mars = Zeus
+  - Sun/Mars = Kronos
+  - Sun/Mars = Apollon
+  - Sun/Mars = Admetos
+  - Sun/Mars = Vulcanus
+  - Sun/Mars = Poseidon
 related_triad_hubs:
+  - Aries Sun Mars
+  - Sun Mars Admetos
+  - Sun Mars Apollon
   - Sun Mars Asc
+  - Sun Mars Cupido
+  - Sun Mars Hades
   - Sun Mars Jupiter
+  - Sun Mars Kronos
   - Sun Mars MC
   - Sun Mars Neptune
   - Sun Mars Node
   - Sun Mars Pluto
+  - Sun Mars Poseidon
   - Sun Mars Saturn
   - Sun Mars Uranus
+  - Sun Mars Vulcanus
+  - Sun Mars Zeus
   - Sun Mercury Mars
   - Sun Moon Mars
   - Sun Venus Mars
 aliases:
   - Mars/Sun
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,46 +63,33 @@ updated_at: 2026-04-21
 
 - Axis: `Sun/Mars`
 - Astronomicon axis: `S/U`
-- Source heading: `Sun/Mars`
-- Source page: `86`
+- Source heading: `Sun + Mars`
+- Source page: `105`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-The will to live, vitality and vigor, activity.
-
-#### Psychological Correspondence
-
-+ Energy, virility, determination, power of attainment, courage to fight, endeavor, ambition, desire to exercise power, desire to lead. - Hastiness, obstinacy, stubbornness, restlessness, inclination to quarrel, violence. C Power of attainment, desire to be in the limelight, ability to make decisions quickly. A hot-blooded nature. Biologica/ Correspondence Muscular tissue, cell activity, sperms. Cell inflammation.
-
-#### Biological Correspondence
-
-- None extracted.
-
-#### Sociological Correspondence
-
-Fighter, soldier, surgeon, sculptor. lntellectual fighter. Probable Manifestation + Advancement in life through one's own effort, acceptance ofleading positions, overcoming of difficulties and dangers, vocational success, extraordinary achievements. - Failures caused by too heavy demands made upon oneself and upon others, overstrain, a strained relationship with other persons. Upsets (cardiac troubles). O/cT
-
-#### Probable Manifestations
-
-- None extracted.
-
+The man. The husband. The active man. The soldier. The action of the living body. Work with physical strength. The working day. Men at work. Daily action. Handyman. Energy level of the body. (In the solar cycle: period concerning to work.)
 
 ## Comparative Schema
 
-- core meaning: The will to live, vitality and vigor, activity.
-- psychology: + Energy, virility, determination, power of attainment, courage to fight, endeavor, ambition, desire to exercise power, desire to lead. - Hastiness, obstinacy, stubbornness, restlessness, inclination to quarrel, violence. C Power of attainment, desire to be in the limelight, ability to make decisions quickly. A hot-blooded nature. Biologica/ Correspondence Muscular tissue, cell activity, sperms. Cell inflammation.
-- body/health: None extracted.
-- social/relationship: Fighter, soldier, surgeon, sculptor. lntellectual fighter. Probable Manifestation + Advancement in life through one's own effort, acceptance ofleading positions, overcoming of difficulties and dangers, vocational success, extraordinary achievements. - Failures caused by too heavy demands made upon oneself and upon others, overstrain, a strained relationship with other persons. Upsets (cardiac troubles). O/cT
-- events/manifestations: None extracted.
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: The man. The husband. The active man. The soldier. The action of the living body. Work with physical strength. The working day. Men at work. Daily action. Handyman. Energy level of the body. (In the solar cycle: period concerning to work.)
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Sun/Mars = Aries](../activations/sun-mars-equals-aries.md)
+- [Sun/Mars = MC](../activations/sun-mars-equals-mc.md)
+- [Sun/Mars = Asc](../activations/sun-mars-equals-asc.md)
 - [Sun/Mars = Moon](../activations/sun-mars-equals-moon.md)
+- [Sun/Mars = Node](../activations/sun-mars-equals-node.md)
 - [Sun/Mars = Mercury](../activations/sun-mars-equals-mercury.md)
 - [Sun/Mars = Venus](../activations/sun-mars-equals-venus.md)
 - [Sun/Mars = Jupiter](../activations/sun-mars-equals-jupiter.md)
@@ -92,9 +97,14 @@ Fighter, soldier, surgeon, sculptor. lntellectual fighter. Probable Manifestatio
 - [Sun/Mars = Uranus](../activations/sun-mars-equals-uranus.md)
 - [Sun/Mars = Neptune](../activations/sun-mars-equals-neptune.md)
 - [Sun/Mars = Pluto](../activations/sun-mars-equals-pluto.md)
-- [Sun/Mars = Node](../activations/sun-mars-equals-node.md)
-- [Sun/Mars = Asc](../activations/sun-mars-equals-asc.md)
-- [Sun/Mars = MC](../activations/sun-mars-equals-mc.md)
+- [Sun/Mars = Cupido](../activations/sun-mars-equals-cupido.md)
+- [Sun/Mars = Hades](../activations/sun-mars-equals-hades.md)
+- [Sun/Mars = Zeus](../activations/sun-mars-equals-zeus.md)
+- [Sun/Mars = Kronos](../activations/sun-mars-equals-kronos.md)
+- [Sun/Mars = Apollon](../activations/sun-mars-equals-apollon.md)
+- [Sun/Mars = Admetos](../activations/sun-mars-equals-admetos.md)
+- [Sun/Mars = Vulcanus](../activations/sun-mars-equals-vulcanus.md)
+- [Sun/Mars = Poseidon](../activations/sun-mars-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Fighter, soldier, surgeon, sculptor. lntellectual fighter. Probable Manifestatio
 
 - [Sun](../factors/sun.md)
 - [Mars](../factors/mars.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

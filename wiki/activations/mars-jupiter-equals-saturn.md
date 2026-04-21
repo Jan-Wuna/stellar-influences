@@ -3,7 +3,7 @@ title: Mars/Jupiter = Saturn
 page_type: activation
 slug: mars-jupiter-equals-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Jupiter
@@ -17,7 +17,7 @@ triad_set:
   - Saturn
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0691`
-- Source page: `202`
+- Source heading: `Mars + Jupiter`
+- Source page: `192`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Inhibitions and difficulties in decision-making, great difficulty in making up one's mind, tendency to let good opportunities slip away. Termination of a relationship, a difficult birth.
+The ripe fruit. Confinement or end of pregnancy. The birth. Annulment of an engagement. Separated liaisons. To finish a successful activity. Unpleasant decision with good results.
 
 ## Comparative Schema
 
-- core meaning: Inhibitions and difficulties in decision-making, great difficulty in making up one's mind, tendency to let good opportunities slip away. Termination of a relationship, a difficult birth.
+- core meaning: The ripe fruit. Confinement or end of pregnancy. The birth. Annulment of an engagement. Separated liaisons. To finish a successful activity. Unpleasant decision with good results.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Inhibitions and difficulties in decision-making, great difficulty in making up o
 - [Jupiter](../factors/jupiter.md)
 - [Saturn](../factors/saturn.md)
 - [Mars/Jupiter](../axes/mars-jupiter.md)
-- [Mars Jupiter Saturn](../triads/mars-jupiter-saturn.md)

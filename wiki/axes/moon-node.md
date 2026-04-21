@@ -3,7 +3,7 @@ title: Moon/Node
 page_type: axis
 slug: moon-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Node
@@ -11,6 +11,9 @@ normalized_axis: Moon/Node
 factor_a: Moon
 factor_b: Node
 related_activations:
+  - Moon/Node = Aries
+  - Moon/Node = MC
+  - Moon/Node = Asc
   - Moon/Node = Sun
   - Moon/Node = Mercury
   - Moon/Node = Venus
@@ -20,15 +23,30 @@ related_activations:
   - Moon/Node = Uranus
   - Moon/Node = Neptune
   - Moon/Node = Pluto
-  - Moon/Node = Asc
-  - Moon/Node = MC
+  - Moon/Node = Cupido
+  - Moon/Node = Hades
+  - Moon/Node = Zeus
+  - Moon/Node = Kronos
+  - Moon/Node = Apollon
+  - Moon/Node = Admetos
+  - Moon/Node = Vulcanus
+  - Moon/Node = Poseidon
 related_triad_hubs:
+  - Aries Moon Node
   - Moon Jupiter Node
   - Moon Mars Node
   - Moon Mercury Node
   - Moon Neptune Node
+  - Moon Node Admetos
+  - Moon Node Apollon
   - Moon Node Asc
+  - Moon Node Cupido
+  - Moon Node Hades
+  - Moon Node Kronos
   - Moon Node MC
+  - Moon Node Poseidon
+  - Moon Node Vulcanus
+  - Moon Node Zeus
   - Moon Pluto Node
   - Moon Saturn Node
   - Moon Uranus Node
@@ -37,7 +55,7 @@ related_triad_hubs:
 aliases:
   - Node/Moon
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,45 +63,31 @@ updated_at: 2026-04-21
 
 - Axis: `Moon/Node`
 - Astronomicon axis: `R/g`
-- Source heading: `Moon/Dragon's Head`
-- Source page: `136`
+- Source heading: `Moon + Node`
+- Source page: `121`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-A spiritual link or union with others.
-
-#### Psychological Correspondence
-
-+ The supremacy of feeling in a relationship of living together, an inner or emotional attitude toward other persons. - Lack of adaptability, sensitivity, inclination toward estrangements. C An emotional attitude toward associations.
-
-#### Biological Correspondence
-
-The lymphatic glands, the spleen, the tonsils. The system of self-defense against infection in the human body.
-
-#### Sociological Correspondence
-
-Associations or alliances between women, blood union, any community or association of people in small or large groups.
-
-#### Probable Manifestations
-
-+ Associations and contacts with the female sex. - Estrangements, separations. Moon/Dragon's Head D/Q
-
+Unions, associations and connections of women. Much change of connections. People’s association. A people’s meetings. Alliances of peoples and nations. National community. Connections or in relationship with female persons. Women among themselves. In contact with things that are influenced by the moon.
 
 ## Comparative Schema
 
-- core meaning: A spiritual link or union with others.
-- psychology: + The supremacy of feeling in a relationship of living together, an inner or emotional attitude toward other persons. - Lack of adaptability, sensitivity, inclination toward estrangements. C An emotional attitude toward associations.
-- body/health: The lymphatic glands, the spleen, the tonsils. The system of self-defense against infection in the human body.
-- social/relationship: Associations or alliances between women, blood union, any community or association of people in small or large groups.
-- events/manifestations: + Associations and contacts with the female sex. - Estrangements, separations. Moon/Dragon's Head D/Q
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: Unions, associations and connections of women. Much change of connections. People’s association. A people’s meetings. Alliances of peoples and nations. National community. Connections or in relationship with female persons. Women among themselves. In contact with things that are influenced by the moon.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Moon/Node = Aries](../activations/moon-node-equals-aries.md)
+- [Moon/Node = MC](../activations/moon-node-equals-mc.md)
+- [Moon/Node = Asc](../activations/moon-node-equals-asc.md)
 - [Moon/Node = Sun](../activations/moon-node-equals-sun.md)
 - [Moon/Node = Mercury](../activations/moon-node-equals-mercury.md)
 - [Moon/Node = Venus](../activations/moon-node-equals-venus.md)
@@ -93,8 +97,14 @@ Associations or alliances between women, blood union, any community or associati
 - [Moon/Node = Uranus](../activations/moon-node-equals-uranus.md)
 - [Moon/Node = Neptune](../activations/moon-node-equals-neptune.md)
 - [Moon/Node = Pluto](../activations/moon-node-equals-pluto.md)
-- [Moon/Node = Asc](../activations/moon-node-equals-asc.md)
-- [Moon/Node = MC](../activations/moon-node-equals-mc.md)
+- [Moon/Node = Cupido](../activations/moon-node-equals-cupido.md)
+- [Moon/Node = Hades](../activations/moon-node-equals-hades.md)
+- [Moon/Node = Zeus](../activations/moon-node-equals-zeus.md)
+- [Moon/Node = Kronos](../activations/moon-node-equals-kronos.md)
+- [Moon/Node = Apollon](../activations/moon-node-equals-apollon.md)
+- [Moon/Node = Admetos](../activations/moon-node-equals-admetos.md)
+- [Moon/Node = Vulcanus](../activations/moon-node-equals-vulcanus.md)
+- [Moon/Node = Poseidon](../activations/moon-node-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Associations or alliances between women, blood union, any community or associati
 
 - [Moon](../factors/moon.md)
 - [Node](../factors/node.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

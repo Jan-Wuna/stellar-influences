@@ -3,7 +3,7 @@ title: Node Asc MC
 page_type: triad_hub
 slug: node-asc-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Node
   - Asc
@@ -18,7 +18,7 @@ orientations:
   - Node/MC = Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Asc/MC = Node](../activations/asc-mc-equals-node.md)
-  Source page `308`, entry `1117`
+  Source page `58`
 - [Node/Asc = MC](../activations/node-asc-equals-mc.md)
-  Source page `302`, entry `1093`
+  Source page `82`
 - [Node/MC = Asc](../activations/node-mc-equals-asc.md)
-  Source page `305`, entry `1105`
+  Source page `61`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Asc/MC = Node`: page `308`, entry `1117`
-- `Node/Asc = MC`: page `302`, entry `1093`
-- `Node/MC = Asc`: page `305`, entry `1105`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Asc/MC = Node`: page `58`
+- `Node/Asc = MC`: page `82`
+- `Node/MC = Asc`: page `61`
 
 ## Contradictions Across Orientations
 

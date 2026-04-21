@@ -3,7 +3,7 @@ title: Saturn/Uranus = MC
 page_type: activation
 slug: saturn-uranus-equals-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Saturn
   - Uranus
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0877`
-- Source page: `248`
+- Source heading: `Saturn + Uranus`
+- Source page: `221`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Making the highest demands upon one's own strength, rebellion, provocation. Separating oneself from others.
+To suffer from quarrels. Dealing with quarrelsome people. To be suddenly separated.
 
 ## Comparative Schema
 
-- core meaning: Making the highest demands upon one's own strength, rebellion, provocation. Separating oneself from others.
+- core meaning: To suffer from quarrels. Dealing with quarrelsome people. To be suddenly separated.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Making the highest demands upon one's own strength, rebellion, provocation. Sepa
 - [Uranus](../factors/uranus.md)
 - [MC](../factors/mc.md)
 - [Saturn/Uranus](../axes/saturn-uranus.md)
-- [Saturn Uranus MC](../triads/saturn-uranus-mc.md)

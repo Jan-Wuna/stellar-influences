@@ -3,10 +3,10 @@ title: Mars/Node = Moon
 page_type: activation
 slug: mars-node-equals-moon
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Mars
   - Node
+  - Mars
   - Moon
 normalized_formula: Mars/Node = Moon
 axis: Mars/Node
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0748`
-- Source page: `217`
+- Source heading: `Node + Mars`
+- Source page: `143`
+#### Witte Entry
 
-#### Ebertin Entry
-
-The presence of soul contact, an emotional attitude toward other people. Unions based on soul affinity, an association or organization consisting only of women members.
+Common activity with a woman or of women. Sex union of a woman.
 
 ## Comparative Schema
 
-- core meaning: The presence of soul contact, an emotional attitude toward other people. Unions based on soul affinity, an association or organization consisting only of women members.
+- core meaning: Common activity with a woman or of women. Sex union of a woman.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ The presence of soul contact, an emotional attitude toward other people. Unions 
 - [Node](../factors/node.md)
 - [Moon](../factors/moon.md)
 - [Mars/Node](../axes/mars-node.md)
-- [Moon Mars Node](../triads/moon-mars-node.md)

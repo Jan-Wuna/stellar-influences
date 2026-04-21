@@ -3,10 +3,10 @@ title: Mercury/Node = Uranus
 page_type: activation
 slug: mercury-node-equals-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Mercury
   - Node
+  - Mercury
   - Uranus
 normalized_formula: Mercury/Node = Uranus
 axis: Mercury/Node
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0549`
-- Source page: `167`
+- Source heading: `Node + Mercury`
+- Source page: `141`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A person who gets stimulating ideas through others, sudden formulation of new ideas and plans during teamwork, quickly changing ideas and thoughts.
+(1) Sudden or exciting exchange of thoughts. Communication with technological support, such as telephone, computer or internet.
 
 ## Comparative Schema
 
-- core meaning: A person who gets stimulating ideas through others, sudden formulation of new ideas and plans during teamwork, quickly changing ideas and thoughts.
+- core meaning: (1) Sudden or exciting exchange of thoughts. Communication with technological support, such as telephone, computer or internet.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A person who gets stimulating ideas through others, sudden formulation of new id
 - [Node](../factors/node.md)
 - [Uranus](../factors/uranus.md)
 - [Mercury/Node](../axes/mercury-node.md)
-- [Mercury Uranus Node](../triads/mercury-uranus-node.md)

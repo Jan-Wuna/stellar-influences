@@ -3,7 +3,7 @@ title: Mars Saturn Pluto
 page_type: triad_hub
 slug: mars-saturn-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Saturn
@@ -18,7 +18,7 @@ orientations:
   - Saturn/Pluto = Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Pluto = Saturn](../activations/mars-pluto-equals-saturn.md)
-  Source page `214`, entry `0740`
+  Source page `196`
 - [Mars/Saturn = Pluto](../activations/mars-saturn-equals-pluto.md)
-  Source page `205`, entry `0706`
+  Source page `193`
 - [Saturn/Pluto = Mars](../activations/saturn-pluto-equals-mars.md)
-  Source page `254`, entry `0895`
+  Source page `223`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/Pluto = Saturn`: page `214`, entry `0740`
-- `Mars/Saturn = Pluto`: page `205`, entry `0706`
-- `Saturn/Pluto = Mars`: page `254`, entry `0895`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/Pluto = Saturn`: page `196`
+- `Mars/Saturn = Pluto`: page `193`
+- `Saturn/Pluto = Mars`: page `223`
 
 ## Contradictions Across Orientations
 

@@ -3,7 +3,7 @@ title: Sun Mars Pluto
 page_type: triad_hub
 slug: sun-mars-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Mars
@@ -18,7 +18,7 @@ orientations:
   - Sun/Pluto = Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Pluto = Sun](../activations/mars-pluto-equals-sun.md)
-  Source page `214`, entry `0735`
+  Source page `196`
 - [Sun/Mars = Pluto](../activations/sun-mars-equals-pluto.md)
-  Source page `88`, entry `0226`
+  Source page `105`
 - [Sun/Pluto = Mars](../activations/sun-pluto-equals-mars.md)
-  Source page `102`, entry `0282`
+  Source page `110`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/Pluto = Sun`: page `214`, entry `0735`
-- `Sun/Mars = Pluto`: page `88`, entry `0226`
-- `Sun/Pluto = Mars`: page `102`, entry `0282`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/Pluto = Sun`: page `196`
+- `Sun/Mars = Pluto`: page `105`
+- `Sun/Pluto = Mars`: page `110`
 
 ## Contradictions Across Orientations
 

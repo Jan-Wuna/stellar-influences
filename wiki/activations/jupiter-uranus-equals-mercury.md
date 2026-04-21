@@ -3,7 +3,7 @@ title: Jupiter/Uranus = Mercury
 page_type: activation
 slug: jupiter-uranus-equals-mercury
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Uranus
@@ -17,7 +17,7 @@ triad_set:
   - Uranus
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0797`
-- Source page: `229`
+- Source heading: `Jupiter + Uranus`
+- Source page: `208`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Abundance of thoughts, a person with many ideas, ready-wittedness. Gathering of ample knowledge, a fortunate turn in one's occupation.
+Cheerfulness. Mockery and wit combined. Quick at repartee. News or information about sudden money or judgment. Reports or talks on technological success.
 
 ## Comparative Schema
 
-- core meaning: Abundance of thoughts, a person with many ideas, ready-wittedness. Gathering of ample knowledge, a fortunate turn in one's occupation.
+- core meaning: Cheerfulness. Mockery and wit combined. Quick at repartee. News or information about sudden money or judgment. Reports or talks on technological success.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Abundance of thoughts, a person with many ideas, ready-wittedness. Gathering of 
 - [Uranus](../factors/uranus.md)
 - [Mercury](../factors/mercury.md)
 - [Jupiter/Uranus](../axes/jupiter-uranus.md)
-- [Mercury Jupiter Uranus](../triads/mercury-jupiter-uranus.md)

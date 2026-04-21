@@ -3,7 +3,7 @@ title: Mercury/Asc
 page_type: axis
 slug: mercury-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Asc
@@ -11,8 +11,11 @@ normalized_axis: Mercury/Asc
 factor_a: Mercury
 factor_b: Asc
 related_activations:
+  - Mercury/Asc = Aries
+  - Mercury/Asc = MC
   - Mercury/Asc = Sun
   - Mercury/Asc = Moon
+  - Mercury/Asc = Node
   - Mercury/Asc = Venus
   - Mercury/Asc = Mars
   - Mercury/Asc = Jupiter
@@ -20,10 +23,25 @@ related_activations:
   - Mercury/Asc = Uranus
   - Mercury/Asc = Neptune
   - Mercury/Asc = Pluto
-  - Mercury/Asc = Node
-  - Mercury/Asc = MC
+  - Mercury/Asc = Cupido
+  - Mercury/Asc = Hades
+  - Mercury/Asc = Zeus
+  - Mercury/Asc = Kronos
+  - Mercury/Asc = Apollon
+  - Mercury/Asc = Admetos
+  - Mercury/Asc = Vulcanus
+  - Mercury/Asc = Poseidon
 related_triad_hubs:
+  - Aries Mercury Asc
+  - Mercury Asc Admetos
+  - Mercury Asc Apollon
+  - Mercury Asc Cupido
+  - Mercury Asc Hades
+  - Mercury Asc Kronos
   - Mercury Asc MC
+  - Mercury Asc Poseidon
+  - Mercury Asc Vulcanus
+  - Mercury Asc Zeus
   - Mercury Jupiter Asc
   - Mercury Mars Asc
   - Mercury Neptune Asc
@@ -37,7 +55,7 @@ related_triad_hubs:
 aliases:
   - Asc/Mercury
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,47 +63,33 @@ updated_at: 2026-04-21
 
 - Axis: `Mercury/Asc`
 - Astronomicon axis: `T/Asc`
-- Source heading: `Mercury/Ascendant`
-- Source page: `169`
+- Source heading: `Asc + Mercury`
+- Source page: `83`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-One's attitude toward other people.
-
-#### Psychological Correspondence
-
-+ Forming thoughts about other people, defining or determining one's position with regard to others, inclination to talk about others and to exchange ideas and thoughts, desire to chat with people. - Tendency to criticize others and to belittle and degrade them, as well as to gossip. C Urge to have personal contact with others and to derive pleasure from chatting with people.
-
-#### Biological Correspondence
-
-The reception of stimuli through the sense organs.
-
-#### Sociological Correspondence
-
-Thinking, talkative and working people in one's environment.
-
-#### Probable Manifestations
-
-+ Meeting others, cultivating the exchange of ideas and thoughts, becoming acquainted with others, receiving documents, letters, etc. - A disharmonious or unfriendly attitude toward others, tendency to judge wrongly or the state of being misjudged. Mercury/Ascendant 5/A
-
+Talks, conversations and correspondence. To be the theme of conversation with others. Other people think of the native. News from other people. News about the closer environment. Exchange of ideas with acquaintances.
 
 ## Comparative Schema
 
-- core meaning: One's attitude toward other people.
-- psychology: + Forming thoughts about other people, defining or determining one's position with regard to others, inclination to talk about others and to exchange ideas and thoughts, desire to chat with people. - Tendency to criticize others and to belittle and degrade them, as well as to gossip. C Urge to have personal contact with others and to derive pleasure from chatting with people.
-- body/health: The reception of stimuli through the sense organs.
-- social/relationship: Thinking, talkative and working people in one's environment.
-- events/manifestations: + Meeting others, cultivating the exchange of ideas and thoughts, becoming acquainted with others, receiving documents, letters, etc. - A disharmonious or unfriendly attitude toward others, tendency to judge wrongly or the state of being misjudged. Mercury/Ascendant 5/A
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: Talks, conversations and correspondence. To be the theme of conversation with others. Other people think of the native. News from other people. News about the closer environment. Exchange of ideas with acquaintances.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Mercury/Asc = Aries](../activations/mercury-asc-equals-aries.md)
+- [Mercury/Asc = MC](../activations/mercury-asc-equals-mc.md)
 - [Mercury/Asc = Sun](../activations/mercury-asc-equals-sun.md)
 - [Mercury/Asc = Moon](../activations/mercury-asc-equals-moon.md)
+- [Mercury/Asc = Node](../activations/mercury-asc-equals-node.md)
 - [Mercury/Asc = Venus](../activations/mercury-asc-equals-venus.md)
 - [Mercury/Asc = Mars](../activations/mercury-asc-equals-mars.md)
 - [Mercury/Asc = Jupiter](../activations/mercury-asc-equals-jupiter.md)
@@ -93,8 +97,14 @@ Thinking, talkative and working people in one's environment.
 - [Mercury/Asc = Uranus](../activations/mercury-asc-equals-uranus.md)
 - [Mercury/Asc = Neptune](../activations/mercury-asc-equals-neptune.md)
 - [Mercury/Asc = Pluto](../activations/mercury-asc-equals-pluto.md)
-- [Mercury/Asc = Node](../activations/mercury-asc-equals-node.md)
-- [Mercury/Asc = MC](../activations/mercury-asc-equals-mc.md)
+- [Mercury/Asc = Cupido](../activations/mercury-asc-equals-cupido.md)
+- [Mercury/Asc = Hades](../activations/mercury-asc-equals-hades.md)
+- [Mercury/Asc = Zeus](../activations/mercury-asc-equals-zeus.md)
+- [Mercury/Asc = Kronos](../activations/mercury-asc-equals-kronos.md)
+- [Mercury/Asc = Apollon](../activations/mercury-asc-equals-apollon.md)
+- [Mercury/Asc = Admetos](../activations/mercury-asc-equals-admetos.md)
+- [Mercury/Asc = Vulcanus](../activations/mercury-asc-equals-vulcanus.md)
+- [Mercury/Asc = Poseidon](../activations/mercury-asc-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Thinking, talkative and working people in one's environment.
 
 - [Mercury](../factors/mercury.md)
 - [Asc](../factors/asc.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

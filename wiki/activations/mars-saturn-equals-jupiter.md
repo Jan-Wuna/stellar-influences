@@ -3,7 +3,7 @@ title: Mars/Saturn = Jupiter
 page_type: activation
 slug: mars-saturn-equals-jupiter
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Saturn
@@ -17,7 +17,7 @@ triad_set:
   - Saturn
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0703`
-- Source page: `205`
+- Source heading: `Mars + Saturn`
+- Source page: `193`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Complete concentration of energy upon a particular objective to the exclusion of other interests, ability to render quick work satisfactorily. Ability to thoroughly destroy or eliminate something. Improvement during an illness, a fortunate separation, a quick dissolution (of the body), a pleasant and easy death.
+Pleasant interruption of work. Vacations. Quick death.
 
 ## Comparative Schema
 
-- core meaning: Complete concentration of energy upon a particular objective to the exclusion of other interests, ability to render quick work satisfactorily. Ability to thoroughly destroy or eliminate something. Improvement during an illness, a fortunate separation, a quick dissolution (of the body), a pleasant and easy death.
+- core meaning: Pleasant interruption of work. Vacations. Quick death.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Complete concentration of energy upon a particular objective to the exclusion of
 - [Saturn](../factors/saturn.md)
 - [Jupiter](../factors/jupiter.md)
 - [Mars/Saturn](../axes/mars-saturn.md)
-- [Mars Jupiter Saturn](../triads/mars-jupiter-saturn.md)

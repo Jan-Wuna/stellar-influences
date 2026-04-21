@@ -3,7 +3,7 @@ title: Sun/Pluto = Saturn
 page_type: activation
 slug: sun-pluto-equals-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Pluto
@@ -17,7 +17,7 @@ triad_set:
   - Pluto
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0284`
-- Source page: `102`
+- Source heading: `Sun + Pluto`
+- Source page: `110`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Ruthless overcoming of obstacles and difficulties, physical impediment. Restriction, separation (by higher power, imprisonment).
+Slow physical development. Stingy way of living. Fasting. Physical hardening. Excess cartilage in the body. Ossification.
 
 ## Comparative Schema
 
-- core meaning: Ruthless overcoming of obstacles and difficulties, physical impediment. Restriction, separation (by higher power, imprisonment).
+- core meaning: Slow physical development. Stingy way of living. Fasting. Physical hardening. Excess cartilage in the body. Ossification.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Ruthless overcoming of obstacles and difficulties, physical impediment. Restrict
 - [Pluto](../factors/pluto.md)
 - [Saturn](../factors/saturn.md)
 - [Sun/Pluto](../axes/sun-pluto.md)
-- [Sun Saturn Pluto](../triads/sun-saturn-pluto.md)

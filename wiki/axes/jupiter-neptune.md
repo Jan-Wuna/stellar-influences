@@ -3,7 +3,7 @@ title: Jupiter/Neptune
 page_type: axis
 slug: jupiter-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Neptune
@@ -11,22 +11,40 @@ normalized_axis: Jupiter/Neptune
 factor_a: Jupiter
 factor_b: Neptune
 related_activations:
+  - Jupiter/Neptune = Aries
+  - Jupiter/Neptune = MC
+  - Jupiter/Neptune = Asc
   - Jupiter/Neptune = Sun
   - Jupiter/Neptune = Moon
+  - Jupiter/Neptune = Node
   - Jupiter/Neptune = Mercury
   - Jupiter/Neptune = Venus
   - Jupiter/Neptune = Mars
   - Jupiter/Neptune = Saturn
   - Jupiter/Neptune = Uranus
   - Jupiter/Neptune = Pluto
-  - Jupiter/Neptune = Node
-  - Jupiter/Neptune = Asc
-  - Jupiter/Neptune = MC
+  - Jupiter/Neptune = Cupido
+  - Jupiter/Neptune = Hades
+  - Jupiter/Neptune = Zeus
+  - Jupiter/Neptune = Kronos
+  - Jupiter/Neptune = Apollon
+  - Jupiter/Neptune = Admetos
+  - Jupiter/Neptune = Vulcanus
+  - Jupiter/Neptune = Poseidon
 related_triad_hubs:
+  - Aries Jupiter Neptune
+  - Jupiter Neptune Admetos
+  - Jupiter Neptune Apollon
   - Jupiter Neptune Asc
+  - Jupiter Neptune Cupido
+  - Jupiter Neptune Hades
+  - Jupiter Neptune Kronos
   - Jupiter Neptune MC
   - Jupiter Neptune Node
   - Jupiter Neptune Pluto
+  - Jupiter Neptune Poseidon
+  - Jupiter Neptune Vulcanus
+  - Jupiter Neptune Zeus
   - Jupiter Saturn Neptune
   - Jupiter Uranus Neptune
   - Mars Jupiter Neptune
@@ -37,7 +55,7 @@ related_triad_hubs:
 aliases:
   - Neptune/Jupiter
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,56 +63,48 @@ updated_at: 2026-04-21
 
 - Axis: `Jupiter/Neptune`
 - Astronomicon axis: `V/Y`
-- Source heading: `Jupiter/Neptune`
-- Source page: `231`
+- Source heading: `Jupiter + Neptune`
+- Source page: `209`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-Apparent happiness, speculation.
-
-#### Psychological Correspondence
-
-+ Abundance or richness of feeling or emotional expression, active and intense imagination, idealism, enjoyment of molding or shaping things, art, music, interest in metaphysical and religious problems, great love of humanity. Ability to give love to those in need of it, instability in material things, generosity overdone. - Impressionable, a person easily seduced, dreaminess, conflict between the ideal visualized and the very different reality, inclination to revel or idolize, a person constantly misunderstood by others, inclination to speculation and wastefulness. C Love of humanity, idealism, mysticism, interest in art.
-
-#### Biological Correspondence
-
-General lack of tone in bodily organs, atrophy, excessive increase of water in the blood (haemolysis). The wrong diagnosis.
-
-#### Sociological Correspondence
-
-Visionaries, dreamers, mystics, hypocrites, speculators.
-
-#### Probable Manifestations
-
-+ Pursuit of idealistic inclinations, a merciful and compassionate nature, tendency to speculate, gain without effort. - Poor speculation, seduction, scandal which is caused through one's own instability, losses. (Political conflicts.) Jupiter/Neptune h/W
-
+Lucky mood. Easily acquired money. Shortage of money. Money losses. Easily made money. Imagined happiness. Uncertain possession. Speculations. Financial transactions. The future life.
 
 ## Comparative Schema
 
-- core meaning: Apparent happiness, speculation.
-- psychology: + Abundance or richness of feeling or emotional expression, active and intense imagination, idealism, enjoyment of molding or shaping things, art, music, interest in metaphysical and religious problems, great love of humanity. Ability to give love to those in need of it, instability in material things, generosity overdone. - Impressionable, a person easily seduced, dreaminess, conflict between the ideal visualized and the very different reality, inclination to revel or idolize, a person constantly misunderstood by others, inclination to speculation and wastefulness. C Love of humanity, idealism, mysticism, interest in art.
-- body/health: General lack of tone in bodily organs, atrophy, excessive increase of water in the blood (haemolysis). The wrong diagnosis.
-- social/relationship: Visionaries, dreamers, mystics, hypocrites, speculators.
-- events/manifestations: + Pursuit of idealistic inclinations, a merciful and compassionate nature, tendency to speculate, gain without effort. - Poor speculation, seduction, scandal which is caused through one's own instability, losses. (Political conflicts.) Jupiter/Neptune h/W
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: Lucky mood. Easily acquired money. Shortage of money. Money losses. Easily made money. Imagined happiness. Uncertain possession. Speculations. Financial transactions. The future life.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Jupiter/Neptune = Aries](../activations/jupiter-neptune-equals-aries.md)
+- [Jupiter/Neptune = MC](../activations/jupiter-neptune-equals-mc.md)
+- [Jupiter/Neptune = Asc](../activations/jupiter-neptune-equals-asc.md)
 - [Jupiter/Neptune = Sun](../activations/jupiter-neptune-equals-sun.md)
 - [Jupiter/Neptune = Moon](../activations/jupiter-neptune-equals-moon.md)
+- [Jupiter/Neptune = Node](../activations/jupiter-neptune-equals-node.md)
 - [Jupiter/Neptune = Mercury](../activations/jupiter-neptune-equals-mercury.md)
 - [Jupiter/Neptune = Venus](../activations/jupiter-neptune-equals-venus.md)
 - [Jupiter/Neptune = Mars](../activations/jupiter-neptune-equals-mars.md)
 - [Jupiter/Neptune = Saturn](../activations/jupiter-neptune-equals-saturn.md)
 - [Jupiter/Neptune = Uranus](../activations/jupiter-neptune-equals-uranus.md)
 - [Jupiter/Neptune = Pluto](../activations/jupiter-neptune-equals-pluto.md)
-- [Jupiter/Neptune = Node](../activations/jupiter-neptune-equals-node.md)
-- [Jupiter/Neptune = Asc](../activations/jupiter-neptune-equals-asc.md)
-- [Jupiter/Neptune = MC](../activations/jupiter-neptune-equals-mc.md)
+- [Jupiter/Neptune = Cupido](../activations/jupiter-neptune-equals-cupido.md)
+- [Jupiter/Neptune = Hades](../activations/jupiter-neptune-equals-hades.md)
+- [Jupiter/Neptune = Zeus](../activations/jupiter-neptune-equals-zeus.md)
+- [Jupiter/Neptune = Kronos](../activations/jupiter-neptune-equals-kronos.md)
+- [Jupiter/Neptune = Apollon](../activations/jupiter-neptune-equals-apollon.md)
+- [Jupiter/Neptune = Admetos](../activations/jupiter-neptune-equals-admetos.md)
+- [Jupiter/Neptune = Vulcanus](../activations/jupiter-neptune-equals-vulcanus.md)
+- [Jupiter/Neptune = Poseidon](../activations/jupiter-neptune-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Visionaries, dreamers, mystics, hypocrites, speculators.
 
 - [Jupiter](../factors/jupiter.md)
 - [Neptune](../factors/neptune.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

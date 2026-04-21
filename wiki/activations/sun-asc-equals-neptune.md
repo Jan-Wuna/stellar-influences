@@ -3,10 +3,10 @@ title: Sun/Asc = Neptune
 page_type: activation
 slug: sun-asc-equals-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Sun
   - Asc
+  - Sun
   - Neptune
 normalized_formula: Sun/Asc = Neptune
 axis: Sun/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0310`
-- Source page: `108`
+- Source heading: `Asc + Sun`
+- Source page: `80`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Hyper-sensitive with regard to others, tendency to be influenced or easily led by others, inclination to easily become angry or upset. Damage through others, disappointment, lowering or degradation.
+Physical weakness as compared to other people. To be deceived by persons closely connected or related. Damaging activity or slander. Secret activity in associations.
 
 ## Comparative Schema
 
-- core meaning: Hyper-sensitive with regard to others, tendency to be influenced or easily led by others, inclination to easily become angry or upset. Damage through others, disappointment, lowering or degradation.
+- core meaning: Physical weakness as compared to other people. To be deceived by persons closely connected or related. Damaging activity or slander. Secret activity in associations.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Hyper-sensitive with regard to others, tendency to be influenced or easily led b
 - [Asc](../factors/asc.md)
 - [Neptune](../factors/neptune.md)
 - [Sun/Asc](../axes/sun-asc.md)
-- [Sun Neptune Asc](../triads/sun-neptune-asc.md)

@@ -3,7 +3,7 @@ title: Moon Mars Pluto
 page_type: triad_hub
 slug: moon-mars-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Mars
@@ -18,7 +18,7 @@ orientations:
   - Moon/Pluto = Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Pluto = Moon](../activations/mars-pluto-equals-moon.md)
-  Source page `214`, entry `0736`
+  Source page `196`
 - [Moon/Mars = Pluto](../activations/moon-mars-equals-pluto.md)
-  Source page `120`, entry `0358`
+  Source page `124`
 - [Moon/Pluto = Mars](../activations/moon-pluto-equals-mars.md)
-  Source page `135`, entry `0414`
+  Source page `129`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/Pluto = Moon`: page `214`, entry `0736`
-- `Moon/Mars = Pluto`: page `120`, entry `0358`
-- `Moon/Pluto = Mars`: page `135`, entry `0414`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/Pluto = Moon`: page `196`
+- `Moon/Mars = Pluto`: page `124`
+- `Moon/Pluto = Mars`: page `129`
 
 ## Contradictions Across Orientations
 

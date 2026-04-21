@@ -3,10 +3,10 @@ title: Jupiter/Node = Saturn
 page_type: activation
 slug: jupiter-node-equals-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Jupiter
   - Node
+  - Jupiter
   - Saturn
 normalized_formula: Jupiter/Node = Saturn
 axis: Jupiter/Node
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0836`
-- Source page: `238`
+- Source heading: `Node + Jupiter`
+- Source page: `144`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Desire for solitude or seclusion, urge to be alone. Inhibitions during the initial stage of associations or new contacts, teamwork which is rendered more difficult as time goes on, a retarded venture, difficulties with engagement or marriage, the termination of an association.
+Dissolution of a betrothal or marriage or good connection. Disturbed financial relationship.
 
 ## Comparative Schema
 
-- core meaning: Desire for solitude or seclusion, urge to be alone. Inhibitions during the initial stage of associations or new contacts, teamwork which is rendered more difficult as time goes on, a retarded venture, difficulties with engagement or marriage, the termination of an association.
+- core meaning: Dissolution of a betrothal or marriage or good connection. Disturbed financial relationship.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Desire for solitude or seclusion, urge to be alone. Inhibitions during the initi
 - [Node](../factors/node.md)
 - [Saturn](../factors/saturn.md)
 - [Jupiter/Node](../axes/jupiter-node.md)
-- [Jupiter Saturn Node](../triads/jupiter-saturn-node.md)

@@ -3,7 +3,7 @@ title: Moon/Neptune
 page_type: axis
 slug: moon-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Neptune
@@ -11,7 +11,11 @@ normalized_axis: Moon/Neptune
 factor_a: Moon
 factor_b: Neptune
 related_activations:
+  - Moon/Neptune = Aries
+  - Moon/Neptune = MC
+  - Moon/Neptune = Asc
   - Moon/Neptune = Sun
+  - Moon/Neptune = Node
   - Moon/Neptune = Mercury
   - Moon/Neptune = Venus
   - Moon/Neptune = Mars
@@ -19,17 +23,31 @@ related_activations:
   - Moon/Neptune = Saturn
   - Moon/Neptune = Uranus
   - Moon/Neptune = Pluto
-  - Moon/Neptune = Node
-  - Moon/Neptune = Asc
-  - Moon/Neptune = MC
+  - Moon/Neptune = Cupido
+  - Moon/Neptune = Hades
+  - Moon/Neptune = Zeus
+  - Moon/Neptune = Kronos
+  - Moon/Neptune = Apollon
+  - Moon/Neptune = Admetos
+  - Moon/Neptune = Vulcanus
+  - Moon/Neptune = Poseidon
 related_triad_hubs:
+  - Aries Moon Neptune
   - Moon Jupiter Neptune
   - Moon Mars Neptune
   - Moon Mercury Neptune
+  - Moon Neptune Admetos
+  - Moon Neptune Apollon
   - Moon Neptune Asc
+  - Moon Neptune Cupido
+  - Moon Neptune Hades
+  - Moon Neptune Kronos
   - Moon Neptune MC
   - Moon Neptune Node
   - Moon Neptune Pluto
+  - Moon Neptune Poseidon
+  - Moon Neptune Vulcanus
+  - Moon Neptune Zeus
   - Moon Saturn Neptune
   - Moon Uranus Neptune
   - Moon Venus Neptune
@@ -37,7 +55,7 @@ related_triad_hubs:
 aliases:
   - Neptune/Moon
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,46 +63,33 @@ updated_at: 2026-04-21
 
 - Axis: `Moon/Neptune`
 - Astronomicon axis: `R/Y`
-- Source heading: `Moon/Neptune`
-- Source page: `131`
+- Source heading: `Moon + Neptune`
+- Source page: `128`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-Subconscious phenomena, a refined sense of feeling.
-
-#### Psychological Correspondence
-
-+ Sensitivity, the ability to feel and to understand other people's troubles in a sympathetic manner, inner vision and imaginative perception. Inspiration, far-reaching wishes, vivid dream experiences. - Fanciful imaginings or illusions, self-deception, lack of stability, prone to lying, tendency to gravitate toward low-grade spiritism and mediumistic illusions. C A refined sense of feeling, love of solitude caused by being misunderstood and unsatisfied, a peculiar disposition and strange notions.
-
-#### Biological Correspondence
-
-Paralyzed blood circulation, an over-balance or an over-accumulation of water in the tissues of the body, a deficiency of the osmotic functions relating to the utilization of the cell salts (disturbance of consciousness or awareness, also a break in consciousness; eye-diseases).
-
-#### Sociological Correspondence
-
-Sensitive persons, impressionable women, weak or feeble persons. Disappointed or disillusioned women. Mediums, people connected with psychical phenomena and investigations, women who tell fortunes by cards or female cartomancers. Probable Manifestation + A sympathetic understanding of other people (psychometry), the activity of the subconscious, a state of relaxation, receptiveness, impressionableness, an intensely vivid dream life. - Danger of being exposed to peculiar and strange influences or being exploited by other people. Instability, weakness and life crises are caused by laziness or indolence. 24 In the case of aspects between Moon and Neptune in a female chart, especially the conjunction, square and opposition, it has been found that there are often difficulties in the relationship with the marriage partner which were found to be due mainly to over-sensitivity, not being understood or a lack of confidence. Moon/Neptune D/V
-
-#### Probable Manifestations
-
-- None extracted.
-
+To fall asleep. To dream. State of dreaming. Cerebral state of sleep. Not quite clearly conscious. Dazed. Receptive brains. Delicacy, tact. To have a scent for something. Sensitive or feeble woman. Deceiving or disappointed woman. Hours of relaxation. Night hours. Light, thin gas. Inspiration. Sensitivity. Air. Change in weather. Smell.
 
 ## Comparative Schema
 
-- core meaning: Subconscious phenomena, a refined sense of feeling.
-- psychology: + Sensitivity, the ability to feel and to understand other people's troubles in a sympathetic manner, inner vision and imaginative perception. Inspiration, far-reaching wishes, vivid dream experiences. - Fanciful imaginings or illusions, self-deception, lack of stability, prone to lying, tendency to gravitate toward low-grade spiritism and mediumistic illusions. C A refined sense of feeling, love of solitude caused by being misunderstood and unsatisfied, a peculiar disposition and strange notions.
-- body/health: Paralyzed blood circulation, an over-balance or an over-accumulation of water in the tissues of the body, a deficiency of the osmotic functions relating to the utilization of the cell salts (disturbance of consciousness or awareness, also a break in consciousness; eye-diseases).
-- social/relationship: Sensitive persons, impressionable women, weak or feeble persons. Disappointed or disillusioned women. Mediums, people connected with psychical phenomena and investigations, women who tell fortunes by cards or female cartomancers. Probable Manifestation + A sympathetic understanding of other people (psychometry), the activity of the subconscious, a state of relaxation, receptiveness, impressionableness, an intensely vivid dream life. - Danger of being exposed to peculiar and strange influences or being exploited by other people. Instability, weakness and life crises are caused by laziness or indolence. 24 In the case of aspects between Moon and Neptune in a female chart, especially the conjunction, square and opposition, it has been found that there are often difficulties in the relationship with the marriage partner which were found to be due mainly to over-sensitivity, not being understood or a lack of confidence. Moon/Neptune D/V
-- events/manifestations: None extracted.
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: To fall asleep. To dream. State of dreaming. Cerebral state of sleep. Not quite clearly conscious. Dazed. Receptive brains. Delicacy, tact. To have a scent for something. Sensitive or feeble woman. Deceiving or disappointed woman. Hours of relaxation. Night hours. Light, thin gas. Inspiration. Sensitivity. Air. Change in weather. Smell.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Moon/Neptune = Aries](../activations/moon-neptune-equals-aries.md)
+- [Moon/Neptune = MC](../activations/moon-neptune-equals-mc.md)
+- [Moon/Neptune = Asc](../activations/moon-neptune-equals-asc.md)
 - [Moon/Neptune = Sun](../activations/moon-neptune-equals-sun.md)
+- [Moon/Neptune = Node](../activations/moon-neptune-equals-node.md)
 - [Moon/Neptune = Mercury](../activations/moon-neptune-equals-mercury.md)
 - [Moon/Neptune = Venus](../activations/moon-neptune-equals-venus.md)
 - [Moon/Neptune = Mars](../activations/moon-neptune-equals-mars.md)
@@ -92,9 +97,14 @@ Sensitive persons, impressionable women, weak or feeble persons. Disappointed or
 - [Moon/Neptune = Saturn](../activations/moon-neptune-equals-saturn.md)
 - [Moon/Neptune = Uranus](../activations/moon-neptune-equals-uranus.md)
 - [Moon/Neptune = Pluto](../activations/moon-neptune-equals-pluto.md)
-- [Moon/Neptune = Node](../activations/moon-neptune-equals-node.md)
-- [Moon/Neptune = Asc](../activations/moon-neptune-equals-asc.md)
-- [Moon/Neptune = MC](../activations/moon-neptune-equals-mc.md)
+- [Moon/Neptune = Cupido](../activations/moon-neptune-equals-cupido.md)
+- [Moon/Neptune = Hades](../activations/moon-neptune-equals-hades.md)
+- [Moon/Neptune = Zeus](../activations/moon-neptune-equals-zeus.md)
+- [Moon/Neptune = Kronos](../activations/moon-neptune-equals-kronos.md)
+- [Moon/Neptune = Apollon](../activations/moon-neptune-equals-apollon.md)
+- [Moon/Neptune = Admetos](../activations/moon-neptune-equals-admetos.md)
+- [Moon/Neptune = Vulcanus](../activations/moon-neptune-equals-vulcanus.md)
+- [Moon/Neptune = Poseidon](../activations/moon-neptune-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Sensitive persons, impressionable women, weak or feeble persons. Disappointed or
 
 - [Moon](../factors/moon.md)
 - [Neptune](../factors/neptune.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

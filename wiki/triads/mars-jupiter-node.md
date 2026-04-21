@@ -3,7 +3,7 @@ title: Mars Jupiter Node
 page_type: triad_hub
 slug: mars-jupiter-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Jupiter
@@ -18,7 +18,7 @@ orientations:
   - Mars/Node = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Node = Mars](../activations/jupiter-node-equals-mars.md)
-  Source page `238`, entry `0835`
+  Source page `144`
 - [Mars/Jupiter = Node](../activations/mars-jupiter-equals-node.md)
-  Source page `203`, entry `0695`
+  Source page `192`
 - [Mars/Node = Jupiter](../activations/mars-node-equals-jupiter.md)
-  Source page `217`, entry `0751`
+  Source page `143`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/Node = Mars`: page `238`, entry `0835`
-- `Mars/Jupiter = Node`: page `203`, entry `0695`
-- `Mars/Node = Jupiter`: page `217`, entry `0751`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/Node = Mars`: page `144`
+- `Mars/Jupiter = Node`: page `192`
+- `Mars/Node = Jupiter`: page `143`
 
 ## Contradictions Across Orientations
 

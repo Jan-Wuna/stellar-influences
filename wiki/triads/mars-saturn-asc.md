@@ -3,7 +3,7 @@ title: Mars Saturn Asc
 page_type: triad_hub
 slug: mars-saturn-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Saturn
@@ -18,7 +18,7 @@ orientations:
   - Saturn/Asc = Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Asc = Saturn](../activations/mars-asc-equals-saturn.md)
-  Source page `220`, entry `0764`
+  Source page `85`
 - [Mars/Saturn = Asc](../activations/mars-saturn-equals-asc.md)
-  Source page `206`, entry `0708`
+  Source page `193`
 - [Saturn/Asc = Mars](../activations/saturn-asc-equals-mars.md)
-  Source page `260`, entry `0919`
+  Source page `87`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/Asc = Saturn`: page `220`, entry `0764`
-- `Mars/Saturn = Asc`: page `206`, entry `0708`
-- `Saturn/Asc = Mars`: page `260`, entry `0919`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/Asc = Saturn`: page `85`
+- `Mars/Saturn = Asc`: page `193`
+- `Saturn/Asc = Mars`: page `87`
 
 ## Contradictions Across Orientations
 

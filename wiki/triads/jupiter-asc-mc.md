@@ -3,7 +3,7 @@ title: Jupiter Asc MC
 page_type: triad_hub
 slug: jupiter-asc-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Asc
@@ -18,7 +18,7 @@ orientations:
   - Jupiter/MC = Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Asc/MC = Jupiter](../activations/asc-mc-equals-jupiter.md)
-  Source page `307`, entry `1112`
+  Source page `58`
 - [Jupiter/Asc = MC](../activations/jupiter-asc-equals-mc.md)
-  Source page `242`, entry `0853`
+  Source page `86`
 - [Jupiter/MC = Asc](../activations/jupiter-mc-equals-asc.md)
-  Source page `245`, entry `0865`
+  Source page `65`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Asc/MC = Jupiter`: page `307`, entry `1112`
-- `Jupiter/Asc = MC`: page `242`, entry `0853`
-- `Jupiter/MC = Asc`: page `245`, entry `0865`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Asc/MC = Jupiter`: page `58`
+- `Jupiter/Asc = MC`: page `86`
+- `Jupiter/MC = Asc`: page `65`
 
 ## Contradictions Across Orientations
 

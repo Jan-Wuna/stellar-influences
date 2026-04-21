@@ -3,7 +3,7 @@ title: Moon/Jupiter
 page_type: axis
 slug: moon-jupiter
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Jupiter
@@ -11,7 +11,11 @@ normalized_axis: Moon/Jupiter
 factor_a: Moon
 factor_b: Jupiter
 related_activations:
+  - Moon/Jupiter = Aries
+  - Moon/Jupiter = MC
+  - Moon/Jupiter = Asc
   - Moon/Jupiter = Sun
+  - Moon/Jupiter = Node
   - Moon/Jupiter = Mercury
   - Moon/Jupiter = Venus
   - Moon/Jupiter = Mars
@@ -19,17 +23,31 @@ related_activations:
   - Moon/Jupiter = Uranus
   - Moon/Jupiter = Neptune
   - Moon/Jupiter = Pluto
-  - Moon/Jupiter = Node
-  - Moon/Jupiter = Asc
-  - Moon/Jupiter = MC
+  - Moon/Jupiter = Cupido
+  - Moon/Jupiter = Hades
+  - Moon/Jupiter = Zeus
+  - Moon/Jupiter = Kronos
+  - Moon/Jupiter = Apollon
+  - Moon/Jupiter = Admetos
+  - Moon/Jupiter = Vulcanus
+  - Moon/Jupiter = Poseidon
 related_triad_hubs:
+  - Aries Moon Jupiter
+  - Moon Jupiter Admetos
+  - Moon Jupiter Apollon
   - Moon Jupiter Asc
+  - Moon Jupiter Cupido
+  - Moon Jupiter Hades
+  - Moon Jupiter Kronos
   - Moon Jupiter MC
   - Moon Jupiter Neptune
   - Moon Jupiter Node
   - Moon Jupiter Pluto
+  - Moon Jupiter Poseidon
   - Moon Jupiter Saturn
   - Moon Jupiter Uranus
+  - Moon Jupiter Vulcanus
+  - Moon Jupiter Zeus
   - Moon Mars Jupiter
   - Moon Mercury Jupiter
   - Moon Venus Jupiter
@@ -37,7 +55,7 @@ related_triad_hubs:
 aliases:
   - Jupiter/Moon
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,46 +63,33 @@ updated_at: 2026-04-21
 
 - Axis: `Moon/Jupiter`
 - Astronomicon axis: `R/V`
-- Source heading: `Moon/Jupiter`
-- Source page: `122`
+- Source heading: `Moon + Jupiter`
+- Source page: `125`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-Feeling of happiness, kindness or a good heart. Religious.
-
-#### Psychological Correspondence
-
-+ Kindness, benevolence, religious, a social conscience, an obliging and helpful nature, popularity, generosity. - Indifference, negligence, injustice, unpopularity, inner conflict with regard to one's outlook on life and the world in general and with regard to religious matters, rebellion or opposition. C Desire for social meetings, pleasure and rich living, but yet permeated with the ideals of social betterment of one's fellow men and also with generosity and readiness to help others, business ability.
-
-#### Biological Correspondence
-
-The liquid products of the liver and the pancreas gland, also of the gallbladder and of the digestive ferments.
-
-#### Sociological Correspondence
-
-Successful, generous or happy women, a cheerful nation and people, successful entrepreneurs. Female civil servants or officials. The woman engaged to be married, the bride.
-
-#### Probable Manifestations
-
-+ Social successes, carrying out enterprises on a large scale, attainment of material advantages, contacts with foreign countries. - Religious or legal conflict, marital differences, disadvantages through squandering or wastefulness. Moon Jupiter D/^
-
+Faith. Happy hours. The fortunate (happy) woman. The fortunate nation. Happiness of female persons. Contented woman or nation. Luck in public life. National justice and jurisdiction.
 
 ## Comparative Schema
 
-- core meaning: Feeling of happiness, kindness or a good heart. Religious.
-- psychology: + Kindness, benevolence, religious, a social conscience, an obliging and helpful nature, popularity, generosity. - Indifference, negligence, injustice, unpopularity, inner conflict with regard to one's outlook on life and the world in general and with regard to religious matters, rebellion or opposition. C Desire for social meetings, pleasure and rich living, but yet permeated with the ideals of social betterment of one's fellow men and also with generosity and readiness to help others, business ability.
-- body/health: The liquid products of the liver and the pancreas gland, also of the gallbladder and of the digestive ferments.
-- social/relationship: Successful, generous or happy women, a cheerful nation and people, successful entrepreneurs. Female civil servants or officials. The woman engaged to be married, the bride.
-- events/manifestations: + Social successes, carrying out enterprises on a large scale, attainment of material advantages, contacts with foreign countries. - Religious or legal conflict, marital differences, disadvantages through squandering or wastefulness. Moon Jupiter D/^
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: Faith. Happy hours. The fortunate (happy) woman. The fortunate nation. Happiness of female persons. Contented woman or nation. Luck in public life. National justice and jurisdiction.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Moon/Jupiter = Aries](../activations/moon-jupiter-equals-aries.md)
+- [Moon/Jupiter = MC](../activations/moon-jupiter-equals-mc.md)
+- [Moon/Jupiter = Asc](../activations/moon-jupiter-equals-asc.md)
 - [Moon/Jupiter = Sun](../activations/moon-jupiter-equals-sun.md)
+- [Moon/Jupiter = Node](../activations/moon-jupiter-equals-node.md)
 - [Moon/Jupiter = Mercury](../activations/moon-jupiter-equals-mercury.md)
 - [Moon/Jupiter = Venus](../activations/moon-jupiter-equals-venus.md)
 - [Moon/Jupiter = Mars](../activations/moon-jupiter-equals-mars.md)
@@ -92,9 +97,14 @@ Successful, generous or happy women, a cheerful nation and people, successful en
 - [Moon/Jupiter = Uranus](../activations/moon-jupiter-equals-uranus.md)
 - [Moon/Jupiter = Neptune](../activations/moon-jupiter-equals-neptune.md)
 - [Moon/Jupiter = Pluto](../activations/moon-jupiter-equals-pluto.md)
-- [Moon/Jupiter = Node](../activations/moon-jupiter-equals-node.md)
-- [Moon/Jupiter = Asc](../activations/moon-jupiter-equals-asc.md)
-- [Moon/Jupiter = MC](../activations/moon-jupiter-equals-mc.md)
+- [Moon/Jupiter = Cupido](../activations/moon-jupiter-equals-cupido.md)
+- [Moon/Jupiter = Hades](../activations/moon-jupiter-equals-hades.md)
+- [Moon/Jupiter = Zeus](../activations/moon-jupiter-equals-zeus.md)
+- [Moon/Jupiter = Kronos](../activations/moon-jupiter-equals-kronos.md)
+- [Moon/Jupiter = Apollon](../activations/moon-jupiter-equals-apollon.md)
+- [Moon/Jupiter = Admetos](../activations/moon-jupiter-equals-admetos.md)
+- [Moon/Jupiter = Vulcanus](../activations/moon-jupiter-equals-vulcanus.md)
+- [Moon/Jupiter = Poseidon](../activations/moon-jupiter-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Successful, generous or happy women, a cheerful nation and people, successful en
 
 - [Moon](../factors/moon.md)
 - [Jupiter](../factors/jupiter.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

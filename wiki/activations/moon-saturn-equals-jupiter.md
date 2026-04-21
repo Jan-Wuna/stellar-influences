@@ -3,7 +3,7 @@ title: Moon/Saturn = Jupiter
 page_type: activation
 slug: moon-saturn-equals-jupiter
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Saturn
@@ -17,7 +17,7 @@ triad_set:
   - Saturn
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0379`
+- Source heading: `Moon + Saturn`
 - Source page: `126`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Successful self-reliance, responsibility, a sense of duty, conscientious. Quiet happiness, separation without sadness or unhappiness, a journey.
+Woman travelling. The happily separated woman. The grass widow. Pleasant evening hours. Luck through separation of the public.
 
 ## Comparative Schema
 
-- core meaning: Successful self-reliance, responsibility, a sense of duty, conscientious. Quiet happiness, separation without sadness or unhappiness, a journey.
+- core meaning: Woman travelling. The happily separated woman. The grass widow. Pleasant evening hours. Luck through separation of the public.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Successful self-reliance, responsibility, a sense of duty, conscientious. Quiet 
 - [Saturn](../factors/saturn.md)
 - [Jupiter](../factors/jupiter.md)
 - [Moon/Saturn](../axes/moon-saturn.md)
-- [Moon Jupiter Saturn](../triads/moon-jupiter-saturn.md)

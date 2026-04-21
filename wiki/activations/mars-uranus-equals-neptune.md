@@ -3,7 +3,7 @@ title: Mars/Uranus = Neptune
 page_type: activation
 slug: mars-uranus-equals-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Uranus
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0717`
-- Source page: `208`
+- Source heading: `Mars + Uranus`
+- Source page: `194`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Cunning and deceit, a low and mean way of acting, desire to harm others, a person with bad intentions. Swooning or fainting when overtaxing one's strength, a fit of rage or frenzy, raving madness, (a car-accident). 41 It frequently has been found that Neptune = Mars/Uranus is present with engine defects. This applies equally to car and aircraft engines.
+Wasted energy. Energetic action in the wrong direction. Injured by treachery. Fight or accident with death resulting.
 
 ## Comparative Schema
 
-- core meaning: Cunning and deceit, a low and mean way of acting, desire to harm others, a person with bad intentions. Swooning or fainting when overtaxing one's strength, a fit of rage or frenzy, raving madness, (a car-accident). 41 It frequently has been found that Neptune = Mars/Uranus is present with engine defects. This applies equally to car and aircraft engines.
+- core meaning: Wasted energy. Energetic action in the wrong direction. Injured by treachery. Fight or accident with death resulting.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Cunning and deceit, a low and mean way of acting, desire to harm others, a perso
 - [Uranus](../factors/uranus.md)
 - [Neptune](../factors/neptune.md)
 - [Mars/Uranus](../axes/mars-uranus.md)
-- [Mars Uranus Neptune](../triads/mars-uranus-neptune.md)

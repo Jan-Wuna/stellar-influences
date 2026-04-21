@@ -3,10 +3,10 @@ title: Saturn/Node = Moon
 page_type: activation
 slug: saturn-node-equals-moon
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Saturn
   - Node
+  - Saturn
   - Moon
 normalized_formula: Saturn/Node = Moon
 axis: Saturn/Node
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0904`
-- Source page: `257`
+- Source heading: `Node + Saturn`
+- Source page: `145`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Emotional inhibitions in the presence of others, feeling of loneliness in one's soul experiences. Inhibitions in contact with the other sex. A person standing alone in life, a widow or an orphan.
+Separated wife. To become a widow. Feelings in a disturbed connection.
 
 ## Comparative Schema
 
-- core meaning: Emotional inhibitions in the presence of others, feeling of loneliness in one's soul experiences. Inhibitions in contact with the other sex. A person standing alone in life, a widow or an orphan.
+- core meaning: Separated wife. To become a widow. Feelings in a disturbed connection.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Emotional inhibitions in the presence of others, feeling of loneliness in one's 
 - [Node](../factors/node.md)
 - [Moon](../factors/moon.md)
 - [Saturn/Node](../axes/saturn-node.md)
-- [Moon Saturn Node](../triads/moon-saturn-node.md)

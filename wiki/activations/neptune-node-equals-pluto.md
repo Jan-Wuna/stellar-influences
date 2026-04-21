@@ -3,10 +3,10 @@ title: Neptune/Node = Pluto
 page_type: activation
 slug: neptune-node-equals-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Neptune
   - Node
+  - Neptune
   - Pluto
 normalized_formula: Neptune/Node = Pluto
 axis: Neptune/Node
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1019`
-- Source page: `285`
+- Source heading: `Node + Neptune`
+- Source page: `147`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Exercising a bad influence upon associations between people. The breakdown of a relationship between people living together.
+Unnoticeable unions. Connections made without the native’s knowledge behind his back, but discovered after.
 
 ## Comparative Schema
 
-- core meaning: Exercising a bad influence upon associations between people. The breakdown of a relationship between people living together.
+- core meaning: Unnoticeable unions. Connections made without the native’s knowledge behind his back, but discovered after.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Exercising a bad influence upon associations between people. The breakdown of a 
 - [Node](../factors/node.md)
 - [Pluto](../factors/pluto.md)
 - [Neptune/Node](../axes/neptune-node.md)
-- [Neptune Pluto Node](../triads/neptune-pluto-node.md)

@@ -3,7 +3,7 @@ title: Mercury Saturn Uranus
 page_type: triad_hub
 slug: mercury-saturn-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Saturn
@@ -18,7 +18,7 @@ orientations:
   - Saturn/Uranus = Mercury
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mercury/Saturn = Uranus](../activations/mercury-saturn-equals-uranus.md)
-  Source page `155`, entry `0500`
+  Source page `162`
 - [Mercury/Uranus = Saturn](../activations/mercury-uranus-equals-saturn.md)
-  Source page `158`, entry `0512`
+  Source page `163`
 - [Saturn/Uranus = Mercury](../activations/saturn-uranus-equals-mercury.md)
-  Source page `247`, entry `0869`
+  Source page `221`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mercury/Saturn = Uranus`: page `155`, entry `0500`
-- `Mercury/Uranus = Saturn`: page `158`, entry `0512`
-- `Saturn/Uranus = Mercury`: page `247`, entry `0869`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mercury/Saturn = Uranus`: page `162`
+- `Mercury/Uranus = Saturn`: page `163`
+- `Saturn/Uranus = Mercury`: page `221`
 
 ## Contradictions Across Orientations
 

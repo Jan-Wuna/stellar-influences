@@ -3,7 +3,7 @@ title: Sun Venus Pluto
 page_type: triad_hub
 slug: sun-venus-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Venus
@@ -18,7 +18,7 @@ orientations:
   - Venus/Pluto = Sun
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Sun/Pluto = Venus](../activations/sun-pluto-equals-venus.md)
-  Source page `102`, entry `0281`
+  Source page `110`
 - [Sun/Venus = Pluto](../activations/sun-venus-equals-pluto.md)
-  Source page `84`, entry `0214`
+  Source page `104`
 - [Venus/Pluto = Sun](../activations/venus-pluto-equals-sun.md)
-  Source page `191`, entry `0639`
+  Source page `181`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Sun/Pluto = Venus`: page `102`, entry `0281`
-- `Sun/Venus = Pluto`: page `84`, entry `0214`
-- `Venus/Pluto = Sun`: page `191`, entry `0639`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Sun/Pluto = Venus`: page `110`
+- `Sun/Venus = Pluto`: page `104`
+- `Venus/Pluto = Sun`: page `181`
 
 ## Contradictions Across Orientations
 

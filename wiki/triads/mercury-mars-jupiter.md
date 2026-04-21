@@ -3,7 +3,7 @@ title: Mercury Mars Jupiter
 page_type: triad_hub
 slug: mercury-mars-jupiter
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Mars
@@ -14,10 +14,11 @@ triad_set:
   - Jupiter
 orientations:
   - Mars/Jupiter = Mercury
+  - Mercury/Jupiter = Mars
   - Mercury/Mars = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,15 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Jupiter = Mercury](../activations/mars-jupiter-equals-mercury.md)
-  Source page `202`, entry `0689`
+  Source page `192`
+- [Mercury/Jupiter = Mars](../activations/mercury-jupiter-equals-mars.md)
+  Source page `161`
 - [Mercury/Mars = Jupiter](../activations/mercury-mars-equals-jupiter.md)
-  Source page `149`, entry `0474`
+  Source page `160`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/Jupiter = Mercury`: page `202`, entry `0689`
-- `Mercury/Mars = Jupiter`: page `149`, entry `0474`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/Jupiter = Mercury`: page `192`
+- `Mercury/Jupiter = Mars`: page `161`
+- `Mercury/Mars = Jupiter`: page `160`
 
 ## Contradictions Across Orientations
 

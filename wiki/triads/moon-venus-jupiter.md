@@ -3,7 +3,7 @@ title: Moon Venus Jupiter
 page_type: triad_hub
 slug: moon-venus-jupiter
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Venus
@@ -18,7 +18,7 @@ orientations:
   - Venus/Jupiter = Moon
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Moon/Jupiter = Venus](../activations/moon-jupiter-equals-venus.md)
-  Source page `123`, entry `0365`
+  Source page `125`
 - [Moon/Venus = Jupiter](../activations/moon-venus-equals-jupiter.md)
-  Source page `117`, entry `0342`
+  Source page `123`
 - [Venus/Jupiter = Moon](../activations/venus-jupiter-equals-moon.md)
-  Source page `179`, entry `0592`
+  Source page `177`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Moon/Jupiter = Venus`: page `123`, entry `0365`
-- `Moon/Venus = Jupiter`: page `117`, entry `0342`
-- `Venus/Jupiter = Moon`: page `179`, entry `0592`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Moon/Jupiter = Venus`: page `125`
+- `Moon/Venus = Jupiter`: page `123`
+- `Venus/Jupiter = Moon`: page `177`
 
 ## Contradictions Across Orientations
 

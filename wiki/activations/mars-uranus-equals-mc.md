@@ -3,7 +3,7 @@ title: Mars/Uranus = MC
 page_type: activation
 slug: mars-uranus-equals-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Uranus
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0721`
-- Source page: `209`
+- Source heading: `Mars + Uranus`
+- Source page: `194`
+#### Witte Entry
 
-#### Ebertin Entry
-
-An inflexible character, desire for independence, a person "putting the pistol to someone's head," act of violence, extraordinary achievements. The execution of drastic and violent measures, injury, accident, operation.
+To get excited while working. Dare-devil. To be very violent. To suffer violence from others. Personal acts of violence.
 
 ## Comparative Schema
 
-- core meaning: An inflexible character, desire for independence, a person "putting the pistol to someone's head," act of violence, extraordinary achievements. The execution of drastic and violent measures, injury, accident, operation.
+- core meaning: To get excited while working. Dare-devil. To be very violent. To suffer violence from others. Personal acts of violence.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ An inflexible character, desire for independence, a person "putting the pistol t
 - [Uranus](../factors/uranus.md)
 - [MC](../factors/mc.md)
 - [Mars/Uranus](../axes/mars-uranus.md)
-- [Mars Uranus MC](../triads/mars-uranus-mc.md)

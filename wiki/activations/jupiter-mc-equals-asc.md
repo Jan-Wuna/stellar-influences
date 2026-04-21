@@ -3,10 +3,10 @@ title: Jupiter/MC = Asc
 page_type: activation
 slug: jupiter-mc-equals-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Jupiter
   - MC
+  - Jupiter
   - Asc
 normalized_formula: Jupiter/MC = Asc
 axis: Jupiter/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0865`
-- Source page: `245`
+- Source heading: `MC + Jupiter`
+- Source page: `65`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Ability to have a happy relationship with those in one's environment coupled with a harmonious disposition. Pleasant contact with another person, sociable, experiencing joy with others, festivity.
+The desire to make others happy. To be jolly with others. Contentment and harmony with others.
 
 ## Comparative Schema
 
-- core meaning: Ability to have a happy relationship with those in one's environment coupled with a harmonious disposition. Pleasant contact with another person, sociable, experiencing joy with others, festivity.
+- core meaning: The desire to make others happy. To be jolly with others. Contentment and harmony with others.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Ability to have a happy relationship with those in one's environment coupled wit
 - [MC](../factors/mc.md)
 - [Asc](../factors/asc.md)
 - [Jupiter/MC](../axes/jupiter-mc.md)
-- [Jupiter Asc MC](../triads/jupiter-asc-mc.md)

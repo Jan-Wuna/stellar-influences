@@ -3,7 +3,7 @@ title: Uranus/Pluto = Sun
 page_type: activation
 slug: uranus-pluto-equals-sun
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Uranus
   - Pluto
@@ -17,7 +17,7 @@ triad_set:
   - Pluto
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0951`
-- Source page: `269`
+- Source heading: `Uranus + Pluto`
+- Source page: `235`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Urge for independence and freedom, untiring creative work, tendency to make the highest demands on one's physical energy, strong emotional tensions. Over-excitement of the nerves, a breakdown, a catastrophe.
+Physical development which commences suddenly. The man who suddenly faces a changed manner of nutrition, who suddenly changes his intake of food or his meals. Days during which mealtimes are on a changed schedule.
 
 ## Comparative Schema
 
-- core meaning: Urge for independence and freedom, untiring creative work, tendency to make the highest demands on one's physical energy, strong emotional tensions. Over-excitement of the nerves, a breakdown, a catastrophe.
+- core meaning: Physical development which commences suddenly. The man who suddenly faces a changed manner of nutrition, who suddenly changes his intake of food or his meals. Days during which mealtimes are on a changed schedule.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Urge for independence and freedom, untiring creative work, tendency to make the 
 - [Pluto](../factors/pluto.md)
 - [Sun](../factors/sun.md)
 - [Uranus/Pluto](../axes/uranus-pluto.md)
-- [Sun Uranus Pluto](../triads/sun-uranus-pluto.md)

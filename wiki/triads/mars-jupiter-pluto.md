@@ -3,7 +3,7 @@ title: Mars Jupiter Pluto
 page_type: triad_hub
 slug: mars-jupiter-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Jupiter
@@ -18,7 +18,7 @@ orientations:
   - Mars/Pluto = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Pluto = Mars](../activations/jupiter-pluto-equals-mars.md)
-  Source page `235`, entry `0823`
+  Source page `210`
 - [Mars/Jupiter = Pluto](../activations/mars-jupiter-equals-pluto.md)
-  Source page `203`, entry `0694`
+  Source page `192`
 - [Mars/Pluto = Jupiter](../activations/mars-pluto-equals-jupiter.md)
-  Source page `214`, entry `0739`
+  Source page `196`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/Pluto = Mars`: page `235`, entry `0823`
-- `Mars/Jupiter = Pluto`: page `203`, entry `0694`
-- `Mars/Pluto = Jupiter`: page `214`, entry `0739`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/Pluto = Mars`: page `210`
+- `Mars/Jupiter = Pluto`: page `192`
+- `Mars/Pluto = Jupiter`: page `196`
 
 ## Contradictions Across Orientations
 

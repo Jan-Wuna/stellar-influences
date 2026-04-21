@@ -3,7 +3,7 @@ title: Jupiter Saturn Asc
 page_type: triad_hub
 slug: jupiter-saturn-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Saturn
@@ -18,7 +18,7 @@ orientations:
   - Saturn/Asc = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Asc = Saturn](../activations/jupiter-asc-equals-saturn.md)
-  Source page `241`, entry `0848`
+  Source page `86`
 - [Jupiter/Saturn = Asc](../activations/jupiter-saturn-equals-asc.md)
-  Source page `227`, entry `0792`
+  Source page `207`
 - [Saturn/Asc = Jupiter](../activations/saturn-asc-equals-jupiter.md)
-  Source page `260`, entry `0920`
+  Source page `87`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/Asc = Saturn`: page `241`, entry `0848`
-- `Jupiter/Saturn = Asc`: page `227`, entry `0792`
-- `Saturn/Asc = Jupiter`: page `260`, entry `0920`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/Asc = Saturn`: page `86`
+- `Jupiter/Saturn = Asc`: page `207`
+- `Saturn/Asc = Jupiter`: page `87`
 
 ## Contradictions Across Orientations
 

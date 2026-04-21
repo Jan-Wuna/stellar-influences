@@ -3,7 +3,7 @@ title: Moon Jupiter Neptune
 page_type: triad_hub
 slug: moon-jupiter-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Jupiter
@@ -18,7 +18,7 @@ orientations:
   - Moon/Neptune = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Neptune = Moon](../activations/jupiter-neptune-equals-moon.md)
-  Source page `232`, entry `0808`
+  Source page `209`
 - [Moon/Jupiter = Neptune](../activations/moon-jupiter-equals-neptune.md)
-  Source page `123`, entry `0369`
+  Source page `125`
 - [Moon/Neptune = Jupiter](../activations/moon-neptune-equals-jupiter.md)
-  Source page `132`, entry `0403`
+  Source page `128`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/Neptune = Moon`: page `232`, entry `0808`
-- `Moon/Jupiter = Neptune`: page `123`, entry `0369`
-- `Moon/Neptune = Jupiter`: page `132`, entry `0403`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/Neptune = Moon`: page `209`
+- `Moon/Jupiter = Neptune`: page `125`
+- `Moon/Neptune = Jupiter`: page `128`
 
 ## Contradictions Across Orientations
 

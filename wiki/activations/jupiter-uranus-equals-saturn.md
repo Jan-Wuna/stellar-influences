@@ -3,7 +3,7 @@ title: Jupiter/Uranus = Saturn
 page_type: activation
 slug: jupiter-uranus-equals-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Uranus
@@ -17,7 +17,7 @@ triad_set:
   - Uranus
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0800`
-- Source page: `229`
+- Source heading: `Jupiter + Uranus`
+- Source page: `208`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Tendency at times to have sudden inhibitions, one-sided principles, obstinacy. Occurrence of sudden inhibitions before the attainment of an objective, sudden disadvantages, losses.
+Sudden lucky decision. Sudden fortunate separation. Sudden losses.
 
 ## Comparative Schema
 
-- core meaning: Tendency at times to have sudden inhibitions, one-sided principles, obstinacy. Occurrence of sudden inhibitions before the attainment of an objective, sudden disadvantages, losses.
+- core meaning: Sudden lucky decision. Sudden fortunate separation. Sudden losses.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Tendency at times to have sudden inhibitions, one-sided principles, obstinacy. O
 - [Uranus](../factors/uranus.md)
 - [Saturn](../factors/saturn.md)
 - [Jupiter/Uranus](../axes/jupiter-uranus.md)
-- [Jupiter Saturn Uranus](../triads/jupiter-saturn-uranus.md)

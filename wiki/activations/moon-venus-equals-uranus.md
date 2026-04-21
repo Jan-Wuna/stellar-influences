@@ -3,7 +3,7 @@ title: Moon/Venus = Uranus
 page_type: activation
 slug: moon-venus-equals-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Venus
@@ -17,7 +17,7 @@ triad_set:
   - Uranus
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0344`
-- Source page: `117`
+- Source heading: `Moon + Venus`
+- Source page: `123`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A periodic and sudden manifestation of sexual desire (in connection with a disturbance of the glandular function, the tendency to act suddenly under the dictates of feeling, with the exclusion of ego consciousness), fits of emotion. (Epilepsy and other convulsive states.) Sudden experience in a woman's life, sudden motherhood.
+Sudden love of a woman. To become a mother suddenly. Suddenly acting mother.
 
 ## Comparative Schema
 
-- core meaning: A periodic and sudden manifestation of sexual desire (in connection with a disturbance of the glandular function, the tendency to act suddenly under the dictates of feeling, with the exclusion of ego consciousness), fits of emotion. (Epilepsy and other convulsive states.) Sudden experience in a woman's life, sudden motherhood.
+- core meaning: Sudden love of a woman. To become a mother suddenly. Suddenly acting mother.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A periodic and sudden manifestation of sexual desire (in connection with a distu
 - [Venus](../factors/venus.md)
 - [Uranus](../factors/uranus.md)
 - [Moon/Venus](../axes/moon-venus.md)
-- [Moon Venus Uranus](../triads/moon-venus-uranus.md)

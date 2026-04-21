@@ -3,7 +3,7 @@ title: Mercury/Neptune
 page_type: axis
 slug: mercury-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Neptune
@@ -11,24 +11,42 @@ normalized_axis: Mercury/Neptune
 factor_a: Mercury
 factor_b: Neptune
 related_activations:
+  - Mercury/Neptune = Aries
+  - Mercury/Neptune = MC
+  - Mercury/Neptune = Asc
   - Mercury/Neptune = Sun
   - Mercury/Neptune = Moon
+  - Mercury/Neptune = Node
   - Mercury/Neptune = Venus
   - Mercury/Neptune = Mars
   - Mercury/Neptune = Jupiter
   - Mercury/Neptune = Saturn
   - Mercury/Neptune = Uranus
   - Mercury/Neptune = Pluto
-  - Mercury/Neptune = Node
-  - Mercury/Neptune = Asc
-  - Mercury/Neptune = MC
+  - Mercury/Neptune = Cupido
+  - Mercury/Neptune = Hades
+  - Mercury/Neptune = Zeus
+  - Mercury/Neptune = Kronos
+  - Mercury/Neptune = Apollon
+  - Mercury/Neptune = Admetos
+  - Mercury/Neptune = Vulcanus
+  - Mercury/Neptune = Poseidon
 related_triad_hubs:
+  - Aries Mercury Neptune
   - Mercury Jupiter Neptune
   - Mercury Mars Neptune
+  - Mercury Neptune Admetos
+  - Mercury Neptune Apollon
   - Mercury Neptune Asc
+  - Mercury Neptune Cupido
+  - Mercury Neptune Hades
+  - Mercury Neptune Kronos
   - Mercury Neptune MC
   - Mercury Neptune Node
   - Mercury Neptune Pluto
+  - Mercury Neptune Poseidon
+  - Mercury Neptune Vulcanus
+  - Mercury Neptune Zeus
   - Mercury Saturn Neptune
   - Mercury Uranus Neptune
   - Mercury Venus Neptune
@@ -37,7 +55,7 @@ related_triad_hubs:
 aliases:
   - Neptune/Mercury
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,56 +63,48 @@ updated_at: 2026-04-21
 
 - Axis: `Mercury/Neptune`
 - Astronomicon axis: `T/Y`
-- Source heading: `Mercury/Neptune`
-- Source page: `160`
+- Source heading: `Mercury + Neptune`
+- Source page: `164`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-The imaginative faculty, fantasy.
-
-#### Psychological Correspondence
-
-+ The power of imagination, an abundant imaginative realm or sphere, the power of sympathetic and compassionate understanding with regard to other people, intuitive thinking, in-depth perception and vision, a grasp of the most subtle and attenuated correlations or relationships, idealism. - Wrong thinking, faulty judgment, confused ideas and perceptions or notions, nervous sensitivity, insincerity, fantastic visualizations, untruthfulness or the tendency to tell lies. C A lack of clarity, self-deception.
-
-#### Biological Correspondence
-
-Loss of the power to feel or sense, weak nerves, paralysis of the nerves.
-
-#### Sociological Correspondence
-
-Actors, deceitful people, liars.
-
-#### Probable Manifestations
-
-+ A presentiment of coming events, spiritual and mental cognition or awareness, desire to plan or map things out in advance, longing for regions afar, spiritual and mental relationships between people. - Disturbances which originate in the subconscious, self-deception, lack of clarity, failures through incorrect behavior, inner confusion. (Unconsciousness, nervous paralysis.) 28 Under Sociological Correspondence of Mercury/Neptune one should add "so-called saints," i.e, people who are found under this combination sometimes appear in every way perfect, they appear to have no faults until one day it is discovered they are almost the reverse of what they appeared to be. This is sometimes the case with actors who have to wear a mask which is not in accord with their personality, or in the case of diplomats who play a part in the course of their work and say something different from what they think. In these cases, this describes the work they do. Mercury/Neptune §/V
-
+Intuition. Fantasy. Imagination. Lack of clarity. Expressing uncertainly, confusion or lies. Illogical thinking. Falsehood. Intuitive thinking. To ramble (in speaking). Motion in water or air.
 
 ## Comparative Schema
 
-- core meaning: The imaginative faculty, fantasy.
-- psychology: + The power of imagination, an abundant imaginative realm or sphere, the power of sympathetic and compassionate understanding with regard to other people, intuitive thinking, in-depth perception and vision, a grasp of the most subtle and attenuated correlations or relationships, idealism. - Wrong thinking, faulty judgment, confused ideas and perceptions or notions, nervous sensitivity, insincerity, fantastic visualizations, untruthfulness or the tendency to tell lies. C A lack of clarity, self-deception.
-- body/health: Loss of the power to feel or sense, weak nerves, paralysis of the nerves.
-- social/relationship: Actors, deceitful people, liars.
-- events/manifestations: + A presentiment of coming events, spiritual and mental cognition or awareness, desire to plan or map things out in advance, longing for regions afar, spiritual and mental relationships between people. - Disturbances which originate in the subconscious, self-deception, lack of clarity, failures through incorrect behavior, inner confusion. (Unconsciousness, nervous paralysis.) 28 Under Sociological Correspondence of Mercury/Neptune one should add "so-called saints," i.e, people who are found under this combination sometimes appear in every way perfect, they appear to have no faults until one day it is discovered they are almost the reverse of what they appeared to be. This is sometimes the case with actors who have to wear a mask which is not in accord with their personality, or in the case of diplomats who play a part in the course of their work and say something different from what they think. In these cases, this describes the work they do. Mercury/Neptune §/V
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: Intuition. Fantasy. Imagination. Lack of clarity. Expressing uncertainly, confusion or lies. Illogical thinking. Falsehood. Intuitive thinking. To ramble (in speaking). Motion in water or air.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Mercury/Neptune = Aries](../activations/mercury-neptune-equals-aries.md)
+- [Mercury/Neptune = MC](../activations/mercury-neptune-equals-mc.md)
+- [Mercury/Neptune = Asc](../activations/mercury-neptune-equals-asc.md)
 - [Mercury/Neptune = Sun](../activations/mercury-neptune-equals-sun.md)
 - [Mercury/Neptune = Moon](../activations/mercury-neptune-equals-moon.md)
+- [Mercury/Neptune = Node](../activations/mercury-neptune-equals-node.md)
 - [Mercury/Neptune = Venus](../activations/mercury-neptune-equals-venus.md)
 - [Mercury/Neptune = Mars](../activations/mercury-neptune-equals-mars.md)
 - [Mercury/Neptune = Jupiter](../activations/mercury-neptune-equals-jupiter.md)
 - [Mercury/Neptune = Saturn](../activations/mercury-neptune-equals-saturn.md)
 - [Mercury/Neptune = Uranus](../activations/mercury-neptune-equals-uranus.md)
 - [Mercury/Neptune = Pluto](../activations/mercury-neptune-equals-pluto.md)
-- [Mercury/Neptune = Node](../activations/mercury-neptune-equals-node.md)
-- [Mercury/Neptune = Asc](../activations/mercury-neptune-equals-asc.md)
-- [Mercury/Neptune = MC](../activations/mercury-neptune-equals-mc.md)
+- [Mercury/Neptune = Cupido](../activations/mercury-neptune-equals-cupido.md)
+- [Mercury/Neptune = Hades](../activations/mercury-neptune-equals-hades.md)
+- [Mercury/Neptune = Zeus](../activations/mercury-neptune-equals-zeus.md)
+- [Mercury/Neptune = Kronos](../activations/mercury-neptune-equals-kronos.md)
+- [Mercury/Neptune = Apollon](../activations/mercury-neptune-equals-apollon.md)
+- [Mercury/Neptune = Admetos](../activations/mercury-neptune-equals-admetos.md)
+- [Mercury/Neptune = Vulcanus](../activations/mercury-neptune-equals-vulcanus.md)
+- [Mercury/Neptune = Poseidon](../activations/mercury-neptune-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Actors, deceitful people, liars.
 
 - [Mercury](../factors/mercury.md)
 - [Neptune](../factors/neptune.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

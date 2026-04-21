@@ -1,0 +1,62 @@
+---
+title: Sun/Sun = Moon
+page_type: activation
+slug: sun-sun-equals-moon
+status: source_ingested
+framework_scope: hamburg_school
+factors:
+  - Sun
+  - Sun
+  - Moon
+normalized_formula: Sun/Sun = Moon
+axis: Sun/Sun
+activated_by: Moon
+triad_set:
+  - Sun
+  - Moon
+aliases: []
+source_pages:
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+updated_at: 2026-04-21
+---
+
+## Identity
+
+- Formula: `Sun/Sun = Moon`
+- Astronomicon formula: `S/S = R`
+- Axis page: [Sun/Sun](../axes/sun-sun.md)
+- Repeated-pair identity: no distinct triad hub exists for this activation.
+
+## Source Entries
+
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Sun + Sun`
+- Source page: `99`
+#### Witte Entry
+
+Man and woman (husband and wife). Marriage, parents, friendships, partnerships of male and female. The day and the hour. The course of the day. The attitude of a man towards a woman and vice versa. Physical relations to female persons. The body of a female. The course of the day.
+
+## Comparative Schema
+
+- core meaning: Man and woman (husband and wife). Marriage, parents, friendships, partnerships of male and female. The day and the hour. The course of the day. The attitude of a man towards a woman and vice versa. Physical relations to female persons. The body of a female. The course of the day.
+- psychology: source-backed meaning retained in the entry above.
+- body/health: no separate body-specific bucket is isolated automatically at ingest time.
+- social/relationship: source-backed meaning retained in the entry above.
+- events/manifestations: source-backed meaning retained in the entry above.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+
+## Contradictions
+
+- None recorded yet for this source-only page.
+
+## Derived Synthesis
+
+- None yet beyond source structuring.
+
+## Links
+
+- [Sun](../factors/sun.md)
+- [Sun](../factors/sun.md)
+- [Moon](../factors/moon.md)
+- [Sun/Sun](../axes/sun-sun.md)

@@ -3,7 +3,7 @@ title: Mars Neptune MC
 page_type: triad_hub
 slug: mars-neptune-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Neptune
@@ -18,7 +18,7 @@ orientations:
   - Neptune/MC = Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/MC = Neptune](../activations/mars-mc-equals-neptune.md)
-  Source page `223`, entry `0778`
+  Source page `64`
 - [Mars/Neptune = MC](../activations/mars-neptune-equals-mc.md)
-  Source page `212`, entry `0733`
+  Source page `195`
 - [Neptune/MC = Mars](../activations/neptune-mc-equals-mars.md)
-  Source page `290`, entry `1039`
+  Source page `68`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/MC = Neptune`: page `223`, entry `0778`
-- `Mars/Neptune = MC`: page `212`, entry `0733`
-- `Neptune/MC = Mars`: page `290`, entry `1039`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/MC = Neptune`: page `64`
+- `Mars/Neptune = MC`: page `195`
+- `Neptune/MC = Mars`: page `68`
 
 ## Contradictions Across Orientations
 

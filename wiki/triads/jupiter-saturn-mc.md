@@ -3,7 +3,7 @@ title: Jupiter Saturn MC
 page_type: triad_hub
 slug: jupiter-saturn-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Saturn
@@ -18,7 +18,7 @@ orientations:
   - Saturn/MC = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/MC = Saturn](../activations/jupiter-mc-equals-saturn.md)
-  Source page `244`, entry `0860`
+  Source page `65`
 - [Jupiter/Saturn = MC](../activations/jupiter-saturn-equals-mc.md)
-  Source page `227`, entry `0793`
+  Source page `207`
 - [Saturn/MC = Jupiter](../activations/saturn-mc-equals-jupiter.md)
-  Source page `263`, entry `0932`
+  Source page `66`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/MC = Saturn`: page `244`, entry `0860`
-- `Jupiter/Saturn = MC`: page `227`, entry `0793`
-- `Saturn/MC = Jupiter`: page `263`, entry `0932`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/MC = Saturn`: page `65`
+- `Jupiter/Saturn = MC`: page `207`
+- `Saturn/MC = Jupiter`: page `66`
 
 ## Contradictions Across Orientations
 

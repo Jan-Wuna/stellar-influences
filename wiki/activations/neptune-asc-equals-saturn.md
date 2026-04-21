@@ -3,10 +3,10 @@ title: Neptune/Asc = Saturn
 page_type: activation
 slug: neptune-asc-equals-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Neptune
   - Asc
+  - Neptune
   - Saturn
 normalized_formula: Neptune/Asc = Saturn
 axis: Neptune/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1029`
-- Source page: `287`
+- Source heading: `Asc + Neptune`
+- Source page: `89`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Tendency to become weak in bad company, emotional suffering caused through others, suffering illness through others. The misfortune to be hindered, harmed or defamed by others.
+To be defrauded by others. Damages or obstacles through the refusal of others.
 
 ## Comparative Schema
 
-- core meaning: Tendency to become weak in bad company, emotional suffering caused through others, suffering illness through others. The misfortune to be hindered, harmed or defamed by others.
+- core meaning: To be defrauded by others. Damages or obstacles through the refusal of others.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Tendency to become weak in bad company, emotional suffering caused through other
 - [Asc](../factors/asc.md)
 - [Saturn](../factors/saturn.md)
 - [Neptune/Asc](../axes/neptune-asc.md)
-- [Saturn Neptune Asc](../triads/saturn-neptune-asc.md)

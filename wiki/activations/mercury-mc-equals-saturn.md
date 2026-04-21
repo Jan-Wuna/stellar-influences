@@ -3,10 +3,10 @@ title: Mercury/MC = Saturn
 page_type: activation
 slug: mercury-mc-equals-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Mercury
   - MC
+  - Mercury
   - Saturn
 normalized_formula: Mercury/MC = Saturn
 axis: Mercury/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0572`
-- Source page: `173`
+- Source heading: `MC + Mercury`
+- Source page: `62`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A pessimistic outlook, melancholy disposition, love of solitude and deep meditation. Separation, mourning. Abandonment of one's aims in life pursued hitherto.
+Thinking about separation or travel. Grief. Bereavement. Distress.
 
 ## Comparative Schema
 
-- core meaning: A pessimistic outlook, melancholy disposition, love of solitude and deep meditation. Separation, mourning. Abandonment of one's aims in life pursued hitherto.
+- core meaning: Thinking about separation or travel. Grief. Bereavement. Distress.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A pessimistic outlook, melancholy disposition, love of solitude and deep meditat
 - [MC](../factors/mc.md)
 - [Saturn](../factors/saturn.md)
 - [Mercury/MC](../axes/mercury-mc.md)
-- [Mercury Saturn MC](../triads/mercury-saturn-mc.md)

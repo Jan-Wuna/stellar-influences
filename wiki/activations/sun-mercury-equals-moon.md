@@ -3,7 +3,7 @@ title: Sun/Mercury = Moon
 page_type: activation
 slug: sun-mercury-equals-moon
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Mercury
@@ -17,7 +17,7 @@ triad_set:
   - Mercury
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0195`
-- Source page: `81`
+- Source heading: `Sun + Mercury`
+- Source page: `103`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Relationship between mind, soul and intellect. "Thinking with the heart." A thinking woman, a young husband.
+The young mate (marriage partner). The young body of a woman. To think of women. To be tied up with women at an early age.
 
 ## Comparative Schema
 
-- core meaning: Relationship between mind, soul and intellect. "Thinking with the heart." A thinking woman, a young husband.
+- core meaning: The young mate (marriage partner). The young body of a woman. To think of women. To be tied up with women at an early age.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Relationship between mind, soul and intellect. "Thinking with the heart." A thin
 - [Mercury](../factors/mercury.md)
 - [Moon](../factors/moon.md)
 - [Sun/Mercury](../axes/sun-mercury.md)
-- [Sun Moon Mercury](../triads/sun-moon-mercury.md)

@@ -3,10 +3,10 @@ title: Jupiter/Node = Moon
 page_type: activation
 slug: jupiter-node-equals-moon
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Jupiter
   - Node
+  - Jupiter
   - Moon
 normalized_formula: Jupiter/Node = Moon
 axis: Jupiter/Node
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0832`
-- Source page: `238`
+- Source heading: `Node + Jupiter`
+- Source page: `144`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Attaching great importance to spiritual relationships, changing relationships. A happy union with a woman.
+Fortunate union with a woman, or for women. Woman who is connected to money affairs, or who has relationships in the field of money or justice.
 
 ## Comparative Schema
 
-- core meaning: Attaching great importance to spiritual relationships, changing relationships. A happy union with a woman.
+- core meaning: Fortunate union with a woman, or for women. Woman who is connected to money affairs, or who has relationships in the field of money or justice.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Attaching great importance to spiritual relationships, changing relationships. A
 - [Node](../factors/node.md)
 - [Moon](../factors/moon.md)
 - [Jupiter/Node](../axes/jupiter-node.md)
-- [Moon Jupiter Node](../triads/moon-jupiter-node.md)

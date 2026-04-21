@@ -3,7 +3,7 @@ title: Mars Jupiter Neptune
 page_type: triad_hub
 slug: mars-jupiter-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Jupiter
@@ -18,7 +18,7 @@ orientations:
   - Mars/Neptune = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Neptune = Mars](../activations/jupiter-neptune-equals-mars.md)
-  Source page `232`, entry `0811`
+  Source page `209`
 - [Mars/Jupiter = Neptune](../activations/mars-jupiter-equals-neptune.md)
-  Source page `202`, entry `0693`
+  Source page `192`
 - [Mars/Neptune = Jupiter](../activations/mars-neptune-equals-jupiter.md)
-  Source page `211`, entry `0727`
+  Source page `195`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/Neptune = Mars`: page `232`, entry `0811`
-- `Mars/Jupiter = Neptune`: page `202`, entry `0693`
-- `Mars/Neptune = Jupiter`: page `211`, entry `0727`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/Neptune = Mars`: page `209`
+- `Mars/Jupiter = Neptune`: page `192`
+- `Mars/Neptune = Jupiter`: page `195`
 
 ## Contradictions Across Orientations
 

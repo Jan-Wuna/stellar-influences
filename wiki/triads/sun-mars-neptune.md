@@ -3,7 +3,7 @@ title: Sun Mars Neptune
 page_type: triad_hub
 slug: sun-mars-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Mars
@@ -18,7 +18,7 @@ orientations:
   - Sun/Neptune = Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Neptune = Sun](../activations/mars-neptune-equals-sun.md)
-  Source page `211`, entry `0723`
+  Source page `195`
 - [Sun/Mars = Neptune](../activations/sun-mars-equals-neptune.md)
-  Source page `87`, entry `0225`
+  Source page `105`
 - [Sun/Neptune = Mars](../activations/sun-neptune-equals-mars.md)
-  Source page `99`, entry `0270`
+  Source page `109`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/Neptune = Sun`: page `211`, entry `0723`
-- `Sun/Mars = Neptune`: page `87`, entry `0225`
-- `Sun/Neptune = Mars`: page `99`, entry `0270`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/Neptune = Sun`: page `195`
+- `Sun/Mars = Neptune`: page `105`
+- `Sun/Neptune = Mars`: page `109`
 
 ## Contradictions Across Orientations
 

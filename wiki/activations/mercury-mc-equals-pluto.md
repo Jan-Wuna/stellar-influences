@@ -3,10 +3,10 @@ title: Mercury/MC = Pluto
 page_type: activation
 slug: mercury-mc-equals-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Mercury
   - MC
+  - Mercury
   - Pluto
 normalized_formula: Mercury/MC = Pluto
 axis: Mercury/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0575`
-- Source page: `174`
+- Source heading: `MC + Mercury`
+- Source page: `62`
+#### Witte Entry
 
-#### Ebertin Entry
-
-The pursuit of fanatical aims, excessive ambition, obstinate pursuit of a particular aim or objective. A turn in one's career.
+P Logical thinking. To think of transformations and change. To come to a conclusion. To change a personal opinion.
 
 ## Comparative Schema
 
-- core meaning: The pursuit of fanatical aims, excessive ambition, obstinate pursuit of a particular aim or objective. A turn in one's career.
+- core meaning: P Logical thinking. To think of transformations and change. To come to a conclusion. To change a personal opinion.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ The pursuit of fanatical aims, excessive ambition, obstinate pursuit of a partic
 - [MC](../factors/mc.md)
 - [Pluto](../factors/pluto.md)
 - [Mercury/MC](../axes/mercury-mc.md)
-- [Mercury Pluto MC](../triads/mercury-pluto-mc.md)

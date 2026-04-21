@@ -3,7 +3,7 @@ title: Sun Moon Node
 page_type: triad_hub
 slug: sun-moon-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Moon
@@ -18,7 +18,7 @@ orientations:
   - Sun/Node = Moon
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Moon/Node = Sun](../activations/moon-node-equals-sun.md)
-  Source page `137`, entry `0423`
+  Source page `121`
 - [Sun/Moon = Node](../activations/sun-moon-equals-node.md)
-  Source page `79`, entry `0191`
+  Source page `101`
 - [Sun/Node = Moon](../activations/sun-node-equals-moon.md)
-  Source page `105`, entry `0291`
+  Source page `102`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Moon/Node = Sun`: page `137`, entry `0423`
-- `Sun/Moon = Node`: page `79`, entry `0191`
-- `Sun/Node = Moon`: page `105`, entry `0291`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Moon/Node = Sun`: page `121`
+- `Sun/Moon = Node`: page `101`
+- `Sun/Node = Moon`: page `102`
 
 ## Contradictions Across Orientations
 

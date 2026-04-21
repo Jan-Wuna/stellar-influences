@@ -3,10 +3,10 @@ title: Mars/Node = Pluto
 page_type: activation
 slug: mars-node-equals-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Mars
   - Node
+  - Mars
   - Pluto
 normalized_formula: Mars/Node = Pluto
 axis: Mars/Node
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0755`
-- Source page: `217`
+- Source heading: `Node + Mars`
+- Source page: `143`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Performance of joint record achievements, violent or forced separation of a partnership or union.
+P Planning of common activities.
 
 ## Comparative Schema
 
-- core meaning: Performance of joint record achievements, violent or forced separation of a partnership or union.
+- core meaning: P Planning of common activities.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Performance of joint record achievements, violent or forced separation of a part
 - [Node](../factors/node.md)
 - [Pluto](../factors/pluto.md)
 - [Mars/Node](../axes/mars-node.md)
-- [Mars Pluto Node](../triads/mars-pluto-node.md)

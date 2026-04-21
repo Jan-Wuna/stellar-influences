@@ -3,7 +3,7 @@ title: Mars Neptune Asc
 page_type: triad_hub
 slug: mars-neptune-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Neptune
@@ -18,7 +18,7 @@ orientations:
   - Neptune/Asc = Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Asc = Neptune](../activations/mars-asc-equals-neptune.md)
-  Source page `220`, entry `0766`
+  Source page `85`
 - [Mars/Neptune = Asc](../activations/mars-neptune-equals-asc.md)
-  Source page `212`, entry `0732`
+  Source page `195`
 - [Neptune/Asc = Mars](../activations/neptune-asc-equals-mars.md)
-  Source page `287`, entry `1027`
+  Source page `89`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/Asc = Neptune`: page `220`, entry `0766`
-- `Mars/Neptune = Asc`: page `212`, entry `0732`
-- `Neptune/Asc = Mars`: page `287`, entry `1027`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/Asc = Neptune`: page `85`
+- `Mars/Neptune = Asc`: page `195`
+- `Neptune/Asc = Mars`: page `89`
 
 ## Contradictions Across Orientations
 

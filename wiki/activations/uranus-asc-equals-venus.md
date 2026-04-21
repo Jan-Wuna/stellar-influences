@@ -3,10 +3,10 @@ title: Uranus/Asc = Venus
 page_type: activation
 slug: uranus-asc-equals-venus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Uranus
   - Asc
+  - Uranus
   - Venus
 normalized_formula: Uranus/Asc = Venus
 axis: Uranus/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0978`
-- Source page: `275`
+- Source heading: `Asc + Uranus`
+- Source page: `88`
+#### Witte Entry
 
-#### Ebertin Entry
-
-The response of feelings to environmental influences, desire to beautify one's environment as quickly as possible. Communication of one's feelings to others, tendency to take the line of least resistance with regard to the growth of an attachment, a love union.
+To fall in love suddenly.
 
 ## Comparative Schema
 
-- core meaning: The response of feelings to environmental influences, desire to beautify one's environment as quickly as possible. Communication of one's feelings to others, tendency to take the line of least resistance with regard to the growth of an attachment, a love union.
+- core meaning: To fall in love suddenly.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ The response of feelings to environmental influences, desire to beautify one's e
 - [Asc](../factors/asc.md)
 - [Venus](../factors/venus.md)
 - [Uranus/Asc](../axes/uranus-asc.md)
-- [Venus Uranus Asc](../triads/venus-uranus-asc.md)

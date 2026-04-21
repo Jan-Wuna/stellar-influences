@@ -3,10 +3,10 @@ title: Venus/MC = Neptune
 page_type: activation
 slug: venus-mc-equals-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Venus
   - MC
+  - Venus
   - Neptune
 normalized_formula: Venus/MC = Neptune
 axis: Venus/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0682`
-- Source page: `199`
+- Source heading: `MC + Venus`
+- Source page: `63`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A peculiar attitude to the problem of love, shyness, unexplainable dislikes or aversions. Renunciation, the state of being unsatisfied and unhappy (in love), suffering of the soul.
+Hopeless desire. Love without prospects. Lover’s grief. To renounce love. Sensitive in love.
 
 ## Comparative Schema
 
-- core meaning: A peculiar attitude to the problem of love, shyness, unexplainable dislikes or aversions. Renunciation, the state of being unsatisfied and unhappy (in love), suffering of the soul.
+- core meaning: Hopeless desire. Love without prospects. Lover’s grief. To renounce love. Sensitive in love.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A peculiar attitude to the problem of love, shyness, unexplainable dislikes or a
 - [MC](../factors/mc.md)
 - [Neptune](../factors/neptune.md)
 - [Venus/MC](../axes/venus-mc.md)
-- [Venus Neptune MC](../triads/venus-neptune-mc.md)

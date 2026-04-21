@@ -3,7 +3,7 @@ title: Jupiter/Saturn = Moon
 page_type: activation
 slug: jupiter-saturn-equals-moon
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Saturn
@@ -17,7 +17,7 @@ triad_set:
   - Saturn
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0784`
-- Source page: `226`
+- Source heading: `Jupiter + Saturn`
+- Source page: `207`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Changing moods, inclined to become easily upset. Annoyance through the female sex, changing relationships with women.
+From house to house, in and out. Fortunate separation from a woman or from. Fortunate separations from other persons. Public buildings.
 
 ## Comparative Schema
 
-- core meaning: Changing moods, inclined to become easily upset. Annoyance through the female sex, changing relationships with women.
+- core meaning: From house to house, in and out. Fortunate separation from a woman or from. Fortunate separations from other persons. Public buildings.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Changing moods, inclined to become easily upset. Annoyance through the female se
 - [Saturn](../factors/saturn.md)
 - [Moon](../factors/moon.md)
 - [Jupiter/Saturn](../axes/jupiter-saturn.md)
-- [Moon Jupiter Saturn](../triads/moon-jupiter-saturn.md)

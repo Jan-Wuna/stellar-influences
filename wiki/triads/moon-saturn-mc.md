@@ -3,7 +3,7 @@ title: Moon Saturn MC
 page_type: triad_hub
 slug: moon-saturn-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Saturn
@@ -18,7 +18,7 @@ orientations:
   - Saturn/MC = Moon
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Moon/MC = Saturn](../activations/moon-mc-equals-saturn.md)
-  Source page `143`, entry `0452`
+  Source page `60`
 - [Moon/Saturn = MC](../activations/moon-saturn-equals-mc.md)
-  Source page `127`, entry `0385`
+  Source page `126`
 - [Saturn/MC = Moon](../activations/saturn-mc-equals-moon.md)
-  Source page `263`, entry `0928`
+  Source page `66`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Moon/MC = Saturn`: page `143`, entry `0452`
-- `Moon/Saturn = MC`: page `127`, entry `0385`
-- `Saturn/MC = Moon`: page `263`, entry `0928`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Moon/MC = Saturn`: page `60`
+- `Moon/Saturn = MC`: page `126`
+- `Saturn/MC = Moon`: page `66`
 
 ## Contradictions Across Orientations
 

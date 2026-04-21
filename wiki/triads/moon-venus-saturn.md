@@ -3,7 +3,7 @@ title: Moon Venus Saturn
 page_type: triad_hub
 slug: moon-venus-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Venus
@@ -18,7 +18,7 @@ orientations:
   - Venus/Saturn = Moon
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Moon/Saturn = Venus](../activations/moon-saturn-equals-venus.md)
-  Source page `126`, entry `0377`
+  Source page `126`
 - [Moon/Venus = Saturn](../activations/moon-venus-equals-saturn.md)
-  Source page `117`, entry `0343`
+  Source page `123`
 - [Venus/Saturn = Moon](../activations/venus-saturn-equals-moon.md)
-  Source page `182`, entry `0604`
+  Source page `178`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Moon/Saturn = Venus`: page `126`, entry `0377`
-- `Moon/Venus = Saturn`: page `117`, entry `0343`
-- `Venus/Saturn = Moon`: page `182`, entry `0604`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Moon/Saturn = Venus`: page `126`
+- `Moon/Venus = Saturn`: page `123`
+- `Venus/Saturn = Moon`: page `178`
 
 ## Contradictions Across Orientations
 

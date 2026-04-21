@@ -3,7 +3,7 @@ title: Venus Mars MC
 page_type: triad_hub
 slug: venus-mars-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Mars
@@ -18,7 +18,7 @@ orientations:
   - Venus/Mars = MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/MC = Venus](../activations/mars-mc-equals-venus.md)
-  Source page `223`, entry `0774`
+  Source page `64`
 - [Venus/MC = Mars](../activations/venus-mc-equals-mars.md)
-  Source page `199`, entry `0678`
+  Source page `63`
 - [Venus/Mars = MC](../activations/venus-mars-equals-mc.md)
-  Source page `177`, entry `0589`
+  Source page `176`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/MC = Venus`: page `223`, entry `0774`
-- `Venus/MC = Mars`: page `199`, entry `0678`
-- `Venus/Mars = MC`: page `177`, entry `0589`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/MC = Venus`: page `64`
+- `Venus/MC = Mars`: page `63`
+- `Venus/Mars = MC`: page `176`
 
 ## Contradictions Across Orientations
 

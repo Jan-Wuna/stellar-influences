@@ -3,7 +3,7 @@ title: Mercury Node Asc
 page_type: triad_hub
 slug: mercury-node-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Node
@@ -18,7 +18,7 @@ orientations:
   - Node/Asc = Mercury
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mercury/Asc = Node](../activations/mercury-asc-equals-node.md)
-  Source page `171`, entry `0564`
+  Source page `83`
 - [Mercury/Node = Asc](../activations/mercury-node-equals-asc.md)
-  Source page `168`, entry `0552`
+  Source page `141`
 - [Node/Asc = Mercury](../activations/node-asc-equals-mercury.md)
-  Source page `301`, entry `1085`
+  Source page `82`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mercury/Asc = Node`: page `171`, entry `0564`
-- `Mercury/Node = Asc`: page `168`, entry `0552`
-- `Node/Asc = Mercury`: page `301`, entry `1085`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mercury/Asc = Node`: page `83`
+- `Mercury/Node = Asc`: page `141`
+- `Node/Asc = Mercury`: page `82`
 
 ## Contradictions Across Orientations
 

@@ -3,10 +3,10 @@ title: Pluto/Asc = Neptune
 page_type: activation
 slug: pluto-asc-equals-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Pluto
   - Asc
+  - Pluto
   - Neptune
 normalized_formula: Pluto/Asc = Neptune
 axis: Pluto/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1067`
-- Source page: `295`
+- Source heading: `Asc + Pluto`
+- Source page: `90`
+#### Witte Entry
 
-#### Ebertin Entry
-
-The misfortune to suffer from the actions of bad, malicious and deceitful people within one's environment. Experiencing a most awkward and unfortunate situation.
+To have to give up something through change of the surroundings. Change in the environment, where the results or consequences are only noticed much later, or not at all.
 
 ## Comparative Schema
 
-- core meaning: The misfortune to suffer from the actions of bad, malicious and deceitful people within one's environment. Experiencing a most awkward and unfortunate situation.
+- core meaning: To have to give up something through change of the surroundings. Change in the environment, where the results or consequences are only noticed much later, or not at all.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ The misfortune to suffer from the actions of bad, malicious and deceitful people
 - [Asc](../factors/asc.md)
 - [Neptune](../factors/neptune.md)
 - [Pluto/Asc](../axes/pluto-asc.md)
-- [Neptune Pluto Asc](../triads/neptune-pluto-asc.md)

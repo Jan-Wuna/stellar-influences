@@ -3,10 +3,10 @@ title: Neptune/Node = Moon
 page_type: activation
 slug: neptune-node-equals-moon
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Neptune
   - Node
+  - Neptune
   - Moon
 normalized_formula: Neptune/Node = Moon
 axis: Neptune/Node
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1012`
-- Source page: `35`
+- Source heading: `Node + Neptune`
+- Source page: `147`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Lack of adaptability and community spirit. Disappointments, unsatisfactory relationships with females, cessation of an inner understanding between people.
+To be tied to people who are confused and without counsel. Marital separations.
 
 ## Comparative Schema
 
-- core meaning: Lack of adaptability and community spirit. Disappointments, unsatisfactory relationships with females, cessation of an inner understanding between people.
+- core meaning: To be tied to people who are confused and without counsel. Marital separations.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Lack of adaptability and community spirit. Disappointments, unsatisfactory relat
 - [Node](../factors/node.md)
 - [Moon](../factors/moon.md)
 - [Neptune/Node](../axes/neptune-node.md)
-- [Moon Neptune Node](../triads/moon-neptune-node.md)

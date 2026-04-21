@@ -3,7 +3,7 @@ title: Venus Neptune MC
 page_type: triad_hub
 slug: venus-neptune-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Neptune
@@ -18,7 +18,7 @@ orientations:
   - Venus/Neptune = MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Neptune/MC = Venus](../activations/neptune-mc-equals-venus.md)
-  Source page `290`, entry `1038`
+  Source page `68`
 - [Venus/MC = Neptune](../activations/venus-mc-equals-neptune.md)
-  Source page `199`, entry `0682`
+  Source page `63`
 - [Venus/Neptune = MC](../activations/venus-neptune-equals-mc.md)
-  Source page `189`, entry `0637`
+  Source page `180`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Neptune/MC = Venus`: page `290`, entry `1038`
-- `Venus/MC = Neptune`: page `199`, entry `0682`
-- `Venus/Neptune = MC`: page `189`, entry `0637`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Neptune/MC = Venus`: page `68`
+- `Venus/MC = Neptune`: page `63`
+- `Venus/Neptune = MC`: page `180`
 
 ## Contradictions Across Orientations
 

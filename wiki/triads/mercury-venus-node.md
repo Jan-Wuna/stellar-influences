@@ -3,7 +3,7 @@ title: Mercury Venus Node
 page_type: triad_hub
 slug: mercury-venus-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Venus
@@ -18,7 +18,7 @@ orientations:
   - Venus/Node = Mercury
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mercury/Node = Venus](../activations/mercury-node-equals-venus.md)
-  Source page `167`, entry `0545`
+  Source page `141`
 - [Mercury/Venus = Node](../activations/mercury-venus-equals-node.md)
-  Source page `147`, entry `0467`
+  Source page `159`
 - [Venus/Node = Mercury](../activations/venus-node-equals-mercury.md)
-  Source page `193`, entry `0653`
+  Source page `142`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mercury/Node = Venus`: page `167`, entry `0545`
-- `Mercury/Venus = Node`: page `147`, entry `0467`
-- `Venus/Node = Mercury`: page `193`, entry `0653`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mercury/Node = Venus`: page `141`
+- `Mercury/Venus = Node`: page `159`
+- `Venus/Node = Mercury`: page `142`
 
 ## Contradictions Across Orientations
 

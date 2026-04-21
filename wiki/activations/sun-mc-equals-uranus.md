@@ -3,10 +3,10 @@ title: Sun/MC = Uranus
 page_type: activation
 slug: sun-mc-equals-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Sun
   - MC
+  - Sun
   - Uranus
 normalized_formula: Sun/MC = Uranus
 axis: Sun/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0321`
-- Source page: `111`
+- Source heading: `MC + Sun`
+- Source page: `59`
+#### Witte Entry
 
-#### Ebertin Entry
-
-"A restless spirit," a revolutionist or rebel, psychological tension. A sudden change of objective, inner conflict.
+Strong physical and mental tension. Conflicts. Nervousness of body and soul. Sudden physical outbursts.
 
 ## Comparative Schema
 
-- core meaning: "A restless spirit," a revolutionist or rebel, psychological tension. A sudden change of objective, inner conflict.
+- core meaning: Strong physical and mental tension. Conflicts. Nervousness of body and soul. Sudden physical outbursts.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ updated_at: 2026-04-21
 - [MC](../factors/mc.md)
 - [Uranus](../factors/uranus.md)
 - [Sun/MC](../axes/sun-mc.md)
-- [Sun Uranus MC](../triads/sun-uranus-mc.md)

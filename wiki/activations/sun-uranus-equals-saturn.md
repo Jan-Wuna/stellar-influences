@@ -3,7 +3,7 @@ title: Sun/Uranus = Saturn
 page_type: activation
 slug: sun-uranus-equals-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Uranus
@@ -17,7 +17,7 @@ triad_set:
   - Uranus
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0260`
-- Source page: `96`
+- Source heading: `Sun + Uranus`
+- Source page: `108`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Rebellion against limitation of freedom. Inhibitions and difficulties overcome through extraordinary efforts. Sudden separation, sudden loss, separation from another person carried out in haste.
+Trying to rid oneself of something through physical efforts. To give birth. Sudden physical separations. To run away fast. Difficulties due to resistance. Painful and grievous surprises. Shaking with ague.
 
 ## Comparative Schema
 
-- core meaning: Rebellion against limitation of freedom. Inhibitions and difficulties overcome through extraordinary efforts. Sudden separation, sudden loss, separation from another person carried out in haste.
+- core meaning: Trying to rid oneself of something through physical efforts. To give birth. Sudden physical separations. To run away fast. Difficulties due to resistance. Painful and grievous surprises. Shaking with ague.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Rebellion against limitation of freedom. Inhibitions and difficulties overcome t
 - [Uranus](../factors/uranus.md)
 - [Saturn](../factors/saturn.md)
 - [Sun/Uranus](../axes/sun-uranus.md)
-- [Sun Saturn Uranus](../triads/sun-saturn-uranus.md)

@@ -3,7 +3,7 @@ title: Mars Node Asc
 page_type: triad_hub
 slug: mars-node-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Node
@@ -18,7 +18,7 @@ orientations:
   - Node/Asc = Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Asc = Node](../activations/mars-asc-equals-node.md)
-  Source page `221`, entry `0768`
+  Source page `85`
 - [Mars/Node = Asc](../activations/mars-node-equals-asc.md)
-  Source page `218`, entry `0756`
+  Source page `143`
 - [Node/Asc = Mars](../activations/node-asc-equals-mars.md)
-  Source page `301`, entry `1087`
+  Source page `82`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/Asc = Node`: page `221`, entry `0768`
-- `Mars/Node = Asc`: page `218`, entry `0756`
-- `Node/Asc = Mars`: page `301`, entry `1087`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/Asc = Node`: page `85`
+- `Mars/Node = Asc`: page `143`
+- `Node/Asc = Mars`: page `82`
 
 ## Contradictions Across Orientations
 

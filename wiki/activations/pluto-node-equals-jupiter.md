@@ -3,10 +3,10 @@ title: Pluto/Node = Jupiter
 page_type: activation
 slug: pluto-node-equals-jupiter
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Pluto
   - Node
+  - Pluto
   - Jupiter
 normalized_formula: Pluto/Node = Jupiter
 axis: Pluto/Node
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1052`
-- Source page: `293`
+- Source heading: `Node + Pluto`
+- Source page: `148`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Desire to obtain position and power by force through the help of other people. Attainment of great gains through others.
+Fortunate changes in the connections.
 
 ## Comparative Schema
 
-- core meaning: Desire to obtain position and power by force through the help of other people. Attainment of great gains through others.
+- core meaning: Fortunate changes in the connections.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Desire to obtain position and power by force through the help of other people. A
 - [Node](../factors/node.md)
 - [Jupiter](../factors/jupiter.md)
 - [Pluto/Node](../axes/pluto-node.md)
-- [Jupiter Pluto Node](../triads/jupiter-pluto-node.md)

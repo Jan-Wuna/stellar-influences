@@ -3,7 +3,7 @@ title: Uranus/Neptune = Sun
 page_type: activation
 slug: uranus-neptune-equals-sun
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Uranus
   - Neptune
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0939`
-- Source page: `266`
+- Source heading: `Uranus + Neptune`
+- Source page: `234`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Lack of vitality, sensitive physique, impressionable. Unconsciousness, illness, lifelessness or impassiveness. (Epilepsy.)
+Days of change between tension and relaxation. The man who changes between tension and relaxation, who works energetically or not at all, who is thrown back and forth by impulses. To be a medium. Apparent death.
 
 ## Comparative Schema
 
-- core meaning: Lack of vitality, sensitive physique, impressionable. Unconsciousness, illness, lifelessness or impassiveness. (Epilepsy.)
+- core meaning: Days of change between tension and relaxation. The man who changes between tension and relaxation, who works energetically or not at all, who is thrown back and forth by impulses. To be a medium. Apparent death.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Lack of vitality, sensitive physique, impressionable. Unconsciousness, illness, 
 - [Neptune](../factors/neptune.md)
 - [Sun](../factors/sun.md)
 - [Uranus/Neptune](../axes/uranus-neptune.md)
-- [Sun Uranus Neptune](../triads/sun-uranus-neptune.md)

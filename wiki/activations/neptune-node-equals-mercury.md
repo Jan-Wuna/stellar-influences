@@ -3,10 +3,10 @@ title: Neptune/Node = Mercury
 page_type: activation
 slug: neptune-node-equals-mercury
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Neptune
   - Node
+  - Neptune
   - Mercury
 normalized_formula: Neptune/Node = Mercury
 axis: Neptune/Node
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1013`
-- Source page: `284`
+- Source heading: `Node + Neptune`
+- Source page: `147`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Misconceptions about certain associations, false expectations, tendency to make secret arrangements with others and to deceive others.
+Vivid imagination. Fantastic connections of thought. To think about dissolved connections. Erroneous train of thoughts. Secret society held together by fruidess ideas.
 
 ## Comparative Schema
 
-- core meaning: Misconceptions about certain associations, false expectations, tendency to make secret arrangements with others and to deceive others.
+- core meaning: Vivid imagination. Fantastic connections of thought. To think about dissolved connections. Erroneous train of thoughts. Secret society held together by fruidess ideas.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Misconceptions about certain associations, false expectations, tendency to make 
 - [Node](../factors/node.md)
 - [Mercury](../factors/mercury.md)
 - [Neptune/Node](../axes/neptune-node.md)
-- [Mercury Neptune Node](../triads/mercury-neptune-node.md)

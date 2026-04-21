@@ -3,7 +3,7 @@ title: Moon/Uranus = Mars
 page_type: activation
 slug: moon-uranus-equals-mars
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Uranus
@@ -17,7 +17,7 @@ triad_set:
   - Uranus
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0390`
-- Source page: `129`
+- Source heading: `Moon + Uranus`
+- Source page: `127`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Excessive ambition, the craving for sensation, lack of self-control, the tendency to act rashly. Acts of violence. Injury.
+Hours of energetic activities. Excited through actions. To act in the state of excitement. Women who are inclined to violence. Hurts caused by a woman. Acts of an insurgent people.
 
 ## Comparative Schema
 
-- core meaning: Excessive ambition, the craving for sensation, lack of self-control, the tendency to act rashly. Acts of violence. Injury.
+- core meaning: Hours of energetic activities. Excited through actions. To act in the state of excitement. Women who are inclined to violence. Hurts caused by a woman. Acts of an insurgent people.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Excessive ambition, the craving for sensation, lack of self-control, the tendenc
 - [Uranus](../factors/uranus.md)
 - [Mars](../factors/mars.md)
 - [Moon/Uranus](../axes/moon-uranus.md)
-- [Moon Mars Uranus](../triads/moon-mars-uranus.md)

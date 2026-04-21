@@ -3,7 +3,7 @@ title: Moon/Jupiter = Uranus
 page_type: activation
 slug: moon-jupiter-equals-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Jupiter
@@ -17,7 +17,7 @@ triad_set:
   - Uranus
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0368`
-- Source page: `123`
+- Source heading: `Moon + Jupiter`
+- Source page: `125`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Occasional outbursts of hilarity and gaiety, confidence, optimism, the love of enterprise. Sudden good fortune, blissful procreation.
+The mind is excited through luck or a fortunate changes. Cheerful mood. Suddenly happy (lucky) woman. Sudden or unexpected pregnancy.
 
 ## Comparative Schema
 
-- core meaning: Occasional outbursts of hilarity and gaiety, confidence, optimism, the love of enterprise. Sudden good fortune, blissful procreation.
+- core meaning: The mind is excited through luck or a fortunate changes. Cheerful mood. Suddenly happy (lucky) woman. Sudden or unexpected pregnancy.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Occasional outbursts of hilarity and gaiety, confidence, optimism, the love of e
 - [Jupiter](../factors/jupiter.md)
 - [Uranus](../factors/uranus.md)
 - [Moon/Jupiter](../axes/moon-jupiter.md)
-- [Moon Jupiter Uranus](../triads/moon-jupiter-uranus.md)

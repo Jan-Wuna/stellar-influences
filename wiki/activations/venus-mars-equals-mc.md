@@ -3,7 +3,7 @@ title: Venus/Mars = MC
 page_type: activation
 slug: venus-mars-equals-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Mars
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0589`
-- Source page: `177`
+- Source heading: `Venus + Mars`
+- Source page: `176`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Pronounced sensuality in individual attitude to physical love. The desire to become one with the other in soul and body, establishment of sex relationship (marriage).
+To inflame. Desire. Intimate acquaintances. Personal relation or attitude towards blood relationship. To work with love and devotion.
 
 ## Comparative Schema
 
-- core meaning: Pronounced sensuality in individual attitude to physical love. The desire to become one with the other in soul and body, establishment of sex relationship (marriage).
+- core meaning: To inflame. Desire. Intimate acquaintances. Personal relation or attitude towards blood relationship. To work with love and devotion.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Pronounced sensuality in individual attitude to physical love. The desire to bec
 - [Mars](../factors/mars.md)
 - [MC](../factors/mc.md)
 - [Venus/Mars](../axes/venus-mars.md)
-- [Venus Mars MC](../triads/venus-mars-mc.md)

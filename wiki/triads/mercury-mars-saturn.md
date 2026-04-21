@@ -3,7 +3,7 @@ title: Mercury Mars Saturn
 page_type: triad_hub
 slug: mercury-mars-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Mars
@@ -18,7 +18,7 @@ orientations:
   - Mercury/Saturn = Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Saturn = Mercury](../activations/mars-saturn-equals-mercury.md)
-  Source page `205`, entry `0701`
+  Source page `193`
 - [Mercury/Mars = Saturn](../activations/mercury-mars-equals-saturn.md)
-  Source page `149`, entry `0475`
+  Source page `160`
 - [Mercury/Saturn = Mars](../activations/mercury-saturn-equals-mars.md)
-  Source page `155`, entry `0498`
+  Source page `162`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/Saturn = Mercury`: page `205`, entry `0701`
-- `Mercury/Mars = Saturn`: page `149`, entry `0475`
-- `Mercury/Saturn = Mars`: page `155`, entry `0498`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/Saturn = Mercury`: page `193`
+- `Mercury/Mars = Saturn`: page `160`
+- `Mercury/Saturn = Mars`: page `162`
 
 ## Contradictions Across Orientations
 

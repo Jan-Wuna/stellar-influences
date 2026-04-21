@@ -3,7 +3,7 @@ title: Venus Neptune Pluto
 page_type: triad_hub
 slug: venus-neptune-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Neptune
@@ -18,7 +18,7 @@ orientations:
   - Venus/Pluto = Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Neptune/Pluto = Venus](../activations/neptune-pluto-equals-venus.md)
-  Source page `281`, entry `1002`
+  Source page `246`
 - [Venus/Neptune = Pluto](../activations/venus-neptune-equals-pluto.md)
-  Source page `188`, entry `0634`
+  Source page `180`
 - [Venus/Pluto = Neptune](../activations/venus-pluto-equals-neptune.md)
-  Source page `191`, entry `0646`
+  Source page `181`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Neptune/Pluto = Venus`: page `281`, entry `1002`
-- `Venus/Neptune = Pluto`: page `188`, entry `0634`
-- `Venus/Pluto = Neptune`: page `191`, entry `0646`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Neptune/Pluto = Venus`: page `246`
+- `Venus/Neptune = Pluto`: page `180`
+- `Venus/Pluto = Neptune`: page `181`
 
 ## Contradictions Across Orientations
 

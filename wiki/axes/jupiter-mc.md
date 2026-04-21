@@ -3,7 +3,7 @@ title: Jupiter/MC
 page_type: axis
 slug: jupiter-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - MC
@@ -11,8 +11,11 @@ normalized_axis: Jupiter/MC
 factor_a: Jupiter
 factor_b: MC
 related_activations:
+  - Jupiter/MC = Aries
+  - Jupiter/MC = Asc
   - Jupiter/MC = Sun
   - Jupiter/MC = Moon
+  - Jupiter/MC = Node
   - Jupiter/MC = Mercury
   - Jupiter/MC = Venus
   - Jupiter/MC = Mars
@@ -20,10 +23,25 @@ related_activations:
   - Jupiter/MC = Uranus
   - Jupiter/MC = Neptune
   - Jupiter/MC = Pluto
-  - Jupiter/MC = Node
-  - Jupiter/MC = Asc
+  - Jupiter/MC = Cupido
+  - Jupiter/MC = Hades
+  - Jupiter/MC = Zeus
+  - Jupiter/MC = Kronos
+  - Jupiter/MC = Apollon
+  - Jupiter/MC = Admetos
+  - Jupiter/MC = Vulcanus
+  - Jupiter/MC = Poseidon
 related_triad_hubs:
+  - Aries Jupiter MC
   - Jupiter Asc MC
+  - Jupiter MC Admetos
+  - Jupiter MC Apollon
+  - Jupiter MC Cupido
+  - Jupiter MC Hades
+  - Jupiter MC Kronos
+  - Jupiter MC Poseidon
+  - Jupiter MC Vulcanus
+  - Jupiter MC Zeus
   - Jupiter Neptune MC
   - Jupiter Node MC
   - Jupiter Pluto MC
@@ -37,7 +55,7 @@ related_triad_hubs:
 aliases:
   - MC/Jupiter
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,47 +63,33 @@ updated_at: 2026-04-21
 
 - Axis: `Jupiter/MC`
 - Astronomicon axis: `V/MC`
-- Source heading: `Jupiter/Medium Coeli`
-- Source page: `243`
+- Source heading: `MC + Jupiter`
+- Source page: `65`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-Consciousness of aim or objective in life.
-
-#### Psychological Correspondence
-
-+ "A noble and fine human soul," a happy and harmonious person, striving for success, consciousness of aim or purpose in life, optimism, generosity, contentment. - A strong desire to be of importance in the world, ability to make good in life or to rise successfully in one's career. C Optimism, contentment.
-
-#### Biological Correspondence
-
-A sense of maintaining good health, hygiene.
-
-#### Sociological Correspondence
-
-Successful people.
-
-#### Probable Manifestations
-
-+ Attainment of success, gaining a new position; "it is a great gift of the gods to find a noble and fine human soul." - Changing or fluctuating circumstances, changes in one's style of living or occupation. Jupiter/Medium Coeli H/M
-
+Blissful feelings. To be positive of one’s own direction in life. An optimist. To be well-wishing and benevolent. Harmless, good natured or contented. To feel happy. Reach one’s own goals with luck and success. The own attitude to money. Moment of happiness.
 
 ## Comparative Schema
 
-- core meaning: Consciousness of aim or objective in life.
-- psychology: + "A noble and fine human soul," a happy and harmonious person, striving for success, consciousness of aim or purpose in life, optimism, generosity, contentment. - A strong desire to be of importance in the world, ability to make good in life or to rise successfully in one's career. C Optimism, contentment.
-- body/health: A sense of maintaining good health, hygiene.
-- social/relationship: Successful people.
-- events/manifestations: + Attainment of success, gaining a new position; "it is a great gift of the gods to find a noble and fine human soul." - Changing or fluctuating circumstances, changes in one's style of living or occupation. Jupiter/Medium Coeli H/M
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: Blissful feelings. To be positive of one’s own direction in life. An optimist. To be well-wishing and benevolent. Harmless, good natured or contented. To feel happy. Reach one’s own goals with luck and success. The own attitude to money. Moment of happiness.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Jupiter/MC = Aries](../activations/jupiter-mc-equals-aries.md)
+- [Jupiter/MC = Asc](../activations/jupiter-mc-equals-asc.md)
 - [Jupiter/MC = Sun](../activations/jupiter-mc-equals-sun.md)
 - [Jupiter/MC = Moon](../activations/jupiter-mc-equals-moon.md)
+- [Jupiter/MC = Node](../activations/jupiter-mc-equals-node.md)
 - [Jupiter/MC = Mercury](../activations/jupiter-mc-equals-mercury.md)
 - [Jupiter/MC = Venus](../activations/jupiter-mc-equals-venus.md)
 - [Jupiter/MC = Mars](../activations/jupiter-mc-equals-mars.md)
@@ -93,8 +97,14 @@ Successful people.
 - [Jupiter/MC = Uranus](../activations/jupiter-mc-equals-uranus.md)
 - [Jupiter/MC = Neptune](../activations/jupiter-mc-equals-neptune.md)
 - [Jupiter/MC = Pluto](../activations/jupiter-mc-equals-pluto.md)
-- [Jupiter/MC = Node](../activations/jupiter-mc-equals-node.md)
-- [Jupiter/MC = Asc](../activations/jupiter-mc-equals-asc.md)
+- [Jupiter/MC = Cupido](../activations/jupiter-mc-equals-cupido.md)
+- [Jupiter/MC = Hades](../activations/jupiter-mc-equals-hades.md)
+- [Jupiter/MC = Zeus](../activations/jupiter-mc-equals-zeus.md)
+- [Jupiter/MC = Kronos](../activations/jupiter-mc-equals-kronos.md)
+- [Jupiter/MC = Apollon](../activations/jupiter-mc-equals-apollon.md)
+- [Jupiter/MC = Admetos](../activations/jupiter-mc-equals-admetos.md)
+- [Jupiter/MC = Vulcanus](../activations/jupiter-mc-equals-vulcanus.md)
+- [Jupiter/MC = Poseidon](../activations/jupiter-mc-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Successful people.
 
 - [Jupiter](../factors/jupiter.md)
 - [MC](../factors/mc.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

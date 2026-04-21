@@ -3,7 +3,7 @@ title: Uranus/Pluto = Mars
 page_type: activation
 slug: uranus-pluto-equals-mars
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Uranus
   - Pluto
@@ -17,7 +17,7 @@ triad_set:
   - Pluto
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0955`
-- Source page: `269`
+- Source heading: `Uranus + Pluto`
+- Source page: `235`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Fanaticism, act of violence, mania of destruction, a state of precipitation. "The stage of bending or breaking." Injury, accident.
+Sudden change in activity. To carry out activity after a quickly set up plan.
 
 ## Comparative Schema
 
-- core meaning: Fanaticism, act of violence, mania of destruction, a state of precipitation. "The stage of bending or breaking." Injury, accident.
+- core meaning: Sudden change in activity. To carry out activity after a quickly set up plan.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Fanaticism, act of violence, mania of destruction, a state of precipitation. "Th
 - [Pluto](../factors/pluto.md)
 - [Mars](../factors/mars.md)
 - [Uranus/Pluto](../axes/uranus-pluto.md)
-- [Mars Uranus Pluto](../triads/mars-uranus-pluto.md)

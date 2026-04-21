@@ -3,7 +3,7 @@ title: Mercury Jupiter MC
 page_type: triad_hub
 slug: mercury-jupiter-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Jupiter
@@ -14,10 +14,11 @@ triad_set:
   - MC
 orientations:
   - Jupiter/MC = Mercury
+  - Mercury/Jupiter = MC
   - Mercury/MC = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,15 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/MC = Mercury](../activations/jupiter-mc-equals-mercury.md)
-  Source page `244`, entry `0857`
+  Source page `65`
+- [Mercury/Jupiter = MC](../activations/mercury-jupiter-equals-mc.md)
+  Source page `161`
 - [Mercury/MC = Jupiter](../activations/mercury-mc-equals-jupiter.md)
-  Source page `173`, entry `0571`
+  Source page `62`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/MC = Mercury`: page `244`, entry `0857`
-- `Mercury/MC = Jupiter`: page `173`, entry `0571`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/MC = Mercury`: page `65`
+- `Mercury/Jupiter = MC`: page `161`
+- `Mercury/MC = Jupiter`: page `62`
 
 ## Contradictions Across Orientations
 

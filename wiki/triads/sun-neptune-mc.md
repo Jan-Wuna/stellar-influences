@@ -3,7 +3,7 @@ title: Sun Neptune MC
 page_type: triad_hub
 slug: sun-neptune-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Neptune
@@ -18,7 +18,7 @@ orientations:
   - Sun/Neptune = MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Neptune/MC = Sun](../activations/neptune-mc-equals-sun.md)
-  Source page `290`, entry `1035`
+  Source page `68`
 - [Sun/MC = Neptune](../activations/sun-mc-equals-neptune.md)
-  Source page `111`, entry `0322`
+  Source page `59`
 - [Sun/Neptune = MC](../activations/sun-neptune-equals-mc.md)
-  Source page `100`, entry `0277`
+  Source page `109`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Neptune/MC = Sun`: page `290`, entry `1035`
-- `Sun/MC = Neptune`: page `111`, entry `0322`
-- `Sun/Neptune = MC`: page `100`, entry `0277`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Neptune/MC = Sun`: page `68`
+- `Sun/MC = Neptune`: page `59`
+- `Sun/Neptune = MC`: page `109`
 
 ## Contradictions Across Orientations
 

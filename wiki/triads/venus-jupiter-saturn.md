@@ -3,7 +3,7 @@ title: Venus Jupiter Saturn
 page_type: triad_hub
 slug: venus-jupiter-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Jupiter
@@ -18,7 +18,7 @@ orientations:
   - Venus/Saturn = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Saturn = Venus](../activations/jupiter-saturn-equals-venus.md)
-  Source page `226`, entry `0786`
+  Source page `207`
 - [Venus/Jupiter = Saturn](../activations/venus-jupiter-equals-saturn.md)
-  Source page `179`, entry `0595`
+  Source page `177`
 - [Venus/Saturn = Jupiter](../activations/venus-saturn-equals-jupiter.md)
-  Source page `182`, entry `0607`
+  Source page `178`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/Saturn = Venus`: page `226`, entry `0786`
-- `Venus/Jupiter = Saturn`: page `179`, entry `0595`
-- `Venus/Saturn = Jupiter`: page `182`, entry `0607`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/Saturn = Venus`: page `207`
+- `Venus/Jupiter = Saturn`: page `177`
+- `Venus/Saturn = Jupiter`: page `178`
 
 ## Contradictions Across Orientations
 

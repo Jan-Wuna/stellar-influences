@@ -3,10 +3,10 @@ title: Neptune/MC = Mars
 page_type: activation
 slug: neptune-mc-equals-mars
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Neptune
   - MC
+  - Neptune
   - Mars
 normalized_formula: Neptune/MC = Mars
 axis: Neptune/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1039`
-- Source page: `290`
+- Source heading: `MC + Neptune`
+- Source page: `68`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Tendency to act without clear understanding or purpose, desire to bring the wrong ideas into realization, study of metaphysical subjects. Desire to harm other people.
+Not sure of one’s attitude. Irresolute in decision. Work which is unsatisfactory and is never finished. Occupation with the unknown. Swindler. Arrant knave.
 
 ## Comparative Schema
 
-- core meaning: Tendency to act without clear understanding or purpose, desire to bring the wrong ideas into realization, study of metaphysical subjects. Desire to harm other people.
+- core meaning: Not sure of one’s attitude. Irresolute in decision. Work which is unsatisfactory and is never finished. Occupation with the unknown. Swindler. Arrant knave.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Tendency to act without clear understanding or purpose, desire to bring the wron
 - [MC](../factors/mc.md)
 - [Mars](../factors/mars.md)
 - [Neptune/MC](../axes/neptune-mc.md)
-- [Mars Neptune MC](../triads/mars-neptune-mc.md)

@@ -3,7 +3,7 @@ title: Jupiter/Uranus = Mars
 page_type: activation
 slug: jupiter-uranus-equals-mars
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Uranus
@@ -17,7 +17,7 @@ triad_set:
   - Uranus
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0799`
-- Source page: `229`
+- Source heading: `Jupiter + Uranus`
+- Source page: `208`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Quick determination, desire to realize one's ideas at once, love of freedom. Desire to make one's fortune in life, speculation, making fortunate decisions (engagement).
+Sudden betrothal. Fruit-bearing, promising deeds. Working for technological success.
 
 ## Comparative Schema
 
-- core meaning: Quick determination, desire to realize one's ideas at once, love of freedom. Desire to make one's fortune in life, speculation, making fortunate decisions (engagement).
+- core meaning: Sudden betrothal. Fruit-bearing, promising deeds. Working for technological success.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Quick determination, desire to realize one's ideas at once, love of freedom. Des
 - [Uranus](../factors/uranus.md)
 - [Mars](../factors/mars.md)
 - [Jupiter/Uranus](../axes/jupiter-uranus.md)
-- [Mars Jupiter Uranus](../triads/mars-jupiter-uranus.md)

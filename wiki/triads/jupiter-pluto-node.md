@@ -3,7 +3,7 @@ title: Jupiter Pluto Node
 page_type: triad_hub
 slug: jupiter-pluto-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Pluto
@@ -18,7 +18,7 @@ orientations:
   - Pluto/Node = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Node = Pluto](../activations/jupiter-node-equals-pluto.md)
-  Source page `238`, entry `0839`
+  Source page `144`
 - [Jupiter/Pluto = Node](../activations/jupiter-pluto-equals-node.md)
-  Source page `235`, entry `0827`
+  Source page `210`
 - [Pluto/Node = Jupiter](../activations/pluto-node-equals-jupiter.md)
-  Source page `293`, entry `1052`
+  Source page `148`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/Node = Pluto`: page `238`, entry `0839`
-- `Jupiter/Pluto = Node`: page `235`, entry `0827`
-- `Pluto/Node = Jupiter`: page `293`, entry `1052`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/Node = Pluto`: page `144`
+- `Jupiter/Pluto = Node`: page `210`
+- `Pluto/Node = Jupiter`: page `148`
 
 ## Contradictions Across Orientations
 

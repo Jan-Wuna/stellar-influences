@@ -3,7 +3,7 @@ title: Mars Pluto Node
 page_type: triad_hub
 slug: mars-pluto-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Pluto
@@ -18,7 +18,7 @@ orientations:
   - Pluto/Node = Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Node = Pluto](../activations/mars-node-equals-pluto.md)
-  Source page `217`, entry `0755`
+  Source page `143`
 - [Mars/Pluto = Node](../activations/mars-pluto-equals-node.md)
-  Source page `214`, entry `0743`
+  Source page `196`
 - [Pluto/Node = Mars](../activations/pluto-node-equals-mars.md)
-  Source page `293`, entry `1051`
+  Source page `148`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/Node = Pluto`: page `217`, entry `0755`
-- `Mars/Pluto = Node`: page `214`, entry `0743`
-- `Pluto/Node = Mars`: page `293`, entry `1051`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/Node = Pluto`: page `143`
+- `Mars/Pluto = Node`: page `196`
+- `Pluto/Node = Mars`: page `148`
 
 ## Contradictions Across Orientations
 

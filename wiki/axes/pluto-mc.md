@@ -3,7 +3,7 @@ title: Pluto/MC
 page_type: axis
 slug: pluto-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Pluto
   - MC
@@ -11,8 +11,11 @@ normalized_axis: Pluto/MC
 factor_a: Pluto
 factor_b: MC
 related_activations:
+  - Pluto/MC = Aries
+  - Pluto/MC = Asc
   - Pluto/MC = Sun
   - Pluto/MC = Moon
+  - Pluto/MC = Node
   - Pluto/MC = Mercury
   - Pluto/MC = Venus
   - Pluto/MC = Mars
@@ -20,15 +23,30 @@ related_activations:
   - Pluto/MC = Saturn
   - Pluto/MC = Uranus
   - Pluto/MC = Neptune
-  - Pluto/MC = Node
-  - Pluto/MC = Asc
+  - Pluto/MC = Cupido
+  - Pluto/MC = Hades
+  - Pluto/MC = Zeus
+  - Pluto/MC = Kronos
+  - Pluto/MC = Apollon
+  - Pluto/MC = Admetos
+  - Pluto/MC = Vulcanus
+  - Pluto/MC = Poseidon
 related_triad_hubs:
+  - Aries Pluto MC
   - Jupiter Pluto MC
   - Mars Pluto MC
   - Mercury Pluto MC
   - Moon Pluto MC
   - Neptune Pluto MC
   - Pluto Asc MC
+  - Pluto MC Admetos
+  - Pluto MC Apollon
+  - Pluto MC Cupido
+  - Pluto MC Hades
+  - Pluto MC Kronos
+  - Pluto MC Poseidon
+  - Pluto MC Vulcanus
+  - Pluto MC Zeus
   - Pluto Node MC
   - Saturn Pluto MC
   - Sun Pluto MC
@@ -37,7 +55,7 @@ related_triad_hubs:
 aliases:
   - MC/Pluto
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,47 +63,33 @@ updated_at: 2026-04-21
 
 - Axis: `Pluto/MC`
 - Astronomicon axis: `Z/MC`
-- Source heading: `Pluto/Medium Coeli`
-- Source page: `297`
+- Source heading: `MC + Pluto`
+- Source page: `69`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-The shaping of the individuality.
-
-#### Psychological Correspondence
-
-+ Desire to become important, growth and development of strength. The power to attain success in life, ability to organize, prudence, vision, authority. - Foolhardy and daring, licentious. The abuse of power, an antisocial conduct. Tendency to create feelings of resistance and vindictiveness in other people. C Authority. Ability to maintain one's position in life. Fame.
-
-#### Biological Correspondence
-
-Desire to recuperate or to regain one's health. Decision to undergo an operation. A change of therapy.
-
-#### Sociological Correspondence
-
-People excelling in their particular profession or occupation. Experts of great authority in their particular field.
-
-#### Probable Manifestations
-
-+ Attainment of recognition and power. Inclination to look upon one's vocation or calling as a mission. Inner change and transformation, readjustment of one's circumstances in life. Attainment of greater independence than enjoyed hitherto. - The likelihood of sudden ruin through the misuse of power, a crisis at a certain juncture in life, a turn in one's destiny brought about by providence. Pluto/Medium Coeli ^/M
-
+One’s own intellectual capacity, as well as the ability and possibility of development. Ones capacity to apprehend. Ones own transformation and development. Inner transformation. The developmental stages of the own mind. Metamorphosis. To appear to be a completely different person. Moment (minute) of change.
 
 ## Comparative Schema
 
-- core meaning: The shaping of the individuality.
-- psychology: + Desire to become important, growth and development of strength. The power to attain success in life, ability to organize, prudence, vision, authority. - Foolhardy and daring, licentious. The abuse of power, an antisocial conduct. Tendency to create feelings of resistance and vindictiveness in other people. C Authority. Ability to maintain one's position in life. Fame.
-- body/health: Desire to recuperate or to regain one's health. Decision to undergo an operation. A change of therapy.
-- social/relationship: People excelling in their particular profession or occupation. Experts of great authority in their particular field.
-- events/manifestations: + Attainment of recognition and power. Inclination to look upon one's vocation or calling as a mission. Inner change and transformation, readjustment of one's circumstances in life. Attainment of greater independence than enjoyed hitherto. - The likelihood of sudden ruin through the misuse of power, a crisis at a certain juncture in life, a turn in one's destiny brought about by providence. Pluto/Medium Coeli ^/M
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: One’s own intellectual capacity, as well as the ability and possibility of development. Ones capacity to apprehend. Ones own transformation and development. Inner transformation. The developmental stages of the own mind. Metamorphosis. To appear to be a completely different person. Moment (minute) of change.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Pluto/MC = Aries](../activations/pluto-mc-equals-aries.md)
+- [Pluto/MC = Asc](../activations/pluto-mc-equals-asc.md)
 - [Pluto/MC = Sun](../activations/pluto-mc-equals-sun.md)
 - [Pluto/MC = Moon](../activations/pluto-mc-equals-moon.md)
+- [Pluto/MC = Node](../activations/pluto-mc-equals-node.md)
 - [Pluto/MC = Mercury](../activations/pluto-mc-equals-mercury.md)
 - [Pluto/MC = Venus](../activations/pluto-mc-equals-venus.md)
 - [Pluto/MC = Mars](../activations/pluto-mc-equals-mars.md)
@@ -93,8 +97,14 @@ People excelling in their particular profession or occupation. Experts of great 
 - [Pluto/MC = Saturn](../activations/pluto-mc-equals-saturn.md)
 - [Pluto/MC = Uranus](../activations/pluto-mc-equals-uranus.md)
 - [Pluto/MC = Neptune](../activations/pluto-mc-equals-neptune.md)
-- [Pluto/MC = Node](../activations/pluto-mc-equals-node.md)
-- [Pluto/MC = Asc](../activations/pluto-mc-equals-asc.md)
+- [Pluto/MC = Cupido](../activations/pluto-mc-equals-cupido.md)
+- [Pluto/MC = Hades](../activations/pluto-mc-equals-hades.md)
+- [Pluto/MC = Zeus](../activations/pluto-mc-equals-zeus.md)
+- [Pluto/MC = Kronos](../activations/pluto-mc-equals-kronos.md)
+- [Pluto/MC = Apollon](../activations/pluto-mc-equals-apollon.md)
+- [Pluto/MC = Admetos](../activations/pluto-mc-equals-admetos.md)
+- [Pluto/MC = Vulcanus](../activations/pluto-mc-equals-vulcanus.md)
+- [Pluto/MC = Poseidon](../activations/pluto-mc-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ People excelling in their particular profession or occupation. Experts of great 
 
 - [Pluto](../factors/pluto.md)
 - [MC](../factors/mc.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

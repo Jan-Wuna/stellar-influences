@@ -3,7 +3,7 @@ title: Mars/Saturn = MC
 page_type: activation
 slug: mars-saturn-equals-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Saturn
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0709`
-- Source page: `206`
+- Source heading: `Mars + Saturn`
+- Source page: `193`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Endurance, power of resistance, indefatigable. The need to overcome many difficulties in life, ability to bear the suffering of the soul (with dignity and without complaint). Mourning and bereavement (death). Mars/Saturn has only related to accidents or some kind of suffering if the native was in a position and an environment and conditions which made such serious consequences possible. 39 There are many people who have MC = Mars/Saturn in their chart and yet live to an old age. However, the first part of this interpretation is correct as these people are very tough and have a great deal of perseverence, having to use an exceptional amound of energy in order to keep their place at work and maintain their position in life.
+Grief. To suffer from separations or separating actions. Decease. Cause of death. Dying. Deaths of others that make a deep impression upon the mind of the native. One’s own death.
 
 ## Comparative Schema
 
-- core meaning: Endurance, power of resistance, indefatigable. The need to overcome many difficulties in life, ability to bear the suffering of the soul (with dignity and without complaint). Mourning and bereavement (death). Mars/Saturn has only related to accidents or some kind of suffering if the native was in a position and an environment and conditions which made such serious consequences possible. 39 There are many people who have MC = Mars/Saturn in their chart and yet live to an old age. However, the first part of this interpretation is correct as these people are very tough and have a great deal of perseverence, having to use an exceptional amound of energy in order to keep their place at work and maintain their position in life.
+- core meaning: Grief. To suffer from separations or separating actions. Decease. Cause of death. Dying. Deaths of others that make a deep impression upon the mind of the native. One’s own death.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Endurance, power of resistance, indefatigable. The need to overcome many difficu
 - [Saturn](../factors/saturn.md)
 - [MC](../factors/mc.md)
 - [Mars/Saturn](../axes/mars-saturn.md)
-- [Mars Saturn MC](../triads/mars-saturn-mc.md)

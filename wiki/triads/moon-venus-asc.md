@@ -3,7 +3,7 @@ title: Moon Venus Asc
 page_type: triad_hub
 slug: moon-venus-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Venus
@@ -13,11 +13,12 @@ triad_set:
   - Venus
   - Asc
 orientations:
+  - Moon/Asc = Venus
   - Moon/Venus = Asc
   - Venus/Asc = Moon
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -29,16 +30,19 @@ updated_at: 2026-04-21
 
 ## Orientation Map
 
+- [Moon/Asc = Venus](../activations/moon-asc-equals-venus.md)
+  Source page `81`
 - [Moon/Venus = Asc](../activations/moon-venus-equals-asc.md)
-  Source page `118`, entry `0348`
+  Source page `123`
 - [Venus/Asc = Moon](../activations/venus-asc-equals-moon.md)
-  Source page `196`, entry `0664`
+  Source page `84`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Moon/Venus = Asc`: page `118`, entry `0348`
-- `Venus/Asc = Moon`: page `196`, entry `0664`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Moon/Asc = Venus`: page `81`
+- `Moon/Venus = Asc`: page `123`
+- `Venus/Asc = Moon`: page `84`
 
 ## Contradictions Across Orientations
 

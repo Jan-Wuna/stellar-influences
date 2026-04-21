@@ -3,10 +3,10 @@ title: Venus/MC = Mars
 page_type: activation
 slug: venus-mc-equals-mars
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Venus
   - MC
+  - Venus
   - Mars
 normalized_formula: Venus/MC = Mars
 axis: Venus/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0678`
-- Source page: `199`
+- Source heading: `MC + Venus`
+- Source page: `63`
+#### Witte Entry
 
-#### Ebertin Entry
-
-An impulsive expression of the sex urge, strong desire, wish to have children. A sex union.
+Sexual attraction. Desire. Moment of harmonious action.
 
 ## Comparative Schema
 
-- core meaning: An impulsive expression of the sex urge, strong desire, wish to have children. A sex union.
+- core meaning: Sexual attraction. Desire. Moment of harmonious action.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ An impulsive expression of the sex urge, strong desire, wish to have children. A
 - [MC](../factors/mc.md)
 - [Mars](../factors/mars.md)
 - [Venus/MC](../axes/venus-mc.md)
-- [Venus Mars MC](../triads/venus-mars-mc.md)

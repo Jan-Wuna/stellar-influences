@@ -3,7 +3,7 @@ title: Sun/Mercury = Uranus
 page_type: activation
 slug: sun-mercury-equals-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Mercury
@@ -17,7 +17,7 @@ triad_set:
   - Uranus
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0200`
-- Source page: `81`
+- Source heading: `Sun + Mercury`
+- Source page: `103`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Incoherent and erratic thinking, sudden ideas, inventions, a flair for 3 Under Sun/Jupiter = Mercury we find among other remarks: "meditating or reflecting on health (the medical doctor)." It has been found frequently that in the case of doctors who really have a calling for their profession that not only this factor is often present but also its variations: Sun = Mercury/Jupiter and Sun/Mercury = Jupiter. It has often been found that while a certain three factors may be important for a particular thing that it appears to be unimportant which of these factors stands at the middle of the other two. 4 Not only in the case of Sun/Mercury = Saturn but also with other combinations care should be taken not to make a definitely positive or definitely negative interpretation as both the positive and the negative could occur at the same time. One should always consider to what extent the particular individual can use a combination such as Satum= Sun/Mercury, This combination is often found in the charts of philosophers who require to think deeply and seriously aver difficult problems. This is a part of their life and work. In the case of others however the experiences which these combinations can bring with them may show themselves in a serious or even pessimistic view of life. applied science and technology, organization and reforms. Adjust ment to new circumstances in life.
+To think and speak by leaps and bounds. Inventor. Technician. Sudden thoughts. Sudden action of a person. An uproar of young people. Demonstrations.
 
 ## Comparative Schema
 
-- core meaning: Incoherent and erratic thinking, sudden ideas, inventions, a flair for 3 Under Sun/Jupiter = Mercury we find among other remarks: "meditating or reflecting on health (the medical doctor)." It has been found frequently that in the case of doctors who really have a calling for their profession that not only this factor is often present but also its variations: Sun = Mercury/Jupiter and Sun/Mercury = Jupiter. It has often been found that while a certain three factors may be important for a particular thing that it appears to be unimportant which of these factors stands at the middle of the other two. 4 Not only in the case of Sun/Mercury = Saturn but also with other combinations care should be taken not to make a definitely positive or definitely negative interpretation as both the positive and the negative could occur at the same time. One should always consider to what extent the particular individual can use a combination such as Satum= Sun/Mercury, This combination is often found in the charts of philosophers who require to think deeply and seriously aver difficult problems. This is a part of their life and work. In the case of others however the experiences which these combinations can bring with them may show themselves in a serious or even pessimistic view of life. applied science and technology, organization and reforms. Adjust ment to new circumstances in life.
+- core meaning: To think and speak by leaps and bounds. Inventor. Technician. Sudden thoughts. Sudden action of a person. An uproar of young people. Demonstrations.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Incoherent and erratic thinking, sudden ideas, inventions, a flair for 3 Under S
 - [Mercury](../factors/mercury.md)
 - [Uranus](../factors/uranus.md)
 - [Sun/Mercury](../axes/sun-mercury.md)
-- [Sun Mercury Uranus](../triads/sun-mercury-uranus.md)

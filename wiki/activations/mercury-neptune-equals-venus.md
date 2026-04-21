@@ -3,7 +3,7 @@ title: Mercury/Neptune = Venus
 page_type: activation
 slug: mercury-neptune-equals-venus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Neptune
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0521`
-- Source page: `161`
+- Source heading: `Mercury + Neptune`
+- Source page: `164`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Rapturous imaginings, expecting too much of love, strong attractive powers of short duration, a strong fluid-like emanation.
+Superficial acquaintances. Love dreams. Love poem. To adore. Adored by acquaintances.
 
 ## Comparative Schema
 
-- core meaning: Rapturous imaginings, expecting too much of love, strong attractive powers of short duration, a strong fluid-like emanation.
+- core meaning: Superficial acquaintances. Love dreams. Love poem. To adore. Adored by acquaintances.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Rapturous imaginings, expecting too much of love, strong attractive powers of sh
 - [Neptune](../factors/neptune.md)
 - [Venus](../factors/venus.md)
 - [Mercury/Neptune](../axes/mercury-neptune.md)
-- [Mercury Venus Neptune](../triads/mercury-venus-neptune.md)

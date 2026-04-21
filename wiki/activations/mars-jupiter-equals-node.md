@@ -3,7 +3,7 @@ title: Mars/Jupiter = Node
 page_type: activation
 slug: mars-jupiter-equals-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Jupiter
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0695`
-- Source page: `203`
+- Source heading: `Mars + Jupiter`
+- Source page: `192`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Good cooperation with other people. A happy union, an engagement.
+The inception of a betrothal. Increase in family. Happy activity in union with others.
 
 ## Comparative Schema
 
-- core meaning: Good cooperation with other people. A happy union, an engagement.
+- core meaning: The inception of a betrothal. Increase in family. Happy activity in union with others.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Good cooperation with other people. A happy union, an engagement.
 - [Jupiter](../factors/jupiter.md)
 - [Node](../factors/node.md)
 - [Mars/Jupiter](../axes/mars-jupiter.md)
-- [Mars Jupiter Node](../triads/mars-jupiter-node.md)

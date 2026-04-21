@@ -3,7 +3,7 @@ title: Jupiter Uranus Pluto
 page_type: triad_hub
 slug: jupiter-uranus-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Uranus
@@ -18,7 +18,7 @@ orientations:
   - Uranus/Pluto = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Pluto = Uranus](../activations/jupiter-pluto-equals-uranus.md)
-  Source page `235`, entry `0825`
+  Source page `210`
 - [Jupiter/Uranus = Pluto](../activations/jupiter-uranus-equals-pluto.md)
-  Source page `229`, entry `0802`
+  Source page `208`
 - [Uranus/Pluto = Jupiter](../activations/uranus-pluto-equals-jupiter.md)
-  Source page `269`, entry `0956`
+  Source page `235`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/Pluto = Uranus`: page `235`, entry `0825`
-- `Jupiter/Uranus = Pluto`: page `229`, entry `0802`
-- `Uranus/Pluto = Jupiter`: page `269`, entry `0956`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/Pluto = Uranus`: page `210`
+- `Jupiter/Uranus = Pluto`: page `208`
+- `Uranus/Pluto = Jupiter`: page `235`
 
 ## Contradictions Across Orientations
 

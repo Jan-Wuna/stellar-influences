@@ -3,10 +3,10 @@ title: Neptune/MC = Uranus
 page_type: activation
 slug: neptune-mc-equals-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Neptune
   - MC
+  - Neptune
   - Uranus
 normalized_formula: Neptune/MC = Uranus
 axis: Neptune/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1042`
-- Source page: `290`
+- Source heading: `MC + Neptune`
+- Source page: `68`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Emotional irritability, occasional lack of clarity and certainty, desire 65 Uranus = Neptune/MC has frequently been found in the case of schizophrenia. However, one must not diagnose this without considering the entire map. to bring ideas to realization at all costs. Sudden inner experiences, confusion.
+Unconsciousness. Unconscious matters related to the beyond. To be the cause of sudden events. Aggravations caused through deceit, falsehood or dishonesty. To create confusion. To cause chaos (wreak havoc).
 
 ## Comparative Schema
 
-- core meaning: Emotional irritability, occasional lack of clarity and certainty, desire 65 Uranus = Neptune/MC has frequently been found in the case of schizophrenia. However, one must not diagnose this without considering the entire map. to bring ideas to realization at all costs. Sudden inner experiences, confusion.
+- core meaning: Unconsciousness. Unconscious matters related to the beyond. To be the cause of sudden events. Aggravations caused through deceit, falsehood or dishonesty. To create confusion. To cause chaos (wreak havoc).
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Emotional irritability, occasional lack of clarity and certainty, desire 65 Uran
 - [MC](../factors/mc.md)
 - [Uranus](../factors/uranus.md)
 - [Neptune/MC](../axes/neptune-mc.md)
-- [Uranus Neptune MC](../triads/uranus-neptune-mc.md)

@@ -3,7 +3,7 @@ title: Mars/Pluto
 page_type: axis
 slug: mars-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Pluto
@@ -11,23 +11,41 @@ normalized_axis: Mars/Pluto
 factor_a: Mars
 factor_b: Pluto
 related_activations:
+  - Mars/Pluto = Aries
+  - Mars/Pluto = MC
+  - Mars/Pluto = Asc
   - Mars/Pluto = Sun
   - Mars/Pluto = Moon
+  - Mars/Pluto = Node
   - Mars/Pluto = Mercury
   - Mars/Pluto = Venus
   - Mars/Pluto = Jupiter
   - Mars/Pluto = Saturn
   - Mars/Pluto = Uranus
   - Mars/Pluto = Neptune
-  - Mars/Pluto = Node
-  - Mars/Pluto = Asc
-  - Mars/Pluto = MC
+  - Mars/Pluto = Cupido
+  - Mars/Pluto = Hades
+  - Mars/Pluto = Zeus
+  - Mars/Pluto = Kronos
+  - Mars/Pluto = Apollon
+  - Mars/Pluto = Admetos
+  - Mars/Pluto = Vulcanus
+  - Mars/Pluto = Poseidon
 related_triad_hubs:
+  - Aries Mars Pluto
   - Mars Jupiter Pluto
   - Mars Neptune Pluto
+  - Mars Pluto Admetos
+  - Mars Pluto Apollon
   - Mars Pluto Asc
+  - Mars Pluto Cupido
+  - Mars Pluto Hades
+  - Mars Pluto Kronos
   - Mars Pluto MC
   - Mars Pluto Node
+  - Mars Pluto Poseidon
+  - Mars Pluto Vulcanus
+  - Mars Pluto Zeus
   - Mars Saturn Pluto
   - Mars Uranus Pluto
   - Mercury Mars Pluto
@@ -37,7 +55,7 @@ related_triad_hubs:
 aliases:
   - Pluto/Mars
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,56 +63,48 @@ updated_at: 2026-04-21
 
 - Axis: `Mars/Pluto`
 - Astronomicon axis: `U/Z`
-- Source heading: `Mars/Pluto`
-- Source page: `213`
+- Source heading: `Mars + Pluto`
+- Source page: `196`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-Superhuman power (force, brutality).
-
-#### Psychological Correspondence
-
-+ The ability to demonstrate extraordinary force and vigor, great self-confidence, obsessive about work, great ambition. - Attaining one's objectives through ruthlessness, brutality, cruelty. C A person who wants to use force or compulsion at every occasion.
-
-#### Biological Correspondence
-
-Replacement of natural organs and functions by artificial substitutes, such as artificial limbs (leg, arm, denture, skull).
-
-#### Sociological Correspondence
-
-Piece-workers, being paid for overtime work, great people in the sphere of sport. People disabled in war.
-
-#### Probable Manifestations
-
-+ Attainment of success through excessive effort. - Tendency to proceed in a brutal manner, the misfortune of having to suffer violent assaults, injuries. 44 Research on the charts of atomic research workers and rocket specialists and on the launching of earth satellites, etc., has revealed there was very frequently a Mars-Pluto contact, usually with the Sun. In other charts this combination can mean exceptional ability. Mars/Pluto o7f
-
+Organizing. Planning. Plans. Duplicate, to copy, to repeat, to multiply. To lead, to supervise or to perform several activities at the same time. To divide, to split, to branch off. To work alternately at different tasks. To do different kinds of work. To work on schedule. Transformation and change in the activity in one’s work and in the working conditions. Actively bring about change.
 
 ## Comparative Schema
 
-- core meaning: Superhuman power (force, brutality).
-- psychology: + The ability to demonstrate extraordinary force and vigor, great self-confidence, obsessive about work, great ambition. - Attaining one's objectives through ruthlessness, brutality, cruelty. C A person who wants to use force or compulsion at every occasion.
-- body/health: Replacement of natural organs and functions by artificial substitutes, such as artificial limbs (leg, arm, denture, skull).
-- social/relationship: Piece-workers, being paid for overtime work, great people in the sphere of sport. People disabled in war.
-- events/manifestations: + Attainment of success through excessive effort. - Tendency to proceed in a brutal manner, the misfortune of having to suffer violent assaults, injuries. 44 Research on the charts of atomic research workers and rocket specialists and on the launching of earth satellites, etc., has revealed there was very frequently a Mars-Pluto contact, usually with the Sun. In other charts this combination can mean exceptional ability. Mars/Pluto o7f
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: Organizing. Planning. Plans. Duplicate, to copy, to repeat, to multiply. To lead, to supervise or to perform several activities at the same time. To divide, to split, to branch off. To work alternately at different tasks. To do different kinds of work. To work on schedule. Transformation and change in the activity in one’s work and in the working conditions. Actively bring about change.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Mars/Pluto = Aries](../activations/mars-pluto-equals-aries.md)
+- [Mars/Pluto = MC](../activations/mars-pluto-equals-mc.md)
+- [Mars/Pluto = Asc](../activations/mars-pluto-equals-asc.md)
 - [Mars/Pluto = Sun](../activations/mars-pluto-equals-sun.md)
 - [Mars/Pluto = Moon](../activations/mars-pluto-equals-moon.md)
+- [Mars/Pluto = Node](../activations/mars-pluto-equals-node.md)
 - [Mars/Pluto = Mercury](../activations/mars-pluto-equals-mercury.md)
 - [Mars/Pluto = Venus](../activations/mars-pluto-equals-venus.md)
 - [Mars/Pluto = Jupiter](../activations/mars-pluto-equals-jupiter.md)
 - [Mars/Pluto = Saturn](../activations/mars-pluto-equals-saturn.md)
 - [Mars/Pluto = Uranus](../activations/mars-pluto-equals-uranus.md)
 - [Mars/Pluto = Neptune](../activations/mars-pluto-equals-neptune.md)
-- [Mars/Pluto = Node](../activations/mars-pluto-equals-node.md)
-- [Mars/Pluto = Asc](../activations/mars-pluto-equals-asc.md)
-- [Mars/Pluto = MC](../activations/mars-pluto-equals-mc.md)
+- [Mars/Pluto = Cupido](../activations/mars-pluto-equals-cupido.md)
+- [Mars/Pluto = Hades](../activations/mars-pluto-equals-hades.md)
+- [Mars/Pluto = Zeus](../activations/mars-pluto-equals-zeus.md)
+- [Mars/Pluto = Kronos](../activations/mars-pluto-equals-kronos.md)
+- [Mars/Pluto = Apollon](../activations/mars-pluto-equals-apollon.md)
+- [Mars/Pluto = Admetos](../activations/mars-pluto-equals-admetos.md)
+- [Mars/Pluto = Vulcanus](../activations/mars-pluto-equals-vulcanus.md)
+- [Mars/Pluto = Poseidon](../activations/mars-pluto-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Piece-workers, being paid for overtime work, great people in the sphere of sport
 
 - [Mars](../factors/mars.md)
 - [Pluto](../factors/pluto.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

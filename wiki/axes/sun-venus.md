@@ -3,7 +3,7 @@ title: Sun/Venus
 page_type: axis
 slug: sun-venus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Venus
@@ -11,7 +11,11 @@ normalized_axis: Sun/Venus
 factor_a: Sun
 factor_b: Venus
 related_activations:
+  - Sun/Venus = Aries
+  - Sun/Venus = MC
+  - Sun/Venus = Asc
   - Sun/Venus = Moon
+  - Sun/Venus = Node
   - Sun/Venus = Mercury
   - Sun/Venus = Mars
   - Sun/Venus = Jupiter
@@ -19,25 +23,39 @@ related_activations:
   - Sun/Venus = Uranus
   - Sun/Venus = Neptune
   - Sun/Venus = Pluto
-  - Sun/Venus = Node
-  - Sun/Venus = Asc
-  - Sun/Venus = MC
+  - Sun/Venus = Cupido
+  - Sun/Venus = Hades
+  - Sun/Venus = Zeus
+  - Sun/Venus = Kronos
+  - Sun/Venus = Apollon
+  - Sun/Venus = Admetos
+  - Sun/Venus = Vulcanus
+  - Sun/Venus = Poseidon
 related_triad_hubs:
+  - Aries Sun Venus
   - Sun Mercury Venus
   - Sun Moon Venus
+  - Sun Venus Admetos
+  - Sun Venus Apollon
   - Sun Venus Asc
+  - Sun Venus Cupido
+  - Sun Venus Hades
   - Sun Venus Jupiter
-  - Sun Venus MC
+  - Sun Venus Kronos
   - Sun Venus Mars
+  - Sun Venus MC
   - Sun Venus Neptune
   - Sun Venus Node
   - Sun Venus Pluto
+  - Sun Venus Poseidon
   - Sun Venus Saturn
   - Sun Venus Uranus
+  - Sun Venus Vulcanus
+  - Sun Venus Zeus
 aliases:
   - Venus/Sun
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,46 +63,33 @@ updated_at: 2026-04-21
 
 - Axis: `Sun/Venus`
 - Astronomicon axis: `S/Q`
-- Source heading: `Sun/Venus`
-- Source page: `83`
+- Source heading: `Sun + Venus`
+- Source page: `104`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-Physical love, harmony, beauty, art, the ideał. Psychologica/ Correspondence + Feeling of love, power of attraction, popularity, artistic leanings, sense ofbeauty, music, nature. Strong potential ofexpression in the sphere of soul and love. Love of social life. • Uncontrolled love attachment, pleasure seeking, luxury; everything is done for the sake of extemal appearance and show without intrinsic or inner value. C Strength of feeling, artistic and aesthetic aspirations. Biologica/ Correspondence Glandular tissue, Graafs follicles (sphere-shaped vesicles in the ova• ries). Sociologica/ Correspondence The beloved man or woman, the artist. Probable Man/festations + Popularity, love union, potential for artistic development. • Detrimental consequences with regard to health caused by over-in• dulgence or too rich living. 0/9
-
-#### Psychological Correspondence
-
-- None extracted.
-
-#### Biological Correspondence
-
-- None extracted.
-
-#### Sociological Correspondence
-
-- None extracted.
-
-#### Probable Manifestations
-
-- None extracted.
-
+Harmony. A peaceful day. Personal attraction. Magnetism. Beautiful body. The loving man. Hie time of love. The body’s capacity for love. (In the solar cycle: a peaceful period.)
 
 ## Comparative Schema
 
-- core meaning: Physical love, harmony, beauty, art, the ideał. Psychologica/ Correspondence + Feeling of love, power of attraction, popularity, artistic leanings, sense ofbeauty, music, nature. Strong potential ofexpression in the sphere of soul and love. Love of social life. • Uncontrolled love attachment, pleasure seeking, luxury; everything is done for the sake of extemal appearance and show without intrinsic or inner value. C Strength of feeling, artistic and aesthetic aspirations. Biologica/ Correspondence Glandular tissue, Graafs follicles (sphere-shaped vesicles in the ova• ries). Sociologica/ Correspondence The beloved man or woman, the artist. Probable Man/festations + Popularity, love union, potential for artistic development. • Detrimental consequences with regard to health caused by over-in• dulgence or too rich living. 0/9
-- psychology: None extracted.
-- body/health: None extracted.
-- social/relationship: None extracted.
-- events/manifestations: None extracted.
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: Harmony. A peaceful day. Personal attraction. Magnetism. Beautiful body. The loving man. Hie time of love. The body’s capacity for love. (In the solar cycle: a peaceful period.)
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Sun/Venus = Aries](../activations/sun-venus-equals-aries.md)
+- [Sun/Venus = MC](../activations/sun-venus-equals-mc.md)
+- [Sun/Venus = Asc](../activations/sun-venus-equals-asc.md)
 - [Sun/Venus = Moon](../activations/sun-venus-equals-moon.md)
+- [Sun/Venus = Node](../activations/sun-venus-equals-node.md)
 - [Sun/Venus = Mercury](../activations/sun-venus-equals-mercury.md)
 - [Sun/Venus = Mars](../activations/sun-venus-equals-mars.md)
 - [Sun/Venus = Jupiter](../activations/sun-venus-equals-jupiter.md)
@@ -92,9 +97,14 @@ Physical love, harmony, beauty, art, the ideał. Psychologica/ Correspondence + 
 - [Sun/Venus = Uranus](../activations/sun-venus-equals-uranus.md)
 - [Sun/Venus = Neptune](../activations/sun-venus-equals-neptune.md)
 - [Sun/Venus = Pluto](../activations/sun-venus-equals-pluto.md)
-- [Sun/Venus = Node](../activations/sun-venus-equals-node.md)
-- [Sun/Venus = Asc](../activations/sun-venus-equals-asc.md)
-- [Sun/Venus = MC](../activations/sun-venus-equals-mc.md)
+- [Sun/Venus = Cupido](../activations/sun-venus-equals-cupido.md)
+- [Sun/Venus = Hades](../activations/sun-venus-equals-hades.md)
+- [Sun/Venus = Zeus](../activations/sun-venus-equals-zeus.md)
+- [Sun/Venus = Kronos](../activations/sun-venus-equals-kronos.md)
+- [Sun/Venus = Apollon](../activations/sun-venus-equals-apollon.md)
+- [Sun/Venus = Admetos](../activations/sun-venus-equals-admetos.md)
+- [Sun/Venus = Vulcanus](../activations/sun-venus-equals-vulcanus.md)
+- [Sun/Venus = Poseidon](../activations/sun-venus-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Physical love, harmony, beauty, art, the ideał. Psychologica/ Correspondence + 
 
 - [Sun](../factors/sun.md)
 - [Venus](../factors/venus.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

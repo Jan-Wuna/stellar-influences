@@ -3,10 +3,10 @@ title: Saturn/Asc = Sun
 page_type: activation
 slug: saturn-asc-equals-sun
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Saturn
   - Asc
+  - Saturn
   - Sun
 normalized_formula: Saturn/Asc = Sun
 axis: Saturn/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0915`
-- Source page: `260`
+- Source heading: `Asc + Saturn`
+- Source page: `87`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A keen awareness of the lack in freedom of movement, a strong desire to go one's own way in life. Difficult circumstances of living, suffering from conditions of the environment, the process of getting ill, the act of separation.
+To shake hands. Physical farewells. Alienations.
 
 ## Comparative Schema
 
-- core meaning: A keen awareness of the lack in freedom of movement, a strong desire to go one's own way in life. Difficult circumstances of living, suffering from conditions of the environment, the process of getting ill, the act of separation.
+- core meaning: To shake hands. Physical farewells. Alienations.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A keen awareness of the lack in freedom of movement, a strong desire to go one's
 - [Asc](../factors/asc.md)
 - [Sun](../factors/sun.md)
 - [Saturn/Asc](../axes/saturn-asc.md)
-- [Sun Saturn Asc](../triads/sun-saturn-asc.md)

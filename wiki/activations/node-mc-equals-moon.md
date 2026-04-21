@@ -3,10 +3,10 @@ title: Node/MC = Moon
 page_type: activation
 slug: node-mc-equals-moon
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Node
   - MC
+  - Node
   - Moon
 normalized_formula: Node/MC = Moon
 axis: Node/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1096`
-- Source page: `304`
+- Source heading: `MC + Node`
+- Source page: `61`
+#### Witte Entry
 
-#### Ebertin Entry
-
-The strong part played by the feelings in unions between people, creation of a cozy atmosphere when with another person. An emotional character. The inner ties of a woman.
+The pursuit of emotional connection. The desire to connect with females. The emotional result of a soul mate relationship.
 
 ## Comparative Schema
 
-- core meaning: The strong part played by the feelings in unions between people, creation of a cozy atmosphere when with another person. An emotional character. The inner ties of a woman.
+- core meaning: The pursuit of emotional connection. The desire to connect with females. The emotional result of a soul mate relationship.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ The strong part played by the feelings in unions between people, creation of a c
 - [MC](../factors/mc.md)
 - [Moon](../factors/moon.md)
 - [Node/MC](../axes/node-mc.md)
-- [Moon Node MC](../triads/moon-node-mc.md)

@@ -3,7 +3,7 @@ title: Saturn/Uranus = Pluto
 page_type: activation
 slug: saturn-uranus-equals-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Saturn
   - Uranus
@@ -17,7 +17,7 @@ triad_set:
   - Pluto
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0874`
-- Source page: `247`
+- Source heading: `Saturn + Uranus`
+- Source page: `221`
+#### Witte Entry
 
-#### Ebertin Entry
-
-An act of violence or brutality. Desire to overcome a difficult situation through extraordinary effort. Rebellion against one's lot in life, harm through major force.
+A hindered and slow development is suddenly brought into motion. Change in circumstances in a quarrel or lawsuit. Surprising divorce.
 
 ## Comparative Schema
 
-- core meaning: An act of violence or brutality. Desire to overcome a difficult situation through extraordinary effort. Rebellion against one's lot in life, harm through major force.
+- core meaning: A hindered and slow development is suddenly brought into motion. Change in circumstances in a quarrel or lawsuit. Surprising divorce.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ An act of violence or brutality. Desire to overcome a difficult situation throug
 - [Uranus](../factors/uranus.md)
 - [Pluto](../factors/pluto.md)
 - [Saturn/Uranus](../axes/saturn-uranus.md)
-- [Saturn Uranus Pluto](../triads/saturn-uranus-pluto.md)

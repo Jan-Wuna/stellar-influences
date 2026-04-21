@@ -3,10 +3,10 @@ title: Sun/MC = Moon
 page_type: activation
 slug: sun-mc-equals-moon
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Sun
   - MC
+  - Sun
   - Moon
 normalized_formula: Sun/MC = Moon
 axis: Sun/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0315`
-- Source page: `111`
+- Source heading: `MC + Sun`
+- Source page: `59`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Subconscious stirrings, an instinctively right understanding of life's aims. The "I" in relation to the "Thou," attitude to the other sex, the recognition of the "Thou" in oneself.
+Ones personal attitude toward women. One’s own mind. To represent oneself to the public with heart and soul.
 
 ## Comparative Schema
 
-- core meaning: Subconscious stirrings, an instinctively right understanding of life's aims. The "I" in relation to the "Thou," attitude to the other sex, the recognition of the "Thou" in oneself.
+- core meaning: Ones personal attitude toward women. One’s own mind. To represent oneself to the public with heart and soul.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Subconscious stirrings, an instinctively right understanding of life's aims. The
 - [MC](../factors/mc.md)
 - [Moon](../factors/moon.md)
 - [Sun/MC](../axes/sun-mc.md)
-- [Sun Moon MC](../triads/sun-moon-mc.md)

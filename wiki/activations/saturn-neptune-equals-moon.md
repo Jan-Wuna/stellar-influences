@@ -3,7 +3,7 @@ title: Saturn/Neptune = Moon
 page_type: activation
 slug: saturn-neptune-equals-moon
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Saturn
   - Neptune
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0880`
-- Source page: `224`
+- Source heading: `Saturn + Neptune`
+- Source page: `222`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Emotional depression, pessimism, inability to develop or mature emotionally, a low character. Illness through emotional suffering, women's diseases, chronic or otherwise.
+Treacherous woman. Sickly and weak persons. Diseases of the womb. Diseases and sickness of the people.
 
 ## Comparative Schema
 
-- core meaning: Emotional depression, pessimism, inability to develop or mature emotionally, a low character. Illness through emotional suffering, women's diseases, chronic or otherwise.
+- core meaning: Treacherous woman. Sickly and weak persons. Diseases of the womb. Diseases and sickness of the people.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Emotional depression, pessimism, inability to develop or mature emotionally, a l
 - [Neptune](../factors/neptune.md)
 - [Moon](../factors/moon.md)
 - [Saturn/Neptune](../axes/saturn-neptune.md)
-- [Moon Saturn Neptune](../triads/moon-saturn-neptune.md)

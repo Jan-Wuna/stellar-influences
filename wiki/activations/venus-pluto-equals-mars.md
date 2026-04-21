@@ -3,7 +3,7 @@ title: Venus/Pluto = Mars
 page_type: activation
 slug: venus-pluto-equals-mars
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Pluto
@@ -17,7 +17,7 @@ triad_set:
   - Pluto
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0642`
-- Source page: `191`
+- Source heading: `Venus + Pluto`
+- Source page: `181`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Strongly sensual nature, desire for many children (rape), a brutal and coarse expression of feeling.
+To create harmony. Sexual sympathy develops. One acts considerately.
 
 ## Comparative Schema
 
-- core meaning: Strongly sensual nature, desire for many children (rape), a brutal and coarse expression of feeling.
+- core meaning: To create harmony. Sexual sympathy develops. One acts considerately.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Strongly sensual nature, desire for many children (rape), a brutal and coarse ex
 - [Pluto](../factors/pluto.md)
 - [Mars](../factors/mars.md)
 - [Venus/Pluto](../axes/venus-pluto.md)
-- [Venus Mars Pluto](../triads/venus-mars-pluto.md)

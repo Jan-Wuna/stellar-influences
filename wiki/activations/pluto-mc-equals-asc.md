@@ -3,10 +3,10 @@ title: Pluto/MC = Asc
 page_type: activation
 slug: pluto-mc-equals-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Pluto
   - MC
+  - Pluto
   - Asc
 normalized_formula: Pluto/MC = Asc
 axis: Pluto/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1081`
-- Source page: `299`
+- Source heading: `MC + Pluto`
+- Source page: `69`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Procurement of an important position and of recognition under any condition. A person of fame.
+To influence the development of others.
 
 ## Comparative Schema
 
-- core meaning: Procurement of an important position and of recognition under any condition. A person of fame.
+- core meaning: To influence the development of others.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Procurement of an important position and of recognition under any condition. A p
 - [MC](../factors/mc.md)
 - [Asc](../factors/asc.md)
 - [Pluto/MC](../axes/pluto-mc.md)
-- [Pluto Asc MC](../triads/pluto-asc-mc.md)

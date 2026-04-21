@@ -3,7 +3,7 @@ title: Mercury Neptune Asc
 page_type: triad_hub
 slug: mercury-neptune-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Neptune
@@ -18,7 +18,7 @@ orientations:
   - Neptune/Asc = Mercury
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mercury/Asc = Neptune](../activations/mercury-asc-equals-neptune.md)
-  Source page `170`, entry `0562`
+  Source page `83`
 - [Mercury/Neptune = Asc](../activations/mercury-neptune-equals-asc.md)
-  Source page `162`, entry `0528`
+  Source page `164`
 - [Neptune/Asc = Mercury](../activations/neptune-asc-equals-mercury.md)
-  Source page `287`, entry `1025`
+  Source page `89`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mercury/Asc = Neptune`: page `170`, entry `0562`
-- `Mercury/Neptune = Asc`: page `162`, entry `0528`
-- `Neptune/Asc = Mercury`: page `287`, entry `1025`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mercury/Asc = Neptune`: page `83`
+- `Mercury/Neptune = Asc`: page `164`
+- `Neptune/Asc = Mercury`: page `89`
 
 ## Contradictions Across Orientations
 

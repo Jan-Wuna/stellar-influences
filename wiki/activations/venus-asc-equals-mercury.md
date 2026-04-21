@@ -3,10 +3,10 @@ title: Venus/Asc = Mercury
 page_type: activation
 slug: venus-asc-equals-mercury
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Venus
   - Asc
+  - Venus
   - Mercury
 normalized_formula: Venus/Asc = Mercury
 axis: Venus/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0665`
-- Source page: `196`
+- Source heading: `Asc + Venus`
+- Source page: `84`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Sociable and entertaining person, preference for conversations about beauty, love and art. The exchange of love thoughts.
+Agreeable acquaintances in the close surroundings. To amuse oneself with other people (sweet talking).
 
 ## Comparative Schema
 
-- core meaning: Sociable and entertaining person, preference for conversations about beauty, love and art. The exchange of love thoughts.
+- core meaning: Agreeable acquaintances in the close surroundings. To amuse oneself with other people (sweet talking).
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Sociable and entertaining person, preference for conversations about beauty, lov
 - [Asc](../factors/asc.md)
 - [Mercury](../factors/mercury.md)
 - [Venus/Asc](../axes/venus-asc.md)
-- [Mercury Venus Asc](../triads/mercury-venus-asc.md)

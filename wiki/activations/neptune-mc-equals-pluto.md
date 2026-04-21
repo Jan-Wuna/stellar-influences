@@ -3,10 +3,10 @@ title: Neptune/MC = Pluto
 page_type: activation
 slug: neptune-mc-equals-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Neptune
   - MC
+  - Neptune
   - Pluto
 normalized_formula: Neptune/MC = Pluto
 axis: Neptune/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1043`
-- Source page: `291`
+- Source heading: `MC + Neptune`
+- Source page: `68`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Pursuit of peculiar objectives, supernatural experiences. Adventurous enterprises, criminal offences.
+To be cunning. Swindles which are not uncovered. Moment of an uncertain development.
 
 ## Comparative Schema
 
-- core meaning: Pursuit of peculiar objectives, supernatural experiences. Adventurous enterprises, criminal offences.
+- core meaning: To be cunning. Swindles which are not uncovered. Moment of an uncertain development.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Pursuit of peculiar objectives, supernatural experiences. Adventurous enterprise
 - [MC](../factors/mc.md)
 - [Pluto](../factors/pluto.md)
 - [Neptune/MC](../axes/neptune-mc.md)
-- [Neptune Pluto MC](../triads/neptune-pluto-mc.md)

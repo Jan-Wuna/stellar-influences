@@ -3,7 +3,7 @@ title: Jupiter/Saturn = Uranus
 page_type: activation
 slug: jupiter-saturn-equals-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Saturn
@@ -17,7 +17,7 @@ triad_set:
   - Uranus
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0788`
-- Source page: `226`
+- Source heading: `Jupiter + Saturn`
+- Source page: `207`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Strong emotional tension, frequent change of mood, irritability. Sudden loss of consciousness (through illness, shock or death), sudden change in circumstance, making great efforts, change of residence, change of occupation. Damage to a building, motor stoppage, car breakdown.
+Sudden separation favored by good fortunate. Surprising quick development of a matter. To arrive at a decision. Sudden material loss or damaged buildings.
 
 ## Comparative Schema
 
-- core meaning: Strong emotional tension, frequent change of mood, irritability. Sudden loss of consciousness (through illness, shock or death), sudden change in circumstance, making great efforts, change of residence, change of occupation. Damage to a building, motor stoppage, car breakdown.
+- core meaning: Sudden separation favored by good fortunate. Surprising quick development of a matter. To arrive at a decision. Sudden material loss or damaged buildings.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Strong emotional tension, frequent change of mood, irritability. Sudden loss of 
 - [Saturn](../factors/saturn.md)
 - [Uranus](../factors/uranus.md)
 - [Jupiter/Saturn](../axes/jupiter-saturn.md)
-- [Jupiter Saturn Uranus](../triads/jupiter-saturn-uranus.md)

@@ -3,10 +3,10 @@ title: Mercury/Asc = Mars
 page_type: activation
 slug: mercury-asc-equals-mars
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Mercury
   - Asc
+  - Mercury
   - Mars
 normalized_formula: Mercury/Asc = Mars
 axis: Mercury/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0558`
-- Source page: `170`
+- Source heading: `Asc + Mercury`
+- Source page: `83`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Desire for discussion, willingness to negotiate, inclination to emphasize one's own ideas or thoughts, urge to attain success in life. The realization of plans with the help of others, quarrels.
+Dispute with others. To be critically and sharply judged.
 
 ## Comparative Schema
 
-- core meaning: Desire for discussion, willingness to negotiate, inclination to emphasize one's own ideas or thoughts, urge to attain success in life. The realization of plans with the help of others, quarrels.
+- core meaning: Dispute with others. To be critically and sharply judged.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Desire for discussion, willingness to negotiate, inclination to emphasize one's 
 - [Asc](../factors/asc.md)
 - [Mars](../factors/mars.md)
 - [Mercury/Asc](../axes/mercury-asc.md)
-- [Mercury Mars Asc](../triads/mercury-mars-asc.md)

@@ -3,7 +3,7 @@ title: Sun Mercury Uranus
 page_type: triad_hub
 slug: sun-mercury-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Mercury
@@ -18,7 +18,7 @@ orientations:
   - Sun/Uranus = Mercury
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mercury/Uranus = Sun](../activations/mercury-uranus-equals-sun.md)
-  Source page `158`, entry `0507`
+  Source page `163`
 - [Sun/Mercury = Uranus](../activations/sun-mercury-equals-uranus.md)
-  Source page `81`, entry `0200`
+  Source page `103`
 - [Sun/Uranus = Mercury](../activations/sun-uranus-equals-mercury.md)
-  Source page `96`, entry `0256`
+  Source page `108`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mercury/Uranus = Sun`: page `158`, entry `0507`
-- `Sun/Mercury = Uranus`: page `81`, entry `0200`
-- `Sun/Uranus = Mercury`: page `96`, entry `0256`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mercury/Uranus = Sun`: page `163`
+- `Sun/Mercury = Uranus`: page `103`
+- `Sun/Uranus = Mercury`: page `108`
 
 ## Contradictions Across Orientations
 

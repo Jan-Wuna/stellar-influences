@@ -3,7 +3,7 @@ title: Mercury Saturn Neptune
 page_type: triad_hub
 slug: mercury-saturn-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Saturn
@@ -18,7 +18,7 @@ orientations:
   - Saturn/Neptune = Mercury
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mercury/Neptune = Saturn](../activations/mercury-neptune-equals-saturn.md)
-  Source page `161`, entry `0524`
+  Source page `164`
 - [Mercury/Saturn = Neptune](../activations/mercury-saturn-equals-neptune.md)
-  Source page `155`, entry `0501`
+  Source page `162`
 - [Saturn/Neptune = Mercury](../activations/saturn-neptune-equals-mercury.md)
-  Source page `250`, entry `0881`
+  Source page `222`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mercury/Neptune = Saturn`: page `161`, entry `0524`
-- `Mercury/Saturn = Neptune`: page `155`, entry `0501`
-- `Saturn/Neptune = Mercury`: page `250`, entry `0881`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mercury/Neptune = Saturn`: page `164`
+- `Mercury/Saturn = Neptune`: page `162`
+- `Saturn/Neptune = Mercury`: page `222`
 
 ## Contradictions Across Orientations
 

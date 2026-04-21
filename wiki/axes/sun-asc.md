@@ -3,7 +3,7 @@ title: Sun/Asc
 page_type: axis
 slug: sun-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Asc
@@ -11,7 +11,10 @@ normalized_axis: Sun/Asc
 factor_a: Sun
 factor_b: Asc
 related_activations:
+  - Sun/Asc = Aries
+  - Sun/Asc = MC
   - Sun/Asc = Moon
+  - Sun/Asc = Node
   - Sun/Asc = Mercury
   - Sun/Asc = Venus
   - Sun/Asc = Mars
@@ -20,10 +23,25 @@ related_activations:
   - Sun/Asc = Uranus
   - Sun/Asc = Neptune
   - Sun/Asc = Pluto
-  - Sun/Asc = Node
-  - Sun/Asc = MC
+  - Sun/Asc = Cupido
+  - Sun/Asc = Hades
+  - Sun/Asc = Zeus
+  - Sun/Asc = Kronos
+  - Sun/Asc = Apollon
+  - Sun/Asc = Admetos
+  - Sun/Asc = Vulcanus
+  - Sun/Asc = Poseidon
 related_triad_hubs:
+  - Aries Sun Asc
+  - Sun Asc Admetos
+  - Sun Asc Apollon
+  - Sun Asc Cupido
+  - Sun Asc Hades
+  - Sun Asc Kronos
   - Sun Asc MC
+  - Sun Asc Poseidon
+  - Sun Asc Vulcanus
+  - Sun Asc Zeus
   - Sun Jupiter Asc
   - Sun Mars Asc
   - Sun Mercury Asc
@@ -37,7 +55,7 @@ related_triad_hubs:
 aliases:
   - Asc/Sun
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,46 +63,32 @@ updated_at: 2026-04-21
 
 - Axis: `Sun/Asc`
 - Astronomicon axis: `S/Asc`
-- Source heading: `Sun/Ascendant`
-- Source page: `107`
+- Source heading: `Asc + Sun`
+- Source page: `80`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-One's personal attitude to other people.
-
-#### Psychological Correspondence
-
-+ Judgement of other people from an intellectual standpoint, striving for public recognition, desire to gain esteem and importance within one's personal environment, self-confidence. - Disharmonious relationships. Over-accentuated or misplaced self-confidence. C The gaining of recognition, endeavor and industry, desire to become important.
-
-#### Biological Correspondence
-
-The role or function of the sense organs in regard to passive perception.
-
-#### Sociological Correspondence
-
-Male persons of the environment.
-
-#### Probable Manifestations
-
-+ Meeting and contact with other people, recognition, advancement of personal interests, relationship with the public. - Disadvantage or harm through other persons, separation. O/A
-
+Personal relationships. Physical relations to other people. To meet or make acquaintances. Personal salutation or greetings. To make acquaintances. To meet acquaintances. Body awareness for the immediate surroundings. The quality of the day (or year) at this location.
 
 ## Comparative Schema
 
-- core meaning: One's personal attitude to other people.
-- psychology: + Judgement of other people from an intellectual standpoint, striving for public recognition, desire to gain esteem and importance within one's personal environment, self-confidence. - Disharmonious relationships. Over-accentuated or misplaced self-confidence. C The gaining of recognition, endeavor and industry, desire to become important.
-- body/health: The role or function of the sense organs in regard to passive perception.
-- social/relationship: Male persons of the environment.
-- events/manifestations: + Meeting and contact with other people, recognition, advancement of personal interests, relationship with the public. - Disadvantage or harm through other persons, separation. O/A
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: Personal relationships. Physical relations to other people. To meet or make acquaintances. Personal salutation or greetings. To make acquaintances. To meet acquaintances. Body awareness for the immediate surroundings. The quality of the day (or year) at this location.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Sun/Asc = Aries](../activations/sun-asc-equals-aries.md)
+- [Sun/Asc = MC](../activations/sun-asc-equals-mc.md)
 - [Sun/Asc = Moon](../activations/sun-asc-equals-moon.md)
+- [Sun/Asc = Node](../activations/sun-asc-equals-node.md)
 - [Sun/Asc = Mercury](../activations/sun-asc-equals-mercury.md)
 - [Sun/Asc = Venus](../activations/sun-asc-equals-venus.md)
 - [Sun/Asc = Mars](../activations/sun-asc-equals-mars.md)
@@ -93,8 +97,14 @@ Male persons of the environment.
 - [Sun/Asc = Uranus](../activations/sun-asc-equals-uranus.md)
 - [Sun/Asc = Neptune](../activations/sun-asc-equals-neptune.md)
 - [Sun/Asc = Pluto](../activations/sun-asc-equals-pluto.md)
-- [Sun/Asc = Node](../activations/sun-asc-equals-node.md)
-- [Sun/Asc = MC](../activations/sun-asc-equals-mc.md)
+- [Sun/Asc = Cupido](../activations/sun-asc-equals-cupido.md)
+- [Sun/Asc = Hades](../activations/sun-asc-equals-hades.md)
+- [Sun/Asc = Zeus](../activations/sun-asc-equals-zeus.md)
+- [Sun/Asc = Kronos](../activations/sun-asc-equals-kronos.md)
+- [Sun/Asc = Apollon](../activations/sun-asc-equals-apollon.md)
+- [Sun/Asc = Admetos](../activations/sun-asc-equals-admetos.md)
+- [Sun/Asc = Vulcanus](../activations/sun-asc-equals-vulcanus.md)
+- [Sun/Asc = Poseidon](../activations/sun-asc-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Male persons of the environment.
 
 - [Sun](../factors/sun.md)
 - [Asc](../factors/asc.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

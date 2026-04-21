@@ -3,10 +3,10 @@ title: Venus/MC = Asc
 page_type: activation
 slug: venus-mc-equals-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Venus
   - MC
+  - Venus
   - Asc
 normalized_formula: Venus/MC = Asc
 axis: Venus/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0685`
-- Source page: `200`
+- Source heading: `MC + Venus`
+- Source page: `63`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A harmonious personality. A personal attachment, love affair, the vow of love.
+To be in love with someone. To give preference for a certain place to be located at that place or longing for that place.
 
 ## Comparative Schema
 
-- core meaning: A harmonious personality. A personal attachment, love affair, the vow of love.
+- core meaning: To be in love with someone. To give preference for a certain place to be located at that place or longing for that place.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A harmonious personality. A personal attachment, love affair, the vow of love.
 - [MC](../factors/mc.md)
 - [Asc](../factors/asc.md)
 - [Venus/MC](../axes/venus-mc.md)
-- [Venus Asc MC](../triads/venus-asc-mc.md)

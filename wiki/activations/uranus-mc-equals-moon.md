@@ -3,10 +3,10 @@ title: Uranus/MC = Moon
 page_type: activation
 slug: uranus-mc-equals-moon
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Uranus
   - MC
+  - Uranus
   - Moon
 normalized_formula: Uranus/MC = Moon
 axis: Uranus/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0988`
-- Source page: `278`
+- Source heading: `MC + Uranus`
+- Source page: `67`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Irritable, frequent change of mood, quick temper, tendency to become easily upset. Extraordinary state of excitement or irritability of a woman, such as during pregnancy or just before delivery.
+To be in a bad humor on account of a woman or the people. To enact a scene. Labor pains.
 
 ## Comparative Schema
 
-- core meaning: Irritable, frequent change of mood, quick temper, tendency to become easily upset. Extraordinary state of excitement or irritability of a woman, such as during pregnancy or just before delivery.
+- core meaning: To be in a bad humor on account of a woman or the people. To enact a scene. Labor pains.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Irritable, frequent change of mood, quick temper, tendency to become easily upse
 - [MC](../factors/mc.md)
 - [Moon](../factors/moon.md)
 - [Uranus/MC](../axes/uranus-mc.md)
-- [Moon Uranus MC](../triads/moon-uranus-mc.md)

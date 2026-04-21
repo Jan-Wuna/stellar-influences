@@ -3,7 +3,7 @@ title: Jupiter/Asc
 page_type: axis
 slug: jupiter-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Asc
@@ -11,8 +11,11 @@ normalized_axis: Jupiter/Asc
 factor_a: Jupiter
 factor_b: Asc
 related_activations:
+  - Jupiter/Asc = Aries
+  - Jupiter/Asc = MC
   - Jupiter/Asc = Sun
   - Jupiter/Asc = Moon
+  - Jupiter/Asc = Node
   - Jupiter/Asc = Mercury
   - Jupiter/Asc = Venus
   - Jupiter/Asc = Mars
@@ -20,10 +23,25 @@ related_activations:
   - Jupiter/Asc = Uranus
   - Jupiter/Asc = Neptune
   - Jupiter/Asc = Pluto
-  - Jupiter/Asc = Node
-  - Jupiter/Asc = MC
+  - Jupiter/Asc = Cupido
+  - Jupiter/Asc = Hades
+  - Jupiter/Asc = Zeus
+  - Jupiter/Asc = Kronos
+  - Jupiter/Asc = Apollon
+  - Jupiter/Asc = Admetos
+  - Jupiter/Asc = Vulcanus
+  - Jupiter/Asc = Poseidon
 related_triad_hubs:
+  - Aries Jupiter Asc
+  - Jupiter Asc Admetos
+  - Jupiter Asc Apollon
+  - Jupiter Asc Cupido
+  - Jupiter Asc Hades
+  - Jupiter Asc Kronos
   - Jupiter Asc MC
+  - Jupiter Asc Poseidon
+  - Jupiter Asc Vulcanus
+  - Jupiter Asc Zeus
   - Jupiter Neptune Asc
   - Jupiter Node Asc
   - Jupiter Pluto Asc
@@ -37,7 +55,7 @@ related_triad_hubs:
 aliases:
   - Asc/Jupiter
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,47 +63,33 @@ updated_at: 2026-04-21
 
 - Axis: `Jupiter/Asc`
 - Astronomicon axis: `V/Asc`
-- Source heading: `Jupiter/Ascendant`
-- Source page: `240`
+- Source heading: `Asc + Jupiter`
+- Source page: `86`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-A harmonious personality, a pleasant or agreeable manner.
-
-#### Psychological Correspondence
-
-+ A pleasant disposition, harmonious personality, positive attitude in contact with other persons, meeting other people halfway, exercising a favorable influence upon the environment, preference or liking for richly furnished surroundings, generosity. - An excessive desire to be of importance in the world, a disharmonious attitude to other persons, wastefulness. C An engaging manner in contact with other people, a stress or emphasis on well-furnished surroundings.
-
-#### Biological Correspondence
-
-(The correct diagnosis. The cure.)
-
-#### Sociological Correspondence
-
-Generous or wealthy people in the environment.
-
-#### Probable Manifestations
-
-+ Entering into profitable partnerships or associations, creation of a beautiful home for oneself, success or expression of recognition, good teamwork. - Friction and differences, rebelling against the convictions of others. Jupiter/Ascendant H/A
-
+Luck with other people or other people’s luck (fortune). To experience good deeds form others. Prospering surroundings. Wealthy friends or companions. Fortunate acquaintances. Happy relations to the surroundings.
 
 ## Comparative Schema
 
-- core meaning: A harmonious personality, a pleasant or agreeable manner.
-- psychology: + A pleasant disposition, harmonious personality, positive attitude in contact with other persons, meeting other people halfway, exercising a favorable influence upon the environment, preference or liking for richly furnished surroundings, generosity. - An excessive desire to be of importance in the world, a disharmonious attitude to other persons, wastefulness. C An engaging manner in contact with other people, a stress or emphasis on well-furnished surroundings.
-- body/health: (The correct diagnosis. The cure.)
-- social/relationship: Generous or wealthy people in the environment.
-- events/manifestations: + Entering into profitable partnerships or associations, creation of a beautiful home for oneself, success or expression of recognition, good teamwork. - Friction and differences, rebelling against the convictions of others. Jupiter/Ascendant H/A
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: Luck with other people or other people’s luck (fortune). To experience good deeds form others. Prospering surroundings. Wealthy friends or companions. Fortunate acquaintances. Happy relations to the surroundings.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Jupiter/Asc = Aries](../activations/jupiter-asc-equals-aries.md)
+- [Jupiter/Asc = MC](../activations/jupiter-asc-equals-mc.md)
 - [Jupiter/Asc = Sun](../activations/jupiter-asc-equals-sun.md)
 - [Jupiter/Asc = Moon](../activations/jupiter-asc-equals-moon.md)
+- [Jupiter/Asc = Node](../activations/jupiter-asc-equals-node.md)
 - [Jupiter/Asc = Mercury](../activations/jupiter-asc-equals-mercury.md)
 - [Jupiter/Asc = Venus](../activations/jupiter-asc-equals-venus.md)
 - [Jupiter/Asc = Mars](../activations/jupiter-asc-equals-mars.md)
@@ -93,8 +97,14 @@ Generous or wealthy people in the environment.
 - [Jupiter/Asc = Uranus](../activations/jupiter-asc-equals-uranus.md)
 - [Jupiter/Asc = Neptune](../activations/jupiter-asc-equals-neptune.md)
 - [Jupiter/Asc = Pluto](../activations/jupiter-asc-equals-pluto.md)
-- [Jupiter/Asc = Node](../activations/jupiter-asc-equals-node.md)
-- [Jupiter/Asc = MC](../activations/jupiter-asc-equals-mc.md)
+- [Jupiter/Asc = Cupido](../activations/jupiter-asc-equals-cupido.md)
+- [Jupiter/Asc = Hades](../activations/jupiter-asc-equals-hades.md)
+- [Jupiter/Asc = Zeus](../activations/jupiter-asc-equals-zeus.md)
+- [Jupiter/Asc = Kronos](../activations/jupiter-asc-equals-kronos.md)
+- [Jupiter/Asc = Apollon](../activations/jupiter-asc-equals-apollon.md)
+- [Jupiter/Asc = Admetos](../activations/jupiter-asc-equals-admetos.md)
+- [Jupiter/Asc = Vulcanus](../activations/jupiter-asc-equals-vulcanus.md)
+- [Jupiter/Asc = Poseidon](../activations/jupiter-asc-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Generous or wealthy people in the environment.
 
 - [Jupiter](../factors/jupiter.md)
 - [Asc](../factors/asc.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

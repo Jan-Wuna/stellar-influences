@@ -3,7 +3,7 @@ title: Moon/Mercury = Neptune
 page_type: activation
 slug: moon-mercury-equals-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Mercury
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0333`
-- Source page: `114`
+- Source heading: `Moon + Mercury`
+- Source page: `122`
+#### Witte Entry
 
-#### Ebertin Entry
-
-An active imagination, fancies, whims and notions. Wrong thinking, a lie. A deceived girl, exposure to lies fabricated by others.
+Imagination. The hysterical girl. The imaginative or untruthful girl. To be dreamy and lazy in youth.
 
 ## Comparative Schema
 
-- core meaning: An active imagination, fancies, whims and notions. Wrong thinking, a lie. A deceived girl, exposure to lies fabricated by others.
+- core meaning: Imagination. The hysterical girl. The imaginative or untruthful girl. To be dreamy and lazy in youth.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ An active imagination, fancies, whims and notions. Wrong thinking, a lie. A dece
 - [Mercury](../factors/mercury.md)
 - [Neptune](../factors/neptune.md)
 - [Moon/Mercury](../axes/moon-mercury.md)
-- [Moon Mercury Neptune](../triads/moon-mercury-neptune.md)

@@ -3,10 +3,10 @@ title: Node/Asc = Mercury
 page_type: activation
 slug: node-asc-equals-mercury
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Node
   - Asc
+  - Node
   - Mercury
 normalized_formula: Node/Asc = Mercury
 axis: Node/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1085`
-- Source page: `301`
+- Source heading: `Asc + Node`
+- Source page: `82`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Desire and the inclination to seek and receive mental stimuli, demonstration of interest. Sharing the same thoughts with others, studies and research with other people.
+Local telephone calls. Discussion and mental association with others.
 
 ## Comparative Schema
 
-- core meaning: Desire and the inclination to seek and receive mental stimuli, demonstration of interest. Sharing the same thoughts with others, studies and research with other people.
+- core meaning: Local telephone calls. Discussion and mental association with others.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Desire and the inclination to seek and receive mental stimuli, demonstration of 
 - [Asc](../factors/asc.md)
 - [Mercury](../factors/mercury.md)
 - [Node/Asc](../axes/node-asc.md)
-- [Mercury Node Asc](../triads/mercury-node-asc.md)

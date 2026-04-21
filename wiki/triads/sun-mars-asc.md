@@ -3,7 +3,7 @@ title: Sun Mars Asc
 page_type: triad_hub
 slug: sun-mars-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Mars
@@ -18,7 +18,7 @@ orientations:
   - Sun/Mars = Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Asc = Sun](../activations/mars-asc-equals-sun.md)
-  Source page `220`, entry `0759`
+  Source page `85`
 - [Sun/Asc = Mars](../activations/sun-asc-equals-mars.md)
-  Source page `108`, entry `0306`
+  Source page `80`
 - [Sun/Mars = Asc](../activations/sun-mars-equals-asc.md)
-  Source page `88`, entry `0228`
+  Source page `105`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/Asc = Sun`: page `220`, entry `0759`
-- `Sun/Asc = Mars`: page `108`, entry `0306`
-- `Sun/Mars = Asc`: page `88`, entry `0228`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/Asc = Sun`: page `85`
+- `Sun/Asc = Mars`: page `80`
+- `Sun/Mars = Asc`: page `105`
 
 ## Contradictions Across Orientations
 

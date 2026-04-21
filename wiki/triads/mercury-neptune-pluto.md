@@ -3,7 +3,7 @@ title: Mercury Neptune Pluto
 page_type: triad_hub
 slug: mercury-neptune-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Neptune
@@ -18,7 +18,7 @@ orientations:
   - Neptune/Pluto = Mercury
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mercury/Neptune = Pluto](../activations/mercury-neptune-equals-pluto.md)
-  Source page `161`, entry `0526`
+  Source page `164`
 - [Mercury/Pluto = Neptune](../activations/mercury-pluto-equals-neptune.md)
-  Source page `164`, entry `0538`
+  Source page `165`
 - [Neptune/Pluto = Mercury](../activations/neptune-pluto-equals-mercury.md)
-  Source page `281`, entry `1001`
+  Source page `246`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mercury/Neptune = Pluto`: page `161`, entry `0526`
-- `Mercury/Pluto = Neptune`: page `164`, entry `0538`
-- `Neptune/Pluto = Mercury`: page `281`, entry `1001`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mercury/Neptune = Pluto`: page `164`
+- `Mercury/Pluto = Neptune`: page `165`
+- `Neptune/Pluto = Mercury`: page `246`
 
 ## Contradictions Across Orientations
 

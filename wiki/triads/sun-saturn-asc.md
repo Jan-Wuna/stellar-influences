@@ -3,7 +3,7 @@ title: Sun Saturn Asc
 page_type: triad_hub
 slug: sun-saturn-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Saturn
@@ -18,7 +18,7 @@ orientations:
   - Sun/Saturn = Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Saturn/Asc = Sun](../activations/saturn-asc-equals-sun.md)
-  Source page `260`, entry `0915`
+  Source page `87`
 - [Sun/Asc = Saturn](../activations/sun-asc-equals-saturn.md)
-  Source page `108`, entry `0308`
+  Source page `80`
 - [Sun/Saturn = Asc](../activations/sun-saturn-equals-asc.md)
-  Source page `94`, entry `0252`
+  Source page `107`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Saturn/Asc = Sun`: page `260`, entry `0915`
-- `Sun/Asc = Saturn`: page `108`, entry `0308`
-- `Sun/Saturn = Asc`: page `94`, entry `0252`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Saturn/Asc = Sun`: page `87`
+- `Sun/Asc = Saturn`: page `80`
+- `Sun/Saturn = Asc`: page `107`
 
 ## Contradictions Across Orientations
 

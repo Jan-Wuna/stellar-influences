@@ -3,7 +3,7 @@ title: Venus/Pluto = Saturn
 page_type: activation
 slug: venus-pluto-equals-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Pluto
@@ -17,7 +17,7 @@ triad_set:
   - Pluto
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0644`
-- Source page: `191`
+- Source heading: `Venus + Pluto`
+- Source page: `181`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Immorality. A tragic love.
+Interruption of a fortunate development. Wishes and hopes come not through. Separation after short time. Not ready to show consideration.
 
 ## Comparative Schema
 
-- core meaning: Immorality. A tragic love.
+- core meaning: Interruption of a fortunate development. Wishes and hopes come not through. Separation after short time. Not ready to show consideration.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Immorality. A tragic love.
 - [Pluto](../factors/pluto.md)
 - [Saturn](../factors/saturn.md)
 - [Venus/Pluto](../axes/venus-pluto.md)
-- [Venus Saturn Pluto](../triads/venus-saturn-pluto.md)

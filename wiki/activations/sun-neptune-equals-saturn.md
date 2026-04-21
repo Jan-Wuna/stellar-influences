@@ -3,7 +3,7 @@ title: Sun/Neptune = Saturn
 page_type: activation
 slug: sun-neptune-equals-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Neptune
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0272`
-- Source page: `99`
+- Source heading: `Sun + Neptune`
+- Source page: `109`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Inhibitions through illness or physical debility, emotional affliction. Illness through mental and emotional suffering, impeded blood circulation, bad or unhealthy blood.
+Lingering maladies. A body enfeebled by disease. Blood diseases. Poor states of health. Losses through deceit or weakness.
 
 ## Comparative Schema
 
-- core meaning: Inhibitions through illness or physical debility, emotional affliction. Illness through mental and emotional suffering, impeded blood circulation, bad or unhealthy blood.
+- core meaning: Lingering maladies. A body enfeebled by disease. Blood diseases. Poor states of health. Losses through deceit or weakness.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Inhibitions through illness or physical debility, emotional affliction. Illness 
 - [Neptune](../factors/neptune.md)
 - [Saturn](../factors/saturn.md)
 - [Sun/Neptune](../axes/sun-neptune.md)
-- [Sun Saturn Neptune](../triads/sun-saturn-neptune.md)

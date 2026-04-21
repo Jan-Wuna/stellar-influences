@@ -3,10 +3,10 @@ title: Pluto/Asc = Mars
 page_type: activation
 slug: pluto-asc-equals-mars
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Pluto
   - Asc
+  - Pluto
   - Mars
 normalized_formula: Pluto/Asc = Mars
 axis: Pluto/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1063`
-- Source page: `295`
+- Source heading: `Asc + Pluto`
+- Source page: `90`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Foolhardiness and daring, tendency to expose oneself to danger. Injury, accident.
+Planning a change of location. Action leads to changes in others.
 
 ## Comparative Schema
 
-- core meaning: Foolhardiness and daring, tendency to expose oneself to danger. Injury, accident.
+- core meaning: Planning a change of location. Action leads to changes in others.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Foolhardiness and daring, tendency to expose oneself to danger. Injury, accident
 - [Asc](../factors/asc.md)
 - [Mars](../factors/mars.md)
 - [Pluto/Asc](../axes/pluto-asc.md)
-- [Mars Pluto Asc](../triads/mars-pluto-asc.md)

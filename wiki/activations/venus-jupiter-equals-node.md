@@ -3,7 +3,7 @@ title: Venus/Jupiter = Node
 page_type: activation
 slug: venus-jupiter-equals-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Jupiter
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0599`
-- Source page: `179`
+- Source heading: `Venus + Jupiter`
+- Source page: `177`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Ability to share joy with other people, an unselfish disposition. The state of coming together through unusually strong feelings of love, becoming engaged, a joy shared with others.
+Rendezvous. Union of love. Connection with a successful or happy woman.
 
 ## Comparative Schema
 
-- core meaning: Ability to share joy with other people, an unselfish disposition. The state of coming together through unusually strong feelings of love, becoming engaged, a joy shared with others.
+- core meaning: Rendezvous. Union of love. Connection with a successful or happy woman.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Ability to share joy with other people, an unselfish disposition. The state of c
 - [Jupiter](../factors/jupiter.md)
 - [Node](../factors/node.md)
 - [Venus/Jupiter](../axes/venus-jupiter.md)
-- [Venus Jupiter Node](../triads/venus-jupiter-node.md)

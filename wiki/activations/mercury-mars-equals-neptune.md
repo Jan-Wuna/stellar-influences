@@ -3,7 +3,7 @@ title: Mercury/Mars = Neptune
 page_type: activation
 slug: mercury-mars-equals-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Mars
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0477`
-- Source page: `149`
+- Source heading: `Mercury + Mars`
+- Source page: `160`
+#### Witte Entry
 
-#### Ebertin Entry
-
-The pursuit of fantastic plans, speaking without acting, failure to keep promises. Hopeless plans, tendency to harm others through falsehood or underhanded behavior, undermining another person's position.
+To speak badly. To lisp. A defect in speech. Strong imagination. To commit blunders. To be excited over nothing. Will to destroy.
 
 ## Comparative Schema
 
-- core meaning: The pursuit of fantastic plans, speaking without acting, failure to keep promises. Hopeless plans, tendency to harm others through falsehood or underhanded behavior, undermining another person's position.
+- core meaning: To speak badly. To lisp. A defect in speech. Strong imagination. To commit blunders. To be excited over nothing. Will to destroy.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ The pursuit of fantastic plans, speaking without acting, failure to keep promise
 - [Mars](../factors/mars.md)
 - [Neptune](../factors/neptune.md)
 - [Mercury/Mars](../axes/mercury-mars.md)
-- [Mercury Mars Neptune](../triads/mercury-mars-neptune.md)

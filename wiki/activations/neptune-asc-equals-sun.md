@@ -3,10 +3,10 @@ title: Neptune/Asc = Sun
 page_type: activation
 slug: neptune-asc-equals-sun
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Neptune
   - Asc
+  - Neptune
   - Sun
 normalized_formula: Neptune/Asc = Sun
 axis: Neptune/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1023`
-- Source page: `287`
+- Source heading: `Asc + Neptune`
+- Source page: `89`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Inclination to face others with a show of physical weakness, the misfortune to be exploited or harmed physically. Suffering degradation and humiliation.
+Personal or bodily losses through other persons, or other influences. Danger of poisoning.
 
 ## Comparative Schema
 
-- core meaning: Inclination to face others with a show of physical weakness, the misfortune to be exploited or harmed physically. Suffering degradation and humiliation.
+- core meaning: Personal or bodily losses through other persons, or other influences. Danger of poisoning.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Inclination to face others with a show of physical weakness, the misfortune to b
 - [Asc](../factors/asc.md)
 - [Sun](../factors/sun.md)
 - [Neptune/Asc](../axes/neptune-asc.md)
-- [Sun Neptune Asc](../triads/sun-neptune-asc.md)

@@ -3,7 +3,7 @@ title: Sun/Neptune
 page_type: axis
 slug: sun-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Neptune
@@ -11,7 +11,11 @@ normalized_axis: Sun/Neptune
 factor_a: Sun
 factor_b: Neptune
 related_activations:
+  - Sun/Neptune = Aries
+  - Sun/Neptune = MC
+  - Sun/Neptune = Asc
   - Sun/Neptune = Moon
+  - Sun/Neptune = Node
   - Sun/Neptune = Mercury
   - Sun/Neptune = Venus
   - Sun/Neptune = Mars
@@ -19,25 +23,39 @@ related_activations:
   - Sun/Neptune = Saturn
   - Sun/Neptune = Uranus
   - Sun/Neptune = Pluto
-  - Sun/Neptune = Node
-  - Sun/Neptune = Asc
-  - Sun/Neptune = MC
+  - Sun/Neptune = Cupido
+  - Sun/Neptune = Hades
+  - Sun/Neptune = Zeus
+  - Sun/Neptune = Kronos
+  - Sun/Neptune = Apollon
+  - Sun/Neptune = Admetos
+  - Sun/Neptune = Vulcanus
+  - Sun/Neptune = Poseidon
 related_triad_hubs:
+  - Aries Sun Neptune
   - Sun Jupiter Neptune
   - Sun Mars Neptune
   - Sun Mercury Neptune
   - Sun Moon Neptune
+  - Sun Neptune Admetos
+  - Sun Neptune Apollon
   - Sun Neptune Asc
+  - Sun Neptune Cupido
+  - Sun Neptune Hades
+  - Sun Neptune Kronos
   - Sun Neptune MC
   - Sun Neptune Node
   - Sun Neptune Pluto
+  - Sun Neptune Poseidon
+  - Sun Neptune Vulcanus
+  - Sun Neptune Zeus
   - Sun Saturn Neptune
   - Sun Uranus Neptune
   - Sun Venus Neptune
 aliases:
   - Neptune/Sun
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,46 +63,33 @@ updated_at: 2026-04-21
 
 - Axis: `Sun/Neptune`
 - Astronomicon axis: `S/Y`
-- Source heading: `Sun/Neptune`
-- Source page: `98`
+- Source heading: `Sun + Neptune`
+- Source page: `109`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-Sensitivity, weakness, illness.
-
-#### Psychological Correspondence
-
-+ Receptive to all impressions, active imagination, enthusiasm, inclination to mysticism, cultivation of soul life or inner life experience. - Impressionable and susceptible, negative attitude to life, weakness, plans without the power to carry them through, peculiar ideas, craving for drugs and narcotic stimulants, self-deception. C Frailty, impressionable, a person subject to moods.
-
-#### Biological Correspondence
-
-The sluggish, weak or paralyzed cell, water concentrations in the cell. Dropsy, edema.
-
-#### Sociological Correspondence
-
-Weak, sick, sensitive persons, mediums.
-
-#### Probable Manifestations
-
-+ Abundant experience in the spiritual and psychic realms or spheres, mystical experiences, journeys to far distant places, successes through sympathetic understanding of other people. - Illness, a person easily influenced by others, prone to seduction. A person who is exploited by other people; great disappointments, chaotic conditions, entanglement in scandals. 10 Several observations have shown that Sun/Neptune seems to relate to anaemia, bad blood conditions and blood diseases generally. A combination of Pluto = Sun/Neptune (Neptune = Sun/Pluto, Sun = Neptune/Pluto) showed not only actual blood diseases but also detrimental effects during or following on blood transfusions. O/V
-
+Sensitive, delicate body or object. A body tbat is susceptible to disease or infection. Weak or physically defenseless. Infirmity. Poor blood. The gas balloon, airplane or ship. Uncertain times or days. Physical relaxation. Lack of live energy. Poor muscle tone of a body or decay. Feebleness or sickness. (In the solar cycle: an uncertain period.)
 
 ## Comparative Schema
 
-- core meaning: Sensitivity, weakness, illness.
-- psychology: + Receptive to all impressions, active imagination, enthusiasm, inclination to mysticism, cultivation of soul life or inner life experience. - Impressionable and susceptible, negative attitude to life, weakness, plans without the power to carry them through, peculiar ideas, craving for drugs and narcotic stimulants, self-deception. C Frailty, impressionable, a person subject to moods.
-- body/health: The sluggish, weak or paralyzed cell, water concentrations in the cell. Dropsy, edema.
-- social/relationship: Weak, sick, sensitive persons, mediums.
-- events/manifestations: + Abundant experience in the spiritual and psychic realms or spheres, mystical experiences, journeys to far distant places, successes through sympathetic understanding of other people. - Illness, a person easily influenced by others, prone to seduction. A person who is exploited by other people; great disappointments, chaotic conditions, entanglement in scandals. 10 Several observations have shown that Sun/Neptune seems to relate to anaemia, bad blood conditions and blood diseases generally. A combination of Pluto = Sun/Neptune (Neptune = Sun/Pluto, Sun = Neptune/Pluto) showed not only actual blood diseases but also detrimental effects during or following on blood transfusions. O/V
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: Sensitive, delicate body or object. A body tbat is susceptible to disease or infection. Weak or physically defenseless. Infirmity. Poor blood. The gas balloon, airplane or ship. Uncertain times or days. Physical relaxation. Lack of live energy. Poor muscle tone of a body or decay. Feebleness or sickness. (In the solar cycle: an uncertain period.)
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Sun/Neptune = Aries](../activations/sun-neptune-equals-aries.md)
+- [Sun/Neptune = MC](../activations/sun-neptune-equals-mc.md)
+- [Sun/Neptune = Asc](../activations/sun-neptune-equals-asc.md)
 - [Sun/Neptune = Moon](../activations/sun-neptune-equals-moon.md)
+- [Sun/Neptune = Node](../activations/sun-neptune-equals-node.md)
 - [Sun/Neptune = Mercury](../activations/sun-neptune-equals-mercury.md)
 - [Sun/Neptune = Venus](../activations/sun-neptune-equals-venus.md)
 - [Sun/Neptune = Mars](../activations/sun-neptune-equals-mars.md)
@@ -92,9 +97,14 @@ Weak, sick, sensitive persons, mediums.
 - [Sun/Neptune = Saturn](../activations/sun-neptune-equals-saturn.md)
 - [Sun/Neptune = Uranus](../activations/sun-neptune-equals-uranus.md)
 - [Sun/Neptune = Pluto](../activations/sun-neptune-equals-pluto.md)
-- [Sun/Neptune = Node](../activations/sun-neptune-equals-node.md)
-- [Sun/Neptune = Asc](../activations/sun-neptune-equals-asc.md)
-- [Sun/Neptune = MC](../activations/sun-neptune-equals-mc.md)
+- [Sun/Neptune = Cupido](../activations/sun-neptune-equals-cupido.md)
+- [Sun/Neptune = Hades](../activations/sun-neptune-equals-hades.md)
+- [Sun/Neptune = Zeus](../activations/sun-neptune-equals-zeus.md)
+- [Sun/Neptune = Kronos](../activations/sun-neptune-equals-kronos.md)
+- [Sun/Neptune = Apollon](../activations/sun-neptune-equals-apollon.md)
+- [Sun/Neptune = Admetos](../activations/sun-neptune-equals-admetos.md)
+- [Sun/Neptune = Vulcanus](../activations/sun-neptune-equals-vulcanus.md)
+- [Sun/Neptune = Poseidon](../activations/sun-neptune-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Weak, sick, sensitive persons, mediums.
 
 - [Sun](../factors/sun.md)
 - [Neptune](../factors/neptune.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

@@ -3,7 +3,7 @@ title: Mercury/Venus = Jupiter
 page_type: activation
 slug: mercury-venus-equals-jupiter
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Venus
@@ -17,7 +17,7 @@ triad_set:
   - Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0462`
-- Source page: `146`
+- Source heading: `Mercury + Venus`
+- Source page: `159`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Great wealth of artistic design or form, desire to acquire artistic objects or jewelry, love of luxury, appreciation of religious art. Artistic success, realization of love thoughts, an advantageous union.
+Happy new acquaintance. Good manners. Sense of humor. Friendly. Fond of ornaments. Jeweler.
 
 ## Comparative Schema
 
-- core meaning: Great wealth of artistic design or form, desire to acquire artistic objects or jewelry, love of luxury, appreciation of religious art. Artistic success, realization of love thoughts, an advantageous union.
+- core meaning: Happy new acquaintance. Good manners. Sense of humor. Friendly. Fond of ornaments. Jeweler.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Great wealth of artistic design or form, desire to acquire artistic objects or j
 - [Venus](../factors/venus.md)
 - [Jupiter](../factors/jupiter.md)
 - [Mercury/Venus](../axes/mercury-venus.md)
-- [Mercury Venus Jupiter](../triads/mercury-venus-jupiter.md)

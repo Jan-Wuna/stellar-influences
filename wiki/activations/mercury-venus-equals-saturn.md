@@ -3,7 +3,7 @@ title: Mercury/Venus = Saturn
 page_type: activation
 slug: mercury-venus-equals-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Venus
@@ -17,7 +17,7 @@ triad_set:
   - Saturn
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0463`
-- Source page: `146`
+- Source heading: `Mercury + Venus`
+- Source page: `159`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Thoroughness, a serious attitude toward life, desire to contemplate or meditate deeply in retirement and solitude, creative activity under quiet conditions. Difficult art work, creative design or form shaped from hard or heavy material, a difficult artistic career.
+Acquaintance with older or more serious people. Travelling-acquaintance. Falling out with friends, quarrelling with them, to separate. Retiring disposition. To be surly. Wood carver.
 
 ## Comparative Schema
 
-- core meaning: Thoroughness, a serious attitude toward life, desire to contemplate or meditate deeply in retirement and solitude, creative activity under quiet conditions. Difficult art work, creative design or form shaped from hard or heavy material, a difficult artistic career.
+- core meaning: Acquaintance with older or more serious people. Travelling-acquaintance. Falling out with friends, quarrelling with them, to separate. Retiring disposition. To be surly. Wood carver.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Thoroughness, a serious attitude toward life, desire to contemplate or meditate 
 - [Venus](../factors/venus.md)
 - [Saturn](../factors/saturn.md)
 - [Mercury/Venus](../axes/mercury-venus.md)
-- [Mercury Venus Saturn](../triads/mercury-venus-saturn.md)

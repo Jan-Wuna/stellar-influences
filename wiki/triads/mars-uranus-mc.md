@@ -3,7 +3,7 @@ title: Mars Uranus MC
 page_type: triad_hub
 slug: mars-uranus-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Uranus
@@ -18,7 +18,7 @@ orientations:
   - Uranus/MC = Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/MC = Uranus](../activations/mars-mc-equals-uranus.md)
-  Source page `223`, entry `0777`
+  Source page `64`
 - [Mars/Uranus = MC](../activations/mars-uranus-equals-mc.md)
-  Source page `209`, entry `0721`
+  Source page `194`
 - [Uranus/MC = Mars](../activations/uranus-mc-equals-mars.md)
-  Source page `278`, entry `0991`
+  Source page `67`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/MC = Uranus`: page `223`, entry `0777`
-- `Mars/Uranus = MC`: page `209`, entry `0721`
-- `Uranus/MC = Mars`: page `278`, entry `0991`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/MC = Uranus`: page `64`
+- `Mars/Uranus = MC`: page `194`
+- `Uranus/MC = Mars`: page `67`
 
 ## Contradictions Across Orientations
 

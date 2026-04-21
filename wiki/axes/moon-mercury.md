@@ -3,7 +3,7 @@ title: Moon/Mercury
 page_type: axis
 slug: moon-mercury
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Mercury
@@ -11,7 +11,11 @@ normalized_axis: Moon/Mercury
 factor_a: Moon
 factor_b: Mercury
 related_activations:
+  - Moon/Mercury = Aries
+  - Moon/Mercury = MC
+  - Moon/Mercury = Asc
   - Moon/Mercury = Sun
+  - Moon/Mercury = Node
   - Moon/Mercury = Venus
   - Moon/Mercury = Mars
   - Moon/Mercury = Jupiter
@@ -19,25 +23,39 @@ related_activations:
   - Moon/Mercury = Uranus
   - Moon/Mercury = Neptune
   - Moon/Mercury = Pluto
-  - Moon/Mercury = Node
-  - Moon/Mercury = Asc
-  - Moon/Mercury = MC
+  - Moon/Mercury = Cupido
+  - Moon/Mercury = Hades
+  - Moon/Mercury = Zeus
+  - Moon/Mercury = Kronos
+  - Moon/Mercury = Apollon
+  - Moon/Mercury = Admetos
+  - Moon/Mercury = Vulcanus
+  - Moon/Mercury = Poseidon
 related_triad_hubs:
+  - Aries Moon Mercury
+  - Moon Mercury Admetos
+  - Moon Mercury Apollon
   - Moon Mercury Asc
+  - Moon Mercury Cupido
+  - Moon Mercury Hades
   - Moon Mercury Jupiter
-  - Moon Mercury MC
+  - Moon Mercury Kronos
   - Moon Mercury Mars
+  - Moon Mercury MC
   - Moon Mercury Neptune
   - Moon Mercury Node
   - Moon Mercury Pluto
+  - Moon Mercury Poseidon
   - Moon Mercury Saturn
   - Moon Mercury Uranus
   - Moon Mercury Venus
+  - Moon Mercury Vulcanus
+  - Moon Mercury Zeus
   - Sun Moon Mercury
 aliases:
   - Mercury/Moon
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,46 +63,33 @@ updated_at: 2026-04-21
 
 - Axis: `Moon/Mercury`
 - Astronomicon axis: `R/T`
-- Source heading: `Moon/Mercury`
-- Source page: `113`
+- Source heading: `Moon + Mercury`
+- Source page: `122`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-Thinking influenced by feeling, perception.
-
-#### Psychological Correspondence
-
-+ An active mind, adaptable, sympathetic kindness, protective care, thoughtfulness and discretion, good judgement. - Changeable thinking, changing views, love of gossip, propensity for lying. Sensitive nerves. C An active mind, good grasp or perception (a talent for learning languages).
-
-#### Biological Correspondence
-
-Water equilibrium in the nervous system. Liquor cerebri. Female puberty.
-
-#### Sociological Correspondence
-
-Young girls, intellectually or mentally active women, an authoress.
-
-#### Probable Manifestations
-
-+ Exchange of thoughts with the female sex, receiving mental stimuli, the extension of one's intellectual horizon. Journeys or travels. - Exposure to criticism, gossip. W
-
+Motion of the brain. Thinking capacity. The memory. The imaginative power. Superficial thinking. The young generation. Young girl. Young woman. Several hours. Office hours. Vehicles. Shifted hour. Lively and changeable train of thoughts. The general opinion in relation to the hour and female persons.
 
 ## Comparative Schema
 
-- core meaning: Thinking influenced by feeling, perception.
-- psychology: + An active mind, adaptable, sympathetic kindness, protective care, thoughtfulness and discretion, good judgement. - Changeable thinking, changing views, love of gossip, propensity for lying. Sensitive nerves. C An active mind, good grasp or perception (a talent for learning languages).
-- body/health: Water equilibrium in the nervous system. Liquor cerebri. Female puberty.
-- social/relationship: Young girls, intellectually or mentally active women, an authoress.
-- events/manifestations: + Exchange of thoughts with the female sex, receiving mental stimuli, the extension of one's intellectual horizon. Journeys or travels. - Exposure to criticism, gossip. W
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: Motion of the brain. Thinking capacity. The memory. The imaginative power. Superficial thinking. The young generation. Young girl. Young woman. Several hours. Office hours. Vehicles. Shifted hour. Lively and changeable train of thoughts. The general opinion in relation to the hour and female persons.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Moon/Mercury = Aries](../activations/moon-mercury-equals-aries.md)
+- [Moon/Mercury = MC](../activations/moon-mercury-equals-mc.md)
+- [Moon/Mercury = Asc](../activations/moon-mercury-equals-asc.md)
 - [Moon/Mercury = Sun](../activations/moon-mercury-equals-sun.md)
+- [Moon/Mercury = Node](../activations/moon-mercury-equals-node.md)
 - [Moon/Mercury = Venus](../activations/moon-mercury-equals-venus.md)
 - [Moon/Mercury = Mars](../activations/moon-mercury-equals-mars.md)
 - [Moon/Mercury = Jupiter](../activations/moon-mercury-equals-jupiter.md)
@@ -92,9 +97,14 @@ Young girls, intellectually or mentally active women, an authoress.
 - [Moon/Mercury = Uranus](../activations/moon-mercury-equals-uranus.md)
 - [Moon/Mercury = Neptune](../activations/moon-mercury-equals-neptune.md)
 - [Moon/Mercury = Pluto](../activations/moon-mercury-equals-pluto.md)
-- [Moon/Mercury = Node](../activations/moon-mercury-equals-node.md)
-- [Moon/Mercury = Asc](../activations/moon-mercury-equals-asc.md)
-- [Moon/Mercury = MC](../activations/moon-mercury-equals-mc.md)
+- [Moon/Mercury = Cupido](../activations/moon-mercury-equals-cupido.md)
+- [Moon/Mercury = Hades](../activations/moon-mercury-equals-hades.md)
+- [Moon/Mercury = Zeus](../activations/moon-mercury-equals-zeus.md)
+- [Moon/Mercury = Kronos](../activations/moon-mercury-equals-kronos.md)
+- [Moon/Mercury = Apollon](../activations/moon-mercury-equals-apollon.md)
+- [Moon/Mercury = Admetos](../activations/moon-mercury-equals-admetos.md)
+- [Moon/Mercury = Vulcanus](../activations/moon-mercury-equals-vulcanus.md)
+- [Moon/Mercury = Poseidon](../activations/moon-mercury-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Young girls, intellectually or mentally active women, an authoress.
 
 - [Moon](../factors/moon.md)
 - [Mercury](../factors/mercury.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

@@ -3,7 +3,7 @@ title: Sun Jupiter Node
 page_type: triad_hub
 slug: sun-jupiter-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Jupiter
@@ -18,7 +18,7 @@ orientations:
   - Sun/Node = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Node = Sun](../activations/jupiter-node-equals-sun.md)
-  Source page `238`, entry `0831`
+  Source page `144`
 - [Sun/Jupiter = Node](../activations/sun-jupiter-equals-node.md)
-  Source page `91`, entry `0239`
+  Source page `106`
 - [Sun/Node = Jupiter](../activations/sun-node-equals-jupiter.md)
-  Source page `105`, entry `0295`
+  Source page `102`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/Node = Sun`: page `238`, entry `0831`
-- `Sun/Jupiter = Node`: page `91`, entry `0239`
-- `Sun/Node = Jupiter`: page `105`, entry `0295`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/Node = Sun`: page `144`
+- `Sun/Jupiter = Node`: page `106`
+- `Sun/Node = Jupiter`: page `102`
 
 ## Contradictions Across Orientations
 

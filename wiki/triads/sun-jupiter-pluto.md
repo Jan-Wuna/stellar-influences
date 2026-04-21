@@ -3,7 +3,7 @@ title: Sun Jupiter Pluto
 page_type: triad_hub
 slug: sun-jupiter-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Jupiter
@@ -18,7 +18,7 @@ orientations:
   - Sun/Pluto = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Pluto = Sun](../activations/jupiter-pluto-equals-sun.md)
-  Source page `235`, entry `0819`
+  Source page `210`
 - [Sun/Jupiter = Pluto](../activations/sun-jupiter-equals-pluto.md)
-  Source page `90`, entry `0238`
+  Source page `106`
 - [Sun/Pluto = Jupiter](../activations/sun-pluto-equals-jupiter.md)
-  Source page `102`, entry `0283`
+  Source page `110`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/Pluto = Sun`: page `235`, entry `0819`
-- `Sun/Jupiter = Pluto`: page `90`, entry `0238`
-- `Sun/Pluto = Jupiter`: page `102`, entry `0283`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/Pluto = Sun`: page `210`
+- `Sun/Jupiter = Pluto`: page `106`
+- `Sun/Pluto = Jupiter`: page `110`
 
 ## Contradictions Across Orientations
 

@@ -3,7 +3,7 @@ title: Moon/Jupiter = Asc
 page_type: activation
 slug: moon-jupiter-equals-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Jupiter
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0372`
-- Source page: `124`
+- Source heading: `Moon + Jupiter`
+- Source page: `125`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Cheerful, confident and happy in the company of other people, the creation of a harmonious environment. Fortunate contacts.
+Acquaintance with cheerful and serene women. Happy and cheerful surroundings. Success of a female person in the immediate vicinity.
 
 ## Comparative Schema
 
-- core meaning: Cheerful, confident and happy in the company of other people, the creation of a harmonious environment. Fortunate contacts.
+- core meaning: Acquaintance with cheerful and serene women. Happy and cheerful surroundings. Success of a female person in the immediate vicinity.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Cheerful, confident and happy in the company of other people, the creation of a 
 - [Jupiter](../factors/jupiter.md)
 - [Asc](../factors/asc.md)
 - [Moon/Jupiter](../axes/moon-jupiter.md)
-- [Moon Jupiter Asc](../triads/moon-jupiter-asc.md)

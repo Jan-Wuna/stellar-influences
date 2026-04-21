@@ -3,7 +3,7 @@ title: Venus/Jupiter = Pluto
 page_type: activation
 slug: venus-jupiter-equals-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Jupiter
@@ -17,7 +17,7 @@ triad_set:
   - Pluto
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0598`
-- Source page: `179`
+- Source heading: `Venus + Jupiter`
+- Source page: `177`
+#### Witte Entry
 
-#### Ebertin Entry
-
-The enjoyment of an unusually large measure of popularity, ability to gain favor with the masses, a state of great happiness.
+Good fortune and happiness on the way, developing. Coming happiness. Happy change. Transformation or development.
 
 ## Comparative Schema
 
-- core meaning: The enjoyment of an unusually large measure of popularity, ability to gain favor with the masses, a state of great happiness.
+- core meaning: Good fortune and happiness on the way, developing. Coming happiness. Happy change. Transformation or development.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ The enjoyment of an unusually large measure of popularity, ability to gain favor
 - [Jupiter](../factors/jupiter.md)
 - [Pluto](../factors/pluto.md)
 - [Venus/Jupiter](../axes/venus-jupiter.md)
-- [Venus Jupiter Pluto](../triads/venus-jupiter-pluto.md)

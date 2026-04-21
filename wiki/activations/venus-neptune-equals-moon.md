@@ -3,7 +3,7 @@ title: Venus/Neptune = Moon
 page_type: activation
 slug: venus-neptune-equals-moon
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Neptune
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0628`
-- Source page: `188`
+- Source heading: `Venus + Neptune`
+- Source page: `180`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A chaotic emotional life, dreamy nature, easily influenced or led by others. A renouncing, unhappy or disappointed woman.
+Woman’s happiness in love obstructed. Womans unhappy love.
 
 ## Comparative Schema
 
-- core meaning: A chaotic emotional life, dreamy nature, easily influenced or led by others. A renouncing, unhappy or disappointed woman.
+- core meaning: Woman’s happiness in love obstructed. Womans unhappy love.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A chaotic emotional life, dreamy nature, easily influenced or led by others. A r
 - [Neptune](../factors/neptune.md)
 - [Moon](../factors/moon.md)
 - [Venus/Neptune](../axes/venus-neptune.md)
-- [Moon Venus Neptune](../triads/moon-venus-neptune.md)

@@ -3,10 +3,10 @@ title: Saturn/Asc = Moon
 page_type: activation
 slug: saturn-asc-equals-moon
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Saturn
   - Asc
+  - Saturn
   - Moon
 normalized_formula: Saturn/Asc = Moon
 axis: Saturn/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0916`
-- Source page: `260`
+- Source heading: `Asc + Saturn`
+- Source page: `87`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Feelings of depression caused by the environment. Inhibitions in the presence of others, ill humor and disagreeable moods, a person easily influenced by the environment. Separation of female persons.
+To take leave of women. To be separated or rejected from female persons.
 
 ## Comparative Schema
 
-- core meaning: Feelings of depression caused by the environment. Inhibitions in the presence of others, ill humor and disagreeable moods, a person easily influenced by the environment. Separation of female persons.
+- core meaning: To take leave of women. To be separated or rejected from female persons.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Feelings of depression caused by the environment. Inhibitions in the presence of
 - [Asc](../factors/asc.md)
 - [Moon](../factors/moon.md)
 - [Saturn/Asc](../axes/saturn-asc.md)
-- [Moon Saturn Asc](../triads/moon-saturn-asc.md)

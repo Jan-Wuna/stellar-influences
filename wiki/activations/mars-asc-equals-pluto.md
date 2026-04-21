@@ -3,10 +3,10 @@ title: Mars/Asc = Pluto
 page_type: activation
 slug: mars-asc-equals-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Mars
   - Asc
+  - Mars
   - Pluto
 normalized_formula: Mars/Asc = Pluto
 axis: Mars/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0767`
-- Source page: `220`
+- Source heading: `Asc + Mars`
+- Source page: `85`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Violence, premature action, love of quarreling or argument, desire to rule others, inclination to subjugate others, forcible adjustment to new circumstances and conditions.
+To plan common activities. Changes through the actions of others. Preparations for moving or change of place.
 
 ## Comparative Schema
 
-- core meaning: Violence, premature action, love of quarreling or argument, desire to rule others, inclination to subjugate others, forcible adjustment to new circumstances and conditions.
+- core meaning: To plan common activities. Changes through the actions of others. Preparations for moving or change of place.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Violence, premature action, love of quarreling or argument, desire to rule other
 - [Asc](../factors/asc.md)
 - [Pluto](../factors/pluto.md)
 - [Mars/Asc](../axes/mars-asc.md)
-- [Mars Pluto Asc](../triads/mars-pluto-asc.md)

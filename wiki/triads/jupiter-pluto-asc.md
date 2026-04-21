@@ -3,7 +3,7 @@ title: Jupiter Pluto Asc
 page_type: triad_hub
 slug: jupiter-pluto-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Pluto
@@ -18,7 +18,7 @@ orientations:
   - Pluto/Asc = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Asc = Pluto](../activations/jupiter-asc-equals-pluto.md)
-  Source page `241`, entry `0851`
+  Source page `86`
 - [Jupiter/Pluto = Asc](../activations/jupiter-pluto-equals-asc.md)
-  Source page `236`, entry `0828`
+  Source page `210`
 - [Pluto/Asc = Jupiter](../activations/pluto-asc-equals-jupiter.md)
-  Source page `295`, entry `1064`
+  Source page `90`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/Asc = Pluto`: page `241`, entry `0851`
-- `Jupiter/Pluto = Asc`: page `236`, entry `0828`
-- `Pluto/Asc = Jupiter`: page `295`, entry `1064`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/Asc = Pluto`: page `86`
+- `Jupiter/Pluto = Asc`: page `210`
+- `Pluto/Asc = Jupiter`: page `90`
 
 ## Contradictions Across Orientations
 

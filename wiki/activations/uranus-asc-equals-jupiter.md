@@ -3,10 +3,10 @@ title: Uranus/Asc = Jupiter
 page_type: activation
 slug: uranus-asc-equals-jupiter
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Uranus
   - Asc
+  - Uranus
   - Jupiter
 normalized_formula: Uranus/Asc = Jupiter
 axis: Uranus/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0980`
-- Source page: `275`
+- Source heading: `Asc + Uranus`
+- Source page: `88`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Ability to quickly come in contact with others and to show one's joy about it, fortunate rearrangement of the environment, optimistic attitude. Successful cooperation or teamwork.
+Happiness (good fortune) with or of other people. Financial advantage through others.
 
 ## Comparative Schema
 
-- core meaning: Ability to quickly come in contact with others and to show one's joy about it, fortunate rearrangement of the environment, optimistic attitude. Successful cooperation or teamwork.
+- core meaning: Happiness (good fortune) with or of other people. Financial advantage through others.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Ability to quickly come in contact with others and to show one's joy about it, f
 - [Asc](../factors/asc.md)
 - [Jupiter](../factors/jupiter.md)
 - [Uranus/Asc](../axes/uranus-asc.md)
-- [Jupiter Uranus Asc](../triads/jupiter-uranus-asc.md)

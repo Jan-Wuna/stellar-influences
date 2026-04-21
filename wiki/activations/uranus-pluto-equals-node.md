@@ -3,7 +3,7 @@ title: Uranus/Pluto = Node
 page_type: activation
 slug: uranus-pluto-equals-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Uranus
   - Pluto
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0959`
-- Source page: `269`
+- Source heading: `Uranus + Pluto`
+- Source page: `235`
+#### Witte Entry
 
-#### Ebertin Entry
-
-An untiring colleague, a continually active partner. Desire to accomplish immense tasks through teamwork, the experience of sharing upsets or excitement with others.
+Connected with sudden changes.
 
 ## Comparative Schema
 
-- core meaning: An untiring colleague, a continually active partner. Desire to accomplish immense tasks through teamwork, the experience of sharing upsets or excitement with others.
+- core meaning: Connected with sudden changes.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ An untiring colleague, a continually active partner. Desire to accomplish immens
 - [Pluto](../factors/pluto.md)
 - [Node](../factors/node.md)
 - [Uranus/Pluto](../axes/uranus-pluto.md)
-- [Uranus Pluto Node](../triads/uranus-pluto-node.md)

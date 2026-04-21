@@ -3,7 +3,7 @@ title: Sun/Jupiter = Mars
 page_type: activation
 slug: sun-jupiter-equals-mars
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Jupiter
@@ -17,7 +17,7 @@ triad_set:
   - Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0234`
-- Source page: `90`
+- Source heading: `Sun + Jupiter`
+- Source page: `106`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A healthy expression of willpower and of natural urges or desires, urge to strive for something or achieve something in life, zeal and eagerness, courage. Successful activity, the happy husband, the bridegroom.
+A man happy in, or thought, his work (activity). Fortunate attack. Happy, promising actions, decisions or expressions of will. The happy fiance.
 
 ## Comparative Schema
 
-- core meaning: A healthy expression of willpower and of natural urges or desires, urge to strive for something or achieve something in life, zeal and eagerness, courage. Successful activity, the happy husband, the bridegroom.
+- core meaning: A man happy in, or thought, his work (activity). Fortunate attack. Happy, promising actions, decisions or expressions of will. The happy fiance.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A healthy expression of willpower and of natural urges or desires, urge to striv
 - [Jupiter](../factors/jupiter.md)
 - [Mars](../factors/mars.md)
 - [Sun/Jupiter](../axes/sun-jupiter.md)
-- [Sun Mars Jupiter](../triads/sun-mars-jupiter.md)

@@ -3,7 +3,7 @@ title: Venus/Jupiter = Mercury
 page_type: activation
 slug: venus-jupiter-equals-mercury
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Jupiter
@@ -17,7 +17,7 @@ triad_set:
   - Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0593`
-- Source page: `179`
+- Source heading: `Venus + Jupiter`
+- Source page: `177`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Mirth, a love of entertainment, optimism, a sense of humor. Happiness in thought, the tendency to think of future happiness in love.
+Thoughts of happy love. Joy through confiding in friends.
 
 ## Comparative Schema
 
-- core meaning: Mirth, a love of entertainment, optimism, a sense of humor. Happiness in thought, the tendency to think of future happiness in love.
+- core meaning: Thoughts of happy love. Joy through confiding in friends.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Mirth, a love of entertainment, optimism, a sense of humor. Happiness in thought
 - [Jupiter](../factors/jupiter.md)
 - [Mercury](../factors/mercury.md)
 - [Venus/Jupiter](../axes/venus-jupiter.md)
-- [Mercury Venus Jupiter](../triads/mercury-venus-jupiter.md)

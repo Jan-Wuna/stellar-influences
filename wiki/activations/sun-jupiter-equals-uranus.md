@@ -3,7 +3,7 @@ title: Sun/Jupiter = Uranus
 page_type: activation
 slug: sun-jupiter-equals-uranus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Jupiter
@@ -17,7 +17,7 @@ triad_set:
   - Uranus
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0236`
-- Source page: `90`
+- Source heading: `Sun + Jupiter`
+- Source page: `106`
+#### Witte Entry
 
-#### Ebertin Entry
-
-The expectation of good fortune, speculation, gambling. A sudden turn, sudden success.
+Forced luck. Sudden luck. Pleasant surprises while striving for success.
 
 ## Comparative Schema
 
-- core meaning: The expectation of good fortune, speculation, gambling. A sudden turn, sudden success.
+- core meaning: Forced luck. Sudden luck. Pleasant surprises while striving for success.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ The expectation of good fortune, speculation, gambling. A sudden turn, sudden su
 - [Jupiter](../factors/jupiter.md)
 - [Uranus](../factors/uranus.md)
 - [Sun/Jupiter](../axes/sun-jupiter.md)
-- [Sun Jupiter Uranus](../triads/sun-jupiter-uranus.md)

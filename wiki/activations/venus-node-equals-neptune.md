@@ -3,10 +3,10 @@ title: Venus/Node = Neptune
 page_type: activation
 slug: venus-node-equals-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Venus
   - Node
+  - Venus
   - Neptune
 normalized_formula: Venus/Node = Neptune
 axis: Venus/Node
@@ -17,7 +17,7 @@ triad_set:
   - Node
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0658`
-- Source page: `193`
+- Source heading: `Node + Venus`
+- Source page: `142`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Shyness, feelings of inferiority in love life. Reveling or ecstatic love notions without fulfilment, the hopelessness of a relationship, falsehood or disappointment.
+Hopeless love union. To deny a love union. Dissolution of agreeable connections or deceptions in such connections.
 
 ## Comparative Schema
 
-- core meaning: Shyness, feelings of inferiority in love life. Reveling or ecstatic love notions without fulfilment, the hopelessness of a relationship, falsehood or disappointment.
+- core meaning: Hopeless love union. To deny a love union. Dissolution of agreeable connections or deceptions in such connections.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Shyness, feelings of inferiority in love life. Reveling or ecstatic love notions
 - [Node](../factors/node.md)
 - [Neptune](../factors/neptune.md)
 - [Venus/Node](../axes/venus-node.md)
-- [Venus Neptune Node](../triads/venus-neptune-node.md)

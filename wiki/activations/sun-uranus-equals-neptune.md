@@ -3,7 +3,7 @@ title: Sun/Uranus = Neptune
 page_type: activation
 slug: sun-uranus-equals-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Uranus
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0261`
-- Source page: `96`
+- Source heading: `Sun + Uranus`
+- Source page: `108`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Inhibited urge to action, blind zeal can only be detrimental, unexpected events connected with water, navigation or flying. In isolated cases, disintegration of the body, death.
+Useless, erroneous excitement. Tension caused by uncertainties, confusion, lies or deceit. Airline accidents. Gas or water accidents. Events connected with death. Burials. Connections with dead people.
 
 ## Comparative Schema
 
-- core meaning: Inhibited urge to action, blind zeal can only be detrimental, unexpected events connected with water, navigation or flying. In isolated cases, disintegration of the body, death.
+- core meaning: Useless, erroneous excitement. Tension caused by uncertainties, confusion, lies or deceit. Airline accidents. Gas or water accidents. Events connected with death. Burials. Connections with dead people.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Inhibited urge to action, blind zeal can only be detrimental, unexpected events 
 - [Uranus](../factors/uranus.md)
 - [Neptune](../factors/neptune.md)
 - [Sun/Uranus](../axes/sun-uranus.md)
-- [Sun Uranus Neptune](../triads/sun-uranus-neptune.md)

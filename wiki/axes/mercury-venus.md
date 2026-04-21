@@ -3,7 +3,7 @@ title: Mercury/Venus
 page_type: axis
 slug: mercury-venus
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Venus
@@ -11,33 +11,51 @@ normalized_axis: Mercury/Venus
 factor_a: Mercury
 factor_b: Venus
 related_activations:
+  - Mercury/Venus = Aries
+  - Mercury/Venus = MC
+  - Mercury/Venus = Asc
   - Mercury/Venus = Sun
   - Mercury/Venus = Moon
+  - Mercury/Venus = Node
   - Mercury/Venus = Mars
   - Mercury/Venus = Jupiter
   - Mercury/Venus = Saturn
   - Mercury/Venus = Uranus
   - Mercury/Venus = Neptune
   - Mercury/Venus = Pluto
-  - Mercury/Venus = Node
-  - Mercury/Venus = Asc
-  - Mercury/Venus = MC
+  - Mercury/Venus = Cupido
+  - Mercury/Venus = Hades
+  - Mercury/Venus = Zeus
+  - Mercury/Venus = Kronos
+  - Mercury/Venus = Apollon
+  - Mercury/Venus = Admetos
+  - Mercury/Venus = Vulcanus
+  - Mercury/Venus = Poseidon
 related_triad_hubs:
+  - Aries Mercury Venus
+  - Mercury Venus Admetos
+  - Mercury Venus Apollon
   - Mercury Venus Asc
+  - Mercury Venus Cupido
+  - Mercury Venus Hades
   - Mercury Venus Jupiter
-  - Mercury Venus MC
+  - Mercury Venus Kronos
   - Mercury Venus Mars
+  - Mercury Venus MC
   - Mercury Venus Neptune
   - Mercury Venus Node
   - Mercury Venus Pluto
+  - Mercury Venus Poseidon
   - Mercury Venus Saturn
   - Mercury Venus Uranus
+  - Mercury Venus Vulcanus
+  - Mercury Venus Zeus
   - Moon Mercury Venus
   - Sun Mercury Venus
 aliases:
   - Venus/Mercury
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,56 +63,48 @@ updated_at: 2026-04-21
 
 - Axis: `Mercury/Venus`
 - Astronomicon axis: `T/Q`
-- Source heading: `Mercury/Venus`
-- Source page: `145`
+- Source heading: `Mercury + Venus`
+- Source page: `159`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-A sense and appreciation of beauty, thoughts of love.
-
-#### Psychological Correspondence
-
-+ A sense of form and design, beauty and art, an intellect influenced strongly by feeling, "the wings of artistic genius and inspiration," a lighthearted nature, cheerfulness and hilarity. - Vanity or conceit, hyper-sensitivity, inclination for pleasures and luxury, little driving power to reach a goal or an objective. C A sense of beauty, grace, lighthearted living, merriment.
-
-#### Biological Correspondence
-
-The glandular secretions.
-
-#### Sociological Correspondence
-
-Authors or writers, artists, those who sell beauty articles or art objects.
-
-#### Probable Manifestations
-
-+ Thoughts of love, a love union, artistic success. - An inclination to squandering and to lighthearted living. MercuryA/enus 5/9
-
+Acquaintanceship. To meet or greet others. Thoughts of love. Aesthetic taste. Artistic taste. Rhythm. Salesman. Beginning of an acquaintance. To arrange tastefully. To beautify. The sense of beauty. The beautiful woman. The motherly female. To favor something. Thoughts of art.
 
 ## Comparative Schema
 
-- core meaning: A sense and appreciation of beauty, thoughts of love.
-- psychology: + A sense of form and design, beauty and art, an intellect influenced strongly by feeling, "the wings of artistic genius and inspiration," a lighthearted nature, cheerfulness and hilarity. - Vanity or conceit, hyper-sensitivity, inclination for pleasures and luxury, little driving power to reach a goal or an objective. C A sense of beauty, grace, lighthearted living, merriment.
-- body/health: The glandular secretions.
-- social/relationship: Authors or writers, artists, those who sell beauty articles or art objects.
-- events/manifestations: + Thoughts of love, a love union, artistic success. - An inclination to squandering and to lighthearted living. MercuryA/enus 5/9
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: Acquaintanceship. To meet or greet others. Thoughts of love. Aesthetic taste. Artistic taste. Rhythm. Salesman. Beginning of an acquaintance. To arrange tastefully. To beautify. The sense of beauty. The beautiful woman. The motherly female. To favor something. Thoughts of art.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Mercury/Venus = Aries](../activations/mercury-venus-equals-aries.md)
+- [Mercury/Venus = MC](../activations/mercury-venus-equals-mc.md)
+- [Mercury/Venus = Asc](../activations/mercury-venus-equals-asc.md)
 - [Mercury/Venus = Sun](../activations/mercury-venus-equals-sun.md)
 - [Mercury/Venus = Moon](../activations/mercury-venus-equals-moon.md)
+- [Mercury/Venus = Node](../activations/mercury-venus-equals-node.md)
 - [Mercury/Venus = Mars](../activations/mercury-venus-equals-mars.md)
 - [Mercury/Venus = Jupiter](../activations/mercury-venus-equals-jupiter.md)
 - [Mercury/Venus = Saturn](../activations/mercury-venus-equals-saturn.md)
 - [Mercury/Venus = Uranus](../activations/mercury-venus-equals-uranus.md)
 - [Mercury/Venus = Neptune](../activations/mercury-venus-equals-neptune.md)
 - [Mercury/Venus = Pluto](../activations/mercury-venus-equals-pluto.md)
-- [Mercury/Venus = Node](../activations/mercury-venus-equals-node.md)
-- [Mercury/Venus = Asc](../activations/mercury-venus-equals-asc.md)
-- [Mercury/Venus = MC](../activations/mercury-venus-equals-mc.md)
+- [Mercury/Venus = Cupido](../activations/mercury-venus-equals-cupido.md)
+- [Mercury/Venus = Hades](../activations/mercury-venus-equals-hades.md)
+- [Mercury/Venus = Zeus](../activations/mercury-venus-equals-zeus.md)
+- [Mercury/Venus = Kronos](../activations/mercury-venus-equals-kronos.md)
+- [Mercury/Venus = Apollon](../activations/mercury-venus-equals-apollon.md)
+- [Mercury/Venus = Admetos](../activations/mercury-venus-equals-admetos.md)
+- [Mercury/Venus = Vulcanus](../activations/mercury-venus-equals-vulcanus.md)
+- [Mercury/Venus = Poseidon](../activations/mercury-venus-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Authors or writers, artists, those who sell beauty articles or art objects.
 
 - [Mercury](../factors/mercury.md)
 - [Venus](../factors/venus.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

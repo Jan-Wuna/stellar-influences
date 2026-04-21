@@ -3,7 +3,7 @@ title: Sun Moon Saturn
 page_type: triad_hub
 slug: sun-moon-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Moon
@@ -18,7 +18,7 @@ orientations:
   - Sun/Saturn = Moon
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Moon/Saturn = Sun](../activations/moon-saturn-equals-sun.md)
-  Source page `126`, entry `0375`
+  Source page `126`
 - [Sun/Moon = Saturn](../activations/sun-moon-equals-saturn.md)
-  Source page `78`, entry `0187`
+  Source page `101`
 - [Sun/Saturn = Moon](../activations/sun-saturn-equals-moon.md)
-  Source page `93`, entry `0243`
+  Source page `107`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Moon/Saturn = Sun`: page `126`, entry `0375`
-- `Sun/Moon = Saturn`: page `78`, entry `0187`
-- `Sun/Saturn = Moon`: page `93`, entry `0243`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Moon/Saturn = Sun`: page `126`
+- `Sun/Moon = Saturn`: page `101`
+- `Sun/Saturn = Moon`: page `107`
 
 ## Contradictions Across Orientations
 

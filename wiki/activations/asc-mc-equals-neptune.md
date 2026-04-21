@@ -3,10 +3,10 @@ title: Asc/MC = Neptune
 page_type: activation
 slug: asc-mc-equals-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Asc
   - MC
+  - Asc
   - Neptune
 normalized_formula: Asc/MC = Neptune
 axis: Asc/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1115`
-- Source page: `307`
+- Source heading: `MC + Asc`
+- Source page: `58`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Feeling ill at ease in one's circle, emotional suffering, need to hide one's true nature by feigning, simulating or pretending. The misfortune to be surrounded by deceitful or bad people, experiencing disappointments.
+To be deceived by others. Experiencing deceptions with others. Unstable professional conditions or associates.
 
 ## Comparative Schema
 
-- core meaning: Feeling ill at ease in one's circle, emotional suffering, need to hide one's true nature by feigning, simulating or pretending. The misfortune to be surrounded by deceitful or bad people, experiencing disappointments.
+- core meaning: To be deceived by others. Experiencing deceptions with others. Unstable professional conditions or associates.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Feeling ill at ease in one's circle, emotional suffering, need to hide one's tru
 - [MC](../factors/mc.md)
 - [Neptune](../factors/neptune.md)
 - [Asc/MC](../axes/asc-mc.md)
-- [Neptune Asc MC](../triads/neptune-asc-mc.md)

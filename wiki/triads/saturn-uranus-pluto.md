@@ -3,7 +3,7 @@ title: Saturn Uranus Pluto
 page_type: triad_hub
 slug: saturn-uranus-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Saturn
   - Uranus
@@ -18,7 +18,7 @@ orientations:
   - Uranus/Pluto = Saturn
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Saturn/Pluto = Uranus](../activations/saturn-pluto-equals-uranus.md)
-  Source page `254`, entry `0897`
+  Source page `223`
 - [Saturn/Uranus = Pluto](../activations/saturn-uranus-equals-pluto.md)
-  Source page `247`, entry `0874`
+  Source page `221`
 - [Uranus/Pluto = Saturn](../activations/uranus-pluto-equals-saturn.md)
-  Source page `269`, entry `0957`
+  Source page `235`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Saturn/Pluto = Uranus`: page `254`, entry `0897`
-- `Saturn/Uranus = Pluto`: page `247`, entry `0874`
-- `Uranus/Pluto = Saturn`: page `269`, entry `0957`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Saturn/Pluto = Uranus`: page `223`
+- `Saturn/Uranus = Pluto`: page `221`
+- `Uranus/Pluto = Saturn`: page `235`
 
 ## Contradictions Across Orientations
 

@@ -3,7 +3,7 @@ title: Jupiter/Saturn = MC
 page_type: activation
 slug: jupiter-saturn-equals-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Jupiter
   - Saturn
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0793`
-- Source page: `227`
+- Source heading: `Jupiter + Saturn`
+- Source page: `207`
+#### Witte Entry
 
-#### Ebertin Entry
-
-The desire for solitude, demonstration of inhibitions, love of seclusion and loneliness. Fluctuating success, changes, losses. The philosopher.
+Worries through losses.
 
 ## Comparative Schema
 
-- core meaning: The desire for solitude, demonstration of inhibitions, love of seclusion and loneliness. Fluctuating success, changes, losses. The philosopher.
+- core meaning: Worries through losses.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ The desire for solitude, demonstration of inhibitions, love of seclusion and lon
 - [Saturn](../factors/saturn.md)
 - [MC](../factors/mc.md)
 - [Jupiter/Saturn](../axes/jupiter-saturn.md)
-- [Jupiter Saturn MC](../triads/jupiter-saturn-mc.md)

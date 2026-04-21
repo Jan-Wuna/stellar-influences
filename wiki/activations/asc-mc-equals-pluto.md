@@ -3,10 +3,10 @@ title: Asc/MC = Pluto
 page_type: activation
 slug: asc-mc-equals-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Asc
   - MC
+  - Asc
   - Pluto
 normalized_formula: Asc/MC = Pluto
 axis: Asc/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1116`
-- Source page: `308`
+- Source heading: `MC + Asc`
+- Source page: `58`
+#### Witte Entry
 
-#### Ebertin Entry
-
-An unusual person in unusual surroundings, a fascinating personality. The power to exercise a strong influence upon the people in one's environment.
+Developments or changes in the professional life or in relation to others. Professional changes effect the native’s personality.
 
 ## Comparative Schema
 
-- core meaning: An unusual person in unusual surroundings, a fascinating personality. The power to exercise a strong influence upon the people in one's environment.
+- core meaning: Developments or changes in the professional life or in relation to others. Professional changes effect the native’s personality.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ An unusual person in unusual surroundings, a fascinating personality. The power 
 - [MC](../factors/mc.md)
 - [Pluto](../factors/pluto.md)
 - [Asc/MC](../axes/asc-mc.md)
-- [Pluto Asc MC](../triads/pluto-asc-mc.md)

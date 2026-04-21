@@ -3,7 +3,7 @@ title: Moon Jupiter MC
 page_type: triad_hub
 slug: moon-jupiter-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Jupiter
@@ -18,7 +18,7 @@ orientations:
   - Moon/MC = Jupiter
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/MC = Moon](../activations/jupiter-mc-equals-moon.md)
-  Source page `244`, entry `0856`
+  Source page `65`
 - [Moon/Jupiter = MC](../activations/moon-jupiter-equals-mc.md)
-  Source page `124`, entry `0373`
+  Source page `125`
 - [Moon/MC = Jupiter](../activations/moon-mc-equals-jupiter.md)
-  Source page `143`, entry `0451`
+  Source page `60`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Jupiter/MC = Moon`: page `244`, entry `0856`
-- `Moon/Jupiter = MC`: page `124`, entry `0373`
-- `Moon/MC = Jupiter`: page `143`, entry `0451`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Jupiter/MC = Moon`: page `65`
+- `Moon/Jupiter = MC`: page `125`
+- `Moon/MC = Jupiter`: page `60`
 
 ## Contradictions Across Orientations
 

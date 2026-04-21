@@ -3,7 +3,7 @@ title: Venus/Saturn = Moon
 page_type: activation
 slug: venus-saturn-equals-moon
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Saturn
@@ -17,7 +17,7 @@ triad_set:
   - Saturn
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0604`
-- Source page: `182`
+- Source heading: `Venus + Saturn`
+- Source page: `178`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Emotional depression caused by unsatisfied love, emotional inhibition, an unfortunate disposition or difficult circumstances in all matters of love expression. A woman living separated from her husband or living a lonely life.
+To make a loving woman feel sad. Forsaken women. Obstruction of the peace of the people.
 
 ## Comparative Schema
 
-- core meaning: Emotional depression caused by unsatisfied love, emotional inhibition, an unfortunate disposition or difficult circumstances in all matters of love expression. A woman living separated from her husband or living a lonely life.
+- core meaning: To make a loving woman feel sad. Forsaken women. Obstruction of the peace of the people.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Emotional depression caused by unsatisfied love, emotional inhibition, an unfort
 - [Saturn](../factors/saturn.md)
 - [Moon](../factors/moon.md)
 - [Venus/Saturn](../axes/venus-saturn.md)
-- [Moon Venus Saturn](../triads/moon-venus-saturn.md)

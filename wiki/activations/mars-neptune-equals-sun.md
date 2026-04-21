@@ -3,7 +3,7 @@ title: Mars/Neptune = Sun
 page_type: activation
 slug: mars-neptune-equals-sun
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Neptune
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0723`
-- Source page: `211`
+- Source heading: `Mars + Neptune`
+- Source page: `195`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Lack of willpower, discontent, weak physique, weak or little vitality. Danger of infection, undermining of the health, dissolution of a body.
+Infection or destruction of the body, of the eyes. The body or the man who is susceptible to diseases.
 
 ## Comparative Schema
 
-- core meaning: Lack of willpower, discontent, weak physique, weak or little vitality. Danger of infection, undermining of the health, dissolution of a body.
+- core meaning: Infection or destruction of the body, of the eyes. The body or the man who is susceptible to diseases.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Lack of willpower, discontent, weak physique, weak or little vitality. Danger of
 - [Neptune](../factors/neptune.md)
 - [Sun](../factors/sun.md)
 - [Mars/Neptune](../axes/mars-neptune.md)
-- [Sun Mars Neptune](../triads/sun-mars-neptune.md)

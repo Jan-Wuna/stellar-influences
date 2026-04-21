@@ -3,7 +3,7 @@ title: Sun/Mars = Neptune
 page_type: activation
 slug: sun-mars-equals-neptune
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Mars
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0225`
-- Source page: `87`
+- Source heading: `Sun + Mars`
+- Source page: `105`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Disinclination to work, lack of energy, dishonest activity. The undermining of one's vocational position, receiving notice, disappointment, fraud. Lack of vitality, illness. Deceived, defrauded or weak husband. 5In interpretations on the basis of transits or directions the conditions and circumstances of the native would always be considered. A call-up for military service can only occur if the native is a certain age or if a war has broken out. At other times such a combination would work out differently. In the case of criminals Uranus = Sun/Mars might result in imprisonment. These combinations may perhaps best be interpreted as a compulsory change in the life and the work of the native.
+The fraudulent active man. The deceived husband. The impotent husband. To lose the husband. Checkmated, out of action. Fatigue. Loss of employment.
 
 ## Comparative Schema
 
-- core meaning: Disinclination to work, lack of energy, dishonest activity. The undermining of one's vocational position, receiving notice, disappointment, fraud. Lack of vitality, illness. Deceived, defrauded or weak husband. 5In interpretations on the basis of transits or directions the conditions and circumstances of the native would always be considered. A call-up for military service can only occur if the native is a certain age or if a war has broken out. At other times such a combination would work out differently. In the case of criminals Uranus = Sun/Mars might result in imprisonment. These combinations may perhaps best be interpreted as a compulsory change in the life and the work of the native.
+- core meaning: The fraudulent active man. The deceived husband. The impotent husband. To lose the husband. Checkmated, out of action. Fatigue. Loss of employment.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Disinclination to work, lack of energy, dishonest activity. The undermining of o
 - [Mars](../factors/mars.md)
 - [Neptune](../factors/neptune.md)
 - [Sun/Mars](../axes/sun-mars.md)
-- [Sun Mars Neptune](../triads/sun-mars-neptune.md)

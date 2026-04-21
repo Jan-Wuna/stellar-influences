@@ -3,10 +3,10 @@ title: Saturn/Asc = Mercury
 page_type: activation
 slug: saturn-asc-equals-mercury
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Saturn
   - Asc
+  - Saturn
   - Mercury
 normalized_formula: Saturn/Asc = Mercury
 axis: Saturn/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0917`
-- Source page: `260`
+- Source heading: `Asc + Saturn`
+- Source page: `87`
+#### Witte Entry
 
-#### Ebertin Entry
-
-The influence of the environment upon one's way of thinking, the misfortune to get into trouble through others, change of environment, a trip.
+To be occupied with thoughts of separation.
 
 ## Comparative Schema
 
-- core meaning: The influence of the environment upon one's way of thinking, the misfortune to get into trouble through others, change of environment, a trip.
+- core meaning: To be occupied with thoughts of separation.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ The influence of the environment upon one's way of thinking, the misfortune to g
 - [Asc](../factors/asc.md)
 - [Mercury](../factors/mercury.md)
 - [Saturn/Asc](../axes/saturn-asc.md)
-- [Mercury Saturn Asc](../triads/mercury-saturn-asc.md)

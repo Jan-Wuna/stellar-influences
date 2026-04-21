@@ -3,10 +3,10 @@ title: Venus/Node = Asc
 page_type: activation
 slug: venus-node-equals-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Venus
   - Node
+  - Venus
   - Asc
 normalized_formula: Venus/Node = Asc
 axis: Venus/Node
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0660`
-- Source page: `194`
+- Source heading: `Node + Venus`
+- Source page: `142`
+#### Witte Entry
 
-#### Ebertin Entry
-
-An affectionate nature, an obliging and cordial manner, harmonious relationships with other persons. A love affair.
+Pleasant and harmonious relations. Love ties with other people.
 
 ## Comparative Schema
 
-- core meaning: An affectionate nature, an obliging and cordial manner, harmonious relationships with other persons. A love affair.
+- core meaning: Pleasant and harmonious relations. Love ties with other people.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ An affectionate nature, an obliging and cordial manner, harmonious relationships
 - [Node](../factors/node.md)
 - [Asc](../factors/asc.md)
 - [Venus/Node](../axes/venus-node.md)
-- [Venus Node Asc](../triads/venus-node-asc.md)

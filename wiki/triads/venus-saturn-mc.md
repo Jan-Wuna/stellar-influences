@@ -3,7 +3,7 @@ title: Venus Saturn MC
 page_type: triad_hub
 slug: venus-saturn-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Saturn
@@ -18,7 +18,7 @@ orientations:
   - Venus/Saturn = MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Saturn/MC = Venus](../activations/saturn-mc-equals-venus.md)
-  Source page `263`, entry `0930`
+  Source page `66`
 - [Venus/MC = Saturn](../activations/venus-mc-equals-saturn.md)
-  Source page `199`, entry `0680`
+  Source page `63`
 - [Venus/Saturn = MC](../activations/venus-saturn-equals-mc.md)
-  Source page `183`, entry `0613`
+  Source page `178`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Saturn/MC = Venus`: page `263`, entry `0930`
-- `Venus/MC = Saturn`: page `199`, entry `0680`
-- `Venus/Saturn = MC`: page `183`, entry `0613`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Saturn/MC = Venus`: page `66`
+- `Venus/MC = Saturn`: page `63`
+- `Venus/Saturn = MC`: page `178`
 
 ## Contradictions Across Orientations
 

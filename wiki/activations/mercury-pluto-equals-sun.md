@@ -3,7 +3,7 @@ title: Mercury/Pluto = Sun
 page_type: activation
 slug: mercury-pluto-equals-sun
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Pluto
@@ -17,7 +17,7 @@ triad_set:
   - Pluto
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0531`
-- Source page: `164`
+- Source heading: `Mercury + Pluto`
+- Source page: `165`
+#### Witte Entry
 
-#### Ebertin Entry
-
-A persuasive speaker, keen observer, circumspection or prudence and vision. Desire to gain recognition.
+Function of the motor and vegetative nervous system. To prefer nerve strengthening food.
 
 ## Comparative Schema
 
-- core meaning: A persuasive speaker, keen observer, circumspection or prudence and vision. Desire to gain recognition.
+- core meaning: Function of the motor and vegetative nervous system. To prefer nerve strengthening food.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ A persuasive speaker, keen observer, circumspection or prudence and vision. Desi
 - [Pluto](../factors/pluto.md)
 - [Sun](../factors/sun.md)
 - [Mercury/Pluto](../axes/mercury-pluto.md)
-- [Sun Mercury Pluto](../triads/sun-mercury-pluto.md)

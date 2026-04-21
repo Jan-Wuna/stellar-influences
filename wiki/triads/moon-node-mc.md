@@ -3,7 +3,7 @@ title: Moon Node MC
 page_type: triad_hub
 slug: moon-node-mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Moon
   - Node
@@ -18,7 +18,7 @@ orientations:
   - Node/MC = Moon
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Moon/MC = Node](../activations/moon-mc-equals-node.md)
-  Source page `144`, entry `0456`
+  Source page `60`
 - [Moon/Node = MC](../activations/moon-node-equals-mc.md)
-  Source page `138`, entry `0433`
+  Source page `121`
 - [Node/MC = Moon](../activations/node-mc-equals-moon.md)
-  Source page `304`, entry `1096`
+  Source page `61`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Moon/MC = Node`: page `144`, entry `0456`
-- `Moon/Node = MC`: page `138`, entry `0433`
-- `Node/MC = Moon`: page `304`, entry `1096`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Moon/MC = Node`: page `60`
+- `Moon/Node = MC`: page `121`
+- `Node/MC = Moon`: page `61`
 
 ## Contradictions Across Orientations
 

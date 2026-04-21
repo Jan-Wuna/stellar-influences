@@ -3,7 +3,7 @@ title: Sun/Saturn = Mars
 page_type: activation
 slug: sun-saturn-equals-mars
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Sun
   - Saturn
@@ -17,7 +17,7 @@ triad_set:
   - Saturn
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0246`
-- Source page: `93`
+- Source heading: `Sun + Saturn`
+- Source page: `107`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Inhibitions in mental or physical development, seclusion, feeling of loneliness. Soul crises caused by one's own inhibitions or by other persons, mourning.
+The lonely or secluded man. The widower. To be the cause of another persons death. Death of the father. Overcoming inhibitions through the use of the own will.
 
 ## Comparative Schema
 
-- core meaning: Inhibitions in mental or physical development, seclusion, feeling of loneliness. Soul crises caused by one's own inhibitions or by other persons, mourning.
+- core meaning: The lonely or secluded man. The widower. To be the cause of another persons death. Death of the father. Overcoming inhibitions through the use of the own will.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Inhibitions in mental or physical development, seclusion, feeling of loneliness.
 - [Saturn](../factors/saturn.md)
 - [Mars](../factors/mars.md)
 - [Sun/Saturn](../axes/sun-saturn.md)
-- [Sun Mars Saturn](../triads/sun-mars-saturn.md)

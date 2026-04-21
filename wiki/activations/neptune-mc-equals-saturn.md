@@ -3,10 +3,10 @@ title: Neptune/MC = Saturn
 page_type: activation
 slug: neptune-mc-equals-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Neptune
   - MC
+  - Neptune
   - Saturn
 normalized_formula: Neptune/MC = Saturn
 axis: Neptune/MC
@@ -17,7 +17,7 @@ triad_set:
   - MC
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `1041`
-- Source page: `290`
+- Source heading: `MC + Neptune`
+- Source page: `68`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Lack of clarity, insecurity and uncertainty, tendency to worry. Suffering from the consequences of wrong actions, the stage of getting ill. Inability to get over one's losses.
+To suffer or separate through having the wrong conception (notion) of the situation. Losses or sickness caused by weakness or neglect.
 
 ## Comparative Schema
 
-- core meaning: Lack of clarity, insecurity and uncertainty, tendency to worry. Suffering from the consequences of wrong actions, the stage of getting ill. Inability to get over one's losses.
+- core meaning: To suffer or separate through having the wrong conception (notion) of the situation. Losses or sickness caused by weakness or neglect.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Lack of clarity, insecurity and uncertainty, tendency to worry. Suffering from t
 - [MC](../factors/mc.md)
 - [Saturn](../factors/saturn.md)
 - [Neptune/MC](../axes/neptune-mc.md)
-- [Saturn Neptune MC](../triads/saturn-neptune-mc.md)

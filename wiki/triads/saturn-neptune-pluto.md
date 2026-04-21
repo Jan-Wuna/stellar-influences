@@ -3,7 +3,7 @@ title: Saturn Neptune Pluto
 page_type: triad_hub
 slug: saturn-neptune-pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Saturn
   - Neptune
@@ -18,7 +18,7 @@ orientations:
   - Saturn/Pluto = Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Neptune/Pluto = Saturn](../activations/neptune-pluto-equals-saturn.md)
-  Source page `281`, entry `1005`
+  Source page `246`
 - [Saturn/Neptune = Pluto](../activations/saturn-neptune-equals-pluto.md)
-  Source page `250`, entry `0886`
+  Source page `222`
 - [Saturn/Pluto = Neptune](../activations/saturn-pluto-equals-neptune.md)
-  Source page `254`, entry `0898`
+  Source page `223`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Neptune/Pluto = Saturn`: page `281`, entry `1005`
-- `Saturn/Neptune = Pluto`: page `250`, entry `0886`
-- `Saturn/Pluto = Neptune`: page `254`, entry `0898`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Neptune/Pluto = Saturn`: page `246`
+- `Saturn/Neptune = Pluto`: page `222`
+- `Saturn/Pluto = Neptune`: page `223`
 
 ## Contradictions Across Orientations
 

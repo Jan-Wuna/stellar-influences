@@ -3,7 +3,7 @@ title: Mercury/Node
 page_type: axis
 slug: mercury-node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mercury
   - Node
@@ -11,6 +11,9 @@ normalized_axis: Mercury/Node
 factor_a: Mercury
 factor_b: Node
 related_activations:
+  - Mercury/Node = Aries
+  - Mercury/Node = MC
+  - Mercury/Node = Asc
   - Mercury/Node = Sun
   - Mercury/Node = Moon
   - Mercury/Node = Venus
@@ -20,14 +23,29 @@ related_activations:
   - Mercury/Node = Uranus
   - Mercury/Node = Neptune
   - Mercury/Node = Pluto
-  - Mercury/Node = Asc
-  - Mercury/Node = MC
+  - Mercury/Node = Cupido
+  - Mercury/Node = Hades
+  - Mercury/Node = Zeus
+  - Mercury/Node = Kronos
+  - Mercury/Node = Apollon
+  - Mercury/Node = Admetos
+  - Mercury/Node = Vulcanus
+  - Mercury/Node = Poseidon
 related_triad_hubs:
+  - Aries Mercury Node
   - Mercury Jupiter Node
   - Mercury Mars Node
   - Mercury Neptune Node
+  - Mercury Node Admetos
+  - Mercury Node Apollon
   - Mercury Node Asc
+  - Mercury Node Cupido
+  - Mercury Node Hades
+  - Mercury Node Kronos
   - Mercury Node MC
+  - Mercury Node Poseidon
+  - Mercury Node Vulcanus
+  - Mercury Node Zeus
   - Mercury Pluto Node
   - Mercury Saturn Node
   - Mercury Uranus Node
@@ -37,7 +55,7 @@ related_triad_hubs:
 aliases:
   - Node/Mercury
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -45,45 +63,31 @@ updated_at: 2026-04-21
 
 - Axis: `Mercury/Node`
 - Astronomicon axis: `T/g`
-- Source heading: `Mercury/Dragon's Head`
-- Source page: `166`
+- Source heading: `Node + Mercury`
+- Source page: `141`
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-#### Principle
+#### Pair Summary
 
-The exchange of ideas, common or joint plans.
-
-#### Psychological Correspondence
-
-+ Sociable. Desire to exchange ideas and thoughts with other people, urge to give and receive stimulating ideas, intellectual interests. - Unsociable disposition, calculated use of contacts and relationships with others for one's personal benefit, inclination to chatter or gossip. C Desire to exchange ideas and thoughts with other people.
-
-#### Biological Correspondence
-
-The inter-relationship between the autonomic and voluntary nerves.
-
-#### Sociological Correspondence
-
-Tendency to form associations for the pursuit of joint interests.
-
-#### Probable Manifestations
-
-+ Arrangement of social or business contacts. - Tendency to make oneself disliked by other people, disturbance of relationships. Mercury/Dragon's Head $/Q
-
+Connections of thoughts. Correspondence. To make new connection. Intellectual or communications ties. Contacts or connections for communication.
 
 ## Comparative Schema
 
-- core meaning: The exchange of ideas, common or joint plans.
-- psychology: + Sociable. Desire to exchange ideas and thoughts with other people, urge to give and receive stimulating ideas, intellectual interests. - Unsociable disposition, calculated use of contacts and relationships with others for one's personal benefit, inclination to chatter or gossip. C Desire to exchange ideas and thoughts with other people.
-- body/health: The inter-relationship between the autonomic and voluntary nerves.
-- social/relationship: Tendency to form associations for the pursuit of joint interests.
-- events/manifestations: + Arrangement of social or business contacts. - Tendency to make oneself disliked by other people, disturbance of relationships. Mercury/Dragon's Head $/Q
-- conflicts/notes: source-only ingest; no cross-source contradictions are recorded yet.
+- core meaning: Connections of thoughts. Correspondence. To make new connection. Intellectual or communications ties. Contacts or connections for communication.
+- psychology: no separate source-native subdivision is present on the pair-summary page.
+- body/health: no separate source-native subdivision is present on the pair-summary page.
+- social/relationship: no separate source-native subdivision is present on the pair-summary page.
+- events/manifestations: see the orientation-specific activation entries linked below.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
+- [Mercury/Node = Aries](../activations/mercury-node-equals-aries.md)
+- [Mercury/Node = MC](../activations/mercury-node-equals-mc.md)
+- [Mercury/Node = Asc](../activations/mercury-node-equals-asc.md)
 - [Mercury/Node = Sun](../activations/mercury-node-equals-sun.md)
 - [Mercury/Node = Moon](../activations/mercury-node-equals-moon.md)
 - [Mercury/Node = Venus](../activations/mercury-node-equals-venus.md)
@@ -93,8 +97,14 @@ Tendency to form associations for the pursuit of joint interests.
 - [Mercury/Node = Uranus](../activations/mercury-node-equals-uranus.md)
 - [Mercury/Node = Neptune](../activations/mercury-node-equals-neptune.md)
 - [Mercury/Node = Pluto](../activations/mercury-node-equals-pluto.md)
-- [Mercury/Node = Asc](../activations/mercury-node-equals-asc.md)
-- [Mercury/Node = MC](../activations/mercury-node-equals-mc.md)
+- [Mercury/Node = Cupido](../activations/mercury-node-equals-cupido.md)
+- [Mercury/Node = Hades](../activations/mercury-node-equals-hades.md)
+- [Mercury/Node = Zeus](../activations/mercury-node-equals-zeus.md)
+- [Mercury/Node = Kronos](../activations/mercury-node-equals-kronos.md)
+- [Mercury/Node = Apollon](../activations/mercury-node-equals-apollon.md)
+- [Mercury/Node = Admetos](../activations/mercury-node-equals-admetos.md)
+- [Mercury/Node = Vulcanus](../activations/mercury-node-equals-vulcanus.md)
+- [Mercury/Node = Poseidon](../activations/mercury-node-equals-poseidon.md)
 
 ## Contradictions
 
@@ -108,4 +118,4 @@ Tendency to form associations for the pursuit of joint interests.
 
 - [Mercury](../factors/mercury.md)
 - [Node](../factors/node.md)
-- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

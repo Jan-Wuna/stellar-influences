@@ -3,7 +3,7 @@ title: Mars/Pluto = Moon
 page_type: activation
 slug: mars-pluto-equals-moon
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Pluto
@@ -17,7 +17,7 @@ triad_set:
   - Pluto
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0736`
-- Source page: `214`
+- Source heading: `Mars + Pluto`
+- Source page: `196`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Audacity and daring, impulsiveness, ambition. An energetic and resolute or determined woman, an injury caused to a woman.
+The planning housewife. To budget expenses. The timetable. Management and organization of work, which concern the public. Change in management of public work.
 
 ## Comparative Schema
 
-- core meaning: Audacity and daring, impulsiveness, ambition. An energetic and resolute or determined woman, an injury caused to a woman.
+- core meaning: The planning housewife. To budget expenses. The timetable. Management and organization of work, which concern the public. Change in management of public work.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Audacity and daring, impulsiveness, ambition. An energetic and resolute or deter
 - [Pluto](../factors/pluto.md)
 - [Moon](../factors/moon.md)
 - [Mars/Pluto](../axes/mars-pluto.md)
-- [Moon Mars Pluto](../triads/moon-mars-pluto.md)

@@ -3,10 +3,10 @@ title: Mercury/Asc = Saturn
 page_type: activation
 slug: mercury-asc-equals-saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
-  - Mercury
   - Asc
+  - Mercury
   - Saturn
 normalized_formula: Mercury/Asc = Saturn
 axis: Mercury/Asc
@@ -17,7 +17,7 @@ triad_set:
   - Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0560`
-- Source page: `170`
+- Source heading: `Asc + Mercury`
+- Source page: `83`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Inability to discuss vital matters within the family circle, suffering from inhibitions. Sadness, talking about separation, the moment of saying good-bye.
+Farewell visits to depart. To be denied, refused.
 
 ## Comparative Schema
 
-- core meaning: Inability to discuss vital matters within the family circle, suffering from inhibitions. Sadness, talking about separation, the moment of saying good-bye.
+- core meaning: Farewell visits to depart. To be denied, refused.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Inability to discuss vital matters within the family circle, suffering from inhi
 - [Asc](../factors/asc.md)
 - [Saturn](../factors/saturn.md)
 - [Mercury/Asc](../axes/mercury-asc.md)
-- [Mercury Saturn Asc](../triads/mercury-saturn-asc.md)

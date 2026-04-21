@@ -3,7 +3,7 @@ title: Venus Uranus Asc
 page_type: triad_hub
 slug: venus-uranus-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Venus
   - Uranus
@@ -18,7 +18,7 @@ orientations:
   - Venus/Uranus = Asc
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Uranus/Asc = Venus](../activations/uranus-asc-equals-venus.md)
-  Source page `275`, entry `0978`
+  Source page `88`
 - [Venus/Asc = Uranus](../activations/venus-asc-equals-uranus.md)
-  Source page `196`, entry `0669`
+  Source page `84`
 - [Venus/Uranus = Asc](../activations/venus-uranus-equals-asc.md)
-  Source page `185`, entry `0624`
+  Source page `179`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Uranus/Asc = Venus`: page `275`, entry `0978`
-- `Venus/Asc = Uranus`: page `196`, entry `0669`
-- `Venus/Uranus = Asc`: page `185`, entry `0624`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Uranus/Asc = Venus`: page `88`
+- `Venus/Asc = Uranus`: page `84`
+- `Venus/Uranus = Asc`: page `179`
 
 ## Contradictions Across Orientations
 

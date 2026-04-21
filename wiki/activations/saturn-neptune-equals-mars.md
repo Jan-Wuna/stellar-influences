@@ -3,7 +3,7 @@ title: Saturn/Neptune = Mars
 page_type: activation
 slug: saturn-neptune-equals-mars
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Saturn
   - Neptune
@@ -17,7 +17,7 @@ triad_set:
   - Neptune
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -30,23 +30,22 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Entry: `0883`
-- Source page: `250`
+- Source heading: `Saturn + Neptune`
+- Source page: `222`
+#### Witte Entry
 
-#### Ebertin Entry
-
-Lack of energy, listlessness, lack of creative energy. Weak procreative powers. Inactivity through emotional depression or sickness.
+Plans which are not carried through. Injuries which heal very slowly. Man’s venereal diseases.
 
 ## Comparative Schema
 
-- core meaning: Lack of energy, listlessness, lack of creative energy. Weak procreative powers. Inactivity through emotional depression or sickness.
+- core meaning: Plans which are not carried through. Injuries which heal very slowly. Man’s venereal diseases.
 - psychology: source-backed meaning retained in the entry above.
 - body/health: no separate body-specific bucket is isolated automatically at ingest time.
 - social/relationship: source-backed meaning retained in the entry above.
 - events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning preserved as its own canonical page.
+- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
 
 ## Contradictions
 
@@ -62,4 +61,3 @@ Lack of energy, listlessness, lack of creative energy. Weak procreative powers. 
 - [Neptune](../factors/neptune.md)
 - [Mars](../factors/mars.md)
 - [Saturn/Neptune](../axes/saturn-neptune.md)
-- [Mars Saturn Neptune](../triads/mars-saturn-neptune.md)

@@ -3,7 +3,7 @@ title: Mars Pluto Asc
 page_type: triad_hub
 slug: mars-pluto-asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: hamburg_school
 factors:
   - Mars
   - Pluto
@@ -18,7 +18,7 @@ orientations:
   - Pluto/Asc = Mars
 aliases: []
 source_pages:
-  - reinhold-ebertin-the-combination-of-stellar-influences
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 updated_at: 2026-04-21
 ---
 
@@ -31,18 +31,18 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Asc = Pluto](../activations/mars-asc-equals-pluto.md)
-  Source page `220`, entry `0767`
+  Source page `85`
 - [Mars/Pluto = Asc](../activations/mars-pluto-equals-asc.md)
-  Source page `215`, entry `0744`
+  Source page `196`
 - [Pluto/Asc = Mars](../activations/pluto-asc-equals-mars.md)
-  Source page `295`, entry `1063`
+  Source page `90`
 
 ## Source Coverage
 
-- Source: [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- `Mars/Asc = Pluto`: page `220`, entry `0767`
-- `Mars/Pluto = Asc`: page `215`, entry `0744`
-- `Pluto/Asc = Mars`: page `295`, entry `1063`
+- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- `Mars/Asc = Pluto`: page `85`
+- `Mars/Pluto = Asc`: page `196`
+- `Pluto/Asc = Mars`: page `90`
 
 ## Contradictions Across Orientations
 

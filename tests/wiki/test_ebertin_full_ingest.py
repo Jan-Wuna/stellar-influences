@@ -14,14 +14,13 @@ def test_full_ingest_creates_nonpilot_activation_pages():
     assert page.meta["normalized_formula"] == "Sun/Mercury = Venus"
 
 
-def test_full_ingest_aligns_axis_summary_and_activation_entries():
+def test_live_wiki_keeps_axis_summary_and_activation_entries_separate():
     axis = load_page(Path("wiki/axes/sun-mercury.md"))
     activation = load_page(Path("wiki/activations/sun-mercury-equals-moon.md"))
 
-    assert "Mind and common sense" in axis.body
-    assert "- Entry: `0195`" in activation.body
-    assert "Relationship between mind, soul and intellect." in activation.body
-    assert "Mind and common sense" not in activation.body
+    assert "A body in motion." in axis.body
+    assert "The young mate (marriage partner)." in activation.body
+    assert "A body in motion." not in activation.body
 
 
 def test_full_ingest_expands_page_counts():

@@ -3,11 +3,12 @@ title: Sun
 page_type: factor
 slug: sun
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: comparative
 factors:
   - Sun
 aliases: []
 source_pages:
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - reinhold-ebertin-the-combination-of-stellar-influences
 updated_at: 2026-04-21
 ---
@@ -16,12 +17,22 @@ updated_at: 2026-04-21
 
 - Factor: Sun
 - Astronomicon token: `S`
-- Source heading: `The Sun`
-- Source page: `45`
+- Canonical page type: comparative factor page grounded in standalone source chapters.
 
 ## Source Entries
 
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source factor chapter page: `27`
+
+#### Witte Factor Entry
+
+The body. The living body. A physical object. The day. The daily life, the life energy, will to live, life force. The annual solar cycle. The year.
+
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `The Sun`
+- Source page: `45`
 
 #### Principle
 
@@ -55,16 +66,21 @@ Man, father, authority, leading personality, official, civil servant.
 
 ## Comparative Schema
 
-- core meaning: Spirit, mind, the living being.
-- psychology: + The will to live, urge to rule, striving for an objective, organization, ability to make a decision. - Lack of vitality and willpower, lack of determination and organization, indecision or vacillation.
-- body/health: Health, vitality, heart, circulation. The body, cells.
-- social/relationship: Man, father, authority, leading personality, official, civil servant.
-- events/manifestations: source-native sign-position material is preserved above.
-- conflicts/notes: this factor page now includes the standalone Ebertin factor chapter as source material.
+- core meaning: Witte condenses the factor into `The body. The living body. A physical object. The day. The daily life, the life energy, will to live, life force. The annual solar cycle. The year.` while Ebertin formalizes its principle as `Spirit, mind, the living being.`.
+- psychology: Ebertin isolates `+ The will to live, urge to rule, striving for an objective, organization, ability to make a decision. - Lack of vitality and willpower, lack of determination and organization, indecision or vacillation.` as a dedicated psychological layer; Witte keeps psychological implications folded into the keyword cluster.
+- body/health: Ebertin isolates `Health, vitality, heart, circulation. The body, cells.`; Witte usually embeds bodily references inside the main factor definition rather than in a separate section.
+- social/relationship: Ebertin isolates `Man, father, authority, leading personality, official, civil servant.`; Witte keeps social references compressed into the same core entry.
+- events/manifestations: Ebertin preserves sign-position material above when available. Witte's standalone factor chapter remains non-sign-specific.
+- conflicts/notes: both source chapters are preserved side by side on the canonical factor page; differences are framework emphasis, not silently merged doctrine.
+
+## Contradictions and Framework Notes
+
+- Witte foregrounds the body, day, and life force, while Ebertin foregrounds spirit, mind, and conscious will. The difference is emphasis, not a direct contradiction.
+- This page preserves the Hamburg and Cosmobiological factor chapters side by side instead of treating one as a gloss on the other.
 
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- Taken together, Sun works as both the living center of vitality and the conscious principle that directs life outward.
 
 ## Related Axes
 
@@ -88,6 +104,7 @@ Man, father, authority, leading personality, official, civil servant.
 
 ## Related Sources
 
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 
 ## Open Questions

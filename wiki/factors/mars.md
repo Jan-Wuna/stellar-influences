@@ -3,11 +3,12 @@ title: Mars
 page_type: factor
 slug: mars
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: comparative
 factors:
   - Mars
 aliases: []
 source_pages:
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - reinhold-ebertin-the-combination-of-stellar-influences
 updated_at: 2026-04-21
 ---
@@ -16,12 +17,22 @@ updated_at: 2026-04-21
 
 - Factor: Mars
 - Astronomicon token: `U`
-- Source heading: `Mars`
-- Source page: `55`
+- Canonical page type: comparative factor page grounded in standalone source chapters.
 
 ## Source Entries
 
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source factor chapter page: `28`
+
+#### Witte Factor Entry
+
+Activity. Action. To act. Impulse. The Will. Decision. Work. Employment. Energy. Execute. Resolve. Impulsiveness. Passion. Inflammation. Male persons. Accomplishment (mechanical kind). Occupation.
+
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mars`
+- Source page: `55`
 
 #### Principle
 
@@ -56,16 +67,21 @@ Fighters, bearers of arms, athletes, mechanics, technicians, craftsmen, surgeons
 
 ## Comparative Schema
 
-- core meaning: Energy.
-- psychology: + Willpower, active energy, courage, determination, enjoyment of work and fighting, the urge to do something. - Waste of energy, enjoyment of destruction, impulsiveness, ruthlessness, brutality. Weakness, lack of energy.
-- body/health: The heat of the body, muscles, sex functions.
-- social/relationship: Fighters, bearers of arms, athletes, mechanics, technicians, craftsmen, surgeons.
-- events/manifestations: source-native sign-position material is preserved above.
-- conflicts/notes: this factor page now includes the standalone Ebertin factor chapter as source material.
+- core meaning: Witte condenses the factor into `Activity. Action. To act. Impulse. The Will. Decision. Work. Employment. Energy. Execute. Resolve. Impulsiveness. Passion. Inflammation. Male persons. Accomplishment (mechanical kind). Occupation.` while Ebertin formalizes its principle as `Energy.`.
+- psychology: Ebertin isolates `+ Willpower, active energy, courage, determination, enjoyment of work and fighting, the urge to do something. - Waste of energy, enjoyment of destruction, impulsiveness, ruthlessness, brutality. Weakness, lack of energy.` as a dedicated psychological layer; Witte keeps psychological implications folded into the keyword cluster.
+- body/health: Ebertin isolates `The heat of the body, muscles, sex functions.`; Witte usually embeds bodily references inside the main factor definition rather than in a separate section.
+- social/relationship: Ebertin isolates `Fighters, bearers of arms, athletes, mechanics, technicians, craftsmen, surgeons.`; Witte keeps social references compressed into the same core entry.
+- events/manifestations: Ebertin preserves sign-position material above when available. Witte's standalone factor chapter remains non-sign-specific.
+- conflicts/notes: both source chapters are preserved side by side on the canonical factor page; differences are framework emphasis, not silently merged doctrine.
+
+## Contradictions and Framework Notes
+
+- Both sources agree on force, work, action, and impulse. Ebertin more explicitly separates constructive energy from brutality or waste of force.
+- This page preserves the Hamburg and Cosmobiological factor chapters side by side instead of treating one as a gloss on the other.
 
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- Taken together, Mars works as the factor of applied force, decision, labor, and combustible drive.
 
 ## Related Axes
 
@@ -89,6 +105,7 @@ Fighters, bearers of arms, athletes, mechanics, technicians, craftsmen, surgeons
 
 ## Related Sources
 
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 
 ## Open Questions

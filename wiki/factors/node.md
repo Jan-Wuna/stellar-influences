@@ -3,12 +3,13 @@ title: Node
 page_type: factor
 slug: node
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: comparative
 factors:
   - Node
 aliases:
   - Dragon's Head
 source_pages:
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - reinhold-ebertin-the-combination-of-stellar-influences
 updated_at: 2026-04-21
 ---
@@ -17,12 +18,22 @@ updated_at: 2026-04-21
 
 - Factor: Node
 - Astronomicon token: `g`
-- Source heading: `The Dragon's Head`
-- Source page: `69`
+- Canonical page type: comparative factor page grounded in standalone source chapters.
 
 ## Source Entries
 
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source factor chapter page: `27`
+
+#### Witte Factor Entry
+
+Union. Connections. Junction. Relationships. Contacts. Establishing relations. The common link. A node. Network. Limit, boundary or border relations.
+
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `The Dragon's Head`
+- Source page: `69`
 
 #### Principle
 
@@ -57,16 +68,21 @@ Meetings, alliances, societies, contacts, blood ties, kindred and related people
 
 ## Comparative Schema
 
-- core meaning: Association or alliance.
-- psychology: + Adaptable, urge to unite with others, sociable, good fellowship, obliging manner. - Lack of adaptability, incompatible, unsociable, antisocial conduct.
-- body/health: The power body or the astral body, the subconscious memory.
-- social/relationship: Meetings, alliances, societies, contacts, blood ties, kindred and related people.
-- events/manifestations: source-native sign-position material is preserved above.
-- conflicts/notes: this factor page now includes the standalone Ebertin factor chapter as source material.
+- core meaning: Witte condenses the factor into `Union. Connections. Junction. Relationships. Contacts. Establishing relations. The common link. A node. Network. Limit, boundary or border relations.` while Ebertin formalizes its principle as `Association or alliance.`.
+- psychology: Ebertin isolates `+ Adaptable, urge to unite with others, sociable, good fellowship, obliging manner. - Lack of adaptability, incompatible, unsociable, antisocial conduct.` as a dedicated psychological layer; Witte keeps psychological implications folded into the keyword cluster.
+- body/health: Ebertin isolates `The power body or the astral body, the subconscious memory.`; Witte usually embeds bodily references inside the main factor definition rather than in a separate section.
+- social/relationship: Ebertin isolates `Meetings, alliances, societies, contacts, blood ties, kindred and related people.`; Witte keeps social references compressed into the same core entry.
+- events/manifestations: Ebertin preserves sign-position material above when available. Witte's standalone factor chapter remains non-sign-specific.
+- conflicts/notes: both source chapters are preserved side by side on the canonical factor page; differences are framework emphasis, not silently merged doctrine.
+
+## Contradictions and Framework Notes
+
+- Both sources treat the factor relationally. Witte emphasizes junction, network, and contact, while Ebertin emphasizes alliance, fellowship, and kinship.
+- This page preserves the Hamburg and Cosmobiological factor chapters side by side instead of treating one as a gloss on the other.
 
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- Taken together, Node works as linkage itself: association, contact, meeting, and the formation of relational bonds.
 
 ## Related Axes
 
@@ -90,6 +106,7 @@ Meetings, alliances, societies, contacts, blood ties, kindred and related people
 
 ## Related Sources
 
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 
 ## Open Questions

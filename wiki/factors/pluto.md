@@ -3,11 +3,12 @@ title: Pluto
 page_type: factor
 slug: pluto
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: comparative
 factors:
   - Pluto
 aliases: []
 source_pages:
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - reinhold-ebertin-the-combination-of-stellar-influences
 updated_at: 2026-04-21
 ---
@@ -16,12 +17,22 @@ updated_at: 2026-04-21
 
 - Factor: Pluto
 - Astronomicon token: `Z`
-- Source heading: `Pluto`
-- Source page: `67`
+- Canonical page type: comparative factor page grounded in standalone source chapters.
 
 ## Source Entries
 
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source factor chapter page: `28`
+
+#### Witte Factor Entry
+
+Development. Transformation. Turnaround. Change. Growth. Division. Reshaping. Upheaval. Metamorphosis. Change from within. Immediate past.
+
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Pluto`
+- Source page: `67`
 
 #### Principle
 
@@ -55,16 +66,21 @@ Persons who exercise a magical influence over the masses, such as propagandists,
 
 ## Comparative Schema
 
-- core meaning: Providence. Invisible forces or powers.
-- psychology: + The will or wish to exercise power, manifestation of unconscious powers, ruthless frankness or candidness, urge to influence the masses, propagandist aspirations and objectives, understanding of the masses. - Ruthless use of force or coercion, inclination to incite, a fanatical zeal to state one's own doctrinal principles, to agitate. Convulsions and spasms.
-- body/health: The collective consciousness. Regeneration.
-- social/relationship: Persons who exercise a magical influence over the masses, such as propagandists, actors, public speakers and politicians.
-- events/manifestations: source-native sign-position material is preserved above.
-- conflicts/notes: this factor page now includes the standalone Ebertin factor chapter as source material.
+- core meaning: Witte condenses the factor into `Development. Transformation. Turnaround. Change. Growth. Division. Reshaping. Upheaval. Metamorphosis. Change from within. Immediate past.` while Ebertin formalizes its principle as `Providence. Invisible forces or powers.`.
+- psychology: Ebertin isolates `+ The will or wish to exercise power, manifestation of unconscious powers, ruthless frankness or candidness, urge to influence the masses, propagandist aspirations and objectives, understanding of the masses. - Ruthless use of force or coercion, inclination to incite, a fanatical zeal to state one's own doctrinal principles, to agitate. Convulsions and spasms.` as a dedicated psychological layer; Witte keeps psychological implications folded into the keyword cluster.
+- body/health: Ebertin isolates `The collective consciousness. Regeneration.`; Witte usually embeds bodily references inside the main factor definition rather than in a separate section.
+- social/relationship: Ebertin isolates `Persons who exercise a magical influence over the masses, such as propagandists, actors, public speakers and politicians.`; Witte keeps social references compressed into the same core entry.
+- events/manifestations: Ebertin preserves sign-position material above when available. Witte's standalone factor chapter remains non-sign-specific.
+- conflicts/notes: both source chapters are preserved side by side on the canonical factor page; differences are framework emphasis, not silently merged doctrine.
+
+## Contradictions and Framework Notes
+
+- Both sources agree on transformation and force. Witte stresses turnaround and metamorphosis, while Ebertin stresses invisible power and mass influence.
+- This page preserves the Hamburg and Cosmobiological factor chapters side by side instead of treating one as a gloss on the other.
 
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- Taken together, Pluto works as deep transformation and the force that reshapes collective or internal conditions.
 
 ## Related Axes
 
@@ -88,6 +104,7 @@ Persons who exercise a magical influence over the masses, such as propagandists,
 
 ## Related Sources
 
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 
 ## Open Questions

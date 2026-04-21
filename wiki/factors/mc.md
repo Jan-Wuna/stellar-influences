@@ -3,12 +3,13 @@ title: MC
 page_type: factor
 slug: mc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: comparative
 factors:
   - MC
 aliases:
   - Medium Coeli
 source_pages:
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - reinhold-ebertin-the-combination-of-stellar-influences
 updated_at: 2026-04-21
 ---
@@ -16,12 +17,22 @@ updated_at: 2026-04-21
 ## Identity
 
 - Factor: MC
-- Source heading: `The Medium Coeli (MC)`
-- Source page: `74`
+- Canonical page type: comparative factor page grounded in standalone source chapters.
 
 ## Source Entries
 
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source factor chapter page: `27`
+
+#### Witte Factor Entry
+
+The personality of the native. The soul. The ego. Emotional experiences and qualities. Personal expectations. Psychological influences. Efforts towards the peak of life. The attitude in public, profession and vocation. The minute. The moment.
+
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `The Medium Coeli (MC)`
+- Source page: `74`
 
 #### Principle
 
@@ -56,16 +67,21 @@ The individual.
 
 ## Comparative Schema
 
-- core meaning: Ego-consciousness and spiritual awareness.
-- psychology: The individualized man, the aim of life.
-- body/health: Ego-consciousness, the function of the brain proper.
-- social/relationship: The individual.
-- events/manifestations: source-native sign-position material is preserved above.
-- conflicts/notes: this factor page now includes the standalone Ebertin factor chapter as source material.
+- core meaning: Witte condenses the factor into `The personality of the native. The soul. The ego. Emotional experiences and qualities. Personal expectations. Psychological influences. Efforts towards the peak of life. The attitude in public, profession and vocation. The minute. The moment.` while Ebertin formalizes its principle as `Ego-consciousness and spiritual awareness.`.
+- psychology: Ebertin isolates `The individualized man, the aim of life.` as a dedicated psychological layer; Witte keeps psychological implications folded into the keyword cluster.
+- body/health: Ebertin isolates `Ego-consciousness, the function of the brain proper.`; Witte usually embeds bodily references inside the main factor definition rather than in a separate section.
+- social/relationship: Ebertin isolates `The individual.`; Witte keeps social references compressed into the same core entry.
+- events/manifestations: Ebertin preserves sign-position material above when available. Witte's standalone factor chapter remains non-sign-specific.
+- conflicts/notes: both source chapters are preserved side by side on the canonical factor page; differences are framework emphasis, not silently merged doctrine.
+
+## Contradictions and Framework Notes
+
+- Witte emphasizes ego, soul, public vocation, and the moment, while Ebertin emphasizes ego-consciousness, spiritual awareness, and the aim of life.
+- This page preserves the Hamburg and Cosmobiological factor chapters side by side instead of treating one as a gloss on the other.
 
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- Taken together, MC works as the individuated summit of consciousness, vocation, and public orientation.
 
 ## Related Axes
 
@@ -89,6 +105,7 @@ The individual.
 
 ## Related Sources
 
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 
 ## Open Questions

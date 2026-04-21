@@ -3,11 +3,12 @@ title: Moon
 page_type: factor
 slug: moon
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: comparative
 factors:
   - Moon
 aliases: []
 source_pages:
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - reinhold-ebertin-the-combination-of-stellar-influences
 updated_at: 2026-04-21
 ---
@@ -16,12 +17,22 @@ updated_at: 2026-04-21
 
 - Factor: Moon
 - Astronomicon token: `R`
-- Source heading: `The Moon`
-- Source page: `48`
+- Canonical page type: comparative factor page grounded in standalone source chapters.
 
 ## Source Entries
 
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source factor chapter page: `27`
+
+#### Witte Factor Entry
+
+Female persons. The people. The public. The hour. Changeable things. Function of the brain, the emotional state, the glands, the secretions and liquids of the body.
+
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `The Moon`
+- Source page: `48`
 
 #### Principle
 
@@ -56,16 +67,21 @@ Mother, wife, family, nation, hereditary qualities or traits as a whole.
 
 ## Comparative Schema
 
-- core meaning: Soul, the female principle.
-- psychology: + Motherly, domestic, prudence, mobility, changeable, adaptable, sense of form, memory. - Repressed motherliness, love of comfort, impressionable, a carefree attitude or an easygoing nature, moodiness.
-- body/health: Fertility, the bodily fluids, blood serum, the lymph (cerebellum).
-- social/relationship: Mother, wife, family, nation, hereditary qualities or traits as a whole.
-- events/manifestations: source-native sign-position material is preserved above.
-- conflicts/notes: this factor page now includes the standalone Ebertin factor chapter as source material.
+- core meaning: Witte condenses the factor into `Female persons. The people. The public. The hour. Changeable things. Function of the brain, the emotional state, the glands, the secretions and liquids of the body.` while Ebertin formalizes its principle as `Soul, the female principle.`.
+- psychology: Ebertin isolates `+ Motherly, domestic, prudence, mobility, changeable, adaptable, sense of form, memory. - Repressed motherliness, love of comfort, impressionable, a carefree attitude or an easygoing nature, moodiness.` as a dedicated psychological layer; Witte keeps psychological implications folded into the keyword cluster.
+- body/health: Ebertin isolates `Fertility, the bodily fluids, blood serum, the lymph (cerebellum).`; Witte usually embeds bodily references inside the main factor definition rather than in a separate section.
+- social/relationship: Ebertin isolates `Mother, wife, family, nation, hereditary qualities or traits as a whole.`; Witte keeps social references compressed into the same core entry.
+- events/manifestations: Ebertin preserves sign-position material above when available. Witte's standalone factor chapter remains non-sign-specific.
+- conflicts/notes: both source chapters are preserved side by side on the canonical factor page; differences are framework emphasis, not silently merged doctrine.
+
+## Contradictions and Framework Notes
+
+- Witte externalizes the factor through women, the public, and changeable bodily functions, while Ebertin internalizes it through soul, mothering, family, and fertility.
+- This page preserves the Hamburg and Cosmobiological factor chapters side by side instead of treating one as a gloss on the other.
 
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- Taken together, Moon works as mutable feeling-life expressed through feminine embodiment, family response, and public receptivity.
 
 ## Related Axes
 
@@ -88,6 +104,7 @@ Mother, wife, family, nation, hereditary qualities or traits as a whole.
 
 ## Related Sources
 
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 
 ## Open Questions

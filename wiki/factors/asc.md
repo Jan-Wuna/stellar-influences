@@ -3,12 +3,13 @@ title: Asc
 page_type: factor
 slug: asc
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: comparative
 factors:
   - Asc
 aliases:
   - Ascendant
 source_pages:
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - reinhold-ebertin-the-combination-of-stellar-influences
 updated_at: 2026-04-21
 ---
@@ -16,12 +17,22 @@ updated_at: 2026-04-21
 ## Identity
 
 - Factor: Asc
-- Source heading: `The Ascendant`
-- Source page: `71`
+- Canonical page type: comparative factor page grounded in standalone source chapters.
 
 ## Source Entries
 
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source factor chapter page: `27`
+
+#### Witte Factor Entry
+
+Acquaintances and connections. The near surroundings. The place. Relatives and close friends. The outer appearance. The influence of others on one’s own life and lifestyle. The immediate vicinity.
+
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `The Ascendant`
+- Source page: `71`
 
 #### Principle
 
@@ -56,16 +67,21 @@ The ego in relationship with other people, particularly with persons of the envi
 
 ## Comparative Schema
 
-- core meaning: The personality. (Environment)
-- psychology: The psychological coloring of the Ascendant depends upon its zodiacal sign.
-- body/health: The moment of birth. The reaction to the world outside or the environment in general.
-- social/relationship: The ego in relationship with other people, particularly with persons of the environment.
-- events/manifestations: source-native sign-position material is preserved above.
-- conflicts/notes: this factor page now includes the standalone Ebertin factor chapter as source material.
+- core meaning: Witte condenses the factor into `Acquaintances and connections. The near surroundings. The place. Relatives and close friends. The outer appearance. The influence of others on one’s own life and lifestyle. The immediate vicinity.` while Ebertin formalizes its principle as `The personality. (Environment)`.
+- psychology: Ebertin isolates `The psychological coloring of the Ascendant depends upon its zodiacal sign.` as a dedicated psychological layer; Witte keeps psychological implications folded into the keyword cluster.
+- body/health: Ebertin isolates `The moment of birth. The reaction to the world outside or the environment in general.`; Witte usually embeds bodily references inside the main factor definition rather than in a separate section.
+- social/relationship: Ebertin isolates `The ego in relationship with other people, particularly with persons of the environment.`; Witte keeps social references compressed into the same core entry.
+- events/manifestations: Ebertin preserves sign-position material above when available. Witte's standalone factor chapter remains non-sign-specific.
+- conflicts/notes: both source chapters are preserved side by side on the canonical factor page; differences are framework emphasis, not silently merged doctrine.
+
+## Contradictions and Framework Notes
+
+- Witte emphasizes surroundings, acquaintances, and outward appearance. Ebertin frames the same factor as ego in relationship with environment and other people.
+- This page preserves the Hamburg and Cosmobiological factor chapters side by side instead of treating one as a gloss on the other.
 
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- Taken together, Asc works as the lived interface between the self and its immediate environment, contacts, and appearance.
 
 ## Related Axes
 
@@ -88,6 +104,7 @@ The ego in relationship with other people, particularly with persons of the envi
 
 ## Related Sources
 
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 
 ## Open Questions

@@ -3,11 +3,12 @@ title: Mercury
 page_type: factor
 slug: mercury
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: comparative
 factors:
   - Mercury
 aliases: []
 source_pages:
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - reinhold-ebertin-the-combination-of-stellar-influences
 updated_at: 2026-04-21
 ---
@@ -16,12 +17,22 @@ updated_at: 2026-04-21
 
 - Factor: Mercury
 - Astronomicon token: `T`
-- Source heading: `Mercury`
-- Source page: `50`
+- Canonical page type: comparative factor page grounded in standalone source chapters.
 
 ## Source Entries
 
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source factor chapter page: `27`
+
+#### Witte Factor Entry
+
+Intellectuality. Thoughts expressed through speech, writing, or mimic. Ideas, plans, mental developments. Movement. The content of thinking. Thoughts. News. Opinion. Assertion. Exchange of information. Mind games. Agility. Young people.
+
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mercury`
+- Source page: `50`
 
 #### Principle
 
@@ -56,16 +67,21 @@ Intellectual workers, trades-people, agents or mediators.
 
 ## Comparative Schema
 
-- core meaning: Intellect, mediation.
-- psychology: + Good grasp or understanding of a subject, sound judgement, critical ability, dexterity in expression and writing, mediation, diplomacy, general intellectual abilities, analysis. - A lack of understanding and of objective criticism, tendency to diffuse one's energy into too many channels, inhibitions in speech and writing, over-development or weakness of intellect.
-- body/health: The motor nerves (speech and hearing organs).
-- social/relationship: Intellectual workers, trades-people, agents or mediators.
-- events/manifestations: source-native sign-position material is preserved above.
-- conflicts/notes: this factor page now includes the standalone Ebertin factor chapter as source material.
+- core meaning: Witte condenses the factor into `Intellectuality. Thoughts expressed through speech, writing, or mimic. Ideas, plans, mental developments. Movement. The content of thinking. Thoughts. News. Opinion. Assertion. Exchange of information. Mind games. Agility. Young people.` while Ebertin formalizes its principle as `Intellect, mediation.`.
+- psychology: Ebertin isolates `+ Good grasp or understanding of a subject, sound judgement, critical ability, dexterity in expression and writing, mediation, diplomacy, general intellectual abilities, analysis. - A lack of understanding and of objective criticism, tendency to diffuse one's energy into too many channels, inhibitions in speech and writing, over-development or weakness of intellect.` as a dedicated psychological layer; Witte keeps psychological implications folded into the keyword cluster.
+- body/health: Ebertin isolates `The motor nerves (speech and hearing organs).`; Witte usually embeds bodily references inside the main factor definition rather than in a separate section.
+- social/relationship: Ebertin isolates `Intellectual workers, trades-people, agents or mediators.`; Witte keeps social references compressed into the same core entry.
+- events/manifestations: Ebertin preserves sign-position material above when available. Witte's standalone factor chapter remains non-sign-specific.
+- conflicts/notes: both source chapters are preserved side by side on the canonical factor page; differences are framework emphasis, not silently merged doctrine.
+
+## Contradictions and Framework Notes
+
+- Both sources agree on thought, speech, and exchange. Ebertin makes the evaluative split between sound judgment and diffused or inhibited intellect more explicit.
+- This page preserves the Hamburg and Cosmobiological factor chapters side by side instead of treating one as a gloss on the other.
 
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- Taken together, Mercury works as the translating factor that turns thought into communication, mediation, and movement.
 
 ## Related Axes
 
@@ -88,6 +104,7 @@ Intellectual workers, trades-people, agents or mediators.
 
 ## Related Sources
 
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 
 ## Open Questions

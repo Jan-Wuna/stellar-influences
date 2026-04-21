@@ -2,6 +2,8 @@ from tools.wiki_identity import (
     astronomicon_token,
     normalize_activation,
     normalize_axis,
+    normalize_factor,
+    normalize_triad,
     triad_orientations,
 )
 
@@ -43,3 +45,20 @@ def test_triad_orientations_lists_all_three_distinct_forms():
         "Sun/Moon = Venus",
         "Sun/Venus = Moon",
     ]
+
+
+def test_normalize_factor_canonicalizes_aliases():
+    factor = normalize_factor("dragon's head")
+    assert factor.display == "Node"
+    assert factor.slug == "node"
+
+
+def test_normalize_triad_sorts_and_derives_orientations():
+    triad = normalize_triad(["Venus", "Sun", "Moon"])
+    assert triad.display == "Sun Moon Venus"
+    assert triad.slug == "sun-moon-venus"
+    assert triad.orientations == (
+        "Moon/Venus = Sun",
+        "Sun/Moon = Venus",
+        "Sun/Venus = Moon",
+    )

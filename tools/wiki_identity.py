@@ -123,6 +123,12 @@ class AxisIdentity:
 
 
 @dataclass(frozen=True)
+class FactorIdentity:
+    display: str
+    slug: str
+
+
+@dataclass(frozen=True)
 class ActivationIdentity:
     display: str
     slug: str
@@ -133,6 +139,22 @@ class ActivationIdentity:
     @property
     def has_distinct_triad(self) -> bool:
         return len(self.triad_set) == 3
+
+
+@dataclass(frozen=True)
+class TriadIdentity:
+    display: str
+    slug: str
+    factors: tuple[str, str, str]
+    orientations: tuple[str, str, str]
+
+
+def normalize_factor(name: str) -> FactorIdentity:
+    canonical = _clean_factor(name)
+    return FactorIdentity(
+        display=canonical,
+        slug=_slug_part(canonical),
+    )
 
 
 def normalize_axis(a: str, b: str) -> AxisIdentity:
@@ -162,13 +184,27 @@ def normalize_activation(a: str, b: str, activated_by: str) -> ActivationIdentit
     )
 
 
-def triad_orientations(factors: list[str] | tuple[str, ...]) -> list[str]:
+def _normalize_triad_factors(factors: list[str] | tuple[str, ...]) -> tuple[str, str, str]:
     unique = tuple(sorted({_clean_factor(name) for name in factors}, key=_sort_key))
     if len(unique) != 3:
         raise ValueError("triad_orientations requires exactly three distinct factors")
-    orientations = [
+    return unique
+
+
+def normalize_triad(factors: list[str] | tuple[str, ...]) -> TriadIdentity:
+    unique = _normalize_triad_factors(factors)
+    orientations = (
         normalize_activation(unique[1], unique[2], unique[0]).display,
         normalize_activation(unique[0], unique[1], unique[2]).display,
         normalize_activation(unique[0], unique[2], unique[1]).display,
-    ]
-    return sorted(orientations)
+    )
+    return TriadIdentity(
+        display=" ".join(unique),
+        slug="-".join(_slug_part(name) for name in unique),
+        factors=unique,
+        orientations=tuple(sorted(orientations)),
+    )
+
+
+def triad_orientations(factors: list[str] | tuple[str, ...]) -> list[str]:
+    return list(normalize_triad(factors).orientations)

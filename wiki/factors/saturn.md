@@ -3,11 +3,12 @@ title: Saturn
 page_type: factor
 slug: saturn
 status: source_ingested
-framework_scope: cosmobiology
+framework_scope: comparative
 factors:
   - Saturn
 aliases: []
 source_pages:
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - reinhold-ebertin-the-combination-of-stellar-influences
 updated_at: 2026-04-21
 ---
@@ -16,12 +17,22 @@ updated_at: 2026-04-21
 
 - Factor: Saturn
 - Astronomicon token: `W`
-- Source heading: `Saturn`
-- Source page: `59`
+- Canonical page type: comparative factor page grounded in standalone source chapters.
 
 ## Source Entries
 
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source factor chapter page: `28`
+
+#### Witte Factor Entry
+
+Restriction. Inhibitions. To hinder. Separations. Losses. Difficulties, resistances, delays. Long and lasting effect. Perseverance, persistence, thoroughness, slowness, alienation, loneliness, cold, old age, firmness, hardness, hardening, deposits, displeasure, stinginess, envy.
+
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Saturn`
+- Source page: `59`
 
 #### Principle
 
@@ -56,16 +67,21 @@ Hard working, inhibited or sad people. Agriculture, mining, real estate.
 
 ## Comparative Schema
 
-- core meaning: Inhibition, concentration.
-- psychology: + Concentration, consolidation, perseverance, seriousness, the ability to leam from experience, economy. - Inhibition, melancholy, reserved and taciturn, increasing loneliness, isolation, eccentricity, distrust, stinginess, lack of adaptability.
-- body/health: The bony structure, the process of hardening up, stone-formation, the loss of organs. Old age.
-- social/relationship: Hard working, inhibited or sad people. Agriculture, mining, real estate.
-- events/manifestations: source-native sign-position material is preserved above.
-- conflicts/notes: this factor page now includes the standalone Ebertin factor chapter as source material.
+- core meaning: Witte condenses the factor into `Restriction. Inhibitions. To hinder. Separations. Losses. Difficulties, resistances, delays. Long and lasting effect. Perseverance, persistence, thoroughness, slowness, alienation, loneliness, cold, old age, firmness, hardness, hardening, deposits, displeasure, stinginess, envy.` while Ebertin formalizes its principle as `Inhibition, concentration.`.
+- psychology: Ebertin isolates `+ Concentration, consolidation, perseverance, seriousness, the ability to leam from experience, economy. - Inhibition, melancholy, reserved and taciturn, increasing loneliness, isolation, eccentricity, distrust, stinginess, lack of adaptability.` as a dedicated psychological layer; Witte keeps psychological implications folded into the keyword cluster.
+- body/health: Ebertin isolates `The bony structure, the process of hardening up, stone-formation, the loss of organs. Old age.`; Witte usually embeds bodily references inside the main factor definition rather than in a separate section.
+- social/relationship: Ebertin isolates `Hard working, inhibited or sad people. Agriculture, mining, real estate.`; Witte keeps social references compressed into the same core entry.
+- events/manifestations: Ebertin preserves sign-position material above when available. Witte's standalone factor chapter remains non-sign-specific.
+- conflicts/notes: both source chapters are preserved side by side on the canonical factor page; differences are framework emphasis, not silently merged doctrine.
+
+## Contradictions and Framework Notes
+
+- Both sources agree on inhibition, delay, endurance, and hardening. Witte is more starkly material and obstructive, while Ebertin is more psychological and developmental.
+- This page preserves the Hamburg and Cosmobiological factor chapters side by side instead of treating one as a gloss on the other.
 
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- Taken together, Saturn works as contraction, endurance, limitation, and the pressure that gives things lasting form.
 
 ## Related Axes
 
@@ -89,6 +105,7 @@ Hard working, inhibited or sad people. Agriculture, mining, real estate.
 
 ## Related Sources
 
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 
 ## Open Questions

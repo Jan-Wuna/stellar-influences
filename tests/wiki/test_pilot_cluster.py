@@ -6,6 +6,7 @@ from tools.wiki_pages import load_page
 def test_required_templates_exist():
     assert Path("wiki/_templates/factor.md").exists()
     assert Path("wiki/_templates/activation.md").exists()
+    assert Path("wiki/_templates/derived.md").exists()
     assert Path("AGENTS.md").exists()
 
 
@@ -37,3 +38,9 @@ def test_axis_pages_cover_all_activation_axes():
         axis_slug = activation.meta["axis"].lower().replace("/", "-")
         axis_path = Path("wiki/axes") / f"{axis_slug}.md"
         assert axis_path.exists(), f"missing axis page for {activation_path.name}"
+
+
+def test_derived_gap_articles_exist():
+    assert Path("wiki/derived/shared-factors-witte-vs-ebertin.md").exists()
+    assert Path("wiki/derived/orientation-matters-sun-moon-venus.md").exists()
+    assert Path("wiki/derived/corpus-coverage-witte-vs-ebertin.md").exists()

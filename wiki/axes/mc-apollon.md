@@ -11,7 +11,7 @@ normalized_axis: MC/Apollon
 factor_a: MC
 factor_b: Apollon
 related_activations:
-  - MC/Apollon = Aries
+  - MC/Apollon = Vernal Point
   - MC/Apollon = Asc
   - MC/Apollon = Sun
   - MC/Apollon = Moon
@@ -32,7 +32,6 @@ related_activations:
   - MC/Apollon = Vulcanus
   - MC/Apollon = Poseidon
 related_triad_hubs:
-  - Aries MC Apollon
   - Asc MC Apollon
   - Jupiter MC Apollon
   - Mars MC Apollon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun MC Apollon
   - Uranus MC Apollon
   - Venus MC Apollon
+  - Vernal Point MC Apollon
 aliases:
   - Apollon/MC
 source_pages:
@@ -85,7 +85,7 @@ The mental horizon. One’s own life experiences. To be a scientist, merchant or
 
 ## Related Activations
 
-- [MC/Apollon = Aries](../activations/mc-apollon-equals-aries.md)
+- [MC/Apollon = Vernal Point](../activations/mc-apollon-equals-vernal-point.md)
 - [MC/Apollon = Asc](../activations/mc-apollon-equals-asc.md)
 - [MC/Apollon = Sun](../activations/mc-apollon-equals-sun.md)
 - [MC/Apollon = Moon](../activations/mc-apollon-equals-moon.md)

@@ -11,7 +11,7 @@ normalized_axis: Pluto/Poseidon
 factor_a: Pluto
 factor_b: Poseidon
 related_activations:
-  - Pluto/Poseidon = Aries
+  - Pluto/Poseidon = Vernal Point
   - Pluto/Poseidon = MC
   - Pluto/Poseidon = Asc
   - Pluto/Poseidon = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Pluto/Poseidon = Admetos
   - Pluto/Poseidon = Vulcanus
 related_triad_hubs:
-  - Aries Pluto Poseidon
   - Jupiter Pluto Poseidon
   - Mars Pluto Poseidon
   - Mercury Pluto Poseidon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Pluto Poseidon
   - Uranus Pluto Poseidon
   - Venus Pluto Poseidon
+  - Vernal Point Pluto Poseidon
 aliases:
   - Poseidon/Pluto
 source_pages:
@@ -85,7 +85,7 @@ Mental, spiritual and educational transformation and development. The developmen
 
 ## Related Activations
 
-- [Pluto/Poseidon = Aries](../activations/pluto-poseidon-equals-aries.md)
+- [Pluto/Poseidon = Vernal Point](../activations/pluto-poseidon-equals-vernal-point.md)
 - [Pluto/Poseidon = MC](../activations/pluto-poseidon-equals-mc.md)
 - [Pluto/Poseidon = Asc](../activations/pluto-poseidon-equals-asc.md)
 - [Pluto/Poseidon = Sun](../activations/pluto-poseidon-equals-sun.md)

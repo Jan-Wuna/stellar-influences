@@ -11,7 +11,7 @@ normalized_axis: Saturn/Saturn
 factor_a: Saturn
 factor_b: Saturn
 related_activations:
-  - Saturn/Saturn = Aries
+  - Saturn/Saturn = Vernal Point
   - Saturn/Saturn = MC
   - Saturn/Saturn = Asc
   - Saturn/Saturn = Sun
@@ -67,7 +67,7 @@ Restriction. Inhibitions. To hinder. Separations. Losses. Difficulties, resistan
 
 ## Related Activations
 
-- [Saturn/Saturn = Aries](../activations/saturn-saturn-equals-aries.md)
+- [Saturn/Saturn = Vernal Point](../activations/saturn-saturn-equals-vernal-point.md)
 - [Saturn/Saturn = MC](../activations/saturn-saturn-equals-mc.md)
 - [Saturn/Saturn = Asc](../activations/saturn-saturn-equals-asc.md)
 - [Saturn/Saturn = Sun](../activations/saturn-saturn-equals-sun.md)

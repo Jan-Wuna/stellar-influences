@@ -11,28 +11,29 @@ normalized_axis: Mars/Neptune
 factor_a: Mars
 factor_b: Neptune
 related_activations:
-  - Mars/Neptune = Aries
-  - Mars/Neptune = MC
+  - Mars/Neptune = Admetos
+  - Mars/Neptune = Apollon
   - Mars/Neptune = Asc
-  - Mars/Neptune = Sun
-  - Mars/Neptune = Moon
-  - Mars/Neptune = Node
-  - Mars/Neptune = Mercury
-  - Mars/Neptune = Venus
-  - Mars/Neptune = Jupiter
-  - Mars/Neptune = Saturn
-  - Mars/Neptune = Uranus
-  - Mars/Neptune = Pluto
+  - Mars/Neptune = Chiron
   - Mars/Neptune = Cupido
   - Mars/Neptune = Hades
-  - Mars/Neptune = Zeus
+  - Mars/Neptune = Jupiter
   - Mars/Neptune = Kronos
-  - Mars/Neptune = Apollon
-  - Mars/Neptune = Admetos
-  - Mars/Neptune = Vulcanus
+  - Mars/Neptune = MC
+  - Mars/Neptune = Mercury
+  - Mars/Neptune = Moon
+  - Mars/Neptune = Node
+  - Mars/Neptune = Pluto
   - Mars/Neptune = Poseidon
+  - Mars/Neptune = Saturn
+  - Mars/Neptune = Sun
+  - Mars/Neptune = Uranus
+  - Mars/Neptune = Venus
+  - Mars/Neptune = Vernal Point
+  - Mars/Neptune = Vulcanus
+  - Mars/Neptune = Zeus
 related_triad_hubs:
-  - Aries Mars Neptune
+  - Mars Chiron Neptune
   - Mars Jupiter Neptune
   - Mars Neptune Admetos
   - Mars Neptune Apollon
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Moon Mars Neptune
   - Sun Mars Neptune
   - Venus Mars Neptune
+  - Vernal Point Mars Neptune
 aliases:
   - Neptune/Mars
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 Rejection. Denial. Destruction. Infection. Failures. Future employment. Causing poisoning. To act with poor results. To be hindered, prevented. Inability to carry out the plans. Unclear or incomprehensible actions. Working under insecure or unknown conditions. Activities or labor in connection with water or air.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mars/Neptune`
+- Source page: `210`
+
+#### Principle
+
+Irritability, weakness.
+
+#### Psychological Correspondence
+
++ Control of the feelings and passions through one's mental attitude and inner or spiritual aspirations, occasional or temporary interest in artistic pursuits. - Conscious direction of the will without the ability to take action, desire to harm other people, misuse or abuse of physical energy, misdirected powers and capabilities (also in a criminal sense), self-destructive forces and agents (such as narcotic poisons or drugs, as well as the misuse of the procreative power), moodiness. Irritability, discontent, feelings of inferiority. C Lack of energy, dissatisfaction, feeling of inferiority.
+
+#### Biological Correspondence
+
+"Activity paralyzed." A paralysis of the muscles, wasting away of the muscles. Susceptibility to epidemic infections, consequences or results of an infection (the basic formula for the normal and predictable course of diseases = diseases of infection). The discharge of pus.
+
+#### Sociological Correspondence
+
+Sick people, people craving for drugs. People connected generally with water or navigation.
+
+#### Probable Manifestations
+
++ Inspirations, a lot of plans, help at the right time. - Failures caused through the absence of plans or through lack of energy, the misfortune to suffer harm or exploitation, dislike of work, obstinacy and stubbornness, narrow-mindedness. 42 Mars/Neptune contacts should be given particular consideration in cases of illness as it is often characteristic of an infection from outside or of a type of auto-toxin which in severe cases can lead to death if the body has not been freed of the toxin early on. Mars/Neptune cW
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -137,6 +167,28 @@ The effect on the health is through worry, diseases of the imagination or throug
 - The Conjunction: Napoleon, Robespierre, D.G. Rossetti, Blackbourne (chess champion), Lord Rosebery, Lenin, Strauss, Sarah Bernhardt, Joshua Reynolds, Morinus, Georges Sand, Shelley, Blake, A.J. Balfour, Leon Blum, Laval.
 - Inharmonious: Major Dreyfus, Jay Gould, Pierpont Morgan, Cecil Rhodes, George Bidder, "A Bullfighter," W.J. Bryan, Algernon Swinburne, Helen Keller, Ludendorff.
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mars/Neptune midpoint`
+- Source page: `72`
+
+#### Principle
+
+To act out of a sense of spiritual obligation. Taking the initiative to help others. The refinement of one’s ability to act. The ability to assert oneself in subtle ways. Psy chic warfare. Engaging in magic practices. To psychically tune in to conflicts. Actions that are confused or impractical. To refine and uplift sexual energy. The excitement of the imagination, and its use in both constructive and destructive ways.
+
+#### Process
+
+To become increasingly aware of what you’re doing, so that you’re less and less confused and more and more clearly intuitive when you assert yourself. Learning to use your intuition more and more as you work. Regenerating energy psychically.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Mars/Neptune`
+- Source page: `208`
+
+#### Pair Delineation
+
+Weakness, paralysis, feelings of inferiority or inability to cope. Covert actions. Connected with allergies, drug problems, and infectious diseases. Also spiritual activity and work in which spiritual rather than physical benefit is the object.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MARS/NEPTUNE`
@@ -180,26 +232,27 @@ Weakens your overall physical stamina; muscle weakness or atrophy; physical cond
 
 ## Related Activations
 
-- [Mars/Neptune = Aries](../activations/mars-neptune-equals-aries.md)
-- [Mars/Neptune = MC](../activations/mars-neptune-equals-mc.md)
+- [Mars/Neptune = Admetos](../activations/mars-neptune-equals-admetos.md)
+- [Mars/Neptune = Apollon](../activations/mars-neptune-equals-apollon.md)
 - [Mars/Neptune = Asc](../activations/mars-neptune-equals-asc.md)
-- [Mars/Neptune = Sun](../activations/mars-neptune-equals-sun.md)
-- [Mars/Neptune = Moon](../activations/mars-neptune-equals-moon.md)
-- [Mars/Neptune = Node](../activations/mars-neptune-equals-node.md)
-- [Mars/Neptune = Mercury](../activations/mars-neptune-equals-mercury.md)
-- [Mars/Neptune = Venus](../activations/mars-neptune-equals-venus.md)
-- [Mars/Neptune = Jupiter](../activations/mars-neptune-equals-jupiter.md)
-- [Mars/Neptune = Saturn](../activations/mars-neptune-equals-saturn.md)
-- [Mars/Neptune = Uranus](../activations/mars-neptune-equals-uranus.md)
-- [Mars/Neptune = Pluto](../activations/mars-neptune-equals-pluto.md)
+- [Mars/Neptune = Chiron](../activations/mars-neptune-equals-chiron.md)
 - [Mars/Neptune = Cupido](../activations/mars-neptune-equals-cupido.md)
 - [Mars/Neptune = Hades](../activations/mars-neptune-equals-hades.md)
-- [Mars/Neptune = Zeus](../activations/mars-neptune-equals-zeus.md)
+- [Mars/Neptune = Jupiter](../activations/mars-neptune-equals-jupiter.md)
 - [Mars/Neptune = Kronos](../activations/mars-neptune-equals-kronos.md)
-- [Mars/Neptune = Apollon](../activations/mars-neptune-equals-apollon.md)
-- [Mars/Neptune = Admetos](../activations/mars-neptune-equals-admetos.md)
-- [Mars/Neptune = Vulcanus](../activations/mars-neptune-equals-vulcanus.md)
+- [Mars/Neptune = MC](../activations/mars-neptune-equals-mc.md)
+- [Mars/Neptune = Mercury](../activations/mars-neptune-equals-mercury.md)
+- [Mars/Neptune = Moon](../activations/mars-neptune-equals-moon.md)
+- [Mars/Neptune = Node](../activations/mars-neptune-equals-node.md)
+- [Mars/Neptune = Pluto](../activations/mars-neptune-equals-pluto.md)
 - [Mars/Neptune = Poseidon](../activations/mars-neptune-equals-poseidon.md)
+- [Mars/Neptune = Saturn](../activations/mars-neptune-equals-saturn.md)
+- [Mars/Neptune = Sun](../activations/mars-neptune-equals-sun.md)
+- [Mars/Neptune = Uranus](../activations/mars-neptune-equals-uranus.md)
+- [Mars/Neptune = Venus](../activations/mars-neptune-equals-venus.md)
+- [Mars/Neptune = Vernal Point](../activations/mars-neptune-equals-vernal-point.md)
+- [Mars/Neptune = Vulcanus](../activations/mars-neptune-equals-vulcanus.md)
+- [Mars/Neptune = Zeus](../activations/mars-neptune-equals-zeus.md)
 
 ## Contradictions
 
@@ -215,6 +268,9 @@ Weakens your overall physical stamina; muscle weakness or atrophy; physical cond
 - [Mars](../factors/mars.md)
 - [Neptune](../factors/neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

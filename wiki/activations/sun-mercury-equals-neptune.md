@@ -3,7 +3,7 @@ title: Sun/Mercury = Neptune
 page_type: activation
 slug: sun-mercury-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Mercury
@@ -15,10 +15,13 @@ triad_set:
   - Sun
   - Mercury
   - Neptune
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Inspiration. Author. Not clear, rambling, impractical thinking. Sluggish. Swindle. Fraud.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Sun/Mercury`
+- Source page: `82`
+- Entry: `0201`
+
+#### Ebertin Entry
+
+The play of imagination, the development of fantasy and imagination, inspiration, the tendency to simulate and to deceive oneself. Writers and visionaries, swindlers or crooks. The experience of deception.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Sun/Mercury midpoint`
+- Source page: `8`
+- Activator: `Neptune`
+
+#### Sandbach Entry
+
+A refined and subtle way of communicating which, at its worst, could be misunderstood or overlooked by other people. An unformed or confused way of putting one’s ideas across. To be uncertain about one’s own opinions, which most naturally al ways tend to be colored or based on one’s intuition.
+
 ## Comparative Schema
 
-- core meaning: Inspiration. Author. Not clear, rambling, impractical thinking. Sluggish. Swindle. Fraud.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Inspiration. Author. Not clear, rambling, impractical thinking. Sluggish. Swindl
 - [Mercury](../factors/mercury.md)
 - [Neptune](../factors/neptune.md)
 - [Sun/Mercury](../axes/sun-mercury.md)
+- [Sun Mercury Neptune](../triads/sun-mercury-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

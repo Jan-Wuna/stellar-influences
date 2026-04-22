@@ -31,6 +31,47 @@ The urge to bring ideals to fruition.
     assert "Harmonious coordination" in entries[1].text
 
 
+def test_parse_activation_entries_can_decode_glyph_tokens_without_full_prefix_sequence():
+    sample = """
+0474 U
+Constructive criticism, constructive thinking, sound judgement.
+0475 = h
+Deep thinking, good powers of concentration.
+""".strip()
+
+    entries = parse_activation_entries("Mercury", "Mars", sample, {})
+
+    assert [entry.activated_by for entry in entries] == ["Jupiter", "Saturn"]
+    assert entries[0].code == "0474"
+    assert "Constructive criticism" in entries[0].text
+
+
+def test_parse_activation_entries_skips_unresolved_partial_tokens_and_reports_them():
+    sample = """
+0474 U
+Constructive criticism, constructive thinking, sound judgement.
+0475 = ??
+Undecoded activation token in this partial extract.
+0476 = h
+Deep thinking, good powers of concentration.
+""".strip()
+
+    entries, unresolved = parse_activation_entries(
+        "Mercury",
+        "Mars",
+        sample,
+        {},
+        return_unresolved=True,
+    )
+
+    assert [entry.activated_by for entry in entries] == ["Jupiter", "Saturn"]
+    assert [entry.code for entry in entries] == ["0474", "0476"]
+    assert len(unresolved) == 1
+    assert unresolved[0].code == "0475"
+    assert unresolved[0].token == "??"
+    assert "Undecoded activation token" in unresolved[0].excerpt
+
+
 def test_parse_sign_entries_assigns_zodiac_order():
     sample = """
 T 0014 I

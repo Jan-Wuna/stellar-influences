@@ -11,28 +11,27 @@ normalized_axis: Uranus/Asc
 factor_a: Uranus
 factor_b: Asc
 related_activations:
-  - Uranus/Asc = Aries
-  - Uranus/Asc = MC
-  - Uranus/Asc = Sun
-  - Uranus/Asc = Moon
-  - Uranus/Asc = Node
-  - Uranus/Asc = Mercury
-  - Uranus/Asc = Venus
-  - Uranus/Asc = Mars
-  - Uranus/Asc = Jupiter
-  - Uranus/Asc = Saturn
-  - Uranus/Asc = Neptune
-  - Uranus/Asc = Pluto
+  - Uranus/Asc = Admetos
+  - Uranus/Asc = Apollon
   - Uranus/Asc = Cupido
   - Uranus/Asc = Hades
-  - Uranus/Asc = Zeus
+  - Uranus/Asc = Jupiter
   - Uranus/Asc = Kronos
-  - Uranus/Asc = Apollon
-  - Uranus/Asc = Admetos
-  - Uranus/Asc = Vulcanus
+  - Uranus/Asc = Mars
+  - Uranus/Asc = MC
+  - Uranus/Asc = Mercury
+  - Uranus/Asc = Moon
+  - Uranus/Asc = Neptune
+  - Uranus/Asc = Node
+  - Uranus/Asc = Pluto
   - Uranus/Asc = Poseidon
+  - Uranus/Asc = Saturn
+  - Uranus/Asc = Sun
+  - Uranus/Asc = Venus
+  - Uranus/Asc = Vernal Point
+  - Uranus/Asc = Vulcanus
+  - Uranus/Asc = Zeus
 related_triad_hubs:
-  - Aries Uranus Asc
   - Jupiter Uranus Asc
   - Mars Uranus Asc
   - Mercury Uranus Asc
@@ -52,10 +51,14 @@ related_triad_hubs:
   - Uranus Node Asc
   - Uranus Pluto Asc
   - Venus Uranus Asc
+  - Vernal Point Uranus Asc
 aliases:
   - Asc/Uranus
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -70,12 +73,59 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Uranus`
-- Source page: `88`
+- Source heading: `Uranus/Ascendant`
+- Source page: `274`
 
 #### Pair Summary
 
 Excitement, irritation or accidents caused by other people. Sudden acquaintances. Sudden events of other peoples. Tension and excitement by others. Reunions for a special reason. Sudden appearance. Location of an accident. Location for mathematics, technology or inventions. Engineers, restless or excited people in the immediate surroundings. Environmental technology.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Uranus/Ascendant`
+- Source page: `274`
+
+#### Principle
+
+Quick response to environmental influences.
+
+#### Psychological Correspondence
+
++ An unstable, original, quickly responding personality, love of change and variety, inventive ability, connections with technology and industry. - An excitable personality. Inconstant, irritable, tendency to cause disquiet or unrest to other people. C Unrest, tendency to scatter one's energies, nervous haste.
+
+#### Biological Correspondence
+
+Quickly responding nervous system (sensitized skin nerves). Headaches. Trigeminal neuralgia.
+
+#### Sociological Correspondence
+
+Excitable people.
+
+#### Probable Manifestations
+
++ Rearranging one's environment, changing one's residence, suddenly making new contacts. - Upsetting and exciting experiences, sudden incidents, accidents. Uranus/Ascendant WA
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Uranus/Ascendant midpoint`
+- Source page: `107`
+
+#### Principle
+
+An unusual and/or unpredictable personality. To have fast and/or surprising reactions to stimuli. To be seen by other people as unique, original, and/or highly dis tinctive. One does not easily fit into accepted categories, and, in fact, may rebel against them. One who changes or experiments with one’s outer appearance.
+
+#### Process
+
+To free oneself of the limitations of one’s own identity. To try on different roles and images. To overcome the projections that other people place on oneself.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Uranus/Ascendant`
+- Source page: `211`
+
+#### Pair Delineation
+
+Unusual or unstable relationships, relationships with people who are unusual or unstable. Relationships that are formed and/or broken suddenly. The need for independence in forming relationships. Relationships that have few rules or expectations.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -120,26 +170,26 @@ Emphasizes finding mental balance and stability; added stress from having to con
 
 ## Related Activations
 
-- [Uranus/Asc = Aries](../activations/uranus-asc-equals-aries.md)
-- [Uranus/Asc = MC](../activations/uranus-asc-equals-mc.md)
-- [Uranus/Asc = Sun](../activations/uranus-asc-equals-sun.md)
-- [Uranus/Asc = Moon](../activations/uranus-asc-equals-moon.md)
-- [Uranus/Asc = Node](../activations/uranus-asc-equals-node.md)
-- [Uranus/Asc = Mercury](../activations/uranus-asc-equals-mercury.md)
-- [Uranus/Asc = Venus](../activations/uranus-asc-equals-venus.md)
-- [Uranus/Asc = Mars](../activations/uranus-asc-equals-mars.md)
-- [Uranus/Asc = Jupiter](../activations/uranus-asc-equals-jupiter.md)
-- [Uranus/Asc = Saturn](../activations/uranus-asc-equals-saturn.md)
-- [Uranus/Asc = Neptune](../activations/uranus-asc-equals-neptune.md)
-- [Uranus/Asc = Pluto](../activations/uranus-asc-equals-pluto.md)
+- [Uranus/Asc = Admetos](../activations/uranus-asc-equals-admetos.md)
+- [Uranus/Asc = Apollon](../activations/uranus-asc-equals-apollon.md)
 - [Uranus/Asc = Cupido](../activations/uranus-asc-equals-cupido.md)
 - [Uranus/Asc = Hades](../activations/uranus-asc-equals-hades.md)
-- [Uranus/Asc = Zeus](../activations/uranus-asc-equals-zeus.md)
+- [Uranus/Asc = Jupiter](../activations/uranus-asc-equals-jupiter.md)
 - [Uranus/Asc = Kronos](../activations/uranus-asc-equals-kronos.md)
-- [Uranus/Asc = Apollon](../activations/uranus-asc-equals-apollon.md)
-- [Uranus/Asc = Admetos](../activations/uranus-asc-equals-admetos.md)
-- [Uranus/Asc = Vulcanus](../activations/uranus-asc-equals-vulcanus.md)
+- [Uranus/Asc = Mars](../activations/uranus-asc-equals-mars.md)
+- [Uranus/Asc = MC](../activations/uranus-asc-equals-mc.md)
+- [Uranus/Asc = Mercury](../activations/uranus-asc-equals-mercury.md)
+- [Uranus/Asc = Moon](../activations/uranus-asc-equals-moon.md)
+- [Uranus/Asc = Neptune](../activations/uranus-asc-equals-neptune.md)
+- [Uranus/Asc = Node](../activations/uranus-asc-equals-node.md)
+- [Uranus/Asc = Pluto](../activations/uranus-asc-equals-pluto.md)
 - [Uranus/Asc = Poseidon](../activations/uranus-asc-equals-poseidon.md)
+- [Uranus/Asc = Saturn](../activations/uranus-asc-equals-saturn.md)
+- [Uranus/Asc = Sun](../activations/uranus-asc-equals-sun.md)
+- [Uranus/Asc = Venus](../activations/uranus-asc-equals-venus.md)
+- [Uranus/Asc = Vernal Point](../activations/uranus-asc-equals-vernal-point.md)
+- [Uranus/Asc = Vulcanus](../activations/uranus-asc-equals-vulcanus.md)
+- [Uranus/Asc = Zeus](../activations/uranus-asc-equals-zeus.md)
 
 ## Contradictions
 
@@ -155,4 +205,7 @@ Emphasizes finding mental balance and stability; added stress from having to con
 - [Uranus](../factors/uranus.md)
 - [Asc](../factors/asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

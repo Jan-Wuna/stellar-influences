@@ -3,7 +3,7 @@ title: Mars Jupiter Uranus
 page_type: triad_hub
 slug: mars-jupiter-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Jupiter
@@ -19,7 +19,9 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -31,18 +33,20 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Uranus = Mars](../activations/jupiter-uranus-equals-mars.md)
-  Source page `208`
 - [Mars/Jupiter = Uranus](../activations/mars-jupiter-equals-uranus.md)
-  Source page `192`
 - [Mars/Uranus = Jupiter](../activations/mars-uranus-equals-jupiter.md)
-  Source page `194`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Uranus = Mars`: page `208`
-- `Mars/Jupiter = Uranus`: page `192`
-- `Mars/Uranus = Jupiter`: page `194`
+- `Jupiter/Uranus = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `208`
+- `Jupiter/Uranus = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `229`
+- `Jupiter/Uranus = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `80`
+- `Mars/Jupiter = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `192`
+- `Mars/Jupiter = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `202`
+- `Mars/Jupiter = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `67`
+- `Mars/Uranus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `194`
+- `Mars/Uranus = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `208`
+- `Mars/Uranus = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `71`
 
 ## Contradictions Across Orientations
 
@@ -54,3 +58,6 @@ updated_at: 2026-04-21
 - [Mars](../factors/mars.md)
 - [Jupiter](../factors/jupiter.md)
 - [Uranus](../factors/uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

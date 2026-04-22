@@ -11,7 +11,7 @@ normalized_axis: Sun/Cupido
 factor_a: Sun
 factor_b: Cupido
 related_activations:
-  - Sun/Cupido = Aries
+  - Sun/Cupido = Vernal Point
   - Sun/Cupido = MC
   - Sun/Cupido = Asc
   - Sun/Cupido = Moon
@@ -32,7 +32,6 @@ related_activations:
   - Sun/Cupido = Vulcanus
   - Sun/Cupido = Poseidon
 related_triad_hubs:
-  - Aries Sun Cupido
   - Sun Asc Cupido
   - Sun Cupido Admetos
   - Sun Cupido Apollon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Saturn Cupido
   - Sun Uranus Cupido
   - Sun Venus Cupido
+  - Vernal Point Sun Cupido
 aliases:
   - Cupido/Sun
 source_pages:
@@ -85,7 +85,7 @@ Member of family, association, community or a group. Brothers. The bridegroom. T
 
 ## Related Activations
 
-- [Sun/Cupido = Aries](../activations/sun-cupido-equals-aries.md)
+- [Sun/Cupido = Vernal Point](../activations/sun-cupido-equals-vernal-point.md)
 - [Sun/Cupido = MC](../activations/sun-cupido-equals-mc.md)
 - [Sun/Cupido = Asc](../activations/sun-cupido-equals-asc.md)
 - [Sun/Cupido = Moon](../activations/sun-cupido-equals-moon.md)

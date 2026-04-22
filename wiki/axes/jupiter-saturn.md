@@ -11,31 +11,32 @@ normalized_axis: Jupiter/Saturn
 factor_a: Jupiter
 factor_b: Saturn
 related_activations:
-  - Jupiter/Saturn = Aries
-  - Jupiter/Saturn = MC
+  - Jupiter/Saturn = Admetos
+  - Jupiter/Saturn = Apollon
   - Jupiter/Saturn = Asc
-  - Jupiter/Saturn = Sun
-  - Jupiter/Saturn = Moon
-  - Jupiter/Saturn = Node
-  - Jupiter/Saturn = Mercury
-  - Jupiter/Saturn = Venus
-  - Jupiter/Saturn = Mars
-  - Jupiter/Saturn = Uranus
-  - Jupiter/Saturn = Neptune
-  - Jupiter/Saturn = Pluto
+  - Jupiter/Saturn = Chiron
   - Jupiter/Saturn = Cupido
   - Jupiter/Saturn = Hades
-  - Jupiter/Saturn = Zeus
   - Jupiter/Saturn = Kronos
-  - Jupiter/Saturn = Apollon
-  - Jupiter/Saturn = Admetos
-  - Jupiter/Saturn = Vulcanus
+  - Jupiter/Saturn = Mars
+  - Jupiter/Saturn = MC
+  - Jupiter/Saturn = Mercury
+  - Jupiter/Saturn = Moon
+  - Jupiter/Saturn = Neptune
+  - Jupiter/Saturn = Node
+  - Jupiter/Saturn = Pluto
   - Jupiter/Saturn = Poseidon
+  - Jupiter/Saturn = Sun
+  - Jupiter/Saturn = Uranus
+  - Jupiter/Saturn = Venus
+  - Jupiter/Saturn = Vernal Point
+  - Jupiter/Saturn = Vulcanus
+  - Jupiter/Saturn = Zeus
 related_triad_hubs:
-  - Aries Jupiter Saturn
   - Jupiter Saturn Admetos
   - Jupiter Saturn Apollon
   - Jupiter Saturn Asc
+  - Jupiter Saturn Chiron
   - Jupiter Saturn Cupido
   - Jupiter Saturn Hades
   - Jupiter Saturn Kronos
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Moon Jupiter Saturn
   - Sun Jupiter Saturn
   - Venus Jupiter Saturn
+  - Vernal Point Jupiter Saturn
 aliases:
   - Saturn/Jupiter
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 “Ripe Old Age”. Inconstant success. Successful separations. Separates from luck. Buildings. Change of residence. To have no luck. Money losses. Contentment in being alone. Separation from happiness or happy separation. Basic separation formula for birth.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Jupiter/Saturn`
+- Source page: `225`
+
+#### Principle
+
+Patience (achieving success through perseverance).
+
+#### Psychological Correspondence
+
++ Patience, perseverance, industry, consciousness of objective, tenacious pursuit of one's plans, a sense of duty, straightforwardness and honesty, self-confidence, philosophical thinking, diplomacy, desire for possessions. - Emotional tensions and inhibitions, discontent, lack of self-confidence, maturity and experience gained as the result of previous difficulties in life, the need to suppress pessimism and self-destructive thoughts. C Dissatisfaction with oneself as well as with others, quick irritability, attainment of far-reaching objectives through industry, perseverance and patience.
+
+#### Biological Correspondence
+
+An organic defect (e.g., a tubercular cavity in the lung), a chronic disease. Functions of the gall and the liver.
+
+#### Sociological Correspondence
+
+Professors and teachers of law, clergymen, civil servants of the administration, government officials, politicians (relatives, fellow tenants).
+
+#### Probable Manifestations
+
++ Patient realization of one's objectives in seclusion, further development of one's inheritance, happy feelings caused through separation, happiness in seclusion. - Changing success, an unsettled life with many changes, change of residence or of employed staff, an angry upset, vexation or annoyance. Jupiter/Saturn hfr
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -147,6 +177,28 @@ The father is often inefficient, unfortunate, careless or imprudent; or, if Satu
 - The Conjunction: Isaac Newton, Mrs. Eddy, Wallenstein, Lindbergh, Richard Burton, Frederick the Great, Joshua Reynolds.
 - Inharmonious: Asquith, Boulanger, Edison, Roberts, Baden-Poewell, French, R.L. Stevenson, Rider Haggard, Louis XIV, Earl Stratford, G.B. Shaw, Washington.
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Jupiter/Saturn midpoint`
+- Source page: `78`
+
+#### Principle
+
+Morality, meaning not only what one feels is generally good and bad, but your ideas about what is specifically good for you to do and what is bad for you. This pair rules assessments and judgments about how one should live one’s life. The pair also rules controlled growth, organized expansion, and discipline. Jupiter/Saturn signifies a need to proceed relatively slowly, and in a grounded fashion, so that progress is steady and as free of setbacks as possible. If Saturn exceeds Jupiter in energy then one may feel that progress is too slow, or too limited or frustrating, or that one’s enthusiasm is dampened. If Jupiter exceeds Saturn one may feel a lack of organization and/or stabil ity on one’s progress.
+
+#### Process
+
+The integration of moral principles into one’s life. The finding of a harmonious and successful way to discipline oneself. The development of the ability to be discern ing and critical and yet open, forgiving and accepting at the same time.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Jupiter/Saturn`
+- Source page: `208`
+
+#### Pair Delineation
+
+The balance between one's conservative and liberal sides. Optimism tempered by caution. Patient and careful growth on the material plane. Associated with business on a large scale, capitalism. Badly placed, indicates swinging between extremes of optimism and pessimism, or between complete impatience and being content with the status quo.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `JUPITER/SATURN`
@@ -190,26 +242,27 @@ Inflammation of the joints; calcium deposits in the liver or hip joints; fluid o
 
 ## Related Activations
 
-- [Jupiter/Saturn = Aries](../activations/jupiter-saturn-equals-aries.md)
-- [Jupiter/Saturn = MC](../activations/jupiter-saturn-equals-mc.md)
+- [Jupiter/Saturn = Admetos](../activations/jupiter-saturn-equals-admetos.md)
+- [Jupiter/Saturn = Apollon](../activations/jupiter-saturn-equals-apollon.md)
 - [Jupiter/Saturn = Asc](../activations/jupiter-saturn-equals-asc.md)
-- [Jupiter/Saturn = Sun](../activations/jupiter-saturn-equals-sun.md)
-- [Jupiter/Saturn = Moon](../activations/jupiter-saturn-equals-moon.md)
-- [Jupiter/Saturn = Node](../activations/jupiter-saturn-equals-node.md)
-- [Jupiter/Saturn = Mercury](../activations/jupiter-saturn-equals-mercury.md)
-- [Jupiter/Saturn = Venus](../activations/jupiter-saturn-equals-venus.md)
-- [Jupiter/Saturn = Mars](../activations/jupiter-saturn-equals-mars.md)
-- [Jupiter/Saturn = Uranus](../activations/jupiter-saturn-equals-uranus.md)
-- [Jupiter/Saturn = Neptune](../activations/jupiter-saturn-equals-neptune.md)
-- [Jupiter/Saturn = Pluto](../activations/jupiter-saturn-equals-pluto.md)
+- [Jupiter/Saturn = Chiron](../activations/jupiter-saturn-equals-chiron.md)
 - [Jupiter/Saturn = Cupido](../activations/jupiter-saturn-equals-cupido.md)
 - [Jupiter/Saturn = Hades](../activations/jupiter-saturn-equals-hades.md)
-- [Jupiter/Saturn = Zeus](../activations/jupiter-saturn-equals-zeus.md)
 - [Jupiter/Saturn = Kronos](../activations/jupiter-saturn-equals-kronos.md)
-- [Jupiter/Saturn = Apollon](../activations/jupiter-saturn-equals-apollon.md)
-- [Jupiter/Saturn = Admetos](../activations/jupiter-saturn-equals-admetos.md)
-- [Jupiter/Saturn = Vulcanus](../activations/jupiter-saturn-equals-vulcanus.md)
+- [Jupiter/Saturn = Mars](../activations/jupiter-saturn-equals-mars.md)
+- [Jupiter/Saturn = MC](../activations/jupiter-saturn-equals-mc.md)
+- [Jupiter/Saturn = Mercury](../activations/jupiter-saturn-equals-mercury.md)
+- [Jupiter/Saturn = Moon](../activations/jupiter-saturn-equals-moon.md)
+- [Jupiter/Saturn = Neptune](../activations/jupiter-saturn-equals-neptune.md)
+- [Jupiter/Saturn = Node](../activations/jupiter-saturn-equals-node.md)
+- [Jupiter/Saturn = Pluto](../activations/jupiter-saturn-equals-pluto.md)
 - [Jupiter/Saturn = Poseidon](../activations/jupiter-saturn-equals-poseidon.md)
+- [Jupiter/Saturn = Sun](../activations/jupiter-saturn-equals-sun.md)
+- [Jupiter/Saturn = Uranus](../activations/jupiter-saturn-equals-uranus.md)
+- [Jupiter/Saturn = Venus](../activations/jupiter-saturn-equals-venus.md)
+- [Jupiter/Saturn = Vernal Point](../activations/jupiter-saturn-equals-vernal-point.md)
+- [Jupiter/Saturn = Vulcanus](../activations/jupiter-saturn-equals-vulcanus.md)
+- [Jupiter/Saturn = Zeus](../activations/jupiter-saturn-equals-zeus.md)
 
 ## Contradictions
 
@@ -225,6 +278,9 @@ Inflammation of the joints; calcium deposits in the liver or hip joints; fluid o
 - [Jupiter](../factors/jupiter.md)
 - [Saturn](../factors/saturn.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

@@ -11,7 +11,7 @@ normalized_axis: Cupido/Kronos
 factor_a: Cupido
 factor_b: Kronos
 related_activations:
-  - Cupido/Kronos = Aries
+  - Cupido/Kronos = Vernal Point
   - Cupido/Kronos = MC
   - Cupido/Kronos = Asc
   - Cupido/Kronos = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Cupido/Kronos = Vulcanus
   - Cupido/Kronos = Poseidon
 related_triad_hubs:
-  - Aries Cupido Kronos
   - Asc Cupido Kronos
   - Cupido Hades Kronos
   - Cupido Kronos Admetos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Cupido Kronos
   - Uranus Cupido Kronos
   - Venus Cupido Kronos
+  - Vernal Point Cupido Kronos
 aliases:
   - Kronos/Cupido
 source_pages:
@@ -85,7 +85,7 @@ The head of the family. Distinguished or illustrious society or company. Great a
 
 ## Related Activations
 
-- [Cupido/Kronos = Aries](../activations/cupido-kronos-equals-aries.md)
+- [Cupido/Kronos = Vernal Point](../activations/cupido-kronos-equals-vernal-point.md)
 - [Cupido/Kronos = MC](../activations/cupido-kronos-equals-mc.md)
 - [Cupido/Kronos = Asc](../activations/cupido-kronos-equals-asc.md)
 - [Cupido/Kronos = Sun](../activations/cupido-kronos-equals-sun.md)

@@ -11,7 +11,7 @@ normalized_axis: Admetos/Vulcanus
 factor_a: Admetos
 factor_b: Vulcanus
 related_activations:
-  - Admetos/Vulcanus = Aries
+  - Admetos/Vulcanus = Vernal Point
   - Admetos/Vulcanus = MC
   - Admetos/Vulcanus = Asc
   - Admetos/Vulcanus = Sun
@@ -34,7 +34,6 @@ related_activations:
 related_triad_hubs:
   - Admetos Vulcanus Poseidon
   - Apollon Admetos Vulcanus
-  - Aries Admetos Vulcanus
   - Asc Admetos Vulcanus
   - Cupido Admetos Vulcanus
   - Hades Admetos Vulcanus
@@ -51,6 +50,7 @@ related_triad_hubs:
   - Sun Admetos Vulcanus
   - Uranus Admetos Vulcanus
   - Venus Admetos Vulcanus
+  - Vernal Point Admetos Vulcanus
   - Zeus Admetos Vulcanus
 aliases:
   - Vulcanus/Admetos
@@ -85,7 +85,7 @@ Buffets of fate. To be tempered. Mighty hindrance. Compression. Forming of block
 
 ## Related Activations
 
-- [Admetos/Vulcanus = Aries](../activations/admetos-vulcanus-equals-aries.md)
+- [Admetos/Vulcanus = Vernal Point](../activations/admetos-vulcanus-equals-vernal-point.md)
 - [Admetos/Vulcanus = MC](../activations/admetos-vulcanus-equals-mc.md)
 - [Admetos/Vulcanus = Asc](../activations/admetos-vulcanus-equals-asc.md)
 - [Admetos/Vulcanus = Sun](../activations/admetos-vulcanus-equals-sun.md)

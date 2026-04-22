@@ -11,7 +11,7 @@ normalized_axis: Node/Vulcanus
 factor_a: Node
 factor_b: Vulcanus
 related_activations:
-  - Node/Vulcanus = Aries
+  - Node/Vulcanus = Vernal Point
   - Node/Vulcanus = MC
   - Node/Vulcanus = Asc
   - Node/Vulcanus = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Node/Vulcanus = Admetos
   - Node/Vulcanus = Poseidon
 related_triad_hubs:
-  - Aries Node Vulcanus
   - Jupiter Node Vulcanus
   - Mars Node Vulcanus
   - Mercury Node Vulcanus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Node Vulcanus
   - Uranus Node Vulcanus
   - Venus Node Vulcanus
+  - Vernal Point Node Vulcanus
 aliases:
   - Vulcanus/Node
 source_pages:
@@ -85,7 +85,7 @@ Eagerness. Application of force. Stable connection. Influential connections. The
 
 ## Related Activations
 
-- [Node/Vulcanus = Aries](../activations/node-vulcanus-equals-aries.md)
+- [Node/Vulcanus = Vernal Point](../activations/node-vulcanus-equals-vernal-point.md)
 - [Node/Vulcanus = MC](../activations/node-vulcanus-equals-mc.md)
 - [Node/Vulcanus = Asc](../activations/node-vulcanus-equals-asc.md)
 - [Node/Vulcanus = Sun](../activations/node-vulcanus-equals-sun.md)

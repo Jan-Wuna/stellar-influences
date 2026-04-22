@@ -11,7 +11,7 @@ normalized_axis: Uranus/Kronos
 factor_a: Uranus
 factor_b: Kronos
 related_activations:
-  - Uranus/Kronos = Aries
+  - Uranus/Kronos = Vernal Point
   - Uranus/Kronos = MC
   - Uranus/Kronos = Asc
   - Uranus/Kronos = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Uranus/Kronos = Vulcanus
   - Uranus/Kronos = Poseidon
 related_triad_hubs:
-  - Aries Uranus Kronos
   - Jupiter Uranus Kronos
   - Mars Uranus Kronos
   - Mercury Uranus Kronos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Uranus Pluto Kronos
   - Uranus Zeus Kronos
   - Venus Uranus Kronos
+  - Vernal Point Uranus Kronos
 aliases:
   - Kronos/Uranus
 source_pages:
@@ -85,7 +85,7 @@ Emphatic expressions, words of command. Authority appearing suddenly. Great tens
 
 ## Related Activations
 
-- [Uranus/Kronos = Aries](../activations/uranus-kronos-equals-aries.md)
+- [Uranus/Kronos = Vernal Point](../activations/uranus-kronos-equals-vernal-point.md)
 - [Uranus/Kronos = MC](../activations/uranus-kronos-equals-mc.md)
 - [Uranus/Kronos = Asc](../activations/uranus-kronos-equals-asc.md)
 - [Uranus/Kronos = Sun](../activations/uranus-kronos-equals-sun.md)

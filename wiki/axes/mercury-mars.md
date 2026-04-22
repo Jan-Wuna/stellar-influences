@@ -11,31 +11,32 @@ normalized_axis: Mercury/Mars
 factor_a: Mercury
 factor_b: Mars
 related_activations:
-  - Mercury/Mars = Aries
-  - Mercury/Mars = MC
+  - Mercury/Mars = Admetos
+  - Mercury/Mars = Apollon
   - Mercury/Mars = Asc
-  - Mercury/Mars = Sun
-  - Mercury/Mars = Moon
-  - Mercury/Mars = Node
-  - Mercury/Mars = Venus
-  - Mercury/Mars = Jupiter
-  - Mercury/Mars = Saturn
-  - Mercury/Mars = Uranus
-  - Mercury/Mars = Neptune
-  - Mercury/Mars = Pluto
+  - Mercury/Mars = Chiron
   - Mercury/Mars = Cupido
   - Mercury/Mars = Hades
-  - Mercury/Mars = Zeus
+  - Mercury/Mars = Jupiter
   - Mercury/Mars = Kronos
-  - Mercury/Mars = Apollon
-  - Mercury/Mars = Admetos
-  - Mercury/Mars = Vulcanus
+  - Mercury/Mars = MC
+  - Mercury/Mars = Moon
+  - Mercury/Mars = Neptune
+  - Mercury/Mars = Node
+  - Mercury/Mars = Pluto
   - Mercury/Mars = Poseidon
+  - Mercury/Mars = Saturn
+  - Mercury/Mars = Sun
+  - Mercury/Mars = Uranus
+  - Mercury/Mars = Venus
+  - Mercury/Mars = Vernal Point
+  - Mercury/Mars = Vulcanus
+  - Mercury/Mars = Zeus
 related_triad_hubs:
-  - Aries Mercury Mars
   - Mercury Mars Admetos
   - Mercury Mars Apollon
   - Mercury Mars Asc
+  - Mercury Mars Chiron
   - Mercury Mars Cupido
   - Mercury Mars Hades
   - Mercury Mars Jupiter
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Mercury Venus Mars
   - Moon Mercury Mars
   - Sun Mercury Mars
+  - Vernal Point Mercury Mars
 aliases:
   - Mars/Mercury
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 Energetic thought. Hasty and energetic reaction. Malice. Quarrelsome thoughts and debates. Critics. Criticism. To excite oneself mentally. Argument. Activity of the mind. Power of thought. Clear, sharp thinking. Disputes.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mercury/Mars`
+- Source page: `148`
+
+#### Principle
+
+Powers of thought, the realization of thoughts and plans.
+
+#### Psychological Correspondence
+
++ The power of resolution or determination, love of discussion or argument, ability to judge, practical disposition, skill or dexterity, quickness at repartee or the power to retaliate in the right manner, impressive speaking. - Rashness, tendency to exaggerate or magnify, love of quarreling, grumbling or fault-finding, obstinacy and wilfulness, irritability, nervousness, utilization of other people's ideas for one's own benefit. C Rashness or premature action, quickness at repartee, a love of quarreling, obstinacy.
+
+#### Biological Correspondence
+
+The system of the motor nerves. Spastic paralysis. Nerve irritation, an increased sensitization or reflex action.
+
+#### Sociological Correspondence
+
+A critic, the speaker in a discussion group.
+
+#### Probable Manifestations
+
++ The achievement of successes through the spirit of enterprise and the power of determination. - The stage of getting involved in controversies or lawsuits, the bringing about of disputes. Mercury/Mars 5/cr
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -149,6 +179,30 @@ From the standpoint of moral character the most needful lesson is, as a rule, to
 - The Conjunction: Zola, Thomas Hardy, Kipling, Ruskin, "Bullfighter," H.P. Blavatsky, Cicero(?), Primo de Rivera (Spanish dictator).
 - Inharmonious: William Blake, Prince Consort, Louis XIV, Swedenborg, Dante, Byron, Richard Wagner, Thomas Moore, Baron von Richthofen (famous German "ace").
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mercury/Mars midpoint`
+- Source page: `42`
+
+#### Principle
+
+Passionate communication. Constructive and/or destructive communication. Arguing. Mental conflict. An agitated nervous system. The ability to be pointed and as sertive when speaking. Sexual communication.
+
+#### Process
+
+The building and/or destroying of connections. Using communication in a combative and/or stimulating manner, either for good or ill.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Mercury/Mars`
+- Source page: `204`
+
+#### Pair Delineation
+
+The expression of anger or conflict. Fondness for argument or debate. Energetic and vigorous thinking. Verbal self-
+
+assertion. The determination to act upon one's own ideas. Forceful intellect.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MERCURY/MARS`
@@ -192,26 +246,27 @@ Hormone levels which affect your energy levels; convulsions caused by self exhau
 
 ## Related Activations
 
-- [Mercury/Mars = Aries](../activations/mercury-mars-equals-aries.md)
-- [Mercury/Mars = MC](../activations/mercury-mars-equals-mc.md)
+- [Mercury/Mars = Admetos](../activations/mercury-mars-equals-admetos.md)
+- [Mercury/Mars = Apollon](../activations/mercury-mars-equals-apollon.md)
 - [Mercury/Mars = Asc](../activations/mercury-mars-equals-asc.md)
-- [Mercury/Mars = Sun](../activations/mercury-mars-equals-sun.md)
-- [Mercury/Mars = Moon](../activations/mercury-mars-equals-moon.md)
-- [Mercury/Mars = Node](../activations/mercury-mars-equals-node.md)
-- [Mercury/Mars = Venus](../activations/mercury-mars-equals-venus.md)
-- [Mercury/Mars = Jupiter](../activations/mercury-mars-equals-jupiter.md)
-- [Mercury/Mars = Saturn](../activations/mercury-mars-equals-saturn.md)
-- [Mercury/Mars = Uranus](../activations/mercury-mars-equals-uranus.md)
-- [Mercury/Mars = Neptune](../activations/mercury-mars-equals-neptune.md)
-- [Mercury/Mars = Pluto](../activations/mercury-mars-equals-pluto.md)
+- [Mercury/Mars = Chiron](../activations/mercury-mars-equals-chiron.md)
 - [Mercury/Mars = Cupido](../activations/mercury-mars-equals-cupido.md)
 - [Mercury/Mars = Hades](../activations/mercury-mars-equals-hades.md)
-- [Mercury/Mars = Zeus](../activations/mercury-mars-equals-zeus.md)
+- [Mercury/Mars = Jupiter](../activations/mercury-mars-equals-jupiter.md)
 - [Mercury/Mars = Kronos](../activations/mercury-mars-equals-kronos.md)
-- [Mercury/Mars = Apollon](../activations/mercury-mars-equals-apollon.md)
-- [Mercury/Mars = Admetos](../activations/mercury-mars-equals-admetos.md)
-- [Mercury/Mars = Vulcanus](../activations/mercury-mars-equals-vulcanus.md)
+- [Mercury/Mars = MC](../activations/mercury-mars-equals-mc.md)
+- [Mercury/Mars = Moon](../activations/mercury-mars-equals-moon.md)
+- [Mercury/Mars = Neptune](../activations/mercury-mars-equals-neptune.md)
+- [Mercury/Mars = Node](../activations/mercury-mars-equals-node.md)
+- [Mercury/Mars = Pluto](../activations/mercury-mars-equals-pluto.md)
 - [Mercury/Mars = Poseidon](../activations/mercury-mars-equals-poseidon.md)
+- [Mercury/Mars = Saturn](../activations/mercury-mars-equals-saturn.md)
+- [Mercury/Mars = Sun](../activations/mercury-mars-equals-sun.md)
+- [Mercury/Mars = Uranus](../activations/mercury-mars-equals-uranus.md)
+- [Mercury/Mars = Venus](../activations/mercury-mars-equals-venus.md)
+- [Mercury/Mars = Vernal Point](../activations/mercury-mars-equals-vernal-point.md)
+- [Mercury/Mars = Vulcanus](../activations/mercury-mars-equals-vulcanus.md)
+- [Mercury/Mars = Zeus](../activations/mercury-mars-equals-zeus.md)
 
 ## Contradictions
 
@@ -227,6 +282,9 @@ Hormone levels which affect your energy levels; convulsions caused by self exhau
 - [Mercury](../factors/mercury.md)
 - [Mars](../factors/mars.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

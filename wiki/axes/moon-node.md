@@ -11,28 +11,29 @@ normalized_axis: Moon/Node
 factor_a: Moon
 factor_b: Node
 related_activations:
-  - Moon/Node = Aries
-  - Moon/Node = MC
+  - Moon/Node = Admetos
+  - Moon/Node = Apollon
   - Moon/Node = Asc
-  - Moon/Node = Sun
-  - Moon/Node = Mercury
-  - Moon/Node = Venus
-  - Moon/Node = Mars
-  - Moon/Node = Jupiter
-  - Moon/Node = Saturn
-  - Moon/Node = Uranus
-  - Moon/Node = Neptune
-  - Moon/Node = Pluto
+  - Moon/Node = Chiron
   - Moon/Node = Cupido
   - Moon/Node = Hades
-  - Moon/Node = Zeus
+  - Moon/Node = Jupiter
   - Moon/Node = Kronos
-  - Moon/Node = Apollon
-  - Moon/Node = Admetos
-  - Moon/Node = Vulcanus
+  - Moon/Node = Mars
+  - Moon/Node = MC
+  - Moon/Node = Mercury
+  - Moon/Node = Neptune
+  - Moon/Node = Pluto
   - Moon/Node = Poseidon
+  - Moon/Node = Saturn
+  - Moon/Node = Sun
+  - Moon/Node = Uranus
+  - Moon/Node = Venus
+  - Moon/Node = Vernal Point
+  - Moon/Node = Vulcanus
+  - Moon/Node = Zeus
 related_triad_hubs:
-  - Aries Moon Node
+  - Moon Chiron Node
   - Moon Jupiter Node
   - Moon Mars Node
   - Moon Mercury Node
@@ -52,10 +53,14 @@ related_triad_hubs:
   - Moon Uranus Node
   - Moon Venus Node
   - Sun Moon Node
+  - Vernal Point Moon Node
 aliases:
   - Node/Moon
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -70,12 +75,59 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Node`
-- Source page: `121`
+- Source heading: `Moon/Dragon's Head`
+- Source page: `136`
 
 #### Pair Summary
 
 Unions, associations and connections of women. Much change of connections. People’s association. A people’s meetings. Alliances of peoples and nations. National community. Connections or in relationship with female persons. Women among themselves. In contact with things that are influenced by the moon.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Moon/Dragon's Head`
+- Source page: `136`
+
+#### Principle
+
+A spiritual link or union with others.
+
+#### Psychological Correspondence
+
++ The supremacy of feeling in a relationship of living together, an inner or emotional attitude toward other persons. - Lack of adaptability, sensitivity, inclination toward estrangements. C An emotional attitude toward associations.
+
+#### Biological Correspondence
+
+The lymphatic glands, the spleen, the tonsils. The system of self-defense against infection in the human body.
+
+#### Sociological Correspondence
+
+Associations or alliances between women, blood union, any community or association of people in small or large groups.
+
+#### Probable Manifestations
+
++ Associations and contacts with the female sex. - Estrangements, separations. Moon/Dragon's Head D/Q
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Moon/Node midpoint`
+- Source page: `37`
+
+#### Principle
+
+Nurturing one’s connections with others. Feeling vulnerable when meeting with others. The need to share feelings with others and to give and receive nurturing. Letting go of old feelings and sources of security which no longer serve one’s evolution and hence are holding one back, and being open to the new experiences which life is offering you.
+
+#### Process
+
+The clearing of old habit patterns and ways of feeling that are no longer serv ing one, and the development of new one’s which will support one’s personal growth.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Moon/Nodes`
+- Source page: `204`
+
+#### Pair Delineation
+
+Connections with people from the past, connections based primarily on emotion, connections with women. Family groups, contacts with relations, domestic encounters, meetings with people with whom one has a strong affinity.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -120,26 +172,27 @@ The lymphatic system, in general; any passages, tubes, or channels associated wi
 
 ## Related Activations
 
-- [Moon/Node = Aries](../activations/moon-node-equals-aries.md)
-- [Moon/Node = MC](../activations/moon-node-equals-mc.md)
+- [Moon/Node = Admetos](../activations/moon-node-equals-admetos.md)
+- [Moon/Node = Apollon](../activations/moon-node-equals-apollon.md)
 - [Moon/Node = Asc](../activations/moon-node-equals-asc.md)
-- [Moon/Node = Sun](../activations/moon-node-equals-sun.md)
-- [Moon/Node = Mercury](../activations/moon-node-equals-mercury.md)
-- [Moon/Node = Venus](../activations/moon-node-equals-venus.md)
-- [Moon/Node = Mars](../activations/moon-node-equals-mars.md)
-- [Moon/Node = Jupiter](../activations/moon-node-equals-jupiter.md)
-- [Moon/Node = Saturn](../activations/moon-node-equals-saturn.md)
-- [Moon/Node = Uranus](../activations/moon-node-equals-uranus.md)
-- [Moon/Node = Neptune](../activations/moon-node-equals-neptune.md)
-- [Moon/Node = Pluto](../activations/moon-node-equals-pluto.md)
+- [Moon/Node = Chiron](../activations/moon-node-equals-chiron.md)
 - [Moon/Node = Cupido](../activations/moon-node-equals-cupido.md)
 - [Moon/Node = Hades](../activations/moon-node-equals-hades.md)
-- [Moon/Node = Zeus](../activations/moon-node-equals-zeus.md)
+- [Moon/Node = Jupiter](../activations/moon-node-equals-jupiter.md)
 - [Moon/Node = Kronos](../activations/moon-node-equals-kronos.md)
-- [Moon/Node = Apollon](../activations/moon-node-equals-apollon.md)
-- [Moon/Node = Admetos](../activations/moon-node-equals-admetos.md)
-- [Moon/Node = Vulcanus](../activations/moon-node-equals-vulcanus.md)
+- [Moon/Node = Mars](../activations/moon-node-equals-mars.md)
+- [Moon/Node = MC](../activations/moon-node-equals-mc.md)
+- [Moon/Node = Mercury](../activations/moon-node-equals-mercury.md)
+- [Moon/Node = Neptune](../activations/moon-node-equals-neptune.md)
+- [Moon/Node = Pluto](../activations/moon-node-equals-pluto.md)
 - [Moon/Node = Poseidon](../activations/moon-node-equals-poseidon.md)
+- [Moon/Node = Saturn](../activations/moon-node-equals-saturn.md)
+- [Moon/Node = Sun](../activations/moon-node-equals-sun.md)
+- [Moon/Node = Uranus](../activations/moon-node-equals-uranus.md)
+- [Moon/Node = Venus](../activations/moon-node-equals-venus.md)
+- [Moon/Node = Vernal Point](../activations/moon-node-equals-vernal-point.md)
+- [Moon/Node = Vulcanus](../activations/moon-node-equals-vulcanus.md)
+- [Moon/Node = Zeus](../activations/moon-node-equals-zeus.md)
 
 ## Contradictions
 
@@ -155,4 +208,7 @@ The lymphatic system, in general; any passages, tubes, or channels associated wi
 - [Moon](../factors/moon.md)
 - [Node](../factors/node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

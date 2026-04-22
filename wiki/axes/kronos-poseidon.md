@@ -11,7 +11,7 @@ normalized_axis: Kronos/Poseidon
 factor_a: Kronos
 factor_b: Poseidon
 related_activations:
-  - Kronos/Poseidon = Aries
+  - Kronos/Poseidon = Vernal Point
   - Kronos/Poseidon = MC
   - Kronos/Poseidon = Asc
   - Kronos/Poseidon = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Kronos/Poseidon = Admetos
   - Kronos/Poseidon = Vulcanus
 related_triad_hubs:
-  - Aries Kronos Poseidon
   - Asc Kronos Poseidon
   - Cupido Kronos Poseidon
   - Hades Kronos Poseidon
@@ -51,6 +50,7 @@ related_triad_hubs:
   - Sun Kronos Poseidon
   - Uranus Kronos Poseidon
   - Venus Kronos Poseidon
+  - Vernal Point Kronos Poseidon
   - Zeus Kronos Poseidon
 aliases:
   - Poseidon/Kronos
@@ -85,7 +85,7 @@ The one who is near God. The great revelation. The sage. High-minded and intelle
 
 ## Related Activations
 
-- [Kronos/Poseidon = Aries](../activations/kronos-poseidon-equals-aries.md)
+- [Kronos/Poseidon = Vernal Point](../activations/kronos-poseidon-equals-vernal-point.md)
 - [Kronos/Poseidon = MC](../activations/kronos-poseidon-equals-mc.md)
 - [Kronos/Poseidon = Asc](../activations/kronos-poseidon-equals-asc.md)
 - [Kronos/Poseidon = Sun](../activations/kronos-poseidon-equals-sun.md)

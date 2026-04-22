@@ -11,28 +11,28 @@ normalized_axis: Moon/Asc
 factor_a: Moon
 factor_b: Asc
 related_activations:
-  - Moon/Asc = Aries
-  - Moon/Asc = MC
-  - Moon/Asc = Sun
-  - Moon/Asc = Node
-  - Moon/Asc = Mercury
-  - Moon/Asc = Venus
-  - Moon/Asc = Mars
-  - Moon/Asc = Jupiter
-  - Moon/Asc = Saturn
-  - Moon/Asc = Uranus
-  - Moon/Asc = Neptune
-  - Moon/Asc = Pluto
+  - Moon/Asc = Admetos
+  - Moon/Asc = Apollon
+  - Moon/Asc = Chiron
   - Moon/Asc = Cupido
   - Moon/Asc = Hades
-  - Moon/Asc = Zeus
+  - Moon/Asc = Jupiter
   - Moon/Asc = Kronos
-  - Moon/Asc = Apollon
-  - Moon/Asc = Admetos
-  - Moon/Asc = Vulcanus
+  - Moon/Asc = Mars
+  - Moon/Asc = MC
+  - Moon/Asc = Mercury
+  - Moon/Asc = Neptune
+  - Moon/Asc = Node
+  - Moon/Asc = Pluto
   - Moon/Asc = Poseidon
+  - Moon/Asc = Saturn
+  - Moon/Asc = Sun
+  - Moon/Asc = Uranus
+  - Moon/Asc = Venus
+  - Moon/Asc = Vernal Point
+  - Moon/Asc = Vulcanus
+  - Moon/Asc = Zeus
 related_triad_hubs:
-  - Aries Moon Asc
   - Moon Asc Admetos
   - Moon Asc Apollon
   - Moon Asc Cupido
@@ -42,6 +42,7 @@ related_triad_hubs:
   - Moon Asc Poseidon
   - Moon Asc Vulcanus
   - Moon Asc Zeus
+  - Moon Chiron Asc
   - Moon Jupiter Asc
   - Moon Mars Asc
   - Moon Mercury Asc
@@ -52,10 +53,13 @@ related_triad_hubs:
   - Moon Uranus Asc
   - Moon Venus Asc
   - Sun Moon Asc
+  - Vernal Point Moon Asc
 aliases:
   - Asc/Moon
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -70,12 +74,34 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Moon`
-- Source page: `81`
+- Source heading: `Planets activating the Moon/Ascendant midpoint`
+- Source page: `39`
 
 #### Pair Summary
 
 Acquaintances with female persons. The people of the closer surroundings. To be brought into public by others. Female acquaintances. Women in the environment. Quality of the hour at this place.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Moon/Ascendant midpoint`
+- Source page: `39`
+
+#### Principle
+
+Being impressionable to the energies of other people. Difficulty in being ob jective about oneself. One’s moods strongly affect one’s identity. The need for intimate relationships and for a sense of security when one relates. Often, though, a feeling of insecurity when one interacts with others. The need to stay in the moment when relating.
+
+#### Process
+
+The ability to become more and more aware of all one’s emotions until one no longer has any repressed feelings, and then eventually to become free of identifying with any of one’s emotions so that one may experience the eternal nature of the self.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Moon/Ascendant`
+- Source page: `204`
+
+#### Pair Delineation
+
+Close relationships with women, close emotional relationships, close relationships with people whom one has known for a long time. Habits in relationships. Domestic relationships. Expression of emotions to or from others in the immediate environment.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -120,26 +146,27 @@ Sinus sensitivities or infections; emotions held in check due to social or envir
 
 ## Related Activations
 
-- [Moon/Asc = Aries](../activations/moon-asc-equals-aries.md)
-- [Moon/Asc = MC](../activations/moon-asc-equals-mc.md)
-- [Moon/Asc = Sun](../activations/moon-asc-equals-sun.md)
-- [Moon/Asc = Node](../activations/moon-asc-equals-node.md)
-- [Moon/Asc = Mercury](../activations/moon-asc-equals-mercury.md)
-- [Moon/Asc = Venus](../activations/moon-asc-equals-venus.md)
-- [Moon/Asc = Mars](../activations/moon-asc-equals-mars.md)
-- [Moon/Asc = Jupiter](../activations/moon-asc-equals-jupiter.md)
-- [Moon/Asc = Saturn](../activations/moon-asc-equals-saturn.md)
-- [Moon/Asc = Uranus](../activations/moon-asc-equals-uranus.md)
-- [Moon/Asc = Neptune](../activations/moon-asc-equals-neptune.md)
-- [Moon/Asc = Pluto](../activations/moon-asc-equals-pluto.md)
+- [Moon/Asc = Admetos](../activations/moon-asc-equals-admetos.md)
+- [Moon/Asc = Apollon](../activations/moon-asc-equals-apollon.md)
+- [Moon/Asc = Chiron](../activations/moon-asc-equals-chiron.md)
 - [Moon/Asc = Cupido](../activations/moon-asc-equals-cupido.md)
 - [Moon/Asc = Hades](../activations/moon-asc-equals-hades.md)
-- [Moon/Asc = Zeus](../activations/moon-asc-equals-zeus.md)
+- [Moon/Asc = Jupiter](../activations/moon-asc-equals-jupiter.md)
 - [Moon/Asc = Kronos](../activations/moon-asc-equals-kronos.md)
-- [Moon/Asc = Apollon](../activations/moon-asc-equals-apollon.md)
-- [Moon/Asc = Admetos](../activations/moon-asc-equals-admetos.md)
-- [Moon/Asc = Vulcanus](../activations/moon-asc-equals-vulcanus.md)
+- [Moon/Asc = Mars](../activations/moon-asc-equals-mars.md)
+- [Moon/Asc = MC](../activations/moon-asc-equals-mc.md)
+- [Moon/Asc = Mercury](../activations/moon-asc-equals-mercury.md)
+- [Moon/Asc = Neptune](../activations/moon-asc-equals-neptune.md)
+- [Moon/Asc = Node](../activations/moon-asc-equals-node.md)
+- [Moon/Asc = Pluto](../activations/moon-asc-equals-pluto.md)
 - [Moon/Asc = Poseidon](../activations/moon-asc-equals-poseidon.md)
+- [Moon/Asc = Saturn](../activations/moon-asc-equals-saturn.md)
+- [Moon/Asc = Sun](../activations/moon-asc-equals-sun.md)
+- [Moon/Asc = Uranus](../activations/moon-asc-equals-uranus.md)
+- [Moon/Asc = Venus](../activations/moon-asc-equals-venus.md)
+- [Moon/Asc = Vernal Point](../activations/moon-asc-equals-vernal-point.md)
+- [Moon/Asc = Vulcanus](../activations/moon-asc-equals-vulcanus.md)
+- [Moon/Asc = Zeus](../activations/moon-asc-equals-zeus.md)
 
 ## Contradictions
 
@@ -155,4 +182,6 @@ Sinus sensitivities or infections; emotions held in check due to social or envir
 - [Moon](../factors/moon.md)
 - [Asc](../factors/asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

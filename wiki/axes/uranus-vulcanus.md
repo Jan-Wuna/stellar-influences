@@ -11,7 +11,7 @@ normalized_axis: Uranus/Vulcanus
 factor_a: Uranus
 factor_b: Vulcanus
 related_activations:
-  - Uranus/Vulcanus = Aries
+  - Uranus/Vulcanus = Vernal Point
   - Uranus/Vulcanus = MC
   - Uranus/Vulcanus = Asc
   - Uranus/Vulcanus = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Uranus/Vulcanus = Admetos
   - Uranus/Vulcanus = Poseidon
 related_triad_hubs:
-  - Aries Uranus Vulcanus
   - Jupiter Uranus Vulcanus
   - Mars Uranus Vulcanus
   - Mercury Uranus Vulcanus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Uranus Vulcanus Poseidon
   - Uranus Zeus Vulcanus
   - Venus Uranus Vulcanus
+  - Vernal Point Uranus Vulcanus
 aliases:
   - Vulcanus/Uranus
 source_pages:
@@ -85,7 +85,7 @@ Sudden appearance of forces. Thunderbolt. Explosion. Mighty tension. Great displ
 
 ## Related Activations
 
-- [Uranus/Vulcanus = Aries](../activations/uranus-vulcanus-equals-aries.md)
+- [Uranus/Vulcanus = Vernal Point](../activations/uranus-vulcanus-equals-vernal-point.md)
 - [Uranus/Vulcanus = MC](../activations/uranus-vulcanus-equals-mc.md)
 - [Uranus/Vulcanus = Asc](../activations/uranus-vulcanus-equals-asc.md)
 - [Uranus/Vulcanus = Sun](../activations/uranus-vulcanus-equals-sun.md)

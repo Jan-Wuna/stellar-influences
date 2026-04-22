@@ -11,7 +11,7 @@ normalized_axis: Venus/Vulcanus
 factor_a: Venus
 factor_b: Vulcanus
 related_activations:
-  - Venus/Vulcanus = Aries
+  - Venus/Vulcanus = Vernal Point
   - Venus/Vulcanus = MC
   - Venus/Vulcanus = Asc
   - Venus/Vulcanus = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Venus/Vulcanus = Admetos
   - Venus/Vulcanus = Poseidon
 related_triad_hubs:
-  - Aries Venus Vulcanus
   - Mercury Venus Vulcanus
   - Moon Venus Vulcanus
   - Sun Venus Vulcanus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Venus Uranus Vulcanus
   - Venus Vulcanus Poseidon
   - Venus Zeus Vulcanus
+  - Vernal Point Venus Vulcanus
 aliases:
   - Vulcanus/Venus
 source_pages:
@@ -85,7 +85,7 @@ The biological urge of man. Great power of attraction. Passion. Mighty love. Ard
 
 ## Related Activations
 
-- [Venus/Vulcanus = Aries](../activations/venus-vulcanus-equals-aries.md)
+- [Venus/Vulcanus = Vernal Point](../activations/venus-vulcanus-equals-vernal-point.md)
 - [Venus/Vulcanus = MC](../activations/venus-vulcanus-equals-mc.md)
 - [Venus/Vulcanus = Asc](../activations/venus-vulcanus-equals-asc.md)
 - [Venus/Vulcanus = Sun](../activations/venus-vulcanus-equals-sun.md)

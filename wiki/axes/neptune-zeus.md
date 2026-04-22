@@ -11,7 +11,7 @@ normalized_axis: Neptune/Zeus
 factor_a: Neptune
 factor_b: Zeus
 related_activations:
-  - Neptune/Zeus = Aries
+  - Neptune/Zeus = Vernal Point
   - Neptune/Zeus = MC
   - Neptune/Zeus = Asc
   - Neptune/Zeus = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Neptune/Zeus = Vulcanus
   - Neptune/Zeus = Poseidon
 related_triad_hubs:
-  - Aries Neptune Zeus
   - Jupiter Neptune Zeus
   - Mars Neptune Zeus
   - Mercury Neptune Zeus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Neptune Zeus
   - Uranus Neptune Zeus
   - Venus Neptune Zeus
+  - Vernal Point Neptune Zeus
 aliases:
   - Zeus/Neptune
 source_pages:
@@ -85,7 +85,7 @@ Creative imagination. Wasted energies. Sterility. Without direction. Inflammable
 
 ## Related Activations
 
-- [Neptune/Zeus = Aries](../activations/neptune-zeus-equals-aries.md)
+- [Neptune/Zeus = Vernal Point](../activations/neptune-zeus-equals-vernal-point.md)
 - [Neptune/Zeus = MC](../activations/neptune-zeus-equals-mc.md)
 - [Neptune/Zeus = Asc](../activations/neptune-zeus-equals-asc.md)
 - [Neptune/Zeus = Sun](../activations/neptune-zeus-equals-sun.md)

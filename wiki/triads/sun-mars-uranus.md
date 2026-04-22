@@ -3,7 +3,7 @@ title: Sun Mars Uranus
 page_type: triad_hub
 slug: sun-mars-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Mars
@@ -19,7 +19,9 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -31,18 +33,20 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Uranus = Sun](../activations/mars-uranus-equals-sun.md)
-  Source page `194`
 - [Sun/Mars = Uranus](../activations/sun-mars-equals-uranus.md)
-  Source page `105`
 - [Sun/Uranus = Mars](../activations/sun-uranus-equals-mars.md)
-  Source page `108`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Uranus = Sun`: page `194`
-- `Sun/Mars = Uranus`: page `105`
-- `Sun/Uranus = Mars`: page `108`
+- `Mars/Uranus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `194`
+- `Mars/Uranus = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `208`
+- `Mars/Uranus = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `71`
+- `Sun/Mars = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `105`
+- `Sun/Mars = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `87`
+- `Sun/Mars = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `11`
+- `Sun/Uranus = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `108`
+- `Sun/Uranus = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `96`
+- `Sun/Uranus = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `17`
 
 ## Contradictions Across Orientations
 
@@ -54,3 +58,6 @@ updated_at: 2026-04-21
 - [Sun](../factors/sun.md)
 - [Mars](../factors/mars.md)
 - [Uranus](../factors/uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

@@ -3,7 +3,7 @@ title: Sun Saturn Asc
 page_type: triad_hub
 slug: sun-saturn-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Saturn
@@ -19,7 +19,9 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -31,18 +33,20 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Saturn/Asc = Sun](../activations/saturn-asc-equals-sun.md)
-  Source page `87`
 - [Sun/Asc = Saturn](../activations/sun-asc-equals-saturn.md)
-  Source page `80`
 - [Sun/Saturn = Asc](../activations/sun-saturn-equals-asc.md)
-  Source page `107`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Saturn/Asc = Sun`: page `87`
-- `Sun/Asc = Saturn`: page `80`
-- `Sun/Saturn = Asc`: page `107`
+- `Saturn/Asc = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `87`
+- `Saturn/Asc = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `260`
+- `Saturn/Asc = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `94`
+- `Sun/Asc = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `80`
+- `Sun/Asc = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `108`
+- `Sun/Asc = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `23`
+- `Sun/Saturn = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `107`
+- `Sun/Saturn = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `94`
+- `Sun/Saturn = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `14`
 
 ## Contradictions Across Orientations
 
@@ -54,3 +58,6 @@ updated_at: 2026-04-21
 - [Sun](../factors/sun.md)
 - [Saturn](../factors/saturn.md)
 - [Asc](../factors/asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

@@ -3,7 +3,7 @@ title: Neptune Asc MC
 page_type: triad_hub
 slug: neptune-asc-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Asc
@@ -19,7 +19,9 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -31,18 +33,20 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Asc/MC = Neptune](../activations/asc-mc-equals-neptune.md)
-  Source page `58`
 - [Neptune/Asc = MC](../activations/neptune-asc-equals-mc.md)
-  Source page `89`
 - [Neptune/MC = Asc](../activations/neptune-mc-equals-asc.md)
-  Source page `68`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/MC = Neptune`: page `58`
-- `Neptune/Asc = MC`: page `89`
-- `Neptune/MC = Asc`: page `68`
+- `Asc/MC = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `58`
+- `Asc/MC = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `307`
+- `Asc/MC = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `121`
+- `Neptune/Asc = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `89`
+- `Neptune/Asc = MC`: Reinhold Ebertin - The Combination of Stellar Influences, page `288`
+- `Neptune/Asc = MC`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `112`
+- `Neptune/MC = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `68`
+- `Neptune/MC = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `291`
+- `Neptune/MC = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `113`
 
 ## Contradictions Across Orientations
 
@@ -54,3 +58,6 @@ updated_at: 2026-04-21
 - [Neptune](../factors/neptune.md)
 - [Asc](../factors/asc.md)
 - [MC](../factors/mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

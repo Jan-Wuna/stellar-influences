@@ -11,7 +11,7 @@ normalized_axis: Sun/Kronos
 factor_a: Sun
 factor_b: Kronos
 related_activations:
-  - Sun/Kronos = Aries
+  - Sun/Kronos = Vernal Point
   - Sun/Kronos = MC
   - Sun/Kronos = Asc
   - Sun/Kronos = Moon
@@ -32,7 +32,6 @@ related_activations:
   - Sun/Kronos = Vulcanus
   - Sun/Kronos = Poseidon
 related_triad_hubs:
-  - Aries Sun Kronos
   - Sun Asc Kronos
   - Sun Cupido Kronos
   - Sun Hades Kronos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Uranus Kronos
   - Sun Venus Kronos
   - Sun Zeus Kronos
+  - Vernal Point Sun Kronos
 aliases:
   - Kronos/Sun
 source_pages:
@@ -85,7 +85,7 @@ The father. The master. The boss (male or female). To be superior. Capabilities 
 
 ## Related Activations
 
-- [Sun/Kronos = Aries](../activations/sun-kronos-equals-aries.md)
+- [Sun/Kronos = Vernal Point](../activations/sun-kronos-equals-vernal-point.md)
 - [Sun/Kronos = MC](../activations/sun-kronos-equals-mc.md)
 - [Sun/Kronos = Asc](../activations/sun-kronos-equals-asc.md)
 - [Sun/Kronos = Moon](../activations/sun-kronos-equals-moon.md)

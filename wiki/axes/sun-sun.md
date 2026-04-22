@@ -11,7 +11,7 @@ normalized_axis: Sun/Sun
 factor_a: Sun
 factor_b: Sun
 related_activations:
-  - Sun/Sun = Aries
+  - Sun/Sun = Vernal Point
   - Sun/Sun = MC
   - Sun/Sun = Asc
   - Sun/Sun = Moon
@@ -67,7 +67,7 @@ The body. The living body. A physical object. The day. The daily life, the life 
 
 ## Related Activations
 
-- [Sun/Sun = Aries](../activations/sun-sun-equals-aries.md)
+- [Sun/Sun = Vernal Point](../activations/sun-sun-equals-vernal-point.md)
 - [Sun/Sun = MC](../activations/sun-sun-equals-mc.md)
 - [Sun/Sun = Asc](../activations/sun-sun-equals-asc.md)
 - [Sun/Sun = Moon](../activations/sun-sun-equals-moon.md)

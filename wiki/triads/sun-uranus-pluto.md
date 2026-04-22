@@ -3,7 +3,7 @@ title: Sun Uranus Pluto
 page_type: triad_hub
 slug: sun-uranus-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Uranus
@@ -19,7 +19,9 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -31,18 +33,20 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Sun/Pluto = Uranus](../activations/sun-pluto-equals-uranus.md)
-  Source page `110`
 - [Sun/Uranus = Pluto](../activations/sun-uranus-equals-pluto.md)
-  Source page `108`
 - [Uranus/Pluto = Sun](../activations/uranus-pluto-equals-sun.md)
-  Source page `235`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Sun/Pluto = Uranus`: page `110`
-- `Sun/Uranus = Pluto`: page `108`
-- `Uranus/Pluto = Sun`: page `235`
+- `Sun/Pluto = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `110`
+- `Sun/Pluto = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `102`
+- `Sun/Pluto = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `20`
+- `Sun/Uranus = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `108`
+- `Sun/Uranus = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `96`
+- `Sun/Uranus = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `17`
+- `Uranus/Pluto = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `235`
+- `Uranus/Pluto = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `269`
+- `Uranus/Pluto = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `105`
 
 ## Contradictions Across Orientations
 
@@ -54,3 +58,6 @@ updated_at: 2026-04-21
 - [Sun](../factors/sun.md)
 - [Uranus](../factors/uranus.md)
 - [Pluto](../factors/pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

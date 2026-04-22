@@ -3,7 +3,7 @@ title: Venus Mars Jupiter
 page_type: triad_hub
 slug: venus-mars-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Mars
@@ -19,7 +19,9 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -31,18 +33,20 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Jupiter = Venus](../activations/mars-jupiter-equals-venus.md)
-  Source page `192`
 - [Venus/Jupiter = Mars](../activations/venus-jupiter-equals-mars.md)
-  Source page `177`
 - [Venus/Mars = Jupiter](../activations/venus-mars-equals-jupiter.md)
-  Source page `176`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Jupiter = Venus`: page `192`
-- `Venus/Jupiter = Mars`: page `177`
-- `Venus/Mars = Jupiter`: page `176`
+- `Mars/Jupiter = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `192`
+- `Mars/Jupiter = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `202`
+- `Mars/Jupiter = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `67`
+- `Venus/Jupiter = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `177`
+- `Venus/Jupiter = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `179`
+- `Venus/Jupiter = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `56`
+- `Venus/Mars = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `176`
+- `Venus/Mars = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `176`
+- `Venus/Mars = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `55`
 
 ## Contradictions Across Orientations
 
@@ -54,3 +58,6 @@ updated_at: 2026-04-21
 - [Venus](../factors/venus.md)
 - [Mars](../factors/mars.md)
 - [Jupiter](../factors/jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

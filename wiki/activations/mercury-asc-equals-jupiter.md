@@ -3,10 +3,10 @@ title: Mercury/Asc = Jupiter
 page_type: activation
 slug: mercury-asc-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Mercury
+  - Asc
   - Jupiter
 normalized_formula: Mercury/Asc = Jupiter
 axis: Mercury/Asc
@@ -15,10 +15,13 @@ triad_set:
   - Mercury
   - Jupiter
   - Asc
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 To enjoy a good reputation. To be well thought of by others. To be hilarious with others.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mercury/Ascendant`
+- Source page: `170`
+- Entry: `0559`
+
+#### Ebertin Entry
+
+Sociable, lively exchange of ideas and trends of thoughts, cheerful, desire to participate in pleasurable entertainments. Successful conferences or discussion, negotiations, transactions.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mercury/Ascendant midpoint`
+- Source page: `52`
+- Activator: `Jupiter`
+
+#### Sandbach Entry
+
+Sharing ideas with others leads to success, in that one gives and gets lots of good support. Too much sharing of ideas with other people, possibly because one does it instead of taking action. Also, the tendency to share lots of random ideas with others that may lead nowhere, and so a need to select out valuable ideas that are ex changed with others rather than allowing them to get lost in a sea of information.
+
 ## Comparative Schema
 
-- core meaning: To enjoy a good reputation. To be well thought of by others. To be hilarious with others.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ To enjoy a good reputation. To be well thought of by others. To be hilarious wit
 - [Asc](../factors/asc.md)
 - [Jupiter](../factors/jupiter.md)
 - [Mercury/Asc](../axes/mercury-asc.md)
+- [Mercury Jupiter Asc](../triads/mercury-jupiter-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

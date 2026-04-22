@@ -3,7 +3,7 @@ title: Moon Jupiter Asc
 page_type: triad_hub
 slug: moon-jupiter-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Jupiter
@@ -19,7 +19,9 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -31,18 +33,19 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Asc = Moon](../activations/jupiter-asc-equals-moon.md)
-  Source page `86`
 - [Moon/Asc = Jupiter](../activations/moon-asc-equals-jupiter.md)
-  Source page `81`
 - [Moon/Jupiter = Asc](../activations/moon-jupiter-equals-asc.md)
-  Source page `125`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Asc = Moon`: page `86`
-- `Moon/Asc = Jupiter`: page `81`
-- `Moon/Jupiter = Asc`: page `125`
+- `Jupiter/Asc = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `86`
+- `Jupiter/Asc = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `241`
+- `Jupiter/Asc = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `85`
+- `Moon/Asc = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `81`
+- `Moon/Asc = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `39`
+- `Moon/Jupiter = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `125`
+- `Moon/Jupiter = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `124`
+- `Moon/Jupiter = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `29`
 
 ## Contradictions Across Orientations
 
@@ -54,3 +57,6 @@ updated_at: 2026-04-21
 - [Moon](../factors/moon.md)
 - [Jupiter](../factors/jupiter.md)
 - [Asc](../factors/asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

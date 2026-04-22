@@ -3,7 +3,7 @@ title: Mercury/Saturn = Jupiter
 page_type: activation
 slug: mercury-saturn-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Saturn
@@ -15,10 +15,13 @@ triad_set:
   - Mercury
   - Jupiter
   - Saturn
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Vacation trip. Pleasure trip. Fortunate and happy trip.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mercury/Saturn`
+- Source page: `155`
+- Entry: `0499`
+
+#### Ebertin Entry
+
+Good powers of concentration, philosophical thinking, the application of method, thoroughness, industriousness. Success with difficult or irksome work, fortunate separation, glad farewell, short journeys.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mercury/Saturn midpoint`
+- Source page: `45`
+- Activator: `Jupiter`
+
+#### Sandbach Entry
+
+An enthusiasm which takes into account the drawbacks of any situation and which tries to work around them. Success in organizing thoughts. Taking a good atti tude toward difficult work.
+
 ## Comparative Schema
 
-- core meaning: Vacation trip. Pleasure trip. Fortunate and happy trip.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Vacation trip. Pleasure trip. Fortunate and happy trip.
 - [Saturn](../factors/saturn.md)
 - [Jupiter](../factors/jupiter.md)
 - [Mercury/Saturn](../axes/mercury-saturn.md)
+- [Mercury Jupiter Saturn](../triads/mercury-jupiter-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

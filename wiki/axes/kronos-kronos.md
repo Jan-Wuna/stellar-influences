@@ -11,7 +11,7 @@ normalized_axis: Kronos/Kronos
 factor_a: Kronos
 factor_b: Kronos
 related_activations:
-  - Kronos/Kronos = Aries
+  - Kronos/Kronos = Vernal Point
   - Kronos/Kronos = MC
   - Kronos/Kronos = Asc
   - Kronos/Kronos = Sun
@@ -67,7 +67,7 @@ Above average. Independence. The executive power. Authority. State. Ruler. Chief
 
 ## Related Activations
 
-- [Kronos/Kronos = Aries](../activations/kronos-kronos-equals-aries.md)
+- [Kronos/Kronos = Vernal Point](../activations/kronos-kronos-equals-vernal-point.md)
 - [Kronos/Kronos = MC](../activations/kronos-kronos-equals-mc.md)
 - [Kronos/Kronos = Asc](../activations/kronos-kronos-equals-asc.md)
 - [Kronos/Kronos = Sun](../activations/kronos-kronos-equals-sun.md)

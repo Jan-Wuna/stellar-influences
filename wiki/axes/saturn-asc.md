@@ -11,28 +11,28 @@ normalized_axis: Saturn/Asc
 factor_a: Saturn
 factor_b: Asc
 related_activations:
-  - Saturn/Asc = Aries
-  - Saturn/Asc = MC
-  - Saturn/Asc = Sun
-  - Saturn/Asc = Moon
-  - Saturn/Asc = Node
-  - Saturn/Asc = Mercury
-  - Saturn/Asc = Venus
-  - Saturn/Asc = Mars
-  - Saturn/Asc = Jupiter
-  - Saturn/Asc = Uranus
-  - Saturn/Asc = Neptune
-  - Saturn/Asc = Pluto
+  - Saturn/Asc = Admetos
+  - Saturn/Asc = Apollon
+  - Saturn/Asc = Chiron
   - Saturn/Asc = Cupido
   - Saturn/Asc = Hades
-  - Saturn/Asc = Zeus
+  - Saturn/Asc = Jupiter
   - Saturn/Asc = Kronos
-  - Saturn/Asc = Apollon
-  - Saturn/Asc = Admetos
-  - Saturn/Asc = Vulcanus
+  - Saturn/Asc = Mars
+  - Saturn/Asc = MC
+  - Saturn/Asc = Mercury
+  - Saturn/Asc = Moon
+  - Saturn/Asc = Neptune
+  - Saturn/Asc = Node
+  - Saturn/Asc = Pluto
   - Saturn/Asc = Poseidon
+  - Saturn/Asc = Sun
+  - Saturn/Asc = Uranus
+  - Saturn/Asc = Venus
+  - Saturn/Asc = Vernal Point
+  - Saturn/Asc = Vulcanus
+  - Saturn/Asc = Zeus
 related_triad_hubs:
-  - Aries Saturn Asc
   - Jupiter Saturn Asc
   - Mars Saturn Asc
   - Mercury Saturn Asc
@@ -46,16 +46,21 @@ related_triad_hubs:
   - Saturn Asc Poseidon
   - Saturn Asc Vulcanus
   - Saturn Asc Zeus
+  - Saturn Chiron Asc
   - Saturn Neptune Asc
   - Saturn Node Asc
   - Saturn Pluto Asc
   - Saturn Uranus Asc
   - Sun Saturn Asc
   - Venus Saturn Asc
+  - Vernal Point Saturn Asc
 aliases:
   - Asc/Saturn
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -70,12 +75,59 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Saturn`
-- Source page: `87`
+- Source heading: `Saturn/Ascendant`
+- Source page: `259`
 
 #### Pair Summary
 
 Estrangement. To experience refusal. Given the cold shoulder. Separation from other persons. Other persons bidding farewell. To be alone. Serious acquaintance. Separations from the place or acquaintances.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Saturn/Ascendant`
+- Source page: `259`
+
+#### Principle
+
+An inhibited personality.
+
+#### Psychological Correspondence
+
++ Early maturity and gain of experience caused through events and occurrences within one's environment. - Tendency to feel hindered and depressed, suffering from limiting or poor conditions and circumstances, inability to develop in the right way, the wrong outlook on life. C Tendency to feel inhibited or frustrated.
+
+#### Biological Correspondence
+
+Seclusion from the external world around oneself through skin troubles and defective connective tissues or organs. (Amputation of the pectoral glands, chronic functional disturbances of the sense organs.) Hereditary myopia. An inflammation in the middle part of the ear.
+
+#### Sociological Correspondence
+
+Occupants and inmates of secluded establishments, lonely people.
+
+#### Probable Manifestations
+
++ A preference for the company of people considerably older than oneself, the process of gaining experience. - Inhibitions or suffering caused through the environment or through the family, disadvantages through others, tendency to segregate or to separate from others. Saturn/Ascendant VA
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Saturn/Ascendant midpoint`
+- Source page: `94`
+
+#### Principle
+
+To feel restricted or limited by the role one plays in life. To dislike one’s own appearance and/or outer characteristics. A fear of allowing one’s identity to change. The need to perceive the spiritual purpose of one’s role in life. A person who comes across as sincere, serious, and/or somber, and maybe laconic. One who is seen as limited or inadequate, or as a wise one or elder. Relationships that are difficult, pro found, and which test or try the people involved in them. The slow, gradual unfolding of relationships.
+
+#### Process
+
+Coming into an awareness of the restrictions imposed by one’s outer identity, and finding ways to work creatively with these. The realization of the limitations one im poses on oneself.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Saturn/Ascendant`
+- Source page: `210`
+
+#### Pair Delineation
+
+To separate from another in a close relationship. Difficulty in forming close relationships. Few but deep relationships. Preference for older people. Relationships that are disciplined or restrictive. Relationships formed for reasons of necessity.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -120,26 +172,27 @@ Hemorrhoids; arthritis; swollen or painful joints; cataracts; vision problems; t
 
 ## Related Activations
 
-- [Saturn/Asc = Aries](../activations/saturn-asc-equals-aries.md)
-- [Saturn/Asc = MC](../activations/saturn-asc-equals-mc.md)
-- [Saturn/Asc = Sun](../activations/saturn-asc-equals-sun.md)
-- [Saturn/Asc = Moon](../activations/saturn-asc-equals-moon.md)
-- [Saturn/Asc = Node](../activations/saturn-asc-equals-node.md)
-- [Saturn/Asc = Mercury](../activations/saturn-asc-equals-mercury.md)
-- [Saturn/Asc = Venus](../activations/saturn-asc-equals-venus.md)
-- [Saturn/Asc = Mars](../activations/saturn-asc-equals-mars.md)
-- [Saturn/Asc = Jupiter](../activations/saturn-asc-equals-jupiter.md)
-- [Saturn/Asc = Uranus](../activations/saturn-asc-equals-uranus.md)
-- [Saturn/Asc = Neptune](../activations/saturn-asc-equals-neptune.md)
-- [Saturn/Asc = Pluto](../activations/saturn-asc-equals-pluto.md)
+- [Saturn/Asc = Admetos](../activations/saturn-asc-equals-admetos.md)
+- [Saturn/Asc = Apollon](../activations/saturn-asc-equals-apollon.md)
+- [Saturn/Asc = Chiron](../activations/saturn-asc-equals-chiron.md)
 - [Saturn/Asc = Cupido](../activations/saturn-asc-equals-cupido.md)
 - [Saturn/Asc = Hades](../activations/saturn-asc-equals-hades.md)
-- [Saturn/Asc = Zeus](../activations/saturn-asc-equals-zeus.md)
+- [Saturn/Asc = Jupiter](../activations/saturn-asc-equals-jupiter.md)
 - [Saturn/Asc = Kronos](../activations/saturn-asc-equals-kronos.md)
-- [Saturn/Asc = Apollon](../activations/saturn-asc-equals-apollon.md)
-- [Saturn/Asc = Admetos](../activations/saturn-asc-equals-admetos.md)
-- [Saturn/Asc = Vulcanus](../activations/saturn-asc-equals-vulcanus.md)
+- [Saturn/Asc = Mars](../activations/saturn-asc-equals-mars.md)
+- [Saturn/Asc = MC](../activations/saturn-asc-equals-mc.md)
+- [Saturn/Asc = Mercury](../activations/saturn-asc-equals-mercury.md)
+- [Saturn/Asc = Moon](../activations/saturn-asc-equals-moon.md)
+- [Saturn/Asc = Neptune](../activations/saturn-asc-equals-neptune.md)
+- [Saturn/Asc = Node](../activations/saturn-asc-equals-node.md)
+- [Saturn/Asc = Pluto](../activations/saturn-asc-equals-pluto.md)
 - [Saturn/Asc = Poseidon](../activations/saturn-asc-equals-poseidon.md)
+- [Saturn/Asc = Sun](../activations/saturn-asc-equals-sun.md)
+- [Saturn/Asc = Uranus](../activations/saturn-asc-equals-uranus.md)
+- [Saturn/Asc = Venus](../activations/saturn-asc-equals-venus.md)
+- [Saturn/Asc = Vernal Point](../activations/saturn-asc-equals-vernal-point.md)
+- [Saturn/Asc = Vulcanus](../activations/saturn-asc-equals-vulcanus.md)
+- [Saturn/Asc = Zeus](../activations/saturn-asc-equals-zeus.md)
 
 ## Contradictions
 
@@ -155,4 +208,7 @@ Hemorrhoids; arthritis; swollen or painful joints; cataracts; vision problems; t
 - [Saturn](../factors/saturn.md)
 - [Asc](../factors/asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

@@ -11,28 +11,29 @@ normalized_axis: Uranus/MC
 factor_a: Uranus
 factor_b: MC
 related_activations:
-  - Uranus/MC = Aries
+  - Uranus/MC = Admetos
+  - Uranus/MC = Apollon
   - Uranus/MC = Asc
-  - Uranus/MC = Sun
-  - Uranus/MC = Moon
-  - Uranus/MC = Node
-  - Uranus/MC = Mercury
-  - Uranus/MC = Venus
-  - Uranus/MC = Mars
-  - Uranus/MC = Jupiter
-  - Uranus/MC = Saturn
-  - Uranus/MC = Neptune
-  - Uranus/MC = Pluto
+  - Uranus/MC = Chiron
   - Uranus/MC = Cupido
   - Uranus/MC = Hades
-  - Uranus/MC = Zeus
+  - Uranus/MC = Jupiter
   - Uranus/MC = Kronos
-  - Uranus/MC = Apollon
-  - Uranus/MC = Admetos
-  - Uranus/MC = Vulcanus
+  - Uranus/MC = Mars
+  - Uranus/MC = Mercury
+  - Uranus/MC = Moon
+  - Uranus/MC = Neptune
+  - Uranus/MC = Node
+  - Uranus/MC = Pluto
   - Uranus/MC = Poseidon
+  - Uranus/MC = Saturn
+  - Uranus/MC = Sun
+  - Uranus/MC = Venus
+  - Uranus/MC = Vernal Point
+  - Uranus/MC = Vulcanus
+  - Uranus/MC = Zeus
 related_triad_hubs:
-  - Aries Uranus MC
+  - Chiron Uranus MC
   - Jupiter Uranus MC
   - Mars Uranus MC
   - Mercury Uranus MC
@@ -52,10 +53,14 @@ related_triad_hubs:
   - Uranus Node MC
   - Uranus Pluto MC
   - Venus Uranus MC
+  - Vernal Point Uranus MC
 aliases:
   - MC/Uranus
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -70,12 +75,59 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Uranus`
-- Source page: `67`
+- Source heading: `Uranus/Medium Coeli`
+- Source page: `277`
 
 #### Pair Summary
 
 To have a mind to do something. Personal tension. To be excited. Vibrations. One inclined to sudden decisions. An explosive manner. To show ambitions. Impatient. The moment (minute) of tenseness.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Uranus/Medium Coeli`
+- Source page: `277`
+
+#### Principle
+
+Power of assertion.
+
+#### Psychological Correspondence
+
++ Pursuit of one's objectives with the greatest energy, emotional tension or stress, power to successfully make one's way in life, state of readiness for action, prudence and vision, originality, organizing ability. - Changing objectives or aims in life, emotional excitability, precipitate or premature action, unreliability, irate temper. C Tendency to go one's own way in life, extraordinary or unusual objectives or aims in life, ability to attain success through the display of unusual energy, emotional tension.
+
+#### Biological Correspondence
+
+Eurhythmies. Controlled breathing activity. (Yogi formula.)
+
+#### Sociological Correspondence
+
+Original personalities.
+
+#### Probable Manifestations
+
++ Ability to advance in one's career or occupation in life, the good fortune to bring about fortunate changes, change of occupation, sudden rearrangement of one's circumstances. - Disadvantage through hasty or premature action, sudden turn of destiny, big upsets. Uranus/Medium Coeli WM
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Uranus/Midheaven midpoint`
+- Source page: `108`
+
+#### Principle
+
+To find one’s own unique path in life, and/or to approach it experimentally and/or on one’s own. To have unique or unusual gifts to give to the world. Upsets or unexpected occurrences in one’s career. To rebel against authority figures and/or the status quo. One’s career work is carried out in an independent, unique and/or innova tive manner.
+
+#### Process
+
+Opening oneself up to messages and other impulses coming from the spir itual realms. The freeing oneself from social restrictions and negative dependence on authorities and authority figures.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Uranus/Midheaven`
+- Source page: `211`
+
+#### Pair Delineation
+
+One's ow ?n independence, one's sense of being unusual. To desire to go one's own way, to be free. The uniqueness of one's personal objectives or life path. Often connected with people who are in a career that is unusual or has to do with science or technology.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -120,26 +172,27 @@ You may find much stress in your work environment; a stubbornness or resistance 
 
 ## Related Activations
 
-- [Uranus/MC = Aries](../activations/uranus-mc-equals-aries.md)
+- [Uranus/MC = Admetos](../activations/uranus-mc-equals-admetos.md)
+- [Uranus/MC = Apollon](../activations/uranus-mc-equals-apollon.md)
 - [Uranus/MC = Asc](../activations/uranus-mc-equals-asc.md)
-- [Uranus/MC = Sun](../activations/uranus-mc-equals-sun.md)
-- [Uranus/MC = Moon](../activations/uranus-mc-equals-moon.md)
-- [Uranus/MC = Node](../activations/uranus-mc-equals-node.md)
-- [Uranus/MC = Mercury](../activations/uranus-mc-equals-mercury.md)
-- [Uranus/MC = Venus](../activations/uranus-mc-equals-venus.md)
-- [Uranus/MC = Mars](../activations/uranus-mc-equals-mars.md)
-- [Uranus/MC = Jupiter](../activations/uranus-mc-equals-jupiter.md)
-- [Uranus/MC = Saturn](../activations/uranus-mc-equals-saturn.md)
-- [Uranus/MC = Neptune](../activations/uranus-mc-equals-neptune.md)
-- [Uranus/MC = Pluto](../activations/uranus-mc-equals-pluto.md)
+- [Uranus/MC = Chiron](../activations/uranus-mc-equals-chiron.md)
 - [Uranus/MC = Cupido](../activations/uranus-mc-equals-cupido.md)
 - [Uranus/MC = Hades](../activations/uranus-mc-equals-hades.md)
-- [Uranus/MC = Zeus](../activations/uranus-mc-equals-zeus.md)
+- [Uranus/MC = Jupiter](../activations/uranus-mc-equals-jupiter.md)
 - [Uranus/MC = Kronos](../activations/uranus-mc-equals-kronos.md)
-- [Uranus/MC = Apollon](../activations/uranus-mc-equals-apollon.md)
-- [Uranus/MC = Admetos](../activations/uranus-mc-equals-admetos.md)
-- [Uranus/MC = Vulcanus](../activations/uranus-mc-equals-vulcanus.md)
+- [Uranus/MC = Mars](../activations/uranus-mc-equals-mars.md)
+- [Uranus/MC = Mercury](../activations/uranus-mc-equals-mercury.md)
+- [Uranus/MC = Moon](../activations/uranus-mc-equals-moon.md)
+- [Uranus/MC = Neptune](../activations/uranus-mc-equals-neptune.md)
+- [Uranus/MC = Node](../activations/uranus-mc-equals-node.md)
+- [Uranus/MC = Pluto](../activations/uranus-mc-equals-pluto.md)
 - [Uranus/MC = Poseidon](../activations/uranus-mc-equals-poseidon.md)
+- [Uranus/MC = Saturn](../activations/uranus-mc-equals-saturn.md)
+- [Uranus/MC = Sun](../activations/uranus-mc-equals-sun.md)
+- [Uranus/MC = Venus](../activations/uranus-mc-equals-venus.md)
+- [Uranus/MC = Vernal Point](../activations/uranus-mc-equals-vernal-point.md)
+- [Uranus/MC = Vulcanus](../activations/uranus-mc-equals-vulcanus.md)
+- [Uranus/MC = Zeus](../activations/uranus-mc-equals-zeus.md)
 
 ## Contradictions
 
@@ -155,4 +208,7 @@ You may find much stress in your work environment; a stubbornness or resistance 
 - [Uranus](../factors/uranus.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

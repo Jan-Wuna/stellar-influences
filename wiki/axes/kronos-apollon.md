@@ -11,7 +11,7 @@ normalized_axis: Kronos/Apollon
 factor_a: Kronos
 factor_b: Apollon
 related_activations:
-  - Kronos/Apollon = Aries
+  - Kronos/Apollon = Vernal Point
   - Kronos/Apollon = MC
   - Kronos/Apollon = Asc
   - Kronos/Apollon = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Kronos/Apollon = Vulcanus
   - Kronos/Apollon = Poseidon
 related_triad_hubs:
-  - Aries Kronos Apollon
   - Asc Kronos Apollon
   - Cupido Kronos Apollon
   - Hades Kronos Apollon
@@ -51,6 +50,7 @@ related_triad_hubs:
   - Sun Kronos Apollon
   - Uranus Kronos Apollon
   - Venus Kronos Apollon
+  - Vernal Point Kronos Apollon
   - Zeus Kronos Apollon
 aliases:
   - Apollon/Kronos
@@ -85,7 +85,7 @@ Main formula for the knowing one and the expert. Height and width. Scientific ce
 
 ## Related Activations
 
-- [Kronos/Apollon = Aries](../activations/kronos-apollon-equals-aries.md)
+- [Kronos/Apollon = Vernal Point](../activations/kronos-apollon-equals-vernal-point.md)
 - [Kronos/Apollon = MC](../activations/kronos-apollon-equals-mc.md)
 - [Kronos/Apollon = Asc](../activations/kronos-apollon-equals-asc.md)
 - [Kronos/Apollon = Sun](../activations/kronos-apollon-equals-sun.md)

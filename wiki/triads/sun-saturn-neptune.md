@@ -3,7 +3,7 @@ title: Sun Saturn Neptune
 page_type: triad_hub
 slug: sun-saturn-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Saturn
@@ -19,7 +19,9 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -31,18 +33,20 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Saturn/Neptune = Sun](../activations/saturn-neptune-equals-sun.md)
-  Source page `222`
 - [Sun/Neptune = Saturn](../activations/sun-neptune-equals-saturn.md)
-  Source page `109`
 - [Sun/Saturn = Neptune](../activations/sun-saturn-equals-neptune.md)
-  Source page `107`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Saturn/Neptune = Sun`: page `222`
-- `Sun/Neptune = Saturn`: page `109`
-- `Sun/Saturn = Neptune`: page `107`
+- `Saturn/Neptune = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `222`
+- `Saturn/Neptune = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `250`
+- `Saturn/Neptune = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `90`
+- `Sun/Neptune = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `109`
+- `Sun/Neptune = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `99`
+- `Sun/Neptune = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `18`
+- `Sun/Saturn = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `107`
+- `Sun/Saturn = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `93`
+- `Sun/Saturn = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `14`
 
 ## Contradictions Across Orientations
 
@@ -54,3 +58,6 @@ updated_at: 2026-04-21
 - [Sun](../factors/sun.md)
 - [Saturn](../factors/saturn.md)
 - [Neptune](../factors/neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

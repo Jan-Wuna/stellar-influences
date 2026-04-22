@@ -11,7 +11,7 @@ normalized_axis: Cupido/Vulcanus
 factor_a: Cupido
 factor_b: Vulcanus
 related_activations:
-  - Cupido/Vulcanus = Aries
+  - Cupido/Vulcanus = Vernal Point
   - Cupido/Vulcanus = MC
   - Cupido/Vulcanus = Asc
   - Cupido/Vulcanus = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Cupido/Vulcanus = Admetos
   - Cupido/Vulcanus = Poseidon
 related_triad_hubs:
-  - Aries Cupido Vulcanus
   - Asc Cupido Vulcanus
   - Cupido Admetos Vulcanus
   - Cupido Apollon Vulcanus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Cupido Vulcanus
   - Uranus Cupido Vulcanus
   - Venus Cupido Vulcanus
+  - Vernal Point Cupido Vulcanus
 aliases:
   - Vulcanus/Cupido
 source_pages:
@@ -85,7 +85,7 @@ Mighty artistic abilities and talent. Power and influence in or through a commun
 
 ## Related Activations
 
-- [Cupido/Vulcanus = Aries](../activations/cupido-vulcanus-equals-aries.md)
+- [Cupido/Vulcanus = Vernal Point](../activations/cupido-vulcanus-equals-vernal-point.md)
 - [Cupido/Vulcanus = MC](../activations/cupido-vulcanus-equals-mc.md)
 - [Cupido/Vulcanus = Asc](../activations/cupido-vulcanus-equals-asc.md)
 - [Cupido/Vulcanus = Sun](../activations/cupido-vulcanus-equals-sun.md)

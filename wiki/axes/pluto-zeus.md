@@ -11,7 +11,7 @@ normalized_axis: Pluto/Zeus
 factor_a: Pluto
 factor_b: Zeus
 related_activations:
-  - Pluto/Zeus = Aries
+  - Pluto/Zeus = Vernal Point
   - Pluto/Zeus = MC
   - Pluto/Zeus = Asc
   - Pluto/Zeus = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Pluto/Zeus = Vulcanus
   - Pluto/Zeus = Poseidon
 related_triad_hubs:
-  - Aries Pluto Zeus
   - Jupiter Pluto Zeus
   - Mars Pluto Zeus
   - Mercury Pluto Zeus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Pluto Zeus
   - Uranus Pluto Zeus
   - Venus Pluto Zeus
+  - Vernal Point Pluto Zeus
 aliases:
   - Zeus/Pluto
 source_pages:
@@ -85,7 +85,7 @@ To start something new. Attending to duty. Increase of duties. Increase of effor
 
 ## Related Activations
 
-- [Pluto/Zeus = Aries](../activations/pluto-zeus-equals-aries.md)
+- [Pluto/Zeus = Vernal Point](../activations/pluto-zeus-equals-vernal-point.md)
 - [Pluto/Zeus = MC](../activations/pluto-zeus-equals-mc.md)
 - [Pluto/Zeus = Asc](../activations/pluto-zeus-equals-asc.md)
 - [Pluto/Zeus = Sun](../activations/pluto-zeus-equals-sun.md)

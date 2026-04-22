@@ -11,28 +11,29 @@ normalized_axis: Sun/Node
 factor_a: Sun
 factor_b: Node
 related_activations:
-  - Sun/Node = Aries
-  - Sun/Node = MC
+  - Sun/Node = Admetos
+  - Sun/Node = Apollon
   - Sun/Node = Asc
-  - Sun/Node = Moon
-  - Sun/Node = Mercury
-  - Sun/Node = Venus
-  - Sun/Node = Mars
-  - Sun/Node = Jupiter
-  - Sun/Node = Saturn
-  - Sun/Node = Uranus
-  - Sun/Node = Neptune
-  - Sun/Node = Pluto
+  - Sun/Node = Chiron
   - Sun/Node = Cupido
   - Sun/Node = Hades
-  - Sun/Node = Zeus
+  - Sun/Node = Jupiter
   - Sun/Node = Kronos
-  - Sun/Node = Apollon
-  - Sun/Node = Admetos
-  - Sun/Node = Vulcanus
+  - Sun/Node = Mars
+  - Sun/Node = MC
+  - Sun/Node = Mercury
+  - Sun/Node = Moon
+  - Sun/Node = Neptune
+  - Sun/Node = Pluto
   - Sun/Node = Poseidon
+  - Sun/Node = Saturn
+  - Sun/Node = Uranus
+  - Sun/Node = Venus
+  - Sun/Node = Vernal Point
+  - Sun/Node = Vulcanus
+  - Sun/Node = Zeus
 related_triad_hubs:
-  - Aries Sun Node
+  - Sun Chiron Node
   - Sun Jupiter Node
   - Sun Mars Node
   - Sun Mercury Node
@@ -52,10 +53,14 @@ related_triad_hubs:
   - Sun Saturn Node
   - Sun Uranus Node
   - Sun Venus Node
+  - Vernal Point Sun Node
 aliases:
   - Node/Sun
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -70,12 +75,59 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Node`
-- Source page: `102`
+- Source heading: `Sun/Dragon's Head`
+- Source page: `104`
 
 #### Pair Summary
 
 A physical union. Connections with the public. To be a witness. A physical fusion. Day of establishment of contact.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Sun/Dragon's Head`
+- Source page: `104`
+
+#### Principle
+
+Intellectual or physical associations, the public. (Family ties.)
+
+#### Psychological Correspondence
+
++ Adaptation, preference for associations and teamwork, the search for intellectual contacts. - A disharmonious attitude toward living or working with others. C Seeking contact with others, the desire to associate.
+
+#### Biological Correspondence
+
+The function of the autonomic nervous system.
+
+#### Sociological Correspondence
+
+Associations between male persons, good fellowship, colleagues.
+
+#### Probable Manifestations
+
++ Physical associations, intellectual cooperation, union with the husband. Shared experiences. Relationship with the public. - The termination of associations. o/&
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Sun/Node midpoint`
+- Source page: `21`
+
+#### Principle
+
+Sharing a mutual purpose when one connects with other people. Awareness of the need for growth and progress. Awareness of attachment to the past, and the tendency to be attached to the past because it feeds one’s ego. Entering into new ex periences with a sense of self-confidence.
+
+#### Process
+
+The continuous breaking down and building up of the ego that leads eventually to total harmonization with the Spiritual Light. The building of real confidence.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Sun/Nodes`
+- Source page: `202`
+
+#### Pair Delineation
+
+The desire to reach out and make contact, to connect with others, or to meet someone (usually male). To form a group. The desire for group activity and teamwork. The experience of group desire and will.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -120,26 +172,27 @@ The blood channels or passages around the heart; clogging of these channels with
 
 ## Related Activations
 
-- [Sun/Node = Aries](../activations/sun-node-equals-aries.md)
-- [Sun/Node = MC](../activations/sun-node-equals-mc.md)
+- [Sun/Node = Admetos](../activations/sun-node-equals-admetos.md)
+- [Sun/Node = Apollon](../activations/sun-node-equals-apollon.md)
 - [Sun/Node = Asc](../activations/sun-node-equals-asc.md)
-- [Sun/Node = Moon](../activations/sun-node-equals-moon.md)
-- [Sun/Node = Mercury](../activations/sun-node-equals-mercury.md)
-- [Sun/Node = Venus](../activations/sun-node-equals-venus.md)
-- [Sun/Node = Mars](../activations/sun-node-equals-mars.md)
-- [Sun/Node = Jupiter](../activations/sun-node-equals-jupiter.md)
-- [Sun/Node = Saturn](../activations/sun-node-equals-saturn.md)
-- [Sun/Node = Uranus](../activations/sun-node-equals-uranus.md)
-- [Sun/Node = Neptune](../activations/sun-node-equals-neptune.md)
-- [Sun/Node = Pluto](../activations/sun-node-equals-pluto.md)
+- [Sun/Node = Chiron](../activations/sun-node-equals-chiron.md)
 - [Sun/Node = Cupido](../activations/sun-node-equals-cupido.md)
 - [Sun/Node = Hades](../activations/sun-node-equals-hades.md)
-- [Sun/Node = Zeus](../activations/sun-node-equals-zeus.md)
+- [Sun/Node = Jupiter](../activations/sun-node-equals-jupiter.md)
 - [Sun/Node = Kronos](../activations/sun-node-equals-kronos.md)
-- [Sun/Node = Apollon](../activations/sun-node-equals-apollon.md)
-- [Sun/Node = Admetos](../activations/sun-node-equals-admetos.md)
-- [Sun/Node = Vulcanus](../activations/sun-node-equals-vulcanus.md)
+- [Sun/Node = Mars](../activations/sun-node-equals-mars.md)
+- [Sun/Node = MC](../activations/sun-node-equals-mc.md)
+- [Sun/Node = Mercury](../activations/sun-node-equals-mercury.md)
+- [Sun/Node = Moon](../activations/sun-node-equals-moon.md)
+- [Sun/Node = Neptune](../activations/sun-node-equals-neptune.md)
+- [Sun/Node = Pluto](../activations/sun-node-equals-pluto.md)
 - [Sun/Node = Poseidon](../activations/sun-node-equals-poseidon.md)
+- [Sun/Node = Saturn](../activations/sun-node-equals-saturn.md)
+- [Sun/Node = Uranus](../activations/sun-node-equals-uranus.md)
+- [Sun/Node = Venus](../activations/sun-node-equals-venus.md)
+- [Sun/Node = Vernal Point](../activations/sun-node-equals-vernal-point.md)
+- [Sun/Node = Vulcanus](../activations/sun-node-equals-vulcanus.md)
+- [Sun/Node = Zeus](../activations/sun-node-equals-zeus.md)
 
 ## Contradictions
 
@@ -155,4 +208,7 @@ The blood channels or passages around the heart; clogging of these channels with
 - [Sun](../factors/sun.md)
 - [Node](../factors/node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

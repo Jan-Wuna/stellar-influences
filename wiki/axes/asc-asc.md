@@ -11,7 +11,7 @@ normalized_axis: Asc/Asc
 factor_a: Asc
 factor_b: Asc
 related_activations:
-  - Asc/Asc = Aries
+  - Asc/Asc = Vernal Point
   - Asc/Asc = MC
   - Asc/Asc = Sun
   - Asc/Asc = Moon
@@ -66,7 +66,7 @@ Acquaintances and connections. The near surroundings. The place. Relatives and c
 
 ## Related Activations
 
-- [Asc/Asc = Aries](../activations/asc-asc-equals-aries.md)
+- [Asc/Asc = Vernal Point](../activations/asc-asc-equals-vernal-point.md)
 - [Asc/Asc = MC](../activations/asc-asc-equals-mc.md)
 - [Asc/Asc = Sun](../activations/asc-asc-equals-sun.md)
 - [Asc/Asc = Moon](../activations/asc-asc-equals-moon.md)

@@ -11,7 +11,7 @@ normalized_axis: Hades/Zeus
 factor_a: Hades
 factor_b: Zeus
 related_activations:
-  - Hades/Zeus = Aries
+  - Hades/Zeus = Vernal Point
   - Hades/Zeus = MC
   - Hades/Zeus = Asc
   - Hades/Zeus = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Hades/Zeus = Vulcanus
   - Hades/Zeus = Poseidon
 related_triad_hubs:
-  - Aries Hades Zeus
   - Asc Hades Zeus
   - Cupido Hades Zeus
   - Hades Zeus Admetos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Hades Zeus
   - Uranus Hades Zeus
   - Venus Hades Zeus
+  - Vernal Point Hades Zeus
 aliases:
   - Zeus/Hades
 source_pages:
@@ -85,7 +85,7 @@ Relaxation. Recreation. Vacation. Idleness and vice. No pursuing of one’s aim,
 
 ## Related Activations
 
-- [Hades/Zeus = Aries](../activations/hades-zeus-equals-aries.md)
+- [Hades/Zeus = Vernal Point](../activations/hades-zeus-equals-vernal-point.md)
 - [Hades/Zeus = MC](../activations/hades-zeus-equals-mc.md)
 - [Hades/Zeus = Asc](../activations/hades-zeus-equals-asc.md)
 - [Hades/Zeus = Sun](../activations/hades-zeus-equals-sun.md)

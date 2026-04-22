@@ -11,33 +11,34 @@ normalized_axis: Mercury/Saturn
 factor_a: Mercury
 factor_b: Saturn
 related_activations:
-  - Mercury/Saturn = Aries
-  - Mercury/Saturn = MC
+  - Mercury/Saturn = Admetos
+  - Mercury/Saturn = Apollon
   - Mercury/Saturn = Asc
-  - Mercury/Saturn = Sun
-  - Mercury/Saturn = Moon
-  - Mercury/Saturn = Node
-  - Mercury/Saturn = Venus
-  - Mercury/Saturn = Mars
-  - Mercury/Saturn = Jupiter
-  - Mercury/Saturn = Uranus
-  - Mercury/Saturn = Neptune
-  - Mercury/Saturn = Pluto
+  - Mercury/Saturn = Chiron
   - Mercury/Saturn = Cupido
   - Mercury/Saturn = Hades
-  - Mercury/Saturn = Zeus
+  - Mercury/Saturn = Jupiter
   - Mercury/Saturn = Kronos
-  - Mercury/Saturn = Apollon
-  - Mercury/Saturn = Admetos
-  - Mercury/Saturn = Vulcanus
+  - Mercury/Saturn = Mars
+  - Mercury/Saturn = MC
+  - Mercury/Saturn = Moon
+  - Mercury/Saturn = Neptune
+  - Mercury/Saturn = Node
+  - Mercury/Saturn = Pluto
   - Mercury/Saturn = Poseidon
+  - Mercury/Saturn = Sun
+  - Mercury/Saturn = Uranus
+  - Mercury/Saturn = Venus
+  - Mercury/Saturn = Vernal Point
+  - Mercury/Saturn = Vulcanus
+  - Mercury/Saturn = Zeus
 related_triad_hubs:
-  - Aries Mercury Saturn
   - Mercury Jupiter Saturn
   - Mercury Mars Saturn
   - Mercury Saturn Admetos
   - Mercury Saturn Apollon
   - Mercury Saturn Asc
+  - Mercury Saturn Chiron
   - Mercury Saturn Cupido
   - Mercury Saturn Hades
   - Mercury Saturn Kronos
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Mercury Venus Saturn
   - Moon Mercury Saturn
   - Sun Mercury Saturn
+  - Vernal Point Mercury Saturn
 aliases:
   - Saturn/Mercury
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 Logic. Philosophical thinking. Competence to form an opinion, to pass judgement. Thoughts of separation. Parting to travel. To ponder. Deliberation. Impaired thinking. Serious conversations.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mercury/Saturn`
+- Source page: `154`
+
+#### Principle
+
+Depth of thought, mental work.
+
+#### Psychological Correspondence
+
++ Logical thinking, thoroughness, concentration, ability to come straight to the point, love of tidiness, ability to organize, industrious, the application of method, philosophical thinking. - An inhibited mental development (caused sometimes through defective speech), distrust. Shy, narrow-minded, conservative attitude, self-willed or obstinate, an uncommunicative and reserved disposition. C Obstinate, tenacity or endurance, clumsiness or heaviness, industrious, the state of enduring or suffering without yielding.
+
+#### Biological Correspondence
+
+Blocking of the nervous system, pain-conducting nerves. The functional relationship of the nervous system to the organs of speech and hearing.
+
+#### Sociological Correspondence
+
+Thinkers, philosophers. Slow, dull, distrustful and dishonest people.
+
+#### Probable Manifestations
+
++ A slow but sure advancement in life, opportunities to gain experience, ability to concentrate deeply on philosophical problems, opportunity to travel. - Hard times during infancy and adolescence, a difficult and laborious rise in life, estrangements, frequent separations. Mercury/Saturn 5/h
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -139,6 +169,28 @@ There is always limitation in the life, and often there is considerable depressi
 - The Conjunction: Florence Maybrick, Crown Prince of Germany, George III, Sir Rider Haggard, Lord Roberts, Rupert Brooke, Einstein.
 - Inharmonious: Czar Nicholas II, Wallenstein, Lord Beaconsfield, Henry VIII, Isaac Newton.
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mercury/Saturn midpoint`
+- Source page: `45`
+
+#### Principle
+
+The organization of ideas. Practical thinking. Difficulty communicating, which may be caused by one’s own inability to effectively form and/or define one’s ideas, or by the other person not wishing to hear what one has to say. Negative thinking. Saying little, and/or the ability to concentrate much meaning in few words. Being unable to hear what the other person has to say.
+
+#### Process
+
+The clearing of one’s mind of extraneous, unnecessary and/or overly limiting thoughts. The development of mental clarity and simplicity. The growth of one’s ability to focus one’s mind.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Mercury/Saturn`
+- Source page: `205`
+
+#### Pair Delineation
+
+Careful and considered thought. Caution and conservatism. One-track-mind. Depression, thoughts of sadness and separation. Preference for the concrete and practical rather than the abstract. Methodical approach to problem solving.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MERCURY/SATURN`
@@ -182,26 +234,27 @@ Cataracts or similar blockage of senses, nerves, or nerve endings; breaks in men
 
 ## Related Activations
 
-- [Mercury/Saturn = Aries](../activations/mercury-saturn-equals-aries.md)
-- [Mercury/Saturn = MC](../activations/mercury-saturn-equals-mc.md)
+- [Mercury/Saturn = Admetos](../activations/mercury-saturn-equals-admetos.md)
+- [Mercury/Saturn = Apollon](../activations/mercury-saturn-equals-apollon.md)
 - [Mercury/Saturn = Asc](../activations/mercury-saturn-equals-asc.md)
-- [Mercury/Saturn = Sun](../activations/mercury-saturn-equals-sun.md)
-- [Mercury/Saturn = Moon](../activations/mercury-saturn-equals-moon.md)
-- [Mercury/Saturn = Node](../activations/mercury-saturn-equals-node.md)
-- [Mercury/Saturn = Venus](../activations/mercury-saturn-equals-venus.md)
-- [Mercury/Saturn = Mars](../activations/mercury-saturn-equals-mars.md)
-- [Mercury/Saturn = Jupiter](../activations/mercury-saturn-equals-jupiter.md)
-- [Mercury/Saturn = Uranus](../activations/mercury-saturn-equals-uranus.md)
-- [Mercury/Saturn = Neptune](../activations/mercury-saturn-equals-neptune.md)
-- [Mercury/Saturn = Pluto](../activations/mercury-saturn-equals-pluto.md)
+- [Mercury/Saturn = Chiron](../activations/mercury-saturn-equals-chiron.md)
 - [Mercury/Saturn = Cupido](../activations/mercury-saturn-equals-cupido.md)
 - [Mercury/Saturn = Hades](../activations/mercury-saturn-equals-hades.md)
-- [Mercury/Saturn = Zeus](../activations/mercury-saturn-equals-zeus.md)
+- [Mercury/Saturn = Jupiter](../activations/mercury-saturn-equals-jupiter.md)
 - [Mercury/Saturn = Kronos](../activations/mercury-saturn-equals-kronos.md)
-- [Mercury/Saturn = Apollon](../activations/mercury-saturn-equals-apollon.md)
-- [Mercury/Saturn = Admetos](../activations/mercury-saturn-equals-admetos.md)
-- [Mercury/Saturn = Vulcanus](../activations/mercury-saturn-equals-vulcanus.md)
+- [Mercury/Saturn = Mars](../activations/mercury-saturn-equals-mars.md)
+- [Mercury/Saturn = MC](../activations/mercury-saturn-equals-mc.md)
+- [Mercury/Saturn = Moon](../activations/mercury-saturn-equals-moon.md)
+- [Mercury/Saturn = Neptune](../activations/mercury-saturn-equals-neptune.md)
+- [Mercury/Saturn = Node](../activations/mercury-saturn-equals-node.md)
+- [Mercury/Saturn = Pluto](../activations/mercury-saturn-equals-pluto.md)
 - [Mercury/Saturn = Poseidon](../activations/mercury-saturn-equals-poseidon.md)
+- [Mercury/Saturn = Sun](../activations/mercury-saturn-equals-sun.md)
+- [Mercury/Saturn = Uranus](../activations/mercury-saturn-equals-uranus.md)
+- [Mercury/Saturn = Venus](../activations/mercury-saturn-equals-venus.md)
+- [Mercury/Saturn = Vernal Point](../activations/mercury-saturn-equals-vernal-point.md)
+- [Mercury/Saturn = Vulcanus](../activations/mercury-saturn-equals-vulcanus.md)
+- [Mercury/Saturn = Zeus](../activations/mercury-saturn-equals-zeus.md)
 
 ## Contradictions
 
@@ -217,6 +270,9 @@ Cataracts or similar blockage of senses, nerves, or nerve endings; breaks in men
 - [Mercury](../factors/mercury.md)
 - [Saturn](../factors/saturn.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

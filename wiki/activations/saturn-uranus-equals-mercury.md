@@ -3,7 +3,7 @@ title: Saturn/Uranus = Mercury
 page_type: activation
 slug: saturn-uranus-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Uranus
@@ -15,10 +15,13 @@ triad_set:
   - Mercury
   - Saturn
   - Uranus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Irritable thinking. Suddenly saying goodbye. Obliged to travel.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Saturn/Uranus`
+- Source page: `247`
+- Entry: `0869`
+
+#### Ebertin Entry
+
+Making great demands upon one's nervous energy, ability to hit back hard under provocation and to organize resistance, separating oneself from others. Necessary changes.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Saturn/Uranus midpoint`
+- Source page: `88`
+- Activator: `Mercury`
+
+#### Sandbach Entry
+
+A highly unique way of structuring ideas. A need to speak freely about things, yet caution or fear about doing so. Cleverness in combining new ideas and methods with old, traditional ones.
+
 ## Comparative Schema
 
-- core meaning: Irritable thinking. Suddenly saying goodbye. Obliged to travel.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Irritable thinking. Suddenly saying goodbye. Obliged to travel.
 - [Uranus](../factors/uranus.md)
 - [Mercury](../factors/mercury.md)
 - [Saturn/Uranus](../axes/saturn-uranus.md)
+- [Mercury Saturn Uranus](../triads/mercury-saturn-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

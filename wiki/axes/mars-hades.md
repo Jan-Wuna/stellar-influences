@@ -11,7 +11,7 @@ normalized_axis: Mars/Hades
 factor_a: Mars
 factor_b: Hades
 related_activations:
-  - Mars/Hades = Aries
+  - Mars/Hades = Vernal Point
   - Mars/Hades = MC
   - Mars/Hades = Asc
   - Mars/Hades = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Mars/Hades = Vulcanus
   - Mars/Hades = Poseidon
 related_triad_hubs:
-  - Aries Mars Hades
   - Mars Asc Hades
   - Mars Cupido Hades
   - Mars Hades Admetos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Moon Mars Hades
   - Sun Mars Hades
   - Venus Mars Hades
+  - Vernal Point Mars Hades
 aliases:
   - Hades/Mars
 source_pages:
@@ -85,7 +85,7 @@ Fatigue. Weariness. Atrocity, vulgar acts. To cause damages. Base services. Male
 
 ## Related Activations
 
-- [Mars/Hades = Aries](../activations/mars-hades-equals-aries.md)
+- [Mars/Hades = Vernal Point](../activations/mars-hades-equals-vernal-point.md)
 - [Mars/Hades = MC](../activations/mars-hades-equals-mc.md)
 - [Mars/Hades = Asc](../activations/mars-hades-equals-asc.md)
 - [Mars/Hades = Sun](../activations/mars-hades-equals-sun.md)

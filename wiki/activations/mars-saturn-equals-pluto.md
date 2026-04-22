@@ -3,7 +3,7 @@ title: Mars/Saturn = Pluto
 page_type: activation
 slug: mars-saturn-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Saturn
@@ -15,10 +15,13 @@ triad_set:
   - Mars
   - Saturn
   - Pluto
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Interruption of a development. To quit one of several activities. Inception of a later separation or interruption of an activity. Cause for a later sickness.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mars/Saturn`
+- Source page: `205`
+- Entry: `0706`
+
+#### Ebertin Entry
+
+Brutality, the rage or fury of destruction. Intervening of a higher 38 These statements relate also to world events, natural catastrophes, road accidents, etc. In some charts it has been found that a combination such as Pluto = power, bodily injury or harm (murder, death of many people).
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mars/Saturn midpoint`
+- Source page: `68`
+- Activator: `Pluto`
+
+#### Sandbach Entry
+
+Pent up energy can create drastic pressure within oneself, with a consequent need for it to find release. To discipline one’s energy can create massive transformation.
+
 ## Comparative Schema
 
-- core meaning: Interruption of a development. To quit one of several activities. Inception of a later separation or interruption of an activity. Cause for a later sickness.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Interruption of a development. To quit one of several activities. Inception of a
 - [Saturn](../factors/saturn.md)
 - [Pluto](../factors/pluto.md)
 - [Mars/Saturn](../axes/mars-saturn.md)
+- [Mars Saturn Pluto](../triads/mars-saturn-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

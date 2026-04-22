@@ -11,7 +11,7 @@ normalized_axis: Node/Apollon
 factor_a: Node
 factor_b: Apollon
 related_activations:
-  - Node/Apollon = Aries
+  - Node/Apollon = Vernal Point
   - Node/Apollon = MC
   - Node/Apollon = Asc
   - Node/Apollon = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Node/Apollon = Vulcanus
   - Node/Apollon = Poseidon
 related_triad_hubs:
-  - Aries Node Apollon
   - Jupiter Node Apollon
   - Mars Node Apollon
   - Mercury Node Apollon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Node Apollon
   - Uranus Node Apollon
   - Venus Node Apollon
+  - Vernal Point Node Apollon
 aliases:
   - Apollon/Node
 source_pages:
@@ -85,7 +85,7 @@ Business, trade or scientific connections. Union (connection) with many. Common 
 
 ## Related Activations
 
-- [Node/Apollon = Aries](../activations/node-apollon-equals-aries.md)
+- [Node/Apollon = Vernal Point](../activations/node-apollon-equals-vernal-point.md)
 - [Node/Apollon = MC](../activations/node-apollon-equals-mc.md)
 - [Node/Apollon = Asc](../activations/node-apollon-equals-asc.md)
 - [Node/Apollon = Sun](../activations/node-apollon-equals-sun.md)

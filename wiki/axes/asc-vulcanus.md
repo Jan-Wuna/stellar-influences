@@ -11,7 +11,7 @@ normalized_axis: Asc/Vulcanus
 factor_a: Asc
 factor_b: Vulcanus
 related_activations:
-  - Asc/Vulcanus = Aries
+  - Asc/Vulcanus = Vernal Point
   - Asc/Vulcanus = MC
   - Asc/Vulcanus = Sun
   - Asc/Vulcanus = Moon
@@ -32,7 +32,6 @@ related_activations:
   - Asc/Vulcanus = Admetos
   - Asc/Vulcanus = Poseidon
 related_triad_hubs:
-  - Aries Asc Vulcanus
   - Asc Admetos Vulcanus
   - Asc Apollon Vulcanus
   - Asc Cupido Vulcanus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Asc Vulcanus
   - Uranus Asc Vulcanus
   - Venus Asc Vulcanus
+  - Vernal Point Asc Vulcanus
 aliases:
   - Vulcanus/Asc
 source_pages:
@@ -85,7 +85,7 @@ Others are superior. To experience force from others. Powerful, strong or forcef
 
 ## Related Activations
 
-- [Asc/Vulcanus = Aries](../activations/asc-vulcanus-equals-aries.md)
+- [Asc/Vulcanus = Vernal Point](../activations/asc-vulcanus-equals-vernal-point.md)
 - [Asc/Vulcanus = MC](../activations/asc-vulcanus-equals-mc.md)
 - [Asc/Vulcanus = Sun](../activations/asc-vulcanus-equals-sun.md)
 - [Asc/Vulcanus = Moon](../activations/asc-vulcanus-equals-moon.md)

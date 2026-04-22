@@ -3,7 +3,7 @@ title: Mercury Pluto MC
 page_type: triad_hub
 slug: mercury-pluto-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Pluto
@@ -19,7 +19,9 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -31,18 +33,20 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mercury/MC = Pluto](../activations/mercury-mc-equals-pluto.md)
-  Source page `62`
 - [Mercury/Pluto = MC](../activations/mercury-pluto-equals-mc.md)
-  Source page `165`
 - [Pluto/MC = Mercury](../activations/pluto-mc-equals-mercury.md)
-  Source page `69`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/MC = Pluto`: page `62`
-- `Mercury/Pluto = MC`: page `165`
-- `Pluto/MC = Mercury`: page `69`
+- `Mercury/MC = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `62`
+- `Mercury/MC = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `174`
+- `Mercury/MC = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `53`
+- `Mercury/Pluto = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `165`
+- `Mercury/Pluto = MC`: Reinhold Ebertin - The Combination of Stellar Influences, page `165`
+- `Mercury/Pluto = MC`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `50`
+- `Pluto/MC = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `69`
+- `Pluto/MC = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `298`
+- `Pluto/MC = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `117`
 
 ## Contradictions Across Orientations
 
@@ -54,3 +58,6 @@ updated_at: 2026-04-21
 - [Mercury](../factors/mercury.md)
 - [Pluto](../factors/pluto.md)
 - [MC](../factors/mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

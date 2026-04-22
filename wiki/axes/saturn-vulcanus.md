@@ -11,7 +11,7 @@ normalized_axis: Saturn/Vulcanus
 factor_a: Saturn
 factor_b: Vulcanus
 related_activations:
-  - Saturn/Vulcanus = Aries
+  - Saturn/Vulcanus = Vernal Point
   - Saturn/Vulcanus = MC
   - Saturn/Vulcanus = Asc
   - Saturn/Vulcanus = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Saturn/Vulcanus = Admetos
   - Saturn/Vulcanus = Poseidon
 related_triad_hubs:
-  - Aries Saturn Vulcanus
   - Jupiter Saturn Vulcanus
   - Mars Saturn Vulcanus
   - Mercury Saturn Vulcanus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Saturn Zeus Vulcanus
   - Sun Saturn Vulcanus
   - Venus Saturn Vulcanus
+  - Vernal Point Saturn Vulcanus
 aliases:
   - Vulcanus/Saturn
 source_pages:
@@ -85,7 +85,7 @@ Custody. To guard, to preserve, to banish, to fortify or to fix something. Might
 
 ## Related Activations
 
-- [Saturn/Vulcanus = Aries](../activations/saturn-vulcanus-equals-aries.md)
+- [Saturn/Vulcanus = Vernal Point](../activations/saturn-vulcanus-equals-vernal-point.md)
 - [Saturn/Vulcanus = MC](../activations/saturn-vulcanus-equals-mc.md)
 - [Saturn/Vulcanus = Asc](../activations/saturn-vulcanus-equals-asc.md)
 - [Saturn/Vulcanus = Sun](../activations/saturn-vulcanus-equals-sun.md)

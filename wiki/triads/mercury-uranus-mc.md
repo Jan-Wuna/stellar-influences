@@ -3,7 +3,7 @@ title: Mercury Uranus MC
 page_type: triad_hub
 slug: mercury-uranus-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Uranus
@@ -19,7 +19,9 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -31,18 +33,20 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mercury/MC = Uranus](../activations/mercury-mc-equals-uranus.md)
-  Source page `62`
 - [Mercury/Uranus = MC](../activations/mercury-uranus-equals-mc.md)
-  Source page `163`
 - [Uranus/MC = Mercury](../activations/uranus-mc-equals-mercury.md)
-  Source page `67`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/MC = Uranus`: page `62`
-- `Mercury/Uranus = MC`: page `163`
-- `Uranus/MC = Mercury`: page `67`
+- `Mercury/MC = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `62`
+- `Mercury/MC = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `173`
+- `Mercury/MC = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `53`
+- `Mercury/Uranus = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `163`
+- `Mercury/Uranus = MC`: Reinhold Ebertin - The Combination of Stellar Influences, page `159`
+- `Mercury/Uranus = MC`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `47`
+- `Uranus/MC = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `67`
+- `Uranus/MC = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `278`
+- `Uranus/MC = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `108`
 
 ## Contradictions Across Orientations
 
@@ -54,3 +58,6 @@ updated_at: 2026-04-21
 - [Mercury](../factors/mercury.md)
 - [Uranus](../factors/uranus.md)
 - [MC](../factors/mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

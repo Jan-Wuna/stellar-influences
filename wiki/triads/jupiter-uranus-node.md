@@ -3,7 +3,7 @@ title: Jupiter Uranus Node
 page_type: triad_hub
 slug: jupiter-uranus-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Uranus
@@ -19,7 +19,9 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -31,18 +33,20 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Node = Uranus](../activations/jupiter-node-equals-uranus.md)
-  Source page `144`
 - [Jupiter/Uranus = Node](../activations/jupiter-uranus-equals-node.md)
-  Source page `208`
 - [Uranus/Node = Jupiter](../activations/uranus-node-equals-jupiter.md)
-  Source page `146`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Node = Uranus`: page `144`
-- `Jupiter/Uranus = Node`: page `208`
-- `Uranus/Node = Jupiter`: page `146`
+- `Jupiter/Node = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `144`
+- `Jupiter/Node = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `238`
+- `Jupiter/Node = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `84`
+- `Jupiter/Uranus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `208`
+- `Jupiter/Uranus = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `230`
+- `Jupiter/Uranus = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `80`
+- `Uranus/Node = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `146`
+- `Uranus/Node = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `272`
+- `Uranus/Node = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `106`
 
 ## Contradictions Across Orientations
 
@@ -54,3 +58,6 @@ updated_at: 2026-04-21
 - [Jupiter](../factors/jupiter.md)
 - [Uranus](../factors/uranus.md)
 - [Node](../factors/node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

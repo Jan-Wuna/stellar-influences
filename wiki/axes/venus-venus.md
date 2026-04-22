@@ -11,7 +11,7 @@ normalized_axis: Venus/Venus
 factor_a: Venus
 factor_b: Venus
 related_activations:
-  - Venus/Venus = Aries
+  - Venus/Venus = Vernal Point
   - Venus/Venus = MC
   - Venus/Venus = Asc
   - Venus/Venus = Sun
@@ -67,7 +67,7 @@ Love, harmony, peace, beauty, fine art, music, pleasure, sensual pleasure, taste
 
 ## Related Activations
 
-- [Venus/Venus = Aries](../activations/venus-venus-equals-aries.md)
+- [Venus/Venus = Vernal Point](../activations/venus-venus-equals-vernal-point.md)
 - [Venus/Venus = MC](../activations/venus-venus-equals-mc.md)
 - [Venus/Venus = Asc](../activations/venus-venus-equals-asc.md)
 - [Venus/Venus = Sun](../activations/venus-venus-equals-sun.md)

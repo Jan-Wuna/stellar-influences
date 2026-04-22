@@ -11,7 +11,7 @@ normalized_axis: Pluto/Admetos
 factor_a: Pluto
 factor_b: Admetos
 related_activations:
-  - Pluto/Admetos = Aries
+  - Pluto/Admetos = Vernal Point
   - Pluto/Admetos = MC
   - Pluto/Admetos = Asc
   - Pluto/Admetos = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Pluto/Admetos = Vulcanus
   - Pluto/Admetos = Poseidon
 related_triad_hubs:
-  - Aries Pluto Admetos
   - Jupiter Pluto Admetos
   - Mars Pluto Admetos
   - Mercury Pluto Admetos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Pluto Admetos
   - Uranus Pluto Admetos
   - Venus Pluto Admetos
+  - Vernal Point Pluto Admetos
 aliases:
   - Admetos/Pluto
 source_pages:
@@ -85,7 +85,7 @@ The foundation. To go into the depth. To return to the basic origin. Basic chang
 
 ## Related Activations
 
-- [Pluto/Admetos = Aries](../activations/pluto-admetos-equals-aries.md)
+- [Pluto/Admetos = Vernal Point](../activations/pluto-admetos-equals-vernal-point.md)
 - [Pluto/Admetos = MC](../activations/pluto-admetos-equals-mc.md)
 - [Pluto/Admetos = Asc](../activations/pluto-admetos-equals-asc.md)
 - [Pluto/Admetos = Sun](../activations/pluto-admetos-equals-sun.md)

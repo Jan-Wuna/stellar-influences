@@ -11,7 +11,7 @@ normalized_axis: Pluto/Kronos
 factor_a: Pluto
 factor_b: Kronos
 related_activations:
-  - Pluto/Kronos = Aries
+  - Pluto/Kronos = Vernal Point
   - Pluto/Kronos = MC
   - Pluto/Kronos = Asc
   - Pluto/Kronos = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Pluto/Kronos = Vulcanus
   - Pluto/Kronos = Poseidon
 related_triad_hubs:
-  - Aries Pluto Kronos
   - Jupiter Pluto Kronos
   - Mars Pluto Kronos
   - Mercury Pluto Kronos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Pluto Kronos
   - Uranus Pluto Kronos
   - Venus Pluto Kronos
+  - Vernal Point Pluto Kronos
 aliases:
   - Kronos/Pluto
 source_pages:
@@ -85,7 +85,7 @@ Development of ability or skills. Examination. Testing. Apprentice, helper (jour
 
 ## Related Activations
 
-- [Pluto/Kronos = Aries](../activations/pluto-kronos-equals-aries.md)
+- [Pluto/Kronos = Vernal Point](../activations/pluto-kronos-equals-vernal-point.md)
 - [Pluto/Kronos = MC](../activations/pluto-kronos-equals-mc.md)
 - [Pluto/Kronos = Asc](../activations/pluto-kronos-equals-asc.md)
 - [Pluto/Kronos = Sun](../activations/pluto-kronos-equals-sun.md)

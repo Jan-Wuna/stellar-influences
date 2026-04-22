@@ -11,7 +11,7 @@ normalized_axis: Saturn/Admetos
 factor_a: Saturn
 factor_b: Admetos
 related_activations:
-  - Saturn/Admetos = Aries
+  - Saturn/Admetos = Vernal Point
   - Saturn/Admetos = MC
   - Saturn/Admetos = Asc
   - Saturn/Admetos = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Saturn/Admetos = Vulcanus
   - Saturn/Admetos = Poseidon
 related_triad_hubs:
-  - Aries Saturn Admetos
   - Jupiter Saturn Admetos
   - Mars Saturn Admetos
   - Mercury Saturn Admetos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Saturn Zeus Admetos
   - Sun Saturn Admetos
   - Venus Saturn Admetos
+  - Vernal Point Saturn Admetos
 aliases:
   - Admetos/Saturn
 source_pages:
@@ -85,7 +85,7 @@ Patience. Duration. Long time. Forbearance. Valley. Bottlenecks. To be in a tigh
 
 ## Related Activations
 
-- [Saturn/Admetos = Aries](../activations/saturn-admetos-equals-aries.md)
+- [Saturn/Admetos = Vernal Point](../activations/saturn-admetos-equals-vernal-point.md)
 - [Saturn/Admetos = MC](../activations/saturn-admetos-equals-mc.md)
 - [Saturn/Admetos = Asc](../activations/saturn-admetos-equals-asc.md)
 - [Saturn/Admetos = Sun](../activations/saturn-admetos-equals-sun.md)

@@ -11,7 +11,7 @@ normalized_axis: Sun/Admetos
 factor_a: Sun
 factor_b: Admetos
 related_activations:
-  - Sun/Admetos = Aries
+  - Sun/Admetos = Vernal Point
   - Sun/Admetos = MC
   - Sun/Admetos = Asc
   - Sun/Admetos = Moon
@@ -32,7 +32,6 @@ related_activations:
   - Sun/Admetos = Vulcanus
   - Sun/Admetos = Poseidon
 related_triad_hubs:
-  - Aries Sun Admetos
   - Sun Admetos Poseidon
   - Sun Admetos Vulcanus
   - Sun Apollon Admetos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Uranus Admetos
   - Sun Venus Admetos
   - Sun Zeus Admetos
+  - Vernal Point Sun Admetos
 aliases:
   - Admetos/Sun
 source_pages:
@@ -85,7 +85,7 @@ Perseverance. Heaviness. Weight. Objects. Ground. Soil. Real estate. Landscape. 
 
 ## Related Activations
 
-- [Sun/Admetos = Aries](../activations/sun-admetos-equals-aries.md)
+- [Sun/Admetos = Vernal Point](../activations/sun-admetos-equals-vernal-point.md)
 - [Sun/Admetos = MC](../activations/sun-admetos-equals-mc.md)
 - [Sun/Admetos = Asc](../activations/sun-admetos-equals-asc.md)
 - [Sun/Admetos = Moon](../activations/sun-admetos-equals-moon.md)

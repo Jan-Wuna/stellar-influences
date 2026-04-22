@@ -11,7 +11,7 @@ normalized_axis: Mercury/Admetos
 factor_a: Mercury
 factor_b: Admetos
 related_activations:
-  - Mercury/Admetos = Aries
+  - Mercury/Admetos = Vernal Point
   - Mercury/Admetos = MC
   - Mercury/Admetos = Asc
   - Mercury/Admetos = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Mercury/Admetos = Vulcanus
   - Mercury/Admetos = Poseidon
 related_triad_hubs:
-  - Aries Mercury Admetos
   - Mercury Admetos Poseidon
   - Mercury Admetos Vulcanus
   - Mercury Apollon Admetos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Mercury Zeus Admetos
   - Moon Mercury Admetos
   - Sun Mercury Admetos
+  - Vernal Point Mercury Admetos
 aliases:
   - Admetos/Mercury
 source_pages:
@@ -85,7 +85,7 @@ Serious or limited thinking. Perseverance in thinking. Profound thinker. Profoun
 
 ## Related Activations
 
-- [Mercury/Admetos = Aries](../activations/mercury-admetos-equals-aries.md)
+- [Mercury/Admetos = Vernal Point](../activations/mercury-admetos-equals-vernal-point.md)
 - [Mercury/Admetos = MC](../activations/mercury-admetos-equals-mc.md)
 - [Mercury/Admetos = Asc](../activations/mercury-admetos-equals-asc.md)
 - [Mercury/Admetos = Sun](../activations/mercury-admetos-equals-sun.md)

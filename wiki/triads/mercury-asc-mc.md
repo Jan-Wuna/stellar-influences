@@ -3,7 +3,7 @@ title: Mercury Asc MC
 page_type: triad_hub
 slug: mercury-asc-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Asc
@@ -19,7 +19,10 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - don-mcbroom-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -31,18 +34,21 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Asc/MC = Mercury](../activations/asc-mc-equals-mercury.md)
-  Source page `58`
 - [Mercury/Asc = MC](../activations/mercury-asc-equals-mc.md)
-  Source page `83`
 - [Mercury/MC = Asc](../activations/mercury-mc-equals-asc.md)
-  Source page `62`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/MC = Mercury`: page `58`
-- `Mercury/Asc = MC`: page `83`
-- `Mercury/MC = Asc`: page `62`
+- `Asc/MC = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `58`
+- `Asc/MC = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `307`
+- `Asc/MC = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `121`
+- `Asc/MC = Mercury`: Don McBroom - Midpoints, page `73`
+- `Mercury/Asc = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `83`
+- `Mercury/Asc = MC`: Reinhold Ebertin - The Combination of Stellar Influences, page `171`
+- `Mercury/Asc = MC`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `52`
+- `Mercury/MC = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `62`
+- `Mercury/MC = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `174`
+- `Mercury/MC = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `53`
 
 ## Contradictions Across Orientations
 
@@ -54,3 +60,7 @@ updated_at: 2026-04-21
 - [Mercury](../factors/mercury.md)
 - [Asc](../factors/asc.md)
 - [MC](../factors/mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Don McBroom - Midpoints](../sources/don-mcbroom-midpoints.md)

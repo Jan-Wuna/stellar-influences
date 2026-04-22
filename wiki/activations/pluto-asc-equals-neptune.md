@@ -3,10 +3,10 @@ title: Pluto/Asc = Neptune
 page_type: activation
 slug: pluto-asc-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Pluto
+  - Asc
   - Neptune
 normalized_formula: Pluto/Asc = Neptune
 axis: Pluto/Asc
@@ -15,10 +15,13 @@ triad_set:
   - Neptune
   - Pluto
   - Asc
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 To have to give up something through change of the surroundings. Change in the environment, where the results or consequences are only noticed much later, or not at all.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Pluto/Ascendant`
+- Source page: `295`
+- Entry: `1067`
+
+#### Ebertin Entry
+
+The misfortune to suffer from the actions of bad, malicious and deceitful people within one's environment. Experiencing a most awkward and unfortunate situation.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Pluto/Ascendant midpoint`
+- Source page: `116`
+- Activator: `Neptune`
+
+#### Sandbach Entry
+
+Intense and even obsessive identification with one’s ideals and/or imaginings. Subtle transformations occurring in one’s personality.
+
 ## Comparative Schema
 
-- core meaning: To have to give up something through change of the surroundings. Change in the environment, where the results or consequences are only noticed much later, or not at all.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ To have to give up something through change of the surroundings. Change in the e
 - [Asc](../factors/asc.md)
 - [Neptune](../factors/neptune.md)
 - [Pluto/Asc](../axes/pluto-asc.md)
+- [Neptune Pluto Asc](../triads/neptune-pluto-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

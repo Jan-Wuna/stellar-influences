@@ -11,7 +11,7 @@ normalized_axis: Hades/Poseidon
 factor_a: Hades
 factor_b: Poseidon
 related_activations:
-  - Hades/Poseidon = Aries
+  - Hades/Poseidon = Vernal Point
   - Hades/Poseidon = MC
   - Hades/Poseidon = Asc
   - Hades/Poseidon = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Hades/Poseidon = Admetos
   - Hades/Poseidon = Vulcanus
 related_triad_hubs:
-  - Aries Hades Poseidon
   - Asc Hades Poseidon
   - Cupido Hades Poseidon
   - Hades Admetos Poseidon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Hades Poseidon
   - Uranus Hades Poseidon
   - Venus Hades Poseidon
+  - Vernal Point Hades Poseidon
 aliases:
   - Poseidon/Hades
 source_pages:
@@ -85,7 +85,7 @@ Mental, cultural or spiritual isolation, poverty, deficiencies, defects. Secret 
 
 ## Related Activations
 
-- [Hades/Poseidon = Aries](../activations/hades-poseidon-equals-aries.md)
+- [Hades/Poseidon = Vernal Point](../activations/hades-poseidon-equals-vernal-point.md)
 - [Hades/Poseidon = MC](../activations/hades-poseidon-equals-mc.md)
 - [Hades/Poseidon = Asc](../activations/hades-poseidon-equals-asc.md)
 - [Hades/Poseidon = Sun](../activations/hades-poseidon-equals-sun.md)

@@ -11,31 +11,32 @@ normalized_axis: Sun/Jupiter
 factor_a: Sun
 factor_b: Jupiter
 related_activations:
-  - Sun/Jupiter = Aries
-  - Sun/Jupiter = MC
+  - Sun/Jupiter = Admetos
+  - Sun/Jupiter = Apollon
   - Sun/Jupiter = Asc
-  - Sun/Jupiter = Moon
-  - Sun/Jupiter = Node
-  - Sun/Jupiter = Mercury
-  - Sun/Jupiter = Venus
-  - Sun/Jupiter = Mars
-  - Sun/Jupiter = Saturn
-  - Sun/Jupiter = Uranus
-  - Sun/Jupiter = Neptune
-  - Sun/Jupiter = Pluto
+  - Sun/Jupiter = Chiron
   - Sun/Jupiter = Cupido
   - Sun/Jupiter = Hades
-  - Sun/Jupiter = Zeus
   - Sun/Jupiter = Kronos
-  - Sun/Jupiter = Apollon
-  - Sun/Jupiter = Admetos
-  - Sun/Jupiter = Vulcanus
+  - Sun/Jupiter = Mars
+  - Sun/Jupiter = MC
+  - Sun/Jupiter = Mercury
+  - Sun/Jupiter = Moon
+  - Sun/Jupiter = Neptune
+  - Sun/Jupiter = Node
+  - Sun/Jupiter = Pluto
   - Sun/Jupiter = Poseidon
+  - Sun/Jupiter = Saturn
+  - Sun/Jupiter = Uranus
+  - Sun/Jupiter = Venus
+  - Sun/Jupiter = Vernal Point
+  - Sun/Jupiter = Vulcanus
+  - Sun/Jupiter = Zeus
 related_triad_hubs:
-  - Aries Sun Jupiter
   - Sun Jupiter Admetos
   - Sun Jupiter Apollon
   - Sun Jupiter Asc
+  - Sun Jupiter Chiron
   - Sun Jupiter Cupido
   - Sun Jupiter Hades
   - Sun Jupiter Kronos
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Sun Mercury Jupiter
   - Sun Moon Jupiter
   - Sun Venus Jupiter
+  - Vernal Point Sun Jupiter
 aliases:
   - Jupiter/Sun
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 Physical happiness. The fortunate man. The cheerful man. The rich or wealthy man. The well-being of the body. Good health. A tendency to be overweight. Corpulence. Day of fortune. Pay day.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Sun/Jupiter`
+- Source page: `89`
+
+#### Principle
+
+Health, joy, recognition. Psychologica/ Correspondence + Good health, good morał qualities, the urge to climb socially, a reli gious outlook, striving for possessions and power, will to expand. - Materialistic mentality, pretentious, negligent, heedless, extrava gant and squandering, ostentatious. The inclination to spend money unnecessarily. C Creative power, capability to perform record achievements. Biologica/ Correspondence Tissue elements of the organs, particularly of the glands (in contras! to the supporting tissues), regenerative functions of the blood. (Sun/Jupiter is particularly important for the restoration ofhealth). Sociologica/ Correspondence Wealthy people, healthy persons, people of prominence, persons higher up in the social scale than oneself.
+
+#### Psychological Correspondence
+
+- None extracted.
+
+#### Biological Correspondence
+
+- None extracted.
+
+#### Sociological Correspondence
+
+- None extracted.
+
+#### Probable Manifestations
+
++ Advancement in life, recognition, success in the materiał or spiri tual sphere. - Contlicts caused by an arrogant and pretentious demeanor, illness through wrong nutrition, differences with people in one's environ ment or with superiors, a person in conflict with the laws of the land or realm. Q/h
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -141,6 +171,28 @@ The effects on the health are chiefly due to imprudence and excess in diet and t
 - The Conjunction: Alan Leo, William III, Ulysses Grant, William Blake, A.J. Balfour, Rudyard Kipling, Morin (last official French Astrologer), Blackbourne (chess champion), Clarence Hatry (financier), "General" Bramwell Booth
 - Inharmonious: Richard Garnett, Mackensen (German general), Kant, Bismark, Ramsay MacDonald, Mrs. Eddy, Oscar Wilde, Gladstone, Henry of Navarre ("Paris vaut une messe."), Isadore Duncan.
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Sun/Jupiter midpoint`
+- Source page: `12`
+
+#### Principle
+
+Optimism concerning the reaching of goals. Vibrant enthusiasm with a meaningful focus. Self-confidence which leads to success. Having too many agendas. Either being arrogantly self-confident or seeming that way. Seeming egotism as a cover for feelings of worthlessness. This combination often causes residual jealousy coming from other people.
+
+#### Process
+
+The continual integration of new material and ideas into one’s overall vision of life’s meaning and purpose. The gradual transcending of those negative emotions and beliefs which serve to maintain the ego.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Sun/Jupiter`
+- Source page: `201`
+
+#### Pair Delineation
+
+The will to grow, expand, and experience as much of the universe as possible. Physical well-being and health. Openness and liberality, but also possibly profligacy. May express itself on the spiritual as well as the material plane.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `SUN/JUPITER`
@@ -184,26 +236,27 @@ Your personal vitality and vigor; excessive cholesterol deposits in the heart ar
 
 ## Related Activations
 
-- [Sun/Jupiter = Aries](../activations/sun-jupiter-equals-aries.md)
-- [Sun/Jupiter = MC](../activations/sun-jupiter-equals-mc.md)
+- [Sun/Jupiter = Admetos](../activations/sun-jupiter-equals-admetos.md)
+- [Sun/Jupiter = Apollon](../activations/sun-jupiter-equals-apollon.md)
 - [Sun/Jupiter = Asc](../activations/sun-jupiter-equals-asc.md)
-- [Sun/Jupiter = Moon](../activations/sun-jupiter-equals-moon.md)
-- [Sun/Jupiter = Node](../activations/sun-jupiter-equals-node.md)
-- [Sun/Jupiter = Mercury](../activations/sun-jupiter-equals-mercury.md)
-- [Sun/Jupiter = Venus](../activations/sun-jupiter-equals-venus.md)
-- [Sun/Jupiter = Mars](../activations/sun-jupiter-equals-mars.md)
-- [Sun/Jupiter = Saturn](../activations/sun-jupiter-equals-saturn.md)
-- [Sun/Jupiter = Uranus](../activations/sun-jupiter-equals-uranus.md)
-- [Sun/Jupiter = Neptune](../activations/sun-jupiter-equals-neptune.md)
-- [Sun/Jupiter = Pluto](../activations/sun-jupiter-equals-pluto.md)
+- [Sun/Jupiter = Chiron](../activations/sun-jupiter-equals-chiron.md)
 - [Sun/Jupiter = Cupido](../activations/sun-jupiter-equals-cupido.md)
 - [Sun/Jupiter = Hades](../activations/sun-jupiter-equals-hades.md)
-- [Sun/Jupiter = Zeus](../activations/sun-jupiter-equals-zeus.md)
 - [Sun/Jupiter = Kronos](../activations/sun-jupiter-equals-kronos.md)
-- [Sun/Jupiter = Apollon](../activations/sun-jupiter-equals-apollon.md)
-- [Sun/Jupiter = Admetos](../activations/sun-jupiter-equals-admetos.md)
-- [Sun/Jupiter = Vulcanus](../activations/sun-jupiter-equals-vulcanus.md)
+- [Sun/Jupiter = Mars](../activations/sun-jupiter-equals-mars.md)
+- [Sun/Jupiter = MC](../activations/sun-jupiter-equals-mc.md)
+- [Sun/Jupiter = Mercury](../activations/sun-jupiter-equals-mercury.md)
+- [Sun/Jupiter = Moon](../activations/sun-jupiter-equals-moon.md)
+- [Sun/Jupiter = Neptune](../activations/sun-jupiter-equals-neptune.md)
+- [Sun/Jupiter = Node](../activations/sun-jupiter-equals-node.md)
+- [Sun/Jupiter = Pluto](../activations/sun-jupiter-equals-pluto.md)
 - [Sun/Jupiter = Poseidon](../activations/sun-jupiter-equals-poseidon.md)
+- [Sun/Jupiter = Saturn](../activations/sun-jupiter-equals-saturn.md)
+- [Sun/Jupiter = Uranus](../activations/sun-jupiter-equals-uranus.md)
+- [Sun/Jupiter = Venus](../activations/sun-jupiter-equals-venus.md)
+- [Sun/Jupiter = Vernal Point](../activations/sun-jupiter-equals-vernal-point.md)
+- [Sun/Jupiter = Vulcanus](../activations/sun-jupiter-equals-vulcanus.md)
+- [Sun/Jupiter = Zeus](../activations/sun-jupiter-equals-zeus.md)
 
 ## Contradictions
 
@@ -219,6 +272,9 @@ Your personal vitality and vigor; excessive cholesterol deposits in the heart ar
 - [Sun](../factors/sun.md)
 - [Jupiter](../factors/jupiter.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

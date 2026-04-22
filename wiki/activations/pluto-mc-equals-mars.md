@@ -3,10 +3,10 @@ title: Pluto/MC = Mars
 page_type: activation
 slug: pluto-mc-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Pluto
+  - MC
   - Mars
 normalized_formula: Pluto/MC = Mars
 axis: Pluto/MC
@@ -15,10 +15,13 @@ triad_set:
   - Mars
   - Pluto
   - MC
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 The development of the will. Personal change in action or at work. One’s attitude is transformed through activity or work.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Pluto/Medium Coeli`
+- Source page: `298`
+- Entry: `1075`
+
+#### Ebertin Entry
+
+Great striving for power, urge to dominate other people. The misfortune to be forced into an uncongenial profession or occupation. A crisis in one's career.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Pluto/Midheaven midpoint`
+- Source page: `117`
+- Activator: `Mars`
+
+#### Sandbach Entry
+
+Working hard to create security in one’s life and/or to build a reputation and career. To be very active and assertive concerning finding one’s spiritual path and ad vancing spiritually.
+
 ## Comparative Schema
 
-- core meaning: The development of the will. Personal change in action or at work. One’s attitude is transformed through activity or work.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ The development of the will. Personal change in action or at work. One’s attit
 - [MC](../factors/mc.md)
 - [Mars](../factors/mars.md)
 - [Pluto/MC](../axes/pluto-mc.md)
+- [Mars Pluto MC](../triads/mars-pluto-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

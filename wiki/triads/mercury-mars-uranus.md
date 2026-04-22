@@ -3,7 +3,7 @@ title: Mercury Mars Uranus
 page_type: triad_hub
 slug: mercury-mars-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Mars
@@ -19,7 +19,9 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -31,18 +33,20 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/Uranus = Mercury](../activations/mars-uranus-equals-mercury.md)
-  Source page `194`
 - [Mercury/Mars = Uranus](../activations/mercury-mars-equals-uranus.md)
-  Source page `160`
 - [Mercury/Uranus = Mars](../activations/mercury-uranus-equals-mars.md)
-  Source page `163`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Uranus = Mercury`: page `194`
-- `Mercury/Mars = Uranus`: page `160`
-- `Mercury/Uranus = Mars`: page `163`
+- `Mars/Uranus = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `194`
+- `Mars/Uranus = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `208`
+- `Mars/Uranus = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `71`
+- `Mercury/Mars = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `160`
+- `Mercury/Mars = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `149`
+- `Mercury/Mars = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `42`
+- `Mercury/Uranus = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `163`
+- `Mercury/Uranus = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `158`
+- `Mercury/Uranus = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `47`
 
 ## Contradictions Across Orientations
 
@@ -54,3 +58,6 @@ updated_at: 2026-04-21
 - [Mercury](../factors/mercury.md)
 - [Mars](../factors/mars.md)
 - [Uranus](../factors/uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

@@ -11,31 +11,32 @@ normalized_axis: Mercury/Venus
 factor_a: Mercury
 factor_b: Venus
 related_activations:
-  - Mercury/Venus = Aries
-  - Mercury/Venus = MC
+  - Mercury/Venus = Admetos
+  - Mercury/Venus = Apollon
   - Mercury/Venus = Asc
-  - Mercury/Venus = Sun
-  - Mercury/Venus = Moon
-  - Mercury/Venus = Node
-  - Mercury/Venus = Mars
-  - Mercury/Venus = Jupiter
-  - Mercury/Venus = Saturn
-  - Mercury/Venus = Uranus
-  - Mercury/Venus = Neptune
-  - Mercury/Venus = Pluto
+  - Mercury/Venus = Chiron
   - Mercury/Venus = Cupido
   - Mercury/Venus = Hades
-  - Mercury/Venus = Zeus
+  - Mercury/Venus = Jupiter
   - Mercury/Venus = Kronos
-  - Mercury/Venus = Apollon
-  - Mercury/Venus = Admetos
-  - Mercury/Venus = Vulcanus
+  - Mercury/Venus = Mars
+  - Mercury/Venus = MC
+  - Mercury/Venus = Moon
+  - Mercury/Venus = Neptune
+  - Mercury/Venus = Node
+  - Mercury/Venus = Pluto
   - Mercury/Venus = Poseidon
+  - Mercury/Venus = Saturn
+  - Mercury/Venus = Sun
+  - Mercury/Venus = Uranus
+  - Mercury/Venus = Vernal Point
+  - Mercury/Venus = Vulcanus
+  - Mercury/Venus = Zeus
 related_triad_hubs:
-  - Aries Mercury Venus
   - Mercury Venus Admetos
   - Mercury Venus Apollon
   - Mercury Venus Asc
+  - Mercury Venus Chiron
   - Mercury Venus Cupido
   - Mercury Venus Hades
   - Mercury Venus Jupiter
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Mercury Venus Zeus
   - Moon Mercury Venus
   - Sun Mercury Venus
+  - Vernal Point Mercury Venus
 aliases:
   - Venus/Mercury
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 Acquaintanceship. To meet or greet others. Thoughts of love. Aesthetic taste. Artistic taste. Rhythm. Salesman. Beginning of an acquaintance. To arrange tastefully. To beautify. The sense of beauty. The beautiful woman. The motherly female. To favor something. Thoughts of art.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mercury/Venus`
+- Source page: `145`
+
+#### Principle
+
+A sense and appreciation of beauty, thoughts of love.
+
+#### Psychological Correspondence
+
++ A sense of form and design, beauty and art, an intellect influenced strongly by feeling, "the wings of artistic genius and inspiration," a lighthearted nature, cheerfulness and hilarity. - Vanity or conceit, hyper-sensitivity, inclination for pleasures and luxury, little driving power to reach a goal or an objective. C A sense of beauty, grace, lighthearted living, merriment.
+
+#### Biological Correspondence
+
+The glandular secretions.
+
+#### Sociological Correspondence
+
+Authors or writers, artists, those who sell beauty articles or art objects.
+
+#### Probable Manifestations
+
++ Thoughts of love, a love union, artistic success. - An inclination to squandering and to lighthearted living. MercuryA/enus 5/9
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -113,6 +143,28 @@ For some reason that I cannot explain the Conjunction does not seem favorable to
 
 - Harmonious (Sextile): Isaac Newton, Wallenstein, General Gordon, Prince of Wales, Frederick the Great, Lord Northcliff (in aspect to Neptune)
 - The Conjunction: Mrs. Eddy, Mrs. Besant, Thomas Hardy, Mary Pickford, Rudyard Kipling (with Mars), Blackbourne (chess champion - with Moon), Morinus (French astrologer), Lindbergh, George Eliot, Anna Kingsford, Chopin, Algernon Swinburne.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mercury/Venus midpoint`
+- Source page: `41`
+
+#### Principle
+
+A mental appreciation of aesthetics. The ability to communicate artfully, smoothly, and/or beautifully. A love of ideas, communication, speaking, etc. Commu nication in relationships. The ability to appreciate a diversity of things and to see the beauty in many things.
+
+#### Process
+
+The ability to use language and communication in general as a peacemaking device, and to help others exchange ideas in a harmonious, appreciative manner. Quickly responding when one is relating.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Mercury/Venus`
+- Source page: `204`
+
+#### Pair Delineation
+
+The ability to communicate love and affection. Aesthetic thoughts. The ability to be concretely creative as an artist. To use techniques to create beauty. Ability in crafts. Creative writing. Thinking influenced by considerations of beauty or harmony rather than strict logic.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -157,26 +209,27 @@ Oxygen levels in the blood; the efficiency of your lungs; food allergies and rea
 
 ## Related Activations
 
-- [Mercury/Venus = Aries](../activations/mercury-venus-equals-aries.md)
-- [Mercury/Venus = MC](../activations/mercury-venus-equals-mc.md)
+- [Mercury/Venus = Admetos](../activations/mercury-venus-equals-admetos.md)
+- [Mercury/Venus = Apollon](../activations/mercury-venus-equals-apollon.md)
 - [Mercury/Venus = Asc](../activations/mercury-venus-equals-asc.md)
-- [Mercury/Venus = Sun](../activations/mercury-venus-equals-sun.md)
-- [Mercury/Venus = Moon](../activations/mercury-venus-equals-moon.md)
-- [Mercury/Venus = Node](../activations/mercury-venus-equals-node.md)
-- [Mercury/Venus = Mars](../activations/mercury-venus-equals-mars.md)
-- [Mercury/Venus = Jupiter](../activations/mercury-venus-equals-jupiter.md)
-- [Mercury/Venus = Saturn](../activations/mercury-venus-equals-saturn.md)
-- [Mercury/Venus = Uranus](../activations/mercury-venus-equals-uranus.md)
-- [Mercury/Venus = Neptune](../activations/mercury-venus-equals-neptune.md)
-- [Mercury/Venus = Pluto](../activations/mercury-venus-equals-pluto.md)
+- [Mercury/Venus = Chiron](../activations/mercury-venus-equals-chiron.md)
 - [Mercury/Venus = Cupido](../activations/mercury-venus-equals-cupido.md)
 - [Mercury/Venus = Hades](../activations/mercury-venus-equals-hades.md)
-- [Mercury/Venus = Zeus](../activations/mercury-venus-equals-zeus.md)
+- [Mercury/Venus = Jupiter](../activations/mercury-venus-equals-jupiter.md)
 - [Mercury/Venus = Kronos](../activations/mercury-venus-equals-kronos.md)
-- [Mercury/Venus = Apollon](../activations/mercury-venus-equals-apollon.md)
-- [Mercury/Venus = Admetos](../activations/mercury-venus-equals-admetos.md)
-- [Mercury/Venus = Vulcanus](../activations/mercury-venus-equals-vulcanus.md)
+- [Mercury/Venus = Mars](../activations/mercury-venus-equals-mars.md)
+- [Mercury/Venus = MC](../activations/mercury-venus-equals-mc.md)
+- [Mercury/Venus = Moon](../activations/mercury-venus-equals-moon.md)
+- [Mercury/Venus = Neptune](../activations/mercury-venus-equals-neptune.md)
+- [Mercury/Venus = Node](../activations/mercury-venus-equals-node.md)
+- [Mercury/Venus = Pluto](../activations/mercury-venus-equals-pluto.md)
 - [Mercury/Venus = Poseidon](../activations/mercury-venus-equals-poseidon.md)
+- [Mercury/Venus = Saturn](../activations/mercury-venus-equals-saturn.md)
+- [Mercury/Venus = Sun](../activations/mercury-venus-equals-sun.md)
+- [Mercury/Venus = Uranus](../activations/mercury-venus-equals-uranus.md)
+- [Mercury/Venus = Vernal Point](../activations/mercury-venus-equals-vernal-point.md)
+- [Mercury/Venus = Vulcanus](../activations/mercury-venus-equals-vulcanus.md)
+- [Mercury/Venus = Zeus](../activations/mercury-venus-equals-zeus.md)
 
 ## Contradictions
 
@@ -192,6 +245,9 @@ Oxygen levels in the blood; the efficiency of your lungs; food allergies and rea
 - [Mercury](../factors/mercury.md)
 - [Venus](../factors/venus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

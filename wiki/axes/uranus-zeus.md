@@ -11,7 +11,7 @@ normalized_axis: Uranus/Zeus
 factor_a: Uranus
 factor_b: Zeus
 related_activations:
-  - Uranus/Zeus = Aries
+  - Uranus/Zeus = Vernal Point
   - Uranus/Zeus = MC
   - Uranus/Zeus = Asc
   - Uranus/Zeus = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Uranus/Zeus = Vulcanus
   - Uranus/Zeus = Poseidon
 related_triad_hubs:
-  - Aries Uranus Zeus
   - Jupiter Uranus Zeus
   - Mars Uranus Zeus
   - Mercury Uranus Zeus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Uranus Zeus Poseidon
   - Uranus Zeus Vulcanus
   - Venus Uranus Zeus
+  - Vernal Point Uranus Zeus
 aliases:
   - Zeus/Uranus
 source_pages:
@@ -85,7 +85,7 @@ The will. Sudden fire. Discharge of firearms. To fire, to splinter. Fire explosi
 
 ## Related Activations
 
-- [Uranus/Zeus = Aries](../activations/uranus-zeus-equals-aries.md)
+- [Uranus/Zeus = Vernal Point](../activations/uranus-zeus-equals-vernal-point.md)
 - [Uranus/Zeus = MC](../activations/uranus-zeus-equals-mc.md)
 - [Uranus/Zeus = Asc](../activations/uranus-zeus-equals-asc.md)
 - [Uranus/Zeus = Sun](../activations/uranus-zeus-equals-sun.md)

@@ -3,10 +3,10 @@ title: Pluto/MC = Venus
 page_type: activation
 slug: pluto-mc-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Pluto
+  - MC
   - Venus
 normalized_formula: Pluto/MC = Venus
 axis: Pluto/MC
@@ -15,10 +15,13 @@ triad_set:
   - Venus
   - Pluto
   - MC
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 To develop harmoniously. To get into a pleasant mood.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Pluto/Medium Coeli`
+- Source page: `298`
+- Entry: `1074`
+
+#### Ebertin Entry
+
+An unusual power of attraction, unusually strong attachments.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Pluto/Midheaven midpoint`
+- Source page: `117`
+- Activator: `Venus`
+
+#### Sandbach Entry
+
+To be attracted to those in authority or people who wield much power. In love relationships one feels an extreme need to be respected and looked up to. Love rela tionships can make you feel intensely or obsessively insecure, and/or shake your foun dations of security.
+
 ## Comparative Schema
 
-- core meaning: To develop harmoniously. To get into a pleasant mood.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ To develop harmoniously. To get into a pleasant mood.
 - [MC](../factors/mc.md)
 - [Venus](../factors/venus.md)
 - [Pluto/MC](../axes/pluto-mc.md)
+- [Venus Pluto MC](../triads/venus-pluto-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

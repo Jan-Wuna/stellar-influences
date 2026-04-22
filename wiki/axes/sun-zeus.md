@@ -11,7 +11,7 @@ normalized_axis: Sun/Zeus
 factor_a: Sun
 factor_b: Zeus
 related_activations:
-  - Sun/Zeus = Aries
+  - Sun/Zeus = Vernal Point
   - Sun/Zeus = MC
   - Sun/Zeus = Asc
   - Sun/Zeus = Moon
@@ -32,7 +32,6 @@ related_activations:
   - Sun/Zeus = Vulcanus
   - Sun/Zeus = Poseidon
 related_triad_hubs:
-  - Aries Sun Zeus
   - Sun Asc Zeus
   - Sun Cupido Zeus
   - Sun Hades Zeus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Zeus Kronos
   - Sun Zeus Poseidon
   - Sun Zeus Vulcanus
+  - Vernal Point Sun Zeus
 aliases:
   - Zeus/Sun
 source_pages:
@@ -85,7 +85,7 @@ The burning body. A man with a goal. A born leader. Creative person. Hie procrea
 
 ## Related Activations
 
-- [Sun/Zeus = Aries](../activations/sun-zeus-equals-aries.md)
+- [Sun/Zeus = Vernal Point](../activations/sun-zeus-equals-vernal-point.md)
 - [Sun/Zeus = MC](../activations/sun-zeus-equals-mc.md)
 - [Sun/Zeus = Asc](../activations/sun-zeus-equals-asc.md)
 - [Sun/Zeus = Moon](../activations/sun-zeus-equals-moon.md)

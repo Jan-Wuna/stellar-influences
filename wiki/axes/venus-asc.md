@@ -11,28 +11,28 @@ normalized_axis: Venus/Asc
 factor_a: Venus
 factor_b: Asc
 related_activations:
-  - Venus/Asc = Aries
-  - Venus/Asc = MC
-  - Venus/Asc = Sun
-  - Venus/Asc = Moon
-  - Venus/Asc = Node
-  - Venus/Asc = Mercury
-  - Venus/Asc = Mars
-  - Venus/Asc = Jupiter
-  - Venus/Asc = Saturn
-  - Venus/Asc = Uranus
-  - Venus/Asc = Neptune
-  - Venus/Asc = Pluto
+  - Venus/Asc = Admetos
+  - Venus/Asc = Apollon
+  - Venus/Asc = Chiron
   - Venus/Asc = Cupido
   - Venus/Asc = Hades
-  - Venus/Asc = Zeus
+  - Venus/Asc = Jupiter
   - Venus/Asc = Kronos
-  - Venus/Asc = Apollon
-  - Venus/Asc = Admetos
-  - Venus/Asc = Vulcanus
+  - Venus/Asc = Mars
+  - Venus/Asc = MC
+  - Venus/Asc = Mercury
+  - Venus/Asc = Moon
+  - Venus/Asc = Neptune
+  - Venus/Asc = Node
+  - Venus/Asc = Pluto
   - Venus/Asc = Poseidon
+  - Venus/Asc = Saturn
+  - Venus/Asc = Sun
+  - Venus/Asc = Uranus
+  - Venus/Asc = Vernal Point
+  - Venus/Asc = Vulcanus
+  - Venus/Asc = Zeus
 related_triad_hubs:
-  - Aries Venus Asc
   - Mercury Venus Asc
   - Moon Venus Asc
   - Sun Venus Asc
@@ -45,6 +45,7 @@ related_triad_hubs:
   - Venus Asc Poseidon
   - Venus Asc Vulcanus
   - Venus Asc Zeus
+  - Venus Chiron Asc
   - Venus Jupiter Asc
   - Venus Mars Asc
   - Venus Neptune Asc
@@ -52,10 +53,14 @@ related_triad_hubs:
   - Venus Pluto Asc
   - Venus Saturn Asc
   - Venus Uranus Asc
+  - Vernal Point Venus Asc
 aliases:
   - Asc/Venus
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -70,12 +75,59 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Venus`
-- Source page: `84`
+- Source heading: `Venus/Ascendant`
+- Source page: `195`
 
 #### Pair Summary
 
 Lovable acquaintances. To be treated well by others. Others who long for the native. Personal love connections and love unions. To show evidence of love. Nice appearance. Peace in the immediate vicinity. Harmonious relations to the place. Harmonious surroundings. Peaceful place.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Ascendant`
+- Source page: `195`
+
+#### Principle
+
+A harmonious personality.
+
+#### Psychological Correspondence
+
++ A harmonious attitude toward other people, sociable, a sense for a beautiful and artistically furnished environment, artistic inclination. - A disharmonious relationship to environment, lack of good taste, wastefulness. C An affectionate behavior toward other persons, a sense of beauty, good taste.
+
+#### Biological Correspondence
+
+Harmonious proportions, the complexion.
+
+#### Sociological Correspondence
+
+Members of the female sex within the environment, such as the mother or wife.
+
+#### Probable Manifestations
+
++ A love affair, the embellishment, adornment or beautification of the environment. - Preference for associations with people who are lacking in good taste, wastefulness, indulgence in enjoyment or a pleasure-seeking nature. Venus/Ascendant 9/A
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Ascendant midpoint`
+- Source page: `65`
+
+#### Principle
+
+A person with a loving, easy-going personality. The ability to share with others and to put them at ease. Contentment with oneself - which negatively might ex press as laziness and selfishness.
+
+#### Process
+
+Learning to love oneself and to project that love into the world.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Venus/Ascendant`
+- Source page: `207`
+
+#### Pair Delineation
+
+The ability to project attractiveness, to charm others. Getting love from others. The ability to bring about close love relationships. The ability to bring about compromise and harmony in the environment.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -120,26 +172,27 @@ Your ability to feel comfortable with the image you project to others; your psyc
 
 ## Related Activations
 
-- [Venus/Asc = Aries](../activations/venus-asc-equals-aries.md)
-- [Venus/Asc = MC](../activations/venus-asc-equals-mc.md)
-- [Venus/Asc = Sun](../activations/venus-asc-equals-sun.md)
-- [Venus/Asc = Moon](../activations/venus-asc-equals-moon.md)
-- [Venus/Asc = Node](../activations/venus-asc-equals-node.md)
-- [Venus/Asc = Mercury](../activations/venus-asc-equals-mercury.md)
-- [Venus/Asc = Mars](../activations/venus-asc-equals-mars.md)
-- [Venus/Asc = Jupiter](../activations/venus-asc-equals-jupiter.md)
-- [Venus/Asc = Saturn](../activations/venus-asc-equals-saturn.md)
-- [Venus/Asc = Uranus](../activations/venus-asc-equals-uranus.md)
-- [Venus/Asc = Neptune](../activations/venus-asc-equals-neptune.md)
-- [Venus/Asc = Pluto](../activations/venus-asc-equals-pluto.md)
+- [Venus/Asc = Admetos](../activations/venus-asc-equals-admetos.md)
+- [Venus/Asc = Apollon](../activations/venus-asc-equals-apollon.md)
+- [Venus/Asc = Chiron](../activations/venus-asc-equals-chiron.md)
 - [Venus/Asc = Cupido](../activations/venus-asc-equals-cupido.md)
 - [Venus/Asc = Hades](../activations/venus-asc-equals-hades.md)
-- [Venus/Asc = Zeus](../activations/venus-asc-equals-zeus.md)
+- [Venus/Asc = Jupiter](../activations/venus-asc-equals-jupiter.md)
 - [Venus/Asc = Kronos](../activations/venus-asc-equals-kronos.md)
-- [Venus/Asc = Apollon](../activations/venus-asc-equals-apollon.md)
-- [Venus/Asc = Admetos](../activations/venus-asc-equals-admetos.md)
-- [Venus/Asc = Vulcanus](../activations/venus-asc-equals-vulcanus.md)
+- [Venus/Asc = Mars](../activations/venus-asc-equals-mars.md)
+- [Venus/Asc = MC](../activations/venus-asc-equals-mc.md)
+- [Venus/Asc = Mercury](../activations/venus-asc-equals-mercury.md)
+- [Venus/Asc = Moon](../activations/venus-asc-equals-moon.md)
+- [Venus/Asc = Neptune](../activations/venus-asc-equals-neptune.md)
+- [Venus/Asc = Node](../activations/venus-asc-equals-node.md)
+- [Venus/Asc = Pluto](../activations/venus-asc-equals-pluto.md)
 - [Venus/Asc = Poseidon](../activations/venus-asc-equals-poseidon.md)
+- [Venus/Asc = Saturn](../activations/venus-asc-equals-saturn.md)
+- [Venus/Asc = Sun](../activations/venus-asc-equals-sun.md)
+- [Venus/Asc = Uranus](../activations/venus-asc-equals-uranus.md)
+- [Venus/Asc = Vernal Point](../activations/venus-asc-equals-vernal-point.md)
+- [Venus/Asc = Vulcanus](../activations/venus-asc-equals-vulcanus.md)
+- [Venus/Asc = Zeus](../activations/venus-asc-equals-zeus.md)
 
 ## Contradictions
 
@@ -155,4 +208,7 @@ Your ability to feel comfortable with the image you project to others; your psyc
 - [Venus](../factors/venus.md)
 - [Asc](../factors/asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

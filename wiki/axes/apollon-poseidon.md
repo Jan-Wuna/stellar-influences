@@ -11,7 +11,7 @@ normalized_axis: Apollon/Poseidon
 factor_a: Apollon
 factor_b: Poseidon
 related_activations:
-  - Apollon/Poseidon = Aries
+  - Apollon/Poseidon = Vernal Point
   - Apollon/Poseidon = MC
   - Apollon/Poseidon = Asc
   - Apollon/Poseidon = Sun
@@ -34,7 +34,6 @@ related_activations:
 related_triad_hubs:
   - Apollon Admetos Poseidon
   - Apollon Vulcanus Poseidon
-  - Aries Apollon Poseidon
   - Asc Apollon Poseidon
   - Cupido Apollon Poseidon
   - Hades Apollon Poseidon
@@ -51,6 +50,7 @@ related_triad_hubs:
   - Sun Apollon Poseidon
   - Uranus Apollon Poseidon
   - Venus Apollon Poseidon
+  - Vernal Point Apollon Poseidon
   - Zeus Apollon Poseidon
 aliases:
   - Poseidon/Apollon
@@ -85,7 +85,7 @@ People with the same mindset. Congenial. Companions of destiny. Fellow sufferers
 
 ## Related Activations
 
-- [Apollon/Poseidon = Aries](../activations/apollon-poseidon-equals-aries.md)
+- [Apollon/Poseidon = Vernal Point](../activations/apollon-poseidon-equals-vernal-point.md)
 - [Apollon/Poseidon = MC](../activations/apollon-poseidon-equals-mc.md)
 - [Apollon/Poseidon = Asc](../activations/apollon-poseidon-equals-asc.md)
 - [Apollon/Poseidon = Sun](../activations/apollon-poseidon-equals-sun.md)

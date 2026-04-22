@@ -11,7 +11,7 @@ normalized_axis: Uranus/Poseidon
 factor_a: Uranus
 factor_b: Poseidon
 related_activations:
-  - Uranus/Poseidon = Aries
+  - Uranus/Poseidon = Vernal Point
   - Uranus/Poseidon = MC
   - Uranus/Poseidon = Asc
   - Uranus/Poseidon = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Uranus/Poseidon = Admetos
   - Uranus/Poseidon = Vulcanus
 related_triad_hubs:
-  - Aries Uranus Poseidon
   - Jupiter Uranus Poseidon
   - Mars Uranus Poseidon
   - Mercury Uranus Poseidon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Uranus Vulcanus Poseidon
   - Uranus Zeus Poseidon
   - Venus Uranus Poseidon
+  - Vernal Point Uranus Poseidon
 aliases:
   - Poseidon/Uranus
 source_pages:
@@ -85,7 +85,7 @@ Mentally alert. Signs of life. To be lively or to be alive. Mental tension. Trut
 
 ## Related Activations
 
-- [Uranus/Poseidon = Aries](../activations/uranus-poseidon-equals-aries.md)
+- [Uranus/Poseidon = Vernal Point](../activations/uranus-poseidon-equals-vernal-point.md)
 - [Uranus/Poseidon = MC](../activations/uranus-poseidon-equals-mc.md)
 - [Uranus/Poseidon = Asc](../activations/uranus-poseidon-equals-asc.md)
 - [Uranus/Poseidon = Sun](../activations/uranus-poseidon-equals-sun.md)

@@ -11,7 +11,7 @@ normalized_axis: Vulcanus/Poseidon
 factor_a: Vulcanus
 factor_b: Poseidon
 related_activations:
-  - Vulcanus/Poseidon = Aries
+  - Vulcanus/Poseidon = Vernal Point
   - Vulcanus/Poseidon = MC
   - Vulcanus/Poseidon = Asc
   - Vulcanus/Poseidon = Sun
@@ -34,7 +34,6 @@ related_activations:
 related_triad_hubs:
   - Admetos Vulcanus Poseidon
   - Apollon Vulcanus Poseidon
-  - Aries Vulcanus Poseidon
   - Asc Vulcanus Poseidon
   - Cupido Vulcanus Poseidon
   - Hades Vulcanus Poseidon
@@ -51,6 +50,7 @@ related_triad_hubs:
   - Sun Vulcanus Poseidon
   - Uranus Vulcanus Poseidon
   - Venus Vulcanus Poseidon
+  - Vernal Point Vulcanus Poseidon
   - Zeus Vulcanus Poseidon
 aliases:
   - Poseidon/Vulcanus
@@ -85,7 +85,7 @@ State of mind. Sense of honor. Self-esteem. Self-confidence. Pride. Dignity. Arr
 
 ## Related Activations
 
-- [Vulcanus/Poseidon = Aries](../activations/vulcanus-poseidon-equals-aries.md)
+- [Vulcanus/Poseidon = Vernal Point](../activations/vulcanus-poseidon-equals-vernal-point.md)
 - [Vulcanus/Poseidon = MC](../activations/vulcanus-poseidon-equals-mc.md)
 - [Vulcanus/Poseidon = Asc](../activations/vulcanus-poseidon-equals-asc.md)
 - [Vulcanus/Poseidon = Sun](../activations/vulcanus-poseidon-equals-sun.md)

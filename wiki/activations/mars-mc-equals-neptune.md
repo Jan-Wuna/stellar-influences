@@ -3,10 +3,10 @@ title: Mars/MC = Neptune
 page_type: activation
 slug: mars-mc-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Mars
+  - MC
   - Neptune
 normalized_formula: Mars/MC = Neptune
 axis: Mars/MC
@@ -15,10 +15,13 @@ triad_set:
   - Mars
   - Neptune
   - MC
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 A fraudulent action. Inability to assert oneself. Outnumbered. To destroy something. Weakness of will. Working for the future.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mars/Medium Coeli`
+- Source page: `223`
+- Entry: `0778`
+
+#### Ebertin Entry
+
+A person who is incapable of independence or gaining recognition, a lack of power to succeed in life. Making the wrong arrangements, failures.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mars/Midheaven midpoint`
+- Source page: `77`
+- Activator: `Neptune`
+
+#### Sandbach Entry
+
+To allow one’s intuition to guide one’s actions so that spiritual forces are channeled through one into physical reality. To feel an obligation to do things to change the world. To be ineffective at asserting oneself in the world.
+
 ## Comparative Schema
 
-- core meaning: A fraudulent action. Inability to assert oneself. Outnumbered. To destroy something. Weakness of will. Working for the future.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ A fraudulent action. Inability to assert oneself. Outnumbered. To destroy someth
 - [MC](../factors/mc.md)
 - [Neptune](../factors/neptune.md)
 - [Mars/MC](../axes/mars-mc.md)
+- [Mars Neptune MC](../triads/mars-neptune-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

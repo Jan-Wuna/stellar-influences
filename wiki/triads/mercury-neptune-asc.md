@@ -3,7 +3,7 @@ title: Mercury Neptune Asc
 page_type: triad_hub
 slug: mercury-neptune-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Neptune
@@ -19,7 +19,9 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -31,18 +33,20 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mercury/Asc = Neptune](../activations/mercury-asc-equals-neptune.md)
-  Source page `83`
 - [Mercury/Neptune = Asc](../activations/mercury-neptune-equals-asc.md)
-  Source page `164`
 - [Neptune/Asc = Mercury](../activations/neptune-asc-equals-mercury.md)
-  Source page `89`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Asc = Neptune`: page `83`
-- `Mercury/Neptune = Asc`: page `164`
-- `Neptune/Asc = Mercury`: page `89`
+- `Mercury/Asc = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `83`
+- `Mercury/Asc = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `170`
+- `Mercury/Asc = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `52`
+- `Mercury/Neptune = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `164`
+- `Mercury/Neptune = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `162`
+- `Mercury/Neptune = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `49`
+- `Neptune/Asc = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `89`
+- `Neptune/Asc = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `287`
+- `Neptune/Asc = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `112`
 
 ## Contradictions Across Orientations
 
@@ -54,3 +58,6 @@ updated_at: 2026-04-21
 - [Mercury](../factors/mercury.md)
 - [Neptune](../factors/neptune.md)
 - [Asc](../factors/asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

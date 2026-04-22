@@ -3,10 +3,10 @@ title: Mars/MC = Mercury
 page_type: activation
 slug: mars-mc-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Mars
+  - MC
   - Mercury
 normalized_formula: Mars/MC = Mercury
 axis: Mars/MC
@@ -15,10 +15,13 @@ triad_set:
   - Mercury
   - Mars
   - MC
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 To give orders. To act rashly. Acting quickly.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mars/Medium Coeli`
+- Source page: `223`
+- Entry: `0773`
+
+#### Ebertin Entry
+
+Inclination to act with deliberation, organizing things, acting according to regulations and instructions, a person laying down instructions or orders. The receipt of exciting news, adjustment to a new occupation.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mars/Midheaven midpoint`
+- Source page: `77`
+- Activator: `Mercury`
+
+#### Sandbach Entry
+
+One’s ideas may be in conflict with authorities. One’s ideas challenge ac cepted ways of thinking about things. To be outspoken about ethics, morals, and what one feels is right.
+
 ## Comparative Schema
 
-- core meaning: To give orders. To act rashly. Acting quickly.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ To give orders. To act rashly. Acting quickly.
 - [MC](../factors/mc.md)
 - [Mercury](../factors/mercury.md)
 - [Mars/MC](../axes/mars-mc.md)
+- [Mercury Mars MC](../triads/mercury-mars-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

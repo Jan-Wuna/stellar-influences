@@ -3,7 +3,7 @@ title: Sun Moon Mercury
 page_type: triad_hub
 slug: sun-moon-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Moon
@@ -19,7 +19,10 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - don-mcbroom-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -31,18 +34,21 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Moon/Mercury = Sun](../activations/moon-mercury-equals-sun.md)
-  Source page `122`
 - [Sun/Mercury = Moon](../activations/sun-mercury-equals-moon.md)
-  Source page `103`
 - [Sun/Moon = Mercury](../activations/sun-moon-equals-mercury.md)
-  Source page `101`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Mercury = Sun`: page `122`
-- `Sun/Mercury = Moon`: page `103`
-- `Sun/Moon = Mercury`: page `101`
+- `Moon/Mercury = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `122`
+- `Moon/Mercury = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `114`
+- `Moon/Mercury = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `25`
+- `Sun/Mercury = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `103`
+- `Sun/Mercury = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `81`
+- `Sun/Mercury = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `8`
+- `Sun/Moon = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `101`
+- `Sun/Moon = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `78`
+- `Sun/Moon = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `6`
+- `Sun/Moon = Mercury`: Don McBroom - Midpoints, page `60`
 
 ## Contradictions Across Orientations
 
@@ -54,3 +60,7 @@ updated_at: 2026-04-21
 - [Sun](../factors/sun.md)
 - [Moon](../factors/moon.md)
 - [Mercury](../factors/mercury.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Don McBroom - Midpoints](../sources/don-mcbroom-midpoints.md)

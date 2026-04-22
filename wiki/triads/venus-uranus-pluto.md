@@ -3,7 +3,7 @@ title: Venus Uranus Pluto
 page_type: triad_hub
 slug: venus-uranus-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Uranus
@@ -19,7 +19,9 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -31,18 +33,20 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Uranus/Pluto = Venus](../activations/uranus-pluto-equals-venus.md)
-  Source page `235`
 - [Venus/Pluto = Uranus](../activations/venus-pluto-equals-uranus.md)
-  Source page `181`
 - [Venus/Uranus = Pluto](../activations/venus-uranus-equals-pluto.md)
-  Source page `179`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Uranus/Pluto = Venus`: page `235`
-- `Venus/Pluto = Uranus`: page `181`
-- `Venus/Uranus = Pluto`: page `179`
+- `Uranus/Pluto = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `235`
+- `Uranus/Pluto = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `269`
+- `Uranus/Pluto = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `105`
+- `Venus/Pluto = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `181`
+- `Venus/Pluto = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `191`
+- `Venus/Pluto = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `62`
+- `Venus/Uranus = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `179`
+- `Venus/Uranus = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `185`
+- `Venus/Uranus = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `60`
 
 ## Contradictions Across Orientations
 
@@ -54,3 +58,6 @@ updated_at: 2026-04-21
 - [Venus](../factors/venus.md)
 - [Uranus](../factors/uranus.md)
 - [Pluto](../factors/pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

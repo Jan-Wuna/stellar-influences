@@ -3,10 +3,10 @@ title: Pluto/Asc = MC
 page_type: activation
 slug: pluto-asc-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Pluto
+  - Asc
   - MC
 normalized_formula: Pluto/Asc = MC
 axis: Pluto/Asc
@@ -15,10 +15,13 @@ triad_set:
   - Pluto
   - Asc
   - MC
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 The influence by others on the native. Changes at the place interfere with the development of the native.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Pluto/Ascendant`
+- Source page: `296`
+- Entry: `1069`
+
+#### Ebertin Entry
+
+Attainment of power and authority in life. Attainment of success in one's career or occupation in life. A fascinating personality.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Pluto/Ascendant midpoint`
+- Source page: `116`
+- Activator: `Midheaven`
+
+#### Sandbach Entry
+
+Either to allow spiritual forces to strengthen and clarify one's identity, or to fall prey to obsessive identification with worldly success.
+
 ## Comparative Schema
 
-- core meaning: The influence by others on the native. Changes at the place interfere with the development of the native.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ The influence by others on the native. Changes at the place interfere with the d
 - [Asc](../factors/asc.md)
 - [MC](../factors/mc.md)
 - [Pluto/Asc](../axes/pluto-asc.md)
+- [Pluto Asc MC](../triads/pluto-asc-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

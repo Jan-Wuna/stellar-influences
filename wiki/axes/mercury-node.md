@@ -11,28 +11,29 @@ normalized_axis: Mercury/Node
 factor_a: Mercury
 factor_b: Node
 related_activations:
-  - Mercury/Node = Aries
-  - Mercury/Node = MC
+  - Mercury/Node = Admetos
+  - Mercury/Node = Apollon
   - Mercury/Node = Asc
-  - Mercury/Node = Sun
-  - Mercury/Node = Moon
-  - Mercury/Node = Venus
-  - Mercury/Node = Mars
-  - Mercury/Node = Jupiter
-  - Mercury/Node = Saturn
-  - Mercury/Node = Uranus
-  - Mercury/Node = Neptune
-  - Mercury/Node = Pluto
+  - Mercury/Node = Chiron
   - Mercury/Node = Cupido
   - Mercury/Node = Hades
-  - Mercury/Node = Zeus
+  - Mercury/Node = Jupiter
   - Mercury/Node = Kronos
-  - Mercury/Node = Apollon
-  - Mercury/Node = Admetos
-  - Mercury/Node = Vulcanus
+  - Mercury/Node = Mars
+  - Mercury/Node = MC
+  - Mercury/Node = Moon
+  - Mercury/Node = Neptune
+  - Mercury/Node = Pluto
   - Mercury/Node = Poseidon
+  - Mercury/Node = Saturn
+  - Mercury/Node = Sun
+  - Mercury/Node = Uranus
+  - Mercury/Node = Venus
+  - Mercury/Node = Vernal Point
+  - Mercury/Node = Vulcanus
+  - Mercury/Node = Zeus
 related_triad_hubs:
-  - Aries Mercury Node
+  - Mercury Chiron Node
   - Mercury Jupiter Node
   - Mercury Mars Node
   - Mercury Neptune Node
@@ -52,10 +53,14 @@ related_triad_hubs:
   - Mercury Venus Node
   - Moon Mercury Node
   - Sun Mercury Node
+  - Vernal Point Mercury Node
 aliases:
   - Node/Mercury
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -70,12 +75,59 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Mercury`
-- Source page: `141`
+- Source heading: `Mercury/Dragon's Head`
+- Source page: `166`
 
 #### Pair Summary
 
 Connections of thoughts. Correspondence. To make new connection. Intellectual or communications ties. Contacts or connections for communication.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mercury/Dragon's Head`
+- Source page: `166`
+
+#### Principle
+
+The exchange of ideas, common or joint plans.
+
+#### Psychological Correspondence
+
++ Sociable. Desire to exchange ideas and thoughts with other people, urge to give and receive stimulating ideas, intellectual interests. - Unsociable disposition, calculated use of contacts and relationships with others for one's personal benefit, inclination to chatter or gossip. C Desire to exchange ideas and thoughts with other people.
+
+#### Biological Correspondence
+
+The inter-relationship between the autonomic and voluntary nerves.
+
+#### Sociological Correspondence
+
+Tendency to form associations for the pursuit of joint interests.
+
+#### Probable Manifestations
+
++ Arrangement of social or business contacts. - Tendency to make oneself disliked by other people, disturbance of relationships. Mercury/Dragon's Head $/Q
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mercury/Node midpoint`
+- Source page: `51`
+
+#### Principle
+
+A love of sharing ideas with others. Truly caring about with other people think. Others’ ideas help one to refine one’s own, and to be more clear about what one thinks. The search for ideas that will help one evolve.
+
+#### Process
+
+The pull between thinking which accommodates a static and seemingly safe connection to the past, and thinking which allows for change and supports one’s evolution.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Mercury/Nodes`
+- Source page: `205`
+
+#### Pair Delineation
+
+Mental contacts and connections. To establish connections by communication. To meet others. Correspondence, the desire to exchange ideas with others. The ability to perform mental work in groups.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -120,26 +172,27 @@ Assimilation of food unable to get to the body parts needed due to broken or blo
 
 ## Related Activations
 
-- [Mercury/Node = Aries](../activations/mercury-node-equals-aries.md)
-- [Mercury/Node = MC](../activations/mercury-node-equals-mc.md)
+- [Mercury/Node = Admetos](../activations/mercury-node-equals-admetos.md)
+- [Mercury/Node = Apollon](../activations/mercury-node-equals-apollon.md)
 - [Mercury/Node = Asc](../activations/mercury-node-equals-asc.md)
-- [Mercury/Node = Sun](../activations/mercury-node-equals-sun.md)
-- [Mercury/Node = Moon](../activations/mercury-node-equals-moon.md)
-- [Mercury/Node = Venus](../activations/mercury-node-equals-venus.md)
-- [Mercury/Node = Mars](../activations/mercury-node-equals-mars.md)
-- [Mercury/Node = Jupiter](../activations/mercury-node-equals-jupiter.md)
-- [Mercury/Node = Saturn](../activations/mercury-node-equals-saturn.md)
-- [Mercury/Node = Uranus](../activations/mercury-node-equals-uranus.md)
-- [Mercury/Node = Neptune](../activations/mercury-node-equals-neptune.md)
-- [Mercury/Node = Pluto](../activations/mercury-node-equals-pluto.md)
+- [Mercury/Node = Chiron](../activations/mercury-node-equals-chiron.md)
 - [Mercury/Node = Cupido](../activations/mercury-node-equals-cupido.md)
 - [Mercury/Node = Hades](../activations/mercury-node-equals-hades.md)
-- [Mercury/Node = Zeus](../activations/mercury-node-equals-zeus.md)
+- [Mercury/Node = Jupiter](../activations/mercury-node-equals-jupiter.md)
 - [Mercury/Node = Kronos](../activations/mercury-node-equals-kronos.md)
-- [Mercury/Node = Apollon](../activations/mercury-node-equals-apollon.md)
-- [Mercury/Node = Admetos](../activations/mercury-node-equals-admetos.md)
-- [Mercury/Node = Vulcanus](../activations/mercury-node-equals-vulcanus.md)
+- [Mercury/Node = Mars](../activations/mercury-node-equals-mars.md)
+- [Mercury/Node = MC](../activations/mercury-node-equals-mc.md)
+- [Mercury/Node = Moon](../activations/mercury-node-equals-moon.md)
+- [Mercury/Node = Neptune](../activations/mercury-node-equals-neptune.md)
+- [Mercury/Node = Pluto](../activations/mercury-node-equals-pluto.md)
 - [Mercury/Node = Poseidon](../activations/mercury-node-equals-poseidon.md)
+- [Mercury/Node = Saturn](../activations/mercury-node-equals-saturn.md)
+- [Mercury/Node = Sun](../activations/mercury-node-equals-sun.md)
+- [Mercury/Node = Uranus](../activations/mercury-node-equals-uranus.md)
+- [Mercury/Node = Venus](../activations/mercury-node-equals-venus.md)
+- [Mercury/Node = Vernal Point](../activations/mercury-node-equals-vernal-point.md)
+- [Mercury/Node = Vulcanus](../activations/mercury-node-equals-vulcanus.md)
+- [Mercury/Node = Zeus](../activations/mercury-node-equals-zeus.md)
 
 ## Contradictions
 
@@ -155,4 +208,7 @@ Assimilation of food unable to get to the body parts needed due to broken or blo
 - [Mercury](../factors/mercury.md)
 - [Node](../factors/node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

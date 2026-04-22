@@ -11,7 +11,7 @@ normalized_axis: Hades/Apollon
 factor_a: Hades
 factor_b: Apollon
 related_activations:
-  - Hades/Apollon = Aries
+  - Hades/Apollon = Vernal Point
   - Hades/Apollon = MC
   - Hades/Apollon = Asc
   - Hades/Apollon = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Hades/Apollon = Vulcanus
   - Hades/Apollon = Poseidon
 related_triad_hubs:
-  - Aries Hades Apollon
   - Asc Hades Apollon
   - Cupido Hades Apollon
   - Hades Apollon Admetos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Hades Apollon
   - Uranus Hades Apollon
   - Venus Hades Apollon
+  - Vernal Point Hades Apollon
 aliases:
   - Apollon/Hades
 source_pages:
@@ -85,7 +85,7 @@ Lack of experience. Widespread poverty. Mass misery. Garbage and junk dealers. T
 
 ## Related Activations
 
-- [Hades/Apollon = Aries](../activations/hades-apollon-equals-aries.md)
+- [Hades/Apollon = Vernal Point](../activations/hades-apollon-equals-vernal-point.md)
 - [Hades/Apollon = MC](../activations/hades-apollon-equals-mc.md)
 - [Hades/Apollon = Asc](../activations/hades-apollon-equals-asc.md)
 - [Hades/Apollon = Sun](../activations/hades-apollon-equals-sun.md)

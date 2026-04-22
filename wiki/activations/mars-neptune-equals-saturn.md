@@ -3,7 +3,7 @@ title: Mars/Neptune = Saturn
 page_type: activation
 slug: mars-neptune-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Neptune
@@ -15,10 +15,13 @@ triad_set:
   - Mars
   - Saturn
   - Neptune
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Lasting periodic work which cause destructions. Articular rheumatism. Slow death as a result of a pestilential diseases.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mars/Neptune`
+- Source page: `211`
+- Entry: `0728`
+
+#### Ebertin Entry
+
+Instability, feelings of inferiority, misdirected energy. Unfortunate consequences as a result of a weak will, lasting weakness or illness. (Malfunctioning of the skin, weak bones, toxins in the body, an epidemic.)
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mars/Neptune midpoint`
+- Source page: `72`
+- Activator: `Saturn`
+
+#### Sandbach Entry
+
+To feel unable or afraid of acting on one’s intuition. To be afraid of psychic warfare and attacks happening on subtle and energetic planes. Confused or chaotic action that happens over and over and that one is likely to overcome only slowly.
+
 ## Comparative Schema
 
-- core meaning: Lasting periodic work which cause destructions. Articular rheumatism. Slow death as a result of a pestilential diseases.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Lasting periodic work which cause destructions. Articular rheumatism. Slow death
 - [Neptune](../factors/neptune.md)
 - [Saturn](../factors/saturn.md)
 - [Mars/Neptune](../axes/mars-neptune.md)
+- [Mars Saturn Neptune](../triads/mars-saturn-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

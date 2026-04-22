@@ -11,7 +11,7 @@ normalized_axis: Node/Hades
 factor_a: Node
 factor_b: Hades
 related_activations:
-  - Node/Hades = Aries
+  - Node/Hades = Vernal Point
   - Node/Hades = MC
   - Node/Hades = Asc
   - Node/Hades = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Node/Hades = Vulcanus
   - Node/Hades = Poseidon
 related_triad_hubs:
-  - Aries Node Hades
   - Jupiter Node Hades
   - Mars Node Hades
   - Mercury Node Hades
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Node Hades
   - Uranus Node Hades
   - Venus Node Hades
+  - Vernal Point Node Hades
 aliases:
   - Hades/Node
 source_pages:
@@ -85,7 +85,7 @@ A mean act committed jointly. Connections started under difficulties or with rel
 
 ## Related Activations
 
-- [Node/Hades = Aries](../activations/node-hades-equals-aries.md)
+- [Node/Hades = Vernal Point](../activations/node-hades-equals-vernal-point.md)
 - [Node/Hades = MC](../activations/node-hades-equals-mc.md)
 - [Node/Hades = Asc](../activations/node-hades-equals-asc.md)
 - [Node/Hades = Sun](../activations/node-hades-equals-sun.md)

@@ -11,29 +11,30 @@ normalized_axis: Moon/MC
 factor_a: Moon
 factor_b: MC
 related_activations:
-  - Moon/MC = Aries
+  - Moon/MC = Admetos
+  - Moon/MC = Apollon
   - Moon/MC = Asc
-  - Moon/MC = Sun
-  - Moon/MC = Node
-  - Moon/MC = Mercury
-  - Moon/MC = Venus
-  - Moon/MC = Mars
-  - Moon/MC = Jupiter
-  - Moon/MC = Saturn
-  - Moon/MC = Uranus
-  - Moon/MC = Neptune
-  - Moon/MC = Pluto
+  - Moon/MC = Chiron
   - Moon/MC = Cupido
   - Moon/MC = Hades
-  - Moon/MC = Zeus
+  - Moon/MC = Jupiter
   - Moon/MC = Kronos
-  - Moon/MC = Apollon
-  - Moon/MC = Admetos
-  - Moon/MC = Vulcanus
+  - Moon/MC = Mars
+  - Moon/MC = Mercury
+  - Moon/MC = Neptune
+  - Moon/MC = Node
+  - Moon/MC = Pluto
   - Moon/MC = Poseidon
+  - Moon/MC = Saturn
+  - Moon/MC = Sun
+  - Moon/MC = Uranus
+  - Moon/MC = Venus
+  - Moon/MC = Vernal Point
+  - Moon/MC = Vulcanus
+  - Moon/MC = Zeus
 related_triad_hubs:
-  - Aries Moon MC
   - Moon Asc MC
+  - Moon Chiron MC
   - Moon Jupiter MC
   - Moon Mars MC
   - Moon MC Admetos
@@ -52,10 +53,14 @@ related_triad_hubs:
   - Moon Uranus MC
   - Moon Venus MC
   - Sun Moon MC
+  - Vernal Point Moon MC
 aliases:
   - MC/Moon
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -70,12 +75,59 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Moon`
-- Source page: `60`
+- Source heading: `Moon/Medium Coeli`
+- Source page: `142`
 
 #### Pair Summary
 
 The psychological influence of women. One’s own mind. The own attitude towards females, a people or to the public. The state of the mind and soul. Personal relations with females and to the public. Emotional hour. Emotions in a people. The start of an hour. The feeling or attitude of being a woman.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Moon/Medium Coeli`
+- Source page: `142`
+
+#### Principle
+
+One's soul.
+
+#### Psychological Correspondence
+
++ Deep sentiment and feeling, a rich soul life, the inner experiences of life and appreciation of spiritual values. Life objectives are rooted deeply in one's soul, great aspirations, desire to care for others, motherliness, an appreciation of home and family, flexible and mutable. - Untenable life objectives, wavering disposition, change of moods, unreliable. C A deep soul expression, impressionable, changeable character.
+
+#### Biological Correspondence
+
+The distribution of blood and liquid in the body. Collapse. The blood donor.
+
+#### Sociological Correspondence
+
+The female sex, people with feeling and sentiment.
+
+#### Probable Manifestations
+
++ Strong soul ties, a soul relationship with the female sex, entering into a spiritual relationship with a member of the opposite sex. - Changing life objectives lead to many changes in life. Moon/Medium Coeli D/M
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Moon/Midheaven midpoint`
+- Source page: `40`
+
+#### Principle
+
+The highest attainment possible for one’s emotions, meaning the achieve ment of clarity of feeling and instinct, as well as development of the ability to effectively care for and nurture others, and to play the part of a loving parent. The ability to be re ceptive and impressionable to spiritual forces and influences.
+
+#### Process
+
+Development of the ability to be open to guidance by spiritual forces and to maintain emotional attunement to their energy.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Moon/Midheaven`
+- Source page: `204`
+
+#### Pair Delineation
+
+One's own feelings and attitudes, especially those conditioned most by early experience, family, and heredity. One's relationship with the past, and its effects on one's destiny and life direction. Probably also contributes to the experience of one's own mother.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -120,26 +172,27 @@ Family genetic patterns which make you crave or be sensitive to certain drugs; h
 
 ## Related Activations
 
-- [Moon/MC = Aries](../activations/moon-mc-equals-aries.md)
+- [Moon/MC = Admetos](../activations/moon-mc-equals-admetos.md)
+- [Moon/MC = Apollon](../activations/moon-mc-equals-apollon.md)
 - [Moon/MC = Asc](../activations/moon-mc-equals-asc.md)
-- [Moon/MC = Sun](../activations/moon-mc-equals-sun.md)
-- [Moon/MC = Node](../activations/moon-mc-equals-node.md)
-- [Moon/MC = Mercury](../activations/moon-mc-equals-mercury.md)
-- [Moon/MC = Venus](../activations/moon-mc-equals-venus.md)
-- [Moon/MC = Mars](../activations/moon-mc-equals-mars.md)
-- [Moon/MC = Jupiter](../activations/moon-mc-equals-jupiter.md)
-- [Moon/MC = Saturn](../activations/moon-mc-equals-saturn.md)
-- [Moon/MC = Uranus](../activations/moon-mc-equals-uranus.md)
-- [Moon/MC = Neptune](../activations/moon-mc-equals-neptune.md)
-- [Moon/MC = Pluto](../activations/moon-mc-equals-pluto.md)
+- [Moon/MC = Chiron](../activations/moon-mc-equals-chiron.md)
 - [Moon/MC = Cupido](../activations/moon-mc-equals-cupido.md)
 - [Moon/MC = Hades](../activations/moon-mc-equals-hades.md)
-- [Moon/MC = Zeus](../activations/moon-mc-equals-zeus.md)
+- [Moon/MC = Jupiter](../activations/moon-mc-equals-jupiter.md)
 - [Moon/MC = Kronos](../activations/moon-mc-equals-kronos.md)
-- [Moon/MC = Apollon](../activations/moon-mc-equals-apollon.md)
-- [Moon/MC = Admetos](../activations/moon-mc-equals-admetos.md)
-- [Moon/MC = Vulcanus](../activations/moon-mc-equals-vulcanus.md)
+- [Moon/MC = Mars](../activations/moon-mc-equals-mars.md)
+- [Moon/MC = Mercury](../activations/moon-mc-equals-mercury.md)
+- [Moon/MC = Neptune](../activations/moon-mc-equals-neptune.md)
+- [Moon/MC = Node](../activations/moon-mc-equals-node.md)
+- [Moon/MC = Pluto](../activations/moon-mc-equals-pluto.md)
 - [Moon/MC = Poseidon](../activations/moon-mc-equals-poseidon.md)
+- [Moon/MC = Saturn](../activations/moon-mc-equals-saturn.md)
+- [Moon/MC = Sun](../activations/moon-mc-equals-sun.md)
+- [Moon/MC = Uranus](../activations/moon-mc-equals-uranus.md)
+- [Moon/MC = Venus](../activations/moon-mc-equals-venus.md)
+- [Moon/MC = Vernal Point](../activations/moon-mc-equals-vernal-point.md)
+- [Moon/MC = Vulcanus](../activations/moon-mc-equals-vulcanus.md)
+- [Moon/MC = Zeus](../activations/moon-mc-equals-zeus.md)
 
 ## Contradictions
 
@@ -155,4 +208,7 @@ Family genetic patterns which make you crave or be sensitive to certain drugs; h
 - [Moon](../factors/moon.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

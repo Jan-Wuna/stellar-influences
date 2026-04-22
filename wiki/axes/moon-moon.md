@@ -11,7 +11,7 @@ normalized_axis: Moon/Moon
 factor_a: Moon
 factor_b: Moon
 related_activations:
-  - Moon/Moon = Aries
+  - Moon/Moon = Vernal Point
   - Moon/Moon = MC
   - Moon/Moon = Asc
   - Moon/Moon = Sun
@@ -67,7 +67,7 @@ Female persons. The people. The public. The hour. Changeable things. Function of
 
 ## Related Activations
 
-- [Moon/Moon = Aries](../activations/moon-moon-equals-aries.md)
+- [Moon/Moon = Vernal Point](../activations/moon-moon-equals-vernal-point.md)
 - [Moon/Moon = MC](../activations/moon-moon-equals-mc.md)
 - [Moon/Moon = Asc](../activations/moon-moon-equals-asc.md)
 - [Moon/Moon = Sun](../activations/moon-moon-equals-sun.md)

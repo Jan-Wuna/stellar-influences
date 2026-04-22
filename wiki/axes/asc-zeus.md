@@ -11,7 +11,7 @@ normalized_axis: Asc/Zeus
 factor_a: Asc
 factor_b: Zeus
 related_activations:
-  - Asc/Zeus = Aries
+  - Asc/Zeus = Vernal Point
   - Asc/Zeus = MC
   - Asc/Zeus = Sun
   - Asc/Zeus = Moon
@@ -32,7 +32,6 @@ related_activations:
   - Asc/Zeus = Vulcanus
   - Asc/Zeus = Poseidon
 related_triad_hubs:
-  - Aries Asc Zeus
   - Asc Cupido Zeus
   - Asc Hades Zeus
   - Asc MC Zeus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Asc Zeus
   - Uranus Asc Zeus
   - Venus Asc Zeus
+  - Vernal Point Asc Zeus
 aliases:
   - Zeus/Asc
 source_pages:
@@ -85,7 +85,7 @@ Others are near. Things or matters which are in the immediate environment of the
 
 ## Related Activations
 
-- [Asc/Zeus = Aries](../activations/asc-zeus-equals-aries.md)
+- [Asc/Zeus = Vernal Point](../activations/asc-zeus-equals-vernal-point.md)
 - [Asc/Zeus = MC](../activations/asc-zeus-equals-mc.md)
 - [Asc/Zeus = Sun](../activations/asc-zeus-equals-sun.md)
 - [Asc/Zeus = Moon](../activations/asc-zeus-equals-moon.md)

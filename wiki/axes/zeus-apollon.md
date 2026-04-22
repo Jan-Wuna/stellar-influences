@@ -11,7 +11,7 @@ normalized_axis: Zeus/Apollon
 factor_a: Zeus
 factor_b: Apollon
 related_activations:
-  - Zeus/Apollon = Aries
+  - Zeus/Apollon = Vernal Point
   - Zeus/Apollon = MC
   - Zeus/Apollon = Asc
   - Zeus/Apollon = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Zeus/Apollon = Vulcanus
   - Zeus/Apollon = Poseidon
 related_triad_hubs:
-  - Aries Zeus Apollon
   - Asc Zeus Apollon
   - Cupido Zeus Apollon
   - Hades Zeus Apollon
@@ -48,6 +47,7 @@ related_triad_hubs:
   - Sun Zeus Apollon
   - Uranus Zeus Apollon
   - Venus Zeus Apollon
+  - Vernal Point Zeus Apollon
   - Zeus Apollon Admetos
   - Zeus Apollon Poseidon
   - Zeus Apollon Vulcanus
@@ -85,7 +85,7 @@ To do research. To experiment. To learn, to study, to collect experience. Natura
 
 ## Related Activations
 
-- [Zeus/Apollon = Aries](../activations/zeus-apollon-equals-aries.md)
+- [Zeus/Apollon = Vernal Point](../activations/zeus-apollon-equals-vernal-point.md)
 - [Zeus/Apollon = MC](../activations/zeus-apollon-equals-mc.md)
 - [Zeus/Apollon = Asc](../activations/zeus-apollon-equals-asc.md)
 - [Zeus/Apollon = Sun](../activations/zeus-apollon-equals-sun.md)

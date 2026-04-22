@@ -3,7 +3,7 @@ title: Pluto Node Asc
 page_type: triad_hub
 slug: pluto-node-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Node
@@ -19,7 +19,9 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -31,18 +33,20 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Node/Asc = Pluto](../activations/node-asc-equals-pluto.md)
-  Source page `82`
 - [Pluto/Asc = Node](../activations/pluto-asc-equals-node.md)
-  Source page `90`
 - [Pluto/Node = Asc](../activations/pluto-node-equals-asc.md)
-  Source page `148`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Node/Asc = Pluto`: page `82`
-- `Pluto/Asc = Node`: page `90`
-- `Pluto/Node = Asc`: page `148`
+- `Node/Asc = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `82`
+- `Node/Asc = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `302`
+- `Node/Asc = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `118`
+- `Pluto/Asc = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `90`
+- `Pluto/Asc = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `296`
+- `Pluto/Asc = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `116`
+- `Pluto/Node = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `148`
+- `Pluto/Node = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `293`
+- `Pluto/Node = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `114`
 
 ## Contradictions Across Orientations
 
@@ -54,3 +58,6 @@ updated_at: 2026-04-21
 - [Pluto](../factors/pluto.md)
 - [Node](../factors/node.md)
 - [Asc](../factors/asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

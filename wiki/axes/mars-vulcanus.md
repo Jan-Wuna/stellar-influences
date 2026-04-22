@@ -11,7 +11,7 @@ normalized_axis: Mars/Vulcanus
 factor_a: Mars
 factor_b: Vulcanus
 related_activations:
-  - Mars/Vulcanus = Aries
+  - Mars/Vulcanus = Vernal Point
   - Mars/Vulcanus = MC
   - Mars/Vulcanus = Asc
   - Mars/Vulcanus = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Mars/Vulcanus = Admetos
   - Mars/Vulcanus = Poseidon
 related_triad_hubs:
-  - Aries Mars Vulcanus
   - Mars Admetos Vulcanus
   - Mars Apollon Vulcanus
   - Mars Asc Vulcanus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Moon Mars Vulcanus
   - Sun Mars Vulcanus
   - Venus Mars Vulcanus
+  - Vernal Point Mars Vulcanus
 aliases:
   - Vulcanus/Mars
 source_pages:
@@ -85,7 +85,7 @@ Great effort. Exercise. Mighty activity. Great power. Acts of violence. Mechanic
 
 ## Related Activations
 
-- [Mars/Vulcanus = Aries](../activations/mars-vulcanus-equals-aries.md)
+- [Mars/Vulcanus = Vernal Point](../activations/mars-vulcanus-equals-vernal-point.md)
 - [Mars/Vulcanus = MC](../activations/mars-vulcanus-equals-mc.md)
 - [Mars/Vulcanus = Asc](../activations/mars-vulcanus-equals-asc.md)
 - [Mars/Vulcanus = Sun](../activations/mars-vulcanus-equals-sun.md)

@@ -11,29 +11,30 @@ normalized_axis: Mars/MC
 factor_a: Mars
 factor_b: MC
 related_activations:
-  - Mars/MC = Aries
+  - Mars/MC = Admetos
+  - Mars/MC = Apollon
   - Mars/MC = Asc
-  - Mars/MC = Sun
-  - Mars/MC = Moon
-  - Mars/MC = Node
-  - Mars/MC = Mercury
-  - Mars/MC = Venus
-  - Mars/MC = Jupiter
-  - Mars/MC = Saturn
-  - Mars/MC = Uranus
-  - Mars/MC = Neptune
-  - Mars/MC = Pluto
+  - Mars/MC = Chiron
   - Mars/MC = Cupido
   - Mars/MC = Hades
-  - Mars/MC = Zeus
+  - Mars/MC = Jupiter
   - Mars/MC = Kronos
-  - Mars/MC = Apollon
-  - Mars/MC = Admetos
-  - Mars/MC = Vulcanus
+  - Mars/MC = Mercury
+  - Mars/MC = Moon
+  - Mars/MC = Neptune
+  - Mars/MC = Node
+  - Mars/MC = Pluto
   - Mars/MC = Poseidon
+  - Mars/MC = Saturn
+  - Mars/MC = Sun
+  - Mars/MC = Uranus
+  - Mars/MC = Venus
+  - Mars/MC = Vernal Point
+  - Mars/MC = Vulcanus
+  - Mars/MC = Zeus
 related_triad_hubs:
-  - Aries Mars MC
   - Mars Asc MC
+  - Mars Chiron MC
   - Mars Jupiter MC
   - Mars MC Admetos
   - Mars MC Apollon
@@ -52,10 +53,14 @@ related_triad_hubs:
   - Moon Mars MC
   - Sun Mars MC
   - Venus Mars MC
+  - Vernal Point Mars MC
 aliases:
   - MC/Mars
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -70,12 +75,59 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Mars`
-- Source page: `64`
+- Source heading: `Mars/Medium Coeli`
+- Source page: `222`
 
 #### Pair Summary
 
 Making arrangements. Giving orders. Ones own action. A agitated mind. Self-will. To feel energy. To pull oneself together. The urge to be active. Minute of action. Personal goals at work. Psychically active.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mars/Medium Coeli`
+- Source page: `222`
+
+#### Principle
+
+Ego-conscious action.
+
+#### Psychological Correspondence
+
++ Readiness for action, ability to make decisions, consciousness of one's aims and objectives in life, independence, the power to succeed in one's career, organizing ability, prudence, a resolute and determined personality. - An excitable disposition, inclination to act under emotional stress, premature action, impulsive, lack of purpose and direction with regard to an aim in life. C Concentration upon an aim or objective, the power to succeed in life, independence.
+
+#### Biological Correspondence
+
+Functions of the voluntary muscles, regulation of bodily heat. Fever.
+
+#### Sociological Correspondence
+
+Organizers, people in leading positions, leading personalities.
+
+#### Probable Manifestations
+
++ Attainment of one's aims in life through resolute action, advancement in one's career, a change in one's occupation. - Failures caused through wrong arrangements or instructions or through premature action, quarrels or disputes. 46 Combinations of Mars/MC appear to particularly strengthen the determination (Mars) of the ego (MC) and this varies with age. Dr. Martin Konig writes that Mercury pr. = Mars/MC can be interpreted as an "examination combination." He says: "The Mars/MC axis shows the activity of the native. Mercury in this axis shows activity on a mental plane or perhaps a fight with mental weapons. As an addition to the well proven rules I would suggest the following: 'concentrated mental activity, discussion, exams, debate.'" Mars/Medium Coeli cf/M
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mars/Midheaven midpoint`
+- Source page: `77`
+
+#### Principle
+
+To align one’s actions with one’s Higher Self and spiritual principles. To take action based on the dictated of Spirit. To work hard at one’s career, and to create secu rity for oneself. Conflicts with one’s employer and with authority figures.
+
+#### Process
+
+Active union with guiding spiritual forces. To assert oneself in the world. To build one’s authority. To engage in active and assertive parenting.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Mars/Midheaven`
+- Source page: `208`
+
+#### Pair Delineation
+
+To assert oneself or one's objectives. "I act." One's own actions. To display great personal energy. The awareness of and assertion of one's own individuality with respect to others.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -120,26 +172,27 @@ Emphasizes your personal maturity and the energy you place into becoming psychol
 
 ## Related Activations
 
-- [Mars/MC = Aries](../activations/mars-mc-equals-aries.md)
+- [Mars/MC = Admetos](../activations/mars-mc-equals-admetos.md)
+- [Mars/MC = Apollon](../activations/mars-mc-equals-apollon.md)
 - [Mars/MC = Asc](../activations/mars-mc-equals-asc.md)
-- [Mars/MC = Sun](../activations/mars-mc-equals-sun.md)
-- [Mars/MC = Moon](../activations/mars-mc-equals-moon.md)
-- [Mars/MC = Node](../activations/mars-mc-equals-node.md)
-- [Mars/MC = Mercury](../activations/mars-mc-equals-mercury.md)
-- [Mars/MC = Venus](../activations/mars-mc-equals-venus.md)
-- [Mars/MC = Jupiter](../activations/mars-mc-equals-jupiter.md)
-- [Mars/MC = Saturn](../activations/mars-mc-equals-saturn.md)
-- [Mars/MC = Uranus](../activations/mars-mc-equals-uranus.md)
-- [Mars/MC = Neptune](../activations/mars-mc-equals-neptune.md)
-- [Mars/MC = Pluto](../activations/mars-mc-equals-pluto.md)
+- [Mars/MC = Chiron](../activations/mars-mc-equals-chiron.md)
 - [Mars/MC = Cupido](../activations/mars-mc-equals-cupido.md)
 - [Mars/MC = Hades](../activations/mars-mc-equals-hades.md)
-- [Mars/MC = Zeus](../activations/mars-mc-equals-zeus.md)
+- [Mars/MC = Jupiter](../activations/mars-mc-equals-jupiter.md)
 - [Mars/MC = Kronos](../activations/mars-mc-equals-kronos.md)
-- [Mars/MC = Apollon](../activations/mars-mc-equals-apollon.md)
-- [Mars/MC = Admetos](../activations/mars-mc-equals-admetos.md)
-- [Mars/MC = Vulcanus](../activations/mars-mc-equals-vulcanus.md)
+- [Mars/MC = Mercury](../activations/mars-mc-equals-mercury.md)
+- [Mars/MC = Moon](../activations/mars-mc-equals-moon.md)
+- [Mars/MC = Neptune](../activations/mars-mc-equals-neptune.md)
+- [Mars/MC = Node](../activations/mars-mc-equals-node.md)
+- [Mars/MC = Pluto](../activations/mars-mc-equals-pluto.md)
 - [Mars/MC = Poseidon](../activations/mars-mc-equals-poseidon.md)
+- [Mars/MC = Saturn](../activations/mars-mc-equals-saturn.md)
+- [Mars/MC = Sun](../activations/mars-mc-equals-sun.md)
+- [Mars/MC = Uranus](../activations/mars-mc-equals-uranus.md)
+- [Mars/MC = Venus](../activations/mars-mc-equals-venus.md)
+- [Mars/MC = Vernal Point](../activations/mars-mc-equals-vernal-point.md)
+- [Mars/MC = Vulcanus](../activations/mars-mc-equals-vulcanus.md)
+- [Mars/MC = Zeus](../activations/mars-mc-equals-zeus.md)
 
 ## Contradictions
 
@@ -155,4 +208,7 @@ Emphasizes your personal maturity and the energy you place into becoming psychol
 - [Mars](../factors/mars.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

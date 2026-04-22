@@ -11,7 +11,7 @@ normalized_axis: Pluto/Pluto
 factor_a: Pluto
 factor_b: Pluto
 related_activations:
-  - Pluto/Pluto = Aries
+  - Pluto/Pluto = Vernal Point
   - Pluto/Pluto = MC
   - Pluto/Pluto = Asc
   - Pluto/Pluto = Sun
@@ -67,7 +67,7 @@ Development. Transformation. Turnaround. Change. Growth. Division. Reshaping Uph
 
 ## Related Activations
 
-- [Pluto/Pluto = Aries](../activations/pluto-pluto-equals-aries.md)
+- [Pluto/Pluto = Vernal Point](../activations/pluto-pluto-equals-vernal-point.md)
 - [Pluto/Pluto = MC](../activations/pluto-pluto-equals-mc.md)
 - [Pluto/Pluto = Asc](../activations/pluto-pluto-equals-asc.md)
 - [Pluto/Pluto = Sun](../activations/pluto-pluto-equals-sun.md)

@@ -11,7 +11,7 @@ normalized_axis: Venus/Zeus
 factor_a: Venus
 factor_b: Zeus
 related_activations:
-  - Venus/Zeus = Aries
+  - Venus/Zeus = Vernal Point
   - Venus/Zeus = MC
   - Venus/Zeus = Asc
   - Venus/Zeus = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Venus/Zeus = Vulcanus
   - Venus/Zeus = Poseidon
 related_triad_hubs:
-  - Aries Venus Zeus
   - Mercury Venus Zeus
   - Moon Venus Zeus
   - Sun Venus Zeus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Venus Zeus Kronos
   - Venus Zeus Poseidon
   - Venus Zeus Vulcanus
+  - Vernal Point Venus Zeus
 aliases:
   - Zeus/Venus
 source_pages:
@@ -85,7 +85,7 @@ Devoted activity. Seed. Sperm. Procreation out of love. Increase. To seed. To pr
 
 ## Related Activations
 
-- [Venus/Zeus = Aries](../activations/venus-zeus-equals-aries.md)
+- [Venus/Zeus = Vernal Point](../activations/venus-zeus-equals-vernal-point.md)
 - [Venus/Zeus = MC](../activations/venus-zeus-equals-mc.md)
 - [Venus/Zeus = Asc](../activations/venus-zeus-equals-asc.md)
 - [Venus/Zeus = Sun](../activations/venus-zeus-equals-sun.md)

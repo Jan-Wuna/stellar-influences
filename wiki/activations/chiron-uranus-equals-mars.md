@@ -1,0 +1,68 @@
+---
+title: Chiron/Uranus = Mars
+page_type: activation
+slug: chiron-uranus-equals-mars
+status: source_ingested
+framework_scope: modern_astrology
+factors:
+  - Chiron
+  - Uranus
+  - Mars
+normalized_formula: Chiron/Uranus = Mars
+axis: Chiron/Uranus
+activated_by: Mars
+triad_set:
+  - Mars
+  - Chiron
+  - Uranus
+aliases:
+  []
+source_pages:
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-21
+---
+
+## Identity
+
+- Formula: `Chiron/Uranus = Mars`
+- Astronomicon formula: `Chiron/X = U`
+- Axis page: [Chiron/Uranus](../axes/chiron-uranus.md)
+- Triad hub: [Mars Chiron Uranus](../triads/mars-chiron-uranus.md)
+
+## Source Entries
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Chiron/Uranus midpoint`
+- Source page: `96`
+- Activator: `Mars`
+
+#### Sandbach Entry
+
+To be willing to experiment and to change one’s direction and plan of action on inspiration. Actions whose impulse arises from sudden and/or unexpected insights.
+
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
+
+## Derived Synthesis
+
+- None yet beyond source structuring.
+
+## Links
+
+- [Chiron](../factors/chiron.md)
+- [Uranus](../factors/uranus.md)
+- [Mars](../factors/mars.md)
+- [Chiron/Uranus](../axes/chiron-uranus.md)
+- [Mars Chiron Uranus](../triads/mars-chiron-uranus.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

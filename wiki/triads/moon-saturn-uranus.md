@@ -3,7 +3,7 @@ title: Moon Saturn Uranus
 page_type: triad_hub
 slug: moon-saturn-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Saturn
@@ -19,7 +19,9 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -31,18 +33,20 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Moon/Saturn = Uranus](../activations/moon-saturn-equals-uranus.md)
-  Source page `126`
 - [Moon/Uranus = Saturn](../activations/moon-uranus-equals-saturn.md)
-  Source page `127`
 - [Saturn/Uranus = Moon](../activations/saturn-uranus-equals-moon.md)
-  Source page `221`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Saturn = Uranus`: page `126`
-- `Moon/Uranus = Saturn`: page `127`
-- `Saturn/Uranus = Moon`: page `221`
+- `Moon/Saturn = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `126`
+- `Moon/Saturn = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `126`
+- `Moon/Saturn = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `31`
+- `Moon/Uranus = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `127`
+- `Moon/Uranus = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `129`
+- `Moon/Uranus = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `33`
+- `Saturn/Uranus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `221`
+- `Saturn/Uranus = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `247`
+- `Saturn/Uranus = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `88`
 
 ## Contradictions Across Orientations
 
@@ -54,3 +58,6 @@ updated_at: 2026-04-21
 - [Moon](../factors/moon.md)
 - [Saturn](../factors/saturn.md)
 - [Uranus](../factors/uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

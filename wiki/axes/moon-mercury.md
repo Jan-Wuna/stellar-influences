@@ -11,31 +11,32 @@ normalized_axis: Moon/Mercury
 factor_a: Moon
 factor_b: Mercury
 related_activations:
-  - Moon/Mercury = Aries
-  - Moon/Mercury = MC
+  - Moon/Mercury = Admetos
+  - Moon/Mercury = Apollon
   - Moon/Mercury = Asc
-  - Moon/Mercury = Sun
-  - Moon/Mercury = Node
-  - Moon/Mercury = Venus
-  - Moon/Mercury = Mars
-  - Moon/Mercury = Jupiter
-  - Moon/Mercury = Saturn
-  - Moon/Mercury = Uranus
-  - Moon/Mercury = Neptune
-  - Moon/Mercury = Pluto
+  - Moon/Mercury = Chiron
   - Moon/Mercury = Cupido
   - Moon/Mercury = Hades
-  - Moon/Mercury = Zeus
+  - Moon/Mercury = Jupiter
   - Moon/Mercury = Kronos
-  - Moon/Mercury = Apollon
-  - Moon/Mercury = Admetos
-  - Moon/Mercury = Vulcanus
+  - Moon/Mercury = Mars
+  - Moon/Mercury = MC
+  - Moon/Mercury = Neptune
+  - Moon/Mercury = Node
+  - Moon/Mercury = Pluto
   - Moon/Mercury = Poseidon
+  - Moon/Mercury = Saturn
+  - Moon/Mercury = Sun
+  - Moon/Mercury = Uranus
+  - Moon/Mercury = Venus
+  - Moon/Mercury = Vernal Point
+  - Moon/Mercury = Vulcanus
+  - Moon/Mercury = Zeus
 related_triad_hubs:
-  - Aries Moon Mercury
   - Moon Mercury Admetos
   - Moon Mercury Apollon
   - Moon Mercury Asc
+  - Moon Mercury Chiron
   - Moon Mercury Cupido
   - Moon Mercury Hades
   - Moon Mercury Jupiter
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Moon Mercury Vulcanus
   - Moon Mercury Zeus
   - Sun Moon Mercury
+  - Vernal Point Moon Mercury
 aliases:
   - Mercury/Moon
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 Motion of the brain. Thinking capacity. The memory. The imaginative power. Superficial thinking. The young generation. Young girl. Young woman. Several hours. Office hours. Vehicles. Shifted hour. Lively and changeable train of thoughts. The general opinion in relation to the hour and female persons.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Moon/Mercury`
+- Source page: `113`
+
+#### Principle
+
+Thinking influenced by feeling, perception.
+
+#### Psychological Correspondence
+
++ An active mind, adaptable, sympathetic kindness, protective care, thoughtfulness and discretion, good judgement. - Changeable thinking, changing views, love of gossip, propensity for lying. Sensitive nerves. C An active mind, good grasp or perception (a talent for learning languages).
+
+#### Biological Correspondence
+
+Water equilibrium in the nervous system. Liquor cerebri. Female puberty.
+
+#### Sociological Correspondence
+
+Young girls, intellectually or mentally active women, an authoress.
+
+#### Probable Manifestations
+
++ Exchange of thoughts with the female sex, receiving mental stimuli, the extension of one's intellectual horizon. Journeys or travels. - Exposure to criticism, gossip. W
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -141,6 +171,30 @@ The influence of the Moon on Mercury may lead to the mind being stamped with fam
 - The Conjunction: Baden-Powell, Blackbourne (chess champion), Professor R.A. Milliken, Horatio Bottomley.
 - Inharmonious: Shelley, William Blake, Mrs. Eddy, Mrs. Besant, Ruskin, Oscar Wilde, Gladstone, Hindenburg, Don Carlos of Portugal, Sarah Bernhardt.
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Moon/Mercury midpoint`
+- Source page: `25`
+
+#### Principle
+
+The communication of feelings. Subjective thinking and communicating, or thinking colored by feeling. The ability to open up and be vulnerable when sharing one’s thoughts. Thoughts that are not objective, and which shift and change according to one’s moods.
+
+#### Process
+
+The development of a rapport with one’s own emotional self so that one may clearly receive the tremendous wealth of messages which it offers. Nurturing others through ones words. The tendency to move through feelings quickly.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Moon/Mercury`
+- Source page: `202`
+
+#### Pair Delineation
+
+Thought and communication influenced by
+
+feelings and emotions. Non-rational thought. The communication of one's feelings to others. Sensing the moods and feelings of others. Changeable thinking. A point that would be useful for public speaking and understanding the public temperament.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MOON/MERCURY`
@@ -184,26 +238,27 @@ Glandular conditions which begin with nervous dysfunctioning; deeply rooted fear
 
 ## Related Activations
 
-- [Moon/Mercury = Aries](../activations/moon-mercury-equals-aries.md)
-- [Moon/Mercury = MC](../activations/moon-mercury-equals-mc.md)
+- [Moon/Mercury = Admetos](../activations/moon-mercury-equals-admetos.md)
+- [Moon/Mercury = Apollon](../activations/moon-mercury-equals-apollon.md)
 - [Moon/Mercury = Asc](../activations/moon-mercury-equals-asc.md)
-- [Moon/Mercury = Sun](../activations/moon-mercury-equals-sun.md)
-- [Moon/Mercury = Node](../activations/moon-mercury-equals-node.md)
-- [Moon/Mercury = Venus](../activations/moon-mercury-equals-venus.md)
-- [Moon/Mercury = Mars](../activations/moon-mercury-equals-mars.md)
-- [Moon/Mercury = Jupiter](../activations/moon-mercury-equals-jupiter.md)
-- [Moon/Mercury = Saturn](../activations/moon-mercury-equals-saturn.md)
-- [Moon/Mercury = Uranus](../activations/moon-mercury-equals-uranus.md)
-- [Moon/Mercury = Neptune](../activations/moon-mercury-equals-neptune.md)
-- [Moon/Mercury = Pluto](../activations/moon-mercury-equals-pluto.md)
+- [Moon/Mercury = Chiron](../activations/moon-mercury-equals-chiron.md)
 - [Moon/Mercury = Cupido](../activations/moon-mercury-equals-cupido.md)
 - [Moon/Mercury = Hades](../activations/moon-mercury-equals-hades.md)
-- [Moon/Mercury = Zeus](../activations/moon-mercury-equals-zeus.md)
+- [Moon/Mercury = Jupiter](../activations/moon-mercury-equals-jupiter.md)
 - [Moon/Mercury = Kronos](../activations/moon-mercury-equals-kronos.md)
-- [Moon/Mercury = Apollon](../activations/moon-mercury-equals-apollon.md)
-- [Moon/Mercury = Admetos](../activations/moon-mercury-equals-admetos.md)
-- [Moon/Mercury = Vulcanus](../activations/moon-mercury-equals-vulcanus.md)
+- [Moon/Mercury = Mars](../activations/moon-mercury-equals-mars.md)
+- [Moon/Mercury = MC](../activations/moon-mercury-equals-mc.md)
+- [Moon/Mercury = Neptune](../activations/moon-mercury-equals-neptune.md)
+- [Moon/Mercury = Node](../activations/moon-mercury-equals-node.md)
+- [Moon/Mercury = Pluto](../activations/moon-mercury-equals-pluto.md)
 - [Moon/Mercury = Poseidon](../activations/moon-mercury-equals-poseidon.md)
+- [Moon/Mercury = Saturn](../activations/moon-mercury-equals-saturn.md)
+- [Moon/Mercury = Sun](../activations/moon-mercury-equals-sun.md)
+- [Moon/Mercury = Uranus](../activations/moon-mercury-equals-uranus.md)
+- [Moon/Mercury = Venus](../activations/moon-mercury-equals-venus.md)
+- [Moon/Mercury = Vernal Point](../activations/moon-mercury-equals-vernal-point.md)
+- [Moon/Mercury = Vulcanus](../activations/moon-mercury-equals-vulcanus.md)
+- [Moon/Mercury = Zeus](../activations/moon-mercury-equals-zeus.md)
 
 ## Contradictions
 
@@ -219,6 +274,9 @@ Glandular conditions which begin with nervous dysfunctioning; deeply rooted fear
 - [Moon](../factors/moon.md)
 - [Mercury](../factors/mercury.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

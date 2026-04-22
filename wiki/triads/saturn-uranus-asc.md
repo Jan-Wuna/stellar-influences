@@ -3,7 +3,7 @@ title: Saturn Uranus Asc
 page_type: triad_hub
 slug: saturn-uranus-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Uranus
@@ -19,7 +19,9 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -31,18 +33,20 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Saturn/Asc = Uranus](../activations/saturn-asc-equals-uranus.md)
-  Source page `87`
 - [Saturn/Uranus = Asc](../activations/saturn-uranus-equals-asc.md)
-  Source page `221`
 - [Uranus/Asc = Saturn](../activations/uranus-asc-equals-saturn.md)
-  Source page `88`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Saturn/Asc = Uranus`: page `87`
-- `Saturn/Uranus = Asc`: page `221`
-- `Uranus/Asc = Saturn`: page `88`
+- `Saturn/Asc = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `87`
+- `Saturn/Asc = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `260`
+- `Saturn/Asc = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `94`
+- `Saturn/Uranus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `221`
+- `Saturn/Uranus = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `248`
+- `Saturn/Uranus = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `88`
+- `Uranus/Asc = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `88`
+- `Uranus/Asc = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `275`
+- `Uranus/Asc = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `107`
 
 ## Contradictions Across Orientations
 
@@ -54,3 +58,6 @@ updated_at: 2026-04-21
 - [Saturn](../factors/saturn.md)
 - [Uranus](../factors/uranus.md)
 - [Asc](../factors/asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

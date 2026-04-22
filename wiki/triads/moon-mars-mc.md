@@ -3,7 +3,7 @@ title: Moon Mars MC
 page_type: triad_hub
 slug: moon-mars-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Mars
@@ -19,7 +19,9 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -31,18 +33,20 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mars/MC = Moon](../activations/mars-mc-equals-moon.md)
-  Source page `64`
 - [Moon/MC = Mars](../activations/moon-mc-equals-mars.md)
-  Source page `60`
 - [Moon/Mars = MC](../activations/moon-mars-equals-mc.md)
-  Source page `124`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/MC = Moon`: page `64`
-- `Moon/MC = Mars`: page `60`
-- `Moon/Mars = MC`: page `124`
+- `Mars/MC = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `64`
+- `Mars/MC = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `223`
+- `Mars/MC = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `77`
+- `Moon/MC = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `60`
+- `Moon/MC = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `143`
+- `Moon/MC = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `40`
+- `Moon/Mars = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `124`
+- `Moon/Mars = MC`: Reinhold Ebertin - The Combination of Stellar Influences, page `121`
+- `Moon/Mars = MC`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `28`
 
 ## Contradictions Across Orientations
 
@@ -54,3 +58,6 @@ updated_at: 2026-04-21
 - [Moon](../factors/moon.md)
 - [Mars](../factors/mars.md)
 - [MC](../factors/mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

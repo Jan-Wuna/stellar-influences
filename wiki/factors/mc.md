@@ -7,11 +7,12 @@ framework_scope: comparative
 factors:
   - MC
 aliases:
-  - Medium Coeli
+  - Meridian
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - reinhold-ebertin-the-combination-of-stellar-influences
-updated_at: 2026-04-21
+  - robert-hand-horoscope-symbols
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -22,8 +23,6 @@ updated_at: 2026-04-21
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source factor chapter page: `27`
 
 #### Witte Factor Entry
 
@@ -65,48 +64,73 @@ The individual.
 - Aquarius (`0179`, page `76`): Self-confidence, intense striving for the attainment of one's objectives, slow but sure establishment of one's own personality through industry and endurance, simplicity and modestness, domesticity, a sense of reality. Concentration upon oneself and one's work, sober and prosaic nature, increasing loneliness.
 - Pisces (`0180`, page `76`): New and modern aims and aspirations, periodic creativity, occasional and sudden assertion of self, grasping the best possibilities, cooperation with others under one's own leadership. A mania for innovations and novelties, scattering of energies through too much planning.
 
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `The Ascendant and Midheaven`
+- Source page: `102`
+
+#### Hand Factor Entry
+
+The Ascendant and Midheaven were defined in Chapter 2 and will be discussed much more fully in Chapter 12 as markers of a planet's mundane position. I mention them here only in their roles as nodes and as sensitive points that lie along the ecliptic, forming various angular relationships along the ecliptic to other points in the horoscope. The Ascendant and Midheaven are considered the principal ends of
+
+their respective nodal axes, even though both are exceptions to the rule above about the principal end usually being the north node upon the ecliptic. The Ascendant is the north node of the ecliptic upon the horizon, meaning that in this case the horizon is the plane of reference and it is the ecliptic that is crossing the horizon in a northward direction rather than the other "way around. The Midheaven changes its angle to the ecliptic so that at one time of day it could be called a north node and another time it could be called a south node. For this reason, it is defined simply as the ecliptic-meridian node that is above the horizon. As with the other nodes, speaking of one end of the axis implies the •whole axis. Thus, -whatever I will say below about the Ascendant implies the Descendant also, and -whatever I say about the Midheaven includes the LC. When the Ascendant and Midheaven are used as sensitive points, we take aspects to them quite seriously, regardless of the distance off the ecliptic of the body being aspected. Thus if, for instance, Pluto and the Ascendant have the same longitude (in other -words, are conjunct) along the ecliptic, the symbols of Pluto and Ascendant-Descendant are considered to be linked, even though Pluto may be nowhere near the horizon (see page 30). The same is true -when Pluto makes any other significant angular relationship along the ecliptic to the Ascendant-Descendant axis. The Ascendant and Midheaven are special among all points in the chart, for two reasons. One reason is that, unlike the other points, the Ascendant and Midheaven, both being derived from the horizon of a specific point on Earth, depend on the place of birth. The other reason is that the Ascendant and Midheaven are the fastest-moving points in the horoscope. Whereas the planets take from about one to several hundred years to go once around the zodiac, the Sun takes one year, and the Moon takes one month, the Ascendant and Midheaven take only one day. Each moves along the ecliptic on the average of one degree for every four minutes of time. Because they indicate both the place and the time of the birth down to the minute, the Ascendant and Midheaven are what links conditions in the heavens to a particular individual on Earth.
+
+Traveling at the speed they do, they are in a constantly changing relationship to all the other points in the horoscope, highlighting one group of planets at one time, and then another group a few minutes later. Thus the horoscope of a person born at eight o'clock can be quite different from that of another born the same day at eight-thirty. In Chapters 12 and 15 I will describe in detail how the Ascendant and Midheaven derive their meanings from their position in the mundane cycle. Here, however, it suffices to outline their signification using a few keywords. A key idea for the Ascendant-Descendant axis is "exchange with the environment." Planets in a significant angular relationship to this axis generally manifest in relationships and in a person's interaction with the outside world. The Midheaven-I.C. axis, on the other hand, signifies how one feels inwardly (I.C.) and expresses oneself outwardly (Midheaven), or ■where in life one is coming from and going to. The key idea here is "I, me, mine": this axis has less to do with relationships and more to do with one's sense of oneself. Examples of how the Ascendant and Midheaven -work in combination "with planetary energies can be found in the brief midpoint delineations of pairs of points in Chapter o.
+
 ## Comparative Schema
 
-- core meaning: Witte condenses the factor into `The personality of the native. The soul. The ego. Emotional experiences and qualities. Personal expectations. Psychological influences. Efforts towards the peak of life. The attitude in public, profession and vocation. The minute. The moment.` while Ebertin formalizes its principle as `Ego-consciousness and spiritual awareness.`.
-- psychology: Ebertin isolates `The individualized man, the aim of life.` as a dedicated psychological layer; Witte keeps psychological implications folded into the keyword cluster.
-- body/health: Ebertin isolates `Ego-consciousness, the function of the brain proper.`; Witte usually embeds bodily references inside the main factor definition rather than in a separate section.
-- social/relationship: Ebertin isolates `The individual.`; Witte keeps social references compressed into the same core entry.
-- events/manifestations: Ebertin preserves sign-position material above when available. Witte's standalone factor chapter remains non-sign-specific.
-- conflicts/notes: both source chapters are preserved side by side on the canonical factor page; differences are framework emphasis, not silently merged doctrine.
+- core meaning: source-native factor entries are preserved side by side above.
+- psychology: source-specific psychological and doctrinal emphases remain attached to their own source blocks instead of being flattened.
+- body/health: bodily wording remains inside each contributing source block when present.
+- social/relationship: interpersonal implications remain attached to each source's own phrasing.
+- events/manifestations: sign-position or chapter-level extensions remain attached to the source entry that states them.
+- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
 
 ## Contradictions and Framework Notes
 
-- Witte emphasizes ego, soul, public vocation, and the moment, while Ebertin emphasizes ego-consciousness, spiritual awareness, and the aim of life.
-- This page preserves the Hamburg and Cosmobiological factor chapters side by side instead of treating one as a gloss on the other.
+- Source differences on this factor page are preserved as framework emphasis rather than forced contradiction.
+- This page keeps the contributing source chapters side by side instead of treating one as a gloss on the other.
 
 ## Derived Synthesis
 
-- Taken together, MC works as the individuated summit of consciousness, vocation, and public orientation.
+- None yet beyond source structuring.
 
 ## Related Axes
 
-- [Sun/MC](../axes/sun-mc.md)
-- [Moon/MC](../axes/moon-mc.md)
-- [Mercury/MC](../axes/mercury-mc.md)
-- [Venus/MC](../axes/venus-mc.md)
-- [Mars/MC](../axes/mars-mc.md)
-- [Jupiter/MC](../axes/jupiter-mc.md)
-- [Saturn/MC](../axes/saturn-mc.md)
-- [Uranus/MC](../axes/uranus-mc.md)
-- [Neptune/MC](../axes/neptune-mc.md)
-- [Pluto/MC](../axes/pluto-mc.md)
-- [Node/MC](../axes/node-mc.md)
 - [Asc/MC](../axes/asc-mc.md)
+- [Chiron/MC](../axes/chiron-mc.md)
+- [Jupiter/MC](../axes/jupiter-mc.md)
+- [Mars/MC](../axes/mars-mc.md)
+- [MC/Admetos](../axes/mc-admetos.md)
+- [MC/Apollon](../axes/mc-apollon.md)
+- [MC/Cupido](../axes/mc-cupido.md)
+- [MC/Hades](../axes/mc-hades.md)
+- [MC/Kronos](../axes/mc-kronos.md)
+- [MC/MC](../axes/mc-mc.md)
+- [MC/Poseidon](../axes/mc-poseidon.md)
+- [MC/Vulcanus](../axes/mc-vulcanus.md)
+- [MC/Zeus](../axes/mc-zeus.md)
+- [Mercury/MC](../axes/mercury-mc.md)
+- [Moon/MC](../axes/moon-mc.md)
+- [Neptune/MC](../axes/neptune-mc.md)
+- [Node/MC](../axes/node-mc.md)
+- [Pluto/MC](../axes/pluto-mc.md)
+- [Saturn/MC](../axes/saturn-mc.md)
+- [Sun/MC](../axes/sun-mc.md)
+- [Uranus/MC](../axes/uranus-mc.md)
+- [Venus/MC](../axes/venus-mc.md)
+- [Vernal Point/MC](../axes/vernal-point-mc.md)
 
 ## Related Activations
 
-- Generated activation pages involving `MC`: `196`.
+- Generated activation pages involving `MC`: `729`.
 - Browse [Index](../index.md) or the `wiki/activations/` folder for the full set.
 
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 
 ## Open Questions
 

@@ -11,7 +11,7 @@ normalized_axis: Uranus/Admetos
 factor_a: Uranus
 factor_b: Admetos
 related_activations:
-  - Uranus/Admetos = Aries
+  - Uranus/Admetos = Vernal Point
   - Uranus/Admetos = MC
   - Uranus/Admetos = Asc
   - Uranus/Admetos = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Uranus/Admetos = Vulcanus
   - Uranus/Admetos = Poseidon
 related_triad_hubs:
-  - Aries Uranus Admetos
   - Jupiter Uranus Admetos
   - Mars Uranus Admetos
   - Mercury Uranus Admetos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Uranus Pluto Admetos
   - Uranus Zeus Admetos
   - Venus Uranus Admetos
+  - Vernal Point Uranus Admetos
 aliases:
   - Admetos/Uranus
 source_pages:
@@ -85,7 +85,7 @@ Sudden rupture-like separation. Shock commotion. Destruction through convulsive 
 
 ## Related Activations
 
-- [Uranus/Admetos = Aries](../activations/uranus-admetos-equals-aries.md)
+- [Uranus/Admetos = Vernal Point](../activations/uranus-admetos-equals-vernal-point.md)
 - [Uranus/Admetos = MC](../activations/uranus-admetos-equals-mc.md)
 - [Uranus/Admetos = Asc](../activations/uranus-admetos-equals-asc.md)
 - [Uranus/Admetos = Sun](../activations/uranus-admetos-equals-sun.md)

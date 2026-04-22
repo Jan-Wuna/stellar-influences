@@ -11,7 +11,7 @@ normalized_axis: Cupido/Cupido
 factor_a: Cupido
 factor_b: Cupido
 related_activations:
-  - Cupido/Cupido = Aries
+  - Cupido/Cupido = Vernal Point
   - Cupido/Cupido = MC
   - Cupido/Cupido = Asc
   - Cupido/Cupido = Sun
@@ -67,7 +67,7 @@ Family. Sociability. Societies. Associations. Collections. Art. Marriage. The gr
 
 ## Related Activations
 
-- [Cupido/Cupido = Aries](../activations/cupido-cupido-equals-aries.md)
+- [Cupido/Cupido = Vernal Point](../activations/cupido-cupido-equals-vernal-point.md)
 - [Cupido/Cupido = MC](../activations/cupido-cupido-equals-mc.md)
 - [Cupido/Cupido = Asc](../activations/cupido-cupido-equals-asc.md)
 - [Cupido/Cupido = Sun](../activations/cupido-cupido-equals-sun.md)

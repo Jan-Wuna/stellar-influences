@@ -3,7 +3,7 @@ title: Mercury/Mars = Asc
 page_type: activation
 slug: mercury-mars-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Mars
@@ -15,10 +15,13 @@ triad_set:
   - Mercury
   - Mars
   - Asc
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 To negotiate with others. Debate. The strong opinion of others.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mercury/Mars`
+- Source page: `150`
+- Entry: `0480`
+
+#### Ebertin Entry
+
+A person fond of discussion. Turbulent or stormy proceedings.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mercury/Mars midpoint`
+- Source page: `42`
+- Activator: `Ascendant`
+
+#### Sandbach Entry
+
+Cleverness at repartee when relating. The ability to fire up others when speaking, and/or to aggravate them by touching on whatever they are sensitive about. A person who appears to have a lot of nervous energy.
+
 ## Comparative Schema
 
-- core meaning: To negotiate with others. Debate. The strong opinion of others.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ To negotiate with others. Debate. The strong opinion of others.
 - [Mars](../factors/mars.md)
 - [Asc](../factors/asc.md)
 - [Mercury/Mars](../axes/mercury-mars.md)
+- [Mercury Mars Asc](../triads/mercury-mars-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

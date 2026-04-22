@@ -11,7 +11,7 @@ normalized_axis: Sun/Hades
 factor_a: Sun
 factor_b: Hades
 related_activations:
-  - Sun/Hades = Aries
+  - Sun/Hades = Vernal Point
   - Sun/Hades = MC
   - Sun/Hades = Asc
   - Sun/Hades = Moon
@@ -32,7 +32,6 @@ related_activations:
   - Sun/Hades = Vulcanus
   - Sun/Hades = Poseidon
 related_triad_hubs:
-  - Aries Sun Hades
   - Sun Asc Hades
   - Sun Cupido Hades
   - Sun Hades Admetos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Saturn Hades
   - Sun Uranus Hades
   - Sun Venus Hades
+  - Vernal Point Sun Hades
 aliases:
   - Hades/Sun
 source_pages:
@@ -85,7 +85,7 @@ Diseased body. Deformed or mutilated body. To be oppressed or hindered in develo
 
 ## Related Activations
 
-- [Sun/Hades = Aries](../activations/sun-hades-equals-aries.md)
+- [Sun/Hades = Vernal Point](../activations/sun-hades-equals-vernal-point.md)
 - [Sun/Hades = MC](../activations/sun-hades-equals-mc.md)
 - [Sun/Hades = Asc](../activations/sun-hades-equals-asc.md)
 - [Sun/Hades = Moon](../activations/sun-hades-equals-moon.md)

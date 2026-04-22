@@ -11,7 +11,7 @@ normalized_axis: Vulcanus/Vulcanus
 factor_a: Vulcanus
 factor_b: Vulcanus
 related_activations:
-  - Vulcanus/Vulcanus = Aries
+  - Vulcanus/Vulcanus = Vernal Point
   - Vulcanus/Vulcanus = MC
   - Vulcanus/Vulcanus = Asc
   - Vulcanus/Vulcanus = Sun
@@ -67,7 +67,7 @@ Greatest strength. Force. Might. Energy. Power. Supreme Violence.
 
 ## Related Activations
 
-- [Vulcanus/Vulcanus = Aries](../activations/vulcanus-vulcanus-equals-aries.md)
+- [Vulcanus/Vulcanus = Vernal Point](../activations/vulcanus-vulcanus-equals-vernal-point.md)
 - [Vulcanus/Vulcanus = MC](../activations/vulcanus-vulcanus-equals-mc.md)
 - [Vulcanus/Vulcanus = Asc](../activations/vulcanus-vulcanus-equals-asc.md)
 - [Vulcanus/Vulcanus = Sun](../activations/vulcanus-vulcanus-equals-sun.md)

@@ -11,7 +11,7 @@ normalized_axis: Jupiter/Vulcanus
 factor_a: Jupiter
 factor_b: Vulcanus
 related_activations:
-  - Jupiter/Vulcanus = Aries
+  - Jupiter/Vulcanus = Vernal Point
   - Jupiter/Vulcanus = MC
   - Jupiter/Vulcanus = Asc
   - Jupiter/Vulcanus = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Jupiter/Vulcanus = Admetos
   - Jupiter/Vulcanus = Poseidon
 related_triad_hubs:
-  - Aries Jupiter Vulcanus
   - Jupiter Admetos Vulcanus
   - Jupiter Apollon Vulcanus
   - Jupiter Asc Vulcanus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Moon Jupiter Vulcanus
   - Sun Jupiter Vulcanus
   - Venus Jupiter Vulcanus
+  - Vernal Point Jupiter Vulcanus
 aliases:
   - Vulcanus/Jupiter
 source_pages:
@@ -85,7 +85,7 @@ Optimism. Confidence. Huge luck. Success by force. The power of money and financ
 
 ## Related Activations
 
-- [Jupiter/Vulcanus = Aries](../activations/jupiter-vulcanus-equals-aries.md)
+- [Jupiter/Vulcanus = Vernal Point](../activations/jupiter-vulcanus-equals-vernal-point.md)
 - [Jupiter/Vulcanus = MC](../activations/jupiter-vulcanus-equals-mc.md)
 - [Jupiter/Vulcanus = Asc](../activations/jupiter-vulcanus-equals-asc.md)
 - [Jupiter/Vulcanus = Sun](../activations/jupiter-vulcanus-equals-sun.md)

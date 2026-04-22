@@ -11,28 +11,27 @@ normalized_axis: Jupiter/MC
 factor_a: Jupiter
 factor_b: MC
 related_activations:
-  - Jupiter/MC = Aries
+  - Jupiter/MC = Admetos
+  - Jupiter/MC = Apollon
   - Jupiter/MC = Asc
-  - Jupiter/MC = Sun
-  - Jupiter/MC = Moon
-  - Jupiter/MC = Node
-  - Jupiter/MC = Mercury
-  - Jupiter/MC = Venus
-  - Jupiter/MC = Mars
-  - Jupiter/MC = Saturn
-  - Jupiter/MC = Uranus
-  - Jupiter/MC = Neptune
-  - Jupiter/MC = Pluto
   - Jupiter/MC = Cupido
   - Jupiter/MC = Hades
-  - Jupiter/MC = Zeus
   - Jupiter/MC = Kronos
-  - Jupiter/MC = Apollon
-  - Jupiter/MC = Admetos
-  - Jupiter/MC = Vulcanus
+  - Jupiter/MC = Mars
+  - Jupiter/MC = Mercury
+  - Jupiter/MC = Moon
+  - Jupiter/MC = Neptune
+  - Jupiter/MC = Node
+  - Jupiter/MC = Pluto
   - Jupiter/MC = Poseidon
+  - Jupiter/MC = Saturn
+  - Jupiter/MC = Sun
+  - Jupiter/MC = Uranus
+  - Jupiter/MC = Venus
+  - Jupiter/MC = Vernal Point
+  - Jupiter/MC = Vulcanus
+  - Jupiter/MC = Zeus
 related_triad_hubs:
-  - Aries Jupiter MC
   - Jupiter Asc MC
   - Jupiter MC Admetos
   - Jupiter MC Apollon
@@ -52,10 +51,14 @@ related_triad_hubs:
   - Moon Jupiter MC
   - Sun Jupiter MC
   - Venus Jupiter MC
+  - Vernal Point Jupiter MC
 aliases:
   - MC/Jupiter
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -70,12 +73,59 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Jupiter`
-- Source page: `65`
+- Source heading: `Jupiter/Medium Coeli`
+- Source page: `243`
 
 #### Pair Summary
 
 Blissful feelings. To be positive of one’s own direction in life. An optimist. To be well-wishing and benevolent. Harmless, good natured or contented. To feel happy. Reach one’s own goals with luck and success. The own attitude to money. Moment of happiness.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Jupiter/Medium Coeli`
+- Source page: `243`
+
+#### Principle
+
+Consciousness of aim or objective in life.
+
+#### Psychological Correspondence
+
++ "A noble and fine human soul," a happy and harmonious person, striving for success, consciousness of aim or purpose in life, optimism, generosity, contentment. - A strong desire to be of importance in the world, ability to make good in life or to rise successfully in one's career. C Optimism, contentment.
+
+#### Biological Correspondence
+
+A sense of maintaining good health, hygiene.
+
+#### Sociological Correspondence
+
+Successful people.
+
+#### Probable Manifestations
+
++ Attainment of success, gaining a new position; "it is a great gift of the gods to find a noble and fine human soul." - Changing or fluctuating circumstances, changes in one's style of living or occupation. Jupiter/Medium Coeli H/M
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Jupiter/Midheaven midpoint`
+- Source page: `86`
+
+#### Principle
+
+Enthusiasm for growing spiritually and for learning from elders and those in authority. Success in one’s career. The ability to make the most of one’s place in the world and to take an optimistic attitude toward it. To be overly intent on rising in the world and attaining a high status as a compensation for feelings of lack in other areas.
+
+#### Process
+
+The progressive understanding of one’s place in the world and understanding of one’s spiritual destiny.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Jupiter/Midheaven`
+- Source page: `209`
+
+#### Pair Delineation
+
+Personal growth, reaching out to attain one's objectives, moving toward one's ends. Gaining personal authority or the respect of others. Personal contentment. Sometimes arrogance.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -120,26 +170,26 @@ Genetic patterns or abnormalities from gracious living, or from being unable to 
 
 ## Related Activations
 
-- [Jupiter/MC = Aries](../activations/jupiter-mc-equals-aries.md)
+- [Jupiter/MC = Admetos](../activations/jupiter-mc-equals-admetos.md)
+- [Jupiter/MC = Apollon](../activations/jupiter-mc-equals-apollon.md)
 - [Jupiter/MC = Asc](../activations/jupiter-mc-equals-asc.md)
-- [Jupiter/MC = Sun](../activations/jupiter-mc-equals-sun.md)
-- [Jupiter/MC = Moon](../activations/jupiter-mc-equals-moon.md)
-- [Jupiter/MC = Node](../activations/jupiter-mc-equals-node.md)
-- [Jupiter/MC = Mercury](../activations/jupiter-mc-equals-mercury.md)
-- [Jupiter/MC = Venus](../activations/jupiter-mc-equals-venus.md)
-- [Jupiter/MC = Mars](../activations/jupiter-mc-equals-mars.md)
-- [Jupiter/MC = Saturn](../activations/jupiter-mc-equals-saturn.md)
-- [Jupiter/MC = Uranus](../activations/jupiter-mc-equals-uranus.md)
-- [Jupiter/MC = Neptune](../activations/jupiter-mc-equals-neptune.md)
-- [Jupiter/MC = Pluto](../activations/jupiter-mc-equals-pluto.md)
 - [Jupiter/MC = Cupido](../activations/jupiter-mc-equals-cupido.md)
 - [Jupiter/MC = Hades](../activations/jupiter-mc-equals-hades.md)
-- [Jupiter/MC = Zeus](../activations/jupiter-mc-equals-zeus.md)
 - [Jupiter/MC = Kronos](../activations/jupiter-mc-equals-kronos.md)
-- [Jupiter/MC = Apollon](../activations/jupiter-mc-equals-apollon.md)
-- [Jupiter/MC = Admetos](../activations/jupiter-mc-equals-admetos.md)
-- [Jupiter/MC = Vulcanus](../activations/jupiter-mc-equals-vulcanus.md)
+- [Jupiter/MC = Mars](../activations/jupiter-mc-equals-mars.md)
+- [Jupiter/MC = Mercury](../activations/jupiter-mc-equals-mercury.md)
+- [Jupiter/MC = Moon](../activations/jupiter-mc-equals-moon.md)
+- [Jupiter/MC = Neptune](../activations/jupiter-mc-equals-neptune.md)
+- [Jupiter/MC = Node](../activations/jupiter-mc-equals-node.md)
+- [Jupiter/MC = Pluto](../activations/jupiter-mc-equals-pluto.md)
 - [Jupiter/MC = Poseidon](../activations/jupiter-mc-equals-poseidon.md)
+- [Jupiter/MC = Saturn](../activations/jupiter-mc-equals-saturn.md)
+- [Jupiter/MC = Sun](../activations/jupiter-mc-equals-sun.md)
+- [Jupiter/MC = Uranus](../activations/jupiter-mc-equals-uranus.md)
+- [Jupiter/MC = Venus](../activations/jupiter-mc-equals-venus.md)
+- [Jupiter/MC = Vernal Point](../activations/jupiter-mc-equals-vernal-point.md)
+- [Jupiter/MC = Vulcanus](../activations/jupiter-mc-equals-vulcanus.md)
+- [Jupiter/MC = Zeus](../activations/jupiter-mc-equals-zeus.md)
 
 ## Contradictions
 
@@ -155,4 +205,7 @@ Genetic patterns or abnormalities from gracious living, or from being unable to 
 - [Jupiter](../factors/jupiter.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

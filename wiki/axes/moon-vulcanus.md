@@ -11,7 +11,7 @@ normalized_axis: Moon/Vulcanus
 factor_a: Moon
 factor_b: Vulcanus
 related_activations:
-  - Moon/Vulcanus = Aries
+  - Moon/Vulcanus = Vernal Point
   - Moon/Vulcanus = MC
   - Moon/Vulcanus = Asc
   - Moon/Vulcanus = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Moon/Vulcanus = Admetos
   - Moon/Vulcanus = Poseidon
 related_triad_hubs:
-  - Aries Moon Vulcanus
   - Moon Admetos Vulcanus
   - Moon Apollon Vulcanus
   - Moon Asc Vulcanus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Moon Vulcanus Poseidon
   - Moon Zeus Vulcanus
   - Sun Moon Vulcanus
+  - Vernal Point Moon Vulcanus
 aliases:
   - Vulcanus/Moon
 source_pages:
@@ -85,7 +85,7 @@ The mighty mind. To be Powerful. Consciousness of power. Great sensation. To a c
 
 ## Related Activations
 
-- [Moon/Vulcanus = Aries](../activations/moon-vulcanus-equals-aries.md)
+- [Moon/Vulcanus = Vernal Point](../activations/moon-vulcanus-equals-vernal-point.md)
 - [Moon/Vulcanus = MC](../activations/moon-vulcanus-equals-mc.md)
 - [Moon/Vulcanus = Asc](../activations/moon-vulcanus-equals-asc.md)
 - [Moon/Vulcanus = Sun](../activations/moon-vulcanus-equals-sun.md)

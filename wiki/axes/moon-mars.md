@@ -11,31 +11,32 @@ normalized_axis: Moon/Mars
 factor_a: Moon
 factor_b: Mars
 related_activations:
-  - Moon/Mars = Aries
-  - Moon/Mars = MC
+  - Moon/Mars = Admetos
+  - Moon/Mars = Apollon
   - Moon/Mars = Asc
-  - Moon/Mars = Sun
-  - Moon/Mars = Node
-  - Moon/Mars = Mercury
-  - Moon/Mars = Venus
-  - Moon/Mars = Jupiter
-  - Moon/Mars = Saturn
-  - Moon/Mars = Uranus
-  - Moon/Mars = Neptune
-  - Moon/Mars = Pluto
+  - Moon/Mars = Chiron
   - Moon/Mars = Cupido
   - Moon/Mars = Hades
-  - Moon/Mars = Zeus
+  - Moon/Mars = Jupiter
   - Moon/Mars = Kronos
-  - Moon/Mars = Apollon
-  - Moon/Mars = Admetos
-  - Moon/Mars = Vulcanus
+  - Moon/Mars = MC
+  - Moon/Mars = Mercury
+  - Moon/Mars = Neptune
+  - Moon/Mars = Node
+  - Moon/Mars = Pluto
   - Moon/Mars = Poseidon
+  - Moon/Mars = Saturn
+  - Moon/Mars = Sun
+  - Moon/Mars = Uranus
+  - Moon/Mars = Venus
+  - Moon/Mars = Vernal Point
+  - Moon/Mars = Vulcanus
+  - Moon/Mars = Zeus
 related_triad_hubs:
-  - Aries Moon Mars
   - Moon Mars Admetos
   - Moon Mars Apollon
   - Moon Mars Asc
+  - Moon Mars Chiron
   - Moon Mars Cupido
   - Moon Mars Hades
   - Moon Mars Jupiter
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Moon Mercury Mars
   - Moon Venus Mars
   - Sun Moon Mars
+  - Vernal Point Moon Mars
 aliases:
   - Mars/Moon
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 Consciousness. The active brain. Working processes in the brain. Acts of volition. The sweetheart. The wife or mistress. The active woman, rhe household. The working time. The working hour. The industrious or efficacious populace. Energetic woman. The labouring class. The working people. The working woman.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Moon/Mars`
+- Source page: `119`
+
+#### Principle
+
+Excitement, impulsiveness, expression of intense emotion. (Actions which are directed by the unconscious.)
+
+#### Psychological Correspondence
+
++ A strong will intensified by feeling, a forceful and purposeful nature, inclination to act by the dictates of feeling, openness or frankness (tendency to lay one's cards on the table), honesty, sincerity, a severe judge both of oneself and others. - Impulsive actions, strong excitability, quarrelsome, fluctuating energy, rashness or haste, rebellion against restriction and compulsion, irritability. C Strong inner tension, willpower, a nature imbued with fighting spirit, hastiness or premature action.
+
+#### Biological Correspondence
+
+The unconscious direction of the muscular movement, reactions of the emotional life, such as blushing. Connections with the thyroid gland (Basedow's disease).
+
+#### Sociological Correspondence
+
+The wife, a woman colleague, a woman imbued with fighting spirit, a hard-working or energetic woman.
+
+#### Probable Manifestations
+
++ Enterprises which have been started with vigor. The state of becoming a wife. - The tendency to become involved in quarrels, demonstration of intolerance, marital differences. Moon/Mars D/cT
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -135,6 +165,28 @@ In the case of women, I think it is unfavourable because of the independence whi
 - The Conjunction: R.W. Emerson, Mussolini, Leverhulme, Coue, Savonarola, Earl of Essex, President Hoover.
 - Inharmonious: Ghandi, Alan Leo, Valentino, Ruskin, Shelley, Lord Salisbury, S.F. Edge (racing motorist), George III, George IV.
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Moon/Mars midpoint`
+- Source page: `28`
+
+#### Principle
+
+Passion and impulsiveness. The tendency to assert oneself on the spur of the moment and/or to overreact. Fiery feelings. The tendency to be excitable or irritable. Actions based on instinct. Assertive nurturing.
+
+#### Process
+
+Refinement of one’s ability to act in the moment and to follow one’s instincts so they may perform their work. Emotional purging. Being frank and direct.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Moon/Mars`
+- Source page: `203`
+
+#### Pair Delineation
+
+Anger, emotional upset, emotional self-assertion. Instinctive reactions of aggression or self-defense. To act under the dictates of emotion. Childish aggressiveness.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MOON/MARS`
@@ -178,26 +230,27 @@ Glandular secretions which come too quickly; heat buildup in or on the body; ene
 
 ## Related Activations
 
-- [Moon/Mars = Aries](../activations/moon-mars-equals-aries.md)
-- [Moon/Mars = MC](../activations/moon-mars-equals-mc.md)
+- [Moon/Mars = Admetos](../activations/moon-mars-equals-admetos.md)
+- [Moon/Mars = Apollon](../activations/moon-mars-equals-apollon.md)
 - [Moon/Mars = Asc](../activations/moon-mars-equals-asc.md)
-- [Moon/Mars = Sun](../activations/moon-mars-equals-sun.md)
-- [Moon/Mars = Node](../activations/moon-mars-equals-node.md)
-- [Moon/Mars = Mercury](../activations/moon-mars-equals-mercury.md)
-- [Moon/Mars = Venus](../activations/moon-mars-equals-venus.md)
-- [Moon/Mars = Jupiter](../activations/moon-mars-equals-jupiter.md)
-- [Moon/Mars = Saturn](../activations/moon-mars-equals-saturn.md)
-- [Moon/Mars = Uranus](../activations/moon-mars-equals-uranus.md)
-- [Moon/Mars = Neptune](../activations/moon-mars-equals-neptune.md)
-- [Moon/Mars = Pluto](../activations/moon-mars-equals-pluto.md)
+- [Moon/Mars = Chiron](../activations/moon-mars-equals-chiron.md)
 - [Moon/Mars = Cupido](../activations/moon-mars-equals-cupido.md)
 - [Moon/Mars = Hades](../activations/moon-mars-equals-hades.md)
-- [Moon/Mars = Zeus](../activations/moon-mars-equals-zeus.md)
+- [Moon/Mars = Jupiter](../activations/moon-mars-equals-jupiter.md)
 - [Moon/Mars = Kronos](../activations/moon-mars-equals-kronos.md)
-- [Moon/Mars = Apollon](../activations/moon-mars-equals-apollon.md)
-- [Moon/Mars = Admetos](../activations/moon-mars-equals-admetos.md)
-- [Moon/Mars = Vulcanus](../activations/moon-mars-equals-vulcanus.md)
+- [Moon/Mars = MC](../activations/moon-mars-equals-mc.md)
+- [Moon/Mars = Mercury](../activations/moon-mars-equals-mercury.md)
+- [Moon/Mars = Neptune](../activations/moon-mars-equals-neptune.md)
+- [Moon/Mars = Node](../activations/moon-mars-equals-node.md)
+- [Moon/Mars = Pluto](../activations/moon-mars-equals-pluto.md)
 - [Moon/Mars = Poseidon](../activations/moon-mars-equals-poseidon.md)
+- [Moon/Mars = Saturn](../activations/moon-mars-equals-saturn.md)
+- [Moon/Mars = Sun](../activations/moon-mars-equals-sun.md)
+- [Moon/Mars = Uranus](../activations/moon-mars-equals-uranus.md)
+- [Moon/Mars = Venus](../activations/moon-mars-equals-venus.md)
+- [Moon/Mars = Vernal Point](../activations/moon-mars-equals-vernal-point.md)
+- [Moon/Mars = Vulcanus](../activations/moon-mars-equals-vulcanus.md)
+- [Moon/Mars = Zeus](../activations/moon-mars-equals-zeus.md)
 
 ## Contradictions
 
@@ -213,6 +266,9 @@ Glandular secretions which come too quickly; heat buildup in or on the body; ene
 - [Moon](../factors/moon.md)
 - [Mars](../factors/mars.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

@@ -11,7 +11,7 @@ normalized_axis: Sun/Poseidon
 factor_a: Sun
 factor_b: Poseidon
 related_activations:
-  - Sun/Poseidon = Aries
+  - Sun/Poseidon = Vernal Point
   - Sun/Poseidon = MC
   - Sun/Poseidon = Asc
   - Sun/Poseidon = Moon
@@ -32,7 +32,6 @@ related_activations:
   - Sun/Poseidon = Admetos
   - Sun/Poseidon = Vulcanus
 related_triad_hubs:
-  - Aries Sun Poseidon
   - Sun Admetos Poseidon
   - Sun Apollon Poseidon
   - Sun Asc Poseidon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Venus Poseidon
   - Sun Vulcanus Poseidon
   - Sun Zeus Poseidon
+  - Vernal Point Sun Poseidon
 aliases:
   - Poseidon/Sun
 source_pages:
@@ -85,7 +85,7 @@ One’s own education and intellectual capacity. Spiritualization of the body. T
 
 ## Related Activations
 
-- [Sun/Poseidon = Aries](../activations/sun-poseidon-equals-aries.md)
+- [Sun/Poseidon = Vernal Point](../activations/sun-poseidon-equals-vernal-point.md)
 - [Sun/Poseidon = MC](../activations/sun-poseidon-equals-mc.md)
 - [Sun/Poseidon = Asc](../activations/sun-poseidon-equals-asc.md)
 - [Sun/Poseidon = Moon](../activations/sun-poseidon-equals-moon.md)

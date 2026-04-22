@@ -3,7 +3,7 @@ title: Jupiter Saturn MC
 page_type: triad_hub
 slug: jupiter-saturn-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Saturn
@@ -19,7 +19,9 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -31,18 +33,20 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/MC = Saturn](../activations/jupiter-mc-equals-saturn.md)
-  Source page `65`
 - [Jupiter/Saturn = MC](../activations/jupiter-saturn-equals-mc.md)
-  Source page `207`
 - [Saturn/MC = Jupiter](../activations/saturn-mc-equals-jupiter.md)
-  Source page `66`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/MC = Saturn`: page `65`
-- `Jupiter/Saturn = MC`: page `207`
-- `Saturn/MC = Jupiter`: page `66`
+- `Jupiter/MC = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `65`
+- `Jupiter/MC = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `244`
+- `Jupiter/MC = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `86`
+- `Jupiter/Saturn = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `207`
+- `Jupiter/Saturn = MC`: Reinhold Ebertin - The Combination of Stellar Influences, page `227`
+- `Jupiter/Saturn = MC`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `78`
+- `Saturn/MC = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `66`
+- `Saturn/MC = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `263`
+- `Saturn/MC = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `95`
 
 ## Contradictions Across Orientations
 
@@ -54,3 +58,6 @@ updated_at: 2026-04-21
 - [Jupiter](../factors/jupiter.md)
 - [Saturn](../factors/saturn.md)
 - [MC](../factors/mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

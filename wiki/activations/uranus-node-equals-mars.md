@@ -3,10 +3,10 @@ title: Uranus/Node = Mars
 page_type: activation
 slug: uranus-node-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Uranus
+  - Node
   - Mars
 normalized_formula: Uranus/Node = Mars
 axis: Uranus/Node
@@ -15,10 +15,13 @@ triad_set:
   - Mars
   - Uranus
   - Node
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Sudden unions in connection with one’s own work. To be again united with one’s own work. To be embroiled in fights and arguments.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Uranus/Dragon's Head`
+- Source page: `272`
+- Entry: `0967`
+
+#### Ebertin Entry
+
+Tendency to become easily excited in the presence of others, quarreling, exercising self-control only with the greatest difficulty. Disputes accompanied by violence.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Uranus/Node midpoint`
+- Source page: `106`
+- Activator: `Mars`
+
+#### Sandbach Entry
+
+In whatever you do you feel a need now and then to experiment with and/ or change your approach, so that you are constantly overcoming any tendency to just fall into a pattern or routine.
+
 ## Comparative Schema
 
-- core meaning: Sudden unions in connection with one’s own work. To be again united with one’s own work. To be embroiled in fights and arguments.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Sudden unions in connection with one’s own work. To be again united with one�
 - [Node](../factors/node.md)
 - [Mars](../factors/mars.md)
 - [Uranus/Node](../axes/uranus-node.md)
+- [Mars Uranus Node](../triads/mars-uranus-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

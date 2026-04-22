@@ -3,7 +3,7 @@ title: Mars/Saturn = Jupiter
 page_type: activation
 slug: mars-saturn-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Saturn
@@ -15,10 +15,13 @@ triad_set:
   - Mars
   - Jupiter
   - Saturn
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Pleasant interruption of work. Vacations. Quick death.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mars/Saturn`
+- Source page: `205`
+- Entry: `0703`
+
+#### Ebertin Entry
+
+Complete concentration of energy upon a particular objective to the exclusion of other interests, ability to render quick work satisfactorily. Ability to thoroughly destroy or eliminate something. Improvement during an illness, a fortunate separation, a quick dissolution (of the body), a pleasant and easy death.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mars/Saturn midpoint`
+- Source page: `68`
+- Activator: `Jupiter`
+
+#### Sandbach Entry
+
+To be enthusiastic about planning out things in advance. To over-plan what one is doing. The attempt to think of all the possible problems that could crop up in a situa tion and to have a back-up system for dealing with each and every one of them.
+
 ## Comparative Schema
 
-- core meaning: Pleasant interruption of work. Vacations. Quick death.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Pleasant interruption of work. Vacations. Quick death.
 - [Saturn](../factors/saturn.md)
 - [Jupiter](../factors/jupiter.md)
 - [Mars/Saturn](../axes/mars-saturn.md)
+- [Mars Jupiter Saturn](../triads/mars-jupiter-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

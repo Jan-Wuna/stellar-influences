@@ -17,7 +17,7 @@ from tools.carter_source import (
     generate_models,
 )
 from tools.rebuild_index import build_index
-from tools.wiki_identity import astronomicon_token, normalize_axis
+from tools.wiki_identity import astronomicon_token, factor_slug, normalize_axis
 from tools.wiki_pages import load_page
 
 
@@ -87,7 +87,7 @@ def _render_carter_entry(block: CarterAxisBlock) -> str:
 
 def _render_source_page(blocks: list[CarterAxisBlock]) -> str:
     factors = sorted({item.factor_a for item in blocks} | {item.factor_b for item in blocks}, key=str.casefold)
-    factor_links = "\n".join(f"- [{factor}](../factors/{factor.lower()}.md)" for factor in factors)
+    factor_links = "\n".join(f"- [{factor}](../factors/{factor_slug(factor)}.md)" for factor in factors)
     return f"""---
 title: "{SOURCE_TITLE}"
 page_type: source
@@ -218,8 +218,8 @@ updated_at: {UPDATED_AT}
 
 ## Links
 
-- [{axis.factors[0]}](../factors/{axis.factors[0].lower()}.md)
-- [{axis.factors[1]}](../factors/{axis.factors[1].lower()}.md)
+- [{axis.factors[0]}](../factors/{factor_slug(axis.factors[0])}.md)
+- [{axis.factors[1]}](../factors/{factor_slug(axis.factors[1])}.md)
 {source_links_text}
 """
 

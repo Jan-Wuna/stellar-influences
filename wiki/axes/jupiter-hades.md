@@ -11,7 +11,7 @@ normalized_axis: Jupiter/Hades
 factor_a: Jupiter
 factor_b: Hades
 related_activations:
-  - Jupiter/Hades = Aries
+  - Jupiter/Hades = Vernal Point
   - Jupiter/Hades = MC
   - Jupiter/Hades = Asc
   - Jupiter/Hades = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Jupiter/Hades = Vulcanus
   - Jupiter/Hades = Poseidon
 related_triad_hubs:
-  - Aries Jupiter Hades
   - Jupiter Asc Hades
   - Jupiter Cupido Hades
   - Jupiter Hades Admetos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Moon Jupiter Hades
   - Sun Jupiter Hades
   - Venus Jupiter Hades
+  - Vernal Point Jupiter Hades
 aliases:
   - Hades/Jupiter
 source_pages:
@@ -85,7 +85,7 @@ Saddened disturbed or hidden happiness. Lack of money. To be lucky with raw mate
 
 ## Related Activations
 
-- [Jupiter/Hades = Aries](../activations/jupiter-hades-equals-aries.md)
+- [Jupiter/Hades = Vernal Point](../activations/jupiter-hades-equals-vernal-point.md)
 - [Jupiter/Hades = MC](../activations/jupiter-hades-equals-mc.md)
 - [Jupiter/Hades = Asc](../activations/jupiter-hades-equals-asc.md)
 - [Jupiter/Hades = Sun](../activations/jupiter-hades-equals-sun.md)

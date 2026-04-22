@@ -11,7 +11,7 @@ normalized_axis: Cupido/Admetos
 factor_a: Cupido
 factor_b: Admetos
 related_activations:
-  - Cupido/Admetos = Aries
+  - Cupido/Admetos = Vernal Point
   - Cupido/Admetos = MC
   - Cupido/Admetos = Asc
   - Cupido/Admetos = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Cupido/Admetos = Vulcanus
   - Cupido/Admetos = Poseidon
 related_triad_hubs:
-  - Aries Cupido Admetos
   - Asc Cupido Admetos
   - Cupido Admetos Poseidon
   - Cupido Admetos Vulcanus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Cupido Admetos
   - Uranus Cupido Admetos
   - Venus Cupido Admetos
+  - Vernal Point Cupido Admetos
 aliases:
   - Admetos/Cupido
 source_pages:
@@ -85,7 +85,7 @@ To be avoided or avoid others. Dissolution of an association. Solitude. Lonely p
 
 ## Related Activations
 
-- [Cupido/Admetos = Aries](../activations/cupido-admetos-equals-aries.md)
+- [Cupido/Admetos = Vernal Point](../activations/cupido-admetos-equals-vernal-point.md)
 - [Cupido/Admetos = MC](../activations/cupido-admetos-equals-mc.md)
 - [Cupido/Admetos = Asc](../activations/cupido-admetos-equals-asc.md)
 - [Cupido/Admetos = Sun](../activations/cupido-admetos-equals-sun.md)

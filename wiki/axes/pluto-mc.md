@@ -11,28 +11,29 @@ normalized_axis: Pluto/MC
 factor_a: Pluto
 factor_b: MC
 related_activations:
-  - Pluto/MC = Aries
+  - Pluto/MC = Admetos
+  - Pluto/MC = Apollon
   - Pluto/MC = Asc
-  - Pluto/MC = Sun
-  - Pluto/MC = Moon
-  - Pluto/MC = Node
-  - Pluto/MC = Mercury
-  - Pluto/MC = Venus
-  - Pluto/MC = Mars
-  - Pluto/MC = Jupiter
-  - Pluto/MC = Saturn
-  - Pluto/MC = Uranus
-  - Pluto/MC = Neptune
+  - Pluto/MC = Chiron
   - Pluto/MC = Cupido
   - Pluto/MC = Hades
-  - Pluto/MC = Zeus
+  - Pluto/MC = Jupiter
   - Pluto/MC = Kronos
-  - Pluto/MC = Apollon
-  - Pluto/MC = Admetos
-  - Pluto/MC = Vulcanus
+  - Pluto/MC = Mars
+  - Pluto/MC = Mercury
+  - Pluto/MC = Moon
+  - Pluto/MC = Neptune
+  - Pluto/MC = Node
   - Pluto/MC = Poseidon
+  - Pluto/MC = Saturn
+  - Pluto/MC = Sun
+  - Pluto/MC = Uranus
+  - Pluto/MC = Venus
+  - Pluto/MC = Vernal Point
+  - Pluto/MC = Vulcanus
+  - Pluto/MC = Zeus
 related_triad_hubs:
-  - Aries Pluto MC
+  - Chiron Pluto MC
   - Jupiter Pluto MC
   - Mars Pluto MC
   - Mercury Pluto MC
@@ -52,10 +53,14 @@ related_triad_hubs:
   - Sun Pluto MC
   - Uranus Pluto MC
   - Venus Pluto MC
+  - Vernal Point Pluto MC
 aliases:
   - MC/Pluto
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -70,12 +75,59 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Pluto`
-- Source page: `69`
+- Source heading: `Pluto/Medium Coeli`
+- Source page: `297`
 
 #### Pair Summary
 
 One’s own intellectual capacity, as well as the ability and possibility of development. Ones capacity to apprehend. Ones own transformation and development. Inner transformation. The developmental stages of the own mind. Metamorphosis. To appear to be a completely different person. Moment (minute) of change.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Pluto/Medium Coeli`
+- Source page: `297`
+
+#### Principle
+
+The shaping of the individuality.
+
+#### Psychological Correspondence
+
++ Desire to become important, growth and development of strength. The power to attain success in life, ability to organize, prudence, vision, authority. - Foolhardy and daring, licentious. The abuse of power, an antisocial conduct. Tendency to create feelings of resistance and vindictiveness in other people. C Authority. Ability to maintain one's position in life. Fame.
+
+#### Biological Correspondence
+
+Desire to recuperate or to regain one's health. Decision to undergo an operation. A change of therapy.
+
+#### Sociological Correspondence
+
+People excelling in their particular profession or occupation. Experts of great authority in their particular field.
+
+#### Probable Manifestations
+
++ Attainment of recognition and power. Inclination to look upon one's vocation or calling as a mission. Inner change and transformation, readjustment of one's circumstances in life. Attainment of greater independence than enjoyed hitherto. - The likelihood of sudden ruin through the misuse of power, a crisis at a certain juncture in life, a turn in one's destiny brought about by providence. Pluto/Medium Coeli ^/M
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Pluto/Midheaven midpoint`
+- Source page: `117`
+
+#### Principle
+
+To be transformed and empowered by being open and receptive to spiritual forces. An intense and relentless pursuit of one’s spiritual path, or to pursue worldly success with the same intensity. Power struggles with employers and/or those in au thority. To be obsessed with the need for security, and ultimately to find true security in spiritual realities.
+
+#### Process
+
+The craving to find a truly meaningful place in the world. The desire to wield social power, either for selfish and egotistical reasons, or for the purpose of positively transforming the world.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Pluto/Midheaven`
+- Source page: `213`
+
+#### Pair Delineation
+
+Striving toward one's goals, the desire to achieve one's objectives at any cost. The transformation of the self. Crises in one's o^ ego development from which a new self emerges. To be strong-willed or ambitious. To have the sense of being an agent of destiny.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -120,26 +172,27 @@ Toxins which accumulate due to the stress of living or work; colon or eliminatio
 
 ## Related Activations
 
-- [Pluto/MC = Aries](../activations/pluto-mc-equals-aries.md)
+- [Pluto/MC = Admetos](../activations/pluto-mc-equals-admetos.md)
+- [Pluto/MC = Apollon](../activations/pluto-mc-equals-apollon.md)
 - [Pluto/MC = Asc](../activations/pluto-mc-equals-asc.md)
-- [Pluto/MC = Sun](../activations/pluto-mc-equals-sun.md)
-- [Pluto/MC = Moon](../activations/pluto-mc-equals-moon.md)
-- [Pluto/MC = Node](../activations/pluto-mc-equals-node.md)
-- [Pluto/MC = Mercury](../activations/pluto-mc-equals-mercury.md)
-- [Pluto/MC = Venus](../activations/pluto-mc-equals-venus.md)
-- [Pluto/MC = Mars](../activations/pluto-mc-equals-mars.md)
-- [Pluto/MC = Jupiter](../activations/pluto-mc-equals-jupiter.md)
-- [Pluto/MC = Saturn](../activations/pluto-mc-equals-saturn.md)
-- [Pluto/MC = Uranus](../activations/pluto-mc-equals-uranus.md)
-- [Pluto/MC = Neptune](../activations/pluto-mc-equals-neptune.md)
+- [Pluto/MC = Chiron](../activations/pluto-mc-equals-chiron.md)
 - [Pluto/MC = Cupido](../activations/pluto-mc-equals-cupido.md)
 - [Pluto/MC = Hades](../activations/pluto-mc-equals-hades.md)
-- [Pluto/MC = Zeus](../activations/pluto-mc-equals-zeus.md)
+- [Pluto/MC = Jupiter](../activations/pluto-mc-equals-jupiter.md)
 - [Pluto/MC = Kronos](../activations/pluto-mc-equals-kronos.md)
-- [Pluto/MC = Apollon](../activations/pluto-mc-equals-apollon.md)
-- [Pluto/MC = Admetos](../activations/pluto-mc-equals-admetos.md)
-- [Pluto/MC = Vulcanus](../activations/pluto-mc-equals-vulcanus.md)
+- [Pluto/MC = Mars](../activations/pluto-mc-equals-mars.md)
+- [Pluto/MC = Mercury](../activations/pluto-mc-equals-mercury.md)
+- [Pluto/MC = Moon](../activations/pluto-mc-equals-moon.md)
+- [Pluto/MC = Neptune](../activations/pluto-mc-equals-neptune.md)
+- [Pluto/MC = Node](../activations/pluto-mc-equals-node.md)
 - [Pluto/MC = Poseidon](../activations/pluto-mc-equals-poseidon.md)
+- [Pluto/MC = Saturn](../activations/pluto-mc-equals-saturn.md)
+- [Pluto/MC = Sun](../activations/pluto-mc-equals-sun.md)
+- [Pluto/MC = Uranus](../activations/pluto-mc-equals-uranus.md)
+- [Pluto/MC = Venus](../activations/pluto-mc-equals-venus.md)
+- [Pluto/MC = Vernal Point](../activations/pluto-mc-equals-vernal-point.md)
+- [Pluto/MC = Vulcanus](../activations/pluto-mc-equals-vulcanus.md)
+- [Pluto/MC = Zeus](../activations/pluto-mc-equals-zeus.md)
 
 ## Contradictions
 
@@ -155,4 +208,7 @@ Toxins which accumulate due to the stress of living or work; colon or eliminatio
 - [Pluto](../factors/pluto.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

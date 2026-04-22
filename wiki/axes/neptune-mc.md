@@ -11,28 +11,29 @@ normalized_axis: Neptune/MC
 factor_a: Neptune
 factor_b: MC
 related_activations:
-  - Neptune/MC = Aries
+  - Neptune/MC = Admetos
+  - Neptune/MC = Apollon
   - Neptune/MC = Asc
-  - Neptune/MC = Sun
-  - Neptune/MC = Moon
-  - Neptune/MC = Node
-  - Neptune/MC = Mercury
-  - Neptune/MC = Venus
-  - Neptune/MC = Mars
-  - Neptune/MC = Jupiter
-  - Neptune/MC = Saturn
-  - Neptune/MC = Uranus
-  - Neptune/MC = Pluto
+  - Neptune/MC = Chiron
   - Neptune/MC = Cupido
   - Neptune/MC = Hades
-  - Neptune/MC = Zeus
+  - Neptune/MC = Jupiter
   - Neptune/MC = Kronos
-  - Neptune/MC = Apollon
-  - Neptune/MC = Admetos
-  - Neptune/MC = Vulcanus
+  - Neptune/MC = Mars
+  - Neptune/MC = Mercury
+  - Neptune/MC = Moon
+  - Neptune/MC = Node
+  - Neptune/MC = Pluto
   - Neptune/MC = Poseidon
+  - Neptune/MC = Saturn
+  - Neptune/MC = Sun
+  - Neptune/MC = Uranus
+  - Neptune/MC = Venus
+  - Neptune/MC = Vernal Point
+  - Neptune/MC = Vulcanus
+  - Neptune/MC = Zeus
 related_triad_hubs:
-  - Aries Neptune MC
+  - Chiron Neptune MC
   - Jupiter Neptune MC
   - Mars Neptune MC
   - Mercury Neptune MC
@@ -52,10 +53,14 @@ related_triad_hubs:
   - Sun Neptune MC
   - Uranus Neptune MC
   - Venus Neptune MC
+  - Vernal Point Neptune MC
 aliases:
   - MC/Neptune
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -70,12 +75,59 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Neptune`
-- Source page: `68`
+- Source heading: `Neptune/Medium Coeli`
+- Source page: `289`
 
 #### Pair Summary
 
 To decline. To refuse something. To be unsure, unable to support. Unintelligible attitude. To follow wrong ideas. “I deceive”. Untruth. Falsehood. Swindle. To be intuitive. To concentrate on the future. To follow the unknown, the doubtful. To be disappointed. To appear unreliable or mysterious. To feel uncomfortable. Moment (minute) of uncertainty.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Neptune/Medium Coeli`
+- Source page: `289`
+
+#### Principle
+
+Insecurity, uncertainty. A lack of "ego-consciousness."
+
+#### Psychological Correspondence
+
++ A devotion to far-reaching objectives without being able to bring them to realization. Peculiar ideas, interest in the investigation of the unconscious and the supernatural. - Undefined objectives in life. Insecurity, lack of self-confidence, tendency to succumb to strange and unusual influences. C Aimlessness and a lack of purpose and directive in life, lack of self-confidence.
+
+#### Biological Correspondence
+
+Depressive psychoses, mental disturbance. Numbness in limbs.
+
+#### Sociological Correspondence
+
+People with Utopian ideas, crooks or swindlers. "Man of big talk but not of action." Weaklings.
+
+#### Probable Manifestations
+
++ Devotion to peculiar objectives, inclination to feign, pose or put on an act. - Pursuit of wrong ideas, prone to deception. 64 Neptune/MC should not always be interpreted negatively but can mean an especially sensitive individual who is particularly sensitive to others, or it can indicate an interest in the occult or in parapsychological problems, e. g., this combination was found in the case of a very well known research worker who occupied himself with parapsychological problems. An aspect of transiting or directed Neptune to the MC can in certain circumstances result in a very deep depression and far-reaching disappointments, reducing the patient to someone who feels incapable of undertaking anything. In the case of transiting Neptune over the MC one must remember that this can occur several times in the course of two years. In a case like this the whole must be considered. Neptune/Medium Coeli V/M
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Neptune/Midheaven midpoint`
+- Source page: `113`
+
+#### Principle
+
+The need to allow one’s intuition to guide one’s progress. The need to listen to the subtle messages coming from the spiritual realms. Unformed, chaotic or confus ing energies affecting one’s career, which can be resolved the more one listens to and follows one’s intuition. A career involving idealism and/ or the use of one’s imagination, or possibly one involving humanitarian work.
+
+#### Process
+
+The dedication of oneself to the bettering and uplifting of society. The sharing of one’s vision with the world. The free gift of sympathy to all.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Neptune/Midheaven`
+- Source page: `212`
+
+#### Pair Delineation
+
+Weak or sensitive ego. The feeling of being unable to stand alone. Tendency to be easily influenced in one's life course by others. Lack of clear consciousness of objective. Spiritual or idealistic life directions, often involving self-sacrifice or self-denial. Often connected with psychic ability.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -120,26 +172,27 @@ May bring a genetic weakness or body reaction to certain allergens, drugs, alcoh
 
 ## Related Activations
 
-- [Neptune/MC = Aries](../activations/neptune-mc-equals-aries.md)
+- [Neptune/MC = Admetos](../activations/neptune-mc-equals-admetos.md)
+- [Neptune/MC = Apollon](../activations/neptune-mc-equals-apollon.md)
 - [Neptune/MC = Asc](../activations/neptune-mc-equals-asc.md)
-- [Neptune/MC = Sun](../activations/neptune-mc-equals-sun.md)
-- [Neptune/MC = Moon](../activations/neptune-mc-equals-moon.md)
-- [Neptune/MC = Node](../activations/neptune-mc-equals-node.md)
-- [Neptune/MC = Mercury](../activations/neptune-mc-equals-mercury.md)
-- [Neptune/MC = Venus](../activations/neptune-mc-equals-venus.md)
-- [Neptune/MC = Mars](../activations/neptune-mc-equals-mars.md)
-- [Neptune/MC = Jupiter](../activations/neptune-mc-equals-jupiter.md)
-- [Neptune/MC = Saturn](../activations/neptune-mc-equals-saturn.md)
-- [Neptune/MC = Uranus](../activations/neptune-mc-equals-uranus.md)
-- [Neptune/MC = Pluto](../activations/neptune-mc-equals-pluto.md)
+- [Neptune/MC = Chiron](../activations/neptune-mc-equals-chiron.md)
 - [Neptune/MC = Cupido](../activations/neptune-mc-equals-cupido.md)
 - [Neptune/MC = Hades](../activations/neptune-mc-equals-hades.md)
-- [Neptune/MC = Zeus](../activations/neptune-mc-equals-zeus.md)
+- [Neptune/MC = Jupiter](../activations/neptune-mc-equals-jupiter.md)
 - [Neptune/MC = Kronos](../activations/neptune-mc-equals-kronos.md)
-- [Neptune/MC = Apollon](../activations/neptune-mc-equals-apollon.md)
-- [Neptune/MC = Admetos](../activations/neptune-mc-equals-admetos.md)
-- [Neptune/MC = Vulcanus](../activations/neptune-mc-equals-vulcanus.md)
+- [Neptune/MC = Mars](../activations/neptune-mc-equals-mars.md)
+- [Neptune/MC = Mercury](../activations/neptune-mc-equals-mercury.md)
+- [Neptune/MC = Moon](../activations/neptune-mc-equals-moon.md)
+- [Neptune/MC = Node](../activations/neptune-mc-equals-node.md)
+- [Neptune/MC = Pluto](../activations/neptune-mc-equals-pluto.md)
 - [Neptune/MC = Poseidon](../activations/neptune-mc-equals-poseidon.md)
+- [Neptune/MC = Saturn](../activations/neptune-mc-equals-saturn.md)
+- [Neptune/MC = Sun](../activations/neptune-mc-equals-sun.md)
+- [Neptune/MC = Uranus](../activations/neptune-mc-equals-uranus.md)
+- [Neptune/MC = Venus](../activations/neptune-mc-equals-venus.md)
+- [Neptune/MC = Vernal Point](../activations/neptune-mc-equals-vernal-point.md)
+- [Neptune/MC = Vulcanus](../activations/neptune-mc-equals-vulcanus.md)
+- [Neptune/MC = Zeus](../activations/neptune-mc-equals-zeus.md)
 
 ## Contradictions
 
@@ -155,4 +208,7 @@ May bring a genetic weakness or body reaction to certain allergens, drugs, alcoh
 - [Neptune](../factors/neptune.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

@@ -3,7 +3,7 @@ title: Moon/Mars = Uranus
 page_type: activation
 slug: moon-mars-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Mars
@@ -15,10 +15,13 @@ triad_set:
   - Moon
   - Mars
   - Uranus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Sudden changes in working schedules. Unusual working time. Sudden interference in the working time conditions. The willful woman. The hot tempered woman. Excitement about the keeping of the home. The armed, rebellious or uproarious populace.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Moon/Mars`
+- Source page: `120`
+- Entry: `0356`
+
+#### Ebertin Entry
+
+Quick irritability, a quick and violent temper, inclination to give back as well as to take or to hit back at once under provocation, an irascible nature prone to sudden anger. A sudden experience in a woman's life.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Moon/Mars midpoint`
+- Source page: `28`
+- Activator: `Uranus`
+
+#### Sandbach Entry
+
+A sudden, surprising and/or unexpected display or forceful or passionate feeling. A genius for stirring up others emotionally. To suddenly act on inspiration. To be inspired by a gut feeling about what needs to be done.
+
 ## Comparative Schema
 
-- core meaning: Sudden changes in working schedules. Unusual working time. Sudden interference in the working time conditions. The willful woman. The hot tempered woman. Excitement about the keeping of the home. The armed, rebellious or uproarious populace.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Sudden changes in working schedules. Unusual working time. Sudden interference i
 - [Mars](../factors/mars.md)
 - [Uranus](../factors/uranus.md)
 - [Moon/Mars](../axes/moon-mars.md)
+- [Moon Mars Uranus](../triads/moon-mars-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

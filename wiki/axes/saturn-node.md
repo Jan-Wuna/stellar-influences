@@ -11,32 +11,33 @@ normalized_axis: Saturn/Node
 factor_a: Saturn
 factor_b: Node
 related_activations:
-  - Saturn/Node = Aries
-  - Saturn/Node = MC
+  - Saturn/Node = Admetos
+  - Saturn/Node = Apollon
   - Saturn/Node = Asc
-  - Saturn/Node = Sun
-  - Saturn/Node = Moon
-  - Saturn/Node = Mercury
-  - Saturn/Node = Venus
-  - Saturn/Node = Mars
-  - Saturn/Node = Jupiter
-  - Saturn/Node = Uranus
-  - Saturn/Node = Neptune
-  - Saturn/Node = Pluto
+  - Saturn/Node = Chiron
   - Saturn/Node = Cupido
   - Saturn/Node = Hades
-  - Saturn/Node = Zeus
+  - Saturn/Node = Jupiter
   - Saturn/Node = Kronos
-  - Saturn/Node = Apollon
-  - Saturn/Node = Admetos
-  - Saturn/Node = Vulcanus
+  - Saturn/Node = Mars
+  - Saturn/Node = MC
+  - Saturn/Node = Mercury
+  - Saturn/Node = Moon
+  - Saturn/Node = Neptune
+  - Saturn/Node = Pluto
   - Saturn/Node = Poseidon
+  - Saturn/Node = Sun
+  - Saturn/Node = Uranus
+  - Saturn/Node = Venus
+  - Saturn/Node = Vernal Point
+  - Saturn/Node = Vulcanus
+  - Saturn/Node = Zeus
 related_triad_hubs:
-  - Aries Saturn Node
   - Jupiter Saturn Node
   - Mars Saturn Node
   - Mercury Saturn Node
   - Moon Saturn Node
+  - Saturn Chiron Node
   - Saturn Neptune Node
   - Saturn Node Admetos
   - Saturn Node Apollon
@@ -52,10 +53,14 @@ related_triad_hubs:
   - Saturn Uranus Node
   - Sun Saturn Node
   - Venus Saturn Node
+  - Vernal Point Saturn Node
 aliases:
   - Node/Saturn
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -70,12 +75,59 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Saturn`
-- Source page: `145`
+- Source heading: `Saturn/Dragon's Head`
+- Source page: `256`
 
 #### Pair Summary
 
 Breaking off of connections or other relationships. Difficulties in relationships or with contacts. To participate in separations. End of a connection. Long-term and serious connections. Separations.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Saturn/Dragon's Head`
+- Source page: `256`
+
+#### Principle
+
+Isolation, inhibition in unions or associations.
+
+#### Psychological Correspondence
+
++ Inclination to become attached to persons older than oneself, also to seek contact with mature and experienced people. - Lack of adaptability, great difficulty in cooperating with others, a feeling of inhibition in the presence of other people. C Feelings of depression caused by other persons, inhibitions in contact with others.
+
+#### Biological Correspondence
+
+Separation from the astral body: The mystery of the three days. The organism as affected by shock events. (An electric shock, a cure effected by the use of malaria bacteria.)
+
+#### Sociological Correspondence
+
+An association of elderly persons, such as homes for the aged or the needy, e.g., an alms house. Community expressing feelings of grief or depression, e.g., mourners attending a funeral.
+
+#### Probable Manifestations
+
++ Association with elderly or experienced persons, sponsorship through such people. - Inhibitions and difficulties in association or partnership, termination of blood relationships, death of relatives or of kindred, disadvantages through other persons, cooperative work or teamwork which is steadily becoming more difficult. Saturn/Dragon's Head V&
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Saturn/Node midpoint`
+- Source page: `92`
+
+#### Principle
+
+Deep, enduring, and/or spiritual relationships. To have relationships that last a long time. One finds it difficult to enter into new experiences, due either to fear or to being overly tied to the past. One finds one’s connections with others oppressive. A gradual overcoming of the past.
+
+#### Process
+
+The overcoming of the fear of change. The identification of the problems and limitations that exist between oneself and others, as well as the realization of their spir itual purpose.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Saturn/Nodes`
+- Source page: `210`
+
+#### Pair Delineation
+
+Separations, the severing of connections. Connections that involve much restriction or discipline. Unions with older people. The desire to take control of relationships or meetings with others. Fear of matters being out of place or disorganized in connection with others.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -120,26 +172,27 @@ The blockage or constriction of tubes or passageways in the body; blocked or con
 
 ## Related Activations
 
-- [Saturn/Node = Aries](../activations/saturn-node-equals-aries.md)
-- [Saturn/Node = MC](../activations/saturn-node-equals-mc.md)
+- [Saturn/Node = Admetos](../activations/saturn-node-equals-admetos.md)
+- [Saturn/Node = Apollon](../activations/saturn-node-equals-apollon.md)
 - [Saturn/Node = Asc](../activations/saturn-node-equals-asc.md)
-- [Saturn/Node = Sun](../activations/saturn-node-equals-sun.md)
-- [Saturn/Node = Moon](../activations/saturn-node-equals-moon.md)
-- [Saturn/Node = Mercury](../activations/saturn-node-equals-mercury.md)
-- [Saturn/Node = Venus](../activations/saturn-node-equals-venus.md)
-- [Saturn/Node = Mars](../activations/saturn-node-equals-mars.md)
-- [Saturn/Node = Jupiter](../activations/saturn-node-equals-jupiter.md)
-- [Saturn/Node = Uranus](../activations/saturn-node-equals-uranus.md)
-- [Saturn/Node = Neptune](../activations/saturn-node-equals-neptune.md)
-- [Saturn/Node = Pluto](../activations/saturn-node-equals-pluto.md)
+- [Saturn/Node = Chiron](../activations/saturn-node-equals-chiron.md)
 - [Saturn/Node = Cupido](../activations/saturn-node-equals-cupido.md)
 - [Saturn/Node = Hades](../activations/saturn-node-equals-hades.md)
-- [Saturn/Node = Zeus](../activations/saturn-node-equals-zeus.md)
+- [Saturn/Node = Jupiter](../activations/saturn-node-equals-jupiter.md)
 - [Saturn/Node = Kronos](../activations/saturn-node-equals-kronos.md)
-- [Saturn/Node = Apollon](../activations/saturn-node-equals-apollon.md)
-- [Saturn/Node = Admetos](../activations/saturn-node-equals-admetos.md)
-- [Saturn/Node = Vulcanus](../activations/saturn-node-equals-vulcanus.md)
+- [Saturn/Node = Mars](../activations/saturn-node-equals-mars.md)
+- [Saturn/Node = MC](../activations/saturn-node-equals-mc.md)
+- [Saturn/Node = Mercury](../activations/saturn-node-equals-mercury.md)
+- [Saturn/Node = Moon](../activations/saturn-node-equals-moon.md)
+- [Saturn/Node = Neptune](../activations/saturn-node-equals-neptune.md)
+- [Saturn/Node = Pluto](../activations/saturn-node-equals-pluto.md)
 - [Saturn/Node = Poseidon](../activations/saturn-node-equals-poseidon.md)
+- [Saturn/Node = Sun](../activations/saturn-node-equals-sun.md)
+- [Saturn/Node = Uranus](../activations/saturn-node-equals-uranus.md)
+- [Saturn/Node = Venus](../activations/saturn-node-equals-venus.md)
+- [Saturn/Node = Vernal Point](../activations/saturn-node-equals-vernal-point.md)
+- [Saturn/Node = Vulcanus](../activations/saturn-node-equals-vulcanus.md)
+- [Saturn/Node = Zeus](../activations/saturn-node-equals-zeus.md)
 
 ## Contradictions
 
@@ -155,4 +208,7 @@ The blockage or constriction of tubes or passageways in the body; blocked or con
 - [Saturn](../factors/saturn.md)
 - [Node](../factors/node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

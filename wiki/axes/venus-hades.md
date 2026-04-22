@@ -11,7 +11,7 @@ normalized_axis: Venus/Hades
 factor_a: Venus
 factor_b: Hades
 related_activations:
-  - Venus/Hades = Aries
+  - Venus/Hades = Vernal Point
   - Venus/Hades = MC
   - Venus/Hades = Asc
   - Venus/Hades = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Venus/Hades = Vulcanus
   - Venus/Hades = Poseidon
 related_triad_hubs:
-  - Aries Venus Hades
   - Mercury Venus Hades
   - Moon Venus Hades
   - Sun Venus Hades
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Venus Pluto Hades
   - Venus Saturn Hades
   - Venus Uranus Hades
+  - Vernal Point Venus Hades
 aliases:
   - Hades/Venus
 source_pages:
@@ -85,7 +85,7 @@ Repulsiveness in love. Love worries. To grieve. Secret love. Dirty minded. Low, 
 
 ## Related Activations
 
-- [Venus/Hades = Aries](../activations/venus-hades-equals-aries.md)
+- [Venus/Hades = Vernal Point](../activations/venus-hades-equals-vernal-point.md)
 - [Venus/Hades = MC](../activations/venus-hades-equals-mc.md)
 - [Venus/Hades = Asc](../activations/venus-hades-equals-asc.md)
 - [Venus/Hades = Sun](../activations/venus-hades-equals-sun.md)

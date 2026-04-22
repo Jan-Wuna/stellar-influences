@@ -3,7 +3,7 @@ title: Moon Venus Jupiter
 page_type: triad_hub
 slug: moon-venus-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Venus
@@ -19,7 +19,9 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -31,18 +33,20 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Moon/Jupiter = Venus](../activations/moon-jupiter-equals-venus.md)
-  Source page `125`
 - [Moon/Venus = Jupiter](../activations/moon-venus-equals-jupiter.md)
-  Source page `123`
 - [Venus/Jupiter = Moon](../activations/venus-jupiter-equals-moon.md)
-  Source page `177`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Jupiter = Venus`: page `125`
-- `Moon/Venus = Jupiter`: page `123`
-- `Venus/Jupiter = Moon`: page `177`
+- `Moon/Jupiter = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `125`
+- `Moon/Jupiter = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `123`
+- `Moon/Jupiter = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `29`
+- `Moon/Venus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `123`
+- `Moon/Venus = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `117`
+- `Moon/Venus = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `27`
+- `Venus/Jupiter = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `177`
+- `Venus/Jupiter = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `179`
+- `Venus/Jupiter = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `56`
 
 ## Contradictions Across Orientations
 
@@ -54,3 +58,6 @@ updated_at: 2026-04-21
 - [Moon](../factors/moon.md)
 - [Venus](../factors/venus.md)
 - [Jupiter](../factors/jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

@@ -3,7 +3,7 @@ title: Sun/Venus = Jupiter
 page_type: activation
 slug: sun-venus-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Venus
@@ -15,10 +15,13 @@ triad_set:
   - Sun
   - Venus
   - Jupiter
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 A body animated with the joy of love. The happiness of a loving man.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Sun/Venus`
+- Source page: `84`
+- Entry: `0210`
+
+#### Ebertin Entry
+
+Harmonious disposition in love, the artistic sense. The desire to get a loving husband, happiness in love.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Sun/Venus midpoint`
+- Source page: `10`
+- Activator: `Jupiter`
+
+#### Sandbach Entry
+
+To have expansive, broad tastes in the arts. To be very generous in the expres sion of affection and possibly willing to compensate for the shortcomings of the loved one. An enthusiasm for sharing with others in a meaningful way. Enthusiastic support of all that one finds truly beautiful and meaningful.
+
 ## Comparative Schema
 
-- core meaning: A body animated with the joy of love. The happiness of a loving man.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ A body animated with the joy of love. The happiness of a loving man.
 - [Venus](../factors/venus.md)
 - [Jupiter](../factors/jupiter.md)
 - [Sun/Venus](../axes/sun-venus.md)
+- [Sun Venus Jupiter](../triads/sun-venus-jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

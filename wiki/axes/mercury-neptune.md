@@ -11,28 +11,29 @@ normalized_axis: Mercury/Neptune
 factor_a: Mercury
 factor_b: Neptune
 related_activations:
-  - Mercury/Neptune = Aries
-  - Mercury/Neptune = MC
+  - Mercury/Neptune = Admetos
+  - Mercury/Neptune = Apollon
   - Mercury/Neptune = Asc
-  - Mercury/Neptune = Sun
-  - Mercury/Neptune = Moon
-  - Mercury/Neptune = Node
-  - Mercury/Neptune = Venus
-  - Mercury/Neptune = Mars
-  - Mercury/Neptune = Jupiter
-  - Mercury/Neptune = Saturn
-  - Mercury/Neptune = Uranus
-  - Mercury/Neptune = Pluto
+  - Mercury/Neptune = Chiron
   - Mercury/Neptune = Cupido
   - Mercury/Neptune = Hades
-  - Mercury/Neptune = Zeus
+  - Mercury/Neptune = Jupiter
   - Mercury/Neptune = Kronos
-  - Mercury/Neptune = Apollon
-  - Mercury/Neptune = Admetos
-  - Mercury/Neptune = Vulcanus
+  - Mercury/Neptune = Mars
+  - Mercury/Neptune = MC
+  - Mercury/Neptune = Moon
+  - Mercury/Neptune = Node
+  - Mercury/Neptune = Pluto
   - Mercury/Neptune = Poseidon
+  - Mercury/Neptune = Saturn
+  - Mercury/Neptune = Sun
+  - Mercury/Neptune = Uranus
+  - Mercury/Neptune = Venus
+  - Mercury/Neptune = Vernal Point
+  - Mercury/Neptune = Vulcanus
+  - Mercury/Neptune = Zeus
 related_triad_hubs:
-  - Aries Mercury Neptune
+  - Mercury Chiron Neptune
   - Mercury Jupiter Neptune
   - Mercury Mars Neptune
   - Mercury Neptune Admetos
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Mercury Venus Neptune
   - Moon Mercury Neptune
   - Sun Mercury Neptune
+  - Vernal Point Mercury Neptune
 aliases:
   - Neptune/Mercury
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 Intuition. Fantasy. Imagination. Lack of clarity. Expressing uncertainly, confusion or lies. Illogical thinking. Falsehood. Intuitive thinking. To ramble (in speaking). Motion in water or air.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mercury/Neptune`
+- Source page: `160`
+
+#### Principle
+
+The imaginative faculty, fantasy.
+
+#### Psychological Correspondence
+
++ The power of imagination, an abundant imaginative realm or sphere, the power of sympathetic and compassionate understanding with regard to other people, intuitive thinking, in-depth perception and vision, a grasp of the most subtle and attenuated correlations or relationships, idealism. - Wrong thinking, faulty judgment, confused ideas and perceptions or notions, nervous sensitivity, insincerity, fantastic visualizations, untruthfulness or the tendency to tell lies. C A lack of clarity, self-deception.
+
+#### Biological Correspondence
+
+Loss of the power to feel or sense, weak nerves, paralysis of the nerves.
+
+#### Sociological Correspondence
+
+Actors, deceitful people, liars.
+
+#### Probable Manifestations
+
++ A presentiment of coming events, spiritual and mental cognition or awareness, desire to plan or map things out in advance, longing for regions afar, spiritual and mental relationships between people. - Disturbances which originate in the subconscious, self-deception, lack of clarity, failures through incorrect behavior, inner confusion. (Unconsciousness, nervous paralysis.) 28 Under Sociological Correspondence of Mercury/Neptune one should add "so-called saints," i.e, people who are found under this combination sometimes appear in every way perfect, they appear to have no faults until one day it is discovered they are almost the reverse of what they appeared to be. This is sometimes the case with actors who have to wear a mask which is not in accord with their personality, or in the case of diplomats who play a part in the course of their work and say something different from what they think. In these cases, this describes the work they do. Mercury/Neptune §/V
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -135,6 +165,28 @@ Active imagination and the insight into motives that results from sensitive perc
 - The Conjunction: Dr. Steiner, Sumangala, T.B. Macaulay, Lenin
 - Inharmonious: Bismack, Ebert, Lord Elgin, H.P. Blavatsky, Lord Oxford (H.H. Asquith), Rommel
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mercury/Neptune midpoint`
+- Source page: `49`
+
+#### Principle
+
+The imagination. The ability to communicate in a subtle way and to imply much with one’s words. Confused thinking, and the possibility of being misunderstood, either because one is vague, or because others lack the sensitivity to pick up on what one is saying. Clairvoyance. Messages from beyond. Channeling.
+
+#### Process
+
+To dissolve the boundaries that limit communication. To develop a finer and finer sensitivity to picking up messages from the spiritual realms and from one’s own in tuition. The ability to see beyond any and all vehicles of communication into the deep est essence of what is really being communicated.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Mercury/Neptune`
+- Source page: `205`
+
+#### Pair Delineation
+
+Imagination and inspiration. Possibility of confusion, muddled or irrational thinking. Nervous weakness or exhaustion. Concern with spiritual ideas and ideals. The need to transcend ordinary thought patterns.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MERCURY/NEPTUNE`
@@ -178,26 +230,27 @@ Drug reactions which affect the nervous system; weakened lungs; vivid dreaming; 
 
 ## Related Activations
 
-- [Mercury/Neptune = Aries](../activations/mercury-neptune-equals-aries.md)
-- [Mercury/Neptune = MC](../activations/mercury-neptune-equals-mc.md)
+- [Mercury/Neptune = Admetos](../activations/mercury-neptune-equals-admetos.md)
+- [Mercury/Neptune = Apollon](../activations/mercury-neptune-equals-apollon.md)
 - [Mercury/Neptune = Asc](../activations/mercury-neptune-equals-asc.md)
-- [Mercury/Neptune = Sun](../activations/mercury-neptune-equals-sun.md)
-- [Mercury/Neptune = Moon](../activations/mercury-neptune-equals-moon.md)
-- [Mercury/Neptune = Node](../activations/mercury-neptune-equals-node.md)
-- [Mercury/Neptune = Venus](../activations/mercury-neptune-equals-venus.md)
-- [Mercury/Neptune = Mars](../activations/mercury-neptune-equals-mars.md)
-- [Mercury/Neptune = Jupiter](../activations/mercury-neptune-equals-jupiter.md)
-- [Mercury/Neptune = Saturn](../activations/mercury-neptune-equals-saturn.md)
-- [Mercury/Neptune = Uranus](../activations/mercury-neptune-equals-uranus.md)
-- [Mercury/Neptune = Pluto](../activations/mercury-neptune-equals-pluto.md)
+- [Mercury/Neptune = Chiron](../activations/mercury-neptune-equals-chiron.md)
 - [Mercury/Neptune = Cupido](../activations/mercury-neptune-equals-cupido.md)
 - [Mercury/Neptune = Hades](../activations/mercury-neptune-equals-hades.md)
-- [Mercury/Neptune = Zeus](../activations/mercury-neptune-equals-zeus.md)
+- [Mercury/Neptune = Jupiter](../activations/mercury-neptune-equals-jupiter.md)
 - [Mercury/Neptune = Kronos](../activations/mercury-neptune-equals-kronos.md)
-- [Mercury/Neptune = Apollon](../activations/mercury-neptune-equals-apollon.md)
-- [Mercury/Neptune = Admetos](../activations/mercury-neptune-equals-admetos.md)
-- [Mercury/Neptune = Vulcanus](../activations/mercury-neptune-equals-vulcanus.md)
+- [Mercury/Neptune = Mars](../activations/mercury-neptune-equals-mars.md)
+- [Mercury/Neptune = MC](../activations/mercury-neptune-equals-mc.md)
+- [Mercury/Neptune = Moon](../activations/mercury-neptune-equals-moon.md)
+- [Mercury/Neptune = Node](../activations/mercury-neptune-equals-node.md)
+- [Mercury/Neptune = Pluto](../activations/mercury-neptune-equals-pluto.md)
 - [Mercury/Neptune = Poseidon](../activations/mercury-neptune-equals-poseidon.md)
+- [Mercury/Neptune = Saturn](../activations/mercury-neptune-equals-saturn.md)
+- [Mercury/Neptune = Sun](../activations/mercury-neptune-equals-sun.md)
+- [Mercury/Neptune = Uranus](../activations/mercury-neptune-equals-uranus.md)
+- [Mercury/Neptune = Venus](../activations/mercury-neptune-equals-venus.md)
+- [Mercury/Neptune = Vernal Point](../activations/mercury-neptune-equals-vernal-point.md)
+- [Mercury/Neptune = Vulcanus](../activations/mercury-neptune-equals-vulcanus.md)
+- [Mercury/Neptune = Zeus](../activations/mercury-neptune-equals-zeus.md)
 
 ## Contradictions
 
@@ -213,6 +266,9 @@ Drug reactions which affect the nervous system; weakened lungs; vivid dreaming; 
 - [Mercury](../factors/mercury.md)
 - [Neptune](../factors/neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

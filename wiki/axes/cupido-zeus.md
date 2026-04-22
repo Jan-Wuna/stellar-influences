@@ -11,7 +11,7 @@ normalized_axis: Cupido/Zeus
 factor_a: Cupido
 factor_b: Zeus
 related_activations:
-  - Cupido/Zeus = Aries
+  - Cupido/Zeus = Vernal Point
   - Cupido/Zeus = MC
   - Cupido/Zeus = Asc
   - Cupido/Zeus = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Cupido/Zeus = Vulcanus
   - Cupido/Zeus = Poseidon
 related_triad_hubs:
-  - Aries Cupido Zeus
   - Asc Cupido Zeus
   - Cupido Hades Zeus
   - Cupido Zeus Admetos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Cupido Zeus
   - Uranus Cupido Zeus
   - Venus Cupido Zeus
+  - Vernal Point Cupido Zeus
 aliases:
   - Zeus/Cupido
 source_pages:
@@ -85,7 +85,7 @@ Foundation of a corporation. Foundation of a new society. Marriage. Artistic cre
 
 ## Related Activations
 
-- [Cupido/Zeus = Aries](../activations/cupido-zeus-equals-aries.md)
+- [Cupido/Zeus = Vernal Point](../activations/cupido-zeus-equals-vernal-point.md)
 - [Cupido/Zeus = MC](../activations/cupido-zeus-equals-mc.md)
 - [Cupido/Zeus = Asc](../activations/cupido-zeus-equals-asc.md)
 - [Cupido/Zeus = Sun](../activations/cupido-zeus-equals-sun.md)

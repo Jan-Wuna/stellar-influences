@@ -11,7 +11,7 @@ normalized_axis: Pluto/Cupido
 factor_a: Pluto
 factor_b: Cupido
 related_activations:
-  - Pluto/Cupido = Aries
+  - Pluto/Cupido = Vernal Point
   - Pluto/Cupido = MC
   - Pluto/Cupido = Asc
   - Pluto/Cupido = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Pluto/Cupido = Vulcanus
   - Pluto/Cupido = Poseidon
 related_triad_hubs:
-  - Aries Pluto Cupido
   - Jupiter Pluto Cupido
   - Mars Pluto Cupido
   - Mercury Pluto Cupido
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Pluto Cupido
   - Uranus Pluto Cupido
   - Venus Pluto Cupido
+  - Vernal Point Pluto Cupido
 aliases:
   - Cupido/Pluto
 source_pages:
@@ -85,7 +85,7 @@ Changes in the family like betrothal, wedding, birth, death. Tradition. Changes 
 
 ## Related Activations
 
-- [Pluto/Cupido = Aries](../activations/pluto-cupido-equals-aries.md)
+- [Pluto/Cupido = Vernal Point](../activations/pluto-cupido-equals-vernal-point.md)
 - [Pluto/Cupido = MC](../activations/pluto-cupido-equals-mc.md)
 - [Pluto/Cupido = Asc](../activations/pluto-cupido-equals-asc.md)
 - [Pluto/Cupido = Sun](../activations/pluto-cupido-equals-sun.md)

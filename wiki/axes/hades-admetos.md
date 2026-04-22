@@ -11,7 +11,7 @@ normalized_axis: Hades/Admetos
 factor_a: Hades
 factor_b: Admetos
 related_activations:
-  - Hades/Admetos = Aries
+  - Hades/Admetos = Vernal Point
   - Hades/Admetos = MC
   - Hades/Admetos = Asc
   - Hades/Admetos = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Hades/Admetos = Vulcanus
   - Hades/Admetos = Poseidon
 related_triad_hubs:
-  - Aries Hades Admetos
   - Asc Hades Admetos
   - Cupido Hades Admetos
   - Hades Admetos Poseidon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Hades Admetos
   - Uranus Hades Admetos
   - Venus Hades Admetos
+  - Vernal Point Hades Admetos
 aliases:
   - Admetos/Hades
 source_pages:
@@ -85,7 +85,7 @@ Scantness. Frugality. Great and deep sadness. Pessimism. Coldness. Aversion. Lac
 
 ## Related Activations
 
-- [Hades/Admetos = Aries](../activations/hades-admetos-equals-aries.md)
+- [Hades/Admetos = Vernal Point](../activations/hades-admetos-equals-vernal-point.md)
 - [Hades/Admetos = MC](../activations/hades-admetos-equals-mc.md)
 - [Hades/Admetos = Asc](../activations/hades-admetos-equals-asc.md)
 - [Hades/Admetos = Sun](../activations/hades-admetos-equals-sun.md)

@@ -11,7 +11,7 @@ normalized_axis: Admetos/Admetos
 factor_a: Admetos
 factor_b: Admetos
 related_activations:
-  - Admetos/Admetos = Aries
+  - Admetos/Admetos = Vernal Point
   - Admetos/Admetos = MC
   - Admetos/Admetos = Asc
   - Admetos/Admetos = Sun
@@ -67,7 +67,7 @@ Greatest hindrance, inhibition, separation, death or standstill. First origin. P
 
 ## Related Activations
 
-- [Admetos/Admetos = Aries](../activations/admetos-admetos-equals-aries.md)
+- [Admetos/Admetos = Vernal Point](../activations/admetos-admetos-equals-vernal-point.md)
 - [Admetos/Admetos = MC](../activations/admetos-admetos-equals-mc.md)
 - [Admetos/Admetos = Asc](../activations/admetos-admetos-equals-asc.md)
 - [Admetos/Admetos = Sun](../activations/admetos-admetos-equals-sun.md)

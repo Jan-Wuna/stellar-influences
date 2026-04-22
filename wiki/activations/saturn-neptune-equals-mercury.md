@@ -3,7 +3,7 @@ title: Saturn/Neptune = Mercury
 page_type: activation
 slug: saturn-neptune-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Neptune
@@ -15,10 +15,13 @@ triad_set:
   - Mercury
   - Saturn
   - Neptune
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Treacherous thoughts. Mental diseases.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Saturn/Neptune`
+- Source page: `250`
+- Entry: `0881`
+
+#### Ebertin Entry
+
+Inhibitions in thinking, slow or difficult grasp of things, inclination to always think the worst. A nervous disease.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Saturn/Neptune midpoint`
+- Source page: `90`
+- Activator: `Mercury`
+
+#### Sandbach Entry
+
+To communicate in a way that is both serious and subtle. Negative psychic energy has a disruptive effect on the nervous system. Frustration due to others not picking up on the subtleties one is trying to express. One’s ideas have a confusion and/ or chaotic structure to them.
+
 ## Comparative Schema
 
-- core meaning: Treacherous thoughts. Mental diseases.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Treacherous thoughts. Mental diseases.
 - [Neptune](../factors/neptune.md)
 - [Mercury](../factors/mercury.md)
 - [Saturn/Neptune](../axes/saturn-neptune.md)
+- [Mercury Saturn Neptune](../triads/mercury-saturn-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

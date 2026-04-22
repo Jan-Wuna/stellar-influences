@@ -11,28 +11,29 @@ normalized_axis: Node/Asc
 factor_a: Node
 factor_b: Asc
 related_activations:
-  - Node/Asc = Aries
-  - Node/Asc = MC
-  - Node/Asc = Sun
-  - Node/Asc = Moon
-  - Node/Asc = Mercury
-  - Node/Asc = Venus
-  - Node/Asc = Mars
-  - Node/Asc = Jupiter
-  - Node/Asc = Saturn
-  - Node/Asc = Uranus
-  - Node/Asc = Neptune
-  - Node/Asc = Pluto
+  - Node/Asc = Admetos
+  - Node/Asc = Apollon
+  - Node/Asc = Chiron
   - Node/Asc = Cupido
   - Node/Asc = Hades
-  - Node/Asc = Zeus
+  - Node/Asc = Jupiter
   - Node/Asc = Kronos
-  - Node/Asc = Apollon
-  - Node/Asc = Admetos
-  - Node/Asc = Vulcanus
+  - Node/Asc = Mars
+  - Node/Asc = MC
+  - Node/Asc = Mercury
+  - Node/Asc = Moon
+  - Node/Asc = Neptune
+  - Node/Asc = Pluto
   - Node/Asc = Poseidon
+  - Node/Asc = Saturn
+  - Node/Asc = Sun
+  - Node/Asc = Uranus
+  - Node/Asc = Venus
+  - Node/Asc = Vernal Point
+  - Node/Asc = Vulcanus
+  - Node/Asc = Zeus
 related_triad_hubs:
-  - Aries Node Asc
+  - Chiron Node Asc
   - Jupiter Node Asc
   - Mars Node Asc
   - Mercury Node Asc
@@ -52,10 +53,14 @@ related_triad_hubs:
   - Sun Node Asc
   - Uranus Node Asc
   - Venus Node Asc
+  - Vernal Point Node Asc
 aliases:
   - Asc/Node
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -70,12 +75,59 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Node`
-- Source page: `82`
+- Source heading: `Dragon's Head/Ascendant`
+- Source page: `300`
 
 #### Pair Summary
 
 Acquaintances. To establish connections. To keep in touch. Contact with the closer environment. Limits set by the environment. The mediator, broker or an agent. Being connected to one place. Connected locations. Links to the surroundings.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Dragon's Head/Ascendant`
+- Source page: `300`
+
+#### Principle
+
+Personal relationships.
+
+#### Psychological Correspondence
+
++ Harmonious conduct within the family circle and within one's own personal environment, as well as with one's associates or colleagues in work. A social conscience. - Disharmonious conduct within one's personal environment, an antisocial outlook. C The ability, to get along well with others.
+
+#### Biological Correspondence
+
+The power of faculty of memory (in a more subconscious manner). The internal respiration (oxygen metabolism).
+
+#### Sociological Correspondence
+
+One's family, colleagues and associates, fellowship.
+
+#### Probable Manifestations
+
++ Agreeable contacts with others, profitable teamwork. Sharing the same interests with other people. - Estrangements, separations. Increasing difficulties with regard to the relationship between people sharing the same residence. Dragon's Head/Ascendant N/A
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Node/Ascendant midpoint`
+- Source page: `118`
+
+#### Principle
+
+The ability to let go of one’s ties and attachments with the past and to then allow the identity to re-form in a way more in alignment with one’s true, spiritual self. This combination is an index of the extent to which one’s connections with others affect one’s sense of who one is.
+
+#### Process
+
+The letting go of past identities and the forming of a new one which will serve one’s current process of spiritual evolution. The seeking of connections with people who will support one’s identity, either in a healthy, evolutionary way, or in a way that serves to retard the growth of one’s identity.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Nodes/Ascendant`
+- Source page: `213`
+
+#### Pair Delineation
+
+Connections of a personal nature, such as wth family or relatives. Groups that one is involved with on a daily basis, in which the association is close but not quite as intimate, as, say, a husband and wfe. Connections involving some group identity.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -120,26 +172,27 @@ The overall soundness of psychological health; support from friends or groups; h
 
 ## Related Activations
 
-- [Node/Asc = Aries](../activations/node-asc-equals-aries.md)
-- [Node/Asc = MC](../activations/node-asc-equals-mc.md)
-- [Node/Asc = Sun](../activations/node-asc-equals-sun.md)
-- [Node/Asc = Moon](../activations/node-asc-equals-moon.md)
-- [Node/Asc = Mercury](../activations/node-asc-equals-mercury.md)
-- [Node/Asc = Venus](../activations/node-asc-equals-venus.md)
-- [Node/Asc = Mars](../activations/node-asc-equals-mars.md)
-- [Node/Asc = Jupiter](../activations/node-asc-equals-jupiter.md)
-- [Node/Asc = Saturn](../activations/node-asc-equals-saturn.md)
-- [Node/Asc = Uranus](../activations/node-asc-equals-uranus.md)
-- [Node/Asc = Neptune](../activations/node-asc-equals-neptune.md)
-- [Node/Asc = Pluto](../activations/node-asc-equals-pluto.md)
+- [Node/Asc = Admetos](../activations/node-asc-equals-admetos.md)
+- [Node/Asc = Apollon](../activations/node-asc-equals-apollon.md)
+- [Node/Asc = Chiron](../activations/node-asc-equals-chiron.md)
 - [Node/Asc = Cupido](../activations/node-asc-equals-cupido.md)
 - [Node/Asc = Hades](../activations/node-asc-equals-hades.md)
-- [Node/Asc = Zeus](../activations/node-asc-equals-zeus.md)
+- [Node/Asc = Jupiter](../activations/node-asc-equals-jupiter.md)
 - [Node/Asc = Kronos](../activations/node-asc-equals-kronos.md)
-- [Node/Asc = Apollon](../activations/node-asc-equals-apollon.md)
-- [Node/Asc = Admetos](../activations/node-asc-equals-admetos.md)
-- [Node/Asc = Vulcanus](../activations/node-asc-equals-vulcanus.md)
+- [Node/Asc = Mars](../activations/node-asc-equals-mars.md)
+- [Node/Asc = MC](../activations/node-asc-equals-mc.md)
+- [Node/Asc = Mercury](../activations/node-asc-equals-mercury.md)
+- [Node/Asc = Moon](../activations/node-asc-equals-moon.md)
+- [Node/Asc = Neptune](../activations/node-asc-equals-neptune.md)
+- [Node/Asc = Pluto](../activations/node-asc-equals-pluto.md)
 - [Node/Asc = Poseidon](../activations/node-asc-equals-poseidon.md)
+- [Node/Asc = Saturn](../activations/node-asc-equals-saturn.md)
+- [Node/Asc = Sun](../activations/node-asc-equals-sun.md)
+- [Node/Asc = Uranus](../activations/node-asc-equals-uranus.md)
+- [Node/Asc = Venus](../activations/node-asc-equals-venus.md)
+- [Node/Asc = Vernal Point](../activations/node-asc-equals-vernal-point.md)
+- [Node/Asc = Vulcanus](../activations/node-asc-equals-vulcanus.md)
+- [Node/Asc = Zeus](../activations/node-asc-equals-zeus.md)
 
 ## Contradictions
 
@@ -155,4 +208,7 @@ The overall soundness of psychological health; support from friends or groups; h
 - [Node](../factors/node.md)
 - [Asc](../factors/asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

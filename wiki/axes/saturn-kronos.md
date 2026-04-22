@@ -11,7 +11,7 @@ normalized_axis: Saturn/Kronos
 factor_a: Saturn
 factor_b: Kronos
 related_activations:
-  - Saturn/Kronos = Aries
+  - Saturn/Kronos = Vernal Point
   - Saturn/Kronos = MC
   - Saturn/Kronos = Asc
   - Saturn/Kronos = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Saturn/Kronos = Vulcanus
   - Saturn/Kronos = Poseidon
 related_triad_hubs:
-  - Aries Saturn Kronos
   - Jupiter Saturn Kronos
   - Mars Saturn Kronos
   - Mercury Saturn Kronos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Saturn Zeus Kronos
   - Sun Saturn Kronos
   - Venus Saturn Kronos
+  - Vernal Point Saturn Kronos
 aliases:
   - Kronos/Saturn
 source_pages:
@@ -85,7 +85,7 @@ Old gentleman. High age. Late fulfillment. Long time or duration. Great hindranc
 
 ## Related Activations
 
-- [Saturn/Kronos = Aries](../activations/saturn-kronos-equals-aries.md)
+- [Saturn/Kronos = Vernal Point](../activations/saturn-kronos-equals-vernal-point.md)
 - [Saturn/Kronos = MC](../activations/saturn-kronos-equals-mc.md)
 - [Saturn/Kronos = Asc](../activations/saturn-kronos-equals-asc.md)
 - [Saturn/Kronos = Sun](../activations/saturn-kronos-equals-sun.md)

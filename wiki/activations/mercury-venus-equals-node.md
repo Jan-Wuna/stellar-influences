@@ -3,7 +3,7 @@ title: Mercury/Venus = Node
 page_type: activation
 slug: mercury-venus-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Venus
@@ -15,10 +15,13 @@ triad_set:
   - Mercury
   - Venus
   - Node
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Talent for sociability. To flirt. Acquaintances by greeting them. Superficial acquaintance. Connections through good behavior. Marriage agent. Art dealer.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mercury/Venus`
+- Source page: `147`
+- Entry: `0467`
+
+#### Ebertin Entry
+
+Sociable, love of artistic events and entertainment. An association with artists or art lovers, a stimulating exchange of thoughts.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mercury/Venus midpoint`
+- Source page: `41`
+- Activator: `Node`
+
+#### Sandbach Entry
+
+Connecting with others who appreciate one’s ideas. One finds it easy to be flexible when connecting with others and through one’s words to put them at ease. One is learning in this lifetime to communicate one’s truest and deepest values rather than being content with merely superficial or easy ways of thinking and communicating.
+
 ## Comparative Schema
 
-- core meaning: Talent for sociability. To flirt. Acquaintances by greeting them. Superficial acquaintance. Connections through good behavior. Marriage agent. Art dealer.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Talent for sociability. To flirt. Acquaintances by greeting them. Superficial ac
 - [Venus](../factors/venus.md)
 - [Node](../factors/node.md)
 - [Mercury/Venus](../axes/mercury-venus.md)
+- [Mercury Venus Node](../triads/mercury-venus-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

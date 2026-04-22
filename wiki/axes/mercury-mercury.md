@@ -11,7 +11,7 @@ normalized_axis: Mercury/Mercury
 factor_a: Mercury
 factor_b: Mercury
 related_activations:
-  - Mercury/Mercury = Aries
+  - Mercury/Mercury = Vernal Point
   - Mercury/Mercury = MC
   - Mercury/Mercury = Asc
   - Mercury/Mercury = Sun
@@ -67,7 +67,7 @@ Intellectuality. Thoughts expressed through speech, writing, or mimic. Ideas, pl
 
 ## Related Activations
 
-- [Mercury/Mercury = Aries](../activations/mercury-mercury-equals-aries.md)
+- [Mercury/Mercury = Vernal Point](../activations/mercury-mercury-equals-vernal-point.md)
 - [Mercury/Mercury = MC](../activations/mercury-mercury-equals-mc.md)
 - [Mercury/Mercury = Asc](../activations/mercury-mercury-equals-asc.md)
 - [Mercury/Mercury = Sun](../activations/mercury-mercury-equals-sun.md)

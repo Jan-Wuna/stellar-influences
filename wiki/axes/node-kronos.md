@@ -11,7 +11,7 @@ normalized_axis: Node/Kronos
 factor_a: Node
 factor_b: Kronos
 related_activations:
-  - Node/Kronos = Aries
+  - Node/Kronos = Vernal Point
   - Node/Kronos = MC
   - Node/Kronos = Asc
   - Node/Kronos = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Node/Kronos = Vulcanus
   - Node/Kronos = Poseidon
 related_triad_hubs:
-  - Aries Node Kronos
   - Jupiter Node Kronos
   - Mars Node Kronos
   - Mercury Node Kronos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Node Kronos
   - Uranus Node Kronos
   - Venus Node Kronos
+  - Vernal Point Node Kronos
 aliases:
   - Kronos/Node
 source_pages:
@@ -85,7 +85,7 @@ Connections with the authorities. Diplomatic connections. Connections to issues 
 
 ## Related Activations
 
-- [Node/Kronos = Aries](../activations/node-kronos-equals-aries.md)
+- [Node/Kronos = Vernal Point](../activations/node-kronos-equals-vernal-point.md)
 - [Node/Kronos = MC](../activations/node-kronos-equals-mc.md)
 - [Node/Kronos = Asc](../activations/node-kronos-equals-asc.md)
 - [Node/Kronos = Sun](../activations/node-kronos-equals-sun.md)

@@ -11,7 +11,7 @@ normalized_axis: Venus/Cupido
 factor_a: Venus
 factor_b: Cupido
 related_activations:
-  - Venus/Cupido = Aries
+  - Venus/Cupido = Vernal Point
   - Venus/Cupido = MC
   - Venus/Cupido = Asc
   - Venus/Cupido = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Venus/Cupido = Vulcanus
   - Venus/Cupido = Poseidon
 related_triad_hubs:
-  - Aries Venus Cupido
   - Mercury Venus Cupido
   - Moon Venus Cupido
   - Sun Venus Cupido
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Venus Pluto Cupido
   - Venus Saturn Cupido
   - Venus Uranus Cupido
+  - Vernal Point Venus Cupido
 aliases:
   - Cupido/Venus
 source_pages:
@@ -85,7 +85,7 @@ Marital happiness. Pleasant company. Peaceful society or association. Love marri
 
 ## Related Activations
 
-- [Venus/Cupido = Aries](../activations/venus-cupido-equals-aries.md)
+- [Venus/Cupido = Vernal Point](../activations/venus-cupido-equals-vernal-point.md)
 - [Venus/Cupido = MC](../activations/venus-cupido-equals-mc.md)
 - [Venus/Cupido = Asc](../activations/venus-cupido-equals-asc.md)
 - [Venus/Cupido = Sun](../activations/venus-cupido-equals-sun.md)

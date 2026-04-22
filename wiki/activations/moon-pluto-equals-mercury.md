@@ -3,7 +3,7 @@ title: Moon/Pluto = Mercury
 page_type: activation
 slug: moon-pluto-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Pluto
@@ -15,10 +15,13 @@ triad_set:
   - Moon
   - Mercury
   - Pluto
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 To be quick and alert mentally. Easily gained knowledge or understanding.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Moon/Pluto`
+- Source page: `135`
+- Entry: `0412`
+
+#### Ebertin Entry
+
+Far-reaching plans, zeal in pursuit of comprehensive ideas. The gift to wield a powerful influence upon the public through speaking or writing.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Moon/Pluto midpoint`
+- Source page: `36`
+- Activator: `Mercury`
+
+#### Sandbach Entry
+
+To communicate with amazing emotional power. The ability to emotionally impact others in extreme ways with one’s words. One’s subconscious is bound and determined to intrude into one’s thinking. The thinking may be extremely irrational but inevitably carries powerful messages from the subconscious.
+
 ## Comparative Schema
 
-- core meaning: To be quick and alert mentally. Easily gained knowledge or understanding.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ To be quick and alert mentally. Easily gained knowledge or understanding.
 - [Pluto](../factors/pluto.md)
 - [Mercury](../factors/mercury.md)
 - [Moon/Pluto](../axes/moon-pluto.md)
+- [Moon Mercury Pluto](../triads/moon-mercury-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

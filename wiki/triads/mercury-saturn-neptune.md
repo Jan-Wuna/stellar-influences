@@ -3,7 +3,7 @@ title: Mercury Saturn Neptune
 page_type: triad_hub
 slug: mercury-saturn-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Saturn
@@ -19,7 +19,9 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -31,18 +33,20 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Mercury/Neptune = Saturn](../activations/mercury-neptune-equals-saturn.md)
-  Source page `164`
 - [Mercury/Saturn = Neptune](../activations/mercury-saturn-equals-neptune.md)
-  Source page `162`
 - [Saturn/Neptune = Mercury](../activations/saturn-neptune-equals-mercury.md)
-  Source page `222`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Neptune = Saturn`: page `164`
-- `Mercury/Saturn = Neptune`: page `162`
-- `Saturn/Neptune = Mercury`: page `222`
+- `Mercury/Neptune = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `164`
+- `Mercury/Neptune = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `161`
+- `Mercury/Neptune = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `49`
+- `Mercury/Saturn = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `162`
+- `Mercury/Saturn = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `155`
+- `Mercury/Saturn = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `45`
+- `Saturn/Neptune = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `222`
+- `Saturn/Neptune = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `250`
+- `Saturn/Neptune = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `90`
 
 ## Contradictions Across Orientations
 
@@ -54,3 +58,6 @@ updated_at: 2026-04-21
 - [Mercury](../factors/mercury.md)
 - [Saturn](../factors/saturn.md)
 - [Neptune](../factors/neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

@@ -7,7 +7,13 @@ import re
 
 import fitz
 
-from tools.wiki_identity import astronomicon_token, normalize_activation, normalize_axis
+from tools.wiki_identity import (
+    astronomicon_token,
+    factor_slug,
+    normalize_activation,
+    normalize_axis,
+    triad_slug,
+)
 
 
 CANONICAL_FACTORS = [
@@ -95,8 +101,47 @@ SIGNS = [
     "Pisces",
 ]
 
-ENTRY_PATTERN = re.compile(r"(?ms)^\s*(\d{4})[^\n]*\n?(.*?)(?=^\s*\d{4}\b|\Z)")
+ENTRY_PATTERN = re.compile(r"(?ms)^\s*(\d{4})\s*(?:=\s*)?([^\s\n]+)?\s*\n?(.*?)(?=^\s*\d{4}\b|\Z)")
 SIGN_ENTRY_PATTERN = re.compile(r"(?ms)^\s*[^\n]*?(\d{4})[^\n]*\n?(.*?)(?=^\s*[^\n]*?\d{4}\b|\Z)")
+
+GLYPH_TOKEN_FACTORS = {
+    "O": {"Sun"},
+    "0": {"Sun"},
+    "\u00a9": {"Sun"},
+    "o": {"Sun"},
+    "D": {"Moon"},
+    "])": {"Moon"},
+    "3)": {"Moon"},
+    "1)": {"Moon"},
+    "J)": {"Moon"},
+    "\u00bb": {"Moon"},
+    "))": {"Moon"},
+    "5": {"Mercury"},
+    "\u00a7": {"Mercury"},
+    "9": {"Venus"},
+    'O"': {"Mars"},
+    '0"': {"Mars"},
+    "Cf": {"Mars"},
+    "cr": {"Mars"},
+    "CT": {"Mars"},
+    'd"': {"Mars"},
+    '0*': {"Mars"},
+    "U": {"Jupiter"},
+    "4": {"Jupiter"},
+    "1+": {"Jupiter"},
+    "H": {"Jupiter"},
+    "i+": {"Jupiter"},
+    "It-": {"Jupiter"},
+    "it-": {"Jupiter"},
+    "^4": {"Jupiter"},
+    "h": {"Saturn"},
+    "f": {"Pluto"},
+    "%": {"Pluto"},
+    "\u00a5": {"Pluto"},
+    "&": {"Node"},
+    "A": {"Asc"},
+    "M": {"MC"},
+}
 
 
 @dataclass(frozen=True)
@@ -122,6 +167,14 @@ class ActivationEntry:
 
 
 @dataclass(frozen=True)
+class UnresolvedActivationEntry:
+    code: str
+    token: str
+    excerpt: str
+    page: int | None
+
+
+@dataclass(frozen=True)
 class FactorBlock:
     factor: str
     source_heading: str
@@ -138,6 +191,7 @@ class AxisBlock:
     page: int | None
     sections: dict[str, str]
     activation_entries: list[ActivationEntry]
+    unresolved_activation_entries: list[UnresolvedActivationEntry]
 
 
 def canonicalize_source_factor(name: str) -> str:
@@ -277,6 +331,29 @@ def _join_paragraphs(lines: list[str]) -> str:
     return "\n\n".join(paragraphs).strip()
 
 
+def _excerpt(text: str, limit: int = 160) -> str:
+    clean = text.strip()
+    if len(clean) <= limit:
+        return clean
+    return clean[: limit - 3].rstrip() + "..."
+
+
+def _clean_glyph_token(token: str | None) -> str:
+    if token is None:
+        return ""
+    clean = token.strip().lstrip("=")
+    clean = clean.rstrip(".,;:")
+    clean = re.sub(r"(?<=\D)\d+$", "", clean)
+    return clean
+
+
+def _decode_glyph_token(token: str | None) -> set[str]:
+    clean = _clean_glyph_token(token)
+    if not clean:
+        return set()
+    return set(GLYPH_TOKEN_FACTORS.get(clean, set()))
+
+
 def _split_sections(text: str, headings: list[str]) -> dict[str, str]:
     sections: dict[str, str] = {}
     current: str | None = None
@@ -329,12 +406,51 @@ def parse_activation_entries(
     factor_b: str,
     entry_text: str,
     code_pages: dict[str, int | None],
-) -> list[ActivationEntry]:
+    return_unresolved: bool = False,
+) -> list[ActivationEntry] | tuple[list[ActivationEntry], list[UnresolvedActivationEntry]]:
     remaining = [factor for factor in CANONICAL_FACTORS if factor not in {factor_a, factor_b}]
+    matches = list(ENTRY_PATTERN.finditer(entry_text))
     entries: list[ActivationEntry] = []
-    for activated_by, match in zip(remaining, ENTRY_PATTERN.finditer(entry_text)):
+    unresolved: list[UnresolvedActivationEntry] = []
+    if len(matches) >= len(remaining):
+        for activated_by, match in zip(remaining, matches):
+            code = match.group(1)
+            text = _join_paragraphs(match.group(3).splitlines())
+            entries.append(
+                ActivationEntry(
+                    code=code,
+                    activated_by=activated_by,
+                    text=text,
+                    page=code_pages.get(code),
+                )
+            )
+        if return_unresolved:
+            return entries, unresolved
+        return entries
+
+    next_index = 0
+    for match in matches:
         code = match.group(1)
-        text = _join_paragraphs(match.group(2).splitlines())
+        token = _clean_glyph_token(match.group(2))
+        text = _join_paragraphs(match.group(3).splitlines())
+        candidates = _decode_glyph_token(token)
+        activated_by: str | None = None
+        if candidates:
+            for index in range(next_index, len(remaining)):
+                if remaining[index] in candidates:
+                    activated_by = remaining[index]
+                    next_index = index + 1
+                    break
+        if activated_by is None:
+            unresolved.append(
+                UnresolvedActivationEntry(
+                    code=code,
+                    token=token,
+                    excerpt=_excerpt(text),
+                    page=code_pages.get(code),
+                )
+            )
+            continue
         entries.append(
             ActivationEntry(
                 code=code,
@@ -343,6 +459,10 @@ def parse_activation_entries(
                 page=code_pages.get(code),
             )
         )
+        if next_index >= len(remaining):
+            break
+    if return_unresolved:
+        return entries, unresolved
     return entries
 
 
@@ -397,7 +517,13 @@ def parse_axis_blocks(pages: list[PageRecord]) -> list[AxisBlock]:
             entry_text = "\n".join(lines[second_entry_index:])
         section_text = "\n".join(section_lines)
         sections = _split_sections(section_text, AXIS_SECTION_NAMES)
-        activation_entries = parse_activation_entries(factor_a, factor_b, entry_text, code_pages)
+        activation_entries, unresolved_entries = parse_activation_entries(
+            factor_a,
+            factor_b,
+            entry_text,
+            code_pages,
+            return_unresolved=True,
+        )
         axes.append(
             AxisBlock(
                 factor_a=factor_a,
@@ -406,6 +532,7 @@ def parse_axis_blocks(pages: list[PageRecord]) -> list[AxisBlock]:
                 page=block["page"],
                 sections=sections,
                 activation_entries=activation_entries,
+                unresolved_activation_entries=unresolved_entries,
             )
         )
     return axes
@@ -471,7 +598,7 @@ updated_at: {updated_at}
 
 - Formula: `{identity.display}`
 {astronomicon_line}- Axis page: [{identity.axis.display}](../axes/{identity.axis.slug}.md)
-- Triad hub: [{' '.join(identity.triad_set)}](../triads/{'-'.join(name.lower() for name in identity.triad_set)}.md)
+- Triad hub: [{' '.join(identity.triad_set)}](../triads/{triad_slug(identity.triad_set)}.md)
 
 ## Source Entries
 
@@ -503,11 +630,11 @@ updated_at: {updated_at}
 
 ## Links
 
-- [{axis.factor_a}](../factors/{axis.factor_a.lower()}.md)
-- [{axis.factor_b}](../factors/{axis.factor_b.lower()}.md)
-- [{entry.activated_by}](../factors/{entry.activated_by.lower()}.md)
+- [{axis.factor_a}](../factors/{factor_slug(axis.factor_a)}.md)
+- [{axis.factor_b}](../factors/{factor_slug(axis.factor_b)}.md)
+- [{entry.activated_by}](../factors/{factor_slug(entry.activated_by)}.md)
 - [{identity.axis.display}](../axes/{identity.axis.slug}.md)
-- [{' '.join(identity.triad_set)}](../triads/{'-'.join(name.lower() for name in identity.triad_set)}.md)
+- [{' '.join(identity.triad_set)}](../triads/{triad_slug(identity.triad_set)}.md)
 """
 
 
@@ -591,8 +718,8 @@ updated_at: {updated_at}
 
 ## Links
 
-- [{identity.factors[0]}](../factors/{identity.factors[0].lower()}.md)
-- [{identity.factors[1]}](../factors/{identity.factors[1].lower()}.md)
+- [{identity.factors[0]}](../factors/{factor_slug(identity.factors[0])}.md)
+- [{identity.factors[1]}](../factors/{factor_slug(identity.factors[1])}.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 """
 
@@ -631,7 +758,7 @@ def _factor_page_text(
     return f"""---
 title: {factor.factor}
 page_type: factor
-slug: {factor.factor.lower()}
+slug: {factor_slug(factor.factor)}
 status: source_ingested
 framework_scope: cosmobiology
 factors:
@@ -696,7 +823,7 @@ def _triad_page_text(orientation_entries: list[tuple[AxisBlock, ActivationEntry]
     first_axis, first_entry = orientation_entries[0]
     first_identity = normalize_activation(first_axis.factor_a, first_axis.factor_b, first_entry.activated_by)
     title = " ".join(first_identity.triad_set)
-    slug = "-".join(name.lower() for name in first_identity.triad_set)
+    slug = triad_slug(first_identity.triad_set)
     astronomicon_triad = _astronomicon_triad(first_identity.triad_set)
     astronomicon_line = (
         f"- Astronomicon triad-set: `{astronomicon_triad}`\n"
@@ -724,7 +851,7 @@ def _triad_page_text(orientation_entries: list[tuple[AxisBlock, ActivationEntry]
     )
     factors_yaml = "\n".join(f"  - {name}" for name in first_identity.triad_set)
     links = "\n".join(
-        f"- [{factor}](../factors/{factor.lower()}.md)" for factor in first_identity.triad_set
+        f"- [{factor}](../factors/{factor_slug(factor)}.md)" for factor in first_identity.triad_set
     )
     return f"""---
 title: {title}
@@ -776,7 +903,7 @@ def render_source_page(
     activation_count: int,
     updated_at: str,
 ) -> str:
-    factor_links = "\n".join(f"- [{factor.factor}](../factors/{factor.factor.lower()}.md)" for factor in factors)
+    factor_links = "\n".join(f"- [{factor.factor}](../factors/{factor_slug(factor.factor)}.md)" for factor in factors)
     return f"""---
 title: Reinhold Ebertin - The Combination of Stellar Influences
 page_type: source
@@ -799,8 +926,9 @@ updated_at: {updated_at}
 
 ## Scope Notes
 
-- This ingest now includes standalone factor chapters.
-- This ingest also includes all explicit midpoint-axis pages and explicit activation meanings from the source.
+- This source page currently reflects the live merged comparative wiki rather than the standalone one-source ingest output.
+- Live comparative coverage now preserves the standalone Ebertin factor chapters.
+- The repo still contains a standalone Ebertin ingest pipeline capable of generating axis, activation, and triad pages in isolation, but that output has not yet been merged into the current comparative corpus.
 - Canonical wiki identities still preserve orientation-specific activation meanings separately.
 
 ## Factors Covered
@@ -809,18 +937,15 @@ updated_at: {updated_at}
 
 ## Axes Covered
 
-- Axis pages generated: `{len(axis_blocks)}`
-- Browse [Index](../index.md) or `wiki/axes/` for the full set.
+- No live axis pages currently carry explicit Ebertin source attribution in the merged comparative wiki.
 
 ## Activations Covered
 
-- Activation pages generated: `{activation_count}`
-- Triad hubs generated: `{triad_count}`
-- Browse [Index](../index.md), `wiki/activations/`, and `wiki/triads/` for the full set.
+- No live activation or triad pages currently carry explicit Ebertin source attribution in the merged comparative wiki.
 
 ## Ingestion History
 
-- {updated_at}: Full Ebertin ingest generated from the source PDF, including standalone factors and all explicit activation meanings.
+- {updated_at}: Ebertin factor chapters are live in the comparative wiki, while the standalone full-source ingest remains available in tooling but is not yet merged into the live axis, activation, and triad corpus.
 """
 
 

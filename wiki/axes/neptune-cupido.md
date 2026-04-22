@@ -11,7 +11,7 @@ normalized_axis: Neptune/Cupido
 factor_a: Neptune
 factor_b: Cupido
 related_activations:
-  - Neptune/Cupido = Aries
+  - Neptune/Cupido = Vernal Point
   - Neptune/Cupido = MC
   - Neptune/Cupido = Asc
   - Neptune/Cupido = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Neptune/Cupido = Vulcanus
   - Neptune/Cupido = Poseidon
 related_triad_hubs:
-  - Aries Neptune Cupido
   - Jupiter Neptune Cupido
   - Mars Neptune Cupido
   - Mercury Neptune Cupido
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Neptune Cupido
   - Uranus Neptune Cupido
   - Venus Neptune Cupido
+  - Vernal Point Neptune Cupido
 aliases:
   - Cupido/Neptune
 source_pages:
@@ -85,7 +85,7 @@ Unfortunate parents. Dissonance in the family or in associations. Shortage in ho
 
 ## Related Activations
 
-- [Neptune/Cupido = Aries](../activations/neptune-cupido-equals-aries.md)
+- [Neptune/Cupido = Vernal Point](../activations/neptune-cupido-equals-vernal-point.md)
 - [Neptune/Cupido = MC](../activations/neptune-cupido-equals-mc.md)
 - [Neptune/Cupido = Asc](../activations/neptune-cupido-equals-asc.md)
 - [Neptune/Cupido = Sun](../activations/neptune-cupido-equals-sun.md)

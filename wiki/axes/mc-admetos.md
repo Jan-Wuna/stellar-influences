@@ -11,7 +11,7 @@ normalized_axis: MC/Admetos
 factor_a: MC
 factor_b: Admetos
 related_activations:
-  - MC/Admetos = Aries
+  - MC/Admetos = Vernal Point
   - MC/Admetos = Asc
   - MC/Admetos = Sun
   - MC/Admetos = Moon
@@ -32,7 +32,6 @@ related_activations:
   - MC/Admetos = Vulcanus
   - MC/Admetos = Poseidon
 related_triad_hubs:
-  - Aries MC Admetos
   - Asc MC Admetos
   - Jupiter MC Admetos
   - Mars MC Admetos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun MC Admetos
   - Uranus MC Admetos
   - Venus MC Admetos
+  - Vernal Point MC Admetos
 aliases:
   - Admetos/MC
 source_pages:
@@ -85,7 +85,7 @@ Ones firmness, perseverance and steadfastness. To be insensible, apathetic, hard
 
 ## Related Activations
 
-- [MC/Admetos = Aries](../activations/mc-admetos-equals-aries.md)
+- [MC/Admetos = Vernal Point](../activations/mc-admetos-equals-vernal-point.md)
 - [MC/Admetos = Asc](../activations/mc-admetos-equals-asc.md)
 - [MC/Admetos = Sun](../activations/mc-admetos-equals-sun.md)
 - [MC/Admetos = Moon](../activations/mc-admetos-equals-moon.md)

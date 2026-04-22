@@ -3,7 +3,7 @@ title: Mercury/Jupiter = Saturn
 page_type: activation
 slug: mercury-jupiter-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Jupiter
@@ -15,9 +15,11 @@ triad_set:
   - Mercury
   - Jupiter
   - Saturn
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
 updated_at: 2026-04-21
 ---
 
@@ -38,18 +40,28 @@ updated_at: 2026-04-21
 
 Bon Voyage. To take leave gladly. Reports on youth and old age. Conversations or messages about loss of money or financial restrictions. S|
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mercury/Jupiter midpoint`
+- Source page: `44`
+- Activator: `Saturn`
+
+#### Sandbach Entry
+
+One is burdened with too many ideas, which makes it difficult to make deci sions. Being uncertain as to how to put ideas together. Philosophical thinking of great depth. Learning that proceeds in a slow or gradual manner.
+
 ## Comparative Schema
 
-- core meaning: Bon Voyage. To take leave gladly. Reports on youth and old age. Conversations or messages about loss of money or financial restrictions. S|
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +73,6 @@ Bon Voyage. To take leave gladly. Reports on youth and old age. Conversations or
 - [Jupiter](../factors/jupiter.md)
 - [Saturn](../factors/saturn.md)
 - [Mercury/Jupiter](../axes/mercury-jupiter.md)
+- [Mercury Jupiter Saturn](../triads/mercury-jupiter-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

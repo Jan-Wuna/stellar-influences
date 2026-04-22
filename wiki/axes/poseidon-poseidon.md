@@ -11,7 +11,7 @@ normalized_axis: Poseidon/Poseidon
 factor_a: Poseidon
 factor_b: Poseidon
 related_activations:
-  - Poseidon/Poseidon = Aries
+  - Poseidon/Poseidon = Vernal Point
   - Poseidon/Poseidon = MC
   - Poseidon/Poseidon = Asc
   - Poseidon/Poseidon = Sun
@@ -67,7 +67,7 @@ Mental power. Spirit. Idea. Cognition. Understanding. Education. Deep thinking. 
 
 ## Related Activations
 
-- [Poseidon/Poseidon = Aries](../activations/poseidon-poseidon-equals-aries.md)
+- [Poseidon/Poseidon = Vernal Point](../activations/poseidon-poseidon-equals-vernal-point.md)
 - [Poseidon/Poseidon = MC](../activations/poseidon-poseidon-equals-mc.md)
 - [Poseidon/Poseidon = Asc](../activations/poseidon-poseidon-equals-asc.md)
 - [Poseidon/Poseidon = Sun](../activations/poseidon-poseidon-equals-sun.md)

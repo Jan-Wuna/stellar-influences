@@ -11,7 +11,7 @@ normalized_axis: Sun/Apollon
 factor_a: Sun
 factor_b: Apollon
 related_activations:
-  - Sun/Apollon = Aries
+  - Sun/Apollon = Vernal Point
   - Sun/Apollon = MC
   - Sun/Apollon = Asc
   - Sun/Apollon = Moon
@@ -32,7 +32,6 @@ related_activations:
   - Sun/Apollon = Vulcanus
   - Sun/Apollon = Poseidon
 related_triad_hubs:
-  - Aries Sun Apollon
   - Sun Apollon Admetos
   - Sun Apollon Poseidon
   - Sun Apollon Vulcanus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Uranus Apollon
   - Sun Venus Apollon
   - Sun Zeus Apollon
+  - Vernal Point Sun Apollon
 aliases:
   - Apollon/Sun
 source_pages:
@@ -85,7 +85,7 @@ Successes. Fame. Honors. A day of glory. Many people (bodies). Physical expansio
 
 ## Related Activations
 
-- [Sun/Apollon = Aries](../activations/sun-apollon-equals-aries.md)
+- [Sun/Apollon = Vernal Point](../activations/sun-apollon-equals-vernal-point.md)
 - [Sun/Apollon = MC](../activations/sun-apollon-equals-mc.md)
 - [Sun/Apollon = Asc](../activations/sun-apollon-equals-asc.md)
 - [Sun/Apollon = Moon](../activations/sun-apollon-equals-moon.md)

@@ -11,29 +11,30 @@ normalized_axis: Mercury/MC
 factor_a: Mercury
 factor_b: MC
 related_activations:
-  - Mercury/MC = Aries
+  - Mercury/MC = Admetos
+  - Mercury/MC = Apollon
   - Mercury/MC = Asc
-  - Mercury/MC = Sun
-  - Mercury/MC = Moon
-  - Mercury/MC = Node
-  - Mercury/MC = Venus
-  - Mercury/MC = Mars
-  - Mercury/MC = Jupiter
-  - Mercury/MC = Saturn
-  - Mercury/MC = Uranus
-  - Mercury/MC = Neptune
-  - Mercury/MC = Pluto
+  - Mercury/MC = Chiron
   - Mercury/MC = Cupido
   - Mercury/MC = Hades
-  - Mercury/MC = Zeus
+  - Mercury/MC = Jupiter
   - Mercury/MC = Kronos
-  - Mercury/MC = Apollon
-  - Mercury/MC = Admetos
-  - Mercury/MC = Vulcanus
+  - Mercury/MC = Mars
+  - Mercury/MC = Moon
+  - Mercury/MC = Neptune
+  - Mercury/MC = Node
+  - Mercury/MC = Pluto
   - Mercury/MC = Poseidon
+  - Mercury/MC = Saturn
+  - Mercury/MC = Sun
+  - Mercury/MC = Uranus
+  - Mercury/MC = Venus
+  - Mercury/MC = Vernal Point
+  - Mercury/MC = Vulcanus
+  - Mercury/MC = Zeus
 related_triad_hubs:
-  - Aries Mercury MC
   - Mercury Asc MC
+  - Mercury Chiron MC
   - Mercury Jupiter MC
   - Mercury Mars MC
   - Mercury MC Admetos
@@ -52,10 +53,14 @@ related_triad_hubs:
   - Mercury Venus MC
   - Moon Mercury MC
   - Sun Mercury MC
+  - Vernal Point Mercury MC
 aliases:
   - MC/Mercury
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -70,12 +75,59 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Mercury`
-- Source page: `62`
+- Source heading: `Mercury/Medium Coeli`
+- Source page: `172`
 
 #### Pair Summary
 
 One’s own observation. One’s own thinking. To meditate. Monologues. Self-talks. Flexibility of the soul. Business thoughts. Mental attitude. The mobility of thinking. The faculty of thinking. The minute of news. Individual thoughts. Thoughts or news in profession. Media professionals.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mercury/Medium Coeli`
+- Source page: `172`
+
+#### Principle
+
+One's individual outlook, self-knowledge.
+
+#### Psychological Correspondence
+
++ Thinking a lot about things, meditating or reflecting, forming one's own opinion, self-knowledge, a clear aim or objective in life. - Over-estimation of self, lack of self-criticism, aimless. C Ego-conscious acting.
+
+#### Biological Correspondence
+
+The motor nerve centers of the brain.
+
+#### Sociological Correspondence
+
+People expressing their own opinions.
+
+#### Probable Manifestations
+
++ The pursuit and attainment of clear aims and objectives in life, advancement in one's career. - Vocational changes. Mercury/Medium Coeli 5/M
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mercury/Midheaven midpoint`
+- Source page: `53`
+
+#### Principle
+
+The attaining of greater powers and abilities of communication. Spiritualized thinking. Communication with authorities and authority figures. Making public one’s ideas. How one’s ideas and thinking interact with one’s career. The need to ultimately figure out things for oneself rather than listening solely to the ideas of other people, no matter how authoritative they are.
+
+#### Process
+
+Allowing one’s mind to become increasingly infused with and guided by spiritual forces. Communicating with authority figures and receiving the impress of their ideas.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Mercury/Midheaven`
+- Source page: `206`
+
+#### Pair Delineation
+
+One's own ideas, one's point of view. Planning one's own life direction, thinking about objectives. Knowing or thinking about oneself. Considering one's own individuality.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -120,26 +172,27 @@ Genetic deficiencies or strengths concerning the lungs, breathing, etc.; a famil
 
 ## Related Activations
 
-- [Mercury/MC = Aries](../activations/mercury-mc-equals-aries.md)
+- [Mercury/MC = Admetos](../activations/mercury-mc-equals-admetos.md)
+- [Mercury/MC = Apollon](../activations/mercury-mc-equals-apollon.md)
 - [Mercury/MC = Asc](../activations/mercury-mc-equals-asc.md)
-- [Mercury/MC = Sun](../activations/mercury-mc-equals-sun.md)
-- [Mercury/MC = Moon](../activations/mercury-mc-equals-moon.md)
-- [Mercury/MC = Node](../activations/mercury-mc-equals-node.md)
-- [Mercury/MC = Venus](../activations/mercury-mc-equals-venus.md)
-- [Mercury/MC = Mars](../activations/mercury-mc-equals-mars.md)
-- [Mercury/MC = Jupiter](../activations/mercury-mc-equals-jupiter.md)
-- [Mercury/MC = Saturn](../activations/mercury-mc-equals-saturn.md)
-- [Mercury/MC = Uranus](../activations/mercury-mc-equals-uranus.md)
-- [Mercury/MC = Neptune](../activations/mercury-mc-equals-neptune.md)
-- [Mercury/MC = Pluto](../activations/mercury-mc-equals-pluto.md)
+- [Mercury/MC = Chiron](../activations/mercury-mc-equals-chiron.md)
 - [Mercury/MC = Cupido](../activations/mercury-mc-equals-cupido.md)
 - [Mercury/MC = Hades](../activations/mercury-mc-equals-hades.md)
-- [Mercury/MC = Zeus](../activations/mercury-mc-equals-zeus.md)
+- [Mercury/MC = Jupiter](../activations/mercury-mc-equals-jupiter.md)
 - [Mercury/MC = Kronos](../activations/mercury-mc-equals-kronos.md)
-- [Mercury/MC = Apollon](../activations/mercury-mc-equals-apollon.md)
-- [Mercury/MC = Admetos](../activations/mercury-mc-equals-admetos.md)
-- [Mercury/MC = Vulcanus](../activations/mercury-mc-equals-vulcanus.md)
+- [Mercury/MC = Mars](../activations/mercury-mc-equals-mars.md)
+- [Mercury/MC = Moon](../activations/mercury-mc-equals-moon.md)
+- [Mercury/MC = Neptune](../activations/mercury-mc-equals-neptune.md)
+- [Mercury/MC = Node](../activations/mercury-mc-equals-node.md)
+- [Mercury/MC = Pluto](../activations/mercury-mc-equals-pluto.md)
 - [Mercury/MC = Poseidon](../activations/mercury-mc-equals-poseidon.md)
+- [Mercury/MC = Saturn](../activations/mercury-mc-equals-saturn.md)
+- [Mercury/MC = Sun](../activations/mercury-mc-equals-sun.md)
+- [Mercury/MC = Uranus](../activations/mercury-mc-equals-uranus.md)
+- [Mercury/MC = Venus](../activations/mercury-mc-equals-venus.md)
+- [Mercury/MC = Vernal Point](../activations/mercury-mc-equals-vernal-point.md)
+- [Mercury/MC = Vulcanus](../activations/mercury-mc-equals-vulcanus.md)
+- [Mercury/MC = Zeus](../activations/mercury-mc-equals-zeus.md)
 
 ## Contradictions
 
@@ -155,4 +208,7 @@ Genetic deficiencies or strengths concerning the lungs, breathing, etc.; a famil
 - [Mercury](../factors/mercury.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

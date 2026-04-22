@@ -11,34 +11,35 @@ normalized_axis: Venus/Jupiter
 factor_a: Venus
 factor_b: Jupiter
 related_activations:
-  - Venus/Jupiter = Aries
-  - Venus/Jupiter = MC
+  - Venus/Jupiter = Admetos
+  - Venus/Jupiter = Apollon
   - Venus/Jupiter = Asc
-  - Venus/Jupiter = Sun
-  - Venus/Jupiter = Moon
-  - Venus/Jupiter = Node
-  - Venus/Jupiter = Mercury
-  - Venus/Jupiter = Mars
-  - Venus/Jupiter = Saturn
-  - Venus/Jupiter = Uranus
-  - Venus/Jupiter = Neptune
-  - Venus/Jupiter = Pluto
+  - Venus/Jupiter = Chiron
   - Venus/Jupiter = Cupido
   - Venus/Jupiter = Hades
-  - Venus/Jupiter = Zeus
   - Venus/Jupiter = Kronos
-  - Venus/Jupiter = Apollon
-  - Venus/Jupiter = Admetos
-  - Venus/Jupiter = Vulcanus
+  - Venus/Jupiter = Mars
+  - Venus/Jupiter = MC
+  - Venus/Jupiter = Mercury
+  - Venus/Jupiter = Moon
+  - Venus/Jupiter = Neptune
+  - Venus/Jupiter = Node
+  - Venus/Jupiter = Pluto
   - Venus/Jupiter = Poseidon
+  - Venus/Jupiter = Saturn
+  - Venus/Jupiter = Sun
+  - Venus/Jupiter = Uranus
+  - Venus/Jupiter = Vernal Point
+  - Venus/Jupiter = Vulcanus
+  - Venus/Jupiter = Zeus
 related_triad_hubs:
-  - Aries Venus Jupiter
   - Mercury Venus Jupiter
   - Moon Venus Jupiter
   - Sun Venus Jupiter
   - Venus Jupiter Admetos
   - Venus Jupiter Apollon
   - Venus Jupiter Asc
+  - Venus Jupiter Chiron
   - Venus Jupiter Cupido
   - Venus Jupiter Hades
   - Venus Jupiter Kronos
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Venus Jupiter Vulcanus
   - Venus Jupiter Zeus
   - Venus Mars Jupiter
+  - Vernal Point Venus Jupiter
 aliases:
   - Jupiter/Venus
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 Lovers bliss. Rapture of joy. Goldsmiths. Well-balanced finances. Plump woman. Happiness in love. To enjoy money. Legal peace and justice.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Jupiter`
+- Source page: `178`
+
+#### Principle
+
+The joy of love, happiness in love.
+
+#### Psychological Correspondence
+
++ A warm heart, grace, tact, attractive personality, ability to make oneself popular with others, harmonious relationships with others, an exceptionally good sense of form. - linclination to laziness, negligence, false conduct in love relationship, conceit, wastefuiness, excessive expression of feehng. C Sociable, popular, film star mannerisms.
+
+#### Biological Correspondence
+
+Hormone circulation within the body, hormone metabolism, the glands dealing with internal secretion (e.g., the adrenals or suprarenals). Diseases caused by inhalation of bronze powders to which some industrial workers may be liable. Glandular secretions connected with specific organs.
+
+#### Sociological Correspondence
+
+People engaged to be married, artists.
+
+#### Probable Manifestations
+
++ Tendency to gain popularity quickly. The stage of falling in love, becoming engaged or married, outward "happiness." - Disadvantages through wastefulness or too rich living, sickness; a love conflict. Venus/Jupiter Q/h
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -133,6 +163,28 @@ The effect on health is probably slight, Venus afflictions may always cause indu
 - The Conjunction: German Crown Prince, Lord Balfour, Maupassant, Mussolini, Disraeli, Sainte-Beuve, Mr. Krishnamurti, Martin Luther (with Mars), Dr. Kleinschrod, Richard E. Byrd (explorer), Edward Lear.
 - Inharmonious: Louis XIV, Goethe, Lord Curzon, Gambetta, Gandhi, Nell Gwyn, John Burns, George Washington.
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Jupiter midpoint`
+- Source page: `56`
+
+#### Principle
+
+Enthusiastic appreciation. Generosity in love. A generous display of feeling. To encourage and support the loved one. Luxury and lavishness, too much good food, too much spending. Money wasted. Many things of value come to you easily. One can become popular easily, but negatively other people may resent you or feel jealous because of your beauty, attractiveness, or because they think everything comes easily to you. To reach out too much to the loved one, creating a situation where one takes on more than one’s share of responsibility in the relationship.
+
+#### Process
+
+The expansion of one’s ability to love. The realization of the truth that the uni verse can provide endless abundance.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Venus/Jupiter`
+- Source page: `206`
+
+#### Pair Delineation
+
+Harmonious love expression, happiness. Artistic or other creative ability. To enjoy luxury and comfort, often at the price of taking initiative. Protective and nurturing love.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `VENUS/JUPITER`
@@ -176,26 +228,27 @@ The effects of indulgence on your body; accumulations of body fat; wasted muscle
 
 ## Related Activations
 
-- [Venus/Jupiter = Aries](../activations/venus-jupiter-equals-aries.md)
-- [Venus/Jupiter = MC](../activations/venus-jupiter-equals-mc.md)
+- [Venus/Jupiter = Admetos](../activations/venus-jupiter-equals-admetos.md)
+- [Venus/Jupiter = Apollon](../activations/venus-jupiter-equals-apollon.md)
 - [Venus/Jupiter = Asc](../activations/venus-jupiter-equals-asc.md)
-- [Venus/Jupiter = Sun](../activations/venus-jupiter-equals-sun.md)
-- [Venus/Jupiter = Moon](../activations/venus-jupiter-equals-moon.md)
-- [Venus/Jupiter = Node](../activations/venus-jupiter-equals-node.md)
-- [Venus/Jupiter = Mercury](../activations/venus-jupiter-equals-mercury.md)
-- [Venus/Jupiter = Mars](../activations/venus-jupiter-equals-mars.md)
-- [Venus/Jupiter = Saturn](../activations/venus-jupiter-equals-saturn.md)
-- [Venus/Jupiter = Uranus](../activations/venus-jupiter-equals-uranus.md)
-- [Venus/Jupiter = Neptune](../activations/venus-jupiter-equals-neptune.md)
-- [Venus/Jupiter = Pluto](../activations/venus-jupiter-equals-pluto.md)
+- [Venus/Jupiter = Chiron](../activations/venus-jupiter-equals-chiron.md)
 - [Venus/Jupiter = Cupido](../activations/venus-jupiter-equals-cupido.md)
 - [Venus/Jupiter = Hades](../activations/venus-jupiter-equals-hades.md)
-- [Venus/Jupiter = Zeus](../activations/venus-jupiter-equals-zeus.md)
 - [Venus/Jupiter = Kronos](../activations/venus-jupiter-equals-kronos.md)
-- [Venus/Jupiter = Apollon](../activations/venus-jupiter-equals-apollon.md)
-- [Venus/Jupiter = Admetos](../activations/venus-jupiter-equals-admetos.md)
-- [Venus/Jupiter = Vulcanus](../activations/venus-jupiter-equals-vulcanus.md)
+- [Venus/Jupiter = Mars](../activations/venus-jupiter-equals-mars.md)
+- [Venus/Jupiter = MC](../activations/venus-jupiter-equals-mc.md)
+- [Venus/Jupiter = Mercury](../activations/venus-jupiter-equals-mercury.md)
+- [Venus/Jupiter = Moon](../activations/venus-jupiter-equals-moon.md)
+- [Venus/Jupiter = Neptune](../activations/venus-jupiter-equals-neptune.md)
+- [Venus/Jupiter = Node](../activations/venus-jupiter-equals-node.md)
+- [Venus/Jupiter = Pluto](../activations/venus-jupiter-equals-pluto.md)
 - [Venus/Jupiter = Poseidon](../activations/venus-jupiter-equals-poseidon.md)
+- [Venus/Jupiter = Saturn](../activations/venus-jupiter-equals-saturn.md)
+- [Venus/Jupiter = Sun](../activations/venus-jupiter-equals-sun.md)
+- [Venus/Jupiter = Uranus](../activations/venus-jupiter-equals-uranus.md)
+- [Venus/Jupiter = Vernal Point](../activations/venus-jupiter-equals-vernal-point.md)
+- [Venus/Jupiter = Vulcanus](../activations/venus-jupiter-equals-vulcanus.md)
+- [Venus/Jupiter = Zeus](../activations/venus-jupiter-equals-zeus.md)
 
 ## Contradictions
 
@@ -211,6 +264,9 @@ The effects of indulgence on your body; accumulations of body fat; wasted muscle
 - [Venus](../factors/venus.md)
 - [Jupiter](../factors/jupiter.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

@@ -11,7 +11,7 @@ normalized_axis: Apollon/Admetos
 factor_a: Apollon
 factor_b: Admetos
 related_activations:
-  - Apollon/Admetos = Aries
+  - Apollon/Admetos = Vernal Point
   - Apollon/Admetos = MC
   - Apollon/Admetos = Asc
   - Apollon/Admetos = Sun
@@ -34,7 +34,6 @@ related_activations:
 related_triad_hubs:
   - Apollon Admetos Poseidon
   - Apollon Admetos Vulcanus
-  - Aries Apollon Admetos
   - Asc Apollon Admetos
   - Cupido Apollon Admetos
   - Hades Apollon Admetos
@@ -51,6 +50,7 @@ related_triad_hubs:
   - Sun Apollon Admetos
   - Uranus Apollon Admetos
   - Venus Apollon Admetos
+  - Vernal Point Apollon Admetos
   - Zeus Apollon Admetos
 aliases:
   - Admetos/Apollon
@@ -85,7 +85,7 @@ The feeling of satisfaction. Contentment. Satiety. To be saturated. Stagnation o
 
 ## Related Activations
 
-- [Apollon/Admetos = Aries](../activations/apollon-admetos-equals-aries.md)
+- [Apollon/Admetos = Vernal Point](../activations/apollon-admetos-equals-vernal-point.md)
 - [Apollon/Admetos = MC](../activations/apollon-admetos-equals-mc.md)
 - [Apollon/Admetos = Asc](../activations/apollon-admetos-equals-asc.md)
 - [Apollon/Admetos = Sun](../activations/apollon-admetos-equals-sun.md)

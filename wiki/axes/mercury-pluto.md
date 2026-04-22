@@ -11,28 +11,29 @@ normalized_axis: Mercury/Pluto
 factor_a: Mercury
 factor_b: Pluto
 related_activations:
-  - Mercury/Pluto = Aries
-  - Mercury/Pluto = MC
+  - Mercury/Pluto = Admetos
+  - Mercury/Pluto = Apollon
   - Mercury/Pluto = Asc
-  - Mercury/Pluto = Sun
-  - Mercury/Pluto = Moon
-  - Mercury/Pluto = Node
-  - Mercury/Pluto = Venus
-  - Mercury/Pluto = Mars
-  - Mercury/Pluto = Jupiter
-  - Mercury/Pluto = Saturn
-  - Mercury/Pluto = Uranus
-  - Mercury/Pluto = Neptune
+  - Mercury/Pluto = Chiron
   - Mercury/Pluto = Cupido
   - Mercury/Pluto = Hades
-  - Mercury/Pluto = Zeus
+  - Mercury/Pluto = Jupiter
   - Mercury/Pluto = Kronos
-  - Mercury/Pluto = Apollon
-  - Mercury/Pluto = Admetos
-  - Mercury/Pluto = Vulcanus
+  - Mercury/Pluto = Mars
+  - Mercury/Pluto = MC
+  - Mercury/Pluto = Moon
+  - Mercury/Pluto = Neptune
+  - Mercury/Pluto = Node
   - Mercury/Pluto = Poseidon
+  - Mercury/Pluto = Saturn
+  - Mercury/Pluto = Sun
+  - Mercury/Pluto = Uranus
+  - Mercury/Pluto = Venus
+  - Mercury/Pluto = Vernal Point
+  - Mercury/Pluto = Vulcanus
+  - Mercury/Pluto = Zeus
 related_triad_hubs:
-  - Aries Mercury Pluto
+  - Mercury Chiron Pluto
   - Mercury Jupiter Pluto
   - Mercury Mars Pluto
   - Mercury Neptune Pluto
@@ -52,11 +53,15 @@ related_triad_hubs:
   - Mercury Venus Pluto
   - Moon Mercury Pluto
   - Sun Mercury Pluto
+  - Vernal Point Mercury Pluto
 aliases:
   - Pluto/Mercury
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 
 The function of the nerves. External and internal motion. The development of the thinking. From thinking to understanding. To develop or transform a thought. Thinking and perception is one thing. The development or change of the opinion, of the outlook on life, or of the understanding.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mercury/Pluto`
+- Source page: `163`
+
+#### Principle
+
+The art of persuasion, suggestion.
+
+#### Psychological Correspondence
+
++ Restless thinking, good powers of observation, quick grasp of every situation, amazingly sharp criticism, intellectual triumph over others, slyness or cunning, crafty subtlety, diplomacy. - Hasty thinking and speaking, premature action or hastiness, the spirit of opposition. Irritability, impatience, over-estimation of self. C Wielding of influence through speaking or writing.
+
+#### Biological Correspondence
+
+Metabolism of the nervous system, fonnation of new nerve substance. Nervous irritation.
+
+#### Sociological Correspondence
+
+A convincing speaker, the power to influence the public or the masses, a critic, a writer. A plagiarist or demagogue. In short, persons who are guilty of fraudulent representation or misrepresentation in speaking or writing.
+
+#### Probable Manifestations
+
++ Success as a speaker or writer (mostly in specialized fields), the attainment of public recognition. - Tendency to overtax one's strength, disturbances of the nervous system through excessive zeal or eagerness. Mercury/Pluto 5/f
+
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
 - Source heading: `Mercury/Pluto`
@@ -86,6 +116,28 @@ The function of the nerves. External and internal motion. The development of the
 #### Falis Entry
 
 Mystery writers. Sleuths. Whodunnit? Crime writers. Tunnel vision. Fixation. Get ting stuck on a particular idea or concept. Obsessive thoughts. Secretive. Probing. Investigators. Researchers. Detectives. Paranoid. Deeply suspicious mind. Con spiracy theorists. Attempting to uncover plots where none may exist. Psychopath. Deranged. Powerful words and language - for better or worse. The power of per suasion. Withholding information to gain power. Using information to gain power over others. Keeping silent. Concealing your thoughts. The need for privacy in communication. Secret languages. Coded languages. Occult knowledge. The ferret. Healing words. Catharsis through language. Getting to the bottom of things. Speaking in absolutes. The dirty mind. Smutty. Sex on the brain. Thinking the worst of people. Trying to uncover everyone's deep dark secrets. Mentally turning some thing innocent into something else entirely. Deft. Subtle. Penetrating. Relentless. Passionate communication. Overwhelming people with words. Controlling people with words. Abusive language. Mind control. Thought control. Mind manipulation. Uncovering layers of thought. Plunging deeper and deeper into an idea or concept. Inability to gain distance from your own ideas. Lack of objectivity. Pushing your ideas on other people. Inability to consider another viewpoint. Impressing your opinions on others through sheer passion and conviction, not logic. Deeply healing conversations. The ability to cut to the core of an issue. Psychother apists. Cutting through the crap. A willingness to broach taboo subjects. A will ingness to bring unpopular topics out for discussion. A willingness to take a look at the problems that society would rather sweep under the rug. The need to purge dark thoughts through writing or conversation. Writing about the underworld. Looking to get to the root of problems. Looking to solve a mystery from the bottom up. Needing a mystery to unravel. Finding ways to rebirth the mind. Take an idea and transforming it - for better or worse. The ability to fully, fundamentally, and to tally, change your mind.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mercury/Pluto midpoint`
+- Source page: `50`
+
+#### Principle
+
+Mental obsessiveness. The tendency to be extremely opinionated. The need to transform the mind by clearing negative thinking. The ability to communicate in a powerful manner. Communication that is so intense it destroys itself, causing miscom munication or no communication. One tends to hold extreme ideas which could be transformative in a positive way, or destructive.
+
+#### Process
+
+The evolution of one’s mental powers through the breaking down of limiting ideas and ways of looking at things so that new ideas and perspectives may form that are increasingly closer to the true nature of reality. The waging of war between the de sire to communicate with oneself and the fear of doing so, and the externalizing of this into outer communication.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Mercury/Pluto`
+- Source page: `205`
+
+#### Pair Delineation
+
+The desire to influence others, to mold others' thinking. Transformations and crises in thought. The ability to be a convincing speaker or teacher. Tendency to get involved in mental power struggles. Deep thinking with great insight into motivation and human psychology. The ability to investigate or do research.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -130,26 +182,27 @@ Pituitary or endocrine glandular imbalances are highlighted; breakdown of body t
 
 ## Related Activations
 
-- [Mercury/Pluto = Aries](../activations/mercury-pluto-equals-aries.md)
-- [Mercury/Pluto = MC](../activations/mercury-pluto-equals-mc.md)
+- [Mercury/Pluto = Admetos](../activations/mercury-pluto-equals-admetos.md)
+- [Mercury/Pluto = Apollon](../activations/mercury-pluto-equals-apollon.md)
 - [Mercury/Pluto = Asc](../activations/mercury-pluto-equals-asc.md)
-- [Mercury/Pluto = Sun](../activations/mercury-pluto-equals-sun.md)
-- [Mercury/Pluto = Moon](../activations/mercury-pluto-equals-moon.md)
-- [Mercury/Pluto = Node](../activations/mercury-pluto-equals-node.md)
-- [Mercury/Pluto = Venus](../activations/mercury-pluto-equals-venus.md)
-- [Mercury/Pluto = Mars](../activations/mercury-pluto-equals-mars.md)
-- [Mercury/Pluto = Jupiter](../activations/mercury-pluto-equals-jupiter.md)
-- [Mercury/Pluto = Saturn](../activations/mercury-pluto-equals-saturn.md)
-- [Mercury/Pluto = Uranus](../activations/mercury-pluto-equals-uranus.md)
-- [Mercury/Pluto = Neptune](../activations/mercury-pluto-equals-neptune.md)
+- [Mercury/Pluto = Chiron](../activations/mercury-pluto-equals-chiron.md)
 - [Mercury/Pluto = Cupido](../activations/mercury-pluto-equals-cupido.md)
 - [Mercury/Pluto = Hades](../activations/mercury-pluto-equals-hades.md)
-- [Mercury/Pluto = Zeus](../activations/mercury-pluto-equals-zeus.md)
+- [Mercury/Pluto = Jupiter](../activations/mercury-pluto-equals-jupiter.md)
 - [Mercury/Pluto = Kronos](../activations/mercury-pluto-equals-kronos.md)
-- [Mercury/Pluto = Apollon](../activations/mercury-pluto-equals-apollon.md)
-- [Mercury/Pluto = Admetos](../activations/mercury-pluto-equals-admetos.md)
-- [Mercury/Pluto = Vulcanus](../activations/mercury-pluto-equals-vulcanus.md)
+- [Mercury/Pluto = Mars](../activations/mercury-pluto-equals-mars.md)
+- [Mercury/Pluto = MC](../activations/mercury-pluto-equals-mc.md)
+- [Mercury/Pluto = Moon](../activations/mercury-pluto-equals-moon.md)
+- [Mercury/Pluto = Neptune](../activations/mercury-pluto-equals-neptune.md)
+- [Mercury/Pluto = Node](../activations/mercury-pluto-equals-node.md)
 - [Mercury/Pluto = Poseidon](../activations/mercury-pluto-equals-poseidon.md)
+- [Mercury/Pluto = Saturn](../activations/mercury-pluto-equals-saturn.md)
+- [Mercury/Pluto = Sun](../activations/mercury-pluto-equals-sun.md)
+- [Mercury/Pluto = Uranus](../activations/mercury-pluto-equals-uranus.md)
+- [Mercury/Pluto = Venus](../activations/mercury-pluto-equals-venus.md)
+- [Mercury/Pluto = Vernal Point](../activations/mercury-pluto-equals-vernal-point.md)
+- [Mercury/Pluto = Vulcanus](../activations/mercury-pluto-equals-vulcanus.md)
+- [Mercury/Pluto = Zeus](../activations/mercury-pluto-equals-zeus.md)
 
 ## Contradictions
 
@@ -165,5 +218,8 @@ Pituitary or endocrine glandular imbalances are highlighted; breakdown of body t
 - [Mercury](../factors/mercury.md)
 - [Pluto](../factors/pluto.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

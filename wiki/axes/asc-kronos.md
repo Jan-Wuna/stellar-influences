@@ -11,7 +11,7 @@ normalized_axis: Asc/Kronos
 factor_a: Asc
 factor_b: Kronos
 related_activations:
-  - Asc/Kronos = Aries
+  - Asc/Kronos = Vernal Point
   - Asc/Kronos = MC
   - Asc/Kronos = Sun
   - Asc/Kronos = Moon
@@ -32,7 +32,6 @@ related_activations:
   - Asc/Kronos = Vulcanus
   - Asc/Kronos = Poseidon
 related_triad_hubs:
-  - Aries Asc Kronos
   - Asc Cupido Kronos
   - Asc Hades Kronos
   - Asc Kronos Admetos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Asc Kronos
   - Uranus Asc Kronos
   - Venus Asc Kronos
+  - Vernal Point Asc Kronos
 aliases:
   - Kronos/Asc
 source_pages:
@@ -85,7 +85,7 @@ Things which come to the native from above. Workman. Employee. Official. Others 
 
 ## Related Activations
 
-- [Asc/Kronos = Aries](../activations/asc-kronos-equals-aries.md)
+- [Asc/Kronos = Vernal Point](../activations/asc-kronos-equals-vernal-point.md)
 - [Asc/Kronos = MC](../activations/asc-kronos-equals-mc.md)
 - [Asc/Kronos = Sun](../activations/asc-kronos-equals-sun.md)
 - [Asc/Kronos = Moon](../activations/asc-kronos-equals-moon.md)

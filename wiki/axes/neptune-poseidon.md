@@ -11,7 +11,7 @@ normalized_axis: Neptune/Poseidon
 factor_a: Neptune
 factor_b: Poseidon
 related_activations:
-  - Neptune/Poseidon = Aries
+  - Neptune/Poseidon = Vernal Point
   - Neptune/Poseidon = MC
   - Neptune/Poseidon = Asc
   - Neptune/Poseidon = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Neptune/Poseidon = Admetos
   - Neptune/Poseidon = Vulcanus
 related_triad_hubs:
-  - Aries Neptune Poseidon
   - Jupiter Neptune Poseidon
   - Mars Neptune Poseidon
   - Mercury Neptune Poseidon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Neptune Poseidon
   - Uranus Neptune Poseidon
   - Venus Neptune Poseidon
+  - Vernal Point Neptune Poseidon
 aliases:
   - Poseidon/Neptune
 source_pages:
@@ -85,7 +85,7 @@ Subtle-minded things and matters. Metaphysics. Psychology. Refraction of light. 
 
 ## Related Activations
 
-- [Neptune/Poseidon = Aries](../activations/neptune-poseidon-equals-aries.md)
+- [Neptune/Poseidon = Vernal Point](../activations/neptune-poseidon-equals-vernal-point.md)
 - [Neptune/Poseidon = MC](../activations/neptune-poseidon-equals-mc.md)
 - [Neptune/Poseidon = Asc](../activations/neptune-poseidon-equals-asc.md)
 - [Neptune/Poseidon = Sun](../activations/neptune-poseidon-equals-sun.md)

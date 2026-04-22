@@ -3,7 +3,7 @@ title: Saturn/Uranus = Venus
 page_type: activation
 slug: saturn-uranus-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Uranus
@@ -15,10 +15,13 @@ triad_set:
   - Venus
   - Saturn
   - Uranus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Sudden rupture in love. Separation from something wished for.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Saturn/Uranus`
+- Source page: `247`
+- Entry: `0870`
+
+#### Ebertin Entry
+
+Tension or stress in love life, often leading to separation.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Saturn/Uranus midpoint`
+- Source page: `88`
+- Activator: `Venus`
+
+#### Sandbach Entry
+
+To feel inhibited about openly showing affection. A love of art that experiments with structure. To be attracted to people who protect their own individuality and uniqueness and who refuse to compromise it in any way they don’t have to.
+
 ## Comparative Schema
 
-- core meaning: Sudden rupture in love. Separation from something wished for.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Sudden rupture in love. Separation from something wished for.
 - [Uranus](../factors/uranus.md)
 - [Venus](../factors/venus.md)
 - [Saturn/Uranus](../axes/saturn-uranus.md)
+- [Venus Saturn Uranus](../triads/venus-saturn-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

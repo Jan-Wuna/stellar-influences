@@ -3,7 +3,7 @@ title: Saturn/Neptune = Jupiter
 page_type: activation
 slug: saturn-neptune-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Neptune
@@ -15,10 +15,13 @@ triad_set:
   - Jupiter
   - Saturn
   - Neptune
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Disease of the lungs.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Saturn/Neptune`
+- Source page: `250`
+- Entry: `0884`
+
+#### Ebertin Entry
+
+Tendency to be easily upset or depressed, sensitive, narrow-minded, egoism. Inhibited weight gain, loss of weight, lack of fats. (Diseases of the liver or the lungs.)
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Saturn/Neptune midpoint`
+- Source page: `90`
+- Activator: `Jupiter`
+
+#### Sandbach Entry
+
+An enthusiasm for making one’s ideals manifest in physical reality, and a confi dence and optimism concerning the possible fulfillment of this.
+
 ## Comparative Schema
 
-- core meaning: Disease of the lungs.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Disease of the lungs.
 - [Neptune](../factors/neptune.md)
 - [Jupiter](../factors/jupiter.md)
 - [Saturn/Neptune](../axes/saturn-neptune.md)
+- [Jupiter Saturn Neptune](../triads/jupiter-saturn-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

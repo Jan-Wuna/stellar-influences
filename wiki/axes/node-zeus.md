@@ -11,7 +11,7 @@ normalized_axis: Node/Zeus
 factor_a: Node
 factor_b: Zeus
 related_activations:
-  - Node/Zeus = Aries
+  - Node/Zeus = Vernal Point
   - Node/Zeus = MC
   - Node/Zeus = Asc
   - Node/Zeus = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Node/Zeus = Vulcanus
   - Node/Zeus = Poseidon
 related_triad_hubs:
-  - Aries Node Zeus
   - Jupiter Node Zeus
   - Mars Node Zeus
   - Mercury Node Zeus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Node Zeus
   - Uranus Node Zeus
   - Venus Node Zeus
+  - Vernal Point Node Zeus
 aliases:
   - Zeus/Node
 source_pages:
@@ -85,7 +85,7 @@ To elect. To select. To join together with others for creative accomplishment. U
 
 ## Related Activations
 
-- [Node/Zeus = Aries](../activations/node-zeus-equals-aries.md)
+- [Node/Zeus = Vernal Point](../activations/node-zeus-equals-vernal-point.md)
 - [Node/Zeus = MC](../activations/node-zeus-equals-mc.md)
 - [Node/Zeus = Asc](../activations/node-zeus-equals-asc.md)
 - [Node/Zeus = Sun](../activations/node-zeus-equals-sun.md)

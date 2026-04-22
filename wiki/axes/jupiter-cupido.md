@@ -11,7 +11,7 @@ normalized_axis: Jupiter/Cupido
 factor_a: Jupiter
 factor_b: Cupido
 related_activations:
-  - Jupiter/Cupido = Aries
+  - Jupiter/Cupido = Vernal Point
   - Jupiter/Cupido = MC
   - Jupiter/Cupido = Asc
   - Jupiter/Cupido = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Jupiter/Cupido = Vulcanus
   - Jupiter/Cupido = Poseidon
 related_triad_hubs:
-  - Aries Jupiter Cupido
   - Jupiter Asc Cupido
   - Jupiter Cupido Admetos
   - Jupiter Cupido Apollon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Moon Jupiter Cupido
   - Sun Jupiter Cupido
   - Venus Jupiter Cupido
+  - Vernal Point Jupiter Cupido
 aliases:
   - Cupido/Jupiter
 source_pages:
@@ -85,7 +85,7 @@ Family happiness. Fortunate or successful partnership. Happy and successful comm
 
 ## Related Activations
 
-- [Jupiter/Cupido = Aries](../activations/jupiter-cupido-equals-aries.md)
+- [Jupiter/Cupido = Vernal Point](../activations/jupiter-cupido-equals-vernal-point.md)
 - [Jupiter/Cupido = MC](../activations/jupiter-cupido-equals-mc.md)
 - [Jupiter/Cupido = Asc](../activations/jupiter-cupido-equals-asc.md)
 - [Jupiter/Cupido = Sun](../activations/jupiter-cupido-equals-sun.md)

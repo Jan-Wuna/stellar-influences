@@ -28,6 +28,12 @@ def test_normalize_axis_preserves_mc_casing():
     assert axis.slug == "moon-mc"
 
 
+def test_normalize_axis_places_chiron_between_saturn_and_uranus():
+    axis = normalize_axis("Uranus", "Chiron")
+    assert axis.display == "Chiron/Uranus"
+    assert axis.slug == "chiron-uranus"
+
+
 def test_astronomicon_token_preserves_unknowns_and_maps_known_factors():
     assert astronomicon_token("Moon") == "R"
     assert astronomicon_token("Sun") == "S"
@@ -51,6 +57,16 @@ def test_normalize_factor_canonicalizes_aliases():
     factor = normalize_factor("dragon's head")
     assert factor.display == "Node"
     assert factor.slug == "node"
+
+
+def test_normalize_factor_canonicalizes_vernal_point_aliases():
+    factor = normalize_factor("Aries Point")
+    assert factor.display == "Vernal Point"
+    assert factor.slug == "vernal-point"
+
+    abbreviated = normalize_factor("VP")
+    assert abbreviated.display == "Vernal Point"
+    assert abbreviated.slug == "vernal-point"
 
 
 def test_normalize_triad_sorts_and_derives_orientations():

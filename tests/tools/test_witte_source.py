@@ -25,7 +25,7 @@ def test_witte_factor_blocks_are_canonical_and_trimmed_to_factor_chapters():
 
     assert [block.factor for block in factors] == FACTOR_SEQUENCE
 
-    aries = next(block for block in factors if block.factor == "Aries")
+    aries = next(block for block in factors if block.factor == "Vernal Point")
     pluto = next(block for block in factors if block.factor == "Pluto")
     poseidon = next(block for block in factors if block.factor == "Poseidon")
 
@@ -45,7 +45,7 @@ def test_witte_rule_page_assigns_ocr_noisy_entries_by_factor_order():
     _, pair_blocks = generate_models(PDF_PATH)
 
     aries_venus = next(
-        block for block in pair_blocks if block.factor_a == "Aries" and block.factor_b == "Venus"
+        block for block in pair_blocks if block.factor_a == "Vernal Point" and block.factor_b == "Venus"
     )
 
     entries = {entry.activated_by: entry.text for entry in aries_venus.activation_entries}
@@ -65,7 +65,7 @@ def test_witte_rule_page_keeps_repeated_pair_pages():
 
     assert meridian_self.page == 56
     assert meridian_self.summary.startswith("The personality of the native.")
-    assert meridian_self.activation_entries[0].activated_by == "Aries"
+    assert meridian_self.activation_entries[0].activated_by == "Vernal Point"
     assert entries["Sun"].startswith("Body and soul.")
     assert entries["Poseidon"].startswith("The divine spark in men.")
 
@@ -73,7 +73,9 @@ def test_witte_rule_page_keeps_repeated_pair_pages():
 def test_witte_rule_page_recovers_missing_saturn_entry_from_continuation_line():
     _, pair_blocks = generate_models(PDF_PATH)
 
-    aries_meridian = next(block for block in pair_blocks if block.factor_a == "Aries" and block.factor_b == "MC")
+    aries_meridian = next(
+        block for block in pair_blocks if block.factor_a == "Vernal Point" and block.factor_b == "MC"
+    )
     entries = {entry.activated_by: entry.text for entry in aries_meridian.activation_entries}
 
     assert entries["Saturn"].startswith("To be mournful with others.")
@@ -117,7 +119,7 @@ def test_witte_rule_page_keeps_short_alpha_ocr_tokens():
     _, pair_blocks = generate_models(PDF_PATH)
 
     aries_admetos = next(
-        block for block in pair_blocks if block.factor_a == "Aries" and block.factor_b == "Admetos"
+        block for block in pair_blocks if block.factor_a == "Vernal Point" and block.factor_b == "Admetos"
     )
     entries = {entry.activated_by: entry.text for entry in aries_admetos.activation_entries}
 
@@ -128,7 +130,7 @@ def test_witte_rule_page_keeps_three_letter_ocr_tokens():
     _, pair_blocks = generate_models(PDF_PATH)
 
     aries_poseidon = next(
-        block for block in pair_blocks if block.factor_a == "Aries" and block.factor_b == "Poseidon"
+        block for block in pair_blocks if block.factor_a == "Vernal Point" and block.factor_b == "Poseidon"
     )
     entries = {entry.activated_by: entry.text for entry in aries_poseidon.activation_entries}
 
@@ -167,7 +169,7 @@ def test_witte_rule_page_uses_ocr_fallback_for_sun_poseidon():
     entries = {entry.activated_by: entry.text for entry in sun_poseidon.activation_entries}
 
     assert sun_poseidon.summary.startswith("One’s own education and intellectual capacity.")
-    assert entries["Aries"].startswith("Men who are high minded in general.")
+    assert entries["Vernal Point"].startswith("Men who are high minded in general.")
     assert entries["MC"].startswith("Mental and spiritual inclinations.")
     assert entries["Vulcanus"].startswith("Mental power or influence.")
 
@@ -179,7 +181,7 @@ def test_witte_rule_page_keeps_summary_before_first_activation_entry():
     entries = {entry.activated_by: entry.text for entry in sun_node.activation_entries}
 
     assert sun_node.summary.startswith("A physical union. Connections with the public.")
-    assert entries["Aries"].startswith("General unions or connections.")
+    assert entries["Vernal Point"].startswith("General unions or connections.")
     assert entries["MC"].startswith("Soul unions.")
 
 
@@ -214,7 +216,7 @@ def test_witte_rule_page_recovers_unmarked_first_entry_after_summary():
     )
     entries = {entry.activated_by: entry.text for entry in apollon_admetos.activation_entries}
 
-    assert entries["Aries"].startswith("General tranquility. To be carefree. General contentment.")
+    assert entries["Vernal Point"].startswith("General tranquility. To be carefree. General contentment.")
     assert entries["MC"].startswith("The contented man.")
 
 
@@ -261,7 +263,11 @@ def test_witte_rule_page_ignores_stray_period_before_admetos_poseidon_tail_entri
 def test_witte_rule_page_repairs_aries_aries_poseidon_ocr_garble():
     _, pair_blocks = generate_models(PDF_PATH)
 
-    aries_self = next(block for block in pair_blocks if block.factor_a == "Aries" and block.factor_b == "Aries")
+    aries_self = next(
+        block
+        for block in pair_blocks
+        if block.factor_a == "Vernal Point" and block.factor_b == "Vernal Point"
+    )
     entries = {entry.activated_by: entry.text for entry in aries_self.activation_entries}
 
     assert entries["Poseidon"].startswith(

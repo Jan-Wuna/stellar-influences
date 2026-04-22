@@ -11,7 +11,7 @@ normalized_axis: Mercury/Zeus
 factor_a: Mercury
 factor_b: Zeus
 related_activations:
-  - Mercury/Zeus = Aries
+  - Mercury/Zeus = Vernal Point
   - Mercury/Zeus = MC
   - Mercury/Zeus = Asc
   - Mercury/Zeus = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Mercury/Zeus = Vulcanus
   - Mercury/Zeus = Poseidon
 related_triad_hubs:
-  - Aries Mercury Zeus
   - Mercury Asc Zeus
   - Mercury Cupido Zeus
   - Mercury Hades Zeus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Mercury Zeus Vulcanus
   - Moon Mercury Zeus
   - Sun Mercury Zeus
+  - Vernal Point Mercury Zeus
 aliases:
   - Zeus/Mercury
 source_pages:
@@ -85,7 +85,7 @@ Creative thinking. To command. To threaten. Dictatorial. Inventions. Thinking th
 
 ## Related Activations
 
-- [Mercury/Zeus = Aries](../activations/mercury-zeus-equals-aries.md)
+- [Mercury/Zeus = Vernal Point](../activations/mercury-zeus-equals-vernal-point.md)
 - [Mercury/Zeus = MC](../activations/mercury-zeus-equals-mc.md)
 - [Mercury/Zeus = Asc](../activations/mercury-zeus-equals-asc.md)
 - [Mercury/Zeus = Sun](../activations/mercury-zeus-equals-sun.md)

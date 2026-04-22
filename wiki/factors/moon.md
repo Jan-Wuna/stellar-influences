@@ -6,11 +6,13 @@ status: source_ingested
 framework_scope: comparative
 factors:
   - Moon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - reinhold-ebertin-the-combination-of-stellar-influences
-updated_at: 2026-04-21
+  - robert-hand-horoscope-symbols
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -22,8 +24,6 @@ updated_at: 2026-04-21
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source factor chapter page: `27`
 
 #### Witte Factor Entry
 
@@ -65,47 +65,79 @@ Mother, wife, family, nation, hereditary qualities or traits as a whole.
 - Aquarius (`0037`, page `49`): Wealth of ideas, deep concern for other people's troubles, good powers of observation, understanding and sympathetic nature, the ability to change, readiness to help others, love of independence, abundant hopes and wishes.
 - Pisces (`0038`, page `49`): Susceptibility to external influences, subject to moods, hopeful or optimistic state of mind, danger of unconditional yielding or drifting, feeling of inferiority, danger of exploitation or drift.
 
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `The Moon`
+- Source page: `56`
+
+#### Hand Factor Entry
+
+Along ^vith the Sun and Ascendant, it is agreed that the Moon is one of the centers of the chart. But when one reads astrological descriptions of the Moon, the core meaning is hard to grasp. Surface manifestations are given, but the central idea remains elusive. The Moon represents two basic archetypes. First, it is the archetype of the medium or container in which an energy may become manifest. It is also the archetype of the matrix, source, or origin of all things. Fundamentally, as we shall show, these two archetypes are really one. The glyph (the character by which a symbol is represented) of the Moon is a bowl on edge, facing either left or right (depending on whether one represents the Moon as waxing or waning). The glyph is obviously derived from the crescent-shaped form the Moon takes between the third quarter and the new moon, or the new moon and the first quarter. The bowl shape also suggests a container, which gives form to, limits, and helps define whatever it contains. This idea is central to an understanding of the Moon, but we must understand "container" in an expanded sense. We refer to the principle of containment, the idea of providing a surrounding, a location, a place, or an environment—a set of circumstances in which something may take place.
+
+Containment can be viewed as purely passive, and passivity has low esteem in this culture. But one must go beyond the limits of one's culture to understand this principle. The Moon is the planetary archetype of yin. It is the equal of yang, which is indicated by the Sun. The yin principle defines the circumstances and conditions under which the yang energy can manifest. The nature and situation of the Moon in the horoscope can limit, curtail, or assist the operation of vital energies. The final manifest form of anything is as much due to the yin principle of containment as it is to the energies that drive or motivate it. The Moon's yin nature gives place and form to the action of the Sun's yang. It is the root and foundation of that which can expsrience existence. It does not itself signify action or experience, but without it there can be neither. But the principle of containment, of providing a medium for life, gives rise to another factor that is even more relevant to an understanding of the Moon. Eveiy entity, especially every living entity, goes through a period prior to mature manifestation in which it is developing and growing, not yet ready to appear and to exert itself in the world. During this time the entity exists in some kind of container that both protects it and gives it structure and form. It maybe an egg, a womb, the Earth's soil, or a seed, to name but a few of the possibilities. This is the principle of the container as the nurturing matrix. It is another of the central themes of the Moon. For this reason, the Moon is connected to all forms of motherhood, both literal and metaphorical. The Moon in the chart affects humans most strongly just before and after birth, when they are most dependent on the mother. The Moon also symbolizes our experience throughout life of being nurtured, protected, and supported. The Moon's energies are manifest not only in the home in which we were raised as children, but also in the home to which we retire in the evening in order to regain our strength after the day's activities. In a larger sense, the physical universe is the ultimate medium in which much of our life takes place. (I do not count introspection, meditation, and other forms of purely internal mental, psychic, or spiritual activity as taking place in the physical universe.) Consequently, the state of the Moon in the horoscope indicates our attitude toward being incarnate
+
+in the physical universe. Certain difficulties with the natal Moon indicate that one feels alone, alienated from, and a stranger to, the physical universe—that one does not belong within it. A well-situated Moon, on the other hand, signifies an individual who feels at home on the planet Earth. If you have a poorly situated Moon you may often feel that you are justified only by what you do, not by what or who you are. The ideas "I am at home," "I am all right," and "I belong here" are a function of the Moon's energy. This leads us directly into the second of the Moon's primary meanings, which can now 7 be seen to be related to the first. It is the idea w 7e have of w 7here we have come from: the source, the w 7omb, the Great Mother. It is our past, childhood, heredity, or family (both current and ancestral). It is also bound up with our ideas of country and native land. Interestingly, there is a common tendency to treat the homeland as mother: witness the feminine endings on the names of many nations. An individual's attitudes toward the home and family of childhood are often represented in the chart by the Moon. People with a poorly placed Moon will often w 7ant to get away from the past, to deny and obliterate its influence upon their lives. They will often feel that the past weighs them down, smothers them, limits them so that they cannot be free. As adults, they will often have difficulty with any kind of intimacy, especially if it requires making a commitment. The ideas of containment, matrix, and source give rise to yet another psychological facet of the Moon. While yang energy is conscious energy, the limitations and forms imposed upon it by the matrix or medium in which it operates are not usually conscious (unless, of course, the individual makes an effort to look within at the internal structure of the self). In addition, the Moon as nurturing principle affects one most strongly at a time of life when one is not veiy conscious. For both reasons, the action of the Moon tends to be unconscious. Either it is part of the structure of the self that has not been examined (though it influences our thinking and perception eveiy minute of the day), or it relates to experiences that w 7ere very early, even prenatal, and w 7hich are therefore not conscious. The Moon relates to unconscious assumptions that w 7e have
+
+made about life from the beginning—attitudes that we learned from our parents without realizing it, hereditary mental patterns such as instincts, and, very important, psychological patterns that arise from infantile experiences, both positive and negative. Although it is not quite accurate to say that the Moon is the unconscious mind, it does operate largely unconsciously. We are not used to examining its processes, and tend either to overlook them or to be unable to look at them without a great deal of training. Certainly those aspects of ourselves that are lunar cannot be understood by purely rational means: they must be understood through feelings and emotions. In most astrological literature, the Moon is considered the primary indicator of the emotions. Perhaps now you can see why. Emotions are one of the principal manifestations of the part of the self that is either hereditary or structured at a very early age. Emotions are one of the strongest signs that something deep within the self, the part that is most likely to be dominated by lunar energies, is being activated. Emotions are neither more nor less right than the rational mind in making judgments. It is only that the rational mind does not have ready access to the power of the emotions and therefore mistrusts them. This is all the more true the more one consciously identifies with one's rational mind. In someone who does not make a split between the rational and emotional natures, there may be a greater ability to mal^e judgments using every faculty of the self. The Moon-dominated parts of the mind often act like computer programs—completely mechanical patterns that are set off automatically and completely by the appropriate stimulus. On the physical level, this is known as a ref ex. We have emotional reflexes, too, which are hard to modify by rational consideration. Also, because they are either instinctual or originate in earliest life, such reflexes often result in behavior that is not appropriate in adults. And yet a great deal of our behavior requires instantaneous judgment and quick response. When a car is rushing at us, we have no time to consider what to do. Similarly, we do not have time to think about exactly what we are doing when we are walking, what muscles to move when, and so forth. These are all lunar patterns within the mind. They
+
+govern a larger portion of our activity than rational thought does, and they are indispensable. The Sun (and Mars, as we shall see) represent the energy that the muscles use, but the patterning of that energy is usually lunar. There is another facet of the Moon that arises from its association with the unconscious mind. The unconscious mind does not deal with the patterns and restrictions that consciousness imposes. In particular, it does not recognize separateness. All is one, and everything takes place in a continuum. At a certain level, the lunar parts of the mind are in touch with eveiything, everywhere. The Moon, then, becomes one of the indicators of psychic ability, a mode of perception in which everything is in some way connected. The female sex, at least in its traditional role, is more yin than the male sex. Consequently, the Moon has always been associated with womanhood. Of course, the connection of the Moon with motherhood and the Sun with fatherhood would also assign these planets to the respective sexes. Even today, the Moon does seem more often to symbolize women than men. I believe, however, that the Moon has more to do with the roles that women have played (wife and mother) than with women themselves. Both sexes have masculine and feminine psychological elements ^vithin them, and it is not clear at this point how much of a woman's sexuality is conditioned and how much is innate. In traditional astrology, the Moon is said to indicate the people of a countiy as opposed to its rulers, who are supposed to be solar. There is much truth in this, even to the extent that an individual with a strong and well-placed Moon is able to appeal to large groups of people and make them feel that he or she is one of them. This is a requirement for politicians and salesmen. But a part of the idea also comes from the assumption that the-people are largely passive in relation to their rulers. This is less true now than it was, although clearly in times of relative tranquility when rulers have little resistance from the people, it still holds. In times of social turmoil when the people of a country are conscious of what they want and oppose the interests of their rulers, however, the people are not lunar at all.
+
+To conclude this description of the Moon's symbolism, there is an important point to be made. We have already said that astrologers have seemed not to understand the Moon as well as the Sun, and not to accord it quite the same importance. This is due to something within our culture that has manifested as sexism, but which is in reality much deeper. Our culture has lost touch with the power of yin. We strive to go out into the world, to grab it by the throat, and thus to master it. We do not understand the way of waiting and of learning to fit in to become a part of the whole. The only role we completely respect is that of masteiy: of the universe, of nature, of circumstances, or of ourselves. The Moon represents the energy of an alternative path, that of becoming a part of, of belonging, of creative submission to that which we will gain nothing by mastering. It is not enough that the female sex gain political equality with the male if the yin principle does not also gain equality with the yang. Man as well as woman is yin, and both are yang. As long as we act as if the yin is not an equal principle, we face life as half-beings, incomplete and out of touch with nature. Through the study of astrological symbols it is possible to gain some appreciation of what being whole means.
+
 ## Comparative Schema
 
-- core meaning: Witte condenses the factor into `Female persons. The people. The public. The hour. Changeable things. Function of the brain, the emotional state, the glands, the secretions and liquids of the body.` while Ebertin formalizes its principle as `Soul, the female principle.`.
-- psychology: Ebertin isolates `+ Motherly, domestic, prudence, mobility, changeable, adaptable, sense of form, memory. - Repressed motherliness, love of comfort, impressionable, a carefree attitude or an easygoing nature, moodiness.` as a dedicated psychological layer; Witte keeps psychological implications folded into the keyword cluster.
-- body/health: Ebertin isolates `Fertility, the bodily fluids, blood serum, the lymph (cerebellum).`; Witte usually embeds bodily references inside the main factor definition rather than in a separate section.
-- social/relationship: Ebertin isolates `Mother, wife, family, nation, hereditary qualities or traits as a whole.`; Witte keeps social references compressed into the same core entry.
-- events/manifestations: Ebertin preserves sign-position material above when available. Witte's standalone factor chapter remains non-sign-specific.
-- conflicts/notes: both source chapters are preserved side by side on the canonical factor page; differences are framework emphasis, not silently merged doctrine.
+- core meaning: source-native factor entries are preserved side by side above.
+- psychology: source-specific psychological and doctrinal emphases remain attached to their own source blocks instead of being flattened.
+- body/health: bodily wording remains inside each contributing source block when present.
+- social/relationship: interpersonal implications remain attached to each source's own phrasing.
+- events/manifestations: sign-position or chapter-level extensions remain attached to the source entry that states them.
+- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
 
 ## Contradictions and Framework Notes
 
-- Witte externalizes the factor through women, the public, and changeable bodily functions, while Ebertin internalizes it through soul, mothering, family, and fertility.
-- This page preserves the Hamburg and Cosmobiological factor chapters side by side instead of treating one as a gloss on the other.
+- Source differences on this factor page are preserved as framework emphasis rather than forced contradiction.
+- This page keeps the contributing source chapters side by side instead of treating one as a gloss on the other.
 
 ## Derived Synthesis
 
-- Taken together, Moon works as mutable feeling-life expressed through feminine embodiment, family response, and public receptivity.
+- None yet beyond source structuring.
 
 ## Related Axes
 
-- [Sun/Moon](../axes/sun-moon.md)
-- [Moon/Mercury](../axes/moon-mercury.md)
-- [Moon/Venus](../axes/moon-venus.md)
-- [Moon/Mars](../axes/moon-mars.md)
+- [Moon/Admetos](../axes/moon-admetos.md)
+- [Moon/Apollon](../axes/moon-apollon.md)
+- [Moon/Asc](../axes/moon-asc.md)
+- [Moon/Chiron](../axes/moon-chiron.md)
+- [Moon/Cupido](../axes/moon-cupido.md)
+- [Moon/Hades](../axes/moon-hades.md)
 - [Moon/Jupiter](../axes/moon-jupiter.md)
+- [Moon/Kronos](../axes/moon-kronos.md)
+- [Moon/Mars](../axes/moon-mars.md)
+- [Moon/MC](../axes/moon-mc.md)
+- [Moon/Mercury](../axes/moon-mercury.md)
+- [Moon/Moon](../axes/moon-moon.md)
+- [Moon/Neptune](../axes/moon-neptune.md)
+- [Moon/Node](../axes/moon-node.md)
+- [Moon/Pluto](../axes/moon-pluto.md)
+- [Moon/Poseidon](../axes/moon-poseidon.md)
 - [Moon/Saturn](../axes/moon-saturn.md)
 - [Moon/Uranus](../axes/moon-uranus.md)
-- [Moon/Neptune](../axes/moon-neptune.md)
-- [Moon/Pluto](../axes/moon-pluto.md)
-- [Moon/Node](../axes/moon-node.md)
-- [Moon/MC](../axes/moon-mc.md)
+- [Moon/Venus](../axes/moon-venus.md)
+- [Moon/Vulcanus](../axes/moon-vulcanus.md)
+- [Moon/Zeus](../axes/moon-zeus.md)
+- [Sun/Moon](../axes/sun-moon.md)
+- [Vernal Point/Moon](../axes/vernal-point-moon.md)
 
 ## Related Activations
 
-- Generated activation pages involving `Moon`: `186`.
+- Generated activation pages involving `Moon`: `729`.
 - Browse [Index](../index.md) or the `wiki/activations/` folder for the full set.
 
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 
 ## Open Questions
 

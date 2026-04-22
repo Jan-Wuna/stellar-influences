@@ -11,31 +11,32 @@ normalized_axis: Moon/Jupiter
 factor_a: Moon
 factor_b: Jupiter
 related_activations:
-  - Moon/Jupiter = Aries
-  - Moon/Jupiter = MC
+  - Moon/Jupiter = Admetos
+  - Moon/Jupiter = Apollon
   - Moon/Jupiter = Asc
-  - Moon/Jupiter = Sun
-  - Moon/Jupiter = Node
-  - Moon/Jupiter = Mercury
-  - Moon/Jupiter = Venus
-  - Moon/Jupiter = Mars
-  - Moon/Jupiter = Saturn
-  - Moon/Jupiter = Uranus
-  - Moon/Jupiter = Neptune
-  - Moon/Jupiter = Pluto
+  - Moon/Jupiter = Chiron
   - Moon/Jupiter = Cupido
   - Moon/Jupiter = Hades
-  - Moon/Jupiter = Zeus
   - Moon/Jupiter = Kronos
-  - Moon/Jupiter = Apollon
-  - Moon/Jupiter = Admetos
-  - Moon/Jupiter = Vulcanus
+  - Moon/Jupiter = Mars
+  - Moon/Jupiter = MC
+  - Moon/Jupiter = Mercury
+  - Moon/Jupiter = Neptune
+  - Moon/Jupiter = Node
+  - Moon/Jupiter = Pluto
   - Moon/Jupiter = Poseidon
+  - Moon/Jupiter = Saturn
+  - Moon/Jupiter = Sun
+  - Moon/Jupiter = Uranus
+  - Moon/Jupiter = Venus
+  - Moon/Jupiter = Vernal Point
+  - Moon/Jupiter = Vulcanus
+  - Moon/Jupiter = Zeus
 related_triad_hubs:
-  - Aries Moon Jupiter
   - Moon Jupiter Admetos
   - Moon Jupiter Apollon
   - Moon Jupiter Asc
+  - Moon Jupiter Chiron
   - Moon Jupiter Cupido
   - Moon Jupiter Hades
   - Moon Jupiter Kronos
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Moon Mercury Jupiter
   - Moon Venus Jupiter
   - Sun Moon Jupiter
+  - Vernal Point Moon Jupiter
 aliases:
   - Jupiter/Moon
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 Faith. Happy hours. The fortunate (happy) woman. The fortunate nation. Happiness of female persons. Contented woman or nation. Luck in public life. National justice and jurisdiction.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Moon/Jupiter`
+- Source page: `122`
+
+#### Principle
+
+Feeling of happiness, kindness or a good heart. Religious.
+
+#### Psychological Correspondence
+
++ Kindness, benevolence, religious, a social conscience, an obliging and helpful nature, popularity, generosity. - Indifference, negligence, injustice, unpopularity, inner conflict with regard to one's outlook on life and the world in general and with regard to religious matters, rebellion or opposition. C Desire for social meetings, pleasure and rich living, but yet permeated with the ideals of social betterment of one's fellow men and also with generosity and readiness to help others, business ability.
+
+#### Biological Correspondence
+
+The liquid products of the liver and the pancreas gland, also of the gallbladder and of the digestive ferments.
+
+#### Sociological Correspondence
+
+Successful, generous or happy women, a cheerful nation and people, successful entrepreneurs. Female civil servants or officials. The woman engaged to be married, the bride.
+
+#### Probable Manifestations
+
++ Social successes, carrying out enterprises on a large scale, attainment of material advantages, contacts with foreign countries. - Religious or legal conflict, marital differences, disadvantages through squandering or wastefulness. Moon Jupiter D/^
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -139,6 +169,28 @@ It often leads to enforced and more or less unpleasant residence in foreign coun
 - The Conjunction: Czar Nicholas II, Lord Brougham, Annie Besant, Queen Mary, Frederick the Great (with Saturn), Stainton Moses (spiritist), Burnand (editor of Punch), George IV, Hindenburg, Jules Verge, Adolf Hitler.
 - Inharmonious: Clemencaeau, Jay Gould, Ghandhi, Bismark, Richard Burton, Valantino, Ruskin, Laud, Lord Roberts, Dr. Goebbels.
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Moon/Jupiter midpoint`
+- Source page: `29`
+
+#### Principle
+
+A wealth and richness of feeling. The tendency to go to emotional excesses. To be accepting of all emotions. A willingness to share feelings and the encouraging of others to share theirs. The emotional need to connect with one’s spiritual self. Feeling overwhelmed by too many impressions and/or vulnerable to too many things.
+
+#### Process
+
+Accepting and learning from all one’s emotions. Reaching out to others on a feeling level in an increasingly rich and connected way.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Moon/Jupiter`
+- Source page: `203`
+
+#### Pair Delineation
+
+Feelings of protection, warmth, and nurture. Generosity. In a man's chart, positive emotional relations with women. Emotions operating on a religious or spiritual plane. Expression of emotions as a positive flow 7 reaching out to others.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MOON/JUPITER`
@@ -182,26 +234,27 @@ Fluid retention; increased sensitivity to drugs or allergens; raises fertility c
 
 ## Related Activations
 
-- [Moon/Jupiter = Aries](../activations/moon-jupiter-equals-aries.md)
-- [Moon/Jupiter = MC](../activations/moon-jupiter-equals-mc.md)
+- [Moon/Jupiter = Admetos](../activations/moon-jupiter-equals-admetos.md)
+- [Moon/Jupiter = Apollon](../activations/moon-jupiter-equals-apollon.md)
 - [Moon/Jupiter = Asc](../activations/moon-jupiter-equals-asc.md)
-- [Moon/Jupiter = Sun](../activations/moon-jupiter-equals-sun.md)
-- [Moon/Jupiter = Node](../activations/moon-jupiter-equals-node.md)
-- [Moon/Jupiter = Mercury](../activations/moon-jupiter-equals-mercury.md)
-- [Moon/Jupiter = Venus](../activations/moon-jupiter-equals-venus.md)
-- [Moon/Jupiter = Mars](../activations/moon-jupiter-equals-mars.md)
-- [Moon/Jupiter = Saturn](../activations/moon-jupiter-equals-saturn.md)
-- [Moon/Jupiter = Uranus](../activations/moon-jupiter-equals-uranus.md)
-- [Moon/Jupiter = Neptune](../activations/moon-jupiter-equals-neptune.md)
-- [Moon/Jupiter = Pluto](../activations/moon-jupiter-equals-pluto.md)
+- [Moon/Jupiter = Chiron](../activations/moon-jupiter-equals-chiron.md)
 - [Moon/Jupiter = Cupido](../activations/moon-jupiter-equals-cupido.md)
 - [Moon/Jupiter = Hades](../activations/moon-jupiter-equals-hades.md)
-- [Moon/Jupiter = Zeus](../activations/moon-jupiter-equals-zeus.md)
 - [Moon/Jupiter = Kronos](../activations/moon-jupiter-equals-kronos.md)
-- [Moon/Jupiter = Apollon](../activations/moon-jupiter-equals-apollon.md)
-- [Moon/Jupiter = Admetos](../activations/moon-jupiter-equals-admetos.md)
-- [Moon/Jupiter = Vulcanus](../activations/moon-jupiter-equals-vulcanus.md)
+- [Moon/Jupiter = Mars](../activations/moon-jupiter-equals-mars.md)
+- [Moon/Jupiter = MC](../activations/moon-jupiter-equals-mc.md)
+- [Moon/Jupiter = Mercury](../activations/moon-jupiter-equals-mercury.md)
+- [Moon/Jupiter = Neptune](../activations/moon-jupiter-equals-neptune.md)
+- [Moon/Jupiter = Node](../activations/moon-jupiter-equals-node.md)
+- [Moon/Jupiter = Pluto](../activations/moon-jupiter-equals-pluto.md)
 - [Moon/Jupiter = Poseidon](../activations/moon-jupiter-equals-poseidon.md)
+- [Moon/Jupiter = Saturn](../activations/moon-jupiter-equals-saturn.md)
+- [Moon/Jupiter = Sun](../activations/moon-jupiter-equals-sun.md)
+- [Moon/Jupiter = Uranus](../activations/moon-jupiter-equals-uranus.md)
+- [Moon/Jupiter = Venus](../activations/moon-jupiter-equals-venus.md)
+- [Moon/Jupiter = Vernal Point](../activations/moon-jupiter-equals-vernal-point.md)
+- [Moon/Jupiter = Vulcanus](../activations/moon-jupiter-equals-vulcanus.md)
+- [Moon/Jupiter = Zeus](../activations/moon-jupiter-equals-zeus.md)
 
 ## Contradictions
 
@@ -217,6 +270,9 @@ Fluid retention; increased sensitivity to drugs or allergens; raises fertility c
 - [Moon](../factors/moon.md)
 - [Jupiter](../factors/jupiter.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

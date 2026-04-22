@@ -11,7 +11,7 @@ normalized_axis: Mars/Apollon
 factor_a: Mars
 factor_b: Apollon
 related_activations:
-  - Mars/Apollon = Aries
+  - Mars/Apollon = Vernal Point
   - Mars/Apollon = MC
   - Mars/Apollon = Asc
   - Mars/Apollon = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Mars/Apollon = Vulcanus
   - Mars/Apollon = Poseidon
 related_triad_hubs:
-  - Aries Mars Apollon
   - Mars Apollon Admetos
   - Mars Apollon Poseidon
   - Mars Apollon Vulcanus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Moon Mars Apollon
   - Sun Mars Apollon
   - Venus Mars Apollon
+  - Vernal Point Mars Apollon
 aliases:
   - Apollon/Mars
 source_pages:
@@ -85,7 +85,7 @@ Generous way of acting. Peaceful, scientific or commercial activities. Successfu
 
 ## Related Activations
 
-- [Mars/Apollon = Aries](../activations/mars-apollon-equals-aries.md)
+- [Mars/Apollon = Vernal Point](../activations/mars-apollon-equals-vernal-point.md)
 - [Mars/Apollon = MC](../activations/mars-apollon-equals-mc.md)
 - [Mars/Apollon = Asc](../activations/mars-apollon-equals-asc.md)
 - [Mars/Apollon = Sun](../activations/mars-apollon-equals-sun.md)

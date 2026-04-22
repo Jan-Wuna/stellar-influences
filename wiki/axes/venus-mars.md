@@ -11,34 +11,35 @@ normalized_axis: Venus/Mars
 factor_a: Venus
 factor_b: Mars
 related_activations:
-  - Venus/Mars = Aries
-  - Venus/Mars = MC
+  - Venus/Mars = Admetos
+  - Venus/Mars = Apollon
   - Venus/Mars = Asc
-  - Venus/Mars = Sun
-  - Venus/Mars = Moon
-  - Venus/Mars = Node
-  - Venus/Mars = Mercury
-  - Venus/Mars = Jupiter
-  - Venus/Mars = Saturn
-  - Venus/Mars = Uranus
-  - Venus/Mars = Neptune
-  - Venus/Mars = Pluto
+  - Venus/Mars = Chiron
   - Venus/Mars = Cupido
   - Venus/Mars = Hades
-  - Venus/Mars = Zeus
+  - Venus/Mars = Jupiter
   - Venus/Mars = Kronos
-  - Venus/Mars = Apollon
-  - Venus/Mars = Admetos
-  - Venus/Mars = Vulcanus
+  - Venus/Mars = MC
+  - Venus/Mars = Mercury
+  - Venus/Mars = Moon
+  - Venus/Mars = Neptune
+  - Venus/Mars = Node
+  - Venus/Mars = Pluto
   - Venus/Mars = Poseidon
+  - Venus/Mars = Saturn
+  - Venus/Mars = Sun
+  - Venus/Mars = Uranus
+  - Venus/Mars = Vernal Point
+  - Venus/Mars = Vulcanus
+  - Venus/Mars = Zeus
 related_triad_hubs:
-  - Aries Venus Mars
   - Mercury Venus Mars
   - Moon Venus Mars
   - Sun Venus Mars
   - Venus Mars Admetos
   - Venus Mars Apollon
   - Venus Mars Asc
+  - Venus Mars Chiron
   - Venus Mars Cupido
   - Venus Mars Hades
   - Venus Mars Jupiter
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Venus Mars Uranus
   - Venus Mars Vulcanus
   - Venus Mars Zeus
+  - Vernal Point Venus Mars
 aliases:
   - Mars/Venus
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 The blood-relationship. Intimate friendship. Sex love. To act with devotion, out of love for the cause. To become intimate. Sex activity. Joy of action. Acting like a maternal female. Passionate activity. Kinship.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Mars`
+- Source page: `175`
+
+#### Principle
+
+The impulse to love. Passion.
+
+#### Psychological Correspondence
+
++ Passionate love, sensuality, desire, a warm heart, descriptive talent, artistic creativity, a lively expression of feelings and sentiment. - A strongly emotional and sexual life coupled with disharmonious tendencies, inclination to exaggerate, irritability, the state of being dissatisfied or unsatisfied, excitability, lack of tact, sudden outburst of extreme passion or sensuality followed by a quick reaction of coolness. C A strongly sensual nature, sensitivity, excitability, lack of tenderness and tact.
+
+#### Biological Correspondence
+
+The sympathetic and parasympathetic nervous system. Autonomic disturbances of function (particularly in the bowels and kidneys), anomalies of menstruation, masturbation. Inclination to contract varicose veins.
+
+#### Sociological Correspondence
+
+People in love, sex unions.
+
+#### Probable Manifestations
+
++ An early sexual maturity, the beginning of associations based purely on sex. - Disharmonious sex life, in some cases inclination to polygamy, infidelity. 31 In astrological textbooks, aspects between Venus and Mars, especially the square and opposition, are given a very negative interpretation. This is irresponsible. After all, this is a perfectly natural tendency, for without the regenerative function there would be no more children. It has actually been noticed that disruptions in love life have occured even when there were no inharmonious aspects between Venus and Mars. Venus/Mars Q/o"
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -149,6 +179,28 @@ The health may be affected through worry, strain, and lack of interior tranquili
 - The Conjunction: Lewis Carroll, King Humbart, Maupassant, Queen Wilhelmina of the Netherlands, Hahnemann (homeopathist), Tortensen, Lindbergh, Queen Alexandra, Hitler, Gandhi
 - Inharmonious: King Edward VII, ex-Kaiser William II, De Musset, James I, Disraeli, Earl Curzon, W.B. Yeats.
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Mars midpoint`
+- Source page: `55`
+
+#### Principle
+
+Efficiency (Marc Edmund Jones). The ability to get things done. A love of asserting oneself. To be aggressive and assertive in romance. A warm and passionate love nature.
+
+#### Process
+
+Learning how to more and more effectively show love and align all of one’s actions with its energy. Finding increasingly easier and smoother ways to get things ac complished without having to in any way slight or limit the fulfillment of one’s goals.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Venus/Mars`
+- Source page: `206`
+
+#### Pair Delineation
+
+Passion, sexual energy, love between the sexes. The physical aspect of sexuality. Creative energy, artistic work To seek self-satisfaction in love. The balance between the need for relationship and individual self-expression and will.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `VENUS/MARS`
@@ -192,26 +244,27 @@ Sexual pleasure; haste in sexual release; relaxing your muscles; the muscle tone
 
 ## Related Activations
 
-- [Venus/Mars = Aries](../activations/venus-mars-equals-aries.md)
-- [Venus/Mars = MC](../activations/venus-mars-equals-mc.md)
+- [Venus/Mars = Admetos](../activations/venus-mars-equals-admetos.md)
+- [Venus/Mars = Apollon](../activations/venus-mars-equals-apollon.md)
 - [Venus/Mars = Asc](../activations/venus-mars-equals-asc.md)
-- [Venus/Mars = Sun](../activations/venus-mars-equals-sun.md)
-- [Venus/Mars = Moon](../activations/venus-mars-equals-moon.md)
-- [Venus/Mars = Node](../activations/venus-mars-equals-node.md)
-- [Venus/Mars = Mercury](../activations/venus-mars-equals-mercury.md)
-- [Venus/Mars = Jupiter](../activations/venus-mars-equals-jupiter.md)
-- [Venus/Mars = Saturn](../activations/venus-mars-equals-saturn.md)
-- [Venus/Mars = Uranus](../activations/venus-mars-equals-uranus.md)
-- [Venus/Mars = Neptune](../activations/venus-mars-equals-neptune.md)
-- [Venus/Mars = Pluto](../activations/venus-mars-equals-pluto.md)
+- [Venus/Mars = Chiron](../activations/venus-mars-equals-chiron.md)
 - [Venus/Mars = Cupido](../activations/venus-mars-equals-cupido.md)
 - [Venus/Mars = Hades](../activations/venus-mars-equals-hades.md)
-- [Venus/Mars = Zeus](../activations/venus-mars-equals-zeus.md)
+- [Venus/Mars = Jupiter](../activations/venus-mars-equals-jupiter.md)
 - [Venus/Mars = Kronos](../activations/venus-mars-equals-kronos.md)
-- [Venus/Mars = Apollon](../activations/venus-mars-equals-apollon.md)
-- [Venus/Mars = Admetos](../activations/venus-mars-equals-admetos.md)
-- [Venus/Mars = Vulcanus](../activations/venus-mars-equals-vulcanus.md)
+- [Venus/Mars = MC](../activations/venus-mars-equals-mc.md)
+- [Venus/Mars = Mercury](../activations/venus-mars-equals-mercury.md)
+- [Venus/Mars = Moon](../activations/venus-mars-equals-moon.md)
+- [Venus/Mars = Neptune](../activations/venus-mars-equals-neptune.md)
+- [Venus/Mars = Node](../activations/venus-mars-equals-node.md)
+- [Venus/Mars = Pluto](../activations/venus-mars-equals-pluto.md)
 - [Venus/Mars = Poseidon](../activations/venus-mars-equals-poseidon.md)
+- [Venus/Mars = Saturn](../activations/venus-mars-equals-saturn.md)
+- [Venus/Mars = Sun](../activations/venus-mars-equals-sun.md)
+- [Venus/Mars = Uranus](../activations/venus-mars-equals-uranus.md)
+- [Venus/Mars = Vernal Point](../activations/venus-mars-equals-vernal-point.md)
+- [Venus/Mars = Vulcanus](../activations/venus-mars-equals-vulcanus.md)
+- [Venus/Mars = Zeus](../activations/venus-mars-equals-zeus.md)
 
 ## Contradictions
 
@@ -227,6 +280,9 @@ Sexual pleasure; haste in sexual release; relaxing your muscles; the muscle tone
 - [Venus](../factors/venus.md)
 - [Mars](../factors/mars.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

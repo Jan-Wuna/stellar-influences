@@ -3,7 +3,7 @@ title: Venus/Mars = Saturn
 page_type: activation
 slug: venus-mars-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Mars
@@ -15,10 +15,13 @@ triad_set:
   - Venus
   - Mars
   - Saturn
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Venereal diseases. Severance of the sexual intercourse. Older relatives or close friends. Separation from them.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Mars`
+- Source page: `176`
+- Entry: `0583`
+
+#### Ebertin Entry
+
+Inhibitions in love life, inclination to adultery, abnormal and pathological sex-expression. A separation in love.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Mars midpoint`
+- Source page: `55`
+- Activator: `Saturn`
+
+#### Sandbach Entry
+
+Efficiency carried out slowly and carefully or gradually. To feel a lack of romance in one’s life. To desire serious romance. A great ability to focus and to shut others things out when accomplishing something. A feeling that one is unattractive.
+
 ## Comparative Schema
 
-- core meaning: Venereal diseases. Severance of the sexual intercourse. Older relatives or close friends. Separation from them.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Venereal diseases. Severance of the sexual intercourse. Older relatives or close
 - [Mars](../factors/mars.md)
 - [Saturn](../factors/saturn.md)
 - [Venus/Mars](../axes/venus-mars.md)
+- [Venus Mars Saturn](../triads/venus-mars-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

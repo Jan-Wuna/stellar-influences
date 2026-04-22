@@ -5,7 +5,7 @@ slug: alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
 status: source_ingested
 framework_scope: hamburg_school
 factors:
-  - Aries
+  - Vernal Point
   - MC
   - Asc
   - Sun
@@ -47,7 +47,7 @@ updated_at: 2026-04-21
 
 ## Factors Covered
 
-- [Aries](../factors/aries.md)
+- [Vernal Point](../factors/vernal-point.md)
 - [MC](../factors/mc.md)
 - [Asc](../factors/asc.md)
 - [Sun](../factors/sun.md)

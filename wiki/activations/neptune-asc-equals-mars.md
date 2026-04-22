@@ -3,10 +3,10 @@ title: Neptune/Asc = Mars
 page_type: activation
 slug: neptune-asc-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Neptune
+  - Asc
   - Mars
 normalized_formula: Neptune/Asc = Mars
 axis: Neptune/Asc
@@ -15,10 +15,13 @@ triad_set:
   - Mars
   - Neptune
   - Asc
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 To be damaged. To be infected by other people. Uncertain, unclear behavior of the counterpart at work.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Neptune/Ascendant`
+- Source page: `287`
+- Entry: `1027`
+
+#### Ebertin Entry
+
+Inclination to fight against disharmonious influences of the environment, experiencing angry upsets or quarrels within one's environment. Primitive and instinctive urges wrongly expressed, unpleasantness in teamwork and cooperation, suffering of harm or damage.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Neptune/Ascendant midpoint`
+- Source page: `112`
+- Activator: `Mars`
+
+#### Sandbach Entry
+
+The ability to be subtly aggressive and to actively deceive others. To be indirect, covert or subtle in the expression of anger. To do things in a delicate or subtle way.
+
 ## Comparative Schema
 
-- core meaning: To be damaged. To be infected by other people. Uncertain, unclear behavior of the counterpart at work.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ To be damaged. To be infected by other people. Uncertain, unclear behavior of th
 - [Asc](../factors/asc.md)
 - [Mars](../factors/mars.md)
 - [Neptune/Asc](../axes/neptune-asc.md)
+- [Mars Neptune Asc](../triads/mars-neptune-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

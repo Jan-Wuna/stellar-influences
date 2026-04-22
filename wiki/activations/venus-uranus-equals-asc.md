@@ -3,7 +3,7 @@ title: Venus/Uranus = Asc
 page_type: activation
 slug: venus-uranus-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Uranus
@@ -15,10 +15,13 @@ triad_set:
   - Venus
   - Uranus
   - Asc
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Flirtations. Betrothal or marriage. Excitement about the love of others. Favors for others.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Uranus`
+- Source page: `185`
+- Entry: `0624`
+
+#### Ebertin Entry
+
+Demonstration of love in the presence of others. A sudden meeting or 34 Venus/Uranus = Moon by direction can indicate conception as well as birth. contact, a hasty engagement.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Uranus midpoint`
+- Source page: `60`
+- Activator: `Ascendant`
+
+#### Sandbach Entry
+
+To identify with that which is strange and beautiful. An unusually com pelling personality. The ability to find unique ways of sharing with others, or unexpected points in common. To freely express love toward other people.
+
 ## Comparative Schema
 
-- core meaning: Flirtations. Betrothal or marriage. Excitement about the love of others. Favors for others.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Flirtations. Betrothal or marriage. Excitement about the love of others. Favors 
 - [Uranus](../factors/uranus.md)
 - [Asc](../factors/asc.md)
 - [Venus/Uranus](../axes/venus-uranus.md)
+- [Venus Uranus Asc](../triads/venus-uranus-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

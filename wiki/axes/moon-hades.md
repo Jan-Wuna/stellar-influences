@@ -11,7 +11,7 @@ normalized_axis: Moon/Hades
 factor_a: Moon
 factor_b: Hades
 related_activations:
-  - Moon/Hades = Aries
+  - Moon/Hades = Vernal Point
   - Moon/Hades = MC
   - Moon/Hades = Asc
   - Moon/Hades = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Moon/Hades = Vulcanus
   - Moon/Hades = Poseidon
 related_triad_hubs:
-  - Aries Moon Hades
   - Moon Asc Hades
   - Moon Cupido Hades
   - Moon Hades Admetos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Moon Uranus Hades
   - Moon Venus Hades
   - Sun Moon Hades
+  - Vernal Point Moon Hades
 aliases:
   - Hades/Moon
 source_pages:
@@ -85,7 +85,7 @@ Resignation. Woman alone in the world. Uterine diseases. A pitiable woman. Poor 
 
 ## Related Activations
 
-- [Moon/Hades = Aries](../activations/moon-hades-equals-aries.md)
+- [Moon/Hades = Vernal Point](../activations/moon-hades-equals-vernal-point.md)
 - [Moon/Hades = MC](../activations/moon-hades-equals-mc.md)
 - [Moon/Hades = Asc](../activations/moon-hades-equals-asc.md)
 - [Moon/Hades = Sun](../activations/moon-hades-equals-sun.md)

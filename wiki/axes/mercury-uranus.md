@@ -11,28 +11,29 @@ normalized_axis: Mercury/Uranus
 factor_a: Mercury
 factor_b: Uranus
 related_activations:
-  - Mercury/Uranus = Aries
-  - Mercury/Uranus = MC
+  - Mercury/Uranus = Admetos
+  - Mercury/Uranus = Apollon
   - Mercury/Uranus = Asc
-  - Mercury/Uranus = Sun
-  - Mercury/Uranus = Moon
-  - Mercury/Uranus = Node
-  - Mercury/Uranus = Venus
-  - Mercury/Uranus = Mars
-  - Mercury/Uranus = Jupiter
-  - Mercury/Uranus = Saturn
-  - Mercury/Uranus = Neptune
-  - Mercury/Uranus = Pluto
+  - Mercury/Uranus = Chiron
   - Mercury/Uranus = Cupido
   - Mercury/Uranus = Hades
-  - Mercury/Uranus = Zeus
+  - Mercury/Uranus = Jupiter
   - Mercury/Uranus = Kronos
-  - Mercury/Uranus = Apollon
-  - Mercury/Uranus = Admetos
-  - Mercury/Uranus = Vulcanus
+  - Mercury/Uranus = Mars
+  - Mercury/Uranus = MC
+  - Mercury/Uranus = Moon
+  - Mercury/Uranus = Neptune
+  - Mercury/Uranus = Node
+  - Mercury/Uranus = Pluto
   - Mercury/Uranus = Poseidon
+  - Mercury/Uranus = Saturn
+  - Mercury/Uranus = Sun
+  - Mercury/Uranus = Venus
+  - Mercury/Uranus = Vernal Point
+  - Mercury/Uranus = Vulcanus
+  - Mercury/Uranus = Zeus
 related_triad_hubs:
-  - Aries Mercury Uranus
+  - Mercury Chiron Uranus
   - Mercury Jupiter Uranus
   - Mercury Mars Uranus
   - Mercury Saturn Uranus
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Mercury Venus Uranus
   - Moon Mercury Uranus
   - Sun Mercury Uranus
+  - Vernal Point Mercury Uranus
 aliases:
   - Uranus/Mercury
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 Nerves. Practical thinking. Logic. Good mathematician. Revolutionary thoughts. Original. Rhythm. Telegrams. New information. Sudden inspiration. Surprising mails. Sudden news or information. Excited way of speaking. Technological mindset. The main axis for astrologers, astronomers, technicians or mathematicians.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mercury/Uranus`
+- Source page: `157`
+
+#### Principle
+
+Astuteness, intuition.
+
+#### Psychological Correspondence
+
++ A revolutionary spirit and mind, shrewdness, inventive thinking, talent for speaking. Intuition, interest in or ability in technical science or engineering, physics, mathematics, rhythm, etc. The desire to be independent, intellectual flexibility, - "Too many irons in the fire," the inclination to scatter one's energies in too many directions at once, nervous haste, temporary or occasional confusion, tactless, brutal frankness, over-estimation of self, a contradicting disposition. C Self-will, moodiness, a good intellect.
+
+#### Biological Correspondence
+
+The spinal cord as defined by Burdach and Goll, disturbances of equilibrium (facial pains and migraine).
+
+#### Sociological Correspondence
+
+Mathematician, technician, physicist, a person engaged professionally in the study and application of rhythmics, cosmobiologist.
+
+#### Probable Manifestations
+
++ The power to influence people, innovations, inventions, sudden cognition or perception. - Failures caused through scattering one's energies or doing everything in haste, nervousness, eccentric actions, upset and excitement. Mercury/Uranus 5/W
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -137,6 +167,28 @@ It is sometimes a criminal influence, apparently sufficing to turn the whole ten
 - The Conjunction: Pasteur, Camille Flammariron, Lord Rosebery, William Lilly.
 - Inharmonious: President Ebert, W. Gornold ("Sepharial"), Mrs. Besant, A.J. Balfour, Frederick the Great, Victor Hugo, Henry Irving, Oscar Wilde, James Coates (mesmerist), Gassendi, Francis Bret Harte, Marie Bashkertseff, William I and William II of Germany, Hindenburg, John Burns.
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mercury/Uranus midpoint`
+- Source page: `47`
+
+#### Principle
+
+Independent thinking. Strange ideas. A progressive mind. Thinking outside the box and experimenting with ideas. Sudden communication that can catch people off guard. The ability to say things in a unique or unusual way. A spasmodic scattering of energies that can create upset and/or cause failure due to not putting enough energy into any one thing.
+
+#### Process
+
+The liberating of one’s thoughts from unnecessarily limiting biases. Allowing one’s mind to find its own individualized way of thinking and communicating. To ex plore new modes of sharing information and to free the mind so that it can perceive ideas in new ways and in new relationships to each other.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Mercury/Uranus`
+- Source page: `205`
+
+#### Pair Delineation
+
+Lightning-like mind, tendency to be scattered and become nervous through haste. Sudden decisions or thoughts. Need for intellectual stimulation and excitement, need for the unusual. Often relates to ability in mathematics, science, or technology or to involvement in occult techniques such as astrology.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MERCURY/URANUS`
@@ -180,26 +232,27 @@ Intestinal and stomach gas; sensitivities to certain food groups (milk, wheat, e
 
 ## Related Activations
 
-- [Mercury/Uranus = Aries](../activations/mercury-uranus-equals-aries.md)
-- [Mercury/Uranus = MC](../activations/mercury-uranus-equals-mc.md)
+- [Mercury/Uranus = Admetos](../activations/mercury-uranus-equals-admetos.md)
+- [Mercury/Uranus = Apollon](../activations/mercury-uranus-equals-apollon.md)
 - [Mercury/Uranus = Asc](../activations/mercury-uranus-equals-asc.md)
-- [Mercury/Uranus = Sun](../activations/mercury-uranus-equals-sun.md)
-- [Mercury/Uranus = Moon](../activations/mercury-uranus-equals-moon.md)
-- [Mercury/Uranus = Node](../activations/mercury-uranus-equals-node.md)
-- [Mercury/Uranus = Venus](../activations/mercury-uranus-equals-venus.md)
-- [Mercury/Uranus = Mars](../activations/mercury-uranus-equals-mars.md)
-- [Mercury/Uranus = Jupiter](../activations/mercury-uranus-equals-jupiter.md)
-- [Mercury/Uranus = Saturn](../activations/mercury-uranus-equals-saturn.md)
-- [Mercury/Uranus = Neptune](../activations/mercury-uranus-equals-neptune.md)
-- [Mercury/Uranus = Pluto](../activations/mercury-uranus-equals-pluto.md)
+- [Mercury/Uranus = Chiron](../activations/mercury-uranus-equals-chiron.md)
 - [Mercury/Uranus = Cupido](../activations/mercury-uranus-equals-cupido.md)
 - [Mercury/Uranus = Hades](../activations/mercury-uranus-equals-hades.md)
-- [Mercury/Uranus = Zeus](../activations/mercury-uranus-equals-zeus.md)
+- [Mercury/Uranus = Jupiter](../activations/mercury-uranus-equals-jupiter.md)
 - [Mercury/Uranus = Kronos](../activations/mercury-uranus-equals-kronos.md)
-- [Mercury/Uranus = Apollon](../activations/mercury-uranus-equals-apollon.md)
-- [Mercury/Uranus = Admetos](../activations/mercury-uranus-equals-admetos.md)
-- [Mercury/Uranus = Vulcanus](../activations/mercury-uranus-equals-vulcanus.md)
+- [Mercury/Uranus = Mars](../activations/mercury-uranus-equals-mars.md)
+- [Mercury/Uranus = MC](../activations/mercury-uranus-equals-mc.md)
+- [Mercury/Uranus = Moon](../activations/mercury-uranus-equals-moon.md)
+- [Mercury/Uranus = Neptune](../activations/mercury-uranus-equals-neptune.md)
+- [Mercury/Uranus = Node](../activations/mercury-uranus-equals-node.md)
+- [Mercury/Uranus = Pluto](../activations/mercury-uranus-equals-pluto.md)
 - [Mercury/Uranus = Poseidon](../activations/mercury-uranus-equals-poseidon.md)
+- [Mercury/Uranus = Saturn](../activations/mercury-uranus-equals-saturn.md)
+- [Mercury/Uranus = Sun](../activations/mercury-uranus-equals-sun.md)
+- [Mercury/Uranus = Venus](../activations/mercury-uranus-equals-venus.md)
+- [Mercury/Uranus = Vernal Point](../activations/mercury-uranus-equals-vernal-point.md)
+- [Mercury/Uranus = Vulcanus](../activations/mercury-uranus-equals-vulcanus.md)
+- [Mercury/Uranus = Zeus](../activations/mercury-uranus-equals-zeus.md)
 
 ## Contradictions
 
@@ -215,6 +268,9 @@ Intestinal and stomach gas; sensitivities to certain food groups (milk, wheat, e
 - [Mercury](../factors/mercury.md)
 - [Uranus](../factors/uranus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

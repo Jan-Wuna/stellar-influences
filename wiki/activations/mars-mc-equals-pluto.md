@@ -3,10 +3,10 @@ title: Mars/MC = Pluto
 page_type: activation
 slug: mars-mc-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Mars
+  - MC
   - Pluto
 normalized_formula: Mars/MC = Pluto
 axis: Mars/MC
@@ -15,10 +15,13 @@ triad_set:
   - Mars
   - Pluto
   - MC
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 P Building up something. Performing several jobs at the same time. Organizational talent. To have more than one iron in the fire.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mars/Medium Coeli`
+- Source page: `224`
+- Entry: `0779`
+
+#### Ebertin Entry
+
+Extraordinary zeal and great vigor, desire to bring immense tasks to a successful conclusion,
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mars/Midheaven midpoint`
+- Source page: `77`
+- Activator: `Pluto`
+
+#### Sandbach Entry
+
+An intense desire to develop one’s powers and abilities, and possibly to be an authority. An extreme urge to climb socially or spiritually so that one can use one’s po sition, hopefully for the benefit of the world.
+
 ## Comparative Schema
 
-- core meaning: P Building up something. Performing several jobs at the same time. Organizational talent. To have more than one iron in the fire.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ P Building up something. Performing several jobs at the same time. Organizationa
 - [MC](../factors/mc.md)
 - [Pluto](../factors/pluto.md)
 - [Mars/MC](../axes/mars-mc.md)
+- [Mars Pluto MC](../triads/mars-pluto-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

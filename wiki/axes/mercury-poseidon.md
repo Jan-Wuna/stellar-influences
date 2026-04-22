@@ -11,7 +11,7 @@ normalized_axis: Mercury/Poseidon
 factor_a: Mercury
 factor_b: Poseidon
 related_activations:
-  - Mercury/Poseidon = Aries
+  - Mercury/Poseidon = Vernal Point
   - Mercury/Poseidon = MC
   - Mercury/Poseidon = Asc
   - Mercury/Poseidon = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Mercury/Poseidon = Admetos
   - Mercury/Poseidon = Vulcanus
 related_triad_hubs:
-  - Aries Mercury Poseidon
   - Mercury Admetos Poseidon
   - Mercury Apollon Poseidon
   - Mercury Asc Poseidon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Mercury Zeus Poseidon
   - Moon Mercury Poseidon
   - Sun Mercury Poseidon
+  - Vernal Point Mercury Poseidon
 aliases:
   - Poseidon/Mercury
 source_pages:
@@ -85,7 +85,7 @@ Spiritualized thinking. Thoughts. Ideas. Talks about spiritual, intellectual or 
 
 ## Related Activations
 
-- [Mercury/Poseidon = Aries](../activations/mercury-poseidon-equals-aries.md)
+- [Mercury/Poseidon = Vernal Point](../activations/mercury-poseidon-equals-vernal-point.md)
 - [Mercury/Poseidon = MC](../activations/mercury-poseidon-equals-mc.md)
 - [Mercury/Poseidon = Asc](../activations/mercury-poseidon-equals-asc.md)
 - [Mercury/Poseidon = Sun](../activations/mercury-poseidon-equals-sun.md)

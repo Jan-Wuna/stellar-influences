@@ -3,10 +3,10 @@ title: Pluto/Asc = Uranus
 page_type: activation
 slug: pluto-asc-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Pluto
+  - Asc
   - Uranus
 normalized_formula: Pluto/Asc = Uranus
 axis: Pluto/Asc
@@ -15,10 +15,13 @@ triad_set:
   - Uranus
   - Pluto
   - Asc
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Sudden surprising changes of the place.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Pluto/Ascendant`
+- Source page: `295`
+- Entry: `1066`
+
+#### Ebertin Entry
+
+A frequent change of environment, the misfortune to live in constant anxiety and restlessness. Extraordinary incidents and upsets, accidents.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Pluto/Ascendant midpoint`
+- Source page: `116`
+- Activator: `Uranus`
+
+#### Sandbach Entry
+
+One’s unique characteristics manifest in a highly intense manner. Strange and unexpected transformations in one’s personality. An intense identification with some thing of an unusual or bizarre nature. A genius for coming across to others in a vivid, powerful or potent manner.
+
 ## Comparative Schema
 
-- core meaning: Sudden surprising changes of the place.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Sudden surprising changes of the place.
 - [Asc](../factors/asc.md)
 - [Uranus](../factors/uranus.md)
 - [Pluto/Asc](../axes/pluto-asc.md)
+- [Uranus Pluto Asc](../triads/uranus-pluto-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

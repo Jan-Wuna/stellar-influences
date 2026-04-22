@@ -3,7 +3,7 @@ title: Sun/Mercury = Saturn
 page_type: activation
 slug: sun-mercury-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Mercury
@@ -15,10 +15,13 @@ triad_set:
   - Sun
   - Mercury
   - Saturn
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Slowly running processes of consciousness. The faculty to become aware of something is slowed down. Serious practical thinking. Taking leave (parting). Travelling. The end of a journey. Arrival.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Sun/Mercury`
+- Source page: `81`
+- Entry: `0199`
+
+#### Ebertin Entry
+
+Inhibitions in thinking, pessimistic attitude to life, serious outlook on life, life experience. Thinking of separation, parting or farewell.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Sun/Mercury midpoint`
+- Source page: `8`
+- Activator: `Saturn`
+
+#### Sandbach Entry
+
+A slow, careful, or patient way of expressing what one thinks is important. To be frustrated about others not seeing the importance of one’s ideas. The ability to figure out what needs to be said, and the ability to say it in a clear and simple way. A sensi tiveness to one’s ideas being ignored or slighted. As more and more time goes on one becomes clearer and clearer about which ideas are most important to the self.
+
 ## Comparative Schema
 
-- core meaning: Slowly running processes of consciousness. The faculty to become aware of something is slowed down. Serious practical thinking. Taking leave (parting). Travelling. The end of a journey. Arrival.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Slowly running processes of consciousness. The faculty to become aware of someth
 - [Mercury](../factors/mercury.md)
 - [Saturn](../factors/saturn.md)
 - [Sun/Mercury](../axes/sun-mercury.md)
+- [Sun Mercury Saturn](../triads/sun-mercury-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

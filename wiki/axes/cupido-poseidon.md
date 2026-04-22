@@ -11,7 +11,7 @@ normalized_axis: Cupido/Poseidon
 factor_a: Cupido
 factor_b: Poseidon
 related_activations:
-  - Cupido/Poseidon = Aries
+  - Cupido/Poseidon = Vernal Point
   - Cupido/Poseidon = MC
   - Cupido/Poseidon = Asc
   - Cupido/Poseidon = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Cupido/Poseidon = Admetos
   - Cupido/Poseidon = Vulcanus
 related_triad_hubs:
-  - Aries Cupido Poseidon
   - Asc Cupido Poseidon
   - Cupido Admetos Poseidon
   - Cupido Apollon Poseidon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Cupido Poseidon
   - Uranus Cupido Poseidon
   - Venus Cupido Poseidon
+  - Vernal Point Cupido Poseidon
 aliases:
   - Poseidon/Cupido
 source_pages:
@@ -85,7 +85,7 @@ Spiritual, educational, cultural or philosophical associations or companies. A c
 
 ## Related Activations
 
-- [Cupido/Poseidon = Aries](../activations/cupido-poseidon-equals-aries.md)
+- [Cupido/Poseidon = Vernal Point](../activations/cupido-poseidon-equals-vernal-point.md)
 - [Cupido/Poseidon = MC](../activations/cupido-poseidon-equals-mc.md)
 - [Cupido/Poseidon = Asc](../activations/cupido-poseidon-equals-asc.md)
 - [Cupido/Poseidon = Sun](../activations/cupido-poseidon-equals-sun.md)

@@ -11,7 +11,7 @@ normalized_axis: Jupiter/Admetos
 factor_a: Jupiter
 factor_b: Admetos
 related_activations:
-  - Jupiter/Admetos = Aries
+  - Jupiter/Admetos = Vernal Point
   - Jupiter/Admetos = MC
   - Jupiter/Admetos = Asc
   - Jupiter/Admetos = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Jupiter/Admetos = Vulcanus
   - Jupiter/Admetos = Poseidon
 related_triad_hubs:
-  - Aries Jupiter Admetos
   - Jupiter Admetos Poseidon
   - Jupiter Admetos Vulcanus
   - Jupiter Apollon Admetos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Moon Jupiter Admetos
   - Sun Jupiter Admetos
   - Venus Jupiter Admetos
+  - Vernal Point Jupiter Admetos
 aliases:
   - Admetos/Jupiter
 source_pages:
@@ -85,7 +85,7 @@ Rest. Happy in straitened circumstances. Gladly spent money. Gains out of raw ma
 
 ## Related Activations
 
-- [Jupiter/Admetos = Aries](../activations/jupiter-admetos-equals-aries.md)
+- [Jupiter/Admetos = Vernal Point](../activations/jupiter-admetos-equals-vernal-point.md)
 - [Jupiter/Admetos = MC](../activations/jupiter-admetos-equals-mc.md)
 - [Jupiter/Admetos = Asc](../activations/jupiter-admetos-equals-asc.md)
 - [Jupiter/Admetos = Sun](../activations/jupiter-admetos-equals-sun.md)

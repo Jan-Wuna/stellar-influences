@@ -11,32 +11,33 @@ normalized_axis: Saturn/Neptune
 factor_a: Saturn
 factor_b: Neptune
 related_activations:
-  - Saturn/Neptune = Aries
-  - Saturn/Neptune = MC
+  - Saturn/Neptune = Admetos
+  - Saturn/Neptune = Apollon
   - Saturn/Neptune = Asc
-  - Saturn/Neptune = Sun
-  - Saturn/Neptune = Moon
-  - Saturn/Neptune = Node
-  - Saturn/Neptune = Mercury
-  - Saturn/Neptune = Venus
-  - Saturn/Neptune = Mars
-  - Saturn/Neptune = Jupiter
-  - Saturn/Neptune = Uranus
-  - Saturn/Neptune = Pluto
+  - Saturn/Neptune = Chiron
   - Saturn/Neptune = Cupido
   - Saturn/Neptune = Hades
-  - Saturn/Neptune = Zeus
+  - Saturn/Neptune = Jupiter
   - Saturn/Neptune = Kronos
-  - Saturn/Neptune = Apollon
-  - Saturn/Neptune = Admetos
-  - Saturn/Neptune = Vulcanus
+  - Saturn/Neptune = Mars
+  - Saturn/Neptune = MC
+  - Saturn/Neptune = Mercury
+  - Saturn/Neptune = Moon
+  - Saturn/Neptune = Node
+  - Saturn/Neptune = Pluto
   - Saturn/Neptune = Poseidon
+  - Saturn/Neptune = Sun
+  - Saturn/Neptune = Uranus
+  - Saturn/Neptune = Venus
+  - Saturn/Neptune = Vernal Point
+  - Saturn/Neptune = Vulcanus
+  - Saturn/Neptune = Zeus
 related_triad_hubs:
-  - Aries Saturn Neptune
   - Jupiter Saturn Neptune
   - Mars Saturn Neptune
   - Mercury Saturn Neptune
   - Moon Saturn Neptune
+  - Saturn Chiron Neptune
   - Saturn Neptune Admetos
   - Saturn Neptune Apollon
   - Saturn Neptune Asc
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Saturn Uranus Neptune
   - Sun Saturn Neptune
   - Venus Saturn Neptune
+  - Vernal Point Saturn Neptune
 aliases:
   - Neptune/Saturn
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 Habit. Things of long duration. Sickness. Treacherous diseases. Chronic ill health. Plague. Chronic conditions. Theft. Losses or separation through deception or fraud. Patience in an uncertain situation. Intuition in old age. Creeping losses. Problems through or with gas, air or water.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Saturn/Neptune`
+- Source page: `249`
+
+#### Principle
+
+Suffering, renunciation, asceticism.
+
+#### Psychological Correspondence
+
++ The readiness for sacrifice, taking care of others, self-restraint, cautiousness, foresight. - A dual character, a struggle between the lower and the higher nature, frequent change of moods, distrust, insecurity, dissatisfaction. C A peculiar character, strong preoccupation with oneself, a struggle between idealistic and materialistic tendencies.
+
+#### Biological Correspondence
+
+The chronic and unhampered progress of malady. Organic decomposition. Saturn/Neptune = first point of Aries: Hysteria. (In contrast to Mars/Neptune: infectious disease.)
+
+#### Sociological Correspondence
+
+Poor, sick or depressed persons.
+
+#### Probable Manifestations
+
++ Methodical execution of plans, slow attainment of success through intense activity and great painstaking effort. - Painful, or tormenting emotional inhibitions, undermining circumstances leading to a state of illness, neuroses or diseases with causes difficult to ascertain. 54 The "illness axis," Satum/Neptune has been confirmed over and over again both in transit combinations in connection with epidemics and in individual charts. Saturn/Neptune W
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -141,6 +171,28 @@ I have known great suspiciousness under this contact. It may even lead to a defi
 - The Conjunction: Gladstone, C.W. Leadbeater, German Crown Prince, Chopin, Anna Kingsford.
 - Inharmonious: William Blake, Henry Ford, Queen Victoria, Lloyd George
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Saturn/Neptune midpoint`
+- Source page: `90`
+
+#### Principle
+
+Psychic sensitivity, which can manifest in irrational fear, paranoia, feeling drained, confused, etc. The need to take one’s psychic sensitivity seriously, and to protect it. Physical problems whose roots are to be found in one’s psychic sensitivity, and which can therefore be difficult to diagnose by traditional medical means. The attempt to combine the ideal with the real, that is, to bring one’s ideals into physical manifestation. The feeling of being let down, frustrated, or sad when one’s ideals fail to become a reality. The need to stand firm and true by one’s ideals and to purify them by purging them of any delusions or distortions, so that one may clearly see the relation ship between one’s hopes and dreams and physical reality.
+
+#### Process
+
+The clearing away of confusion and misconceptions. The realization of the relationship between one’s ideals and the limitations of the physical world, which leads to the ability to hold on to ideals while yet also being able to live them in some practi cal, real way. The breaking down of old, worn out and/or needlessly limiting structures.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Saturn/Neptune`
+- Source page: `210`
+
+#### Pair Delineation
+
+Confusion about what is and is not real. Fear, pessimism. Asceticism, extreme self-denial or denial of the physical for reasons of self-discipline. Often takes the form of chronic, non-infectious, or systemic ailments. The ability to bring dreams or ideals into concrete realization.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `SATURN/NEPTUNE`
@@ -184,26 +236,27 @@ Diseases which are difficult to diagnose or of a long lasting nature; weakens th
 
 ## Related Activations
 
-- [Saturn/Neptune = Aries](../activations/saturn-neptune-equals-aries.md)
-- [Saturn/Neptune = MC](../activations/saturn-neptune-equals-mc.md)
+- [Saturn/Neptune = Admetos](../activations/saturn-neptune-equals-admetos.md)
+- [Saturn/Neptune = Apollon](../activations/saturn-neptune-equals-apollon.md)
 - [Saturn/Neptune = Asc](../activations/saturn-neptune-equals-asc.md)
-- [Saturn/Neptune = Sun](../activations/saturn-neptune-equals-sun.md)
-- [Saturn/Neptune = Moon](../activations/saturn-neptune-equals-moon.md)
-- [Saturn/Neptune = Node](../activations/saturn-neptune-equals-node.md)
-- [Saturn/Neptune = Mercury](../activations/saturn-neptune-equals-mercury.md)
-- [Saturn/Neptune = Venus](../activations/saturn-neptune-equals-venus.md)
-- [Saturn/Neptune = Mars](../activations/saturn-neptune-equals-mars.md)
-- [Saturn/Neptune = Jupiter](../activations/saturn-neptune-equals-jupiter.md)
-- [Saturn/Neptune = Uranus](../activations/saturn-neptune-equals-uranus.md)
-- [Saturn/Neptune = Pluto](../activations/saturn-neptune-equals-pluto.md)
+- [Saturn/Neptune = Chiron](../activations/saturn-neptune-equals-chiron.md)
 - [Saturn/Neptune = Cupido](../activations/saturn-neptune-equals-cupido.md)
 - [Saturn/Neptune = Hades](../activations/saturn-neptune-equals-hades.md)
-- [Saturn/Neptune = Zeus](../activations/saturn-neptune-equals-zeus.md)
+- [Saturn/Neptune = Jupiter](../activations/saturn-neptune-equals-jupiter.md)
 - [Saturn/Neptune = Kronos](../activations/saturn-neptune-equals-kronos.md)
-- [Saturn/Neptune = Apollon](../activations/saturn-neptune-equals-apollon.md)
-- [Saturn/Neptune = Admetos](../activations/saturn-neptune-equals-admetos.md)
-- [Saturn/Neptune = Vulcanus](../activations/saturn-neptune-equals-vulcanus.md)
+- [Saturn/Neptune = Mars](../activations/saturn-neptune-equals-mars.md)
+- [Saturn/Neptune = MC](../activations/saturn-neptune-equals-mc.md)
+- [Saturn/Neptune = Mercury](../activations/saturn-neptune-equals-mercury.md)
+- [Saturn/Neptune = Moon](../activations/saturn-neptune-equals-moon.md)
+- [Saturn/Neptune = Node](../activations/saturn-neptune-equals-node.md)
+- [Saturn/Neptune = Pluto](../activations/saturn-neptune-equals-pluto.md)
 - [Saturn/Neptune = Poseidon](../activations/saturn-neptune-equals-poseidon.md)
+- [Saturn/Neptune = Sun](../activations/saturn-neptune-equals-sun.md)
+- [Saturn/Neptune = Uranus](../activations/saturn-neptune-equals-uranus.md)
+- [Saturn/Neptune = Venus](../activations/saturn-neptune-equals-venus.md)
+- [Saturn/Neptune = Vernal Point](../activations/saturn-neptune-equals-vernal-point.md)
+- [Saturn/Neptune = Vulcanus](../activations/saturn-neptune-equals-vulcanus.md)
+- [Saturn/Neptune = Zeus](../activations/saturn-neptune-equals-zeus.md)
 
 ## Contradictions
 
@@ -219,6 +272,9 @@ Diseases which are difficult to diagnose or of a long lasting nature; weakens th
 - [Saturn](../factors/saturn.md)
 - [Neptune](../factors/neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

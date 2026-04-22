@@ -11,28 +11,27 @@ normalized_axis: Neptune/Node
 factor_a: Neptune
 factor_b: Node
 related_activations:
-  - Neptune/Node = Aries
-  - Neptune/Node = MC
+  - Neptune/Node = Admetos
+  - Neptune/Node = Apollon
   - Neptune/Node = Asc
-  - Neptune/Node = Sun
-  - Neptune/Node = Moon
-  - Neptune/Node = Mercury
-  - Neptune/Node = Venus
-  - Neptune/Node = Mars
-  - Neptune/Node = Jupiter
-  - Neptune/Node = Saturn
-  - Neptune/Node = Uranus
-  - Neptune/Node = Pluto
   - Neptune/Node = Cupido
   - Neptune/Node = Hades
-  - Neptune/Node = Zeus
+  - Neptune/Node = Jupiter
   - Neptune/Node = Kronos
-  - Neptune/Node = Apollon
-  - Neptune/Node = Admetos
-  - Neptune/Node = Vulcanus
+  - Neptune/Node = Mars
+  - Neptune/Node = MC
+  - Neptune/Node = Mercury
+  - Neptune/Node = Moon
+  - Neptune/Node = Pluto
   - Neptune/Node = Poseidon
+  - Neptune/Node = Saturn
+  - Neptune/Node = Sun
+  - Neptune/Node = Uranus
+  - Neptune/Node = Venus
+  - Neptune/Node = Vernal Point
+  - Neptune/Node = Vulcanus
+  - Neptune/Node = Zeus
 related_triad_hubs:
-  - Aries Neptune Node
   - Jupiter Neptune Node
   - Mars Neptune Node
   - Mercury Neptune Node
@@ -52,10 +51,14 @@ related_triad_hubs:
   - Sun Neptune Node
   - Uranus Neptune Node
   - Venus Neptune Node
+  - Vernal Point Neptune Node
 aliases:
   - Node/Neptune
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -70,12 +73,59 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Neptune`
-- Source page: `147`
+- Source heading: `Neptune/Dragon's Head`
+- Source page: `283`
 
 #### Pair Summary
 
 Dissolution of unions. Secret relationships or contacts. Future connections. Sensitive or uncertain connection. Unreliable relationships. Connection to metaphysics. Connections to the unknown. Avoiding certain contacts.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Neptune/Dragon's Head`
+- Source page: `283`
+
+#### Principle
+
+Lack of community sense or team spirit.
+
+#### Psychological Correspondence
+
+■+■ Peculiar or strange conduct in communal life, occasional unreliability. - Lack of social or communal sense and feeling, inclination to exploit, deceive and cheat other people. C Antisocial behavior.
+
+#### Biological Correspondence
+
+Lack of tone or elasticity. Disturbed sleep, sleeplessness.
+
+#### Sociological Correspondence
+
+Antisocial elements.
+
+#### Probable Manifestations
+
++ Inclination to expect more than is possible from a community or an association of people. - Lack of judgement leading to wrong ideas about other people or an association. The misfortune of being disappointed or the tendency to deceive other people.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Neptune/Node midpoint`
+- Source page: `111`
+
+#### Principle
+
+Subtle and/or subliminal connections with people. An intuitive link with others. The need to use one’s imagination in the service of one’s evolution. Confusion resulting from one’s connections with others. The need to heal confusion by tuning in to one’s inner spiritual guidance and allowing its clarifying influence to affect one’s life.
+
+#### Process
+
+The progressive development of one’s intuitive abilities. The realization of deeper forces at work in one’s connections to other people. Deep intuitive insights into one’s past help one to overcome it. The allowing of one’s intuition to guide one toward those connections and experiences that one most needs.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Neptune/Nodes`
+- Source page: `212`
+
+#### Pair Delineation
+
+Confusing connections, connections whose nature is not clear, deceitful connections. Connections with others for idealistic, spiritual, or religious purposes. Connections that involve self-sacrifice.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -120,26 +170,26 @@ Use of drugs to isolate self from society; subjugating yourself to the influence
 
 ## Related Activations
 
-- [Neptune/Node = Aries](../activations/neptune-node-equals-aries.md)
-- [Neptune/Node = MC](../activations/neptune-node-equals-mc.md)
+- [Neptune/Node = Admetos](../activations/neptune-node-equals-admetos.md)
+- [Neptune/Node = Apollon](../activations/neptune-node-equals-apollon.md)
 - [Neptune/Node = Asc](../activations/neptune-node-equals-asc.md)
-- [Neptune/Node = Sun](../activations/neptune-node-equals-sun.md)
-- [Neptune/Node = Moon](../activations/neptune-node-equals-moon.md)
-- [Neptune/Node = Mercury](../activations/neptune-node-equals-mercury.md)
-- [Neptune/Node = Venus](../activations/neptune-node-equals-venus.md)
-- [Neptune/Node = Mars](../activations/neptune-node-equals-mars.md)
-- [Neptune/Node = Jupiter](../activations/neptune-node-equals-jupiter.md)
-- [Neptune/Node = Saturn](../activations/neptune-node-equals-saturn.md)
-- [Neptune/Node = Uranus](../activations/neptune-node-equals-uranus.md)
-- [Neptune/Node = Pluto](../activations/neptune-node-equals-pluto.md)
 - [Neptune/Node = Cupido](../activations/neptune-node-equals-cupido.md)
 - [Neptune/Node = Hades](../activations/neptune-node-equals-hades.md)
-- [Neptune/Node = Zeus](../activations/neptune-node-equals-zeus.md)
+- [Neptune/Node = Jupiter](../activations/neptune-node-equals-jupiter.md)
 - [Neptune/Node = Kronos](../activations/neptune-node-equals-kronos.md)
-- [Neptune/Node = Apollon](../activations/neptune-node-equals-apollon.md)
-- [Neptune/Node = Admetos](../activations/neptune-node-equals-admetos.md)
-- [Neptune/Node = Vulcanus](../activations/neptune-node-equals-vulcanus.md)
+- [Neptune/Node = Mars](../activations/neptune-node-equals-mars.md)
+- [Neptune/Node = MC](../activations/neptune-node-equals-mc.md)
+- [Neptune/Node = Mercury](../activations/neptune-node-equals-mercury.md)
+- [Neptune/Node = Moon](../activations/neptune-node-equals-moon.md)
+- [Neptune/Node = Pluto](../activations/neptune-node-equals-pluto.md)
 - [Neptune/Node = Poseidon](../activations/neptune-node-equals-poseidon.md)
+- [Neptune/Node = Saturn](../activations/neptune-node-equals-saturn.md)
+- [Neptune/Node = Sun](../activations/neptune-node-equals-sun.md)
+- [Neptune/Node = Uranus](../activations/neptune-node-equals-uranus.md)
+- [Neptune/Node = Venus](../activations/neptune-node-equals-venus.md)
+- [Neptune/Node = Vernal Point](../activations/neptune-node-equals-vernal-point.md)
+- [Neptune/Node = Vulcanus](../activations/neptune-node-equals-vulcanus.md)
+- [Neptune/Node = Zeus](../activations/neptune-node-equals-zeus.md)
 
 ## Contradictions
 
@@ -155,4 +205,7 @@ Use of drugs to isolate self from society; subjugating yourself to the influence
 - [Neptune](../factors/neptune.md)
 - [Node](../factors/node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

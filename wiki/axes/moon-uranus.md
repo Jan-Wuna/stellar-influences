@@ -11,28 +11,29 @@ normalized_axis: Moon/Uranus
 factor_a: Moon
 factor_b: Uranus
 related_activations:
-  - Moon/Uranus = Aries
-  - Moon/Uranus = MC
+  - Moon/Uranus = Admetos
+  - Moon/Uranus = Apollon
   - Moon/Uranus = Asc
-  - Moon/Uranus = Sun
-  - Moon/Uranus = Node
-  - Moon/Uranus = Mercury
-  - Moon/Uranus = Venus
-  - Moon/Uranus = Mars
-  - Moon/Uranus = Jupiter
-  - Moon/Uranus = Saturn
-  - Moon/Uranus = Neptune
-  - Moon/Uranus = Pluto
+  - Moon/Uranus = Chiron
   - Moon/Uranus = Cupido
   - Moon/Uranus = Hades
-  - Moon/Uranus = Zeus
+  - Moon/Uranus = Jupiter
   - Moon/Uranus = Kronos
-  - Moon/Uranus = Apollon
-  - Moon/Uranus = Admetos
-  - Moon/Uranus = Vulcanus
+  - Moon/Uranus = Mars
+  - Moon/Uranus = MC
+  - Moon/Uranus = Mercury
+  - Moon/Uranus = Neptune
+  - Moon/Uranus = Node
+  - Moon/Uranus = Pluto
   - Moon/Uranus = Poseidon
+  - Moon/Uranus = Saturn
+  - Moon/Uranus = Sun
+  - Moon/Uranus = Venus
+  - Moon/Uranus = Vernal Point
+  - Moon/Uranus = Vulcanus
+  - Moon/Uranus = Zeus
 related_triad_hubs:
-  - Aries Moon Uranus
+  - Moon Chiron Uranus
   - Moon Jupiter Uranus
   - Moon Mars Uranus
   - Moon Mercury Uranus
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Moon Uranus Zeus
   - Moon Venus Uranus
   - Sun Moon Uranus
+  - Vernal Point Moon Uranus
 aliases:
   - Uranus/Moon
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 Awake. Rouse. Excite. Vibrating motion. Interest. Attention. Restlessness of the body and the mind. Womens ambition. Energetic woman. Hour of tension. Eventful hour. Uproar of the populace. Excitement. Nervousness of female persons. Uproars caused by women. Excited persons and people.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Moon/Uranus`
+- Source page: `128`
+
+#### Principle
+
+Emotional tensions. Sudden manifestation of subconscious forces.
+
+#### Psychological Correspondence
+
++ Increased emotional excitability, attentiveness, ambition, tendency to act according to one's instincts, a strong self-will, tendency to strive tor a goal or objective, determination, an unconditional pursuit of one's own conviction, interest in the metaphysical sciences and realms (clairvoyance). - An excessive self-will, stubbornness, fanaticism, tendency to exaggerate or magnify things, inclination to strain the nerves, striving for absolute independence, unrest or restlessness, craving of sensation. C An over-strained emotional life, peculiar interests, intellectual talents, individualism.
+
+#### Biological Correspondence
+
+The rhythm of the water economy in the blood, blood pressure disturbances, colic of the water-excreting organs (prostate diseases). Connections with the female period.
+
+#### Sociological Correspondence
+
+Restless, nervous or ambitious women, female reformists.
+
+#### Probable Manifestations
+
++ Sacrifices for the attainment of special aims, help and assistance through friends, attainment of sudden success, accomplishment of a change in one's circumstances. - Tendency to overdo things either in work or in the pursuit of objectives strains the nervous system. States of fear and anxiety. 23 Schizophrenic symptoms have been found at times, but one should be careful not to diagnose schizophrenia in the case of every Moon -Uranus aspect. If such a tendency is found there are usually additional factors which are inherited. Moon/Uranus D/W
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -127,6 +157,28 @@ Though there is generally one interest above all others in the life, it seems th
 - The Conjunction: Lindberg, Swedenborg, Clemenceau, Duke of York, Gustav Stresemann (German Statesmen)
 - Inharmonious: P.B. Marston, S.T. Coleridge, Oscar Wilde, Joseph Smith (Mormon), Czar Nicholas, Mrs. Annie Besant, Adeline Patti, Kaiser William II, W.J. Bryan, Rider Haggard.
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Moon/Uranus midpoint`
+- Source page: `33`
+
+#### Principle
+
+Sudden changes of feeling, occurring because of the person needing to clear the emotional body. Odd, unusual, strange emotional states and/or unexpected reac tions to experiences. The ability to perceive things that others do not perceive. Upsets with one’s security. One finds security through freedom. The emotional need for inde pendence and to be able to pursue one’s own unique goals.
+
+#### Process
+
+The ability to perceive one’s own independent emotions as being separate from the feelings of others. Freely sharing one’s feelings. Liberation from attachments that are no longer needed.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Moon/Uranus`
+- Source page: `203`
+
+#### Pair Delineation
+
+Emotional need for freedom. Need for unusual emotional experiences. Sudden actions dictated by feeling, outbursts of emotion. Disruptions of old patterns of living, breaks with the past, disruptions in nurture.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MOON/URANUS`
@@ -170,26 +222,27 @@ Stomach spasms; extremes of eyesight (good or bad); changes in the body’s acid
 
 ## Related Activations
 
-- [Moon/Uranus = Aries](../activations/moon-uranus-equals-aries.md)
-- [Moon/Uranus = MC](../activations/moon-uranus-equals-mc.md)
+- [Moon/Uranus = Admetos](../activations/moon-uranus-equals-admetos.md)
+- [Moon/Uranus = Apollon](../activations/moon-uranus-equals-apollon.md)
 - [Moon/Uranus = Asc](../activations/moon-uranus-equals-asc.md)
-- [Moon/Uranus = Sun](../activations/moon-uranus-equals-sun.md)
-- [Moon/Uranus = Node](../activations/moon-uranus-equals-node.md)
-- [Moon/Uranus = Mercury](../activations/moon-uranus-equals-mercury.md)
-- [Moon/Uranus = Venus](../activations/moon-uranus-equals-venus.md)
-- [Moon/Uranus = Mars](../activations/moon-uranus-equals-mars.md)
-- [Moon/Uranus = Jupiter](../activations/moon-uranus-equals-jupiter.md)
-- [Moon/Uranus = Saturn](../activations/moon-uranus-equals-saturn.md)
-- [Moon/Uranus = Neptune](../activations/moon-uranus-equals-neptune.md)
-- [Moon/Uranus = Pluto](../activations/moon-uranus-equals-pluto.md)
+- [Moon/Uranus = Chiron](../activations/moon-uranus-equals-chiron.md)
 - [Moon/Uranus = Cupido](../activations/moon-uranus-equals-cupido.md)
 - [Moon/Uranus = Hades](../activations/moon-uranus-equals-hades.md)
-- [Moon/Uranus = Zeus](../activations/moon-uranus-equals-zeus.md)
+- [Moon/Uranus = Jupiter](../activations/moon-uranus-equals-jupiter.md)
 - [Moon/Uranus = Kronos](../activations/moon-uranus-equals-kronos.md)
-- [Moon/Uranus = Apollon](../activations/moon-uranus-equals-apollon.md)
-- [Moon/Uranus = Admetos](../activations/moon-uranus-equals-admetos.md)
-- [Moon/Uranus = Vulcanus](../activations/moon-uranus-equals-vulcanus.md)
+- [Moon/Uranus = Mars](../activations/moon-uranus-equals-mars.md)
+- [Moon/Uranus = MC](../activations/moon-uranus-equals-mc.md)
+- [Moon/Uranus = Mercury](../activations/moon-uranus-equals-mercury.md)
+- [Moon/Uranus = Neptune](../activations/moon-uranus-equals-neptune.md)
+- [Moon/Uranus = Node](../activations/moon-uranus-equals-node.md)
+- [Moon/Uranus = Pluto](../activations/moon-uranus-equals-pluto.md)
 - [Moon/Uranus = Poseidon](../activations/moon-uranus-equals-poseidon.md)
+- [Moon/Uranus = Saturn](../activations/moon-uranus-equals-saturn.md)
+- [Moon/Uranus = Sun](../activations/moon-uranus-equals-sun.md)
+- [Moon/Uranus = Venus](../activations/moon-uranus-equals-venus.md)
+- [Moon/Uranus = Vernal Point](../activations/moon-uranus-equals-vernal-point.md)
+- [Moon/Uranus = Vulcanus](../activations/moon-uranus-equals-vulcanus.md)
+- [Moon/Uranus = Zeus](../activations/moon-uranus-equals-zeus.md)
 
 ## Contradictions
 
@@ -205,6 +258,9 @@ Stomach spasms; extremes of eyesight (good or bad); changes in the body’s acid
 - [Moon](../factors/moon.md)
 - [Uranus](../factors/uranus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

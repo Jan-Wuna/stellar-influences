@@ -11,7 +11,7 @@ normalized_axis: Moon/Poseidon
 factor_a: Moon
 factor_b: Poseidon
 related_activations:
-  - Moon/Poseidon = Aries
+  - Moon/Poseidon = Vernal Point
   - Moon/Poseidon = MC
   - Moon/Poseidon = Asc
   - Moon/Poseidon = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Moon/Poseidon = Admetos
   - Moon/Poseidon = Vulcanus
 related_triad_hubs:
-  - Aries Moon Poseidon
   - Moon Admetos Poseidon
   - Moon Apollon Poseidon
   - Moon Asc Poseidon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Moon Vulcanus Poseidon
   - Moon Zeus Poseidon
   - Sun Moon Poseidon
+  - Vernal Point Moon Poseidon
 aliases:
   - Poseidon/Moon
 source_pages:
@@ -85,7 +85,7 @@ The influence of the spirit upon the soul. A people that is receptive to spiritu
 
 ## Related Activations
 
-- [Moon/Poseidon = Aries](../activations/moon-poseidon-equals-aries.md)
+- [Moon/Poseidon = Vernal Point](../activations/moon-poseidon-equals-vernal-point.md)
 - [Moon/Poseidon = MC](../activations/moon-poseidon-equals-mc.md)
 - [Moon/Poseidon = Asc](../activations/moon-poseidon-equals-asc.md)
 - [Moon/Poseidon = Sun](../activations/moon-poseidon-equals-sun.md)

@@ -11,7 +11,7 @@ normalized_axis: Uranus/Uranus
 factor_a: Uranus
 factor_b: Uranus
 related_activations:
-  - Uranus/Uranus = Aries
+  - Uranus/Uranus = Vernal Point
   - Uranus/Uranus = MC
   - Uranus/Uranus = Asc
   - Uranus/Uranus = Sun
@@ -67,7 +67,7 @@ Suddenness. Surprising, Unexpected. Unforeseen tensions. Events. Excitement. Ner
 
 ## Related Activations
 
-- [Uranus/Uranus = Aries](../activations/uranus-uranus-equals-aries.md)
+- [Uranus/Uranus = Vernal Point](../activations/uranus-uranus-equals-vernal-point.md)
 - [Uranus/Uranus = MC](../activations/uranus-uranus-equals-mc.md)
 - [Uranus/Uranus = Asc](../activations/uranus-uranus-equals-asc.md)
 - [Uranus/Uranus = Sun](../activations/uranus-uranus-equals-sun.md)

@@ -11,28 +11,29 @@ normalized_axis: Uranus/Node
 factor_a: Uranus
 factor_b: Node
 related_activations:
-  - Uranus/Node = Aries
-  - Uranus/Node = MC
+  - Uranus/Node = Admetos
+  - Uranus/Node = Apollon
   - Uranus/Node = Asc
-  - Uranus/Node = Sun
-  - Uranus/Node = Moon
-  - Uranus/Node = Mercury
-  - Uranus/Node = Venus
-  - Uranus/Node = Mars
-  - Uranus/Node = Jupiter
-  - Uranus/Node = Saturn
-  - Uranus/Node = Neptune
-  - Uranus/Node = Pluto
+  - Uranus/Node = Chiron
   - Uranus/Node = Cupido
   - Uranus/Node = Hades
-  - Uranus/Node = Zeus
+  - Uranus/Node = Jupiter
   - Uranus/Node = Kronos
-  - Uranus/Node = Apollon
-  - Uranus/Node = Admetos
-  - Uranus/Node = Vulcanus
+  - Uranus/Node = Mars
+  - Uranus/Node = MC
+  - Uranus/Node = Mercury
+  - Uranus/Node = Moon
+  - Uranus/Node = Neptune
+  - Uranus/Node = Pluto
   - Uranus/Node = Poseidon
+  - Uranus/Node = Saturn
+  - Uranus/Node = Sun
+  - Uranus/Node = Venus
+  - Uranus/Node = Vernal Point
+  - Uranus/Node = Vulcanus
+  - Uranus/Node = Zeus
 related_triad_hubs:
-  - Aries Uranus Node
+  - Chiron Uranus Node
   - Jupiter Uranus Node
   - Mars Uranus Node
   - Mercury Uranus Node
@@ -52,10 +53,14 @@ related_triad_hubs:
   - Uranus Node Zeus
   - Uranus Pluto Node
   - Venus Uranus Node
+  - Vernal Point Uranus Node
 aliases:
   - Node/Uranus
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -70,12 +75,59 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Uranus`
-- Source page: `146`
+- Source heading: `Uranus/Dragon's Head`
+- Source page: `271`
 
 #### Pair Summary
 
 Sudden events. Exciting connections. Sudden union, connections, encounters or contacts. Unconventional connections. Technical connections, e.g. network nodes, electrical or electronic connectors.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Uranus/Dragon's Head`
+- Source page: `271`
+
+#### Principle
+
+Experiences in life shared with others.
+
+#### Psychological Correspondence
+
++ A lively and active manner in the company of others, desire to share new experiences in life with others, searching for change and variety. - A restless disposition, nervous irritability in the presence of other persons. C A disquieting and upsetting time when living with others, a family quarrel.
+
+#### Biological Correspondence
+
+Disquieting or disturbing dreams. (The rhythm of the astral body.) The inner vision of memory. The dream life. Illnesses which occur at regular intervals (e.g., weather susceptibility).
+
+#### Sociological Correspondence
+
+Restless work associations, a political association advocating reforms, industrial or technological teamwork. An excited family.
+
+#### Probable Manifestations
+
++ Sudden acquaintanceships, the commencement of associations, sharing life experiences with others. - Sudden incidents in communal life, experiencing upsets with other persons. Uranus/Dragon's Head W/Q
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Uranus/Node midpoint`
+- Source page: `106`
+
+#### Principle
+
+To connect with others freely. Sudden contacts, or sudden changes in one’s connections. The growth of one’s individuality through become more deeply aware of and in tune with one’s own unique nature. To free oneself of the past. The ability to per ceive with ever increasing clarity one’s own individual needs.
+
+#### Process
+
+The testing of the limits of one’s connections, and the bringing of greater freedom and openness to them. The forming and dissolving of connections at will, or as needed.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Uranus/Nodes`
+- Source page: `211`
+
+#### Pair Delineation
+
+Unusual kinds of connections, connections with unusual people. Unstable or unreliable connections, connections that are formed and broken with equal suddenness.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -120,26 +172,27 @@ Sudden onset of complications due to stress in life; deafness as you close out a
 
 ## Related Activations
 
-- [Uranus/Node = Aries](../activations/uranus-node-equals-aries.md)
-- [Uranus/Node = MC](../activations/uranus-node-equals-mc.md)
+- [Uranus/Node = Admetos](../activations/uranus-node-equals-admetos.md)
+- [Uranus/Node = Apollon](../activations/uranus-node-equals-apollon.md)
 - [Uranus/Node = Asc](../activations/uranus-node-equals-asc.md)
-- [Uranus/Node = Sun](../activations/uranus-node-equals-sun.md)
-- [Uranus/Node = Moon](../activations/uranus-node-equals-moon.md)
-- [Uranus/Node = Mercury](../activations/uranus-node-equals-mercury.md)
-- [Uranus/Node = Venus](../activations/uranus-node-equals-venus.md)
-- [Uranus/Node = Mars](../activations/uranus-node-equals-mars.md)
-- [Uranus/Node = Jupiter](../activations/uranus-node-equals-jupiter.md)
-- [Uranus/Node = Saturn](../activations/uranus-node-equals-saturn.md)
-- [Uranus/Node = Neptune](../activations/uranus-node-equals-neptune.md)
-- [Uranus/Node = Pluto](../activations/uranus-node-equals-pluto.md)
+- [Uranus/Node = Chiron](../activations/uranus-node-equals-chiron.md)
 - [Uranus/Node = Cupido](../activations/uranus-node-equals-cupido.md)
 - [Uranus/Node = Hades](../activations/uranus-node-equals-hades.md)
-- [Uranus/Node = Zeus](../activations/uranus-node-equals-zeus.md)
+- [Uranus/Node = Jupiter](../activations/uranus-node-equals-jupiter.md)
 - [Uranus/Node = Kronos](../activations/uranus-node-equals-kronos.md)
-- [Uranus/Node = Apollon](../activations/uranus-node-equals-apollon.md)
-- [Uranus/Node = Admetos](../activations/uranus-node-equals-admetos.md)
-- [Uranus/Node = Vulcanus](../activations/uranus-node-equals-vulcanus.md)
+- [Uranus/Node = Mars](../activations/uranus-node-equals-mars.md)
+- [Uranus/Node = MC](../activations/uranus-node-equals-mc.md)
+- [Uranus/Node = Mercury](../activations/uranus-node-equals-mercury.md)
+- [Uranus/Node = Moon](../activations/uranus-node-equals-moon.md)
+- [Uranus/Node = Neptune](../activations/uranus-node-equals-neptune.md)
+- [Uranus/Node = Pluto](../activations/uranus-node-equals-pluto.md)
 - [Uranus/Node = Poseidon](../activations/uranus-node-equals-poseidon.md)
+- [Uranus/Node = Saturn](../activations/uranus-node-equals-saturn.md)
+- [Uranus/Node = Sun](../activations/uranus-node-equals-sun.md)
+- [Uranus/Node = Venus](../activations/uranus-node-equals-venus.md)
+- [Uranus/Node = Vernal Point](../activations/uranus-node-equals-vernal-point.md)
+- [Uranus/Node = Vulcanus](../activations/uranus-node-equals-vulcanus.md)
+- [Uranus/Node = Zeus](../activations/uranus-node-equals-zeus.md)
 
 ## Contradictions
 
@@ -155,4 +208,7 @@ Sudden onset of complications due to stress in life; deafness as you close out a
 - [Uranus](../factors/uranus.md)
 - [Node](../factors/node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

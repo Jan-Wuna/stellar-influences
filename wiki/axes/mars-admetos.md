@@ -11,7 +11,7 @@ normalized_axis: Mars/Admetos
 factor_a: Mars
 factor_b: Admetos
 related_activations:
-  - Mars/Admetos = Aries
+  - Mars/Admetos = Vernal Point
   - Mars/Admetos = MC
   - Mars/Admetos = Asc
   - Mars/Admetos = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Mars/Admetos = Vulcanus
   - Mars/Admetos = Poseidon
 related_triad_hubs:
-  - Aries Mars Admetos
   - Mars Admetos Poseidon
   - Mars Admetos Vulcanus
   - Mars Apollon Admetos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Moon Mars Admetos
   - Sun Mars Admetos
   - Venus Mars Admetos
+  - Vernal Point Mars Admetos
 aliases:
   - Admetos/Mars
 source_pages:
@@ -85,7 +85,7 @@ Specialism. Special work. The sinking trend of the market. The decrease of work.
 
 ## Related Activations
 
-- [Mars/Admetos = Aries](../activations/mars-admetos-equals-aries.md)
+- [Mars/Admetos = Vernal Point](../activations/mars-admetos-equals-vernal-point.md)
 - [Mars/Admetos = MC](../activations/mars-admetos-equals-mc.md)
 - [Mars/Admetos = Asc](../activations/mars-admetos-equals-asc.md)
 - [Mars/Admetos = Sun](../activations/mars-admetos-equals-sun.md)

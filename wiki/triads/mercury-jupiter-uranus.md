@@ -3,7 +3,7 @@ title: Mercury Jupiter Uranus
 page_type: triad_hub
 slug: mercury-jupiter-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Jupiter
@@ -19,7 +19,9 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -31,18 +33,19 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Uranus = Mercury](../activations/jupiter-uranus-equals-mercury.md)
-  Source page `208`
 - [Mercury/Jupiter = Uranus](../activations/mercury-jupiter-equals-uranus.md)
-  Source page `161`
 - [Mercury/Uranus = Jupiter](../activations/mercury-uranus-equals-jupiter.md)
-  Source page `163`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Uranus = Mercury`: page `208`
-- `Mercury/Jupiter = Uranus`: page `161`
-- `Mercury/Uranus = Jupiter`: page `163`
+- `Jupiter/Uranus = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `208`
+- `Jupiter/Uranus = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `229`
+- `Jupiter/Uranus = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `80`
+- `Mercury/Jupiter = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `161`
+- `Mercury/Jupiter = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `44`
+- `Mercury/Uranus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `163`
+- `Mercury/Uranus = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `158`
+- `Mercury/Uranus = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `47`
 
 ## Contradictions Across Orientations
 
@@ -54,3 +57,6 @@ updated_at: 2026-04-21
 - [Mercury](../factors/mercury.md)
 - [Jupiter](../factors/jupiter.md)
 - [Uranus](../factors/uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

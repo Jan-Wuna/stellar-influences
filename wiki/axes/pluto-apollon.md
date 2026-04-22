@@ -11,7 +11,7 @@ normalized_axis: Pluto/Apollon
 factor_a: Pluto
 factor_b: Apollon
 related_activations:
-  - Pluto/Apollon = Aries
+  - Pluto/Apollon = Vernal Point
   - Pluto/Apollon = MC
   - Pluto/Apollon = Asc
   - Pluto/Apollon = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Pluto/Apollon = Vulcanus
   - Pluto/Apollon = Poseidon
 related_triad_hubs:
-  - Aries Pluto Apollon
   - Jupiter Pluto Apollon
   - Mars Pluto Apollon
   - Mercury Pluto Apollon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Pluto Apollon
   - Uranus Pluto Apollon
   - Venus Pluto Apollon
+  - Vernal Point Pluto Apollon
 aliases:
   - Apollon/Pluto
 source_pages:
@@ -85,7 +85,7 @@ From a small staff to great importance. Occurrences with great consequences. Bus
 
 ## Related Activations
 
-- [Pluto/Apollon = Aries](../activations/pluto-apollon-equals-aries.md)
+- [Pluto/Apollon = Vernal Point](../activations/pluto-apollon-equals-vernal-point.md)
 - [Pluto/Apollon = MC](../activations/pluto-apollon-equals-mc.md)
 - [Pluto/Apollon = Asc](../activations/pluto-apollon-equals-asc.md)
 - [Pluto/Apollon = Sun](../activations/pluto-apollon-equals-sun.md)

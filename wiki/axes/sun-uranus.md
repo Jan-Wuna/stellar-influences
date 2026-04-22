@@ -11,28 +11,29 @@ normalized_axis: Sun/Uranus
 factor_a: Sun
 factor_b: Uranus
 related_activations:
-  - Sun/Uranus = Aries
-  - Sun/Uranus = MC
+  - Sun/Uranus = Admetos
+  - Sun/Uranus = Apollon
   - Sun/Uranus = Asc
-  - Sun/Uranus = Moon
-  - Sun/Uranus = Node
-  - Sun/Uranus = Mercury
-  - Sun/Uranus = Venus
-  - Sun/Uranus = Mars
-  - Sun/Uranus = Jupiter
-  - Sun/Uranus = Saturn
-  - Sun/Uranus = Neptune
-  - Sun/Uranus = Pluto
+  - Sun/Uranus = Chiron
   - Sun/Uranus = Cupido
   - Sun/Uranus = Hades
-  - Sun/Uranus = Zeus
+  - Sun/Uranus = Jupiter
   - Sun/Uranus = Kronos
-  - Sun/Uranus = Apollon
-  - Sun/Uranus = Admetos
-  - Sun/Uranus = Vulcanus
+  - Sun/Uranus = Mars
+  - Sun/Uranus = MC
+  - Sun/Uranus = Mercury
+  - Sun/Uranus = Moon
+  - Sun/Uranus = Neptune
+  - Sun/Uranus = Node
+  - Sun/Uranus = Pluto
   - Sun/Uranus = Poseidon
+  - Sun/Uranus = Saturn
+  - Sun/Uranus = Venus
+  - Sun/Uranus = Vernal Point
+  - Sun/Uranus = Vulcanus
+  - Sun/Uranus = Zeus
 related_triad_hubs:
-  - Aries Sun Uranus
+  - Sun Chiron Uranus
   - Sun Jupiter Uranus
   - Sun Mars Uranus
   - Sun Mercury Uranus
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Sun Uranus Vulcanus
   - Sun Uranus Zeus
   - Sun Venus Uranus
+  - Vernal Point Sun Uranus
 aliases:
   - Uranus/Sun
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 Tension of the body. Nervousness. Sudden physically exciting events. Apoplexy. Accidents. Condition of the nerves. Accidents of the body. Sudden body reaction. The physical restlessness. Accidents or excitements on the day. (In the solar cycle: a nervous period.)
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Sun/Uranus`
+- Source page: `95`
+
+#### Principle
+
+A revolutionary spirit, a progressive mind (as applied to reform and technology). Excitement or upset.
+
+#### Psychological Correspondence
+
++ Originality, consciousness of and concentration upon an objective or aim, a far-seeing mind, love of freedom, tendency to strive for reforms, mobility. - Self-will, caprice or obstinacy, contradictory nature, impatience, excitable physical makeup, a muddle-head, a troublemaker. C Strained or tense inner life, a person trying to carry through reforms in a self-willed manner.
+
+#### Biological Correspondence
+
+Rhythmic function of the cells and the body, pulse and breathing. Heart neurosis.
+
+#### Sociological Correspondence
+
+Innovator, reformer, inventor, technician, rebel.
+
+#### Probable Manifestations
+
++ A sudden turn in life, improvement of living conditions, a change of place or vocation, carrying out of innovations, reforms. - States of tension, sudden setbacks in life, upsetting experiences, sudden adjustment to new conditions or circumstances in life (found repeatedly in cases of military call-up and of imprisonment), connection with accidents or catastrophes. 8 Under Biological Correspondence it should be noted that Sun/Uranus combinations show a tendency to cardiac embolism if too little care is taken of the health. GW
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -137,6 +167,30 @@ It is not a criminal contact and appears to indicate peril to the emotional natu
 - The Conjunction: P.B. Shelley, Pasteur, Lewis Carroll, Lord Salisbury, Dr. Kleinschrod (nature cure practitioner), A. Conan Doyle
 - Inharmonious: Mussolini, Charles Dickens, Rudolf Valentino, Blackbourne (chess champion), Swedenborg, Rudolf Steiner, "Sepharial," Lenin, Edw. Lear.
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Sun/Uranus midpoint`
+- Source page: `17`
+
+#### Principle
+
+To realize the importance of one’s own individual uniqueness, and to find the self-confidence to express it. The sudden or unusual revealing of unexpected meaning in life, often through inspiration. A change of purpose or direction in life. The ability to see for oneself what is important apart from what other people think.
+
+#### Process
+
+The realization of one’s completeness as an original and utterly unique ex pression of the Spiritual Light. The discovery of meaning through inspiration. Chang ing one’s life direction so that it more fully reflects who one really is.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Sun/Uranus`
+- Source page: `201`
+
+#### Pair Delineation
+
+The desire for one's unique self-expression. Rebellion and eccentricity. The desire to become free of limitation and the restrictions of the past. Originality of self-expression. The unconventional
+
+and offbeat.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `SUN/URANUS`
@@ -180,26 +234,27 @@ Blood pressure abnormalities; bodily reactions to stress; shock or trauma; deafn
 
 ## Related Activations
 
-- [Sun/Uranus = Aries](../activations/sun-uranus-equals-aries.md)
-- [Sun/Uranus = MC](../activations/sun-uranus-equals-mc.md)
+- [Sun/Uranus = Admetos](../activations/sun-uranus-equals-admetos.md)
+- [Sun/Uranus = Apollon](../activations/sun-uranus-equals-apollon.md)
 - [Sun/Uranus = Asc](../activations/sun-uranus-equals-asc.md)
-- [Sun/Uranus = Moon](../activations/sun-uranus-equals-moon.md)
-- [Sun/Uranus = Node](../activations/sun-uranus-equals-node.md)
-- [Sun/Uranus = Mercury](../activations/sun-uranus-equals-mercury.md)
-- [Sun/Uranus = Venus](../activations/sun-uranus-equals-venus.md)
-- [Sun/Uranus = Mars](../activations/sun-uranus-equals-mars.md)
-- [Sun/Uranus = Jupiter](../activations/sun-uranus-equals-jupiter.md)
-- [Sun/Uranus = Saturn](../activations/sun-uranus-equals-saturn.md)
-- [Sun/Uranus = Neptune](../activations/sun-uranus-equals-neptune.md)
-- [Sun/Uranus = Pluto](../activations/sun-uranus-equals-pluto.md)
+- [Sun/Uranus = Chiron](../activations/sun-uranus-equals-chiron.md)
 - [Sun/Uranus = Cupido](../activations/sun-uranus-equals-cupido.md)
 - [Sun/Uranus = Hades](../activations/sun-uranus-equals-hades.md)
-- [Sun/Uranus = Zeus](../activations/sun-uranus-equals-zeus.md)
+- [Sun/Uranus = Jupiter](../activations/sun-uranus-equals-jupiter.md)
 - [Sun/Uranus = Kronos](../activations/sun-uranus-equals-kronos.md)
-- [Sun/Uranus = Apollon](../activations/sun-uranus-equals-apollon.md)
-- [Sun/Uranus = Admetos](../activations/sun-uranus-equals-admetos.md)
-- [Sun/Uranus = Vulcanus](../activations/sun-uranus-equals-vulcanus.md)
+- [Sun/Uranus = Mars](../activations/sun-uranus-equals-mars.md)
+- [Sun/Uranus = MC](../activations/sun-uranus-equals-mc.md)
+- [Sun/Uranus = Mercury](../activations/sun-uranus-equals-mercury.md)
+- [Sun/Uranus = Moon](../activations/sun-uranus-equals-moon.md)
+- [Sun/Uranus = Neptune](../activations/sun-uranus-equals-neptune.md)
+- [Sun/Uranus = Node](../activations/sun-uranus-equals-node.md)
+- [Sun/Uranus = Pluto](../activations/sun-uranus-equals-pluto.md)
 - [Sun/Uranus = Poseidon](../activations/sun-uranus-equals-poseidon.md)
+- [Sun/Uranus = Saturn](../activations/sun-uranus-equals-saturn.md)
+- [Sun/Uranus = Venus](../activations/sun-uranus-equals-venus.md)
+- [Sun/Uranus = Vernal Point](../activations/sun-uranus-equals-vernal-point.md)
+- [Sun/Uranus = Vulcanus](../activations/sun-uranus-equals-vulcanus.md)
+- [Sun/Uranus = Zeus](../activations/sun-uranus-equals-zeus.md)
 
 ## Contradictions
 
@@ -215,6 +270,9 @@ Blood pressure abnormalities; bodily reactions to stress; shock or trauma; deafn
 - [Sun](../factors/sun.md)
 - [Uranus](../factors/uranus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

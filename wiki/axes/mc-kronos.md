@@ -11,7 +11,7 @@ normalized_axis: MC/Kronos
 factor_a: MC
 factor_b: Kronos
 related_activations:
-  - MC/Kronos = Aries
+  - MC/Kronos = Vernal Point
   - MC/Kronos = Asc
   - MC/Kronos = Sun
   - MC/Kronos = Moon
@@ -32,7 +32,6 @@ related_activations:
   - MC/Kronos = Vulcanus
   - MC/Kronos = Poseidon
 related_triad_hubs:
-  - Aries MC Kronos
   - Asc MC Kronos
   - Jupiter MC Kronos
   - Mars MC Kronos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun MC Kronos
   - Uranus MC Kronos
   - Venus MC Kronos
+  - Vernal Point MC Kronos
 aliases:
   - Kronos/MC
 source_pages:
@@ -85,7 +85,7 @@ To be independent or outstanding in profession. To direct and accomplish somethi
 
 ## Related Activations
 
-- [MC/Kronos = Aries](../activations/mc-kronos-equals-aries.md)
+- [MC/Kronos = Vernal Point](../activations/mc-kronos-equals-vernal-point.md)
 - [MC/Kronos = Asc](../activations/mc-kronos-equals-asc.md)
 - [MC/Kronos = Sun](../activations/mc-kronos-equals-sun.md)
 - [MC/Kronos = Moon](../activations/mc-kronos-equals-moon.md)

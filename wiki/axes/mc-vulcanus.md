@@ -11,7 +11,7 @@ normalized_axis: MC/Vulcanus
 factor_a: MC
 factor_b: Vulcanus
 related_activations:
-  - MC/Vulcanus = Aries
+  - MC/Vulcanus = Vernal Point
   - MC/Vulcanus = Asc
   - MC/Vulcanus = Sun
   - MC/Vulcanus = Moon
@@ -32,7 +32,6 @@ related_activations:
   - MC/Vulcanus = Admetos
   - MC/Vulcanus = Poseidon
 related_triad_hubs:
-  - Aries MC Vulcanus
   - Asc MC Vulcanus
   - Jupiter MC Vulcanus
   - Mars MC Vulcanus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun MC Vulcanus
   - Uranus MC Vulcanus
   - Venus MC Vulcanus
+  - Vernal Point MC Vulcanus
 aliases:
   - Vulcanus/MC
 source_pages:
@@ -85,7 +85,7 @@ One’s personal power, might and authority. Emotional attitude to high power. T
 
 ## Related Activations
 
-- [MC/Vulcanus = Aries](../activations/mc-vulcanus-equals-aries.md)
+- [MC/Vulcanus = Vernal Point](../activations/mc-vulcanus-equals-vernal-point.md)
 - [MC/Vulcanus = Asc](../activations/mc-vulcanus-equals-asc.md)
 - [MC/Vulcanus = Sun](../activations/mc-vulcanus-equals-sun.md)
 - [MC/Vulcanus = Moon](../activations/mc-vulcanus-equals-moon.md)

@@ -11,28 +11,29 @@ normalized_axis: Jupiter/Neptune
 factor_a: Jupiter
 factor_b: Neptune
 related_activations:
-  - Jupiter/Neptune = Aries
-  - Jupiter/Neptune = MC
+  - Jupiter/Neptune = Admetos
+  - Jupiter/Neptune = Apollon
   - Jupiter/Neptune = Asc
-  - Jupiter/Neptune = Sun
-  - Jupiter/Neptune = Moon
-  - Jupiter/Neptune = Node
-  - Jupiter/Neptune = Mercury
-  - Jupiter/Neptune = Venus
-  - Jupiter/Neptune = Mars
-  - Jupiter/Neptune = Saturn
-  - Jupiter/Neptune = Uranus
-  - Jupiter/Neptune = Pluto
+  - Jupiter/Neptune = Chiron
   - Jupiter/Neptune = Cupido
   - Jupiter/Neptune = Hades
-  - Jupiter/Neptune = Zeus
   - Jupiter/Neptune = Kronos
-  - Jupiter/Neptune = Apollon
-  - Jupiter/Neptune = Admetos
-  - Jupiter/Neptune = Vulcanus
+  - Jupiter/Neptune = Mars
+  - Jupiter/Neptune = MC
+  - Jupiter/Neptune = Mercury
+  - Jupiter/Neptune = Moon
+  - Jupiter/Neptune = Node
+  - Jupiter/Neptune = Pluto
   - Jupiter/Neptune = Poseidon
+  - Jupiter/Neptune = Saturn
+  - Jupiter/Neptune = Sun
+  - Jupiter/Neptune = Uranus
+  - Jupiter/Neptune = Venus
+  - Jupiter/Neptune = Vernal Point
+  - Jupiter/Neptune = Vulcanus
+  - Jupiter/Neptune = Zeus
 related_triad_hubs:
-  - Aries Jupiter Neptune
+  - Jupiter Chiron Neptune
   - Jupiter Neptune Admetos
   - Jupiter Neptune Apollon
   - Jupiter Neptune Asc
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Moon Jupiter Neptune
   - Sun Jupiter Neptune
   - Venus Jupiter Neptune
+  - Vernal Point Jupiter Neptune
 aliases:
   - Neptune/Jupiter
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 Lucky mood. Easily acquired money. Shortage of money. Money losses. Easily made money. Imagined happiness. Uncertain possession. Speculations. Financial transactions. The future life.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Jupiter/Neptune`
+- Source page: `231`
+
+#### Principle
+
+Apparent happiness, speculation.
+
+#### Psychological Correspondence
+
++ Abundance or richness of feeling or emotional expression, active and intense imagination, idealism, enjoyment of molding or shaping things, art, music, interest in metaphysical and religious problems, great love of humanity. Ability to give love to those in need of it, instability in material things, generosity overdone. - Impressionable, a person easily seduced, dreaminess, conflict between the ideal visualized and the very different reality, inclination to revel or idolize, a person constantly misunderstood by others, inclination to speculation and wastefulness. C Love of humanity, idealism, mysticism, interest in art.
+
+#### Biological Correspondence
+
+General lack of tone in bodily organs, atrophy, excessive increase of water in the blood (haemolysis). The wrong diagnosis.
+
+#### Sociological Correspondence
+
+Visionaries, dreamers, mystics, hypocrites, speculators.
+
+#### Probable Manifestations
+
++ Pursuit of idealistic inclinations, a merciful and compassionate nature, tendency to speculate, gain without effort. - Poor speculation, seduction, scandal which is caused through one's own instability, losses. (Political conflicts.) Jupiter/Neptune h/W
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -147,6 +177,28 @@ Probably owing to its liability to carelessness and inexactness it is sometimes 
 - The Conjunction: Duke of Windsor, Sir Humphrey Davy, Disraeli, Sir William Hamilton, Shelley, "General" Bramwell Booth.
 - Inharmonious: Wolsely, Prince Consort, Luther, Florence Maybrick, Dr. Berry, Sri Sumangala, Savonarola, Zola, Kaiser William II, A.P. Sinnett, Map of Australian Commonwealth, King George III, Sir Richard Burton, "An Adventuress," Maeterlinck, Swinburne, A. Conan Doyle, Isadora Duncan, General Rommel.
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Jupiter/Neptune midpoint`
+- Source page: `81`
+
+#### Principle
+
+Richness of imagination. Copious idealism. To help others abundantly and generously. To be unworried and/or unconcerned about material things, and hence the possibility of being wasteful. A person who is easily duped or taken advantage of. An excess of dreaming or fantasizing causes trouble. Enthusiasm over possibilities.
+
+#### Process
+
+The growth of one’s ability to be sympathetic and caring toward other people. The refining of one’s understanding.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Jupiter/Neptune`
+- Source page: `209`
+
+#### Pair Delineation
+
+Optimistic dreams and speculations, the tendency to gamble or take other risks. Idealism, concern with mystical and spiritual issues. Idealistic humanitarianism, the desire to work for the greater good with little thought of personal gain.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `JUPITER/NEPTUNE`
@@ -190,26 +242,27 @@ Fatty deposits in body caused by stress or weakness; not enough exercise or body
 
 ## Related Activations
 
-- [Jupiter/Neptune = Aries](../activations/jupiter-neptune-equals-aries.md)
-- [Jupiter/Neptune = MC](../activations/jupiter-neptune-equals-mc.md)
+- [Jupiter/Neptune = Admetos](../activations/jupiter-neptune-equals-admetos.md)
+- [Jupiter/Neptune = Apollon](../activations/jupiter-neptune-equals-apollon.md)
 - [Jupiter/Neptune = Asc](../activations/jupiter-neptune-equals-asc.md)
-- [Jupiter/Neptune = Sun](../activations/jupiter-neptune-equals-sun.md)
-- [Jupiter/Neptune = Moon](../activations/jupiter-neptune-equals-moon.md)
-- [Jupiter/Neptune = Node](../activations/jupiter-neptune-equals-node.md)
-- [Jupiter/Neptune = Mercury](../activations/jupiter-neptune-equals-mercury.md)
-- [Jupiter/Neptune = Venus](../activations/jupiter-neptune-equals-venus.md)
-- [Jupiter/Neptune = Mars](../activations/jupiter-neptune-equals-mars.md)
-- [Jupiter/Neptune = Saturn](../activations/jupiter-neptune-equals-saturn.md)
-- [Jupiter/Neptune = Uranus](../activations/jupiter-neptune-equals-uranus.md)
-- [Jupiter/Neptune = Pluto](../activations/jupiter-neptune-equals-pluto.md)
+- [Jupiter/Neptune = Chiron](../activations/jupiter-neptune-equals-chiron.md)
 - [Jupiter/Neptune = Cupido](../activations/jupiter-neptune-equals-cupido.md)
 - [Jupiter/Neptune = Hades](../activations/jupiter-neptune-equals-hades.md)
-- [Jupiter/Neptune = Zeus](../activations/jupiter-neptune-equals-zeus.md)
 - [Jupiter/Neptune = Kronos](../activations/jupiter-neptune-equals-kronos.md)
-- [Jupiter/Neptune = Apollon](../activations/jupiter-neptune-equals-apollon.md)
-- [Jupiter/Neptune = Admetos](../activations/jupiter-neptune-equals-admetos.md)
-- [Jupiter/Neptune = Vulcanus](../activations/jupiter-neptune-equals-vulcanus.md)
+- [Jupiter/Neptune = Mars](../activations/jupiter-neptune-equals-mars.md)
+- [Jupiter/Neptune = MC](../activations/jupiter-neptune-equals-mc.md)
+- [Jupiter/Neptune = Mercury](../activations/jupiter-neptune-equals-mercury.md)
+- [Jupiter/Neptune = Moon](../activations/jupiter-neptune-equals-moon.md)
+- [Jupiter/Neptune = Node](../activations/jupiter-neptune-equals-node.md)
+- [Jupiter/Neptune = Pluto](../activations/jupiter-neptune-equals-pluto.md)
 - [Jupiter/Neptune = Poseidon](../activations/jupiter-neptune-equals-poseidon.md)
+- [Jupiter/Neptune = Saturn](../activations/jupiter-neptune-equals-saturn.md)
+- [Jupiter/Neptune = Sun](../activations/jupiter-neptune-equals-sun.md)
+- [Jupiter/Neptune = Uranus](../activations/jupiter-neptune-equals-uranus.md)
+- [Jupiter/Neptune = Venus](../activations/jupiter-neptune-equals-venus.md)
+- [Jupiter/Neptune = Vernal Point](../activations/jupiter-neptune-equals-vernal-point.md)
+- [Jupiter/Neptune = Vulcanus](../activations/jupiter-neptune-equals-vulcanus.md)
+- [Jupiter/Neptune = Zeus](../activations/jupiter-neptune-equals-zeus.md)
 
 ## Contradictions
 
@@ -225,6 +278,9 @@ Fatty deposits in body caused by stress or weakness; not enough exercise or body
 - [Jupiter](../factors/jupiter.md)
 - [Neptune](../factors/neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

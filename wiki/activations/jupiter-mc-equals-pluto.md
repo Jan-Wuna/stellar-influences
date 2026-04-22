@@ -3,10 +3,10 @@ title: Jupiter/MC = Pluto
 page_type: activation
 slug: jupiter-mc-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Jupiter
+  - MC
   - Pluto
 normalized_formula: Jupiter/MC = Pluto
 axis: Jupiter/MC
@@ -15,10 +15,13 @@ triad_set:
   - Jupiter
   - Pluto
   - MC
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 To be delighted over growing happiness. To be happy about the way things are developing. Joy because of a lucky change.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Jupiter/Medium Coeli`
+- Source page: `245`
+- Entry: `0863`
+
+#### Ebertin Entry
+
+A successful person with extraordinary achievements. A great gain.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Jupiter/Midheaven midpoint`
+- Source page: `86`
+- Activator: `Pluto`
+
+#### Sandbach Entry
+
+A driving desire for success in one’s career. An extreme need to progress in one’s career, or to expand one’s expertise. Stress caused by taking on too much in one’s profession.
+
 ## Comparative Schema
 
-- core meaning: To be delighted over growing happiness. To be happy about the way things are developing. Joy because of a lucky change.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ To be delighted over growing happiness. To be happy about the way things are dev
 - [MC](../factors/mc.md)
 - [Pluto](../factors/pluto.md)
 - [Jupiter/MC](../axes/jupiter-mc.md)
+- [Jupiter Pluto MC](../triads/jupiter-pluto-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

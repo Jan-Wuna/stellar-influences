@@ -3,7 +3,7 @@ title: Mercury Jupiter Node
 page_type: triad_hub
 slug: mercury-jupiter-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Jupiter
@@ -19,7 +19,9 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -31,18 +33,19 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Jupiter/Node = Mercury](../activations/jupiter-node-equals-mercury.md)
-  Source page `144`
 - [Mercury/Jupiter = Node](../activations/mercury-jupiter-equals-node.md)
-  Source page `161`
 - [Mercury/Node = Jupiter](../activations/mercury-node-equals-jupiter.md)
-  Source page `141`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Node = Mercury`: page `144`
-- `Mercury/Jupiter = Node`: page `161`
-- `Mercury/Node = Jupiter`: page `141`
+- `Jupiter/Node = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `144`
+- `Jupiter/Node = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `238`
+- `Jupiter/Node = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `84`
+- `Mercury/Jupiter = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `161`
+- `Mercury/Jupiter = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `44`
+- `Mercury/Node = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `141`
+- `Mercury/Node = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `167`
+- `Mercury/Node = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `51`
 
 ## Contradictions Across Orientations
 
@@ -54,3 +57,6 @@ updated_at: 2026-04-21
 - [Mercury](../factors/mercury.md)
 - [Jupiter](../factors/jupiter.md)
 - [Node](../factors/node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

@@ -11,7 +11,7 @@ normalized_axis: Neptune/Admetos
 factor_a: Neptune
 factor_b: Admetos
 related_activations:
-  - Neptune/Admetos = Aries
+  - Neptune/Admetos = Vernal Point
   - Neptune/Admetos = MC
   - Neptune/Admetos = Asc
   - Neptune/Admetos = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Neptune/Admetos = Vulcanus
   - Neptune/Admetos = Poseidon
 related_triad_hubs:
-  - Aries Neptune Admetos
   - Jupiter Neptune Admetos
   - Mars Neptune Admetos
   - Mercury Neptune Admetos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Neptune Admetos
   - Uranus Neptune Admetos
   - Venus Neptune Admetos
+  - Vernal Point Neptune Admetos
 aliases:
   - Admetos/Neptune
 source_pages:
@@ -85,7 +85,7 @@ Narcotics. Poisons. Deadly poison or drinks. Decay, decline, shrinkage. Lack of 
 
 ## Related Activations
 
-- [Neptune/Admetos = Aries](../activations/neptune-admetos-equals-aries.md)
+- [Neptune/Admetos = Vernal Point](../activations/neptune-admetos-equals-vernal-point.md)
 - [Neptune/Admetos = MC](../activations/neptune-admetos-equals-mc.md)
 - [Neptune/Admetos = Asc](../activations/neptune-admetos-equals-asc.md)
 - [Neptune/Admetos = Sun](../activations/neptune-admetos-equals-sun.md)

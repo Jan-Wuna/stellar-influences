@@ -11,7 +11,7 @@ normalized_axis: Apollon/Apollon
 factor_a: Apollon
 factor_b: Apollon
 related_activations:
-  - Apollon/Apollon = Aries
+  - Apollon/Apollon = Vernal Point
   - Apollon/Apollon = MC
   - Apollon/Apollon = Asc
   - Apollon/Apollon = Sun
@@ -67,7 +67,7 @@ Commerce. Trade. Economy. Religion. Philosophy. Glory. Greatest success. Greates
 
 ## Related Activations
 
-- [Apollon/Apollon = Aries](../activations/apollon-apollon-equals-aries.md)
+- [Apollon/Apollon = Vernal Point](../activations/apollon-apollon-equals-vernal-point.md)
 - [Apollon/Apollon = MC](../activations/apollon-apollon-equals-mc.md)
 - [Apollon/Apollon = Asc](../activations/apollon-apollon-equals-asc.md)
 - [Apollon/Apollon = Sun](../activations/apollon-apollon-equals-sun.md)

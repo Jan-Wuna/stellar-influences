@@ -3,7 +3,7 @@ title: Uranus Neptune Asc
 page_type: triad_hub
 slug: uranus-neptune-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Neptune
@@ -19,7 +19,9 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -31,18 +33,20 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Neptune/Asc = Uranus](../activations/neptune-asc-equals-uranus.md)
-  Source page `89`
 - [Uranus/Asc = Neptune](../activations/uranus-asc-equals-neptune.md)
-  Source page `88`
 - [Uranus/Neptune = Asc](../activations/uranus-neptune-equals-asc.md)
-  Source page `234`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Neptune/Asc = Uranus`: page `89`
-- `Uranus/Asc = Neptune`: page `88`
-- `Uranus/Neptune = Asc`: page `234`
+- `Neptune/Asc = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `89`
+- `Neptune/Asc = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `287`
+- `Neptune/Asc = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `112`
+- `Uranus/Asc = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `88`
+- `Uranus/Asc = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `275`
+- `Uranus/Asc = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `107`
+- `Uranus/Neptune = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `234`
+- `Uranus/Neptune = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `267`
+- `Uranus/Neptune = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `104`
 
 ## Contradictions Across Orientations
 
@@ -54,3 +58,6 @@ updated_at: 2026-04-21
 - [Uranus](../factors/uranus.md)
 - [Neptune](../factors/neptune.md)
 - [Asc](../factors/asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

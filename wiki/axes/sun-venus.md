@@ -11,33 +11,34 @@ normalized_axis: Sun/Venus
 factor_a: Sun
 factor_b: Venus
 related_activations:
-  - Sun/Venus = Aries
-  - Sun/Venus = MC
+  - Sun/Venus = Admetos
+  - Sun/Venus = Apollon
   - Sun/Venus = Asc
-  - Sun/Venus = Moon
-  - Sun/Venus = Node
-  - Sun/Venus = Mercury
-  - Sun/Venus = Mars
-  - Sun/Venus = Jupiter
-  - Sun/Venus = Saturn
-  - Sun/Venus = Uranus
-  - Sun/Venus = Neptune
-  - Sun/Venus = Pluto
+  - Sun/Venus = Chiron
   - Sun/Venus = Cupido
   - Sun/Venus = Hades
-  - Sun/Venus = Zeus
+  - Sun/Venus = Jupiter
   - Sun/Venus = Kronos
-  - Sun/Venus = Apollon
-  - Sun/Venus = Admetos
-  - Sun/Venus = Vulcanus
+  - Sun/Venus = Mars
+  - Sun/Venus = MC
+  - Sun/Venus = Mercury
+  - Sun/Venus = Moon
+  - Sun/Venus = Neptune
+  - Sun/Venus = Node
+  - Sun/Venus = Pluto
   - Sun/Venus = Poseidon
+  - Sun/Venus = Saturn
+  - Sun/Venus = Uranus
+  - Sun/Venus = Vernal Point
+  - Sun/Venus = Vulcanus
+  - Sun/Venus = Zeus
 related_triad_hubs:
-  - Aries Sun Venus
   - Sun Mercury Venus
   - Sun Moon Venus
   - Sun Venus Admetos
   - Sun Venus Apollon
   - Sun Venus Asc
+  - Sun Venus Chiron
   - Sun Venus Cupido
   - Sun Venus Hades
   - Sun Venus Jupiter
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Sun Venus Uranus
   - Sun Venus Vulcanus
   - Sun Venus Zeus
+  - Vernal Point Sun Venus
 aliases:
   - Venus/Sun
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 Harmony. A peaceful day. Personal attraction. Magnetism. Beautiful body. The loving man. Hie time of love. The body’s capacity for love. (In the solar cycle: a peaceful period.)
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Sun/Venus`
+- Source page: `83`
+
+#### Principle
+
+Physical love, harmony, beauty, art, the ideał. Psychologica/ Correspondence + Feeling of love, power of attraction, popularity, artistic leanings, sense ofbeauty, music, nature. Strong potential ofexpression in the sphere of soul and love. Love of social life. • Uncontrolled love attachment, pleasure seeking, luxury; everything is done for the sake of extemal appearance and show without intrinsic or inner value. C Strength of feeling, artistic and aesthetic aspirations. Biologica/ Correspondence Glandular tissue, Graafs follicles (sphere-shaped vesicles in the ova• ries). Sociologica/ Correspondence The beloved man or woman, the artist. Probable Man/festations + Popularity, love union, potential for artistic development. • Detrimental consequences with regard to health caused by over-in• dulgence or too rich living. 0/9
+
+#### Psychological Correspondence
+
+- None extracted.
+
+#### Biological Correspondence
+
+- None extracted.
+
+#### Sociological Correspondence
+
+- None extracted.
+
+#### Probable Manifestations
+
+- None extracted.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -117,6 +147,28 @@ In the maps of rulers it seems to denote restless and disloyal subjects and unfo
 
 - The Conjunction: President Loubet, Hindenburg, Dr. Annie Besant, P.B. Shelley, A.J. Balfour, G.B. Shaw, Lord Leverhulme, Chopin, Domitian, Marie Antoinette.
 - Semi-Square: Lord Oxford (N.H. Asquith), Alfonso XIII, William of Orange, Czar Nicholas II, Adeline Patti, J.M. Barrie, William II of Germany.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Sun/Venus midpoint`
+- Source page: `10`
+
+#### Principle
+
+Love as a vitalizing and meaningful experience. Art. Aesthetics. Selflove both in the neurotic and healthy sense. One’s values as they relate to one’s long-term goals. To be egotistical about one’s own attractiveness and/or value.
+
+#### Process
+
+To see the enduring and ultimately meaningful worth that lies underneath all passing, temporary and surface attractions.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Sun/Venus`
+- Source page: `201`
+
+#### Pair Delineation
+
+The will to have relationships, love, or create. May relate to artistic creativity, if other factors support. Personal happiness and gratification, comfort, feeling good. For both men and women this point may contribute to what they expect of the opposite sex.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -161,26 +213,27 @@ Your attitude toward health and your body, in general; your thyroid’s ability 
 
 ## Related Activations
 
-- [Sun/Venus = Aries](../activations/sun-venus-equals-aries.md)
-- [Sun/Venus = MC](../activations/sun-venus-equals-mc.md)
+- [Sun/Venus = Admetos](../activations/sun-venus-equals-admetos.md)
+- [Sun/Venus = Apollon](../activations/sun-venus-equals-apollon.md)
 - [Sun/Venus = Asc](../activations/sun-venus-equals-asc.md)
-- [Sun/Venus = Moon](../activations/sun-venus-equals-moon.md)
-- [Sun/Venus = Node](../activations/sun-venus-equals-node.md)
-- [Sun/Venus = Mercury](../activations/sun-venus-equals-mercury.md)
-- [Sun/Venus = Mars](../activations/sun-venus-equals-mars.md)
-- [Sun/Venus = Jupiter](../activations/sun-venus-equals-jupiter.md)
-- [Sun/Venus = Saturn](../activations/sun-venus-equals-saturn.md)
-- [Sun/Venus = Uranus](../activations/sun-venus-equals-uranus.md)
-- [Sun/Venus = Neptune](../activations/sun-venus-equals-neptune.md)
-- [Sun/Venus = Pluto](../activations/sun-venus-equals-pluto.md)
+- [Sun/Venus = Chiron](../activations/sun-venus-equals-chiron.md)
 - [Sun/Venus = Cupido](../activations/sun-venus-equals-cupido.md)
 - [Sun/Venus = Hades](../activations/sun-venus-equals-hades.md)
-- [Sun/Venus = Zeus](../activations/sun-venus-equals-zeus.md)
+- [Sun/Venus = Jupiter](../activations/sun-venus-equals-jupiter.md)
 - [Sun/Venus = Kronos](../activations/sun-venus-equals-kronos.md)
-- [Sun/Venus = Apollon](../activations/sun-venus-equals-apollon.md)
-- [Sun/Venus = Admetos](../activations/sun-venus-equals-admetos.md)
-- [Sun/Venus = Vulcanus](../activations/sun-venus-equals-vulcanus.md)
+- [Sun/Venus = Mars](../activations/sun-venus-equals-mars.md)
+- [Sun/Venus = MC](../activations/sun-venus-equals-mc.md)
+- [Sun/Venus = Mercury](../activations/sun-venus-equals-mercury.md)
+- [Sun/Venus = Moon](../activations/sun-venus-equals-moon.md)
+- [Sun/Venus = Neptune](../activations/sun-venus-equals-neptune.md)
+- [Sun/Venus = Node](../activations/sun-venus-equals-node.md)
+- [Sun/Venus = Pluto](../activations/sun-venus-equals-pluto.md)
 - [Sun/Venus = Poseidon](../activations/sun-venus-equals-poseidon.md)
+- [Sun/Venus = Saturn](../activations/sun-venus-equals-saturn.md)
+- [Sun/Venus = Uranus](../activations/sun-venus-equals-uranus.md)
+- [Sun/Venus = Vernal Point](../activations/sun-venus-equals-vernal-point.md)
+- [Sun/Venus = Vulcanus](../activations/sun-venus-equals-vulcanus.md)
+- [Sun/Venus = Zeus](../activations/sun-venus-equals-zeus.md)
 
 ## Contradictions
 
@@ -196,6 +249,9 @@ Your attitude toward health and your body, in general; your thyroid’s ability 
 - [Sun](../factors/sun.md)
 - [Venus](../factors/venus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

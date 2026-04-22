@@ -17,7 +17,7 @@ from tools.munkasey_source import (
 )
 from tools.rebuild_index import build_index
 from tools.wiki_identity import astronomicon_token
-from tools.wiki_identity import normalize_axis
+from tools.wiki_identity import factor_slug, normalize_axis
 from tools.wiki_pages import load_page
 
 
@@ -29,10 +29,22 @@ FALIS_SLUG = "michelle-falis-planet-combinations-astrological-brainstorms"
 FALIS_TITLE = "Michelle Falis - Planet Combinations: Astrological Brainstorms"
 CARTER_SLUG = "charles-carter-the-astrological-aspects"
 CARTER_TITLE = "Charles Carter - The Astrological Aspects"
+EBERTIN_SLUG = "reinhold-ebertin-the-combination-of-stellar-influences"
+EBERTIN_TITLE = "Reinhold Ebertin - The Combination of Stellar Influences"
+SANDBACH_SLUG = "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints"
+SANDBACH_TITLE = "John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints"
+HAND_SLUG = "robert-hand-horoscope-symbols"
+HAND_TITLE = "Robert Hand - Horoscope Symbols"
+MCBROOM_SLUG = "don-mcbroom-midpoints"
+MCBROOM_TITLE = "Don McBroom - Midpoints"
 SOURCE_TITLES = {
     WITTE_SLUG: WITTE_TITLE,
+    EBERTIN_SLUG: EBERTIN_TITLE,
     FALIS_SLUG: FALIS_TITLE,
     CARTER_SLUG: CARTER_TITLE,
+    SANDBACH_SLUG: SANDBACH_TITLE,
+    HAND_SLUG: HAND_TITLE,
+    MCBROOM_SLUG: MCBROOM_TITLE,
     SOURCE_SLUG: SOURCE_TITLE,
 }
 
@@ -138,11 +150,11 @@ def _contradictions_text() -> str:
 
 def _render_links(factors: list[str], source_pages: list[str]) -> str:
     lines = [
-        f"- [{factor}](../factors/{factor.lower()}.md)"
+        f"- [{factor}](../factors/{factor_slug(factor)}.md)"
         for factor in factors
     ]
     for slug in source_pages:
-        lines.append(f"- [{SOURCE_TITLES[slug]}](../sources/{slug}.md)")
+        lines.append(f"- [{SOURCE_TITLES.get(slug, slug)}](../sources/{slug}.md)")
     return "\n".join(lines)
 
 
@@ -240,7 +252,7 @@ def render_source_page(blocks: list[MunkaseyAxisBlock]) -> str:
         "Asc",
         "MC",
     ]
-    factor_links = "\n".join(f"- [{factor}](../factors/{factor.lower()}.md)" for factor in factors)
+    factor_links = "\n".join(f"- [{factor}](../factors/{factor_slug(factor)}.md)" for factor in factors)
     return f"""---
 title: "{SOURCE_TITLE}"
 page_type: source

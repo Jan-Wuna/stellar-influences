@@ -11,7 +11,7 @@ normalized_axis: Asc/Hades
 factor_a: Asc
 factor_b: Hades
 related_activations:
-  - Asc/Hades = Aries
+  - Asc/Hades = Vernal Point
   - Asc/Hades = MC
   - Asc/Hades = Sun
   - Asc/Hades = Moon
@@ -32,7 +32,6 @@ related_activations:
   - Asc/Hades = Vulcanus
   - Asc/Hades = Poseidon
 related_triad_hubs:
-  - Aries Asc Hades
   - Asc Cupido Hades
   - Asc Hades Admetos
   - Asc Hades Apollon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Asc Hades
   - Uranus Asc Hades
   - Venus Asc Hades
+  - Vernal Point Asc Hades
 aliases:
   - Hades/Asc
 source_pages:
@@ -85,7 +85,7 @@ Others resign, refuse or are unable. The relation to servants and the socially i
 
 ## Related Activations
 
-- [Asc/Hades = Aries](../activations/asc-hades-equals-aries.md)
+- [Asc/Hades = Vernal Point](../activations/asc-hades-equals-vernal-point.md)
 - [Asc/Hades = MC](../activations/asc-hades-equals-mc.md)
 - [Asc/Hades = Sun](../activations/asc-hades-equals-sun.md)
 - [Asc/Hades = Moon](../activations/asc-hades-equals-moon.md)

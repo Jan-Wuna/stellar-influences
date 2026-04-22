@@ -11,7 +11,7 @@ normalized_axis: Venus/Admetos
 factor_a: Venus
 factor_b: Admetos
 related_activations:
-  - Venus/Admetos = Aries
+  - Venus/Admetos = Vernal Point
   - Venus/Admetos = MC
   - Venus/Admetos = Asc
   - Venus/Admetos = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Venus/Admetos = Vulcanus
   - Venus/Admetos = Poseidon
 related_triad_hubs:
-  - Aries Venus Admetos
   - Mercury Venus Admetos
   - Moon Venus Admetos
   - Sun Venus Admetos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Venus Saturn Admetos
   - Venus Uranus Admetos
   - Venus Zeus Admetos
+  - Vernal Point Venus Admetos
 aliases:
   - Admetos/Venus
 source_pages:
@@ -85,7 +85,7 @@ Connected in love and friendship with a few. Picky, but true and deep in love an
 
 ## Related Activations
 
-- [Venus/Admetos = Aries](../activations/venus-admetos-equals-aries.md)
+- [Venus/Admetos = Vernal Point](../activations/venus-admetos-equals-vernal-point.md)
 - [Venus/Admetos = MC](../activations/venus-admetos-equals-mc.md)
 - [Venus/Admetos = Asc](../activations/venus-admetos-equals-asc.md)
 - [Venus/Admetos = Sun](../activations/venus-admetos-equals-sun.md)

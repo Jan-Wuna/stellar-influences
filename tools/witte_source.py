@@ -14,7 +14,7 @@ from tools.wiki_identity import normalize_axis
 
 
 FACTOR_SEQUENCE = [
-    "Aries",
+    "Vernal Point",
     "MC",
     "Asc",
     "Sun",
@@ -39,7 +39,7 @@ FACTOR_SEQUENCE = [
 ]
 
 PAIR_HEADING_NAMES = {
-    "ARIES": "Aries",
+    "ARIES": "Vernal Point",
     "MERIDIAN": "MC",
     "ASCENDANT": "Asc",
     "SUN": "Sun",
@@ -70,7 +70,7 @@ PAIR_HEADING_PATTERN = re.compile(
 )
 
 FACTOR_HEADINGS = [
-    ("Aries", ("ARIES, ARIES POINT",)),
+    ("Vernal Point", ("ARIES, ARIES POINT",)),
     ("MC", ("MERIDIAN, MC",)),
     ("Asc", ("ASCENDANT, AS",)),
     ("Sun", ("SUN, SU",)),
@@ -208,8 +208,8 @@ PAIR_ENTRY_OVERRIDES: dict[tuple[str, str, str], dict[str, object]] = {
         "text": "Changes and development of the form of government. Reorganization of the state. Changes and transformations in relation to great powers."
     },
     (
-        "Aries",
-        "Aries",
+        "Vernal Point",
+        "Vernal Point",
         "Poseidon",
     ): {
         "text": "Ideas, spirit, education, cognition, understanding and culture in the general public. Water masses or great floods on Earth. Worlds awareness. The world of the civilized."

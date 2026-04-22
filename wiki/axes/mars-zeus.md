@@ -11,7 +11,7 @@ normalized_axis: Mars/Zeus
 factor_a: Mars
 factor_b: Zeus
 related_activations:
-  - Mars/Zeus = Aries
+  - Mars/Zeus = Vernal Point
   - Mars/Zeus = MC
   - Mars/Zeus = Asc
   - Mars/Zeus = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Mars/Zeus = Vulcanus
   - Mars/Zeus = Poseidon
 related_triad_hubs:
-  - Aries Mars Zeus
   - Mars Asc Zeus
   - Mars Cupido Zeus
   - Mars Hades Zeus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Moon Mars Zeus
   - Sun Mars Zeus
   - Venus Mars Zeus
+  - Vernal Point Mars Zeus
 aliases:
   - Zeus/Mars
 source_pages:
@@ -85,7 +85,7 @@ To heat, to fire, to burn. Shooting flames. Danger of fire. Incentive creative w
 
 ## Related Activations
 
-- [Mars/Zeus = Aries](../activations/mars-zeus-equals-aries.md)
+- [Mars/Zeus = Vernal Point](../activations/mars-zeus-equals-vernal-point.md)
 - [Mars/Zeus = MC](../activations/mars-zeus-equals-mc.md)
 - [Mars/Zeus = Asc](../activations/mars-zeus-equals-asc.md)
 - [Mars/Zeus = Sun](../activations/mars-zeus-equals-sun.md)

@@ -11,7 +11,7 @@ normalized_axis: Saturn/Apollon
 factor_a: Saturn
 factor_b: Apollon
 related_activations:
-  - Saturn/Apollon = Aries
+  - Saturn/Apollon = Vernal Point
   - Saturn/Apollon = MC
   - Saturn/Apollon = Asc
   - Saturn/Apollon = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Saturn/Apollon = Vulcanus
   - Saturn/Apollon = Poseidon
 related_triad_hubs:
-  - Aries Saturn Apollon
   - Jupiter Saturn Apollon
   - Mars Saturn Apollon
   - Mercury Saturn Apollon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Saturn Zeus Apollon
   - Sun Saturn Apollon
   - Venus Saturn Apollon
+  - Vernal Point Saturn Apollon
 aliases:
   - Apollon/Saturn
 source_pages:
@@ -85,7 +85,7 @@ The system. Method. Education. Teacher. Student. Many separate or depart. Separa
 
 ## Related Activations
 
-- [Saturn/Apollon = Aries](../activations/saturn-apollon-equals-aries.md)
+- [Saturn/Apollon = Vernal Point](../activations/saturn-apollon-equals-vernal-point.md)
 - [Saturn/Apollon = MC](../activations/saturn-apollon-equals-mc.md)
 - [Saturn/Apollon = Asc](../activations/saturn-apollon-equals-asc.md)
 - [Saturn/Apollon = Sun](../activations/saturn-apollon-equals-sun.md)

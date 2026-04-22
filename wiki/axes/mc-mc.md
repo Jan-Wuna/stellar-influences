@@ -11,7 +11,7 @@ normalized_axis: MC/MC
 factor_a: MC
 factor_b: MC
 related_activations:
-  - MC/MC = Aries
+  - MC/MC = Vernal Point
   - MC/MC = Asc
   - MC/MC = Sun
   - MC/MC = Moon
@@ -66,7 +66,7 @@ The personality of the native. The soul. The ego. Emotional experiences and qual
 
 ## Related Activations
 
-- [MC/MC = Aries](../activations/mc-mc-equals-aries.md)
+- [MC/MC = Vernal Point](../activations/mc-mc-equals-vernal-point.md)
 - [MC/MC = Asc](../activations/mc-mc-equals-asc.md)
 - [MC/MC = Sun](../activations/mc-mc-equals-sun.md)
 - [MC/MC = Moon](../activations/mc-mc-equals-moon.md)

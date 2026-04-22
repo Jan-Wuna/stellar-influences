@@ -3,10 +3,10 @@ title: Jupiter/MC = Asc
 page_type: activation
 slug: jupiter-mc-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Jupiter
+  - MC
   - Asc
 normalized_formula: Jupiter/MC = Asc
 axis: Jupiter/MC
@@ -15,10 +15,13 @@ triad_set:
   - Jupiter
   - Asc
   - MC
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 The desire to make others happy. To be jolly with others. Contentment and harmony with others.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Jupiter/Medium Coeli`
+- Source page: `245`
+- Entry: `0865`
+
+#### Ebertin Entry
+
+Ability to have a happy relationship with those in one's environment coupled with a harmonious disposition. Pleasant contact with another person, sociable, experiencing joy with others, festivity.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Jupiter/Midheaven midpoint`
+- Source page: `86`
+- Activator: `Ascendant`
+
+#### Sandbach Entry
+
+A personality that expresses much enthusiasm for growth, and exuberantly getting on with the business of living and unfolding. Some might express this in worldly terms, others in spiritual seeking, depending on one's focus and level of evolution.
+
 ## Comparative Schema
 
-- core meaning: The desire to make others happy. To be jolly with others. Contentment and harmony with others.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ The desire to make others happy. To be jolly with others. Contentment and harmon
 - [MC](../factors/mc.md)
 - [Asc](../factors/asc.md)
 - [Jupiter/MC](../axes/jupiter-mc.md)
+- [Jupiter Asc MC](../triads/jupiter-asc-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

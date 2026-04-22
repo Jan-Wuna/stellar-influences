@@ -11,7 +11,7 @@ normalized_axis: MC/Hades
 factor_a: MC
 factor_b: Hades
 related_activations:
-  - MC/Hades = Aries
+  - MC/Hades = Vernal Point
   - MC/Hades = Asc
   - MC/Hades = Sun
   - MC/Hades = Moon
@@ -32,7 +32,6 @@ related_activations:
   - MC/Hades = Vulcanus
   - MC/Hades = Poseidon
 related_triad_hubs:
-  - Aries MC Hades
   - Asc MC Hades
   - Jupiter MC Hades
   - Mars MC Hades
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun MC Hades
   - Uranus MC Hades
   - Venus MC Hades
+  - Vernal Point MC Hades
 aliases:
   - Hades/MC
 source_pages:
@@ -85,7 +85,7 @@ To have secrets. Ill humored. Bereavement. Grief. To do without. To be easily of
 
 ## Related Activations
 
-- [MC/Hades = Aries](../activations/mc-hades-equals-aries.md)
+- [MC/Hades = Vernal Point](../activations/mc-hades-equals-vernal-point.md)
 - [MC/Hades = Asc](../activations/mc-hades-equals-asc.md)
 - [MC/Hades = Sun](../activations/mc-hades-equals-sun.md)
 - [MC/Hades = Moon](../activations/mc-hades-equals-moon.md)

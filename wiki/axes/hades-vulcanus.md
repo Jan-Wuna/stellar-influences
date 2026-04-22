@@ -11,7 +11,7 @@ normalized_axis: Hades/Vulcanus
 factor_a: Hades
 factor_b: Vulcanus
 related_activations:
-  - Hades/Vulcanus = Aries
+  - Hades/Vulcanus = Vernal Point
   - Hades/Vulcanus = MC
   - Hades/Vulcanus = Asc
   - Hades/Vulcanus = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Hades/Vulcanus = Admetos
   - Hades/Vulcanus = Poseidon
 related_triad_hubs:
-  - Aries Hades Vulcanus
   - Asc Hades Vulcanus
   - Cupido Hades Vulcanus
   - Hades Admetos Vulcanus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Hades Vulcanus
   - Uranus Hades Vulcanus
   - Venus Hades Vulcanus
+  - Vernal Point Hades Vulcanus
 aliases:
   - Vulcanus/Hades
 source_pages:
@@ -85,7 +85,7 @@ Wickedness. Ugliness. Vices. Grave danger. Mean and brutal acts. Capital crimes.
 
 ## Related Activations
 
-- [Hades/Vulcanus = Aries](../activations/hades-vulcanus-equals-aries.md)
+- [Hades/Vulcanus = Vernal Point](../activations/hades-vulcanus-equals-vernal-point.md)
 - [Hades/Vulcanus = MC](../activations/hades-vulcanus-equals-mc.md)
 - [Hades/Vulcanus = Asc](../activations/hades-vulcanus-equals-asc.md)
 - [Hades/Vulcanus = Sun](../activations/hades-vulcanus-equals-sun.md)

@@ -11,31 +11,32 @@ normalized_axis: Sun/Mars
 factor_a: Sun
 factor_b: Mars
 related_activations:
-  - Sun/Mars = Aries
-  - Sun/Mars = MC
+  - Sun/Mars = Admetos
+  - Sun/Mars = Apollon
   - Sun/Mars = Asc
-  - Sun/Mars = Moon
-  - Sun/Mars = Node
-  - Sun/Mars = Mercury
-  - Sun/Mars = Venus
-  - Sun/Mars = Jupiter
-  - Sun/Mars = Saturn
-  - Sun/Mars = Uranus
-  - Sun/Mars = Neptune
-  - Sun/Mars = Pluto
+  - Sun/Mars = Chiron
   - Sun/Mars = Cupido
   - Sun/Mars = Hades
-  - Sun/Mars = Zeus
+  - Sun/Mars = Jupiter
   - Sun/Mars = Kronos
-  - Sun/Mars = Apollon
-  - Sun/Mars = Admetos
-  - Sun/Mars = Vulcanus
+  - Sun/Mars = MC
+  - Sun/Mars = Mercury
+  - Sun/Mars = Moon
+  - Sun/Mars = Neptune
+  - Sun/Mars = Node
+  - Sun/Mars = Pluto
   - Sun/Mars = Poseidon
+  - Sun/Mars = Saturn
+  - Sun/Mars = Uranus
+  - Sun/Mars = Venus
+  - Sun/Mars = Vernal Point
+  - Sun/Mars = Vulcanus
+  - Sun/Mars = Zeus
 related_triad_hubs:
-  - Aries Sun Mars
   - Sun Mars Admetos
   - Sun Mars Apollon
   - Sun Mars Asc
+  - Sun Mars Chiron
   - Sun Mars Cupido
   - Sun Mars Hades
   - Sun Mars Jupiter
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Sun Mercury Mars
   - Sun Moon Mars
   - Sun Venus Mars
+  - Vernal Point Sun Mars
 aliases:
   - Mars/Sun
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 The man. The husband. The active man. The soldier. The action of the living body. Work with physical strength. The working day. Men at work. Daily action. Handyman. Energy level of the body. (In the solar cycle: period concerning to work.)
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Sun/Mars`
+- Source page: `86`
+
+#### Principle
+
+The will to live, vitality and vigor, activity.
+
+#### Psychological Correspondence
+
++ Energy, virility, determination, power of attainment, courage to fight, endeavor, ambition, desire to exercise power, desire to lead. - Hastiness, obstinacy, stubbornness, restlessness, inclination to quarrel, violence. C Power of attainment, desire to be in the limelight, ability to make decisions quickly. A hot-blooded nature. Biologica/ Correspondence Muscular tissue, cell activity, sperms. Cell inflammation.
+
+#### Biological Correspondence
+
+- None extracted.
+
+#### Sociological Correspondence
+
+Fighter, soldier, surgeon, sculptor. lntellectual fighter. Probable Manifestation + Advancement in life through one's own effort, acceptance ofleading positions, overcoming of difficulties and dangers, vocational success, extraordinary achievements. - Failures caused by too heavy demands made upon oneself and upon others, overstrain, a strained relationship with other persons. Upsets (cardiac troubles). O/cT
+
+#### Probable Manifestations
+
+- None extracted.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -141,6 +171,28 @@ As an example of the above statement take King Georg V. with Sun in aspect to Ma
 - The Conjunction: President Harding, R.L. Stevenson, Zola, Gambetta, Frederick the Great, Thomas Hardy, Henry Irving, Huxley, Anna Kingsford, Lenin
 - Inharmonious: W.J. Bryan, Duke of Windsor, Ramsay MacDonald, Swami Vivekananda, Savonarola
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Sun/Mars midpoint`
+- Source page: `11`
+
+#### Principle
+
+Purposeful assertiveness. The ability to gear one’s actions toward longrange considerations. The ability to take on meaningful battles. Too much effort depletes vi tality. Driving oneself.
+
+#### Process
+
+The process of actively dismantling the neqative eqo so that the spiritual self is able to completely and perfectly reflect the spiritual light. The active sorting of all ex periences in terms of their relative importance so that one may continually realign one with one’s purpose. An emotional need to work toward goals and to have meaningful activities to pursue.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Sun/Mars`
+- Source page: `201`
+
+#### Pair Delineation
+
+The will, vitality, energy (particularly for self-expression), the masculine side of the self, personal aggressiveness and self-assertion. The ability to act and take the initiative. Particularly in a woman's chart this point may symbolize one's expectations about males. This can also be a point of conflict with males.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `SUN/MARS`
@@ -184,26 +236,27 @@ Muscular development of the body; the inner strength you have to overcome infect
 
 ## Related Activations
 
-- [Sun/Mars = Aries](../activations/sun-mars-equals-aries.md)
-- [Sun/Mars = MC](../activations/sun-mars-equals-mc.md)
+- [Sun/Mars = Admetos](../activations/sun-mars-equals-admetos.md)
+- [Sun/Mars = Apollon](../activations/sun-mars-equals-apollon.md)
 - [Sun/Mars = Asc](../activations/sun-mars-equals-asc.md)
-- [Sun/Mars = Moon](../activations/sun-mars-equals-moon.md)
-- [Sun/Mars = Node](../activations/sun-mars-equals-node.md)
-- [Sun/Mars = Mercury](../activations/sun-mars-equals-mercury.md)
-- [Sun/Mars = Venus](../activations/sun-mars-equals-venus.md)
-- [Sun/Mars = Jupiter](../activations/sun-mars-equals-jupiter.md)
-- [Sun/Mars = Saturn](../activations/sun-mars-equals-saturn.md)
-- [Sun/Mars = Uranus](../activations/sun-mars-equals-uranus.md)
-- [Sun/Mars = Neptune](../activations/sun-mars-equals-neptune.md)
-- [Sun/Mars = Pluto](../activations/sun-mars-equals-pluto.md)
+- [Sun/Mars = Chiron](../activations/sun-mars-equals-chiron.md)
 - [Sun/Mars = Cupido](../activations/sun-mars-equals-cupido.md)
 - [Sun/Mars = Hades](../activations/sun-mars-equals-hades.md)
-- [Sun/Mars = Zeus](../activations/sun-mars-equals-zeus.md)
+- [Sun/Mars = Jupiter](../activations/sun-mars-equals-jupiter.md)
 - [Sun/Mars = Kronos](../activations/sun-mars-equals-kronos.md)
-- [Sun/Mars = Apollon](../activations/sun-mars-equals-apollon.md)
-- [Sun/Mars = Admetos](../activations/sun-mars-equals-admetos.md)
-- [Sun/Mars = Vulcanus](../activations/sun-mars-equals-vulcanus.md)
+- [Sun/Mars = MC](../activations/sun-mars-equals-mc.md)
+- [Sun/Mars = Mercury](../activations/sun-mars-equals-mercury.md)
+- [Sun/Mars = Moon](../activations/sun-mars-equals-moon.md)
+- [Sun/Mars = Neptune](../activations/sun-mars-equals-neptune.md)
+- [Sun/Mars = Node](../activations/sun-mars-equals-node.md)
+- [Sun/Mars = Pluto](../activations/sun-mars-equals-pluto.md)
 - [Sun/Mars = Poseidon](../activations/sun-mars-equals-poseidon.md)
+- [Sun/Mars = Saturn](../activations/sun-mars-equals-saturn.md)
+- [Sun/Mars = Uranus](../activations/sun-mars-equals-uranus.md)
+- [Sun/Mars = Venus](../activations/sun-mars-equals-venus.md)
+- [Sun/Mars = Vernal Point](../activations/sun-mars-equals-vernal-point.md)
+- [Sun/Mars = Vulcanus](../activations/sun-mars-equals-vulcanus.md)
+- [Sun/Mars = Zeus](../activations/sun-mars-equals-zeus.md)
 
 ## Contradictions
 
@@ -219,6 +272,9 @@ Muscular development of the body; the inner strength you have to overcome infect
 - [Sun](../factors/sun.md)
 - [Mars](../factors/mars.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

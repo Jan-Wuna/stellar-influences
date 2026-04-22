@@ -11,31 +11,32 @@ normalized_axis: Sun/Moon
 factor_a: Sun
 factor_b: Moon
 related_activations:
-  - Sun/Moon = Aries
-  - Sun/Moon = MC
+  - Sun/Moon = Admetos
+  - Sun/Moon = Apollon
   - Sun/Moon = Asc
-  - Sun/Moon = Node
-  - Sun/Moon = Mercury
-  - Sun/Moon = Venus
-  - Sun/Moon = Mars
-  - Sun/Moon = Jupiter
-  - Sun/Moon = Saturn
-  - Sun/Moon = Uranus
-  - Sun/Moon = Neptune
-  - Sun/Moon = Pluto
+  - Sun/Moon = Chiron
   - Sun/Moon = Cupido
   - Sun/Moon = Hades
-  - Sun/Moon = Zeus
+  - Sun/Moon = Jupiter
   - Sun/Moon = Kronos
-  - Sun/Moon = Apollon
-  - Sun/Moon = Admetos
-  - Sun/Moon = Vulcanus
+  - Sun/Moon = Mars
+  - Sun/Moon = MC
+  - Sun/Moon = Mercury
+  - Sun/Moon = Neptune
+  - Sun/Moon = Node
+  - Sun/Moon = Pluto
   - Sun/Moon = Poseidon
+  - Sun/Moon = Saturn
+  - Sun/Moon = Uranus
+  - Sun/Moon = Venus
+  - Sun/Moon = Vernal Point
+  - Sun/Moon = Vulcanus
+  - Sun/Moon = Zeus
 related_triad_hubs:
-  - Aries Sun Moon
   - Sun Moon Admetos
   - Sun Moon Apollon
   - Sun Moon Asc
+  - Sun Moon Chiron
   - Sun Moon Cupido
   - Sun Moon Hades
   - Sun Moon Jupiter
@@ -52,12 +53,17 @@ related_triad_hubs:
   - Sun Moon Venus
   - Sun Moon Vulcanus
   - Sun Moon Zeus
+  - Vernal Point Sun Moon
 aliases:
   - Moon/Sun
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
+  - don-mcbroom-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +84,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 Man and woman (husband and wife). Marriage, parents, friendships, partnerships of male and female. The day and the hour. The course of the day. The attitude of a man towards a woman and vice versa. Physical relations to female persons. The body of a female. The course of the day.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Sun/Moon`
+- Source page: `77`
+
+#### Principle
+
+Spirit and soul, the conscious and the unconscious, vitality and feeling, husband and wife.
+
+#### Psychological Correspondence
+
++ A harmonious character, inner balance. - Inner discontent, an unbalanced nature, the struggle between duty and interests or hobbies, tendency to allow inner conflicts to manifest. C There is an appreciable influence of the zodiacal sign in which the conjunction occurs. One-sidedness or one-track mind, the misunderstood person.
+
+#### Biological Correspondence
+
+Balance and economy of bodily liquids, serum. The eyes.
+
+#### Sociological Correspondence
+
+Husband and wife, father and mother, boyfriend and girlfriend, friend, marriage, the parents, friendship.
+
+#### Probable Manifestations
+
++ Good relationship between parents and partners, making contacts with partners and friends, joint success, having to do with public life. - Disharmony between parents or partners, differences caused by inner tensions, dissatisfaction and the ensuing difficulties. 2 It has been noted that this book omits interpretations of mid-point combinations in which the axis factor is already one of the components of the mid-point. If for example we are considering the mid-point Sun/Moon in a chart neither Sun or Moon can actually occupy the axis. But they can however enter this axis by transit or by direction e.g. Sun = Sun/Moon or Moon = Sun/Moon. This raises the question of whether this combination has any particular value. It would appear that in cases of this kind that the doubled factor comes out more strongly. In the case of Sun = Sun/Moon, one can assume that the Sun factor will be particularly emphasized, bringing out the male, mental side. In the case of Moon = Sun/Moon, it is possible that the Moon factor will predominate accentuating the female, emotional and unconscious side. It should be pointed out again however that the interpretations in this book are not meant to be taken exactly word for word and applied literally without any trouble or consideration. One should always combine the individual factors and interpret the chart as a whole. O/D
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -167,6 +198,37 @@ It seems to take nothing from the mental powers, which are often considerable, e
 - The Conjunction: Cecil Rhodes, Queen Victoria, Dr. Garnett, Emperor Franz Joseph, Mr. Herbert Jacobs (founder Men's League for Women's Suffrage), Landru (French homicide), Swinburne
 - Inharmonious: General Gordon, Wallenstein, James II, Mrs. Besant, Bismarck, Northcliff, Lauder, Gladstone, Swedenborg, Tortensen (Swedish general), Lord French, Rupert Brooke
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Sun/Moon midpoint`
+- Source page: `6`
+
+#### Principle
+
+The flow of energy and information from the subconscious to the conscious and the process of finding meaning and order in it. The balance between work (Sun) and play (Moon), business (Sun) and pleasure (Moon), objective (Sun) and subjective (Moon). One’s general level of vitality and all the factors that affect it.
+
+#### Process
+
+One becomes aware of each and every emotion as it arises, accepts all of them, sees their value and allows them to become integrated into one’s conscious reality.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Sun/Moon`
+- Source page: `201`
+
+#### Pair Delineation
+
+The balance of male and female within the psyche, which expresses itself in terms of relationships with the opposite sex. Inner psychological balance. May also at times relate to one's experience of the mother and father as a pair.
+
+### Don McBroom - Midpoints
+
+- Source heading: `The Sun/Moon Midpoint`
+- Source page: `58`
+
+#### McBroom Entry
+
+Sun/Moon midpoint would carry with it tremendous importance as it embellishes and solidifies the interaction between the two luminaries. Essentially, the Sun/Moon midpoint represents a microcosm of the needs suggested by the Sun-Moon Blend bringing together and integrating their collective importance at a specific point in the natal chart. In fact, the Sun/Moon midpoint will often dominate the life. It adds depth to the interpretation of the Sun-Moon Blend and suggests the level and means of internal continuity between these two all-important influences. Additionally, by defining our most important needs, it also dramatically influences whom we choose to be around - and who chooses to be around us. By doing so, the Sun/Moon midpoint represents an integral factor in determining the participants in all our relationships - whether they are casual, intimate, or professional.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `SUN/MOON`
@@ -210,26 +272,27 @@ Chemical, Ph, and mineral balances within the body; sensitivity to drugs; pressu
 
 ## Related Activations
 
-- [Sun/Moon = Aries](../activations/sun-moon-equals-aries.md)
-- [Sun/Moon = MC](../activations/sun-moon-equals-mc.md)
+- [Sun/Moon = Admetos](../activations/sun-moon-equals-admetos.md)
+- [Sun/Moon = Apollon](../activations/sun-moon-equals-apollon.md)
 - [Sun/Moon = Asc](../activations/sun-moon-equals-asc.md)
-- [Sun/Moon = Node](../activations/sun-moon-equals-node.md)
-- [Sun/Moon = Mercury](../activations/sun-moon-equals-mercury.md)
-- [Sun/Moon = Venus](../activations/sun-moon-equals-venus.md)
-- [Sun/Moon = Mars](../activations/sun-moon-equals-mars.md)
-- [Sun/Moon = Jupiter](../activations/sun-moon-equals-jupiter.md)
-- [Sun/Moon = Saturn](../activations/sun-moon-equals-saturn.md)
-- [Sun/Moon = Uranus](../activations/sun-moon-equals-uranus.md)
-- [Sun/Moon = Neptune](../activations/sun-moon-equals-neptune.md)
-- [Sun/Moon = Pluto](../activations/sun-moon-equals-pluto.md)
+- [Sun/Moon = Chiron](../activations/sun-moon-equals-chiron.md)
 - [Sun/Moon = Cupido](../activations/sun-moon-equals-cupido.md)
 - [Sun/Moon = Hades](../activations/sun-moon-equals-hades.md)
-- [Sun/Moon = Zeus](../activations/sun-moon-equals-zeus.md)
+- [Sun/Moon = Jupiter](../activations/sun-moon-equals-jupiter.md)
 - [Sun/Moon = Kronos](../activations/sun-moon-equals-kronos.md)
-- [Sun/Moon = Apollon](../activations/sun-moon-equals-apollon.md)
-- [Sun/Moon = Admetos](../activations/sun-moon-equals-admetos.md)
-- [Sun/Moon = Vulcanus](../activations/sun-moon-equals-vulcanus.md)
+- [Sun/Moon = Mars](../activations/sun-moon-equals-mars.md)
+- [Sun/Moon = MC](../activations/sun-moon-equals-mc.md)
+- [Sun/Moon = Mercury](../activations/sun-moon-equals-mercury.md)
+- [Sun/Moon = Neptune](../activations/sun-moon-equals-neptune.md)
+- [Sun/Moon = Node](../activations/sun-moon-equals-node.md)
+- [Sun/Moon = Pluto](../activations/sun-moon-equals-pluto.md)
 - [Sun/Moon = Poseidon](../activations/sun-moon-equals-poseidon.md)
+- [Sun/Moon = Saturn](../activations/sun-moon-equals-saturn.md)
+- [Sun/Moon = Uranus](../activations/sun-moon-equals-uranus.md)
+- [Sun/Moon = Venus](../activations/sun-moon-equals-venus.md)
+- [Sun/Moon = Vernal Point](../activations/sun-moon-equals-vernal-point.md)
+- [Sun/Moon = Vulcanus](../activations/sun-moon-equals-vulcanus.md)
+- [Sun/Moon = Zeus](../activations/sun-moon-equals-zeus.md)
 
 ## Contradictions
 
@@ -245,6 +308,10 @@ Chemical, Ph, and mineral balances within the body; sensitivity to drugs; pressu
 - [Sun](../factors/sun.md)
 - [Moon](../factors/moon.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
+- [Don McBroom - Midpoints](../sources/don-mcbroom-midpoints.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

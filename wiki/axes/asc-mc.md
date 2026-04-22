@@ -11,28 +11,28 @@ normalized_axis: Asc/MC
 factor_a: Asc
 factor_b: MC
 related_activations:
-  - Asc/MC = Aries
-  - Asc/MC = Sun
-  - Asc/MC = Moon
-  - Asc/MC = Node
-  - Asc/MC = Mercury
-  - Asc/MC = Venus
-  - Asc/MC = Mars
-  - Asc/MC = Jupiter
-  - Asc/MC = Saturn
-  - Asc/MC = Uranus
-  - Asc/MC = Neptune
-  - Asc/MC = Pluto
+  - Asc/MC = Admetos
+  - Asc/MC = Apollon
+  - Asc/MC = Chiron
   - Asc/MC = Cupido
   - Asc/MC = Hades
-  - Asc/MC = Zeus
+  - Asc/MC = Jupiter
   - Asc/MC = Kronos
-  - Asc/MC = Apollon
-  - Asc/MC = Admetos
-  - Asc/MC = Vulcanus
+  - Asc/MC = Mars
+  - Asc/MC = Mercury
+  - Asc/MC = Moon
+  - Asc/MC = Neptune
+  - Asc/MC = Node
+  - Asc/MC = Pluto
   - Asc/MC = Poseidon
+  - Asc/MC = Saturn
+  - Asc/MC = Sun
+  - Asc/MC = Uranus
+  - Asc/MC = Venus
+  - Asc/MC = Vernal Point
+  - Asc/MC = Vulcanus
+  - Asc/MC = Zeus
 related_triad_hubs:
-  - Aries Asc MC
   - Asc MC Admetos
   - Asc MC Apollon
   - Asc MC Cupido
@@ -41,6 +41,7 @@ related_triad_hubs:
   - Asc MC Poseidon
   - Asc MC Vulcanus
   - Asc MC Zeus
+  - Chiron Asc MC
   - Jupiter Asc MC
   - Mars Asc MC
   - Mercury Asc MC
@@ -52,10 +53,15 @@ related_triad_hubs:
   - Sun Asc MC
   - Uranus Asc MC
   - Venus Asc MC
+  - Vernal Point Asc MC
 aliases:
   - MC/Asc
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
+  - don-mcbroom-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -69,12 +75,68 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Asc`
-- Source page: `58`
+- Source heading: `Ascendant/Medium Coeli`
+- Source page: `306`
 
 #### Pair Summary
 
 One’s relationship, position or attitude towards others. To join with others for a common objective. The social and vocational relations in the closer surroundings. Others influence one’s own emotions. In this minute at this place.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Ascendant/Medium Coeli`
+- Source page: `306`
+
+#### Principle
+
+Relationship between the ego (higher self) and the lower self (personality).
+
+#### Psychological Correspondence
+
+The living being, the individual synthesis, is founded upon the relationship between ego and self. As both the Ascendant and the Medium Coeli are determined mathematically and astronomically, a characterization can only evolve when further configurations have reference to these two points.
+
+#### Biological Correspondence
+
+The phenotype in contrast to the combinations Sun/Moon, Moon/Medium Coeli and Dragon's Head/Medium Coeli expressing relationships to the genotype (hereditary factors).
+
+#### Sociological Correspondence
+
+The personality as directed by ego-consciousness.
+
+#### Probable Manifestations
+
+Connections between the Asc. and the MC when brought out by progressions or transits indicate important periods of life which can be characterized and colored only through the addition and incorporation of other factors. 67 The mid-point AS/MC should always be examined as this, frequently has a bearing on the whole personality and because directions over this point may result in a change of life and circumstances. Ascendant/Medium Coeli A/M
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Ascendant/Midheaven midpoint`
+- Source page: `121`
+
+#### Principle
+
+The ability to integrate greater and greater amounts of wisdom and knowl edge into one’s personality. The ways in which one’s personality either serves and fosters one’s evolution or limits it. The pressure which the Spiritual Light exerts on the personality to induce its growth. The growth of the understanding of the meaning and purpose of all one’s relationships. At worst this combination may manifest as a schism between the real self and the idealized self, rendering progress very difficult. At best the idealized self gradually seeps into the real self, transforming, enlarging and uplifting it. Identification with one’s career.
+
+#### Process
+
+The increasing ability to allow one’s identity to be determined, conditioned and guided by spiritual forces. Allowing one’s identity more and more to exemplify and express one’s spiritual self.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Ascendant/Midheaven`
+- Source page: `214`
+
+#### Pair Delineation
+
+A very important point in the horoscope, indicating one's personal attitudes concerning others. Points on this axis may exert a general influence on the chart almost as if they were conjunct the Ascendant, Descendant, Midheaven, or Imum Coeli except that the energy is not so strong. The ability to show to others what one really is or what one is really seeking in life.
+
+### Don McBroom - Midpoints
+
+- Source heading: `The Ascendant/Midheaven Midpoint`
+- Source page: `71`
+
+#### McBroom Entry
+
+The Ascendant/Midheaven midpoint links together our personal identity with our public image to form a symbiotic - and ideally a synergistic - relationship. The more compatible or congruous these two points are, the greater our potential for being "at one" with ourselves. While some people might genuinely thrive on the dramatic contrast of a Jekyll and Hyde relationship between the Ascendant and the Midheaven, it's probably safe to say that most of us would find it preferable to have some substantial common ground between the two. Regardless of their inherent differences, the Ascendant/Midheaven midpoint represents an area of the chart where our personal and public sides can come together and figuratively reach a happy medium. This may involve some give and take between these two powerful angles and require some balance or compromise to acknowledge and appease both.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -119,26 +181,27 @@ Psychological growth experiences; the amount of maturing you do thru your reacti
 
 ## Related Activations
 
-- [Asc/MC = Aries](../activations/asc-mc-equals-aries.md)
-- [Asc/MC = Sun](../activations/asc-mc-equals-sun.md)
-- [Asc/MC = Moon](../activations/asc-mc-equals-moon.md)
-- [Asc/MC = Node](../activations/asc-mc-equals-node.md)
-- [Asc/MC = Mercury](../activations/asc-mc-equals-mercury.md)
-- [Asc/MC = Venus](../activations/asc-mc-equals-venus.md)
-- [Asc/MC = Mars](../activations/asc-mc-equals-mars.md)
-- [Asc/MC = Jupiter](../activations/asc-mc-equals-jupiter.md)
-- [Asc/MC = Saturn](../activations/asc-mc-equals-saturn.md)
-- [Asc/MC = Uranus](../activations/asc-mc-equals-uranus.md)
-- [Asc/MC = Neptune](../activations/asc-mc-equals-neptune.md)
-- [Asc/MC = Pluto](../activations/asc-mc-equals-pluto.md)
+- [Asc/MC = Admetos](../activations/asc-mc-equals-admetos.md)
+- [Asc/MC = Apollon](../activations/asc-mc-equals-apollon.md)
+- [Asc/MC = Chiron](../activations/asc-mc-equals-chiron.md)
 - [Asc/MC = Cupido](../activations/asc-mc-equals-cupido.md)
 - [Asc/MC = Hades](../activations/asc-mc-equals-hades.md)
-- [Asc/MC = Zeus](../activations/asc-mc-equals-zeus.md)
+- [Asc/MC = Jupiter](../activations/asc-mc-equals-jupiter.md)
 - [Asc/MC = Kronos](../activations/asc-mc-equals-kronos.md)
-- [Asc/MC = Apollon](../activations/asc-mc-equals-apollon.md)
-- [Asc/MC = Admetos](../activations/asc-mc-equals-admetos.md)
-- [Asc/MC = Vulcanus](../activations/asc-mc-equals-vulcanus.md)
+- [Asc/MC = Mars](../activations/asc-mc-equals-mars.md)
+- [Asc/MC = Mercury](../activations/asc-mc-equals-mercury.md)
+- [Asc/MC = Moon](../activations/asc-mc-equals-moon.md)
+- [Asc/MC = Neptune](../activations/asc-mc-equals-neptune.md)
+- [Asc/MC = Node](../activations/asc-mc-equals-node.md)
+- [Asc/MC = Pluto](../activations/asc-mc-equals-pluto.md)
 - [Asc/MC = Poseidon](../activations/asc-mc-equals-poseidon.md)
+- [Asc/MC = Saturn](../activations/asc-mc-equals-saturn.md)
+- [Asc/MC = Sun](../activations/asc-mc-equals-sun.md)
+- [Asc/MC = Uranus](../activations/asc-mc-equals-uranus.md)
+- [Asc/MC = Venus](../activations/asc-mc-equals-venus.md)
+- [Asc/MC = Vernal Point](../activations/asc-mc-equals-vernal-point.md)
+- [Asc/MC = Vulcanus](../activations/asc-mc-equals-vulcanus.md)
+- [Asc/MC = Zeus](../activations/asc-mc-equals-zeus.md)
 
 ## Contradictions
 
@@ -154,4 +217,8 @@ Psychological growth experiences; the amount of maturing you do thru your reacti
 - [Asc](../factors/asc.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
+- [Don McBroom - Midpoints](../sources/don-mcbroom-midpoints.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

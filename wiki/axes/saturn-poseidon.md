@@ -11,7 +11,7 @@ normalized_axis: Saturn/Poseidon
 factor_a: Saturn
 factor_b: Poseidon
 related_activations:
-  - Saturn/Poseidon = Aries
+  - Saturn/Poseidon = Vernal Point
   - Saturn/Poseidon = MC
   - Saturn/Poseidon = Asc
   - Saturn/Poseidon = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Saturn/Poseidon = Admetos
   - Saturn/Poseidon = Vulcanus
 related_triad_hubs:
-  - Aries Saturn Poseidon
   - Jupiter Saturn Poseidon
   - Mars Saturn Poseidon
   - Mercury Saturn Poseidon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Saturn Zeus Poseidon
   - Sun Saturn Poseidon
   - Venus Saturn Poseidon
+  - Vernal Point Saturn Poseidon
 aliases:
   - Poseidon/Saturn
 source_pages:
@@ -85,7 +85,7 @@ Education. The pattern, the model. Mental, spiritual or ideological separations.
 
 ## Related Activations
 
-- [Saturn/Poseidon = Aries](../activations/saturn-poseidon-equals-aries.md)
+- [Saturn/Poseidon = Vernal Point](../activations/saturn-poseidon-equals-vernal-point.md)
 - [Saturn/Poseidon = MC](../activations/saturn-poseidon-equals-mc.md)
 - [Saturn/Poseidon = Asc](../activations/saturn-poseidon-equals-asc.md)
 - [Saturn/Poseidon = Sun](../activations/saturn-poseidon-equals-sun.md)

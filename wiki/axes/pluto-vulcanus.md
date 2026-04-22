@@ -11,7 +11,7 @@ normalized_axis: Pluto/Vulcanus
 factor_a: Pluto
 factor_b: Vulcanus
 related_activations:
-  - Pluto/Vulcanus = Aries
+  - Pluto/Vulcanus = Vernal Point
   - Pluto/Vulcanus = MC
   - Pluto/Vulcanus = Asc
   - Pluto/Vulcanus = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Pluto/Vulcanus = Admetos
   - Pluto/Vulcanus = Poseidon
 related_triad_hubs:
-  - Aries Pluto Vulcanus
   - Jupiter Pluto Vulcanus
   - Mars Pluto Vulcanus
   - Mercury Pluto Vulcanus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Pluto Vulcanus
   - Uranus Pluto Vulcanus
   - Venus Pluto Vulcanus
+  - Vernal Point Pluto Vulcanus
 aliases:
   - Vulcanus/Pluto
 source_pages:
@@ -85,7 +85,7 @@ Mighty changes or transformations that occurs with great speed. Unhealthy, rushe
 
 ## Related Activations
 
-- [Pluto/Vulcanus = Aries](../activations/pluto-vulcanus-equals-aries.md)
+- [Pluto/Vulcanus = Vernal Point](../activations/pluto-vulcanus-equals-vernal-point.md)
 - [Pluto/Vulcanus = MC](../activations/pluto-vulcanus-equals-mc.md)
 - [Pluto/Vulcanus = Asc](../activations/pluto-vulcanus-equals-asc.md)
 - [Pluto/Vulcanus = Sun](../activations/pluto-vulcanus-equals-sun.md)

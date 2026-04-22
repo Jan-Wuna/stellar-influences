@@ -3,10 +3,10 @@ title: Sun/MC = Uranus
 page_type: activation
 slug: sun-mc-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Sun
+  - MC
   - Uranus
 normalized_formula: Sun/MC = Uranus
 axis: Sun/MC
@@ -15,10 +15,13 @@ triad_set:
   - Sun
   - Uranus
   - MC
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Strong physical and mental tension. Conflicts. Nervousness of body and soul. Sudden physical outbursts.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Sun/Medium Coeli`
+- Source page: `111`
+- Entry: `0321`
+
+#### Ebertin Entry
+
+"A restless spirit," a revolutionist or rebel, psychological tension. A sudden change of objective, inner conflict.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Sun/Midheaven midpoint`
+- Source page: `24`
+- Activator: `Uranus`
+
+#### Sandbach Entry
+
+Bringing something unusual, distinctive or unexpected to one’s career. An independent approach to career concerns. Rebelling against the status quo. Sudden insights into the meaning of life. A genius for being able to reveal spiritual purpose.
+
 ## Comparative Schema
 
-- core meaning: Strong physical and mental tension. Conflicts. Nervousness of body and soul. Sudden physical outbursts.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Strong physical and mental tension. Conflicts. Nervousness of body and soul. Sud
 - [MC](../factors/mc.md)
 - [Uranus](../factors/uranus.md)
 - [Sun/MC](../axes/sun-mc.md)
+- [Sun Uranus MC](../triads/sun-uranus-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

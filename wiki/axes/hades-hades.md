@@ -11,7 +11,7 @@ normalized_axis: Hades/Hades
 factor_a: Hades
 factor_b: Hades
 related_activations:
-  - Hades/Hades = Aries
+  - Hades/Hades = Vernal Point
   - Hades/Hades = MC
   - Hades/Hades = Asc
   - Hades/Hades = Sun
@@ -67,7 +67,7 @@ Poverty. Baseness. The deteriorating powers of the past. Garbage. Dirt. To hesit
 
 ## Related Activations
 
-- [Hades/Hades = Aries](../activations/hades-hades-equals-aries.md)
+- [Hades/Hades = Vernal Point](../activations/hades-hades-equals-vernal-point.md)
 - [Hades/Hades = MC](../activations/hades-hades-equals-mc.md)
 - [Hades/Hades = Asc](../activations/hades-hades-equals-asc.md)
 - [Hades/Hades = Sun](../activations/hades-hades-equals-sun.md)

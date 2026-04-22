@@ -11,7 +11,7 @@ normalized_axis: Mars/Kronos
 factor_a: Mars
 factor_b: Kronos
 related_activations:
-  - Mars/Kronos = Aries
+  - Mars/Kronos = Vernal Point
   - Mars/Kronos = MC
   - Mars/Kronos = Asc
   - Mars/Kronos = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Mars/Kronos = Vulcanus
   - Mars/Kronos = Poseidon
 related_triad_hubs:
-  - Aries Mars Kronos
   - Mars Asc Kronos
   - Mars Cupido Kronos
   - Mars Hades Kronos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Moon Mars Kronos
   - Sun Mars Kronos
   - Venus Mars Kronos
+  - Vernal Point Mars Kronos
 aliases:
   - Kronos/Mars
 source_pages:
@@ -85,7 +85,7 @@ To act independently. Autocratic actions. Main formula for the great leader and 
 
 ## Related Activations
 
-- [Mars/Kronos = Aries](../activations/mars-kronos-equals-aries.md)
+- [Mars/Kronos = Vernal Point](../activations/mars-kronos-equals-vernal-point.md)
 - [Mars/Kronos = MC](../activations/mars-kronos-equals-mc.md)
 - [Mars/Kronos = Asc](../activations/mars-kronos-equals-asc.md)
 - [Mars/Kronos = Sun](../activations/mars-kronos-equals-sun.md)

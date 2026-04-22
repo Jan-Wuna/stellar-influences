@@ -11,7 +11,7 @@ normalized_axis: Venus/Apollon
 factor_a: Venus
 factor_b: Apollon
 related_activations:
-  - Venus/Apollon = Aries
+  - Venus/Apollon = Vernal Point
   - Venus/Apollon = MC
   - Venus/Apollon = Asc
   - Venus/Apollon = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Venus/Apollon = Vulcanus
   - Venus/Apollon = Poseidon
 related_triad_hubs:
-  - Aries Venus Apollon
   - Mercury Venus Apollon
   - Moon Venus Apollon
   - Sun Venus Apollon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Venus Saturn Apollon
   - Venus Uranus Apollon
   - Venus Zeus Apollon
+  - Vernal Point Venus Apollon
 aliases:
   - Apollon/Venus
 source_pages:
@@ -85,7 +85,7 @@ Friendship. Peace. Faithfulness. Harmony with many. Science of art. Science of m
 
 ## Related Activations
 
-- [Venus/Apollon = Aries](../activations/venus-apollon-equals-aries.md)
+- [Venus/Apollon = Vernal Point](../activations/venus-apollon-equals-vernal-point.md)
 - [Venus/Apollon = MC](../activations/venus-apollon-equals-mc.md)
 - [Venus/Apollon = Asc](../activations/venus-apollon-equals-asc.md)
 - [Venus/Apollon = Sun](../activations/venus-apollon-equals-sun.md)

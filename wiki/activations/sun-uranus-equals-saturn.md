@@ -3,7 +3,7 @@ title: Sun/Uranus = Saturn
 page_type: activation
 slug: sun-uranus-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Uranus
@@ -15,10 +15,13 @@ triad_set:
   - Sun
   - Saturn
   - Uranus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Trying to rid oneself of something through physical efforts. To give birth. Sudden physical separations. To run away fast. Difficulties due to resistance. Painful and grievous surprises. Shaking with ague.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Sun/Uranus`
+- Source page: `96`
+- Entry: `0260`
+
+#### Ebertin Entry
+
+Rebellion against limitation of freedom. Inhibitions and difficulties overcome through extraordinary efforts. Sudden separation, sudden loss, separation from another person carried out in haste.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Sun/Uranus midpoint`
+- Source page: `17`
+- Activator: `Saturn`
+
+#### Sandbach Entry
+
+Shyness about displaying one’s uniqueness or differences. To be very sensitive about what places one apart from others. Over time one gradually gains more self-con fidence concerning one’s individual differences from others.
+
 ## Comparative Schema
 
-- core meaning: Trying to rid oneself of something through physical efforts. To give birth. Sudden physical separations. To run away fast. Difficulties due to resistance. Painful and grievous surprises. Shaking with ague.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Trying to rid oneself of something through physical efforts. To give birth. Sudd
 - [Uranus](../factors/uranus.md)
 - [Saturn](../factors/saturn.md)
 - [Sun/Uranus](../axes/sun-uranus.md)
+- [Sun Saturn Uranus](../triads/sun-saturn-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

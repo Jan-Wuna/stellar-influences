@@ -11,31 +11,32 @@ normalized_axis: Sun/Mercury
 factor_a: Sun
 factor_b: Mercury
 related_activations:
-  - Sun/Mercury = Aries
-  - Sun/Mercury = MC
+  - Sun/Mercury = Admetos
+  - Sun/Mercury = Apollon
   - Sun/Mercury = Asc
-  - Sun/Mercury = Moon
-  - Sun/Mercury = Node
-  - Sun/Mercury = Venus
-  - Sun/Mercury = Mars
-  - Sun/Mercury = Jupiter
-  - Sun/Mercury = Saturn
-  - Sun/Mercury = Uranus
-  - Sun/Mercury = Neptune
-  - Sun/Mercury = Pluto
+  - Sun/Mercury = Chiron
   - Sun/Mercury = Cupido
   - Sun/Mercury = Hades
-  - Sun/Mercury = Zeus
+  - Sun/Mercury = Jupiter
   - Sun/Mercury = Kronos
-  - Sun/Mercury = Apollon
-  - Sun/Mercury = Admetos
-  - Sun/Mercury = Vulcanus
+  - Sun/Mercury = Mars
+  - Sun/Mercury = MC
+  - Sun/Mercury = Moon
+  - Sun/Mercury = Neptune
+  - Sun/Mercury = Node
+  - Sun/Mercury = Pluto
   - Sun/Mercury = Poseidon
+  - Sun/Mercury = Saturn
+  - Sun/Mercury = Uranus
+  - Sun/Mercury = Venus
+  - Sun/Mercury = Vernal Point
+  - Sun/Mercury = Vulcanus
+  - Sun/Mercury = Zeus
 related_triad_hubs:
-  - Aries Sun Mercury
   - Sun Mercury Admetos
   - Sun Mercury Apollon
   - Sun Mercury Asc
+  - Sun Mercury Chiron
   - Sun Mercury Cupido
   - Sun Mercury Hades
   - Sun Mercury Jupiter
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Sun Mercury Vulcanus
   - Sun Mercury Zeus
   - Sun Moon Mercury
+  - Vernal Point Sun Mercury
 aliases:
   - Mercury/Sun
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 A body in motion. Young body. The head. The nerves. Consciousness. Thoughts in general. Youth. The thinking faculty. The mobility of the body. News of the day.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Sun/Mercury`
+- Source page: `80`
+
+#### Principle
+
+Mind and common sense, a thinking being, the power of thought, understanding and knowledge.
+
+#### Psychological Correspondence
+
++ Practical thinking, a clear mind, consciousness of objective, understanding and knowledge of the world, ability to organize, circumspection and prudence, a busy occupation. - Lack of clarity, absentminded, aimless. C A subjective or personal outlook.
+
+#### Biological Correspondence
+
+Connective tissue, the formation of granules, puberty of the male.
+
+#### Sociological Correspondence
+
+Young people, intellectual workers, business people.
+
+#### Probable Manifestations
+
++ Good chances of developing the practical and mental faculties, success in business. - Inclination to nervousness through overwork. O/S
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -120,6 +150,28 @@ Psychologically the mind will benefit by the cultivation of adaptability, and by
 #### Examples
 
 - The Conjunction: Kant, Edison, Gladstone, Gambetta, Mussolini, Ford, Rudolf Valentino (film actor), Goethe, Sarah Bernhardt, Louis XVI, Charles I, James I, J.P. Morgan
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Sun/Mercury midpoint`
+- Source page: `8`
+
+#### Principle
+
+The purposeful orqamzinq of thouqhts and the ability to rank ideas in terms of their relative importance. The ability to communicate objectively. The importance of one’s ideas. One’s own ideas. Egotistical thinking. Thinking for oneself.
+
+#### Process
+
+One perceives the relative value of each and every idea and is able to see them as a part of a larger, meaningful pattern. One prioritizes when one communi cates, which makes the communication clear and meaningful.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Sun/Mercury`
+- Source page: `201`
+
+#### Pair Delineation
+
+The mental and verbal expression of the will. The desire to communicate, know, and understand. Thinking about one's own self-expression. Very personal thinking. Expressing one's thoughts.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -164,26 +216,27 @@ The vitality of your nervous system; the overall state and efficiency of your lu
 
 ## Related Activations
 
-- [Sun/Mercury = Aries](../activations/sun-mercury-equals-aries.md)
-- [Sun/Mercury = MC](../activations/sun-mercury-equals-mc.md)
+- [Sun/Mercury = Admetos](../activations/sun-mercury-equals-admetos.md)
+- [Sun/Mercury = Apollon](../activations/sun-mercury-equals-apollon.md)
 - [Sun/Mercury = Asc](../activations/sun-mercury-equals-asc.md)
-- [Sun/Mercury = Moon](../activations/sun-mercury-equals-moon.md)
-- [Sun/Mercury = Node](../activations/sun-mercury-equals-node.md)
-- [Sun/Mercury = Venus](../activations/sun-mercury-equals-venus.md)
-- [Sun/Mercury = Mars](../activations/sun-mercury-equals-mars.md)
-- [Sun/Mercury = Jupiter](../activations/sun-mercury-equals-jupiter.md)
-- [Sun/Mercury = Saturn](../activations/sun-mercury-equals-saturn.md)
-- [Sun/Mercury = Uranus](../activations/sun-mercury-equals-uranus.md)
-- [Sun/Mercury = Neptune](../activations/sun-mercury-equals-neptune.md)
-- [Sun/Mercury = Pluto](../activations/sun-mercury-equals-pluto.md)
+- [Sun/Mercury = Chiron](../activations/sun-mercury-equals-chiron.md)
 - [Sun/Mercury = Cupido](../activations/sun-mercury-equals-cupido.md)
 - [Sun/Mercury = Hades](../activations/sun-mercury-equals-hades.md)
-- [Sun/Mercury = Zeus](../activations/sun-mercury-equals-zeus.md)
+- [Sun/Mercury = Jupiter](../activations/sun-mercury-equals-jupiter.md)
 - [Sun/Mercury = Kronos](../activations/sun-mercury-equals-kronos.md)
-- [Sun/Mercury = Apollon](../activations/sun-mercury-equals-apollon.md)
-- [Sun/Mercury = Admetos](../activations/sun-mercury-equals-admetos.md)
-- [Sun/Mercury = Vulcanus](../activations/sun-mercury-equals-vulcanus.md)
+- [Sun/Mercury = Mars](../activations/sun-mercury-equals-mars.md)
+- [Sun/Mercury = MC](../activations/sun-mercury-equals-mc.md)
+- [Sun/Mercury = Moon](../activations/sun-mercury-equals-moon.md)
+- [Sun/Mercury = Neptune](../activations/sun-mercury-equals-neptune.md)
+- [Sun/Mercury = Node](../activations/sun-mercury-equals-node.md)
+- [Sun/Mercury = Pluto](../activations/sun-mercury-equals-pluto.md)
 - [Sun/Mercury = Poseidon](../activations/sun-mercury-equals-poseidon.md)
+- [Sun/Mercury = Saturn](../activations/sun-mercury-equals-saturn.md)
+- [Sun/Mercury = Uranus](../activations/sun-mercury-equals-uranus.md)
+- [Sun/Mercury = Venus](../activations/sun-mercury-equals-venus.md)
+- [Sun/Mercury = Vernal Point](../activations/sun-mercury-equals-vernal-point.md)
+- [Sun/Mercury = Vulcanus](../activations/sun-mercury-equals-vulcanus.md)
+- [Sun/Mercury = Zeus](../activations/sun-mercury-equals-zeus.md)
 
 ## Contradictions
 
@@ -199,6 +252,9 @@ The vitality of your nervous system; the overall state and efficiency of your lu
 - [Sun](../factors/sun.md)
 - [Mercury](../factors/mercury.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

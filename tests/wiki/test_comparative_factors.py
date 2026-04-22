@@ -26,7 +26,9 @@ def test_shared_factor_pages_reference_both_sources():
         assert page.meta["source_pages"] == [
             "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
             "reinhold-ebertin-the-combination-of-stellar-influences",
+            "robert-hand-horoscope-symbols",
         ]
         assert "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures" in page.body
         assert "Reinhold Ebertin - The Combination of Stellar Influences" in page.body
+        assert "Robert Hand - Horoscope Symbols" in page.body
         assert "Contradictions and Framework Notes" in page.body

@@ -11,7 +11,7 @@ normalized_axis: Hades/Kronos
 factor_a: Hades
 factor_b: Kronos
 related_activations:
-  - Hades/Kronos = Aries
+  - Hades/Kronos = Vernal Point
   - Hades/Kronos = MC
   - Hades/Kronos = Asc
   - Hades/Kronos = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Hades/Kronos = Vulcanus
   - Hades/Kronos = Poseidon
 related_triad_hubs:
-  - Aries Hades Kronos
   - Asc Hades Kronos
   - Cupido Hades Kronos
   - Hades Kronos Admetos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Hades Kronos
   - Uranus Hades Kronos
   - Venus Hades Kronos
+  - Vernal Point Hades Kronos
 aliases:
   - Kronos/Hades
 source_pages:
@@ -85,7 +85,7 @@ Great baseness and meanness, poverty or want. Poor government. Plain clothes pol
 
 ## Related Activations
 
-- [Hades/Kronos = Aries](../activations/hades-kronos-equals-aries.md)
+- [Hades/Kronos = Vernal Point](../activations/hades-kronos-equals-vernal-point.md)
 - [Hades/Kronos = MC](../activations/hades-kronos-equals-mc.md)
 - [Hades/Kronos = Asc](../activations/hades-kronos-equals-asc.md)
 - [Hades/Kronos = Sun](../activations/hades-kronos-equals-sun.md)

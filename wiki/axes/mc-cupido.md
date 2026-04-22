@@ -11,7 +11,7 @@ normalized_axis: MC/Cupido
 factor_a: MC
 factor_b: Cupido
 related_activations:
-  - MC/Cupido = Aries
+  - MC/Cupido = Vernal Point
   - MC/Cupido = Asc
   - MC/Cupido = Sun
   - MC/Cupido = Moon
@@ -32,7 +32,6 @@ related_activations:
   - MC/Cupido = Vulcanus
   - MC/Cupido = Poseidon
 related_triad_hubs:
-  - Aries MC Cupido
   - Asc MC Cupido
   - Jupiter MC Cupido
   - Mars MC Cupido
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun MC Cupido
   - Uranus MC Cupido
   - Venus MC Cupido
+  - Vernal Point MC Cupido
 aliases:
   - Cupido/MC
 source_pages:
@@ -85,7 +85,7 @@ Family and community minded. Enjoying art. Artistic taste. One’s attitude towa
 
 ## Related Activations
 
-- [MC/Cupido = Aries](../activations/mc-cupido-equals-aries.md)
+- [MC/Cupido = Vernal Point](../activations/mc-cupido-equals-vernal-point.md)
 - [MC/Cupido = Asc](../activations/mc-cupido-equals-asc.md)
 - [MC/Cupido = Sun](../activations/mc-cupido-equals-sun.md)
 - [MC/Cupido = Moon](../activations/mc-cupido-equals-moon.md)

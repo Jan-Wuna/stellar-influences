@@ -9,7 +9,7 @@ if __package__ in {None, ""}:
     sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from tools.rebuild_index import build_index
-from tools.wiki_identity import astronomicon_token, normalize_activation, normalize_axis
+from tools.wiki_identity import astronomicon_token, factor_slug, normalize_activation, normalize_axis, triad_slug
 from tools.witte_source import ActivationEntry, FACTOR_SEQUENCE, FactorBlock, PairBlock, generate_models
 
 
@@ -21,7 +21,7 @@ FRAMEWORK_SCOPE = "hamburg_school"
 
 FACTOR_INDEX = {name: index for index, name in enumerate(FACTOR_SEQUENCE)}
 FACTOR_ALIASES = {
-    "Aries": ["Aries Point"],
+    "Vernal Point": ["VP"],
     "MC": ["Meridian"],
     "Asc": ["Ascendant"],
     "Node": ["Lunar Nodes"],
@@ -175,8 +175,7 @@ def _activation_page_text(pair: PairBlock, entry: ActivationEntry, updated_at: s
     triad_yaml = "\n".join(f"  - {name}" for name in identity.triad_set)
     triad_link = ""
     if identity.has_distinct_triad:
-        triad_slug = "-".join(name.lower() for name in identity.triad_set)
-        triad_link = f"- Triad hub: [{' '.join(identity.triad_set)}](../triads/{triad_slug}.md)\n"
+        triad_link = f"- Triad hub: [{' '.join(identity.triad_set)}](../triads/{triad_slug(identity.triad_set)}.md)\n"
     else:
         triad_link = "- Repeated-pair identity: no distinct triad hub exists for this activation.\n"
     return f"""---
@@ -232,9 +231,9 @@ updated_at: {updated_at}
 
 ## Links
 
-- [{identity.axis.factors[0]}](../factors/{identity.axis.factors[0].lower()}.md)
-- [{identity.axis.factors[1]}](../factors/{identity.axis.factors[1].lower()}.md)
-- [{entry.activated_by}](../factors/{entry.activated_by.lower()}.md)
+- [{identity.axis.factors[0]}](../factors/{factor_slug(identity.axis.factors[0])}.md)
+- [{identity.axis.factors[1]}](../factors/{factor_slug(identity.axis.factors[1])}.md)
+- [{entry.activated_by}](../factors/{factor_slug(entry.activated_by)}.md)
 - [{identity.axis.display}](../axes/{identity.axis.slug}.md)
 """
 
@@ -320,8 +319,8 @@ updated_at: {updated_at}
 
 ## Links
 
-- [{identity.factors[0]}](../factors/{identity.factors[0].lower()}.md)
-- [{identity.factors[1]}](../factors/{identity.factors[1].lower()}.md)
+- [{identity.factors[0]}](../factors/{factor_slug(identity.factors[0])}.md)
+- [{identity.factors[1]}](../factors/{factor_slug(identity.factors[1])}.md)
 - [{SOURCE_TITLE}](../sources/{SOURCE_SLUG}.md)
 """
 
@@ -364,7 +363,7 @@ def _factor_page_text(
     return f"""---
 title: {factor.factor}
 page_type: factor
-slug: {factor.factor.lower()}
+slug: {factor_slug(factor.factor)}
 status: source_ingested
 framework_scope: {FRAMEWORK_SCOPE}
 factors:
@@ -416,7 +415,7 @@ def _triad_page_text(orientation_entries: list[tuple[PairBlock, ActivationEntry]
     first_pair, first_entry = orientation_entries[0]
     first_identity = normalize_activation(first_pair.factor_a, first_pair.factor_b, first_entry.activated_by)
     title = " ".join(first_identity.triad_set)
-    slug = "-".join(name.lower() for name in first_identity.triad_set)
+    slug = triad_slug(first_identity.triad_set)
     astronomicon_triad = _astronomicon_triad(first_identity.triad_set)
     astronomicon_line = (
         f"- Astronomicon triad-set: `{astronomicon_triad}`\n"
@@ -445,7 +444,7 @@ def _triad_page_text(orientation_entries: list[tuple[PairBlock, ActivationEntry]
     )
     factors_yaml = _yaml_list(list(first_identity.triad_set), indent=2)
     links = "\n".join(
-        f"- [{factor}](../factors/{factor.lower()}.md)" for factor in first_identity.triad_set
+        f"- [{factor}](../factors/{factor_slug(factor)}.md)" for factor in first_identity.triad_set
     )
     return f"""---
 title: {title}
@@ -498,7 +497,7 @@ def render_source_page(
     activation_count: int,
     updated_at: str,
 ) -> str:
-    factor_links = "\n".join(f"- [{factor.factor}](../factors/{factor.factor.lower()}.md)" for factor in factors)
+    factor_links = "\n".join(f"- [{factor.factor}](../factors/{factor_slug(factor.factor)}.md)" for factor in factors)
     duplicate_count = len(raw_pair_blocks) - len(pair_blocks)
     return f"""---
 title: {SOURCE_TITLE}
@@ -581,13 +580,12 @@ def main() -> None:
 
     for factor in factor_blocks:
         _write(
-            factor_dir / f"{factor.factor.lower()}.md",
+            factor_dir / f"{factor_slug(factor.factor)}.md",
             _factor_page_text(factor, pair_blocks, activation_index[factor.factor], UPDATED_AT),
         )
 
     for triad_set, orientation_entries in triads.items():
-        slug = "-".join(name.lower() for name in triad_set)
-        _write(triad_dir / f"{slug}.md", _triad_page_text(orientation_entries, UPDATED_AT))
+        _write(triad_dir / f"{triad_slug(triad_set)}.md", _triad_page_text(orientation_entries, UPDATED_AT))
 
     _write(
         source_dir / f"{SOURCE_SLUG}.md",

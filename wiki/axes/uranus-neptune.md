@@ -11,28 +11,29 @@ normalized_axis: Uranus/Neptune
 factor_a: Uranus
 factor_b: Neptune
 related_activations:
-  - Uranus/Neptune = Aries
-  - Uranus/Neptune = MC
+  - Uranus/Neptune = Admetos
+  - Uranus/Neptune = Apollon
   - Uranus/Neptune = Asc
-  - Uranus/Neptune = Sun
-  - Uranus/Neptune = Moon
-  - Uranus/Neptune = Node
-  - Uranus/Neptune = Mercury
-  - Uranus/Neptune = Venus
-  - Uranus/Neptune = Mars
-  - Uranus/Neptune = Jupiter
-  - Uranus/Neptune = Saturn
-  - Uranus/Neptune = Pluto
+  - Uranus/Neptune = Chiron
   - Uranus/Neptune = Cupido
   - Uranus/Neptune = Hades
-  - Uranus/Neptune = Zeus
+  - Uranus/Neptune = Jupiter
   - Uranus/Neptune = Kronos
-  - Uranus/Neptune = Apollon
-  - Uranus/Neptune = Admetos
-  - Uranus/Neptune = Vulcanus
+  - Uranus/Neptune = Mars
+  - Uranus/Neptune = MC
+  - Uranus/Neptune = Mercury
+  - Uranus/Neptune = Moon
+  - Uranus/Neptune = Node
+  - Uranus/Neptune = Pluto
   - Uranus/Neptune = Poseidon
+  - Uranus/Neptune = Saturn
+  - Uranus/Neptune = Sun
+  - Uranus/Neptune = Venus
+  - Uranus/Neptune = Vernal Point
+  - Uranus/Neptune = Vulcanus
+  - Uranus/Neptune = Zeus
 related_triad_hubs:
-  - Aries Uranus Neptune
+  - Chiron Uranus Neptune
   - Jupiter Uranus Neptune
   - Mars Uranus Neptune
   - Mercury Uranus Neptune
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Uranus Neptune Vulcanus
   - Uranus Neptune Zeus
   - Venus Uranus Neptune
+  - Vernal Point Uranus Neptune
 aliases:
   - Neptune/Uranus
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 Suddenly incapacitated. Unconsciousness. Checkmated. The transition into the beyond. Crisis. Dead persons. Revolution. Sudden disagreeable events. To cause sudden confusion and deception of a revolutionary kind. To give up something. To bring an end to something. Futile excitement. Sudden uncertainty.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Uranus/Neptune`
+- Source page: `265`
+
+#### Principle
+
+Elimination of the waking consciousness.
+
+#### Psychological Correspondence
+
++ The development and growth of subconscious powers or forces, inner vision, inner illumination and enlightenment, inspiration, idealism, an interest in spiritual subjects, religious problems, mysticism, art. - Lack of control of the waking consciousness leads to want of clarity. Instability, lack of emotional balance, nervous sensitivity, wrong ideas, one-sidedness. C Extraordinary and unusual inclinations.
+
+#### Biological Correspondence
+
+Paralysis of rhythmic processes. Heart failure, apoplexy of the brain. (A still-bom child.)
+
+#### Sociological Correspondence
+
+Mystics, people engaged in psychic research, mediums.
+
+#### Probable Manifestations
+
++ Peculiar psychic states, inspiration, spiritual cognition and understanding. Long journeys. (Contacts with foreign countries.) - Lack of stamina and vitality, confused psychic states, peculiar inclinations, losses. 58 Even though the conjunction of Uranus and Neptune does not appear in the charts of the present generation these effects do occur in the case of directions and transits. For rectification of the time of birth it is useful to examine the death of relatives and it often will be found that Uranus/Neptune was in the death axis at the time. In the statistical examination of several hundred still births this configuration was found very frequently. However this also is found in the case of a period of temporary unconsciousness, It is therefore important never to give this interpretation when directions occur stating that death is likely. So often this mid-point occurs in life without the worst happening. We cannot too often stress the importance of being careful in these cases. Uranus/Neptune W/V
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -131,6 +161,28 @@ Much of the unhappiness, "never been young" attitude of modern youth, their conf
 - The Conjunction: General Grant, Pasteur, Queen Victoria, Mrs. Eddy, Sir Richard Burton, Ruskin, W.H. Chaney (American astrologer), President Kruger, A.R. Wallace, Caesar Borgia, F.B. Cobbe (anti-vivisectionist).
 - Inharmonious: Nicholas II of Russia, Ghandhi, Ramsay MacDonald, Harry Lauder.
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Uranus/Neptune midpoint`
+- Source page: `104`
+
+#### Principle
+
+The originality and uniqueness of one’s imagination. The freeing up of one’s imagination and intuitive perception, which can induce visions and revelations. Upsets which cause confusion and derangement, the purpose of these being to open the consciousness to higher realities. The refinement of one’s own special gifts and talents. The way one relates to the mass consciousness.
+
+#### Process
+
+The liberation of one’s inner vision from the repressions imposed by the con scious mind, so that spiritual realities can be more clearly seen. The receiving of deep insights into one’s own personal evolution and destiny.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Uranus/Neptune`
+- Source page: `211`
+
+#### Pair Delineation
+
+Loss of consciousness, altered or alternate states of consciousness, the mystical or occult. Revolutionary ideals. Sudden disappearances, the transition into the beyond.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `URANUS/NEPTUNE`
@@ -174,26 +226,27 @@ Unpredictable and abrupt reactions to drugs; shock or remission due to causes di
 
 ## Related Activations
 
-- [Uranus/Neptune = Aries](../activations/uranus-neptune-equals-aries.md)
-- [Uranus/Neptune = MC](../activations/uranus-neptune-equals-mc.md)
+- [Uranus/Neptune = Admetos](../activations/uranus-neptune-equals-admetos.md)
+- [Uranus/Neptune = Apollon](../activations/uranus-neptune-equals-apollon.md)
 - [Uranus/Neptune = Asc](../activations/uranus-neptune-equals-asc.md)
-- [Uranus/Neptune = Sun](../activations/uranus-neptune-equals-sun.md)
-- [Uranus/Neptune = Moon](../activations/uranus-neptune-equals-moon.md)
-- [Uranus/Neptune = Node](../activations/uranus-neptune-equals-node.md)
-- [Uranus/Neptune = Mercury](../activations/uranus-neptune-equals-mercury.md)
-- [Uranus/Neptune = Venus](../activations/uranus-neptune-equals-venus.md)
-- [Uranus/Neptune = Mars](../activations/uranus-neptune-equals-mars.md)
-- [Uranus/Neptune = Jupiter](../activations/uranus-neptune-equals-jupiter.md)
-- [Uranus/Neptune = Saturn](../activations/uranus-neptune-equals-saturn.md)
-- [Uranus/Neptune = Pluto](../activations/uranus-neptune-equals-pluto.md)
+- [Uranus/Neptune = Chiron](../activations/uranus-neptune-equals-chiron.md)
 - [Uranus/Neptune = Cupido](../activations/uranus-neptune-equals-cupido.md)
 - [Uranus/Neptune = Hades](../activations/uranus-neptune-equals-hades.md)
-- [Uranus/Neptune = Zeus](../activations/uranus-neptune-equals-zeus.md)
+- [Uranus/Neptune = Jupiter](../activations/uranus-neptune-equals-jupiter.md)
 - [Uranus/Neptune = Kronos](../activations/uranus-neptune-equals-kronos.md)
-- [Uranus/Neptune = Apollon](../activations/uranus-neptune-equals-apollon.md)
-- [Uranus/Neptune = Admetos](../activations/uranus-neptune-equals-admetos.md)
-- [Uranus/Neptune = Vulcanus](../activations/uranus-neptune-equals-vulcanus.md)
+- [Uranus/Neptune = Mars](../activations/uranus-neptune-equals-mars.md)
+- [Uranus/Neptune = MC](../activations/uranus-neptune-equals-mc.md)
+- [Uranus/Neptune = Mercury](../activations/uranus-neptune-equals-mercury.md)
+- [Uranus/Neptune = Moon](../activations/uranus-neptune-equals-moon.md)
+- [Uranus/Neptune = Node](../activations/uranus-neptune-equals-node.md)
+- [Uranus/Neptune = Pluto](../activations/uranus-neptune-equals-pluto.md)
 - [Uranus/Neptune = Poseidon](../activations/uranus-neptune-equals-poseidon.md)
+- [Uranus/Neptune = Saturn](../activations/uranus-neptune-equals-saturn.md)
+- [Uranus/Neptune = Sun](../activations/uranus-neptune-equals-sun.md)
+- [Uranus/Neptune = Venus](../activations/uranus-neptune-equals-venus.md)
+- [Uranus/Neptune = Vernal Point](../activations/uranus-neptune-equals-vernal-point.md)
+- [Uranus/Neptune = Vulcanus](../activations/uranus-neptune-equals-vulcanus.md)
+- [Uranus/Neptune = Zeus](../activations/uranus-neptune-equals-zeus.md)
 
 ## Contradictions
 
@@ -209,6 +262,9 @@ Unpredictable and abrupt reactions to drugs; shock or remission due to causes di
 - [Uranus](../factors/uranus.md)
 - [Neptune](../factors/neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

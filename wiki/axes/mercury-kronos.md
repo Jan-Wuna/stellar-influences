@@ -11,7 +11,7 @@ normalized_axis: Mercury/Kronos
 factor_a: Mercury
 factor_b: Kronos
 related_activations:
-  - Mercury/Kronos = Aries
+  - Mercury/Kronos = Vernal Point
   - Mercury/Kronos = MC
   - Mercury/Kronos = Asc
   - Mercury/Kronos = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Mercury/Kronos = Vulcanus
   - Mercury/Kronos = Poseidon
 related_triad_hubs:
-  - Aries Mercury Kronos
   - Mercury Asc Kronos
   - Mercury Cupido Kronos
   - Mercury Hades Kronos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Mercury Zeus Kronos
   - Moon Mercury Kronos
   - Sun Mercury Kronos
+  - Vernal Point Mercury Kronos
 aliases:
   - Kronos/Mercury
 source_pages:
@@ -85,7 +85,7 @@ Lofty mental qualities. A noble way of thinking. Honorable thinking. Great thoug
 
 ## Related Activations
 
-- [Mercury/Kronos = Aries](../activations/mercury-kronos-equals-aries.md)
+- [Mercury/Kronos = Vernal Point](../activations/mercury-kronos-equals-vernal-point.md)
 - [Mercury/Kronos = MC](../activations/mercury-kronos-equals-mc.md)
 - [Mercury/Kronos = Asc](../activations/mercury-kronos-equals-asc.md)
 - [Mercury/Kronos = Sun](../activations/mercury-kronos-equals-sun.md)

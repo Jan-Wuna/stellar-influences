@@ -11,7 +11,7 @@ normalized_axis: Node/Admetos
 factor_a: Node
 factor_b: Admetos
 related_activations:
-  - Node/Admetos = Aries
+  - Node/Admetos = Vernal Point
   - Node/Admetos = MC
   - Node/Admetos = Asc
   - Node/Admetos = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Node/Admetos = Vulcanus
   - Node/Admetos = Poseidon
 related_triad_hubs:
-  - Aries Node Admetos
   - Jupiter Node Admetos
   - Mars Node Admetos
   - Mercury Node Admetos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Node Admetos
   - Uranus Node Admetos
   - Venus Node Admetos
+  - Vernal Point Node Admetos
 aliases:
   - Admetos/Node
 source_pages:
@@ -85,7 +85,7 @@ Small exclusive circle. Connections with a few. Shackles. Connections which are 
 
 ## Related Activations
 
-- [Node/Admetos = Aries](../activations/node-admetos-equals-aries.md)
+- [Node/Admetos = Vernal Point](../activations/node-admetos-equals-vernal-point.md)
 - [Node/Admetos = MC](../activations/node-admetos-equals-mc.md)
 - [Node/Admetos = Asc](../activations/node-admetos-equals-asc.md)
 - [Node/Admetos = Sun](../activations/node-admetos-equals-sun.md)

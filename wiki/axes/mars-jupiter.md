@@ -11,31 +11,32 @@ normalized_axis: Mars/Jupiter
 factor_a: Mars
 factor_b: Jupiter
 related_activations:
-  - Mars/Jupiter = Aries
-  - Mars/Jupiter = MC
+  - Mars/Jupiter = Admetos
+  - Mars/Jupiter = Apollon
   - Mars/Jupiter = Asc
-  - Mars/Jupiter = Sun
-  - Mars/Jupiter = Moon
-  - Mars/Jupiter = Node
-  - Mars/Jupiter = Mercury
-  - Mars/Jupiter = Venus
-  - Mars/Jupiter = Saturn
-  - Mars/Jupiter = Uranus
-  - Mars/Jupiter = Neptune
-  - Mars/Jupiter = Pluto
+  - Mars/Jupiter = Chiron
   - Mars/Jupiter = Cupido
   - Mars/Jupiter = Hades
-  - Mars/Jupiter = Zeus
   - Mars/Jupiter = Kronos
-  - Mars/Jupiter = Apollon
-  - Mars/Jupiter = Admetos
-  - Mars/Jupiter = Vulcanus
+  - Mars/Jupiter = MC
+  - Mars/Jupiter = Mercury
+  - Mars/Jupiter = Moon
+  - Mars/Jupiter = Neptune
+  - Mars/Jupiter = Node
+  - Mars/Jupiter = Pluto
   - Mars/Jupiter = Poseidon
+  - Mars/Jupiter = Saturn
+  - Mars/Jupiter = Sun
+  - Mars/Jupiter = Uranus
+  - Mars/Jupiter = Venus
+  - Mars/Jupiter = Vernal Point
+  - Mars/Jupiter = Vulcanus
+  - Mars/Jupiter = Zeus
 related_triad_hubs:
-  - Aries Mars Jupiter
   - Mars Jupiter Admetos
   - Mars Jupiter Apollon
   - Mars Jupiter Asc
+  - Mars Jupiter Chiron
   - Mars Jupiter Cupido
   - Mars Jupiter Hades
   - Mars Jupiter Kronos
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Moon Mars Jupiter
   - Sun Mars Jupiter
   - Venus Mars Jupiter
+  - Vernal Point Mars Jupiter
 aliases:
   - Jupiter/Mars
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 Joyous happenings. Betrothal. Fortunate deed. To create something. To produce. Successful propagation. Pregnancy. Generation. Children. Fruits. Lucky deed. Joy of work. Fortunate accomplishments. Much to do. Work or activity for justice or money.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mars/Jupiter`
+- Source page: `201`
+
+#### Principle
+
+Successful creative activity, a fortunate decision.
+
+#### Psychological Correspondence
+
++ Willpower directed harmoniously, love of enterprise, joy of living, urge to live an active life, pride, sense of honor, urge for freedom, organizing talent, creative power, ability to procreate. - Rebellious regarding rules and regulations, as well as superiors, inclination to exaggerate, hastiness or premature action, immoderate. C The power to concentrate upon a particular aim or objective, energy, ambition, urge for activity, ability to quickly make decisions and to cope with every situation.
+
+#### Biological Correspondence
+
+The activity of the organs, smooth muscular tissue, heart muscle. The completed birth, the first cry.
+
+#### Sociological Correspondence
+
+A person successful in an enterprise (e.g., a manufacturer or the managing director of a company), capable organizer, propagandists. Learned and educated people, academicians belonging to the legal profession. Jurists or writers on law, civil servants or government officials.
+
+#### Probable Manifestations
+
++ Successful enterprise, fortunate business deal or settlement, successful results in one's profession, vocation or occupation. Agreements, contracts, getting engaged, marriage, births. - Resolutions and decisions, settlement of conflicts, clearing the air after disputes or quarrels, rebellion against guardianship or tutelage, marital differences. Mars/Jupiter dVU
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -139,6 +169,28 @@ The effects on the health are likely to be through overstrain, over-excitement, 
 - The Conjunction: Pierpont Morgan, J.D. Rockefeller, "Great Wealth" (Notable Nativities), Clemenceau, Krishnamurti, Rudolf Valentino, Swinburne, Ruskin, Burnand (editor of Punch), Amelia Earhart (flew Atlantic), W.S. Gilbert, Charles de Gaulle.
 - Inharmonious: Abbas Effendi, George Eliot, William Blake, Cecil Rhodes, Grossadmiral von Tirpitz
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mars/Jupiter midpoint`
+- Source page: `67`
+
+#### Principle
+
+Enthusiastic action, which often imbues what one does with the possibility of success. To be confident in one’s ability to effectively assert oneself which could be because one really does have competence in what one is trying to do, or which could result in failure due to over-estimation of one’s energy and abilities, or mis-estimation of circumstances. To over-do something. To go too far. To engage in destructive excess. A fine ability for negotiating.
+
+#### Process
+
+To actively and assertively reach out to others in generous and exuberant fashion. To continue to enlarge one’s viewpoint and understanding as a means of learn ing from conflicts and overcoming one’s own destructive impulses.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Mars/Jupiter`
+- Source page: `207`
+
+#### Pair Delineation
+
+Fortunate action, action leading to growth. Luck arising from a good sense of timing. Physical and athletic prowess. Creative actions leading to an increase in opportunity. Often associated with births and marriages.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MARS/JUPITER`
@@ -182,26 +234,27 @@ Strength of limb; gross motor control; improving muscle tone; hypo-adrenalism; a
 
 ## Related Activations
 
-- [Mars/Jupiter = Aries](../activations/mars-jupiter-equals-aries.md)
-- [Mars/Jupiter = MC](../activations/mars-jupiter-equals-mc.md)
+- [Mars/Jupiter = Admetos](../activations/mars-jupiter-equals-admetos.md)
+- [Mars/Jupiter = Apollon](../activations/mars-jupiter-equals-apollon.md)
 - [Mars/Jupiter = Asc](../activations/mars-jupiter-equals-asc.md)
-- [Mars/Jupiter = Sun](../activations/mars-jupiter-equals-sun.md)
-- [Mars/Jupiter = Moon](../activations/mars-jupiter-equals-moon.md)
-- [Mars/Jupiter = Node](../activations/mars-jupiter-equals-node.md)
-- [Mars/Jupiter = Mercury](../activations/mars-jupiter-equals-mercury.md)
-- [Mars/Jupiter = Venus](../activations/mars-jupiter-equals-venus.md)
-- [Mars/Jupiter = Saturn](../activations/mars-jupiter-equals-saturn.md)
-- [Mars/Jupiter = Uranus](../activations/mars-jupiter-equals-uranus.md)
-- [Mars/Jupiter = Neptune](../activations/mars-jupiter-equals-neptune.md)
-- [Mars/Jupiter = Pluto](../activations/mars-jupiter-equals-pluto.md)
+- [Mars/Jupiter = Chiron](../activations/mars-jupiter-equals-chiron.md)
 - [Mars/Jupiter = Cupido](../activations/mars-jupiter-equals-cupido.md)
 - [Mars/Jupiter = Hades](../activations/mars-jupiter-equals-hades.md)
-- [Mars/Jupiter = Zeus](../activations/mars-jupiter-equals-zeus.md)
 - [Mars/Jupiter = Kronos](../activations/mars-jupiter-equals-kronos.md)
-- [Mars/Jupiter = Apollon](../activations/mars-jupiter-equals-apollon.md)
-- [Mars/Jupiter = Admetos](../activations/mars-jupiter-equals-admetos.md)
-- [Mars/Jupiter = Vulcanus](../activations/mars-jupiter-equals-vulcanus.md)
+- [Mars/Jupiter = MC](../activations/mars-jupiter-equals-mc.md)
+- [Mars/Jupiter = Mercury](../activations/mars-jupiter-equals-mercury.md)
+- [Mars/Jupiter = Moon](../activations/mars-jupiter-equals-moon.md)
+- [Mars/Jupiter = Neptune](../activations/mars-jupiter-equals-neptune.md)
+- [Mars/Jupiter = Node](../activations/mars-jupiter-equals-node.md)
+- [Mars/Jupiter = Pluto](../activations/mars-jupiter-equals-pluto.md)
 - [Mars/Jupiter = Poseidon](../activations/mars-jupiter-equals-poseidon.md)
+- [Mars/Jupiter = Saturn](../activations/mars-jupiter-equals-saturn.md)
+- [Mars/Jupiter = Sun](../activations/mars-jupiter-equals-sun.md)
+- [Mars/Jupiter = Uranus](../activations/mars-jupiter-equals-uranus.md)
+- [Mars/Jupiter = Venus](../activations/mars-jupiter-equals-venus.md)
+- [Mars/Jupiter = Vernal Point](../activations/mars-jupiter-equals-vernal-point.md)
+- [Mars/Jupiter = Vulcanus](../activations/mars-jupiter-equals-vulcanus.md)
+- [Mars/Jupiter = Zeus](../activations/mars-jupiter-equals-zeus.md)
 
 ## Contradictions
 
@@ -217,6 +270,9 @@ Strength of limb; gross motor control; improving muscle tone; hypo-adrenalism; a
 - [Mars](../factors/mars.md)
 - [Jupiter](../factors/jupiter.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

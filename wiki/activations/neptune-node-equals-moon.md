@@ -3,10 +3,10 @@ title: Neptune/Node = Moon
 page_type: activation
 slug: neptune-node-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Neptune
+  - Node
   - Moon
 normalized_formula: Neptune/Node = Moon
 axis: Neptune/Node
@@ -15,10 +15,13 @@ triad_set:
   - Moon
   - Neptune
   - Node
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 To be tied to people who are confused and without counsel. Marital separations.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Neptune/Dragon's Head`
+- Source page: `35`
+- Entry: `1012`
+
+#### Ebertin Entry
+
+Lack of adaptability and community spirit. Disappointments, unsatisfactory relationships with females, cessation of an inner understanding between people.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Neptune/Node midpoint`
+- Source page: `111`
+- Activator: `Moon`
+
+#### Sandbach Entry
+
+The emotional need to connect to people with whom one feels a psychic affinity. To feel vulnerable to subtle influences coming from one’s connections. The desire to find nurturing through sharing ideals with others.
+
 ## Comparative Schema
 
-- core meaning: To be tied to people who are confused and without counsel. Marital separations.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ To be tied to people who are confused and without counsel. Marital separations.
 - [Node](../factors/node.md)
 - [Moon](../factors/moon.md)
 - [Neptune/Node](../axes/neptune-node.md)
+- [Moon Neptune Node](../triads/moon-neptune-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

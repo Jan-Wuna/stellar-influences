@@ -3,10 +3,10 @@ title: Jupiter/Asc = Sun
 page_type: activation
 slug: jupiter-asc-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Jupiter
+  - Asc
   - Sun
 normalized_formula: Jupiter/Asc = Sun
 axis: Jupiter/Asc
@@ -15,10 +15,13 @@ triad_set:
   - Sun
   - Jupiter
   - Asc
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Pleasant associations.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Jupiter/Ascendant`
+- Source page: `241`
+- Entry: `0843`
+
+#### Ebertin Entry
+
+The capacity to enjoy pleasant and congenial company, preference for social contacts with generous or rich persons, desire to create a beautiful home. A fortunate or influential association.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Jupiter/Ascendant midpoint`
+- Source page: `85`
+- Activator: `Sun`
+
+#### Sandbach Entry
+
+One expresses one’s goals with a lot of enthusiasm and approaches them in the same way. One is vitalized by expansive and growing relationships. One’s sense of life’s meaning is expressed through an exuberant personality.
+
 ## Comparative Schema
 
-- core meaning: Pleasant associations.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Pleasant associations.
 - [Asc](../factors/asc.md)
 - [Sun](../factors/sun.md)
 - [Jupiter/Asc](../axes/jupiter-asc.md)
+- [Sun Jupiter Asc](../triads/sun-jupiter-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

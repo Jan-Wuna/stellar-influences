@@ -11,7 +11,7 @@ normalized_axis: Asc/Apollon
 factor_a: Asc
 factor_b: Apollon
 related_activations:
-  - Asc/Apollon = Aries
+  - Asc/Apollon = Vernal Point
   - Asc/Apollon = MC
   - Asc/Apollon = Sun
   - Asc/Apollon = Moon
@@ -32,7 +32,6 @@ related_activations:
   - Asc/Apollon = Vulcanus
   - Asc/Apollon = Poseidon
 related_triad_hubs:
-  - Aries Asc Apollon
   - Asc Apollon Admetos
   - Asc Apollon Poseidon
   - Asc Apollon Vulcanus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Asc Apollon
   - Uranus Asc Apollon
   - Venus Asc Apollon
+  - Vernal Point Asc Apollon
 aliases:
   - Apollon/Asc
 source_pages:
@@ -85,7 +85,7 @@ Equalization of others. Many acquaintances. To have customers. Acquaintance with
 
 ## Related Activations
 
-- [Asc/Apollon = Aries](../activations/asc-apollon-equals-aries.md)
+- [Asc/Apollon = Vernal Point](../activations/asc-apollon-equals-vernal-point.md)
 - [Asc/Apollon = MC](../activations/asc-apollon-equals-mc.md)
 - [Asc/Apollon = Sun](../activations/asc-apollon-equals-sun.md)
 - [Asc/Apollon = Moon](../activations/asc-apollon-equals-moon.md)

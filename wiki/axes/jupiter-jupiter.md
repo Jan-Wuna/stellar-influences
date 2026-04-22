@@ -11,7 +11,7 @@ normalized_axis: Jupiter/Jupiter
 factor_a: Jupiter
 factor_b: Jupiter
 related_activations:
-  - Jupiter/Jupiter = Aries
+  - Jupiter/Jupiter = Vernal Point
   - Jupiter/Jupiter = MC
   - Jupiter/Jupiter = Asc
   - Jupiter/Jupiter = Sun
@@ -67,7 +67,7 @@ Gaiety. Contentment. Happiness. Good luck. Money. Success. Satisfaction. Benefic
 
 ## Related Activations
 
-- [Jupiter/Jupiter = Aries](../activations/jupiter-jupiter-equals-aries.md)
+- [Jupiter/Jupiter = Vernal Point](../activations/jupiter-jupiter-equals-vernal-point.md)
 - [Jupiter/Jupiter = MC](../activations/jupiter-jupiter-equals-mc.md)
 - [Jupiter/Jupiter = Asc](../activations/jupiter-jupiter-equals-asc.md)
 - [Jupiter/Jupiter = Sun](../activations/jupiter-jupiter-equals-sun.md)

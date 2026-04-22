@@ -11,7 +11,7 @@ normalized_axis: Moon/Cupido
 factor_a: Moon
 factor_b: Cupido
 related_activations:
-  - Moon/Cupido = Aries
+  - Moon/Cupido = Vernal Point
   - Moon/Cupido = MC
   - Moon/Cupido = Asc
   - Moon/Cupido = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Moon/Cupido = Vulcanus
   - Moon/Cupido = Poseidon
 related_triad_hubs:
-  - Aries Moon Cupido
   - Moon Asc Cupido
   - Moon Cupido Admetos
   - Moon Cupido Apollon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Moon Uranus Cupido
   - Moon Venus Cupido
   - Sun Moon Cupido
+  - Vernal Point Moon Cupido
 aliases:
   - Cupido/Moon
 source_pages:
@@ -85,7 +85,7 @@ The bride. The wife. Mother-in-law. Hours of leisure. Shaping. Hours of relaxati
 
 ## Related Activations
 
-- [Moon/Cupido = Aries](../activations/moon-cupido-equals-aries.md)
+- [Moon/Cupido = Vernal Point](../activations/moon-cupido-equals-vernal-point.md)
 - [Moon/Cupido = MC](../activations/moon-cupido-equals-mc.md)
 - [Moon/Cupido = Asc](../activations/moon-cupido-equals-asc.md)
 - [Moon/Cupido = Sun](../activations/moon-cupido-equals-sun.md)

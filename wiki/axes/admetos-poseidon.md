@@ -11,7 +11,7 @@ normalized_axis: Admetos/Poseidon
 factor_a: Admetos
 factor_b: Poseidon
 related_activations:
-  - Admetos/Poseidon = Aries
+  - Admetos/Poseidon = Vernal Point
   - Admetos/Poseidon = MC
   - Admetos/Poseidon = Asc
   - Admetos/Poseidon = Sun
@@ -34,7 +34,6 @@ related_activations:
 related_triad_hubs:
   - Admetos Vulcanus Poseidon
   - Apollon Admetos Poseidon
-  - Aries Admetos Poseidon
   - Asc Admetos Poseidon
   - Cupido Admetos Poseidon
   - Hades Admetos Poseidon
@@ -51,6 +50,7 @@ related_triad_hubs:
   - Sun Admetos Poseidon
   - Uranus Admetos Poseidon
   - Venus Admetos Poseidon
+  - Vernal Point Admetos Poseidon
   - Zeus Admetos Poseidon
 aliases:
   - Poseidon/Admetos
@@ -85,7 +85,7 @@ Culture. Education. Mental depth. Fine, subtle material. The atom. Radiation. Vi
 
 ## Related Activations
 
-- [Admetos/Poseidon = Aries](../activations/admetos-poseidon-equals-aries.md)
+- [Admetos/Poseidon = Vernal Point](../activations/admetos-poseidon-equals-vernal-point.md)
 - [Admetos/Poseidon = MC](../activations/admetos-poseidon-equals-mc.md)
 - [Admetos/Poseidon = Asc](../activations/admetos-poseidon-equals-asc.md)
 - [Admetos/Poseidon = Sun](../activations/admetos-poseidon-equals-sun.md)

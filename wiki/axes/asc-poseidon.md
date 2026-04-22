@@ -11,7 +11,7 @@ normalized_axis: Asc/Poseidon
 factor_a: Asc
 factor_b: Poseidon
 related_activations:
-  - Asc/Poseidon = Aries
+  - Asc/Poseidon = Vernal Point
   - Asc/Poseidon = MC
   - Asc/Poseidon = Sun
   - Asc/Poseidon = Moon
@@ -32,7 +32,6 @@ related_activations:
   - Asc/Poseidon = Admetos
   - Asc/Poseidon = Vulcanus
 related_triad_hubs:
-  - Aries Asc Poseidon
   - Asc Admetos Poseidon
   - Asc Apollon Poseidon
   - Asc Cupido Poseidon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Asc Poseidon
   - Uranus Asc Poseidon
   - Venus Asc Poseidon
+  - Vernal Point Asc Poseidon
 aliases:
   - Poseidon/Asc
 source_pages:
@@ -85,7 +85,7 @@ Acquaintances which are high-minded, such as deep thinker or genius. Others are 
 
 ## Related Activations
 
-- [Asc/Poseidon = Aries](../activations/asc-poseidon-equals-aries.md)
+- [Asc/Poseidon = Vernal Point](../activations/asc-poseidon-equals-vernal-point.md)
 - [Asc/Poseidon = MC](../activations/asc-poseidon-equals-mc.md)
 - [Asc/Poseidon = Sun](../activations/asc-poseidon-equals-sun.md)
 - [Asc/Poseidon = Moon](../activations/asc-poseidon-equals-moon.md)

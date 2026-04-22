@@ -11,7 +11,7 @@ normalized_axis: Saturn/Cupido
 factor_a: Saturn
 factor_b: Cupido
 related_activations:
-  - Saturn/Cupido = Aries
+  - Saturn/Cupido = Vernal Point
   - Saturn/Cupido = MC
   - Saturn/Cupido = Asc
   - Saturn/Cupido = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Saturn/Cupido = Vulcanus
   - Saturn/Cupido = Poseidon
 related_triad_hubs:
-  - Aries Saturn Cupido
   - Jupiter Saturn Cupido
   - Mars Saturn Cupido
   - Mercury Saturn Cupido
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Saturn Uranus Cupido
   - Sun Saturn Cupido
   - Venus Saturn Cupido
+  - Vernal Point Saturn Cupido
 aliases:
   - Cupido/Saturn
 source_pages:
@@ -85,7 +85,7 @@ Separations in community, marriage, family or partnership. Divorces. Losses of f
 
 ## Related Activations
 
-- [Saturn/Cupido = Aries](../activations/saturn-cupido-equals-aries.md)
+- [Saturn/Cupido = Vernal Point](../activations/saturn-cupido-equals-vernal-point.md)
 - [Saturn/Cupido = MC](../activations/saturn-cupido-equals-mc.md)
 - [Saturn/Cupido = Asc](../activations/saturn-cupido-equals-asc.md)
 - [Saturn/Cupido = Sun](../activations/saturn-cupido-equals-sun.md)

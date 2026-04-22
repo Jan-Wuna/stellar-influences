@@ -11,7 +11,7 @@ normalized_axis: Mercury/Cupido
 factor_a: Mercury
 factor_b: Cupido
 related_activations:
-  - Mercury/Cupido = Aries
+  - Mercury/Cupido = Vernal Point
   - Mercury/Cupido = MC
   - Mercury/Cupido = Asc
   - Mercury/Cupido = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Mercury/Cupido = Vulcanus
   - Mercury/Cupido = Poseidon
 related_triad_hubs:
-  - Aries Mercury Cupido
   - Mercury Asc Cupido
   - Mercury Cupido Admetos
   - Mercury Cupido Apollon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Mercury Venus Cupido
   - Moon Mercury Cupido
   - Sun Mercury Cupido
+  - Vernal Point Mercury Cupido
 aliases:
   - Cupido/Mercury
 source_pages:
@@ -85,7 +85,7 @@ Marriage thoughts. Artistic considerations. Speech. Music. Social conversation. 
 
 ## Related Activations
 
-- [Mercury/Cupido = Aries](../activations/mercury-cupido-equals-aries.md)
+- [Mercury/Cupido = Vernal Point](../activations/mercury-cupido-equals-vernal-point.md)
 - [Mercury/Cupido = MC](../activations/mercury-cupido-equals-mc.md)
 - [Mercury/Cupido = Asc](../activations/mercury-cupido-equals-asc.md)
 - [Mercury/Cupido = Sun](../activations/mercury-cupido-equals-sun.md)

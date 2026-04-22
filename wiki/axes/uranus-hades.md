@@ -11,7 +11,7 @@ normalized_axis: Uranus/Hades
 factor_a: Uranus
 factor_b: Hades
 related_activations:
-  - Uranus/Hades = Aries
+  - Uranus/Hades = Vernal Point
   - Uranus/Hades = MC
   - Uranus/Hades = Asc
   - Uranus/Hades = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Uranus/Hades = Vulcanus
   - Uranus/Hades = Poseidon
 related_triad_hubs:
-  - Aries Uranus Hades
   - Jupiter Uranus Hades
   - Mars Uranus Hades
   - Mercury Uranus Hades
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Uranus Node Hades
   - Uranus Pluto Hades
   - Venus Uranus Hades
+  - Vernal Point Uranus Hades
 aliases:
   - Hades/Uranus
 source_pages:
@@ -85,7 +85,7 @@ Distinctly marked loathsomeness or disgust. Sudden mean acts. Exciting damages. 
 
 ## Related Activations
 
-- [Uranus/Hades = Aries](../activations/uranus-hades-equals-aries.md)
+- [Uranus/Hades = Vernal Point](../activations/uranus-hades-equals-vernal-point.md)
 - [Uranus/Hades = MC](../activations/uranus-hades-equals-mc.md)
 - [Uranus/Hades = Asc](../activations/uranus-hades-equals-asc.md)
 - [Uranus/Hades = Sun](../activations/uranus-hades-equals-sun.md)

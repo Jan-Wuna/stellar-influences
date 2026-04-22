@@ -11,7 +11,7 @@ normalized_axis: MC/Poseidon
 factor_a: MC
 factor_b: Poseidon
 related_activations:
-  - MC/Poseidon = Aries
+  - MC/Poseidon = Vernal Point
   - MC/Poseidon = Asc
   - MC/Poseidon = Sun
   - MC/Poseidon = Moon
@@ -32,7 +32,6 @@ related_activations:
   - MC/Poseidon = Admetos
   - MC/Poseidon = Vulcanus
 related_triad_hubs:
-  - Aries MC Poseidon
   - Asc MC Poseidon
   - Jupiter MC Poseidon
   - Mars MC Poseidon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun MC Poseidon
   - Uranus MC Poseidon
   - Venus MC Poseidon
+  - Vernal Point MC Poseidon
 aliases:
   - Poseidon/MC
 source_pages:
@@ -85,7 +85,7 @@ The divine spark in men. The own intellectual aspiration for knowledge and educa
 
 ## Related Activations
 
-- [MC/Poseidon = Aries](../activations/mc-poseidon-equals-aries.md)
+- [MC/Poseidon = Vernal Point](../activations/mc-poseidon-equals-vernal-point.md)
 - [MC/Poseidon = Asc](../activations/mc-poseidon-equals-asc.md)
 - [MC/Poseidon = Sun](../activations/mc-poseidon-equals-sun.md)
 - [MC/Poseidon = Moon](../activations/mc-poseidon-equals-moon.md)

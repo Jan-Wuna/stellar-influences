@@ -11,28 +11,28 @@ normalized_axis: Venus/Saturn
 factor_a: Venus
 factor_b: Saturn
 related_activations:
-  - Venus/Saturn = Aries
-  - Venus/Saturn = MC
+  - Venus/Saturn = Admetos
+  - Venus/Saturn = Apollon
   - Venus/Saturn = Asc
-  - Venus/Saturn = Sun
-  - Venus/Saturn = Moon
-  - Venus/Saturn = Node
-  - Venus/Saturn = Mercury
-  - Venus/Saturn = Mars
-  - Venus/Saturn = Jupiter
-  - Venus/Saturn = Uranus
-  - Venus/Saturn = Neptune
-  - Venus/Saturn = Pluto
+  - Venus/Saturn = Chiron
   - Venus/Saturn = Cupido
   - Venus/Saturn = Hades
-  - Venus/Saturn = Zeus
+  - Venus/Saturn = Jupiter
   - Venus/Saturn = Kronos
-  - Venus/Saturn = Apollon
-  - Venus/Saturn = Admetos
-  - Venus/Saturn = Vulcanus
+  - Venus/Saturn = Mars
+  - Venus/Saturn = MC
+  - Venus/Saturn = Mercury
+  - Venus/Saturn = Moon
+  - Venus/Saturn = Neptune
+  - Venus/Saturn = Node
+  - Venus/Saturn = Pluto
   - Venus/Saturn = Poseidon
+  - Venus/Saturn = Sun
+  - Venus/Saturn = Uranus
+  - Venus/Saturn = Vernal Point
+  - Venus/Saturn = Vulcanus
+  - Venus/Saturn = Zeus
 related_triad_hubs:
-  - Aries Venus Saturn
   - Mercury Venus Saturn
   - Moon Venus Saturn
   - Sun Venus Saturn
@@ -41,6 +41,7 @@ related_triad_hubs:
   - Venus Saturn Admetos
   - Venus Saturn Apollon
   - Venus Saturn Asc
+  - Venus Saturn Chiron
   - Venus Saturn Cupido
   - Venus Saturn Hades
   - Venus Saturn Kronos
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Venus Saturn Uranus
   - Venus Saturn Vulcanus
   - Venus Saturn Zeus
+  - Vernal Point Venus Saturn
 aliases:
   - Saturn/Venus
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 Interrupted harmony. Hindered inclinations. Passing affection. Love’s sorrow. Separation from love. Illegitimate birth. Inhibited in matters of affection. Limited peace. Serious, long lasting love.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Saturn`
+- Source page: `181`
+
+#### Principle
+
+Inhibitions in love life, suffering through love.
+
+#### Psychological Correspondence
+
++ A sense of reality, soberness, sense of duty, thrift and economy, reserve, loyalty and faithfulness, self-control, inhibition in the expression of the emotions. - Emotional inhibitions, the state of being unsatisfied, hardhearted, an unhealthy expression of the sex urge, self-torment, jealousy. C Sense of duty dominates the inclinations of the heart.
+
+#### Biological Correspondence
+
+Malfunctioning of the internal glandular secretions, glandular atrophy, enlargement of the glands, e.g., pulmonary emphysema, goitre.
+
+#### Sociological Correspondence
+
+Lonely people inspired by a great sense of duty, but also the opposite, such as irresponsible and unfaithful people. Prostitutes and those who exploit prostitution.
+
+#### Probable Manifestations
+
++ Love unions with appreciable difference in age, the capability to make sacrifices for other people. - Difficulties in love life, scenes of jealousy, the stage of sobering down again, separation in love. (Separation from the mother.) Venus/Saturn 9/h
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -139,6 +169,28 @@ It must be stated frankly that this combination is of a serious kind. I have cer
 - The Conjunction: Savonarola, Chatterton, S.T. Coleridge, "Carmen Sylva," George Washington, Archbiship Laud.
 - Inharmonious: General Gordon, Lord French, King Humbert, Empress of Austria, Jay Gould, James I, Hitler, H.G. Schacht, Goering
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Saturn midpoint`
+- Source page: `57`
+
+#### Principle
+
+Spiritual love. Love hard-won. A lack of love in one’s life which at worst can make one cold-hearted. To seek love that is deep and enduring. Simple, classic, and/ or conservative tastes. To appreciate things in a profound way. A dislike of clutter. The flowering of love in maturity. To be attracted to older people. A love union that is of a practical nature. Feeling that one cannot connect may lead to a desire for solitude.
+
+#### Process
+
+The appreciation of the value of limitations and the growth and awareness which they may bring. A continual deepening of one ability to love, and especially to be able to value the challenges and restrictions of life. The ability to perceive the spiritual value inherent in all life.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Venus/Saturn`
+- Source page: `206`
+
+#### Pair Delineation
+
+Love or the desire for comfort being disciplined or restricted by practical considerations. Coldness, inability to express love, sexual repression, perversion of love. Art or creativity turned toward practical or commercial ends.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `VENUS/SATURN`
@@ -182,26 +234,27 @@ Diminishes your sense of smell and taste; restricts passages in the throat; poor
 
 ## Related Activations
 
-- [Venus/Saturn = Aries](../activations/venus-saturn-equals-aries.md)
-- [Venus/Saturn = MC](../activations/venus-saturn-equals-mc.md)
+- [Venus/Saturn = Admetos](../activations/venus-saturn-equals-admetos.md)
+- [Venus/Saturn = Apollon](../activations/venus-saturn-equals-apollon.md)
 - [Venus/Saturn = Asc](../activations/venus-saturn-equals-asc.md)
-- [Venus/Saturn = Sun](../activations/venus-saturn-equals-sun.md)
-- [Venus/Saturn = Moon](../activations/venus-saturn-equals-moon.md)
-- [Venus/Saturn = Node](../activations/venus-saturn-equals-node.md)
-- [Venus/Saturn = Mercury](../activations/venus-saturn-equals-mercury.md)
-- [Venus/Saturn = Mars](../activations/venus-saturn-equals-mars.md)
-- [Venus/Saturn = Jupiter](../activations/venus-saturn-equals-jupiter.md)
-- [Venus/Saturn = Uranus](../activations/venus-saturn-equals-uranus.md)
-- [Venus/Saturn = Neptune](../activations/venus-saturn-equals-neptune.md)
-- [Venus/Saturn = Pluto](../activations/venus-saturn-equals-pluto.md)
+- [Venus/Saturn = Chiron](../activations/venus-saturn-equals-chiron.md)
 - [Venus/Saturn = Cupido](../activations/venus-saturn-equals-cupido.md)
 - [Venus/Saturn = Hades](../activations/venus-saturn-equals-hades.md)
-- [Venus/Saturn = Zeus](../activations/venus-saturn-equals-zeus.md)
+- [Venus/Saturn = Jupiter](../activations/venus-saturn-equals-jupiter.md)
 - [Venus/Saturn = Kronos](../activations/venus-saturn-equals-kronos.md)
-- [Venus/Saturn = Apollon](../activations/venus-saturn-equals-apollon.md)
-- [Venus/Saturn = Admetos](../activations/venus-saturn-equals-admetos.md)
-- [Venus/Saturn = Vulcanus](../activations/venus-saturn-equals-vulcanus.md)
+- [Venus/Saturn = Mars](../activations/venus-saturn-equals-mars.md)
+- [Venus/Saturn = MC](../activations/venus-saturn-equals-mc.md)
+- [Venus/Saturn = Mercury](../activations/venus-saturn-equals-mercury.md)
+- [Venus/Saturn = Moon](../activations/venus-saturn-equals-moon.md)
+- [Venus/Saturn = Neptune](../activations/venus-saturn-equals-neptune.md)
+- [Venus/Saturn = Node](../activations/venus-saturn-equals-node.md)
+- [Venus/Saturn = Pluto](../activations/venus-saturn-equals-pluto.md)
 - [Venus/Saturn = Poseidon](../activations/venus-saturn-equals-poseidon.md)
+- [Venus/Saturn = Sun](../activations/venus-saturn-equals-sun.md)
+- [Venus/Saturn = Uranus](../activations/venus-saturn-equals-uranus.md)
+- [Venus/Saturn = Vernal Point](../activations/venus-saturn-equals-vernal-point.md)
+- [Venus/Saturn = Vulcanus](../activations/venus-saturn-equals-vulcanus.md)
+- [Venus/Saturn = Zeus](../activations/venus-saturn-equals-zeus.md)
 
 ## Contradictions
 
@@ -217,6 +270,9 @@ Diminishes your sense of smell and taste; restricts passages in the throat; poor
 - [Venus](../factors/venus.md)
 - [Saturn](../factors/saturn.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

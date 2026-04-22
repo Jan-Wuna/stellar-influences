@@ -11,7 +11,7 @@ normalized_axis: Neptune/Neptune
 factor_a: Neptune
 factor_b: Neptune
 related_activations:
-  - Neptune/Neptune = Aries
+  - Neptune/Neptune = Vernal Point
   - Neptune/Neptune = MC
   - Neptune/Neptune = Asc
   - Neptune/Neptune = Sun
@@ -67,7 +67,7 @@ Deceptions. Losses. Dissolutions. Unclear. Future. The Unknown. Inspiration. Fog
 
 ## Related Activations
 
-- [Neptune/Neptune = Aries](../activations/neptune-neptune-equals-aries.md)
+- [Neptune/Neptune = Vernal Point](../activations/neptune-neptune-equals-vernal-point.md)
 - [Neptune/Neptune = MC](../activations/neptune-neptune-equals-mc.md)
 - [Neptune/Neptune = Asc](../activations/neptune-neptune-equals-asc.md)
 - [Neptune/Neptune = Sun](../activations/neptune-neptune-equals-sun.md)

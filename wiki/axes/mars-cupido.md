@@ -11,7 +11,7 @@ normalized_axis: Mars/Cupido
 factor_a: Mars
 factor_b: Cupido
 related_activations:
-  - Mars/Cupido = Aries
+  - Mars/Cupido = Vernal Point
   - Mars/Cupido = MC
   - Mars/Cupido = Asc
   - Mars/Cupido = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Mars/Cupido = Vulcanus
   - Mars/Cupido = Poseidon
 related_triad_hubs:
-  - Aries Mars Cupido
   - Mars Asc Cupido
   - Mars Cupido Admetos
   - Mars Cupido Apollon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Moon Mars Cupido
   - Sun Mars Cupido
   - Venus Mars Cupido
+  - Vernal Point Mars Cupido
 aliases:
   - Cupido/Mars
 source_pages:
@@ -85,7 +85,7 @@ Work partnership. Marriage. Marriage partnership. Artistic activities. To establ
 
 ## Related Activations
 
-- [Mars/Cupido = Aries](../activations/mars-cupido-equals-aries.md)
+- [Mars/Cupido = Vernal Point](../activations/mars-cupido-equals-vernal-point.md)
 - [Mars/Cupido = MC](../activations/mars-cupido-equals-mc.md)
 - [Mars/Cupido = Asc](../activations/mars-cupido-equals-asc.md)
 - [Mars/Cupido = Sun](../activations/mars-cupido-equals-sun.md)

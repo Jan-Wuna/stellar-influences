@@ -11,7 +11,7 @@ normalized_axis: Neptune/Kronos
 factor_a: Neptune
 factor_b: Kronos
 related_activations:
-  - Neptune/Kronos = Aries
+  - Neptune/Kronos = Vernal Point
   - Neptune/Kronos = MC
   - Neptune/Kronos = Asc
   - Neptune/Kronos = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Neptune/Kronos = Vulcanus
   - Neptune/Kronos = Poseidon
 related_triad_hubs:
-  - Aries Neptune Kronos
   - Jupiter Neptune Kronos
   - Mars Neptune Kronos
   - Mercury Neptune Kronos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Neptune Kronos
   - Uranus Neptune Kronos
   - Venus Neptune Kronos
+  - Vernal Point Neptune Kronos
 aliases:
   - Kronos/Neptune
 source_pages:
@@ -85,7 +85,7 @@ Diplomacy. The great diplomat. Master of deception. Incompetent management. The 
 
 ## Related Activations
 
-- [Neptune/Kronos = Aries](../activations/neptune-kronos-equals-aries.md)
+- [Neptune/Kronos = Vernal Point](../activations/neptune-kronos-equals-vernal-point.md)
 - [Neptune/Kronos = MC](../activations/neptune-kronos-equals-mc.md)
 - [Neptune/Kronos = Asc](../activations/neptune-kronos-equals-asc.md)
 - [Neptune/Kronos = Sun](../activations/neptune-kronos-equals-sun.md)

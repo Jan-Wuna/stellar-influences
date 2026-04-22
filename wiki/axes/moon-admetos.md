@@ -11,7 +11,7 @@ normalized_axis: Moon/Admetos
 factor_a: Moon
 factor_b: Admetos
 related_activations:
-  - Moon/Admetos = Aries
+  - Moon/Admetos = Vernal Point
   - Moon/Admetos = MC
   - Moon/Admetos = Asc
   - Moon/Admetos = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Moon/Admetos = Vulcanus
   - Moon/Admetos = Poseidon
 related_triad_hubs:
-  - Aries Moon Admetos
   - Moon Admetos Poseidon
   - Moon Admetos Vulcanus
   - Moon Apollon Admetos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Moon Venus Admetos
   - Moon Zeus Admetos
   - Sun Moon Admetos
+  - Vernal Point Moon Admetos
 aliases:
   - Admetos/Moon
 source_pages:
@@ -85,7 +85,7 @@ Stillness. Inner contemplation. Narrow-mindedness. Narrow conditions. The closed
 
 ## Related Activations
 
-- [Moon/Admetos = Aries](../activations/moon-admetos-equals-aries.md)
+- [Moon/Admetos = Vernal Point](../activations/moon-admetos-equals-vernal-point.md)
 - [Moon/Admetos = MC](../activations/moon-admetos-equals-mc.md)
 - [Moon/Admetos = Asc](../activations/moon-admetos-equals-asc.md)
 - [Moon/Admetos = Sun](../activations/moon-admetos-equals-sun.md)

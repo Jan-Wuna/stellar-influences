@@ -11,7 +11,7 @@ normalized_axis: Venus/Poseidon
 factor_a: Venus
 factor_b: Poseidon
 related_activations:
-  - Venus/Poseidon = Aries
+  - Venus/Poseidon = Vernal Point
   - Venus/Poseidon = MC
   - Venus/Poseidon = Asc
   - Venus/Poseidon = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Venus/Poseidon = Admetos
   - Venus/Poseidon = Vulcanus
 related_triad_hubs:
-  - Aries Venus Poseidon
   - Mercury Venus Poseidon
   - Moon Venus Poseidon
   - Sun Venus Poseidon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Venus Uranus Poseidon
   - Venus Vulcanus Poseidon
   - Venus Zeus Poseidon
+  - Vernal Point Venus Poseidon
 aliases:
   - Poseidon/Venus
 source_pages:
@@ -85,7 +85,7 @@ Inclinations for mental or spiritual things. Platonic love. Faith. Worldview. Sp
 
 ## Related Activations
 
-- [Venus/Poseidon = Aries](../activations/venus-poseidon-equals-aries.md)
+- [Venus/Poseidon = Vernal Point](../activations/venus-poseidon-equals-vernal-point.md)
 - [Venus/Poseidon = MC](../activations/venus-poseidon-equals-mc.md)
 - [Venus/Poseidon = Asc](../activations/venus-poseidon-equals-asc.md)
 - [Venus/Poseidon = Sun](../activations/venus-poseidon-equals-sun.md)

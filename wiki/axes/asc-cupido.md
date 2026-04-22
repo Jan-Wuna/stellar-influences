@@ -11,7 +11,7 @@ normalized_axis: Asc/Cupido
 factor_a: Asc
 factor_b: Cupido
 related_activations:
-  - Asc/Cupido = Aries
+  - Asc/Cupido = Vernal Point
   - Asc/Cupido = MC
   - Asc/Cupido = Sun
   - Asc/Cupido = Moon
@@ -32,7 +32,6 @@ related_activations:
   - Asc/Cupido = Vulcanus
   - Asc/Cupido = Poseidon
 related_triad_hubs:
-  - Aries Asc Cupido
   - Asc Cupido Admetos
   - Asc Cupido Apollon
   - Asc Cupido Hades
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Asc Cupido
   - Uranus Asc Cupido
   - Venus Asc Cupido
+  - Vernal Point Asc Cupido
 aliases:
   - Cupido/Asc
 source_pages:
@@ -85,7 +85,7 @@ The parental home. Family following. The apartment. The home. Houses. Dwellings.
 
 ## Related Activations
 
-- [Asc/Cupido = Aries](../activations/asc-cupido-equals-aries.md)
+- [Asc/Cupido = Vernal Point](../activations/asc-cupido-equals-vernal-point.md)
 - [Asc/Cupido = MC](../activations/asc-cupido-equals-mc.md)
 - [Asc/Cupido = Sun](../activations/asc-cupido-equals-sun.md)
 - [Asc/Cupido = Moon](../activations/asc-cupido-equals-moon.md)

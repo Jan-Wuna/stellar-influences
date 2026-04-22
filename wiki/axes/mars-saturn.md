@@ -11,32 +11,33 @@ normalized_axis: Mars/Saturn
 factor_a: Mars
 factor_b: Saturn
 related_activations:
-  - Mars/Saturn = Aries
-  - Mars/Saturn = MC
+  - Mars/Saturn = Admetos
+  - Mars/Saturn = Apollon
   - Mars/Saturn = Asc
-  - Mars/Saturn = Sun
-  - Mars/Saturn = Moon
-  - Mars/Saturn = Node
-  - Mars/Saturn = Mercury
-  - Mars/Saturn = Venus
-  - Mars/Saturn = Jupiter
-  - Mars/Saturn = Uranus
-  - Mars/Saturn = Neptune
-  - Mars/Saturn = Pluto
+  - Mars/Saturn = Chiron
   - Mars/Saturn = Cupido
   - Mars/Saturn = Hades
-  - Mars/Saturn = Zeus
+  - Mars/Saturn = Jupiter
   - Mars/Saturn = Kronos
-  - Mars/Saturn = Apollon
-  - Mars/Saturn = Admetos
-  - Mars/Saturn = Vulcanus
+  - Mars/Saturn = MC
+  - Mars/Saturn = Mercury
+  - Mars/Saturn = Moon
+  - Mars/Saturn = Neptune
+  - Mars/Saturn = Node
+  - Mars/Saturn = Pluto
   - Mars/Saturn = Poseidon
+  - Mars/Saturn = Sun
+  - Mars/Saturn = Uranus
+  - Mars/Saturn = Venus
+  - Mars/Saturn = Vernal Point
+  - Mars/Saturn = Vulcanus
+  - Mars/Saturn = Zeus
 related_triad_hubs:
-  - Aries Mars Saturn
   - Mars Jupiter Saturn
   - Mars Saturn Admetos
   - Mars Saturn Apollon
   - Mars Saturn Asc
+  - Mars Saturn Chiron
   - Mars Saturn Cupido
   - Mars Saturn Hades
   - Mars Saturn Kronos
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Moon Mars Saturn
   - Sun Mars Saturn
   - Venus Mars Saturn
+  - Vernal Point Mars Saturn
 aliases:
   - Saturn/Mars
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 Periodic work. Interruption of work. Sickness. Acute sicknesses. Current affairs. Interruption. The act of separation. Forced separation. A general interruption. Activities leading to separation or which are periodically interrupted. End of action. The main formula for death.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mars/Saturn`
+- Source page: `204`
+
+#### Principle
+
+Harmful or destructive energy. Inhibited or destroyed vitality.
+
+#### Psychological Correspondence
+
++ Endurance, power of resistance, indefatigable. - Concentrated energy outwardly expressed as violence or inwardly shown as destructive power, hardness, harshness or bitterness, self-willed, obstinate. One's interest in any enterprise or activity lasts only such time as is required for overcoming the main difficulties. C Tendency to be injured, mostly destructive or pernicious forms of energy.
+
+#### Biological Correspondence
+
+Bone-forming process, joints, muscles as active factors and bones as passive factors, joining spots of the tendons or sinews with the bones. An inflammation of the bones or of the bone marrow. The death or atrophy of an organ, particularly paralysis of the muscles belonging to the breathing mechanism. (Death through suffocation.)
+
+#### Sociological Correspondence
+
+Manual laborers, miners. Energetic people who are able to overcome the greatest difficulties.
+
+#### Probable Manifestations
+
++ The more energy the more difficulties are overcome, or vice versa. - Periods of impotence and weakness alternating with periods of brutal or ruthless progress and advancement in life. All will-directed activity meets complete resistance (as governed by circumstances). Tests of strength, disputes, separations, illnesses. Cases of death. 37 One is inclined at times to consider Mars/Satum as the "death axis." This combination is found in many cases at the time of death, but one should not make the mistake of taking it for granted that death will result. During the course of life this "death axis" is very often stimulated by transits and directions, but life continues. Such periods are often marked by difficulties and illness, difficulties to be overcome or the death of other people. It should also be taken into consideration that life is often prolonged through medical science or new medical equipment through which many people near death are kept alive. Mars/Saturn cT/*?
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -147,6 +177,30 @@ These planets in combination nearly always add to the energy, although, as state
 - The Conjunction: Don Carlos of Portugal, H.P. Blavatsky, Thomas Moore, James I, Mussolini, the "Young Pretender."
 - Inharmonious: Charles Dickens, Jay Gould, Pierpont Morgan, Frederick the Great, President Ebert, Swedenborg, Savonarola.
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mars/Saturn midpoint`
+- Source page: `68`
+
+#### Principle
+
+To be careful and organized when one acts. The desire to be right and suc cessful in one’s actions, which could potentially inhibit one’s ability to act. Repressing anger leads to much pent-up energy and frustration which can potentially drain one. Feeling inadequate about one’s sexual abilities. The desire for certainty and always knowing the outcome of things, which, at worst, can have a debilitating effect on one’s creativity and ability to be open to what the universe has to offer. On the positive side, this combination can manifest great technical skill and the ability to accomplish some thing based on careful and planned-out agendas.
+
+#### Process
+
+To assertively make boundaries, and to actively organize experience. To concentrate and focus one’s efforts and to maintain patience and persistence when working through blockages and difficulties.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Mars/Saturn`
+- Source page: `207`
+
+#### Pair Delineation
+
+Inhibited actions, inhibited anger, frustration.
+
+Disciplined or concentrated energies, hard work, energy focused on narrow objectives, the ability to perform painstaking work. In charts of both sexes, often associated with difficult father relationships. In women's charts, often signifies difficulties with males in general.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MARS/SATURN`
@@ -190,26 +244,27 @@ High blood pressure; health problems caused by the blockage of energy or emotion
 
 ## Related Activations
 
-- [Mars/Saturn = Aries](../activations/mars-saturn-equals-aries.md)
-- [Mars/Saturn = MC](../activations/mars-saturn-equals-mc.md)
+- [Mars/Saturn = Admetos](../activations/mars-saturn-equals-admetos.md)
+- [Mars/Saturn = Apollon](../activations/mars-saturn-equals-apollon.md)
 - [Mars/Saturn = Asc](../activations/mars-saturn-equals-asc.md)
-- [Mars/Saturn = Sun](../activations/mars-saturn-equals-sun.md)
-- [Mars/Saturn = Moon](../activations/mars-saturn-equals-moon.md)
-- [Mars/Saturn = Node](../activations/mars-saturn-equals-node.md)
-- [Mars/Saturn = Mercury](../activations/mars-saturn-equals-mercury.md)
-- [Mars/Saturn = Venus](../activations/mars-saturn-equals-venus.md)
-- [Mars/Saturn = Jupiter](../activations/mars-saturn-equals-jupiter.md)
-- [Mars/Saturn = Uranus](../activations/mars-saturn-equals-uranus.md)
-- [Mars/Saturn = Neptune](../activations/mars-saturn-equals-neptune.md)
-- [Mars/Saturn = Pluto](../activations/mars-saturn-equals-pluto.md)
+- [Mars/Saturn = Chiron](../activations/mars-saturn-equals-chiron.md)
 - [Mars/Saturn = Cupido](../activations/mars-saturn-equals-cupido.md)
 - [Mars/Saturn = Hades](../activations/mars-saturn-equals-hades.md)
-- [Mars/Saturn = Zeus](../activations/mars-saturn-equals-zeus.md)
+- [Mars/Saturn = Jupiter](../activations/mars-saturn-equals-jupiter.md)
 - [Mars/Saturn = Kronos](../activations/mars-saturn-equals-kronos.md)
-- [Mars/Saturn = Apollon](../activations/mars-saturn-equals-apollon.md)
-- [Mars/Saturn = Admetos](../activations/mars-saturn-equals-admetos.md)
-- [Mars/Saturn = Vulcanus](../activations/mars-saturn-equals-vulcanus.md)
+- [Mars/Saturn = MC](../activations/mars-saturn-equals-mc.md)
+- [Mars/Saturn = Mercury](../activations/mars-saturn-equals-mercury.md)
+- [Mars/Saturn = Moon](../activations/mars-saturn-equals-moon.md)
+- [Mars/Saturn = Neptune](../activations/mars-saturn-equals-neptune.md)
+- [Mars/Saturn = Node](../activations/mars-saturn-equals-node.md)
+- [Mars/Saturn = Pluto](../activations/mars-saturn-equals-pluto.md)
 - [Mars/Saturn = Poseidon](../activations/mars-saturn-equals-poseidon.md)
+- [Mars/Saturn = Sun](../activations/mars-saturn-equals-sun.md)
+- [Mars/Saturn = Uranus](../activations/mars-saturn-equals-uranus.md)
+- [Mars/Saturn = Venus](../activations/mars-saturn-equals-venus.md)
+- [Mars/Saturn = Vernal Point](../activations/mars-saturn-equals-vernal-point.md)
+- [Mars/Saturn = Vulcanus](../activations/mars-saturn-equals-vulcanus.md)
+- [Mars/Saturn = Zeus](../activations/mars-saturn-equals-zeus.md)
 
 ## Contradictions
 
@@ -225,6 +280,9 @@ High blood pressure; health problems caused by the blockage of energy or emotion
 - [Mars](../factors/mars.md)
 - [Saturn](../factors/saturn.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

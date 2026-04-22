@@ -11,28 +11,28 @@ normalized_axis: Sun/Saturn
 factor_a: Sun
 factor_b: Saturn
 related_activations:
-  - Sun/Saturn = Aries
-  - Sun/Saturn = MC
+  - Sun/Saturn = Admetos
+  - Sun/Saturn = Apollon
   - Sun/Saturn = Asc
-  - Sun/Saturn = Moon
-  - Sun/Saturn = Node
-  - Sun/Saturn = Mercury
-  - Sun/Saturn = Venus
-  - Sun/Saturn = Mars
-  - Sun/Saturn = Jupiter
-  - Sun/Saturn = Uranus
-  - Sun/Saturn = Neptune
-  - Sun/Saturn = Pluto
+  - Sun/Saturn = Chiron
   - Sun/Saturn = Cupido
   - Sun/Saturn = Hades
-  - Sun/Saturn = Zeus
+  - Sun/Saturn = Jupiter
   - Sun/Saturn = Kronos
-  - Sun/Saturn = Apollon
-  - Sun/Saturn = Admetos
-  - Sun/Saturn = Vulcanus
+  - Sun/Saturn = Mars
+  - Sun/Saturn = MC
+  - Sun/Saturn = Mercury
+  - Sun/Saturn = Moon
+  - Sun/Saturn = Neptune
+  - Sun/Saturn = Node
+  - Sun/Saturn = Pluto
   - Sun/Saturn = Poseidon
+  - Sun/Saturn = Uranus
+  - Sun/Saturn = Venus
+  - Sun/Saturn = Vernal Point
+  - Sun/Saturn = Vulcanus
+  - Sun/Saturn = Zeus
 related_triad_hubs:
-  - Aries Sun Saturn
   - Sun Jupiter Saturn
   - Sun Mars Saturn
   - Sun Mercury Saturn
@@ -40,6 +40,7 @@ related_triad_hubs:
   - Sun Saturn Admetos
   - Sun Saturn Apollon
   - Sun Saturn Asc
+  - Sun Saturn Chiron
   - Sun Saturn Cupido
   - Sun Saturn Hades
   - Sun Saturn Kronos
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Sun Saturn Vulcanus
   - Sun Saturn Zeus
   - Sun Venus Saturn
+  - Vernal Point Sun Saturn
 aliases:
   - Saturn/Sun
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 Old age. Old man. The serious man. Personal and physical hindrances and difficulties. Physical separations. To take leave. Susceptibility to disease and debility. The old body or object. The teacher. A day with hindrances and difficulties. (In the solar cycle: period of depression.)
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Sun/Saturn`
+- Source page: `92`
+
+#### Principle
+
+Inhibition, hereditary affliction, karma, separation.
+
+#### Psychological Correspondence
+
++ Firmness, decisiveness and determination, perseverance, ability to become completely absorbed in a subject, ability to maintain one's position in life, seclusion and retirement, modesty. - Inhibitions in mental or physical development, inclination to be a pessimist. C Lack of vitality, developmental inhibitions.
+
+#### Biological Correspondence
+
+Bone tissue, aging cells of the body, cell sedimentation, cell death. Rheumatism, arterial sclerosis, diseases caused by mineral sedimentation. (Hereditary affliction.)
+
+#### Sociological Correspondence
+
+Serious persons, old or sick people.
+
+#### Probable Manifestations
+
++ A difficult struggle with regard to advancement in life, little help through elderly people. Working silently or in solitude. - Delicate health, a secluded or solitary mode of life, compelled by circumstances to lead a modest and simple life, suppression through others, separations. 7 If in the natal chart Sun and Saturn are only a few degrees apart it often happens that, on a 1 day = 1 year basis, a few years after birth some kind of crisis occurs, e.g., a serious illness, the early death of a relative, a complete change in the home circumstances through a move to a foreign country or different surroundings, and even actual danger to his life. Q/h
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -137,6 +167,28 @@ With respect to health the afflictions cause debility, catarrhal conditions, col
 - The Conjunction: Don Carlos of Portugal, W.Q. Judge, Franz Hartmann, Franz Joseph of Austria, Crown Prince of Germany.
 - Inharmonious: Charles Dickens, Mrs. Eddy, Nicholas II of Russia, William II of Prussia, Boulanger, Culpepper, Thomas Hardy, Sir J. M. Barrie, Presidents Calvin Coolidge, Woodrow Wilson, Hoover and F.D. Roosevelt.
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Sun/Saturn midpoint`
+- Source page: `14`
+
+#### Principle
+
+Difficulty in developing self-confidence. The slow attainment of goals through hard work. The more one focuses on spirituality the more confident one becomes. A need for discipline when working toward goals. Questioning the meaning of life. The need to understand the meaning and purpose of the difficulties and limitations one en counters in life.
+
+#### Process
+
+The realization of the meaning and purpose of all limitations and difficulties in one’s life, so that they are approached as learning processes and assimilated fully so they do not have to be repeated.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Sun/Saturn`
+- Source page: `201`
+
+#### Pair Delineation
+
+The active expression of one's principles of right and wrong, true and false. The experience of both structure and personal limitation. The experience of the father or other guide and authority figures. The sense of personal discipline, also repression and inhibition. Limitations of the freedom of the will.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `SUN/SATURN`
@@ -180,26 +232,27 @@ Mineral deposits in the arteries near the heart; blood and lymph circulation con
 
 ## Related Activations
 
-- [Sun/Saturn = Aries](../activations/sun-saturn-equals-aries.md)
-- [Sun/Saturn = MC](../activations/sun-saturn-equals-mc.md)
+- [Sun/Saturn = Admetos](../activations/sun-saturn-equals-admetos.md)
+- [Sun/Saturn = Apollon](../activations/sun-saturn-equals-apollon.md)
 - [Sun/Saturn = Asc](../activations/sun-saturn-equals-asc.md)
-- [Sun/Saturn = Moon](../activations/sun-saturn-equals-moon.md)
-- [Sun/Saturn = Node](../activations/sun-saturn-equals-node.md)
-- [Sun/Saturn = Mercury](../activations/sun-saturn-equals-mercury.md)
-- [Sun/Saturn = Venus](../activations/sun-saturn-equals-venus.md)
-- [Sun/Saturn = Mars](../activations/sun-saturn-equals-mars.md)
-- [Sun/Saturn = Jupiter](../activations/sun-saturn-equals-jupiter.md)
-- [Sun/Saturn = Uranus](../activations/sun-saturn-equals-uranus.md)
-- [Sun/Saturn = Neptune](../activations/sun-saturn-equals-neptune.md)
-- [Sun/Saturn = Pluto](../activations/sun-saturn-equals-pluto.md)
+- [Sun/Saturn = Chiron](../activations/sun-saturn-equals-chiron.md)
 - [Sun/Saturn = Cupido](../activations/sun-saturn-equals-cupido.md)
 - [Sun/Saturn = Hades](../activations/sun-saturn-equals-hades.md)
-- [Sun/Saturn = Zeus](../activations/sun-saturn-equals-zeus.md)
+- [Sun/Saturn = Jupiter](../activations/sun-saturn-equals-jupiter.md)
 - [Sun/Saturn = Kronos](../activations/sun-saturn-equals-kronos.md)
-- [Sun/Saturn = Apollon](../activations/sun-saturn-equals-apollon.md)
-- [Sun/Saturn = Admetos](../activations/sun-saturn-equals-admetos.md)
-- [Sun/Saturn = Vulcanus](../activations/sun-saturn-equals-vulcanus.md)
+- [Sun/Saturn = Mars](../activations/sun-saturn-equals-mars.md)
+- [Sun/Saturn = MC](../activations/sun-saturn-equals-mc.md)
+- [Sun/Saturn = Mercury](../activations/sun-saturn-equals-mercury.md)
+- [Sun/Saturn = Moon](../activations/sun-saturn-equals-moon.md)
+- [Sun/Saturn = Neptune](../activations/sun-saturn-equals-neptune.md)
+- [Sun/Saturn = Node](../activations/sun-saturn-equals-node.md)
+- [Sun/Saturn = Pluto](../activations/sun-saturn-equals-pluto.md)
 - [Sun/Saturn = Poseidon](../activations/sun-saturn-equals-poseidon.md)
+- [Sun/Saturn = Uranus](../activations/sun-saturn-equals-uranus.md)
+- [Sun/Saturn = Venus](../activations/sun-saturn-equals-venus.md)
+- [Sun/Saturn = Vernal Point](../activations/sun-saturn-equals-vernal-point.md)
+- [Sun/Saturn = Vulcanus](../activations/sun-saturn-equals-vulcanus.md)
+- [Sun/Saturn = Zeus](../activations/sun-saturn-equals-zeus.md)
 
 ## Contradictions
 
@@ -215,6 +268,9 @@ Mineral deposits in the arteries near the heart; blood and lymph circulation con
 - [Sun](../factors/sun.md)
 - [Saturn](../factors/saturn.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

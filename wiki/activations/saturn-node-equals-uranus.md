@@ -3,10 +3,10 @@ title: Saturn/Node = Uranus
 page_type: activation
 slug: saturn-node-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Saturn
+  - Node
   - Uranus
 normalized_formula: Saturn/Node = Uranus
 axis: Saturn/Node
@@ -15,10 +15,13 @@ triad_set:
   - Saturn
   - Uranus
   - Node
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Sudden separations from friends or relatives. Sudden stress on a connection.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Saturn/Dragon's Head`
+- Source page: `257`
+- Entry: `0909`
+
+#### Ebertin Entry
+
+Rebellion, urge for freedom, unwillingness to bend under somebody else's will. Suffering through elder blood relatives, desire to liberate oneself from great stress at all costs, a violent dispute, sudden separation. (Mourning, bereavement.)
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Saturn/Node midpoint`
+- Source page: `92`
+- Activator: `Uranus`
+
+#### Sandbach Entry
+
+A genius for working with or around the restrictions and limitations one finds when connecting with others. Strange or unusual limiting factors encountered when connecting with individuals or groups.
+
 ## Comparative Schema
 
-- core meaning: Sudden separations from friends or relatives. Sudden stress on a connection.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Sudden separations from friends or relatives. Sudden stress on a connection.
 - [Node](../factors/node.md)
 - [Uranus](../factors/uranus.md)
 - [Saturn/Node](../axes/saturn-node.md)
+- [Saturn Uranus Node](../triads/saturn-uranus-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

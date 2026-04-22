@@ -11,7 +11,7 @@ normalized_axis: Pluto/Hades
 factor_a: Pluto
 factor_b: Hades
 related_activations:
-  - Pluto/Hades = Aries
+  - Pluto/Hades = Vernal Point
   - Pluto/Hades = MC
   - Pluto/Hades = Asc
   - Pluto/Hades = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Pluto/Hades = Vulcanus
   - Pluto/Hades = Poseidon
 related_triad_hubs:
-  - Aries Pluto Hades
   - Jupiter Pluto Hades
   - Mars Pluto Hades
   - Mercury Pluto Hades
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Pluto Hades
   - Uranus Pluto Hades
   - Venus Pluto Hades
+  - Vernal Point Pluto Hades
 aliases:
   - Hades/Pluto
 source_pages:
@@ -85,7 +85,7 @@ Unreliable. Failure to act. Dishonesty. Downfall. To be on the decline. An evil 
 
 ## Related Activations
 
-- [Pluto/Hades = Aries](../activations/pluto-hades-equals-aries.md)
+- [Pluto/Hades = Vernal Point](../activations/pluto-hades-equals-vernal-point.md)
 - [Pluto/Hades = MC](../activations/pluto-hades-equals-mc.md)
 - [Pluto/Hades = Asc](../activations/pluto-hades-equals-asc.md)
 - [Pluto/Hades = Sun](../activations/pluto-hades-equals-sun.md)

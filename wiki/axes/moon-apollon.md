@@ -11,7 +11,7 @@ normalized_axis: Moon/Apollon
 factor_a: Moon
 factor_b: Apollon
 related_activations:
-  - Moon/Apollon = Aries
+  - Moon/Apollon = Vernal Point
   - Moon/Apollon = MC
   - Moon/Apollon = Asc
   - Moon/Apollon = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Moon/Apollon = Vulcanus
   - Moon/Apollon = Poseidon
 related_triad_hubs:
-  - Aries Moon Apollon
   - Moon Apollon Admetos
   - Moon Apollon Poseidon
   - Moon Apollon Vulcanus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Moon Venus Apollon
   - Moon Zeus Apollon
   - Sun Moon Apollon
+  - Vernal Point Moon Apollon
 aliases:
   - Apollon/Moon
 source_pages:
@@ -85,7 +85,7 @@ Experience. Many hours. Multitude of a people. Spreading of a people. Many natio
 
 ## Related Activations
 
-- [Moon/Apollon = Aries](../activations/moon-apollon-equals-aries.md)
+- [Moon/Apollon = Vernal Point](../activations/moon-apollon-equals-vernal-point.md)
 - [Moon/Apollon = MC](../activations/moon-apollon-equals-mc.md)
 - [Moon/Apollon = Asc](../activations/moon-apollon-equals-asc.md)
 - [Moon/Apollon = Sun](../activations/moon-apollon-equals-sun.md)

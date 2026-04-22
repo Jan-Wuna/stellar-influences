@@ -11,7 +11,7 @@ normalized_axis: Jupiter/Zeus
 factor_a: Jupiter
 factor_b: Zeus
 related_activations:
-  - Jupiter/Zeus = Aries
+  - Jupiter/Zeus = Vernal Point
   - Jupiter/Zeus = MC
   - Jupiter/Zeus = Asc
   - Jupiter/Zeus = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Jupiter/Zeus = Vulcanus
   - Jupiter/Zeus = Poseidon
 related_triad_hubs:
-  - Aries Jupiter Zeus
   - Jupiter Asc Zeus
   - Jupiter Cupido Zeus
   - Jupiter Hades Zeus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Moon Jupiter Zeus
   - Sun Jupiter Zeus
   - Venus Jupiter Zeus
+  - Vernal Point Jupiter Zeus
 aliases:
   - Zeus/Jupiter
 source_pages:
@@ -85,7 +85,7 @@ Successful creation. Fortunate activity. To bring good luck and benefits. Benefi
 
 ## Related Activations
 
-- [Jupiter/Zeus = Aries](../activations/jupiter-zeus-equals-aries.md)
+- [Jupiter/Zeus = Vernal Point](../activations/jupiter-zeus-equals-vernal-point.md)
 - [Jupiter/Zeus = MC](../activations/jupiter-zeus-equals-mc.md)
 - [Jupiter/Zeus = Asc](../activations/jupiter-zeus-equals-asc.md)
 - [Jupiter/Zeus = Sun](../activations/jupiter-zeus-equals-sun.md)

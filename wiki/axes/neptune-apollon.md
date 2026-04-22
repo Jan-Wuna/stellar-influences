@@ -11,7 +11,7 @@ normalized_axis: Neptune/Apollon
 factor_a: Neptune
 factor_b: Apollon
 related_activations:
-  - Neptune/Apollon = Aries
+  - Neptune/Apollon = Vernal Point
   - Neptune/Apollon = MC
   - Neptune/Apollon = Asc
   - Neptune/Apollon = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Neptune/Apollon = Vulcanus
   - Neptune/Apollon = Poseidon
 related_triad_hubs:
-  - Aries Neptune Apollon
   - Jupiter Neptune Apollon
   - Mars Neptune Apollon
   - Mercury Neptune Apollon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Neptune Apollon
   - Uranus Neptune Apollon
   - Venus Neptune Apollon
+  - Vernal Point Neptune Apollon
 aliases:
   - Apollon/Neptune
 source_pages:
@@ -85,7 +85,7 @@ Embezzlement. Great corruption. Deception on a large scale. Dissolution on a lar
 
 ## Related Activations
 
-- [Neptune/Apollon = Aries](../activations/neptune-apollon-equals-aries.md)
+- [Neptune/Apollon = Vernal Point](../activations/neptune-apollon-equals-vernal-point.md)
 - [Neptune/Apollon = MC](../activations/neptune-apollon-equals-mc.md)
 - [Neptune/Apollon = Asc](../activations/neptune-apollon-equals-asc.md)
 - [Neptune/Apollon = Sun](../activations/neptune-apollon-equals-sun.md)

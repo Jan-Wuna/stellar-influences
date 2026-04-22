@@ -11,7 +11,7 @@ normalized_axis: Uranus/Apollon
 factor_a: Uranus
 factor_b: Apollon
 related_activations:
-  - Uranus/Apollon = Aries
+  - Uranus/Apollon = Vernal Point
   - Uranus/Apollon = MC
   - Uranus/Apollon = Asc
   - Uranus/Apollon = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Uranus/Apollon = Vulcanus
   - Uranus/Apollon = Poseidon
 related_triad_hubs:
-  - Aries Uranus Apollon
   - Jupiter Uranus Apollon
   - Mars Uranus Apollon
   - Mercury Uranus Apollon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Uranus Pluto Apollon
   - Uranus Zeus Apollon
   - Venus Uranus Apollon
+  - Vernal Point Uranus Apollon
 aliases:
   - Apollon/Uranus
 source_pages:
@@ -85,7 +85,7 @@ Sudden experiences. Expansion by leaps and bounds. Many under tension, excited. 
 
 ## Related Activations
 
-- [Uranus/Apollon = Aries](../activations/uranus-apollon-equals-aries.md)
+- [Uranus/Apollon = Vernal Point](../activations/uranus-apollon-equals-vernal-point.md)
 - [Uranus/Apollon = MC](../activations/uranus-apollon-equals-mc.md)
 - [Uranus/Apollon = Asc](../activations/uranus-apollon-equals-asc.md)
 - [Uranus/Apollon = Sun](../activations/uranus-apollon-equals-sun.md)

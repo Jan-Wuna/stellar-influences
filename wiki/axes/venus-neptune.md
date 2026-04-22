@@ -11,31 +11,32 @@ normalized_axis: Venus/Neptune
 factor_a: Venus
 factor_b: Neptune
 related_activations:
-  - Venus/Neptune = Aries
-  - Venus/Neptune = MC
+  - Venus/Neptune = Admetos
+  - Venus/Neptune = Apollon
   - Venus/Neptune = Asc
-  - Venus/Neptune = Sun
-  - Venus/Neptune = Moon
-  - Venus/Neptune = Node
-  - Venus/Neptune = Mercury
-  - Venus/Neptune = Mars
-  - Venus/Neptune = Jupiter
-  - Venus/Neptune = Saturn
-  - Venus/Neptune = Uranus
-  - Venus/Neptune = Pluto
+  - Venus/Neptune = Chiron
   - Venus/Neptune = Cupido
   - Venus/Neptune = Hades
-  - Venus/Neptune = Zeus
+  - Venus/Neptune = Jupiter
   - Venus/Neptune = Kronos
-  - Venus/Neptune = Apollon
-  - Venus/Neptune = Admetos
-  - Venus/Neptune = Vulcanus
+  - Venus/Neptune = Mars
+  - Venus/Neptune = MC
+  - Venus/Neptune = Mercury
+  - Venus/Neptune = Moon
+  - Venus/Neptune = Node
+  - Venus/Neptune = Pluto
   - Venus/Neptune = Poseidon
+  - Venus/Neptune = Saturn
+  - Venus/Neptune = Sun
+  - Venus/Neptune = Uranus
+  - Venus/Neptune = Vernal Point
+  - Venus/Neptune = Vulcanus
+  - Venus/Neptune = Zeus
 related_triad_hubs:
-  - Aries Venus Neptune
   - Mercury Venus Neptune
   - Moon Venus Neptune
   - Sun Venus Neptune
+  - Venus Chiron Neptune
   - Venus Jupiter Neptune
   - Venus Mars Neptune
   - Venus Neptune Admetos
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Venus Neptune Zeus
   - Venus Saturn Neptune
   - Venus Uranus Neptune
+  - Vernal Point Venus Neptune
 aliases:
   - Neptune/Venus
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 Rapture. Sensitive, renouncing, false or unhappy love. Deceptive hopes. Hidden and secret feelings, sensations or sentiments. Wrong sex instinct. Renouncing love. Misfortune in love. Untrue love. Abnormality. Secret love. Disappointment in love. To be deceived in one’s affections.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Neptune`
+- Source page: `187`
+
+#### Principle
+
+An erotic imagination. Illusion.
+
+#### Psychological Correspondence
+
++ Sensitivity in love, a person easily influenced, great receptivity for beauty, art and music. A dreamy nature, good taste, high ideals. - A mistaken sense of love, lack of good taste. Indecision, uncertainty, a seductible character, erotic aberrations. C Inclination to mysticism, romantic reverie, poorly developed sense of reality, artistic interests, sensitive nervous and glandular system.
+
+#### Biological Correspondence
+
+Weakened glandular functions, pathological enlargement of the glands, weakness of the sex organs.
+
+#### Sociological Correspondence
+
+Artists, musicians, mystics, dreamers and visionaries.
+
+#### Probable Manifestations
+
++ Romantic and reveling love, longing for love, peculiar desires and objectives, an unstable existence and changing occupations. - Difficult realization of ideals and wishes, awakening from emotional infatuation with the awareness of disappointment or disillusionment. Wrong ways of love. Venus/Neptune 9/^
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -157,6 +187,30 @@ There is often a tendency to experiment with diet and to practice vegetarianism,
 - The Conjunction: Victor Hugo, Valentino, S.T. Coleridge, Louis I of Bavaria (lost throne through infatuation for dancing girl), Swindenburne.
 - Inharmonious: Rider Haggard, W.B. Yeats, President Harding, the ex-Kaiser, Joseph Chamberlain, the poet Crabbe, Lord Roberts (lost son in Boer War), Marie Antoinette, Edgar Allan Poe.
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Neptune midpoint`
+- Source page: `61`
+
+#### Principle
+
+Idealized love. Self-sacrifice in love. A refined expression of love. To engage in imagining beautiful illusions and fantasies to which one can potentially become addicted. Attraction to that which is refined and/or exalted. Confusion in love and in relationships. Impracticality where both love and money are concerned but also the ability to use one’s intuition to make money and to know what the loved one needs. The ability to intuit the true worth of things.
+
+#### Process
+
+The purifying and refining of one’s ability to love. Developing the ability to see through illusions into the eternal value and beauty underlying everything. The refine ment of one’s tastes.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Venus/Neptune`
+- Source page: `206`
+
+#### Pair Delineation
+
+The abstract ideal of the beautiful, the romantic ideal. Artistic taste and creativity. Romantic ideals in relationships, illusions about or in love (often leading to disappointment). Platonic love.
+
+Love of people vastly better or worse off than oneself, including those who take care of one or need to be taken care of.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `VENUS/NEPTUNE`
@@ -200,26 +254,27 @@ Inner reactions to drugs; weakness in the kidneys or bladder; weakened senses in
 
 ## Related Activations
 
-- [Venus/Neptune = Aries](../activations/venus-neptune-equals-aries.md)
-- [Venus/Neptune = MC](../activations/venus-neptune-equals-mc.md)
+- [Venus/Neptune = Admetos](../activations/venus-neptune-equals-admetos.md)
+- [Venus/Neptune = Apollon](../activations/venus-neptune-equals-apollon.md)
 - [Venus/Neptune = Asc](../activations/venus-neptune-equals-asc.md)
-- [Venus/Neptune = Sun](../activations/venus-neptune-equals-sun.md)
-- [Venus/Neptune = Moon](../activations/venus-neptune-equals-moon.md)
-- [Venus/Neptune = Node](../activations/venus-neptune-equals-node.md)
-- [Venus/Neptune = Mercury](../activations/venus-neptune-equals-mercury.md)
-- [Venus/Neptune = Mars](../activations/venus-neptune-equals-mars.md)
-- [Venus/Neptune = Jupiter](../activations/venus-neptune-equals-jupiter.md)
-- [Venus/Neptune = Saturn](../activations/venus-neptune-equals-saturn.md)
-- [Venus/Neptune = Uranus](../activations/venus-neptune-equals-uranus.md)
-- [Venus/Neptune = Pluto](../activations/venus-neptune-equals-pluto.md)
+- [Venus/Neptune = Chiron](../activations/venus-neptune-equals-chiron.md)
 - [Venus/Neptune = Cupido](../activations/venus-neptune-equals-cupido.md)
 - [Venus/Neptune = Hades](../activations/venus-neptune-equals-hades.md)
-- [Venus/Neptune = Zeus](../activations/venus-neptune-equals-zeus.md)
+- [Venus/Neptune = Jupiter](../activations/venus-neptune-equals-jupiter.md)
 - [Venus/Neptune = Kronos](../activations/venus-neptune-equals-kronos.md)
-- [Venus/Neptune = Apollon](../activations/venus-neptune-equals-apollon.md)
-- [Venus/Neptune = Admetos](../activations/venus-neptune-equals-admetos.md)
-- [Venus/Neptune = Vulcanus](../activations/venus-neptune-equals-vulcanus.md)
+- [Venus/Neptune = Mars](../activations/venus-neptune-equals-mars.md)
+- [Venus/Neptune = MC](../activations/venus-neptune-equals-mc.md)
+- [Venus/Neptune = Mercury](../activations/venus-neptune-equals-mercury.md)
+- [Venus/Neptune = Moon](../activations/venus-neptune-equals-moon.md)
+- [Venus/Neptune = Node](../activations/venus-neptune-equals-node.md)
+- [Venus/Neptune = Pluto](../activations/venus-neptune-equals-pluto.md)
 - [Venus/Neptune = Poseidon](../activations/venus-neptune-equals-poseidon.md)
+- [Venus/Neptune = Saturn](../activations/venus-neptune-equals-saturn.md)
+- [Venus/Neptune = Sun](../activations/venus-neptune-equals-sun.md)
+- [Venus/Neptune = Uranus](../activations/venus-neptune-equals-uranus.md)
+- [Venus/Neptune = Vernal Point](../activations/venus-neptune-equals-vernal-point.md)
+- [Venus/Neptune = Vulcanus](../activations/venus-neptune-equals-vulcanus.md)
+- [Venus/Neptune = Zeus](../activations/venus-neptune-equals-zeus.md)
 
 ## Contradictions
 
@@ -235,6 +290,9 @@ Inner reactions to drugs; weakness in the kidneys or bladder; weakened senses in
 - [Venus](../factors/venus.md)
 - [Neptune](../factors/neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

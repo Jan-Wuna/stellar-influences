@@ -11,28 +11,29 @@ normalized_axis: Sun/Neptune
 factor_a: Sun
 factor_b: Neptune
 related_activations:
-  - Sun/Neptune = Aries
-  - Sun/Neptune = MC
+  - Sun/Neptune = Admetos
+  - Sun/Neptune = Apollon
   - Sun/Neptune = Asc
-  - Sun/Neptune = Moon
-  - Sun/Neptune = Node
-  - Sun/Neptune = Mercury
-  - Sun/Neptune = Venus
-  - Sun/Neptune = Mars
-  - Sun/Neptune = Jupiter
-  - Sun/Neptune = Saturn
-  - Sun/Neptune = Uranus
-  - Sun/Neptune = Pluto
+  - Sun/Neptune = Chiron
   - Sun/Neptune = Cupido
   - Sun/Neptune = Hades
-  - Sun/Neptune = Zeus
+  - Sun/Neptune = Jupiter
   - Sun/Neptune = Kronos
-  - Sun/Neptune = Apollon
-  - Sun/Neptune = Admetos
-  - Sun/Neptune = Vulcanus
+  - Sun/Neptune = Mars
+  - Sun/Neptune = MC
+  - Sun/Neptune = Mercury
+  - Sun/Neptune = Moon
+  - Sun/Neptune = Node
+  - Sun/Neptune = Pluto
   - Sun/Neptune = Poseidon
+  - Sun/Neptune = Saturn
+  - Sun/Neptune = Uranus
+  - Sun/Neptune = Venus
+  - Sun/Neptune = Vernal Point
+  - Sun/Neptune = Vulcanus
+  - Sun/Neptune = Zeus
 related_triad_hubs:
-  - Aries Sun Neptune
+  - Sun Chiron Neptune
   - Sun Jupiter Neptune
   - Sun Mars Neptune
   - Sun Mercury Neptune
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Sun Saturn Neptune
   - Sun Uranus Neptune
   - Sun Venus Neptune
+  - Vernal Point Sun Neptune
 aliases:
   - Neptune/Sun
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 Sensitive, delicate body or object. A body tbat is susceptible to disease or infection. Weak or physically defenseless. Infirmity. Poor blood. The gas balloon, airplane or ship. Uncertain times or days. Physical relaxation. Lack of live energy. Poor muscle tone of a body or decay. Feebleness or sickness. (In the solar cycle: an uncertain period.)
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Sun/Neptune`
+- Source page: `98`
+
+#### Principle
+
+Sensitivity, weakness, illness.
+
+#### Psychological Correspondence
+
++ Receptive to all impressions, active imagination, enthusiasm, inclination to mysticism, cultivation of soul life or inner life experience. - Impressionable and susceptible, negative attitude to life, weakness, plans without the power to carry them through, peculiar ideas, craving for drugs and narcotic stimulants, self-deception. C Frailty, impressionable, a person subject to moods.
+
+#### Biological Correspondence
+
+The sluggish, weak or paralyzed cell, water concentrations in the cell. Dropsy, edema.
+
+#### Sociological Correspondence
+
+Weak, sick, sensitive persons, mediums.
+
+#### Probable Manifestations
+
++ Abundant experience in the spiritual and psychic realms or spheres, mystical experiences, journeys to far distant places, successes through sympathetic understanding of other people. - Illness, a person easily influenced by others, prone to seduction. A person who is exploited by other people; great disappointments, chaotic conditions, entanglement in scandals. 10 Several observations have shown that Sun/Neptune seems to relate to anaemia, bad blood conditions and blood diseases generally. A combination of Pluto = Sun/Neptune (Neptune = Sun/Pluto, Sun = Neptune/Pluto) showed not only actual blood diseases but also detrimental effects during or following on blood transfusions. O/V
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -156,6 +186,28 @@ Sobriety, in the widest sense, is needed to enable one to steer through the rock
 - Harmonious: Dickens, Cecil Rhodes, King George V, Zola, Grant, Tolstoy, Thomas Huxley, John Burns, Lous XIV of France, Henry Ford, Thomas Hardy.
 - The Conjunction: Edison, Felix Faure, Savonarola, G.R.S. Mead, Adeline Patti, George IV, Richard Cromwell, King Alfonso of Spain, W.J. Bryan, Crown Princes of Germany.
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Sun/Neptune midpoint`
+- Source page: `18`
+
+#### Principle
+
+Subtle forces affecting one’s vitality. Psychic sensitivity which can potentially drain one’s energy. To be idealistic and possibly unrealistic about one’s goals. To place importance on self-sacrifice and to feel that it makes life meaningful. Mystical or vision ary insight. To engage in self-glorifying imaginings.
+
+#### Process
+
+The development of the ability to perceive the Spiritual Light’s meaning and purpose in greater and greater depth, to the point that one realizes with absolute clarity the infinite and infinitely varied connections of all aspects of all universes.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Sun/Neptune`
+- Source page: `202`
+
+#### Pair Delineation
+
+One's sensitivity to subtle forces from without. This may be experienced as weakness and lack of self-assertiveness. Inclination to mystical or spiritual inquiry. Passivity, lack of initiative, allowing another to take control. Being a medium for other's energies.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `SUN/NEPTUNE`
@@ -199,26 +251,27 @@ A weakened bodily constitution; a decrease of willpower; potential drug addictio
 
 ## Related Activations
 
-- [Sun/Neptune = Aries](../activations/sun-neptune-equals-aries.md)
-- [Sun/Neptune = MC](../activations/sun-neptune-equals-mc.md)
+- [Sun/Neptune = Admetos](../activations/sun-neptune-equals-admetos.md)
+- [Sun/Neptune = Apollon](../activations/sun-neptune-equals-apollon.md)
 - [Sun/Neptune = Asc](../activations/sun-neptune-equals-asc.md)
-- [Sun/Neptune = Moon](../activations/sun-neptune-equals-moon.md)
-- [Sun/Neptune = Node](../activations/sun-neptune-equals-node.md)
-- [Sun/Neptune = Mercury](../activations/sun-neptune-equals-mercury.md)
-- [Sun/Neptune = Venus](../activations/sun-neptune-equals-venus.md)
-- [Sun/Neptune = Mars](../activations/sun-neptune-equals-mars.md)
-- [Sun/Neptune = Jupiter](../activations/sun-neptune-equals-jupiter.md)
-- [Sun/Neptune = Saturn](../activations/sun-neptune-equals-saturn.md)
-- [Sun/Neptune = Uranus](../activations/sun-neptune-equals-uranus.md)
-- [Sun/Neptune = Pluto](../activations/sun-neptune-equals-pluto.md)
+- [Sun/Neptune = Chiron](../activations/sun-neptune-equals-chiron.md)
 - [Sun/Neptune = Cupido](../activations/sun-neptune-equals-cupido.md)
 - [Sun/Neptune = Hades](../activations/sun-neptune-equals-hades.md)
-- [Sun/Neptune = Zeus](../activations/sun-neptune-equals-zeus.md)
+- [Sun/Neptune = Jupiter](../activations/sun-neptune-equals-jupiter.md)
 - [Sun/Neptune = Kronos](../activations/sun-neptune-equals-kronos.md)
-- [Sun/Neptune = Apollon](../activations/sun-neptune-equals-apollon.md)
-- [Sun/Neptune = Admetos](../activations/sun-neptune-equals-admetos.md)
-- [Sun/Neptune = Vulcanus](../activations/sun-neptune-equals-vulcanus.md)
+- [Sun/Neptune = Mars](../activations/sun-neptune-equals-mars.md)
+- [Sun/Neptune = MC](../activations/sun-neptune-equals-mc.md)
+- [Sun/Neptune = Mercury](../activations/sun-neptune-equals-mercury.md)
+- [Sun/Neptune = Moon](../activations/sun-neptune-equals-moon.md)
+- [Sun/Neptune = Node](../activations/sun-neptune-equals-node.md)
+- [Sun/Neptune = Pluto](../activations/sun-neptune-equals-pluto.md)
 - [Sun/Neptune = Poseidon](../activations/sun-neptune-equals-poseidon.md)
+- [Sun/Neptune = Saturn](../activations/sun-neptune-equals-saturn.md)
+- [Sun/Neptune = Uranus](../activations/sun-neptune-equals-uranus.md)
+- [Sun/Neptune = Venus](../activations/sun-neptune-equals-venus.md)
+- [Sun/Neptune = Vernal Point](../activations/sun-neptune-equals-vernal-point.md)
+- [Sun/Neptune = Vulcanus](../activations/sun-neptune-equals-vulcanus.md)
+- [Sun/Neptune = Zeus](../activations/sun-neptune-equals-zeus.md)
 
 ## Contradictions
 
@@ -234,6 +287,9 @@ A weakened bodily constitution; a decrease of willpower; potential drug addictio
 - [Sun](../factors/sun.md)
 - [Neptune](../factors/neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

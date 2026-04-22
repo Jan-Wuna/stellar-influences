@@ -3,7 +3,7 @@ title: Saturn Uranus Neptune
 page_type: triad_hub
 slug: saturn-uranus-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Uranus
@@ -19,7 +19,9 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -31,18 +33,20 @@ updated_at: 2026-04-21
 ## Orientation Map
 
 - [Saturn/Neptune = Uranus](../activations/saturn-neptune-equals-uranus.md)
-  Source page `222`
 - [Saturn/Uranus = Neptune](../activations/saturn-uranus-equals-neptune.md)
-  Source page `221`
 - [Uranus/Neptune = Saturn](../activations/uranus-neptune-equals-saturn.md)
-  Source page `234`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Saturn/Neptune = Uranus`: page `222`
-- `Saturn/Uranus = Neptune`: page `221`
-- `Uranus/Neptune = Saturn`: page `234`
+- `Saturn/Neptune = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `222`
+- `Saturn/Neptune = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `250`
+- `Saturn/Neptune = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `90`
+- `Saturn/Uranus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `221`
+- `Saturn/Uranus = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `247`
+- `Saturn/Uranus = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `88`
+- `Uranus/Neptune = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `234`
+- `Uranus/Neptune = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `266`
+- `Uranus/Neptune = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `104`
 
 ## Contradictions Across Orientations
 
@@ -54,3 +58,6 @@ updated_at: 2026-04-21
 - [Saturn](../factors/saturn.md)
 - [Uranus](../factors/uranus.md)
 - [Neptune](../factors/neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

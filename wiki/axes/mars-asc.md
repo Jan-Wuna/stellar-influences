@@ -11,28 +11,28 @@ normalized_axis: Mars/Asc
 factor_a: Mars
 factor_b: Asc
 related_activations:
-  - Mars/Asc = Aries
-  - Mars/Asc = MC
-  - Mars/Asc = Sun
-  - Mars/Asc = Moon
-  - Mars/Asc = Node
-  - Mars/Asc = Mercury
-  - Mars/Asc = Venus
-  - Mars/Asc = Jupiter
-  - Mars/Asc = Saturn
-  - Mars/Asc = Uranus
-  - Mars/Asc = Neptune
-  - Mars/Asc = Pluto
+  - Mars/Asc = Admetos
+  - Mars/Asc = Apollon
+  - Mars/Asc = Chiron
   - Mars/Asc = Cupido
   - Mars/Asc = Hades
-  - Mars/Asc = Zeus
+  - Mars/Asc = Jupiter
   - Mars/Asc = Kronos
-  - Mars/Asc = Apollon
-  - Mars/Asc = Admetos
-  - Mars/Asc = Vulcanus
+  - Mars/Asc = MC
+  - Mars/Asc = Mercury
+  - Mars/Asc = Moon
+  - Mars/Asc = Neptune
+  - Mars/Asc = Node
+  - Mars/Asc = Pluto
   - Mars/Asc = Poseidon
+  - Mars/Asc = Saturn
+  - Mars/Asc = Sun
+  - Mars/Asc = Uranus
+  - Mars/Asc = Venus
+  - Mars/Asc = Vernal Point
+  - Mars/Asc = Vulcanus
+  - Mars/Asc = Zeus
 related_triad_hubs:
-  - Aries Mars Asc
   - Mars Asc Admetos
   - Mars Asc Apollon
   - Mars Asc Cupido
@@ -42,6 +42,7 @@ related_triad_hubs:
   - Mars Asc Poseidon
   - Mars Asc Vulcanus
   - Mars Asc Zeus
+  - Mars Chiron Asc
   - Mars Jupiter Asc
   - Mars Neptune Asc
   - Mars Node Asc
@@ -52,10 +53,14 @@ related_triad_hubs:
   - Moon Mars Asc
   - Sun Mars Asc
   - Venus Mars Asc
+  - Vernal Point Mars Asc
 aliases:
   - Asc/Mars
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -70,12 +75,59 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Mars`
-- Source page: `85`
+- Source heading: `Mars/Ascendant`
+- Source page: `219`
 
 #### Pair Summary
 
 Actions and deeds of others or with others. Excitement. Arguments with others. To be handled energetically, leading eventually to violence. Fights. Strife. Co-worker. To be made angry by others. Excitement or action in the immediate surroundings. Actions and deeds of others. Others are in activity. Place of work. Working environment.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mars/Ascendant`
+- Source page: `219`
+
+#### Principle
+
+A fighting spirit.
+
+#### Psychological Correspondence
+
++ Tendency to force one's own will upon others, ability to lead or guide others resolutely, active teamwork. - A fighting and aggressive spirit with regard to others. A quarrelsome person, inclination to become physically violent. C Advancement in life by the use of force.
+
+#### Biological Correspondence
+
+Prone to accidents. A surgical operation.
+
+#### Sociological Correspondence
+
+Colleagues and coworkers. Bullies and ruffians.
+
+#### Probable Manifestations
+
++ Tendency to drive and push others to get on with their work, successful creative activity in teamwork, forceful attainment of success. - Quarrels, conflicts, disputes. Mars/Ascendant oVA
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mars/Ascendant midpoint`
+- Source page: `75`
+
+#### Principle
+
+An assertive personality. To create an identity for oneself. To identify with being one who acts, builds, constructs, or destroys. A strong sexual identity. To destroy one’s identity. To strongly identify with what one does and what one produces.
+
+#### Process
+
+The realization of both the constructive and destructive powers of one’s personality. The active acceptance and denial of elements which form and affect one’s identity.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Mars/Ascendant`
+- Source page: `208`
+
+#### Pair Delineation
+
+Competition with others, conflicts, the ability to withstand opposition in one's environment. To stand up to others.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -120,26 +172,27 @@ Pressure or heat within the ocular fluids; elevated blood pressure caused by you
 
 ## Related Activations
 
-- [Mars/Asc = Aries](../activations/mars-asc-equals-aries.md)
-- [Mars/Asc = MC](../activations/mars-asc-equals-mc.md)
-- [Mars/Asc = Sun](../activations/mars-asc-equals-sun.md)
-- [Mars/Asc = Moon](../activations/mars-asc-equals-moon.md)
-- [Mars/Asc = Node](../activations/mars-asc-equals-node.md)
-- [Mars/Asc = Mercury](../activations/mars-asc-equals-mercury.md)
-- [Mars/Asc = Venus](../activations/mars-asc-equals-venus.md)
-- [Mars/Asc = Jupiter](../activations/mars-asc-equals-jupiter.md)
-- [Mars/Asc = Saturn](../activations/mars-asc-equals-saturn.md)
-- [Mars/Asc = Uranus](../activations/mars-asc-equals-uranus.md)
-- [Mars/Asc = Neptune](../activations/mars-asc-equals-neptune.md)
-- [Mars/Asc = Pluto](../activations/mars-asc-equals-pluto.md)
+- [Mars/Asc = Admetos](../activations/mars-asc-equals-admetos.md)
+- [Mars/Asc = Apollon](../activations/mars-asc-equals-apollon.md)
+- [Mars/Asc = Chiron](../activations/mars-asc-equals-chiron.md)
 - [Mars/Asc = Cupido](../activations/mars-asc-equals-cupido.md)
 - [Mars/Asc = Hades](../activations/mars-asc-equals-hades.md)
-- [Mars/Asc = Zeus](../activations/mars-asc-equals-zeus.md)
+- [Mars/Asc = Jupiter](../activations/mars-asc-equals-jupiter.md)
 - [Mars/Asc = Kronos](../activations/mars-asc-equals-kronos.md)
-- [Mars/Asc = Apollon](../activations/mars-asc-equals-apollon.md)
-- [Mars/Asc = Admetos](../activations/mars-asc-equals-admetos.md)
-- [Mars/Asc = Vulcanus](../activations/mars-asc-equals-vulcanus.md)
+- [Mars/Asc = MC](../activations/mars-asc-equals-mc.md)
+- [Mars/Asc = Mercury](../activations/mars-asc-equals-mercury.md)
+- [Mars/Asc = Moon](../activations/mars-asc-equals-moon.md)
+- [Mars/Asc = Neptune](../activations/mars-asc-equals-neptune.md)
+- [Mars/Asc = Node](../activations/mars-asc-equals-node.md)
+- [Mars/Asc = Pluto](../activations/mars-asc-equals-pluto.md)
 - [Mars/Asc = Poseidon](../activations/mars-asc-equals-poseidon.md)
+- [Mars/Asc = Saturn](../activations/mars-asc-equals-saturn.md)
+- [Mars/Asc = Sun](../activations/mars-asc-equals-sun.md)
+- [Mars/Asc = Uranus](../activations/mars-asc-equals-uranus.md)
+- [Mars/Asc = Venus](../activations/mars-asc-equals-venus.md)
+- [Mars/Asc = Vernal Point](../activations/mars-asc-equals-vernal-point.md)
+- [Mars/Asc = Vulcanus](../activations/mars-asc-equals-vulcanus.md)
+- [Mars/Asc = Zeus](../activations/mars-asc-equals-zeus.md)
 
 ## Contradictions
 
@@ -155,4 +208,7 @@ Pressure or heat within the ocular fluids; elevated blood pressure caused by you
 - [Mars](../factors/mars.md)
 - [Asc](../factors/asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

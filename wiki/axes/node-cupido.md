@@ -11,7 +11,7 @@ normalized_axis: Node/Cupido
 factor_a: Node
 factor_b: Cupido
 related_activations:
-  - Node/Cupido = Aries
+  - Node/Cupido = Vernal Point
   - Node/Cupido = MC
   - Node/Cupido = Asc
   - Node/Cupido = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Node/Cupido = Vulcanus
   - Node/Cupido = Poseidon
 related_triad_hubs:
-  - Aries Node Cupido
   - Jupiter Node Cupido
   - Mars Node Cupido
   - Mercury Node Cupido
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Node Cupido
   - Uranus Node Cupido
   - Venus Node Cupido
+  - Vernal Point Node Cupido
 aliases:
   - Cupido/Node
 source_pages:
@@ -85,7 +85,7 @@ To prepare the way for marriage. Familiar connections. Common interests or union
 
 ## Related Activations
 
-- [Node/Cupido = Aries](../activations/node-cupido-equals-aries.md)
+- [Node/Cupido = Vernal Point](../activations/node-cupido-equals-vernal-point.md)
 - [Node/Cupido = MC](../activations/node-cupido-equals-mc.md)
 - [Node/Cupido = Asc](../activations/node-cupido-equals-asc.md)
 - [Node/Cupido = Sun](../activations/node-cupido-equals-sun.md)

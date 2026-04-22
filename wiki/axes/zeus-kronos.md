@@ -11,7 +11,7 @@ normalized_axis: Zeus/Kronos
 factor_a: Zeus
 factor_b: Kronos
 related_activations:
-  - Zeus/Kronos = Aries
+  - Zeus/Kronos = Vernal Point
   - Zeus/Kronos = MC
   - Zeus/Kronos = Asc
   - Zeus/Kronos = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Zeus/Kronos = Vulcanus
   - Zeus/Kronos = Poseidon
 related_triad_hubs:
-  - Aries Zeus Kronos
   - Asc Zeus Kronos
   - Cupido Zeus Kronos
   - Hades Zeus Kronos
@@ -48,6 +47,7 @@ related_triad_hubs:
   - Sun Zeus Kronos
   - Uranus Zeus Kronos
   - Venus Zeus Kronos
+  - Vernal Point Zeus Kronos
   - Zeus Kronos Admetos
   - Zeus Kronos Apollon
   - Zeus Kronos Poseidon
@@ -85,7 +85,7 @@ Great and energetic activities. Energetic leadership. To assert oneself at all c
 
 ## Related Activations
 
-- [Zeus/Kronos = Aries](../activations/zeus-kronos-equals-aries.md)
+- [Zeus/Kronos = Vernal Point](../activations/zeus-kronos-equals-vernal-point.md)
 - [Zeus/Kronos = MC](../activations/zeus-kronos-equals-mc.md)
 - [Zeus/Kronos = Asc](../activations/zeus-kronos-equals-asc.md)
 - [Zeus/Kronos = Sun](../activations/zeus-kronos-equals-sun.md)

@@ -11,7 +11,7 @@ normalized_axis: Jupiter/Kronos
 factor_a: Jupiter
 factor_b: Kronos
 related_activations:
-  - Jupiter/Kronos = Aries
+  - Jupiter/Kronos = Vernal Point
   - Jupiter/Kronos = MC
   - Jupiter/Kronos = Asc
   - Jupiter/Kronos = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Jupiter/Kronos = Vulcanus
   - Jupiter/Kronos = Poseidon
 related_triad_hubs:
-  - Aries Jupiter Kronos
   - Jupiter Asc Kronos
   - Jupiter Cupido Kronos
   - Jupiter Hades Kronos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Moon Jupiter Kronos
   - Sun Jupiter Kronos
   - Venus Jupiter Kronos
+  - Vernal Point Jupiter Kronos
 aliases:
   - Kronos/Jupiter
 source_pages:
@@ -85,7 +85,7 @@ Formula of a wealthy man, or lucky and successful manager. Bankers. Independence
 
 ## Related Activations
 
-- [Jupiter/Kronos = Aries](../activations/jupiter-kronos-equals-aries.md)
+- [Jupiter/Kronos = Vernal Point](../activations/jupiter-kronos-equals-vernal-point.md)
 - [Jupiter/Kronos = MC](../activations/jupiter-kronos-equals-mc.md)
 - [Jupiter/Kronos = Asc](../activations/jupiter-kronos-equals-asc.md)
 - [Jupiter/Kronos = Sun](../activations/jupiter-kronos-equals-sun.md)

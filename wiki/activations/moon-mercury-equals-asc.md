@@ -3,7 +3,7 @@ title: Moon/Mercury = Asc
 page_type: activation
 slug: moon-mercury-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Mercury
@@ -15,10 +15,13 @@ triad_set:
   - Moon
   - Mercury
   - Asc
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Acquaintance with the young, especially with young girls. To be with other people during business hours. To work with vehicles. Associations of youth.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Moon/Mercury`
+- Source page: `115`
+- Entry: `0336`
+
+#### Ebertin Entry
+
+Love of conversation or talk. An active exchange of thoughts. An acquaintance dating from one's youth.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Moon/Mercury midpoint`
+- Source page: `25`
+- Activator: `Ascendant`
+
+#### Sandbach Entry
+
+One seems outwardly to be emotionally flexible, and/or plays the role of being a person with whom one might have an intimate exchange of ideas. The need to communicate one’s feelings in relationships.
+
 ## Comparative Schema
 
-- core meaning: Acquaintance with the young, especially with young girls. To be with other people during business hours. To work with vehicles. Associations of youth.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Acquaintance with the young, especially with young girls. To be with other peopl
 - [Mercury](../factors/mercury.md)
 - [Asc](../factors/asc.md)
 - [Moon/Mercury](../axes/moon-mercury.md)
+- [Moon Mercury Asc](../triads/moon-mercury-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

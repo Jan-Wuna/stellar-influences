@@ -11,28 +11,29 @@ normalized_axis: Jupiter/Node
 factor_a: Jupiter
 factor_b: Node
 related_activations:
-  - Jupiter/Node = Aries
-  - Jupiter/Node = MC
+  - Jupiter/Node = Admetos
+  - Jupiter/Node = Apollon
   - Jupiter/Node = Asc
-  - Jupiter/Node = Sun
-  - Jupiter/Node = Moon
-  - Jupiter/Node = Mercury
-  - Jupiter/Node = Venus
-  - Jupiter/Node = Mars
-  - Jupiter/Node = Saturn
-  - Jupiter/Node = Uranus
-  - Jupiter/Node = Neptune
-  - Jupiter/Node = Pluto
+  - Jupiter/Node = Chiron
   - Jupiter/Node = Cupido
   - Jupiter/Node = Hades
-  - Jupiter/Node = Zeus
   - Jupiter/Node = Kronos
-  - Jupiter/Node = Apollon
-  - Jupiter/Node = Admetos
-  - Jupiter/Node = Vulcanus
+  - Jupiter/Node = Mars
+  - Jupiter/Node = MC
+  - Jupiter/Node = Mercury
+  - Jupiter/Node = Moon
+  - Jupiter/Node = Neptune
+  - Jupiter/Node = Pluto
   - Jupiter/Node = Poseidon
+  - Jupiter/Node = Saturn
+  - Jupiter/Node = Sun
+  - Jupiter/Node = Uranus
+  - Jupiter/Node = Venus
+  - Jupiter/Node = Vernal Point
+  - Jupiter/Node = Vulcanus
+  - Jupiter/Node = Zeus
 related_triad_hubs:
-  - Aries Jupiter Node
+  - Jupiter Chiron Node
   - Jupiter Neptune Node
   - Jupiter Node Admetos
   - Jupiter Node Apollon
@@ -52,10 +53,14 @@ related_triad_hubs:
   - Moon Jupiter Node
   - Sun Jupiter Node
   - Venus Jupiter Node
+  - Vernal Point Jupiter Node
 aliases:
   - Node/Jupiter
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -70,12 +75,59 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Jupiter`
-- Source page: `144`
+- Source heading: `Jupiter/Dragon's Head`
+- Source page: `237`
 
 #### Pair Summary
 
 Fortunate union. Fortunate connections. Fortunate contacts. Financial relationship. Successful connections. Relations to matters of money or justice.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Jupiter/Dragon's Head`
+- Source page: `237`
+
+#### Principle
+
+Good relationships and connections, an agreeable or pleasant contact.
+
+#### Psychological Correspondence
+
++ A harmonious relationship with others, adaptable, meeting other people halfway, a sense of tact. - A lack of good fellowship, tendency to first look out for one's own gain. C Good fellowship, sociable.
+
+#### Biological Correspondence
+
+The flow of force in the living organism.
+
+#### Sociological Correspondence
+
+- None extracted.
+
+#### Probable Manifestations
+
++ Entering into advantageous associations, getting engaged or married, gaining advantages in business with other people, the good luck to find a good partner. - Disharmonious or antisocial conduct in associations.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Jupiter/Node midpoint`
+- Source page: `84`
+
+#### Principle
+
+The desire to seek out connections through which one may grow and expand. A generous and expansive way of connecting with people. To make many connections with others. The ability to compensate for difficulties or limitations en countered when connecting with other people. Mutual benefit resulting from one’s connections.
+
+#### Process
+
+The gaining of perspective on the past through deepening one’s understand ing of it. The seeking of life situations in which one can learn and evolve.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Jupiter/Nodes`
+- Source page: `209`
+
+#### Pair Delineation
+
+Coming together with others for mutual growth and benefit or for the study of religious or philosophical subjects. The ability to make fortunate connections with others or to meet those that can be of assistance; the ability to make a good impression.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -120,26 +172,27 @@ Expansion in the joints or connecting tissue; swelling of the joints; stretching
 
 ## Related Activations
 
-- [Jupiter/Node = Aries](../activations/jupiter-node-equals-aries.md)
-- [Jupiter/Node = MC](../activations/jupiter-node-equals-mc.md)
+- [Jupiter/Node = Admetos](../activations/jupiter-node-equals-admetos.md)
+- [Jupiter/Node = Apollon](../activations/jupiter-node-equals-apollon.md)
 - [Jupiter/Node = Asc](../activations/jupiter-node-equals-asc.md)
-- [Jupiter/Node = Sun](../activations/jupiter-node-equals-sun.md)
-- [Jupiter/Node = Moon](../activations/jupiter-node-equals-moon.md)
-- [Jupiter/Node = Mercury](../activations/jupiter-node-equals-mercury.md)
-- [Jupiter/Node = Venus](../activations/jupiter-node-equals-venus.md)
-- [Jupiter/Node = Mars](../activations/jupiter-node-equals-mars.md)
-- [Jupiter/Node = Saturn](../activations/jupiter-node-equals-saturn.md)
-- [Jupiter/Node = Uranus](../activations/jupiter-node-equals-uranus.md)
-- [Jupiter/Node = Neptune](../activations/jupiter-node-equals-neptune.md)
-- [Jupiter/Node = Pluto](../activations/jupiter-node-equals-pluto.md)
+- [Jupiter/Node = Chiron](../activations/jupiter-node-equals-chiron.md)
 - [Jupiter/Node = Cupido](../activations/jupiter-node-equals-cupido.md)
 - [Jupiter/Node = Hades](../activations/jupiter-node-equals-hades.md)
-- [Jupiter/Node = Zeus](../activations/jupiter-node-equals-zeus.md)
 - [Jupiter/Node = Kronos](../activations/jupiter-node-equals-kronos.md)
-- [Jupiter/Node = Apollon](../activations/jupiter-node-equals-apollon.md)
-- [Jupiter/Node = Admetos](../activations/jupiter-node-equals-admetos.md)
-- [Jupiter/Node = Vulcanus](../activations/jupiter-node-equals-vulcanus.md)
+- [Jupiter/Node = Mars](../activations/jupiter-node-equals-mars.md)
+- [Jupiter/Node = MC](../activations/jupiter-node-equals-mc.md)
+- [Jupiter/Node = Mercury](../activations/jupiter-node-equals-mercury.md)
+- [Jupiter/Node = Moon](../activations/jupiter-node-equals-moon.md)
+- [Jupiter/Node = Neptune](../activations/jupiter-node-equals-neptune.md)
+- [Jupiter/Node = Pluto](../activations/jupiter-node-equals-pluto.md)
 - [Jupiter/Node = Poseidon](../activations/jupiter-node-equals-poseidon.md)
+- [Jupiter/Node = Saturn](../activations/jupiter-node-equals-saturn.md)
+- [Jupiter/Node = Sun](../activations/jupiter-node-equals-sun.md)
+- [Jupiter/Node = Uranus](../activations/jupiter-node-equals-uranus.md)
+- [Jupiter/Node = Venus](../activations/jupiter-node-equals-venus.md)
+- [Jupiter/Node = Vernal Point](../activations/jupiter-node-equals-vernal-point.md)
+- [Jupiter/Node = Vulcanus](../activations/jupiter-node-equals-vulcanus.md)
+- [Jupiter/Node = Zeus](../activations/jupiter-node-equals-zeus.md)
 
 ## Contradictions
 
@@ -155,4 +208,7 @@ Expansion in the joints or connecting tissue; swelling of the joints; stretching
 - [Jupiter](../factors/jupiter.md)
 - [Node](../factors/node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

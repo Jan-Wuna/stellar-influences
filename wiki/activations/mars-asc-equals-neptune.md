@@ -3,10 +3,10 @@ title: Mars/Asc = Neptune
 page_type: activation
 slug: mars-asc-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Mars
+  - Asc
   - Neptune
 normalized_formula: Mars/Asc = Neptune
 axis: Mars/Asc
@@ -15,10 +15,13 @@ triad_set:
   - Mars
   - Neptune
   - Asc
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Thoughtless deeds of others. Deceit and disappointment through the deeds of others. Danger of infection. Danger of destruction.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mars/Ascendant`
+- Source page: `220`
+- Entry: `0766`
+
+#### Ebertin Entry
+
+Lack of energy, maintaining one's position in life only with difficulty, diminishing creative power. Disharmonious working relationship. Illness caused through others.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mars/Ascendant midpoint`
+- Source page: `75`
+- Activator: `Neptune`
+
+#### Sandbach Entry
+
+To be ready to fight for one’s ideals. Conflicts within the personality which are hidden and/or confusing. The need to tap into one’s personality conflicts on an intuitive level so that their subtleties may be perceived.
+
 ## Comparative Schema
 
-- core meaning: Thoughtless deeds of others. Deceit and disappointment through the deeds of others. Danger of infection. Danger of destruction.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Thoughtless deeds of others. Deceit and disappointment through the deeds of othe
 - [Asc](../factors/asc.md)
 - [Neptune](../factors/neptune.md)
 - [Mars/Asc](../axes/mars-asc.md)
+- [Mars Neptune Asc](../triads/mars-neptune-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

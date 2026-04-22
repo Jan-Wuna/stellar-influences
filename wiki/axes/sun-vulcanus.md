@@ -11,7 +11,7 @@ normalized_axis: Sun/Vulcanus
 factor_a: Sun
 factor_b: Vulcanus
 related_activations:
-  - Sun/Vulcanus = Aries
+  - Sun/Vulcanus = Vernal Point
   - Sun/Vulcanus = MC
   - Sun/Vulcanus = Asc
   - Sun/Vulcanus = Moon
@@ -32,7 +32,6 @@ related_activations:
   - Sun/Vulcanus = Admetos
   - Sun/Vulcanus = Poseidon
 related_triad_hubs:
-  - Aries Sun Vulcanus
   - Sun Admetos Vulcanus
   - Sun Apollon Vulcanus
   - Sun Asc Vulcanus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Venus Vulcanus
   - Sun Vulcanus Poseidon
   - Sun Zeus Vulcanus
+  - Vernal Point Sun Vulcanus
 aliases:
   - Vulcanus/Sun
 source_pages:
@@ -85,7 +85,7 @@ Vitality. Physical strength. The power of an object or the body. The muscular po
 
 ## Related Activations
 
-- [Sun/Vulcanus = Aries](../activations/sun-vulcanus-equals-aries.md)
+- [Sun/Vulcanus = Vernal Point](../activations/sun-vulcanus-equals-vernal-point.md)
 - [Sun/Vulcanus = MC](../activations/sun-vulcanus-equals-mc.md)
 - [Sun/Vulcanus = Asc](../activations/sun-vulcanus-equals-asc.md)
 - [Sun/Vulcanus = Moon](../activations/sun-vulcanus-equals-moon.md)

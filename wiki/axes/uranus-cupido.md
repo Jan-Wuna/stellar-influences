@@ -11,7 +11,7 @@ normalized_axis: Uranus/Cupido
 factor_a: Uranus
 factor_b: Cupido
 related_activations:
-  - Uranus/Cupido = Aries
+  - Uranus/Cupido = Vernal Point
   - Uranus/Cupido = MC
   - Uranus/Cupido = Asc
   - Uranus/Cupido = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Uranus/Cupido = Vulcanus
   - Uranus/Cupido = Poseidon
 related_triad_hubs:
-  - Aries Uranus Cupido
   - Jupiter Uranus Cupido
   - Mars Uranus Cupido
   - Mercury Uranus Cupido
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Uranus Node Cupido
   - Uranus Pluto Cupido
   - Venus Uranus Cupido
+  - Vernal Point Uranus Cupido
 aliases:
   - Cupido/Uranus
 source_pages:
@@ -85,7 +85,7 @@ Sudden marriage. Sudden wedding. Sudden event in the family. Wedding celebration
 
 ## Related Activations
 
-- [Uranus/Cupido = Aries](../activations/uranus-cupido-equals-aries.md)
+- [Uranus/Cupido = Vernal Point](../activations/uranus-cupido-equals-vernal-point.md)
 - [Uranus/Cupido = MC](../activations/uranus-cupido-equals-mc.md)
 - [Uranus/Cupido = Asc](../activations/uranus-cupido-equals-asc.md)
 - [Uranus/Cupido = Sun](../activations/uranus-cupido-equals-sun.md)

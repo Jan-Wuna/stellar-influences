@@ -11,7 +11,7 @@ normalized_axis: MC/Zeus
 factor_a: MC
 factor_b: Zeus
 related_activations:
-  - MC/Zeus = Aries
+  - MC/Zeus = Vernal Point
   - MC/Zeus = Asc
   - MC/Zeus = Sun
   - MC/Zeus = Moon
@@ -32,7 +32,6 @@ related_activations:
   - MC/Zeus = Vulcanus
   - MC/Zeus = Poseidon
 related_triad_hubs:
-  - Aries MC Zeus
   - Asc MC Zeus
   - Jupiter MC Zeus
   - Mars MC Zeus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun MC Zeus
   - Uranus MC Zeus
   - Venus MC Zeus
+  - Vernal Point MC Zeus
 aliases:
   - Zeus/MC
 source_pages:
@@ -85,7 +85,7 @@ One’ own creative abilities. Hie thirst for action. The urge to work. Passion 
 
 ## Related Activations
 
-- [MC/Zeus = Aries](../activations/mc-zeus-equals-aries.md)
+- [MC/Zeus = Vernal Point](../activations/mc-zeus-equals-vernal-point.md)
 - [MC/Zeus = Asc](../activations/mc-zeus-equals-asc.md)
 - [MC/Zeus = Sun](../activations/mc-zeus-equals-sun.md)
 - [MC/Zeus = Moon](../activations/mc-zeus-equals-moon.md)

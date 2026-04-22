@@ -3,10 +3,10 @@ title: Neptune/MC = Moon
 page_type: activation
 slug: neptune-mc-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Neptune
+  - MC
   - Moon
 normalized_formula: Neptune/MC = Moon
 axis: Neptune/MC
@@ -15,10 +15,13 @@ triad_set:
   - Moon
   - Neptune
   - MC
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Sensitive to beams (radiated energy). Sleepwalker. To deceive females, or the people. To be very imaginative.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Neptune/Medium Coeli`
+- Source page: `290`
+- Entry: `1036`
+
+#### Ebertin Entry
+
+Tendency to revel in fanciful imaginings, active and intense imagination, misinterpretation of observations and perceptions, dreamy nature, peculiar state of feeling.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Neptune/Midheaven midpoint`
+- Source page: `113`
+- Activator: `Moon`
+
+#### Sandbach Entry
+
+The emotional need to have a career you can really feel dedicated to. Your ability to intuit how to spiritually advance yourself comes and goes, and you need to be sensitive to these cycles, so that you know that even though you sometimes feel not so spiritually connected you will experience a deeper connection soon. When you feel emotionally down you may get into negative imaginings about your career.
+
 ## Comparative Schema
 
-- core meaning: Sensitive to beams (radiated energy). Sleepwalker. To deceive females, or the people. To be very imaginative.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Sensitive to beams (radiated energy). Sleepwalker. To deceive females, or the pe
 - [MC](../factors/mc.md)
 - [Moon](../factors/moon.md)
 - [Neptune/MC](../axes/neptune-mc.md)
+- [Moon Neptune MC](../triads/moon-neptune-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

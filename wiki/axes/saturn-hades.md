@@ -11,7 +11,7 @@ normalized_axis: Saturn/Hades
 factor_a: Saturn
 factor_b: Hades
 related_activations:
-  - Saturn/Hades = Aries
+  - Saturn/Hades = Vernal Point
   - Saturn/Hades = MC
   - Saturn/Hades = Asc
   - Saturn/Hades = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Saturn/Hades = Vulcanus
   - Saturn/Hades = Poseidon
 related_triad_hubs:
-  - Aries Saturn Hades
   - Jupiter Saturn Hades
   - Mars Saturn Hades
   - Mercury Saturn Hades
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Saturn Uranus Hades
   - Sun Saturn Hades
   - Venus Saturn Hades
+  - Vernal Point Saturn Hades
 aliases:
   - Hades/Saturn
 source_pages:
@@ -85,7 +85,7 @@ Melancholy. Trouble. Sadness. The alien. Refugees. Serious obstacles. Severe sic
 
 ## Related Activations
 
-- [Saturn/Hades = Aries](../activations/saturn-hades-equals-aries.md)
+- [Saturn/Hades = Vernal Point](../activations/saturn-hades-equals-vernal-point.md)
 - [Saturn/Hades = MC](../activations/saturn-hades-equals-mc.md)
 - [Saturn/Hades = Asc](../activations/saturn-hades-equals-asc.md)
 - [Saturn/Hades = Sun](../activations/saturn-hades-equals-sun.md)

@@ -11,33 +11,34 @@ normalized_axis: Saturn/MC
 factor_a: Saturn
 factor_b: MC
 related_activations:
-  - Saturn/MC = Aries
+  - Saturn/MC = Admetos
+  - Saturn/MC = Apollon
   - Saturn/MC = Asc
-  - Saturn/MC = Sun
-  - Saturn/MC = Moon
-  - Saturn/MC = Node
-  - Saturn/MC = Mercury
-  - Saturn/MC = Venus
-  - Saturn/MC = Mars
-  - Saturn/MC = Jupiter
-  - Saturn/MC = Uranus
-  - Saturn/MC = Neptune
-  - Saturn/MC = Pluto
+  - Saturn/MC = Chiron
   - Saturn/MC = Cupido
   - Saturn/MC = Hades
-  - Saturn/MC = Zeus
+  - Saturn/MC = Jupiter
   - Saturn/MC = Kronos
-  - Saturn/MC = Apollon
-  - Saturn/MC = Admetos
-  - Saturn/MC = Vulcanus
+  - Saturn/MC = Mars
+  - Saturn/MC = Mercury
+  - Saturn/MC = Moon
+  - Saturn/MC = Neptune
+  - Saturn/MC = Node
+  - Saturn/MC = Pluto
   - Saturn/MC = Poseidon
+  - Saturn/MC = Sun
+  - Saturn/MC = Uranus
+  - Saturn/MC = Venus
+  - Saturn/MC = Vernal Point
+  - Saturn/MC = Vulcanus
+  - Saturn/MC = Zeus
 related_triad_hubs:
-  - Aries Saturn MC
   - Jupiter Saturn MC
   - Mars Saturn MC
   - Mercury Saturn MC
   - Moon Saturn MC
   - Saturn Asc MC
+  - Saturn Chiron MC
   - Saturn MC Admetos
   - Saturn MC Apollon
   - Saturn MC Cupido
@@ -52,10 +53,14 @@ related_triad_hubs:
   - Saturn Uranus MC
   - Sun Saturn MC
   - Venus Saturn MC
+  - Vernal Point Saturn MC
 aliases:
   - MC/Saturn
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -70,12 +75,59 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Saturn`
-- Source page: `66`
+- Source heading: `Saturn/Medium Coeli`
+- Source page: `262`
 
 #### Pair Summary
 
 To feel a burden. Inhibition or loneliness. To take over a duty. Depression. Dejection. To separate. To feel deserted. Being ponderous. Personal sorrows. Mournful states or afflictions. Serious minded. Concentrated attitude. To be restrained. To slow down. Losing life goals. The moment (minute) of separation.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Saturn/Medium Coeli`
+- Source page: `262`
+
+#### Principle
+
+Hindered growth or development.
+
+#### Psychological Correspondence
+
+-I- Slow development, tenacious adherence to one's objectives or aims in life. Inclination to occupy oneself with one's own personality. - Lack of striving for an objective, emotional inhibitions, lack of courage or despondency, feelings of inferiority. C Inhibited or retarded development.
+
+#### Biological Correspondence
+
+Feeling sick. Conscious, localized pain. The "ego or self-illnesses." (Connected very frequently with cancer, in cases of insanity or of mental disorders. The disintegration of the personality. Loss of ego-consciousness.)
+
+#### Sociological Correspondence
+
+Emotionally inhibited or suffering people.
+
+#### Probable Manifestations
+
++ Tendency to cling to hopes, to gain experience, changes of aims or aspirations in life. - The need to struggle against difficulties or odds. The act of separation, difficulties in one's career and occupation. 56 A limitation such as that which Satum/MC represents need not always work out as a disadvantage. This combination can be found in the charts of important personalities. It is therefore always important to examine the other combinations as well. Saturn/Medium Coeli VM
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Saturn/Midheaven midpoint`
+- Source page: `95`
+
+#### Principle
+
+The finding of true spirituality through union with the Spiritual Light. Difficul ties in allowing in spiritual messages. The need to listen to the spiritual self within rather than to outer authorities. Trouble with authority figures. The slow attainment of success in one’s career. The tendency to question whether or not one is following the right ca reer, because one so deeply yearns for a line of work that is truly and spiritually fitting for the self.
+
+#### Process
+
+The realization of the restrictions that society imposes on oneself, and the finding of creative ways of working with these. The questioning of authorities and au thority figures in an attempt to find answers that resonate with what one deeply knows to be spiritual truth.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Saturn/Midheaven`
+- Source page: `210`
+
+#### Pair Delineation
+
+One's own uniqueness. To have a strong sense of who one is, to have a precisely defined sense of direction in life. Difficulty in compromising one's own ideas and ideals. Alienation and loneliness, to feel or be very different from others. To want to be alone.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -120,26 +172,27 @@ Seeking psychological counseling to find the person you are or should be; adopti
 
 ## Related Activations
 
-- [Saturn/MC = Aries](../activations/saturn-mc-equals-aries.md)
+- [Saturn/MC = Admetos](../activations/saturn-mc-equals-admetos.md)
+- [Saturn/MC = Apollon](../activations/saturn-mc-equals-apollon.md)
 - [Saturn/MC = Asc](../activations/saturn-mc-equals-asc.md)
-- [Saturn/MC = Sun](../activations/saturn-mc-equals-sun.md)
-- [Saturn/MC = Moon](../activations/saturn-mc-equals-moon.md)
-- [Saturn/MC = Node](../activations/saturn-mc-equals-node.md)
-- [Saturn/MC = Mercury](../activations/saturn-mc-equals-mercury.md)
-- [Saturn/MC = Venus](../activations/saturn-mc-equals-venus.md)
-- [Saturn/MC = Mars](../activations/saturn-mc-equals-mars.md)
-- [Saturn/MC = Jupiter](../activations/saturn-mc-equals-jupiter.md)
-- [Saturn/MC = Uranus](../activations/saturn-mc-equals-uranus.md)
-- [Saturn/MC = Neptune](../activations/saturn-mc-equals-neptune.md)
-- [Saturn/MC = Pluto](../activations/saturn-mc-equals-pluto.md)
+- [Saturn/MC = Chiron](../activations/saturn-mc-equals-chiron.md)
 - [Saturn/MC = Cupido](../activations/saturn-mc-equals-cupido.md)
 - [Saturn/MC = Hades](../activations/saturn-mc-equals-hades.md)
-- [Saturn/MC = Zeus](../activations/saturn-mc-equals-zeus.md)
+- [Saturn/MC = Jupiter](../activations/saturn-mc-equals-jupiter.md)
 - [Saturn/MC = Kronos](../activations/saturn-mc-equals-kronos.md)
-- [Saturn/MC = Apollon](../activations/saturn-mc-equals-apollon.md)
-- [Saturn/MC = Admetos](../activations/saturn-mc-equals-admetos.md)
-- [Saturn/MC = Vulcanus](../activations/saturn-mc-equals-vulcanus.md)
+- [Saturn/MC = Mars](../activations/saturn-mc-equals-mars.md)
+- [Saturn/MC = Mercury](../activations/saturn-mc-equals-mercury.md)
+- [Saturn/MC = Moon](../activations/saturn-mc-equals-moon.md)
+- [Saturn/MC = Neptune](../activations/saturn-mc-equals-neptune.md)
+- [Saturn/MC = Node](../activations/saturn-mc-equals-node.md)
+- [Saturn/MC = Pluto](../activations/saturn-mc-equals-pluto.md)
 - [Saturn/MC = Poseidon](../activations/saturn-mc-equals-poseidon.md)
+- [Saturn/MC = Sun](../activations/saturn-mc-equals-sun.md)
+- [Saturn/MC = Uranus](../activations/saturn-mc-equals-uranus.md)
+- [Saturn/MC = Venus](../activations/saturn-mc-equals-venus.md)
+- [Saturn/MC = Vernal Point](../activations/saturn-mc-equals-vernal-point.md)
+- [Saturn/MC = Vulcanus](../activations/saturn-mc-equals-vulcanus.md)
+- [Saturn/MC = Zeus](../activations/saturn-mc-equals-zeus.md)
 
 ## Contradictions
 
@@ -155,4 +208,7 @@ Seeking psychological counseling to find the person you are or should be; adopti
 - [Saturn](../factors/saturn.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

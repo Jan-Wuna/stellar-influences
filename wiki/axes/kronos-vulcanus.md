@@ -11,7 +11,7 @@ normalized_axis: Kronos/Vulcanus
 factor_a: Kronos
 factor_b: Vulcanus
 related_activations:
-  - Kronos/Vulcanus = Aries
+  - Kronos/Vulcanus = Vernal Point
   - Kronos/Vulcanus = MC
   - Kronos/Vulcanus = Asc
   - Kronos/Vulcanus = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Kronos/Vulcanus = Admetos
   - Kronos/Vulcanus = Poseidon
 related_triad_hubs:
-  - Aries Kronos Vulcanus
   - Asc Kronos Vulcanus
   - Cupido Kronos Vulcanus
   - Hades Kronos Vulcanus
@@ -51,6 +50,7 @@ related_triad_hubs:
   - Sun Kronos Vulcanus
   - Uranus Kronos Vulcanus
   - Venus Kronos Vulcanus
+  - Vernal Point Kronos Vulcanus
   - Zeus Kronos Vulcanus
 aliases:
   - Vulcanus/Kronos
@@ -85,7 +85,7 @@ The top authority. The referee. The despot. A great statesman. Politics. Power o
 
 ## Related Activations
 
-- [Kronos/Vulcanus = Aries](../activations/kronos-vulcanus-equals-aries.md)
+- [Kronos/Vulcanus = Vernal Point](../activations/kronos-vulcanus-equals-vernal-point.md)
 - [Kronos/Vulcanus = MC](../activations/kronos-vulcanus-equals-mc.md)
 - [Kronos/Vulcanus = Asc](../activations/kronos-vulcanus-equals-asc.md)
 - [Kronos/Vulcanus = Sun](../activations/kronos-vulcanus-equals-sun.md)

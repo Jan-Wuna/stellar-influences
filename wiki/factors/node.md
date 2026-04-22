@@ -7,11 +7,12 @@ framework_scope: comparative
 factors:
   - Node
 aliases:
-  - Dragon's Head
+  - Lunar Nodes
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - reinhold-ebertin-the-combination-of-stellar-influences
-updated_at: 2026-04-21
+  - robert-hand-horoscope-symbols
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -23,8 +24,6 @@ updated_at: 2026-04-21
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source factor chapter page: `27`
 
 #### Witte Factor Entry
 
@@ -66,48 +65,73 @@ Meetings, alliances, societies, contacts, blood ties, kindred and related people
 - Aquarius (`0154`, page `70`): Stimulating and friendly associations with many-sided or widely varying interests and reformatory objectives, love of social contacts. The constant desire for innovations or new arrangements within an association of people.
 - Pisces (`0155`, page `70`): The inclination to have secret associations and meetings, philosophical interests in common with other people, a community of persons holding the same beliefs. Associations which harm the community at large.
 
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `The Lunar Nodes`
+- Source page: `105`
+
+#### Hand Factor Entry
+
+The lunar nodes are those degrees in the zodiac where the plane of the Moon's orbit crosses the plane of the ecliptic. As with the Ascendant-Descendant, Midheaven-I.C., and Vertex-Anti vertex, the nodes are two ends of an axis 180° apart. The North Node (also called the Dragon's Head or Caput Draconis) is the point at which the Moon crosses the ecliptic heading north, and the South Node (the
+
+Dragon's Tail or Cauda Draconis), the point where the Moon crosses the ecliptic going south. The nodes of the Moon have been obvious to astronomers since the beginning, because when the Sun is near them in its apparent orbit around the Earth, the new and full Moons tend to be eclipses. This is where the colorful terms Dragon's Head and Dragon's Tail come from: in mythology the nodes were believed to be inhabited by a dragon that swallowed the Sun or Moon whenever these bodies came too near. We now know, as did the ancient astronomers, that the nodes are simply places where the Moon and Earth become aligned with the Sun so that the Moon casts a shadow on the Earth (solar eclipse) or the Earth casts a shadow on the Moon (lunar eclipse). The lunar nodes move backward in the zodiac at the rate of a little over 3' of arc per day, completing one turn around the zodiac eveiy 18.6 years. The lunar nodes are not new in astrology, but they seem to have come into general use in the West only in modem times. In India they have been widely used much longer. What they indicate is a matter of controversy. In Hindu astrology both nodes are considered malefic, but in the West the North Node is considered easier and the South Node more difficult. Some compare the North Node to Jupiter and the south node to Saturn. My own work suggests there is some truth in this. But clear distinctions can be made between the two nodes only when bodies are conjunct one of them. Otherwise, any body that aspects one aspects the other equally. Some writers consider the nodes to indicate past incarnations. This may be true, but it is difficult to prove. Karmic astrology is too often the refuge of those who cannot bear to have their ideas tested in practice. One widely held idea that I agree with is that the nodes relate to connections with other people: that is, they are an axis of relationship. In this context, the North Node has a joining quality, while the South has a separating quality. Since these are nodes of the Moon, it is likely that they have to do at least somewhat with connections involving the feelings. And since they come from the intersection of the orbital plane of the Moon and the plane of the Sun's apparent orbit around the Earth, they plausibly have
+
+something of the quality of the Sun/Moon midpoint. I have noticed that when the nodes are heightened in the chart there is a greater tendency to go and meet people. I also find that when two people have important connections between major factors in one chart with the North Node in another, the relationship is more constructive than if the connection is with the South Node. I have not been able to validate other ideas about what the nodes mean. The fact that astrologers disagree about them suggests that the nodes are less powerful than factors about which there is more unanimity. But I do not at this time advocate ignoring the nodes. Until recently, astrologers used the mean lunar nodes, which travel backward in the zodiac at a uniform rate. Then in 1975 Digicomp Research Corporation published an ephemeris entitled True Lunar Nodes 1850-2000. This was based on the fact that while the Moon's orbital plane gradually revolves backward in the zodiac, it also wobbles so that the actual lines of intersection move back and forth over the short run. Consequent^, there is disagreement about how to locate the nodes because the mean position differs from the wobbling position by up to at any give time. The American Ephemeris gives positions of both the mean and wobbling nodes. The wobbling nodes are no more "true" than the mean nodes, as they are in their own way just as abstract a concept. They should not be used until research has indicated which, if either, of the two sets of nodes is more valid. The final word has yet to be said, but at this time I am more inclined to use the conventional mean nodes.
+
 ## Comparative Schema
 
-- core meaning: Witte condenses the factor into `Union. Connections. Junction. Relationships. Contacts. Establishing relations. The common link. A node. Network. Limit, boundary or border relations.` while Ebertin formalizes its principle as `Association or alliance.`.
-- psychology: Ebertin isolates `+ Adaptable, urge to unite with others, sociable, good fellowship, obliging manner. - Lack of adaptability, incompatible, unsociable, antisocial conduct.` as a dedicated psychological layer; Witte keeps psychological implications folded into the keyword cluster.
-- body/health: Ebertin isolates `The power body or the astral body, the subconscious memory.`; Witte usually embeds bodily references inside the main factor definition rather than in a separate section.
-- social/relationship: Ebertin isolates `Meetings, alliances, societies, contacts, blood ties, kindred and related people.`; Witte keeps social references compressed into the same core entry.
-- events/manifestations: Ebertin preserves sign-position material above when available. Witte's standalone factor chapter remains non-sign-specific.
-- conflicts/notes: both source chapters are preserved side by side on the canonical factor page; differences are framework emphasis, not silently merged doctrine.
+- core meaning: source-native factor entries are preserved side by side above.
+- psychology: source-specific psychological and doctrinal emphases remain attached to their own source blocks instead of being flattened.
+- body/health: bodily wording remains inside each contributing source block when present.
+- social/relationship: interpersonal implications remain attached to each source's own phrasing.
+- events/manifestations: sign-position or chapter-level extensions remain attached to the source entry that states them.
+- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
 
 ## Contradictions and Framework Notes
 
-- Both sources treat the factor relationally. Witte emphasizes junction, network, and contact, while Ebertin emphasizes alliance, fellowship, and kinship.
-- This page preserves the Hamburg and Cosmobiological factor chapters side by side instead of treating one as a gloss on the other.
+- Source differences on this factor page are preserved as framework emphasis rather than forced contradiction.
+- This page keeps the contributing source chapters side by side instead of treating one as a gloss on the other.
 
 ## Derived Synthesis
 
-- Taken together, Node works as linkage itself: association, contact, meeting, and the formation of relational bonds.
+- None yet beyond source structuring.
 
 ## Related Axes
 
-- [Sun/Node](../axes/sun-node.md)
-- [Moon/Node](../axes/moon-node.md)
-- [Mercury/Node](../axes/mercury-node.md)
-- [Venus/Node](../axes/venus-node.md)
-- [Mars/Node](../axes/mars-node.md)
+- [Chiron/Node](../axes/chiron-node.md)
 - [Jupiter/Node](../axes/jupiter-node.md)
-- [Saturn/Node](../axes/saturn-node.md)
-- [Uranus/Node](../axes/uranus-node.md)
+- [Mars/Node](../axes/mars-node.md)
+- [Mercury/Node](../axes/mercury-node.md)
+- [Moon/Node](../axes/moon-node.md)
 - [Neptune/Node](../axes/neptune-node.md)
-- [Pluto/Node](../axes/pluto-node.md)
+- [Node/Admetos](../axes/node-admetos.md)
+- [Node/Apollon](../axes/node-apollon.md)
 - [Node/Asc](../axes/node-asc.md)
+- [Node/Cupido](../axes/node-cupido.md)
+- [Node/Hades](../axes/node-hades.md)
+- [Node/Kronos](../axes/node-kronos.md)
 - [Node/MC](../axes/node-mc.md)
+- [Node/Node](../axes/node-node.md)
+- [Node/Poseidon](../axes/node-poseidon.md)
+- [Node/Vulcanus](../axes/node-vulcanus.md)
+- [Node/Zeus](../axes/node-zeus.md)
+- [Pluto/Node](../axes/pluto-node.md)
+- [Saturn/Node](../axes/saturn-node.md)
+- [Sun/Node](../axes/sun-node.md)
+- [Uranus/Node](../axes/uranus-node.md)
+- [Venus/Node](../axes/venus-node.md)
+- [Vernal Point/Node](../axes/vernal-point-node.md)
 
 ## Related Activations
 
-- Generated activation pages involving `Node`: `196`.
+- Generated activation pages involving `Node`: `729`.
 - Browse [Index](../index.md) or the `wiki/activations/` folder for the full set.
 
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 
 ## Open Questions
 

@@ -11,7 +11,7 @@ normalized_axis: Asc/Admetos
 factor_a: Asc
 factor_b: Admetos
 related_activations:
-  - Asc/Admetos = Aries
+  - Asc/Admetos = Vernal Point
   - Asc/Admetos = MC
   - Asc/Admetos = Sun
   - Asc/Admetos = Moon
@@ -32,7 +32,6 @@ related_activations:
   - Asc/Admetos = Vulcanus
   - Asc/Admetos = Poseidon
 related_triad_hubs:
-  - Aries Asc Admetos
   - Asc Admetos Poseidon
   - Asc Admetos Vulcanus
   - Asc Apollon Admetos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Asc Admetos
   - Uranus Asc Admetos
   - Venus Asc Admetos
+  - Vernal Point Asc Admetos
 aliases:
   - Admetos/Asc
 source_pages:
@@ -85,7 +85,7 @@ Settled. Stationary. Others are pushed in the background or feel inferior. Other
 
 ## Related Activations
 
-- [Asc/Admetos = Aries](../activations/asc-admetos-equals-aries.md)
+- [Asc/Admetos = Vernal Point](../activations/asc-admetos-equals-vernal-point.md)
 - [Asc/Admetos = MC](../activations/asc-admetos-equals-mc.md)
 - [Asc/Admetos = Sun](../activations/asc-admetos-equals-sun.md)
 - [Asc/Admetos = Moon](../activations/asc-admetos-equals-moon.md)

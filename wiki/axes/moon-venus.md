@@ -11,32 +11,33 @@ normalized_axis: Moon/Venus
 factor_a: Moon
 factor_b: Venus
 related_activations:
-  - Moon/Venus = Aries
-  - Moon/Venus = MC
+  - Moon/Venus = Admetos
+  - Moon/Venus = Apollon
   - Moon/Venus = Asc
-  - Moon/Venus = Sun
-  - Moon/Venus = Node
-  - Moon/Venus = Mercury
-  - Moon/Venus = Mars
-  - Moon/Venus = Jupiter
-  - Moon/Venus = Saturn
-  - Moon/Venus = Uranus
-  - Moon/Venus = Neptune
-  - Moon/Venus = Pluto
+  - Moon/Venus = Chiron
   - Moon/Venus = Cupido
   - Moon/Venus = Hades
-  - Moon/Venus = Zeus
+  - Moon/Venus = Jupiter
   - Moon/Venus = Kronos
-  - Moon/Venus = Apollon
-  - Moon/Venus = Admetos
-  - Moon/Venus = Vulcanus
+  - Moon/Venus = Mars
+  - Moon/Venus = MC
+  - Moon/Venus = Mercury
+  - Moon/Venus = Neptune
+  - Moon/Venus = Node
+  - Moon/Venus = Pluto
   - Moon/Venus = Poseidon
+  - Moon/Venus = Saturn
+  - Moon/Venus = Sun
+  - Moon/Venus = Uranus
+  - Moon/Venus = Vernal Point
+  - Moon/Venus = Vulcanus
+  - Moon/Venus = Zeus
 related_triad_hubs:
-  - Aries Moon Venus
   - Moon Mercury Venus
   - Moon Venus Admetos
   - Moon Venus Apollon
   - Moon Venus Asc
+  - Moon Venus Chiron
   - Moon Venus Cupido
   - Moon Venus Hades
   - Moon Venus Jupiter
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Moon Venus Vulcanus
   - Moon Venus Zeus
   - Sun Moon Venus
+  - Vernal Point Moon Venus
 aliases:
   - Venus/Moon
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 The feeling. The love. The loving woman. Hours of love. Pregnancy. Motherhood. Peaceful hour. The love or affection of women. The love of a people. The people’s peace or harmony.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Moon/Venus`
+- Source page: `116`
+
+#### Principle
+
+The feeling of love, devotion.
+
+#### Psychological Correspondence
+
++ A strong feeling of love, desire for the expression of tenderness, an affectionate nature, artistic talent, good judgement concerning the real value of all things, cheerftil disposition, gracefulness. - Moodiness, a disharmonious nature, shyness, weakness, inclination to be easily led, poor powers of assessment or estimation. C An intense emotional life, the joy of living, desire for tenderness, artistic appreciation, self-love.
+
+#### Biological Correspondence
+
+Glandular secretions (hormones, ferments in the stage of generation), menstruation. The female capability of conception.
+
+#### Sociological Correspondence
+
+Loving women, mothers (also expectant mothers), female artists.
+
+#### Probable Manifestations
+
++ Harmonious love unions, a marriage blessed with many children, a happy family life, desire for motherhood. - Disturbed functions of the glands, irritability, moodiness, conflict in love. 17 It has been observed that in many cases a direction between Moon and Venus, e.g., Moon pr. = Venus, and Venus pr. = Moon rad., have been found in the case of women at the time of their first conception or birth. MoonA/enus D/9
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -129,6 +159,28 @@ The characteristic popularity of these aspects does not seem to be diminished wh
 - The Conjunction: Louis XIV, John Bright, Ramsay MacDonald
 - Inharmonious: Nicholas II, Alan Leo, W.Q. Judge, Charles Dickens, Ghandhi, Jay Gould, Joseph Chamberlain, William Blake, J.M. Barrie, Loubet, "Sepharial," Mrs. Besant.
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Moon/Venus midpoint`
+- Source page: `27`
+
+#### Principle
+
+Emotions concerning relationships. The desire to nurture the other person in a relationship. One’s relationships are strongly colored by moods. Difficulty in being objective about relationships. Relationships going through cyclic shifts and changes. A love of things which are plan, simple, and/or natural.
+
+#### Process
+
+The ability to perceive and enter in to the beauty of the moment and the treasures and gifts that are ever flowing through the present. The giving of love to the past as a means of healing it.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Moon/Venus`
+- Source page: `203`
+
+#### Pair Delineation
+
+Love, feeling happy, the emotional sense of the beautiful. Tender and nurturing love, such as a mother would have for a child. In both sexes this point relates to the experience of the mother, and in males it relates to women in general.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MOON/VENUS`
@@ -172,26 +224,27 @@ Female organs; your sensitivity to taste, smell, touch, etc.; glandular balances
 
 ## Related Activations
 
-- [Moon/Venus = Aries](../activations/moon-venus-equals-aries.md)
-- [Moon/Venus = MC](../activations/moon-venus-equals-mc.md)
+- [Moon/Venus = Admetos](../activations/moon-venus-equals-admetos.md)
+- [Moon/Venus = Apollon](../activations/moon-venus-equals-apollon.md)
 - [Moon/Venus = Asc](../activations/moon-venus-equals-asc.md)
-- [Moon/Venus = Sun](../activations/moon-venus-equals-sun.md)
-- [Moon/Venus = Node](../activations/moon-venus-equals-node.md)
-- [Moon/Venus = Mercury](../activations/moon-venus-equals-mercury.md)
-- [Moon/Venus = Mars](../activations/moon-venus-equals-mars.md)
-- [Moon/Venus = Jupiter](../activations/moon-venus-equals-jupiter.md)
-- [Moon/Venus = Saturn](../activations/moon-venus-equals-saturn.md)
-- [Moon/Venus = Uranus](../activations/moon-venus-equals-uranus.md)
-- [Moon/Venus = Neptune](../activations/moon-venus-equals-neptune.md)
-- [Moon/Venus = Pluto](../activations/moon-venus-equals-pluto.md)
+- [Moon/Venus = Chiron](../activations/moon-venus-equals-chiron.md)
 - [Moon/Venus = Cupido](../activations/moon-venus-equals-cupido.md)
 - [Moon/Venus = Hades](../activations/moon-venus-equals-hades.md)
-- [Moon/Venus = Zeus](../activations/moon-venus-equals-zeus.md)
+- [Moon/Venus = Jupiter](../activations/moon-venus-equals-jupiter.md)
 - [Moon/Venus = Kronos](../activations/moon-venus-equals-kronos.md)
-- [Moon/Venus = Apollon](../activations/moon-venus-equals-apollon.md)
-- [Moon/Venus = Admetos](../activations/moon-venus-equals-admetos.md)
-- [Moon/Venus = Vulcanus](../activations/moon-venus-equals-vulcanus.md)
+- [Moon/Venus = Mars](../activations/moon-venus-equals-mars.md)
+- [Moon/Venus = MC](../activations/moon-venus-equals-mc.md)
+- [Moon/Venus = Mercury](../activations/moon-venus-equals-mercury.md)
+- [Moon/Venus = Neptune](../activations/moon-venus-equals-neptune.md)
+- [Moon/Venus = Node](../activations/moon-venus-equals-node.md)
+- [Moon/Venus = Pluto](../activations/moon-venus-equals-pluto.md)
 - [Moon/Venus = Poseidon](../activations/moon-venus-equals-poseidon.md)
+- [Moon/Venus = Saturn](../activations/moon-venus-equals-saturn.md)
+- [Moon/Venus = Sun](../activations/moon-venus-equals-sun.md)
+- [Moon/Venus = Uranus](../activations/moon-venus-equals-uranus.md)
+- [Moon/Venus = Vernal Point](../activations/moon-venus-equals-vernal-point.md)
+- [Moon/Venus = Vulcanus](../activations/moon-venus-equals-vulcanus.md)
+- [Moon/Venus = Zeus](../activations/moon-venus-equals-zeus.md)
 
 ## Contradictions
 
@@ -207,6 +260,9 @@ Female organs; your sensitivity to taste, smell, touch, etc.; glandular balances
 - [Moon](../factors/moon.md)
 - [Venus](../factors/venus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

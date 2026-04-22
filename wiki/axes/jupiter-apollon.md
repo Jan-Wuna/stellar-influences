@@ -11,7 +11,7 @@ normalized_axis: Jupiter/Apollon
 factor_a: Jupiter
 factor_b: Apollon
 related_activations:
-  - Jupiter/Apollon = Aries
+  - Jupiter/Apollon = Vernal Point
   - Jupiter/Apollon = MC
   - Jupiter/Apollon = Asc
   - Jupiter/Apollon = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Jupiter/Apollon = Vulcanus
   - Jupiter/Apollon = Poseidon
 related_triad_hubs:
-  - Aries Jupiter Apollon
   - Jupiter Apollon Admetos
   - Jupiter Apollon Poseidon
   - Jupiter Apollon Vulcanus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Moon Jupiter Apollon
   - Sun Jupiter Apollon
   - Venus Jupiter Apollon
+  - Vernal Point Jupiter Apollon
 aliases:
   - Apollon/Jupiter
 source_pages:
@@ -85,7 +85,7 @@ Fortune, success, honors. Much fortune and happy experiences. Good luck. Success
 
 ## Related Activations
 
-- [Jupiter/Apollon = Aries](../activations/jupiter-apollon-equals-aries.md)
+- [Jupiter/Apollon = Vernal Point](../activations/jupiter-apollon-equals-vernal-point.md)
 - [Jupiter/Apollon = MC](../activations/jupiter-apollon-equals-mc.md)
 - [Jupiter/Apollon = Asc](../activations/jupiter-apollon-equals-asc.md)
 - [Jupiter/Apollon = Sun](../activations/jupiter-apollon-equals-sun.md)

@@ -11,7 +11,7 @@ normalized_axis: Jupiter/Poseidon
 factor_a: Jupiter
 factor_b: Poseidon
 related_activations:
-  - Jupiter/Poseidon = Aries
+  - Jupiter/Poseidon = Vernal Point
   - Jupiter/Poseidon = MC
   - Jupiter/Poseidon = Asc
   - Jupiter/Poseidon = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Jupiter/Poseidon = Admetos
   - Jupiter/Poseidon = Vulcanus
 related_triad_hubs:
-  - Aries Jupiter Poseidon
   - Jupiter Admetos Poseidon
   - Jupiter Apollon Poseidon
   - Jupiter Asc Poseidon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Moon Jupiter Poseidon
   - Sun Jupiter Poseidon
   - Venus Jupiter Poseidon
+  - Vernal Point Jupiter Poseidon
 aliases:
   - Poseidon/Jupiter
 source_pages:
@@ -85,7 +85,7 @@ Common sense. Good instinct, insight or intelligence. Wisdom. Conscience. Mental
 
 ## Related Activations
 
-- [Jupiter/Poseidon = Aries](../activations/jupiter-poseidon-equals-aries.md)
+- [Jupiter/Poseidon = Vernal Point](../activations/jupiter-poseidon-equals-vernal-point.md)
 - [Jupiter/Poseidon = MC](../activations/jupiter-poseidon-equals-mc.md)
 - [Jupiter/Poseidon = Asc](../activations/jupiter-poseidon-equals-asc.md)
 - [Jupiter/Poseidon = Sun](../activations/jupiter-poseidon-equals-sun.md)

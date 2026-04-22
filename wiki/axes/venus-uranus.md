@@ -11,31 +11,32 @@ normalized_axis: Venus/Uranus
 factor_a: Venus
 factor_b: Uranus
 related_activations:
-  - Venus/Uranus = Aries
-  - Venus/Uranus = MC
+  - Venus/Uranus = Admetos
+  - Venus/Uranus = Apollon
   - Venus/Uranus = Asc
-  - Venus/Uranus = Sun
-  - Venus/Uranus = Moon
-  - Venus/Uranus = Node
-  - Venus/Uranus = Mercury
-  - Venus/Uranus = Mars
-  - Venus/Uranus = Jupiter
-  - Venus/Uranus = Saturn
-  - Venus/Uranus = Neptune
-  - Venus/Uranus = Pluto
+  - Venus/Uranus = Chiron
   - Venus/Uranus = Cupido
   - Venus/Uranus = Hades
-  - Venus/Uranus = Zeus
+  - Venus/Uranus = Jupiter
   - Venus/Uranus = Kronos
-  - Venus/Uranus = Apollon
-  - Venus/Uranus = Admetos
-  - Venus/Uranus = Vulcanus
+  - Venus/Uranus = Mars
+  - Venus/Uranus = MC
+  - Venus/Uranus = Mercury
+  - Venus/Uranus = Moon
+  - Venus/Uranus = Neptune
+  - Venus/Uranus = Node
+  - Venus/Uranus = Pluto
   - Venus/Uranus = Poseidon
+  - Venus/Uranus = Saturn
+  - Venus/Uranus = Sun
+  - Venus/Uranus = Vernal Point
+  - Venus/Uranus = Vulcanus
+  - Venus/Uranus = Zeus
 related_triad_hubs:
-  - Aries Venus Uranus
   - Mercury Venus Uranus
   - Moon Venus Uranus
   - Sun Venus Uranus
+  - Venus Chiron Uranus
   - Venus Jupiter Uranus
   - Venus Mars Uranus
   - Venus Saturn Uranus
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Venus Uranus Poseidon
   - Venus Uranus Vulcanus
   - Venus Uranus Zeus
+  - Vernal Point Venus Uranus
 aliases:
   - Uranus/Venus
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 Refined sensuality. To be choosy in love. Sudden romantic love. To give birth to a child. Sudden affection or love. Desired event. Sudden expression of love. To be the surprised object of love and affection.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Uranus`
+- Source page: `184`
+
+#### Principle
+
+Arousing of love, rhythm, eccentricity.
+
+#### Psychological Correspondence
+
++ A strong excitability in love expression, impulsive stepping up of the sensations and feelings, variegated expressions of love ranging between sentimentality and eccentricity, artistic talents (rhythm, music). - Self-willed love nature, peculiar inclinations, inconstancy, tendency to be swayed entirely by one's feelings, moodiness, sensitivity, nervousness caused by repressed emotional desires, urge for independence in love. C A strong and hardly controllable tension in emotional life, a self-willed and obstinate disposition, strange urges and inclinations.
+
+#### Biological Correspondence
+
+The rhythm of the libido and the sex life.
+
+#### Sociological Correspondence
+
+Artists, extravagant people.
+
+#### Probable Manifestations
+
++ Tendency to be particuliar and fastidious in the choice of a partner or lover, passing love bonds, romantic love inclinations, popularity. Births. - A love adventure, nervous troubles, unfaithfulness. Births. 33 Venus-Uranus contacts are found equally in cases of conception as well as of birth. Venus/Uranus 9/W
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -137,6 +167,28 @@ The effects of the sexual life upon the health are often unhelpful.
 - The Conjunction: Nicholas II, Shelley.
 - Inharmonious: Svaonarola, Dr. Besant, Wallenstein, Wolsely, Hindenburg, Lord Oxford (H.H. Asquith), A.P. Sinnett (theosophist).
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Uranus midpoint`
+- Source page: `60`
+
+#### Principle
+
+An unusual or eccentric aesthetic. The need for freedom love. The love of unusual things or people. The need to show love in an uninhibited fashion. A love of surprises. One who is unpredictable in relationships. Love connections may arise sud denly and may disappear just as quickly.
+
+#### Process
+
+The freeing up of one’s ability to love and to appreciate all of life. The ability to see the value inherent in seeming accidents, mistakes, and unforeseen occurrences. To love, value and be at ease with all surprises, oddities and everything else outside the limits of one’s expectations.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Venus/Uranus`
+- Source page: `206`
+
+#### Pair Delineation
+
+Sudden, unusual or unstable relationships. Desire for freedom in relationships or for exciting relationships. Unusual forms of creativity.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `VENUS/URANUS`
@@ -180,26 +232,27 @@ Any unusual compositions in your blood; shock due to acid conditions in the body
 
 ## Related Activations
 
-- [Venus/Uranus = Aries](../activations/venus-uranus-equals-aries.md)
-- [Venus/Uranus = MC](../activations/venus-uranus-equals-mc.md)
+- [Venus/Uranus = Admetos](../activations/venus-uranus-equals-admetos.md)
+- [Venus/Uranus = Apollon](../activations/venus-uranus-equals-apollon.md)
 - [Venus/Uranus = Asc](../activations/venus-uranus-equals-asc.md)
-- [Venus/Uranus = Sun](../activations/venus-uranus-equals-sun.md)
-- [Venus/Uranus = Moon](../activations/venus-uranus-equals-moon.md)
-- [Venus/Uranus = Node](../activations/venus-uranus-equals-node.md)
-- [Venus/Uranus = Mercury](../activations/venus-uranus-equals-mercury.md)
-- [Venus/Uranus = Mars](../activations/venus-uranus-equals-mars.md)
-- [Venus/Uranus = Jupiter](../activations/venus-uranus-equals-jupiter.md)
-- [Venus/Uranus = Saturn](../activations/venus-uranus-equals-saturn.md)
-- [Venus/Uranus = Neptune](../activations/venus-uranus-equals-neptune.md)
-- [Venus/Uranus = Pluto](../activations/venus-uranus-equals-pluto.md)
+- [Venus/Uranus = Chiron](../activations/venus-uranus-equals-chiron.md)
 - [Venus/Uranus = Cupido](../activations/venus-uranus-equals-cupido.md)
 - [Venus/Uranus = Hades](../activations/venus-uranus-equals-hades.md)
-- [Venus/Uranus = Zeus](../activations/venus-uranus-equals-zeus.md)
+- [Venus/Uranus = Jupiter](../activations/venus-uranus-equals-jupiter.md)
 - [Venus/Uranus = Kronos](../activations/venus-uranus-equals-kronos.md)
-- [Venus/Uranus = Apollon](../activations/venus-uranus-equals-apollon.md)
-- [Venus/Uranus = Admetos](../activations/venus-uranus-equals-admetos.md)
-- [Venus/Uranus = Vulcanus](../activations/venus-uranus-equals-vulcanus.md)
+- [Venus/Uranus = Mars](../activations/venus-uranus-equals-mars.md)
+- [Venus/Uranus = MC](../activations/venus-uranus-equals-mc.md)
+- [Venus/Uranus = Mercury](../activations/venus-uranus-equals-mercury.md)
+- [Venus/Uranus = Moon](../activations/venus-uranus-equals-moon.md)
+- [Venus/Uranus = Neptune](../activations/venus-uranus-equals-neptune.md)
+- [Venus/Uranus = Node](../activations/venus-uranus-equals-node.md)
+- [Venus/Uranus = Pluto](../activations/venus-uranus-equals-pluto.md)
 - [Venus/Uranus = Poseidon](../activations/venus-uranus-equals-poseidon.md)
+- [Venus/Uranus = Saturn](../activations/venus-uranus-equals-saturn.md)
+- [Venus/Uranus = Sun](../activations/venus-uranus-equals-sun.md)
+- [Venus/Uranus = Vernal Point](../activations/venus-uranus-equals-vernal-point.md)
+- [Venus/Uranus = Vulcanus](../activations/venus-uranus-equals-vulcanus.md)
+- [Venus/Uranus = Zeus](../activations/venus-uranus-equals-zeus.md)
 
 ## Contradictions
 
@@ -215,6 +268,9 @@ Any unusual compositions in your blood; shock due to acid conditions in the body
 - [Venus](../factors/venus.md)
 - [Uranus](../factors/uranus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

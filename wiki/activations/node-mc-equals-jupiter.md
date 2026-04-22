@@ -3,10 +3,10 @@ title: Node/MC = Jupiter
 page_type: activation
 slug: node-mc-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Node
+  - MC
   - Jupiter
 normalized_formula: Node/MC = Jupiter
 axis: Node/MC
@@ -15,10 +15,13 @@ triad_set:
   - Jupiter
   - Node
   - MC
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Happiness through ones own connections. Blissful feelings in relationships.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Dragon's Head/Medium Coeli`
+- Source page: `304`
+- Entry: `1100`
+
+#### Ebertin Entry
+
+Love of jolly parties and entertainment. A liking of social meetings with others in a cozy atmosphere. A happy communion of souls.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Node/Midheaven midpoint`
+- Source page: `120`
+- Activator: `Jupiter`
+
+#### Sandbach Entry
+
+To be enthusiastic about connecting to the world. Success in evolving toward a stronger connection to one’s spiritual path. A rich, full manner of connecting to all of re ality. The encouragement of progress in the world.
+
 ## Comparative Schema
 
-- core meaning: Happiness through ones own connections. Blissful feelings in relationships.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Happiness through ones own connections. Blissful feelings in relationships.
 - [MC](../factors/mc.md)
 - [Jupiter](../factors/jupiter.md)
 - [Node/MC](../axes/node-mc.md)
+- [Jupiter Node MC](../triads/jupiter-node-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

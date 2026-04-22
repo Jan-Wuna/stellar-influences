@@ -3,7 +3,7 @@ title: Sun/Neptune = Mars
 page_type: activation
 slug: sun-neptune-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Neptune
@@ -15,10 +15,13 @@ triad_set:
   - Sun
   - Mars
   - Neptune
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Susceptible to venereal diseases. Impotence. Weak in action. To harm oneself through actions or decisions.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Sun/Neptune`
+- Source page: `99`
+- Entry: `0270`
+
+#### Ebertin Entry
+
+Weak will to live, weak muscular power, lack of incentive to work, very little sex life. A weakened or disturbed sex life.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Sun/Neptune midpoint`
+- Source page: `18`
+- Activator: `Mars`
+
+#### Sandbach Entry
+
+Taking action to help other people because of high-minded, humanitarian con cern for them. One’s actions rendered ineffective or unfulfilling due to unrealistic goals or an impractical approach to them, or a confusion as to what one’s purpose is. A driv ing urge to realize spiritual an/or high-minded goals.
+
 ## Comparative Schema
 
-- core meaning: Susceptible to venereal diseases. Impotence. Weak in action. To harm oneself through actions or decisions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Susceptible to venereal diseases. Impotence. Weak in action. To harm oneself thr
 - [Neptune](../factors/neptune.md)
 - [Mars](../factors/mars.md)
 - [Sun/Neptune](../axes/sun-neptune.md)
+- [Sun Mars Neptune](../triads/sun-mars-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

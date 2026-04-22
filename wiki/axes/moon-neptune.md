@@ -11,28 +11,29 @@ normalized_axis: Moon/Neptune
 factor_a: Moon
 factor_b: Neptune
 related_activations:
-  - Moon/Neptune = Aries
-  - Moon/Neptune = MC
+  - Moon/Neptune = Admetos
+  - Moon/Neptune = Apollon
   - Moon/Neptune = Asc
-  - Moon/Neptune = Sun
-  - Moon/Neptune = Node
-  - Moon/Neptune = Mercury
-  - Moon/Neptune = Venus
-  - Moon/Neptune = Mars
-  - Moon/Neptune = Jupiter
-  - Moon/Neptune = Saturn
-  - Moon/Neptune = Uranus
-  - Moon/Neptune = Pluto
+  - Moon/Neptune = Chiron
   - Moon/Neptune = Cupido
   - Moon/Neptune = Hades
-  - Moon/Neptune = Zeus
+  - Moon/Neptune = Jupiter
   - Moon/Neptune = Kronos
-  - Moon/Neptune = Apollon
-  - Moon/Neptune = Admetos
-  - Moon/Neptune = Vulcanus
+  - Moon/Neptune = Mars
+  - Moon/Neptune = MC
+  - Moon/Neptune = Mercury
+  - Moon/Neptune = Node
+  - Moon/Neptune = Pluto
   - Moon/Neptune = Poseidon
+  - Moon/Neptune = Saturn
+  - Moon/Neptune = Sun
+  - Moon/Neptune = Uranus
+  - Moon/Neptune = Venus
+  - Moon/Neptune = Vernal Point
+  - Moon/Neptune = Vulcanus
+  - Moon/Neptune = Zeus
 related_triad_hubs:
-  - Aries Moon Neptune
+  - Moon Chiron Neptune
   - Moon Jupiter Neptune
   - Moon Mars Neptune
   - Moon Mercury Neptune
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Moon Uranus Neptune
   - Moon Venus Neptune
   - Sun Moon Neptune
+  - Vernal Point Moon Neptune
 aliases:
   - Neptune/Moon
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 To fall asleep. To dream. State of dreaming. Cerebral state of sleep. Not quite clearly conscious. Dazed. Receptive brains. Delicacy, tact. To have a scent for something. Sensitive or feeble woman. Deceiving or disappointed woman. Hours of relaxation. Night hours. Light, thin gas. Inspiration. Sensitivity. Air. Change in weather. Smell.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Moon/Neptune`
+- Source page: `131`
+
+#### Principle
+
+Subconscious phenomena, a refined sense of feeling.
+
+#### Psychological Correspondence
+
++ Sensitivity, the ability to feel and to understand other people's troubles in a sympathetic manner, inner vision and imaginative perception. Inspiration, far-reaching wishes, vivid dream experiences. - Fanciful imaginings or illusions, self-deception, lack of stability, prone to lying, tendency to gravitate toward low-grade spiritism and mediumistic illusions. C A refined sense of feeling, love of solitude caused by being misunderstood and unsatisfied, a peculiar disposition and strange notions.
+
+#### Biological Correspondence
+
+Paralyzed blood circulation, an over-balance or an over-accumulation of water in the tissues of the body, a deficiency of the osmotic functions relating to the utilization of the cell salts (disturbance of consciousness or awareness, also a break in consciousness; eye-diseases).
+
+#### Sociological Correspondence
+
+Sensitive persons, impressionable women, weak or feeble persons. Disappointed or disillusioned women. Mediums, people connected with psychical phenomena and investigations, women who tell fortunes by cards or female cartomancers. Probable Manifestation + A sympathetic understanding of other people (psychometry), the activity of the subconscious, a state of relaxation, receptiveness, impressionableness, an intensely vivid dream life. - Danger of being exposed to peculiar and strange influences or being exploited by other people. Instability, weakness and life crises are caused by laziness or indolence. 24 In the case of aspects between Moon and Neptune in a female chart, especially the conjunction, square and opposition, it has been found that there are often difficulties in the relationship with the marriage partner which were found to be due mainly to over-sensitivity, not being understood or a lack of confidence. Moon/Neptune D/V
+
+#### Probable Manifestations
+
+- None extracted.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -139,6 +169,28 @@ The tendency to resort to spiritualistic practices is common under these configu
 - The Conjunction: George Washington, R.L. Stevenson, Nicholas II, Charles Dickens, Lily Langtry, "Obession," H.J. Bennett and wife, "Born in Flood," Lord Elgin, Clarence Hatry (London financier), Dreyfus, "Mabel Collins."
 - Inharmonious: Abbas Effendi, Generals Gordon and Mackenson, "Opium Habitute," Felix Faure, Fallieres, Ceasar Borgia.
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Moon/Neptune midpoint`
+- Source page: `34`
+
+#### Principle
+
+Emotional sensitivity. The ability to feel the feelings of others, unfortunately often confusing them with one’s own. To be uncertain as to how one feels, often be cause many different emotions are mixing together. To be a selfsacrificing nurturer. The receiving of subtle impressions. Strange or undiagnosable health problems caused by taking on negative psychic energy.
+
+#### Process
+
+Emotional attunement to higher spiritual realities. The clarifying and refining of the emotional body through clearing it of disharmonious feelings such as sadness, anger and fear. The growth of one’s ability to experience deep psychic attunement with other people.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Moon/Neptune`
+- Source page: `203`
+
+#### Pair Delineation
+
+Extreme sensitivity and subjection to external energies and influences. Tendency to self-sacrifice or martyrdom. Passivity. Escapism, fantasies, unconscious forces influencing the imagination. Illusions created by subconscious desires or energies that have their origin in the past.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MOON/NEPTUNE`
@@ -182,26 +234,27 @@ Ulcers; a nervous stomach; reactions bought on by a sensitivity to drugs; sensit
 
 ## Related Activations
 
-- [Moon/Neptune = Aries](../activations/moon-neptune-equals-aries.md)
-- [Moon/Neptune = MC](../activations/moon-neptune-equals-mc.md)
+- [Moon/Neptune = Admetos](../activations/moon-neptune-equals-admetos.md)
+- [Moon/Neptune = Apollon](../activations/moon-neptune-equals-apollon.md)
 - [Moon/Neptune = Asc](../activations/moon-neptune-equals-asc.md)
-- [Moon/Neptune = Sun](../activations/moon-neptune-equals-sun.md)
-- [Moon/Neptune = Node](../activations/moon-neptune-equals-node.md)
-- [Moon/Neptune = Mercury](../activations/moon-neptune-equals-mercury.md)
-- [Moon/Neptune = Venus](../activations/moon-neptune-equals-venus.md)
-- [Moon/Neptune = Mars](../activations/moon-neptune-equals-mars.md)
-- [Moon/Neptune = Jupiter](../activations/moon-neptune-equals-jupiter.md)
-- [Moon/Neptune = Saturn](../activations/moon-neptune-equals-saturn.md)
-- [Moon/Neptune = Uranus](../activations/moon-neptune-equals-uranus.md)
-- [Moon/Neptune = Pluto](../activations/moon-neptune-equals-pluto.md)
+- [Moon/Neptune = Chiron](../activations/moon-neptune-equals-chiron.md)
 - [Moon/Neptune = Cupido](../activations/moon-neptune-equals-cupido.md)
 - [Moon/Neptune = Hades](../activations/moon-neptune-equals-hades.md)
-- [Moon/Neptune = Zeus](../activations/moon-neptune-equals-zeus.md)
+- [Moon/Neptune = Jupiter](../activations/moon-neptune-equals-jupiter.md)
 - [Moon/Neptune = Kronos](../activations/moon-neptune-equals-kronos.md)
-- [Moon/Neptune = Apollon](../activations/moon-neptune-equals-apollon.md)
-- [Moon/Neptune = Admetos](../activations/moon-neptune-equals-admetos.md)
-- [Moon/Neptune = Vulcanus](../activations/moon-neptune-equals-vulcanus.md)
+- [Moon/Neptune = Mars](../activations/moon-neptune-equals-mars.md)
+- [Moon/Neptune = MC](../activations/moon-neptune-equals-mc.md)
+- [Moon/Neptune = Mercury](../activations/moon-neptune-equals-mercury.md)
+- [Moon/Neptune = Node](../activations/moon-neptune-equals-node.md)
+- [Moon/Neptune = Pluto](../activations/moon-neptune-equals-pluto.md)
 - [Moon/Neptune = Poseidon](../activations/moon-neptune-equals-poseidon.md)
+- [Moon/Neptune = Saturn](../activations/moon-neptune-equals-saturn.md)
+- [Moon/Neptune = Sun](../activations/moon-neptune-equals-sun.md)
+- [Moon/Neptune = Uranus](../activations/moon-neptune-equals-uranus.md)
+- [Moon/Neptune = Venus](../activations/moon-neptune-equals-venus.md)
+- [Moon/Neptune = Vernal Point](../activations/moon-neptune-equals-vernal-point.md)
+- [Moon/Neptune = Vulcanus](../activations/moon-neptune-equals-vulcanus.md)
+- [Moon/Neptune = Zeus](../activations/moon-neptune-equals-zeus.md)
 
 ## Contradictions
 
@@ -217,6 +270,9 @@ Ulcers; a nervous stomach; reactions bought on by a sensitivity to drugs; sensit
 - [Moon](../factors/moon.md)
 - [Neptune](../factors/neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

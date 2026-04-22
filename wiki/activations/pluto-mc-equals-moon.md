@@ -3,10 +3,10 @@ title: Pluto/MC = Moon
 page_type: activation
 slug: pluto-mc-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Pluto
+  - MC
   - Moon
 normalized_formula: Pluto/MC = Moon
 axis: Pluto/MC
@@ -15,10 +15,13 @@ triad_set:
   - Moon
   - Pluto
   - MC
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 One’s influence on women or the public.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Pluto/Medium Coeli`
+- Source page: `298`
+- Entry: `1072`
+
+#### Ebertin Entry
+
+Inner greatness, ability to exercise a great influence upon others on account of one's own inner qualities. A woman with personality and the qualities of leadership.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Pluto/Midheaven midpoint`
+- Source page: `117`
+- Activator: `Moon`
+
+#### Sandbach Entry
+
+To feel vulnerable to powerful authority figures. An emotional yearning to align oneself with the Spiritual Light. To alternate between moods of security and insecurity concerning one’s place in the world and what one is needing to achieve in this lifetime.
+
 ## Comparative Schema
 
-- core meaning: One’s influence on women or the public.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ One’s influence on women or the public.
 - [MC](../factors/mc.md)
 - [Moon](../factors/moon.md)
 - [Pluto/MC](../axes/pluto-mc.md)
+- [Moon Pluto MC](../triads/moon-pluto-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

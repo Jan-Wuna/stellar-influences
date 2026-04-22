@@ -11,7 +11,7 @@ normalized_axis: Zeus/Zeus
 factor_a: Zeus
 factor_b: Zeus
 related_activations:
-  - Zeus/Zeus = Aries
+  - Zeus/Zeus = Vernal Point
   - Zeus/Zeus = MC
   - Zeus/Zeus = Asc
   - Zeus/Zeus = Sun
@@ -67,7 +67,7 @@ Leadership. Creation. Procreation. Goal oriented. Controlled activity. Well plan
 
 ## Related Activations
 
-- [Zeus/Zeus = Aries](../activations/zeus-zeus-equals-aries.md)
+- [Zeus/Zeus = Vernal Point](../activations/zeus-zeus-equals-vernal-point.md)
 - [Zeus/Zeus = MC](../activations/zeus-zeus-equals-mc.md)
 - [Zeus/Zeus = Asc](../activations/zeus-zeus-equals-asc.md)
 - [Zeus/Zeus = Sun](../activations/zeus-zeus-equals-sun.md)

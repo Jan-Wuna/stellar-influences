@@ -11,7 +11,7 @@ normalized_axis: Moon/Kronos
 factor_a: Moon
 factor_b: Kronos
 related_activations:
-  - Moon/Kronos = Aries
+  - Moon/Kronos = Vernal Point
   - Moon/Kronos = MC
   - Moon/Kronos = Asc
   - Moon/Kronos = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Moon/Kronos = Vulcanus
   - Moon/Kronos = Poseidon
 related_triad_hubs:
-  - Aries Moon Kronos
   - Moon Asc Kronos
   - Moon Cupido Kronos
   - Moon Hades Kronos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Moon Venus Kronos
   - Moon Zeus Kronos
   - Sun Moon Kronos
+  - Vernal Point Moon Kronos
 aliases:
   - Kronos/Moon
 source_pages:
@@ -85,7 +85,7 @@ Greatness of mind. Noble minded. Independent minded. Landlady. Housewife. Indepe
 
 ## Related Activations
 
-- [Moon/Kronos = Aries](../activations/moon-kronos-equals-aries.md)
+- [Moon/Kronos = Vernal Point](../activations/moon-kronos-equals-vernal-point.md)
 - [Moon/Kronos = MC](../activations/moon-kronos-equals-mc.md)
 - [Moon/Kronos = Asc](../activations/moon-kronos-equals-asc.md)
 - [Moon/Kronos = Sun](../activations/moon-kronos-equals-sun.md)

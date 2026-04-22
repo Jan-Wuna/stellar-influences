@@ -11,7 +11,7 @@ normalized_axis: Node/Node
 factor_a: Node
 factor_b: Node
 related_activations:
-  - Node/Node = Aries
+  - Node/Node = Vernal Point
   - Node/Node = MC
   - Node/Node = Asc
   - Node/Node = Sun
@@ -67,7 +67,7 @@ Union. Connections. Junction. Relationships. Contacts. Establishing relations. T
 
 ## Related Activations
 
-- [Node/Node = Aries](../activations/node-node-equals-aries.md)
+- [Node/Node = Vernal Point](../activations/node-node-equals-vernal-point.md)
 - [Node/Node = MC](../activations/node-node-equals-mc.md)
 - [Node/Node = Asc](../activations/node-node-equals-asc.md)
 - [Node/Node = Sun](../activations/node-node-equals-sun.md)

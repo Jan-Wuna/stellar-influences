@@ -11,7 +11,7 @@ normalized_axis: Venus/Kronos
 factor_a: Venus
 factor_b: Kronos
 related_activations:
-  - Venus/Kronos = Aries
+  - Venus/Kronos = Vernal Point
   - Venus/Kronos = MC
   - Venus/Kronos = Asc
   - Venus/Kronos = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Venus/Kronos = Vulcanus
   - Venus/Kronos = Poseidon
 related_triad_hubs:
-  - Aries Venus Kronos
   - Mercury Venus Kronos
   - Moon Venus Kronos
   - Sun Venus Kronos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Venus Saturn Kronos
   - Venus Uranus Kronos
   - Venus Zeus Kronos
+  - Vernal Point Venus Kronos
 aliases:
   - Kronos/Venus
 source_pages:
@@ -85,7 +85,7 @@ Main formula for the great helping hand. Charitable love. Benevolence. High feel
 
 ## Related Activations
 
-- [Venus/Kronos = Aries](../activations/venus-kronos-equals-aries.md)
+- [Venus/Kronos = Vernal Point](../activations/venus-kronos-equals-vernal-point.md)
 - [Venus/Kronos = MC](../activations/venus-kronos-equals-mc.md)
 - [Venus/Kronos = Asc](../activations/venus-kronos-equals-asc.md)
 - [Venus/Kronos = Sun](../activations/venus-kronos-equals-sun.md)

@@ -11,7 +11,7 @@ normalized_axis: Mercury/Vulcanus
 factor_a: Mercury
 factor_b: Vulcanus
 related_activations:
-  - Mercury/Vulcanus = Aries
+  - Mercury/Vulcanus = Vernal Point
   - Mercury/Vulcanus = MC
   - Mercury/Vulcanus = Asc
   - Mercury/Vulcanus = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Mercury/Vulcanus = Admetos
   - Mercury/Vulcanus = Poseidon
 related_triad_hubs:
-  - Aries Mercury Vulcanus
   - Mercury Admetos Vulcanus
   - Mercury Apollon Vulcanus
   - Mercury Asc Vulcanus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Mercury Zeus Vulcanus
   - Moon Mercury Vulcanus
   - Sun Mercury Vulcanus
+  - Vernal Point Mercury Vulcanus
 aliases:
   - Vulcanus/Mercury
 source_pages:
@@ -85,7 +85,7 @@ Mighty exerted thinking. The force of thought. The power of thoughts. Great spee
 
 ## Related Activations
 
-- [Mercury/Vulcanus = Aries](../activations/mercury-vulcanus-equals-aries.md)
+- [Mercury/Vulcanus = Vernal Point](../activations/mercury-vulcanus-equals-vernal-point.md)
 - [Mercury/Vulcanus = MC](../activations/mercury-vulcanus-equals-mc.md)
 - [Mercury/Vulcanus = Asc](../activations/mercury-vulcanus-equals-asc.md)
 - [Mercury/Vulcanus = Sun](../activations/mercury-vulcanus-equals-sun.md)

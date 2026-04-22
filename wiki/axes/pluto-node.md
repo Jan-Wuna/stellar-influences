@@ -11,28 +11,29 @@ normalized_axis: Pluto/Node
 factor_a: Pluto
 factor_b: Node
 related_activations:
-  - Pluto/Node = Aries
-  - Pluto/Node = MC
+  - Pluto/Node = Admetos
+  - Pluto/Node = Apollon
   - Pluto/Node = Asc
-  - Pluto/Node = Sun
-  - Pluto/Node = Moon
-  - Pluto/Node = Mercury
-  - Pluto/Node = Venus
-  - Pluto/Node = Mars
-  - Pluto/Node = Jupiter
-  - Pluto/Node = Saturn
-  - Pluto/Node = Uranus
-  - Pluto/Node = Neptune
+  - Pluto/Node = Chiron
   - Pluto/Node = Cupido
   - Pluto/Node = Hades
-  - Pluto/Node = Zeus
+  - Pluto/Node = Jupiter
   - Pluto/Node = Kronos
-  - Pluto/Node = Apollon
-  - Pluto/Node = Admetos
-  - Pluto/Node = Vulcanus
+  - Pluto/Node = Mars
+  - Pluto/Node = MC
+  - Pluto/Node = Mercury
+  - Pluto/Node = Moon
+  - Pluto/Node = Neptune
   - Pluto/Node = Poseidon
+  - Pluto/Node = Saturn
+  - Pluto/Node = Sun
+  - Pluto/Node = Uranus
+  - Pluto/Node = Venus
+  - Pluto/Node = Vernal Point
+  - Pluto/Node = Vulcanus
+  - Pluto/Node = Zeus
 related_triad_hubs:
-  - Aries Pluto Node
+  - Chiron Pluto Node
   - Jupiter Pluto Node
   - Mars Pluto Node
   - Mercury Pluto Node
@@ -52,10 +53,14 @@ related_triad_hubs:
   - Sun Pluto Node
   - Uranus Pluto Node
   - Venus Pluto Node
+  - Vernal Point Pluto Node
 aliases:
   - Node/Pluto
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -70,12 +75,59 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Pluto`
-- Source page: `148`
+- Source heading: `Pluto/Dragon's Head`
+- Source page: `292`
 
 #### Pair Summary
 
 New connections. Changes through connections. Acquaintances who experience changes. Relationships that can change events or who expect changes. Development or transformation in relationships. Renewing a relationship.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Pluto/Dragon's Head`
+- Source page: `292`
+
+#### Principle
+
+The common destiny of a large mass of people.
+
+#### Psychological Correspondence
+
++ Urge to seek contacts or associations with many people, the wish to become a public figure or to exercise influence upon other people. - Feeling one's association with other people as a burden or that one's style is cramped through the influence of others, with subsequent suffering from this. C Unions or associations brought about by the particular circumstances of one's destiny, a karmic link.
+
+#### Biological Correspondence
+
+Embryonic growth. Disturbances in pregnancy caused by the fetus. Hyperemesis gravidarum (continued vomiting during pregnancy). Eclampsia (acute toxemia occurring in pregnancy, parturition or in the puerperium associated with convulsions and loss of consciousness).
+
+#### Sociological Correspondence
+
+Crowds or large groups of people, mass meetings. Large business concerns.
+
+#### Probable Manifestations
+
++ The beginning of new associations which may possibly be important with regard to one's future. - A common and tragic destiny shared with other persons. / Pluto/Dragon's Head ¥/&
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Pluto/Node midpoint`
+- Source page: `114`
+
+#### Principle
+
+An intensely strong pull toward the past and its situations. The need to over come this so that one may make progress. A tremendous tug-o-war between the past and the future. Connecting with others who have a huge impact on you and with whom you may experience power struggles.
+
+#### Process
+
+The intensifying of one’s connections with others for the purpose of breaking through limitations and restrictions and furthering evolution. The remaking of the past through the changing of one’s attitude toward it. Giving in to the compulsion to evolve.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Pluto/Nodes`
+- Source page: `212`
+
+#### Pair Delineation
+
+Connections that transform one, or with people who are powerful and charismatic. Subversive connections or connections ^vith subversive groups. Connections that may result in power struggles ^ith others. Groups that aim to transform the world in some way, or that seek to understand the more hidden aspects of existence (researchers and the like).
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -120,26 +172,27 @@ Blockages which affect your pituitary or endocrine glands; sexual preferences or
 
 ## Related Activations
 
-- [Pluto/Node = Aries](../activations/pluto-node-equals-aries.md)
-- [Pluto/Node = MC](../activations/pluto-node-equals-mc.md)
+- [Pluto/Node = Admetos](../activations/pluto-node-equals-admetos.md)
+- [Pluto/Node = Apollon](../activations/pluto-node-equals-apollon.md)
 - [Pluto/Node = Asc](../activations/pluto-node-equals-asc.md)
-- [Pluto/Node = Sun](../activations/pluto-node-equals-sun.md)
-- [Pluto/Node = Moon](../activations/pluto-node-equals-moon.md)
-- [Pluto/Node = Mercury](../activations/pluto-node-equals-mercury.md)
-- [Pluto/Node = Venus](../activations/pluto-node-equals-venus.md)
-- [Pluto/Node = Mars](../activations/pluto-node-equals-mars.md)
-- [Pluto/Node = Jupiter](../activations/pluto-node-equals-jupiter.md)
-- [Pluto/Node = Saturn](../activations/pluto-node-equals-saturn.md)
-- [Pluto/Node = Uranus](../activations/pluto-node-equals-uranus.md)
-- [Pluto/Node = Neptune](../activations/pluto-node-equals-neptune.md)
+- [Pluto/Node = Chiron](../activations/pluto-node-equals-chiron.md)
 - [Pluto/Node = Cupido](../activations/pluto-node-equals-cupido.md)
 - [Pluto/Node = Hades](../activations/pluto-node-equals-hades.md)
-- [Pluto/Node = Zeus](../activations/pluto-node-equals-zeus.md)
+- [Pluto/Node = Jupiter](../activations/pluto-node-equals-jupiter.md)
 - [Pluto/Node = Kronos](../activations/pluto-node-equals-kronos.md)
-- [Pluto/Node = Apollon](../activations/pluto-node-equals-apollon.md)
-- [Pluto/Node = Admetos](../activations/pluto-node-equals-admetos.md)
-- [Pluto/Node = Vulcanus](../activations/pluto-node-equals-vulcanus.md)
+- [Pluto/Node = Mars](../activations/pluto-node-equals-mars.md)
+- [Pluto/Node = MC](../activations/pluto-node-equals-mc.md)
+- [Pluto/Node = Mercury](../activations/pluto-node-equals-mercury.md)
+- [Pluto/Node = Moon](../activations/pluto-node-equals-moon.md)
+- [Pluto/Node = Neptune](../activations/pluto-node-equals-neptune.md)
 - [Pluto/Node = Poseidon](../activations/pluto-node-equals-poseidon.md)
+- [Pluto/Node = Saturn](../activations/pluto-node-equals-saturn.md)
+- [Pluto/Node = Sun](../activations/pluto-node-equals-sun.md)
+- [Pluto/Node = Uranus](../activations/pluto-node-equals-uranus.md)
+- [Pluto/Node = Venus](../activations/pluto-node-equals-venus.md)
+- [Pluto/Node = Vernal Point](../activations/pluto-node-equals-vernal-point.md)
+- [Pluto/Node = Vulcanus](../activations/pluto-node-equals-vulcanus.md)
+- [Pluto/Node = Zeus](../activations/pluto-node-equals-zeus.md)
 
 ## Contradictions
 
@@ -155,4 +208,7 @@ Blockages which affect your pituitary or endocrine glands; sexual preferences or
 - [Pluto](../factors/pluto.md)
 - [Node](../factors/node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

@@ -11,31 +11,32 @@ normalized_axis: Mercury/Jupiter
 factor_a: Mercury
 factor_b: Jupiter
 related_activations:
-  - Mercury/Jupiter = Aries
-  - Mercury/Jupiter = MC
+  - Mercury/Jupiter = Admetos
+  - Mercury/Jupiter = Apollon
   - Mercury/Jupiter = Asc
-  - Mercury/Jupiter = Sun
-  - Mercury/Jupiter = Moon
-  - Mercury/Jupiter = Node
-  - Mercury/Jupiter = Venus
-  - Mercury/Jupiter = Mars
-  - Mercury/Jupiter = Saturn
-  - Mercury/Jupiter = Uranus
-  - Mercury/Jupiter = Neptune
-  - Mercury/Jupiter = Pluto
+  - Mercury/Jupiter = Chiron
   - Mercury/Jupiter = Cupido
   - Mercury/Jupiter = Hades
-  - Mercury/Jupiter = Zeus
   - Mercury/Jupiter = Kronos
-  - Mercury/Jupiter = Apollon
-  - Mercury/Jupiter = Admetos
-  - Mercury/Jupiter = Vulcanus
+  - Mercury/Jupiter = Mars
+  - Mercury/Jupiter = MC
+  - Mercury/Jupiter = Moon
+  - Mercury/Jupiter = Neptune
+  - Mercury/Jupiter = Node
+  - Mercury/Jupiter = Pluto
   - Mercury/Jupiter = Poseidon
+  - Mercury/Jupiter = Saturn
+  - Mercury/Jupiter = Sun
+  - Mercury/Jupiter = Uranus
+  - Mercury/Jupiter = Venus
+  - Mercury/Jupiter = Vernal Point
+  - Mercury/Jupiter = Vulcanus
+  - Mercury/Jupiter = Zeus
 related_triad_hubs:
-  - Aries Mercury Jupiter
   - Mercury Jupiter Admetos
   - Mercury Jupiter Apollon
   - Mercury Jupiter Asc
+  - Mercury Jupiter Chiron
   - Mercury Jupiter Cupido
   - Mercury Jupiter Hades
   - Mercury Jupiter Kronos
@@ -52,12 +53,15 @@ related_triad_hubs:
   - Mercury Venus Jupiter
   - Moon Mercury Jupiter
   - Sun Mercury Jupiter
+  - Vernal Point Mercury Jupiter
 aliases:
   - Jupiter/Mercury
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -142,6 +146,28 @@ There is often a distinct tendency to neglect worldly matters for art, religion,
 - Harmonious: Oscar Wilde, Swinburne, Nicholas II, "A Spendthrift" (Notable Nativities, 894), Washington, Lord French, Baden Powell, S.T. Coleridge.
 - The Conjunction: William Blake, Joseph Wallace (food reformer), Dr. John Dee.
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mercury/Jupiter midpoint`
+- Source page: `44`
+
+#### Principle
+
+The ability to synthesize ideas. Enthusiastic communication. Excessive thinking. Enthusiasm for many ideas. Saying too much. Philosophical thinking. Having too much on one’s mind makes one absent minded.
+
+#### Process
+
+The collection and coordination of information. The generous sharing of thoughts and ideas. The expanding and developing of ideas.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Mercury/Jupiter`
+- Source page: `205`
+
+#### Pair Delineation
+
+The ability to make judgments based on maximum understanding. Love of negotiations and business. Judgment conditioned by ideals of fairness and justice, although sometimes lacking in precision and accuracy of thought.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MERCURY/JUPITER`
@@ -185,26 +211,27 @@ Excessive fat in the blood; an inability to absorb sugars in the blood; weakness
 
 ## Related Activations
 
-- [Mercury/Jupiter = Aries](../activations/mercury-jupiter-equals-aries.md)
-- [Mercury/Jupiter = MC](../activations/mercury-jupiter-equals-mc.md)
+- [Mercury/Jupiter = Admetos](../activations/mercury-jupiter-equals-admetos.md)
+- [Mercury/Jupiter = Apollon](../activations/mercury-jupiter-equals-apollon.md)
 - [Mercury/Jupiter = Asc](../activations/mercury-jupiter-equals-asc.md)
-- [Mercury/Jupiter = Sun](../activations/mercury-jupiter-equals-sun.md)
-- [Mercury/Jupiter = Moon](../activations/mercury-jupiter-equals-moon.md)
-- [Mercury/Jupiter = Node](../activations/mercury-jupiter-equals-node.md)
-- [Mercury/Jupiter = Venus](../activations/mercury-jupiter-equals-venus.md)
-- [Mercury/Jupiter = Mars](../activations/mercury-jupiter-equals-mars.md)
-- [Mercury/Jupiter = Saturn](../activations/mercury-jupiter-equals-saturn.md)
-- [Mercury/Jupiter = Uranus](../activations/mercury-jupiter-equals-uranus.md)
-- [Mercury/Jupiter = Neptune](../activations/mercury-jupiter-equals-neptune.md)
-- [Mercury/Jupiter = Pluto](../activations/mercury-jupiter-equals-pluto.md)
+- [Mercury/Jupiter = Chiron](../activations/mercury-jupiter-equals-chiron.md)
 - [Mercury/Jupiter = Cupido](../activations/mercury-jupiter-equals-cupido.md)
 - [Mercury/Jupiter = Hades](../activations/mercury-jupiter-equals-hades.md)
-- [Mercury/Jupiter = Zeus](../activations/mercury-jupiter-equals-zeus.md)
 - [Mercury/Jupiter = Kronos](../activations/mercury-jupiter-equals-kronos.md)
-- [Mercury/Jupiter = Apollon](../activations/mercury-jupiter-equals-apollon.md)
-- [Mercury/Jupiter = Admetos](../activations/mercury-jupiter-equals-admetos.md)
-- [Mercury/Jupiter = Vulcanus](../activations/mercury-jupiter-equals-vulcanus.md)
+- [Mercury/Jupiter = Mars](../activations/mercury-jupiter-equals-mars.md)
+- [Mercury/Jupiter = MC](../activations/mercury-jupiter-equals-mc.md)
+- [Mercury/Jupiter = Moon](../activations/mercury-jupiter-equals-moon.md)
+- [Mercury/Jupiter = Neptune](../activations/mercury-jupiter-equals-neptune.md)
+- [Mercury/Jupiter = Node](../activations/mercury-jupiter-equals-node.md)
+- [Mercury/Jupiter = Pluto](../activations/mercury-jupiter-equals-pluto.md)
 - [Mercury/Jupiter = Poseidon](../activations/mercury-jupiter-equals-poseidon.md)
+- [Mercury/Jupiter = Saturn](../activations/mercury-jupiter-equals-saturn.md)
+- [Mercury/Jupiter = Sun](../activations/mercury-jupiter-equals-sun.md)
+- [Mercury/Jupiter = Uranus](../activations/mercury-jupiter-equals-uranus.md)
+- [Mercury/Jupiter = Venus](../activations/mercury-jupiter-equals-venus.md)
+- [Mercury/Jupiter = Vernal Point](../activations/mercury-jupiter-equals-vernal-point.md)
+- [Mercury/Jupiter = Vulcanus](../activations/mercury-jupiter-equals-vulcanus.md)
+- [Mercury/Jupiter = Zeus](../activations/mercury-jupiter-equals-zeus.md)
 
 ## Contradictions
 
@@ -222,4 +249,6 @@ Excessive fat in the blood; an inability to absorb sugars in the blood; weakness
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

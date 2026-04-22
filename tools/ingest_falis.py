@@ -16,7 +16,7 @@ from tools.falis_source import (
     generate_models,
 )
 from tools.rebuild_index import build_index
-from tools.wiki_identity import astronomicon_token, normalize_axis
+from tools.wiki_identity import astronomicon_token, factor_slug, normalize_axis
 from tools.wiki_pages import load_page
 
 
@@ -31,7 +31,7 @@ def _yaml_list(items: list[str], indent: int = 0) -> str:
 
 
 def _axis_link(name: str) -> str:
-    return f"../axes/{name.lower().replace('/', '-')}.md"
+    return f"../axes/{name.lower().replace('/', '-').replace(' ', '-')}.md"
 
 
 def _parse_witte_entry(body: str) -> tuple[str, str, str]:
@@ -150,8 +150,8 @@ updated_at: {UPDATED_AT}
 
 ## Links
 
-- [{axis.factors[0]}](../factors/{axis.factors[0].lower()}.md)
-- [{axis.factors[1]}](../factors/{axis.factors[1].lower()}.md)
+- [{axis.factors[0]}](../factors/{factor_slug(axis.factors[0])}.md)
+- [{axis.factors[1]}](../factors/{factor_slug(axis.factors[1])}.md)
 - [{WITTE_TITLE}](../sources/{WITTE_SLUG}.md)
 - [{SOURCE_TITLE}](../sources/{SOURCE_SLUG}.md)
 """
@@ -159,7 +159,7 @@ updated_at: {UPDATED_AT}
 
 def _render_source_page(blocks: list[AxisBlock]) -> str:
     factor_links = "\n".join(
-        f"- [{factor}](../factors/{factor.lower()}.md)"
+        f"- [{factor}](../factors/{factor_slug(factor)}.md)"
         for factor in sorted({item.factor_a for item in blocks} | {item.factor_b for item in blocks}, key=str.casefold)
     )
     return f"""---

@@ -16,7 +16,7 @@ def test_coalesce_pair_blocks_prefers_cleaner_duplicate_entries():
         page=282,
         summary="Scantness. Frugality. Lack &",
         activation_entries=[
-            ActivationEntry("Aries", "A", "General pessimism. &", 282),
+            ActivationEntry("Vernal Point", "A", "General pessimism. &", 282),
             ActivationEntry("Poseidon", "X", "past times.", 282),
         ],
     )
@@ -27,7 +27,7 @@ def test_coalesce_pair_blocks_prefers_cleaner_duplicate_entries():
         page=284,
         summary="Scantness. Frugality. Great and deep sadness.",
         activation_entries=[
-            ActivationEntry("Aries", "A", "General pessimism.", 284),
+            ActivationEntry("Vernal Point", "A", "General pessimism.", 284),
             ActivationEntry(
                 "Poseidon",
                 "X",
@@ -42,21 +42,21 @@ def test_coalesce_pair_blocks_prefers_cleaner_duplicate_entries():
     assert len(merged) == 1
     entry_map = {entry.activated_by: entry for entry in merged[0].activation_entries}
     assert merged[0].summary == clean.summary
-    assert entry_map["Aries"].text == clean.activation_entries[0].text
+    assert entry_map["Vernal Point"].text == clean.activation_entries[0].text
     assert entry_map["Poseidon"].text == clean.activation_entries[1].text
 
 
 def test_group_triads_skips_repeated_pair_activations():
     repeated_pair = PairBlock(
-        factor_a="Aries",
-        factor_b="Aries",
+        factor_a="Vernal Point",
+        factor_b="Vernal Point",
         source_heading="Aries + Aries",
         page=33,
         summary="The world public.",
         activation_entries=[ActivationEntry("MC", "M", "Public prominence.", 33)],
     )
     distinct_pair = PairBlock(
-        factor_a="Aries",
+        factor_a="Vernal Point",
         factor_b="MC",
         source_heading="Aries + Meridian",
         page=35,
@@ -66,18 +66,18 @@ def test_group_triads_skips_repeated_pair_activations():
 
     triads = _group_triads([repeated_pair, distinct_pair])
 
-    assert list(triads) == [("Aries", "Sun", "MC")]
-    assert len(triads[("Aries", "Sun", "MC")]) == 1
+    assert list(triads) == [("Vernal Point", "Sun", "MC")]
+    assert len(triads[("Vernal Point", "Sun", "MC")]) == 1
 
 
 def test_witte_factor_pages_remain_structural_only():
     factor = FactorBlock(
-        factor="Aries",
+        factor="Vernal Point",
         page=27,
         text="Sensitive point of the world and the general public.",
     )
     pair = PairBlock(
-        factor_a="Aries",
+        factor_a="Vernal Point",
         factor_b="MC",
         source_heading="Aries + Meridian",
         page=35,
@@ -94,8 +94,8 @@ def test_witte_factor_pages_remain_structural_only():
 
 def test_repeated_pair_activation_page_does_not_link_a_fake_triad_hub():
     pair = PairBlock(
-        factor_a="Aries",
-        factor_b="Aries",
+        factor_a="Vernal Point",
+        factor_b="Vernal Point",
         source_heading="Aries + Aries",
         page=33,
         summary="The world public.",
@@ -125,8 +125,8 @@ def test_activation_page_omits_low_value_source_markers():
 
 def test_canonical_factor_blocks_keep_best_source_text_and_restore_missing_factors():
     parsed = [
-        FactorBlock("Aries", 26, "preface"),
-        FactorBlock("Aries", 27, "doctrine"),
+        FactorBlock("Vernal Point", 26, "preface"),
+        FactorBlock("Vernal Point", 27, "doctrine"),
         FactorBlock("MC", 29, "meridian"),
         FactorBlock("Pluto", 28, "pluto"),
     ]
@@ -135,8 +135,8 @@ def test_canonical_factor_blocks_keep_best_source_text_and_restore_missing_facto
     lookup = {factor.factor: factor for factor in factors}
 
     assert len(factors) == 22
-    assert lookup["Aries"].page == 27
-    assert lookup["Aries"].text == "doctrine"
+    assert lookup["Vernal Point"].page == 27
+    assert lookup["Vernal Point"].text == "doctrine"
     assert lookup["MC"].page == 29
     assert lookup["Pluto"].page == 28
     assert lookup["Pluto"].text == "pluto"

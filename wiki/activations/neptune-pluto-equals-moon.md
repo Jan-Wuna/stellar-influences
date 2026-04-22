@@ -3,7 +3,7 @@ title: Neptune/Pluto = Moon
 page_type: activation
 slug: neptune-pluto-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Pluto
@@ -15,10 +15,13 @@ triad_set:
   - Moon
   - Neptune
   - Pluto
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Mysterious persons. Persons who slowly and unnoticeable change their attitude towards the native. It can also mean the public or especially women who change their attitude.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Neptune/Pluto`
+- Source page: `281`
+- Entry: `1000`
+
+#### Ebertin Entry
+
+Strange soul experiences, highly sensitive, changes of mood, an immediate response to every influence. A peculiar or strange woman, supernatural experiences.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Neptune/Pluto midpoint`
+- Source page: `110`
+- Activator: `Moon`
+
+#### Sandbach Entry
+
+One who is extremely emotionally sensitive and extremely impressionable to subtle energies, which could cause strange health problems, asthma and allergic reac tions being among them. A person who derives security from extreme or profound fan tasies, or who feels emotionally attached to intense ideals.
+
 ## Comparative Schema
 
-- core meaning: Mysterious persons. Persons who slowly and unnoticeable change their attitude towards the native. It can also mean the public or especially women who change their attitude.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Mysterious persons. Persons who slowly and unnoticeable change their attitude to
 - [Pluto](../factors/pluto.md)
 - [Moon](../factors/moon.md)
 - [Neptune/Pluto](../axes/neptune-pluto.md)
+- [Moon Neptune Pluto](../triads/moon-neptune-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

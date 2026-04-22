@@ -11,7 +11,7 @@ normalized_axis: Neptune/Hades
 factor_a: Neptune
 factor_b: Hades
 related_activations:
-  - Neptune/Hades = Aries
+  - Neptune/Hades = Vernal Point
   - Neptune/Hades = MC
   - Neptune/Hades = Asc
   - Neptune/Hades = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Neptune/Hades = Vulcanus
   - Neptune/Hades = Poseidon
 related_triad_hubs:
-  - Aries Neptune Hades
   - Jupiter Neptune Hades
   - Mars Neptune Hades
   - Mercury Neptune Hades
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Neptune Hades
   - Uranus Neptune Hades
   - Venus Neptune Hades
+  - Vernal Point Neptune Hades
 aliases:
   - Hades/Neptune
 source_pages:
@@ -85,7 +85,7 @@ Damages through error. Deception. Lack of lucidity. Decay. Water catastrophes. D
 
 ## Related Activations
 
-- [Neptune/Hades = Aries](../activations/neptune-hades-equals-aries.md)
+- [Neptune/Hades = Vernal Point](../activations/neptune-hades-equals-vernal-point.md)
 - [Neptune/Hades = MC](../activations/neptune-hades-equals-mc.md)
 - [Neptune/Hades = Asc](../activations/neptune-hades-equals-asc.md)
 - [Neptune/Hades = Sun](../activations/neptune-hades-equals-sun.md)

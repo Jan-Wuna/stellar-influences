@@ -11,7 +11,7 @@ normalized_axis: Zeus/Vulcanus
 factor_a: Zeus
 factor_b: Vulcanus
 related_activations:
-  - Zeus/Vulcanus = Aries
+  - Zeus/Vulcanus = Vernal Point
   - Zeus/Vulcanus = MC
   - Zeus/Vulcanus = Asc
   - Zeus/Vulcanus = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Zeus/Vulcanus = Admetos
   - Zeus/Vulcanus = Poseidon
 related_triad_hubs:
-  - Aries Zeus Vulcanus
   - Asc Zeus Vulcanus
   - Cupido Zeus Vulcanus
   - Hades Zeus Vulcanus
@@ -48,6 +47,7 @@ related_triad_hubs:
   - Sun Zeus Vulcanus
   - Uranus Zeus Vulcanus
   - Venus Zeus Vulcanus
+  - Vernal Point Zeus Vulcanus
   - Zeus Admetos Vulcanus
   - Zeus Apollon Vulcanus
   - Zeus Kronos Vulcanus
@@ -85,7 +85,7 @@ Mighty creations. Machine power. Mighty controlled and adjusted power. Horsepowe
 
 ## Related Activations
 
-- [Zeus/Vulcanus = Aries](../activations/zeus-vulcanus-equals-aries.md)
+- [Zeus/Vulcanus = Vernal Point](../activations/zeus-vulcanus-equals-vernal-point.md)
 - [Zeus/Vulcanus = MC](../activations/zeus-vulcanus-equals-mc.md)
 - [Zeus/Vulcanus = Asc](../activations/zeus-vulcanus-equals-asc.md)
 - [Zeus/Vulcanus = Sun](../activations/zeus-vulcanus-equals-sun.md)

@@ -11,28 +11,29 @@ normalized_axis: Mars/Pluto
 factor_a: Mars
 factor_b: Pluto
 related_activations:
-  - Mars/Pluto = Aries
-  - Mars/Pluto = MC
+  - Mars/Pluto = Admetos
+  - Mars/Pluto = Apollon
   - Mars/Pluto = Asc
-  - Mars/Pluto = Sun
-  - Mars/Pluto = Moon
-  - Mars/Pluto = Node
-  - Mars/Pluto = Mercury
-  - Mars/Pluto = Venus
-  - Mars/Pluto = Jupiter
-  - Mars/Pluto = Saturn
-  - Mars/Pluto = Uranus
-  - Mars/Pluto = Neptune
+  - Mars/Pluto = Chiron
   - Mars/Pluto = Cupido
   - Mars/Pluto = Hades
-  - Mars/Pluto = Zeus
+  - Mars/Pluto = Jupiter
   - Mars/Pluto = Kronos
-  - Mars/Pluto = Apollon
-  - Mars/Pluto = Admetos
-  - Mars/Pluto = Vulcanus
+  - Mars/Pluto = MC
+  - Mars/Pluto = Mercury
+  - Mars/Pluto = Moon
+  - Mars/Pluto = Neptune
+  - Mars/Pluto = Node
   - Mars/Pluto = Poseidon
+  - Mars/Pluto = Saturn
+  - Mars/Pluto = Sun
+  - Mars/Pluto = Uranus
+  - Mars/Pluto = Venus
+  - Mars/Pluto = Vernal Point
+  - Mars/Pluto = Vulcanus
+  - Mars/Pluto = Zeus
 related_triad_hubs:
-  - Aries Mars Pluto
+  - Mars Chiron Pluto
   - Mars Jupiter Pluto
   - Mars Neptune Pluto
   - Mars Pluto Admetos
@@ -52,11 +53,15 @@ related_triad_hubs:
   - Moon Mars Pluto
   - Sun Mars Pluto
   - Venus Mars Pluto
+  - Vernal Point Mars Pluto
 aliases:
   - Pluto/Mars
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 
 Organizing. Planning. Plans. Duplicate, to copy, to repeat, to multiply. To lead, to supervise or to perform several activities at the same time. To divide, to split, to branch off. To work alternately at different tasks. To do different kinds of work. To work on schedule. Transformation and change in the activity in one’s work and in the working conditions. Actively bring about change.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mars/Pluto`
+- Source page: `213`
+
+#### Principle
+
+Superhuman power (force, brutality).
+
+#### Psychological Correspondence
+
++ The ability to demonstrate extraordinary force and vigor, great self-confidence, obsessive about work, great ambition. - Attaining one's objectives through ruthlessness, brutality, cruelty. C A person who wants to use force or compulsion at every occasion.
+
+#### Biological Correspondence
+
+Replacement of natural organs and functions by artificial substitutes, such as artificial limbs (leg, arm, denture, skull).
+
+#### Sociological Correspondence
+
+Piece-workers, being paid for overtime work, great people in the sphere of sport. People disabled in war.
+
+#### Probable Manifestations
+
++ Attainment of success through excessive effort. - Tendency to proceed in a brutal manner, the misfortune of having to suffer violent assaults, injuries. 44 Research on the charts of atomic research workers and rocket specialists and on the launching of earth satellites, etc., has revealed there was very frequently a Mars-Pluto contact, usually with the Sun. In other charts this combination can mean exceptional ability. Mars/Pluto o7f
+
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
 - Source heading: `Mars/Pluto`
@@ -86,6 +116,28 @@ Organizing. Planning. Plans. Duplicate, to copy, to repeat, to multiply. To lead
 #### Falis Entry
 
 Powerful force. Powerful energy. Powerful actions. Buried anger. Buried rage. Buried energy. Stifled will. Volcanic rage. Explosive temper. Burning desire. Com pulsive desire. Controlling force. Forces beyond your control. Killer instincts. Catharsis through rage. Catharsis through physical activity. Feeling renewed through physical activity. Feeling renewed through sex. The desire to destroy and decimate. Needing to kill away the old to make way for new actions and inspi rations. The desire to kill. Compelled to control. Physical power. Physical control. Atomic power. Fight for survival. Fight for power. Fight to the death. Needing to prove something. Crime fighters. Criminals. Criminal underground. Underground activities. Thugs. Recycling energy. Healing energy. Intense energy. Energy that can transform what it touches. Intense force. Brutality. Cruelty. Abuse. Violence. Anti social behavior. Making people feel like they're walking on eggshells around you. Willingness to do what is necessary no matter how it displeases other people. Mak ing things happen without necessarily knowing why or how. Deeply unconscious actions. Deeply unconscious motivations for doing the things you do. Tapping into a deep reservoir of what needs to be done, or what is possible to do. Compulsive drive. Indefatigable effort. Relentlessness. Intense sexual energy. Dark sexual en ergy. Stifled sexual impulses. Buried sexual energy. Snuffed out. Sexual taboos. Violent taboos. Obsessed with sex. Obsessed with violence. Obsessed with win ning. Asserting power. Destructive actions. Destructive impulses. Regenerative im pulses. Drive to heal. Feeling compelled to transform. Driven to scrape off 'dead' aspects of yourself and your life. Weighed down by dead parts of yourself and of your life. The drive to destroy and renew. Tearing down decayed or dead parts your life. Cutting off from what is dead or dying. Tremendous courage. Keeping impulses under control. Controlling anger. Control ling your sex drive. Sexual compulsion. Too controlled. Keeping a lid on anger. Not relaxed. Wound tight. Not easy going. Stressed. Burning up inside. Strength. In tense orgasm. Violent orgasm. Strong sex drive. Initiating transformation. Active healing. Healing energy. Obsessive actions. Obsessive energy. Self-willed transfor mation. The courage to start over from scratch. Brave enough to keep going. Un ceasing control. Unceasing courage. Ruthlessness. Initiating catharsis. Instant transformation. Actively un-burying secrets. Actively burying secrets. Secretive ac tions. The drive to investigate and uncover. Leaving no stone unturned. Obsession with what is hidden. Physical obsessions. Transforming the body. Body builders. Weight lifters. People who need to release physical energy so they don't explode. Bitterness from storing too much energy. Nastiness from holding onto too much energy. Frustration from pent up energy. Impulse to annihilate. Physical feats. Single-minded focus. Consuming passions. Acting paranoid. Acting suspicious. Detectives. Spies. Mobsters. Inability to be detached. Innate understanding of cru elty, anger and aggression. Buried desires. Acting on your passions. Depression when passion in life is lacking. Frustration when there is nothing to put your all into. Anger, lashing out and cruelty when desires and passions are stifled or thwarted. Superhuman effort. Pushing yourself to the point of complete and utter exhaustion on all levels. Body-breaking effort. Tearing muscles to make new mus cles. Dominance or subservience. Physical trauma. Sexual trauma. Sexual abuse. Indomitable will. Anger that fuels transformation.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mars/Pluto midpoint`
+- Source page: `73`
+
+#### Principle
+
+Intense aggression that may even be overpowering, or obsessive. The ability to get an extreme amount of work accomplished. Doing things that affect the whole world, or at least a great number of people. The desire to work toward a breakthrough. Domination of others, or running over them in an uncaring fashion. Extreme violence or brutality.
+
+#### Process
+
+The intensification of one’s actions so that one may perceive both their constructive and destructive aspects. The realization of one’s power to effect deep and profound changes.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Mars/Pluto`
+- Source page: `208`
+
+#### Pair Delineation
+
+Striving, hard work. To contend against difficult odds, often successfully. Brutality and conflict. Ambition, ruthless drive, the desire to achieve one's objectives at all costs.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -130,26 +182,27 @@ An over-productive pituitary gland; active cell regeneration or production; rect
 
 ## Related Activations
 
-- [Mars/Pluto = Aries](../activations/mars-pluto-equals-aries.md)
-- [Mars/Pluto = MC](../activations/mars-pluto-equals-mc.md)
+- [Mars/Pluto = Admetos](../activations/mars-pluto-equals-admetos.md)
+- [Mars/Pluto = Apollon](../activations/mars-pluto-equals-apollon.md)
 - [Mars/Pluto = Asc](../activations/mars-pluto-equals-asc.md)
-- [Mars/Pluto = Sun](../activations/mars-pluto-equals-sun.md)
-- [Mars/Pluto = Moon](../activations/mars-pluto-equals-moon.md)
-- [Mars/Pluto = Node](../activations/mars-pluto-equals-node.md)
-- [Mars/Pluto = Mercury](../activations/mars-pluto-equals-mercury.md)
-- [Mars/Pluto = Venus](../activations/mars-pluto-equals-venus.md)
-- [Mars/Pluto = Jupiter](../activations/mars-pluto-equals-jupiter.md)
-- [Mars/Pluto = Saturn](../activations/mars-pluto-equals-saturn.md)
-- [Mars/Pluto = Uranus](../activations/mars-pluto-equals-uranus.md)
-- [Mars/Pluto = Neptune](../activations/mars-pluto-equals-neptune.md)
+- [Mars/Pluto = Chiron](../activations/mars-pluto-equals-chiron.md)
 - [Mars/Pluto = Cupido](../activations/mars-pluto-equals-cupido.md)
 - [Mars/Pluto = Hades](../activations/mars-pluto-equals-hades.md)
-- [Mars/Pluto = Zeus](../activations/mars-pluto-equals-zeus.md)
+- [Mars/Pluto = Jupiter](../activations/mars-pluto-equals-jupiter.md)
 - [Mars/Pluto = Kronos](../activations/mars-pluto-equals-kronos.md)
-- [Mars/Pluto = Apollon](../activations/mars-pluto-equals-apollon.md)
-- [Mars/Pluto = Admetos](../activations/mars-pluto-equals-admetos.md)
-- [Mars/Pluto = Vulcanus](../activations/mars-pluto-equals-vulcanus.md)
+- [Mars/Pluto = MC](../activations/mars-pluto-equals-mc.md)
+- [Mars/Pluto = Mercury](../activations/mars-pluto-equals-mercury.md)
+- [Mars/Pluto = Moon](../activations/mars-pluto-equals-moon.md)
+- [Mars/Pluto = Neptune](../activations/mars-pluto-equals-neptune.md)
+- [Mars/Pluto = Node](../activations/mars-pluto-equals-node.md)
 - [Mars/Pluto = Poseidon](../activations/mars-pluto-equals-poseidon.md)
+- [Mars/Pluto = Saturn](../activations/mars-pluto-equals-saturn.md)
+- [Mars/Pluto = Sun](../activations/mars-pluto-equals-sun.md)
+- [Mars/Pluto = Uranus](../activations/mars-pluto-equals-uranus.md)
+- [Mars/Pluto = Venus](../activations/mars-pluto-equals-venus.md)
+- [Mars/Pluto = Vernal Point](../activations/mars-pluto-equals-vernal-point.md)
+- [Mars/Pluto = Vulcanus](../activations/mars-pluto-equals-vulcanus.md)
+- [Mars/Pluto = Zeus](../activations/mars-pluto-equals-zeus.md)
 
 ## Contradictions
 
@@ -165,5 +218,8 @@ An over-productive pituitary gland; active cell regeneration or production; rect
 - [Mars](../factors/mars.md)
 - [Pluto](../factors/pluto.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

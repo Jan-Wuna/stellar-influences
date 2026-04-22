@@ -11,7 +11,7 @@ normalized_axis: Cupido/Hades
 factor_a: Cupido
 factor_b: Hades
 related_activations:
-  - Cupido/Hades = Aries
+  - Cupido/Hades = Vernal Point
   - Cupido/Hades = MC
   - Cupido/Hades = Asc
   - Cupido/Hades = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Cupido/Hades = Vulcanus
   - Cupido/Hades = Poseidon
 related_triad_hubs:
-  - Aries Cupido Hades
   - Asc Cupido Hades
   - Cupido Hades Admetos
   - Cupido Hades Apollon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Cupido Hades
   - Uranus Cupido Hades
   - Venus Cupido Hades
+  - Vernal Point Cupido Hades
 aliases:
   - Hades/Cupido
 source_pages:
@@ -85,7 +85,7 @@ Paupers. Marriage in poverty. Low and vile company. Egoism. Individualism. Poor 
 
 ## Related Activations
 
-- [Cupido/Hades = Aries](../activations/cupido-hades-equals-aries.md)
+- [Cupido/Hades = Vernal Point](../activations/cupido-hades-equals-vernal-point.md)
 - [Cupido/Hades = MC](../activations/cupido-hades-equals-mc.md)
 - [Cupido/Hades = Asc](../activations/cupido-hades-equals-asc.md)
 - [Cupido/Hades = Sun](../activations/cupido-hades-equals-sun.md)

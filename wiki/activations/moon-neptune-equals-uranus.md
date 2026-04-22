@@ -3,7 +3,7 @@ title: Moon/Neptune = Uranus
 page_type: activation
 slug: moon-neptune-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Neptune
@@ -15,10 +15,13 @@ triad_set:
   - Moon
   - Uranus
   - Neptune
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Aggravation because of unclear but sensitive woman or weakness of thinking. Irresponsible acts of females. Surprises during the night hours. To be suddenly awakened.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Moon/Neptune`
+- Source page: `132`
+- Entry: `0405`
+
+#### Ebertin Entry
+
+An incalculable or unpredictable disposition, tendency to act impulsively. Pursuit of sudden ideas and hunches, the gift to have sudden forebodings or presentiments.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Moon/Neptune midpoint`
+- Source page: `34`
+- Activator: `Uranus`
+
+#### Sandbach Entry
+
+One is thrown out of kilter by suddenly taking on disruptive psychic energy from others. A genius for tapping in to others’ feelings. One has unique insights into the deeper and subtler levels of others’ emotions.
+
 ## Comparative Schema
 
-- core meaning: Aggravation because of unclear but sensitive woman or weakness of thinking. Irresponsible acts of females. Surprises during the night hours. To be suddenly awakened.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Aggravation because of unclear but sensitive woman or weakness of thinking. Irre
 - [Neptune](../factors/neptune.md)
 - [Uranus](../factors/uranus.md)
 - [Moon/Neptune](../axes/moon-neptune.md)
+- [Moon Uranus Neptune](../triads/moon-uranus-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

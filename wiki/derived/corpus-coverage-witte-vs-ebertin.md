@@ -7,7 +7,7 @@ framework_scope: comparative
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - reinhold-ebertin-the-combination-of-stellar-influences
-updated_at: 2026-04-21
+updated_at: 2026-04-22
 ---
 
 ## Purpose
@@ -24,7 +24,7 @@ Explain why the live wiki is asymmetrical across sources, and distinguish source
 
 ### Witte Coverage
 
-- Witte contributes `22` factor chapters: Aries, the angles, the classical planets, Node, and the transneptunians.
+- Witte contributes `22` factor chapters: Vernal Point, the angles, the classical planets, Node, and the transneptunians.
 - The current ingest exposes `253` axis pages, `5082` activation pages, and `1540` triad hubs from that source.
 - In practice, Witte behaves like the wide combinatorial framework in the current wiki.
 
@@ -36,7 +36,7 @@ Explain why the live wiki is asymmetrical across sources, and distinguish source
 
 ### What The Coverage Difference Means
 
-- Missing Ebertin pages for `Aries`, `Cupido`, `Hades`, `Zeus`, `Kronos`, `Apollon`, `Admetos`, `Vulcanus`, and `Poseidon` should be read as source absence.
+- Missing Ebertin pages for `Vernal Point`, `Cupido`, `Hades`, `Zeus`, `Kronos`, `Apollon`, `Admetos`, `Vulcanus`, and `Poseidon` should be read as source absence.
 - The shared zone between both corpora is the `13`-factor overlap now surfaced on the canonical factor pages.
 - The live wiki therefore mixes a broad Hamburg corpus with a narrower Cosmobiological corpus. Raw page counts should not be mistaken for doctrinal priority or evidential superiority.
 

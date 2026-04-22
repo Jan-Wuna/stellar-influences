@@ -11,7 +11,7 @@ normalized_axis: Mercury/Apollon
 factor_a: Mercury
 factor_b: Apollon
 related_activations:
-  - Mercury/Apollon = Aries
+  - Mercury/Apollon = Vernal Point
   - Mercury/Apollon = MC
   - Mercury/Apollon = Asc
   - Mercury/Apollon = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Mercury/Apollon = Vulcanus
   - Mercury/Apollon = Poseidon
 related_triad_hubs:
-  - Aries Mercury Apollon
   - Mercury Apollon Admetos
   - Mercury Apollon Poseidon
   - Mercury Apollon Vulcanus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Mercury Zeus Apollon
   - Moon Mercury Apollon
   - Sun Mercury Apollon
+  - Vernal Point Mercury Apollon
 aliases:
   - Apollon/Mercury
 source_pages:
@@ -85,7 +85,7 @@ High flight of thought. Scientific thinking. Many talks. Much speaking. Knowledg
 
 ## Related Activations
 
-- [Mercury/Apollon = Aries](../activations/mercury-apollon-equals-aries.md)
+- [Mercury/Apollon = Vernal Point](../activations/mercury-apollon-equals-vernal-point.md)
 - [Mercury/Apollon = MC](../activations/mercury-apollon-equals-mc.md)
 - [Mercury/Apollon = Asc](../activations/mercury-apollon-equals-asc.md)
 - [Mercury/Apollon = Sun](../activations/mercury-apollon-equals-sun.md)

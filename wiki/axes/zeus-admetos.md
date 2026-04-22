@@ -11,7 +11,7 @@ normalized_axis: Zeus/Admetos
 factor_a: Zeus
 factor_b: Admetos
 related_activations:
-  - Zeus/Admetos = Aries
+  - Zeus/Admetos = Vernal Point
   - Zeus/Admetos = MC
   - Zeus/Admetos = Asc
   - Zeus/Admetos = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Zeus/Admetos = Vulcanus
   - Zeus/Admetos = Poseidon
 related_triad_hubs:
-  - Aries Zeus Admetos
   - Asc Zeus Admetos
   - Cupido Zeus Admetos
   - Hades Zeus Admetos
@@ -48,6 +47,7 @@ related_triad_hubs:
   - Sun Zeus Admetos
   - Uranus Zeus Admetos
   - Venus Zeus Admetos
+  - Vernal Point Zeus Admetos
   - Zeus Admetos Poseidon
   - Zeus Admetos Vulcanus
   - Zeus Apollon Admetos
@@ -85,7 +85,7 @@ First beginning, the act of originating, genesis. All beginning is difficult. To
 
 ## Related Activations
 
-- [Zeus/Admetos = Aries](../activations/zeus-admetos-equals-aries.md)
+- [Zeus/Admetos = Vernal Point](../activations/zeus-admetos-equals-vernal-point.md)
 - [Zeus/Admetos = MC](../activations/zeus-admetos-equals-mc.md)
 - [Zeus/Admetos = Asc](../activations/zeus-admetos-equals-asc.md)
 - [Zeus/Admetos = Sun](../activations/zeus-admetos-equals-sun.md)

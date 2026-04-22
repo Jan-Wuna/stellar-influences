@@ -11,7 +11,7 @@ normalized_axis: Mars/Poseidon
 factor_a: Mars
 factor_b: Poseidon
 related_activations:
-  - Mars/Poseidon = Aries
+  - Mars/Poseidon = Vernal Point
   - Mars/Poseidon = MC
   - Mars/Poseidon = Asc
   - Mars/Poseidon = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Mars/Poseidon = Admetos
   - Mars/Poseidon = Vulcanus
 related_triad_hubs:
-  - Aries Mars Poseidon
   - Mars Admetos Poseidon
   - Mars Apollon Poseidon
   - Mars Asc Poseidon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Moon Mars Poseidon
   - Sun Mars Poseidon
   - Venus Mars Poseidon
+  - Vernal Point Mars Poseidon
 aliases:
   - Poseidon/Mars
 source_pages:
@@ -85,7 +85,7 @@ Ethics. Mental or spiritual activity. Moral behavior. To act according to knowle
 
 ## Related Activations
 
-- [Mars/Poseidon = Aries](../activations/mars-poseidon-equals-aries.md)
+- [Mars/Poseidon = Vernal Point](../activations/mars-poseidon-equals-vernal-point.md)
 - [Mars/Poseidon = MC](../activations/mars-poseidon-equals-mc.md)
 - [Mars/Poseidon = Asc](../activations/mars-poseidon-equals-asc.md)
 - [Mars/Poseidon = Sun](../activations/mars-poseidon-equals-sun.md)

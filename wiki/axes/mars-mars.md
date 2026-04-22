@@ -11,7 +11,7 @@ normalized_axis: Mars/Mars
 factor_a: Mars
 factor_b: Mars
 related_activations:
-  - Mars/Mars = Aries
+  - Mars/Mars = Vernal Point
   - Mars/Mars = MC
   - Mars/Mars = Asc
   - Mars/Mars = Sun
@@ -67,7 +67,7 @@ Activity. Action. To act. Impulse. The Will. Decision. Work. Employment. Energy.
 
 ## Related Activations
 
-- [Mars/Mars = Aries](../activations/mars-mars-equals-aries.md)
+- [Mars/Mars = Vernal Point](../activations/mars-mars-equals-vernal-point.md)
 - [Mars/Mars = MC](../activations/mars-mars-equals-mc.md)
 - [Mars/Mars = Asc](../activations/mars-mars-equals-asc.md)
 - [Mars/Mars = Sun](../activations/mars-mars-equals-sun.md)

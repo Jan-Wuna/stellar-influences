@@ -11,7 +11,7 @@ normalized_axis: Apollon/Vulcanus
 factor_a: Apollon
 factor_b: Vulcanus
 related_activations:
-  - Apollon/Vulcanus = Aries
+  - Apollon/Vulcanus = Vernal Point
   - Apollon/Vulcanus = MC
   - Apollon/Vulcanus = Asc
   - Apollon/Vulcanus = Sun
@@ -34,7 +34,6 @@ related_activations:
 related_triad_hubs:
   - Apollon Admetos Vulcanus
   - Apollon Vulcanus Poseidon
-  - Aries Apollon Vulcanus
   - Asc Apollon Vulcanus
   - Cupido Apollon Vulcanus
   - Hades Apollon Vulcanus
@@ -51,6 +50,7 @@ related_triad_hubs:
   - Sun Apollon Vulcanus
   - Uranus Apollon Vulcanus
   - Venus Apollon Vulcanus
+  - Vernal Point Apollon Vulcanus
   - Zeus Apollon Vulcanus
 aliases:
   - Vulcanus/Apollon
@@ -85,7 +85,7 @@ Strongest success. Great prosperity. Wealth. Mighty spreading out expansion. Gre
 
 ## Related Activations
 
-- [Apollon/Vulcanus = Aries](../activations/apollon-vulcanus-equals-aries.md)
+- [Apollon/Vulcanus = Vernal Point](../activations/apollon-vulcanus-equals-vernal-point.md)
 - [Apollon/Vulcanus = MC](../activations/apollon-vulcanus-equals-mc.md)
 - [Apollon/Vulcanus = Asc](../activations/apollon-vulcanus-equals-asc.md)
 - [Apollon/Vulcanus = Sun](../activations/apollon-vulcanus-equals-sun.md)

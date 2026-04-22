@@ -11,7 +11,7 @@ normalized_axis: Kronos/Admetos
 factor_a: Kronos
 factor_b: Admetos
 related_activations:
-  - Kronos/Admetos = Aries
+  - Kronos/Admetos = Vernal Point
   - Kronos/Admetos = MC
   - Kronos/Admetos = Asc
   - Kronos/Admetos = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Kronos/Admetos = Vulcanus
   - Kronos/Admetos = Poseidon
 related_triad_hubs:
-  - Aries Kronos Admetos
   - Asc Kronos Admetos
   - Cupido Kronos Admetos
   - Hades Kronos Admetos
@@ -51,6 +50,7 @@ related_triad_hubs:
   - Sun Kronos Admetos
   - Uranus Kronos Admetos
   - Venus Kronos Admetos
+  - Vernal Point Kronos Admetos
   - Zeus Kronos Admetos
 aliases:
   - Admetos/Kronos
@@ -85,7 +85,7 @@ Main formula for an odd character. Differences. Odd being. Fall of a ruler or a 
 
 ## Related Activations
 
-- [Kronos/Admetos = Aries](../activations/kronos-admetos-equals-aries.md)
+- [Kronos/Admetos = Vernal Point](../activations/kronos-admetos-equals-vernal-point.md)
 - [Kronos/Admetos = MC](../activations/kronos-admetos-equals-mc.md)
 - [Kronos/Admetos = Asc](../activations/kronos-admetos-equals-asc.md)
 - [Kronos/Admetos = Sun](../activations/kronos-admetos-equals-sun.md)

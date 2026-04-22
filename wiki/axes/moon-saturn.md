@@ -11,34 +11,35 @@ normalized_axis: Moon/Saturn
 factor_a: Moon
 factor_b: Saturn
 related_activations:
-  - Moon/Saturn = Aries
-  - Moon/Saturn = MC
+  - Moon/Saturn = Admetos
+  - Moon/Saturn = Apollon
   - Moon/Saturn = Asc
-  - Moon/Saturn = Sun
-  - Moon/Saturn = Node
-  - Moon/Saturn = Mercury
-  - Moon/Saturn = Venus
-  - Moon/Saturn = Mars
-  - Moon/Saturn = Jupiter
-  - Moon/Saturn = Uranus
-  - Moon/Saturn = Neptune
-  - Moon/Saturn = Pluto
+  - Moon/Saturn = Chiron
   - Moon/Saturn = Cupido
   - Moon/Saturn = Hades
-  - Moon/Saturn = Zeus
+  - Moon/Saturn = Jupiter
   - Moon/Saturn = Kronos
-  - Moon/Saturn = Apollon
-  - Moon/Saturn = Admetos
-  - Moon/Saturn = Vulcanus
+  - Moon/Saturn = Mars
+  - Moon/Saturn = MC
+  - Moon/Saturn = Mercury
+  - Moon/Saturn = Neptune
+  - Moon/Saturn = Node
+  - Moon/Saturn = Pluto
   - Moon/Saturn = Poseidon
+  - Moon/Saturn = Sun
+  - Moon/Saturn = Uranus
+  - Moon/Saturn = Venus
+  - Moon/Saturn = Vernal Point
+  - Moon/Saturn = Vulcanus
+  - Moon/Saturn = Zeus
 related_triad_hubs:
-  - Aries Moon Saturn
   - Moon Jupiter Saturn
   - Moon Mars Saturn
   - Moon Mercury Saturn
   - Moon Saturn Admetos
   - Moon Saturn Apollon
   - Moon Saturn Asc
+  - Moon Saturn Chiron
   - Moon Saturn Cupido
   - Moon Saturn Hades
   - Moon Saturn Kronos
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Moon Saturn Zeus
   - Moon Venus Saturn
   - Sun Moon Saturn
+  - Vernal Point Moon Saturn
 aliases:
   - Saturn/Moon
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 Restrain. Separate. Despair. Depressed mind. Old, single, separated or unhappy woman. Widow. The hours one has to be alone. Evening hours. To be separated from the public. The hour of separation. Separation of female persons. To avoid women. Discontentment trough separation.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Moon/Saturn`
+- Source page: `125`
+
+#### Principle
+
+Self-control.
+
+#### Psychological Correspondence
+
++ The control of the feelings, self-control, thoughtful, the feeling of selfhood, a sense of duty, care and attention. Circumspection or consideration, conscientious. - Uncommunicative, feelings of inferiority, changes of mood, melancholy, self-will, anxiety, lack of self-confidence, mirthless, fear of being compromised or exposed by indiscreet action. C Self-control, abstemiousness, thrift, selfishness, tendency to grumble or find fault.
+
+#### Biological Correspondence
+
+Chronic disturbances of water balance in the body, defects of the mucous membrane, wounds secreting liquid deposits, mainly watery ones. Diseases of the bladder, psychical diseases, hereditary diseases.
+
+#### Sociological Correspondence
+
+Inhibited, lonely and sad people. The lonely woman or mother.
+
+#### Probable Manifestations
+
++ Tendency or inclination to build upon the tradition of the family or vocation, inherited or assigned positions, difficult advancement in life, often alone in life. - Disadvantages or worries through the family, psychical depressions, estrangement or separation from the wife or mother, isolation. 22 One is inclined to consider any aspects between the Moon and Satum as tragic, but one should not forget that on average the Moon forms a new aspect with Satum every three or four days. The negative interpretations are generally correct if the influences of the environment are very strong, if the relationship with the mother is unsatisfactory, the family has been separated or relationships generally are not good or permanent. Moon/Saturn D/h
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -141,6 +171,28 @@ The native may come into contact with violence and ill-health. The Opposition se
 - The Conjunction: Jay Gould, Commander Morrison, Emperor Franz Joseph, Mussolini, Thomas Moore.
 - Inharmonious: Lord Oxford (H.H. Asquith), King Humbert, Archduke Rudolf, Archduke Franz Ferdinand, Savonarola, President Harding, Marie Antoinette, Huxley, Mary Pickford, Lord Northcliffe, W.T. Stead, Louis XIV, Frederick the Great, Dr. John Dee, Petain.
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Moon/Saturn midpoint`
+- Source page: `31`
+
+#### Principle
+
+Controlled or repressed feelings. The avoidance of emotions. Emotions that either do not change or which only change slowly. The ability to be dutiful, careful, and attentive. Fear for one’s security. Emotional sensitivity. Awareness of lack of fulfillment in terms of one’s emotional needs. The meeting of basic needs. At best one may even tually come to a realization of the spiritual purpose behind one’s emotional problems.
+
+#### Process
+
+Connecting with and clearing negative emotions. The development of the ability to protect oneself emotionally when needed. The growth of one’s ability to clearly perceive and deeply experience one’s feelings.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Moon/Saturn`
+- Source page: `203`
+
+#### Pair Delineation
+
+Feelings of loneliness. Feeling cut off or alienated, not caring for or being cared for by anyone. Inhibited feelings, feelings subject to discipline. Somberness, sobriety, reserve. In women's charts can be a point of self-deprecation. In charts of either sex can mean difficulties with the mother.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MOON/SATURN`
@@ -184,26 +236,27 @@ Hypo-acidity conditions in the stomach; fluids collecting in joints; water on th
 
 ## Related Activations
 
-- [Moon/Saturn = Aries](../activations/moon-saturn-equals-aries.md)
-- [Moon/Saturn = MC](../activations/moon-saturn-equals-mc.md)
+- [Moon/Saturn = Admetos](../activations/moon-saturn-equals-admetos.md)
+- [Moon/Saturn = Apollon](../activations/moon-saturn-equals-apollon.md)
 - [Moon/Saturn = Asc](../activations/moon-saturn-equals-asc.md)
-- [Moon/Saturn = Sun](../activations/moon-saturn-equals-sun.md)
-- [Moon/Saturn = Node](../activations/moon-saturn-equals-node.md)
-- [Moon/Saturn = Mercury](../activations/moon-saturn-equals-mercury.md)
-- [Moon/Saturn = Venus](../activations/moon-saturn-equals-venus.md)
-- [Moon/Saturn = Mars](../activations/moon-saturn-equals-mars.md)
-- [Moon/Saturn = Jupiter](../activations/moon-saturn-equals-jupiter.md)
-- [Moon/Saturn = Uranus](../activations/moon-saturn-equals-uranus.md)
-- [Moon/Saturn = Neptune](../activations/moon-saturn-equals-neptune.md)
-- [Moon/Saturn = Pluto](../activations/moon-saturn-equals-pluto.md)
+- [Moon/Saturn = Chiron](../activations/moon-saturn-equals-chiron.md)
 - [Moon/Saturn = Cupido](../activations/moon-saturn-equals-cupido.md)
 - [Moon/Saturn = Hades](../activations/moon-saturn-equals-hades.md)
-- [Moon/Saturn = Zeus](../activations/moon-saturn-equals-zeus.md)
+- [Moon/Saturn = Jupiter](../activations/moon-saturn-equals-jupiter.md)
 - [Moon/Saturn = Kronos](../activations/moon-saturn-equals-kronos.md)
-- [Moon/Saturn = Apollon](../activations/moon-saturn-equals-apollon.md)
-- [Moon/Saturn = Admetos](../activations/moon-saturn-equals-admetos.md)
-- [Moon/Saturn = Vulcanus](../activations/moon-saturn-equals-vulcanus.md)
+- [Moon/Saturn = Mars](../activations/moon-saturn-equals-mars.md)
+- [Moon/Saturn = MC](../activations/moon-saturn-equals-mc.md)
+- [Moon/Saturn = Mercury](../activations/moon-saturn-equals-mercury.md)
+- [Moon/Saturn = Neptune](../activations/moon-saturn-equals-neptune.md)
+- [Moon/Saturn = Node](../activations/moon-saturn-equals-node.md)
+- [Moon/Saturn = Pluto](../activations/moon-saturn-equals-pluto.md)
 - [Moon/Saturn = Poseidon](../activations/moon-saturn-equals-poseidon.md)
+- [Moon/Saturn = Sun](../activations/moon-saturn-equals-sun.md)
+- [Moon/Saturn = Uranus](../activations/moon-saturn-equals-uranus.md)
+- [Moon/Saturn = Venus](../activations/moon-saturn-equals-venus.md)
+- [Moon/Saturn = Vernal Point](../activations/moon-saturn-equals-vernal-point.md)
+- [Moon/Saturn = Vulcanus](../activations/moon-saturn-equals-vulcanus.md)
+- [Moon/Saturn = Zeus](../activations/moon-saturn-equals-zeus.md)
 
 ## Contradictions
 
@@ -219,6 +272,9 @@ Hypo-acidity conditions in the stomach; fluids collecting in joints; water on th
 - [Moon](../factors/moon.md)
 - [Saturn](../factors/saturn.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

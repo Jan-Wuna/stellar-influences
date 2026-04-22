@@ -11,7 +11,7 @@ normalized_axis: Zeus/Poseidon
 factor_a: Zeus
 factor_b: Poseidon
 related_activations:
-  - Zeus/Poseidon = Aries
+  - Zeus/Poseidon = Vernal Point
   - Zeus/Poseidon = MC
   - Zeus/Poseidon = Asc
   - Zeus/Poseidon = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Zeus/Poseidon = Admetos
   - Zeus/Poseidon = Vulcanus
 related_triad_hubs:
-  - Aries Zeus Poseidon
   - Asc Zeus Poseidon
   - Cupido Zeus Poseidon
   - Hades Zeus Poseidon
@@ -48,6 +47,7 @@ related_triad_hubs:
   - Sun Zeus Poseidon
   - Uranus Zeus Poseidon
   - Venus Zeus Poseidon
+  - Vernal Point Zeus Poseidon
   - Zeus Admetos Poseidon
   - Zeus Apollon Poseidon
   - Zeus Kronos Poseidon
@@ -85,7 +85,7 @@ Creative mentality. Disposed or minded to. The conviction, the formal proof, the
 
 ## Related Activations
 
-- [Zeus/Poseidon = Aries](../activations/zeus-poseidon-equals-aries.md)
+- [Zeus/Poseidon = Vernal Point](../activations/zeus-poseidon-equals-vernal-point.md)
 - [Zeus/Poseidon = MC](../activations/zeus-poseidon-equals-mc.md)
 - [Zeus/Poseidon = Asc](../activations/zeus-poseidon-equals-asc.md)
 - [Zeus/Poseidon = Sun](../activations/zeus-poseidon-equals-sun.md)

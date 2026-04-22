@@ -11,7 +11,7 @@ normalized_axis: Node/Poseidon
 factor_a: Node
 factor_b: Poseidon
 related_activations:
-  - Node/Poseidon = Aries
+  - Node/Poseidon = Vernal Point
   - Node/Poseidon = MC
   - Node/Poseidon = Asc
   - Node/Poseidon = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Node/Poseidon = Admetos
   - Node/Poseidon = Vulcanus
 related_triad_hubs:
-  - Aries Node Poseidon
   - Jupiter Node Poseidon
   - Mars Node Poseidon
   - Mercury Node Poseidon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Node Poseidon
   - Uranus Node Poseidon
   - Venus Node Poseidon
+  - Vernal Point Node Poseidon
 aliases:
   - Poseidon/Node
 source_pages:
@@ -85,7 +85,7 @@ Mental connections. Spiritual union or connections. Connections or relationships
 
 ## Related Activations
 
-- [Node/Poseidon = Aries](../activations/node-poseidon-equals-aries.md)
+- [Node/Poseidon = Vernal Point](../activations/node-poseidon-equals-vernal-point.md)
 - [Node/Poseidon = MC](../activations/node-poseidon-equals-mc.md)
 - [Node/Poseidon = Asc](../activations/node-poseidon-equals-asc.md)
 - [Node/Poseidon = Sun](../activations/node-poseidon-equals-sun.md)

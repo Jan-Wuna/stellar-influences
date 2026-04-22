@@ -11,7 +11,7 @@ normalized_axis: Saturn/Zeus
 factor_a: Saturn
 factor_b: Zeus
 related_activations:
-  - Saturn/Zeus = Aries
+  - Saturn/Zeus = Vernal Point
   - Saturn/Zeus = MC
   - Saturn/Zeus = Asc
   - Saturn/Zeus = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Saturn/Zeus = Vulcanus
   - Saturn/Zeus = Poseidon
 related_triad_hubs:
-  - Aries Saturn Zeus
   - Jupiter Saturn Zeus
   - Mars Saturn Zeus
   - Mercury Saturn Zeus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Saturn Zeus Vulcanus
   - Sun Saturn Zeus
   - Venus Saturn Zeus
+  - Vernal Point Saturn Zeus
 aliases:
   - Zeus/Saturn
 source_pages:
@@ -85,7 +85,7 @@ Bequeathing. Perseverance. Oppression. Anxiety, anguish. Obstacles and hindrance
 
 ## Related Activations
 
-- [Saturn/Zeus = Aries](../activations/saturn-zeus-equals-aries.md)
+- [Saturn/Zeus = Vernal Point](../activations/saturn-zeus-equals-vernal-point.md)
 - [Saturn/Zeus = MC](../activations/saturn-zeus-equals-mc.md)
 - [Saturn/Zeus = Asc](../activations/saturn-zeus-equals-asc.md)
 - [Saturn/Zeus = Sun](../activations/saturn-zeus-equals-sun.md)

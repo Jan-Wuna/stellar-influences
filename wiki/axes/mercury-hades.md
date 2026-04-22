@@ -11,7 +11,7 @@ normalized_axis: Mercury/Hades
 factor_a: Mercury
 factor_b: Hades
 related_activations:
-  - Mercury/Hades = Aries
+  - Mercury/Hades = Vernal Point
   - Mercury/Hades = MC
   - Mercury/Hades = Asc
   - Mercury/Hades = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Mercury/Hades = Vulcanus
   - Mercury/Hades = Poseidon
 related_triad_hubs:
-  - Aries Mercury Hades
   - Mercury Asc Hades
   - Mercury Cupido Hades
   - Mercury Hades Admetos
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Mercury Venus Hades
   - Moon Mercury Hades
   - Sun Mercury Hades
+  - Vernal Point Mercury Hades
 aliases:
   - Hades/Mercury
 source_pages:
@@ -85,7 +85,7 @@ To err or make mistakes. To be silent with shame. To be sad or laconic. Hidden t
 
 ## Related Activations
 
-- [Mercury/Hades = Aries](../activations/mercury-hades-equals-aries.md)
+- [Mercury/Hades = Vernal Point](../activations/mercury-hades-equals-vernal-point.md)
 - [Mercury/Hades = MC](../activations/mercury-hades-equals-mc.md)
 - [Mercury/Hades = Asc](../activations/mercury-hades-equals-asc.md)
 - [Mercury/Hades = Sun](../activations/mercury-hades-equals-sun.md)

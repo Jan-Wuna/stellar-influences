@@ -11,28 +11,29 @@ normalized_axis: Neptune/Asc
 factor_a: Neptune
 factor_b: Asc
 related_activations:
-  - Neptune/Asc = Aries
-  - Neptune/Asc = MC
-  - Neptune/Asc = Sun
-  - Neptune/Asc = Moon
-  - Neptune/Asc = Node
-  - Neptune/Asc = Mercury
-  - Neptune/Asc = Venus
-  - Neptune/Asc = Mars
-  - Neptune/Asc = Jupiter
-  - Neptune/Asc = Saturn
-  - Neptune/Asc = Uranus
-  - Neptune/Asc = Pluto
+  - Neptune/Asc = Admetos
+  - Neptune/Asc = Apollon
+  - Neptune/Asc = Chiron
   - Neptune/Asc = Cupido
   - Neptune/Asc = Hades
-  - Neptune/Asc = Zeus
+  - Neptune/Asc = Jupiter
   - Neptune/Asc = Kronos
-  - Neptune/Asc = Apollon
-  - Neptune/Asc = Admetos
-  - Neptune/Asc = Vulcanus
+  - Neptune/Asc = Mars
+  - Neptune/Asc = MC
+  - Neptune/Asc = Mercury
+  - Neptune/Asc = Moon
+  - Neptune/Asc = Node
+  - Neptune/Asc = Pluto
   - Neptune/Asc = Poseidon
+  - Neptune/Asc = Saturn
+  - Neptune/Asc = Sun
+  - Neptune/Asc = Uranus
+  - Neptune/Asc = Venus
+  - Neptune/Asc = Vernal Point
+  - Neptune/Asc = Vulcanus
+  - Neptune/Asc = Zeus
 related_triad_hubs:
-  - Aries Neptune Asc
+  - Chiron Neptune Asc
   - Jupiter Neptune Asc
   - Mars Neptune Asc
   - Mercury Neptune Asc
@@ -52,10 +53,14 @@ related_triad_hubs:
   - Sun Neptune Asc
   - Uranus Neptune Asc
   - Venus Neptune Asc
+  - Vernal Point Neptune Asc
 aliases:
   - Asc/Neptune
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -70,12 +75,59 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Neptune`
-- Source page: `89`
+- Source heading: `Neptune/Ascendant`
+- Source page: `286`
 
 #### Pair Summary
 
 To be deceived. Wrongly connected. Others are negative, irresolute or prejudiced. Others say “No”. Want of clearness in relations with others. To be deceived or avoided by others. Uncertain, doubtful, precarious, unsteady situations in relation to a location.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Neptune/Ascendant`
+- Source page: `286`
+
+#### Principle
+
+An impressionable person.
+
+#### Psychological Correspondence
+
++ Impressionable, sensitive, sympathetic or compassionate and innate understanding of other people. - Lack of resistance and stamina, inability to maintain one's place or position in the world, inclination to be influenced by others, moodiness. C Inability to gain success in life, tendency to lay oneself open to exploitation by other people, thus serving as a willing tool for the achievement of other people's selfish purposes. Deceiving or cheating others.
+
+#### Biological Correspondence
+
+Illusions or deceptions of the senses. "Skin crawling."
+
+#### Sociological Correspondence
+
+Insincere people, liars, crooks. Sensitives, mediums.
+
+#### Probable Manifestations
+
++ Becoming dominated by or subjected to the influence of other people, the inclination to make strange or peculiar contacts with other people. - Abuse or betrayal of confidence, falsehood, deceit, the experience of disappointment and disillusionment. Neptune/Ascendant V/A
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Neptune/Ascendant midpoint`
+- Source page: `112`
+
+#### Principle
+
+To identify with one’s ideals. To have a subtle, profound, deep or mysterious personality. Confusion concerning who one is. To be misconstrued by other people, or idealized by them. The ability to experiences many different layers within the self. Un certainty, confusion, deception or other forms of unreality in one’s relationships.
+
+#### Process
+
+The intuitive perception of deeper layers beneath one’s identity. The exalting of one’s identity so that it carries a high, spiritual energy. Relating to others at increas ingly deeper and subtler levels.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Neptune/Ascendant`
+- Source page: `212`
+
+#### Pair Delineation
+
+Close relationships that involve self-sacrifice, or that require one person to care for another who is in difficulty. Highly idealistic relationships, platonic relationships. Relationships that are not honest or not what they appear to be.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -120,26 +172,27 @@ Enhanced needs for using drugs to alter reality; an affinity or craving for diff
 
 ## Related Activations
 
-- [Neptune/Asc = Aries](../activations/neptune-asc-equals-aries.md)
-- [Neptune/Asc = MC](../activations/neptune-asc-equals-mc.md)
-- [Neptune/Asc = Sun](../activations/neptune-asc-equals-sun.md)
-- [Neptune/Asc = Moon](../activations/neptune-asc-equals-moon.md)
-- [Neptune/Asc = Node](../activations/neptune-asc-equals-node.md)
-- [Neptune/Asc = Mercury](../activations/neptune-asc-equals-mercury.md)
-- [Neptune/Asc = Venus](../activations/neptune-asc-equals-venus.md)
-- [Neptune/Asc = Mars](../activations/neptune-asc-equals-mars.md)
-- [Neptune/Asc = Jupiter](../activations/neptune-asc-equals-jupiter.md)
-- [Neptune/Asc = Saturn](../activations/neptune-asc-equals-saturn.md)
-- [Neptune/Asc = Uranus](../activations/neptune-asc-equals-uranus.md)
-- [Neptune/Asc = Pluto](../activations/neptune-asc-equals-pluto.md)
+- [Neptune/Asc = Admetos](../activations/neptune-asc-equals-admetos.md)
+- [Neptune/Asc = Apollon](../activations/neptune-asc-equals-apollon.md)
+- [Neptune/Asc = Chiron](../activations/neptune-asc-equals-chiron.md)
 - [Neptune/Asc = Cupido](../activations/neptune-asc-equals-cupido.md)
 - [Neptune/Asc = Hades](../activations/neptune-asc-equals-hades.md)
-- [Neptune/Asc = Zeus](../activations/neptune-asc-equals-zeus.md)
+- [Neptune/Asc = Jupiter](../activations/neptune-asc-equals-jupiter.md)
 - [Neptune/Asc = Kronos](../activations/neptune-asc-equals-kronos.md)
-- [Neptune/Asc = Apollon](../activations/neptune-asc-equals-apollon.md)
-- [Neptune/Asc = Admetos](../activations/neptune-asc-equals-admetos.md)
-- [Neptune/Asc = Vulcanus](../activations/neptune-asc-equals-vulcanus.md)
+- [Neptune/Asc = Mars](../activations/neptune-asc-equals-mars.md)
+- [Neptune/Asc = MC](../activations/neptune-asc-equals-mc.md)
+- [Neptune/Asc = Mercury](../activations/neptune-asc-equals-mercury.md)
+- [Neptune/Asc = Moon](../activations/neptune-asc-equals-moon.md)
+- [Neptune/Asc = Node](../activations/neptune-asc-equals-node.md)
+- [Neptune/Asc = Pluto](../activations/neptune-asc-equals-pluto.md)
 - [Neptune/Asc = Poseidon](../activations/neptune-asc-equals-poseidon.md)
+- [Neptune/Asc = Saturn](../activations/neptune-asc-equals-saturn.md)
+- [Neptune/Asc = Sun](../activations/neptune-asc-equals-sun.md)
+- [Neptune/Asc = Uranus](../activations/neptune-asc-equals-uranus.md)
+- [Neptune/Asc = Venus](../activations/neptune-asc-equals-venus.md)
+- [Neptune/Asc = Vernal Point](../activations/neptune-asc-equals-vernal-point.md)
+- [Neptune/Asc = Vulcanus](../activations/neptune-asc-equals-vulcanus.md)
+- [Neptune/Asc = Zeus](../activations/neptune-asc-equals-zeus.md)
 
 ## Contradictions
 
@@ -155,4 +208,7 @@ Enhanced needs for using drugs to alter reality; an affinity or craving for diff
 - [Neptune](../factors/neptune.md)
 - [Asc](../factors/asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

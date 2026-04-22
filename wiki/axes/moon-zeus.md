@@ -11,7 +11,7 @@ normalized_axis: Moon/Zeus
 factor_a: Moon
 factor_b: Zeus
 related_activations:
-  - Moon/Zeus = Aries
+  - Moon/Zeus = Vernal Point
   - Moon/Zeus = MC
   - Moon/Zeus = Asc
   - Moon/Zeus = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Moon/Zeus = Vulcanus
   - Moon/Zeus = Poseidon
 related_triad_hubs:
-  - Aries Moon Zeus
   - Moon Asc Zeus
   - Moon Cupido Zeus
   - Moon Hades Zeus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Moon Zeus Poseidon
   - Moon Zeus Vulcanus
   - Sun Moon Zeus
+  - Vernal Point Moon Zeus
 aliases:
   - Zeus/Moon
 source_pages:
@@ -85,7 +85,7 @@ A creative mind. The hours of creative work. Discipline. Hot blooded woman. The 
 
 ## Related Activations
 
-- [Moon/Zeus = Aries](../activations/moon-zeus-equals-aries.md)
+- [Moon/Zeus = Vernal Point](../activations/moon-zeus-equals-vernal-point.md)
 - [Moon/Zeus = MC](../activations/moon-zeus-equals-mc.md)
 - [Moon/Zeus = Asc](../activations/moon-zeus-equals-asc.md)
 - [Moon/Zeus = Sun](../activations/moon-zeus-equals-sun.md)

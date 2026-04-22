@@ -11,28 +11,29 @@ normalized_axis: Mars/Uranus
 factor_a: Mars
 factor_b: Uranus
 related_activations:
-  - Mars/Uranus = Aries
-  - Mars/Uranus = MC
+  - Mars/Uranus = Admetos
+  - Mars/Uranus = Apollon
   - Mars/Uranus = Asc
-  - Mars/Uranus = Sun
-  - Mars/Uranus = Moon
-  - Mars/Uranus = Node
-  - Mars/Uranus = Mercury
-  - Mars/Uranus = Venus
-  - Mars/Uranus = Jupiter
-  - Mars/Uranus = Saturn
-  - Mars/Uranus = Neptune
-  - Mars/Uranus = Pluto
+  - Mars/Uranus = Chiron
   - Mars/Uranus = Cupido
   - Mars/Uranus = Hades
-  - Mars/Uranus = Zeus
+  - Mars/Uranus = Jupiter
   - Mars/Uranus = Kronos
-  - Mars/Uranus = Apollon
-  - Mars/Uranus = Admetos
-  - Mars/Uranus = Vulcanus
+  - Mars/Uranus = MC
+  - Mars/Uranus = Mercury
+  - Mars/Uranus = Moon
+  - Mars/Uranus = Neptune
+  - Mars/Uranus = Node
+  - Mars/Uranus = Pluto
   - Mars/Uranus = Poseidon
+  - Mars/Uranus = Saturn
+  - Mars/Uranus = Sun
+  - Mars/Uranus = Venus
+  - Mars/Uranus = Vernal Point
+  - Mars/Uranus = Vulcanus
+  - Mars/Uranus = Zeus
 related_triad_hubs:
-  - Aries Mars Uranus
+  - Mars Chiron Uranus
   - Mars Jupiter Uranus
   - Mars Saturn Uranus
   - Mars Uranus Admetos
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Moon Mars Uranus
   - Sun Mars Uranus
   - Venus Mars Uranus
+  - Vernal Point Mars Uranus
 aliases:
   - Uranus/Mars
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 Sudden event. Exciting action. Energetic act. Fighting. Wounds. Bloody injury. Surgical procedure. Over impulsive or sudden action. Surprising action. Unexpected or new work. Impulsive movements or action. Actions in the field of technology or mathematics.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mars/Uranus`
+- Source page: `207`
+
+#### Principle
+
+A sudden application of effort, a bodily intervention (an operation).
+
+#### Psychological Correspondence
+
++ An extraordinary and unusual amount of energy made available for quite suddenly, urge for freedom and independence, the trait neither to be subdued nor to yield to other people's will, quick determination, courage. - Argumentative disposition, inclination to contradict others, self-will and self-willed obstinacy, lack of balance, intolerance, urge for freedom, strong emotional tensions, strains or stresses, a person imbued with a fighting spirit, violence. C Obstinacy, brutal frankness, self-will and wilfulness, intolerance, haste and premature action, prone to injuries or accidents.
+
+#### Biological Correspondence
+
+The rhythm of activity, activity and work of the heart. An injury causing the loss of blood, beginning of an operation (the cutting of the skin), loss of blood. A scar.
+
+#### Sociological Correspondence
+
+Violent people, fighters for freedom, revolutionaries.
+
+#### Probable Manifestations
+
++ Unusual achievements through an extraordinary power of effort, inclination to act too hastily or prematurely, a danger or peril which has fortunately passed. - The passing of a test of nerves, struggle for survival, accident, injury, operation (birth). 40 The mid-point Mars/Uranus is often interpreted as the "operation axis" and this has been substantiated both in the case of directions and transits. But one cannot say for certain that these combinations will mean an operation. In cases where an operation is inevitable, other combinations usually must be present. The correspondence "operation" is only one possibility of this combination. Mars/Uranus cW
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -137,6 +167,28 @@ There is often a disposition to take risks, and to overwork.
 - The Conjunction: King George of Greece, Charubel, French Third Republic.
 - Inharmonious: Chamberlain, Dickens, Prince Consort, Louis Philippe, Willie Starchfield, Grand Duchess Marie, C.W. Leadbeater, Archduke Rudolf, H.S. Green, the well-known astrologer, Lord French.
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mars/Uranus midpoint`
+- Source page: `71`
+
+#### Principle
+
+Sudden and unexpected actions. To find one’s own independent and unique way of doing things. To be assertively rebellious. Accidents, which are a manifestation of pent-up energy that need to be released. To be impulsive in one’s actions, and/or to act erratically. Inspired action.
+
+#### Process
+
+Active experimentation. The breaking out of old forms and patterns and the creating of new one’s that offer more freedom and which more clearly reflect the true self.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Mars/Uranus`
+- Source page: `208`
+
+#### Pair Delineation
+
+Rebellion, non-conformity, difficulties with authority, the drive for absolute independence. Fighting for freedom. Extreme personal eccentricity. Sudden physical actions often leading to accidents. Often associated with surgery.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MARS/URANUS`
@@ -180,26 +232,27 @@ Muscle spasms; rapidly fluctuating energy levels; deafness from exposure to nois
 
 ## Related Activations
 
-- [Mars/Uranus = Aries](../activations/mars-uranus-equals-aries.md)
-- [Mars/Uranus = MC](../activations/mars-uranus-equals-mc.md)
+- [Mars/Uranus = Admetos](../activations/mars-uranus-equals-admetos.md)
+- [Mars/Uranus = Apollon](../activations/mars-uranus-equals-apollon.md)
 - [Mars/Uranus = Asc](../activations/mars-uranus-equals-asc.md)
-- [Mars/Uranus = Sun](../activations/mars-uranus-equals-sun.md)
-- [Mars/Uranus = Moon](../activations/mars-uranus-equals-moon.md)
-- [Mars/Uranus = Node](../activations/mars-uranus-equals-node.md)
-- [Mars/Uranus = Mercury](../activations/mars-uranus-equals-mercury.md)
-- [Mars/Uranus = Venus](../activations/mars-uranus-equals-venus.md)
-- [Mars/Uranus = Jupiter](../activations/mars-uranus-equals-jupiter.md)
-- [Mars/Uranus = Saturn](../activations/mars-uranus-equals-saturn.md)
-- [Mars/Uranus = Neptune](../activations/mars-uranus-equals-neptune.md)
-- [Mars/Uranus = Pluto](../activations/mars-uranus-equals-pluto.md)
+- [Mars/Uranus = Chiron](../activations/mars-uranus-equals-chiron.md)
 - [Mars/Uranus = Cupido](../activations/mars-uranus-equals-cupido.md)
 - [Mars/Uranus = Hades](../activations/mars-uranus-equals-hades.md)
-- [Mars/Uranus = Zeus](../activations/mars-uranus-equals-zeus.md)
+- [Mars/Uranus = Jupiter](../activations/mars-uranus-equals-jupiter.md)
 - [Mars/Uranus = Kronos](../activations/mars-uranus-equals-kronos.md)
-- [Mars/Uranus = Apollon](../activations/mars-uranus-equals-apollon.md)
-- [Mars/Uranus = Admetos](../activations/mars-uranus-equals-admetos.md)
-- [Mars/Uranus = Vulcanus](../activations/mars-uranus-equals-vulcanus.md)
+- [Mars/Uranus = MC](../activations/mars-uranus-equals-mc.md)
+- [Mars/Uranus = Mercury](../activations/mars-uranus-equals-mercury.md)
+- [Mars/Uranus = Moon](../activations/mars-uranus-equals-moon.md)
+- [Mars/Uranus = Neptune](../activations/mars-uranus-equals-neptune.md)
+- [Mars/Uranus = Node](../activations/mars-uranus-equals-node.md)
+- [Mars/Uranus = Pluto](../activations/mars-uranus-equals-pluto.md)
 - [Mars/Uranus = Poseidon](../activations/mars-uranus-equals-poseidon.md)
+- [Mars/Uranus = Saturn](../activations/mars-uranus-equals-saturn.md)
+- [Mars/Uranus = Sun](../activations/mars-uranus-equals-sun.md)
+- [Mars/Uranus = Venus](../activations/mars-uranus-equals-venus.md)
+- [Mars/Uranus = Vernal Point](../activations/mars-uranus-equals-vernal-point.md)
+- [Mars/Uranus = Vulcanus](../activations/mars-uranus-equals-vulcanus.md)
+- [Mars/Uranus = Zeus](../activations/mars-uranus-equals-zeus.md)
 
 ## Contradictions
 
@@ -215,6 +268,9 @@ Muscle spasms; rapidly fluctuating energy levels; deafness from exposure to nois
 - [Mars](../factors/mars.md)
 - [Uranus](../factors/uranus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

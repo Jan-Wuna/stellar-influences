@@ -11,28 +11,29 @@ normalized_axis: Node/MC
 factor_a: Node
 factor_b: MC
 related_activations:
-  - Node/MC = Aries
+  - Node/MC = Admetos
+  - Node/MC = Apollon
   - Node/MC = Asc
-  - Node/MC = Sun
-  - Node/MC = Moon
-  - Node/MC = Mercury
-  - Node/MC = Venus
-  - Node/MC = Mars
-  - Node/MC = Jupiter
-  - Node/MC = Saturn
-  - Node/MC = Uranus
-  - Node/MC = Neptune
-  - Node/MC = Pluto
+  - Node/MC = Chiron
   - Node/MC = Cupido
   - Node/MC = Hades
-  - Node/MC = Zeus
+  - Node/MC = Jupiter
   - Node/MC = Kronos
-  - Node/MC = Apollon
-  - Node/MC = Admetos
-  - Node/MC = Vulcanus
+  - Node/MC = Mars
+  - Node/MC = Mercury
+  - Node/MC = Moon
+  - Node/MC = Neptune
+  - Node/MC = Pluto
   - Node/MC = Poseidon
+  - Node/MC = Saturn
+  - Node/MC = Sun
+  - Node/MC = Uranus
+  - Node/MC = Venus
+  - Node/MC = Vernal Point
+  - Node/MC = Vulcanus
+  - Node/MC = Zeus
 related_triad_hubs:
-  - Aries Node MC
+  - Chiron Node MC
   - Jupiter Node MC
   - Mars Node MC
   - Mercury Node MC
@@ -52,10 +53,14 @@ related_triad_hubs:
   - Sun Node MC
   - Uranus Node MC
   - Venus Node MC
+  - Vernal Point Node MC
 aliases:
   - MC/Node
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -70,12 +75,59 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Node`
-- Source page: `61`
+- Source heading: `Dragon's Head/Medium Coeli`
+- Source page: `303`
 
 #### Pair Summary
 
 Soul mates. One s close personal connections. Contacts in profession. Inner or emotional bonds. The moment (minute) of contact. The moment of connection.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Dragon's Head/Medium Coeli`
+- Source page: `303`
+
+#### Principle
+
+Individual relationships.
+
+#### Psychological Correspondence
+
++ Desire to seek people with the same ideas as oneself, enthusiasm for joint ideals and aspirations, tendency to lay stress on inner understanding as regards one's personal relationships with others. - Inconstancy in the pursuit of joint objectives. Inclination to differ from other people and show it. Placing one's own personal interests and objectives above those of the community or the group to which one belongs. C Desire for individual associations.
+
+#### Biological Correspondence
+
+The sidereal or astral body and ego-consciousness. The psychic or inner stress of the soul. (The half-sum Dragon's Head/Medium Coeli indicates in what manner the position of the Moon in the chart will be utilized personally.)
+
+#### Sociological Correspondence
+
+Associations of people with the same interests. Friends with the same outlook on life.
+
+#### Probable Manifestations
+
++ Establishment of an association for the attainment of joint objectives. Unions based on a mutual inner understanding. - Cropping up of difficulties in the pursuit of joint and common interests between people. Dragon's Head/Medium Coeli ^/M
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Node/Midheaven midpoint`
+- Source page: `120`
+
+#### Principle
+
+Old ways of relating to and being in the world vs. new ways of doing so. The evolution of one’s link to spiritual energies and of one’s spiritual awareness. Connecting to one’s spiritual self. Negatively this combination may represent the tendency to fall back on limited notions about spirituality, and, out of fear, to seek limited and superfi cial security rather than growth.
+
+#### Process
+
+The letting go of old worn-out forms of security and the adopting of new ones. The growth of one’s positive and supportive relationship to authorities and authority fig ures, and the letting go of biases and limited concepts one no longer needs.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Nodes/Midheaven`
+- Source page: `213`
+
+#### Pair Delineation
+
+To take the initiative in meeting someone, to establish a connection. Groups or meetings that affect one's life course. The ability to become part of a functioning group of people.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -120,26 +172,27 @@ Psychological coping or adaptation with your roots or origins; encounters with t
 
 ## Related Activations
 
-- [Node/MC = Aries](../activations/node-mc-equals-aries.md)
+- [Node/MC = Admetos](../activations/node-mc-equals-admetos.md)
+- [Node/MC = Apollon](../activations/node-mc-equals-apollon.md)
 - [Node/MC = Asc](../activations/node-mc-equals-asc.md)
-- [Node/MC = Sun](../activations/node-mc-equals-sun.md)
-- [Node/MC = Moon](../activations/node-mc-equals-moon.md)
-- [Node/MC = Mercury](../activations/node-mc-equals-mercury.md)
-- [Node/MC = Venus](../activations/node-mc-equals-venus.md)
-- [Node/MC = Mars](../activations/node-mc-equals-mars.md)
-- [Node/MC = Jupiter](../activations/node-mc-equals-jupiter.md)
-- [Node/MC = Saturn](../activations/node-mc-equals-saturn.md)
-- [Node/MC = Uranus](../activations/node-mc-equals-uranus.md)
-- [Node/MC = Neptune](../activations/node-mc-equals-neptune.md)
-- [Node/MC = Pluto](../activations/node-mc-equals-pluto.md)
+- [Node/MC = Chiron](../activations/node-mc-equals-chiron.md)
 - [Node/MC = Cupido](../activations/node-mc-equals-cupido.md)
 - [Node/MC = Hades](../activations/node-mc-equals-hades.md)
-- [Node/MC = Zeus](../activations/node-mc-equals-zeus.md)
+- [Node/MC = Jupiter](../activations/node-mc-equals-jupiter.md)
 - [Node/MC = Kronos](../activations/node-mc-equals-kronos.md)
-- [Node/MC = Apollon](../activations/node-mc-equals-apollon.md)
-- [Node/MC = Admetos](../activations/node-mc-equals-admetos.md)
-- [Node/MC = Vulcanus](../activations/node-mc-equals-vulcanus.md)
+- [Node/MC = Mars](../activations/node-mc-equals-mars.md)
+- [Node/MC = Mercury](../activations/node-mc-equals-mercury.md)
+- [Node/MC = Moon](../activations/node-mc-equals-moon.md)
+- [Node/MC = Neptune](../activations/node-mc-equals-neptune.md)
+- [Node/MC = Pluto](../activations/node-mc-equals-pluto.md)
 - [Node/MC = Poseidon](../activations/node-mc-equals-poseidon.md)
+- [Node/MC = Saturn](../activations/node-mc-equals-saturn.md)
+- [Node/MC = Sun](../activations/node-mc-equals-sun.md)
+- [Node/MC = Uranus](../activations/node-mc-equals-uranus.md)
+- [Node/MC = Venus](../activations/node-mc-equals-venus.md)
+- [Node/MC = Vernal Point](../activations/node-mc-equals-vernal-point.md)
+- [Node/MC = Vulcanus](../activations/node-mc-equals-vulcanus.md)
+- [Node/MC = Zeus](../activations/node-mc-equals-zeus.md)
 
 ## Contradictions
 
@@ -155,4 +208,7 @@ Psychological coping or adaptation with your roots or origins; encounters with t
 - [Node](../factors/node.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

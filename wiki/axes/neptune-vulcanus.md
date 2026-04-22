@@ -11,7 +11,7 @@ normalized_axis: Neptune/Vulcanus
 factor_a: Neptune
 factor_b: Vulcanus
 related_activations:
-  - Neptune/Vulcanus = Aries
+  - Neptune/Vulcanus = Vernal Point
   - Neptune/Vulcanus = MC
   - Neptune/Vulcanus = Asc
   - Neptune/Vulcanus = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Neptune/Vulcanus = Admetos
   - Neptune/Vulcanus = Poseidon
 related_triad_hubs:
-  - Aries Neptune Vulcanus
   - Jupiter Neptune Vulcanus
   - Mars Neptune Vulcanus
   - Mercury Neptune Vulcanus
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Neptune Vulcanus
   - Uranus Neptune Vulcanus
   - Venus Neptune Vulcanus
+  - Vernal Point Neptune Vulcanus
 aliases:
   - Vulcanus/Neptune
 source_pages:
@@ -85,7 +85,7 @@ Sensibility. Power one cannot hear or see. The might of the fine material forces
 
 ## Related Activations
 
-- [Neptune/Vulcanus = Aries](../activations/neptune-vulcanus-equals-aries.md)
+- [Neptune/Vulcanus = Vernal Point](../activations/neptune-vulcanus-equals-vernal-point.md)
 - [Neptune/Vulcanus = MC](../activations/neptune-vulcanus-equals-mc.md)
 - [Neptune/Vulcanus = Asc](../activations/neptune-vulcanus-equals-asc.md)
 - [Neptune/Vulcanus = Sun](../activations/neptune-vulcanus-equals-sun.md)

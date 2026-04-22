@@ -3,10 +3,10 @@ title: Neptune/Node = Saturn
 page_type: activation
 slug: neptune-node-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Neptune
+  - Node
   - Saturn
 normalized_formula: Neptune/Node = Saturn
 axis: Neptune/Node
@@ -15,10 +15,13 @@ triad_set:
   - Saturn
   - Neptune
   - Node
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Losses because of separations. Tied for good to something very disagreeable.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Neptune/Dragon's Head`
+- Source page: `284`
+- Entry: `1017`
+
+#### Ebertin Entry
+
+Demonstration of emotional inhibitions when in contact with others. Disadvantages or painful and grievous losses through associations with others, separation through deceit, perfidy or untruthfulness. Emotional suffering caused through a partner.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Neptune/Node midpoint`
+- Source page: `111`
+- Activator: `Saturn`
+
+#### Sandbach Entry
+
+To feel oppressed by others but to not know why. This is probably due to an over-sensitivity and an extreme of psychic receptiveness when one connects to others, and can cause seemingly irrational fears to arise from one’s connections. The need to listen to the guidance of one’s inner voice, but potential difficulty or uncertainty in doing so.
+
 ## Comparative Schema
 
-- core meaning: Losses because of separations. Tied for good to something very disagreeable.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Losses because of separations. Tied for good to something very disagreeable.
 - [Node](../factors/node.md)
 - [Saturn](../factors/saturn.md)
 - [Neptune/Node](../axes/neptune-node.md)
+- [Saturn Neptune Node](../triads/saturn-neptune-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

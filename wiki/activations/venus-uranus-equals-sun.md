@@ -3,7 +3,7 @@ title: Venus/Uranus = Sun
 page_type: activation
 slug: venus-uranus-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Uranus
@@ -15,10 +15,13 @@ triad_set:
   - Sun
   - Venus
   - Uranus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 Delicate feeling. To be loved suddenly. High minded love. Courtesy.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Uranus`
+- Source page: `185`
+- Entry: `0615`
+
+#### Ebertin Entry
+
+Emotional receptivity, intuition through feeling, a nature quickly aroused. The love adventures of the male.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Uranus midpoint`
+- Source page: `60`
+- Activator: `Sun`
+
+#### Sandbach Entry
+
+One feels it is important to relate to others in a free and open way. One long-range objectives are based on one’s own individual values, which may be quite different from mainstream ones.
+
 ## Comparative Schema
 
-- core meaning: Delicate feeling. To be loved suddenly. High minded love. Courtesy.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ Delicate feeling. To be loved suddenly. High minded love. Courtesy.
 - [Uranus](../factors/uranus.md)
 - [Sun](../factors/sun.md)
 - [Venus/Uranus](../axes/venus-uranus.md)
+- [Sun Venus Uranus](../triads/sun-venus-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

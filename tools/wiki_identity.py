@@ -4,7 +4,7 @@ from dataclasses import dataclass
 
 
 CANONICAL_FACTORS = (
-    "Aries",
+    "Vernal Point",
     "Sun",
     "Moon",
     "Mercury",
@@ -12,6 +12,7 @@ CANONICAL_FACTORS = (
     "Mars",
     "Jupiter",
     "Saturn",
+    "Chiron",
     "Uranus",
     "Neptune",
     "Pluto",
@@ -31,10 +32,11 @@ CANONICAL_FACTORS = (
 FACTOR_ORDER = {name: index for index, name in enumerate(CANONICAL_FACTORS)}
 
 FACTOR_ALIASES = {
-    "Aries": {
+    "Vernal Point": {
         "ar",
         "aries",
         "aries point",
+        "vp",
         "vernal point",
         "vernal point (aries point)",
         "vernal point (representing all the cardinal points)",
@@ -49,6 +51,7 @@ FACTOR_ALIASES = {
     "Mars": {"cf", "mars", "ma"},
     "Jupiter": {"if", "1|.", "jupiter", "ju"},
     "Saturn": {"f)", "saturn", "sa"},
+    "Chiron": {"ch", "chiron"},
     "Uranus": {"uranus", "ur"},
     "Neptune": {"neptune", "ne"},
     "Pluto": {"pluto", "pl"},
@@ -69,6 +72,7 @@ FACTOR_NAME_LOOKUP = {
 }
 
 ASTRONOMICON_TOKENS = {
+    "Vernal Point": "VP",
     "Sun": "S",
     "Moon": "R",
     "Mercury": "T",
@@ -157,6 +161,10 @@ def normalize_factor(name: str) -> FactorIdentity:
     )
 
 
+def factor_slug(name: str) -> str:
+    return normalize_factor(name).slug
+
+
 def normalize_axis(a: str, b: str) -> AxisIdentity:
     left = _clean_factor(a)
     right = _clean_factor(b)
@@ -204,6 +212,10 @@ def normalize_triad(factors: list[str] | tuple[str, ...]) -> TriadIdentity:
         factors=unique,
         orientations=tuple(sorted(orientations)),
     )
+
+
+def triad_slug(factors: list[str] | tuple[str, ...]) -> str:
+    return normalize_triad(factors).slug
 
 
 def triad_orientations(factors: list[str] | tuple[str, ...]) -> list[str]:

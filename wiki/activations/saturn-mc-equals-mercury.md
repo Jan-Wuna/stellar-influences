@@ -3,10 +3,10 @@ title: Saturn/MC = Mercury
 page_type: activation
 slug: saturn-mc-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Saturn
+  - MC
   - Mercury
 normalized_formula: Saturn/MC = Mercury
 axis: Saturn/MC
@@ -15,10 +15,13 @@ triad_set:
   - Mercury
   - Saturn
   - MC
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -38,18 +41,38 @@ updated_at: 2026-04-21
 
 To be sorrowful or brooding. To comprehend slowly. To subject oneself to thoughts of separation. To be obliged to separate.
 
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Saturn/Medium Coeli`
+- Source page: `263`
+- Entry: `0929`
+
+#### Ebertin Entry
+
+Indulging melancholy thoughts, unhappy experiences, concentrating on oneself, inclination to meditate or brood. Thoughts of separation, the moment of saying good-bye.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Saturn/Midheaven midpoint`
+- Source page: `95`
+- Activator: `Mercury`
+
+#### Sandbach Entry
+
+One aims for absolute ethicality in one’s thinking and communicating. One is uncertain about the rectitude of one’s ideas because one feels insecure about being one’s own authority.
+
 ## Comparative Schema
 
-- core meaning: To be sorrowful or brooding. To comprehend slowly. To subject oneself to thoughts of separation. To be obliged to separate.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this activation.
 
 ## Derived Synthesis
 
@@ -61,3 +84,7 @@ To be sorrowful or brooding. To comprehend slowly. To subject oneself to thought
 - [MC](../factors/mc.md)
 - [Mercury](../factors/mercury.md)
 - [Saturn/MC](../axes/saturn-mc.md)
+- [Mercury Saturn MC](../triads/mercury-saturn-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

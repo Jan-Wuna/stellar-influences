@@ -11,32 +11,33 @@ normalized_axis: Saturn/Uranus
 factor_a: Saturn
 factor_b: Uranus
 related_activations:
-  - Saturn/Uranus = Aries
-  - Saturn/Uranus = MC
+  - Saturn/Uranus = Admetos
+  - Saturn/Uranus = Apollon
   - Saturn/Uranus = Asc
-  - Saturn/Uranus = Sun
-  - Saturn/Uranus = Moon
-  - Saturn/Uranus = Node
-  - Saturn/Uranus = Mercury
-  - Saturn/Uranus = Venus
-  - Saturn/Uranus = Mars
-  - Saturn/Uranus = Jupiter
-  - Saturn/Uranus = Neptune
-  - Saturn/Uranus = Pluto
+  - Saturn/Uranus = Chiron
   - Saturn/Uranus = Cupido
   - Saturn/Uranus = Hades
-  - Saturn/Uranus = Zeus
+  - Saturn/Uranus = Jupiter
   - Saturn/Uranus = Kronos
-  - Saturn/Uranus = Apollon
-  - Saturn/Uranus = Admetos
-  - Saturn/Uranus = Vulcanus
+  - Saturn/Uranus = Mars
+  - Saturn/Uranus = MC
+  - Saturn/Uranus = Mercury
+  - Saturn/Uranus = Moon
+  - Saturn/Uranus = Neptune
+  - Saturn/Uranus = Node
+  - Saturn/Uranus = Pluto
   - Saturn/Uranus = Poseidon
+  - Saturn/Uranus = Sun
+  - Saturn/Uranus = Venus
+  - Saturn/Uranus = Vernal Point
+  - Saturn/Uranus = Vulcanus
+  - Saturn/Uranus = Zeus
 related_triad_hubs:
-  - Aries Saturn Uranus
   - Jupiter Saturn Uranus
   - Mars Saturn Uranus
   - Mercury Saturn Uranus
   - Moon Saturn Uranus
+  - Saturn Chiron Uranus
   - Saturn Uranus Admetos
   - Saturn Uranus Apollon
   - Saturn Uranus Asc
@@ -52,12 +53,16 @@ related_triad_hubs:
   - Saturn Uranus Zeus
   - Sun Saturn Uranus
   - Venus Saturn Uranus
+  - Vernal Point Saturn Uranus
 aliases:
   - Uranus/Saturn
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-04-22
 ---
@@ -78,6 +83,31 @@ updated_at: 2026-04-22
 #### Pair Summary
 
 Quarrels. Sudden separation. To part and die. To be separated suddenly. Surprising delay. Technical problems. Sudden disturbances. Disturbed rhythm. Sudden losses. Tension in old age. Technology in idle mode (standby, shut-down). Outdated technology.
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Saturn/Uranus`
+- Source page: `246`
+
+#### Principle
+
+Irritability and inhibition, tension.
+
+#### Psychological Correspondence
+
++ Ability to cope with every situation, power to pull through and to endure, perseverance and endurance, indefatigable, willpower, determination. - Unusual emotional tension or strain, irritability, emotional conflict, rebellion, urge for freedom, provocative conduct, act of violence. C A self-willed nature, tenacious and tough, obstinate, strong emotional tension or stress.
+
+#### Biological Correspondence
+
+Inhibition of rhythm, heart blockage, Cheyne-Stokes breathing. Unrhythmical processes. Sudden loss of limbs (a chronic illness in this sense); operations accompanied by the removal of something. (Removal of intestinal parts, spleen, amputation, etc.)
+
+#### Sociological Correspondence
+
+Violent people.
+
+#### Probable Manifestations
+
++ Growth of strength caused through overcoming difficulties, difficult but successful battles in life for the purpose of overcoming a dangerous situation. (Operation.) - Kicking against tutelage and against the limitation of freedom, tendency to cause unrest within one's environment, quarrels, separation, use of force, interventions in one's destiny, limitation of freedom. 53 For all combinations of the slower planets, an interpretation is only of importance if it has been brought out by other factors such as the personal points (Sun, Moon, MC, Asc.). Only in this case is an individual interpretation possible. Because of their slow motion, aspects between Saturn and Uranus can appear in charts for a whole year. One must therefore always keep this in mind and consider to what extent a combination has an individual value. The term "a powerful personality" can only be applied in certain cases. Saturn/Uranus V#
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -139,6 +169,28 @@ It cannot be denied that this configuration may bestow elements of genius, or at
 - The Conjunction: Joseph Smith (Mormon), Lord Leverhulme, Disraeli, George Bidder, Amelia Earhart (flew Atlantic).
 - Inharmonious: Alexander II of Russia, George Eliot, Ruskin, Goethe, Thomas Hardy, Charles I
 
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Saturn/Uranus midpoint`
+- Source page: `88`
+
+#### Principle
+
+The tension between old, established patterns, and new ways of being. The desire to be safe, orderly and organized conflicting with the desire to experiment and try different things. This combination signifies the need to take your own unique abilities and gifts seriously. It can bring the urge to break out of old programming and restrictions but also feeling a fear of doing so. It can also mean flashes of insight into what is wrong, and, potentially, receiving inspirations as to how to fix it.
+
+#### Process
+
+The gaining of insights into one’s limitations. The realization of the true meaning of freedom and independence. The deeper spiritual implications of all those qualities which make one a unique individual.
+
+### Robert Hand - Horoscope Symbols
+
+- Source heading: `Saturn/Uranus`
+- Source page: `210`
+
+#### Pair Delineation
+
+Tension between restriction and the desire for freedom. Tension in general, often leading to sudden breaks or separations from people or circumstances that have proved restrictive. If controlled, the ability to persist under extremely tense and difficult conditions. Also, the ability to change or innovate in a disciplined manner. Associated with teaching.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `SATURN/URANUS`
@@ -182,26 +234,27 @@ Calcium deposits which arise from nervousness or reactions to stress; arthritis 
 
 ## Related Activations
 
-- [Saturn/Uranus = Aries](../activations/saturn-uranus-equals-aries.md)
-- [Saturn/Uranus = MC](../activations/saturn-uranus-equals-mc.md)
+- [Saturn/Uranus = Admetos](../activations/saturn-uranus-equals-admetos.md)
+- [Saturn/Uranus = Apollon](../activations/saturn-uranus-equals-apollon.md)
 - [Saturn/Uranus = Asc](../activations/saturn-uranus-equals-asc.md)
-- [Saturn/Uranus = Sun](../activations/saturn-uranus-equals-sun.md)
-- [Saturn/Uranus = Moon](../activations/saturn-uranus-equals-moon.md)
-- [Saturn/Uranus = Node](../activations/saturn-uranus-equals-node.md)
-- [Saturn/Uranus = Mercury](../activations/saturn-uranus-equals-mercury.md)
-- [Saturn/Uranus = Venus](../activations/saturn-uranus-equals-venus.md)
-- [Saturn/Uranus = Mars](../activations/saturn-uranus-equals-mars.md)
-- [Saturn/Uranus = Jupiter](../activations/saturn-uranus-equals-jupiter.md)
-- [Saturn/Uranus = Neptune](../activations/saturn-uranus-equals-neptune.md)
-- [Saturn/Uranus = Pluto](../activations/saturn-uranus-equals-pluto.md)
+- [Saturn/Uranus = Chiron](../activations/saturn-uranus-equals-chiron.md)
 - [Saturn/Uranus = Cupido](../activations/saturn-uranus-equals-cupido.md)
 - [Saturn/Uranus = Hades](../activations/saturn-uranus-equals-hades.md)
-- [Saturn/Uranus = Zeus](../activations/saturn-uranus-equals-zeus.md)
+- [Saturn/Uranus = Jupiter](../activations/saturn-uranus-equals-jupiter.md)
 - [Saturn/Uranus = Kronos](../activations/saturn-uranus-equals-kronos.md)
-- [Saturn/Uranus = Apollon](../activations/saturn-uranus-equals-apollon.md)
-- [Saturn/Uranus = Admetos](../activations/saturn-uranus-equals-admetos.md)
-- [Saturn/Uranus = Vulcanus](../activations/saturn-uranus-equals-vulcanus.md)
+- [Saturn/Uranus = Mars](../activations/saturn-uranus-equals-mars.md)
+- [Saturn/Uranus = MC](../activations/saturn-uranus-equals-mc.md)
+- [Saturn/Uranus = Mercury](../activations/saturn-uranus-equals-mercury.md)
+- [Saturn/Uranus = Moon](../activations/saturn-uranus-equals-moon.md)
+- [Saturn/Uranus = Neptune](../activations/saturn-uranus-equals-neptune.md)
+- [Saturn/Uranus = Node](../activations/saturn-uranus-equals-node.md)
+- [Saturn/Uranus = Pluto](../activations/saturn-uranus-equals-pluto.md)
 - [Saturn/Uranus = Poseidon](../activations/saturn-uranus-equals-poseidon.md)
+- [Saturn/Uranus = Sun](../activations/saturn-uranus-equals-sun.md)
+- [Saturn/Uranus = Venus](../activations/saturn-uranus-equals-venus.md)
+- [Saturn/Uranus = Vernal Point](../activations/saturn-uranus-equals-vernal-point.md)
+- [Saturn/Uranus = Vulcanus](../activations/saturn-uranus-equals-vulcanus.md)
+- [Saturn/Uranus = Zeus](../activations/saturn-uranus-equals-zeus.md)
 
 ## Contradictions
 
@@ -217,6 +270,9 @@ Calcium deposits which arise from nervousness or reactions to stress; arthritis 
 - [Saturn](../factors/saturn.md)
 - [Uranus](../factors/uranus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

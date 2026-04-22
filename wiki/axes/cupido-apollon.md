@@ -11,7 +11,7 @@ normalized_axis: Cupido/Apollon
 factor_a: Cupido
 factor_b: Apollon
 related_activations:
-  - Cupido/Apollon = Aries
+  - Cupido/Apollon = Vernal Point
   - Cupido/Apollon = MC
   - Cupido/Apollon = Asc
   - Cupido/Apollon = Sun
@@ -32,7 +32,6 @@ related_activations:
   - Cupido/Apollon = Vulcanus
   - Cupido/Apollon = Poseidon
 related_triad_hubs:
-  - Aries Cupido Apollon
   - Asc Cupido Apollon
   - Cupido Apollon Admetos
   - Cupido Apollon Poseidon
@@ -52,6 +51,7 @@ related_triad_hubs:
   - Sun Cupido Apollon
   - Uranus Cupido Apollon
   - Venus Cupido Apollon
+  - Vernal Point Cupido Apollon
 aliases:
   - Apollon/Cupido
 source_pages:
@@ -85,7 +85,7 @@ Multiplying. Expansion or extension of a community. Widespread artistic or scien
 
 ## Related Activations
 
-- [Cupido/Apollon = Aries](../activations/cupido-apollon-equals-aries.md)
+- [Cupido/Apollon = Vernal Point](../activations/cupido-apollon-equals-vernal-point.md)
 - [Cupido/Apollon = MC](../activations/cupido-apollon-equals-mc.md)
 - [Cupido/Apollon = Asc](../activations/cupido-apollon-equals-asc.md)
 - [Cupido/Apollon = Sun](../activations/cupido-apollon-equals-sun.md)

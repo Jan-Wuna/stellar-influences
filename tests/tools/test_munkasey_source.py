@@ -42,3 +42,19 @@ def test_munkasey_parser_extracts_venus_saturn_concepts_page():
         "Stable Affections",
         "A Serious Artist",
     )
+
+
+def test_munkasey_parser_covers_all_78_pairs():
+    blocks = generate_models(SOURCE_PATH)
+    assert len(blocks) == 78
+    assert blocks[0].source_heading == "SUN/MOON"
+    assert blocks[-1].source_heading == "ASCENDANT/MIDHEAVEN"
+
+
+def test_munkasey_parser_never_leaks_page_four_mwa_text_into_concepts():
+    blocks = generate_models(SOURCE_PATH)
+    all_concepts = "\n".join(item for block in blocks for item in block.concepts)
+    assert "STRONG:" not in all_concepts
+    assert "WEAK:" not in all_concepts
+    assert "EVENTS:" not in all_concepts
+    assert "Significant Examples of People and Events" not in all_concepts

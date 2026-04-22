@@ -57,7 +57,8 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - michelle-falis-planet-combinations-astrological-brainstorms
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -86,14 +87,46 @@ Fortunate development, change or transformation. Healthy growth. Currency Exchan
 
 Wielding power. Huge resources. Capacity for enormous wealth. The ability to gen erate abundance. The power of abundance. Digging really deep. Expanded power. People who hold a lot of power. Big and powerful. Too big to fail. Big government. Luck through big government. Luck through mining. Diamonds. The pressure of being wealthy. The power of the wealthy. Controlling fortunes. Playing in the big leagues. Monopolies. Power players. Philosophies of power. A lot of waste. Wealth from recycling. Wealth from things that are buried. One man's trash is another man's treasure. People who love flea markets, pawn shops, antiquing or thrift store shopping. Finding the good in what has been discarded. Treasure hunts. Scav enger hunts. Muckrakers. Compulsive gambling. Compulsive risk-takers. Taking risks in investing. The underside of gambling. Life or death gambles. Russian roulette. Power through try ing your luck. Luck through exploring the taboo. Turning something positive into something twisted and in need of transformation. Turning something destructive into something positive and supportive. Intrepid explorers and risk-takers. Feeling that powerful forces oppose you and prevent you from being prosperous. Having an overwhelming number of secrets or skeletons in the closet. Outrageously para noid. Suspicion out of proportion to real events. Out of control obsession. Ridicu lous jealousy. Overwhelmingly intense. Incredibly wasteful. Keeping humor and faith in times of turmoil. Joyful in the face of death. Having an optimistic attitude toward inevitable change. Lightness and darkness. Out of whack survival instincts. Philosophies of survival. Survivalists. Stockpiling survival gear and other necessities. Hoarding things you think you need. Overstating the amount of pain you experience. Blowing your pain out of proportion to reality. Making everything into a huge crisis. Enormous pain and the need for catharsis. Appetite for destruction. Hidden benefactors. Powerful benefactors. Powerful supporters. Overwhelming support. Titanic power struggles. Excessive destruction. Exaggerated sexual ap petites. Enormous crisis. The power of God. God complex. Overbearing moral atti tudes. Death and destruction in the name of your God. Obsessed with religion. Forcing your moral authority. Attempting to control others through your rela tionship with a higher power. Obsessed with being right. Corrupt morals. Finding healing through religion. Transforming your life through a relationship with a high er power. Uncovering your inner wisdom. Penetrating wisdom. Depth of under standing. Joy and pain. The power of the positive. Deep resources of optimism and joy in times of hardship. The faith that the bad times will end and you can start over. Sticking to your principles even under extreme duress. Thriving under enormous pressure. Understanding the meaning of power and influence. Obsessed with education and learning. Knowledge is power. Life-transforming journeys. Traveling through harsh conditions. Interactions with foreign people that cause you to overhaul your life. Power struggles abroad. The power of being bigger. Obsessed with being bigger physically, mentally, emotionally or spiritually. Pumping up. Wanting to dominate a particular sphere of influence. Conceited about the amount of power you have. Arrogant about the power you wield. Making a big display of your power. Enor mous transformations. Huge upheavals. Binging and purging. Taking in too much then near self-destruction trying to get rid of it. Powerful desire for excess. More is more. Wanting to experience everything - the highest highs and lowest lows. At tempting to fill a void that can never be filled.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `JUPITER/PLUTO`
+- Source page: `267`
+
+#### Basic Ideas
+
+These themes symbolize developing understanding about and involvement with extremes (of anything), such as the correction of unbearable conditions, the cleansing of impurities, or the use of force. Your beliefs in using sex as a form of service, or using people in ways that degrade their self-image or force them to be viewed as objects instead of humans, may also begin here. These planets impel you to reach for great public renown, and also to use your official powers and connections to attain added personal prestige and recognition. They help increase your reputation for generosity in helping disadvantaged persons (especially those willing to help themselves) or in helping groups work to rehabilitate drug users, the terminally ill, feed the hungry, etc. You may find success by surmounting bad habits acquired in the past, such as obsessions or fetishes which control parts of your life.
+
+#### In Your Personal Life
+
+- Thesis: You have a need for power and control over others, but are able to keep this obsession within socially acceptable bounds; you use your position to make your opinions known, and to help disadvantaged persons.
+- Anti: You find it easy to use and discard people; your need for power grows to become an obsession; you are quick to destroy anything that lies in your way to gain; you enjoy corrupting the morals and ethics of others.
+
+#### In Your Relationships
+
+- Thesis: Outdoor activities, travel, and adventure play a big part in the way you relate to others; you like a partner who shares mutual interests; you have needs to be noticed with others by society and the influential.
+- Anti: You find it easy to use and then to discard potential partners; a ruthlessness may find its way into your social priorities; you do not hesitate to use force, or threats to keep your partner under personal control.
+
+#### With Body or Mind
+
+Primary cancer indicator; tends to accumulate fat and poisons in the body; inefficiencies in the elimination system; breakdown of cells from bad eating habits.
+
+#### In Politics or Business
+
+- Thesis: Relations or pacts with foreigners on the use of force or weapons; the growth of security or spy agencies; greater powers for religious leaders; a society which wields much influence; extreme depletion of resources.
+- Anti: Self-destructive forces which stem from official corruption or moral laxity within society; extremely potent natural disasters; criminal elements with great social influence; destruction of legal documents.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Jupiter/Pluto Concepts](../derived/munkasey-jupiter-pluto-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: source-native Witte and Falis axis statements are preserved side by side above.
-- psychology: Falis leans more heavily into experiential and psychological phrasing, while Witte stays compressed and aphoristic.
-- body/health: no dedicated body or health subsection is isolated by either source on this axis page.
-- social/relationship: both sources keep interpersonal implications inside the axis entry itself when relevant.
-- events/manifestations: see the source entries above and the orientation-specific activation pages linked below; Falis remains axis-only here.
-- conflicts/notes: this page preserves distinct source voices side by side instead of flattening them into one wording.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -120,8 +153,8 @@ Wielding power. Huge resources. Capacity for enormous wealth. The ability to gen
 
 ## Contradictions
 
-- No direct contradiction is recorded yet between Witte and Falis on this axis.
-- Differences are currently treated as emphasis and vocabulary, not as silently merged doctrine.
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -133,3 +166,4 @@ Wielding power. Huge resources. Capacity for enormous wealth. The ability to gen
 - [Pluto](../factors/pluto.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

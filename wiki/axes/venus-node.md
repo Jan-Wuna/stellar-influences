@@ -3,7 +3,7 @@ title: Venus/Node
 page_type: axis
 slug: venus-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Node
@@ -56,32 +56,67 @@ aliases:
   - Node/Venus
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
 
 - Axis: `Venus/Node`
 - Astronomicon axis: `Q/g`
-- Source heading: `Node + Venus`
-- Source page: `142`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Node + Venus`
+- Source page: `142`
+
 #### Pair Summary
 
 Pleasant connection. Love unions. Love ties. Contacts with female persons. Contacts to a motherly and caring woman. Contacts of love. Relationships, contacts and connections, in the field of harmony, peace, beauty, fine arts, music, pleasure or taste.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `VENUS/NODE`
+- Source page: `211`
+
+#### Basic Ideas
+
+The pleasure and cooperation received from acquaintances made or associations joined is shown here. These themes emphasize the delight experienced in being with people who share similar interests, the satisfaction derived from attracting and finding people who can help you with your interests, and the satisfaction gotten from identifying and correctly following your life’s destiny. Any reimbursements delayed by bureaucratic shufflings, devotion given to groups with matching interests, and indulgence which arises from past habit patterns, also starts here. Affiliations with artistically creative persons, an ability to present yourself as a pacifist at meetings, presentations where recognition or monetary rewards for past activities is received, the use of bribes to acquire close access to others, and resentment over the conduct of meetings are also symbolized by these themes.
+
+#### In Your Personal Life
+
+- Thesis: The cooperation given or received at meetings with associates; the joy or delight experienced from associating with friends; meetings or exchanges with others with similar ideas; links to people with money.
+- Anti: Feelings that your contributions to others are not adequate enough; recognizing the support extended by your friends; jealousy over the recognition given to others; resentment over any lack of cooperation.
+
+#### In Your Relationships
+
+- Thesis: Attracting the right type of partner into your life, especially thru friends or groups; cooperation given to or received from those who try to help you; kindness from your associates; dating or friendship services.
+- Anti: Any misuse of the friendship offered by others; karma and destiny linked with another, but whose friendship you refuse to acknowledge; separations from people who have given you support and backing.
+
+#### With Body or Mind
+
+Your ability to relax with friends; associates who help you with your medical problems; muscle or ligament tears in the throat, larynx, or with the kidneys.
+
+#### In Politics or Business
+
+- Thesis: The role of society in shaping collective destiny; how social activities can help associations or treaties; the preference of leaders for alliances and treaties; cooperation given or received from like-minded friends.
+- Anti: An impetus where the social aspect of diplomacy outweighs the legislative; a desire to increase self worth before the eyes of others; wealth which leaves the enterprise due to poor management or bungling.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Venus/Node Concepts](../derived/munkasey-venus-node-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: Pleasant connection. Love unions. Love ties. Contacts with female persons. Contacts to a motherly and caring woman. Contacts of love. Relationships, contacts and connections, in the field of harmony, peace, beauty, fine arts, music, pleasure or taste.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -108,7 +143,8 @@ Pleasant connection. Love unions. Love ties. Contacts with female persons. Conta
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -119,3 +155,4 @@ Pleasant connection. Love unions. Love ties. Contacts with female persons. Conta
 - [Venus](../factors/venus.md)
 - [Node](../factors/node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

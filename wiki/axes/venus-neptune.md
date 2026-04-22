@@ -58,7 +58,8 @@ source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -156,14 +157,46 @@ There is often a tendency to experiment with diet and to practice vegetarianism,
 - The Conjunction: Victor Hugo, Valentino, S.T. Coleridge, Louis I of Bavaria (lost throne through infatuation for dancing girl), Swindenburne.
 - Inharmonious: Rider Haggard, W.B. Yeats, President Harding, the ex-Kaiser, Joseph Chamberlain, the poet Crabbe, Lord Roberts (lost son in Boer War), Marie Antoinette, Edgar Allan Poe.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `VENUS/NEPTUNE`
+- Source page: `203`
+
+#### Basic Ideas
+
+These themes denote an appreciation of how dreams and visions can become the prototypes for future reality. You may feel delight in accomplishing a successful deception, gain enjoyment from the subtleness of creating beauty, or derive pleasure from the study and application of mysticism or magic. You may create subtle ways to display your jealousies, gain satisfaction from being evasive or illusive, and feel affection when you receive romantic gestures from another. These motifs may weaken your attempts at being more beautiful or lovely, bring confusion about using makeup or body ornaments, and help create false impressions about the admiration you show to others. You may be tempted to be lazy or indulge in pure sensual gratifications, earn appreciation from being more holy or obedient, delight in wearing creative disguises, or appease your yearnings for total personal freedom.
+
+#### In Your Personal Life
+
+- Thesis: Inspiration for creating new concepts in music or the arts; increased appreciation for subtle or devious means of enjoying reality; temptations to neglect resources; assets which are allowed to waste away.
+- Anti: Receiving pleasure when evading or deceiving others; added envy felt when another is more romantic; additional laxity or looseness as a part of your personality; pleasure derived from causing confusion or loss.
+
+#### In Your Relationships
+
+- Thesis: Increased appreciation for the quality of romance that a good partner can bring to you; compassion shown for those you love; romantic feelings of love from those close to you; idealized love feelings.
+- Anti: Deception thru romance; an imperfect understanding of romantic love; nebulous promises of affection become easier to believe and cling to; neglect of your partner’s satisfaction, or your partner neglects you.
+
+#### With Body or Mind
+
+Inner reactions to drugs; weakness in the kidneys or bladder; weakened senses in general; defects, poor storage, or chemicals which weaken blood supplies.
+
+#### In Politics or Business
+
+- Thesis: Appeals to the ideals of the people; an inflated treasury; use of inflation as a means for controlling or manipulating growth; wealth derived from gas, chemicals, or oil; exaggerates or misstates internal resources.
+- Anti: Scandals concerning the misuse of, or deceptive practices within, the treasury or internal resources; subversives who desire to gain access to finances; spies in the financial branches; monetary fraud; art deception.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Venus/Neptune Concepts](../derived/munkasey-venus-neptune-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: source-native Witte, Falis, and Carter statements are preserved side by side above on the same canonical axis page.
-- psychology: Witte remains compressed and aphoristic, Falis remains experiential, and Carter adds explicit aspect-family distinctions when the source supplies them.
-- body/health: Carter sometimes states health and bodily outcomes directly by aspect family; the other sources remain less sectioned here.
-- social/relationship: each source keeps interpersonal implications inside its own source block instead of being silently merged.
-- events/manifestations: Carter remains axis-level aspect doctrine only; activation pages stay orientation-specific and unchanged.
-- conflicts/notes: this page intentionally mixes midpoint-axis doctrine and Carter's planetary-aspect doctrine because Carter was approved for collapse into the canonical axis page.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -191,7 +224,7 @@ There is often a tendency to experiment with diet and to practice vegetarianism,
 ## Contradictions
 
 - No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices and aspect-family emphases rather than flattened into one wording.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -204,3 +237,4 @@ There is often a tendency to experiment with diet and to practice vegetarianism,
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

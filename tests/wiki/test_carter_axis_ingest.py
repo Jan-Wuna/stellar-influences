@@ -6,6 +6,7 @@ from tools.wiki_pages import load_page
 CARTER_SLUG = "charles-carter-the-astrological-aspects"
 FALIS_SLUG = "michelle-falis-planet-combinations-astrological-brainstorms"
 WITTE_SLUG = "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures"
+MUNKASEY_SLUG = "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
 
 
 def test_carter_source_page_exists():
@@ -24,6 +25,7 @@ def test_sun_moon_axis_includes_carter_family_headings():
         WITTE_SLUG,
         FALIS_SLUG,
         CARTER_SLUG,
+        MUNKASEY_SLUG,
     ]
     assert "### Charles Carter - The Astrological Aspects" in page.body
     assert "#### Pair Overview" in page.body
@@ -40,6 +42,7 @@ def test_mercury_venus_axis_includes_carter_nonstandard_examples():
         WITTE_SLUG,
         FALIS_SLUG,
         CARTER_SLUG,
+        MUNKASEY_SLUG,
     ]
     assert "### Charles Carter - The Astrological Aspects" in page.body
     assert "#### Pair Overview" in page.body

@@ -3,7 +3,7 @@ title: Uranus/Node
 page_type: axis
 slug: uranus-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Node
@@ -56,32 +56,67 @@ aliases:
   - Node/Uranus
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
 
 - Axis: `Uranus/Node`
 - Astronomicon axis: `X/g`
-- Source heading: `Node + Uranus`
-- Source page: `146`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Node + Uranus`
+- Source page: `146`
+
 #### Pair Summary
 
 Sudden events. Exciting connections. Sudden union, connections, encounters or contacts. Unconventional connections. Technical connections, e.g. network nodes, electrical or electronic connectors.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `URANUS/NODE`
+- Source page: `315`
+
+#### Basic Ideas
+
+These themes combine your needs for expressing unexpected thoughts as well as meeting new people by offering opportunities to effect unusual or unforeseen alliances with others. You may gain some insight into how and why others form relationships, or how the cosmic process of attraction between people works. When you need certain people to appear in your life this combination helps you create the right external circumstances for this to happen. People who share unconventional views like yours, or others you meet who have similar insights into new ways of doing things are described here. Meetings with scientific or computer groups, and an urge to share insight into or study astrology with friends, are also shown here, as is any fuss you experience or initiate at meetings. You become more aware of sexual, intuitive, or former life bonding to others thru the effects of these motifs.
+
+#### In Your Personal Life
+
+- Thesis: People you meet suddenly or unexpectedly who share a similar destiny; the peculiar or unique abilities you have for attracting friends; how others contact you about changing life’s various situations around you.
+- Anti: The disruptions you cause to others because you are not happy with the present status within groups you associate with; your indifference to the help others are able to give you toward effecting your destiny.
+
+#### In Your Relationships
+
+- Thesis: Attracting people who have an astrological or scientific bent; unpredictable outcomes to chance meetings with others; enhances your ability for sexual contact with people who share similar interests.
+- Anti: Your inability to use the information and assistance which you receive from others who offer you their advice; indifference to sexual advances offered to you; any unpredictable behavior during friendly encounters.
+
+#### With Body or Mind
+
+Sudden onset of complications due to stress in life; deafness as you close out any assistance from others; unusual social diseases or behavior; nerve blockage.
+
+#### In Politics or Business
+
+- Thesis: The changes which accompany new efforts to alter the direction of events; alliances which follow revolution or unexpected changes in leadership; help from others who assist with modernization activities.
+- Anti: Treaties for modernizing facilities which benefits another more; revolution for the effecting of popular changes; a society which does not appreciate modernizing; business changes which evolve with society.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Uranus/Node Concepts](../derived/munkasey-uranus-node-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: Sudden events. Exciting connections. Sudden union, connections, encounters or contacts. Unconventional connections. Technical connections, e.g. network nodes, electrical or electronic connectors.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -108,7 +143,8 @@ Sudden events. Exciting connections. Sudden union, connections, encounters or co
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -119,3 +155,4 @@ Sudden events. Exciting connections. Sudden union, connections, encounters or co
 - [Uranus](../factors/uranus.md)
 - [Node](../factors/node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

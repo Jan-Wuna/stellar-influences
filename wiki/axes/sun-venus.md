@@ -58,7 +58,8 @@ source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -117,14 +118,46 @@ In the maps of rulers it seems to denote restless and disloyal subjects and unfo
 - The Conjunction: President Loubet, Hindenburg, Dr. Annie Besant, P.B. Shelley, A.J. Balfour, G.B. Shaw, Lord Leverhulme, Chopin, Domitian, Marie Antoinette.
 - Semi-Square: Lord Oxford (N.H. Asquith), Alfonso XIII, William of Orange, Czar Nicholas II, Adeline Patti, J.M. Barrie, William II of Germany.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `SUN/VENUS`
+- Source page: `63`
+
+#### Basic Ideas
+
+This combination symbolizes developing and enhancing your appreciation and gratitude toward those things, people, and opportunities which come into your life. These points also include the sincerity behind your love and affection, developing your capacity for devotion and fondness, and further developing your social grace, manners, charm, and culture. Cooperation, calmness, gratitude, and refinement are integrated into your fundamental forms of expression, and you spend much effort in focusing your will on showing charm, affection, regard, and lovingness toward others. The pleasure you get from playful activity with others, the delight you feel returned when others appreciate what you do for them, and the satisfaction in seeing yourself develop grace and culture begin here. These themes also enhance your regard for beauty and peace, but can stimulate jealousy against others.
+
+#### In Your Personal Life
+
+- Thesis: Concentrating on developing grace, charm, appreciation and consideration for the needs of others; appreciation of the role of beauty and love in life; feeling pleasure when others value what you do for them.
+- Anti: Developing a flawed charisma because you lack honest and sincerity in your appreciation of others; your purpose in giving affection to others is faulty as you seek material things in return for your qualified love.
+
+#### In Your Relationships
+
+- Thesis: Putting additional effort into being sincere and direct about your feelings; valuing honesty and openness in your relationships, and expecting the love you give to returned equally in kind from others.
+- Anti: Sensing some superficiality and a lack of sincerity in the way you or your partner care for each other; developing a relationship based on value and material goals rather than on love, affection, or pleasure.
+
+#### With Body or Mind
+
+Your attitude toward health and your body, in general; your thyroid’s ability to function; infections which affect taste, smell, etc.; the condition of your kidneys.
+
+#### In Politics or Business
+
+- Thesis: Using the wealth available to a nation or business to sustain its image or authority; how a society shapes the direction of its growth; the nature of reserves, resources, and the role they play in development.
+- Anti: A leadership which doesn’t appreciate the role that art or culture plays in developing the character or identity; a society which is estranged from its leadership; little development of artistic or musical heritage.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Sun/Venus Concepts](../derived/munkasey-sun-venus-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: source-native Witte, Falis, and Carter statements are preserved side by side above on the same canonical axis page.
-- psychology: Witte remains compressed and aphoristic, Falis remains experiential, and Carter adds explicit aspect-family distinctions when the source supplies them.
-- body/health: Carter sometimes states health and bodily outcomes directly by aspect family; the other sources remain less sectioned here.
-- social/relationship: each source keeps interpersonal implications inside its own source block instead of being silently merged.
-- events/manifestations: Carter remains axis-level aspect doctrine only; activation pages stay orientation-specific and unchanged.
-- conflicts/notes: this page intentionally mixes midpoint-axis doctrine and Carter's planetary-aspect doctrine because Carter was approved for collapse into the canonical axis page.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -152,7 +185,7 @@ In the maps of rulers it seems to denote restless and disloyal subjects and unfo
 ## Contradictions
 
 - No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices and aspect-family emphases rather than flattened into one wording.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -165,3 +198,4 @@ In the maps of rulers it seems to denote restless and disloyal subjects and unfo
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

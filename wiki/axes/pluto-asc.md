@@ -3,7 +3,7 @@ title: Pluto/Asc
 page_type: axis
 slug: pluto-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Asc
@@ -56,32 +56,67 @@ aliases:
   - Asc/Pluto
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
 
 - Axis: `Pluto/Asc`
 - Astronomicon axis: `Z/Asc`
-- Source heading: `Asc + Pluto`
-- Source page: `90`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Asc + Pluto`
+- Source page: `90`
+
 #### Pair Summary
 
 Other people are changeable. Changes in relation to others. Changes at the place. Moving from residence. Changes in connections with different people. To be transient in a place. Changes of the immediate environment.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `PLUTO/ASCENDANT`
+- Source page: `347`
+
+#### Basic Ideas
+
+This combination helps you strengthen your mental intensity and focus and increase your concentration and attention on matters important to you, while helping you ignore any irrelevant disturbances. They help enhance your powers of insight and observation about the nature or character of others, and lend your demeanor a look of penetration and intensity. They urge you to always act as you see fit and you may spend much time wringing pain from your inner self for errors you made or inappropriate activities done. Your obsession with the roles and needs of others is heightened, and they help bring a sexual and passionate mannerism to the way you show attention to others. These themes help you excel at observing other people and situations, and also prompt you bring logical order to situations. They increase your need for controlling the feelings and reactions of others.
+
+#### In Your Personal Life
+
+- Thesis: Reading and judging people’s reactions; a need for concentrating and observing all; noticing another’s mannerisms; understanding what others seek from socializing; researching psychological qualities.
+- Anti: Remaining in the background and observing the reactions of others; adds to already strong passions and feelings; conducting research and study as an emotional outlet; intense focus as a release from pressures.
+
+#### In Your Relationships
+
+- Thesis: Understanding the needs of your partner better and responding to these in a sexual and passionate manner; heightens the excitement and pleasure felt at being able to satisfy the another’s needs or passions.
+- Anti: Seeing that much of life is based upon sexual ability and you incline to judge others in this way; hiding your feelings and covering them with sexual identity; repressing your inner feelings about your relationship.
+
+#### With Body or Mind
+
+Endocrine and pituitary gland functions; reactions toxic or waste matter in the environment; exposure to viral or bacterial elements; waste or vermin nearby.
+
+#### In Politics or Business
+
+- Thesis: The identification and reversal of potentially destructive ideas or attitudes; focusing consciousness on elements intending to do harm to others; inspection of waste disposal procedures; space colonization.
+- Anti: Introducing immoral or profiteering ways into practice; natural disasters which strike without warning; serious psychotic or self-destructive reactions; global trends for the environment, pollution, or poisons.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Pluto/Asc Concepts](../derived/munkasey-pluto-asc-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: Other people are changeable. Changes in relation to others. Changes at the place. Moving from residence. Changes in connections with different people. To be transient in a place. Changes of the immediate environment.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -108,7 +143,8 @@ Other people are changeable. Changes in relation to others. Changes at the place
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -119,3 +155,4 @@ Other people are changeable. Changes in relation to others. Changes at the place
 - [Pluto](../factors/pluto.md)
 - [Asc](../factors/asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

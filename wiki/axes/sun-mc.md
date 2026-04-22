@@ -3,7 +3,7 @@ title: Sun/MC
 page_type: axis
 slug: sun-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - MC
@@ -56,32 +56,67 @@ aliases:
   - MC/Sun
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
 
 - Axis: `Sun/MC`
 - Astronomicon axis: `S/MC`
-- Source heading: `MC + Sun`
-- Source page: `59`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `MC + Sun`
+- Source page: `59`
+
 #### Pair Summary
 
 Body and soul. The appearance of the “I”. The body’s capacity to react to the mind. The interaction between the body and the soul. One’s own living body. One’s life and goals of life. One moment (minute) at the day. Daily cycle.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `SUN/MIDHEAVEN`
+- Source page: `99`
+
+#### Basic Ideas
+
+This combination represents your responsibility to both self and society to grow and mature as an individual and to realize that your contributions to life are only one person’s contribution to civilization. These themes help you become motivated about your personal abilities, your potential to society, and the world at large. They indicate a potential for becoming a more effective manager of your personality, your time, and the natural resources inherent within your overall character. They encourage you to apply your native and natural talents to life and expand on basic social skills thru learning lessons taught from schooling, practical experience, and personal efforts toward self-improvement. Other people will recognize your contributions and give you the honors and recognition you deserve, and in the amount you have earned, when you activate and use these themes.
+
+#### In Your Personal Life
+
+- Thesis: Determination to properly prepare yourself for the battles of life; a will to excel at your goals and tasks; motivation to be recognized for your efforts; gaining maturity thru coping with the various lessons of life.
+- Anti: Overlooking humility while concentrating on your self-importance; expecting that you can succeed in life without hard work and sufficient effort on your part; using influence to gain position or power.
+
+#### In Your Relationships
+
+- Thesis: Adapting to living with another person, and allowing others room for expressing their personality within the relationship; the influence you give to another to help you modify your life’s outlook and goals.
+- Anti: Concentrating too hard on your needs while forcing others to subordinate themselves to your ego; increasing needs for personal and family security which encourage you to retreat and become more isolated.
+
+#### With Body or Mind
+
+Psychologically coping with life’s problems; social growth and maturity; becoming a functioning member of society; adapting to parental or family bonds.
+
+#### In Politics or Business
+
+- Thesis: The ability of the leadership to place civil priorities above their own; recognition by others of a role and place in the world for business or national ideas; molding and shaping global politics or programs.
+- Anti: A leadership which places its personal desires above popular needs; ineffective leaders; leaders who have lost popularity; a lessening of the authority because the leadership has lost contact with the people.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Sun/MC Concepts](../derived/munkasey-sun-mc-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: Body and soul. The appearance of the “I”. The body’s capacity to react to the mind. The interaction between the body and the soul. One’s own living body. One’s life and goals of life. One moment (minute) at the day. Daily cycle.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -108,7 +143,8 @@ Body and soul. The appearance of the “I”. The body’s capacity to react to 
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -119,3 +155,4 @@ Body and soul. The appearance of the “I”. The body’s capacity to react to 
 - [Sun](../factors/sun.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

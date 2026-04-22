@@ -3,7 +3,7 @@ title: Uranus/MC
 page_type: axis
 slug: uranus-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - MC
@@ -56,32 +56,67 @@ aliases:
   - MC/Uranus
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
 
 - Axis: `Uranus/MC`
 - Astronomicon axis: `X/MC`
-- Source heading: `MC + Uranus`
-- Source page: `67`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `MC + Uranus`
+- Source page: `67`
+
 #### Pair Summary
 
 To have a mind to do something. Personal tension. To be excited. Vibrations. One inclined to sudden decisions. An explosive manner. To show ambitions. Impatient. The moment (minute) of tenseness.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `URANUS/MIDHEAVEN`
+- Source page: `323`
+
+#### Basic Ideas
+
+This combination suggests that not all of life is laid out in well defined patterns and goals. Thru these themes you learn to adjust to the rapidly changing panorama of life and adapt yourself to ever changing situations. This pattern also helps show you how and where you are able to excel in areas like engineering, mechanics, electricity, computers, information theory and its application, or the use of astrology as a tool for helping yourself understand stages of life. You may find that you have an increased awareness of or need for scientific or engineering gadgetry. You may feel you need added personal freedom or need to retreat from others. Your tendency to be independent, or rebel at situations which force you to conform, is heightened. These points may bring you sudden recognition, or indicate unusual work talents or expertise within your occupation. You may achieve sudden or unwanted notoriety.
+
+#### In Your Personal Life
+
+- Thesis: Urges you to consider unusual or uncommon pursuits and practices; brings a need to investigate different ideas; gaining renown or expertise in unusual fields; opening yourself to new ideas, habits, or occupations.
+- Anti: Helps mark you as a rebellious and uncontrollable person who wishes to be left alone when busy; brings many peculiar concepts about who you are and what you should do in life; agitating for increased freedom.
+
+#### In Your Relationships
+
+- Thesis: Realizing the importance of having a relationship; pursuing friendship rather than intimacy with your partner; added needs for people who have unusual work habits or occupations to share your life and time.
+- Anti: You appear indifferent to affection and it is difficult to tie yourself to one person in a relationship; you need and demand freedom and find it hard to make commitments to other people who offer you love.
+
+#### With Body or Mind
+
+You may find much stress in your work environment; a stubbornness or resistance to change; varicose veins; injuries to the lower legs; muscle crampings.
+
+#### In Politics or Business
+
+- Thesis: Reform as a national goal; a new legislative platform which calls for the correction of old policies and people; social changes which force the leadership to view new ways of looking at old policies or practices.
+- Anti: Radical movements which prompt changes in the method of enforcing policy; modernization movements which begin with labor unrest; strife which forces new internal policy or methods; unruly scientists.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Uranus/MC Concepts](../derived/munkasey-uranus-mc-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: To have a mind to do something. Personal tension. To be excited. Vibrations. One inclined to sudden decisions. An explosive manner. To show ambitions. Impatient. The moment (minute) of tenseness.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -108,7 +143,8 @@ To have a mind to do something. Personal tension. To be excited. Vibrations. One
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -119,3 +155,4 @@ To have a mind to do something. Personal tension. To be excited. Vibrations. One
 - [Uranus](../factors/uranus.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

@@ -3,7 +3,7 @@ title: Sun/Asc
 page_type: axis
 slug: sun-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Asc
@@ -56,32 +56,67 @@ aliases:
   - Asc/Sun
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
 
 - Axis: `Sun/Asc`
 - Astronomicon axis: `S/Asc`
-- Source heading: `Asc + Sun`
-- Source page: `80`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Asc + Sun`
+- Source page: `80`
+
 #### Pair Summary
 
 Personal relationships. Physical relations to other people. To meet or make acquaintances. Personal salutation or greetings. To make acquaintances. To meet acquaintances. Body awareness for the immediate surroundings. The quality of the day (or year) at this location.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `SUN/ASCENDANT`
+- Source page: `95`
+
+#### Basic Ideas
+
+The quality of self-confidence you show thru your mannerisms and temperament, the importance you place on experiencing and interpreting life’s circumstances, and your use of arrogant pretenses as a mask for your feelings can all begin with this motif. The personal satisfaction you have with the way you present yourself, your dedication to learning more about the different roles you have in life, and your effectiveness at reading the motives of others can also start here. The role of life’s experiences as conveyed thru your bearing and attitudes, your enthusiasm for living, your ability to impress others with your spirit, and the importance you place on your normal daily activities or routines are represented here. Taking an impartial and detached look at the effect you have on others, and the immediate influence or power you exert on the people you meet are also represented here.
+
+#### In Your Personal Life
+
+- Thesis: Conveying the impression that you are in control of your life; the confidence you display in your mannerisms; the spirit and enthusiasm which you show; the personal habits which help make you unique.
+- Anti: Excessive attempts to seek attention from others; a personal style that shows overconfidence or arrogance; mannerisms that repel rather than attract others; your perceptions of another person’s enthusiasm.
+
+#### In Your Relationships
+
+- Thesis: Bringing others into your circle of confidence and inner feelings; how you are able to harmoniously allow another to mingle with your own sense of self; the emphasis you place on learning about your partner.
+- Anti: Trying to overwhelm others with your own sense of importance; lacking selfconfidence when relating to others; overly enthusiastic or flowery greetings; lavishness of appearance gone too far; arrogance.
+
+#### With Body or Mind
+
+Understanding your effect on the world and feeling mentally satisfied with that; awareness of your presence and how people judge you within that.
+
+#### In Politics or Business
+
+- Thesis: How others notice expressions of the current policy; the nature of the enterprise or its people expressed directly and effectively; a leader who can show personal style and be popularly identified with an enterprise.
+- Anti: Imposing your demands upon neighbors; an arrogance shown by the leadership or ruling bodies; authority demonstrated in extravagant or even forceful ways; a willful or self-centered leader with ambitions.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Sun/Asc Concepts](../derived/munkasey-sun-asc-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: Personal relationships. Physical relations to other people. To meet or make acquaintances. Personal salutation or greetings. To make acquaintances. To meet acquaintances. Body awareness for the immediate surroundings. The quality of the day (or year) at this location.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -108,7 +143,8 @@ Personal relationships. Physical relations to other people. To meet or make acqu
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -119,3 +155,4 @@ Personal relationships. Physical relations to other people. To meet or make acqu
 - [Sun](../factors/sun.md)
 - [Asc](../factors/asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

@@ -3,7 +3,7 @@ title: Jupiter/Asc
 page_type: axis
 slug: jupiter-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Asc
@@ -56,32 +56,67 @@ aliases:
   - Asc/Jupiter
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
 
 - Axis: `Jupiter/Asc`
 - Astronomicon axis: `V/Asc`
-- Source heading: `Asc + Jupiter`
-- Source page: `86`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Asc + Jupiter`
+- Source page: `86`
+
 #### Pair Summary
 
 Luck with other people or other people’s luck (fortune). To experience good deeds form others. Prospering surroundings. Wealthy friends or companions. Fortunate acquaintances. Happy relations to the surroundings.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `JUPITER/ASCENDANT`
+- Source page: `275`
+
+#### Basic Ideas
+
+These themes denote an inspiring mannerism, or a cheerful front filled with sincerity which is loved by those you meet. Thru these motifs you may develop your ability to inspire others, make too many assumptions about another’s needs or wants, or devise a lot of arrogant convictions. You may become a sincere and genuine person able to read and manipulate the motivations of others, an optimist who is always ready with a kind word or a generous and hearty greeting, or an pleasing and cordial person. You may develop a knack for meeting others easily and leaving them with warm and sincere feelings about your intentions. You may develop added insight about the motives of others, and learn to read the inner objectives or intentions of the people you meet. You learn to grow beyond immediate limitations through inspiring positive responses in others.
+
+#### In Your Personal Life
+
+- Thesis: An affable and well meaning person who has a sharp eye for the political needs of others; an opportunist who is able to capitalize on the needs and desires of others and turn them to his or her advantage.
+- Anti: You boast too much and easily fool yourself about correctly reading the needs of others; ignoring things or people which you find unpleasant; accepting the words of others too easily; overly optimistic attitudes.
+
+#### In Your Relationships
+
+- Thesis: Your happy mannerism attracts similarly sincere and contented people; you have a way of exuding joy to those you are with, and they respond in kind; generosity with your partners and friends; a happy couple.
+- Anti: Your boasting repels those who have affection for you when it becomes excessive; you fool yourself easily about the intentions of others who appear to be well meaning; you are not able to read clever people well.
+
+#### With Body or Mind
+
+Acid accumulations from an excessive social life; the tendency to add too much body fat; attraction to alcohol and similar drugs; large hips or buttocks.
+
+#### In Politics or Business
+
+- Thesis: Others who notice your intentions; a strong but sluggish legal or justice system; legal maneuverings or changes in laws; emphasizes relations with foreign or religious interests; an expanding government.
+- Anti: Highlights legal affairs or interests of foreign countries or businesses; a mixture of religion and politics; prompts a morality or ethics which helps form the basis for common law or judicial decisions.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Jupiter/Asc Concepts](../derived/munkasey-jupiter-asc-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: Luck with other people or other people’s luck (fortune). To experience good deeds form others. Prospering surroundings. Wealthy friends or companions. Fortunate acquaintances. Happy relations to the surroundings.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -108,7 +143,8 @@ Luck with other people or other people’s luck (fortune). To experience good de
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -119,3 +155,4 @@ Luck with other people or other people’s luck (fortune). To experience good de
 - [Jupiter](../factors/jupiter.md)
 - [Asc](../factors/asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

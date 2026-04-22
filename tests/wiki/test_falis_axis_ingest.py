@@ -5,6 +5,7 @@ from tools.wiki_pages import load_page
 
 FALIS_SLUG = "michelle-falis-planet-combinations-astrological-brainstorms"
 CARTER_SLUG = "charles-carter-the-astrological-aspects"
+MUNKASEY_SLUG = "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
 
 
 def test_falis_source_page_exists():
@@ -23,6 +24,7 @@ def test_sun_moon_axis_includes_falis_entry():
         "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
         FALIS_SLUG,
         CARTER_SLUG,
+        MUNKASEY_SLUG,
     ]
     assert "Michelle Falis - Planet Combinations: Astrological Brainstorms" in page.body
     assert "Strong parental influence." in page.body

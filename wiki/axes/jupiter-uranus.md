@@ -58,7 +58,8 @@ source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -124,14 +125,46 @@ In ordinary life it is likely to make the native too independent, outspoken and 
 - The Conjunction: H.P. Blavatsky, Lady Burton, President Garfield, Emperor Frederick III, Imre Kiralfy, Lord Lansdowne, William Whiteley, Stalin.
 - Inharmonious: Mary Pickford, Earl of Arundel, E. Dawson Rogers (spiritualist), Napoleon, Dr. Annie Besant, Stalin.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `JUPITER/URANUS`
+- Source page: `259`
+
+#### Basic Ideas
+
+These themes help increase discontent with legal, religious, and philosophical matters. They represent added internal unhappiness when encountering indifference toward new ideas, or when there is an extension of feelings of detachment about matters of life which were once important. Assertions about the progress of past activities may cause you to seek new prospects or opportunities which will take you thru realms that are unique, different, and surprising. The philosophy of life you build about using scientific or labor saving devices; additional studies you undertake in science, computing, or astrology; your opinions on improving the efficiency of existing political, social, or legal methods; or inclinations to learn the principles of astrology all begin with these motifs. They allow added opportunities to alter your discontent with situations in original or revolutionary ways for you.
+
+#### In Your Personal Life
+
+- Thesis: Shows ways to understand life and living; opens you to new opportunities in science, engineering, or astrology; gaining publicity from experiments which use extra-ordinary ideas; unpredictable aspirations.
+- Anti: Focusing upon change for change itself, or because you feel others need to be shaken from complacency; an exaggerated ability to make or produce objects; added rudeness toward others; increased restlessness.
+
+#### In Your Relationships
+
+- Thesis: Socializing in unusual ways, or with partners who open you to ideas that are beyond those normally encountered; the potential you and your partner have to express what is unique within your relationship.
+- Anti: Promises made about adapting to partner and how this potential is developed; using change as an excuse for not focusing on growth opportunities in a relationship; preferences for new freedoms.
+
+#### With Body or Mind
+
+Abnormalities in the body caused by an excess of fat in the blood; upsets to your glucose metabolism; deafness from not wanting to hear opinions from others.
+
+#### In Politics or Business
+
+- Thesis: The application of legal methods against breakdowns in order, revolutions, or strikes; growth following periods of reform; opportunities for modernization which accompany new labor saving inventions.
+- Anti: Reform which originates in religious principles; government where no expansion due to modern principles is allowed; civil war or unrest due to a legal or religious system which stifles justice for common people.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Jupiter/Uranus Concepts](../derived/munkasey-jupiter-uranus-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: source-native Witte, Falis, and Carter statements are preserved side by side above on the same canonical axis page.
-- psychology: Witte remains compressed and aphoristic, Falis remains experiential, and Carter adds explicit aspect-family distinctions when the source supplies them.
-- body/health: Carter sometimes states health and bodily outcomes directly by aspect family; the other sources remain less sectioned here.
-- social/relationship: each source keeps interpersonal implications inside its own source block instead of being silently merged.
-- events/manifestations: Carter remains axis-level aspect doctrine only; activation pages stay orientation-specific and unchanged.
-- conflicts/notes: this page intentionally mixes midpoint-axis doctrine and Carter's planetary-aspect doctrine because Carter was approved for collapse into the canonical axis page.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -159,7 +192,7 @@ In ordinary life it is likely to make the native too independent, outspoken and 
 ## Contradictions
 
 - No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices and aspect-family emphases rather than flattened into one wording.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -172,3 +205,4 @@ In ordinary life it is likely to make the native too independent, outspoken and 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

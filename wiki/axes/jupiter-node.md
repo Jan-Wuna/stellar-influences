@@ -3,7 +3,7 @@ title: Jupiter/Node
 page_type: axis
 slug: jupiter-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Node
@@ -56,32 +56,67 @@ aliases:
   - Node/Jupiter
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
 
 - Axis: `Jupiter/Node`
 - Astronomicon axis: `V/g`
-- Source heading: `Node + Jupiter`
-- Source page: `144`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Node + Jupiter`
+- Source page: `144`
+
 #### Pair Summary
 
 Fortunate union. Fortunate connections. Fortunate contacts. Financial relationship. Successful connections. Relations to matters of money or justice.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `JUPITER/NODE`
+- Source page: `271`
+
+#### Basic Ideas
+
+Luck in meeting the right kind of people, an ability to expand or increase ties to friends, and a talent for using the resources acquaintances innately have is shown thru these themes. These motifs help you formulate and present ideas well when meeting or conversing with others, help make effective or promising contacts thru groups and associations, and allow you to show a sense of humor and laughter at appropriate times during gatherings. Boasting about friendships which may not exist, assuming closer ties to others than were intended, and exaggeration over who has more influential contacts, are represented within these themes. You find times when errors in judgment prevail, or when you bring the wrong kind of people into your confidence, but your good fortune with contacts persists thru the help of these points, and an ability to use personnel resources wisely continues and is enhanced.
+
+#### In Your Personal Life
+
+- Thesis: An ability to forge bonds and ties to the right kinds of people; insight with who brings the right kind of assistance; the opportunities which close friends offer to you; expanding social contacts thru friends.
+- Anti: You are prone to judge some people incorrectly; when you make errors in judgment you persist with these, even when they are obvious to all; boasting about friendships or connections which do not really exist.
+
+#### In Your Relationships
+
+- Thesis: A most fortunate contact between you and another person; denotes a relationship which is beneficial for both persons; added happiness, laughter and joy with good feelings; expanded sexual enjoyment.
+- Anti: Too many contacts with partner; confusion over too many partners; eases times of separation and parting; allows both people to be loose and free with each other in relationships; an understanding of another.
+
+#### With Body or Mind
+
+Expansion in the joints or connecting tissue; swelling of the joints; stretching of ligaments or tissue; fats which accumulate in joints or connections of the body.
+
+#### In Politics or Business
+
+- Thesis: Matters concerning the legal consequences of treaties with allies; religious leaders who have an opinion on legal matters expressed thru friends; a focus on imports which are disrupting the trade or business.
+- Anti: An excessive amount of interference from religious groups thru a legal process; the system of legal justice bound and hampered by erroneous decisions about the status of groups or parties; closed legal societies.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Jupiter/Node Concepts](../derived/munkasey-jupiter-node-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: Fortunate union. Fortunate connections. Fortunate contacts. Financial relationship. Successful connections. Relations to matters of money or justice.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -108,7 +143,8 @@ Fortunate union. Fortunate connections. Fortunate contacts. Financial relationsh
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -119,3 +155,4 @@ Fortunate union. Fortunate connections. Fortunate contacts. Financial relationsh
 - [Jupiter](../factors/jupiter.md)
 - [Node](../factors/node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

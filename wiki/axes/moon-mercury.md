@@ -58,7 +58,8 @@ source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -140,14 +141,46 @@ The influence of the Moon on Mercury may lead to the mind being stamped with fam
 - The Conjunction: Baden-Powell, Blackbourne (chess champion), Professor R.A. Milliken, Horatio Bottomley.
 - Inharmonious: Shelley, William Blake, Mrs. Eddy, Mrs. Besant, Ruskin, Oscar Wilde, Gladstone, Hindenburg, Don Carlos of Portugal, Sarah Bernhardt.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `MOON/MERCURY`
+- Source page: `103`
+
+#### Basic Ideas
+
+These planets represent your ability to communicate your emotions effectively and in ways that help others understand your feelings. These planets encourage you to become more aware of the separation between your intellectual or rational reasoning and intuitive or emotional sides. Feelings which originate deep within you, such as fear of the dark, phobias, etc., how calculation and logic vie against your habitual responses and impulses, and the emotions which you add to your speech are also emphasized here. The feelings you show as you speak, your use of intuition as well as logic, reasoning that is swayed by emotional speech, and intelligence which has its roots in emotions also denoted. The speech of the common people, expressions which are popular or trendy, information on the rhythms or patterns of speech, and the history of your language is also mirrored by these planets.
+
+#### In Your Personal Life
+
+- Thesis: Helps you think in rhythm or rhyme; variations in the way you express care and concern for how others think; any romantic thoughts you have; your concepts and ideas of motherhood; rapid mood swings.
+- Anti: Lines of thought which lead you into insular isolation; reasoning based on sentimental concepts; the use of intuition to help you achieve a theft or swindle; a restless imagination with fluctuating mood swings.
+
+#### In Your Relationships
+
+- Thesis: Accurately reading the emotional state of others; the varieties of ways you and your partner can communicate; communicating feelings and attitudes to another; ideas about parenting within the relationship.
+- Anti: Fickleness with the ideas others present; relations with another where reason overpowers emotion or vice-versa; verbal arguments based on emotional states within your relationship; communal speech patterns.
+
+#### With Body or Mind
+
+Glandular conditions which begin with nervous dysfunctioning; deeply rooted fear or phobias; allergic reactions from glandular conditions; fluid in the lungs.
+
+#### In Politics or Business
+
+- Thesis: Enhanced communications between leaders and the common people; speeches geared to the masses; propaganda efforts; helps generate excitement for popular causes thru rapport with the people or workers.
+- Anti: Restlessness among the common people or workers over business or commerce; compiling and analyzing the attitudes of the people; talk about the need for greater personal productivity; agricultural statistics.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Moon/Mercury Concepts](../derived/munkasey-moon-mercury-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: source-native Witte, Falis, and Carter statements are preserved side by side above on the same canonical axis page.
-- psychology: Witte remains compressed and aphoristic, Falis remains experiential, and Carter adds explicit aspect-family distinctions when the source supplies them.
-- body/health: Carter sometimes states health and bodily outcomes directly by aspect family; the other sources remain less sectioned here.
-- social/relationship: each source keeps interpersonal implications inside its own source block instead of being silently merged.
-- events/manifestations: Carter remains axis-level aspect doctrine only; activation pages stay orientation-specific and unchanged.
-- conflicts/notes: this page intentionally mixes midpoint-axis doctrine and Carter's planetary-aspect doctrine because Carter was approved for collapse into the canonical axis page.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -175,7 +208,7 @@ The influence of the Moon on Mercury may lead to the mind being stamped with fam
 ## Contradictions
 
 - No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices and aspect-family emphases rather than flattened into one wording.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -188,3 +221,4 @@ The influence of the Moon on Mercury may lead to the mind being stamped with fam
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

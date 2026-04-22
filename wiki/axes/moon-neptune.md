@@ -58,7 +58,8 @@ source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -138,14 +139,46 @@ The tendency to resort to spiritualistic practices is common under these configu
 - The Conjunction: George Washington, R.L. Stevenson, Nicholas II, Charles Dickens, Lily Langtry, "Obession," H.J. Bennett and wife, "Born in Flood," Lord Elgin, Clarence Hatry (London financier), Dreyfus, "Mabel Collins."
 - Inharmonious: Abbas Effendi, Generals Gordon and Mackenson, "Opium Habitute," Felix Faure, Fallieres, Ceasar Borgia.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `MOON/NEPTUNE`
+- Source page: `127`
+
+#### Basic Ideas
+
+Sentiment and impression combine with dreaminess and illusion in a blending of similar motifs, as many qualities presently attributed to Neptune were assigned to the Moon in more ancient times. These planets symbolize carelessness and periods of neglect in your protection and safekeeping of the people, animals, or possessions entrusted to you. You see yourself acting with deeply felt sentiment about the things you love, but others see your inner yearnings as irregular and uncertain creations from a confused and dreamy person. This combination implies an increase in the sensitivity of your intuition, but you may lose your idea of reality in the dreams and fantasies you constantly build. Your imagination is heightened, and your ability to dream and see the future is enhanced. You may become a more sensitive person and find new ways of using mystical thinking to answer questions.
+
+#### In Your Personal Life
+
+- Thesis: You have good insight into the emotions behind people’s sentiments, but find it difficult to separate your feelings from theirs; you have great feelings to nurture and care for others, and are inspired by their love.
+- Anti: You find it difficult to separate your dreams from the events of the real world; weakened faith in others as you see their shortcomings; receptivity to the potentials of situations as opposed to the reality of people.
+
+#### In Your Relationships
+
+- Thesis: You have the highest of internal and ideal love for your partner; your ability to create tender feelings for another is helped with this pairing; you have strong needs to show protection and care for others.
+- Anti: You may not easily verify if your partner shares the feelings you have; you know that your love compensates for any neglect of your partner, but your partner has other views about how to share.
+
+#### With Body or Mind
+
+Ulcers; a nervous stomach; reactions bought on by a sensitivity to drugs; sensitivity to pollen, dust, etc.; tiredness due to emotional strain; female problems.
+
+#### In Politics or Business
+
+- Thesis: Production of chemicals, oil, food, or manufactured goods; dreams about agricultural produce, production, or policy; a leadership which heeds the opinions and emotional climate of its constituents.
+- Anti: Delusion about the popular support for current policies; an inability to utilize information about the moods of the people when setting the courses of action; scandals involving production or other quotas.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Moon/Neptune Concepts](../derived/munkasey-moon-neptune-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: source-native Witte, Falis, and Carter statements are preserved side by side above on the same canonical axis page.
-- psychology: Witte remains compressed and aphoristic, Falis remains experiential, and Carter adds explicit aspect-family distinctions when the source supplies them.
-- body/health: Carter sometimes states health and bodily outcomes directly by aspect family; the other sources remain less sectioned here.
-- social/relationship: each source keeps interpersonal implications inside its own source block instead of being silently merged.
-- events/manifestations: Carter remains axis-level aspect doctrine only; activation pages stay orientation-specific and unchanged.
-- conflicts/notes: this page intentionally mixes midpoint-axis doctrine and Carter's planetary-aspect doctrine because Carter was approved for collapse into the canonical axis page.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -173,7 +206,7 @@ The tendency to resort to spiritualistic practices is common under these configu
 ## Contradictions
 
 - No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices and aspect-family emphases rather than flattened into one wording.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -186,3 +219,4 @@ The tendency to resort to spiritualistic practices is common under these configu
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

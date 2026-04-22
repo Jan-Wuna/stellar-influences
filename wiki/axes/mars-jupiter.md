@@ -58,7 +58,8 @@ source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -138,14 +139,46 @@ The effects on the health are likely to be through overstrain, over-excitement, 
 - The Conjunction: Pierpont Morgan, J.D. Rockefeller, "Great Wealth" (Notable Nativities), Clemenceau, Krishnamurti, Rudolf Valentino, Swinburne, Ruskin, Burnand (editor of Punch), Amelia Earhart (flew Atlantic), W.S. Gilbert, Charles de Gaulle.
 - Inharmonious: Abbas Effendi, George Eliot, William Blake, Cecil Rhodes, Grossadmiral von Tirpitz
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `MARS/JUPITER`
+- Source page: `223`
+
+#### Basic Ideas
+
+These themes bestow ample supplies of energy or courage at whatever level desired, and urge the wise use of your stamina for all reasons. This pair provides an a lot of drive for activity, or additional power to be called upon when needed. Understanding the competitive nature or side of life is encouraged, or assumptions about using activities or actions may be made. These motifs represent rash misjudgments about present circumstances, or misinterpretation of the amount of insistence or emphasis required to sustain efforts. They bring luck in competitive undertakings, enhance your trust or faith in the use and application of your strength, and increase the sincerity with which you approach life’s struggles. Taking advice from persons considered to be ‘hotheads’, initiating actions against legal judgments, or receiving opinions or advice on your recklessness are indicated.
+
+#### In Your Personal Life
+
+- Thesis: Large amounts of activity; a very active person; a person who has large amounts of reserve energy; ample supplies of courage; stimulates your luck; initiates spirited philosophical or religious debates or teachings.
+- Anti: Irritation over the feigned sincerity of another; impatience with the opinions of others; errors or misjudgments in the use of force or power; boasts of strength or courage; rushes into new beliefs in ideas.
+
+#### In Your Relationships
+
+- Thesis: Having a partner who can participate with you in sports or out of doors activities; leading an active social life or religious life with your partner; a life with mutual activities or competition as a focus.
+- Anti: Quarrels experienced during competitive activities; meeting an over-opinionated partner; errors in judging partner’s determination; hasty judgments of others; rash assumptions about your partner’s activities.
+
+#### With Body or Mind
+
+Strength of limb; gross motor control; improving muscle tone; hypo-adrenalism; aggravation of acute ailments; hip or liver surgery; major surgery.
+
+#### In Politics or Business
+
+- Thesis: Action taken in response to legal judgments; too much legal activity or opinions; advice which angers or inflame others; legislative actions concerning competitive sports activities; religious activities or festivals.
+- Anti: Judgment of enemies or those who seek to do battle; misuse of forces when engaging another; an expansion in military hardware; legal opinions or judicial cases which affect the military or metal industries.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Mars/Jupiter Concepts](../derived/munkasey-mars-jupiter-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: source-native Witte, Falis, and Carter statements are preserved side by side above on the same canonical axis page.
-- psychology: Witte remains compressed and aphoristic, Falis remains experiential, and Carter adds explicit aspect-family distinctions when the source supplies them.
-- body/health: Carter sometimes states health and bodily outcomes directly by aspect family; the other sources remain less sectioned here.
-- social/relationship: each source keeps interpersonal implications inside its own source block instead of being silently merged.
-- events/manifestations: Carter remains axis-level aspect doctrine only; activation pages stay orientation-specific and unchanged.
-- conflicts/notes: this page intentionally mixes midpoint-axis doctrine and Carter's planetary-aspect doctrine because Carter was approved for collapse into the canonical axis page.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -173,7 +206,7 @@ The effects on the health are likely to be through overstrain, over-excitement, 
 ## Contradictions
 
 - No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices and aspect-family emphases rather than flattened into one wording.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -186,3 +219,4 @@ The effects on the health are likely to be through overstrain, over-excitement, 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

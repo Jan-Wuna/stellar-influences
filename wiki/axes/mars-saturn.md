@@ -58,7 +58,8 @@ source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -146,14 +147,46 @@ These planets in combination nearly always add to the energy, although, as state
 - The Conjunction: Don Carlos of Portugal, H.P. Blavatsky, Thomas Moore, James I, Mussolini, the "Young Pretender."
 - Inharmonious: Charles Dickens, Jay Gould, Pierpont Morgan, Frederick the Great, President Ebert, Swedenborg, Savonarola.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `MARS/SATURN`
+- Source page: `227`
+
+#### Basic Ideas
+
+This combination of stop and go urges you forward, but then applies the brakes. You exercise restraint and self-control in your use of your force or energy, have great endurance thru your personal strength, and encounter activity which persists. You place much emphasis on your physical abilities, and the throwing of caution to the wind as recklessness prevailing over caution is common. You encounter delays at the start of projects, dilemmas which are not psychologically easy to resolve, hard and rigid reactions from others, and a restlessness with self-discipline. You balance caution vs. action, violence vs. restraint, and come by controlled periods of noisy and energetic outbursts. You find activity which must be repeated monotonously (as in assembly lines), have trouble applying responsibility, and show anger when dealing with frustrations or limiting restrictions. You are a cautious competitor.
+
+#### In Your Personal Life
+
+- Thesis: The cultivation of discipline in sports or physical training programs; an impulse to heat up a cold activity; obligations imposed to provide liveliness; ambition which is put into motion; serious efforts.
+- Anti: Activity which is frozen by restrictions or incompetence; struggles that are prolonged; anger which lasts; the introduction of ignorance; noise which persists; the arousal of dormant frustrations; diminishing urges.
+
+#### In Your Relationships
+
+- Thesis: Increased ability to work out problems relating to activity vs. restraint, and caution vs. recklessness in relationships; working out the anger your partner directs at you, or vice-versa, into more positive activities.
+- Anti: Aroused irritation that you turn and direct at your partner; prompts you to see your faults and difficulties as being caused by your partner; you see your partner as a person who blocks your best efforts.
+
+#### With Body or Mind
+
+High blood pressure; health problems caused by the blockage of energy or emotion; hyper followed by hypo; frustration; muscles which weaken or wither.
+
+#### In Politics or Business
+
+- Thesis: Curtailing force or military power by authorities; enforcement of honor thru the use of strife or struggle; wars which persist; frustrations imposed upon or by criminal elements; demands to halt armaments.
+- Anti: Military actions which continue under political or other restrictions; an obligation to use force when restraint is required; the ambitious taking of that which belongs to another; an older enterprise becomes angered.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Mars/Saturn Concepts](../derived/munkasey-mars-saturn-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: source-native Witte, Falis, and Carter statements are preserved side by side above on the same canonical axis page.
-- psychology: Witte remains compressed and aphoristic, Falis remains experiential, and Carter adds explicit aspect-family distinctions when the source supplies them.
-- body/health: Carter sometimes states health and bodily outcomes directly by aspect family; the other sources remain less sectioned here.
-- social/relationship: each source keeps interpersonal implications inside its own source block instead of being silently merged.
-- events/manifestations: Carter remains axis-level aspect doctrine only; activation pages stay orientation-specific and unchanged.
-- conflicts/notes: this page intentionally mixes midpoint-axis doctrine and Carter's planetary-aspect doctrine because Carter was approved for collapse into the canonical axis page.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -181,7 +214,7 @@ These planets in combination nearly always add to the energy, although, as state
 ## Contradictions
 
 - No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices and aspect-family emphases rather than flattened into one wording.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -194,3 +227,4 @@ These planets in combination nearly always add to the energy, although, as state
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

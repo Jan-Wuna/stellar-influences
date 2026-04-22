@@ -3,7 +3,7 @@ title: Moon/Asc
 page_type: axis
 slug: moon-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Asc
@@ -56,32 +56,67 @@ aliases:
   - Asc/Moon
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
 
 - Axis: `Moon/Asc`
 - Astronomicon axis: `R/Asc`
-- Source heading: `Asc + Moon`
-- Source page: `81`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Asc + Moon`
+- Source page: `81`
+
 #### Pair Summary
 
 Acquaintances with female persons. The people of the closer surroundings. To be brought into public by others. Female acquaintances. Women in the environment. Quality of the hour at this place.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `MOON/ASCENDANT`
+- Source page: `139`
+
+#### Basic Ideas
+
+This combination represents your potential as a protective and sensitive person aware of their immediate surroundings and the roles different people play among each other. It mirrors your perception of the people’s personal styles, and fosters a sensitivity to the dispositions people have. A sentimental inner focus may cause you to nurture and cherish the attention you receive. You may receive subtle impressions from others, become more aware of the inner and personal fears from elements or people around you, have others see you as a somewhat fickle person, or show an inner restlessness which is activated by changes or alterations in your daily routine. An element of moodiness may affect the way you approach life, and you may vacillate as you try to address the cares and concerns of others. Your intuition and non-sensory hunches are accented, and you may learn to pay attention to them.
+
+#### In Your Personal Life
+
+- Thesis: A sensitive and caring person who is quick to notice the needs and care demanded by others; sensitivity to the reality of another’s psychological space; you cherish the attention you receive and are sensitive to others.
+- Anti: Others get the impression that you do not give the compassion you should; changing or altering your views of others more than is needed; secret and irrational fears brought into focus; personal insecurity noted.
+
+#### In Your Relationships
+
+- Thesis: You become more aware of your partner’s moods and need for personal space; you seek out others who are receptive to the attention and personal concern you give; attention to your partner’s demands.
+- Anti: Moody indecision about relationship choices available to you; a crabby crankiness to your general disposition which makes it difficult for others to give you the kind of comfort and support you wish to have.
+
+#### With Body or Mind
+
+Sinus sensitivities or infections; emotions held in check due to social or environmental pressures; sensitivity to dust or other allergens; emotional states.
+
+#### In Politics or Business
+
+- Thesis: How others view the disposition of the population; the effect that the women have in forming opinion or determining priorities; production goals met by workers; emphasis on immediate needs and quotas.
+- Anti: Causes for concern raised on behalf of the common people; an environmental study which affects the welfare of all; problems with the production of goods as seen by allies; raising of environmental causes.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Moon/Asc Concepts](../derived/munkasey-moon-asc-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: Acquaintances with female persons. The people of the closer surroundings. To be brought into public by others. Female acquaintances. Women in the environment. Quality of the hour at this place.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -108,7 +143,8 @@ Acquaintances with female persons. The people of the closer surroundings. To be 
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -119,3 +155,4 @@ Acquaintances with female persons. The people of the closer surroundings. To be 
 - [Moon](../factors/moon.md)
 - [Asc](../factors/asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

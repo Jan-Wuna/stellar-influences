@@ -3,7 +3,7 @@ title: Saturn/MC
 page_type: axis
 slug: saturn-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - MC
@@ -56,32 +56,67 @@ aliases:
   - MC/Saturn
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
 
 - Axis: `Saturn/MC`
 - Astronomicon axis: `W/MC`
-- Source heading: `MC + Saturn`
-- Source page: `66`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `MC + Saturn`
+- Source page: `66`
+
 #### Pair Summary
 
 To feel a burden. Inhibition or loneliness. To take over a duty. Depression. Dejection. To separate. To feel deserted. Being ponderous. Personal sorrows. Mournful states or afflictions. Serious minded. Concentrated attitude. To be restrained. To slow down. Losing life goals. The moment (minute) of separation.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `SATURN/MIDHEAVEN`
+- Source page: `303`
+
+#### Basic Ideas
+
+A difficult and spartan early life sets the tone for your developing into a person who becomes determined to stand on their own in life. You grow to find that much of your life is spent in taking a realistic look at self and your capabilities and developing and using these so people will notice your accomplishments and contributions. You like to start at levels which place you subordinate to others, but you are willing to work harder than most to surpass all. You find vindication and success only thru much hard work, persistent application of your schooling or learning, and full dedication to self, work, and/or personal interests. The legacy you leave behind you endures, and you spend much time in early middle life trying to find the person you are and what your life’s goals can be. Discipline becomes a close companion from an early age, and you find that you prefer solitude to friendships.
+
+#### In Your Personal Life
+
+- Thesis: Becoming a better person thru hard work and persistent dedication to learning about self and life; your role as a self-starter; added personal reserve and restraint about your achievements; you work for status.
+- Anti: Worrying about what you have not done well; examining tasks to see if all have completed perfectly; self imposed restrictions which denote greater self-control; insecurity about receiving recognition for efforts.
+
+#### In Your Relationships
+
+- Thesis: Appearing as a strong and steady person, but with a dependency need on another; a willingness to let your ambitions be subordinate to those of your partners; growing together in a meaningful relationship.
+- Anti: Subordinating yourself even further into the needs of your partner; placing yourself in a dependent position where your desires are secondary; added personal rigidity and formality; sorrow or loss over a love.
+
+#### With Body or Mind
+
+Seeking psychological counseling to find the person you are or should be; adopting personality restrictions or inhibitions in severe or damaging ways.
+
+#### In Politics or Business
+
+- Thesis: Simplifies the purposes of an enterprise, and establishes goals that may be hard to meet; restrictions on the development of resources or businesses; formal rules or roles imposed on the executive branch.
+- Anti: Added restrictions on development within the enterprise; may end the struggle for independent activity after a former period of repression or colonialism; brings formal and strict rules for conducting transactions.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Saturn/MC Concepts](../derived/munkasey-saturn-mc-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: To feel a burden. Inhibition or loneliness. To take over a duty. Depression. Dejection. To separate. To feel deserted. Being ponderous. Personal sorrows. Mournful states or afflictions. Serious minded. Concentrated attitude. To be restrained. To slow down. Losing life goals. The moment (minute) of separation.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -108,7 +143,8 @@ To feel a burden. Inhibition or loneliness. To take over a duty. Depression. Dej
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -119,3 +155,4 @@ To feel a burden. Inhibition or loneliness. To take over a duty. Depression. Dej
 - [Saturn](../factors/saturn.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

@@ -58,7 +58,8 @@ source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -134,14 +135,46 @@ In the case of women, I think it is unfavourable because of the independence whi
 - The Conjunction: R.W. Emerson, Mussolini, Leverhulme, Coue, Savonarola, Earl of Essex, President Hoover.
 - Inharmonious: Ghandi, Alan Leo, Valentino, Ruskin, Shelley, Lord Salisbury, S.F. Edge (racing motorist), George III, George IV.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `MOON/MARS`
+- Source page: `111`
+
+#### Basic Ideas
+
+These themes combine uncertainty and hesitation with aggression and haste, or alternately, bring impulsiveness and the need for activity to soothing and caring desires. Your ability to arouse the emotions of others thru movement (as in sports), and stimulation of your intuitive side is shown here. These planets symbolize a need to behave more in a caring way, sensitivity to events which turns to anger, or activities where your energy ebbs and flows. The aggravation of your emotional nature and your struggles for protection start here. These planets symbolize sensitivity to noise and clamor, represent uneven progress, and convey courage and strength to protect those who require it. They denote an intuition for performing aggressively as a competitor, along with an uncertainty about how far you can push or force others to stretch. You may act indecisively when trying to motivate others.
+
+#### In Your Personal Life
+
+- Thesis: Devoting more of your energy and strength to nurturing and caring for others; enjoying movement and exercise as part of your daily activities; noticing the anger which others carry; nurturing a warrior’s instinct.
+- Anti: Showing a latent anger at having to care for those unable to care for themselves; your desire to protect or care for others sometimes exceeds your patience; irritation against those who show any weakness.
+
+#### In Your Relationships
+
+- Thesis: Seeking a partner who is more aggressive and forceful about showing or handling their emotional nature; hastily brushing another’s feelings aside without added concern; sexual rhythms and receptivity.
+- Anti: Arguments over emotional states or feelings; differences over how to handle the anger of another person or your inner anger at others; reading wrong intentions from others; intuitive feelings of anger.
+
+#### With Body or Mind
+
+Glandular secretions which come too quickly; heat buildup in or on the body; energy which ebbs and flows; acid conditions in the stomach; stomach ulcers.
+
+#### In Politics or Business
+
+- Thesis: Leaders who show concern about the welfare of others, but who don’t necessarily follow thru with relief; using or developing metal or mineral resources; energy usage for agriculture or land development.
+- Anti: Farming activities which do not receive sufficient support from the leadership; a military hierarchy which fluctuates in its effectiveness; commercial uses of land resources for military or business activities.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Moon/Mars Concepts](../derived/munkasey-moon-mars-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: source-native Witte, Falis, and Carter statements are preserved side by side above on the same canonical axis page.
-- psychology: Witte remains compressed and aphoristic, Falis remains experiential, and Carter adds explicit aspect-family distinctions when the source supplies them.
-- body/health: Carter sometimes states health and bodily outcomes directly by aspect family; the other sources remain less sectioned here.
-- social/relationship: each source keeps interpersonal implications inside its own source block instead of being silently merged.
-- events/manifestations: Carter remains axis-level aspect doctrine only; activation pages stay orientation-specific and unchanged.
-- conflicts/notes: this page intentionally mixes midpoint-axis doctrine and Carter's planetary-aspect doctrine because Carter was approved for collapse into the canonical axis page.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -169,7 +202,7 @@ In the case of women, I think it is unfavourable because of the independence whi
 ## Contradictions
 
 - No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices and aspect-family emphases rather than flattened into one wording.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -182,3 +215,4 @@ In the case of women, I think it is unfavourable because of the independence whi
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

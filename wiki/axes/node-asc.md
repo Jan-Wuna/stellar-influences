@@ -3,7 +3,7 @@ title: Node/Asc
 page_type: axis
 slug: node-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Asc
@@ -56,32 +56,67 @@ aliases:
   - Asc/Node
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
 
 - Axis: `Node/Asc`
 - Astronomicon axis: `g/Asc`
-- Source heading: `Asc + Node`
-- Source page: `82`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Asc + Node`
+- Source page: `82`
+
 #### Pair Summary
 
 Acquaintances. To establish connections. To keep in touch. Contact with the closer environment. Limits set by the environment. The mediator, broker or an agent. Being connected to one place. Connected locations. Links to the surroundings.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `NODE/ASCENDANT`
+- Source page: `355`
+
+#### Basic Ideas
+
+These motifs focus attention on finding and meeting people who share mutual obligations, impressions, interests, or influences. They prompt you to satisfy your needs for associating with such persons, groups, or societies. Your ability to retain a personal identity in your society, and the familiarity you develop with friends you meet thru groups having mutual interests is also represented. These themes open opportunities for concentrating on meeting the kinds of people you seek to fulfill obligations during the various phases of your life. Your desires to meet in comfortable and familiar surroundings, the personal friendships which evolve from groups which attract you, and the benefits you achieve from associating with people who share a similar life’s purpose with you begin here. Reactions to imposed separations, and the mutual assistance derived from others are also noted here.
+
+#### In Your Personal Life
+
+- Thesis: Increased awareness and consciousness about the people with whom you meet or socialize; benefits derived from exchanging ideas with friends; people who help you identify with spiritual causes or ideas.
+- Anti: Tensions created because of involvement between people who share similar destinies; reading the intentions and thrust of mutual efforts; misuse of social or interpersonal contacts; dismissing help from others.
+
+#### In Your Relationships
+
+- Thesis: Working together with a partner to solve various problems of life; the strength of the ties you feel with others who share similar destinies; attitudes of shared intimacy with your partner; a close relationship.
+- Anti: Using others without involving yourself in their mutual closeness; determining and satisfying another’s needs; an inability to focus beyond personal needs to help contribute to or improve your lifestyle.
+
+#### With Body or Mind
+
+The overall soundness of psychological health; support from friends or groups; handling the mental pressure caused by living; group therapy; role modeling.
+
+#### In Politics or Business
+
+- Thesis: Mediating or resolving disputes involving others; opinions of the leadership about problems which exist beyond their control; originating solutions to benefit others as well as self; social pressures or drifts.
+- Anti: Strong reactions from others about internal policies which affect them; alliances which drain the leadership’s time or resources; refusals to co-operate or fulfill prior promises; isolation imposed for self fulfillment.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Node/Asc Concepts](../derived/munkasey-node-asc-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: Acquaintances. To establish connections. To keep in touch. Contact with the closer environment. Limits set by the environment. The mediator, broker or an agent. Being connected to one place. Connected locations. Links to the surroundings.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -108,7 +143,8 @@ Acquaintances. To establish connections. To keep in touch. Contact with the clos
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -119,3 +155,4 @@ Acquaintances. To establish connections. To keep in touch. Contact with the clos
 - [Node](../factors/node.md)
 - [Asc](../factors/asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

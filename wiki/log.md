@@ -8,3 +8,4 @@
 - 2026-04-21: Ingested Michelle Falis's axis-only midpoint source into 45 canonical axis pages, added the new source page, and rebuilt the index without changing the in-progress comparative factor pages.
 - 2026-04-21: Pilot-ingested Charles Carter's Sun/Moon aspect material into the canonical axis page and added the Carter source page.
 - 2026-04-21: Ingested Charles Carter's aspect source into 36 canonical axis pages as Carter family subsections, added the Carter source page, and kept activation pages unchanged.
+- 2026-04-22: Ingested Michael Munkasey's page-1 axis prose into `78` canonical axis pages, preserved `78` page-3 concepts companion pages, intentionally omitted the page-4 MWA example tables, and rebuilt the index.

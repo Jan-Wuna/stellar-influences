@@ -3,7 +3,7 @@ title: Pluto/MC
 page_type: axis
 slug: pluto-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - MC
@@ -56,32 +56,67 @@ aliases:
   - MC/Pluto
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
 
 - Axis: `Pluto/MC`
 - Astronomicon axis: `Z/MC`
-- Source heading: `MC + Pluto`
-- Source page: `69`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `MC + Pluto`
+- Source page: `69`
+
 #### Pair Summary
 
 One’s own intellectual capacity, as well as the ability and possibility of development. Ones capacity to apprehend. Ones own transformation and development. Inner transformation. The developmental stages of the own mind. Metamorphosis. To appear to be a completely different person. Moment (minute) of change.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `PLUTO/MIDHEAVEN`
+- Source page: `351`
+
+#### Basic Ideas
+
+These themes help you grow with and thru life’s experiences, lessons, and trials and become a better if different person for your experiences. They help you realize that you can not be all things to all people. They introduce you to ideas very different from those which your family and early life taught you, and they guide you to develop self-control in all areas of life, perhaps excessively. They bring obsession with the need for correcting your personal or family distresses, clarifying your personal goals and needs, and urge you to confront your reputation. Your problems in coping with feeling secure about who you are, elimination of self-restraints imposed in your past, or the denial of principles for which you inwardly stand, are also emphasized by these points. The efforts you go thru to clear your name, a family member’s name, or an ancestor’s reputation may also originate with these points.
+
+#### In Your Personal Life
+
+- Thesis: Pursuing activities designed to inwardly make you a stronger person and let you feel better about you, the person; a turn-around in your feelings about your family, their reputation, or their traditions.
+- Anti: Emphasizes situations where others force you to stand and fight for your beliefs and ideals; brings obsession with improving your standing before others; impose selfpunishment for the sins of living.
+
+#### In Your Relationships
+
+- Thesis: Recognizing that two people working together can accomplish more than one individual; urges you to devote much effort to helping yourself and your partner grow thru and in your relationship.
+- Anti: Finding partners who are psychologically dependent upon you for growth; destroying a part of your partner’s identity so that you can enhance yourself; imposing on those who would offer to help you.
+
+#### With Body or Mind
+
+Toxins which accumulate due to the stress of living or work; colon or elimination problems due to inadequate attention to your body’s basic needs.
+
+#### In Politics or Business
+
+- Thesis: The pursuit of large and expensive research or social projects; studies involving the concept of the earth, the solar system, etc., as a living organism; practices concerning the disposal of toxins or waste products.
+- Anti: Inadequate preparation, supplies for emergencies, or similar large disasters; overloaded waste disposal systems; destructive self-centered terrorist actions; focusing on weapons systems for great destruction.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Pluto/MC Concepts](../derived/munkasey-pluto-mc-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: One’s own intellectual capacity, as well as the ability and possibility of development. Ones capacity to apprehend. Ones own transformation and development. Inner transformation. The developmental stages of the own mind. Metamorphosis. To appear to be a completely different person. Moment (minute) of change.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -108,7 +143,8 @@ One’s own intellectual capacity, as well as the ability and possibility of dev
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -119,3 +155,4 @@ One’s own intellectual capacity, as well as the ability and possibility of dev
 - [Pluto](../factors/pluto.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

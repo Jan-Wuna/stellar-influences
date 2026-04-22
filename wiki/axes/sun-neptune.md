@@ -58,7 +58,8 @@ source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -155,14 +156,46 @@ Sobriety, in the widest sense, is needed to enable one to steer through the rock
 - Harmonious: Dickens, Cecil Rhodes, King George V, Zola, Grant, Tolstoy, Thomas Huxley, John Burns, Lous XIV of France, Henry Ford, Thomas Hardy.
 - The Conjunction: Edison, Felix Faure, Savonarola, G.R.S. Mead, Adeline Patti, George IV, Richard Cromwell, King Alfonso of Spain, W.J. Bryan, Crown Princes of Germany.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `SUN/NEPTUNE`
+- Source page: `83`
+
+#### Basic Ideas
+
+This combination highlights the dreams you have about your ability and determination to present yourself as a competent and effective person. Your idealism molds your motives and purposes. You dream of competence and self-effectiveness. You become deceived by your own concepts of self-importance, and lavishly shower devotion on trivial matters. Your motivations are driven by nebulous goals, and you pull your authority from personal feelings of divinity. You mold your basic power and influence thru your dreams and illusions. You encourage idealism and discourage looking at the reality of life, you deceive others with your motives, bring authenticity to mystical adventures, and confuse your will and reasoning abilities with dreams about by your ability to build an ideal. Responsibility becomes a relatively meaningless concept, and happens to be a topic you like to avoid.
+
+#### In Your Personal Life
+
+- Thesis: Brings good powers of visualization; building a reality from your dreams; influencing others with your dreams and visions; a deep grasp of occult or magic themes; an ability to visualize or create rituals.
+- Anti: Successfully deluding yourself about your abilities; adding to your own selfimportance and worth; playing roles of savior or victim; escaping from reality thru daydreams; expansion of your ego beyond reality.
+
+#### In Your Relationships
+
+- Thesis: Sending powerful subconscious messages to attract people to you; high ideals about people and their motivations; seeking the ideal in your relationships to fulfill your dreams of a more perfect life with another.
+- Anti: Becoming so enthralled with your own self-importance that you cannot adequately meet partner’s needs; exploiting and then discarding people without realizing how you use them; plays the role of a victim.
+
+#### With Body or Mind
+
+A weakened bodily constitution; a decrease of willpower; potential drug addictions; visualizing and projecting yourself as healthy; a lack of a will to continue.
+
+#### In Politics or Business
+
+- Thesis: A leader with the ability to thrill the masses thru visions of a great future; projection of the ‘good times’; an ability to respond to the needs of the consumers by offering products based on popular concepts.
+- Anti: A leadership which goes to excess and exhausts itself on impractical schemes; inflation which drains resources; budget deficits; drug problems; promises made but not backed with substance or intention.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Sun/Neptune Concepts](../derived/munkasey-sun-neptune-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: source-native Witte, Falis, and Carter statements are preserved side by side above on the same canonical axis page.
-- psychology: Witte remains compressed and aphoristic, Falis remains experiential, and Carter adds explicit aspect-family distinctions when the source supplies them.
-- body/health: Carter sometimes states health and bodily outcomes directly by aspect family; the other sources remain less sectioned here.
-- social/relationship: each source keeps interpersonal implications inside its own source block instead of being silently merged.
-- events/manifestations: Carter remains axis-level aspect doctrine only; activation pages stay orientation-specific and unchanged.
-- conflicts/notes: this page intentionally mixes midpoint-axis doctrine and Carter's planetary-aspect doctrine because Carter was approved for collapse into the canonical axis page.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -190,7 +223,7 @@ Sobriety, in the widest sense, is needed to enable one to steer through the rock
 ## Contradictions
 
 - No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices and aspect-family emphases rather than flattened into one wording.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -203,3 +236,4 @@ Sobriety, in the widest sense, is needed to enable one to steer through the rock
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

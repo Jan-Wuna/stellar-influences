@@ -3,7 +3,7 @@ title: Asc/MC
 page_type: axis
 slug: asc-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - MC
@@ -56,31 +56,66 @@ aliases:
   - MC/Asc
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
 
 - Axis: `Asc/MC`
-- Source heading: `MC + Asc`
-- Source page: `58`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `MC + Asc`
+- Source page: `58`
+
 #### Pair Summary
 
 One’s relationship, position or attitude towards others. To join with others for a common objective. The social and vocational relations in the closer surroundings. Others influence one’s own emotions. In this minute at this place.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `ASCENDANT/MIDHEAVEN`
+- Source page: `363`
+
+#### Basic Ideas
+
+The understanding you bring to interpersonal situations thru the expertise or knowledge you have accumulated during your life, and your perceptions and comprehension about what you must do to become a better person or better your lot in life, are represented here. These themes help you with efforts (education, work, friendships formed, travel, etc.) to enrich your life’s experiences, bring attention for the work you do, and help add to recognition for your endeavors. Your sense of belonging within a community or family environment, the growth of your intellectual capabilities by absorbing the lessons of life, your effort to enrich yourself or expand your lifestyle, and your reflection about situations in life all start here. How you can or cannot relate and grow thru life’s experiences, and the feedback you receive from friends about your personal status and development also start here.
+
+#### In Your Personal Life
+
+- Thesis: Learning and maturing as you develop in life; the effects of the lessons of life and how you absorb these; your self-concept and how this changes as you encounter difficulties; your attitudes toward principles.
+- Anti: Perceptions that you are going nowhere in life and are not able to alter your destiny; ignoring the object of lessons that life continues to repeat for you; your inability to learn thru using self-growth or restraint.
+
+#### In Your Relationships
+
+- Thesis: Devoting more attention to growing with others; learning and growing due to the mental perspective that a new relationship brings to you; seeing others as a unique individuals, and all with different needs.
+- Anti: An inability to appreciate the differences between others and self; your refusal to learn from associating with other people; an inability to get the type of help you need in life from friends, partners, or backers.
+
+#### With Body or Mind
+
+Psychological growth experiences; the amount of maturing you do thru your reactions to circumstances or situations in life; a measure of your maturity.
+
+#### In Politics or Business
+
+- Thesis: Feedback and judgment about the quality and appreciation of an enterprise’s services and reputation; the leadership’s ability to guide enterprises thru their periodic cycles of expansion and contraction.
+- Anti: A lack of progress in the improvement of the quality of the lives of others; an inability to find common or shared goals with neighbors or with those who contributed to your origins; exclusion of racial groups.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Asc/MC Concepts](../derived/munkasey-asc-mc-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: One’s relationship, position or attitude towards others. To join with others for a common objective. The social and vocational relations in the closer surroundings. Others influence one’s own emotions. In this minute at this place.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -107,7 +142,8 @@ One’s relationship, position or attitude towards others. To join with others f
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -118,3 +154,4 @@ One’s relationship, position or attitude towards others. To join with others f
 - [Asc](../factors/asc.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

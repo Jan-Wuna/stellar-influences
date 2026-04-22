@@ -57,7 +57,8 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - michelle-falis-planet-combinations-astrological-brainstorms
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -86,14 +87,46 @@ Physical transformation, development and change. To grow. The circulation of the
 
 Will power. Wanting to have power over others. Wanting to be powerful. Wanting to have the power that others have. Being involved with the government - for better or worse. Wanting a powerful position in the world. Needing to show or prove how powerful you are. Needing to show or prove your intensity of purpose. Powerful creative forces. A compulsive personality. An obsessive personality. Pitting yourself against people who are more powerful than you are. Allying with powerful people. Diving into your own depths. Getting to know your deepest self. Self-regeneration. Self-transformation. Psychoanalysts. Intense self-discovery. Throwing yourself into extreme situations to see what you're made of. Transformation through self perpetuated crisis. Grappling with a desire to explore the seedy side of life. Need ing to live a life beyond surface expectations. Needing to live a life of depth. Feeling compelled to interact with people who will tear down your ego. Feeling compelled to have someone rip you a new one from time to time. Bringing difficult circum stances upon yourself to test your own mettle. Shining a light into the totality of that which you are - the dark and the light. Blending and healing the dark with the light and the light with the dark. People who live close to death or deal with the dead or dying. People who live close to power. Living in the shadows. People who live on the dark side. Darth Vader. The Villain. A person who represents everything we hate in ourselves - everything we want to crush, disown, cast out or kill. You draw villainous people to you. You draw powerful personalities to you. You measure yourself against other powerful people. You measure yourself against the worst of society and claim, "I'm nothing like that!" or fear that you are exactly like that underneath it all. Identifying with the villain. Identifying with criminals. Identifying with powerful people. Identifying with the scourge of society. Identifying with healers and shamans. Identifying with your obsessions and compulsions. Identifying with processes of deep cleansing, trans formation and rebirth. Feeling empowered by life. Using power and intimidation to your advantage. Knowing how to intimidate peo ple. Having a powerful presence. Not suffering fools. Deep cleaning your ego. Hav ing extreme experiences for the sake of the learning experience. Power mongers. Despots. Polarizing individuals. These are people most people either love or hate. You know how to get under people's skin. Interrogators. Controlling personalities. Self-destruction. Self-annihilation. Purging. Living in the underworld. Criminals. Shining a light into the underworld. Entering where other people dare not step. Try ing to always keep the upper hand in all situations. Hiding your true self. Con cealing who you really are. Staying hidden. Self-imprisonment. Good self-control. Staying underground and off the radar. Self-obsessed. Paranoid. Obsessed with your own fame or other people's fame. Obsessed with your own self-expression. Children who are given too much power. Children who control the parents. Pow erful pride. Indomitable will. Power games and power struggles. Struggles for dominance. Being abused, or abusing others. Feeling powerless. Feeling over powered by life. Attempting to control the men in your life. Feeling controlled by the men in your life. Experiencing your father as a controlling person. The urge to dominate. Feeling that you are being dominated by others. Feeling that you have no control over your life. Feeling that your life is controlled by others. Feeling that your purpose is out of your hands. Finding deep healing resources within yourself Finding the capacity to fully and fundamentally transform who you are. People who take part in trans forming their generation's purpose. Regenerating the dead aspects yourself. Recog nizing your shadow self rather than casting it on other people.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `SUN/PLUTO`
+- Source page: `87`
+
+#### Basic Ideas
+
+Your fundamental urge to exert control over all situations, your capacity or determination to defeat or ally with corrupt forces as they rise around you, and the mastery you show against selfcorruption are prominent with this combination. Your commitment to concentrating yourself into the essence of what you are as a person, the secret motivations you rally your inner strength around, and the obsession you have with increasing your self-confidence are also here. You appear as a person who has a deep and formidable willpower, and one who is not easily swayed from important decisions about where your life is going. You may appear to others to have an easygoing outer facade, but inwardly you are a tower of strength and determination. The strength and resolution you bring thru these motifs to effect what you want in life is immense. You do not give up easily against anything.
+
+#### In Your Personal Life
+
+- Thesis: The force of will and determination you bring toward achieving your objectives; the unswerving reliability you offer to others; keeping secrets under all situations; the success you achieve using threats.
+- Anti: Ruthless pursuit of your goals; focusing on activities which enable the accumulation of power; punishment for those who cannot perform their tasks; squandering your will by giving up on your principles.
+
+#### In Your Relationships
+
+- Thesis: You need to express your deeply felt emotions to a partner who also responds in kind; a deep need for truth between people; expressions of loyalty or respect and how these are reciprocated by your partner.
+- Anti: Deep feelings of hurt when another has betrayed your love or trust; an inability to find another who can respond with intense emotions; your need to dominate another person thru the use of love or sex.
+
+#### With Body or Mind
+
+The role of the colon in maintaining your overall health; susceptibility to any infections caused by toxic conditions in the body or environment.
+
+#### In Politics or Business
+
+- Thesis: Changes of policy or direction from the leadership; new leadership and the changing of policy and direction; the governing authority used to control threatened dissent or subversion despite its cause or sources.
+- Anti: Accumulation of an excessive amount of armed strength; the use of secret police to exert authority and control over others; the influence of criminal organizations; extremes of corruption which waste resources.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Sun/Pluto Concepts](../derived/munkasey-sun-pluto-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: source-native Witte and Falis axis statements are preserved side by side above.
-- psychology: Falis leans more heavily into experiential and psychological phrasing, while Witte stays compressed and aphoristic.
-- body/health: no dedicated body or health subsection is isolated by either source on this axis page.
-- social/relationship: both sources keep interpersonal implications inside the axis entry itself when relevant.
-- events/manifestations: see the source entries above and the orientation-specific activation pages linked below; Falis remains axis-only here.
-- conflicts/notes: this page preserves distinct source voices side by side instead of flattening them into one wording.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -120,8 +153,8 @@ Will power. Wanting to have power over others. Wanting to be powerful. Wanting t
 
 ## Contradictions
 
-- No direct contradiction is recorded yet between Witte and Falis on this axis.
-- Differences are currently treated as emphasis and vocabulary, not as silently merged doctrine.
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -133,3 +166,4 @@ Will power. Wanting to have power over others. Wanting to be powerful. Wanting t
 - [Pluto](../factors/pluto.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

@@ -58,7 +58,8 @@ source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -136,14 +137,46 @@ With respect to health the afflictions cause debility, catarrhal conditions, col
 - The Conjunction: Don Carlos of Portugal, W.Q. Judge, Franz Hartmann, Franz Joseph of Austria, Crown Prince of Germany.
 - Inharmonious: Charles Dickens, Mrs. Eddy, Nicholas II of Russia, William II of Prussia, Boulanger, Culpepper, Thomas Hardy, Sir J. M. Barrie, Presidents Calvin Coolidge, Woodrow Wilson, Hoover and F.D. Roosevelt.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `SUN/SATURN`
+- Source page: `75`
+
+#### Basic Ideas
+
+The Sun and Saturn themes combine your ideas on discipline and determination to lend purpose to your goals for completing your activities. These motifs impart an air of authority to your generally respectable nature, send signals of rejection from or to prominent persons, influence your inflexibility, and then give you resolve and persistence to see your way thru any obstacle or over any barrier. Your dedication when aroused is usually seriously and cautiously shown, you reduce or restrict any personal embellishments or lavishness, and this seriousness helps you gain respect for the accomplishments you do. There is a sense of purpose behind the way you discipline yourself for your work assignments. You realize early that others do not always appreciate your efforts and you must work very hard to overcome their criticisms; you dedicate yourself to patience and completing work thoroughly.
+
+#### In Your Personal Life
+
+- Thesis: Great determination and the rigid appearance of control and discipline about your activities; an appearance of reserve and caution that is built upon personal power; you seem to have a sense of propriety about you.
+- Anti: Much pessimism about accomplishing the details of the work assigned to you; blocking or resisting others when you do not want to be moved or changed in your position or attitudes; diminishes confidence.
+
+#### In Your Relationships
+
+- Thesis: Brings seriousness and reality to relationships; motivates partners to find more practical ways to share themselves; adds a respectability to joint efforts; as the relationship matures this helps to bring stability.
+- Anti: Gloom and dejection may be so strong that you are afraid to make commitments in relationships; powerful forces seem to bring bars or constraints to meetings or affiliations; conceit increases with aging.
+
+#### With Body or Mind
+
+Mineral deposits in the arteries near the heart; blood and lymph circulation conditions in general; your posture; infections in general; arthritis; gout.
+
+#### In Politics or Business
+
+- Thesis: Helps adds form and definition to an enterprise; the will of the people as defined in the principle founding documents; checks and balances within enterprises as implemented by various administrations.
+- Anti: Pessimism and gloom as a center focus of policy; unreasonable centralization of authority in one location; a leadership pre-occupied with the various forms of law enforcement; older and more distanced leaders.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Sun/Saturn Concepts](../derived/munkasey-sun-saturn-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: source-native Witte, Falis, and Carter statements are preserved side by side above on the same canonical axis page.
-- psychology: Witte remains compressed and aphoristic, Falis remains experiential, and Carter adds explicit aspect-family distinctions when the source supplies them.
-- body/health: Carter sometimes states health and bodily outcomes directly by aspect family; the other sources remain less sectioned here.
-- social/relationship: each source keeps interpersonal implications inside its own source block instead of being silently merged.
-- events/manifestations: Carter remains axis-level aspect doctrine only; activation pages stay orientation-specific and unchanged.
-- conflicts/notes: this page intentionally mixes midpoint-axis doctrine and Carter's planetary-aspect doctrine because Carter was approved for collapse into the canonical axis page.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -171,7 +204,7 @@ With respect to health the afflictions cause debility, catarrhal conditions, col
 ## Contradictions
 
 - No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices and aspect-family emphases rather than flattened into one wording.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -184,3 +217,4 @@ With respect to health the afflictions cause debility, catarrhal conditions, col
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

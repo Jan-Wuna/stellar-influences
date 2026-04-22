@@ -3,7 +3,7 @@ title: Pluto/Node
 page_type: axis
 slug: pluto-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Node
@@ -56,32 +56,67 @@ aliases:
   - Node/Pluto
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
 
 - Axis: `Pluto/Node`
 - Astronomicon axis: `Z/g`
-- Source heading: `Node + Pluto`
-- Source page: `148`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Node + Pluto`
+- Source page: `148`
+
 #### Pair Summary
 
 New connections. Changes through connections. Acquaintances who experience changes. Relationships that can change events or who expect changes. Development or transformation in relationships. Renewing a relationship.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `PLUTO/NODE`
+- Source page: `343`
+
+#### Basic Ideas
+
+These themes help you increase your influence and gain encouragement thru those people or groups who can provide you with important ties. Your compulsion to seek others out, the obsessions you have with meeting the right people, or the needs you have to start new friendships with influential people are encouraged here. These issues help you discover the consequences of past actions thru your experiences with life, and to realize the rewards or gains you may accumulate from these. Your need to find others for fulfillment, your tendency to abuse friendships, the role of friends who disappear or die, or the drains on your personal and material resources which others create may originate here. These motifs also activate your need to wreck vengeance or be vindictive, use or abuse poisonous substances, and mirrors the sexual or carnal opportunities you seek from others.
+
+#### In Your Personal Life
+
+- Thesis: Seeking and finding important or influential people who help you; compulsions or insatiable desires for attracting others to you; opportunities to make great gains in life through others who help you.
+- Anti: Increased obsession for using others for your own purposes; encourages meetings where you are assessed or where you evaluate the abilities of others; planning retaliation for past activities; hidden slurs returned.
+
+#### In Your Relationships
+
+- Thesis: Encourages you to use professional or community groups to meet new partners; personal contacts acquired thru connecting to others; establishing new or breaking old ties; noticing new attraction or sexuality.
+- Anti: Using others solely as sexual objects; added inability to understand the human side of relationships; using partner or friends while expecting to return little to them; taking sexual advantage in the wrong way.
+
+#### With Body or Mind
+
+Blockages which affect your pituitary or endocrine glands; sexual preferences or capacities; accumulation of toxins due to blockage of tubes or passages.
+
+#### In Politics or Business
+
+- Thesis: Agreements about reciprocal rights for information obtained thru clandestine methods; violent or criminal persons who enter the country secretly at any given opportunity; sewage or waste compacts.
+- Anti: Treaties involving the exchange of secretive or clandestine data; people who may not have the country’s or business’s best interests in mind; breakdowns in security or treaties due to the actions of other persons.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Pluto/Node Concepts](../derived/munkasey-pluto-node-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: New connections. Changes through connections. Acquaintances who experience changes. Relationships that can change events or who expect changes. Development or transformation in relationships. Renewing a relationship.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -108,7 +143,8 @@ New connections. Changes through connections. Acquaintances who experience chang
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -119,3 +155,4 @@ New connections. Changes through connections. Acquaintances who experience chang
 - [Pluto](../factors/pluto.md)
 - [Node](../factors/node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

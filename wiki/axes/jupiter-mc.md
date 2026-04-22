@@ -3,7 +3,7 @@ title: Jupiter/MC
 page_type: axis
 slug: jupiter-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - MC
@@ -56,32 +56,67 @@ aliases:
   - MC/Jupiter
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
 
 - Axis: `Jupiter/MC`
 - Astronomicon axis: `V/MC`
-- Source heading: `MC + Jupiter`
-- Source page: `65`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `MC + Jupiter`
+- Source page: `65`
+
 #### Pair Summary
 
 Blissful feelings. To be positive of one’s own direction in life. An optimist. To be well-wishing and benevolent. Harmless, good natured or contented. To feel happy. Reach one’s own goals with luck and success. The own attitude to money. Moment of happiness.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `JUPITER/MIDHEAVEN`
+- Source page: `279`
+
+#### Basic Ideas
+
+These themes represent the importance of cultivating a social or political life, and the role that being a leader in society can have on your goals, hopes, ambitions, and self-image. These motifs help you an inner personal wisdom thru your family and early life experiences. Here begin the rules of personal conduct you adopt to enhance your reputation, the religious or philosophical theories you accept and practice to enrich your personal development, and the optimism you learn to show as part of your life’s guiding principles. Expanding your overall knowledge and acquiring experience from life; developing an understanding of people and their how to motivate them effectively; learning to be forgiving about mistakes, omissions, or intolerances; and developing a respect for conscience and its role in helping you become a more morally and ethically responsible person, begins here.
+
+#### In Your Personal Life
+
+- Thesis: The pursuit of ethics, philosophy, or morality as a fundamental goal of life; expansion of your early learning to include concepts that are far beyond previous experiences; success due in part to credentials earned.
+- Anti: You may become so theoretical that you cannot accept fundamental changes to the way you conduct your life; an inability to accept any philosophy or set of guiding principles in life, as you try many of them.
+
+#### In Your Relationships
+
+- Thesis: Increased ability to relate and grow thru the various experiences your partners provide for you; aspirations to expand your social life, sports, travel, and philosophy with or thru a partner in a significant way.
+- Anti: Finding that you are less than honest about what you contribute to your partner; failing to develop the potential you have with another; neglect of social chances with your partner due to misunderstandings.
+
+#### With Body or Mind
+
+Genetic patterns or abnormalities from gracious living, or from being unable to cope with social or peer pressures; a family history of drug dependencies.
+
+#### In Politics or Business
+
+- Thesis: Plans set forth by the executives for future guidance; recognition or reward given due for past work or accomplishments; political maneuverings and posturings within society; situations with distant people.
+- Anti: A legal system which sets restraints on how the executive is able to fulfill its plans for the future; religious principles which set overall policy; questions about the morality or intentions of the leadership.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Jupiter/MC Concepts](../derived/munkasey-jupiter-mc-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: Blissful feelings. To be positive of one’s own direction in life. An optimist. To be well-wishing and benevolent. Harmless, good natured or contented. To feel happy. Reach one’s own goals with luck and success. The own attitude to money. Moment of happiness.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -108,7 +143,8 @@ Blissful feelings. To be positive of one’s own direction in life. An optimist.
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -119,3 +155,4 @@ Blissful feelings. To be positive of one’s own direction in life. An optimist.
 - [Jupiter](../factors/jupiter.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

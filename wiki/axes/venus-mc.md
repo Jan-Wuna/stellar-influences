@@ -3,7 +3,7 @@ title: Venus/MC
 page_type: axis
 slug: venus-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - MC
@@ -56,32 +56,67 @@ aliases:
   - MC/Venus
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
 
 - Axis: `Venus/MC`
 - Astronomicon axis: `Q/MC`
-- Source heading: `MC + Venus`
-- Source page: `63`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `MC + Venus`
+- Source page: `63`
+
 #### Pair Summary
 
 One’s own personal affections. Love sentiments. One’s wishes and hopes. One’s own personal attraction. To have the power of attraction. To be attractive. To be fond of something. Peaceful minded. Feeling balanced. Sense of attraction. Sympathies.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `VENUS/MIDHEAVEN`
+- Source page: `219`
+
+#### Basic Ideas
+
+This combination represents the appreciation you develop within yourself for the accomplishments and recognition you receive. Also here is your inner sense of gratitude and the feelings of self-worth you have about your choice of career, the positions you earn, your work proficiency, the cooperation you give to or receive from others, and the reimbursement you receive because of your qualifications. These themes also represent the way you integrate and relate to the feminine energies within yourself, and how secure you feel with the feminine side of your nature, regardless of your sex. These motifs depict your ability to mature thru the experiences you gain by understanding love, both giving and receiving, and in the romantic, family, global, and brotherly senses. They denote how you relate to and take advantage of beauty, art, or music in your home, professional, or inner life.
+
+#### In Your Personal Life
+
+- Thesis: Coping with what life returns to you from the efforts you give; growing thru a use and understanding of the finer things in life; using beauty and harmony to achieve peace in life; pleasure with your life goals.
+- Anti: The difficulties you have in learning how to blend gifts of money or material possessions with the appreciation you receive from others; the lessons of learning how to treasure whatever returns to you in life.
+
+#### In Your Relationships
+
+- Thesis: Learning to both give and receive love; the role you want love to have in your relationships, and the inner peace you achieve thru this; learning to love another or to return the love of another person.
+- Anti: Equating love given or received with material gifts or presents; the role that developing sophistication in love, beauty, or the arts takes in your life, and how you use these new talents to make your life harmonious.
+
+#### With Body or Mind
+
+An inability to develop an appreciation for what others do for you; your ability to feel inner peace thru your romantic involvements; genetic blood disorders.
+
+#### In Politics or Business
+
+- Thesis: Wealth or resources accumulated to help achieve goals; the use of artistic works, or acclaimed artists, to enhance the image of an enterprise; a treasury bureau which sets important policy or trends.
+- Anti: A squandering of wealth on projects which do little to bring a return to the enterprise; an inability to find cooperation with others in the pursuit of common goals; creating superficial changes for visitors.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Venus/MC Concepts](../derived/munkasey-venus-mc-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: One’s own personal affections. Love sentiments. One’s wishes and hopes. One’s own personal attraction. To have the power of attraction. To be attractive. To be fond of something. Peaceful minded. Feeling balanced. Sense of attraction. Sympathies.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -108,7 +143,8 @@ One’s own personal affections. Love sentiments. One’s wishes and hopes. One�
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -119,3 +155,4 @@ One’s own personal affections. Love sentiments. One’s wishes and hopes. One�
 - [Venus](../factors/venus.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

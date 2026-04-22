@@ -3,7 +3,7 @@ title: Venus/Asc
 page_type: axis
 slug: venus-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Asc
@@ -56,32 +56,67 @@ aliases:
   - Asc/Venus
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
 
 - Axis: `Venus/Asc`
 - Astronomicon axis: `Q/Asc`
-- Source heading: `Asc + Venus`
-- Source page: `84`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Asc + Venus`
+- Source page: `84`
+
 #### Pair Summary
 
 Lovable acquaintances. To be treated well by others. Others who long for the native. Personal love connections and love unions. To show evidence of love. Nice appearance. Peace in the immediate vicinity. Harmonious relations to the place. Harmonious surroundings. Peaceful place.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `VENUS/ASCENDANT`
+- Source page: `215`
+
+#### Basic Ideas
+
+This combination increases your desire to be appreciated and liked by the other people you meet. When these themes are activated you find a strong desire to tell others what they want to hear and to act in ways that please them. You are motivated to bring pleasure to those you meet and to impress people with your charm and grace. Developing loving attitudes and intentions which go far to give the impression that you are a polite and likeable person is indicated. You center your mind on peace and harmony and spend much time thinking about your appearance, your mannerisms, and what others think of you. However, you do not necessarily have an option to alter any of these matters, and you may prefer to dress poorly or appear sloppy although your ideals lie elsewhere on these subjects. You could easily become jealous when other people seem to make a better impression than you.
+
+#### In Your Personal Life
+
+- Thesis: Increased needs to become aware or self and your values in life on the subject of appearance, manners, etc.; you notice the appearance of others easily, and become quick to note their imperfections and faults.
+- Anti: You think one way about pleasing people but act in a different way; you enjoy fine things and luxury but will not work hard to attain these; you love to have others indulge or pamper you; you greet others with love.
+
+#### In Your Relationships
+
+- Thesis: Enhanced ability to work with others as potential partners; an awareness of different ways to generate rapport; increased ability to please others as you want to become very aware of what delights them.
+- Anti: Your need for personal gratification is locked into one thing: you; other people find it hard to please you because you do not share your inner self easily; you are often disappointed with the way others treat you.
+
+#### With Body or Mind
+
+Your ability to feel comfortable with the image you project to others; your psychological state and feelings about love and affection; a refined taste or smell.
+
+#### In Politics or Business
+
+- Thesis: Other become impressed with your wealth and beauty of your home or surroundings; art which serves to inspire others; a society judged thru the glamour of its mannerisms; focus on showing or displaying wealth.
+- Anti: A strong political focus on the natural resources or treasury; efforts to promote natural beauty or scenic areas; the effect of the opinions of others on trends in art or music; misusing art for shows of glamour.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Venus/Asc Concepts](../derived/munkasey-venus-asc-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: Lovable acquaintances. To be treated well by others. Others who long for the native. Personal love connections and love unions. To show evidence of love. Nice appearance. Peace in the immediate vicinity. Harmonious relations to the place. Harmonious surroundings. Peaceful place.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -108,7 +143,8 @@ Lovable acquaintances. To be treated well by others. Others who long for the nat
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -119,3 +155,4 @@ Lovable acquaintances. To be treated well by others. Others who long for the nat
 - [Venus](../factors/venus.md)
 - [Asc](../factors/asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

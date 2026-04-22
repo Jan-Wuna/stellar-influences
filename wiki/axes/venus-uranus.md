@@ -58,7 +58,8 @@ source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
@@ -136,14 +137,46 @@ The effects of the sexual life upon the health are often unhelpful.
 - The Conjunction: Nicholas II, Shelley.
 - Inharmonious: Svaonarola, Dr. Besant, Wallenstein, Wolsely, Hindenburg, Lord Oxford (H.H. Asquith), A.P. Sinnett (theosophist).
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `VENUS/URANUS`
+- Source page: `199`
+
+#### Basic Ideas
+
+This combination brings methods of affection and loving that are both impersonal and independent. You find new ways of expressing your appreciation for what others do, develop a fondness for innovation or unpredictability, and get pleasure from surprising others with peculiar ways of expressing sophistication. You can show a politeness while disrupting and disturbing others, feel delight when seeking reforms, and discover pleasure while expressing new forms of anti-social behavior. Unique and unusual forms of entertainment attract you. You get sudden temptations which need to be satisfied, discover new ways of charming others, and create distinctive forms of dress or relaxation. This combination helps you to express unique ways of showing your affection, brings a love of mechanical and electrical objects, and a jealousy which is aroused in sudden and unusual ways.
+
+#### In Your Personal Life
+
+- Thesis: Encourages a stamp of personal individuality in the way you desire to show affection to others; beauty which is expressed in unusual ways; your ability to derive enjoyment thru using or studying astrology.
+- Anti: An inability to derive satisfaction or pleasure easily; the restless feeling which accompanies your longing to find self worth; a longing to appreciate who you are as a person or tangible things you can do for others.
+
+#### In Your Relationships
+
+- Thesis: A relationship where your partner finds your expression of uniqueness to be fulfilling and satisfying; affection expressed in unusual ways and yet is appreciated by another; enjoyment you get from being different.
+- Anti: You keep finding partners who cannot accept the way you show love; you feel detached in your affection for another; indifference to the ways others express beauty or loveliness; sudden temptations which arise.
+
+#### With Body or Mind
+
+Any unusual compositions in your blood; shock due to acid conditions in the body; abnormalities in the female organs; sudden complications in the throat.
+
+#### In Politics or Business
+
+- Thesis: A Treasury which shows unexpected rises and falls in its valuation; rulers using unusual means to develop the plant or tree resources available; a strange appreciation for financial assets or planning.
+- Anti: Distinctive settings which are suddenly exploited for development; the ruling bodies unable to cope with sudden infusions or lacks of financial resources; unpredictable vanity shown by leaders or executives.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Venus/Uranus Concepts](../derived/munkasey-venus-uranus-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: source-native Witte, Falis, and Carter statements are preserved side by side above on the same canonical axis page.
-- psychology: Witte remains compressed and aphoristic, Falis remains experiential, and Carter adds explicit aspect-family distinctions when the source supplies them.
-- body/health: Carter sometimes states health and bodily outcomes directly by aspect family; the other sources remain less sectioned here.
-- social/relationship: each source keeps interpersonal implications inside its own source block instead of being silently merged.
-- events/manifestations: Carter remains axis-level aspect doctrine only; activation pages stay orientation-specific and unchanged.
-- conflicts/notes: this page intentionally mixes midpoint-axis doctrine and Carter's planetary-aspect doctrine because Carter was approved for collapse into the canonical axis page.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -171,7 +204,7 @@ The effects of the sexual life upon the health are often unhelpful.
 ## Contradictions
 
 - No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices and aspect-family emphases rather than flattened into one wording.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -184,3 +217,4 @@ The effects of the sexual life upon the health are often unhelpful.
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

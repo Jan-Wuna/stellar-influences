@@ -3,7 +3,7 @@ title: Neptune/MC
 page_type: axis
 slug: neptune-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - MC
@@ -56,32 +56,67 @@ aliases:
   - MC/Neptune
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-04-22
 ---
 
 ## Identity
 
 - Axis: `Neptune/MC`
 - Astronomicon axis: `Y/MC`
-- Source heading: `MC + Neptune`
-- Source page: `68`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `MC + Neptune`
+- Source page: `68`
+
 #### Pair Summary
 
 To decline. To refuse something. To be unsure, unable to support. Unintelligible attitude. To follow wrong ideas. “I deceive”. Untruth. Falsehood. Swindle. To be intuitive. To concentrate on the future. To follow the unknown, the doubtful. To be disappointed. To appear unreliable or mysterious. To feel uncomfortable. Moment (minute) of uncertainty.
 
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `NEPTUNE/MIDHEAVEN`
+- Source page: `339`
+
+#### Basic Ideas
+
+These themes increase your indecision when planning for your life’s direction, and add to inner doubts about the personal progress you are or are not making in life. Thru these motifs it may be easier for you to abandon any self restraint and slip into habits which make it more difficult for you to plan effectively. They also increase your desire to grow apart from your origin or family as you try to define who you are as a person and where you want to go with life. There is a danger of ignoring your need for career qualifications or your education, ambiguity about how to set goals for yourself in life, and a weakness with coping with those experiences of life which you must master to live. However, these points help you enhance your capacity to dream or envision for your future, and increase your ability to see yourself growing and maturing thru a more well rounded sense of god or soul.
+
+#### In Your Personal Life
+
+- Thesis: An enhanced ability to visualize future directions and goals in life; gaining inspiration from your dreams and ideas about the future; finding mystical or foreign concepts or principles to enrich your life.
+- Anti: Deluding yourself about your ability to compete in life; adds to the confusion you feel about who you are or what you should be or do with your life; feeling inadequate when coping against others in life.
+
+#### In Your Relationships
+
+- Thesis: Enhances mystical feelings of one-ness with those persons with whom you like to be physically close; enhanced feelings and intuition about the current status of your relationships; reading partner’s feelings.
+- Anti: Makes it easier for you to deceive yourself about another’s motives and intentions; clouds your ability to clearly see what you are able to contribute to others, or what it is that others want from you in a relationship.
+
+#### With Body or Mind
+
+May bring a genetic weakness or body reaction to certain allergens, drugs, alcohol, etc; examine family heredity patterns for tendencies to certain genetic traits.
+
+#### In Politics or Business
+
+- Thesis: Helps leaders re-evaluate or re-examine the ideals of their enterprises and plan toward those goals; brings hints about planning for the future which originate within the dreams and visions of the leadership.
+- Anti: Increases the likelihood that leaders will allow others to deceive them about their intentions and motives; spies which undermine the national security; official scandals of very large scope or proportions.
+
+#### Munkasey Concepts Companion
+
+- [Michael Munkasey - Neptune/MC Concepts](../derived/munkasey-neptune-mc-concepts.md)
+
 ## Comparative Schema
 
-- core meaning: To decline. To refuse something. To be unsure, unable to support. Unintelligible attitude. To follow wrong ideas. “I deceive”. Untruth. Falsehood. Swindle. To be intuitive. To concentrate on the future. To follow the unknown, the doubtful. To be disappointed. To appear unreliable or mysterious. To feel uncomfortable. Moment (minute) of uncertainty.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
 
 ## Related Activations
 
@@ -108,7 +143,8 @@ To decline. To refuse something. To be unsure, unable to support. Unintelligible
 
 ## Contradictions
 
-- None recorded yet for this source-only page.
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 ## Derived Synthesis
 
@@ -119,3 +155,4 @@ To decline. To refuse something. To be unsure, unable to support. Unintelligible
 - [Neptune](../factors/neptune.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

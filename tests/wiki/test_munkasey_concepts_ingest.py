@@ -4,12 +4,16 @@ from tools.wiki_pages import load_page
 
 
 SOURCE_SLUG = "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+WITTE_SLUG = "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures"
+FALIS_SLUG = "michelle-falis-planet-combinations-astrological-brainstorms"
+CARTER_SLUG = "charles-carter-the-astrological-aspects"
 
 
 def test_munkasey_source_page_exists_and_mentions_mwa_omission():
     page = load_page(Path("wiki/sources") / f"{SOURCE_SLUG}.md")
     assert page.meta["page_type"] == "source"
     assert page.meta["framework_scope"] == "modern_astrology"
+    assert "page-1 axis prose into canonical axis pages" in page.body
     assert "page-3 `CONCEPTS` corpus is preserved in `wiki/derived/`" in page.body
     assert "page-4 MWA example tables were intentionally omitted" in page.body
 
@@ -21,3 +25,41 @@ def test_sun_moon_concepts_companion_page_exists():
     assert "## Source Concepts" in page.body
     assert "- Arrogant Approval" in page.body
     assert "Jerry Rubin" not in page.body
+
+
+def test_sun_moon_axis_gains_munkasey_source_entry_and_companion_link():
+    page = load_page(Path("wiki/axes/sun-moon.md"))
+    assert page.meta["source_pages"] == [
+        WITTE_SLUG,
+        FALIS_SLUG,
+        CARTER_SLUG,
+        SOURCE_SLUG,
+    ]
+    assert "### Michael Munkasey - Midpoints: Unleashing the Power of the Planets" in page.body
+    assert "direction and focus of your personal awareness" in page.body
+    assert "#### Munkasey Concepts Companion" in page.body
+    assert "../derived/munkasey-sun-moon-concepts.md" in page.body
+
+
+def test_witte_only_axis_becomes_comparative_with_munkasey_entry():
+    page = load_page(Path("wiki/axes/sun-node.md"))
+    assert page.meta["framework_scope"] == "comparative"
+    assert page.meta["source_pages"] == [
+        WITTE_SLUG,
+        SOURCE_SLUG,
+    ]
+    assert "### Michael Munkasey - Midpoints: Unleashing the Power of the Planets" in page.body
+    assert "../derived/munkasey-sun-node-concepts.md" in page.body
+
+
+def test_venus_saturn_axis_links_exactly_one_concepts_companion():
+    page = load_page(Path("wiki/axes/venus-saturn.md"))
+    assert page.body.count("munkasey-venus-saturn-concepts.md") == 1
+
+
+def test_mwa_example_table_text_is_not_rendered_to_axis_pages():
+    page = load_page(Path("wiki/axes/sun-moon.md"))
+    assert "Significant Examples of People and Events Using Sun/Moon" not in page.body
+    assert "STRONG:" not in page.body
+    assert "WEAK:" not in page.body
+    assert "EVENTS:" not in page.body

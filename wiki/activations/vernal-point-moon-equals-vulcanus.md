@@ -3,7 +3,7 @@ title: Vernal Point/Moon = Vulcanus
 page_type: activation
 slug: vernal-point-moon-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Moon
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Moon
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Moon`
-- Source page: `38`
 #### Witte Entry
 
 Attracting attention. Influence of females. Persons with executive power. Powerful and mighty peoples. People who are admired.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Attracting attention. Influence of females. Persons with executive power. Powerful and mighty peoples. People who are admired.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Women in public, women's power in public, women's power in public life, women's freedom in public, violence against women in public, the power of the Mother of the World, and the hour of violence in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Moon = Vulcanus`: attracting attention, influence of females, persons with executive power, powerful and mighty peoples, and people who are admired.
+- Practical expression: women in public, women's power in public, women's power in public life, women's freedom in public, and violence against women in public.
 
 ## Links
 
@@ -61,3 +56,5 @@ Attracting attention. Influence of females. Persons with executive power. Powerf
 - [Moon](../factors/moon.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Vernal Point/Moon](../axes/vernal-point-moon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

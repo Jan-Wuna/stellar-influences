@@ -3,7 +3,7 @@ title: Asc Kronos Poseidon
 page_type: triad_hub
 slug: asc-kronos-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Kronos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Asc Kronos Poseidon`
 - Astronomicon triad-set: `Asc ¤ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Kronos = Poseidon](../activations/asc-kronos-equals-poseidon.md)
-  Source page `94`
 - [Asc/Poseidon = Kronos](../activations/asc-poseidon-equals-kronos.md)
-  Source page `98`
 - [Kronos/Poseidon = Asc](../activations/kronos-poseidon-equals-asc.md)
-  Source page `302`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Kronos = Poseidon`: page `94`
-- `Asc/Poseidon = Kronos`: page `98`
-- `Kronos/Poseidon = Asc`: page `302`
+- `Asc/Kronos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `94`
+- `Asc/Kronos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `129`
+- `Asc/Poseidon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `98`
+- `Asc/Poseidon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `137`
+- `Kronos/Poseidon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `302`
+- `Kronos/Poseidon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `466`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Kronos = Poseidon`: service within educational, philosophical, or spiritual systems under recognized authority.
+- `Asc/Poseidon = Kronos`: acting according to higher principles in concert with others or associating with mentally superior people.
+- `Kronos/Poseidon = Asc`: connection with others through high-minded subjects, appearance of mental superiority, and strong influence from intellectually elevated people.
 
 ## Links
 
 - [Asc](../factors/asc.md)
 - [Kronos](../factors/kronos.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Neptune/Poseidon = Uranus
 page_type: activation
 slug: neptune-poseidon-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Neptune
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Poseidon`
-- Source page: `254`
 #### Witte Entry
 
 One’s own inner revolution. To rid oneself of false concepts and to turn to the truth. To suddenly realize the facts. To gain surprising new knowledge of highly mental occult connections.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: One’s own inner revolution. To rid oneself of false concepts and to turn to the truth. To suddenly realize the facts. To gain surprising new knowledge of highly mental occult connections.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+excitement through unclear ideas, dynamic culture of the future, disappointing cultural event, clarity through intuitive impulses, new ideas through sensitivity, surprising pretense of truth, restless weak mind, and uncertainty through weakness of reason
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Poseidon = Uranus`: One’s own inner revolution. To rid oneself of false concepts and to turn to the truth. To suddenly realize the facts. To gain surprising new knowledge of highly mental occult connections.
+- Practical focus: electrifies spiritual or subtle perception into sudden awakening. It points to sharp reversals of belief, surprising insight, and inner revolution that breaks false concepts open through revelation or unrest.
+- Practical expression: excitement through unclear ideas, dynamic culture of the future, disappointing cultural event, clarity through intuitive impulses, and new ideas through sensitivity.
 
 ## Links
 
@@ -61,3 +57,5 @@ One’s own inner revolution. To rid oneself of false concepts and to turn to th
 - [Poseidon](../factors/poseidon.md)
 - [Uranus](../factors/uranus.md)
 - [Neptune/Poseidon](../axes/neptune-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

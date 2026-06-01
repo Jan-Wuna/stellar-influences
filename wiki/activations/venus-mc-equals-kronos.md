@@ -3,10 +3,10 @@ title: Venus/MC = Kronos
 page_type: activation
 slug: venus-mc-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Venus
+  - MC
   - Kronos
 normalized_formula: Venus/MC = Kronos
 axis: Venus/MC
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - MC
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Venus`
-- Source page: `63`
 #### Witte Entry
 
 An idealistic point of view concerning love. One’s love for father, for superiors or for persons of importance. Extraordinary attitude to love, peace or harmony.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: An idealistic point of view concerning love. One’s love for father, for superiors or for persons of importance. Extraordinary attitude to love, peace or harmony.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special soul en harmony, harmony is important to me, greatness and beauty of a soul, my reputation in the arts, my goodwill for the state, my harmony with the boss, my artistic independence, and self consciousness through inner peace
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/MC = Kronos`: an idealistic point of view concerning love.
+- Practical expression: special soul en harmony, harmony is important to me, greatness, beauty of a soul, and my reputation in the arts.
 
 ## Links
 
@@ -61,3 +56,5 @@ An idealistic point of view concerning love. One’s love for father, for superi
 - [MC](../factors/mc.md)
 - [Kronos](../factors/kronos.md)
 - [Venus/MC](../axes/venus-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

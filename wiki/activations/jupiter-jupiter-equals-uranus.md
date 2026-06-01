@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Jupiter + Jupiter`
-- Source page: `205`
 #### Witte Entry
 
 Joyous happenings. Betrothal. Fortunate deed. To create something. To produce. Successful propagation. Pregnancy. Generation. Children. Fruits. Lucky deed. Joy of work. Fortunate accomplishments. Much to do. Work or activity for justice or money.
 
-## Comparative Schema
-
-- core meaning: Joyous happenings. Betrothal. Fortunate deed. To create something. To produce. Successful propagation. Pregnancy. Generation. Children. Fruits. Lucky deed. Joy of work. Fortunate accomplishments. Much to do. Work or activity for justice or money.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Jupiter = Uranus`: good fortune breaking out through creative action and sudden happy developments. It favors fertile initiative, lucky work, and accomplishments that feel lively, generative, and timely.
 
 ## Links
 

@@ -3,7 +3,7 @@ title: Saturn Node Admetos
 page_type: triad_hub
 slug: saturn-node-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Node
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Node Admetos`
 - Astronomicon triad-set: `W g ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Node/Admetos = Saturn](../activations/node-admetos-equals-saturn.md)
-  Source page `154`
 - [Saturn/Admetos = Node](../activations/saturn-admetos-equals-node.md)
-  Source page `229`
 - [Saturn/Node = Admetos](../activations/saturn-node-equals-admetos.md)
-  Source page `145`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Node/Admetos = Saturn`: page `154`
-- `Saturn/Admetos = Node`: page `229`
-- `Saturn/Node = Admetos`: page `145`
+- `Node/Admetos = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `154`
+- `Node/Admetos = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `235`
+- `Saturn/Admetos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `229`
+- `Saturn/Admetos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `364`
+- `Saturn/Node = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `145`
+- `Saturn/Node = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `217`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Node/Admetos = Saturn`: End of an oppression. Separating connection with a few. Oppressive bonds. To pant under a heavy burden.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Node](../factors/node.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

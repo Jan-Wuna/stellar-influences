@@ -3,7 +3,7 @@ title: Venus/Vulcanus = Asc
 page_type: activation
 slug: venus-vulcanus-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Asc
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Vulcanus`
-- Source page: `188`
 #### Witte Entry
 
 To be powerfully attracted by others or to attract others powerfully.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be powerfully attracted by others or to attract others powerfully.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+I lannonic partner energies, artificial influence in the place, love influence of the partner, love authority of others, power of love to the partner, strong harmony in the environment, strength of the scientific principle in the environment, and priority of the partner for violence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Vulcanus = Asc`: to be powerfully attracted by others or to attract others powerfully.
+- Practical expression: i lannonic partner energies, artificial influence in the place, love influence of the partner, love authority of others, and power of love to the partner.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be powerfully attracted by others or to attract others powerfully.
 - [Vulcanus](../factors/vulcanus.md)
 - [Asc](../factors/asc.md)
 - [Venus/Vulcanus](../axes/venus-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Uranus/Hades = Admetos
 page_type: activation
 slug: uranus-hades-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Hades
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Hades`
-- Source page: `237`
 #### Witte Entry
 
 Damage, rip which cannot be compensated, where one cannot make restitution. Dissension which cannot be bridged over. Irreconcilable enmity. Total destruction.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Damage, rip which cannot be compensated, where one cannot make restitution. Dissension which cannot be bridged over. Irreconcilable enmity. Total destruction.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+by sudden restriction, new disadvantages by strike, stabilizing impulses from the past, and outdated rotation technology
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Hades = Admetos`: Damage, rip which cannot be compensated, where one cannot make restitution. Dissension which cannot be bridged over. Irreconcilable enmity. Total destruction.
+- Practical expression: by sudden restriction, new disadvantages by strike, stabilizing impulses from the past, and outdated rotation technology.
 
 ## Links
 
@@ -61,3 +56,5 @@ Damage, rip which cannot be compensated, where one cannot make restitution. Diss
 - [Hades](../factors/hades.md)
 - [Admetos](../factors/admetos.md)
 - [Uranus/Hades](../axes/uranus-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

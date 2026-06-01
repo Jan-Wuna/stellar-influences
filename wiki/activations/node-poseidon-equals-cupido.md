@@ -3,7 +3,7 @@ title: Node/Poseidon = Cupido
 page_type: activation
 slug: node-poseidon-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - Cupido
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Poseidon`
-- Source page: `156`
 #### Witte Entry
 
 Connections through mental associations, high IQ societies, sects etc. Member of such unions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Connections through mental associations, high IQ societies, sects etc. Member of such unions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+encounter with of a community of ideas, spiritual connections in of a community, shared idea connections, culture mediating community, connected with culture and art, meeting of a spiritual community, and connection to the spiritual whole
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Poseidon = Cupido`: Connections through mental associations, high IQ societies, sects etc. Member of such unions.
+- Practical focus: connections through mental associations, high IQ societies, sects etc; also member of such unions.
 
 ## Links
 
@@ -61,3 +56,5 @@ Connections through mental associations, high IQ societies, sects etc. Member of
 - [Poseidon](../factors/poseidon.md)
 - [Cupido](../factors/cupido.md)
 - [Node/Poseidon](../axes/node-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

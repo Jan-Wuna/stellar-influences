@@ -3,7 +3,7 @@ title: Asc Zeus Admetos
 page_type: triad_hub
 slug: asc-zeus-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Zeus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Asc Zeus Admetos`
 - Astronomicon triad-set: `Asc £ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Admetos = Zeus](../activations/asc-admetos-equals-zeus.md)
-  Source page `96`
 - [Asc/Zeus = Admetos](../activations/asc-zeus-equals-admetos.md)
-  Source page `93`
 - [Zeus/Admetos = Asc](../activations/zeus-admetos-equals-asc.md)
-  Source page `293`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Admetos = Zeus`: page `96`
-- `Asc/Zeus = Admetos`: page `93`
-- `Zeus/Admetos = Asc`: page `293`
+- `Asc/Admetos = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `96`
+- `Asc/Admetos = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `133`
+- `Asc/Zeus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `93`
+- `Asc/Zeus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `127`
+- `Zeus/Admetos = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `293`
+- `Zeus/Admetos = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `454`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Admetos = Zeus`: bad performance by others, fear of beginning, and weakened drive inside a fixed or inhibiting environment.
+- `Asc/Zeus = Admetos`: being forced to overcome obstacles, start under pressure, or push against heavy opposition.
+- `Zeus/Admetos = Asc`: To come into changed states through others or with others, and have to solve new tasks with them. To solve problematic tasks with other people. Facing and overcoming environmental problems.
 
 ## Links
 
 - [Asc](../factors/asc.md)
 - [Zeus](../factors/zeus.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

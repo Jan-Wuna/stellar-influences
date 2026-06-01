@@ -3,7 +3,7 @@ title: Cupido Hades Apollon
 page_type: triad_hub
 slug: cupido-hades-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Cupido Hades Apollon`
 - Astronomicon triad-set: `¡ ¢ ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Apollon = Hades](../activations/cupido-apollon-equals-hades.md)
-  Source page `270`
 - [Cupido/Hades = Apollon](../activations/cupido-hades-equals-apollon.md)
-  Source page `267`
 - [Hades/Apollon = Cupido](../activations/hades-apollon-equals-cupido.md)
-  Source page `280`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Apollon = Hades`: page `270`
-- `Cupido/Hades = Apollon`: page `267`
-- `Hades/Apollon = Cupido`: page `280`
+- `Cupido/Apollon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `270`
+- `Cupido/Apollon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `431`
+- `Cupido/Hades = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `267`
+- `Cupido/Hades = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `425`
+- `Hades/Apollon = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `280`
+- `Hades/Apollon = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `443`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Apollon = Hades`: artistic, scientific, or organizational trouble that spreads across broad circles.
+- `Cupido/Hades = Apollon`: widely shared affliction, improvised communal arrangements, and knowledge or study that grows out of collective suffering or neglected material.
+- `Hades/Apollon = Cupido`: the beginning or end of a time of great emergency and the growth of occult abilities or secret communal knowledge.
 
 ## Links
 
 - [Cupido](../factors/cupido.md)
 - [Hades](../factors/hades.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

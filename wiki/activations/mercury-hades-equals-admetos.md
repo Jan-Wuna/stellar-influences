@@ -3,7 +3,7 @@ title: Mercury/Hades = Admetos
 page_type: activation
 slug: mercury-hades-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Hades
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Hades`
-- Source page: `167`
 #### Witte Entry
 
 Difficult to think clearly, confusion. Not to see a way out. No solution to a hidden problem.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Difficult to think clearly, confusion. Not to see a way out. No solution to a hidden problem.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Persistent talk about need, blocked emergency call, depressing news from the past, strengthening of secret thoughts, deepening thoughts about the past, dangerous depression of youth, and disadvantages of a restricted youth
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Hades = Admetos` compresses the axis into blocked thought and hidden impasse.
+- Chart expression: confusion, inability to think clearly, no apparent way out, and a concealed problem that stays mentally stuck without resolution.
 
 ## Links
 
@@ -61,3 +56,5 @@ Difficult to think clearly, confusion. Not to see a way out. No solution to a hi
 - [Hades](../factors/hades.md)
 - [Admetos](../factors/admetos.md)
 - [Mercury/Hades](../axes/mercury-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

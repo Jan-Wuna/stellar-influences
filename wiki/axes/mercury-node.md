@@ -58,11 +58,12 @@ aliases:
   - Node/Mercury
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -75,17 +76,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury/Dragon's Head`
-- Source page: `166`
-
 #### Pair Summary
 
 Connections of thoughts. Correspondence. To make new connection. Intellectual or communications ties. Contacts or connections for communication.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Mercury/Dragon's Head`
-- Source page: `166`
+#### ABC Pair Summary
+
+intellectual relations, youth relations, messages mediate, links to youth, and transport connections
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -109,9 +110,6 @@ Tendency to form associations for the pursuit of joint interests.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mercury/Node midpoint`
-- Source page: `51`
-
 #### Principle
 
 A love of sharing ideas with others. Truly caring about with other people think. Others’ ideas help one to refine one’s own, and to be more clear about what one thinks. The search for ideas that will help one evolve.
@@ -122,17 +120,11 @@ The pull between thinking which accommodates a static and seemingly safe connect
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Mercury/Nodes`
-- Source page: `205`
-
 #### Pair Delineation
 
 Mental contacts and connections. To establish connections by communication. To meet others. Correspondence, the desire to exchange ideas with others. The ability to perform mental work in groups.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `MERCURY/NODE`
-- Source page: `175`
 
 #### Basic Ideas
 
@@ -161,15 +153,6 @@ Assimilation of food unable to get to the body parts needed due to broken or blo
 
 - [Michael Munkasey - Mercury/Node Concepts](../derived/munkasey-mercury-node-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Mercury/Node = Admetos](../activations/mercury-node-equals-admetos.md)
@@ -194,20 +177,18 @@ Assimilation of food unable to get to the body parts needed due to broken or blo
 - [Mercury/Node = Vulcanus](../activations/mercury-node-equals-vulcanus.md)
 - [Mercury/Node = Zeus](../activations/mercury-node-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Node` is the axis of intellectual connection, shared plans, correspondence, and relationships built through ideas and communication. It combines thinking, speech, information flow, and versatility with association, networking, and the need to exchange perspectives with others.
+- Chart expression: sociability, study with others, group thinking, negotiation, mental teamwork, and the ability to create bonds through conversation, writing, or coordinated plans. Liabilities: gossip, opportunistic networking, manipulative talk, shallow or excessive chatter, and relationships that become transactional or mentally noisy rather than meaningful.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Node](../factors/node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)

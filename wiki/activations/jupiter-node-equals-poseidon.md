@@ -3,10 +3,10 @@ title: Jupiter/Node = Poseidon
 page_type: activation
 slug: jupiter-node-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Jupiter
+  - Node
   - Poseidon
 normalized_formula: Jupiter/Node = Poseidon
 axis: Jupiter/Node
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Node
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Jupiter`
-- Source page: `144`
 #### Witte Entry
 
 Fortunate spiritual relations. Fortunate connection with prudent and wise people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Fortunate spiritual relations. Fortunate connection with prudent and wise people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successfully linked by ideas, successful mental relationship, financial clarity in a connection, happiness by wisdom in a connection, legal clarity of a relationship, beneficial cultural connections, and honor violence by law
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Node = Poseidon`: social luck formed through clear-minded, ethical, or spiritual companionship. It favors relationships that elevate understanding and strengthen perspective.
 
 ## Links
 
@@ -61,3 +55,5 @@ Fortunate spiritual relations. Fortunate connection with prudent and wise people
 - [Node](../factors/node.md)
 - [Poseidon](../factors/poseidon.md)
 - [Jupiter/Node](../axes/jupiter-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

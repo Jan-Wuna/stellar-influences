@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Mars`
-- Source page: `160`
 #### Witte Entry
 
 Irritated and angry women. Debates over women. Quarrels over women. Quarrelling persons.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Mercury/Mars`
-- Source page: `149`
-- Entry: `0472`
+#### ABC Entry
+
+Thoughts about a woman's one and a half thoughts, a woman's thoughts about work, a woman's ability to describe, talk about work for the people, talk about work with a woman, think about work with a woman, and work with a young woman
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Thinking and acting strongly influenced by feeling, "clearing the air" by means 
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mercury/Mars midpoint`
-- Source page: `42`
-- Activator: `Moon`
-
 #### Sandbach Entry
 
 The emotional need to be able to say what one thinks, and to let out anger verbally. The urge to argue or to speak passionately is aroused when one is feeling in secure, or very emotional. Difficult emotions generate nervous energy.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+An accumulation of reasons for the use of force; defensive tactics against an usually communicative person; irregular observations of impatience or irritation; loud talk on family or home matters; verbal and active women.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Mars = Moon`: passionate discussion, expressive honesty, and thinking or acting strongly colored by mood and personal sensitivity. Main caution: nagging reactivity: irritation can spill into quarrels, and communication may become a vehicle for discharging emotion rather than solving the issue.
 
 ## Links
 
@@ -84,7 +76,8 @@ The emotional need to be able to say what one thinks, and to let out anger verba
 - [Mars](../factors/mars.md)
 - [Moon](../factors/moon.md)
 - [Mercury/Mars](../axes/mercury-mars.md)
-- [Moon Mercury Mars](../triads/moon-mercury-mars.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

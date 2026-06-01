@@ -3,7 +3,7 @@ title: Vernal Point/Kronos = Neptune
 page_type: activation
 slug: vernal-point-kronos-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Neptune
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Kronos`
-- Source page: `51`
 #### Witte Entry
 
 A bad leader. Loss of authority. Loss of power. A government that is not officially recognized.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A bad leader. Loss of authority. Loss of power. A government that is not officially recognized.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dissolution of the public Self governance, Authoritat's weakness in the public, great insecurity in the public life, public water behordc, weak public reputation, and unknown hierarchy in the public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Kronos = Neptune`: a bad leader, loss of authority, loss of power, and a government that is not officially recognized.
+- Practical expression: dissolution of the public Self governance, great insecurity in the public life, and weak public reputation.
 
 ## Links
 
@@ -61,3 +56,5 @@ A bad leader. Loss of authority. Loss of power. A government that is not officia
 - [Kronos](../factors/kronos.md)
 - [Neptune](../factors/neptune.md)
 - [Vernal Point/Kronos](../axes/vernal-point-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

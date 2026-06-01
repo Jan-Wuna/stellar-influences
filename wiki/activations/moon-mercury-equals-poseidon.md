@@ -3,7 +3,7 @@ title: Moon/Mercury = Poseidon
 page_type: activation
 slug: moon-mercury-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Mercury
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Mercury
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Mercury`
-- Source page: `122`
 #### Witte Entry
 
 Spiritually minded youth. Mental susceptibility in the youth. Enthusiasm. Young woman or girl with high education.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Spiritually minded youth. Mental susceptibility in the youth. Enthusiasm. Young woman or girl with high education.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Reports on people's culture, insightful people's movement, findings of a young woman, intelligent thinking, youth culture in the people, clear people's opinion, spiritualized women in the speech, and poor women's opinion
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Mercury = Poseidon`: Spiritually minded youth. Mental susceptibility in the youth. Enthusiasm. Young woman or girl with high education.
+- Practical focus: spiritualizes `Moon/Mercury` into enthusiasm, receptivity, and refined intellectual-emotional development. It favors thoughtful youth, higher education, and suggestible but idealistic feeling, so the mind becomes more inspired, impressionable, and open to elevated ideas.
+- Practical expression: reports on people's culture, insightful people's movement, findings of a young woman, intelligent thinking, and youth culture in the people.
 
 ## Links
 
@@ -61,3 +57,5 @@ Spiritually minded youth. Mental susceptibility in the youth. Enthusiasm. Young 
 - [Mercury](../factors/mercury.md)
 - [Poseidon](../factors/poseidon.md)
 - [Moon/Mercury](../axes/moon-mercury.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

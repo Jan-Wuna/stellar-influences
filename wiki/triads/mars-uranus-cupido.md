@@ -3,7 +3,7 @@ title: Mars Uranus Cupido
 page_type: triad_hub
 slug: mars-uranus-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Uranus
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Uranus Cupido`
 - Astronomicon triad-set: `U X ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Cupido = Uranus](../activations/mars-cupido-equals-uranus.md)
-  Source page `197`
 - [Mars/Uranus = Cupido](../activations/mars-uranus-equals-cupido.md)
-  Source page `194`
 - [Uranus/Cupido = Mars](../activations/uranus-cupido-equals-mars.md)
-  Source page `236`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Cupido = Uranus`: page `197`
-- `Mars/Uranus = Cupido`: page `194`
-- `Uranus/Cupido = Mars`: page `236`
+- `Mars/Cupido = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `197`
+- `Mars/Cupido = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `309`
+- `Mars/Uranus = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `194`
+- `Mars/Uranus = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `303`
+- `Uranus/Cupido = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `236`
+- `Uranus/Cupido = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `374`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Cupido = Uranus`: jolts Mars/Cupido into sudden new connections and unexpected communal change.
+- `Mars/Uranus = Cupido`: shocks communal or marital bonds into sudden union, sudden quarrel, or abrupt shared activity.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Uranus](../factors/uranus.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

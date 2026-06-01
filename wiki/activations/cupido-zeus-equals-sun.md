@@ -3,7 +3,7 @@ title: Cupido/Zeus = Sun
 page_type: activation
 slug: cupido-zeus-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Cupido
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Zeus`
-- Source page: `268`
 #### Witte Entry
 
 The man who assists to draw up new units or who cooperates with reference to new foundations of clubs and corporations. The head of a new foundation. Comrade (military).
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The man who assists to draw up new units or who cooperates with reference to new foundations of clubs and corporations. The head of a new foundation. Comrade (military).
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+leadership center of a community, founding of a community of persons, male leadership community, performance center of a community, center for shared efforts, and goal directed environmental community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Zeus = Sun`: identity being openly tied to starting, shaping, and leading collective initiatives. Main caution: conflating personal authority with the health of the organization itself.
 
 ## Links
 
@@ -61,3 +55,5 @@ The man who assists to draw up new units or who cooperates with reference to new
 - [Zeus](../factors/zeus.md)
 - [Sun](../factors/sun.md)
 - [Cupido/Zeus](../axes/cupido-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

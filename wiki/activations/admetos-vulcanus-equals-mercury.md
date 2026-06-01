@@ -3,7 +3,7 @@ title: Admetos/Vulcanus = Mercury
 page_type: activation
 slug: admetos-vulcanus-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Admetos
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Admetos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Admetos + Vulcanus`
-- Source page: `311`
 #### Witte Entry
 
 Mighty, deep thinking. Greatest concentration of thoughts. To stick unyielding to one’s convictions. Unperturbed in one’s thoughts.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mighty, deep thinking. Greatest concentration of thoughts. To stick unyielding to one’s convictions. Unperturbed in one’s thoughts.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Reports of violence restriction, influence of depressive thoughts, energy and perseverance of youth, powerful traffic blockade, news of the end of power, strong movement restriction, strong traffic density, and resistance against youth violence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Admetos/Vulcanus = Mercury`: massive mental endurance, fixed convictions, and the ability to hold a line of thought despite opposition. Main caution: mental rigidity: the mind can become immovable, overly compressed, or incapable of adjusting when new information is needed.
 
 ## Links
 
@@ -61,3 +55,5 @@ Mighty, deep thinking. Greatest concentration of thoughts. To stick unyielding t
 - [Vulcanus](../factors/vulcanus.md)
 - [Mercury](../factors/mercury.md)
 - [Admetos/Vulcanus](../axes/admetos-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

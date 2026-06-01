@@ -3,7 +3,7 @@ title: Jupiter Neptune Vulcanus
 page_type: triad_hub
 slug: jupiter-neptune-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Neptune
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Neptune Vulcanus`
 - Astronomicon triad-set: `V Y §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Neptune = Vulcanus](../activations/jupiter-neptune-equals-vulcanus.md)
-  Source page `209`
 - [Jupiter/Vulcanus = Neptune](../activations/jupiter-vulcanus-equals-neptune.md)
-  Source page `217`
 - [Neptune/Vulcanus = Jupiter](../activations/neptune-vulcanus-equals-jupiter.md)
-  Source page `253`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Neptune = Vulcanus`: page `209`
-- `Jupiter/Vulcanus = Neptune`: page `217`
-- `Neptune/Vulcanus = Jupiter`: page `253`
+- `Jupiter/Neptune = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `209`
+- `Jupiter/Neptune = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `329`
+- `Jupiter/Vulcanus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `217`
+- `Jupiter/Vulcanus = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `345`
+- `Neptune/Vulcanus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `253`
+- `Neptune/Vulcanus = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `404`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Neptune = Vulcanus`: great sums of money easily made and just as easily lost.
+- `Jupiter/Vulcanus = Neptune`: hidden or future-revealed luck, easy access to large sums, and the possibility that major gains and major losses arise through unclear or fluid conditions.
+- `Neptune/Vulcanus = Jupiter`: This activation enlarges hidden pressure through unstable fortune. It can show surprising gains or losses, relief mixed with disappointment, or a pattern in which ease and benefit arrive under conditions that remain unreliable or quickly reversible.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Neptune](../factors/neptune.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

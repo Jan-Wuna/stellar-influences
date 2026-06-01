@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Moon Mars Chiron`
 - Astronomicon triad-set: `R U Chiron`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Moon/Chiron = Mars`: John, page `32`
 - `Moon/Mars = Chiron`: John, page `28`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Chiron = Moon`: honest reactions, cleansing emotional action, and the capacity to let feeling move straight into repair. The caution is emotional impulsiveness or assuming raw expression is always constructive.
+- `Moon/Chiron = Mars`: Taking action to clear emotions by allowing them to flow more freely. One instinctively knows what to do to foster healing energy.
+- `Moon/Mars = Chiron`: Your energy helps other people to act on their instincts, and to clear out destructive feelings, such as anger. You also help them to get more in touch with their passion. Your intense expression of feeling can have a healing effect on the world around you. Instinctual impulses lead to important discoveries and a clearing of energy.
 
 ## Links
 

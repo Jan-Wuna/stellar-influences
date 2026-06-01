@@ -33,30 +33,14 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Pluto/Midheaven midpoint`
-- Source page: `117`
-- Activator: `Chiron`
-
 #### Sandbach Entry
 
 One’s vibration helps others to see the true source of their security and hence to let go of their insecurities. The ability to heal through helping others to become more attuned to spiritual realities.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/MC = Chiron` brings Chiron into the axis of deep life direction, security, and inner authority. It can help others locate a truer source of stability and become more receptive to spiritual reality; the caution is to support security before pressing for release of old defenses.
 
 ## Links
 

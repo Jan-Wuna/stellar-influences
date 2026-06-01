@@ -3,7 +3,7 @@ title: Mars/Kronos = Sun
 page_type: activation
 slug: mars-kronos-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Mars
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Kronos`
-- Source page: `200`
 #### Witte Entry
 
 The man who acts autocratically or independently. Executive of the ruling powers as police officials.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The man who acts autocratically or independently. Executive of the ruling powers as police officials.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+The boss's work centre, special body work, a person's dominant will, personal will for self governing, self governing person, self conscious personal action, state work center, and superior will of the man
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Kronos = Sun` embodies the axis as a person who acts independently, autocratically, or as an executor of ruling power.
+- Chart expression: strong-willed authority, executive identity, and direct service to command structures, especially in policing, enforcement, or official leadership.
 
 ## Links
 
@@ -61,3 +56,5 @@ The man who acts autocratically or independently. Executive of the ruling powers
 - [Kronos](../factors/kronos.md)
 - [Sun](../factors/sun.md)
 - [Mars/Kronos](../axes/mars-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

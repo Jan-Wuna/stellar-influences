@@ -3,7 +3,7 @@ title: Node Admetos Poseidon
 page_type: triad_hub
 slug: node-admetos-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Admetos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Node Admetos Poseidon`
 - Astronomicon triad-set: `g ¦ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Admetos/Poseidon = Node](../activations/admetos-poseidon-equals-node.md)
-  Source page `312`
 - [Node/Admetos = Poseidon](../activations/node-admetos-equals-poseidon.md)
-  Source page `154`
 - [Node/Poseidon = Admetos](../activations/node-poseidon-equals-admetos.md)
-  Source page `156`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Admetos/Poseidon = Node`: page `312`
-- `Node/Admetos = Poseidon`: page `154`
-- `Node/Poseidon = Admetos`: page `156`
+- `Admetos/Poseidon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `312`
+- `Admetos/Poseidon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `476`
+- `Node/Admetos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `154`
+- `Node/Admetos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `235`
+- `Node/Poseidon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `156`
+- `Node/Poseidon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `239`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Admetos/Poseidon = Node`: contact with educated people, educational establishments, and relational networks built through training or culture.
+- `Node/Admetos = Poseidon`: To be in mental or spiritual harmony with a few. Cultural work in a small circle. During education to be subjected to severe restrictions and limitations.
+- `Node/Poseidon = Admetos`: In mental or spiritual community with a few To be connected with cultured people.
 
 ## Links
 
 - [Node](../factors/node.md)
 - [Admetos](../factors/admetos.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

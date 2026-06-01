@@ -3,7 +3,7 @@ title: Pluto/Poseidon = Zeus
 page_type: activation
 slug: pluto-poseidon-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Zeus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Poseidon`
-- Source page: `264`
 #### Witte Entry
 
 To be in part leading (by inner conviction) in the development of a new outlook in life.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be in part leading (by inner conviction) in the development of a new outlook in life.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Beginning of spiritual development, development of a creative spirit, development of spiritual movement, development of cultural achievements, growing cultural efforts, growing insight into filthyness, growing spiritual goal striving, and changing spiritual goals
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Poseidon = Zeus`: to be in part leading (by inner conviction) in the development of a new outlook in life.
+- Practical expression: beginning of spiritual development, development of a creative spirit, development of spiritual movement, development of cultural achievements, and growing cultural efforts.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be in part leading (by inner conviction) in the development of a new outlook 
 - [Poseidon](../factors/poseidon.md)
 - [Zeus](../factors/zeus.md)
 - [Pluto/Poseidon](../axes/pluto-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

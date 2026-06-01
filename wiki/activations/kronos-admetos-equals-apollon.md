@@ -3,7 +3,7 @@ title: Kronos/Admetos = Apollon
 page_type: activation
 slug: kronos-admetos-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Kronos
   - Apollon
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Kronos + Admetos`
-- Source page: `300`
 #### Witte Entry
 
 Many must lead an odd life, under unusual circumstances.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Many must lead an odd life, under unusual circumstances.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special success through perseverance, strengthening of important knowledge, strengthened authorship of knowledge, industrial strife against the state, profound superiority through knowledge, state trade restrictions, and increasing resistance to the state
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Admetos = Apollon`: many people living under unusual conditions or a broad field organized around a special, separated way of life.
+- Chart expression: scaled exclusivity, uncommon collective circumstances, and differentiated status extended across networks or communities.
 
 ## Links
 
@@ -61,3 +56,5 @@ Many must lead an odd life, under unusual circumstances.
 - [Admetos](../factors/admetos.md)
 - [Apollon](../factors/apollon.md)
 - [Kronos/Admetos](../axes/kronos-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Zeus/Admetos = Vulcanus
 page_type: activation
 slug: zeus-admetos-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Zeus
   - Admetos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Admetos`
-- Source page: `294`
 #### Witte Entry
 
 Abrupt beginning of new work. To start with a mighty effort. Great forces are concentrated toward one goal. Great difficulties in the initial state. Long held- back forces release themselves violently. Volcanic eruption.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Abrupt beginning of new work. To start with a mighty effort. Great forces are concentrated toward one goal. Great difficulties in the initial state. Long held- back forces release themselves violently. Volcanic eruption.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Beginning of severe depression, damming of a fire violence, restricted energy performance, solidized flow force, strengthening power targets, creative cycle energy, and resistance to Flocking violence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Admetos = Vulcanus`: Abrupt beginning of new work. To start with a mighty effort. Great forces are concentrated toward one goal. Great difficulties in the initial state. Long held- back forces release themselves violently. Volcanic eruption.
+- Practical expression: beginning of severe depression, damming of a fire violence, restricted energy performance, solidized flow force, and strengthening power targets.
 
 ## Links
 
@@ -61,3 +56,5 @@ Abrupt beginning of new work. To start with a mighty effort. Great forces are co
 - [Admetos](../factors/admetos.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Zeus/Admetos](../axes/zeus-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Cupido/Admetos = Uranus
 page_type: activation
 slug: cupido-admetos-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Cupido
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Admetos`
-- Source page: `271`
 #### Witte Entry
 
 Surprisingly sudden dissolution or breakdown in a partnership or grave disturbances in married life. Everybody is suddenly against the native.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Surprisingly sudden dissolution or breakdown in a partnership or grave disturbances in married life. Everybody is suddenly against the native.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Perseverance and dynamism of a community, blocked rhythm of a community, depressing art event, sudden end of a community, tensions caused by restrictions in of a community, and opposition of a community to reforms
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Admetos = Uranus`: abrupt relational rupture, sudden group turning, and destabilization of what once held together. Main caution: being caught unprepared by a break that happens all at once.
 
 ## Links
 
@@ -61,3 +55,5 @@ Surprisingly sudden dissolution or breakdown in a partnership or grave disturban
 - [Admetos](../factors/admetos.md)
 - [Uranus](../factors/uranus.md)
 - [Cupido/Admetos](../axes/cupido-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

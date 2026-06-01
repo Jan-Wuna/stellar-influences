@@ -3,7 +3,7 @@ title: Sun/Hades = MC
 page_type: activation
 slug: sun-hades-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - MC
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Hades`
-- Source page: `112`
 #### Witte Entry
 
 To be misshapen. To be sensible of bodily defects and restrictions. Not to be recognized or to be suppressed.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be misshapen. To be sensible of bodily defects and restrictions. Not to be recognized or to be suppressed.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+My mysterious husband, my pecuniary sorrow, my daily service, my renunciation for the man, my corporal disadvantages, my personal past, mental distress, and spiritual service for the man
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Hades = MC`: ruined or broken down and to a sufferer.
+- Practical expression: my mysterious husband, my pecuniary sorrow, my daily service, my renunciation for the man, and my corporal disadvantages.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be misshapen. To be sensible of bodily defects and restrictions. Not to be re
 - [Hades](../factors/hades.md)
 - [MC](../factors/mc.md)
 - [Sun/Hades](../axes/sun-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

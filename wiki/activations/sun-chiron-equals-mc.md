@@ -33,30 +33,14 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Sun/Chiron midpoint`
-- Source page: `15`
-- Activator: `Midheaven`
-
 #### Sandbach Entry
 
 One’s purpose in life has to do with the continual seeking of deeper and deeper layers of meaning in existence. One’s personal security is based on the ability to become attuned to the multifaceted meanings of life, and to allow one’s ego to lose its limits by becoming absorbed in the pervasive harmony of the universe.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Chiron = MC`: seeing one's worldly path as part of a deeper spiritual purpose and aligning public direction with inner meaning.
 
 ## Links
 

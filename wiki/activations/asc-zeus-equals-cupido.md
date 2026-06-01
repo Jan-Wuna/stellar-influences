@@ -3,7 +3,7 @@ title: Asc/Zeus = Cupido
 page_type: activation
 slug: asc-zeus-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - Cupido
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Zeus`
-- Source page: `93`
 #### Witte Entry
 
 Unity is power. Community work in art.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Unity is power. Community work in art.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+efforts of a partner community, fire in the shared environment, leadership of a local community, shared local design, creative partner community, achievements of an environmental community, and goals of other communities
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Zeus = Cupido`: workshop, team, family, or community effort where cohesion amplifies productivity. Main caution: collective pressure or conformity replacing real cooperation.
 
 ## Links
 
@@ -61,3 +55,5 @@ Unity is power. Community work in art.
 - [Zeus](../factors/zeus.md)
 - [Cupido](../factors/cupido.md)
 - [Asc/Zeus](../axes/asc-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

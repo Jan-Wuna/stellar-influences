@@ -3,7 +3,7 @@ title: Sun Moon Hades
 page_type: triad_hub
 slug: sun-moon-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Moon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Moon Hades`
 - Astronomicon triad-set: `S R ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Hades = Sun](../activations/moon-hades-equals-sun.md)
-  Source page `131`
 - [Sun/Hades = Moon](../activations/sun-hades-equals-moon.md)
-  Source page `112`
 - [Sun/Moon = Hades](../activations/sun-moon-equals-hades.md)
-  Source page `101`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Hades = Sun`: page `131`
-- `Sun/Hades = Moon`: page `112`
-- `Sun/Moon = Hades`: page `101`
+- `Moon/Hades = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `131`
+- `Moon/Hades = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `194`
+- `Sun/Hades = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `112`
+- `Sun/Hades = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `160`
+- `Sun/Moon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `101`
+- `Sun/Moon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `139`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Hades = Sun`: The poor wife of the man. Daily repeating worries.
+- `Sun/Hades = Moon`: This formula emphasizes sickness and a sufferer.
+- `Sun/Moon = Hades`: This formula emphasizes sickness, strain, or suffering in personal life.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Moon](../factors/moon.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

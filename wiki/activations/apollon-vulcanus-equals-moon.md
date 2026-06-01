@@ -3,7 +3,7 @@ title: Apollon/Vulcanus = Moon
 page_type: activation
 slug: apollon-vulcanus-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Apollon
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Apollon
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Apollon + Vulcanus`
-- Source page: `307`
 #### Witte Entry
 
 Successful person, women. A people in the state of prosperity. The spreading population. Successful of the public.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Successful person, women. A people in the state of prosperity. The spreading population. Successful of the public.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influence of the science of a people, influence expansion of women, energy trade of a people, woman with vie! Energy, violence experiences of a people, enormous success of a woman, trade power of a people, power expansion of a people, and strong success of a woman
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Vulcanus = Moon`: popular success, widening prosperity, and collective conditions that support increase and influence. Main caution: mass inflation: public or demographic growth may spread faster than stability, moderation, or humane balance.
 
 ## Links
 
@@ -61,3 +55,5 @@ Successful person, women. A people in the state of prosperity. The spreading pop
 - [Vulcanus](../factors/vulcanus.md)
 - [Moon](../factors/moon.md)
 - [Apollon/Vulcanus](../axes/apollon-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

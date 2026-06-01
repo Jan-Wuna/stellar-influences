@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Chiron Node MC`
 - Astronomicon triad-set: `Chiron g MC`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Chiron/Node = MC`: John, page `100`
 - `Node/MC = Chiron`: John, page `120`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/MC = Node`: relationally discovered vocation and to partnerships that either empower purpose or replay disempowering patterns. Main caution: choosing connections that keep old authority wounds in place.
+- `Chiron/Node = MC`: vocation through relational healing, guidance, and helping people reconnect to deeper belonging. Main caution: trying to fulfill purpose without doing the past-clearing that purpose requires.
+- `Node/MC = Chiron`: One’s vibration helps others to be more connected to spiritual energies, and to find true security, as well as let go of old sources of security that no longer serve per sonal growth.
 
 ## Links
 

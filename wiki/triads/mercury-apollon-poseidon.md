@@ -3,7 +3,7 @@ title: Mercury Apollon Poseidon
 page_type: triad_hub
 slug: mercury-apollon-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Apollon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Apollon Poseidon`
 - Astronomicon triad-set: `T ¥ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Apollon/Poseidon = Mercury](../activations/apollon-poseidon-equals-mercury.md)
-  Source page `308`
 - [Mercury/Apollon = Poseidon](../activations/mercury-apollon-equals-poseidon.md)
-  Source page `170`
 - [Mercury/Poseidon = Apollon](../activations/mercury-poseidon-equals-apollon.md)
-  Source page `173`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Apollon/Poseidon = Mercury`: page `308`
-- `Mercury/Apollon = Poseidon`: page `170`
-- `Mercury/Poseidon = Apollon`: page `173`
+- `Apollon/Poseidon = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `308`
+- `Apollon/Poseidon = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `472`
+- `Mercury/Apollon = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `170`
+- `Mercury/Apollon = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `263`
+- `Mercury/Poseidon = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `173`
+- `Mercury/Poseidon = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `269`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Apollon/Poseidon = Mercury`: discussion, debate, conference, and exchange among congenial or similarly minded people.
+- `Mercury/Apollon = Poseidon`: refines the axis into shared ideas among like-minded thinkers.
+- `Mercury/Poseidon = Apollon`: To come into contact with others who have the same ideas.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Apollon](../factors/apollon.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

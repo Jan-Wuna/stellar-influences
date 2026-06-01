@@ -3,7 +3,7 @@ title: Hades/Admetos = Kronos
 page_type: activation
 slug: hades-admetos-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Hades
   - Kronos
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Admetos`
-- Source page: `284`
 #### Witte Entry
 
 Great negligence. Great lack of raw materials. Meanness and villainess which is unsurpassed hitherto. Strange methods of the government.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great negligence. Great lack of raw materials. Meanness and villainess which is unsurpassed hitherto. Strange methods of the government.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special lack of perseverance, limitations and disadvantages by the state, dominant circulatory danger, consolidation of authorship by renunciation, state restrictions from the past, and deepening into the past of the state
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Admetos = Kronos`: deprivation being managed from above in cold, rigid, or distorted ways. Main caution: authority becoming the organizer of lack instead of the remedy for it.
 
 ## Links
 
@@ -61,3 +55,5 @@ Great negligence. Great lack of raw materials. Meanness and villainess which is 
 - [Admetos](../factors/admetos.md)
 - [Kronos](../factors/kronos.md)
 - [Hades/Admetos](../axes/hades-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

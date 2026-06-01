@@ -3,7 +3,7 @@ title: Sun/Mars = Apollon
 page_type: activation
 slug: sun-mars-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Mars
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Mars
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Mars`
-- Source page: `105`
 #### Witte Entry
 
 A man successful in his activity. Busy. Peaceful. Activity in commerce or science.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A man successful in his activity. Busy. Peaceful. Activity in commerce or science.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Extension of corporal work, success acts of a man, personal trade, extensive human creation, will for personal freedom, center for work science, and increasing personal work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Mars = Apollon`: success through active effort and large-scale work.
+- Practical expression: extension of corporal work, success acts of a man, personal trade, extensive human creation, and will for personal freedom.
 
 ## Links
 
@@ -61,3 +56,5 @@ A man successful in his activity. Busy. Peaceful. Activity in commerce or scienc
 - [Mars](../factors/mars.md)
 - [Apollon](../factors/apollon.md)
 - [Sun/Mars](../axes/sun-mars.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

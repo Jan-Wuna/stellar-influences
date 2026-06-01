@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Mercury Chiron Node`
 - Astronomicon triad-set: `T Chiron g`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Mercury/Chiron = Node`: John, page `46`
 - `Mercury/Node = Chiron`: John, page `51`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Node = Mercury`: teaching, language, and perspective as vehicles for karmic healing and connectedness. Main caution: speaking of connection more than actually living it.
+- `Mercury/Chiron = Node` socializes the axis through relationships that heal and widen thought.
+- `Mercury/Node = Chiron` heals the axis through shared reframing and helpful ideas.
 
 ## Links
 

@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Neptune MC`
 - Astronomicon triad-set: `V Y MC`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,19 +40,27 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Jupiter/MC = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `65`
+- `Jupiter/MC = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `75`
 - `Jupiter/MC = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `244`
 - `Jupiter/MC = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `86`
+- `Jupiter/MC = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `280`
 - `Jupiter/Neptune = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `209`
+- `Jupiter/Neptune = MC`: Udo Rudolph - ABC for Planetary Pictures, page `328`
 - `Jupiter/Neptune = MC`: Reinhold Ebertin - The Combination of Stellar Influences, page `233`
 - `Jupiter/Neptune = MC`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `81`
+- `Jupiter/Neptune = MC`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `264`
 - `Neptune/MC = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `68`
+- `Neptune/MC = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `80`
 - `Neptune/MC = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `290`
 - `Neptune/MC = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `113`
+- `Neptune/MC = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `340`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/MC = Neptune`: visionary aspiration, desire to uplift or inspire, and imagination applied to vocation or status, but with real risk of unrealistic ambition and disappointment.
+- `Jupiter/Neptune = MC`: a visionary or philanthropic calling, idealism in one's life direction, and a tendency to seek meaning through uplifting work, spiritual aspiration, or public dream.
+- `Neptune/MC = Jupiter`: visionary ambition, with vocation guided by faith, humanitarian longing, or broad ideals that seek meaningful public expression.
 
 ## Links
 
@@ -59,5 +68,7 @@ updated_at: 2026-04-22
 - [Neptune](../factors/neptune.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

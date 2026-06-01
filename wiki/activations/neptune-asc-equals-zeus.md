@@ -3,10 +3,10 @@ title: Neptune/Asc = Zeus
 page_type: activation
 slug: neptune-asc-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Neptune
+  - Asc
   - Zeus
 normalized_formula: Neptune/Asc = Zeus
 axis: Neptune/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Asc
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Neptune`
-- Source page: `89`
 #### Witte Entry
 
 Others try in vain to usurp leadership. To be scalded by other people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Others try in vain to usurp leadership. To be scalded by other people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Efforts in the subtle environment, beginning losses in the environment, exchangeable partner services, fine tuning management of the partner, local gas fires, weak environmental efforts, and environmental efforts for the future
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Asc = Zeus`: Others try in vain to usurp leadership. To be scalded by other people.
+- Practical focus: provokes conflict around uncertain identity and leadership, showing futile attempts by others to seize control or harmful contact that strikes suddenly and forcefully.
+- Practical expression: efforts in the subtle environment, beginning losses in the environment, exchangeable partner services, fine tuning management of the partner, and local gas fires.
 
 ## Links
 
@@ -61,3 +57,5 @@ Others try in vain to usurp leadership. To be scalded by other people.
 - [Asc](../factors/asc.md)
 - [Zeus](../factors/zeus.md)
 - [Neptune/Asc](../axes/neptune-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

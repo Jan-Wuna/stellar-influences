@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Jupiter Saturn`
 - Astronomicon triad-set: `R V W`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,19 +40,27 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Jupiter/Saturn = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `207`
+- `Jupiter/Saturn = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `324`
 - `Jupiter/Saturn = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `226`
 - `Jupiter/Saturn = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `78`
+- `Jupiter/Saturn = Moon`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `256`
 - `Moon/Jupiter = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `125`
+- `Moon/Jupiter = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `183`
 - `Moon/Jupiter = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `123`
 - `Moon/Jupiter = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `29`
+- `Moon/Jupiter = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `116`
 - `Moon/Saturn = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `126`
+- `Moon/Saturn = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `184`
 - `Moon/Saturn = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `126`
 - `Moon/Saturn = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `31`
+- `Moon/Saturn = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `120`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Saturn = Moon`: emotional security sought through steady work, order, and moral proportion, but complicated by mood fluctuation, guilt, and shifting personal ties.
+- `Moon/Jupiter = Saturn`: sober generosity, with hope and protection shaped by responsibility, limits, and the need to make emotional abundance sustainable.
+- `Moon/Saturn = Jupiter`: sober but constructive feeling, with care and restraint supported by patience, ethics, and realistic hope.
 
 ## Links
 
@@ -59,5 +68,7 @@ updated_at: 2026-04-22
 - [Jupiter](../factors/jupiter.md)
 - [Saturn](../factors/saturn.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

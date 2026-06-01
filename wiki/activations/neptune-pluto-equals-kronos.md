@@ -3,7 +3,7 @@ title: Neptune/Pluto = Kronos
 page_type: activation
 slug: neptune-pluto-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Pluto
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Pluto`
-- Source page: `246`
 #### Witte Entry
 
 Abilities develop unnoticed. Slow changes in relation to the boss, to superiors or to the authorities.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Abilities develop unnoticed. Slow changes in relation to the boss, to superiors or to the authorities.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exchange specific developments, develop state weak, self exploited development through fine tuning, uncertain developments in the authority, growing expectations of the state, and growing weakness in the management of the government
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Pluto = Kronos`: Abilities develop unnoticed. Slow changes in relation to the boss, to superiors or to the authorities.
+- Practical focus: elevates hidden transformation into the sphere of authority, showing abilities developing quietly and slow changes taking shape in relation to bosses, superiors, or institutions.
+- Practical expression: exchange specific developments, develop state weak, self exploited development through fine tuning, uncertain developments in the authority, and growing expectations of the state.
 
 ## Links
 
@@ -61,3 +57,5 @@ Abilities develop unnoticed. Slow changes in relation to the boss, to superiors 
 - [Pluto](../factors/pluto.md)
 - [Kronos](../factors/kronos.md)
 - [Neptune/Pluto](../axes/neptune-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Vernal Point/Mercury = Moon
 page_type: activation
 slug: vernal-point-mercury-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Mercury
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Moon
   - Mercury
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Mercury`
-- Source page: `40`
 #### Witte Entry
 
 The current public opinion. Instability of public opinion.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The current public opinion. Instability of public opinion.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Women in public Traffic, opinion of women in public, voice emphasised speech in public Life, sensitive youth in public, young women in public, and public opinion of the people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Mercury = Moon`: the current public opinion and instability of public opinion.
+- Practical expression: women in public Traffic, opinion of women in public, voice emphasised speech in public Life, sensitive youth in public, and young women in public.
 
 ## Links
 
@@ -61,3 +56,5 @@ The current public opinion. Instability of public opinion.
 - [Mercury](../factors/mercury.md)
 - [Moon](../factors/moon.md)
 - [Vernal Point/Mercury](../axes/vernal-point-mercury.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

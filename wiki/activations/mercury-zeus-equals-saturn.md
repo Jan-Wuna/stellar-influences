@@ -3,7 +3,7 @@ title: Mercury/Zeus = Saturn
 page_type: activation
 slug: mercury-zeus-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Saturn
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Zeus`
-- Source page: `168`
 #### Witte Entry
 
 Demands which are harmful, cause damage and are a hindrance. Laws for agriculture. Edicts concerning lands or building codes.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Demands which are harmful, cause damage and are a hindrance. Laws for agriculture. Edicts concerning lands or building codes.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Tasks design for youth, disability of creative youth, discussion of leadership tasks, patient youth guided tour, staggered conversational language, staggered thoughtPerformance, problematic language goals, and creative thought concentration
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Zeus = Saturn`: Demands which are harmful, cause damage and are a hindrance. Laws for agriculture. Edicts concerning lands or building codes.
+- Practical expression: tasks design for youth, disability of creative youth, discussion of leadership tasks, patient youth guided tour, and staggered conversational language.
 
 ## Links
 
@@ -61,3 +56,5 @@ Demands which are harmful, cause damage and are a hindrance. Laws for agricultur
 - [Zeus](../factors/zeus.md)
 - [Saturn](../factors/saturn.md)
 - [Mercury/Zeus](../axes/mercury-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

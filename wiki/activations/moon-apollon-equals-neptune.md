@@ -3,7 +3,7 @@ title: Moon/Apollon = Neptune
 page_type: activation
 slug: moon-apollon-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Neptune
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Apollon`
-- Source page: `134`
 #### Witte Entry
 
 Many feel themselves deceived, cheated out of their future. Misled masses. Mistrust between nations.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Many feel themselves deceived, cheated out of their future. Misled masses. Mistrust between nations.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Imagination of a successful woman, success of a woman in the water, success of an hour in the air, freedom of a foreign people, metaphysical knowledge of a woman, exchange of knowledge, and uncertainty of many women
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Apollon = Neptune`: Many feel themselves deceived, cheated out of their future. Misled masses. Mistrust between nations.
+- Practical expression: imagination of a successful woman, success of a woman in the water, success of an hour in the air, freedom of a foreign people, and metaphysical knowledge of a woman.
 
 ## Links
 
@@ -61,3 +56,5 @@ Many feel themselves deceived, cheated out of their future. Misled masses. Mistr
 - [Apollon](../factors/apollon.md)
 - [Neptune](../factors/neptune.md)
 - [Moon/Apollon](../axes/moon-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

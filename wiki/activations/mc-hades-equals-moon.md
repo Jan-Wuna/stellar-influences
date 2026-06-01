@@ -3,7 +3,7 @@ title: MC/Hades = Moon
 page_type: activation
 slug: mc-hades-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - MC
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Hades`
-- Source page: `71`
 #### Witte Entry
 
 To get into a tight spot on account of a woman. Being worried about a woman. Dissatisfied with public conditions. The moment of a grieving populace.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To get into a tight spot on account of a woman. Being worried about a woman. Dissatisfied with public conditions. The moment of a grieving populace.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Deprivation regarding the woman, endangered soul of the woman, endangered soul of the people, my service to the people, my lack of feeling, minute of danger for the woman, soul sorrow of the woman, soul sorrow in the hour, hidden soul of the woman, and past of my people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Hades = Moon` emotionalizes the axis through worry about women and grief in public feeling.
+- Chart expression: tight spots arising through a woman, dissatisfaction with public conditions, and a mood of collective sorrow or feminine distress weighing on the self.
 
 ## Links
 
@@ -61,3 +56,5 @@ To get into a tight spot on account of a woman. Being worried about a woman. Dis
 - [Hades](../factors/hades.md)
 - [Moon](../factors/moon.md)
 - [MC/Hades](../axes/mc-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

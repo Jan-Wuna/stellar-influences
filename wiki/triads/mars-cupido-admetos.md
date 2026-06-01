@@ -3,7 +3,7 @@ title: Mars Cupido Admetos
 page_type: triad_hub
 slug: mars-cupido-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Cupido Admetos`
 - Astronomicon triad-set: `U ¡ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Admetos = Mars](../activations/cupido-admetos-equals-mars.md)
-  Source page `271`
 - [Mars/Admetos = Cupido](../activations/mars-admetos-equals-cupido.md)
-  Source page `202`
 - [Mars/Cupido = Admetos](../activations/mars-cupido-equals-admetos.md)
-  Source page `197`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Admetos = Mars`: page `271`
-- `Mars/Admetos = Cupido`: page `202`
-- `Mars/Cupido = Admetos`: page `197`
+- `Cupido/Admetos = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `271`
+- `Cupido/Admetos = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `432`
+- `Mars/Admetos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `202`
+- `Mars/Admetos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `319`
+- `Mars/Cupido = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `197`
+- `Mars/Cupido = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `309`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Admetos = Mars`: marriage or partnership under aggravating circumstances, separation tied to activity, and effort that fails to establish cooperation.
+- `Mars/Admetos = Cupido`: broken marriages, special work in a limited group, and cooperative effort that may fail, narrow, or collapse into bankruptcy.
+- `Mars/Cupido = Admetos`: narrows Mars/Cupido into constrained belonging and effort that continues more for form than for living connection.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Cupido](../factors/cupido.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

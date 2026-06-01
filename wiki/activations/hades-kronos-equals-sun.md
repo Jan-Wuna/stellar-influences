@@ -3,7 +3,7 @@ title: Hades/Kronos = Sun
 page_type: activation
 slug: hades-kronos-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Hades
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Kronos`
-- Source page: `279`
 #### Witte Entry
 
 Days of ill fortune. A run of bad luck The man who is subjected to great baseness, who has to defend himself against a vile action. The government does not keep its promise to him. Much ill fate or death by grave events.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Days of ill fortune. A run of bad luck The man who is subjected to great baseness, who has to defend himself against a vile action. The government does not keep its promise to him. Much ill fate or death by grave events.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+groBcs secret cine man, lack of personal authorization, flawed state hierarchic, personal standing in the past, renunciation of cine leader, and center for controlled criminality
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Kronos = Sun`: the self having to endure or defend against high-level meanness. It can show identity and vitality strained by betrayal from government, superiors, or other powerful actors.
 
 ## Links
 
@@ -61,3 +55,5 @@ Days of ill fortune. A run of bad luck The man who is subjected to great basenes
 - [Kronos](../factors/kronos.md)
 - [Sun](../factors/sun.md)
 - [Hades/Kronos](../axes/hades-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

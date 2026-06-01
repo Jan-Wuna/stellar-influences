@@ -3,7 +3,7 @@ title: Jupiter/Vulcanus = Moon
 page_type: activation
 slug: jupiter-vulcanus-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Jupiter
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Vulcanus`
-- Source page: `217`
 #### Witte Entry
 
 Women and public full of optimism and confidence.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Women and public full of optimism and confidence.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful power of a woman, successful people power, financial power of a woman, joyFellowed by power, brings joy to a woman, legal success of a woman, and beneficial influence of a people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Vulcanus = Moon`: collective confidence, emotional trust, and a receptive environment that leans toward hope and encouragement.
+- Chart expression: popular uplift, maternal or communal reassurance, and shared faith in favorable outcomes.
 
 ## Links
 
@@ -61,3 +56,5 @@ Women and public full of optimism and confidence.
 - [Vulcanus](../factors/vulcanus.md)
 - [Moon](../factors/moon.md)
 - [Jupiter/Vulcanus](../axes/jupiter-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

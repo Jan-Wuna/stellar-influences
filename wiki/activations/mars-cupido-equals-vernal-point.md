@@ -3,7 +3,7 @@ title: Mars/Cupido = Vernal Point
 page_type: activation
 slug: mars-cupido-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Mars
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Cupido`
-- Source page: `197`
 #### Witte Entry
 
 Marriages. Working with others in general.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Marriages. Working with others in general.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Community of labour in the public sphere, creation in a common public sphere, joint actions in the public sphere, public sphere of work together, will to the whole in the public sphere, and will community in the public sphere
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Cupido = Vernal Point`: working with others in general, publicly recognizable unions, and communal action that connects personal partnership to the wider social field.
 
 ## Links
 
@@ -61,3 +55,5 @@ Marriages. Working with others in general.
 - [Cupido](../factors/cupido.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Mars/Cupido](../axes/mars-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

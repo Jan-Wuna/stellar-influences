@@ -3,7 +3,7 @@ title: Mars Uranus Zeus
 page_type: triad_hub
 slug: mars-uranus-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Uranus
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Uranus Zeus`
 - Astronomicon triad-set: `U X £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Uranus = Zeus](../activations/mars-uranus-equals-zeus.md)
-  Source page `194`
 - [Mars/Zeus = Uranus](../activations/mars-zeus-equals-uranus.md)
-  Source page `199`
 - [Uranus/Zeus = Mars](../activations/uranus-zeus-equals-mars.md)
-  Source page `238`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Uranus = Zeus`: page `194`
-- `Mars/Zeus = Uranus`: page `199`
-- `Uranus/Zeus = Mars`: page `238`
+- `Mars/Uranus = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `194`
+- `Mars/Uranus = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `303`
+- `Mars/Zeus = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `199`
+- `Mars/Zeus = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `313`
+- `Uranus/Zeus = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `238`
+- `Uranus/Zeus = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `378`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Uranus = Zeus`: directs shocking force into combustion, engines, explosives, and violent ignition.
+- `Mars/Zeus = Uranus`: electrifies the axis into unstoppable, sudden, inventive action.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Uranus](../factors/uranus.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Venus Hades Vulcanus
 page_type: triad_hub
 slug: venus-hades-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Hades Vulcanus`
 - Astronomicon triad-set: `Q ¢ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Vulcanus = Venus](../activations/hades-vulcanus-equals-venus.md)
-  Source page `285`
 - [Venus/Hades = Vulcanus](../activations/venus-hades-equals-vulcanus.md)
-  Source page `183`
 - [Venus/Vulcanus = Hades](../activations/venus-vulcanus-equals-hades.md)
-  Source page `188`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Vulcanus = Venus`: page `285`
-- `Venus/Hades = Vulcanus`: page `183`
-- `Venus/Vulcanus = Hades`: page `188`
+- `Hades/Vulcanus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `285`
+- `Hades/Vulcanus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `446`
+- `Venus/Hades = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `183`
+- `Venus/Hades = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `285`
+- `Venus/Vulcanus = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `188`
+- `Venus/Vulcanus = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `295`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Vulcanus = Venus`: unpleasant writings or news, and reports of immediate threat or violent acts.
+- `Venus/Hades = Vulcanus`: performing dangerous services.
+- `Venus/Vulcanus = Hades`: great sense of family.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Hades](../factors/hades.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

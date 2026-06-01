@@ -3,7 +3,7 @@ title: Saturn/Admetos = MC
 page_type: activation
 slug: saturn-admetos-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - MC
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Admetos`
-- Source page: `229`
 #### Witte Entry
 
 To be hindered. To be tied to something. To be patient. The ability to wait. To be disinterested. To cross a valley. To be in a tight spot (a bottleneck).
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be hindered. To be tied to something. To be patient. The ability to wait. To be disinterested. To cross a valley. To be in a tight spot (a bottleneck).
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+End of the mental life, my basic seriousness, my limitation in old age, my most frequent experience, my patience and perseverance, my deep concentration, my circulation: load, scclical maturity through grinding, and condensation of mental problems
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Admetos = MC`: to be hindered, to be tied to something, to be patient.
+- Practical expression: end of the mental life, my basic seriousness, my limitation in old age, my most frequent experience, and my patience.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be hindered. To be tied to something. To be patient. The ability to wait. To 
 - [Admetos](../factors/admetos.md)
 - [MC](../factors/mc.md)
 - [Saturn/Admetos](../axes/saturn-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

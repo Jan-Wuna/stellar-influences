@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Admetos + Admetos`
-- Source page: `309`
 #### Witte Entry
 
 Perseverance. Heaviness. Weight. Objects. Ground. Soil. Real estate. Landscape. Homeland. That which is conservative. An object of raw material. An object under pressure. Body without motion. Body in repose. Standstill of the body. Day of death. Landed property.
 
-## Comparative Schema
-
-- core meaning: Perseverance. Heaviness. Weight. Objects. Ground. Soil. Real estate. Landscape. Homeland. That which is conservative. An object of raw material. An object under pressure. Body without motion. Body in repose. Standstill of the body. Day of death. Landed property.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Admetos/Admetos = Sun`: endurance, realism, land or property themes, and an identity shaped by weight, substance, and persistence. Main caution: deadened vitality: the person can become too conservative, burdened, or identified with immobility, pressure, and the loss of living movement.
 
 ## Links
 

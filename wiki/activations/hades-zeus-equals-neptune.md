@@ -3,7 +3,7 @@ title: Hades/Zeus = Neptune
 page_type: activation
 slug: hades-zeus-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Hades
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Zeus`
-- Source page: `277`
 #### Witte Entry
 
 Complete relaxation. Not able to pull oneself together. Impotent rage and hate. Futile outbreak of hatred. To be scalded by steam. To be asphyxiated by smoke. Smog. Choke damp.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Complete relaxation. Not able to pull oneself together. Impotent rage and hate. Futile outbreak of hatred. To be scalded by steam. To be asphyxiated by smoke. Smog. Choke damp.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Efforts against air criminality, fire danger by gas, grief caused by procreation, generating air polluting, flawed future efforts, disadvantages caused by weak performance, weak service performance, unknown criminal leadership services unfold, dangerous fire development, and poor performance defaults
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Zeus = Neptune`: will collapsing into weakness while toxic or fiery consequences still remain. It can show exhaustion, diffuse hostility, and injury through smoke, steam, fumes, or polluted conditions.
 
 ## Links
 
@@ -61,3 +55,5 @@ Complete relaxation. Not able to pull oneself together. Impotent rage and hate. 
 - [Zeus](../factors/zeus.md)
 - [Neptune](../factors/neptune.md)
 - [Hades/Zeus](../axes/hades-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

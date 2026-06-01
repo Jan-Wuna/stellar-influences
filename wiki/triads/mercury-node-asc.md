@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Node Asc`
 - Astronomicon triad-set: `T g Asc`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,19 +40,27 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Mercury/Asc = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `83`
+- `Mercury/Asc = Node`: Udo Rudolph - ABC for Planetary Pictures, page `106`
 - `Mercury/Asc = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `171`
 - `Mercury/Asc = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `52`
+- `Mercury/Asc = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `180`
 - `Mercury/Node = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `141`
+- `Mercury/Node = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `208`
 - `Mercury/Node = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `168`
 - `Mercury/Node = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `51`
+- `Mercury/Node = Asc`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `176`
 - `Node/Asc = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `82`
+- `Node/Asc = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `104`
 - `Node/Asc = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `301`
 - `Node/Asc = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `118`
+- `Node/Asc = Mercury`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `356`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Asc = Node`: contact through conversation, letters, planning, and shared ideas, with communication itself becoming the basis of association.
+- `Mercury/Node = Asc`: a communicative social presence, with thinking and connection expressed directly through conversation, curiosity, and responsive interaction.
+- `Node/Asc = Mercury`: a socially responsive identity, with personality shaped by conversation, exchange, networking, and the ability to define oneself through contact and shared thought.
 
 ## Links
 
@@ -59,5 +68,7 @@ updated_at: 2026-04-22
 - [Node](../factors/node.md)
 - [Asc](../factors/asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

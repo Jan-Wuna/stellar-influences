@@ -3,7 +3,7 @@ title: Hades/Zeus = Jupiter
 page_type: activation
 slug: hades-zeus-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Hades
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Zeus`
-- Source page: `277`
 #### Witte Entry
 
 Happy relaxation. Loss of money through machines. Fraudulent enterprises. Good beginning with a bad progress or a bad ending.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Happy relaxation. Loss of money through machines. Fraudulent enterprises. Good beginning with a bad progress or a bad ending.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Efforts against financial crime, successful filthy service, success from past achievements, leading legal service, dangerous filthy deficiency, performance deficit of money, and hidden money production
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Zeus = Jupiter`: optimism or opportunity being compromised by flawed execution, dirty enterprise, or mechanical and industrial loss. It can show promise undermined by corrupted progress.
 
 ## Links
 
@@ -61,3 +55,5 @@ Happy relaxation. Loss of money through machines. Fraudulent enterprises. Good b
 - [Zeus](../factors/zeus.md)
 - [Jupiter](../factors/jupiter.md)
 - [Hades/Zeus](../axes/hades-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

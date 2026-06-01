@@ -3,7 +3,7 @@ title: Uranus/Zeus = Mercury
 page_type: activation
 slug: uranus-zeus-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Uranus
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Zeus`
-- Source page: `238`
 #### Witte Entry
 
 To think with lightning rapidity. To command abruptly and energetically. Surprising creative thoughts.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To think with lightning rapidity. To command abruptly and energetically. Surprising creative thoughts.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exciting fire messages, dynamic youth transportation, excited communication language, news about technical services, performance impulses from youth, new language creations, creative media technology, and shaping traffic rhythm
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Zeus = Mercury`: To think with lightning rapidity. To command abruptly and energetically. Surprising creative thoughts.
+- Practical expression: exciting fire messages, dynamic youth transportation, excited communication language, news about technical services, and performance impulses from youth.
 
 ## Links
 
@@ -61,3 +56,5 @@ To think with lightning rapidity. To command abruptly and energetically. Surpris
 - [Zeus](../factors/zeus.md)
 - [Mercury](../factors/mercury.md)
 - [Uranus/Zeus](../axes/uranus-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

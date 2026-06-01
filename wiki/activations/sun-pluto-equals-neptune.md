@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Pluto`
-- Source page: `110`
 #### Witte Entry
 
 Imperceptible changes in the body. Weakened condition. The lack of appetite. To be very fastidious about food. Refusing of rich foods. To try unfamiliar food. Rejection of narcotics and drugs.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Sun/Pluto`
-- Source page: `102`
-- Entry: `0286`
+#### ABC Entry
+
+disappointing development of the person, subtle development of the body, personal development for the future, weak bodily development, growing bodily weakness, growing refinement of the body, and center for air changes see above
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ in physical or mental development, high degree of sensitivity and impressionabil
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Sun/Pluto midpoint`
-- Source page: `20`
-- Activator: `Neptune`
-
 #### Sandbach Entry
 
 Personal power expressed in a refined or subtle manner. Obsessively focus ing on goals drains one’s energy. The ability to intuitively perceive the ego state of other people and the ways that it needs to be transformed.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Weakens resolve to conquer the world alone; a lessened intensity of purpose in life’s situations; receiving inspiration when you seek answers; increases the devotion you can give; recognizing a spiritual impact on life.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Pluto = Neptune`: the ability to perceive and work beneath the surface, especially where power and ego need healing or reorientation. Main caution: exhaustion: obsessive focus, undermined health, or self-sacrificing power struggles can consume force from within.
 
 ## Links
 
@@ -84,7 +76,8 @@ Personal power expressed in a refined or subtle manner. Obsessively focus ing on
 - [Pluto](../factors/pluto.md)
 - [Neptune](../factors/neptune.md)
 - [Sun/Pluto](../axes/sun-pluto.md)
-- [Sun Neptune Pluto](../triads/sun-neptune-pluto.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

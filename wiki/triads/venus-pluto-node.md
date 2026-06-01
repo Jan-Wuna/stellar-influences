@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Pluto Node`
 - Astronomicon triad-set: `Q Z g`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,19 +40,27 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Pluto/Node = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `148`
+- `Pluto/Node = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `222`
 - `Pluto/Node = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `293`
 - `Pluto/Node = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `114`
+- `Pluto/Node = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `344`
 - `Venus/Node = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `142`
+- `Venus/Node = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `211`
 - `Venus/Node = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `193`
 - `Venus/Node = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `63`
+- `Venus/Node = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `212`
 - `Venus/Pluto = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `181`
+- `Venus/Pluto = Node`: Udo Rudolph - ABC for Planetary Pictures, page `280`
 - `Venus/Pluto = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `191`
 - `Venus/Pluto = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `62`
+- `Venus/Pluto = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `208`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Pluto/Node = Venus`: an intensely attractive alliance field, with love, friendship, and shared pleasure shaped by powerful bonding, emotional depth, and transformative attachment.
+- `Venus/Node = Pluto`: powerful attraction, with relationships shaped by intensity, loyalty, leverage, or transformative encounters with others.
+- `Venus/Pluto = Node`: compelling attraction, transformative love, and deep value intensity made fated, relational, and socially catalytic.
 
 ## Links
 
@@ -59,5 +68,7 @@ updated_at: 2026-04-22
 - [Pluto](../factors/pluto.md)
 - [Node](../factors/node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

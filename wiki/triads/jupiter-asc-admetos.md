@@ -3,7 +3,7 @@ title: Jupiter Asc Admetos
 page_type: triad_hub
 slug: jupiter-asc-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Asc Admetos`
 - Astronomicon triad-set: `V Asc ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Admetos = Jupiter](../activations/asc-admetos-equals-jupiter.md)
-  Source page `96`
 - [Jupiter/Admetos = Asc](../activations/jupiter-admetos-equals-asc.md)
-  Source page `216`
 - [Jupiter/Asc = Admetos](../activations/jupiter-asc-equals-admetos.md)
-  Source page `86`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Admetos = Jupiter`: page `96`
-- `Jupiter/Admetos = Asc`: page `216`
-- `Jupiter/Asc = Admetos`: page `86`
+- `Asc/Admetos = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `96`
+- `Asc/Admetos = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `132`
+- `Jupiter/Admetos = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `216`
+- `Jupiter/Admetos = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `342`
+- `Jupiter/Asc = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `86`
+- `Jupiter/Asc = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `113`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Admetos = Jupiter`: fortunate settlement: the native quickly acclimatizes and finds happiness or support in a fixed environment, even if rivalry or envy is present around it.
+- `Jupiter/Admetos = Asc`: a quiet, lonely, or retiring place, personal spending beyond others, envy from others, and awareness that others may lack money.
+- `Jupiter/Asc = Admetos`: happiness in a peaceful environment and luck that comes through being settled, rooted, or quietly placed.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Asc](../factors/asc.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

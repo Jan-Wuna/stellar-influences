@@ -33,30 +33,15 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Moon/Jupiter midpoint`
-- Source page: `29`
-- Activator: `Chiron`
-
 #### Sandbach Entry
 
 Your energy helps others to get more fully in touch with their feelings and to accept them. You innately encourage others to feel greater security and faith in the workings of the universe.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Jupiter = Chiron`: Your energy helps others to get more fully in touch with their feelings and to accept them. You innately encourage others to feel greater security and faith in the workings of the universe.
+- Practical focus: makes `Moon/Jupiter` healing, reassuring, and quietly faith-restoring. The person tends to help others feel safer inside their own emotions and more trusting of life, so optimism becomes less performative and more therapeutic, grounded in acceptance and emotional permission.
 
 ## Links
 

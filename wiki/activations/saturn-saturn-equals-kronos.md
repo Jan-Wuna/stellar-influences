@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Saturn + Saturn`
-- Source page: `220`
 #### Witte Entry
 
 Old gentleman. High age. Late fulfillment. Long time or duration. Great hindrance. Ruling and independent persons impeded. Loss of sovereign persons. Losses suffered by the authorities. The great land owner or the person urgently requiring help. Losses or separations through the authorities. Separations of long duration. Long time. Late. Separation from the father. Shutdown of government structures.
 
-## Comparative Schema
-
-- core meaning: Old gentleman. High age. Late fulfillment. Long time or duration. Great hindrance. Ruling and independent persons impeded. Loss of sovereign persons. Losses suffered by the authorities. The great land owner or the person urgently requiring help. Losses or separations through the authorities. Separations of long duration. Long time. Late. Separation from the father. Shutdown of government structures.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Saturn = Kronos`: old gentleman, high age, late fulfillment.
 
 ## Links
 

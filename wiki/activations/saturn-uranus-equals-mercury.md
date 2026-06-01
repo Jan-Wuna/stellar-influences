@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Uranus`
-- Source page: `221`
 #### Witte Entry
 
 Irritable thinking. Suddenly saying goodbye. Obliged to travel.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Saturn/Uranus`
-- Source page: `247`
-- Entry: `0869`
+#### ABC Entry
+
+Deteriorated movement rhythm, news about new losses, nervous speech cancellations, sudden spatial movements, sudden shocks in youth, lossy traffic disruptions, technical tasks to discuss, and iisurprising speech cancellations
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Making great demands upon one's nervous energy, ability to hit back hard under p
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Saturn/Uranus midpoint`
-- Source page: `88`
-- Activator: `Mercury`
-
 #### Sandbach Entry
 
 A highly unique way of structuring ideas. A need to speak freely about things, yet caution or fear about doing so. Cleverness in combining new ideas and methods with old, traditional ones.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Educational reforms which break accepted barriers; new ways of communicating radical changes to traditional workers; innovative words appearing in language to describe new or different activities; monotonous politicians.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Uranus = Mercury`: technical intelligence, strategic reform thinking, and the ability to notice where structures no longer function. Main caution: mental strain: overstimulation, rigidity, or argumentative contrariness can weaken clarity and cooperation.
 
 ## Links
 
@@ -84,7 +76,8 @@ A highly unique way of structuring ideas. A need to speak freely about things, y
 - [Uranus](../factors/uranus.md)
 - [Mercury](../factors/mercury.md)
 - [Saturn/Uranus](../axes/saturn-uranus.md)
-- [Mercury Saturn Uranus](../triads/mercury-saturn-uranus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

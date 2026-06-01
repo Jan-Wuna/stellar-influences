@@ -3,7 +3,7 @@ title: Vernal Point Mars Pluto
 page_type: triad_hub
 slug: vernal-point-mars-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Mars
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Mars Pluto`
 - Astronomicon triad-set: `VP U Z`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Pluto = Vernal Point](../activations/mars-pluto-equals-vernal-point.md)
-  Source page `196`
 - [Vernal Point/Mars = Pluto](../activations/vernal-point-mars-equals-pluto.md)
-  Source page `42`
 - [Vernal Point/Pluto = Mars](../activations/vernal-point-pluto-equals-mars.md)
-  Source page `47`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Pluto = Vernal Point`: page `196`
-- `Vernal Point/Mars = Pluto`: page `42`
-- `Vernal Point/Pluto = Mars`: page `47`
+- `Mars/Pluto = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `196`
+- `Mars/Pluto = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `306`
+- `Vernal Point/Mars = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `42`
+- `Vernal Point/Mars = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `33`
+- `Vernal Point/Pluto = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `47`
+- `Vernal Point/Pluto = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `42`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Pluto = Vernal Point`: brings planning and supervision into the public, administrative, and collective sphere.
+- `Vernal Point/Mars = Pluto`: This formula emphasizes to organize, to plan, and changes or transformation in the world of labour.
+- `Vernal Point/Pluto = Mars`: This formula emphasizes sideline activities, to make plans, a plan, and to organize something.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Mars](../factors/mars.md)
 - [Pluto](../factors/pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

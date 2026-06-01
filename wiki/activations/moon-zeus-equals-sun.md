@@ -3,7 +3,7 @@ title: Moon/Zeus = Sun
 page_type: activation
 slug: moon-zeus-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Moon
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Zeus`
-- Source page: `132`
 #### Witte Entry
 
 To master ones body. A sense for discipline and order. The daily repeated working hours. Wanting to assist. Energetic interference. Easily inflammable substance. The hour of the commencement of a fire.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To master ones body. A sense for discipline and order. The daily repeated working hours. Wanting to assist. Energetic interference. Easily inflammable substance. The hour of the commencement of a fire.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+fiery man of a woman, fiery feelings of the man, birth day of a woman, creative woman of a man, creative emotional nature of a man, people of the leading people, day of effort for a woman, and center of the leading people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Zeus = Sun`: To master ones body. A sense for discipline and order. The daily repeated working hours. Wanting to assist. Energetic interference. Easily inflammable substance. The hour of the commencement of a fire.
+- Practical expression: fiery man of a woman, fiery feelings of the man, birth day of a woman, creative woman of a man, and creative emotional nature of a man.
 
 ## Links
 
@@ -61,3 +56,5 @@ To master ones body. A sense for discipline and order. The daily repeated workin
 - [Zeus](../factors/zeus.md)
 - [Sun](../factors/sun.md)
 - [Moon/Zeus](../axes/moon-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

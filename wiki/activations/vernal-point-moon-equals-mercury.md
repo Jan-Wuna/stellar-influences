@@ -3,7 +3,7 @@ title: Vernal Point/Moon = Mercury
 page_type: activation
 slug: vernal-point-moon-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Moon
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Moon
   - Mercury
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Moon`
-- Source page: `38`
 #### Witte Entry
 
 Thinking women. Thoughts about women. Public opinion. Exchange of thoughts between peoples and nations.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Thinking women. Thoughts about women. Public opinion. Exchange of thoughts between peoples and nations.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Reports on the world of women, women's language in public, young women in public, opinions of a friendly public, people's language in public, and women's youth in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Moon = Mercury`: thinking women, thoughts about women, public opinion, and exchange of thoughts between peoples and nations.
+- Practical expression: reports on the world of women, women's language in public, young women in public, opinions of a friendly public, and people's language in public.
 
 ## Links
 
@@ -61,3 +56,5 @@ Thinking women. Thoughts about women. Public opinion. Exchange of thoughts betwe
 - [Moon](../factors/moon.md)
 - [Mercury](../factors/mercury.md)
 - [Vernal Point/Moon](../axes/vernal-point-moon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

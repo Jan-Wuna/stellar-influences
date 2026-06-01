@@ -3,10 +3,10 @@ title: Sun/Asc = Hades
 page_type: activation
 slug: sun-asc-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Sun
+  - Asc
   - Hades
 normalized_formula: Sun/Asc = Hades
 axis: Sun/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Asc
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Sun`
-- Source page: `80`
 #### Witte Entry
 
 Acquaintance who have a weak body. Dealing with sick people. To be disgusted with unpleasant things and to be tied to them.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Acquaintance who have a weak body. Dealing with sick people. To be disgusted with unpleasant things and to be tied to them.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Old town centre, dangerous people in the environment, criminal people in the environment, grief of the people in the vicinity, lack of other people, people from the Y in the vicinity, human need in the environment, and disadvantages by man's partners
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Asc = Hades`: weak or feeble at the time and a sufferer.
+- Practical expression: old town centre, dangerous people in the environment, criminal people in the environment, grief of the people in the vicinity, and lack of other people.
 
 ## Links
 
@@ -61,3 +56,5 @@ Acquaintance who have a weak body. Dealing with sick people. To be disgusted wit
 - [Asc](../factors/asc.md)
 - [Hades](../factors/hades.md)
 - [Sun/Asc](../axes/sun-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

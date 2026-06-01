@@ -33,30 +33,14 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Venus/Chiron midpoint`
-- Source page: `58`
-- Activator: `Midheaven`
-
 #### Sandbach Entry
 
 Helping others to see the true value of all that is around them is central to one’s life mission. The ability to be receptive to the love that is everywhere around one.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Chiron = MC`: helping others to see the true value of all that is around them is central to one’s life mission.
 
 ## Links
 

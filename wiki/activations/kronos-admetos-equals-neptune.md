@@ -3,7 +3,7 @@ title: Kronos/Admetos = Neptune
 page_type: activation
 slug: kronos-admetos-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Kronos
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Kronos + Admetos`
-- Source page: `300`
 #### Witte Entry
 
 Uncertain exclusive position. Passing special mission. Not to be equal to a special position, to be deceived as to the true conditions. Concealed treacnerous deeds.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Uncertain exclusive position. Passing special mission. Not to be equal to a special position, to be deceived as to the true conditions. Concealed treacnerous deeds.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dissolving of major depressions, special perseverance in the water, blocked self governingness in the air, ending of a large weak, large circulatory weakness, self sustaining deepening in metaphysics, stabilizing the future of the state, developing water circuit control Special perseverance, and unfolding of a solid Authoritat
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Admetos = Neptune`: an unstable exclusive role, a passing special mission, unfitness for a special position, and concealed treachery hidden inside uncertain conditions.
+- Main caution: separation and status can become confused, deceptive, or unsustainable unless the true conditions are seen clearly.
 
 ## Links
 
@@ -61,3 +56,5 @@ Uncertain exclusive position. Passing special mission. Not to be equal to a spec
 - [Admetos](../factors/admetos.md)
 - [Neptune](../factors/neptune.md)
 - [Kronos/Admetos](../axes/kronos-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

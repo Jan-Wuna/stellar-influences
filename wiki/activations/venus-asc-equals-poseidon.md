@@ -3,10 +3,10 @@ title: Venus/Asc = Poseidon
 page_type: activation
 slug: venus-asc-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Venus
+  - Asc
   - Poseidon
 normalized_formula: Venus/Asc = Poseidon
 axis: Venus/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Asc
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Venus`
-- Source page: `84`
 #### Witte Entry
 
 Spiritual harmony with others. Soulmates in harmony. Trains of thoughts about the beautiful appearance of the acquainted person.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Spiritual harmony with others. Soulmates in harmony. Trains of thoughts about the beautiful appearance of the acquainted person.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Peace and culture in the place, harmony and clarity in the environment, harmonious spirit in the place, artist and culture in a place, place of spiritual arts, beauty of the local culture, true love of the partner, and truth love of the partner
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Asc = Poseidon`: spiritual harmony with others.
+- Practical expression: peace, culture in the place, harmony, clarity in the environment, and harmonious spirit in the place.
 
 ## Links
 
@@ -61,3 +56,5 @@ Spiritual harmony with others. Soulmates in harmony. Trains of thoughts about th
 - [Asc](../factors/asc.md)
 - [Poseidon](../factors/poseidon.md)
 - [Venus/Asc](../axes/venus-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

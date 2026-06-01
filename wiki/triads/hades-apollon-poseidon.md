@@ -3,7 +3,7 @@ title: Hades Apollon Poseidon
 page_type: triad_hub
 slug: hades-apollon-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Apollon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Hades Apollon Poseidon`
 - Astronomicon triad-set: `¢ ¥ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Apollon/Poseidon = Hades](../activations/apollon-poseidon-equals-hades.md)
-  Source page `308`
 - [Hades/Apollon = Poseidon](../activations/hades-apollon-equals-poseidon.md)
-  Source page `281`
 - [Hades/Poseidon = Apollon](../activations/hades-poseidon-equals-apollon.md)
-  Source page `286`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Apollon/Poseidon = Hades`: page `308`
-- `Hades/Apollon = Poseidon`: page `281`
-- `Hades/Poseidon = Apollon`: page `286`
+- `Apollon/Poseidon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `308`
+- `Apollon/Poseidon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `473`
+- `Hades/Apollon = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `281`
+- `Hades/Apollon = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `443`
+- `Hades/Poseidon = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `286`
+- `Hades/Poseidon = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `449`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Apollon/Poseidon = Hades`: disillusionment with one's ideological companions, or withdrawal from those who should have been congenial allies.
+- `Hades/Apollon = Poseidon`: finding adherents, shared outlook, and communal agreement between worldview and actual social situation.
+- `Hades/Poseidon = Apollon`: separation from many, or a special and unusual position that stands out in a wider social or intellectual field.
 
 ## Links
 
 - [Hades](../factors/hades.md)
 - [Apollon](../factors/apollon.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

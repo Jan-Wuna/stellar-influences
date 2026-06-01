@@ -3,7 +3,7 @@ title: Uranus/Pluto = Apollon
 page_type: activation
 slug: uranus-pluto-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Pluto
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Pluto`
-- Source page: `235`
 #### Witte Entry
 
 Suddenly commencing development for many which starts on a very small scale and grows to an enormous state.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Suddenly commencing development for many which starts on a very small scale and grows to an enormous state.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Metaphysics, extensive metaphysical experiences, increasing reform development Exciting changes due to limitations, blocked technical developments, sudden under dripping of a development, and tensions due to growing barriers
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Pluto = Apollon`: Suddenly commencing development for many which starts on a very small scale and grows to an enormous state.
+- Practical expression: metaphysics, extensive metaphysical experiences, increasing reform development Exciting changes due to limitations, blocked technical developments, and sudden under dripping of a development.
 
 ## Links
 
@@ -61,3 +56,5 @@ Suddenly commencing development for many which starts on a very small scale and 
 - [Pluto](../factors/pluto.md)
 - [Apollon](../factors/apollon.md)
 - [Uranus/Pluto](../axes/uranus-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

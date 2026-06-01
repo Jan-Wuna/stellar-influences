@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Saturn`
-- Source page: `178`
 #### Witte Entry
 
 Passing close or intimate acquaintance. Dissolution of a love-affair.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Venus/Saturn`
-- Source page: `182`
-- Entry: `0606`
+#### ABC Entry
+
+To love work tasks, to create harmony in old age, to deal with love problems, loss of a harmonious work, and preference for serious work
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Jealousy, violence, weakened powers of procreation. Inclination to act on the di
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Venus/Saturn midpoint`
-- Source page: `57`
-- Activator: `Mars`
-
 #### Sandbach Entry
 
 To be angry about the difficulties and limitations encountered in relationships. To act out of a profound love.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Enhanced impulses to quickly receive pleasure in short bursts from your activities; enjoying traditionally male oriented activities; causes complaints against restrictions which curtail loud music; lasting get-rich quick schemes.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Saturn = Mars`: loyal exertion, controlled passion, and the ability to work hard for commitment, artistry, or material stability. Main caution: frustrated desire can turn irritable, harsh, or resentful when affection feels blocked.
 
 ## Links
 
@@ -84,7 +76,8 @@ To be angry about the difficulties and limitations encountered in relationships.
 - [Saturn](../factors/saturn.md)
 - [Mars](../factors/mars.md)
 - [Venus/Saturn](../axes/venus-saturn.md)
-- [Venus Mars Saturn](../triads/venus-mars-saturn.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

@@ -3,7 +3,7 @@ title: Admetos/Vulcanus = Neptune
 page_type: activation
 slug: admetos-vulcanus-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Admetos
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Admetos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Admetos + Vulcanus`
-- Source page: `311`
 #### Witte Entry
 
 A change in the form of being works out in a very unfortunate way for the native.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A change in the form of being works out in a very unfortunate way for the native.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influential circulatory weakness, constricting water energy, strengthening by the influence of metaphysics, strengthening of power by fine feeling, weakening influence by depression, strong air compaction, compaction of subtle energies (materialization) curtailment of violent developments, end of power unfolding, and energy differentiation
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Admetos/Vulcanus = Neptune`: difficult transitions, vulnerable states under heavy force, and conditions where weakness meets pressure badly. Main caution: ruinous softening: instability, dissolution, or mismanaged change makes hardship worse rather than easing it.
 
 ## Links
 
@@ -61,3 +55,5 @@ A change in the form of being works out in a very unfortunate way for the native
 - [Vulcanus](../factors/vulcanus.md)
 - [Neptune](../factors/neptune.md)
 - [Admetos/Vulcanus](../axes/admetos-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

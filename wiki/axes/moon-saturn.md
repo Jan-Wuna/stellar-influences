@@ -58,13 +58,14 @@ aliases:
   - Saturn/Moon
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -77,17 +78,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Saturn`
-- Source page: `126`
-
 #### Pair Summary
 
 Restrain. Separate. Despair. Depressed mind. Old, single, separated or unhappy woman. Widow. The hours one has to be alone. Evening hours. To be separated from the public. The hour of separation. Separation of female persons. To avoid women. Discontentment trough separation.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Moon/Saturn`
-- Source page: `125`
+#### ABC Pair Summary
+
+Evening hour, old woman, tasks of woman, burden of a people, serious hour, women's problems, Ceduld of a woman, patient people, separate woman, Schmcrzen of women, and losses of a people
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -111,17 +112,11 @@ Inhibited, lonely and sad people. The lonely woman or mother.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
-- Source heading: `Moon/Saturn`
-- Source page: `26`
-
 #### Falis Entry
 
 Melancholy. Depressed emotions. Little emotion. A responsible woman. Emotions are a burden. Heavy feelings. Sad feelings. Structured emotions. Rigid emotions. Emotional authority. An authority on feelings. An authority on habits. An authority on women. An authority on mothering and nurturing .. Lack of emotion. Lack of car ing. Lack of nurturing. Lack of nourishment. Anorexic. Denying feelings. Denying emotion. Cut off from emotion. Cut off from self-care. Denied nurturing. Denied happiness. Unable to feel happiness. Becoming a master of your emotional realm. Teaching yourself how to feel. Gain ing mastery over habitual response patterns. Master of defense. Gaining mastery over emotional responses. Learning how to make your own happiness. Learning how to make your own joy. Learning emotional self-fulfillment Learning how to take care of yourself. Learning how to meet your own needs. Learning how to cope with depression. The amount you felt your father cared. An emotional father. Fluc tuating feelings about responsibility. Fluctuating feelings about structure and au thority. Fluctuating feelings about discipline and hard work. Feeling okay with hard work. A sensitive authority figure. A sensitive father. A defensive stance. Lack of joy. Emotional repression. Feeling okay with rules and regulations that support emotional response and expression. Comfortable not showing emotion. Conser vative. Restrained. Happy in a position of authority. Disciplined habits. Disciplined activities bring happiness. Surmounting obstacles brings happiness. Achievement brings happi ness. Having an intuitive sense of time. Having a natural sense of authority. The capacity to handle responsibility with aplomb. Feeling that there is never enough time. Hardened emotions. A hard childhood. Lack of emotional expression as a child. Lack of support during childhood. Denied support. Feeling responsible for mom. Single parent household. Taking responsibility for your mother. The child who takes care of the parent. Mom as the authority figure. Having a burdened mother. Mom was the disciplinarian. An authoritative woman. A responsible mother. Taking on responsibility at an early age. Early maturity. Emo tional responsibility. Dutiful emotional expression. Dutiful habits. Inhibited emo tional expression. The responsible child. Emotional management. Mood manage ment. Learning how to be happy - the hard way. Making time for your own needs. Neglected by mom. Loneliness. Hardened emotions. Mature responses. Emotional mountains and barriers. Blocked intuition. Mastering intuition. Intuitive teacher. Hardened defenses. Crystallized habits. Master of the emotional domain. Mood master. Barren landscape. Bleak house. Keeping a stiff upper lip. Eating schedules. Finding happiness in the real world.
 
 ### Charles Carter - The Astrological Aspects
-
-- Source heading: `ASPECTS OF THE MOON & SATURN`
-- Source page: `27`
 
 #### Harmonious Aspects
 
@@ -173,9 +168,6 @@ The native may come into contact with violence and ill-health. The Opposition se
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Moon/Saturn midpoint`
-- Source page: `31`
-
 #### Principle
 
 Controlled or repressed feelings. The avoidance of emotions. Emotions that either do not change or which only change slowly. The ability to be dutiful, careful, and attentive. Fear for one’s security. Emotional sensitivity. Awareness of lack of fulfillment in terms of one’s emotional needs. The meeting of basic needs. At best one may even tually come to a realization of the spiritual purpose behind one’s emotional problems.
@@ -186,17 +178,11 @@ Connecting with and clearing negative emotions. The development of the ability t
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Moon/Saturn`
-- Source page: `203`
-
 #### Pair Delineation
 
 Feelings of loneliness. Feeling cut off or alienated, not caring for or being cared for by anyone. Inhibited feelings, feelings subject to discipline. Somberness, sobriety, reserve. In women's charts can be a point of self-deprecation. In charts of either sex can mean difficulties with the mother.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `MOON/SATURN`
-- Source page: `119`
 
 #### Basic Ideas
 
@@ -225,15 +211,6 @@ Hypo-acidity conditions in the stomach; fluids collecting in joints; water on th
 
 - [Michael Munkasey - Moon/Saturn Concepts](../derived/munkasey-moon-saturn-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Moon/Saturn = Admetos](../activations/moon-saturn-equals-admetos.md)
@@ -258,20 +235,18 @@ Hypo-acidity conditions in the stomach; fluids collecting in joints; water on th
 - [Moon/Saturn = Vulcanus](../activations/moon-saturn-equals-vulcanus.md)
 - [Moon/Saturn = Zeus](../activations/moon-saturn-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Saturn` is the axis of emotional restraint, duty, sobriety, and the hard lessons of security, deprivation, and endurance. It combines feeling, habit, and care with caution, structure, loneliness, discipline, and the need to manage vulnerability carefully.
+- Chart expression: self-control, maturity, thrift, responsibility, patient caretaking, and the capacity to endure difficult conditions without losing functional order. Liabilities: melancholy, fear, inhibition, emotional coldness, isolation, resentment, and the feeling of being unsupported, burdened, or forced to grow up too early.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Saturn](../factors/saturn.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)

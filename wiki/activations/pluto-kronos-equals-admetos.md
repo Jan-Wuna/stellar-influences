@@ -3,7 +3,7 @@ title: Pluto/Kronos = Admetos
 page_type: activation
 slug: pluto-kronos-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Kronos
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Kronos`
-- Source page: `260`
 #### Witte Entry
 
 Transformation in a small circle. Deep reaching change for a few.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Transformation in a small circle. Deep reaching change for a few.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Especially grim development, blocked development to self governingness, restricted development for the state, development to self glorification through perseverance, grilnd changes in the state, and resistance to priority changes
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Kronos = Admetos`: deep or foundational changes in authority; Rank develops under pressure or resistance.
+- Practical expression: especially grim development, blocked development to self governingness, restricted development for the state, and development to self glorification through perseverance.
 
 ## Links
 
@@ -61,3 +56,5 @@ Transformation in a small circle. Deep reaching change for a few.
 - [Kronos](../factors/kronos.md)
 - [Admetos](../factors/admetos.md)
 - [Pluto/Kronos](../axes/pluto-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

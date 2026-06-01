@@ -3,7 +3,7 @@ title: Kronos/Poseidon = Saturn
 page_type: activation
 slug: kronos-poseidon-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Kronos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Kronos + Poseidon`
-- Source page: `302`
 #### Witte Entry
 
 To find misunderstanding and obstacles in one’s high-minded or cultural endeavor. Educational measures which are felt as unpleasant or which one resents and resists.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To find misunderstanding and obstacles in one’s high-minded or cultural endeavor. Educational measures which are felt as unpleasant or which one resents and resists.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Contaminating findings about the state, special cultural tasks, local culture of a state, great authority of truth, great clarity in old age, concentration on the spiritual hierarchic, cultural tasks of a state, and maturity of an important idea
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Poseidon = Saturn`: obstacles in cultural or spiritual work and educational measures felt as unpleasant, resented, or restrictive.
+- Chart expression: disciplined study, but it can also mark mental austerity, ideological resistance, and the pain of cultural or educational limitation.
 
 ## Links
 
@@ -61,3 +56,5 @@ To find misunderstanding and obstacles in one’s high-minded or cultural endeav
 - [Poseidon](../factors/poseidon.md)
 - [Saturn](../factors/saturn.md)
 - [Kronos/Poseidon](../axes/kronos-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Uranus Asc Vulcanus
 page_type: triad_hub
 slug: uranus-asc-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Asc
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Asc Vulcanus`
 - Astronomicon triad-set: `X Asc §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Vulcanus = Uranus](../activations/asc-vulcanus-equals-uranus.md)
-  Source page `97`
 - [Uranus/Asc = Vulcanus](../activations/uranus-asc-equals-vulcanus.md)
-  Source page `88`
 - [Uranus/Vulcanus = Asc](../activations/uranus-vulcanus-equals-asc.md)
-  Source page `242`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Vulcanus = Uranus`: page `97`
-- `Uranus/Asc = Vulcanus`: page `88`
-- `Uranus/Vulcanus = Asc`: page `242`
+- `Asc/Vulcanus = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `97`
+- `Asc/Vulcanus = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `135`
+- `Uranus/Asc = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `88`
+- `Uranus/Asc = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `117`
+- `Uranus/Vulcanus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `242`
+- `Uranus/Vulcanus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `386`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Vulcanus = Uranus`: abrupt fights, explosive reactions, and force that erupts without warning.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Asc](../factors/asc.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

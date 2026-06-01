@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Uranus + Uranus`
-- Source page: `233`
 #### Witte Entry
 
 Mutations. Jumps. To leap. Explosions. Changes and transformations which start suddenly. The development starts with a shock. Inventions or changes in the field of technology. Surprising, unexpected turnaround or development.
 
-## Comparative Schema
-
-- core meaning: Mutations. Jumps. To leap. Explosions. Changes and transformations which start suddenly. The development starts with a shock. Inventions or changes in the field of technology. Surprising, unexpected turnaround or development.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Uranus = Pluto`: Mutations. Jumps. To leap. Explosions. Changes and transformations which start suddenly. The development starts with a shock. Inventions or changes in the field of technology. Surprising, unexpected turnaround or development.
 
 ## Links
 

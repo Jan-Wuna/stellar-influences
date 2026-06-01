@@ -3,7 +3,7 @@ title: Mars/Kronos = Pluto
 page_type: activation
 slug: mars-kronos-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Pluto
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Kronos`
-- Source page: `200`
 #### Witte Entry
 
 To have great plans of activity. To develop one’s abilities in several fields. Power of state in development and transformation.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To have great plans of activity. To develop one’s abilities in several fields. Power of state in development and transformation.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+the activity, great change of will, state change of activity, action of the authority, priority development work, and increasing activity of the boss
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Kronos = Pluto` deepens executive force into large plans, strategic development, and transformative uses of power.
+- Chart expression: major designs for action, expanding one's capacities across several fields, and state or institutional power used for development, reform, or controlled transformation.
 
 ## Links
 
@@ -61,3 +56,5 @@ To have great plans of activity. To develop one’s abilities in several fields.
 - [Kronos](../factors/kronos.md)
 - [Pluto](../factors/pluto.md)
 - [Mars/Kronos](../axes/mars-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

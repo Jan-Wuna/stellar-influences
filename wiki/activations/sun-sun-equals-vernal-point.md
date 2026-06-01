@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Sun + Sun`
-- Source page: `99`
 #### Witte Entry
 
 The body or object in general. The body on this Earth. The body and everything pertaining to the body. The biological. Problems and matters of daily life. Many on a day. Persons in public life. The relationship of the general public to the body. Several people.
 
-## Comparative Schema
-
-- core meaning: The body or object in general. The body on this Earth. The body and everything pertaining to the body. The biological. Problems and matters of daily life. Many on a day. Persons in public life. The relationship of the general public to the body. Several people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Sun = Vernal Point`: the self appearing directly in immediate surroundings and circumstance.
 
 ## Links
 

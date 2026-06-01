@@ -3,7 +3,7 @@ title: Sun Moon Admetos
 page_type: triad_hub
 slug: sun-moon-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Moon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Moon Admetos`
 - Astronomicon triad-set: `S R ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Admetos = Sun](../activations/moon-admetos-equals-sun.md)
-  Source page `135`
 - [Sun/Admetos = Moon](../activations/sun-admetos-equals-moon.md)
-  Source page `116`
 - [Sun/Moon = Admetos](../activations/sun-moon-equals-admetos.md)
-  Source page `101`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Admetos = Sun`: page `135`
-- `Sun/Admetos = Moon`: page `116`
-- `Sun/Moon = Admetos`: page `101`
+- `Moon/Admetos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `135`
+- `Moon/Admetos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `202`
+- `Sun/Admetos = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `116`
+- `Sun/Admetos = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `168`
+- `Sun/Moon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `101`
+- `Sun/Moon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `139`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Admetos = Sun`: Daily repeating sad hours. To be daily conscious of crowded conditions. The personal attitude toward death. Day and hour of death. Remaining immovable.
+- `Sun/Admetos = Moon`: This formula emphasizes a man of practical activity and a practical person.
+- `Sun/Moon = Admetos`: This formula emphasizes practical activity and grounded, workmanlike embodiment.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Moon](../factors/moon.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Apollon + Apollon`
-- Source page: `305`
 #### Witte Entry
 
 The feeling of satisfaction. Contentment. Satiety. To be saturated. Stagnation or standstill in trade, handicraft, commerce, industry or science. Science in a small circle, for only a few. Exclusive scientific circle. The few, the small circle. The exclusive circle.
 
-## Comparative Schema
-
-- core meaning: The feeling of satisfaction. Contentment. Satiety. To be saturated. Stagnation or standstill in trade, handicraft, commerce, industry or science. Science in a small circle, for only a few. Exclusive scientific circle. The few, the small circle. The exclusive circle.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Apollon = Admetos`: satiety, stable sufficiency, specialized science or commerce for a select few, and prosperity that no longer feels driven to expand. Main caution: stagnation: breadth may stop moving and harden into complacency, exclusivity, or arrested growth.
 
 ## Links
 

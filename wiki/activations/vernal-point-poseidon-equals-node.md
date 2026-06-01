@@ -3,7 +3,7 @@ title: Vernal Point/Poseidon = Node
 page_type: activation
 slug: vernal-point-poseidon-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Node
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Poseidon`
-- Source page: `55`
 #### Witte Entry
 
 To be associated with mentally matters.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be associated with mentally matters.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Spiritual connections in the public, clarity in the public Relations, culture Connections in the public, connected with the public Ideas, public CultureMeetings, and future connections in the public Life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Poseidon = Node`: to be associated with mentally matters.
+- Practical expression: spiritual connections in the public, clarity in the public Relations, culture Connections in the public, connected with the public Ideas, and public CultureMeetings.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be associated with mentally matters.
 - [Poseidon](../factors/poseidon.md)
 - [Node](../factors/node.md)
 - [Vernal Point/Poseidon](../axes/vernal-point-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

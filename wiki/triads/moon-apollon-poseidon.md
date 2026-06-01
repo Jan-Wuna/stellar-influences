@@ -3,7 +3,7 @@ title: Moon Apollon Poseidon
 page_type: triad_hub
 slug: moon-apollon-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Apollon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Apollon Poseidon`
 - Astronomicon triad-set: `R ¥ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Apollon/Poseidon = Moon](../activations/apollon-poseidon-equals-moon.md)
-  Source page `308`
 - [Moon/Apollon = Poseidon](../activations/moon-apollon-equals-poseidon.md)
-  Source page `134`
 - [Moon/Poseidon = Apollon](../activations/moon-poseidon-equals-apollon.md)
-  Source page `138`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Apollon/Poseidon = Moon`: page `308`
-- `Moon/Apollon = Poseidon`: page `134`
-- `Moon/Poseidon = Apollon`: page `138`
+- `Apollon/Poseidon = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `308`
+- `Apollon/Poseidon = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `472`
+- `Moon/Apollon = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `134`
+- `Moon/Apollon = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `201`
+- `Moon/Poseidon = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `138`
+- `Moon/Poseidon = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `207`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Apollon/Poseidon = Moon`: a people or group openly expressing its prevailing attitude and disposition.
+- `Moon/Apollon = Poseidon`: thoughts with kindred minds. Intellectually interested masses. Exchange of ideas among nations. Exchange students.
+- `Moon/Poseidon = Apollon`: Congeniality in higher spiritual thinking. Sense or flair for new sciences. Feeling ones way into new fields of knowledge.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Apollon](../factors/apollon.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

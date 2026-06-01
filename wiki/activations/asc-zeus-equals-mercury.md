@@ -3,7 +3,7 @@ title: Asc/Zeus = Mercury
 page_type: activation
 slug: asc-zeus-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Asc
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Zeus`
-- Source page: `93`
 #### Witte Entry
 
 The native’s way is shown to him. The thoughts are forced to follow a fixed trend. To be under the influence of other’s opinions. To be compelled to much conversation. Talks about machines.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The native’s way is shown to him. The thoughts are forced to follow a fixed trend. To be under the influence of other’s opinions. To be compelled to much conversation. Talks about machines.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Report about fire in the environment, thoughts about local design, creative partners in youth, news about environmental services, voice recordings with others, environmental goals of youth, transport support of a place, and word design at the place
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Zeus = Mercury`: guided planning, pressured thinking, and environments where conversation becomes task-driven or technically focused. Main caution: mental overdirection or losing freedom of opinion.
 
 ## Links
 
@@ -61,3 +55,5 @@ The native’s way is shown to him. The thoughts are forced to follow a fixed tr
 - [Zeus](../factors/zeus.md)
 - [Mercury](../factors/mercury.md)
 - [Asc/Zeus](../axes/asc-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

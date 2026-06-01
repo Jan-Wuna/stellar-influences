@@ -3,7 +3,7 @@ title: Vernal Point/Cupido = Jupiter
 page_type: activation
 slug: vernal-point-cupido-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Jupiter
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Cupido`
-- Source page: `48`
 #### Witte Entry
 
 Banks. Financial institutions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Banks. Financial institutions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Community of Success in the Public, Successful Community of art, Joint Joy in the Public, Public Finance Community, and Legal Community in the Public Life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Cupido = Jupiter`: banks and financial institutions.
+- Practical expression: community of Success in the Public, successful Community of art, joint Joy in the Public, public Finance Community, and legal Community in the Public Life.
 
 ## Links
 
@@ -61,3 +56,5 @@ Banks. Financial institutions.
 - [Cupido](../factors/cupido.md)
 - [Jupiter](../factors/jupiter.md)
 - [Vernal Point/Cupido](../axes/vernal-point-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

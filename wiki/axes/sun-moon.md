@@ -58,6 +58,7 @@ aliases:
   - Moon/Sun
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
@@ -65,7 +66,7 @@ source_pages:
   - robert-hand-horoscope-symbols
   - don-mcbroom-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -78,17 +79,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Moon`
-- Source page: `101`
-
 #### Pair Summary
 
 Man and woman (husband and wife). Marriage, parents, friendships, partnerships of male and female. The day and the hour. The course of the day. The attitude of a man towards a woman and vice versa. Physical relations to female persons. The body of a female. The course of the day.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Sun/Moon`
-- Source page: `77`
+#### ABC Pair Summary
+
+Woman and Man, Man's feelings, emotional Man, Woman's Body, people's body, Human feelings, Man's Wife, Personal feelings, Man's Hour, Woman's Day, and Day and Hour
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -112,17 +113,11 @@ Husband and wife, father and mother, boyfriend and girlfriend, friend, marriage,
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
-- Source heading: `Sun/Moon`
-- Source page: `3`
-
 #### Falis Entry
 
 Strong parental influence. Ego versus intuition. Creativity versus wanting to hide. Are you ruled by your emotions. Do you have a strong identity. Do your emotions fit your identity. Do your emotions support your identity or block it. Does what makes you happy also make you feel like a unique individual with a unique per sonal identity. Who played a stronger role in your life, your mother or your father? Do you identity with the masculine or with the feminine. Your parents had a lot in common and presented a similar general viewpoint. Your moods and ego work well together. Parents who get along well together. Receiving the same input from both parents. Your feelings and ability to fulfill your purpose are in sync. You are rather straight-forward because your emotions and purpose work so well together. Taking things for granted because they come so easily. Spoiled. Getting what you want. Feeling that you should be appreciated just for being you. Having been the twinkle in your parents' eye. Expecting to get what you want. Expecting to be fulfilled. Expecting things to go smoothly. Inability to cope with disharmony or strife in relationships. Intuitive self. Instinctual self. Self-reflective. Receptive self. Intuition and conscious choice working together. Emotional identity. Feeling secure in your own skin. Self satisfied. Smug. Arrogant. Self-assured. Happy just being you. At ease. Feeling se cure with your level of confidence. Your emotions fuel your sense of purpose. Lack of awareness that other people might not have the same inner unity. Not realizing that other people don't have it so easy. Changing goals and drives. Your identity changes with your moods. Your purpose changes with your moods. Inability to get clear about who you are and what your purpose is because of moment by moment fluctuations in mood and energy. Wavering vitality. Confidence fluctuates. Identity changes according to mood. Nurturing yourself by fulfilling your inner sense of purpose. Conscious and subconscious united. Instinctively being yourself. Instinc tively fulfilling your purpose. Instinctively expressing yourself from your core. Feel ings and vitality merged. Radiant emotional expression. Becoming a parental figure or taking on a parental role even if you do not have children. Ego-driven emotions. Willfully acting from a place of need. Unapologetic need iness. Insolence. You want what you want because you want it. Feeling that you shouldn't have to explain yourself to anyone. Thinking that you are above reproach. Having intensely focused self-expression. The inner and outer life in harmony. Warm emotional expression. Sensitive self-expression. Mood and ego working against each other, or causing inner tension. Feeling like you can't be yourself and be happy at the same time. Issues reconciling your emo tions with who are you are inside. Pride versus caring. Parents, who are divorced, have completely opposite viewpoints or who can' get along. Receiving conflicting information from each parent. Getting different answers from each parent. Parents who have nothing in common. Bold creativity versus wanting to feel safe and se cure. Putting yourself out there versus retreating. Consciousness versus uncon sciousness. Day and night, night and day. Above and below. Inside and outside. Which is stronger- the outer life or the inner life. Your emotions block your ability to be completely yourself. Your subconscious sabotages your conscious efforts. You undermine yourself. You let fleeting moods and impressions get in the way of progress. You let pride and ego prevent you from fully expressing your emotions. You let ego get in the way of emotional flow. Poor daily habits block your ability to be centered and have a positive direction in life. You perceive that people impose their emotional lives upon you without taking into consideration that it throws you off course. You perceive that people impose their ego-driven desires upon you without taking your feelings into account. Feeling that everything you want in life is a struggle. Never feeling satisfied. Experi encing your emotions from a distance. Being removed or detached from your emo tions as if you were watching someone else experience them. Incompatibility be tween what you feel and what you want. Incredibly inner compulsion to reach ful fillment.
 
 ### Charles Carter - The Astrological Aspects
-
-- Source heading: `ASPECTS OF THE SUN AND MOON`
-- Source page: `5`
 
 #### Pair Overview
 
@@ -200,9 +195,6 @@ It seems to take nothing from the mental powers, which are often considerable, e
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Sun/Moon midpoint`
-- Source page: `6`
-
 #### Principle
 
 The flow of energy and information from the subconscious to the conscious and the process of finding meaning and order in it. The balance between work (Sun) and play (Moon), business (Sun) and pleasure (Moon), objective (Sun) and subjective (Moon). One’s general level of vitality and all the factors that affect it.
@@ -213,26 +205,17 @@ One becomes aware of each and every emotion as it arises, accepts all of them, s
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Sun/Moon`
-- Source page: `201`
-
 #### Pair Delineation
 
 The balance of male and female within the psyche, which expresses itself in terms of relationships with the opposite sex. Inner psychological balance. May also at times relate to one's experience of the mother and father as a pair.
 
 ### Don McBroom - Midpoints
 
-- Source heading: `The Sun/Moon Midpoint`
-- Source page: `58`
-
 #### McBroom Entry
 
 Sun/Moon midpoint would carry with it tremendous importance as it embellishes and solidifies the interaction between the two luminaries. Essentially, the Sun/Moon midpoint represents a microcosm of the needs suggested by the Sun-Moon Blend bringing together and integrating their collective importance at a specific point in the natal chart. In fact, the Sun/Moon midpoint will often dominate the life. It adds depth to the interpretation of the Sun-Moon Blend and suggests the level and means of internal continuity between these two all-important influences. Additionally, by defining our most important needs, it also dramatically influences whom we choose to be around - and who chooses to be around us. By doing so, the Sun/Moon midpoint represents an integral factor in determining the participants in all our relationships - whether they are casual, intimate, or professional.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `SUN/MOON`
-- Source page: `55`
 
 #### Basic Ideas
 
@@ -261,15 +244,6 @@ Chemical, Ph, and mineral balances within the body; sensitivity to drugs; pressu
 
 - [Michael Munkasey - Sun/Moon Concepts](../derived/munkasey-sun-moon-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Sun/Moon = Admetos](../activations/sun-moon-equals-admetos.md)
@@ -294,20 +268,18 @@ Chemical, Ph, and mineral balances within the body; sensitivity to drugs; pressu
 - [Sun/Moon = Vulcanus](../activations/sun-moon-equals-vulcanus.md)
 - [Sun/Moon = Zeus](../activations/sun-moon-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Moon` is the core axis of inner integration: will and feeling, conscious and unconscious life, vitality and responsiveness, and the relational pairing of masculine and feminine principles.
+- Chart expression: Treat this axis as the field of basic personal and relational coherence. When it is supported, it points to inner balance, mutuality, and life-direction that feels emotionally right; when strained, it points to division between purpose and feeling, or between partners, parents, and other paired roles.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Moon](../factors/moon.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)

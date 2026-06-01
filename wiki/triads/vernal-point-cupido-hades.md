@@ -3,7 +3,7 @@ title: Vernal Point Cupido Hades
 page_type: triad_hub
 slug: vernal-point-cupido-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Cupido Hades`
 - Astronomicon triad-set: `VP ¡ ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Hades = Vernal Point](../activations/cupido-hades-equals-vernal-point.md)
-  Source page `267`
 - [Vernal Point/Cupido = Hades](../activations/vernal-point-cupido-equals-hades.md)
-  Source page `48`
 - [Vernal Point/Hades = Cupido](../activations/vernal-point-hades-equals-cupido.md)
-  Source page `49`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Hades = Vernal Point`: page `267`
-- `Vernal Point/Cupido = Hades`: page `48`
-- `Vernal Point/Hades = Cupido`: page `49`
+- `Cupido/Hades = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `267`
+- `Cupido/Hades = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `424`
+- `Vernal Point/Cupido = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `48`
+- `Vernal Point/Cupido = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `45`
+- `Vernal Point/Hades = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `49`
+- `Vernal Point/Hades = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `47`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Hades = Vernal Point`: an indigent populace and companies or associations engaged in a hard public fight for survival.
+- `Vernal Point/Cupido = Hades`: This formula emphasizes collapse of corporations and business depressions.
+- `Vernal Point/Hades = Cupido`: This formula emphasizes miserable marriage conditions, historical art in the general public, and general lowbrow art.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Cupido](../factors/cupido.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Asc/Cupido = Venus
 page_type: activation
 slug: asc-cupido-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Asc
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Cupido`
-- Source page: `91`
 #### Witte Entry
 
 Love acquaintances lead to marriage. Harmonious community with others. To beautify or to decorate the home. To keep the home in good order.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Love acquaintances lead to marriage. Harmonious community with others. To beautify or to decorate the home. To keep the home in good order.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Other partner communities, peaceful community of a place, harmonious partner community, artificial community at the place, gentle community place, sparing the environment of a place, preference for a art place, and together with the love partner
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Cupido = Venus`: graceful belonging, affectionate domestic relations, and a shared field supported by taste, order, and good feeling. Main caution: idealized domestic harmony: beauty and peace can mask real dependency or conflict avoidance.
 
 ## Links
 
@@ -61,3 +55,5 @@ Love acquaintances lead to marriage. Harmonious community with others. To beauti
 - [Cupido](../factors/cupido.md)
 - [Venus](../factors/venus.md)
 - [Asc/Cupido](../axes/asc-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

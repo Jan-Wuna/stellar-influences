@@ -3,7 +3,7 @@ title: Venus Admetos Poseidon
 page_type: triad_hub
 slug: venus-admetos-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Admetos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Admetos Poseidon`
 - Astronomicon triad-set: `Q ¦ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Admetos/Poseidon = Venus](../activations/admetos-poseidon-equals-venus.md)
-  Source page `312`
 - [Venus/Admetos = Poseidon](../activations/venus-admetos-equals-poseidon.md)
-  Source page `187`
 - [Venus/Poseidon = Admetos](../activations/venus-poseidon-equals-admetos.md)
-  Source page `189`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Admetos/Poseidon = Venus`: page `312`
-- `Venus/Admetos = Poseidon`: page `187`
-- `Venus/Poseidon = Admetos`: page `189`
+- `Admetos/Poseidon = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `312`
+- `Admetos/Poseidon = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `476`
+- `Venus/Admetos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `187`
+- `Venus/Admetos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `293`
+- `Venus/Poseidon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `189`
+- `Venus/Poseidon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `297`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Admetos/Poseidon = Venus`: harmonious education, balance of soul and body, and refinement that produces beauty, inner proportion, and subtle accord.
+- `Venus/Admetos = Poseidon`: deep spiritualized love.
+- `Venus/Poseidon = Admetos`: atheist or deep religious contemplation.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Admetos](../factors/admetos.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

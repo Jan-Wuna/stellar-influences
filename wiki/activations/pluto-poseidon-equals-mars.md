@@ -3,7 +3,7 @@ title: Pluto/Poseidon = Mars
 page_type: activation
 slug: pluto-poseidon-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Pluto
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Poseidon`
-- Source page: `264`
 #### Witte Entry
 
 To bring order into mental matters. To follow a plan in the mental development.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To bring order into mental matters. To follow a plan in the mental development.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Development of work culture, intellectual development work, clarity through change, cultural activity in change, development of cultural activity, future development work, and growing mental activity
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Poseidon = Mars`: to bring order into mental matters; To follow a plan in the mental development.
+- Practical expression: development of work culture, intellectual development work, clarity through change, cultural activity in change, and development of cultural activity.
 
 ## Links
 
@@ -61,3 +56,5 @@ To bring order into mental matters. To follow a plan in the mental development.
 - [Poseidon](../factors/poseidon.md)
 - [Mars](../factors/mars.md)
 - [Pluto/Poseidon](../axes/pluto-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

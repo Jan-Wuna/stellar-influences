@@ -3,7 +3,7 @@ title: MC/Hades = Neptune
 page_type: activation
 slug: mc-hades-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - MC
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Hades`
-- Source page: `71`
 #### Witte Entry
 
 Grief because of falsehood, deceit or want of firmness. To give up the last hope. To deal with contaminated air or water.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Grief because of falsehood, deceit or want of firmness. To give up the last hope. To deal with contaminated air or water.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Fine feeling of an old soul, lack of spiritual fineness, my service in the air, my water deficiency, my danger in the water, mcinc hidden dust, minute of danger in the water, and unknown soul cummer
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Hades = Neptune` dissolves the axis through falsehood, deceit, and failing hope.
+- Chart expression: grief caused by lies or weakness, giving up what hope remained, and burdened life conditions tied to contamination, poisoned atmosphere, or invisible corruption.
 
 ## Links
 
@@ -61,3 +56,5 @@ Grief because of falsehood, deceit or want of firmness. To give up the last hope
 - [Hades](../factors/hades.md)
 - [Neptune](../factors/neptune.md)
 - [MC/Hades](../axes/mc-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

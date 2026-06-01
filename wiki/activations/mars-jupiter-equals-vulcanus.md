@@ -3,7 +3,7 @@ title: Mars/Jupiter = Vulcanus
 page_type: activation
 slug: mars-jupiter-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Jupiter
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Jupiter
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Jupiter`
-- Source page: `192`
 #### Witte Entry
 
 Mighty promise of results. Enforced, increased optimism. Power through successful accomplishments.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mighty promise of results. Enforced, increased optimism. Power through successful accomplishments.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+influential labor law, successful energy impulses, successful activity of power, enormous legal influence, happiness through strength of will, powerful joy in work, powerful legal actions, and mighty money trade
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Jupiter = Vulcanus` intensifies fortunate action into forceful success, enlarged confidence, and powerful results.
+- Chart expression: a mighty promise of accomplishment, optimism backed by strength, and the ability to push successful efforts through with unusual power or momentum.
 
 ## Links
 
@@ -61,3 +56,5 @@ Mighty promise of results. Enforced, increased optimism. Power through successfu
 - [Jupiter](../factors/jupiter.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Mars/Jupiter](../axes/mars-jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Node/Cupido = Vulcanus
 page_type: activation
 slug: node-cupido-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - Cupido
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Cupido`
-- Source page: `149`
 #### Witte Entry
 
 Family convention. Mighty influential social connections. Social unions or ties to reinforce common power and influence.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Family convention. Mighty influential social connections. Social unions or ties to reinforce common power and influence.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Encounter with a violent community, powerful connections of a community, strong mediation community, connecting energies in a relationship, and connection with a powerful community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Cupido = Vulcanus`: Family convention. Mighty influential social connections. Social unions or ties to reinforce common power and influence.
+- Practical focus: family convention; also mighty influential social connections.
 
 ## Links
 
@@ -61,3 +56,5 @@ Family convention. Mighty influential social connections. Social unions or ties 
 - [Cupido](../factors/cupido.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Node/Cupido](../axes/node-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

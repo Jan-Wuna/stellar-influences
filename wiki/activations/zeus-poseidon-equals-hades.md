@@ -3,7 +3,7 @@ title: Zeus/Poseidon = Hades
 page_type: activation
 slug: zeus-poseidon-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Hades
   - Zeus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Poseidon`
-- Source page: `296`
 #### Witte Entry
 
 Mental attitude or behavior of a society or a family. To hold or to take the leadership in some field of art. Creative mental accomplishment in the field of art. Ugly mental attitude and behavior. Miserable disposition. Lack of character. Poor report card.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mental attitude or behavior of a society or a family. To hold or to take the leadership in some field of art. Creative mental accomplishment in the field of art. Ugly mental attitude and behavior. Miserable disposition. Lack of character. Poor report card.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Starting clarity about the past, spiritual guidance service, criminal spiritual filtration, cultural services of the past, lack of spiritual filtration, lack of clear goals en, lack of striving for prosperity, and hidden spiritual goal striving
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Poseidon = Hades`: Mental attitude or behavior of a society or a family. To hold or to take the leadership in some field of art. Creative mental accomplishment in the field of art. Ugly mental attitude and behavior. Miserable disposition. Lack of character. Poor report card.
+- Practical expression: starting clarity about the past, spiritual guidance service, criminal spiritual filtration, cultural services of the past, and lack of spiritual filtration.
 
 ## Links
 
@@ -61,3 +56,5 @@ Mental attitude or behavior of a society or a family. To hold or to take the lea
 - [Poseidon](../factors/poseidon.md)
 - [Hades](../factors/hades.md)
 - [Zeus/Poseidon](../axes/zeus-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

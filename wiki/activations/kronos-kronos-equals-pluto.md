@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Kronos + Kronos`
-- Source page: `298`
 #### Witte Entry
 
 Development of ability or skills. Examination. Testing. Apprentice, helper (journeyman). Master. Development upwards. To ascend in rank. Change of boss. Main formula for the new-rich, for the self-made man. Changes in the form of government. To prove one’s ability. Certified and approved test. Mastery. Great changes. Great upward transformation and development. Rising.
 
-## Comparative Schema
-
-- core meaning: Development of ability or skills. Examination. Testing. Apprentice, helper (journeyman). Master. Development upwards. To ascend in rank. Change of boss. Main formula for the new-rich, for the self-made man. Changes in the form of government. To prove one’s ability. Certified and approved test. Mastery. Great changes. Great upward transformation and development. Rising.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Kronos = Pluto`: tested mastery, ascent in rank, the self-made rise, changes in government, and the development of ability into recognized power.
+- Chart expression: advancement, certification, promotion, and structural transformation that elevates status or authority.
 
 ## Links
 

@@ -3,10 +3,10 @@ title: Jupiter/Asc = Vulcanus
 page_type: activation
 slug: jupiter-asc-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Jupiter
+  - Asc
   - Vulcanus
 normalized_formula: Jupiter/Asc = Vulcanus
 axis: Jupiter/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Asc
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Jupiter`
-- Source page: `86`
 #### Witte Entry
 
 Luck through mighty enterprises, or through enterprising and jolly people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Luck through mighty enterprises, or through enterprising and jolly people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Success through energy of the partner, enormous success with other, power in the place through money, great joy with others, place of legal power, law violence in the environment, and legal advantages of others
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Asc = Vulcanus`: success growing through strong allies and bold ventures. It can show socially backed expansion with real momentum behind it.
 
 ## Links
 
@@ -61,3 +55,5 @@ Luck through mighty enterprises, or through enterprising and jolly people.
 - [Asc](../factors/asc.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Jupiter/Asc](../axes/jupiter-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

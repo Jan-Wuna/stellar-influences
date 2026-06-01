@@ -3,7 +3,7 @@ title: Moon/Mars = Kronos
 page_type: activation
 slug: moon-mars-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Mars
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Mars
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Mars`
-- Source page: `124`
 #### Witte Entry
 
 The foreman who leads or supervise the hourly work. Female executives. Woman ruling in the house. Impressive home.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The foreman who leads or supervise the hourly work. Female executives. Woman ruling in the house. Impressive home.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special actions of a people, actions of a self conscious woman, self employed women's work, priority treatment of women, important hours of work, important actions of women, will of the people's leadership, and will of a great people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Mars = Kronos`: The foreman who leads or supervise the hourly work. Female executives. Woman ruling in the house. Impressive home.
+- Practical focus: elevates `Moon/Mars` through command, supervision, and capable management of daily effort. It points to women or domestic figures in authority, disciplined oversight of work, and a stronger more impressive household presence, so instinct and labor operate with rank, order, and executive control.
+- Practical expression: special actions of a people, actions of a self conscious woman, self employed women's work, priority treatment of women, and important hours of work.
 
 ## Links
 
@@ -61,3 +57,5 @@ The foreman who leads or supervise the hourly work. Female executives. Woman rul
 - [Mars](../factors/mars.md)
 - [Kronos](../factors/kronos.md)
 - [Moon/Mars](../axes/moon-mars.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

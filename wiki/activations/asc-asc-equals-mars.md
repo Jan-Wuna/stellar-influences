@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Asc + Asc`
-- Source page: `78`
 #### Witte Entry
 
 Actions and deeds of others or with others. Excitement. Arguments with others. To be handled energetically, leading eventually to violence. Fights. Strife. Co worker. To be made angry by others. Excitement or action in the immediate surroundings. Actions and deeds of others. Others are in activity. Place of work. Working environment.
 
-## Comparative Schema
-
-- core meaning: Actions and deeds of others or with others. Excitement. Arguments with others. To be handled energetically, leading eventually to violence. Fights. Strife. Co worker. To be made angry by others. Excitement or action in the immediate surroundings. Actions and deeds of others. Others are in activity. Place of work. Working environment.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Asc = Mars`: co-workers, active surroundings, and a close field where other people's deeds directly stir the native. Main caution: combative immediacy: the near environment can become volatile, angry, or prone to fights and rough handling.
 
 ## Links
 

@@ -3,7 +3,7 @@ title: Mars Asc Admetos
 page_type: triad_hub
 slug: mars-asc-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Asc Admetos`
 - Astronomicon triad-set: `U Asc ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Admetos = Mars](../activations/asc-admetos-equals-mars.md)
-  Source page `96`
 - [Mars/Admetos = Asc](../activations/mars-admetos-equals-asc.md)
-  Source page `202`
 - [Mars/Asc = Admetos](../activations/mars-asc-equals-admetos.md)
-  Source page `85`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Admetos = Mars`: page `96`
-- `Mars/Admetos = Asc`: page `202`
-- `Mars/Asc = Admetos`: page `85`
+- `Asc/Admetos = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `96`
+- `Asc/Admetos = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `132`
+- `Mars/Admetos = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `202`
+- `Mars/Admetos = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `318`
+- `Mars/Asc = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `85`
+- `Mars/Asc = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `111`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Admetos = Mars`: unsuccessful activity in the environment, with others acting out from weakness, resentment, or blocked force.
+- `Mars/Admetos = Asc`: withdrawal from work, cessation of cooperation, and a personal field in which effort contracts or contact is cut off.
+- `Mars/Asc = Admetos`: compresses the Mars/Asc axis of assertive presence into inhibition, oppression, and heavy pressure from other people or the environment.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Asc](../factors/asc.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

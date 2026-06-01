@@ -3,7 +3,7 @@ title: Moon/Vulcanus
 page_type: axis
 slug: moon-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Vulcanus
@@ -11,26 +11,26 @@ normalized_axis: Moon/Vulcanus
 factor_a: Moon
 factor_b: Vulcanus
 related_activations:
-  - Moon/Vulcanus = Vernal Point
-  - Moon/Vulcanus = MC
+  - Moon/Vulcanus = Admetos
+  - Moon/Vulcanus = Apollon
   - Moon/Vulcanus = Asc
-  - Moon/Vulcanus = Sun
-  - Moon/Vulcanus = Node
-  - Moon/Vulcanus = Mercury
-  - Moon/Vulcanus = Venus
-  - Moon/Vulcanus = Mars
-  - Moon/Vulcanus = Jupiter
-  - Moon/Vulcanus = Saturn
-  - Moon/Vulcanus = Uranus
-  - Moon/Vulcanus = Neptune
-  - Moon/Vulcanus = Pluto
   - Moon/Vulcanus = Cupido
   - Moon/Vulcanus = Hades
-  - Moon/Vulcanus = Zeus
+  - Moon/Vulcanus = Jupiter
   - Moon/Vulcanus = Kronos
-  - Moon/Vulcanus = Apollon
-  - Moon/Vulcanus = Admetos
+  - Moon/Vulcanus = Mars
+  - Moon/Vulcanus = MC
+  - Moon/Vulcanus = Mercury
+  - Moon/Vulcanus = Neptune
+  - Moon/Vulcanus = Node
+  - Moon/Vulcanus = Pluto
   - Moon/Vulcanus = Poseidon
+  - Moon/Vulcanus = Saturn
+  - Moon/Vulcanus = Sun
+  - Moon/Vulcanus = Uranus
+  - Moon/Vulcanus = Venus
+  - Moon/Vulcanus = Vernal Point
+  - Moon/Vulcanus = Zeus
 related_triad_hubs:
   - Moon Admetos Vulcanus
   - Moon Apollon Vulcanus
@@ -56,15 +56,15 @@ aliases:
   - Vulcanus/Moon
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Axis: `Moon/Vulcanus`
 - Astronomicon axis: `R/§`
-- Source heading: `Moon + Vulcanus`
-- Source page: `136`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
@@ -74,48 +74,46 @@ updated_at: 2026-04-21
 
 The mighty mind. To be Powerful. Consciousness of power. Great sensation. To a cause sensation. Public and female influence. The superior. Personage of public might. The executive power. The power of a people. Mighty nation. Very influential female persons. The superiority of woman, hour or a people. Mighty feelings.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The mighty mind. To be Powerful. Consciousness of power. Great sensation. To a cause sensation. Public and female influence. The superior. Personage of public might. The executive power. The power of a people. Mighty nation. Very influential female persons. The superiority of woman, hour or a people. Mighty feelings.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+#### ABC Pair Summary
+
+Influence of the woman, Influence of the animals, energetic woman, violence against the woman, violence against a people, power feelings, power of the people, power of the woman, strong woman, strong actions, hour of violence, and hour of strength
 
 ## Related Activations
 
-- [Moon/Vulcanus = Vernal Point](../activations/moon-vulcanus-equals-vernal-point.md)
-- [Moon/Vulcanus = MC](../activations/moon-vulcanus-equals-mc.md)
+- [Moon/Vulcanus = Admetos](../activations/moon-vulcanus-equals-admetos.md)
+- [Moon/Vulcanus = Apollon](../activations/moon-vulcanus-equals-apollon.md)
 - [Moon/Vulcanus = Asc](../activations/moon-vulcanus-equals-asc.md)
-- [Moon/Vulcanus = Sun](../activations/moon-vulcanus-equals-sun.md)
-- [Moon/Vulcanus = Node](../activations/moon-vulcanus-equals-node.md)
-- [Moon/Vulcanus = Mercury](../activations/moon-vulcanus-equals-mercury.md)
-- [Moon/Vulcanus = Venus](../activations/moon-vulcanus-equals-venus.md)
-- [Moon/Vulcanus = Mars](../activations/moon-vulcanus-equals-mars.md)
-- [Moon/Vulcanus = Jupiter](../activations/moon-vulcanus-equals-jupiter.md)
-- [Moon/Vulcanus = Saturn](../activations/moon-vulcanus-equals-saturn.md)
-- [Moon/Vulcanus = Uranus](../activations/moon-vulcanus-equals-uranus.md)
-- [Moon/Vulcanus = Neptune](../activations/moon-vulcanus-equals-neptune.md)
-- [Moon/Vulcanus = Pluto](../activations/moon-vulcanus-equals-pluto.md)
 - [Moon/Vulcanus = Cupido](../activations/moon-vulcanus-equals-cupido.md)
 - [Moon/Vulcanus = Hades](../activations/moon-vulcanus-equals-hades.md)
-- [Moon/Vulcanus = Zeus](../activations/moon-vulcanus-equals-zeus.md)
+- [Moon/Vulcanus = Jupiter](../activations/moon-vulcanus-equals-jupiter.md)
 - [Moon/Vulcanus = Kronos](../activations/moon-vulcanus-equals-kronos.md)
-- [Moon/Vulcanus = Apollon](../activations/moon-vulcanus-equals-apollon.md)
-- [Moon/Vulcanus = Admetos](../activations/moon-vulcanus-equals-admetos.md)
+- [Moon/Vulcanus = Mars](../activations/moon-vulcanus-equals-mars.md)
+- [Moon/Vulcanus = MC](../activations/moon-vulcanus-equals-mc.md)
+- [Moon/Vulcanus = Mercury](../activations/moon-vulcanus-equals-mercury.md)
+- [Moon/Vulcanus = Neptune](../activations/moon-vulcanus-equals-neptune.md)
+- [Moon/Vulcanus = Node](../activations/moon-vulcanus-equals-node.md)
+- [Moon/Vulcanus = Pluto](../activations/moon-vulcanus-equals-pluto.md)
 - [Moon/Vulcanus = Poseidon](../activations/moon-vulcanus-equals-poseidon.md)
+- [Moon/Vulcanus = Saturn](../activations/moon-vulcanus-equals-saturn.md)
+- [Moon/Vulcanus = Sun](../activations/moon-vulcanus-equals-sun.md)
+- [Moon/Vulcanus = Uranus](../activations/moon-vulcanus-equals-uranus.md)
+- [Moon/Vulcanus = Venus](../activations/moon-vulcanus-equals-venus.md)
+- [Moon/Vulcanus = Vernal Point](../activations/moon-vulcanus-equals-vernal-point.md)
+- [Moon/Vulcanus = Zeus](../activations/moon-vulcanus-equals-zeus.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Vulcanus` is the axis of mighty feeling, public or female influence, executive power, strong women, strong peoples, and the force of a nation or crowd.
+- Constructively it supports emotional strength, public influence, energetic women, powerful collective response, and the capacity to act with unusual force.
+- The shadow is overpowering sensation, coercive public might, violence against women or peoples, and emotional power that becomes too strong to handle cleanly.
+- Activations show where the power-field lands: in public action, leadership, media, danger, social pressure, or bodily and emotional force.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

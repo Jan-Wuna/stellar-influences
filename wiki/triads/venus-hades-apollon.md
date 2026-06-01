@@ -3,7 +3,7 @@ title: Venus Hades Apollon
 page_type: triad_hub
 slug: venus-hades-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Hades Apollon`
 - Astronomicon triad-set: `Q ¢ ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Apollon = Venus](../activations/hades-apollon-equals-venus.md)
-  Source page `280`
 - [Venus/Apollon = Hades](../activations/venus-apollon-equals-hades.md)
-  Source page `186`
 - [Venus/Hades = Apollon](../activations/venus-hades-equals-apollon.md)
-  Source page `183`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Apollon = Venus`: page `280`
-- `Venus/Apollon = Hades`: page `186`
-- `Venus/Hades = Apollon`: page `183`
+- `Hades/Apollon = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `280`
+- `Hades/Apollon = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `442`
+- `Venus/Apollon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `186`
+- `Venus/Apollon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `291`
+- `Venus/Hades = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `183`
+- `Venus/Hades = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `285`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Apollon = Venus`: poverty relieved through kindness, friendship in misery, painful love experience, and attraction to magic or occult themes.
+- `Venus/Apollon = Hades`: friendship with servants and serving people.
+- `Venus/Hades = Apollon`: friendship with low class people, fellow workmen, colleagues.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Hades](../factors/hades.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

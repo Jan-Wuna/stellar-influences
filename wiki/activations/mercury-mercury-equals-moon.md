@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Mercury + Mercury`
-- Source page: `157`
 #### Witte Entry
 
 Motion of the brain. Thinking capacity. The memory. The imaginative power. Superficial thinking. The young generation. Young girl. Young woman. Several hours. Office hours. Vehicles. Shifted hour. Lively and changeable train of thoughts. The general opinion in relation to the hour and female persons.
 
-## Comparative Schema
-
-- core meaning: Motion of the brain. Thinking capacity. The memory. The imaginative power. Superficial thinking. The young generation. Young girl. Young woman. Several hours. Office hours. Vehicles. Shifted hour. Lively and changeable train of thoughts. The general opinion in relation to the hour and female persons.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Mercury = Moon` joins the axis to memory, imagination, youth, and public mood.
+- Chart expression: lively and changeable thinking, memory and image-making, young or feminine associations, and the general opinion becoming tied to time, movement, and everyday routine.
 
 ## Links
 

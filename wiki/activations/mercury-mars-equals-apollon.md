@@ -3,7 +3,7 @@ title: Mercury/Mars = Apollon
 page_type: activation
 slug: mercury-mars-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Mars
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Mars
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Mars`
-- Source page: `160`
 #### Witte Entry
 
 To have much to speak. Good in expression. Fatiguing scientific efforts.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To have much to speak. Good in expression. Fatiguing scientific efforts.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Extensive work meetings, successful thought activity, successful language about work, successful media activity, freedom of man's youth, thought work of science, and increasing traffic activity
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Mars = Apollon` expands the axis into abundant speech and strenuous intellectual output.
+- Chart expression: having much to say, strong powers of expression, and energetic scientific or mental effort that can be productive but also exhausting.
 
 ## Links
 
@@ -61,3 +56,5 @@ To have much to speak. Good in expression. Fatiguing scientific efforts.
 - [Mars](../factors/mars.md)
 - [Apollon](../factors/apollon.md)
 - [Mercury/Mars](../axes/mercury-mars.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

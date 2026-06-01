@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Mercury + Mercury`
-- Source page: `157`
 #### Witte Entry
 
 Acquaintanceship. To meet or greet others. Thoughts of love. Aesthetic taste. Artistic taste. Rhythm. Salesman. Beginning of an acquaintance. To arrange tastefully. To beautify. The sense of beauty. The beautiful woman. The motherly female. To favor something. Thoughts of art.
 
-## Comparative Schema
-
-- core meaning: Acquaintanceship. To meet or greet others. Thoughts of love. Aesthetic taste. Artistic taste. Rhythm. Salesman. Beginning of an acquaintance. To arrange tastefully. To beautify. The sense of beauty. The beautiful woman. The motherly female. To favor something. Thoughts of art.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Mercury = Venus` softens the axis through acquaintance, affection, beauty, and art.
+- Chart expression: love thoughts, aesthetic judgment, the beginning of relationships, tastefulness, salesmanship, and a mental life naturally drawn toward harmony, beauty, and social favor.
 
 ## Links
 

@@ -3,7 +3,7 @@ title: Sun/Poseidon = Zeus
 page_type: activation
 slug: sun-poseidon-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Zeus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Poseidon`
-- Source page: `118`
 #### Witte Entry
 
 To create spiritualized things. Military spirit.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To create spiritualized things. Military spirit.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Fiery spirit in man, spiritually creative man, clear objective of a person, human cultural achievements, personal mental movement, personal cognition struggle, center of intellectual creativity, and goals of a spiritualized person
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Poseidon = Zeus`: inspired creation and fiery pursuit of ideals.
+- Practical expression: fiery spirit in man, spiritually creative man, clear objective of a person, human cultural achievements, and personal mental movement.
 
 ## Links
 
@@ -61,3 +56,5 @@ To create spiritualized things. Military spirit.
 - [Poseidon](../factors/poseidon.md)
 - [Zeus](../factors/zeus.md)
 - [Sun/Poseidon](../axes/sun-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

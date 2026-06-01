@@ -3,21 +3,22 @@ title: Vulcanus
 page_type: factor
 slug: vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vulcanus
 aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Factor: Vulcanus
 - Astronomicon token: `§`
-- Source factor chapter page: `29`
+- Canonical page type: comparative factor page grounded in standalone source entries.
 
 ## Source Entries
 
@@ -27,19 +28,18 @@ updated_at: 2026-04-21
 
 Greatest strength. Force. Might. Energy. Power. Supreme Violence.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Greatest strength. Force. Might. Energy. Power. Supreme Violence.
-- psychology: no separate source-native subdivision is present in the standalone factor chapter.
-- body/health: no separate source-native subdivision is present in the standalone factor chapter.
-- social/relationship: no separate source-native subdivision is present in the standalone factor chapter.
-- events/manifestations: browse related axis and activation pages for explicit formulas involving `Vulcanus`.
-- conflicts/notes: this page preserves the standalone factor chapter as sourced doctrine from Witte.
+#### ABC Keyword Entry
 
+Violence, Power, Influence, Strong, and Energy
 
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-
+- `Vulcanus` is the factor of concentrated power, influence, strength, energy, and force at maximum intensity.
+- Chart expression: decisive strength, sustained pressure, overwhelming impact, and the capacity to carry or apply exceptional force.
+- Its liabilities are coercive power, violence, overpowering pressure, and strength used without proportion or restraint.
 
 ## Related Axes
 
@@ -66,15 +66,7 @@ Greatest strength. Force. Might. Energy. Power. Supreme Violence.
 - [Vulcanus/Vulcanus](../axes/vulcanus-vulcanus.md)
 - [Zeus/Vulcanus](../axes/zeus-vulcanus.md)
 
-## Related Activations
-
-- Generated activation pages involving `Vulcanus`: `693`.
-- Browse [Index](../index.md) or the `wiki/activations/` folder for the full set.
-
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-
-## Open Questions
-
-
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Saturn/Hades = Mercury
 page_type: activation
 slug: saturn-hades-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Saturn
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Hades`
-- Source page: `225`
 #### Witte Entry
 
 News of a serious sickness or of a severe loss. Death notice. News ofcrime or of other evil deeds. News of the death.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: News of a serious sickness or of a severe loss. Death notice. News ofcrime or of other evil deeds. News of the death.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Reports about need in old age, talk about loss risk, dangerous tasks in youth, dangerous traffic losses, severe deprivations in youth, opinions about problems of the past, and hidden traffic problems
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Hades = Mercury`: news of a serious sickness or of a severe loss, death notice, news ofcrime or of other evil deeds.
+- Practical expression: reports about need in old age, talk about loss risk, dangerous tasks in youth, dangerous traffic losses, and severe deprivations in youth.
 
 ## Links
 
@@ -61,3 +56,5 @@ News of a serious sickness or of a severe loss. Death notice. News ofcrime or of
 - [Hades](../factors/hades.md)
 - [Mercury](../factors/mercury.md)
 - [Saturn/Hades](../axes/saturn-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Sun Chiron Node`
 - Astronomicon triad-set: `S Chiron g`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Sun/Chiron = Node`: John, page `15`
 - `Sun/Node = Chiron`: John, page `21`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Node = Sun`: identity and purpose being nourished by real connectedness. Main caution: making belonging into a source of self-importance instead of living it as service.
+- `Sun/Chiron = Node`: relationships that awaken deeper purpose and helping others discover meaning through shared contact.
+- `Sun/Node = Chiron`: relationships that help reveal deeper life purpose and contacts that support healing through meaning.
 
 ## Links
 

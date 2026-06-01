@@ -56,11 +56,12 @@ aliases:
   - Asc/Uranus
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -73,17 +74,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus/Ascendant`
-- Source page: `274`
-
 #### Pair Summary
 
 Excitement, irritation or accidents caused by other people. Sudden acquaintances. Sudden events of other peoples. Tension and excitement by others. Reunions for a special reason. Sudden appearance. Location of an accident. Location for mathematics, technology or inventions. Engineers, restless or excited people in the immediate surroundings. Environmental technology.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Uranus/Ascendant`
-- Source page: `274`
+#### ABC Pair Summary
+
+Dynamic partner, event location, events with other, excited partner, place of technology, tensions with the partner, place of tension, environmentRenewable, environmental reform, environmental technology, and restless environment
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -107,9 +108,6 @@ Excitable people.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Uranus/Ascendant midpoint`
-- Source page: `107`
-
 #### Principle
 
 An unusual and/or unpredictable personality. To have fast and/or surprising reactions to stimuli. To be seen by other people as unique, original, and/or highly dis tinctive. One does not easily fit into accepted categories, and, in fact, may rebel against them. One who changes or experiments with one’s outer appearance.
@@ -120,17 +118,11 @@ To free oneself of the limitations of one’s own identity. To try on different 
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Uranus/Ascendant`
-- Source page: `211`
-
 #### Pair Delineation
 
 Unusual or unstable relationships, relationships with people who are unusual or unstable. Relationships that are formed and/or broken suddenly. The need for independence in forming relationships. Relationships that have few rules or expectations.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `URANUS/ASCENDANT`
-- Source page: `319`
 
 #### Basic Ideas
 
@@ -159,15 +151,6 @@ Emphasizes finding mental balance and stability; added stress from having to con
 
 - [Michael Munkasey - Uranus/Asc Concepts](../derived/munkasey-uranus-asc-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Uranus/Asc = Admetos](../activations/uranus-asc-equals-admetos.md)
@@ -191,20 +174,18 @@ Emphasizes finding mental balance and stability; added stress from having to con
 - [Uranus/Asc = Vulcanus](../activations/uranus-asc-equals-vulcanus.md)
 - [Uranus/Asc = Zeus](../activations/uranus-asc-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Asc` is the axis of unusual self-presentation, sudden contacts, and the need for freedom in immediate relationships and environment. It combines originality, disruption, speed, and nervous excitation with personality, appearance, close surroundings, and one-to-one encounters.
+- Chart expression: a distinctive or unpredictable manner, abrupt beginnings and breaks in relationships, rapid reactions, and the urge to live outside accepted social categories. Liabilities: instability, accidents, erratic conduct, alienation, and difficulty sustaining calm or consistent rapport with others.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Asc](../factors/asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)

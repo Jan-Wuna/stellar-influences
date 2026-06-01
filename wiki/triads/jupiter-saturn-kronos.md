@@ -3,7 +3,7 @@ title: Jupiter Saturn Kronos
 page_type: triad_hub
 slug: jupiter-saturn-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Saturn
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Saturn Kronos`
 - Astronomicon triad-set: `V W ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Kronos = Saturn](../activations/jupiter-kronos-equals-saturn.md)
-  Source page `214`
 - [Jupiter/Saturn = Kronos](../activations/jupiter-saturn-equals-kronos.md)
-  Source page `207`
 - [Saturn/Kronos = Jupiter](../activations/saturn-kronos-equals-jupiter.md)
-  Source page `227`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Kronos = Saturn`: page `214`
-- `Jupiter/Saturn = Kronos`: page `207`
-- `Saturn/Kronos = Jupiter`: page `227`
+- `Jupiter/Kronos = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `214`
+- `Jupiter/Kronos = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `339`
+- `Jupiter/Saturn = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `207`
+- `Jupiter/Saturn = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `325`
+- `Saturn/Kronos = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `227`
+- `Saturn/Kronos = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `360`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Kronos = Saturn`: losing leadership or tumbling down from on high.
+- `Jupiter/Saturn = Kronos`: estate settlement through probate, long separation by authorities, and official or monumental buildings.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Saturn](../factors/saturn.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

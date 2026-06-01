@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Jupiter Saturn Chiron`
 - Astronomicon triad-set: `V W Chiron`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Jupiter/Saturn = Chiron`: John, page `78`
 - `Saturn/Chiron = Jupiter`: John, page `87`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Chiron = Saturn`: mature healing grounded in responsibility. It can show wisdom that becomes useful only when one stops withholding it.
+- `Jupiter/Saturn = Chiron`: disciplined growth becoming therapeutic and conscience-based. It favors helping others mature their principles in a way that is both humane and sustainable.
+- `Saturn/Chiron = Jupiter` expands Saturn/Chiron through faith, meaning, and growth. It seeks the spiritual purpose inside limitation and can make much out of little; the caution is not to moralize hardship or turn restriction into an inflated doctrine.
 
 ## Links
 

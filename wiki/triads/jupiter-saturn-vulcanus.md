@@ -3,7 +3,7 @@ title: Jupiter Saturn Vulcanus
 page_type: triad_hub
 slug: jupiter-saturn-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Saturn
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Saturn Vulcanus`
 - Astronomicon triad-set: `V W §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Saturn = Vulcanus](../activations/jupiter-saturn-equals-vulcanus.md)
-  Source page `207`
 - [Jupiter/Vulcanus = Saturn](../activations/jupiter-vulcanus-equals-saturn.md)
-  Source page `217`
 - [Saturn/Vulcanus = Jupiter](../activations/saturn-vulcanus-equals-jupiter.md)
-  Source page `230`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Saturn = Vulcanus`: page `207`
-- `Jupiter/Vulcanus = Saturn`: page `217`
-- `Saturn/Vulcanus = Jupiter`: page `230`
+- `Jupiter/Saturn = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `207`
+- `Jupiter/Saturn = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `325`
+- `Jupiter/Vulcanus = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `217`
+- `Jupiter/Vulcanus = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `345`
+- `Saturn/Vulcanus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `230`
+- `Saturn/Vulcanus = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `366`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Saturn = Vulcanus`: secluded buildings, guarded buildings, or armories.
+- `Jupiter/Vulcanus = Saturn`: fortunate separation, protective restraint, and good fortune that matures through waiting, boundaries, or serious conditions.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Saturn](../factors/saturn.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

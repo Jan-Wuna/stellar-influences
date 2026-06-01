@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Moon + Moon`
-- Source page: `119`
 #### Witte Entry
 
 Restrain. Separate. Despair. Depressed mind. Old, single, separated or unhappy woman. Widow. The hours one has to be alone. Evening hours. To be separated from the public. The hour of separation. Separation of female persons. To avoid women. Discontentment trough separation.
 
-## Comparative Schema
-
-- core meaning: Restrain. Separate. Despair. Depressed mind. Old, single, separated or unhappy woman. Widow. The hours one has to be alone. Evening hours. To be separated from the public. The hour of separation. Separation of female persons. To avoid women. Discontentment trough separation.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Moon = Saturn`: Restrain. Separate. Despair. Depressed mind. Old, single, separated or unhappy woman. Widow. The hours one has to be alone. Evening hours. To be separated from the public. The hour of separation. Separation of female persons. To avoid women. Discontentment trough separation.
+- Practical focus: hardens `Moon/Moon` into separation, loneliness, and emotionally restricted time. It can show widowhood, avoidance, solitude, or depressive public feeling, making pure lunar life more burdened by isolation, grief, and the necessity of doing without.
 
 ## Links
 

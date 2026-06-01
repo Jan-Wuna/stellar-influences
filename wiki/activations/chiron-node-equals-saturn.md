@@ -33,30 +33,14 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Chiron/Node midpoint`
-- Source page: `100`
-- Activator: `Saturn`
-
 #### Sandbach Entry
 
 To feel cut off from one’s spiritual connections, or unable to make or find them. The frustration concerning this nags at one until the connections are formed. Difficulty in connecting with healing forces, and a need for patience, persistence and focus in doing so. Connecting to healing forces that operate gradually or slowly in one’s life.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Chiron/Node = Saturn`: slow karmic healing, disciplined connection, and the need to keep working at bonds that matter. Main caution: taking frustration as proof that connection is impossible.
 
 ## Links
 

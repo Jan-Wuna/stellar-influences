@@ -3,7 +3,7 @@ title: Mercury/Admetos = Apollon
 page_type: activation
 slug: mercury-admetos-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Apollon
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Admetos`
-- Source page: `171`
 #### Witte Entry
 
 One’s ideas are not liked and accepted, but are refused by many.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: One’s ideas are not liked and accepted, but are refused by many.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Continuing trade language, blocked media freedom, successful thought deepening, strengthening of knowledge in youth, free thought circle, grild youth experiences, extensive earth movement, and increasing depression in youth
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Admetos = Apollon` widens the axis only to meet broad refusal and non-acceptance.
+- Chart expression: ideas presented to many but rejected, serious thought that fails to gain circulation, and concentrated views that meet collective resistance instead of uptake.
 
 ## Links
 
@@ -61,3 +56,5 @@ One’s ideas are not liked and accepted, but are refused by many.
 - [Admetos](../factors/admetos.md)
 - [Apollon](../factors/apollon.md)
 - [Mercury/Admetos](../axes/mercury-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

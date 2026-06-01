@@ -58,13 +58,14 @@ aliases:
   - Neptune/Sun
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -77,17 +78,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Neptune`
-- Source page: `109`
-
 #### Pair Summary
 
 Sensitive, delicate body or object. A body tbat is susceptible to disease or infection. Weak or physically defenseless. Infirmity. Poor blood. The gas balloon, airplane or ship. Uncertain times or days. Physical relaxation. Lack of live energy. Poor muscle tone of a body or decay. Feebleness or sickness. (In the solar cycle: an uncertain period.)
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Sun/Neptune`
-- Source page: `98`
+#### ABC Pair Summary
+
+Disappointed person, sensitive person, formless body, poison in the body, body in water or air, physical sensitivity, personal intuition, personal uncertainty, personal future, and weak person
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -111,17 +112,11 @@ Weak, sick, sensitive persons, mediums.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
-- Source heading: `Sun/Neptune`
-- Source page: `16`
-
 #### Falis Entry
 
 Elusive. Mysterious. Fascinating. Someone you can never quite put your finger on. You are not entirely knowable to yourself, or to others. You resist personal defini tions and labels. People cannot easily define or label you. Having only a vague sense of who you really are. Your core self is ever-expanding. You seem haunted. Refusing to face self-truths. Refusing to face truths about your life. Avoiding re sponsibility. Playing the victim. Playing the martyr. A spiritual person. A mystic. Slipping through the cracks. The ability, or misfortune, not to be seen. Extreme sensitivity to environmental influences, positively, or negatively: sound, color, emotions, etc ... Hypersensitivity to the environment. Extreme sensitivity to dream states. Dreamers. Inability to cope with reality. Unable to bear the harshness of real life. Wanting everything to be beautiful. Wanting to live the ideal. Wanting to live in a dream world. Recluses, hermits and withdrawn people. Learning to remain cen tered during sensory overload. Finding ways to cope with overwhelm. Seeking healthy forms of retreat to cope with real life. Letting obligations and responsi bilities slip through your fingers. Realizing your potential through music, spiri tuality or compassionate service. A weak ego. Trouble knowing where you end. Boundless identity. A sensitive person. Compassionate. Self-pitying. Sensitive at tunement. Inspiring. Being at one with everything. Becoming centered through leading a spiritual life. Attaching your ego to spiritual pursuits. Spiritual egotism. Needing to be seen as a spiritual person. Spiritual iden tity. Self-glorification through spiritual pursuits. Artistic identity. Self-glorification through artistic pursuits. Self-glorification through drugs and alcohol. Viewing your refinement and sensitivity as signs that you are better than other people. Glamor izing drug use. Living the life of a dropout. Using drugs and alcohol to get in touch with your core self. Using dream exploration to get in touch with your core self. Ex periencing yourself as part of everything. Deploring baseness or crassness. Being drawn to explore the spiritual side of life. Spiritual quests. Becoming the hero in your own spiritual journey. Going so far in your quest for the ideal that you lose touch with reality. Ungrounded. Living in a world of imagination. Using the power of imagination to re-imagine your life and life purpose. Living in a fantasy world. Living in a dream. Living your dream. Self-deceiving. Good at being pathetic and drawing sympathy from others. Open to guidance from other realms. An absent father. A father with drug or alco hol issues. A father who avoids responsibility. A father who is a musician or actor. A father involved with spirituality or mysticism. Idealists. Wanting to believe that every cloud has a silver lining. Wanting to believe the best of everyone. A sucker. Gullible. Taking on too much of other people's energy. Letting your identity bleed out. Letting your core self bleed out. Energy vampires, or people who attract energy vampires. People who pick up on subtle energy patterns. Learning how to prevent your energy from leaking out while remaining open to subtle influences.
 
 ### Charles Carter - The Astrological Aspects
-
-- Source heading: `ASPECTS OF THE SUN AND NEPTUNE`
-- Source page: `18`
 
 #### Harmonious Aspects
 
@@ -188,9 +183,6 @@ Sobriety, in the widest sense, is needed to enable one to steer through the rock
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Sun/Neptune midpoint`
-- Source page: `18`
-
 #### Principle
 
 Subtle forces affecting one’s vitality. Psychic sensitivity which can potentially drain one’s energy. To be idealistic and possibly unrealistic about one’s goals. To place importance on self-sacrifice and to feel that it makes life meaningful. Mystical or vision ary insight. To engage in self-glorifying imaginings.
@@ -201,17 +193,11 @@ The development of the ability to perceive the Spiritual Light’s meaning and p
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Sun/Neptune`
-- Source page: `202`
-
 #### Pair Delineation
 
 One's sensitivity to subtle forces from without. This may be experienced as weakness and lack of self-assertiveness. Inclination to mystical or spiritual inquiry. Passivity, lack of initiative, allowing another to take control. Being a medium for other's energies.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `SUN/NEPTUNE`
-- Source page: `83`
 
 #### Basic Ideas
 
@@ -240,15 +226,6 @@ A weakened bodily constitution; a decrease of willpower; potential drug addictio
 
 - [Michael Munkasey - Sun/Neptune Concepts](../derived/munkasey-sun-neptune-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Sun/Neptune = Admetos](../activations/sun-neptune-equals-admetos.md)
@@ -273,20 +250,18 @@ A weakened bodily constitution; a decrease of willpower; potential drug addictio
 - [Sun/Neptune = Vulcanus](../activations/sun-neptune-equals-vulcanus.md)
 - [Sun/Neptune = Zeus](../activations/sun-neptune-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Neptune` is the axis of inspired identity, idealism, sensitivity, and the urge to dissolve the self into something subtler, higher, or more imaginative. It combines vitality and self-expression with vision, compassion, dream, glamour, and porous boundaries.
+- Chart expression: artistic or spiritual devotion, receptivity, sympathy, symbolic imagination, and the desire to live by ideals rather than hard material limits. Liabilities: confusion, weakness, escapism, self-deception, scandal, seduction, and a blurred sense of purpose when aspiration loses contact with reality.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Neptune](../factors/neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)

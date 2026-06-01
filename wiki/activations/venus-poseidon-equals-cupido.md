@@ -3,7 +3,7 @@ title: Venus/Poseidon = Cupido
 page_type: activation
 slug: venus-poseidon-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Cupido
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Poseidon`
-- Source page: `189`
 #### Witte Entry
 
 Religious matters within the family. Religious art. Art as a medium of religion. The religious community, confession, church.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Religious matters within the family. Religious art. Art as a medium of religion. The religious community, confession, church.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Peace and culture community, common love culture, harmony a spiritual community, clarity in a love community, culture of female principle in the community, artificial and cultural community, and spiritual artificial community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Poseidon = Cupido`: religious matters within the family.
+- Practical expression: peace, culture community, common love culture, harmony a spiritual community, and clarity in a love community.
 
 ## Links
 
@@ -61,3 +56,5 @@ Religious matters within the family. Religious art. Art as a medium of religion.
 - [Poseidon](../factors/poseidon.md)
 - [Cupido](../factors/cupido.md)
 - [Venus/Poseidon](../axes/venus-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

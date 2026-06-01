@@ -3,7 +3,7 @@ title: Jupiter/Vulcanus = Mars
 page_type: activation
 slug: jupiter-vulcanus-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Jupiter
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Vulcanus`
-- Source page: `217`
 #### Witte Entry
 
 Great business success through one’s own accomplishment.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great business success through one’s own accomplishment.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Working with the power of money, working with law violence, influential legal activity, successful work power, successful power actions, joy through influential work, power influence at work, and powerful work joy
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Vulcanus = Mars`: great business success, effective enterprise, and gain produced by decisive effort, labor, or competitive action.
+- Chart expression: results that come from doing, building, pushing, and capitalizing on one's own force.
 
 ## Links
 
@@ -61,3 +56,5 @@ Great business success through one’s own accomplishment.
 - [Vulcanus](../factors/vulcanus.md)
 - [Mars](../factors/mars.md)
 - [Jupiter/Vulcanus](../axes/jupiter-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

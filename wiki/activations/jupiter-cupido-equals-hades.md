@@ -3,7 +3,7 @@ title: Jupiter/Cupido = Hades
 page_type: activation
 slug: jupiter-cupido-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Cupido
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Cupido`
-- Source page: `211`
 #### Witte Entry
 
 Happy married life or partnership in modest circumstances or with sad experiences.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Happy married life or partnership in modest circumstances or with sad experiences.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+success through shared renunciation, successful past of a community, financial criminality of a community, dangerous legal community, financial distress of a community, happiness of a community in distress, and legal criminality of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Cupido = Hades`: communal happiness surviving strain rather than avoiding it. It can show real warmth and loyalty in difficult conditions, but also the burden of having to protect happiness inside imperfect or painful surroundings.
 
 ## Links
 
@@ -61,3 +55,5 @@ Happy married life or partnership in modest circumstances or with sad experience
 - [Cupido](../factors/cupido.md)
 - [Hades](../factors/hades.md)
 - [Jupiter/Cupido](../axes/jupiter-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

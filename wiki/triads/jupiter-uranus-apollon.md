@@ -3,7 +3,7 @@ title: Jupiter Uranus Apollon
 page_type: triad_hub
 slug: jupiter-uranus-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Uranus
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Uranus Apollon`
 - Astronomicon triad-set: `V X ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Apollon = Uranus](../activations/jupiter-apollon-equals-uranus.md)
-  Source page `215`
 - [Jupiter/Uranus = Apollon](../activations/jupiter-uranus-equals-apollon.md)
-  Source page `208`
 - [Uranus/Apollon = Jupiter](../activations/uranus-apollon-equals-jupiter.md)
-  Source page `240`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Apollon = Uranus`: page `215`
-- `Jupiter/Uranus = Apollon`: page `208`
-- `Uranus/Apollon = Jupiter`: page `240`
+- `Jupiter/Apollon = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `215`
+- `Jupiter/Apollon = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `341`
+- `Jupiter/Uranus = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `208`
+- `Jupiter/Uranus = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `327`
+- `Uranus/Apollon = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `240`
+- `Uranus/Apollon = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `382`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Apollon = Uranus`: abruptly beginning major success in trade or science, with particular luck in technology or astrology.
+- `Jupiter/Uranus = Apollon`: sudden money for many and good fortune through astrology or broad intellectual systems.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Uranus](../factors/uranus.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

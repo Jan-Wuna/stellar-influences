@@ -3,7 +3,7 @@ title: Hades/Apollon = Asc
 page_type: activation
 slug: hades-apollon-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - Hades
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Apollon`
-- Source page: `280`
 #### Witte Entry
 
 Others are poverty-stricken. To experience mass misery in the environment. Others blame the misery on the past. Ugly things of the past are pointed out to the native.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Others are poverty-stricken. To experience mass misery in the environment. Others blame the misery on the past. Ugly things of the past are pointed out to the native.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Success in the environment through deprivation, dangerous freedom of a place, dangerous experiences with the Paitner, secret trade in the environment, lack of knowledge about the partner, serious grief at the place, and increasing dangers at the place
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Apollon = Asc`: direct personal contact with widespread need, historical heaviness, and social ugliness. Main caution: allowing the surrounding misery to define the whole social field.
 
 ## Links
 
@@ -61,3 +55,5 @@ Others are poverty-stricken. To experience mass misery in the environment. Other
 - [Apollon](../factors/apollon.md)
 - [Asc](../factors/asc.md)
 - [Hades/Apollon](../axes/hades-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,10 +3,10 @@ title: Saturn/MC = Cupido
 page_type: activation
 slug: saturn-mc-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Saturn
+  - MC
   - Cupido
 normalized_formula: Saturn/MC = Cupido
 axis: Saturn/MC
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - MC
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Saturn`
-- Source page: `66`
 #### Witte Entry
 
 To separate from the family. To be oppressed because of separation. Family in mourning.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To separate from the family. To be oppressed because of separation. Family in mourning.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Old Soul Community, Tasks of a Soul Community, Community of Gcstortcr Souls, My Tasks in the Community, My problems in the Community, My Separation from the Community, and Mature Souls in of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/MC = Cupido`: to separate from the family, to be oppressed because of separation, family in mourning.
+- Practical expression: old Soul Community, tasks of a Soul Community, my Tasks in the Community, and my problems in the Community.
 
 ## Links
 
@@ -61,3 +56,5 @@ To separate from the family. To be oppressed because of separation. Family in mo
 - [MC](../factors/mc.md)
 - [Cupido](../factors/cupido.md)
 - [Saturn/MC](../axes/saturn-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

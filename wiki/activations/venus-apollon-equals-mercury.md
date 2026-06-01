@@ -3,7 +3,7 @@ title: Venus/Apollon = Mercury
 page_type: activation
 slug: venus-apollon-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Venus
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Apollon`
-- Source page: `186`
 #### Witte Entry
 
 To be known to many, to speak to many, to be acquainted with many. Acquaintances with scientists of languages or people who speak foreign languages.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be known to many, to speak to many, to be acquainted with many. Acquaintances with scientists of languages or people who speak foreign languages.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Success through harmonious speech, peace language expand, news about Peace Success, about love experiences report, vie! about love talk, preference for media science, and scientific reports about love
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Apollon = Mercury`: to be known to many, to speak to many, to be acquainted with many.
+- Practical expression: success through harmonious speech, peace language expand, news about Peace Success, about love experiences report, and vie! about love talk.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be known to many, to speak to many, to be acquainted with many. Acquaintances
 - [Apollon](../factors/apollon.md)
 - [Mercury](../factors/mercury.md)
 - [Venus/Apollon](../axes/venus-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

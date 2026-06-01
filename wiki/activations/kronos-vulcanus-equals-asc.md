@@ -3,7 +3,7 @@ title: Kronos/Vulcanus = Asc
 page_type: activation
 slug: kronos-vulcanus-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - Kronos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Kronos + Vulcanus`
-- Source page: `301`
 #### Witte Entry
 
 To be exposed to great powers and great forces. Others make their power felt or are themselves subject to the effect of the power of the state.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be exposed to great powers and great forces. Others make their power felt or are themselves subject to the effect of the power of the state.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+special power of the partner, dominance of a strong partner, influence of the state for the environment, influential local hierarchy, great power place, state violence at the place, and important partner influence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Vulcanus = Asc`: exposure to great powers, living under force from above, and contact with people who exercise or undergo the pressure of state authority.
+- Chart expression: direct experience of commanding structures, with the environment shaped by power, control, and political influence.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be exposed to great powers and great forces. Others make their power felt or 
 - [Vulcanus](../factors/vulcanus.md)
 - [Asc](../factors/asc.md)
 - [Kronos/Vulcanus](../axes/kronos-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

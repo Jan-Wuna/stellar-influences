@@ -3,7 +3,7 @@ title: Mercury/Cupido = Mars
 page_type: activation
 slug: mercury-cupido-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Mars
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Cupido`
-- Source page: `166`
 #### Witte Entry
 
 To carry out artistic activity. To want to produce something beautiful. Works of art made from metal. Wrought-iron worker.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To carry out artistic activity. To want to produce something beautiful. Works of art made from metal. Wrought-iron worker.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+work discussion of a community, efforts of a language community, thought work of a community, conversations about artistic work, shared youth work, formation of a young community, and media community in activity
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Cupido = Mars` activates the axis into making, crafting, and executing beauty.
+- Chart expression: artistic labor, the will to create something beautiful, and communication or thought that takes form through hands-on making, metalwork, or crafted objects.
 
 ## Links
 
@@ -61,3 +56,5 @@ To carry out artistic activity. To want to produce something beautiful. Works of
 - [Cupido](../factors/cupido.md)
 - [Mars](../factors/mars.md)
 - [Mercury/Cupido](../axes/mercury-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

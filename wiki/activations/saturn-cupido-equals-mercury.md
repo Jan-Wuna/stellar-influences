@@ -3,7 +3,7 @@ title: Saturn/Cupido = Mercury
 page_type: activation
 slug: saturn-cupido-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Saturn
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Cupido`
-- Source page: `224`
 #### Witte Entry
 
 To think about separation from a community. To intend divorce.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To think about separation from a community. To intend divorce.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Reports of joint losses, joint tasks of young people, discussion of common tasks, discussion of Community tasks, language difficulties in the Community, and losses in the transport community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Cupido = Mercury`: to think about separation from a community, to intend divorce.
+- Practical expression: reports of joint losses, joint tasks of young people, discussion of common tasks, discussion of Community tasks, and language difficulties in the Community.
 
 ## Links
 
@@ -61,3 +56,5 @@ To think about separation from a community. To intend divorce.
 - [Cupido](../factors/cupido.md)
 - [Mercury](../factors/mercury.md)
 - [Saturn/Cupido](../axes/saturn-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Mars Pluto Poseidon
 page_type: triad_hub
 slug: mars-pluto-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Pluto Poseidon`
 - Astronomicon triad-set: `U Z ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Pluto = Poseidon](../activations/mars-pluto-equals-poseidon.md)
-  Source page `196`
 - [Mars/Poseidon = Pluto](../activations/mars-poseidon-equals-pluto.md)
-  Source page `204`
 - [Pluto/Poseidon = Mars](../activations/pluto-poseidon-equals-mars.md)
-  Source page `264`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Pluto = Poseidon`: page `196`
-- `Mars/Poseidon = Pluto`: page `204`
-- `Pluto/Poseidon = Mars`: page `264`
+- `Mars/Pluto = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `196`
+- `Mars/Pluto = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `307`
+- `Mars/Poseidon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `204`
+- `Mars/Poseidon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `323`
+- `Pluto/Poseidon = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `264`
+- `Pluto/Poseidon = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `422`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Pluto = Poseidon`: gives planning a mental, moral, and intellectually obligatory character.
+- `Mars/Poseidon = Pluto`: develops and transforms ethics or intellect through planning, beginnings, and decisive change.
+- `Pluto/Poseidon = Mars`: This activation emphasizes to bring order into mental matters; To follow a plan in the mental development.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Pluto](../factors/pluto.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

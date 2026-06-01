@@ -3,7 +3,7 @@ title: Hades/Apollon = Saturn
 page_type: activation
 slug: hades-apollon-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Hades
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Apollon`
-- Source page: `280`
 #### Witte Entry
 
 Beginning or ending of general misery of the masses. Misery of refugees. Inflation, impoverishment. General desperation, bankruptcies, suicides.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Beginning or ending of general misery of the masses. Misery of refugees. Inflation, impoverishment. General desperation, bankruptcies, suicides.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Success through hard and deprivation, concentration on knowledge of the past, lack of the most active knowledge, problematic secret knowledge, vie! sorrow and pain, hidden trade losses, and vie! service and endure
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Apollon = Saturn`: widespread lack becoming frozen into social crisis and human despair. Main caution: treating despair as historically inevitable rather than something requiring intervention.
 
 ## Links
 
@@ -61,3 +55,5 @@ Beginning or ending of general misery of the masses. Misery of refugees. Inflati
 - [Apollon](../factors/apollon.md)
 - [Saturn](../factors/saturn.md)
 - [Hades/Apollon](../axes/hades-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Venus/Zeus = Jupiter
 page_type: activation
 slug: venus-zeus-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Jupiter
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Zeus`
-- Source page: `184`
 #### Witte Entry
 
 Happiness through devoted activities. Good progeny.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Happiness through devoted activities. Good progeny.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Beginning peace success, successful peace emulations, successful love denial, joy in financial pursuit, leading peace right, harmony through good performances, preference for money performances, and advantage by Harrnonia strikes
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Zeus = Jupiter`: happiness through devoted activities.
+- Practical expression: beginning peace success, successful peace emulations, successful love denial, oy in financial pursuit, and leading peace right.
 
 ## Links
 
@@ -61,3 +56,5 @@ Happiness through devoted activities. Good progeny.
 - [Zeus](../factors/zeus.md)
 - [Jupiter](../factors/jupiter.md)
 - [Venus/Zeus](../axes/venus-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

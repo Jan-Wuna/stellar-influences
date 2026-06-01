@@ -3,7 +3,7 @@ title: Uranus/Zeus = Vulcanus
 page_type: activation
 slug: uranus-zeus-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Zeus
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Zeus`
-- Source page: `238`
 #### Witte Entry
 
 The will to carry through ones ideas. Nothing can stop them. Mighty explosion.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The will to carry through ones ideas. Nothing can stop them. Mighty explosion.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Beginning of powerful unrest, dynamic filtration force, influential new beginnings, new power struggles, sudden violence efforts, strong creative impulses, technical performance force, surprising force of fire, and technical leadership power
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Zeus = Vulcanus`: The will to carry through ones ideas. Nothing can stop them. Mighty explosion.
+- Practical expression: beginning of powerful unrest, dynamic filtration force, influential new beginnings, new power struggles, and sudden violence efforts.
 
 ## Links
 
@@ -61,3 +56,5 @@ The will to carry through ones ideas. Nothing can stop them. Mighty explosion.
 - [Zeus](../factors/zeus.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Uranus/Zeus](../axes/uranus-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

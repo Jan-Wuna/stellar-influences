@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Asc + Asc`
-- Source page: `78`
 #### Witte Entry
 
 Luck with other people; or other peoples luck (fortune). To experience good deeds form others. Prospering surroundings. Wealthy friends or companions. Fortunate acquaintances. Happy relations to the surroundings.
 
-## Comparative Schema
-
-- core meaning: Luck with other people; or other peoples luck (fortune). To experience good deeds form others. Prospering surroundings. Wealthy friends or companions. Fortunate acquaintances. Happy relations to the surroundings.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Asc = Jupiter`: good company, prosperous locality, and benevolent social influence in the close field. Main caution: comfortable complacency: reliance on favorable surroundings can obscure how dependent well-being is on external support.
 
 ## Links
 

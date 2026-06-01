@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Jupiter`
-- Source page: `106`
 #### Witte Entry
 
 Hindered success. Lost happiness. Misfortune. Lost position. Bad fortune.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Sun/Jupiter`
-- Source page: `90`
-- Entry: `0235`
+#### ABC Entry
+
+Tasks of a legal center, financial problems of a man, money losses of a person, glimmering person in old age, personal legal problems, concentration on personal advantage, and satisfaction despite corporal pain
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ The disinclination to do something coupled with a completely negative state of m
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Sun/Jupiter midpoint`
-- Source page: `12`
-- Activator: `Saturn`
-
 #### Sandbach Entry
 
 Success that comes slowly, gradually and/or through hard work. Carefully and patiently enlarging on ones goals. Possibly a fear of success, or even uncertainty con cerning whether one has reached it or not. Gaining notoriety late in life.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Situations which force you to learn about life the hard way; lowers your goals and standards, but increases your ability to gain success thru persistence; frustration when you fail to properly plan or follow thru with efforts.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Jupiter = Saturn`: durable achievement, moral seriousness, and the ability to turn promise into workable form. Main caution: frustrated optimism: doubt, caution, or fear of failure can shrink opportunity before it is properly tested.
 
 ## Links
 
@@ -84,7 +76,8 @@ Success that comes slowly, gradually and/or through hard work. Carefully and pat
 - [Jupiter](../factors/jupiter.md)
 - [Saturn](../factors/saturn.md)
 - [Sun/Jupiter](../axes/sun-jupiter.md)
-- [Sun Jupiter Saturn](../triads/sun-jupiter-saturn.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

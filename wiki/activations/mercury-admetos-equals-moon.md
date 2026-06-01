@@ -3,7 +3,7 @@ title: Mercury/Admetos = Moon
 page_type: activation
 slug: mercury-admetos-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Mercury
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Admetos`
-- Source page: `171`
 #### Witte Entry
 
 Persons with sedentary life. Drive, ride, journey. Circumstances of driving or riding. People on a vehicle. Travelling people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Persons with sedentary life. Drive, ride, journey. Circumstances of driving or riding. People on a vehicle. Travelling people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Reports about a depressed people, blocked thinking of a woman, low life in youth, media restriction in a people, speech restriction of a woman, deep thoughts of a woman, people in traffic stau, and depressed female youth
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Admetos = Moon` joins the axis to everyday travel, vehicles, and sedentary patterns of life.
+- Chart expression: thoughts shaped by riding, driving, or transport circumstances, and to emotional life tied to stillness, vehicles, or people who live in seated or traveling conditions.
 
 ## Links
 
@@ -61,3 +56,5 @@ Persons with sedentary life. Drive, ride, journey. Circumstances of driving or r
 - [Admetos](../factors/admetos.md)
 - [Moon](../factors/moon.md)
 - [Mercury/Admetos](../axes/mercury-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

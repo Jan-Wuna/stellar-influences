@@ -3,7 +3,7 @@ title: Sun/Kronos = MC
 page_type: activation
 slug: sun-kronos-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - MC
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Kronos`
-- Source page: `114`
 #### Witte Entry
 
 Independence. Grandeur in one’s demeanor. High birth. Of royal birth.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Independence. Grandeur in one’s demeanor. High birth. Of royal birth.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+I at the a self assured man, my personal affection, my moral superiority, my personal authority, and a human being's mental personality
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Kronos = MC`: in authority and a ruler.
+- Practical expression: i at the a self assured man, my personal affection, my moral superiority, my personal authority, and a human being's mental personality.
 
 ## Links
 
@@ -61,3 +56,5 @@ Independence. Grandeur in one’s demeanor. High birth. Of royal birth.
 - [Kronos](../factors/kronos.md)
 - [MC](../factors/mc.md)
 - [Sun/Kronos](../axes/sun-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

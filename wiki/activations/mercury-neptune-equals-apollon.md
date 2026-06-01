@@ -3,7 +3,7 @@ title: Mercury/Neptune = Apollon
 page_type: activation
 slug: mercury-neptune-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Neptune
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Neptune`
-- Source page: `164`
 #### Witte Entry
 
 High susceptibility and high sensitivity of the nervous system. The native can cut out the motor nervous systems to influence the vegetative system. To penetrate, to break into a new science in an intuitive way.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: High susceptibility and high sensitivity of the nervous system. The native can cut out the motor nervous systems to influence the vegetative system. To penetrate, to break into a new science in an intuitive way.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exchangeable trade reports, experiences with air describe, success in foreign languages, successful reports on metaphysics, successful air traffic, successes of youth in water, talk about future knowledge, and much movement in water
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Neptune = Apollon` expands the axis into highly sensitive intuitive science.
+- Chart expression: unusual nervous receptivity, fine susceptibility to inner states, and the capacity to penetrate new scientific territory through intuition rather than ordinary linear reasoning.
 
 ## Links
 
@@ -61,3 +56,5 @@ High susceptibility and high sensitivity of the nervous system. The native can c
 - [Neptune](../factors/neptune.md)
 - [Apollon](../factors/apollon.md)
 - [Mercury/Neptune](../axes/mercury-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

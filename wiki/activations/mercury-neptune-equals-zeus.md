@@ -3,7 +3,7 @@ title: Mercury/Neptune = Zeus
 page_type: activation
 slug: mercury-neptune-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Neptune
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Neptune`
-- Source page: `164`
 #### Witte Entry
 
 Creative ideas without limits. Many problems without execution. Unsolved tasks.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Creative ideas without limits. Many problems without execution. Unsolved tasks.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exhaustive language about metaphysics, exchangeable media performance, fire in air traffic, design of air traffic, achievements in foreign language, creative thoughts about metaphysics, determined thinking about the future, and future achievements of young people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Neptune = Zeus` drives the axis into limitless creative ideation without follow-through.
+- Chart expression: boundless imaginative ideas, but also to unresolved problems, unrealized plans, and too much inspired conception without enough execution.
 
 ## Links
 
@@ -61,3 +56,5 @@ Creative ideas without limits. Many problems without execution. Unsolved tasks.
 - [Neptune](../factors/neptune.md)
 - [Zeus](../factors/zeus.md)
 - [Mercury/Neptune](../axes/mercury-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

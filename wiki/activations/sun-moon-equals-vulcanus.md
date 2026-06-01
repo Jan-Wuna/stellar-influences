@@ -3,7 +3,7 @@ title: Sun/Moon = Vulcanus
 page_type: activation
 slug: sun-moon-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Moon
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Moon
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Moon`
-- Source page: `101`
 #### Witte Entry
 
 Times when big things happen. Daily and hourly to exercise or experience executive power.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Times when big things happen. Daily and hourly to exercise or experience executive power.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Energy between woman and man, influence of personal feelings, man's power of flight, violence between man and woman, woman's personal energy, personal power feelings, strong mother of man, and woman's personal influence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Moon = Vulcanus`: powerful embodiment and concentrated vitality.
+- Practical expression: energy between woman, influence of personal feelings, man's power of flight, violence between man, and woman.
 
 ## Links
 
@@ -61,3 +56,5 @@ Times when big things happen. Daily and hourly to exercise or experience executi
 - [Moon](../factors/moon.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Sun/Moon](../axes/sun-moon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

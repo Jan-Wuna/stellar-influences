@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Mercury Mars Chiron`
 - Astronomicon triad-set: `T U Chiron`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Mercury/Chiron = Mars`: John, page `46`
 - `Mercury/Mars = Chiron`: John, page `42`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Chiron = Mercury`: sharp but healing speech, strategic candor, and the ability to resolve trouble by talking directly to its root. The caution is verbal aggression that cuts deeper than intended before the healing value appears.
+- `Mercury/Chiron = Mars` activates the axis into repairing broken lines and redirecting conflict.
+- `Mercury/Mars = Chiron` heals the axis through argument, sharp truth, and spiritually guided conflict.
 
 ## Links
 

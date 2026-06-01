@@ -3,7 +3,7 @@ title: Vernal Point Uranus Admetos
 page_type: triad_hub
 slug: vernal-point-uranus-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Uranus
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Uranus Admetos`
 - Astronomicon triad-set: `VP X ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Uranus/Admetos = Vernal Point](../activations/uranus-admetos-equals-vernal-point.md)
-  Source page `241`
 - [Vernal Point/Admetos = Uranus](../activations/vernal-point-admetos-equals-uranus.md)
-  Source page `53`
 - [Vernal Point/Uranus = Admetos](../activations/vernal-point-uranus-equals-admetos.md)
-  Source page `45`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Uranus/Admetos = Vernal Point`: page `241`
-- `Vernal Point/Admetos = Uranus`: page `53`
-- `Vernal Point/Uranus = Admetos`: page `45`
+- `Uranus/Admetos = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `241`
+- `Uranus/Admetos = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `384`
+- `Vernal Point/Admetos = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `53`
+- `Vernal Point/Admetos = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `55`
+- `Vernal Point/Uranus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `45`
+- `Vernal Point/Uranus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `39`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Vernal Point/Admetos = Uranus`: This formula emphasizes sudden heavy depression, excitement, aggravations through obstacles of a turbulent nature, wreckage, broken pieces and rags, and surprised by the sudden death of another persons.
+- `Vernal Point/Uranus = Admetos`: This formula emphasizes surprising destruction.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Uranus](../factors/uranus.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,10 +3,10 @@ title: Moon/Asc = Zeus
 page_type: activation
 slug: moon-asc-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Moon
+  - Asc
   - Zeus
 normalized_formula: Moon/Asc = Zeus
 axis: Moon/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Asc
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Moon`
-- Source page: `81`
 #### Witte Entry
 
 Pregnancy of acquainted persons. Stimulating female acquaintance. Connected with military persons or persons giving orders. To become public through one s own activity.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Pregnancy of acquainted persons. Stimulating female acquaintance. Connected with military persons or persons giving orders. To become public through one s own activity.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Other creative women, efforts of other folk, fiery partner feelings, leading women in the place, achievements of other mutters, creative woman as partner, hour of procreation in the place, goals of other folk, and determined woman in the environment
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Asc = Zeus`: Pregnancy of acquainted persons. Stimulating female acquaintance. Connected with military persons or persons giving orders. To become public through one's own activity.
+- Practical focus: drives `Moon/Asc` toward stimulation, initiative, and public emergence through action. It can show emotionally charged female contact, themes of fertility or generation, and ties to commanding or military types, with the person's own activity pushing feelings into visible expression.
+- Practical expression: other creative women, efforts of other folk, fiery partner feelings, leading women in the place, and achievements of other mutters.
 
 ## Links
 
@@ -61,3 +57,5 @@ Pregnancy of acquainted persons. Stimulating female acquaintance. Connected with
 - [Asc](../factors/asc.md)
 - [Zeus](../factors/zeus.md)
 - [Moon/Asc](../axes/moon-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

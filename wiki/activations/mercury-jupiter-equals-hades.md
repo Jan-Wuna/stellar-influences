@@ -3,7 +3,7 @@ title: Mercury/Jupiter = Hades
 page_type: activation
 slug: mercury-jupiter-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Jupiter
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Jupiter
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Jupiter`
-- Source page: `161`
 #### Witte Entry
 
 Obscene jokes, Low jolly entertainment. To become excited about atrocities. Babble. To chaffer about second-hand things.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Obscene jokes, Low jolly entertainment. To become excited about atrocities. Babble. To chaffer about second-hand things.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Report on happiness in danger, successful speech about renunciation, successful speech about the past, joy of youth in criminality, joy over old writings, thoughts of money deficiency, inadequate right talk, and media success by renunciation
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Jupiter = Hades` lowers the axis into coarse humor, shabby bargaining, and excitement about the ugly side of life.
+- Chart expression: obscene jokes, low entertainment, babble, fascination with atrocities, and optimistic or expansive talk becoming debased through vulgarity or second-hand dealings.
 
 ## Links
 
@@ -61,3 +56,5 @@ Obscene jokes, Low jolly entertainment. To become excited about atrocities. Babb
 - [Jupiter](../factors/jupiter.md)
 - [Hades](../factors/hades.md)
 - [Mercury/Jupiter](../axes/mercury-jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

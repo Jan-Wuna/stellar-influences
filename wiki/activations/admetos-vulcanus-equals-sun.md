@@ -3,7 +3,7 @@ title: Admetos/Vulcanus = Sun
 page_type: activation
 slug: admetos-vulcanus-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Admetos
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Admetos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Admetos + Vulcanus`
-- Source page: `311`
 #### Witte Entry
 
 Days on which only perseverance leads to results. The man who must show great firmness of character, because he gets that kind of treatment.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Days on which only perseverance leads to results. The man who must show great firmness of character, because he gets that kind of treatment.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked corporal energy, restricted body force, energy circuit of the body, enormous personal limitation, power strengthening of a person, personal energy and perseverance, deep personal influence, and center for resistance against violence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Admetos/Vulcanus = Sun`: firmness of character, personal endurance, and identity shaped by surviving heavy tests. Main caution: overhardened selfhood: the person may come to live as if struggle and pressure are the only valid conditions for action.
 
 ## Links
 
@@ -61,3 +55,5 @@ Days on which only perseverance leads to results. The man who must show great fi
 - [Vulcanus](../factors/vulcanus.md)
 - [Sun](../factors/sun.md)
 - [Admetos/Vulcanus](../axes/admetos-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Admetos + Admetos`
-- Source page: `310`
 #### Witte Entry
 
 Main formula for an odd character. Differences. Odd being. Fall of a ruler or a government. Differences in altitude. Hills. Mountains. Odd character who leads a secluded life. Great depth, cave or cleft. A life apart from others. Fall from great height.
 
-## Comparative Schema
-
-- core meaning: Main formula for an odd character. Differences. Odd being. Fall of a ruler or a government. Differences in altitude. Hills. Mountains. Odd character who leads a secluded life. Great depth, cave or cleft. A life apart from others. Fall from great height.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Admetos/Admetos = Kronos`: life set apart, remote authority, and contact with extreme height, depth, or social difference. Main caution: isolated power: superiority becomes estrangement, and high position can reverse into collapse, exile, or hard separation from ordinary human contact.
 
 ## Links
 

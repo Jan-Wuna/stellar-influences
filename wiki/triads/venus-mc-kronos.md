@@ -3,7 +3,7 @@ title: Venus MC Kronos
 page_type: triad_hub
 slug: venus-mc-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus MC Kronos`
 - Astronomicon triad-set: `Q MC ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Kronos = Venus](../activations/mc-kronos-equals-venus.md)
-  Source page `73`
 - [Venus/Kronos = MC](../activations/venus-kronos-equals-mc.md)
-  Source page `185`
 - [Venus/MC = Kronos](../activations/venus-mc-equals-kronos.md)
-  Source page `63`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Kronos = Venus`: page `73`
-- `Venus/Kronos = MC`: page `185`
-- `Venus/MC = Kronos`: page `63`
+- `MC/Kronos = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `73`
+- `MC/Kronos = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `90`
+- `Venus/Kronos = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `185`
+- `Venus/Kronos = MC`: Udo Rudolph - ABC for Planetary Pictures, page `288`
+- `Venus/MC = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `63`
+- `Venus/MC = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `71`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Kronos = Venus`: softens the axis through generosity and the distribution of benefits.
+- `Venus/Kronos = MC`: take part in charitable activities.
+- `Venus/MC = Kronos`: an idealistic point of view concerning love.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [MC](../factors/mc.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

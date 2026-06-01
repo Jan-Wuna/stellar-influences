@@ -3,7 +3,7 @@ title: Admetos/Vulcanus = Asc
 page_type: activation
 slug: admetos-vulcanus-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Admetos
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - Admetos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Admetos + Vulcanus`
-- Source page: `311`
 #### Witte Entry
 
 The native looks hard and unyielding to others, or others look that way to him.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The native looks hard and unyielding to others, or others look that way to him.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Depression influence by the partner, energy and perseverance of the partner, energy compaction in the field, restriction of violence in the environment, violent suppression of others, strengthening of the power of others, deepening of partner influence, and strong environmental influence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Admetos/Vulcanus = Asc`: toughness, endurance, and the impression of someone who cannot be easily moved or softened. Main caution: forbidding contact: the native or environment can feel too rigid, harsh, or defensive for easy human exchange.
 
 ## Links
 
@@ -61,3 +55,5 @@ The native looks hard and unyielding to others, or others look that way to him.
 - [Vulcanus](../factors/vulcanus.md)
 - [Asc](../factors/asc.md)
 - [Admetos/Vulcanus](../axes/admetos-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

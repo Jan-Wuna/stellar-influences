@@ -3,7 +3,7 @@ title: Zeus/Poseidon = Node
 page_type: activation
 slug: zeus-poseidon-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - Zeus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Poseidon`
-- Source page: `296`
 #### Witte Entry
 
 To have to issue a document. To find the right connection.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To have to issue a document. To find the right connection.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Encounters with creative ideas, spiritual goals, the spiritual goal of a Y commitment, the formation of cultural connections, clear contact goals, Y commitment to spiritual movement, and the development of cultural achievements
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Poseidon = Node`: To have to issue a document. To find the right connection.
+- Practical expression: encounters with creative ideas, spiritual goals, the spiritual goal of a Y commitment, the formation of cultural connections, and clear contact goals.
 
 ## Links
 
@@ -61,3 +56,5 @@ To have to issue a document. To find the right connection.
 - [Poseidon](../factors/poseidon.md)
 - [Node](../factors/node.md)
 - [Zeus/Poseidon](../axes/zeus-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

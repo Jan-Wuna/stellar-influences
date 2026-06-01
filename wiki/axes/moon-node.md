@@ -58,11 +58,12 @@ aliases:
   - Node/Moon
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -75,17 +76,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon/Dragon's Head`
-- Source page: `136`
-
 #### Pair Summary
 
 Unions, associations and connections of women. Much change of connections. People’s association. A people’s meetings. Alliances of peoples and nations. National community. Connections or in relationship with female persons. Women among themselves. In contact with things that are influenced by the moon.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Moon/Dragon's Head`
-- Source page: `136`
+#### ABC Pair Summary
+
+Women's connections, emotional relationships, contact with the mother, bond with the mother, hour of connection, ties among peoples, connections with the people, and mediation by women
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -109,9 +110,6 @@ Associations or alliances between women, blood union, any community or associati
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Moon/Node midpoint`
-- Source page: `37`
-
 #### Principle
 
 Nurturing one’s connections with others. Feeling vulnerable when meeting with others. The need to share feelings with others and to give and receive nurturing. Letting go of old feelings and sources of security which no longer serve one’s evolution and hence are holding one back, and being open to the new experiences which life is offering you.
@@ -122,17 +120,11 @@ The clearing of old habit patterns and ways of feeling that are no longer serv i
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Moon/Nodes`
-- Source page: `204`
-
 #### Pair Delineation
 
 Connections with people from the past, connections based primarily on emotion, connections with women. Family groups, contacts with relations, domestic encounters, meetings with people with whom one has a strong affinity.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `MOON/NODE`
-- Source page: `135`
 
 #### Basic Ideas
 
@@ -161,15 +153,6 @@ The lymphatic system, in general; any passages, tubes, or channels associated wi
 
 - [Michael Munkasey - Moon/Node Concepts](../derived/munkasey-moon-node-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Moon/Node = Admetos](../activations/moon-node-equals-admetos.md)
@@ -194,20 +177,18 @@ The lymphatic system, in general; any passages, tubes, or channels associated wi
 - [Moon/Node = Vulcanus](../activations/moon-node-equals-vulcanus.md)
 - [Moon/Node = Zeus](../activations/moon-node-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Node` is the axis of emotional affiliation, nurturing bonds, and connections based on sympathy, familiarity, or shared feeling. It combines instinct, care, memory, and vulnerability with alliance, kinship, and the need to belong within a supportive network.
+- Chart expression: family ties, affinity groups, maternal or feminine connections, emotional rapport, and the impulse to build community through care and shared history. Liabilities: clinging, oversensitivity, social hesitancy, estrangement, and alliances governed by old habits or emotional dependence rather than clear mutual growth.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Node](../factors/node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)

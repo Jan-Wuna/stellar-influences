@@ -3,7 +3,7 @@ title: Neptune Node Poseidon
 page_type: triad_hub
 slug: neptune-node-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Neptune Node Poseidon`
 - Astronomicon triad-set: `Y g ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Neptune/Node = Poseidon](../activations/neptune-node-equals-poseidon.md)
-  Source page `147`
 - [Neptune/Poseidon = Node](../activations/neptune-poseidon-equals-node.md)
-  Source page `254`
 - [Node/Poseidon = Neptune](../activations/node-poseidon-equals-neptune.md)
-  Source page `156`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Neptune/Node = Poseidon`: page `147`
-- `Neptune/Poseidon = Node`: page `254`
-- `Node/Poseidon = Neptune`: page `156`
+- `Neptune/Node = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `147`
+- `Neptune/Node = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `221`
+- `Neptune/Poseidon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `254`
+- `Neptune/Poseidon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `406`
+- `Node/Poseidon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `156`
+- `Node/Poseidon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `239`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Neptune/Node = Poseidon`: This activation spiritualizes uncertain bonds through idealistic effort, unreliable companions, and the weakening of higher or metaphysical connections with others.
+- `Neptune/Poseidon = Node`: This activation turns spiritualized uncertainty into selective connection, bringing contact with occult or highly developed people while also exposing one to misleading teachings and desperate influences.
+- `Node/Poseidon = Neptune`: Relations to high minded people. Dissolution of present relations.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [Node](../factors/node.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

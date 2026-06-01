@@ -3,7 +3,7 @@ title: Neptune/Kronos = Moon
 page_type: activation
 slug: neptune-kronos-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Neptune
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Kronos`
-- Source page: `250`
 #### Witte Entry
 
 Great accomplishment through sensitiveness. Persons who try to deceive, who are not sincere in their opinions. Aviation.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great accomplishment through sensitiveness. Persons who try to deceive, who are not sincere in their opinions. Aviation.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+A woman's special expectations, a woman's special fine chair, a woman's great exchange, a great feelings weak, a great people at the water, a weak state of a people, insecure people's support, and unsafe people's support
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Kronos = Moon`: Great accomplishment through sensitiveness. Persons who try to deceive, who are not sincere in their opinions. Aviation.
+- Practical focus: emotionalizes high but unstable leadership, mixing accomplishment through sensitivity with insincere opinion, deceptive feeling, and public or atmospheric elevation that can drift toward illusion.
+- Practical expression: a woman's special expectations, a woman's special fine chair, a woman's great exchange, a great feelings weak, and a great people at the water.
 
 ## Links
 
@@ -61,3 +57,5 @@ Great accomplishment through sensitiveness. Persons who try to deceive, who are 
 - [Kronos](../factors/kronos.md)
 - [Moon](../factors/moon.md)
 - [Neptune/Kronos](../axes/neptune-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

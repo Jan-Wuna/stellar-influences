@@ -3,7 +3,7 @@ title: Sun/Vulcanus = Node
 page_type: activation
 slug: sun-vulcanus-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Node
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Vulcanus`
-- Source page: `117`
 #### Witte Entry
 
 Connection with a strong, muscular man. To suffer from other persons. Wish for power.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Connection with a strong, muscular man. To suffer from other persons. Wish for power.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Encounter with powerful people, relationships with influential people, contacts with strong men, connected with violent people, connection to an energy center, connection to powerful people, and communication with violence on the day
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Vulcanus = Node`: forceful connections and strong mutual ties.
+- Practical expression: encounter with powerful people, relationships with influential people, contacts with strong men, connected with violent people, and connection to an energy center.
 
 ## Links
 
@@ -61,3 +56,5 @@ Connection with a strong, muscular man. To suffer from other persons. Wish for p
 - [Vulcanus](../factors/vulcanus.md)
 - [Node](../factors/node.md)
 - [Sun/Vulcanus](../axes/sun-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Kronos/Poseidon = Mercury
 page_type: activation
 slug: kronos-poseidon-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Kronos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Kronos + Poseidon`
-- Source page: `302`
 #### Witte Entry
 
 High ideals, spiritualized thinking. Talks, conversations and correspondence about high minded or cultural concerns.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: High ideals, spiritualized thinking. Talks, conversations and correspondence about high minded or cultural concerns.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special youth culture, language about spiritual hierarchic, great clarity of an idea, cultural prestige of the media, news about intellectual groves, self made youth culture, traffic knowledge of the state, and consider important truths
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Poseidon = Mercury`: high ideals, spiritualized thinking, and correspondence or discussion centered on cultural or high-minded concerns.
+- Chart expression: principled discourse, refined thought, and communication that transmits elevated values and ideas.
 
 ## Links
 
@@ -61,3 +56,5 @@ High ideals, spiritualized thinking. Talks, conversations and correspondence abo
 - [Poseidon](../factors/poseidon.md)
 - [Mercury](../factors/mercury.md)
 - [Kronos/Poseidon](../axes/kronos-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

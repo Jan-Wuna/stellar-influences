@@ -3,7 +3,7 @@ title: Moon/Hades = Admetos
 page_type: activation
 slug: moon-hades-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Hades
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Hades`
-- Source page: `131`
 #### Witte Entry
 
 People dying of misery and plague.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: People dying of misery and plague.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Perseverance of an old woman, blockade by GemOt's heart, depression risk for a woman, depressed woman in need, dangerous cycle of a woman, hearty GemOt's depression, gritty renunciation of a woman, and depression risk in the hour
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Hades = Admetos`: People dying of misery and plague.
+- Practical expression: perseverance of an old woman, blockade by GemOt's heart, depression risk for a woman, depressed woman in need, and dangerous cycle of a woman.
 
 ## Links
 
@@ -61,3 +56,5 @@ People dying of misery and plague.
 - [Hades](../factors/hades.md)
 - [Admetos](../factors/admetos.md)
 - [Moon/Hades](../axes/moon-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

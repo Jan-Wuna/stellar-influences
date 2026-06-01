@@ -3,7 +3,7 @@ title: Saturn Uranus Vulcanus
 page_type: triad_hub
 slug: saturn-uranus-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Uranus
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Uranus Vulcanus`
 - Astronomicon triad-set: `W X §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Saturn/Uranus = Vulcanus](../activations/saturn-uranus-equals-vulcanus.md)
-  Source page `221`
 - [Saturn/Vulcanus = Uranus](../activations/saturn-vulcanus-equals-uranus.md)
-  Source page `230`
 - [Uranus/Vulcanus = Saturn](../activations/uranus-vulcanus-equals-saturn.md)
-  Source page `242`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Saturn/Uranus = Vulcanus`: page `221`
-- `Saturn/Vulcanus = Uranus`: page `230`
-- `Uranus/Vulcanus = Saturn`: page `242`
+- `Saturn/Uranus = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `221`
+- `Saturn/Uranus = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `349`
+- `Saturn/Vulcanus = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `230`
+- `Saturn/Vulcanus = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `367`
+- `Uranus/Vulcanus = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `242`
+- `Uranus/Vulcanus = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `387`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Saturn/Vulcanus = Uranus`: brings sudden disruption into restrained power: becoming suddenly imprisoned or dependent, losses through violence, energy reform problems, technical energy problems, and abrupt cancellations of rhythm.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Uranus](../factors/uranus.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

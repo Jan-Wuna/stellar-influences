@@ -3,7 +3,7 @@ title: Uranus MC Hades
 page_type: triad_hub
 slug: uranus-mc-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - MC
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus MC Hades`
 - Astronomicon triad-set: `X MC ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Hades = Uranus](../activations/mc-hades-equals-uranus.md)
-  Source page `71`
 - [Uranus/Hades = MC](../activations/uranus-hades-equals-mc.md)
-  Source page `237`
 - [Uranus/MC = Hades](../activations/uranus-mc-equals-hades.md)
-  Source page `67`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Hades = Uranus`: page `71`
-- `Uranus/Hades = MC`: page `237`
-- `Uranus/MC = Hades`: page `67`
+- `MC/Hades = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `71`
+- `MC/Hades = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `87`
+- `Uranus/Hades = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `237`
+- `Uranus/Hades = MC`: Udo Rudolph - ABC for Planetary Pictures, page `376`
+- `Uranus/MC = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `67`
+- `Uranus/MC = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `79`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Hades = Uranus`: shocks the axis through sudden death and abrupt adverse conditions.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [MC](../factors/mc.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

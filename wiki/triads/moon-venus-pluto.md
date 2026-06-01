@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Venus Pluto`
 - Astronomicon triad-set: `R Q Z`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,19 +40,27 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Moon/Pluto = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `129`
+- `Moon/Pluto = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `190`
 - `Moon/Pluto = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `135`
 - `Moon/Pluto = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `36`
+- `Moon/Pluto = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `132`
 - `Moon/Venus = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `123`
+- `Moon/Venus = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `179`
 - `Moon/Venus = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `118`
 - `Moon/Venus = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `27`
+- `Moon/Venus = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `108`
 - `Venus/Pluto = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `181`
+- `Venus/Pluto = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `280`
 - `Venus/Pluto = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `191`
 - `Venus/Pluto = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `62`
+- `Venus/Pluto = Moon`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `208`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Pluto = Venus`: deep emotional magnetism, with love and belonging shaped by intensity, loyalty, desire, and transformative closeness.
+- `Moon/Venus = Pluto`: channels the tender, receptive love of the Moon/Venus axis through Pluto, intensifying affection into deep attachment, transformative care, and emotionally consequential love. It points to tenderness fused with depth, desire, and the need to bond in ways that matter profoundly.
+- `Venus/Pluto = Moon`: compelling attraction, transformative love, and deep value intensity made consuming, intimate, and emotionally transformative.
 
 ## Links
 
@@ -59,5 +68,7 @@ updated_at: 2026-04-22
 - [Venus](../factors/venus.md)
 - [Pluto](../factors/pluto.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

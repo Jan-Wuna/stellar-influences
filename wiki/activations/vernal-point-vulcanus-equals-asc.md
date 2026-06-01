@@ -3,7 +3,7 @@ title: Vernal Point/Vulcanus = Asc
 page_type: activation
 slug: vernal-point-vulcanus-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Asc
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Vulcanus`
-- Source page: `54`
 #### Witte Entry
 
 To have to deal with violent people. Others let us feel their power. To experience violence trough the environment or trough others.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To have to deal with violent people. Others let us feel their power. To experience violence trough the environment or trough others.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+influential public environment, public local power, public environmental energy, place of public violence, partner violence in public life, strong partner in public, and environmental influence in public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Vulcanus = Asc`: to have to deal with violent people, others let us feel their power, and to experience violence trough the environment or trough others.
+- Practical expression: influential public environment, public local power, public environmental energy, place of public violence, and partner violence in public life.
 
 ## Links
 
@@ -61,3 +56,5 @@ To have to deal with violent people. Others let us feel their power. To experien
 - [Vulcanus](../factors/vulcanus.md)
 - [Asc](../factors/asc.md)
 - [Vernal Point/Vulcanus](../axes/vernal-point-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

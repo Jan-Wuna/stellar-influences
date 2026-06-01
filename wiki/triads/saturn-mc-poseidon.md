@@ -3,7 +3,7 @@ title: Saturn MC Poseidon
 page_type: triad_hub
 slug: saturn-mc-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - MC
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn MC Poseidon`
 - Astronomicon triad-set: `W MC ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Poseidon = Saturn](../activations/mc-poseidon-equals-saturn.md)
-  Source page `77`
 - [Saturn/MC = Poseidon](../activations/saturn-mc-equals-poseidon.md)
-  Source page `66`
 - [Saturn/Poseidon = MC](../activations/saturn-poseidon-equals-mc.md)
-  Source page `231`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Poseidon = Saturn`: page `77`
-- `Saturn/MC = Poseidon`: page `66`
-- `Saturn/Poseidon = MC`: page `231`
+- `MC/Poseidon = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `77`
+- `MC/Poseidon = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `99`
+- `Saturn/MC = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `66`
+- `Saturn/MC = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `77`
+- `Saturn/Poseidon = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `231`
+- `Saturn/Poseidon = MC`: Udo Rudolph - ABC for Planetary Pictures, page `368`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Poseidon = Saturn`: disciplines the axis through education, training, and studenthood.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [MC](../factors/mc.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

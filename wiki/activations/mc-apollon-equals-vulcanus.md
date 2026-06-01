@@ -3,7 +3,7 @@ title: MC/Apollon = Vulcanus
 page_type: activation
 slug: mc-apollon-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Apollon
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Apollon`
-- Source page: `74`
 #### Witte Entry
 
 Broad mental horizon. Great success in personal experiences.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Broad mental horizon. Great success in personal experiences.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Expansion of psychic violence, successful power of the soul, successful psychic influence, my influence through knowledge, my experiences with the power, my strength fillle, experience psychic strength, veneration of the psychic force, and increasing psychic influence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Apollon = Vulcanus` massively strengthens the axis into a very broad horizon and major personal success.
+- Chart expression: powerful experiential growth, great success through widened perspective, and an unusually forceful capacity to enlarge one's life through knowledge and achievement.
 
 ## Links
 
@@ -61,3 +56,5 @@ Broad mental horizon. Great success in personal experiences.
 - [Apollon](../factors/apollon.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [MC/Apollon](../axes/mc-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

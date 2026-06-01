@@ -3,7 +3,7 @@ title: Venus Neptune Zeus
 page_type: triad_hub
 slug: venus-neptune-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Neptune
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Neptune Zeus`
 - Astronomicon triad-set: `Q Y £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Neptune/Zeus = Venus](../activations/neptune-zeus-equals-venus.md)
-  Source page `249`
 - [Venus/Neptune = Zeus](../activations/venus-neptune-equals-zeus.md)
-  Source page `180`
 - [Venus/Zeus = Neptune](../activations/venus-zeus-equals-neptune.md)
-  Source page `184`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Neptune/Zeus = Venus`: page `249`
-- `Venus/Neptune = Zeus`: page `180`
-- `Venus/Zeus = Neptune`: page `184`
+- `Neptune/Zeus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `249`
+- `Neptune/Zeus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `396`
+- `Venus/Neptune = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `180`
+- `Venus/Neptune = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `279`
+- `Venus/Zeus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `184`
+- `Venus/Zeus = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `287`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Neptune/Zeus = Venus`: Pleasure, love, or fertility is touched by dissolution and loss, pointing to unhappy affection, broken continuation, or damage to reproduction.
+- `Venus/Neptune = Zeus`: inherited blood diseases.
+- `Venus/Zeus = Neptune`: no ambition or desire.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Neptune](../factors/neptune.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

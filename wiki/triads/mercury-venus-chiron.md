@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Mercury Venus Chiron`
 - Astronomicon triad-set: `T Q Chiron`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Mercury/Venus = Chiron`: John, page `41`
 - `Venus/Chiron = Mercury`: John, page `58`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Chiron = Venus` softens the axis into loving, subtle, and many-layered communication.
+- `Mercury/Venus = Chiron`: The instinctive ability to imbue all communication with love, as well as an ability to have a soothing and relaxing effect on the nervous systems of others. The way in which one expresses ideas can open others up to profound realizations.
+- `Venus/Chiron = Mercury`: the ability to communicate in a way that promotes peace and love and helps others to understand the value of all ideas.
 
 ## Links
 

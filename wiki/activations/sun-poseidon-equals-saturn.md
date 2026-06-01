@@ -3,7 +3,7 @@ title: Sun/Poseidon = Saturn
 page_type: activation
 slug: sun-poseidon-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Saturn
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Poseidon`
-- Source page: `118`
 #### Witte Entry
 
 Spiritualization in old age. To be brought to spiritualization through the force of
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Spiritualization in old age. To be brought to spiritualization through the force of
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Burdening personal truth, knowledge of a man in old age, serious spiritualized man, cultural tasks of man, personal concentration on truth, personal cultural tasks, and problematic person culture
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Poseidon = Saturn`: a burdened soul and emotional inhibition.
+- Practical expression: burdening personal truth, knowledge of a man in old age, serious spiritualized man, cultural tasks of man, and personal concentration on truth.
 
 ## Links
 
@@ -61,3 +56,5 @@ Spiritualization in old age. To be brought to spiritualization through the force
 - [Poseidon](../factors/poseidon.md)
 - [Saturn](../factors/saturn.md)
 - [Sun/Poseidon](../axes/sun-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

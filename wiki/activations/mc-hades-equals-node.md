@@ -3,7 +3,7 @@ title: MC/Hades = Node
 page_type: activation
 slug: mc-hades-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - MC
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Hades`
-- Source page: `71`
 #### Witte Entry
 
 Grief and sorrow in one’s own relationships. Selecting bad relationships. To serve in a relationship. Disloyal attitude towards contacts.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Grief and sorrow in one’s own relationships. Selecting bad relationships. To serve in a relationship. Disloyal attitude towards contacts.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Mysterious soul connection, my encounter with the need, my adverse connections, my criminal connections, my connections in service, my connection to the past, and my hidden soul v bonding
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Hades = Node` joins the axis to troubled, disloyal, or burdensome relationships.
+- Chart expression: sorrow in contacts, poor relational choices, service under degrading ties, and a life path marked by grief through the people one joins.
 
 ## Links
 
@@ -61,3 +56,5 @@ Grief and sorrow in one’s own relationships. Selecting bad relationships. To s
 - [Hades](../factors/hades.md)
 - [Node](../factors/node.md)
 - [MC/Hades](../axes/mc-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

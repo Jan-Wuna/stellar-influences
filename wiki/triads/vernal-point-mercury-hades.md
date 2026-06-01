@@ -3,7 +3,7 @@ title: Vernal Point Mercury Hades
 page_type: triad_hub
 slug: vernal-point-mercury-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Mercury
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Mercury Hades`
 - Astronomicon triad-set: `VP T ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Hades = Vernal Point](../activations/mercury-hades-equals-vernal-point.md)
-  Source page `167`
 - [Vernal Point/Hades = Mercury](../activations/vernal-point-hades-equals-mercury.md)
-  Source page `49`
 - [Vernal Point/Mercury = Hades](../activations/vernal-point-mercury-equals-hades.md)
-  Source page `40`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Hades = Vernal Point`: page `167`
-- `Vernal Point/Hades = Mercury`: page `49`
-- `Vernal Point/Mercury = Hades`: page `40`
+- `Mercury/Hades = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `167`
+- `Mercury/Hades = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `256`
+- `Vernal Point/Hades = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `49`
+- `Vernal Point/Hades = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `46`
+- `Vernal Point/Mercury = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `40`
+- `Vernal Point/Mercury = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `29`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Hades = Vernal Point`: projects the axis into openly vulgar mental force.
+- `Vernal Point/Hades = Mercury`: This formula emphasizes vulgar thinking by the general public.
+- `Vernal Point/Mercury = Hades`: This formula emphasizes the ugly mindset of the public, old news, and news about history.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Mercury](../factors/mercury.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Kronos/Poseidon = Pluto
 page_type: activation
 slug: kronos-poseidon-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Kronos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Kronos + Poseidon`
-- Source page: `302`
 #### Witte Entry
 
 E Cultural transformation. Highly spiritual or intellectual advancement.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: E Cultural transformation. Highly spiritual or intellectual advancement.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Cultural change in the state, change in the state, growing spiritual self reliance, growing cultural prestige, and important truth development
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Poseidon = Pluto`: cultural change, high intellectual development, and spiritual or educational progress through deep transformation.
+- Chart expression: major cultural shifts, profound learning, and intensified mental or ideological growth.
 
 ## Links
 
@@ -61,3 +56,5 @@ E Cultural transformation. Highly spiritual or intellectual advancement.
 - [Poseidon](../factors/poseidon.md)
 - [Pluto](../factors/pluto.md)
 - [Kronos/Poseidon](../axes/kronos-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

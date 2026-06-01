@@ -3,7 +3,7 @@ title: Vernal Point/Jupiter = Mercury
 page_type: activation
 slug: vernal-point-jupiter-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Jupiter
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Mercury
   - Jupiter
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Jupiter`
-- Source page: `43`
 #### Witte Entry
 
 Merry mood. Talkative. News about money, stock exchange or law.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Merry mood. Talkative. News about money, stock exchange or law.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful youth in public, successful public traffic, language about public funds, media successes in public, opinions about public law, public speech successes, and right thinking in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Jupiter = Mercury`: merry mood, talkative, and news about money, stock exchange or law.
+- Practical expression: successful youth in public, successful public traffic, language about public funds, media successes in public, and opinions about public law.
 
 ## Links
 
@@ -61,3 +56,5 @@ Merry mood. Talkative. News about money, stock exchange or law.
 - [Jupiter](../factors/jupiter.md)
 - [Mercury](../factors/mercury.md)
 - [Vernal Point/Jupiter](../axes/vernal-point-jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

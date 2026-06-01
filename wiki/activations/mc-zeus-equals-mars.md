@@ -3,7 +3,7 @@ title: MC/Zeus = Mars
 page_type: activation
 slug: mc-zeus-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - MC
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Zeus`
-- Source page: `72`
 #### Witte Entry
 
 Always ready to help. Daredevil. Leader. Good strategist. To force something under one’s own will (to take control).
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Always ready to help. Daredevil. Leader. Good strategist. To force something under one’s own will (to take control).
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Fiery soul impulses, leadership activity of the soul, my begetting will, my aim in creation, my strenuous work, my work achievements, my leadership activity, my activity design, and my activity objects
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Zeus = Mars` charges the axis with daring, strategy, and forceful execution.
+- Chart expression: bold leadership, readiness to act, and the will to take control of situations through decisive, goal-directed action.
 
 ## Links
 
@@ -61,3 +56,5 @@ Always ready to help. Daredevil. Leader. Good strategist. To force something und
 - [Zeus](../factors/zeus.md)
 - [Mars](../factors/mars.md)
 - [MC/Zeus](../axes/mc-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

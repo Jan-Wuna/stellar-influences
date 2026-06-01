@@ -3,7 +3,7 @@ title: Pluto/Cupido = Sun
 page_type: activation
 slug: pluto-cupido-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Pluto
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Cupido`
-- Source page: `257`
 #### Witte Entry
 
 To be a member of an association. The man who is or will be placed in changed social surroundings, who has to cope with such things daily. To be an active partner in building up an organization.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be a member of an association. The man who is or will be placed in changed social surroundings, who has to cope with such things daily. To be an active partner in building up an organization.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+development of a community of persons, shared personal development, developing of a community center, men's community in transformation, personal artistic development, and changes in of a community center
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Cupido = Sun`: to be a member of an association.
+- Practical expression: development of a community of persons, shared personal development, developing of a community center, men's community in transformation, and personal artistic development.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be a member of an association. The man who is or will be placed in changed so
 - [Cupido](../factors/cupido.md)
 - [Sun](../factors/sun.md)
 - [Pluto/Cupido](../axes/pluto-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

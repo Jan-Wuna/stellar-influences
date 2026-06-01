@@ -3,7 +3,7 @@ title: Zeus/Admetos
 page_type: axis
 slug: zeus-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Admetos
@@ -11,26 +11,26 @@ normalized_axis: Zeus/Admetos
 factor_a: Zeus
 factor_b: Admetos
 related_activations:
-  - Zeus/Admetos = Vernal Point
-  - Zeus/Admetos = MC
+  - Zeus/Admetos = Apollon
   - Zeus/Admetos = Asc
-  - Zeus/Admetos = Sun
-  - Zeus/Admetos = Moon
-  - Zeus/Admetos = Node
-  - Zeus/Admetos = Mercury
-  - Zeus/Admetos = Venus
-  - Zeus/Admetos = Mars
-  - Zeus/Admetos = Jupiter
-  - Zeus/Admetos = Saturn
-  - Zeus/Admetos = Uranus
-  - Zeus/Admetos = Neptune
-  - Zeus/Admetos = Pluto
   - Zeus/Admetos = Cupido
   - Zeus/Admetos = Hades
+  - Zeus/Admetos = Jupiter
   - Zeus/Admetos = Kronos
-  - Zeus/Admetos = Apollon
-  - Zeus/Admetos = Vulcanus
+  - Zeus/Admetos = Mars
+  - Zeus/Admetos = MC
+  - Zeus/Admetos = Mercury
+  - Zeus/Admetos = Moon
+  - Zeus/Admetos = Neptune
+  - Zeus/Admetos = Node
+  - Zeus/Admetos = Pluto
   - Zeus/Admetos = Poseidon
+  - Zeus/Admetos = Saturn
+  - Zeus/Admetos = Sun
+  - Zeus/Admetos = Uranus
+  - Zeus/Admetos = Venus
+  - Zeus/Admetos = Vernal Point
+  - Zeus/Admetos = Vulcanus
 related_triad_hubs:
   - Asc Zeus Admetos
   - Cupido Zeus Admetos
@@ -56,15 +56,15 @@ aliases:
   - Admetos/Zeus
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Axis: `Zeus/Admetos`
 - Astronomicon axis: `£/¦`
-- Source heading: `Zeus + Admetos`
-- Source page: `293`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
@@ -74,48 +74,44 @@ updated_at: 2026-04-21
 
 First beginning, the act of originating, genesis. All beginning is difficult. To form, to work on, to shape, to form raw materials. Tragedy. Lava, igneous rock. To tackle a problem. Struggling activity. To battle all the way through. Interior of the earth. Raw materials from mines, ore. To process or refining raw materials.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: First beginning, the act of originating, genesis. All beginning is difficult. To form, to work on, to shape, to form raw materials. Tragedy. Lava, igneous rock. To tackle a problem. Struggling activity. To battle all the way through. Interior of the earth. Raw materials from mines, ore. To process or refining raw materials.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+#### ABC Pair Summary
+
+Effort and perseverance, beginning depression, blocked filtration, restricted creativity? Fcuer--dammation, fiery primordial material, creative crunch, black start, underpressured leadership, and resistance to filtration
 
 ## Related Activations
 
-- [Zeus/Admetos = Vernal Point](../activations/zeus-admetos-equals-vernal-point.md)
-- [Zeus/Admetos = MC](../activations/zeus-admetos-equals-mc.md)
+- [Zeus/Admetos = Apollon](../activations/zeus-admetos-equals-apollon.md)
 - [Zeus/Admetos = Asc](../activations/zeus-admetos-equals-asc.md)
-- [Zeus/Admetos = Sun](../activations/zeus-admetos-equals-sun.md)
-- [Zeus/Admetos = Moon](../activations/zeus-admetos-equals-moon.md)
-- [Zeus/Admetos = Node](../activations/zeus-admetos-equals-node.md)
-- [Zeus/Admetos = Mercury](../activations/zeus-admetos-equals-mercury.md)
-- [Zeus/Admetos = Venus](../activations/zeus-admetos-equals-venus.md)
-- [Zeus/Admetos = Mars](../activations/zeus-admetos-equals-mars.md)
-- [Zeus/Admetos = Jupiter](../activations/zeus-admetos-equals-jupiter.md)
-- [Zeus/Admetos = Saturn](../activations/zeus-admetos-equals-saturn.md)
-- [Zeus/Admetos = Uranus](../activations/zeus-admetos-equals-uranus.md)
-- [Zeus/Admetos = Neptune](../activations/zeus-admetos-equals-neptune.md)
-- [Zeus/Admetos = Pluto](../activations/zeus-admetos-equals-pluto.md)
 - [Zeus/Admetos = Cupido](../activations/zeus-admetos-equals-cupido.md)
 - [Zeus/Admetos = Hades](../activations/zeus-admetos-equals-hades.md)
+- [Zeus/Admetos = Jupiter](../activations/zeus-admetos-equals-jupiter.md)
 - [Zeus/Admetos = Kronos](../activations/zeus-admetos-equals-kronos.md)
-- [Zeus/Admetos = Apollon](../activations/zeus-admetos-equals-apollon.md)
-- [Zeus/Admetos = Vulcanus](../activations/zeus-admetos-equals-vulcanus.md)
+- [Zeus/Admetos = Mars](../activations/zeus-admetos-equals-mars.md)
+- [Zeus/Admetos = MC](../activations/zeus-admetos-equals-mc.md)
+- [Zeus/Admetos = Mercury](../activations/zeus-admetos-equals-mercury.md)
+- [Zeus/Admetos = Moon](../activations/zeus-admetos-equals-moon.md)
+- [Zeus/Admetos = Neptune](../activations/zeus-admetos-equals-neptune.md)
+- [Zeus/Admetos = Node](../activations/zeus-admetos-equals-node.md)
+- [Zeus/Admetos = Pluto](../activations/zeus-admetos-equals-pluto.md)
 - [Zeus/Admetos = Poseidon](../activations/zeus-admetos-equals-poseidon.md)
+- [Zeus/Admetos = Saturn](../activations/zeus-admetos-equals-saturn.md)
+- [Zeus/Admetos = Sun](../activations/zeus-admetos-equals-sun.md)
+- [Zeus/Admetos = Uranus](../activations/zeus-admetos-equals-uranus.md)
+- [Zeus/Admetos = Venus](../activations/zeus-admetos-equals-venus.md)
+- [Zeus/Admetos = Vernal Point](../activations/zeus-admetos-equals-vernal-point.md)
+- [Zeus/Admetos = Vulcanus](../activations/zeus-admetos-equals-vulcanus.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- This axis joins directed initiative with dense formative pressure, so beginnings come through struggle, shaping, and hard processing of resistant material rather than easy momentum.
+- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
 
 ## Links
 
 - [Zeus](../factors/zeus.md)
 - [Admetos](../factors/admetos.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

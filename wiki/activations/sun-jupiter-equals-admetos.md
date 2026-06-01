@@ -3,7 +3,7 @@ title: Sun/Jupiter = Admetos
 page_type: activation
 slug: sun-jupiter-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Jupiter
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Jupiter
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Jupiter`
-- Source page: `106`
 #### Witte Entry
 
 Good fortune through or in rest. Termination of luck.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Good fortune through or in rest. Termination of luck.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked money center, depressed financial man, limitation of personal right, success through corporal perseverance, grild legal person, good body circle, personal success restriction, and blocking of personal finances
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Jupiter = Admetos`: good fortune in the house or with property and inheritance.
+- Practical expression: blocked money center, depressed financial man, limitation of personal right, success through corporal perseverance, and good body circle.
 
 ## Links
 
@@ -61,3 +56,5 @@ Good fortune through or in rest. Termination of luck.
 - [Jupiter](../factors/jupiter.md)
 - [Admetos](../factors/admetos.md)
 - [Sun/Jupiter](../axes/sun-jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

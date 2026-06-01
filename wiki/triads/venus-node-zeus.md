@@ -3,7 +3,7 @@ title: Venus Node Zeus
 page_type: triad_hub
 slug: venus-node-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Node Zeus`
 - Astronomicon triad-set: `Q g £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Node/Zeus = Venus](../activations/node-zeus-equals-venus.md)
-  Source page `151`
 - [Venus/Node = Zeus](../activations/venus-node-equals-zeus.md)
-  Source page `142`
 - [Venus/Zeus = Node](../activations/venus-zeus-equals-node.md)
-  Source page `184`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Node/Zeus = Venus`: page `151`
-- `Venus/Node = Zeus`: page `142`
-- `Venus/Zeus = Node`: page `184`
+- `Node/Zeus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `151`
+- `Node/Zeus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `228`
+- `Venus/Node = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `142`
+- `Venus/Node = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `211`
+- `Venus/Zeus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `184`
+- `Venus/Zeus = Node`: Udo Rudolph - ABC for Planetary Pictures, page `286`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Node/Zeus = Venus`: To call forth love. To find sympathy. Congeniality. Natural selection. To meet for some charitable work.
+- `Venus/Node = Zeus`: love union with consequences.
+- `Venus/Zeus = Node`: to join others for harmonious creation.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Node](../factors/node.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

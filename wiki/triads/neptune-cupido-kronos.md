@@ -3,7 +3,7 @@ title: Neptune Cupido Kronos
 page_type: triad_hub
 slug: neptune-cupido-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Neptune Cupido Kronos`
 - Astronomicon triad-set: `Y ¡ ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Kronos = Neptune](../activations/cupido-kronos-equals-neptune.md)
-  Source page `269`
 - [Neptune/Cupido = Kronos](../activations/neptune-cupido-equals-kronos.md)
-  Source page `247`
 - [Neptune/Kronos = Cupido](../activations/neptune-kronos-equals-cupido.md)
-  Source page `250`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Kronos = Neptune`: page `269`
-- `Neptune/Cupido = Kronos`: page `247`
-- `Neptune/Kronos = Cupido`: page `250`
+- `Cupido/Kronos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `269`
+- `Cupido/Kronos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `429`
+- `Neptune/Cupido = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `247`
+- `Neptune/Cupido = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `393`
+- `Neptune/Kronos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `250`
+- `Neptune/Kronos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `399`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Kronos = Neptune`: decline of distinguished families or privileged classes and the breakdown of old culture, habits, and social hierarchy.
+- `Neptune/Cupido = Kronos`: This activation elevates dissolution into the sphere of law and authority, showing families or associations broken apart by official intervention, state power, or leadership conflict.
+- `Neptune/Kronos = Cupido`: This activation moves compromised authority into marriage, association, and secret group life, showing clouded unions, hidden leadership, and communal structures managed through concealment or bad law.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [Cupido](../factors/cupido.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

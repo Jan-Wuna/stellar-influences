@@ -3,7 +3,7 @@ title: Venus/Jupiter = Cupido
 page_type: activation
 slug: venus-jupiter-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Jupiter
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Jupiter
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Jupiter`
-- Source page: `177`
 #### Witte Entry
 
 Love’s happiness in marital life. Much luck and happiness through a union (association) or in the family.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Love’s happiness in marital life. Much luck and happiness through a union (association) or in the family.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Success of a harmonious community, peace success of a community, common love for money, common love for justice, common artificial success, harmonious legal community, and synthesis between money and artist
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Jupiter = Cupido`: love’s happiness in marital life.
+- Practical expression: success of a harmonious community, peace success of a community, common love for money, common love for justice, and common artificial success.
 
 ## Links
 
@@ -61,3 +56,5 @@ Love’s happiness in marital life. Much luck and happiness through a union (ass
 - [Jupiter](../factors/jupiter.md)
 - [Cupido](../factors/cupido.md)
 - [Venus/Jupiter](../axes/venus-jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

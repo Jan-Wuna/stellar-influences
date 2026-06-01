@@ -3,7 +3,7 @@ title: Pluto/Poseidon = Apollon
 page_type: activation
 slug: pluto-poseidon-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Apollon
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Poseidon`
-- Source page: `264`
 #### Witte Entry
 
 To experience a transformation with many other people which is mental and emotional.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To experience a transformation with many other people which is mental and emotional.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Expansion of cultural changes, successful spiritual development, developing spiritual knowledge, development of cultural science, evolutionary knowledge of science, growing spiritual experiences, and increasing truth unfolding
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Poseidon = Apollon`: to experience a transformation with many other people which is mental and emotional.
+- Practical expression: expansion of cultural changes, successful spiritual development, developing spiritual knowledge, development of cultural science, and evolutionary knowledge of science.
 
 ## Links
 
@@ -61,3 +56,5 @@ To experience a transformation with many other people which is mental and emotio
 - [Poseidon](../factors/poseidon.md)
 - [Apollon](../factors/apollon.md)
 - [Pluto/Poseidon](../axes/pluto-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

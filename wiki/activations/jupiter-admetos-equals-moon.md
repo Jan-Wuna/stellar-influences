@@ -3,7 +3,7 @@ title: Jupiter/Admetos = Moon
 page_type: activation
 slug: jupiter-admetos-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Jupiter
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Admetos`
-- Source page: `216`
 #### Witte Entry
 
 Women who feel happy in their seclusion. Happiness through composure and meditation. Small closed circle in the public.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Women who feel happy in their seclusion. Happiness through composure and meditation. Small closed circle in the public.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Relations with fixed funds, blocked legal connections, fixed financial connections, restricted money contacts, successful general contacts, gross money connections, and links to the money cycle
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Admetos = Moon`: emotional ease inside a protected or limited space. It can show quiet public belonging or contentment away from larger crowds.
 
 ## Links
 
@@ -61,3 +55,5 @@ Women who feel happy in their seclusion. Happiness through composure and meditat
 - [Admetos](../factors/admetos.md)
 - [Moon](../factors/moon.md)
 - [Jupiter/Admetos](../axes/jupiter-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Mars Chiron Node`
 - Astronomicon triad-set: `U Chiron g`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Mars/Chiron = Node`: John, page `69`
 - `Mars/Node = Chiron`: John, page `74`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Node = Mars`: connection forged in effort, courage, and sometimes necessary friction. Main caution: glorifying conflict instead of distinguishing healing struggle from needless combat.
+- `Mars/Chiron = Node`: decisive release from stale ties, spiritually guided movement into new connection, and conflict used as a threshold to growth rather than a trap. The caution is mistaking separation alone for healing progress.
+- `Mars/Node = Chiron` helps groups act more effectively by healing conflict and renewing how people assert themselves together.
 
 ## Links
 

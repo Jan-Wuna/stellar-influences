@@ -58,13 +58,14 @@ aliases:
   - Venus/Moon
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -77,17 +78,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Venus`
-- Source page: `123`
-
 #### Pair Summary
 
 The feeling. The love. The loving woman. Hours of love. Pregnancy. Motherhood. Peaceful hour. The love or affection of women. The love of a people. The people’s peace or harmony.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Moon/Venus`
-- Source page: `116`
+#### ABC Pair Summary
+
+Joy of the woman, peaceful people, harmony prison, kiss of a woman, love of the woman, loving woman, lovable woman, hour of harmony, preference for a people, benevolent woman, and folk art
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -111,17 +112,11 @@ Loving women, mothers (also expectant mothers), female artists.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
-- Source heading: `Moon/Venus`
-- Source page: `22`
-
 #### Falis Entry
 
 The responsive female and the active female in harmony or discord. A beautiful re flection. Having a beautiful mother. Experiencing conflict between being a parent and being a sexual person. Getting along with women · or not. Instinct for diplo macy. Naturally cooperative. Naturally graceful. Needing beauty and harmony. In stinct for the arts. Whether or not you feel beautiful. How you feel about feminine beauty. How you feel about your inner female. Emotions reflected through art. Charming. Affectionate. Emotional refinement. Flirtatiousness. Feeling happy when flirting. Emotional har mony. Female rhythms. Creative rhythms. A harmonious family life. A cooperative mother. Creative fulfillment. Feeling happy when you look beautiful. The way you look affects your emotional state. Instinct for creativity. Gentle responses. Creative habits. Artistic habits. Feminine habits. Beauty habits. Flirtatious habits. Emotional seduction. How comfortable you feel with your feminine side. How comfortable you feel with female roles (whether or not you are female). With hard aspects: see ing women as either / or. Viewing women as Madonnas or whores. Feeling com fortable with feminine wiles. Feeling comfortable being flirtatious. Whether or not you are capable of feeling emotionally fulfilled by relationships. Whether you compete with other women. Viewing women as either dowdy, or as temptresses. Homemakers versus sluts. Mom versus the bitch. Having good taste. Taking pleasure in food. Taking pleasure in home life. Taking pleasure in nurturing people. Elegant femininity. Whether you feel elegant or not. Whether you feel you have refinement or not. Your aesthetic sense. Sexual and emotional arousal and the way they are tied together or split apart. Feel ing pretty. Your capacity to feel happy being a woman. Your capacity to feel happy with women. Your capacity to embrace the inner feminine. Sensuousness. Artistic sensitivity. Competing with mom to see who's more attractive. Feeling nourished by beauty. Living in a beautiful home. Wanting to have beautiful furnishing. Want ing to be in a beautiful environment. How you relate to women. How you relate to your mother. How you relate to the feminine. Feeling nourished by romance. Romantic. Needing to be in a relationship. Feeling happier in a relationship. Need ing to be in love. Sociability. Needing to feel attractive. Needing to be loved. Need ing romance. Needing peace. Needing to be fashionable. Feeling cooperative. Sensitive to appearances. Naturally artistic.
 
 ### Charles Carter - The Astrological Aspects
-
-- Source heading: `ASPECTS OF THE MOON & VENUS`
-- Source page: `22`
 
 #### Harmonious Aspects
 
@@ -161,9 +156,6 @@ The characteristic popularity of these aspects does not seem to be diminished wh
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Moon/Venus midpoint`
-- Source page: `27`
-
 #### Principle
 
 Emotions concerning relationships. The desire to nurture the other person in a relationship. One’s relationships are strongly colored by moods. Difficulty in being objective about relationships. Relationships going through cyclic shifts and changes. A love of things which are plan, simple, and/or natural.
@@ -174,17 +166,11 @@ The ability to perceive and enter in to the beauty of the moment and the treasur
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Moon/Venus`
-- Source page: `203`
-
 #### Pair Delineation
 
 Love, feeling happy, the emotional sense of the beautiful. Tender and nurturing love, such as a mother would have for a child. In both sexes this point relates to the experience of the mother, and in males it relates to women in general.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `MOON/VENUS`
-- Source page: `107`
 
 #### Basic Ideas
 
@@ -213,15 +199,6 @@ Female organs; your sensitivity to taste, smell, touch, etc.; glandular balances
 
 - [Michael Munkasey - Moon/Venus Concepts](../derived/munkasey-moon-venus-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Moon/Venus = Admetos](../activations/moon-venus-equals-admetos.md)
@@ -246,20 +223,18 @@ Female organs; your sensitivity to taste, smell, touch, etc.; glandular balances
 - [Moon/Venus = Vulcanus](../activations/moon-venus-equals-vulcanus.md)
 - [Moon/Venus = Zeus](../activations/moon-venus-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Venus` is the axis of affectionate feeling, tenderness, receptivity, nurturance, and the emotional experience of beauty, love, and harmony. It describes how comfort, care, and attraction are felt in the body and in relationship.
+- Chart expression: the need to feel loved, soothed, appreciated, and at home in a pleasing emotional environment. It supports grace, artistic sensitivity, family warmth, and romantic responsiveness, but can also show moodiness, dependency, or relational insecurity when harmony is missing.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Venus](../factors/venus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)

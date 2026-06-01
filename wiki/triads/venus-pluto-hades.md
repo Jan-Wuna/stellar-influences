@@ -3,7 +3,7 @@ title: Venus Pluto Hades
 page_type: triad_hub
 slug: venus-pluto-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Pluto Hades`
 - Astronomicon triad-set: `Q Z ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Pluto/Hades = Venus](../activations/pluto-hades-equals-venus.md)
-  Source page `258`
 - [Venus/Hades = Pluto](../activations/venus-hades-equals-pluto.md)
-  Source page `183`
 - [Venus/Pluto = Hades](../activations/venus-pluto-equals-hades.md)
-  Source page `181`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Pluto/Hades = Venus`: page `258`
-- `Venus/Hades = Pluto`: page `183`
-- `Venus/Pluto = Hades`: page `181`
+- `Pluto/Hades = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `258`
+- `Pluto/Hades = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `410`
+- `Venus/Hades = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `183`
+- `Venus/Hades = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `285`
+- `Venus/Pluto = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `181`
+- `Venus/Pluto = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `281`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Pluto/Hades = Venus`: This activation emphasizes unpleasant changes in affection or relationships; Loss of harmony through deteriorating conditions.
+- `Venus/Hades = Pluto`: p Changes in service relations.
+- `Venus/Pluto = Hades`: a harmonious development which is soon changing into the contrary.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Pluto](../factors/pluto.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

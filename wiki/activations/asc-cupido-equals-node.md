@@ -3,7 +3,7 @@ title: Asc/Cupido = Node
 page_type: activation
 slug: asc-cupido-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - Asc
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Cupido`
-- Source page: `91`
 #### Witte Entry
 
 Acquaintances through family members. To establish sociable connections. Partner in a society or to partake in sociability. Dealing with matters concerning flats and apartments.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Acquaintances through family members. To establish sociable connections. Partner in a society or to partake in sociability. Dealing with matters concerning flats and apartments.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Meetings at places of art, joint partnerships, joint environmental connections, contacts of communities at the place, association with partner communities, association with other communities, and links with local communities
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Cupido = Node`: relationship networks built through family and housing, and to belonging that expands through sociability and shared practical living matters. Main caution: overembeddedness in family channels: connection may depend too much on inherited or socially expected ties.
 
 ## Links
 
@@ -61,3 +55,5 @@ Acquaintances through family members. To establish sociable connections. Partner
 - [Cupido](../factors/cupido.md)
 - [Node](../factors/node.md)
 - [Asc/Cupido](../axes/asc-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

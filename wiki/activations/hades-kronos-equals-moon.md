@@ -3,7 +3,7 @@ title: Hades/Kronos = Moon
 page_type: activation
 slug: hades-kronos-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Hades
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Kronos`
-- Source page: `279`
 #### Witte Entry
 
 Great misfortune for the woman or for the people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great misfortune for the woman or for the people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+A people's reputation in the past, a particularly disadvantaged woman, the deprivation of a great people, the imprisonment of a special woman, the directed crime against a people, a great 13-year old poor, and an hour of special disadvantages
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Kronos = Moon`: the population, the family field, or the emotional body suffering under bad authority. It can show public hardship, mass vulnerability, and collective discouragement caused by corrupt leadership.
 
 ## Links
 
@@ -61,3 +55,5 @@ Great misfortune for the woman or for the people.
 - [Kronos](../factors/kronos.md)
 - [Moon](../factors/moon.md)
 - [Hades/Kronos](../axes/hades-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

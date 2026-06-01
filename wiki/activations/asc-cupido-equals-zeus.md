@@ -3,7 +3,7 @@ title: Asc/Cupido = Zeus
 page_type: activation
 slug: asc-cupido-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - Cupido
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Cupido`
-- Source page: `91`
 #### Witte Entry
 
 Increase in the family. Jointly striving for a goal or objective. New buildings. To gain additional living quarters. Neighborhood.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Increase in the family. Jointly striving for a goal or objective. New buildings. To gain additional living quarters. Neighborhood.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Community of Fiery Partners, driving place, running of a community of places, joint efforts for the environment, creative community of the environment, artistic community, and environmental community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Cupido = Zeus`: expansion of the household, purposeful community effort, and active creation of new residential or group form. Main caution: driven domestic ambition: shared goals can turn the home-and-group field into a project machine rather than a place of rest.
 
 ## Links
 
@@ -61,3 +55,5 @@ Increase in the family. Jointly striving for a goal or objective. New buildings.
 - [Cupido](../factors/cupido.md)
 - [Zeus](../factors/zeus.md)
 - [Asc/Cupido](../axes/asc-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

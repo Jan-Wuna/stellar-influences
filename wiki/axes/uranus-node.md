@@ -58,11 +58,12 @@ aliases:
   - Node/Uranus
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -75,17 +76,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus/Dragon's Head`
-- Source page: `271`
-
 #### Pair Summary
 
 Sudden events. Exciting connections. Sudden union, connections, encounters or contacts. Unconventional connections. Technical connections, e.g. network nodes, electrical or electronic connectors.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Uranus/Dragon's Head`
-- Source page: `271`
+#### ABC Pair Summary
+
+Exciting connection, eventful contacts, excited encounter, new verhimhmg, pimic encounter, reform connection, rhythmic connection, and restless relationship. Connection to technology
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -109,9 +110,6 @@ Restless work associations, a political association advocating reforms, industri
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Uranus/Node midpoint`
-- Source page: `106`
-
 #### Principle
 
 To connect with others freely. Sudden contacts, or sudden changes in one’s connections. The growth of one’s individuality through become more deeply aware of and in tune with one’s own unique nature. To free oneself of the past. The ability to per ceive with ever increasing clarity one’s own individual needs.
@@ -122,17 +120,11 @@ The testing of the limits of one’s connections, and the bringing of greater fr
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Uranus/Nodes`
-- Source page: `211`
-
 #### Pair Delineation
 
 Unusual kinds of connections, connections with unusual people. Unstable or unreliable connections, connections that are formed and broken with equal suddenness.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `URANUS/NODE`
-- Source page: `315`
 
 #### Basic Ideas
 
@@ -161,15 +153,6 @@ Sudden onset of complications due to stress in life; deafness as you close out a
 
 - [Michael Munkasey - Uranus/Node Concepts](../derived/munkasey-uranus-node-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Uranus/Node = Admetos](../activations/uranus-node-equals-admetos.md)
@@ -194,20 +177,18 @@ Sudden onset of complications due to stress in life; deafness as you close out a
 - [Uranus/Node = Vulcanus](../activations/uranus-node-equals-vulcanus.md)
 - [Uranus/Node = Zeus](../activations/uranus-node-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Node` is the axis of unconventional associations, sudden meetings, and collective experience shaped by freedom, change, and instability. It combines originality, disruption, awakening, and surprise with bonds, groups, teamwork, and shared life with others.
+- Chart expression: unusual friends, reformist or technical alliances, rapidly formed contacts, and relationships that function as vehicles for liberation or shock. Liabilities: unreliable ties, nervous quarrels, communal upsets, abrupt separations, and the inability to keep associations steady for long.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Node](../factors/node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)

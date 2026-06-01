@@ -3,7 +3,7 @@ title: Mars/Kronos = Vulcanus
 page_type: activation
 slug: mars-kronos-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Kronos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Kronos`
-- Source page: `200`
 #### Witte Entry
 
 To make one’s self independent through force. The police and the state employ violent measures.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To make one’s self independent through force. The police and the state employ violent measures.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Actions of state power, energetic power of the boss, influential activity of the authorities, violence actions of the state, great labour energy, powerful self doing activity, and self conscious labour power
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Kronos = Vulcanus` arms the axis with brute force and coercive strength.
+- Chart expression: independence won through force, violent measures used by police or the state, and the raw muscular side of executive or governmental power.
 
 ## Links
 
@@ -61,3 +56,5 @@ To make one’s self independent through force. The police and the state employ 
 - [Kronos](../factors/kronos.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Mars/Kronos](../axes/mars-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

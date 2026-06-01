@@ -3,10 +3,10 @@ title: Venus/Node = Zeus
 page_type: activation
 slug: venus-node-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Venus
+  - Node
   - Zeus
 normalized_formula: Venus/Node = Zeus
 axis: Venus/Node
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Node
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Venus`
-- Source page: `142`
 #### Witte Entry
 
 Love union with consequences. Pleasant creative connections.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Love union with consequences. Pleasant creative connections.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Beginning of a love connection, fiery love connection, shaping peace contacts, harmony strikes in one connection, harmonious relations to the movement, creative connections to the artificial, and procreation in a Lie bes Y binding
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Node = Zeus`: love union with consequences.
+- Practical expression: beginning of a love connection, fiery love connection, shaping peace contacts, harmony strikes in one connection, and harmonious relations to the movement.
 
 ## Links
 
@@ -61,3 +56,5 @@ Love union with consequences. Pleasant creative connections.
 - [Node](../factors/node.md)
 - [Zeus](../factors/zeus.md)
 - [Venus/Node](../axes/venus-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

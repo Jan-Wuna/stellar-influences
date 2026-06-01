@@ -3,7 +3,7 @@ title: Saturn/Admetos = Neptune
 page_type: activation
 slug: saturn-admetos-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Neptune
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Admetos`
-- Source page: `229`
 #### Witte Entry
 
 A sickness of long duration. Chronic hindrance, compelled to go through a long and narrow pass.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A sickness of long duration. Chronic hindrance, compelled to go through a long and narrow pass.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Pressure from circulation: Weakness, limitation and uncertainty in old age, gcduldigc's clinging to metaphysics, Prohlem V seal for water and air, and weakness due to deprnssion prohlcmc
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Admetos = Neptune`: a sickness of long duration, chronic hindrance, compelled to go through a long and narrow pass.
+- Practical expression: pressure from circulation: Weakness, limitation, uncertainty in old age, gcduldigc's clinging to metaphysics, and prohlem V seal for water.
 
 ## Links
 
@@ -61,3 +56,5 @@ A sickness of long duration. Chronic hindrance, compelled to go through a long a
 - [Admetos](../factors/admetos.md)
 - [Neptune](../factors/neptune.md)
 - [Saturn/Admetos](../axes/saturn-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

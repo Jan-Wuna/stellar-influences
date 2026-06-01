@@ -3,10 +3,10 @@ title: Venus/Node = Cupido
 page_type: activation
 slug: venus-node-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Venus
+  - Node
   - Cupido
 normalized_formula: Venus/Node = Cupido
 axis: Venus/Node
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Node
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Venus`
-- Source page: `142`
 #### Witte Entry
 
 A love tie that leads to marriage. To enjoy being socially together.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A love tie that leads to marriage. To enjoy being socially together.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Community policy, economic and social cohesion, economic and monetary union, and economic union
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Node = Cupido`: a love tie that leads to marriage.
+- Practical expression: community policy, economic, social cohesion, monetary union, and economic union.
 
 ## Links
 
@@ -61,3 +56,5 @@ A love tie that leads to marriage. To enjoy being socially together.
 - [Node](../factors/node.md)
 - [Cupido](../factors/cupido.md)
 - [Venus/Node](../axes/venus-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

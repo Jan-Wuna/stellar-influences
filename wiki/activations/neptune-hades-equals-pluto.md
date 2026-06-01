@@ -3,7 +3,7 @@ title: Neptune/Hades = Pluto
 page_type: activation
 slug: neptune-hades-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Pluto
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Hades`
-- Source page: `248`
 #### Witte Entry
 
 Mistakes that are detected too late. The beginning of decay or rotting.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mistakes that are detected too late. The beginning of decay or rotting.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Develop fine tuning through deprivation, dangerous water alteration, develop the future from the past, and change through water deficiency
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Hades = Pluto`: Mistakes that are detected too late. The beginning of decay or rotting.
+- Practical focus: exposes the beginning of rot and the consequences of errors noticed too late, showing decay crossing the threshold from concealed weakness into irreversible transformation.
+- Practical expression: develop fine tuning through deprivation, dangerous water alteration, develop the future from the past, and change through water deficiency.
 
 ## Links
 
@@ -61,3 +57,5 @@ Mistakes that are detected too late. The beginning of decay or rotting.
 - [Hades](../factors/hades.md)
 - [Pluto](../factors/pluto.md)
 - [Neptune/Hades](../axes/neptune-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

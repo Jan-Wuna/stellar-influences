@@ -3,7 +3,7 @@ title: Neptune MC Cupido
 page_type: triad_hub
 slug: neptune-mc-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Neptune MC Cupido`
 - Astronomicon triad-set: `Y MC ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Cupido = Neptune](../activations/mc-cupido-equals-neptune.md)
-  Source page `70`
 - [Neptune/Cupido = MC](../activations/neptune-cupido-equals-mc.md)
-  Source page `247`
 - [Neptune/MC = Cupido](../activations/neptune-mc-equals-cupido.md)
-  Source page `68`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Cupido = Neptune`: page `70`
-- `Neptune/Cupido = MC`: page `247`
-- `Neptune/MC = Cupido`: page `68`
+- `MC/Cupido = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `70`
+- `MC/Cupido = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `85`
+- `Neptune/Cupido = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `247`
+- `Neptune/Cupido = MC`: Udo Rudolph - ABC for Planetary Pictures, page `392`
+- `Neptune/MC = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `68`
+- `Neptune/MC = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `81`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Cupido = Neptune`: dissolves the axis through deception, organizational weakening, and artistic uncertainty.
+- `Neptune/Cupido = MC`: This activation internalizes the breaking of union as grief and identity-level sorrow, marking participation in the ending of marriage, family cohesion, or shared belonging.
+- `Neptune/MC = Cupido`: This activation communalizes uncertainty through shared false pretenses, dubious unions, and artistic or social fraud, showing collaboration that follows illusion into deception.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [MC](../factors/mc.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Venus/Kronos = Zeus
 page_type: activation
 slug: venus-kronos-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Zeus
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Kronos`
-- Source page: `185`
 #### Witte Entry
 
 Creation of institutions of public utility and charitable character. The Red Cross.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Creation of institutions of public utility and charitable character. The Red Cross.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Start of a great love, special love witness, dominating arts performances, peaceful state feet, great peace efforts, self andige arts direction, state services for the arts, Tibetan harmony design, and preference for great achievements
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Kronos = Zeus`: creation of institutions of public utility and charitable character.
+- Practical expression: start of a great love, special love witness, dominating arts performances, peaceful state feet, and great peace efforts.
 
 ## Links
 
@@ -61,3 +56,5 @@ Creation of institutions of public utility and charitable character. The Red Cro
 - [Kronos](../factors/kronos.md)
 - [Zeus](../factors/zeus.md)
 - [Venus/Kronos](../axes/venus-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

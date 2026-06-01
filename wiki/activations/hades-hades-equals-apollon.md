@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Hades + Hades`
-- Source page: `276`
 #### Witte Entry
 
 Lack of experience. Widespread poverty. Mass misery. Garbage and junk dealers. Trade with old objects. Science of the past. Knowledge of history. Occult science. Secret science. Magic. Great meanness, great vileness. Many in need.
 
-## Comparative Schema
-
-- core meaning: Lack of experience. Widespread poverty. Mass misery. Garbage and junk dealers. Trade with old objects. Science of the past. Knowledge of history. Occult science. Secret science. Magic. Great meanness, great vileness. Many in need.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Hades = Apollon`: degradation operating socially, commercially, or intellectually at scale. It can show many people in need, systems built around refuse or scarcity, and scholarship that turns toward antiquity, hidden doctrine, or what society throws away.
 
 ## Links
 

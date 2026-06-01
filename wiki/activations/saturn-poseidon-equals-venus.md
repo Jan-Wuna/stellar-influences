@@ -3,7 +3,7 @@ title: Saturn/Poseidon = Venus
 page_type: activation
 slug: saturn-poseidon-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Saturn
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Poseidon`
-- Source page: `231`
 #### Witte Entry
 
 Harmony between teacher and student. Most favored teacher or student. Pleasant occurrences in the field of educational matters.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Harmony between teacher and student. Most favored teacher or student. Pleasant occurrences in the field of educational matters.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Tasks in the arts and culture, patience and reason in love, spiritual maturity through the arts, urban cultural peace, clarity through concentration on harmony, problems with truth in love, and preference for cultural tasks
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Poseidon = Venus`: harmony between teacher and student, most favored teacher or student.
+- Practical expression: tasks in the arts, culture, patience, reason in love, and spiritual maturity through the arts.
 
 ## Links
 
@@ -61,3 +56,5 @@ Harmony between teacher and student. Most favored teacher or student. Pleasant o
 - [Poseidon](../factors/poseidon.md)
 - [Venus](../factors/venus.md)
 - [Saturn/Poseidon](../axes/saturn-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

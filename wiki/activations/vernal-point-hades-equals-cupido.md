@@ -3,7 +3,7 @@ title: Vernal Point/Hades = Cupido
 page_type: activation
 slug: vernal-point-hades-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Cupido
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Hades`
-- Source page: `49`
 #### Witte Entry
 
 Miserable marriage conditions. Historical art in the general public. General lowbrow art.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Miserable marriage conditions. Historical art in the general public. General lowbrow art.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Danger to the whole in the public, in the private community, in the past in the public sphere, in the traditional community in the public sphere, and in the private sphere hidden from the public sphere
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Hades = Cupido`: miserable marriage conditions, historical art in the general public, and general lowbrow art.
+- Practical expression: danger to the whole in the public, in the private community, in the past in the public sphere, in the traditional community in the public sphere, and in the private sphere hidden from the public sphere.
 
 ## Links
 
@@ -61,3 +56,5 @@ Miserable marriage conditions. Historical art in the general public. General low
 - [Hades](../factors/hades.md)
 - [Cupido](../factors/cupido.md)
 - [Vernal Point/Hades](../axes/vernal-point-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Sun/Moon = Zeus
 page_type: activation
 slug: sun-moon-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Moon
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Moon
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Moon`
-- Source page: `101`
 #### Witte Entry
 
 Days and hours in which a lot is accomplished. The daily urge for productive activity.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Days and hours in which a lot is accomplished. The daily urge for productive activity.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Efforts between woman and man, fire at day in hour, fiery feelings of man, creative people of a people, creative gesture of man, day and hour of procreation, procreation between woman and man, and determined wife of man
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Moon = Zeus`: creative vitality and a strong drive to act.
+- Practical expression: efforts between woman, fire at day in hour, fiery feelings of man, creative people of a people, and creative gesture of man.
 
 ## Links
 
@@ -61,3 +56,5 @@ Days and hours in which a lot is accomplished. The daily urge for productive act
 - [Moon](../factors/moon.md)
 - [Zeus](../factors/zeus.md)
 - [Sun/Moon](../axes/sun-moon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

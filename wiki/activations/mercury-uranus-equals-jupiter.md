@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Uranus`
-- Source page: `163`
 #### Witte Entry
 
 Orator, quick at repartee. Sudden merriment. Lucky news.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Mercury/Uranus`
-- Source page: `158`
-- Entry: `0511`
+#### ABC Entry
+
+Exciting youth right, successful youth reform, success impulses for youth, successful technical language, joy in rhythmic movements, technical successReports, and unrest through language about money
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Fortunate ideas, the gift of repartee, optimism and confidence, a good general v
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mercury/Uranus midpoint`
-- Source page: `47`
-- Activator: `Jupiter`
-
 #### Sandbach Entry
 
 Success through independent thinking. Generosity expressed as freely sharing one’s ideas with others. A willingness to always be open to new ideas.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Increased need for freedom and demands to be independent; a sharp mind which sees and judges the legal implications of all events quickly and precisely; added quickness to grasp the potential of new technology.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Uranus = Jupiter`: inspired teaching, progressive thinking, and the ability to connect innovation with larger meaning. Main caution: inflated theory: insight can become erratic, scattered, or too certain of ideas not yet grounded.
 
 ## Links
 
@@ -84,7 +76,8 @@ Success through independent thinking. Generosity expressed as freely sharing one
 - [Uranus](../factors/uranus.md)
 - [Jupiter](../factors/jupiter.md)
 - [Mercury/Uranus](../axes/mercury-uranus.md)
-- [Mercury Jupiter Uranus](../triads/mercury-jupiter-uranus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

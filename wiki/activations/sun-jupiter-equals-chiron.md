@@ -33,30 +33,14 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Sun/Jupiter midpoint`
-- Source page: `12`
-- Activator: `Chiron`
-
 #### Sandbach Entry
 
 Through exposure to your energy people automatically feel more selfconfi dence. You also have the effect of spiritualizing their ego, to the extent that they are ready for this. You can emanate a sense of life being meaningful and success being evitable, which can have a healing effect on others. The ability to heal those people who project egotism that is actually a cover-up for inner lack of self-confidence.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Jupiter = Chiron`: understanding personal growth as a healing process and finding spiritual meaning in expansion, faith, and optimism.
 
 ## Links
 

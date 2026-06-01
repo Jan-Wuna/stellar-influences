@@ -3,7 +3,7 @@ title: Vernal Point/Kronos = Moon
 page_type: activation
 slug: vernal-point-kronos-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Moon
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Kronos`
-- Source page: `51`
 #### Witte Entry
 
 Independent women. Top officials. Authorities in general. The administrative body. Female manager of a large establishment.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Independent women. Top officials. Authorities in general. The administrative body. Female manager of a large establishment.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Authoritat of the people in public, dominant woman in public, felicitous authoritat in public life, hierarchic of a people in public, public independence of women, and priority of women in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Kronos = Moon`: independent women, top officials, authorities in general, the administrative body, and female manager of a large establishment.
+- Practical expression: dominant woman in public, and public independence of women.
 
 ## Links
 
@@ -61,3 +56,5 @@ Independent women. Top officials. Authorities in general. The administrative bod
 - [Kronos](../factors/kronos.md)
 - [Moon](../factors/moon.md)
 - [Vernal Point/Kronos](../axes/vernal-point-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

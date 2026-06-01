@@ -3,7 +3,7 @@ title: Uranus Admetos Vulcanus
 page_type: triad_hub
 slug: uranus-admetos-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Admetos
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Admetos Vulcanus`
 - Astronomicon triad-set: `X ¦ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Admetos/Vulcanus = Uranus](../activations/admetos-vulcanus-equals-uranus.md)
-  Source page `311`
 - [Uranus/Admetos = Vulcanus](../activations/uranus-admetos-equals-vulcanus.md)
-  Source page `241`
 - [Uranus/Vulcanus = Admetos](../activations/uranus-vulcanus-equals-admetos.md)
-  Source page `242`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Admetos/Vulcanus = Uranus`: page `311`
-- `Uranus/Admetos = Vulcanus`: page `241`
-- `Uranus/Vulcanus = Admetos`: page `242`
+- `Admetos/Vulcanus = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `311`
+- `Admetos/Vulcanus = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `475`
+- `Uranus/Admetos = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `241`
+- `Uranus/Admetos = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `385`
+- `Uranus/Vulcanus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `242`
+- `Uranus/Vulcanus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `387`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Admetos/Vulcanus = Uranus`: an unexpected hopeless struggle with obstacles that prove fateful and hard to reverse.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Admetos](../factors/admetos.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Venus/Hades = Vernal Point
 page_type: activation
 slug: venus-hades-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Venus
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Hades`
-- Source page: `183`
 #### Witte Entry
 
 General service relations. Servitude in general. Prostitution in general.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: General service relations. Servitude in general. Prostitution in general.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+old art in public, danger to peace for the public, danger for the public through love, lack of harmony in public, public service of love, and hidden beauty in public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Hades = Vernal Point`: general service relations.
+- Practical expression: old art in public, danger to peace for the public, danger for the public through love, lack of harmony in public, and public service of love.
 
 ## Links
 
@@ -61,3 +56,5 @@ General service relations. Servitude in general. Prostitution in general.
 - [Hades](../factors/hades.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Venus/Hades](../axes/venus-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

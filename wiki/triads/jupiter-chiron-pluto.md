@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Jupiter Chiron Pluto`
 - Astronomicon triad-set: `V Chiron Z`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Jupiter/Chiron = Pluto`: John, page `79`
 - `Jupiter/Pluto = Chiron`: John, page `82`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Pluto = Jupiter`: healing through intensified expansion, to zeal that can transmute being, and to evolutionary growth accelerated by strong conviction. Main caution: inflation, spiritual grandiosity, or mistaking excess for depth.
+- `Jupiter/Chiron = Pluto`: the healing field becoming transformative and demanding. It can show deep breakthrough arriving through stress, intensity, or inner pressure.
+- `Jupiter/Pluto = Chiron`: power and growth becoming therapeutically catalytic. It favors helping others move through compulsion, awaken deeper purpose, and transform crisis into meaningful development.
 
 ## Links
 

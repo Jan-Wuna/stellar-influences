@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Apollon + Apollon`
-- Source page: `305`
 #### Witte Entry
 
 Strongest success. Great prosperity. Wealth. Mighty spreading out expansion. Great experience. The science of power. Trading in energy.
 
-## Comparative Schema
-
-- core meaning: Strongest success. Great prosperity. Wealth. Mighty spreading out expansion. Great experience. The science of power. Trading in energy.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Apollon = Vulcanus`: great wealth, force-backed success, and the ability to enlarge through concentrated strength. Main caution: oversized power: expansion may become domineering, energy-intensive, or so forceful that scale turns overwhelming rather than balanced.
 
 ## Links
 

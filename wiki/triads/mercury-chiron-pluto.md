@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Mercury Chiron Pluto`
 - Astronomicon triad-set: `T Chiron Z`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Mercury/Chiron = Pluto`: John, page `46`
 - `Mercury/Pluto = Chiron`: John, page `50`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Pluto = Mercury`: intense thought as a path of healing, breakthrough insight, and words shaped by transformative concentration. Main caution: compulsive thinking, fixation, or mistaking obsession for revelation.
+- `Mercury/Chiron = Pluto` intensifies the axis into a deep need to repair every break in understanding.
+- `Mercury/Pluto = Chiron`: To help others to overcome ideas and thinking that are oppressing them, and to transform their thinking. To build new channels and ways of thinking and communication. To foster a deep connectedness.
 
 ## Links
 

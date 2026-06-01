@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Kronos + Kronos`
-- Source page: `297`
 #### Witte Entry
 
 To act independently. Autocratic actions. Main formula for the great leader and organizer. Master of the house. Police. Power of the state. Procedure indicated by power of government. Police authority. Penal law. Work in areas that go beyond the ordinary.
 
-## Comparative Schema
-
-- core meaning: To act independently. Autocratic actions. Main formula for the great leader and organizer. Master of the house. Police. Power of the state. Procedure indicated by power of government. Police authority. Penal law. Work in areas that go beyond the ordinary.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Kronos = Mars`: autocratic action, leadership, police power, penal authority, and energetic organization operating beyond ordinary limits.
+- Chart expression: strong execution and command presence, but it can also become overbearing, coercive, or punitive.
 
 ## Links
 

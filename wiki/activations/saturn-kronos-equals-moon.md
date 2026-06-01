@@ -3,7 +3,7 @@ title: Saturn/Kronos = Moon
 page_type: activation
 slug: saturn-kronos-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Saturn
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Kronos`
-- Source page: `227`
 #### Witte Entry
 
 Depressed by losses. Psychic depression through the hindrances of authority. Impoverished independent woman or wife of an impoverished independent man. Nation or people oppressed and hindered through the authorities.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Depressed by losses. Psychic depression through the hindrances of authority. Impoverished independent woman or wife of an impoverished independent man. Nation or people oppressed and hindered through the authorities.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+A woman's loss of reputation, tasks of the authority of a people, especially patient people, great pain of a woman, concentration on a special people, loss of the independence of a people, and important gifts of women
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Kronos = Moon`: depressed by losses, psychic depression through the hindrances of authority.
+- Practical expression: a woman's loss of reputation, tasks of the authority of a people, especially patient people, great pain of a woman, and concentration on a special people.
 
 ## Links
 
@@ -61,3 +56,5 @@ Depressed by losses. Psychic depression through the hindrances of authority. Imp
 - [Kronos](../factors/kronos.md)
 - [Moon](../factors/moon.md)
 - [Saturn/Kronos](../axes/saturn-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

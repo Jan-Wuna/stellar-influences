@@ -3,7 +3,7 @@ title: MC Hades Admetos
 page_type: triad_hub
 slug: mc-hades-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `MC Hades Admetos`
 - Astronomicon triad-set: `MC ¢ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Admetos = MC](../activations/hades-admetos-equals-mc.md)
-  Source page `282`
 - [MC/Admetos = Hades](../activations/mc-admetos-equals-hades.md)
-  Source page `75`
 - [MC/Hades = Admetos](../activations/mc-hades-equals-admetos.md)
-  Source page `71`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Admetos = MC`: page `282`
-- `MC/Admetos = Hades`: page `75`
-- `MC/Hades = Admetos`: page `71`
+- `Hades/Admetos = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `282`
+- `Hades/Admetos = MC`: Udo Rudolph - ABC for Planetary Pictures, page `444`
+- `MC/Admetos = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `75`
+- `MC/Admetos = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `95`
+- `MC/Hades = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `71`
+- `MC/Hades = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `87`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Admetos = MC`: coldness, emotional inaccessibility, lifelong loneliness, and living in scant or meager circumstances.
+- `MC/Admetos = Hades`: lowers the axis into poverty, misfortune, and numb endurance of difficult conditions.
+- `MC/Hades = Admetos`: compresses the axis into deprivation of life's bare necessities.
 
 ## Links
 
 - [MC](../factors/mc.md)
 - [Hades](../factors/hades.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

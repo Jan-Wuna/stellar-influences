@@ -3,7 +3,7 @@ title: Asc/Kronos = Mercury
 page_type: activation
 slug: asc-kronos-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Asc
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Kronos`
-- Source page: `94`
 #### Witte Entry
 
 Orders by superiors. To carry out orders. To direct one’s thoughts according to others. To have no right to an opinion of one’s own. Language courses. Arbitrated decision.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Orders by superiors. To carry out orders. To direct one’s thoughts according to others. To have no right to an opinion of one’s own. Language courses. Arbitrated decision.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Other Ienken language, prestigious media place, large environment for the youth, large traffic place, youth of other states, self aware youth at the place, self aware language partner, traffic steering at the place, important local news, and important language place
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Kronos = Mercury`: official communications, arbitrated decisions, and thought shaped by hierarchy rather than free judgment. Main caution: borrowed mind: obedience can replace independent thinking and personal voice.
 
 ## Links
 
@@ -61,3 +55,5 @@ Orders by superiors. To carry out orders. To direct one’s thoughts according t
 - [Kronos](../factors/kronos.md)
 - [Mercury](../factors/mercury.md)
 - [Asc/Kronos](../axes/asc-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

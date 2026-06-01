@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Asc + Asc`
-- Source page: `79`
 #### Witte Entry
 
 Settled. Stationary. Others are pushed in the background or feel inferior. Others retire or withdraw. Other people with a conservative personality. Others are narrow minded or constrain us. Stationary at one place. Narrow or limited surroundings. Few acquaintances.
 
-## Comparative Schema
-
-- core meaning: Settled. Stationary. Others are pushed in the background or feel inferior. Others retire or withdraw. Other people with a conservative personality. Others are narrow minded or constrain us. Stationary at one place. Narrow or limited surroundings. Few acquaintances.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Asc = Admetos`: rootedness, limited social range, and a near field that becomes fixed, narrow, or heavy. Main caution: stagnant enclosure: immediate life can harden into constriction, social thinning, and immobility.
 
 ## Links
 

@@ -3,7 +3,7 @@ title: Neptune/Hades = Zeus
 page_type: activation
 slug: neptune-hades-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Hades
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Hades`
-- Source page: `248`
 #### Witte Entry
 
 To drown oneself. Wasted energies or efforts. Deeds or acts of the past are of great hindrance for the future. Catastrophe for the navy. Burned by steam.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To drown oneself. Wasted energies or efforts. Deeds or acts of the past are of great hindrance for the future. Catastrophe for the navy. Burned by steam.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Efforts against air pollution, exchange fire damage, dangerous targets in the water, dangerous weaknesses from the past, criminal efforts on the water, producing dirty water, and shaping the future from the past
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Hades = Zeus`: To drown oneself. Wasted energies or efforts. Deeds or acts of the past are of great hindrance for the future. Catastrophe for the navy. Burned by steam.
+- Practical focus: hidden decline is directed into wasted effort, destructive aftermath, and future-hindering consequences, where the unresolved past burns through action, machinery, or catastrophe.
+- Practical expression: efforts against air pollution, exchange fire damage, dangerous targets in the water, dangerous weaknesses from the past, and criminal efforts on the water.
 
 ## Links
 
@@ -61,3 +57,5 @@ To drown oneself. Wasted energies or efforts. Deeds or acts of the past are of g
 - [Hades](../factors/hades.md)
 - [Zeus](../factors/zeus.md)
 - [Neptune/Hades](../axes/neptune-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

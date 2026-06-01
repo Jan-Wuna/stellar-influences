@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Jupiter + Jupiter`
-- Source page: `205`
 #### Witte Entry
 
 Happiness of female persons. Contented woman or nation. Luck in public life. National justice and jurisdiction.
 
-## Comparative Schema
-
-- core meaning: Happiness of female persons. Contented woman or nation. Luck in public life. National justice and jurisdiction.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Jupiter = Node`: prosperity becoming communal and civic. It favors public goodwill, contented collective life, and fortunate outcomes in social or national affairs.
 
 ## Links
 

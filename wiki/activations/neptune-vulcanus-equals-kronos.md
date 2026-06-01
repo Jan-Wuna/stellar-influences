@@ -3,7 +3,7 @@ title: Neptune/Vulcanus = Kronos
 page_type: activation
 slug: neptune-vulcanus-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Kronos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Vulcanus`
-- Source page: `253`
 #### Witte Entry
 
 The authorities fail in their leadership. Powerlessness of the boss or the government. The authorities are unable to carry on.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The authorities fail in their leadership. Powerlessness of the boss or the government. The authorities are unable to carry on.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+special subtle energy, great influence of the water, dissolutions of power in the state, powerful uncertainty in the state, weak state power, state air power, unknown influence of the hierarchy, and important influence of metaphysics
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Vulcanus = Kronos`: The authorities fail in their leadership. Powerlessness of the boss or the government. The authorities are unable to carry on.
+- A power structure or authority is portrayed as losing effective command, with weakness, failure of leadership, or governmental incapacity brought to the surface.
+- Practical expression: special subtle energy, great influence of the water, dissolutions of power in the state, powerful uncertainty in the state, and weak state power.
 
 ## Links
 
@@ -61,3 +57,5 @@ The authorities fail in their leadership. Powerlessness of the boss or the gover
 - [Vulcanus](../factors/vulcanus.md)
 - [Kronos](../factors/kronos.md)
 - [Neptune/Vulcanus](../axes/neptune-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

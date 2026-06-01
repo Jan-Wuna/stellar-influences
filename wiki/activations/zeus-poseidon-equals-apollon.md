@@ -3,7 +3,7 @@ title: Zeus/Poseidon = Apollon
 page_type: activation
 slug: zeus-poseidon-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Zeus
   - Apollon
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Poseidon`
-- Source page: `296`
 #### Witte Entry
 
 To be a leader for many, especially for coworkers. Creative accomplishment in science and commerce.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be a leader for many, especially for coworkers. Creative accomplishment in science and commerce.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Efforts of the mind science, beginning of spiritual experiences, successful spiritual filtration, successful cultural science, intellectual goals of science, clear trade goals, creative knowledge of the mind, and increasing reason efforts
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Poseidon = Apollon`: To be a leader for many, especially for coworkers. Creative accomplishment in science and commerce.
+- Practical expression: efforts of the mind science, beginning of spiritual experiences, successful spiritual filtration, successful cultural science, and intellectual goals of science.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be a leader for many, especially for coworkers. Creative accomplishment in sc
 - [Poseidon](../factors/poseidon.md)
 - [Apollon](../factors/apollon.md)
 - [Zeus/Poseidon](../axes/zeus-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

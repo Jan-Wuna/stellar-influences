@@ -3,7 +3,7 @@ title: Uranus/Kronos = Apollon
 page_type: activation
 slug: uranus-kronos-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Kronos
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Kronos`
-- Source page: `239`
 #### Witte Entry
 
 Sudden expansion of a power. Decrees of the government on astrology and future sciences.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sudden expansion of a power. Decrees of the government on astrology and future sciences.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Extension of unrest in the state, special surprises for science, successful emancipation of authoritat, great expansion of technology, new reputation of science, reforrn experiences of the state, and important knowledge emergence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Kronos = Apollon`: Sudden expansion of a power. Decrees of the government on astrology and future sciences.
+- Practical expression: extension of unrest in the state, special surprises for science, great expansion of technology, and new reputation of science.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sudden expansion of a power. Decrees of the government on astrology and future s
 - [Kronos](../factors/kronos.md)
 - [Apollon](../factors/apollon.md)
 - [Uranus/Kronos](../axes/uranus-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

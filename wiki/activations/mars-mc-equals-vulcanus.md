@@ -3,10 +3,10 @@ title: Mars/MC = Vulcanus
 page_type: activation
 slug: mars-mc-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Mars
+  - MC
   - Vulcanus
 normalized_formula: Mars/MC = Vulcanus
 axis: Mars/MC
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - MC
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Mars`
-- Source page: `64`
 #### Witte Entry
 
 Energetic. A mighty willpower. Personal usage of force.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Energetic. A mighty willpower. Personal usage of force.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influence of a psychic treatment, my action influence, my work power, my violence activity, my will to power, my strong will, my will influence, powerful psychic action power, my powerful actions, and strong soul impulses
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/MC = Vulcanus` intensifies vocational action into personal force, energetic dominance, and mighty will.
+- Chart expression: strong-willed effort, forceful professional conduct, and the direct use of power to push matters through in public or career life.
 
 ## Links
 
@@ -61,3 +56,5 @@ Energetic. A mighty willpower. Personal usage of force.
 - [MC](../factors/mc.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Mars/MC](../axes/mars-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

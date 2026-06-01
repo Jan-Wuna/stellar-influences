@@ -3,7 +3,7 @@ title: Vernal Point Mercury Vulcanus
 page_type: triad_hub
 slug: vernal-point-mercury-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Mercury
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Mercury Vulcanus`
 - Astronomicon triad-set: `VP T §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Vulcanus = Vernal Point](../activations/mercury-vulcanus-equals-vernal-point.md)
-  Source page `172`
 - [Vernal Point/Mercury = Vulcanus](../activations/vernal-point-mercury-equals-vulcanus.md)
-  Source page `40`
 - [Vernal Point/Vulcanus = Mercury](../activations/vernal-point-vulcanus-equals-mercury.md)
-  Source page `54`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Vulcanus = Vernal Point`: page `172`
-- `Vernal Point/Mercury = Vulcanus`: page `40`
-- `Vernal Point/Vulcanus = Mercury`: page `54`
+- `Mercury/Vulcanus = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `172`
+- `Mercury/Vulcanus = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `266`
+- `Vernal Point/Mercury = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `40`
+- `Vernal Point/Mercury = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `29`
+- `Vernal Point/Vulcanus = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `54`
+- `Vernal Point/Vulcanus = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `56`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Vulcanus = Vernal Point`: Great thinking faculty of the general public. Generality under the impact of a mighty idea, of significant news.
+- `Vernal Point/Mercury = Vulcanus`: This formula emphasizes powerful thoughts, to drive moving forces, impulse, great speed, and motors.
+- `Vernal Point/Vulcanus = Mercury`: This formula emphasizes to have an influence through thinking, writing or speaking, power of thinking, power of language, and buoyancy.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Mercury](../factors/mercury.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

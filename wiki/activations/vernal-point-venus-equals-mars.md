@@ -3,7 +3,7 @@ title: Vernal Point/Venus = Mars
 page_type: activation
 slug: vernal-point-venus-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Venus
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Venus
   - Mars
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Venus`
-- Source page: `41`
 #### Witte Entry
 
 Mating time. Love in general. Relatives on the side of the mother.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mating time. Love in general. Relatives on the side of the mother.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Work peace in public Life, joy in public Work, creating peace in public, harmonious actions in public Life, artistic activity for the public, and preference for public Work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Venus = Mars`: mating time, love in general, and relatives on the side of the mother.
+- Practical expression: work peace in public Life, oy in public Work, creating peace in public, harmonious actions in public Life, and artistic activity for the public.
 
 ## Links
 
@@ -61,3 +56,5 @@ Mating time. Love in general. Relatives on the side of the mother.
 - [Venus](../factors/venus.md)
 - [Mars](../factors/mars.md)
 - [Vernal Point/Venus](../axes/vernal-point-venus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

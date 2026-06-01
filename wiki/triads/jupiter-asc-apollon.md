@@ -3,7 +3,7 @@ title: Jupiter Asc Apollon
 page_type: triad_hub
 slug: jupiter-asc-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Asc Apollon`
 - Astronomicon triad-set: `V Asc ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Apollon = Jupiter](../activations/asc-apollon-equals-jupiter.md)
-  Source page `95`
 - [Jupiter/Apollon = Asc](../activations/jupiter-apollon-equals-asc.md)
-  Source page `215`
 - [Jupiter/Asc = Apollon](../activations/jupiter-asc-equals-apollon.md)
-  Source page `86`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Apollon = Jupiter`: page `95`
-- `Jupiter/Apollon = Asc`: page `215`
-- `Jupiter/Asc = Apollon`: page `86`
+- `Asc/Apollon = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `95`
+- `Asc/Apollon = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `130`
+- `Jupiter/Apollon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `215`
+- `Jupiter/Apollon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `340`
+- `Jupiter/Asc = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `86`
+- `Jupiter/Asc = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `113`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Apollon = Jupiter`: good business luck, solvent customers, and helpful connection with capable or fortunate people.
+- `Jupiter/Apollon = Asc`: being tied to others through science, commerce, or beneficial exchange.
+- `Jupiter/Asc = Apollon`: being fortunate with many and forming good relations with businesspeople or scientific-minded people.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Asc](../factors/asc.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

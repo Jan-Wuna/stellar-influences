@@ -3,7 +3,7 @@ title: Pluto/Vulcanus = Moon
 page_type: activation
 slug: pluto-vulcanus-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Pluto
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Vulcanus`
-- Source page: `263`
 #### Witte Entry
 
 A people changes its entity. Great changes in the general public conditions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A people changes its entity. Great changes in the general public conditions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influence developing women, evolution of a strong people, development of flow force, powerY changes in people, growing violence against women, growing influence of women, growing influence of feelings, and changing forces of flow
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Vulcanus = Moon`: a people changes its entity; Great changes in the general public conditions.
+- Practical expression: influence developing women, evolution of a strong people, development of flow force, powerY changes in people, and growing violence against women.
 
 ## Links
 
@@ -61,3 +56,5 @@ A people changes its entity. Great changes in the general public conditions.
 - [Vulcanus](../factors/vulcanus.md)
 - [Moon](../factors/moon.md)
 - [Pluto/Vulcanus](../axes/pluto-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

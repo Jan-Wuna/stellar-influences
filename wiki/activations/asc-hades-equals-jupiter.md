@@ -3,7 +3,7 @@ title: Asc/Hades = Jupiter
 page_type: activation
 slug: asc-hades-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Asc
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Hades`
-- Source page: `92`
 #### Witte Entry
 
 Others in need of money. Friendly or many physicians.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Others in need of money. Friendly or many physicians.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Success in dangerous environment, successful environmental service, financial crime of others, financial disadvantages of the partner, dangerous environmental law, money against environmental pollution, lack of money for the environment, and legal disadvantages for a place
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Hades = Jupiter`: aid in distressed environments, charitable contact, and the possibility of goodwill amid poverty or illness. Main caution: dependence on rescue: the surrounding difficulty remains real, even when support or benevolence temporarily mitigates it.
 
 ## Links
 
@@ -61,3 +55,5 @@ Others in need of money. Friendly or many physicians.
 - [Hades](../factors/hades.md)
 - [Jupiter](../factors/jupiter.md)
 - [Asc/Hades](../axes/asc-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

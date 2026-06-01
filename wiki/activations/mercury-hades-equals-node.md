@@ -3,7 +3,7 @@ title: Mercury/Hades = Node
 page_type: activation
 slug: mercury-hades-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Node
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Hades`
-- Source page: `167`
 #### Witte Entry
 
 To be connected with thieves, receivers of stolen goods, vulgar people. Connection with dealer in rags. To be in touch with the topic of mental illness.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be connected with thieves, receivers of stolen goods, vulgar people. Connection with dealer in rags. To be in touch with the topic of mental illness.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Talking about connections in need, lack of language contacts, secret news connections, criminal connections in youth, associated with emergency calls, emergency calls in traffic, and connection to writings of the past
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Hades = Node` connects the axis to degraded associations and unhealthy company.
+- Chart expression: contact with thieves, shabby or vulgar circles, trade in castoffs, and social involvement with mental illness, corruption, or socially degraded conditions.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be connected with thieves, receivers of stolen goods, vulgar people. Connecti
 - [Hades](../factors/hades.md)
 - [Node](../factors/node.md)
 - [Mercury/Hades](../axes/mercury-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Uranus Cupido Hades
 page_type: triad_hub
 slug: uranus-cupido-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Cupido
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Cupido Hades`
 - Astronomicon triad-set: `X ¡ ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Hades = Uranus](../activations/cupido-hades-equals-uranus.md)
-  Source page `267`
 - [Uranus/Cupido = Hades](../activations/uranus-cupido-equals-hades.md)
-  Source page `236`
 - [Uranus/Hades = Cupido](../activations/uranus-hades-equals-cupido.md)
-  Source page `237`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Hades = Uranus`: page `267`
-- `Uranus/Cupido = Hades`: page `236`
-- `Uranus/Hades = Cupido`: page `237`
+- `Cupido/Hades = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `267`
+- `Cupido/Hades = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `425`
+- `Uranus/Cupido = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `236`
+- `Uranus/Cupido = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `375`
+- `Uranus/Hades = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `237`
+- `Uranus/Hades = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `377`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Hades = Uranus`: scandals in matrimony and sudden offerings or appearances from street-level art or degraded public performance.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Cupido](../factors/cupido.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

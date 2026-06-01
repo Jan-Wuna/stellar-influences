@@ -3,7 +3,7 @@ title: Cupido/Hades = Zeus
 page_type: activation
 slug: cupido-hades-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Cupido
   - Hades
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Hades`
-- Source page: `267`
 #### Witte Entry
 
 Poor family with many children. Blessed with many children. The same about nations. To create artistically with scant materials. To create with substitutes.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Poor family with many children. Blessed with many children. The same about nations. To create artistically with scant materials. To create with substitutes.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dangerous objectives of a community, clandestine efforts of a community, past efforts, achievements from a common past, poor achievements of a community, and disadvantages for of a community by fire
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Hades = Zeus`: communal life that compensates for shortage through ingenuity, fertility, or makeshift creation. Main caution: glamorizing deprivation instead of recognizing how costly it is.
 
 ## Links
 
@@ -61,3 +55,5 @@ Poor family with many children. Blessed with many children. The same about natio
 - [Hades](../factors/hades.md)
 - [Zeus](../factors/zeus.md)
 - [Cupido/Hades](../axes/cupido-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

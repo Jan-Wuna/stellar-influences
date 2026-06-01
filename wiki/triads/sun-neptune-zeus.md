@@ -3,7 +3,7 @@ title: Sun Neptune Zeus
 page_type: triad_hub
 slug: sun-neptune-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Neptune
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Neptune Zeus`
 - Astronomicon triad-set: `S Y £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Neptune/Zeus = Sun](../activations/neptune-zeus-equals-sun.md)
-  Source page `249`
 - [Sun/Neptune = Zeus](../activations/sun-neptune-equals-zeus.md)
-  Source page `109`
 - [Sun/Zeus = Neptune](../activations/sun-zeus-equals-neptune.md)
-  Source page `113`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Neptune/Zeus = Sun`: page `249`
-- `Sun/Neptune = Zeus`: page `109`
-- `Sun/Zeus = Neptune`: page `113`
+- `Neptune/Zeus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `249`
+- `Neptune/Zeus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `396`
+- `Sun/Neptune = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `109`
+- `Sun/Neptune = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `155`
+- `Sun/Zeus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `113`
+- `Sun/Zeus = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `163`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Neptune/Zeus = Sun`: Personal effort is spent without adequate result, showing wasted work, scorched vitality, or the experience of striving hard to little effect.
+- `Sun/Neptune = Zeus`: This formula emphasizes creative imagination and fiery inspiration.
+- `Sun/Zeus = Neptune`: This formula emphasizes creative imagination and fiery inspiration.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Neptune](../factors/neptune.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

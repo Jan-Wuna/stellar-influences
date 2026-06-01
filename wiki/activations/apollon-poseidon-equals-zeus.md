@@ -3,7 +3,7 @@ title: Apollon/Poseidon = Zeus
 page_type: activation
 slug: apollon-poseidon-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Apollon
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Zeus
   - Apollon
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Apollon + Poseidon`
-- Source page: `308`
 #### Witte Entry
 
 To be a leader through one’s activity with similar minded people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be a leader through one’s activity with similar minded people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Efforts for truth knowledge, successful mental movement, successful idea design, successful cultural achievements, experiencing spiritual fire, kl are goal building, creative mind science, and increasing cognition strike
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Poseidon = Zeus`: ideological or cultural leadership, initiative inside a congenial group, and the capacity to move shared vision into directed effort. Main caution: directional dominance: leadership may become overly agenda-driven and reduce fellowship to followers.
 
 ## Links
 
@@ -61,3 +55,5 @@ To be a leader through one’s activity with similar minded people.
 - [Poseidon](../factors/poseidon.md)
 - [Zeus](../factors/zeus.md)
 - [Apollon/Poseidon](../axes/apollon-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

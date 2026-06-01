@@ -3,7 +3,7 @@ title: Moon/Venus = Hades
 page_type: activation
 slug: moon-venus-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Venus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Venus
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Venus`
-- Source page: `123`
 #### Witte Entry
 
 Abandoned mother. Miscarriage procured by an unlawful operation. Abortion.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Abandoned mother. Miscarriage procured by an unlawful operation. Abortion.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+A woman's love chamber, a people's peace service, a peaceful people in need, a woman's dangerous love, a woman's sorrow, a woman's love disadvantages, a woman's love criminality, and a woman's hidden virtues
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Venus = Hades`: Abandoned mother. Miscarriage procured by an unlawful operation. Abortion.
+- Practical focus: degrades `Moon/Venus` into maternal abandonment, reproductive loss, and painful rupture in the field of care and affection. It shows love and fertility meeting sorrow, deprivation, or traumatic severance.
+- Practical expression: a woman's love chamber, a people's peace service, a peaceful people in need, a woman's dangerous love, and a woman's sorrow.
 
 ## Links
 
@@ -61,3 +57,5 @@ Abandoned mother. Miscarriage procured by an unlawful operation. Abortion.
 - [Venus](../factors/venus.md)
 - [Hades](../factors/hades.md)
 - [Moon/Venus](../axes/moon-venus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

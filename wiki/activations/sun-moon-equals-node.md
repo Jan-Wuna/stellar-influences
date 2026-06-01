@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Moon`
-- Source page: `101`
 #### Witte Entry
 
 Meeting with others. Effecting a friendship. Getting acquainted.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Sun/Moon`
-- Source page: `79`
-- Entry: `0191`
+#### ABC Entry
+
+Relationships with the mother of the man, connected by personal life, family relationship with the man, connected with the people of the people, personal skills in a relationship, personal connection with the woman, and connection between man and woman
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Associative and joint qualities, adaptation. Commencement of an association, a c
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Sun/Moon midpoint`
-- Source page: `6`
-- Activator: `Node`
-
 #### Sandbach Entry
 
 The need to whole-heartedly embrace new experiences. Overattachment to the past depletes one’s vitality. The ability to involve oneself in one’s connections with others in a complete way and to derive a fulfilling sense of meaning and purpose from them.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Creating the methods or procedures others need for their personal fulfillment; making sexual appraisals of others; gathering cooperation from people or groups to help yourself with your aims and purposes.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Moon = Node`: marriage, family, and mutually defining bonds that help the person feel integrated and recognized. Main caution: relational dependence: the need for completion through others can make inner coherence too contingent on attachment or social belonging.
 
 ## Links
 
@@ -84,7 +76,8 @@ The need to whole-heartedly embrace new experiences. Overattachment to the past 
 - [Moon](../factors/moon.md)
 - [Node](../factors/node.md)
 - [Sun/Moon](../axes/sun-moon.md)
-- [Sun Moon Node](../triads/sun-moon-node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

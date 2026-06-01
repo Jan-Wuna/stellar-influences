@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Mars + Mars`
-- Source page: `191`
 #### Witte Entry
 
 Generous way of acting. Peaceful, scientific or commercial activities. Successful activity. An activity is expanded and enlarged. Rising of the market. Activity in handicraft or industry. The forces of the trading market. Trading activity. Peacemaker. Scientist. Merchant.
 
-## Comparative Schema
-
-- core meaning: Generous way of acting. Peaceful, scientific or commercial activities. Successful activity. An activity is expanded and enlarged. Rising of the market. Activity in handicraft or industry. The forces of the trading market. Trading activity. Peacemaker. Scientist. Merchant.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Mars = Apollon` expands action into productive, commercial, scientific, and market-oriented activity.
+- Chart expression: enlarged effort, successful work, industrial or trading activity, peaceful but energetic enterprise, and the capacity to spread action over wider profitable or technical fields.
 
 ## Links
 

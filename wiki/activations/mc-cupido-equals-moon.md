@@ -3,7 +3,7 @@ title: MC/Cupido = Moon
 page_type: activation
 slug: mc-cupido-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - MC
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Cupido`
-- Source page: `70`
 #### Witte Entry
 
 In the company of women. Dealings with congregated women. Community aspirations in public. Performer in art (female).
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: In the company of women. Dealings with congregated women. Community aspirations in public. Performer in art (female).
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blessed women's community, my wife's community, my soul's community, my whole life, my community's feelings, my community with the woman, my people's community, the soul of a people's community, and the soul's community with the woman
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Cupido = Moon` emotionalizes the axis through women, public community feeling, and feminine performance.
+- Chart expression: belonging shaped by women's circles, collective emotional aspirations, and a life direction expressed through feminine or public artistic participation.
 
 ## Links
 
@@ -61,3 +56,5 @@ In the company of women. Dealings with congregated women. Community aspirations 
 - [Cupido](../factors/cupido.md)
 - [Moon](../factors/moon.md)
 - [MC/Cupido](../axes/mc-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

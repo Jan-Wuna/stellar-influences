@@ -3,7 +3,7 @@ title: Kronos/Poseidon = Cupido
 page_type: activation
 slug: kronos-poseidon-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Cupido
   - Kronos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Kronos + Poseidon`
-- Source page: `302`
 #### Witte Entry
 
 Community with an elevated spiritual and cultural attitude. Cultural and mental groups. Political party. A major educational institution.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Community with an elevated spiritual and cultural attitude. Cultural and mental groups. Political party. A major educational institution.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+dominant cultural community, shared spiritual hierarchy, community of cultural states, spiritual independence of a community, great spiritual community, culture and art of a state, and cultural prestige of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Poseidon = Cupido`: community organized around culture, education, politics, or high spiritual attitude, including major educational institutions and cultural parties or movements.
+- Chart expression: cultural institutions, intellectual societies, and collective life governed by shared ideals.
 
 ## Links
 
@@ -61,3 +56,5 @@ Community with an elevated spiritual and cultural attitude. Cultural and mental 
 - [Poseidon](../factors/poseidon.md)
 - [Cupido](../factors/cupido.md)
 - [Kronos/Poseidon](../axes/kronos-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Vernal Point Sun Moon
 page_type: triad_hub
 slug: vernal-point-sun-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Sun
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Sun Moon`
 - Astronomicon triad-set: `VP S R`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Sun/Moon = Vernal Point](../activations/sun-moon-equals-vernal-point.md)
-  Source page `101`
 - [Vernal Point/Moon = Sun](../activations/vernal-point-moon-equals-sun.md)
-  Source page `38`
 - [Vernal Point/Sun = Moon](../activations/vernal-point-sun-equals-moon.md)
-  Source page `37`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Sun/Moon = Vernal Point`: page `101`
-- `Vernal Point/Moon = Sun`: page `38`
-- `Vernal Point/Sun = Moon`: page `37`
+- `Sun/Moon = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `101`
+- `Sun/Moon = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `138`
+- `Vernal Point/Moon = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `38`
+- `Vernal Point/Moon = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `24`
+- `Vernal Point/Sun = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `37`
+- `Vernal Point/Sun = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `22`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Sun/Moon = Vernal Point`: This formula emphasizes the person appearing vividly in the immediate environment and circumstance mirroring the self.
+- `Vernal Point/Moon = Sun`: This formula emphasizes sensitivity of the body, a man’s woman, and a women.
+- `Vernal Point/Sun = Moon`: This formula emphasizes bodies of female persons, friendships with female persons, and the day and the hour in public life.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Sun](../factors/sun.md)
 - [Moon](../factors/moon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

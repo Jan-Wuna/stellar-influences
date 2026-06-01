@@ -3,7 +3,7 @@ title: Jupiter MC Kronos
 page_type: triad_hub
 slug: jupiter-mc-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter MC Kronos`
 - Astronomicon triad-set: `V MC ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Kronos = MC](../activations/jupiter-kronos-equals-mc.md)
-  Source page `214`
 - [Jupiter/MC = Kronos](../activations/jupiter-mc-equals-kronos.md)
-  Source page `65`
 - [MC/Kronos = Jupiter](../activations/mc-kronos-equals-jupiter.md)
-  Source page `73`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Kronos = MC`: page `214`
-- `Jupiter/MC = Kronos`: page `65`
-- `MC/Kronos = Jupiter`: page `73`
+- `Jupiter/Kronos = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `214`
+- `Jupiter/Kronos = MC`: Udo Rudolph - ABC for Planetary Pictures, page `338`
+- `Jupiter/MC = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `65`
+- `Jupiter/MC = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `75`
+- `MC/Kronos = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `73`
+- `MC/Kronos = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `90`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Kronos = MC`: feeling very happy, viewing oneself as chief, and following a profession as an independent financial manager.
+- `Jupiter/MC = Kronos`: fortunate leadership, conscious authority, and a strong sense of one's own rank or command.
+- `MC/Kronos = Jupiter`: blesses the axis with success through independence and initiative.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [MC](../factors/mc.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

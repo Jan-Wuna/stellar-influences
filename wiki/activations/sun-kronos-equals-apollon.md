@@ -3,7 +3,7 @@ title: Sun/Kronos = Apollon
 page_type: activation
 slug: sun-kronos-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Kronos
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Kronos`
-- Source page: `114`
 #### Witte Entry
 
 Scientific abilities. Authority for many. Success of officials.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Scientific abilities. Authority for many. Success of officials.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Particularly successful man, successful state man, great success of a man, personal prestige through knowledge, self standing scientific center, important experience on the day, and scientific authorship person
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Kronos = Apollon`: prominent personality and success through authority.
+- Practical expression: particularly successful man, successful state man, great success of a man, personal prestige through knowledge, and self standing scientific center.
 
 ## Links
 
@@ -61,3 +56,5 @@ Scientific abilities. Authority for many. Success of officials.
 - [Kronos](../factors/kronos.md)
 - [Apollon](../factors/apollon.md)
 - [Sun/Kronos](../axes/sun-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

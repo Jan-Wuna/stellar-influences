@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Zeus + Zeus`
-- Source page: `287`
 #### Witte Entry
 
 A creative mind. The hours of creative work. Discipline. Hot blooded woman. The martial nation. A woman who has children. Procreative faculty of female person. Institutions of general benefit created by the state. Inflammable. A people lined up.
 
-## Comparative Schema
-
-- core meaning: A creative mind. The hours of creative work. Discipline. Hot blooded woman. The martial nation. A woman who has children. Procreative faculty of female person. Institutions of general benefit created by the state. Inflammable. A people lined up.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Zeus = Moon`: A creative mind. The hours of creative work. Discipline. Hot blooded woman. The martial nation. A woman who has children. Procreative faculty of female person. Institutions of general benefit created by the state. Inflammable. A people lined up.
 
 ## Links
 

@@ -3,7 +3,7 @@ title: Moon/Vulcanus = Uranus
 page_type: activation
 slug: moon-vulcanus-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Uranus
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Vulcanus`
-- Source page: `136`
 #### Witte Entry
 
 To separate in an ugly or noisy manner. Unpleasant strike. To be separated in a loud, showy way. To lose great influence over females or the public. To do watch-duty.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To separate in an ugly or noisy manner. Unpleasant strike. To be separated in a loud, showy way. To lose great influence over females or the public. To do watch-duty.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Impulses of an influential woman, enormous emancipation of a peoplec, powerful tensions in the people, new energies for a people, nervousness by strong faith, sudden violence against a woman, strong feelings impulses, and surprising power fellows
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Vulcanus = Uranus`: To separate in an ugly or noisy manner. Unpleasant strike. To be separated in a loud, showy way. To lose great influence over females or the public. To do watch-duty.
+- Practical expression: impulses of an influential woman, enormous emancipation of a peoplec, powerful tensions in the people, new energies for a people, and nervousness by strong faith.
 
 ## Links
 
@@ -61,3 +56,5 @@ To separate in an ugly or noisy manner. Unpleasant strike. To be separated in a 
 - [Vulcanus](../factors/vulcanus.md)
 - [Uranus](../factors/uranus.md)
 - [Moon/Vulcanus](../axes/moon-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

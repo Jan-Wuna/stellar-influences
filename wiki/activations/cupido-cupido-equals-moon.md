@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Cupido + Cupido`
-- Source page: `265`
 #### Witte Entry
 
 The bride. The wife. Mother-in-law. Hours of leisure. Shaping. Hours of relaxation, sociability or arts. Dancing clubs. Virtuosity. Routine. Feminine objects of art. The mother. The stepmother. Betrothed. The wedding hour.
 
-## Comparative Schema
-
-- core meaning: The bride. The wife. Mother-in-law. Hours of leisure. Shaping. Hours of relaxation, sociability or arts. Dancing clubs. Virtuosity. Routine. Feminine objects of art. The mother. The stepmother. Betrothed. The wedding hour.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Cupido = Moon`: shared life taking shape through household rhythm, ritual occasions, and women or maternal figures who carry the bond. Main caution: letting custom and role absorb individual feeling.
 
 ## Links
 

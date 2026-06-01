@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Mercury`
-- Source page: `122`
 #### Witte Entry
 
 Departure of or departure from young girls or women. Unsteady. Travelling. To change the place. To learn slowly, to remember for a long time.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Moon/Mercury`
-- Source page: `114`
-- Entry: `0331`
+#### ABC Entry
+
+Movable woman in old age, serious women's language, discussing women's problems, thoughts about the separation from the woman, young woman's feelings, hard language of the people, and problems of the female youth
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Difficult and slow thinking, pursuit of gloomy or sad thoughts, desire to solve 
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Moon/Mercury midpoint`
-- Source page: `25`
-- Activator: `Saturn`
-
 #### Sandbach Entry
 
 To be cautious or apprehensive about communicating one’s feelings, and possibly the tendency to do so slowly over time. To hold back on expressing one’s emotions. The fear that one will be criticized or rejected for expressing one’s feelings.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Restraints on your restless emotions; pessimism that creeps into imagination or thinking; observations made of basic changes in rhythms or cycles; caution within discussions of family matters; humdrum talk on mothering.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Mercury = Saturn`: serious intelligence, reliable judgment, and the ability to hold emotion in workable verbal form. Main caution: constriction: pessimism, worry, or inhibition can make thought and speech too burdened or emotionally tight.
 
 ## Links
 
@@ -84,7 +76,8 @@ To be cautious or apprehensive about communicating one’s feelings, and possibl
 - [Mercury](../factors/mercury.md)
 - [Saturn](../factors/saturn.md)
 - [Moon/Mercury](../axes/moon-mercury.md)
-- [Moon Mercury Saturn](../triads/moon-mercury-saturn.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

@@ -3,7 +3,7 @@ title: Uranus Zeus Vulcanus
 page_type: triad_hub
 slug: uranus-zeus-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Zeus
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Zeus Vulcanus`
 - Astronomicon triad-set: `X £ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Uranus/Vulcanus = Zeus](../activations/uranus-vulcanus-equals-zeus.md)
-  Source page `242`
 - [Uranus/Zeus = Vulcanus](../activations/uranus-zeus-equals-vulcanus.md)
-  Source page `238`
 - [Zeus/Vulcanus = Uranus](../activations/zeus-vulcanus-equals-uranus.md)
-  Source page `295`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Uranus/Vulcanus = Zeus`: page `242`
-- `Uranus/Zeus = Vulcanus`: page `238`
-- `Zeus/Vulcanus = Uranus`: page `295`
+- `Uranus/Vulcanus = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `242`
+- `Uranus/Vulcanus = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `387`
+- `Uranus/Zeus = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `238`
+- `Uranus/Zeus = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `379`
+- `Zeus/Vulcanus = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `295`
+- `Zeus/Vulcanus = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `457`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Zeus/Vulcanus = Uranus`: To suddenly get busy. To apply force. Energy that is expended by jerking motions. Explosion like appearing of great forcess Electric or atomic energies.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Zeus](../factors/zeus.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

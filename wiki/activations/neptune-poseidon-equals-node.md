@@ -3,7 +3,7 @@ title: Neptune/Poseidon = Node
 page_type: activation
 slug: neptune-poseidon-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Node
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Poseidon`
-- Source page: `254`
 #### Witte Entry
 
 To have dealings with desperate people, to be connected with highly developed or occult people. To be fooled by erroneous occult teachings.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To have dealings with desperate people, to be connected with highly developed or occult people. To be fooled by erroneous occult teachings.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Encounter with impoverished culture, combining subtlety with clarity, clarity in a connection through intuition, connected with clear water, refined cultural connections, reason weakness in a connection, and exchanged truth in a connection
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Poseidon = Node`: To have dealings with desperate people, to be connected with highly developed or occult people. To be fooled by erroneous occult teachings.
+- Practical focus: spiritualized uncertainty becomes selective connection, bringing contact with occult or highly developed people while also exposing one to misleading teachings and desperate influences.
+- Practical expression: encounter with impoverished culture, combining subtlety with clarity, clarity in a connection through intuition, connected with clear water, and refined cultural connections.
 
 ## Links
 
@@ -61,3 +57,5 @@ To have dealings with desperate people, to be connected with highly developed or
 - [Poseidon](../factors/poseidon.md)
 - [Node](../factors/node.md)
 - [Neptune/Poseidon](../axes/neptune-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

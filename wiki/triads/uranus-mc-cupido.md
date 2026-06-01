@@ -3,7 +3,7 @@ title: Uranus MC Cupido
 page_type: triad_hub
 slug: uranus-mc-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - MC
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus MC Cupido`
 - Astronomicon triad-set: `X MC ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Cupido = Uranus](../activations/mc-cupido-equals-uranus.md)
-  Source page `70`
 - [Uranus/Cupido = MC](../activations/uranus-cupido-equals-mc.md)
-  Source page `236`
 - [Uranus/MC = Cupido](../activations/uranus-mc-equals-cupido.md)
-  Source page `67`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Cupido = Uranus`: page `70`
-- `Uranus/Cupido = MC`: page `236`
-- `Uranus/MC = Cupido`: page `67`
+- `MC/Cupido = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `70`
+- `MC/Cupido = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `85`
+- `Uranus/Cupido = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `236`
+- `Uranus/Cupido = MC`: Udo Rudolph - ABC for Planetary Pictures, page `374`
+- `Uranus/MC = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `67`
+- `Uranus/MC = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `79`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Cupido = Uranus`: electrifies the axis through sudden union, originality, and rhythmic art.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [MC](../factors/mc.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

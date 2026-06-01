@@ -3,7 +3,7 @@ title: Pluto/Poseidon = Node
 page_type: activation
 slug: pluto-poseidon-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Node
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Poseidon`
-- Source page: `264`
 #### Witte Entry
 
 The change of mind or heart of others forces the native to change his own mind or heart, and vice versa. Mental development is influenced by connections.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The change of mind or heart of others forces the native to change his own mind or heart, and vice versa. Mental development is influenced by connections.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Developing insight into a Y bond, developing spiritual connections, I deen change in a Y bond, clear development in a Y bond, cultural changes through a Y bond, and growing clarity in a Y bond
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Poseidon = Node`: the change of mind or heart of others forces the native to change his own mind or heart, and vice versa.
+- Practical expression: developing insight into a Y bond, developing spiritual connections, i deen change in a Y bond, clear development in a Y bond, and cultural changes through a Y bond.
 
 ## Links
 
@@ -61,3 +56,5 @@ The change of mind or heart of others forces the native to change his own mind o
 - [Poseidon](../factors/poseidon.md)
 - [Node](../factors/node.md)
 - [Pluto/Poseidon](../axes/pluto-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

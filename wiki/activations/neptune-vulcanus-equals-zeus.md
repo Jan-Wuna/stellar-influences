@@ -3,7 +3,7 @@ title: Neptune/Vulcanus = Zeus
 page_type: activation
 slug: neptune-vulcanus-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Zeus
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Vulcanus`
-- Source page: `253`
 #### Witte Entry
 
 To revolt in vain against force and necessities.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To revolt in vain against force and necessities.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+beginning influence of metaphysics, fiery fluid energy, shaping of subtle energy, performance power of the water, weak energy performance, weak leadership influence, strong intuitive performance, and uncertainty through fire power
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Vulcanus = Zeus`: To revolt in vain against force and necessities.
+- Effort turns rebellious but ineffective, showing futile attempts to push back against overpowering force, pressure, or necessity.
+- Practical expression: beginning influence of metaphysics, fiery fluid energy, shaping of subtle energy, performance power of the water, and weak energy performance.
 
 ## Links
 
@@ -61,3 +57,5 @@ To revolt in vain against force and necessities.
 - [Vulcanus](../factors/vulcanus.md)
 - [Zeus](../factors/zeus.md)
 - [Neptune/Vulcanus](../axes/neptune-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

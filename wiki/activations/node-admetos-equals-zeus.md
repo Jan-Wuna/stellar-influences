@@ -3,7 +3,7 @@ title: Node/Admetos = Zeus
 page_type: activation
 slug: node-admetos-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - Zeus
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Admetos`
-- Source page: `154`
 #### Witte Entry
 
 Start work with a few. Difficult beginning of work with others.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Start work with a few. Difficult beginning of work with others.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Especially out of the box connection, blocked state relations, end of a special relationship, fundamental links with the boss, firm ties with the state, deepening of state misconduct, and important limitation of a connection
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Admetos = Zeus`: Start work with a few. Difficult beginning of work with others.
+- Practical focus: difficult beginning of work with others.
+- In difficult expression, it can mark start work with a few.
 
 ## Links
 
@@ -61,3 +57,5 @@ Start work with a few. Difficult beginning of work with others.
 - [Admetos](../factors/admetos.md)
 - [Zeus](../factors/zeus.md)
 - [Node/Admetos](../axes/node-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

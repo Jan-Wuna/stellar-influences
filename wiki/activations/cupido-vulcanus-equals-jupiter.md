@@ -3,7 +3,7 @@ title: Cupido/Vulcanus = Jupiter
 page_type: activation
 slug: cupido-vulcanus-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Cupido
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Vulcanus`
-- Source page: `273`
 #### Witte Entry
 
 Mighty luck or fortune of the family. Great artistic successes. Happiness through enjoying art. Great financial power. High finance.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mighty luck or fortune of the family. Great artistic successes. Happiness through enjoying art. Great financial power. High finance.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influential financial community, influential legal community, joy over common force, joint success against violence, force from common joy, power success of a community, legal force for the community, and beneficial art influence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Vulcanus = Jupiter`: powerful organization yielding prosperity, prestige, and successful output on a large scale. Main caution: confusing financial or artistic triumph with moral or relational health.
 
 ## Links
 
@@ -61,3 +55,5 @@ Mighty luck or fortune of the family. Great artistic successes. Happiness throug
 - [Vulcanus](../factors/vulcanus.md)
 - [Jupiter](../factors/jupiter.md)
 - [Cupido/Vulcanus](../axes/cupido-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

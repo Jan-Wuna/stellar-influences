@@ -3,7 +3,7 @@ title: Moon/Kronos = Pluto
 page_type: activation
 slug: moon-kronos-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Pluto
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Kronos`
-- Source page: `133`
 #### Witte Entry
 
 P Institution and organization of a civil service.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: P Institution and organization of a civil service.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Development, changes in authority for a people, increasing priority for women, changes of a self indigenous woman, and important developments in the hour
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Kronos = Pluto`: P Institution and organization of a civil service.
+- Practical expression: development, changes in authority for a people, increasing priority for women, changes of a self indigenous woman, and important developments in the hour.
 
 ## Links
 
@@ -61,3 +56,5 @@ P Institution and organization of a civil service.
 - [Kronos](../factors/kronos.md)
 - [Pluto](../factors/pluto.md)
 - [Moon/Kronos](../axes/moon-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

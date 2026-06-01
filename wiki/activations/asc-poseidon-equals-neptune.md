@@ -3,7 +3,7 @@ title: Asc/Poseidon = Neptune
 page_type: activation
 slug: asc-poseidon-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Asc
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Poseidon`
-- Source page: `98`
 #### Witte Entry
 
 Others are mentally or spiritually led astray or they are characterized by the higher and finer qualities of the mind.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Others are mentally or spiritually led astray or they are characterized by the higher and finer qualities of the mind.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exchangeable environmental culture, insight into the subtle world, culture place on the water, weak local culture, unclear partner ldecn, uncertainty at the place of truth, and spiritualized delicate environment
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Poseidon = Neptune`: idealized company, porous standards, and subtle influence that can elevate or mislead depending on the quality of the people involved. Main caution: deception, drift, or false enlightenment.
 
 ## Links
 
@@ -61,3 +55,5 @@ Others are mentally or spiritually led astray or they are characterized by the h
 - [Poseidon](../factors/poseidon.md)
 - [Neptune](../factors/neptune.md)
 - [Asc/Poseidon](../axes/asc-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

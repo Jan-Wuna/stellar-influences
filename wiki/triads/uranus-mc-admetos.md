@@ -3,7 +3,7 @@ title: Uranus MC Admetos
 page_type: triad_hub
 slug: uranus-mc-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - MC
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus MC Admetos`
 - Astronomicon triad-set: `X MC ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Admetos = Uranus](../activations/mc-admetos-equals-uranus.md)
-  Source page `75`
 - [Uranus/Admetos = MC](../activations/uranus-admetos-equals-mc.md)
-  Source page `241`
 - [Uranus/MC = Admetos](../activations/uranus-mc-equals-admetos.md)
-  Source page `67`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Admetos = Uranus`: page `75`
-- `Uranus/Admetos = MC`: page `241`
-- `Uranus/MC = Admetos`: page `67`
+- `MC/Admetos = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `75`
+- `MC/Admetos = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `95`
+- `Uranus/Admetos = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `241`
+- `Uranus/Admetos = MC`: Udo Rudolph - ABC for Planetary Pictures, page `384`
+- `Uranus/MC = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `67`
+- `Uranus/MC = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `79`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Admetos = Uranus`: breaks the axis with sudden shock and abrupt disturbance of rest.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [MC](../factors/mc.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Mars + Mars`
-- Source page: `190`
 #### Witte Entry
 
 The blood-relationship. Intimate friendship. Sex love. To act with devotion, out of love for the cause. To become intimate. Sex activity. Joy of action. Acting like a maternal female. Passionate activity. Kinship.
 
-## Comparative Schema
-
-- core meaning: The blood-relationship. Intimate friendship. Sex love. To act with devotion, out of love for the cause. To become intimate. Sex activity. Joy of action. Acting like a maternal female. Passionate activity. Kinship.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Mars = Venus` softens force into intimacy, kinship, erotic expression, and devoted action.
+- Chart expression: intimate friendship, sex love, blood-relationship, joy in action, passionate devotion, and effort undertaken out of affection, loyalty, or attachment.
 
 ## Links
 

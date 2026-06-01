@@ -3,7 +3,7 @@ title: Pluto/Admetos = Mars
 page_type: activation
 slug: pluto-admetos-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Pluto
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Admetos`
-- Source page: `262`
 #### Witte Entry
 
 Fundamental change of working conditions. (This constellation is predominantly unpleasant, because Admetos and Mars together spell suppression.)
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Fundamental change of working conditions. (This constellation is predominantly unpleasant, because Admetos and Mars together spell suppression.)
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Develop perseverance in the activity, blocked development activity, depressive development impulses, end of a developmental work, grundliche developmental effort, grundling changes in work, and growing circulation impulses
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Admetos = Mars`: fundamental change of working conditions; (This constellation is predominantly unpleasant, because Admetos and Mars together spell suppression.).
+- Practical expression: develop perseverance in the activity, blocked development activity, depressive development impulses, and end of a developmental work.
 
 ## Links
 
@@ -61,3 +56,5 @@ Fundamental change of working conditions. (This constellation is predominantly u
 - [Admetos](../factors/admetos.md)
 - [Mars](../factors/mars.md)
 - [Pluto/Admetos](../axes/pluto-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

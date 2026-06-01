@@ -3,7 +3,7 @@ title: Mercury MC Admetos
 page_type: triad_hub
 slug: mercury-mc-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury MC Admetos`
 - Astronomicon triad-set: `T MC ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Admetos = Mercury](../activations/mc-admetos-equals-mercury.md)
-  Source page `75`
 - [Mercury/Admetos = MC](../activations/mercury-admetos-equals-mc.md)
-  Source page `171`
 - [Mercury/MC = Admetos](../activations/mercury-mc-equals-admetos.md)
-  Source page `62`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Admetos = Mercury`: page `75`
-- `Mercury/Admetos = MC`: page `171`
-- `Mercury/MC = Admetos`: page `62`
+- `MC/Admetos = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `75`
+- `MC/Admetos = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `94`
+- `Mercury/Admetos = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `171`
+- `Mercury/Admetos = MC`: Udo Rudolph - ABC for Planetary Pictures, page `264`
+- `Mercury/MC = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `62`
+- `Mercury/MC = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `69`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Admetos = Mercury`: mentalizes the axis into slow thought and fixed conversational posture.
+- `Mercury/Admetos = MC`: internalizes the axis as thorough but sorrowful reflection.
+- `Mercury/MC = Admetos`: narrows the axis into blocked self-direction and heavy thought.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [MC](../factors/mc.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

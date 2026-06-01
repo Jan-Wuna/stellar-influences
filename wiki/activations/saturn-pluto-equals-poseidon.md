@@ -3,7 +3,7 @@ title: Saturn/Pluto = Poseidon
 page_type: activation
 slug: saturn-pluto-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Pluto
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Pluto`
-- Source page: `223`
 #### Witte Entry
 
 Development of educational principles. Separation in educational matters, in matters of faith in matters of concept of life. Slow mental separation.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Development of educational principles. Separation in educational matters, in matters of faith in matters of concept of life. Slow mental separation.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Spiritual development in old age, spiritual developmental disruptions, spiritual maturity, alteration of cultural tasks, alterations through patience and courage, alterations through loss of dignity, and growing mental disturbances
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Pluto = Poseidon`: development of educational principles.
+- Practical expression: spiritual development in old age, spiritual developmental disruptions, spiritual maturity, alteration of cultural tasks, and alterations through patience.
 
 ## Links
 
@@ -61,3 +56,5 @@ Development of educational principles. Separation in educational matters, in mat
 - [Pluto](../factors/pluto.md)
 - [Poseidon](../factors/poseidon.md)
 - [Saturn/Pluto](../axes/saturn-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

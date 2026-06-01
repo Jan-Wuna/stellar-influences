@@ -3,7 +3,7 @@ title: Vernal Point/Asc = Hades
 page_type: activation
 slug: vernal-point-asc-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Asc
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Asc
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Asc`
-- Source page: `36`
 #### Witte Entry
 
 To meet sick people. To seek bad company. Poor, miserable areas. Ugly, vacated or destroyed places.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To meet sick people. To seek bad company. Poor, miserable areas. Ugly, vacated or destroyed places.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Disadvantaged public environment, dangerous public place, criminal place in public, criminal partners in public life, lack in the public environment, public environmental service, and traditional place in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Asc = Hades`: to meet sick people, to seek bad company, poor, miserable areas, and ugly, vacated or destroyed places.
+- Practical expression: disadvantaged public environment, dangerous public place, criminal place in public, criminal partners in public life, and lack in the public environment.
 
 ## Links
 
@@ -61,3 +56,5 @@ To meet sick people. To seek bad company. Poor, miserable areas. Ugly, vacated o
 - [Asc](../factors/asc.md)
 - [Hades](../factors/hades.md)
 - [Vernal Point/Asc](../axes/vernal-point-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

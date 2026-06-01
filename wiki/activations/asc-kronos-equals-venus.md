@@ -3,7 +3,7 @@ title: Asc/Kronos = Venus
 page_type: activation
 slug: asc-kronos-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Asc
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Kronos`
-- Source page: `94`
 #### Witte Entry
 
 To be liked in the capacity of an official or an employee. To be the favorite.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be liked in the capacity of an official or an employee. To be the favorite.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Visited art place, special joy with the partner, special beauty of a place, artistic authorship at the place, harmonious authority of a place, harmonious environmental steering, self sustaining love partner, Tibetan love partner, and important peace place
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Kronos = Venus`: pleasing authority, favored status, and relational smoothness inside structured roles. Main caution: dependence on approval: harmony in hierarchy may rely too much on being liked by those above.
 
 ## Links
 
@@ -61,3 +55,5 @@ To be liked in the capacity of an official or an employee. To be the favorite.
 - [Kronos](../factors/kronos.md)
 - [Venus](../factors/venus.md)
 - [Asc/Kronos](../axes/asc-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Uranus/Poseidon
 page_type: axis
 slug: uranus-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Poseidon
@@ -11,26 +11,26 @@ normalized_axis: Uranus/Poseidon
 factor_a: Uranus
 factor_b: Poseidon
 related_activations:
-  - Uranus/Poseidon = Vernal Point
-  - Uranus/Poseidon = MC
+  - Uranus/Poseidon = Admetos
+  - Uranus/Poseidon = Apollon
   - Uranus/Poseidon = Asc
-  - Uranus/Poseidon = Sun
-  - Uranus/Poseidon = Moon
-  - Uranus/Poseidon = Node
-  - Uranus/Poseidon = Mercury
-  - Uranus/Poseidon = Venus
-  - Uranus/Poseidon = Mars
-  - Uranus/Poseidon = Jupiter
-  - Uranus/Poseidon = Saturn
-  - Uranus/Poseidon = Neptune
-  - Uranus/Poseidon = Pluto
   - Uranus/Poseidon = Cupido
   - Uranus/Poseidon = Hades
-  - Uranus/Poseidon = Zeus
+  - Uranus/Poseidon = Jupiter
   - Uranus/Poseidon = Kronos
-  - Uranus/Poseidon = Apollon
-  - Uranus/Poseidon = Admetos
+  - Uranus/Poseidon = Mars
+  - Uranus/Poseidon = MC
+  - Uranus/Poseidon = Mercury
+  - Uranus/Poseidon = Moon
+  - Uranus/Poseidon = Neptune
+  - Uranus/Poseidon = Node
+  - Uranus/Poseidon = Pluto
+  - Uranus/Poseidon = Saturn
+  - Uranus/Poseidon = Sun
+  - Uranus/Poseidon = Venus
+  - Uranus/Poseidon = Vernal Point
   - Uranus/Poseidon = Vulcanus
+  - Uranus/Poseidon = Zeus
 related_triad_hubs:
   - Jupiter Uranus Poseidon
   - Mars Uranus Poseidon
@@ -56,15 +56,15 @@ aliases:
   - Poseidon/Uranus
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Axis: `Uranus/Poseidon`
 - Astronomicon axis: `X/¨`
-- Source heading: `Uranus + Poseidon`
-- Source page: `243`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
@@ -74,48 +74,44 @@ updated_at: 2026-04-21
 
 Mentally alert. Signs of life. To be lively or to be alive. Mental tension. Truth. The light bearer. Phosphorus. Enlightenment. Propaganda. Moving pictures. Television. Illumination. Light. Elucidation. Clarification, clear up. Clarity. Proof. Revelation.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mentally alert. Signs of life. To be lively or to be alive. Mental tension. Truth. The light bearer. Phosphorus. Enlightenment. Propaganda. Moving pictures. Television. Illumination. Light. Elucidation. Clarification, clear up. Clarity. Proof. Revelation.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+#### ABC Pair Summary
+
+Exciting Truth, Spiritual Renewal, Spiritual Impulses, Cultural Event, Reform Ideas, Sudden Clarity, Surprising Truth, Nivety Technique, and Restless Mind
 
 ## Related Activations
 
-- [Uranus/Poseidon = Vernal Point](../activations/uranus-poseidon-equals-vernal-point.md)
-- [Uranus/Poseidon = MC](../activations/uranus-poseidon-equals-mc.md)
+- [Uranus/Poseidon = Admetos](../activations/uranus-poseidon-equals-admetos.md)
+- [Uranus/Poseidon = Apollon](../activations/uranus-poseidon-equals-apollon.md)
 - [Uranus/Poseidon = Asc](../activations/uranus-poseidon-equals-asc.md)
-- [Uranus/Poseidon = Sun](../activations/uranus-poseidon-equals-sun.md)
-- [Uranus/Poseidon = Moon](../activations/uranus-poseidon-equals-moon.md)
-- [Uranus/Poseidon = Node](../activations/uranus-poseidon-equals-node.md)
-- [Uranus/Poseidon = Mercury](../activations/uranus-poseidon-equals-mercury.md)
-- [Uranus/Poseidon = Venus](../activations/uranus-poseidon-equals-venus.md)
-- [Uranus/Poseidon = Mars](../activations/uranus-poseidon-equals-mars.md)
-- [Uranus/Poseidon = Jupiter](../activations/uranus-poseidon-equals-jupiter.md)
-- [Uranus/Poseidon = Saturn](../activations/uranus-poseidon-equals-saturn.md)
-- [Uranus/Poseidon = Neptune](../activations/uranus-poseidon-equals-neptune.md)
-- [Uranus/Poseidon = Pluto](../activations/uranus-poseidon-equals-pluto.md)
 - [Uranus/Poseidon = Cupido](../activations/uranus-poseidon-equals-cupido.md)
 - [Uranus/Poseidon = Hades](../activations/uranus-poseidon-equals-hades.md)
-- [Uranus/Poseidon = Zeus](../activations/uranus-poseidon-equals-zeus.md)
+- [Uranus/Poseidon = Jupiter](../activations/uranus-poseidon-equals-jupiter.md)
 - [Uranus/Poseidon = Kronos](../activations/uranus-poseidon-equals-kronos.md)
-- [Uranus/Poseidon = Apollon](../activations/uranus-poseidon-equals-apollon.md)
-- [Uranus/Poseidon = Admetos](../activations/uranus-poseidon-equals-admetos.md)
+- [Uranus/Poseidon = Mars](../activations/uranus-poseidon-equals-mars.md)
+- [Uranus/Poseidon = MC](../activations/uranus-poseidon-equals-mc.md)
+- [Uranus/Poseidon = Mercury](../activations/uranus-poseidon-equals-mercury.md)
+- [Uranus/Poseidon = Moon](../activations/uranus-poseidon-equals-moon.md)
+- [Uranus/Poseidon = Neptune](../activations/uranus-poseidon-equals-neptune.md)
+- [Uranus/Poseidon = Node](../activations/uranus-poseidon-equals-node.md)
+- [Uranus/Poseidon = Pluto](../activations/uranus-poseidon-equals-pluto.md)
+- [Uranus/Poseidon = Saturn](../activations/uranus-poseidon-equals-saturn.md)
+- [Uranus/Poseidon = Sun](../activations/uranus-poseidon-equals-sun.md)
+- [Uranus/Poseidon = Venus](../activations/uranus-poseidon-equals-venus.md)
+- [Uranus/Poseidon = Vernal Point](../activations/uranus-poseidon-equals-vernal-point.md)
 - [Uranus/Poseidon = Vulcanus](../activations/uranus-poseidon-equals-vulcanus.md)
+- [Uranus/Poseidon = Zeus](../activations/uranus-poseidon-equals-zeus.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- This axis consistently points to mentally alert. Signs of life. To be lively or to be alive. Mental tension. Truth. The light bearer. Phosphorus. Enlightenment. Propaganda. Moving pictures. Television. Illumination. Light. Elucidation. Clarification, clear up. Clarity. Proof. Revelation.
+- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Poseidon](../factors/poseidon.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

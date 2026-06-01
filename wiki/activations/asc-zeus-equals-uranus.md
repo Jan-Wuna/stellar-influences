@@ -3,7 +3,7 @@ title: Asc/Zeus = Uranus
 page_type: activation
 slug: asc-zeus-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Asc
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Zeus`
-- Source page: `93`
 #### Witte Entry
 
 Others are in excitement because of or through the native. Danger to the native from explosions, lightning or machines.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Others are in excitement because of or through the native. Danger to the native from explosions, lightning or machines.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful environmental achievements, excitement through fire in the environment, impulses of a creat!ven partner, nervous local transportation, neuc environmental cicle, new cicle with a partner, technical environmental licences, and environmental reforms. Disturbation in the place by fire
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Zeus = Uranus`: volatile environments, technical shock, and sudden disruptive activation around work or dispute. Main caution: accident, rupture, or explosive conflict.
 
 ## Links
 
@@ -61,3 +55,5 @@ Others are in excitement because of or through the native. Danger to the native 
 - [Zeus](../factors/zeus.md)
 - [Uranus](../factors/uranus.md)
 - [Asc/Zeus](../axes/asc-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

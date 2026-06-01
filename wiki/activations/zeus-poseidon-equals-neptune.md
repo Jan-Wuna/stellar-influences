@@ -3,7 +3,7 @@ title: Zeus/Poseidon = Neptune
 page_type: activation
 slug: zeus-poseidon-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Zeus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Poseidon`
-- Source page: `296`
 #### Witte Entry
 
 Rejection of mental compulsion. Hidden mental leadership. The invisible hand.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Rejection of mental compulsion. Hidden mental leadership. The invisible hand.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exchangeable Truth Proof, production of clear water, subtle spiritual guidance, foreign spiritual guidance, spiritual future goals, clear goals in the air, producing clear water, developing unknown spiritual filtration Spiritual goal striving, clear filtration development, and clear transfonnation goals
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Poseidon = Neptune`: Rejection of mental compulsion. Hidden mental leadership. The invisible hand.
+- Practical expression: exchangeable Truth Proof, production of clear water, subtle spiritual guidance, foreign spiritual guidance, and spiritual future goals.
 
 ## Links
 
@@ -61,3 +56,5 @@ Rejection of mental compulsion. Hidden mental leadership. The invisible hand.
 - [Poseidon](../factors/poseidon.md)
 - [Neptune](../factors/neptune.md)
 - [Zeus/Poseidon](../axes/zeus-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

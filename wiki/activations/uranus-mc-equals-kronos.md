@@ -3,10 +3,10 @@ title: Uranus/MC = Kronos
 page_type: activation
 slug: uranus-mc-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Uranus
+  - MC
   - Kronos
 normalized_formula: Uranus/MC = Kronos
 axis: Uranus/MC
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - MC
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Uranus`
-- Source page: `67`
 #### Witte Entry
 
 To issue a sudden order. Tension caused by a sudden test of strength.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To issue a sudden order. Tension caused by a sudden test of strength.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+With me the technique dominates, especially exciting minute, great emotional arousal, I at the a technical authoritat, inner unrest in the state, my special nervousness, my great tension, my selfish rhythm, and important soul impulses
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/MC = Kronos`: To issue a sudden order. Tension caused by a sudden test of strength.
+- Practical expression: with me the technique dominates, especially exciting minute, great emotional arousal, and inner unrest in the state.
 
 ## Links
 
@@ -61,3 +56,5 @@ To issue a sudden order. Tension caused by a sudden test of strength.
 - [MC](../factors/mc.md)
 - [Kronos](../factors/kronos.md)
 - [Uranus/MC](../axes/uranus-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

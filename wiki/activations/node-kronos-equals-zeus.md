@@ -3,7 +3,7 @@ title: Node/Kronos = Zeus
 page_type: activation
 slug: node-kronos-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - Zeus
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Kronos`
-- Source page: `152`
 #### Witte Entry
 
 Decision of authorities. The verdict. To be sentenced.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Decision of authorities. The verdict. To be sentenced.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Start of important contacts, special services in one connection, large mediation efforts, creative relations with the boss, performance mediation for the state, independence in a leading connection, and connection to the state administration
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Kronos = Zeus`: Decision of authorities. The verdict. To be sentenced.
+- Practical focus: decision of authorities; also the verdict.
 
 ## Links
 
@@ -61,3 +56,5 @@ Decision of authorities. The verdict. To be sentenced.
 - [Kronos](../factors/kronos.md)
 - [Zeus](../factors/zeus.md)
 - [Node/Kronos](../axes/node-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

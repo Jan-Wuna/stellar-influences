@@ -3,7 +3,7 @@ title: Mars/Poseidon = Vulcanus
 page_type: activation
 slug: mars-poseidon-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Vulcanus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Poseidon`
-- Source page: `204`
 #### Witte Entry
 
 Mighty mental activity. Power of a certain doctrine, ethic or moral code.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mighty mental activity. Power of a certain doctrine, ethic or moral code.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Working with spiritual energy, influence through spiritual work, working with influential ideas, influential spiritual work, spiritual power from above, tremendous cultural work, clear actions of reason, powerful cognition actions, and powerful spiritual impulses
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Poseidon = Vulcanus` intensifies doctrine, ethics, and mental effort into forceful conviction and powerful ideology.
+- Chart expression: mighty mental activity and the strong social or psychological power of a doctrine, moral code, or system of belief.
 
 ## Links
 
@@ -61,3 +56,5 @@ Mighty mental activity. Power of a certain doctrine, ethic or moral code.
 - [Poseidon](../factors/poseidon.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Mars/Poseidon](../axes/mars-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Node/Cupido = Hades
 page_type: activation
 slug: node-cupido-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - Cupido
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Cupido`
-- Source page: `149`
 #### Witte Entry
 
 Death in the family. Funeral rites. A weakly founded poor firm.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Death in the family. Funeral rites. A weakly founded poor firm.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Danger in a common connection, secret T connection to of a community, contact with an emergency community, adverse connection to of a community, connection through a common past, and connection to a criminal community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Cupido = Hades`: Death in the family. Funeral rites. A weakly founded poor firm.
+- Practical focus: death in the family; also funeral rites.
 
 ## Links
 
@@ -61,3 +56,5 @@ Death in the family. Funeral rites. A weakly founded poor firm.
 - [Cupido](../factors/cupido.md)
 - [Hades](../factors/hades.md)
 - [Node/Cupido](../axes/node-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Cupido/Zeus = Admetos
 page_type: activation
 slug: cupido-zeus-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Cupido
   - Zeus
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Zeus`
-- Source page: `268`
 #### Witte Entry
 
 Concerted efforts hit grave obstacles. Difficult beginning of a young firm.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Concerted efforts hit grave obstacles. Difficult beginning of a young firm.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Perseverance of a leadership community, blocked efforts of a community, fire blocked community, consolidation of a determined community, fire restriction by of a community, and fundamental efforts in of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Zeus = Admetos`: a collective project that exists in intent but must push through heavy resistance before it can stand. Main caution: mistaking sheer blockage for a sign that the foundation is sound or necessary.
 
 ## Links
 
@@ -61,3 +55,5 @@ Concerted efforts hit grave obstacles. Difficult beginning of a young firm.
 - [Zeus](../factors/zeus.md)
 - [Admetos](../factors/admetos.md)
 - [Cupido/Zeus](../axes/cupido-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

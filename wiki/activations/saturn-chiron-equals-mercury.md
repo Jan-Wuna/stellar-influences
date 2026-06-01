@@ -33,30 +33,14 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Saturn/Chiron midpoint`
-- Source page: `87`
-- Activator: `Mercury`
-
 #### Sandbach Entry
 
 To be able to communicate in a limited, careful way that is simple and pro foundly targets exactly what needs to be said for the purpose of healing.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Chiron = Mercury` communicates Saturn/Chiron through careful, simple, targeted speech. It can say exactly what is needed for healing; the caution is that excessive control can become silence, stiffness, or overly narrow thinking.
 
 ## Links
 

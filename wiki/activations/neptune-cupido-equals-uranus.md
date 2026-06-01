@@ -3,7 +3,7 @@ title: Neptune/Cupido = Uranus
 page_type: activation
 slug: neptune-cupido-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Neptune
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Cupido`
-- Source page: `247`
 #### Witte Entry
 
 Sudden rupture in married life. Sudden grief in married life through death or accident. Sudden dissolution of a community under revolutionary aspects. Sudden events in a secret organization.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sudden rupture in married life. Sudden grief in married life through death or accident. Sudden dissolution of a community under revolutionary aspects. Sudden events in a secret organization.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dissolution of a technical community, exchangeable peace event, memorable rhythms in the water, common tensions in the air, nervous weak cine community, and refined rhythms of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Cupido = Uranus`: Sudden rupture in married life. Sudden grief in married life through death or accident. Sudden dissolution of a community under revolutionary aspects. Sudden events in a secret organization.
+- Practical focus: breaks communal instability open through sudden rupture, accident, death, or revolution, bringing abrupt endings in marriage, group life, or secret organizational activity.
+- Practical expression: dissolution of a technical community, exchangeable peace event, memorable rhythms in the water, and common tensions in the air.
 
 ## Links
 
@@ -61,3 +57,5 @@ Sudden rupture in married life. Sudden grief in married life through death or ac
 - [Cupido](../factors/cupido.md)
 - [Uranus](../factors/uranus.md)
 - [Neptune/Cupido](../axes/neptune-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

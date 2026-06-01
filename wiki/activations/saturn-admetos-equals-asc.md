@@ -3,7 +3,7 @@ title: Saturn/Admetos = Asc
 page_type: activation
 slug: saturn-admetos-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Asc
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Admetos`
-- Source page: `229`
 #### Witte Entry
 
 To get into trouble through others. Another person is in trouble or in a forced position.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To get into trouble through others. Another person is in trouble or in a forced position.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Age restrictions of the partner, serious depressions of the partner, patient deepening in one place, patient concentration on the partner, serious blockade of a place, cycle:.problems of the partner, and deepening in environmental tasks
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Admetos = Asc`: to get into trouble through others, another person is in trouble or in a forced position.
+- Practical expression: age restrictions of the partner, serious depressions of the partner, patient deepening in one place, patient concentration on the partner, and serious blockade of a place.
 
 ## Links
 
@@ -61,3 +56,5 @@ To get into trouble through others. Another person is in trouble or in a forced 
 - [Admetos](../factors/admetos.md)
 - [Asc](../factors/asc.md)
 - [Saturn/Admetos](../axes/saturn-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Mercury/Apollon = Hades
 page_type: activation
 slug: mercury-apollon-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Hades
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Apollon`
-- Source page: `170`
 #### Witte Entry
 
 To speak with many about the past. Many feel oppressed who do not dare to express their opinion, who hide their feelings.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To speak with many about the past. Many feel oppressed who do not dare to express their opinion, who hide their feelings.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful secret language, successful language about the past, dangers of freedom for the youth, dangerous media freedom, language about success deficiency, adverse experiences of the youth, emergency call of the 1-landel, and dissemination of old languages
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Apollon = Hades` darkens the axis into oppressed opinion, hidden feeling, and heavy discussion of the past.
+- Chart expression: conversations shaped by burden, history, or repression, where many think or feel strongly but do not easily express what they carry.
 
 ## Links
 
@@ -61,3 +56,5 @@ To speak with many about the past. Many feel oppressed who do not dare to expres
 - [Apollon](../factors/apollon.md)
 - [Hades](../factors/hades.md)
 - [Mercury/Apollon](../axes/mercury-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

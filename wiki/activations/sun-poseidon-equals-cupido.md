@@ -3,7 +3,7 @@ title: Sun/Poseidon = Cupido
 page_type: activation
 slug: sun-poseidon-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Cupido
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Poseidon`
-- Source page: `118`
 #### Witte Entry
 
 Matrimony with spiritual trend. The ideological connection with a community.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Matrimony with spiritual trend. The ideological connection with a community.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+insightful community of persons, shared bodily culture, people in a spiritual community, cultural center of a community, personal clarity in the community, persons of a cultural community, and reasonable human community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Poseidon = Cupido`: spiritual community and idealistic fellowship.
+- Practical expression: insightful community of persons, shared bodily culture, people in a spiritual community, cultural center of a community, and personal clarity in the community.
 
 ## Links
 
@@ -61,3 +56,5 @@ Matrimony with spiritual trend. The ideological connection with a community.
 - [Poseidon](../factors/poseidon.md)
 - [Cupido](../factors/cupido.md)
 - [Sun/Poseidon](../axes/sun-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

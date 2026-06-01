@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Cupido + Cupido`
-- Source page: `265`
 #### Witte Entry
 
 Work partnership. Marriage. Marriage partnership. Artistic activities. To establish married life. To be active in a community. Work community. Labor unions. The active family. Working for the family, association or a joint-stock company. Social work.
 
-## Comparative Schema
-
-- core meaning: Work partnership. Marriage. Marriage partnership. Artistic activities. To establish married life. To be active in a community. Work community. Labor unions. The active family. Working for the family, association or a joint-stock company. Social work.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Cupido = Jupiter`: communal bonds expressed through work, mutual activity, and building life together through effort. Main caution: turning every bond into duty, productivity, or collective labor.
 
 ## Links
 

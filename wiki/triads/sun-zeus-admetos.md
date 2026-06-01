@@ -3,7 +3,7 @@ title: Sun Zeus Admetos
 page_type: triad_hub
 slug: sun-zeus-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Zeus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Zeus Admetos`
 - Astronomicon triad-set: `S £ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Sun/Admetos = Zeus](../activations/sun-admetos-equals-zeus.md)
-  Source page `116`
 - [Sun/Zeus = Admetos](../activations/sun-zeus-equals-admetos.md)
-  Source page `113`
 - [Zeus/Admetos = Sun](../activations/zeus-admetos-equals-sun.md)
-  Source page `293`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Sun/Admetos = Zeus`: page `116`
-- `Sun/Zeus = Admetos`: page `113`
-- `Zeus/Admetos = Sun`: page `293`
+- `Sun/Admetos = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `116`
+- `Sun/Admetos = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `169`
+- `Sun/Zeus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `113`
+- `Sun/Zeus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `163`
+- `Zeus/Admetos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `293`
+- `Zeus/Admetos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `454`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Sun/Admetos = Zeus`: This formula emphasizes creative reserve and deepening.
+- `Sun/Zeus = Admetos`: This formula emphasizes creative reserve and deepening.
+- `Zeus/Admetos = Sun`: To be adaptable. Days on which the surroundings show a completely new face. The man who faces entirely new conditions and completely changed surroundings, who has to cope with new things and implements.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Zeus](../factors/zeus.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

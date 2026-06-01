@@ -3,7 +3,7 @@ title: MC/Kronos = Admetos
 page_type: activation
 slug: mc-kronos-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Kronos
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Kronos`
-- Source page: `73`
 #### Witte Entry
 
 One’s own capability finds no recognition. An authority in a small circle. The end of authority.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: One’s own capability finds no recognition. An authority in a small circle. The end of authority.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Consolidation of my self esteem, my firm standing, my limited self esteem, my blocked authority, my limitation by the boss, my submission by the authority, and resistance by a great soul
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Kronos = Admetos` narrows the axis through unrecognized ability and reduced authority.
+- Chart expression: greatness confined to a small circle, capability that finds little acknowledgment, and authority under compression, decline, or eventual termination.
 
 ## Links
 
@@ -61,3 +56,5 @@ One’s own capability finds no recognition. An authority in a small circle. The
 - [Kronos](../factors/kronos.md)
 - [Admetos](../factors/admetos.md)
 - [MC/Kronos](../axes/mc-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

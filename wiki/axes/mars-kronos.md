@@ -3,7 +3,7 @@ title: Mars/Kronos
 page_type: axis
 slug: mars-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Kronos
@@ -11,26 +11,26 @@ normalized_axis: Mars/Kronos
 factor_a: Mars
 factor_b: Kronos
 related_activations:
-  - Mars/Kronos = Vernal Point
-  - Mars/Kronos = MC
+  - Mars/Kronos = Admetos
+  - Mars/Kronos = Apollon
   - Mars/Kronos = Asc
-  - Mars/Kronos = Sun
-  - Mars/Kronos = Moon
-  - Mars/Kronos = Node
-  - Mars/Kronos = Mercury
-  - Mars/Kronos = Venus
-  - Mars/Kronos = Jupiter
-  - Mars/Kronos = Saturn
-  - Mars/Kronos = Uranus
-  - Mars/Kronos = Neptune
-  - Mars/Kronos = Pluto
   - Mars/Kronos = Cupido
   - Mars/Kronos = Hades
-  - Mars/Kronos = Zeus
-  - Mars/Kronos = Apollon
-  - Mars/Kronos = Admetos
-  - Mars/Kronos = Vulcanus
+  - Mars/Kronos = Jupiter
+  - Mars/Kronos = MC
+  - Mars/Kronos = Mercury
+  - Mars/Kronos = Moon
+  - Mars/Kronos = Neptune
+  - Mars/Kronos = Node
+  - Mars/Kronos = Pluto
   - Mars/Kronos = Poseidon
+  - Mars/Kronos = Saturn
+  - Mars/Kronos = Sun
+  - Mars/Kronos = Uranus
+  - Mars/Kronos = Venus
+  - Mars/Kronos = Vernal Point
+  - Mars/Kronos = Vulcanus
+  - Mars/Kronos = Zeus
 related_triad_hubs:
   - Mars Asc Kronos
   - Mars Cupido Kronos
@@ -56,15 +56,15 @@ aliases:
   - Kronos/Mars
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Axis: `Mars/Kronos`
 - Astronomicon axis: `U/¤`
-- Source heading: `Mars + Kronos`
-- Source page: `200`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
@@ -74,48 +74,44 @@ updated_at: 2026-04-21
 
 To act independently. Autocratic actions. Main formula for the great leader and organizer. Master of the house. Police. Power of the state. Procedure indicated by power of government. Police authority. Penal law. Work in areas that go beyond the ordinary.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To act independently. Autocratic actions. Main formula for the great leader and organizer. Master of the house. Police. Power of the state. Procedure indicated by power of government. Police authority. Penal law. Work in areas that go beyond the ordinary.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+#### ABC Pair Summary
+
+Authoritats actions, special actions, chief work, dominant force, great work, self conscious action, self employed work, state activity, superior action, priority activity, and important work
 
 ## Related Activations
 
-- [Mars/Kronos = Vernal Point](../activations/mars-kronos-equals-vernal-point.md)
-- [Mars/Kronos = MC](../activations/mars-kronos-equals-mc.md)
+- [Mars/Kronos = Admetos](../activations/mars-kronos-equals-admetos.md)
+- [Mars/Kronos = Apollon](../activations/mars-kronos-equals-apollon.md)
 - [Mars/Kronos = Asc](../activations/mars-kronos-equals-asc.md)
-- [Mars/Kronos = Sun](../activations/mars-kronos-equals-sun.md)
-- [Mars/Kronos = Moon](../activations/mars-kronos-equals-moon.md)
-- [Mars/Kronos = Node](../activations/mars-kronos-equals-node.md)
-- [Mars/Kronos = Mercury](../activations/mars-kronos-equals-mercury.md)
-- [Mars/Kronos = Venus](../activations/mars-kronos-equals-venus.md)
-- [Mars/Kronos = Jupiter](../activations/mars-kronos-equals-jupiter.md)
-- [Mars/Kronos = Saturn](../activations/mars-kronos-equals-saturn.md)
-- [Mars/Kronos = Uranus](../activations/mars-kronos-equals-uranus.md)
-- [Mars/Kronos = Neptune](../activations/mars-kronos-equals-neptune.md)
-- [Mars/Kronos = Pluto](../activations/mars-kronos-equals-pluto.md)
 - [Mars/Kronos = Cupido](../activations/mars-kronos-equals-cupido.md)
 - [Mars/Kronos = Hades](../activations/mars-kronos-equals-hades.md)
-- [Mars/Kronos = Zeus](../activations/mars-kronos-equals-zeus.md)
-- [Mars/Kronos = Apollon](../activations/mars-kronos-equals-apollon.md)
-- [Mars/Kronos = Admetos](../activations/mars-kronos-equals-admetos.md)
-- [Mars/Kronos = Vulcanus](../activations/mars-kronos-equals-vulcanus.md)
+- [Mars/Kronos = Jupiter](../activations/mars-kronos-equals-jupiter.md)
+- [Mars/Kronos = MC](../activations/mars-kronos-equals-mc.md)
+- [Mars/Kronos = Mercury](../activations/mars-kronos-equals-mercury.md)
+- [Mars/Kronos = Moon](../activations/mars-kronos-equals-moon.md)
+- [Mars/Kronos = Neptune](../activations/mars-kronos-equals-neptune.md)
+- [Mars/Kronos = Node](../activations/mars-kronos-equals-node.md)
+- [Mars/Kronos = Pluto](../activations/mars-kronos-equals-pluto.md)
 - [Mars/Kronos = Poseidon](../activations/mars-kronos-equals-poseidon.md)
+- [Mars/Kronos = Saturn](../activations/mars-kronos-equals-saturn.md)
+- [Mars/Kronos = Sun](../activations/mars-kronos-equals-sun.md)
+- [Mars/Kronos = Uranus](../activations/mars-kronos-equals-uranus.md)
+- [Mars/Kronos = Venus](../activations/mars-kronos-equals-venus.md)
+- [Mars/Kronos = Vernal Point](../activations/mars-kronos-equals-vernal-point.md)
+- [Mars/Kronos = Vulcanus](../activations/mars-kronos-equals-vulcanus.md)
+- [Mars/Kronos = Zeus](../activations/mars-kronos-equals-zeus.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Kronos` is the axis of independent force, executive action, and power exercised through command, law, or official authority.
+- Chart expression: autocratic initiative, leadership and organization backed by institutional strength, police or governmental enforcement, penal authority, and work that operates beyond ordinary limits or ordinary permission.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Kronos](../factors/kronos.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

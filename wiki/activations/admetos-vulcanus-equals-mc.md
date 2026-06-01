@@ -3,7 +3,7 @@ title: Admetos/Vulcanus = MC
 page_type: activation
 slug: admetos-vulcanus-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Admetos
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Admetos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Admetos + Vulcanus`
-- Source page: `311`
 #### Witte Entry
 
 Great perseverance. To stay firm without wilting or bending. Hard in taking it. To be harshly treated by fate.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great perseverance. To stay firm without wilting or bending. Hard in taking it. To be harshly treated by fate.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+End of my power, profound influence of the soul, my blocked cycle, my profound influence, my infiltration, my energy and perseverance, my energy blockade, my power strengthening, and the undisturbed power of the soul
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Admetos/Vulcanus = MC`: stoic endurance, strength under pressure, and a life direction shaped by having to bear more than most people would tolerate. Main caution: hardened soul-direction: resilience can become severity, emotional dryness, or refusal to bend even when adaptation is needed.
 
 ## Links
 
@@ -61,3 +55,5 @@ Great perseverance. To stay firm without wilting or bending. Hard in taking it. 
 - [Vulcanus](../factors/vulcanus.md)
 - [MC](../factors/mc.md)
 - [Admetos/Vulcanus](../axes/admetos-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

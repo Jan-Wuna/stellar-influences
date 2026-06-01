@@ -3,7 +3,7 @@ title: Vernal Point/Vulcanus = Pluto
 page_type: activation
 slug: vernal-point-vulcanus-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Pluto
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Vulcanus`
-- Source page: `54`
 #### Witte Entry
 
 A forced change or transformation.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A forced change or transformation.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+World power changes, change of power in the public sphere, public sphere EnergicTransfonnation, public sphere Power developments, strong increases in the public sphere, and growing energy in the public sphere Life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Vulcanus = Pluto`: a forced change or transformation.
+- Practical expression: world power changes, change of power in the public sphere, public sphere EnergicTransfonnation, public sphere Power developments, and strong increases in the public sphere.
 
 ## Links
 
@@ -61,3 +56,5 @@ A forced change or transformation.
 - [Vulcanus](../factors/vulcanus.md)
 - [Pluto](../factors/pluto.md)
 - [Vernal Point/Vulcanus](../axes/vernal-point-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Hades/Poseidon = Cupido
 page_type: activation
 slug: hades-poseidon-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Cupido
   - Hades
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Poseidon`
-- Source page: `286`
 #### Witte Entry
 
 To resent the masses. To be happy in special or exclusive circles. To be an adherent of odd ideological groups which are considered as fractional groups.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To resent the masses. To be happy in special or exclusive circles. To be an adherent of odd ideological groups which are considered as fractional groups.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Community in old age, cultural community in danger, common cultural past, common spiritual service, lack of clarity of a community, hidden truth of a community, and renunciation of a spiritual community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Poseidon = Cupido`: belonging through separation. It can show selective association, factional identity, and comfort inside rarefied or eccentric communities rather than ordinary collective life.
 
 ## Links
 
@@ -61,3 +55,5 @@ To resent the masses. To be happy in special or exclusive circles. To be an adhe
 - [Poseidon](../factors/poseidon.md)
 - [Cupido](../factors/cupido.md)
 - [Hades/Poseidon](../axes/hades-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

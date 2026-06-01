@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Admetos + Admetos`
-- Source page: `310`
 #### Witte Entry
 
 Narcotics. Poisons. Deadly poison or drinks. Decay, decline, shrinkage. Lack of water. Lack of air. Cold air, ice, turning into ice. To change from one aggregate to another. Solidification. The process of freezing or thawing. To soften or harden.
 
-## Comparative Schema
-
-- core meaning: Narcotics. Poisons. Deadly poison or drinks. Decay, decline, shrinkage. Lack of water. Lack of air. Cold air, ice, turning into ice. To change from one aggregate to another. Solidification. The process of freezing or thawing. To soften or harden.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Admetos/Admetos = Neptune`: subtle material change, chemical transition, and the penetration of fixed conditions by invisible agents. Main caution: toxic decline: narcotics, poison, suffocation, or dissolution that weakens life until only cold residue and altered states remain.
 
 ## Links
 

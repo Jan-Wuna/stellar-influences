@@ -3,7 +3,7 @@ title: Saturn/Hades = Apollon
 page_type: activation
 slug: saturn-hades-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Hades
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Hades`
-- Source page: `225`
 #### Witte Entry
 
 Great weakening. To suffer many hostilities. To have many enemies.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great weakening. To suffer many hostilities. To have many enemies.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Hard experiences from the past, concentration on hidden knowledge, maturity through secret knowledge, multiplication of need in old age, extensive disadvantages due to separation, losses due to lack of knowledge, and much grief and pain
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Hades = Apollon`: great weakening, to suffer many hostilities, to have many enemies.
+- Practical expression: hard experiences from the past, concentration on hidden knowledge, maturity through secret knowledge, multiplication of need in old age, and extensive disadvantages due to separation.
 
 ## Links
 
@@ -61,3 +56,5 @@ Great weakening. To suffer many hostilities. To have many enemies.
 - [Hades](../factors/hades.md)
 - [Apollon](../factors/apollon.md)
 - [Saturn/Hades](../axes/saturn-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

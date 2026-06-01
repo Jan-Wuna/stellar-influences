@@ -3,7 +3,7 @@ title: Admetos/Vulcanus = Kronos
 page_type: activation
 slug: admetos-vulcanus-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Admetos
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Kronos
   - Admetos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Admetos + Vulcanus`
-- Source page: `311`
 #### Witte Entry
 
 To be noted through something which is extraordinary. To draw attention through unusual events and odd or peculiar fateful occurrences.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be noted through something which is extraordinary. To draw attention through unusual events and odd or peculiar fateful occurrences.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Constricted State Power, End of State Power, Energy and Perseverance of State, Limitations of State Violence, Strength of State Power, State Resistance to Violence, and Resistance to the Influence of Authority
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Admetos/Vulcanus = Kronos`: conspicuous endurance, authority under trial, and attention drawn by severe or singular circumstances. Main caution: notoriety through suffering: distinction can come from harsh fate rather than healthy mastery.
 
 ## Links
 
@@ -61,3 +55,5 @@ To be noted through something which is extraordinary. To draw attention through 
 - [Vulcanus](../factors/vulcanus.md)
 - [Kronos](../factors/kronos.md)
 - [Admetos/Vulcanus](../axes/admetos-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Zeus/Admetos = Asc
 page_type: activation
 slug: zeus-admetos-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - Zeus
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Admetos`
-- Source page: `293`
 #### Witte Entry
 
 To come into changed states through others or with others, and have to solve new tasks with them. To solve problematic tasks with other people. Facing and overcoming environmental problems.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To come into changed states through others or with others, and have to solve new tasks with them. To solve problematic tasks with other people. Facing and overcoming environmental problems.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exhaustive efforts with other, beginning depression of the partner, blocked place handling, fire damming at the place, consolidated place handling, grundliche efforts of the partner, performance restrictions of the partner, and resistance against place handling
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Admetos = Asc`: To come into changed states through others or with others, and have to solve new tasks with them. To solve problematic tasks with other people. Facing and overcoming environmental problems.
+- Practical expression: exhaustive efforts with other, beginning depression of the partner, blocked place handling, fire damming at the place, and consolidated place handling.
 
 ## Links
 
@@ -61,3 +56,5 @@ To come into changed states through others or with others, and have to solve new
 - [Admetos](../factors/admetos.md)
 - [Asc](../factors/asc.md)
 - [Zeus/Admetos](../axes/zeus-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

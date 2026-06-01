@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Mars Saturn Chiron`
 - Astronomicon triad-set: `U W Chiron`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Mars/Saturn = Chiron`: John, page `68`
 - `Saturn/Chiron = Mars`: John, page `87`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Chiron = Saturn`: fear-based restraint, difficult healing work, and growth through learning how to act without collapsing into anxiety. Its constructive outcome is clear boundaries; its shadow is hesitation that prolongs the very conflict one wants to resolve.
+- `Mars/Saturn = Chiron` helps blocked or repressed force find a meaningful release.
+- `Saturn/Chiron = Mars` makes action careful, concentrated, and exact enough to become healing. It favors disciplined intervention, precise work, and focused effort; the caution is that haste, force, or anger can spoil the very precision that makes the action useful.
 
 ## Links
 

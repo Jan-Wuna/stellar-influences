@@ -3,7 +3,7 @@ title: Mercury Jupiter Cupido
 page_type: triad_hub
 slug: mercury-jupiter-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Jupiter
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Jupiter Cupido`
 - Astronomicon triad-set: `T V ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Cupido = Mercury](../activations/jupiter-cupido-equals-mercury.md)
-  Source page `211`
 - [Mercury/Cupido = Jupiter](../activations/mercury-cupido-equals-jupiter.md)
-  Source page `166`
 - [Mercury/Jupiter = Cupido](../activations/mercury-jupiter-equals-cupido.md)
-  Source page `161`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Cupido = Mercury`: page `211`
-- `Mercury/Cupido = Jupiter`: page `166`
-- `Mercury/Jupiter = Cupido`: page `161`
+- `Jupiter/Cupido = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `211`
+- `Jupiter/Cupido = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `332`
+- `Mercury/Cupido = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `166`
+- `Mercury/Cupido = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `254`
+- `Mercury/Jupiter = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `161`
+- `Mercury/Jupiter = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `245`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Cupido = Mercury`: thinking about happy marriage, cheerful table conversation, and information or plans concerning family or company finances.
+- `Mercury/Cupido = Jupiter`: brightens the axis through fortunate sociability and successful shared plans.
+- `Mercury/Jupiter = Cupido`: socializes the axis into festive company, ceremony, and cheerful speech.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Jupiter](../factors/jupiter.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

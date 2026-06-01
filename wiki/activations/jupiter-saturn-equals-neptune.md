@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Saturn`
-- Source page: `207`
 #### Witte Entry
 
 To put off a decision. A matter takes a very long time to mature, is deferred. Malevolent separation. Loss of money as a result of fraud. Destruction of buildings.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Jupiter/Saturn`
-- Source page: `226`
-- Entry: `0789`
+#### ABC Entry
+
+Achievements in the air, urban water law, urban intuitions in old age, urban legal development, and urban development
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Pessimism, feeling of abandonment, tendency to begrudge other people's good fort
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Jupiter/Saturn midpoint`
-- Source page: `78`
-- Activator: `Neptune`
-
 #### Sandbach Entry
 
 One needs to be intuitive when it comes to deciding what one should do. A confusion about what one should do. One with persistent idealism.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Ideas for a more perfect society; dreams about changes you need to implement in your life or business; added needs to avoid change even when needed; brings disillusionment about the relative pace of progress.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Saturn = Neptune`: long-maturing situations, intuitive searching for moral direction, and the struggle to keep faith realistic under discouraging conditions. Main caution: pessimistic confusion: decisions may be deferred too long, losses can follow vague judgment, and loneliness may deepen if ideals are not grounded.
 
 ## Links
 
@@ -84,7 +76,8 @@ One needs to be intuitive when it comes to deciding what one should do. A confus
 - [Saturn](../factors/saturn.md)
 - [Neptune](../factors/neptune.md)
 - [Jupiter/Saturn](../axes/jupiter-saturn.md)
-- [Jupiter Saturn Neptune](../triads/jupiter-saturn-neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

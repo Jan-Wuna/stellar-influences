@@ -3,7 +3,7 @@ title: Vernal Point/MC = Saturn
 page_type: activation
 slug: vernal-point-mc-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - MC
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Saturn
   - MC
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + MC`
-- Source page: `35`
 #### Witte Entry
 
 To be mournful with others. To appear repulsive or clumsy. To have losses. To feel abandoned or lonely.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be mournful with others. To appear repulsive or clumsy. To have losses. To feel abandoned or lonely.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Soulful evening in public, my burden in public, my problems in public life, my losses in public, a psychologically disturbed public, and a loss filled minute in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/MC = Saturn`: to be mournful with others, to appear repulsive or clumsy, to have losses, and to feel abandoned or lonely.
+- Practical expression: soulful evening in public, my burden in public, my problems in public life, my losses in public, and a psychologically disturbed public.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be mournful with others. To appear repulsive or clumsy. To have losses. To fe
 - [MC](../factors/mc.md)
 - [Saturn](../factors/saturn.md)
 - [Vernal Point/MC](../axes/vernal-point-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

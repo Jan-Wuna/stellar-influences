@@ -3,10 +3,10 @@ title: Sun/MC = Hades
 page_type: activation
 slug: sun-mc-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Sun
+  - MC
   - Hades
 normalized_formula: Sun/MC = Hades
 axis: Sun/MC
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - MC
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Sun`
-- Source page: `59`
 #### Witte Entry
 
 Defects of the body react upon the soul and the reverse, which results in displeasure and unease. To feel disgusted.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Defects of the body react upon the soul and the reverse, which results in displeasure and unease. To feel disgusted.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Danger to body and soul, grief of my husband, criminal soul of a man, my personal secret, my caring disadvantage, my personal lack, a person's spiritual past, a man's hidden soul Fiery soul of a man, the design of the inner being in man, and my fiery man
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/MC = Hades`: a burdened life direction and suffering attached to worldly standing.
+- Practical expression: danger to body, soul, grief of my husband, criminal soul of a man, and my personal secret.
 
 ## Links
 
@@ -61,3 +56,5 @@ Defects of the body react upon the soul and the reverse, which results in disple
 - [MC](../factors/mc.md)
 - [Hades](../factors/hades.md)
 - [Sun/MC](../axes/sun-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

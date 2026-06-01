@@ -3,7 +3,7 @@ title: Asc Zeus Vulcanus
 page_type: triad_hub
 slug: asc-zeus-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Zeus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Asc Zeus Vulcanus`
 - Astronomicon triad-set: `Asc £ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Vulcanus = Zeus](../activations/asc-vulcanus-equals-zeus.md)
-  Source page `97`
 - [Asc/Zeus = Vulcanus](../activations/asc-zeus-equals-vulcanus.md)
-  Source page `93`
 - [Zeus/Vulcanus = Asc](../activations/zeus-vulcanus-equals-asc.md)
-  Source page `295`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Vulcanus = Zeus`: page `97`
-- `Asc/Zeus = Vulcanus`: page `93`
-- `Zeus/Vulcanus = Asc`: page `295`
+- `Asc/Vulcanus = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `97`
+- `Asc/Vulcanus = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `135`
+- `Asc/Zeus = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `93`
+- `Asc/Zeus = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `127`
+- `Zeus/Vulcanus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `295`
+- `Zeus/Vulcanus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `456`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Vulcanus = Zeus`: others carrying their point by focusing force and superiority toward a specific aim.
+- `Asc/Zeus = Vulcanus`: others imposing will, bodily superiority, and direct handling of strong mechanical forces.
+- `Zeus/Vulcanus = Asc`: Toconcentrate, to center all efforts for one purpose in cooperation with others. To direct the efforts of others to one goal.
 
 ## Links
 
 - [Asc](../factors/asc.md)
 - [Zeus](../factors/zeus.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

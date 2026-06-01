@@ -3,7 +3,7 @@ title: Mercury Node Poseidon
 page_type: triad_hub
 slug: mercury-node-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Node Poseidon`
 - Astronomicon triad-set: `T g ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Node = Poseidon](../activations/mercury-node-equals-poseidon.md)
-  Source page `141`
 - [Mercury/Poseidon = Node](../activations/mercury-poseidon-equals-node.md)
-  Source page `173`
 - [Node/Poseidon = Mercury](../activations/node-poseidon-equals-mercury.md)
-  Source page `156`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Node = Poseidon`: page `141`
-- `Mercury/Poseidon = Node`: page `173`
-- `Node/Poseidon = Mercury`: page `156`
+- `Mercury/Node = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `141`
+- `Mercury/Node = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `209`
+- `Mercury/Poseidon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `173`
+- `Mercury/Poseidon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `268`
+- `Node/Poseidon = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `156`
+- `Node/Poseidon = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `238`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Node = Poseidon`: spiritualizes the axis into communion of ideas.
+- `Mercury/Poseidon = Node`: Connected with people who are spiritually minded.
+- `Node/Poseidon = Mercury`: Mental connections through ideas, speech, correspondence, newspapers, books or connection with these things.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Node](../factors/node.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

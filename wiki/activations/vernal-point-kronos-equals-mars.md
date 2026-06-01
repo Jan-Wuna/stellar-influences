@@ -3,7 +3,7 @@ title: Vernal Point/Kronos = Mars
 page_type: activation
 slug: vernal-point-kronos-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Mars
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Kronos`
-- Source page: `51`
 #### Witte Entry
 
 Leadership. Great deeds of leading persons or the state. Great deeds in general. Mining and metallurgical industry.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Leadership. Great deeds of leading persons or the state. Great deeds in general. Mining and metallurgical industry.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Authority for Public Work, Public Work of the State, Self governing activity in the public, State acts in the public, Effective Public Authoritat, and Important work in the public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Kronos = Mars`: leadership, great deeds of leading persons or the state, great deeds in general, and mining and metallurgical industry.
+- Practical expression: authority for Public Work, public Work of the State, self governing activity in the public, and state acts in the public.
 
 ## Links
 
@@ -61,3 +56,5 @@ Leadership. Great deeds of leading persons or the state. Great deeds in general.
 - [Kronos](../factors/kronos.md)
 - [Mars](../factors/mars.md)
 - [Vernal Point/Kronos](../axes/vernal-point-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

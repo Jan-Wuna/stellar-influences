@@ -3,7 +3,7 @@ title: Vernal Point Asc Cupido
 page_type: triad_hub
 slug: vernal-point-asc-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Asc Cupido`
 - Astronomicon triad-set: `VP Asc ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Cupido = Vernal Point](../activations/asc-cupido-equals-vernal-point.md)
-  Source page `91`
 - [Vernal Point/Asc = Cupido](../activations/vernal-point-asc-equals-cupido.md)
-  Source page `36`
 - [Vernal Point/Cupido = Asc](../activations/vernal-point-cupido-equals-asc.md)
-  Source page `48`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Cupido = Vernal Point`: page `91`
-- `Vernal Point/Asc = Cupido`: page `36`
-- `Vernal Point/Cupido = Asc`: page `48`
+- `Asc/Cupido = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `91`
+- `Asc/Cupido = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `121`
+- `Vernal Point/Asc = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `36`
+- `Vernal Point/Asc = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `21`
+- `Vernal Point/Cupido = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `48`
+- `Vernal Point/Cupido = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `44`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Cupido = Vernal Point`: dwellings, family forms, and social life as a visible part of the general public or wider collective environment.
+- `Vernal Point/Asc = Cupido`: This formula emphasizes family celebration, sociableness, brought together by art, to attend a concert, and inhabited country or area.
+- `Vernal Point/Cupido = Asc`: This formula emphasizes a Partner in a partnership, association or company.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Asc](../factors/asc.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

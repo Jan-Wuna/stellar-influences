@@ -3,7 +3,7 @@ title: Kronos/Apollon = Zeus
 page_type: activation
 slug: kronos-apollon-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Zeus
   - Kronos
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Kronos + Apollon`
-- Source page: `299`
 #### Witte Entry
 
 Enlarging of the field of operation. Expanding economic life. New branches in the economic system. To specialize in science.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Enlarging of the field of operation. Expanding economic life. New branches in the economic system. To specialize in science.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special objective in the economy, successful efforts of the hierarchy, successful state leadership, great achievement, striving for self sustaining experience, important leadership experience, and increase of self sustaining achievements
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Apollon = Zeus`: enlarging the field of action, expanding economic life, creating new branches of a system, and specializing in science.
+- Chart expression: strategic growth, institution-building, and expert authority expressed through directed expansion and specialization.
 
 ## Links
 
@@ -61,3 +56,5 @@ Enlarging of the field of operation. Expanding economic life. New branches in th
 - [Apollon](../factors/apollon.md)
 - [Zeus](../factors/zeus.md)
 - [Kronos/Apollon](../axes/kronos-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

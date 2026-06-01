@@ -3,7 +3,7 @@ title: Sun/Admetos = Poseidon
 page_type: activation
 slug: sun-admetos-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Admetos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Admetos`
-- Source page: `116`
 #### Witte Entry
 
 To go mentally to the bottom of a matter.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To go mentally to the bottom of a matter.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blockage of mind and body, depressing mens' insights, restricted human culture, mentally consolidated man, personal spiritual deepening, stabilization of mind and body, and deepening of a man into the truth
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Admetos = Poseidon`: to go mentally to the bottom of a matter.
+- Practical expression: blockage of mind, body, depressing mens' insights, restricted human culture, and mentally consolidated man.
 
 ## Links
 
@@ -61,3 +56,5 @@ To go mentally to the bottom of a matter.
 - [Admetos](../factors/admetos.md)
 - [Poseidon](../factors/poseidon.md)
 - [Sun/Admetos](../axes/sun-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

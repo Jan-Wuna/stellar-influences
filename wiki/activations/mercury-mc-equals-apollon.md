@@ -3,10 +3,10 @@ title: Mercury/MC = Apollon
 page_type: activation
 slug: mercury-mc-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Mercury
+  - MC
   - Apollon
 normalized_formula: Mercury/MC = Apollon
 axis: Mercury/MC
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - MC
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Mercury`
-- Source page: `62`
 #### Witte Entry
 
 Thinking about trade and traffic. Scientific chinking. Talkative. To speak several languages.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Thinking about trade and traffic. Scientific chinking. Talkative. To speak several languages.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Extension of my thoughts, I think of expansion, my success by writing, my thought fillet, my experience in thinking, my successes in youth, my thought freeness, and scientific description of the soul
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/MC = Apollon` broadens the axis into trade, science, talk, and multiple languages.
+- Chart expression: a mind directed toward commerce, transport, research, and wide communication, with talkativeness and multilingual ability supporting an expansive intellectual role.
 
 ## Links
 
@@ -61,3 +56,5 @@ Thinking about trade and traffic. Scientific chinking. Talkative. To speak sever
 - [MC](../factors/mc.md)
 - [Apollon](../factors/apollon.md)
 - [Mercury/MC](../axes/mercury-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

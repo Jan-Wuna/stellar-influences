@@ -3,7 +3,7 @@ title: Mercury/Cupido = Vulcanus
 page_type: activation
 slug: mercury-cupido-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Cupido
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Cupido`
-- Source page: `166`
 #### Witte Entry
 
 Excited conversation (dispute) in a greater community. Emphatic words or decrees of an influential association or community.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Excited conversation (dispute) in a greater community. Emphatic words or decrees of an influential association or community.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Energy Community reports, news on violence in the Community, influential media community, youth violence in the Community, power of common thought, the power of artistic language, and language violence in the Community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Cupido = Vulcanus` strengthens the axis into forceful communal speech and heated group discussion.
+- Chart expression: emphatic words, disputes in larger communities, and influential associations using strong or authoritative expression to shape collective feeling and response.
 
 ## Links
 
@@ -61,3 +56,5 @@ Excited conversation (dispute) in a greater community. Emphatic words or decrees
 - [Cupido](../factors/cupido.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Mercury/Cupido](../axes/mercury-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

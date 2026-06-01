@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Kronos + Kronos`
-- Source page: `298`
 #### Witte Entry
 
 Diplomacy. The great diplomat. Master of deception. Incompetent management. The great uncertainty. Unlimited uncertainty. Vaporized air. Misfortune to one’s superiors. Misfortune to the father. Confusion of the boss or the authorities. Annulment of decrees.
 
-## Comparative Schema
-
-- core meaning: Diplomacy. The great diplomat. Master of deception. Incompetent management. The great uncertainty. Unlimited uncertainty. Vaporized air. Misfortune to one’s superiors. Misfortune to the father. Confusion of the boss or the authorities. Annulment of decrees.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Kronos = Neptune`: the great diplomat, master of deception, incompetent management, annulled decrees, and misfortune or confusion affecting superiors.
+- Chart expression: subtle negotiation and high-level diplomacy, but it also warns that leadership can become vague, deceptive, or structurally incompetent.
 
 ## Links
 

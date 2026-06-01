@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Saturn Pluto`
 - Astronomicon triad-set: `V W Z`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,19 +40,27 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Jupiter/Pluto = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `210`
+- `Jupiter/Pluto = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `331`
 - `Jupiter/Pluto = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `235`
 - `Jupiter/Pluto = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `82`
+- `Jupiter/Pluto = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `268`
 - `Jupiter/Saturn = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `207`
+- `Jupiter/Saturn = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `325`
 - `Jupiter/Saturn = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `226`
 - `Jupiter/Saturn = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `78`
+- `Jupiter/Saturn = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `256`
 - `Saturn/Pluto = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `223`
+- `Saturn/Pluto = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `352`
 - `Saturn/Pluto = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `254`
 - `Saturn/Pluto = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `91`
+- `Saturn/Pluto = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `292`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Pluto = Saturn`: slowed or obstructed major ambition, the testing of power through delay and separation, and the need to transform obsession into disciplined depth.
+- `Jupiter/Saturn = Pluto`: obsessive persistence, immense effort, and transformative change brought about through long, hard pressure and disciplined will.
+- `Saturn/Pluto = Jupiter`: power disciplined by realism, with success earned through concentration, patience, and the ability to work on consequential scales.
 
 ## Links
 
@@ -59,5 +68,7 @@ updated_at: 2026-04-22
 - [Saturn](../factors/saturn.md)
 - [Pluto](../factors/pluto.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

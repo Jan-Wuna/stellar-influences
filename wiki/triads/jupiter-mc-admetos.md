@@ -3,7 +3,7 @@ title: Jupiter MC Admetos
 page_type: triad_hub
 slug: jupiter-mc-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter MC Admetos`
 - Astronomicon triad-set: `V MC ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Admetos = MC](../activations/jupiter-admetos-equals-mc.md)
-  Source page `216`
 - [Jupiter/MC = Admetos](../activations/jupiter-mc-equals-admetos.md)
-  Source page `65`
 - [MC/Admetos = Jupiter](../activations/mc-admetos-equals-jupiter.md)
-  Source page `75`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Admetos = MC`: page `216`
-- `Jupiter/MC = Admetos`: page `65`
-- `MC/Admetos = Jupiter`: page `75`
+- `Jupiter/Admetos = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `216`
+- `Jupiter/Admetos = MC`: Udo Rudolph - ABC for Planetary Pictures, page `342`
+- `Jupiter/MC = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `65`
+- `Jupiter/MC = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `75`
+- `MC/Admetos = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `75`
+- `MC/Admetos = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `94`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Admetos = MC`: calm in critical moments, unshaken poise, and the ability to bide one's time.
+- `Jupiter/MC = Admetos`: luck through the soil or tangible resources, fortunate rest, small luck, and the possible ending or reduction of good fortune.
+- `MC/Admetos = Jupiter`: tempers the axis with muted fortune and benefit tied to dense or foundational resources.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [MC](../factors/mc.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

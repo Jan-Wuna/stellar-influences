@@ -3,10 +3,10 @@ title: Saturn/Asc = Poseidon
 page_type: activation
 slug: saturn-asc-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Saturn
+  - Asc
   - Poseidon
 normalized_formula: Saturn/Asc = Poseidon
 axis: Saturn/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Asc
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Saturn`
-- Source page: `87`
 #### Witte Entry
 
 Mental separation. To be refused and separated mentally. To be or to become separated in matters of world-concept.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mental separation. To be refused and separated mentally. To be or to become separated in matters of world-concept.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Old spirit of a place, burdensome truth for the partner, insight of an old partner, clarity through patience of the partner, problems of a cultural place, problematic separation from the partner, recognition of environmental tasks, and loss of environmental culture
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Asc = Poseidon`: mental separation, to be refused and separated mentally, to be or to become separated in matters of world-concept.
+- Practical expression: old spirit of a place, burdensome truth for the partner, insight of an old partner, clarity through patience of the partner, and problems of a cultural place.
 
 ## Links
 
@@ -61,3 +56,5 @@ Mental separation. To be refused and separated mentally. To be or to become sepa
 - [Asc](../factors/asc.md)
 - [Poseidon](../factors/poseidon.md)
 - [Saturn/Asc](../axes/saturn-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

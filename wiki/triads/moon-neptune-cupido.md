@@ -3,7 +3,7 @@ title: Moon Neptune Cupido
 page_type: triad_hub
 slug: moon-neptune-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Neptune
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Neptune Cupido`
 - Astronomicon triad-set: `R Y ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Cupido = Neptune](../activations/moon-cupido-equals-neptune.md)
-  Source page `130`
 - [Moon/Neptune = Cupido](../activations/moon-neptune-equals-cupido.md)
-  Source page `128`
 - [Neptune/Cupido = Moon](../activations/neptune-cupido-equals-moon.md)
-  Source page `247`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Cupido = Neptune`: page `130`
-- `Moon/Neptune = Cupido`: page `128`
-- `Neptune/Cupido = Moon`: page `247`
+- `Moon/Cupido = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `130`
+- `Moon/Cupido = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `193`
+- `Moon/Neptune = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `128`
+- `Moon/Neptune = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `189`
+- `Neptune/Cupido = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `247`
+- `Neptune/Cupido = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `392`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Cupido = Neptune`: The wronged or betrayed fiance. Denial of marriage. Cheated out of leisure time. The deceived people. Social intrigues.
+- `Moon/Neptune = Cupido`: This activation socializes `Moon/Neptune` through misunderstood women, disappointed charm, and nightlife or leisure atmospheres. It points to emotional sensitivity expressed through social ambiguity, making relationship and aesthetic environments feel alluring yet hard to read clearly.
+- `Neptune/Cupido = Moon`: This activation emotionalizes communal disappointment, showing unhappiness in wife, family, or populace and casting a collective mood of sorrow, discontent, or domestic strain.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Neptune](../factors/neptune.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

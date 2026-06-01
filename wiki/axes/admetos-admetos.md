@@ -45,8 +45,6 @@ updated_at: 2026-04-21
 
 - Axis: `Admetos/Admetos`
 - Astronomicon axis: `¦/¦`
-- Source heading: `Admetos + Admetos`
-- Source page: `309`
 
 ## Source Entries
 
@@ -55,15 +53,6 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 Greatest hindrance, inhibition, separation, death or standstill. First origin. Primary material. Raw material. Rotation. Circulation. Reduction. Compression. Contraction. Raw materials cycle. Aggregation state.
-
-## Comparative Schema
-
-- core meaning: Greatest hindrance, inhibition, separation, death or standstill. First origin. Primary material. Raw material. Rotation. Circulation. Reduction. Compression. Contraction. Raw materials cycle. Aggregation state.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
@@ -89,13 +78,11 @@ Greatest hindrance, inhibition, separation, death or standstill. First origin. P
 - [Admetos/Admetos = Vulcanus](../activations/admetos-admetos-equals-vulcanus.md)
 - [Admetos/Admetos = Poseidon](../activations/admetos-admetos-equals-poseidon.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Admetos/Admetos` is the pure or doubled Admetos principle: maximum standstill, compression, depth, and reduction to essential substance. It intensifies hindrance, persistence, raw material, contraction, death, and immobility rather than mixing Admetos with any counterbalancing factor.
+- Chart expression: fixed conditions, bottlenecks, concentrated pressure, foundational layers, severe narrowing, and slow irreversible states of hardening, resting, or being driven back to first causes. Liabilities: extreme stagnation, paralysis, oppression, exhaustion, and conditions that feel dead, sealed, or unable to change.
 
 ## Links
 

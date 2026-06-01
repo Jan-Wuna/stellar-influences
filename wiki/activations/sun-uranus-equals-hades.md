@@ -3,7 +3,7 @@ title: Sun/Uranus = Hades
 page_type: activation
 slug: sun-uranus-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Uranus
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Uranus`
-- Source page: `108`
 #### Witte Entry
 
 Losses through disagreeable tension. A man energetic in misdeeds. Participants in murder affairs. To be a part of a misfortune. Ine front-line soldier.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Losses through disagreeable tension. A man energetic in misdeeds. Participants in murder affairs. To be a part of a misfortune. Ine front-line soldier.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dangerous technical center, criminal event for a person, new personal disadvantages, hiding personal tensions, sudden disadvantage for the man, surprise by a person from the past, and restlessness by corporal deficiency
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Uranus = Hades`: disruptive suffering or sudden strain under adverse conditions.
+- Practical expression: dangerous technical center, criminal event for a person, new personal disadvantages, hiding personal tensions, and sudden disadvantage for the man.
 
 ## Links
 
@@ -61,3 +56,5 @@ Losses through disagreeable tension. A man energetic in misdeeds. Participants i
 - [Uranus](../factors/uranus.md)
 - [Hades](../factors/hades.md)
 - [Sun/Uranus](../axes/sun-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

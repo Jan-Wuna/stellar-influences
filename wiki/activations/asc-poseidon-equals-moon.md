@@ -3,7 +3,7 @@ title: Asc/Poseidon = Moon
 page_type: activation
 slug: asc-poseidon-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Asc
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Poseidon`
-- Source page: `98`
 #### Witte Entry
 
 The spiritual susceptibility of other people. To become publicly known through spiritual relations with others. Spiritualized women.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The spiritual susceptibility of other people. To become publicly known through spiritual relations with others. Spiritualized women.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Other women's insight, the partner's clever ideas, the other's clear life, the culture of a people, the spiritual environment of women, the spiritualized female partner, the female as a partner, and the culture of another people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Poseidon = Moon`: emotionally receptive circles, popular response to subtle or spiritual contact, and a near field shaped by nurturing, feminine, or public sensitivity to ideals. Main caution: suggestibility or overexposure to emotional currents.
 
 ## Links
 
@@ -61,3 +55,5 @@ The spiritual susceptibility of other people. To become publicly known through s
 - [Poseidon](../factors/poseidon.md)
 - [Moon](../factors/moon.md)
 - [Asc/Poseidon](../axes/asc-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

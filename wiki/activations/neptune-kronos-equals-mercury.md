@@ -3,7 +3,7 @@ title: Neptune/Kronos = Mercury
 page_type: activation
 slug: neptune-kronos-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Neptune
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Kronos`
-- Source page: `250`
 #### Witte Entry
 
 Great or impracticable ideas. Inventions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great or impracticable ideas. Inventions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special media expectations, special features of language, exchangeable news from the state, great insecurity of young people, self sufficient air traffic, public transport, and state insecurity by the media
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Kronos = Mercury`: Great or impracticable ideas. Inventions.
+- Practical focus: mentalizes compromised authority through grand but impracticable ideas, where inventive thinking can be high-reaching yet difficult to implement in workable form.
+- Practical expression: special media expectations, special features of language, exchangeable news from the state, great insecurity of young people, and self sufficient air traffic.
 
 ## Links
 
@@ -61,3 +57,5 @@ Great or impracticable ideas. Inventions.
 - [Kronos](../factors/kronos.md)
 - [Mercury](../factors/mercury.md)
 - [Neptune/Kronos](../axes/neptune-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

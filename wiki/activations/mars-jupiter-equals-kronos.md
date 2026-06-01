@@ -3,7 +3,7 @@ title: Mars/Jupiter = Kronos
 page_type: activation
 slug: mars-jupiter-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Jupiter
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Jupiter
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Jupiter`
-- Source page: `192`
 #### Witte Entry
 
 Good fruits, fine accomplishments. Leadership through one’s own fortunate activities. Through happy activities to independence.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Good fruits, fine accomplishments. Leadership through one’s own fortunate activities. Through happy activities to independence.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Work in the money hierarchy, special legal actions, special success will, successful activity of the state, legal actions of the state, self legislative legal actions, state money trade, and important success impulses
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Jupiter = Kronos` elevates successful action into leadership, distinguished accomplishment, and self-directed authority.
+- Chart expression: fine results, visible competence, and fortunate activity that leads toward independence, rank, or the ability to guide others through one's own achievements.
 
 ## Links
 
@@ -61,3 +56,5 @@ Good fruits, fine accomplishments. Leadership through one’s own fortunate acti
 - [Jupiter](../factors/jupiter.md)
 - [Kronos](../factors/kronos.md)
 - [Mars/Jupiter](../axes/mars-jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

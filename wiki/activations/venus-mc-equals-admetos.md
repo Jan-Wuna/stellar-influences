@@ -3,10 +3,10 @@ title: Venus/MC = Admetos
 page_type: activation
 slug: venus-mc-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Venus
+  - MC
   - Admetos
 normalized_formula: Venus/MC = Admetos
 axis: Venus/MC
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - MC
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Venus`
-- Source page: `63`
 #### Witte Entry
 
 Longing for being solitude and for calm. Ones own feelings of love does not find a positive response, is confronted with coldness and aversion.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Longing for being solitude and for calm. Ones own feelings of love does not find a positive response, is confronted with coldness and aversion.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked inner peace, I strengthen the harmony, I block the harmony, I strengthen the love, I love the deepening, my perseverance in love, my restricted harmony, the lowering of my love, and the deepening of the peace of the soul
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/MC = Admetos`: longing for being solitude and for calm.
+- Practical expression: blocked inner peace, i strengthen the harmony, i block the harmony, i strengthen the love, and i love the deepening.
 
 ## Links
 
@@ -61,3 +56,5 @@ Longing for being solitude and for calm. Ones own feelings of love does not find
 - [MC](../factors/mc.md)
 - [Admetos](../factors/admetos.md)
 - [Venus/MC](../axes/venus-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

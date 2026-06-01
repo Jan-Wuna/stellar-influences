@@ -3,7 +3,7 @@ title: Sun Saturn Kronos
 page_type: triad_hub
 slug: sun-saturn-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Saturn
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Saturn Kronos`
 - Astronomicon triad-set: `S W ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Saturn/Kronos = Sun](../activations/saturn-kronos-equals-sun.md)
-  Source page `227`
 - [Sun/Kronos = Saturn](../activations/sun-kronos-equals-saturn.md)
-  Source page `114`
 - [Sun/Saturn = Kronos](../activations/sun-saturn-equals-kronos.md)
-  Source page `107`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Saturn/Kronos = Sun`: page `227`
-- `Sun/Kronos = Saturn`: page `114`
-- `Sun/Saturn = Kronos`: page `107`
+- `Saturn/Kronos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `227`
+- `Saturn/Kronos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `360`
+- `Sun/Kronos = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `114`
+- `Sun/Kronos = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `165`
+- `Sun/Saturn = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `107`
+- `Sun/Saturn = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `151`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Sun/Kronos = Saturn`: This formula emphasizes burden through authority and heavy responsibility.
+- `Sun/Saturn = Kronos`: This formula emphasizes authority burdened by responsibility and rank joined with heaviness.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Saturn](../factors/saturn.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

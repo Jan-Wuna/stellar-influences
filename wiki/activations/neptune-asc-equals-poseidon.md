@@ -3,10 +3,10 @@ title: Neptune/Asc = Poseidon
 page_type: activation
 slug: neptune-asc-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Neptune
+  - Asc
   - Poseidon
 normalized_formula: Neptune/Asc = Poseidon
 axis: Neptune/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Asc
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Neptune`
-- Source page: `89`
 #### Witte Entry
 
 To have to deal with visionary, deluded or mentally blind people. Large floods or water masses at a particular place cause uncertainties.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To have to deal with visionary, deluded or mentally blind people. Large floods or water masses at a particular place cause uncertainties.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exchange of truth of the partner, knowledge of a subtle environment, foreign cultural place, intuitions in a spiritualized environment, clear air in the environment, clear water on the spot, mental finesse of the partner, and refinement of the environmental culture
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Asc = Poseidon`: To have to deal with visionary, deluded or mentally blind people. Large floods or water masses at a particular place cause uncertainties.
+- Practical focus: spiritualizes uncertain encounters through delusion, vision, or mental blindness in others, while also linking confusion to larger environmental or collective disturbances.
+- Practical expression: exchange of truth of the partner, knowledge of a subtle environment, foreign cultural place, intuitions in a spiritualized environment, and clear air in the environment.
 
 ## Links
 
@@ -61,3 +57,5 @@ To have to deal with visionary, deluded or mentally blind people. Large floods o
 - [Asc](../factors/asc.md)
 - [Poseidon](../factors/poseidon.md)
 - [Neptune/Asc](../axes/neptune-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

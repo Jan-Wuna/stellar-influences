@@ -3,7 +3,7 @@ title: Vernal Point Venus Jupiter
 page_type: triad_hub
 slug: vernal-point-venus-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Venus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Venus Jupiter`
 - Astronomicon triad-set: `VP Q V`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Venus/Jupiter = Vernal Point](../activations/venus-jupiter-equals-vernal-point.md)
-  Source page `177`
 - [Vernal Point/Jupiter = Venus](../activations/vernal-point-jupiter-equals-venus.md)
-  Source page `43`
 - [Vernal Point/Venus = Jupiter](../activations/vernal-point-venus-equals-jupiter.md)
-  Source page `41`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Venus/Jupiter = Vernal Point`: page `177`
-- `Vernal Point/Jupiter = Venus`: page `43`
-- `Vernal Point/Venus = Jupiter`: page `41`
+- `Venus/Jupiter = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `177`
+- `Venus/Jupiter = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `272`
+- `Vernal Point/Jupiter = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `43`
+- `Vernal Point/Jupiter = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `34`
+- `Vernal Point/Venus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `41`
+- `Vernal Point/Venus = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `30`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Venus/Jupiter = Vernal Point`: love’s happiness.
+- `Vernal Point/Jupiter = Venus`: This formula emphasizes the Jove-happiness of women.
+- `Vernal Point/Venus = Jupiter`: This formula emphasizes bliss and happiness through general peace.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Venus](../factors/venus.md)
 - [Jupiter](../factors/jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

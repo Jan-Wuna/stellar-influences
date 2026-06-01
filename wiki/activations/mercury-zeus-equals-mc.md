@@ -3,7 +3,7 @@ title: Mercury/Zeus = MC
 page_type: activation
 slug: mercury-zeus-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - MC
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Zeus`
-- Source page: `168`
 #### Witte Entry
 
 To outdo oneself. To heed a command.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To outdo oneself. To heed a command.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Spirited language design, fiery soul language, my goal is writing, my thought guided, my creative language, my strenuous movements, my striving in youth, my speech guided, and my fiery words
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Zeus = MC`: To outdo oneself. To heed a command.
+- Practical expression: spirited language design, fiery soul language, my goal is writing, my thought guided, and my creative language.
 
 ## Links
 
@@ -61,3 +56,5 @@ To outdo oneself. To heed a command.
 - [Zeus](../factors/zeus.md)
 - [MC](../factors/mc.md)
 - [Mercury/Zeus](../axes/mercury-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

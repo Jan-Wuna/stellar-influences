@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Moon Chiron Neptune`
 - Astronomicon triad-set: `R Chiron Y`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Moon/Chiron = Neptune`: John, page `32`
 - `Moon/Neptune = Chiron`: John, page `34`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Neptune = Moon`: deep empathy, soothing emotional presence, and hidden or nonverbal healing. Main caution: emotional flooding or taking on too much unspoken pain.
+- `Moon/Chiron = Neptune`: One intuitive senses how to cause emotional clearing as well as how to nurture others at a very deep level. The products of one’s imagination can have a pro foundly healing effect on the feeling bodies of other people.
+- `Moon/Neptune = Chiron`: One’s energy helps others to perceive the subtleties of their own feelings, and to see how their feelings are being affected by subtle energies and psychic influences. You also help people to feel higher and exalted emotions.
 
 ## Links
 

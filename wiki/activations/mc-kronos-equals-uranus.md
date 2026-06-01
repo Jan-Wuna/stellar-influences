@@ -3,7 +3,7 @@ title: MC/Kronos = Uranus
 page_type: activation
 slug: mc-kronos-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - MC
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Kronos`
-- Source page: `73`
 #### Witte Entry
 
 Wanting to create something on an important scale. Suddenly show leadership, which causes excitement and surprise. Manager of a technical establishment.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Wanting to create something on an important scale. Suddenly show leadership, which causes excitement and surprise. Manager of a technical establishment.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+great mental arousal, my new self being, my self sustaining rhythm, my particular restlessness, my great arousal, impulses through my authorship, my technical self sustainability, and important event in the minute
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Kronos = Uranus` electrifies the axis through sudden leadership and large-scale technical command.
+- Chart expression: abruptly stepping into authority, exciting others through bold command, and managing important technical or industrial systems with surprising force.
 
 ## Links
 
@@ -61,3 +56,5 @@ Wanting to create something on an important scale. Suddenly show leadership, whi
 - [Kronos](../factors/kronos.md)
 - [Uranus](../factors/uranus.md)
 - [MC/Kronos](../axes/mc-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Jupiter Chiron Node`
 - Astronomicon triad-set: `V Chiron g`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Jupiter/Chiron = Node`: John, page `79`
 - `Jupiter/Node = Chiron`: John, page `84`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Node = Jupiter`: encouraging connection, karmic growth through faith, and generous strengthening of spiritual bonds. Main caution: inflating connection into certainty or overpromising what growth will feel like.
+- `Jupiter/Chiron = Node`: growth and healing happening through bonds. It favors relationships that widen consciousness and restore hope.
+- `Jupiter/Node = Chiron`: fellowship becoming restorative and developmental. It favors bonds that help others open up, trust life more deeply, and grow through contact rather than retreat from it.
 
 ## Links
 

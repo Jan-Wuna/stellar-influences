@@ -3,7 +3,7 @@ title: Moon/Venus = Zeus
 page_type: activation
 slug: moon-venus-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Venus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Venus
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Venus`
-- Source page: `123`
 #### Witte Entry
 
 Sweetheart. Betrothal. Wish to become a mother. Increase of family.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sweetheart. Betrothal. Wish to become a mother. Increase of family.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Fiery love of the woman, peace performance of a people, felicitous love witness, creative joy of a woman, harmony strike of the woman, creative harmonious woman, achievements of the people art, goals of a gentle woman, and hour of love witness
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Venus = Zeus`: Sweetheart. Betrothal. Wish to become a mother. Increase of family.
+- Practical focus: `Moon/Venus` is energized through betrothal, desire for motherhood, and active increase of family life. It turns affection toward generation, commitment, and the wish to make love fruitful and concrete.
+- Practical expression: fiery love of the woman, peace performance of a people, felicitous love witness, creative joy of a woman, and harmony strike of the woman.
 
 ## Links
 
@@ -61,3 +57,5 @@ Sweetheart. Betrothal. Wish to become a mother. Increase of family.
 - [Venus](../factors/venus.md)
 - [Zeus](../factors/zeus.md)
 - [Moon/Venus](../axes/moon-venus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

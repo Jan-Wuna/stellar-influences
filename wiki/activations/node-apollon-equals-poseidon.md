@@ -3,7 +3,7 @@ title: Node/Apollon = Poseidon
 page_type: activation
 slug: node-apollon-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - Apollon
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Apollon`
-- Source page: `153`
 #### Witte Entry
 
 The feeling of freedom among ones equals. To be connected with many through similar world concept or same philosophy or views.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The feeling of freedom among ones equals. To be connected with many through similar world concept or same philosophy or views.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Spread of cultural connections, encounter with spiritual knowledge, success through spiritual connections, combining successful ideas, conveying clear economic connections, cultural knowledge, increasing spiritual contacts, and conveying knowledge and truth
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Apollon = Poseidon`: The feeling of freedom among ones equals. To be connected with many through similar world concept or same philosophy or views.
+- Practical focus: the feeling of freedom among ones equals; also to be connected with many through similar world concept or same philosophy or views.
 
 ## Links
 
@@ -61,3 +56,5 @@ The feeling of freedom among ones equals. To be connected with many through simi
 - [Apollon](../factors/apollon.md)
 - [Poseidon](../factors/poseidon.md)
 - [Node/Apollon](../axes/node-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

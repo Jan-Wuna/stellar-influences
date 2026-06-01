@@ -3,7 +3,7 @@ title: Vernal Point/Poseidon = Kronos
 page_type: activation
 slug: vernal-point-poseidon-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Kronos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Poseidon`
-- Source page: `55`
 #### Witte Entry
 
 Mental or intellectual leadership. Spiritual standard of the time.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mental or intellectual leadership. Spiritual standard of the time.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Authoritat of truth in public, intellectual authoritat in public life, spiritual hierarchy in the world, great clarity in public, state authority in public life, and important ideas in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Poseidon = Kronos`: mental or intellectual leadership and spiritual standard of the time.
+- Practical expression: spiritual hierarchy in the world, great clarity in public, and state authority in public life.
 
 ## Links
 
@@ -61,3 +56,5 @@ Mental or intellectual leadership. Spiritual standard of the time.
 - [Poseidon](../factors/poseidon.md)
 - [Kronos](../factors/kronos.md)
 - [Vernal Point/Poseidon](../axes/vernal-point-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

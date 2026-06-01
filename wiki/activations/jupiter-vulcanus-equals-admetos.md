@@ -3,7 +3,7 @@ title: Jupiter/Vulcanus = Admetos
 page_type: activation
 slug: jupiter-vulcanus-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Admetos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Vulcanus`
-- Source page: `217`
 #### Witte Entry
 
 To be left in peace. Not to be troubled by anybody. To be happy with a few.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be left in peace. Not to be troubled by anybody. To be happy with a few.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked money power, consolidated right power, Greek right influence, good influence of the cycle, strengthening power success, Greek power advantage, power strengthening by money, and advantage by energy restriction
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Vulcanus = Admetos`: happiness in being left alone, contentment with little, and strength or comfort held inside a narrowed field.
+- Chart expression: peaceful sufficiency, selective ease, and secure withdrawal from disturbance rather than display or expansion.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be left in peace. Not to be troubled by anybody. To be happy with a few.
 - [Vulcanus](../factors/vulcanus.md)
 - [Admetos](../factors/admetos.md)
 - [Jupiter/Vulcanus](../axes/jupiter-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

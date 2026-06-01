@@ -3,7 +3,7 @@ title: Mercury Saturn Poseidon
 page_type: triad_hub
 slug: mercury-saturn-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Saturn
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Saturn Poseidon`
 - Astronomicon triad-set: `T W ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Poseidon = Saturn](../activations/mercury-poseidon-equals-saturn.md)
-  Source page `173`
 - [Mercury/Saturn = Poseidon](../activations/mercury-saturn-equals-poseidon.md)
-  Source page `162`
 - [Saturn/Poseidon = Mercury](../activations/saturn-poseidon-equals-mercury.md)
-  Source page `231`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Poseidon = Saturn`: page `173`
-- `Mercury/Saturn = Poseidon`: page `162`
-- `Saturn/Poseidon = Mercury`: page `231`
+- `Mercury/Poseidon = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `173`
+- `Mercury/Poseidon = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `269`
+- `Mercury/Saturn = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `162`
+- `Mercury/Saturn = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `247`
+- `Saturn/Poseidon = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `231`
+- `Saturn/Poseidon = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `368`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Poseidon = Saturn`: To be suddenly taken by an idea. Internal enlightenment. Suddenly experiencing or revolutionary ideas, to be creative thereby.
+- `Mercury/Saturn = Poseidon`: Logic in an idea. Educational ideas which cause travel. To separate in thought from mental or spiritual things.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Saturn](../factors/saturn.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

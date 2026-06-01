@@ -3,7 +3,7 @@ title: Jupiter Pluto Vulcanus
 page_type: triad_hub
 slug: jupiter-pluto-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Pluto Vulcanus`
 - Astronomicon triad-set: `V Z §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Pluto = Vulcanus](../activations/jupiter-pluto-equals-vulcanus.md)
-  Source page `210`
 - [Jupiter/Vulcanus = Pluto](../activations/jupiter-vulcanus-equals-pluto.md)
-  Source page `217`
 - [Pluto/Vulcanus = Jupiter](../activations/pluto-vulcanus-equals-jupiter.md)
-  Source page `263`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Pluto = Vulcanus`: page `210`
-- `Jupiter/Vulcanus = Pluto`: page `217`
-- `Pluto/Vulcanus = Jupiter`: page `263`
+- `Jupiter/Pluto = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `210`
+- `Jupiter/Pluto = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `331`
+- `Jupiter/Vulcanus = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `217`
+- `Jupiter/Vulcanus = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `345`
+- `Pluto/Vulcanus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `263`
+- `Pluto/Vulcanus = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `420`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Pluto = Vulcanus`: fortunate changes and transformations that begin with strong momentum.
+- `Jupiter/Vulcanus = Pluto`: a successful turnaround, the start of major gain, and growth that gathers strength as it develops.
+- `Pluto/Vulcanus = Jupiter`: This activation emphasizes to experience a great pleasant change.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Pluto](../factors/pluto.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

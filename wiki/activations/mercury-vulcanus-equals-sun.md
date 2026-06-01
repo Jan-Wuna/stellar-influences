@@ -3,7 +3,7 @@ title: Mercury/Vulcanus = Sun
 page_type: activation
 slug: mercury-vulcanus-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Mercury
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Vulcanus`
-- Source page: `172`
 #### Witte Entry
 
 To be physically much in motion. A life or mode of living which demands much moving around. Great speed of a body.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be physically much in motion. A life or mode of living which demands much moving around. Great speed of a body.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Report of a man rich in power, description of a violent person, influence of young people, energy report central, body force in youth, powerful body movements, powerful youth centre, and strong in person like speech
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Vulcanus = Sun`: To be physically much in motion. A life or mode of living which demands much moving around. Great speed of a body.
+- Practical expression: report of a man rich in power, description of a violent person, influence of young people, energy report central, and powerful youth centre.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be physically much in motion. A life or mode of living which demands much mov
 - [Vulcanus](../factors/vulcanus.md)
 - [Sun](../factors/sun.md)
 - [Mercury/Vulcanus](../axes/mercury-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

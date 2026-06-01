@@ -3,7 +3,7 @@ title: Hades/Zeus = MC
 page_type: activation
 slug: hades-zeus-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Hades
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Zeus`
-- Source page: `277`
 #### Witte Entry
 
 To refuse, to be negative. Inclined to idleness. To be hated, or to hate. Exposed to mean tricks. To be paralyzed, compelled to be inactive. Incendiary, arson. Personal connection with industry. To lose one’s business by fire.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To refuse, to be negative. Inclined to idleness. To be hated, or to hate. Exposed to mean tricks. To be paralyzed, compelled to be inactive. Incendiary, arson. Personal connection with industry. To lose one’s business by fire.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+my service, my lack of goals, my dangerous goals, my personal achievements, my hidden achievements, my past achievements, my commitment to procreation, and my hidden soul guidance
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Zeus = MC`: vocation and life course being shaped by blocked effort, destructive impulse, or industrial danger. It can show a career marked by inactivity, hostile environment, or literal fire loss.
 
 ## Links
 
@@ -61,3 +55,5 @@ To refuse, to be negative. Inclined to idleness. To be hated, or to hate. Expose
 - [Zeus](../factors/zeus.md)
 - [MC](../factors/mc.md)
 - [Hades/Zeus](../axes/hades-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

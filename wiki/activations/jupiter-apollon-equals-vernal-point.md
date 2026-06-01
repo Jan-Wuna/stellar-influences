@@ -3,7 +3,7 @@ title: Jupiter/Apollon = Vernal Point
 page_type: activation
 slug: jupiter-apollon-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Jupiter
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Apollon`
-- Source page: `215`
 #### Witte Entry
 
 To be happy with many. Expansion of good fortune in general.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be happy with many. Expansion of good fortune in general.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+successful expansion in public, money trade in public, increase of money in public life, happiness and success in public life, public legal success, and commercial advantages in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Apollon = Vernal Point`: a wider social climate of increase, prosperity, and shared optimism. It can show public success rather than only private advantage.
 
 ## Links
 
@@ -61,3 +55,5 @@ To be happy with many. Expansion of good fortune in general.
 - [Apollon](../factors/apollon.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Jupiter/Apollon](../axes/jupiter-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

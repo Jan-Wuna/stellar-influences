@@ -3,7 +3,7 @@ title: Mars/Vulcanus = Node
 page_type: activation
 slug: mars-vulcanus-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Node
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Vulcanus`
-- Source page: `203`
 #### Witte Entry
 
 Connected with physically strong and energetic people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Connected with physically strong and energetic people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Individual connections in work, combining energies through work, violence activity in one connection, strong working connections, strong will to connect, mediation of labor powers, and will force in one connection
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Vulcanus = Node` links one with physically strong, forceful, and energetic people.
+- Chart expression: connection, cooperation, or association with powerful individuals whose presence intensifies the whole field of action.
 
 ## Links
 
@@ -61,3 +56,5 @@ Connected with physically strong and energetic people.
 - [Vulcanus](../factors/vulcanus.md)
 - [Node](../factors/node.md)
 - [Mars/Vulcanus](../axes/mars-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

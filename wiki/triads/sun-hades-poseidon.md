@@ -3,7 +3,7 @@ title: Sun Hades Poseidon
 page_type: triad_hub
 slug: sun-hades-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Hades Poseidon`
 - Astronomicon triad-set: `S ¢ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Poseidon = Sun](../activations/hades-poseidon-equals-sun.md)
-  Source page `286`
 - [Sun/Hades = Poseidon](../activations/sun-hades-equals-poseidon.md)
-  Source page `112`
 - [Sun/Poseidon = Hades](../activations/sun-poseidon-equals-hades.md)
-  Source page `118`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Poseidon = Sun`: page `286`
-- `Sun/Hades = Poseidon`: page `112`
-- `Sun/Poseidon = Hades`: page `118`
+- `Hades/Poseidon = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `286`
+- `Hades/Poseidon = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `448`
+- `Sun/Hades = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `112`
+- `Sun/Hades = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `161`
+- `Sun/Poseidon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `118`
+- `Sun/Poseidon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `173`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Poseidon = Sun`: the odd person, the crank, and the one who clings to tradition or old ways of thinking.
+- `Sun/Hades = Poseidon`: This formula emphasizes spiritual suffering and ugly truths.
+- `Sun/Poseidon = Hades`: This formula emphasizes spiritual suffering and difficult truths.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Hades](../factors/hades.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

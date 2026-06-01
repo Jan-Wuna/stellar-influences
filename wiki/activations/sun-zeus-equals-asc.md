@@ -3,7 +3,7 @@ title: Sun/Zeus = Asc
 page_type: activation
 slug: sun-zeus-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Asc
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Zeus`
-- Source page: `113`
 #### Witte Entry
 
 Convocation (mustering troops into service). Comradeship. To back others. Handling machines.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Convocation (mustering troops into service). Comradeship. To back others. Handling machines.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+leading other people, fire on the day at the place, fiery personal partner, leadership figures in the environment, founding of a center at the place, persons of local leadership, personal efforts with others, and creative people in the environment
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Zeus = Asc`: active in an environment and to be active.
+- Practical expression: leading other people, fire on the day at the place, fiery personal partner, leadership figures in the environment, and founding of a center at the place.
 
 ## Links
 
@@ -61,3 +56,5 @@ Convocation (mustering troops into service). Comradeship. To back others. Handli
 - [Zeus](../factors/zeus.md)
 - [Asc](../factors/asc.md)
 - [Sun/Zeus](../axes/sun-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Mars/Hades = MC
 page_type: activation
 slug: mars-hades-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - MC
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Hades`
-- Source page: `198`
 #### Witte Entry
 
 To suffer through mean acts of others. Quickly annoyed and weary. To be fed up and to have one’s fill. To be separated mentally through the mean actions of others. To want to revenge oneself. An eye for an eye. To be disposed to atrocities or murder. Ugly deeds which bounce back.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To suffer through mean acts of others. Quickly annoyed and weary. To be fed up and to have one’s fill. To be separated mentally through the mean actions of others. To want to revenge oneself. An eye for an eye. To be disposed to atrocities or murder. Ugly deeds which bounce back.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+I at the deprived of work, I want to renounce, I hide my will, my work in the past, my dangerous actions, my mysterious activity, my hidden work, my renunciation of deed, and my hidden soul work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Hades = MC`: vocational or directional weariness, moral contamination through repeated injury, and the danger of making revenge a guiding principle.
 
 ## Links
 
@@ -61,3 +55,5 @@ To suffer through mean acts of others. Quickly annoyed and weary. To be fed up a
 - [Hades](../factors/hades.md)
 - [MC](../factors/mc.md)
 - [Mars/Hades](../axes/mars-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

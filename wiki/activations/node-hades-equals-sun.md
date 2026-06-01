@@ -3,7 +3,7 @@ title: Node/Hades = Sun
 page_type: activation
 slug: node-hades-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Node
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Hades`
-- Source page: `150`
 #### Witte Entry
 
 To meet invalids. To be bodily disgusted and fed up with something. Bodily displeasure. To be robbed. To unite with thieves.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To meet invalids. To be bodily disgusted and fed up with something. Bodily displeasure. To be robbed. To unite with thieves.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Relations with people of the past, encounter with men in need, contacts with a secret centre, adverse personal relations, personal deprivation in connections, personal secret connections, and association with criminal persons
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Hades = Sun`: To meet invalids. To be bodily disgusted and fed up with something. Bodily displeasure. To be robbed. To unite with thieves.
+- Practical focus: to meet invalids; also to be bodily disgusted and fed up with something.
 
 ## Links
 
@@ -61,3 +56,5 @@ To meet invalids. To be bodily disgusted and fed up with something. Bodily displ
 - [Hades](../factors/hades.md)
 - [Sun](../factors/sun.md)
 - [Node/Hades](../axes/node-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

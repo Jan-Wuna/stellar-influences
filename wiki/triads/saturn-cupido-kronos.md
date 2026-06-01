@@ -3,7 +3,7 @@ title: Saturn Cupido Kronos
 page_type: triad_hub
 slug: saturn-cupido-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Cupido
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Cupido Kronos`
 - Astronomicon triad-set: `W ¡ ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Kronos = Saturn](../activations/cupido-kronos-equals-saturn.md)
-  Source page `269`
 - [Saturn/Cupido = Kronos](../activations/saturn-cupido-equals-kronos.md)
-  Source page `224`
 - [Saturn/Kronos = Cupido](../activations/saturn-kronos-equals-cupido.md)
-  Source page `227`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Kronos = Saturn`: page `269`
-- `Saturn/Cupido = Kronos`: page `224`
-- `Saturn/Kronos = Cupido`: page `227`
+- `Cupido/Kronos = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `269`
+- `Cupido/Kronos = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `429`
+- `Saturn/Cupido = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `224`
+- `Saturn/Cupido = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `355`
+- `Saturn/Kronos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `227`
+- `Saturn/Kronos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `361`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Kronos = Saturn`: having to obey, deprivation of freedom, and elevated communal life compressed into duty, discipline, or ordered rural and cultivated settings.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Cupido](../factors/cupido.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

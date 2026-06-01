@@ -3,7 +3,7 @@ title: Vernal Point/Node = Apollon
 page_type: activation
 slug: vernal-point-node-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Node
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Node
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Node`
-- Source page: `39`
 #### Witte Entry
 
 Union or connections of scientists or merchants. Widespread connections. Freedom to establish relationships.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Union or connections of scientists or merchants. Widespread connections. Freedom to establish relationships.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successfully connected with the public, trade relations in the public, extensive contacts with the public, connection to the knowledge of the world, a lot of connection with the public, and economic relations in the public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Node = Apollon`: union or connections of scientists or merchants, widespread connections, and freedom to establish relationships.
+- Practical expression: successfully connected with the public, trade relations in the public, extensive contacts with the public, connection to the knowledge of the world, and a lot of connection with the public.
 
 ## Links
 
@@ -61,3 +56,5 @@ Union or connections of scientists or merchants. Widespread connections. Freedom
 - [Node](../factors/node.md)
 - [Apollon](../factors/apollon.md)
 - [Vernal Point/Node](../axes/vernal-point-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

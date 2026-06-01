@@ -3,7 +3,7 @@ title: MC/Poseidon = Mars
 page_type: activation
 slug: mc-poseidon-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - MC
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Poseidon`
-- Source page: `77`
 #### Witte Entry
 
 Mental independence. To differ mentally from others. Intellectual activity.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mental independence. To differ mentally from others. Intellectual activity.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Cultivated activity, spiritual impulses to the soul, creating psychic clarity, clear action, my actions for truth, my knowledge work, my spiritual activity, and the power of soul and spirit
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Poseidon = Mars` energizes the axis into intellectual activity and mental independence.
+- Chart expression: active thought, a willingness to differ from others mentally, and the assertion of ideas through clear independent effort.
 
 ## Links
 
@@ -61,3 +56,5 @@ Mental independence. To differ mentally from others. Intellectual activity.
 - [Poseidon](../factors/poseidon.md)
 - [Mars](../factors/mars.md)
 - [MC/Poseidon](../axes/mc-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

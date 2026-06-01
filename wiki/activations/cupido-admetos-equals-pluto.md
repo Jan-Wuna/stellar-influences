@@ -3,7 +3,7 @@ title: Cupido/Admetos = Pluto
 page_type: activation
 slug: cupido-admetos-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Cupido
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Admetos`
-- Source page: `271`
 #### Witte Entry
 
 Deep reaching changes or transformations in family or partnership. Passing reunion in family or passing changes in a community or partnership.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Deep reaching changes or transformations in family or partnership. Passing reunion in family or passing changes in a community or partnership.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Depressing art, restricted development of a community, rest through artistic development, jointly develop perseverance, and growing resistance of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Admetos = Pluto`: relationship structure being reworked at depth and to profound change in who belongs, how, and for how long. Main caution: mistaking a passing reconnection for permanent restoration.
 
 ## Links
 
@@ -61,3 +55,5 @@ Deep reaching changes or transformations in family or partnership. Passing reuni
 - [Admetos](../factors/admetos.md)
 - [Pluto](../factors/pluto.md)
 - [Cupido/Admetos](../axes/cupido-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

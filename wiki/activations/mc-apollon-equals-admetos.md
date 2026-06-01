@@ -3,7 +3,7 @@ title: MC/Apollon = Admetos
 page_type: activation
 slug: mc-apollon-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Apollon
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Apollon`
-- Source page: `74`
 #### Witte Entry
 
 To be content and saturated. Satisfied with the achieved, no more aspirations.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be content and saturated. Satisfied with the achieved, no more aspirations.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocking my success, limiting my freedom, grinning knowledge of the soul, my success through grtindlichkeit, my successful resistance, my depression experiences, my restricted authority, and deepening my knowledge
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Apollon = Admetos` compresses the axis into saturation, contentment, and an end to striving.
+- Chart expression: a broad life outlook settling into self-sufficient satisfaction, where expansion slows because what has already been achieved feels enough.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be content and saturated. Satisfied with the achieved, no more aspirations.
 - [Apollon](../factors/apollon.md)
 - [Admetos](../factors/admetos.md)
 - [MC/Apollon](../axes/mc-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

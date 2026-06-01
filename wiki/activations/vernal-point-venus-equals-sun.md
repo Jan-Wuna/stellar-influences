@@ -3,7 +3,7 @@ title: Vernal Point/Venus = Sun
 page_type: activation
 slug: vernal-point-venus-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Venus
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Sun
   - Venus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Venus`
-- Source page: `41`
 #### Witte Entry
 
 Day of peaceful public life. A harmonious physical appearance. Preference for certain things. Jewelry. The love properties of the body.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Day of peaceful public life. A harmonious physical appearance. Preference for certain things. Jewelry. The love properties of the body.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Peace center in public, harmonious people in public, art center in public, personal preference for the public, gentle people in public, and day of joy in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Venus = Sun`: day of peaceful public life, a harmonious physical appearance, preference for certain things, jewelry, and the love properties of the body.
+- Practical expression: peace center in public, harmonious people in public, art center in public, personal preference for the public, and gentle people in public.
 
 ## Links
 
@@ -61,3 +56,5 @@ Day of peaceful public life. A harmonious physical appearance. Preference for ce
 - [Venus](../factors/venus.md)
 - [Sun](../factors/sun.md)
 - [Vernal Point/Venus](../axes/vernal-point-venus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

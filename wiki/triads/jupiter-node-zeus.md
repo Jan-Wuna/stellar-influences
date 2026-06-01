@@ -3,7 +3,7 @@ title: Jupiter Node Zeus
 page_type: triad_hub
 slug: jupiter-node-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Node Zeus`
 - Astronomicon triad-set: `V g £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Node = Zeus](../activations/jupiter-node-equals-zeus.md)
-  Source page `144`
 - [Jupiter/Zeus = Node](../activations/jupiter-zeus-equals-node.md)
-  Source page `213`
 - [Node/Zeus = Jupiter](../activations/node-zeus-equals-jupiter.md)
-  Source page `151`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Node = Zeus`: page `144`
-- `Jupiter/Zeus = Node`: page `213`
-- `Node/Zeus = Jupiter`: page `151`
+- `Jupiter/Node = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `144`
+- `Jupiter/Node = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `215`
+- `Jupiter/Zeus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `213`
+- `Jupiter/Zeus = Node`: Udo Rudolph - ABC for Planetary Pictures, page `336`
+- `Node/Zeus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `151`
+- `Node/Zeus = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `228`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Node = Zeus`: increase in the family and fortunate joint creation.
+- `Jupiter/Zeus = Node`: working with others, undertaking successful projects together, and forming connections that directly support creation, production, or procreation.
+- `Node/Zeus = Jupiter`: Favorable choice. Joyful cooperation, Fortunate working together. Working with jewelry.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Node](../factors/node.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

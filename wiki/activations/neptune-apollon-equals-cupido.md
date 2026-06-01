@@ -3,7 +3,7 @@ title: Neptune/Apollon = Cupido
 page_type: activation
 slug: neptune-apollon-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Cupido
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Apollon`
-- Source page: `251`
 #### Witte Entry
 
 Many dissolutions of marriages and partnerships.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Many dissolutions of marriages and partnerships.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Community policy and economic and monetary union
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Apollon = Cupido`: Many dissolutions of marriages and partnerships.
+- Practical focus: socializes `Neptune/Apollon` through widespread dissolution of marriages, partnerships, and communal bonds. It shows the axis working through collective relationship breakdown, where emotional or legal union gives way on a larger scale.
+- Practical expression: community policy, economic, and monetary union.
 
 ## Links
 
@@ -61,3 +57,5 @@ Many dissolutions of marriages and partnerships.
 - [Apollon](../factors/apollon.md)
 - [Cupido](../factors/cupido.md)
 - [Neptune/Apollon](../axes/neptune-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

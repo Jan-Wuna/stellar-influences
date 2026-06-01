@@ -3,10 +3,10 @@ title: Moon/MC = Cupido
 page_type: activation
 slug: moon-mc-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Moon
+  - MC
   - Cupido
 normalized_formula: Moon/MC = Cupido
 axis: Moon/MC
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - MC
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Moon`
-- Source page: `60`
 #### Witte Entry
 
 The community sense is directed by the mind. Marital soul harmony.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The community sense is directed by the mind. Marital soul harmony.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+A woman's soul community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/MC = Cupido`: The community sense is directed by the mind. Marital soul harmony.
+- Practical focus: socializes `Moon/MC` through marital harmony, communal feeling, and shared cultural orientation. It suggests a life direction shaped by relationship, family-mindedness, or collective sensibility, so emotional identity becomes more attuned to partnership, group belonging, and the mind of the community.
+- Practical expression: a woman's soul community.
 
 ## Links
 
@@ -61,3 +57,5 @@ The community sense is directed by the mind. Marital soul harmony.
 - [MC](../factors/mc.md)
 - [Cupido](../factors/cupido.md)
 - [Moon/MC](../axes/moon-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

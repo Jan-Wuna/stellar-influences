@@ -58,13 +58,14 @@ aliases:
   - Mars/Mercury
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -77,17 +78,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Mars`
-- Source page: `160`
-
 #### Pair Summary
 
 Energetic thought. Hasty and energetic reaction. Malice. Quarrelsome thoughts and debates. Critics. Criticism. To excite oneself mentally. Argument. Activity of the mind. Power of thought. Clear, sharp thinking. Disputes.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Mercury/Mars`
-- Source page: `148`
+#### ABC Pair Summary
+
+Work in traffic, work reports, thought work, talk about actions, youth work, man's youth, media work, news activity, written work, and language activity
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -111,17 +112,11 @@ A critic, the speaker in a discussion group.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
-- Source heading: `Mercury/Mars`
-- Source page: `35`
-
 #### Falis Entry
 
 Sharp mind. Sharp tongue. Mind as weapon. Quick thinking. Fast talking. Restless mind. Violent messages. Forceful communication. An active mind. Assertive com munication. Asserting your thoughts. Speaking up for yourself. Speaking out for what you want. Cutting or sharp language. Words that hurt. Attacking with words. Language of war. Fighting words. Needing constant mental stimulus. Getting bored easily. Needing new ideas to conquer and new thoughts to play with. Fight ing with your siblings. Competing with your siblings. Competing to see who's smarter. Seeing conversation as a competition. Trying to one-up everyone in con versation. Wanting to have the best grades. Wanting to be the first to think of something. Being the first to think of something. Coming up with new ideas. Pushy communication. Neanderthal mentality. Masculine mind. Fleet feet. Pick pockets. Hand tricks. Words that kill. Aggressive, coarse or rude language. Abra sive way of communicating. Hostile words. The competitive mind. Using words as weapons. Sibling struggles. Putting energy into communication. The overworked mind. Tormented thoughts. Hyperactive. Over-stimulated nervous system. Writing angry letters. Vocalizing anger and rage. War cries. Quick retorts and rebuttals. The ability to think on your feet. Adroitness. Competitive games and puzzles. Needing to win at games. Sleight of hand. Tricksters. Thieves. Hunting for information. Exerting energy in pursuit of facts, knowledge and information. Breaking new ground in thought. Finding new ways to communicate information. Finding new information to communicate. Aggressive pursuit of information. Dangerous information. Dangerous opinions. Waging war with words and infor mation. Words that incite anger. A communication style that attracts enemies. Hav ing an aggressive communication style. Not backing down from your opinion. Needing to win the argument. Having force behind your words. The ability to think for yourself. Expressing your opinion no matter who it offends. Willingness to fight for your opinion. Inciting people to think for themselves. The independent mind. Having your own thoughts. Making up your own mind. Needing to draw your own conclusions. Making your thoughts known. Thought provoking. Controversial. Contentious. Mean. Getting to the point. Straight-shooters. Cutting through the crap. Telling it like it is. Talking about adversaries and enemies. Words in action. Finding ways to put your words into action. Having the courage to say what you think. Being brave enough to stand behind your words. Getting into hot water. Adding fodder to the fire. Cuts and scrapes on your hands. Using animated gestures when talking. Liking to do things with your hands. Liking the way your hands and fingers feel while typing and writing. Getting hot under the collar during debates and arguments. Heated discussions. Heated arguments. The courage to verbally confront someone. Ag gressive media. Media campaigns.
 
 ### Charles Carter - The Astrological Aspects
-
-- Source heading: `ASPECTS OF MERCURY & MARS`
-- Source page: `34`
 
 #### Harmonious Aspects
 
@@ -181,9 +176,6 @@ From the standpoint of moral character the most needful lesson is, as a rule, to
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mercury/Mars midpoint`
-- Source page: `42`
-
 #### Principle
 
 Passionate communication. Constructive and/or destructive communication. Arguing. Mental conflict. An agitated nervous system. The ability to be pointed and as sertive when speaking. Sexual communication.
@@ -194,9 +186,6 @@ The building and/or destroying of connections. Using communication in a combativ
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Mercury/Mars`
-- Source page: `204`
-
 #### Pair Delineation
 
 The expression of anger or conflict. Fondness for argument or debate. Energetic and vigorous thinking. Verbal self-
@@ -204,9 +193,6 @@ The expression of anger or conflict. Fondness for argument or debate. Energetic 
 assertion. The determination to act upon one's own ideas. Forceful intellect.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `MERCURY/MARS`
-- Source page: `151`
 
 #### Basic Ideas
 
@@ -235,15 +221,6 @@ Hormone levels which affect your energy levels; convulsions caused by self exhau
 
 - [Michael Munkasey - Mercury/Mars Concepts](../derived/munkasey-mercury-mars-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Mercury/Mars = Admetos](../activations/mercury-mars-equals-admetos.md)
@@ -268,20 +245,18 @@ Hormone levels which affect your energy levels; convulsions caused by self exhau
 - [Mercury/Mars = Vulcanus](../activations/mercury-mars-equals-vulcanus.md)
 - [Mercury/Mars = Zeus](../activations/mercury-mars-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Mars` is the axis of forceful thought, quick decision, sharp speech, debate, and mentally directed action. It joins intellect and language with initiative, combativeness, enterprise, and the need to move ideas into effect.
+- Chart expression: verbal courage, argument, repartee, persuasive drive, technical or tactical intelligence, and a mind that cuts quickly to a point. Liabilities: agitation, quarrelsomeness, irritability, harsh language, contentiousness, and nervous overstimulation that turns thought into conflict.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Mars](../factors/mars.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)

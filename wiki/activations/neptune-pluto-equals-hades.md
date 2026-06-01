@@ -3,7 +3,7 @@ title: Neptune/Pluto = Hades
 page_type: activation
 slug: neptune-pluto-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Pluto
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Pluto`
-- Source page: `246`
 #### Witte Entry
 
 Sickness with an epidemic character. Low and vile treachery behind one’s back.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sickness with an epidemic character. Low and vile treachery behind one’s back.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Degraded development of the future, dangerous creeping development, lack of development of intuition, adverse air change, unknown development in secret, growing insecurity due to criminality, and difficult development in the future
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Pluto = Hades`: Sickness with an epidemic character. Low and vile treachery behind one’s back.
+- Practical focus: darkens subtle transformation into epidemic illness and covert treachery, where hidden processes turn harmful and operate behind one’s back.
+- Practical expression: degraded development of the future, dangerous creeping development, lack of development of intuition, adverse air change, and unknown development in secret.
 
 ## Links
 
@@ -61,3 +57,5 @@ Sickness with an epidemic character. Low and vile treachery behind one’s back.
 - [Pluto](../factors/pluto.md)
 - [Hades](../factors/hades.md)
 - [Neptune/Pluto](../axes/neptune-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

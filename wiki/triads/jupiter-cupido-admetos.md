@@ -3,7 +3,7 @@ title: Jupiter Cupido Admetos
 page_type: triad_hub
 slug: jupiter-cupido-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Cupido Admetos`
 - Astronomicon triad-set: `V ¡ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Admetos = Jupiter](../activations/cupido-admetos-equals-jupiter.md)
-  Source page `271`
 - [Jupiter/Admetos = Cupido](../activations/jupiter-admetos-equals-cupido.md)
-  Source page `216`
 - [Jupiter/Cupido = Admetos](../activations/jupiter-cupido-equals-admetos.md)
-  Source page `211`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Admetos = Jupiter`: page `271`
-- `Jupiter/Admetos = Cupido`: page `216`
-- `Jupiter/Cupido = Admetos`: page `211`
+- `Cupido/Admetos = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `271`
+- `Cupido/Admetos = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `432`
+- `Jupiter/Admetos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `216`
+- `Jupiter/Admetos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `343`
+- `Jupiter/Cupido = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `211`
+- `Jupiter/Cupido = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `333`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Admetos = Jupiter`: a small but true community, passing pleasant company, or brief genuine comradeship.
+- `Jupiter/Admetos = Cupido`: a small closed community or art circle, with value and appreciation shared among only a few.
+- `Jupiter/Cupido = Admetos`: happy company among only a few people, but also the ending or contraction of a once-happy marriage, partnership, or artistic work.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Cupido](../factors/cupido.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

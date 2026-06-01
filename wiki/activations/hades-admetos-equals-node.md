@@ -3,7 +3,7 @@ title: Hades/Admetos = Node
 page_type: activation
 slug: hades-admetos-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - Hades
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Admetos`
-- Source page: `284`
 #### Witte Entry
 
 To come in touch with poverty. Connections which are depressive.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To come in touch with poverty. Connections which are depressive.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Fixed connection to the past, development of a connection through deprivation, gross absence of kine connection, poor deepening in one connection, disadvantages due to depression in one connection, and abandonment of fixed connections
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Admetos = Node`: bonds formed around lack, need, or emotional depletion. Main caution: making depressive contact the basis of belonging.
 
 ## Links
 
@@ -61,3 +55,5 @@ To come in touch with poverty. Connections which are depressive.
 - [Admetos](../factors/admetos.md)
 - [Node](../factors/node.md)
 - [Hades/Admetos](../axes/hades-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Venus/Poseidon = Hades
 page_type: activation
 slug: venus-poseidon-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Hades
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Poseidon`
-- Source page: `189`
 #### Witte Entry
 
 To ridicule moral behavior, morals, faith or religion. To be without religion. Serving a mediocre religion. Religions of antiquity.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To ridicule moral behavior, morals, faith or religion. To be without religion. Serving a mediocre religion. Religions of antiquity.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Serving through truth of love, dangerous ideas in the arts, love hearts through truth, arts and culture of the past, lack of spiritual love, lack of spiritual harmony, tendency to spiritual criminality, and preference for the spirit of the past
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Poseidon = Hades`: to ridicule moral behavior, morals, faith or religion.
+- Practical expression: serving through truth of love, dangerous ideas in the arts, love hearts through truth, arts, and culture of the past.
 
 ## Links
 
@@ -61,3 +56,5 @@ To ridicule moral behavior, morals, faith or religion. To be without religion. S
 - [Poseidon](../factors/poseidon.md)
 - [Hades](../factors/hades.md)
 - [Venus/Poseidon](../axes/venus-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

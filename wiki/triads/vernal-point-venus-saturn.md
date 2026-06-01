@@ -3,7 +3,7 @@ title: Vernal Point Venus Saturn
 page_type: triad_hub
 slug: vernal-point-venus-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Venus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Venus Saturn`
 - Astronomicon triad-set: `VP Q W`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Venus/Saturn = Vernal Point](../activations/venus-saturn-equals-vernal-point.md)
-  Source page `178`
 - [Vernal Point/Saturn = Venus](../activations/vernal-point-saturn-equals-venus.md)
-  Source page `44`
 - [Vernal Point/Venus = Saturn](../activations/vernal-point-venus-equals-saturn.md)
-  Source page `41`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Venus/Saturn = Vernal Point`: page `178`
-- `Vernal Point/Saturn = Venus`: page `44`
-- `Vernal Point/Venus = Saturn`: page `41`
+- `Venus/Saturn = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `178`
+- `Venus/Saturn = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `274`
+- `Vernal Point/Saturn = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `44`
+- `Vernal Point/Saturn = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `36`
+- `Vernal Point/Venus = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `41`
+- `Vernal Point/Venus = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `31`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Venus/Saturn = Vernal Point`: separation of love.
+- `Vernal Point/Saturn = Venus`: This formula emphasizes separation of love, separation from the mother, and liking separation.
+- `Vernal Point/Venus = Saturn`: This formula emphasizes the end of mating time and love’s parting.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Venus](../factors/venus.md)
 - [Saturn](../factors/saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Mars/Poseidon = Asc
 page_type: activation
 slug: mars-poseidon-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Asc
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Poseidon`
-- Source page: `204`
 #### Witte Entry
 
 Moral attitude of others. Intellectual activity with others. To be under the intellectual influence of others or to influence others intellectually, ethically or morally.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Moral attitude of others. Intellectual activity with others. To be under the intellectual influence of others or to influence others intellectually, ethically or morally.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Others create clarity, work with insights from others, work with a spirited partner, clear partner will, cultural work in the place, culture creating partner, spiritual partnerwork, work in a culture place, and work in the environment
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Poseidon = Asc` brings ethics and intellectual action directly into relationships and the immediate environment.
+- Chart expression: moral influence from others, intellectual exchange with others, and situations where one affects or is affected by another person's ethical, philosophical, or mental attitude.
 
 ## Links
 
@@ -61,3 +56,5 @@ Moral attitude of others. Intellectual activity with others. To be under the int
 - [Poseidon](../factors/poseidon.md)
 - [Asc](../factors/asc.md)
 - [Mars/Poseidon](../axes/mars-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

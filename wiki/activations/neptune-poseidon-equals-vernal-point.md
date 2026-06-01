@@ -3,7 +3,7 @@ title: Neptune/Poseidon = Vernal Point
 page_type: activation
 slug: neptune-poseidon-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Neptune
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Poseidon`
-- Source page: `254`
 #### Witte Entry
 
 The general false faith. The generality has the wrong attitude, it succumbs to great errors.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The general false faith. The generality has the wrong attitude, it succumbs to great errors.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Unexploiting truth in public, spirit of the future in public life, public truth about metaphysics, weak communication in public, and unclear ideas in public ()
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Poseidon = Vernal Point`: The general false faith. The generality has the wrong attitude, it succumbs to great errors.
+- Practical focus: externalizes false faith or confused ideals into the shared atmosphere. It can show public error, collective susceptibility to misleading attitudes, or broad social participation in a mistaken belief pattern.
+- Practical expression: unexploiting truth in public, spirit of the future in public life, public truth about metaphysics, weak communication in public, and unclear ideas in public ().
 
 ## Links
 
@@ -61,3 +57,5 @@ The general false faith. The generality has the wrong attitude, it succumbs to g
 - [Poseidon](../factors/poseidon.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Neptune/Poseidon](../axes/neptune-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

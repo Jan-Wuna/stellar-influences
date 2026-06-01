@@ -3,7 +3,7 @@ title: Mars/Hades = Apollon
 page_type: activation
 slug: mars-hades-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Hades
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Hades`
-- Source page: `198`
 #### Witte Entry
 
 To gather with many lowbrow people, with serving people or soldiers. Trade activities or historic or scientific activities.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To gather with many lowbrow people, with serving people or soldiers. Trade activities or historic or scientific activities.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Extending the lack of work, difficult work of science, adverse experiences at work, hidden emulations of science, vie! Dirt at work, treating science crime, and increasing work from the past
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Hades = Apollon`: expansion of difficult service into collective or commercial settings, where rough environments and low standards spread across many people.
 
 ## Links
 
@@ -61,3 +55,5 @@ To gather with many lowbrow people, with serving people or soldiers. Trade activ
 - [Hades](../factors/hades.md)
 - [Apollon](../factors/apollon.md)
 - [Mars/Hades](../axes/mars-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

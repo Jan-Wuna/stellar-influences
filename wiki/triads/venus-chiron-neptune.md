@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Venus Chiron Neptune`
 - Astronomicon triad-set: `Q Chiron Y`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Venus/Chiron = Neptune`: John, page `58`
 - `Venus/Neptune = Chiron`: John, page `61`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Neptune = Venus`: tender relational healing, aesthetic or devotional refinement, and bonds that soothe at hidden levels. Main caution: romantic idealization or confusing gentleness with true discernment.
+- `Venus/Chiron = Neptune`: to intuitively perceive the hidden beauty that is everywhere around one, and to be healed by this perception, as well as being able to potentially use it to foster the healing of others.
+- `Venus/Neptune = Chiron`: one's vibration helps others to contact the more refined and spiritualized aspects of their love nature, and to tap intuitively into the true nature of love.
 
 ## Links
 

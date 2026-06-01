@@ -3,7 +3,7 @@ title: Jupiter/Kronos = Vernal Point
 page_type: activation
 slug: jupiter-kronos-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Jupiter
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Kronos`
-- Source page: `214`
 #### Witte Entry
 
 Financial giants. Global financial system. Tax or financial authority in general.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Financial giants. Global financial system. Tax or financial authority in general.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+European Parliament
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Kronos = Vernal Point`: prosperity and authority operating on a public or worldwide scale. It favors large institutions, systemic finance, and prominent control over collective monetary structures.
 
 ## Links
 
@@ -61,3 +55,5 @@ Financial giants. Global financial system. Tax or financial authority in general
 - [Kronos](../factors/kronos.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Jupiter/Kronos](../axes/jupiter-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

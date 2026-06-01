@@ -3,7 +3,7 @@ title: Saturn/Neptune = Zeus
 page_type: activation
 slug: saturn-neptune-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Neptune
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Neptune`
-- Source page: `222`
 #### Witte Entry
 
 Chronic hindrances in work. Infection of the progeny.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Chronic hindrances in work. Infection of the progeny.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Starting concentration weakness, problems caused by fire water (alcohol), creeping performance losses, loss of leadership weakness, painful procreation expectations, and determined concentration on metaphysics
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Neptune = Zeus`: chronic hindrances in work, infection of the progeny.
+- Practical expression: starting concentration weakness, problems caused by fire water (alcohol), creeping performance losses, loss of leadership weakness, and painful procreation expectations.
 
 ## Links
 
@@ -61,3 +56,5 @@ Chronic hindrances in work. Infection of the progeny.
 - [Neptune](../factors/neptune.md)
 - [Zeus](../factors/zeus.md)
 - [Saturn/Neptune](../axes/saturn-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

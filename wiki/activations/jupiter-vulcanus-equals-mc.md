@@ -3,7 +3,7 @@ title: Jupiter/Vulcanus = MC
 page_type: activation
 slug: jupiter-vulcanus-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - MC
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Vulcanus`
-- Source page: `217`
 #### Witte Entry
 
 To be an optimist. To trust to others, and to be trusted. To have good luck.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be an optimist. To trust to others, and to be trusted. To have good luck.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Achievement of the principle of equal opportunities for men and women, of equal opportunities for men and women, of equal opportunities for men and men, of equal treatment for men and men, of equal treatment for men and women, of equal treatment for men and men and men and men and women, and of equal
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Vulcanus = MC`: an optimistic life direction, trusted reputation, and success that supports one's status or calling.
+- Chart expression: confident purpose, dependable standing, and good luck that becomes part of the public role.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be an optimist. To trust to others, and to be trusted. To have good luck.
 - [Vulcanus](../factors/vulcanus.md)
 - [MC](../factors/mc.md)
 - [Jupiter/Vulcanus](../axes/jupiter-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

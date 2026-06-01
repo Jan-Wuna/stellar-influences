@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Mercury`
-- Source page: `62`
 #### Witte Entry
 
 To concentrate on work. One’s own opinions about work or activity.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Mercury/Medium Coeli`
-- Source page: `173`
-- Entry: `0570`
+#### ABC Entry
+
+I think and handle, I want to write, my thinking impulses, my thoughts to work, my thoughts to youth, my thought activity, my actions to discuss, my work to youth, and my activity to youth
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Open-minded and frank, clear understanding of everything, clear consciousness of
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mercury/Midheaven midpoint`
-- Source page: `53`
-- Activator: `Mars`
-
 #### Sandbach Entry
 
 The desire to find out the ideas that are most right and true. The desire to base one’s actions of spiritual ideas. The tendency to justify what one does by pointing out the rightness of one’s ideas.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Added energy and activity for the efforts you go thru to mature and develop as a person; makes it important for you to work out anger accumulated from situations or people; courage to progress toward and work for goals.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/MC = Mars`: frankness, decisive planning, and the ability to align thought with action in a direct and purposeful way. Main caution: self-justifying haste: clarity of aim can harden into combative certainty or action taken before broader reflection.
 
 ## Links
 
@@ -84,7 +76,8 @@ The desire to find out the ideas that are most right and true. The desire to bas
 - [MC](../factors/mc.md)
 - [Mars](../factors/mars.md)
 - [Mercury/MC](../axes/mercury-mc.md)
-- [Mercury Mars MC](../triads/mercury-mars-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

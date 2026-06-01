@@ -33,30 +33,14 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Saturn/Midheaven midpoint`
-- Source page: `95`
-- Activator: `Chiron`
-
 #### Sandbach Entry
 
 Your vibration helps others to be more high minded and to feel a deeper con nection to their spiritual self. You also help them, to the extent that they are ready, to listen to and follow their own inner guidance.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/MC = Chiron` channels Chiron through seriousness of purpose and inner guidance. The presence can help others connect with a higher-minded or spiritual self and follow their own direction; the caution is to respect readiness rather than press guidance onto someone prematurely.
 
 ## Links
 

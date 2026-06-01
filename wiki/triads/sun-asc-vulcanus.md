@@ -3,7 +3,7 @@ title: Sun Asc Vulcanus
 page_type: triad_hub
 slug: sun-asc-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Asc Vulcanus`
 - Astronomicon triad-set: `S Asc §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Vulcanus = Sun](../activations/asc-vulcanus-equals-sun.md)
-  Source page `97`
 - [Sun/Asc = Vulcanus](../activations/sun-asc-equals-vulcanus.md)
-  Source page `80`
 - [Sun/Vulcanus = Asc](../activations/sun-vulcanus-equals-asc.md)
-  Source page `117`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Vulcanus = Sun`: page `97`
-- `Sun/Asc = Vulcanus`: page `80`
-- `Sun/Vulcanus = Asc`: page `117`
+- `Asc/Vulcanus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `97`
+- `Asc/Vulcanus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `134`
+- `Sun/Asc = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `80`
+- `Sun/Asc = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `101`
+- `Sun/Vulcanus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `117`
+- `Sun/Vulcanus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `170`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Vulcanus = Sun`: dealing with stronger people and being checked, measured, or contained by their greater vitality or force.
+- `Sun/Asc = Vulcanus`: This formula emphasizes powerful persons and the energetic, vigorous personality.
+- `Sun/Vulcanus = Asc`: This formula emphasizes powerful persons and vigorous personal presence.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Asc](../factors/asc.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

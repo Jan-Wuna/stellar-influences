@@ -3,10 +3,10 @@ title: Uranus/Node = Kronos
 page_type: activation
 slug: uranus-node-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Uranus
+  - Node
   - Kronos
 normalized_formula: Uranus/Node = Kronos
 axis: Uranus/Node
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Node
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Uranus`
-- Source page: `146`
 #### Witte Entry
 
 Sudden connections with the power of the state. Independence in new contacts. Special technological relations.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sudden connections with the power of the state. Independence in new contacts. Special technological relations.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exciting connection to the authority, dynamic connection to the boss, great excitement in one connection, self reliance in new contacts, tensioning relations with authorizations, restless connections in the state, and important connections to technology
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Node = Kronos`: Sudden connections with the power of the state. Independence in new contacts. Special technological relations.
+- Practical expression: exciting connection to the authority, dynamic connection to the boss, great excitement in one connection, self reliance in new contacts, and tensioning relations with authorizations.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sudden connections with the power of the state. Independence in new contacts. Sp
 - [Node](../factors/node.md)
 - [Kronos](../factors/kronos.md)
 - [Uranus/Node](../axes/uranus-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

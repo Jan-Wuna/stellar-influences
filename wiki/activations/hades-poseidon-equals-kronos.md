@@ -3,7 +3,7 @@ title: Hades/Poseidon = Kronos
 page_type: activation
 slug: hades-poseidon-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Hades
   - Kronos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Poseidon`
-- Source page: `286`
 #### Witte Entry
 
 To be subjected to great meanness and losses, particularly by the authorities or higher ups because of ones special position.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be subjected to great meanness and losses, particularly by the authorities or higher ups because of ones special position.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Especially dangerous idea, intellectual authoritarianism in old age, great lack of clarity, great hidden culture, lack of self reliance, lack of clarity of authority, hidden spiritual hierarchic, and important hidden truth
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Poseidon = Kronos`: difference of mind or doctrine provoking pressure from above. It can show authorities punishing, marginalizing, or harming someone for standing apart intellectually or spiritually.
 
 ## Links
 
@@ -61,3 +55,5 @@ To be subjected to great meanness and losses, particularly by the authorities or
 - [Poseidon](../factors/poseidon.md)
 - [Kronos](../factors/kronos.md)
 - [Hades/Poseidon](../axes/hades-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

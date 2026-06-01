@@ -3,7 +3,7 @@ title: Saturn/Vulcanus = Mars
 page_type: activation
 slug: saturn-vulcanus-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Saturn
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Vulcanus`
-- Source page: `230`
 #### Witte Entry
 
 To be under guard, while working. To be compelled to work as a prisoner.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be under guard, while working. To be compelled to work as a prisoner.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influential work in old age, working on energy problems, influx loss in work, enormous work tasks, concentrated violence activity, concentrated work power, problematic power action, ending violence activity, and loss of work power
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Vulcanus = Mars`: to be under guard, while working, to be compelled to work as a prisoner.
+- Practical expression: influential work in old age, working on energy problems, influx loss in work, enormous work tasks, and concentrated violence activity.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be under guard, while working. To be compelled to work as a prisoner.
 - [Vulcanus](../factors/vulcanus.md)
 - [Mars](../factors/mars.md)
 - [Saturn/Vulcanus](../axes/saturn-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

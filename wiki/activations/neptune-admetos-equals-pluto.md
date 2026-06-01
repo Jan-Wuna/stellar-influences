@@ -3,7 +3,7 @@ title: Neptune/Admetos = Pluto
 page_type: activation
 slug: neptune-admetos-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Pluto
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Admetos`
-- Source page: `252`
 #### Witte Entry
 
 E Hardly noticeable beginning of completely changing the forms of being.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: E Hardly noticeable beginning of completely changing the forms of being.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+depressive development, weak circulatory development, different water cycle, growing barriers and exchanges, and growing deepening into the future
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Admetos = Pluto`: E Hardly noticeable beginning of completely changing the forms of being.
+- Practical focus: transforms `Neptune/Admetos` almost imperceptibly at first, beginning a deep reworking of life conditions beneath the surface. It points to slow, subtle mutation that eventually alters the form of being more completely than first appears.
+- Practical expression: depressive development, weak circulatory development, different water cycle, growing barriers, and exchanges.
 
 ## Links
 
@@ -61,3 +57,5 @@ E Hardly noticeable beginning of completely changing the forms of being.
 - [Admetos](../factors/admetos.md)
 - [Pluto](../factors/pluto.md)
 - [Neptune/Admetos](../axes/neptune-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

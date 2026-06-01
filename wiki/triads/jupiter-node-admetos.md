@@ -3,7 +3,7 @@ title: Jupiter Node Admetos
 page_type: triad_hub
 slug: jupiter-node-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Node Admetos`
 - Astronomicon triad-set: `V g ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Admetos = Node](../activations/jupiter-admetos-equals-node.md)
-  Source page `216`
 - [Jupiter/Node = Admetos](../activations/jupiter-node-equals-admetos.md)
-  Source page `144`
 - [Node/Admetos = Jupiter](../activations/node-admetos-equals-jupiter.md)
-  Source page `154`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Admetos = Node`: page `216`
-- `Jupiter/Node = Admetos`: page `144`
-- `Node/Admetos = Jupiter`: page `154`
+- `Jupiter/Admetos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `216`
+- `Jupiter/Admetos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `342`
+- `Jupiter/Node = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `144`
+- `Jupiter/Node = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `215`
+- `Node/Admetos = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `154`
+- `Node/Admetos = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `234`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Admetos = Node`: feeling lucky through connection with only a few.
+- `Jupiter/Node = Admetos`: the ending of a happy union.
+- `Node/Admetos = Jupiter`: To be modest. To be happy and fortunate with few. Content with little. To have a modest stroke of fortune. Free from bonds.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Node](../factors/node.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

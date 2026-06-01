@@ -3,7 +3,7 @@ title: Jupiter/Apollon = Zeus
 page_type: activation
 slug: jupiter-apollon-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Zeus
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Apollon`
-- Source page: `215`
 #### Witte Entry
 
 Lucky and cheerfully working with many. Successful creation work in arts and science. Stage success. The influence of high capital. Production favored by high capital.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Lucky and cheerfully working with many. Successful creation work in arts and science. Stage success. The influence of high capital. Production favored by high capital.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful money trading, successful efforts of science, successful legal efforts, Glock through successful objectives, achievement through knowledge, achievements in legal science, and creative legal knowledge
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Apollon = Zeus`: prosperity becoming visibly productive. It can show financed creation, successful output, and enterprise that expands through energetic execution.
 
 ## Links
 
@@ -61,3 +55,5 @@ Lucky and cheerfully working with many. Successful creation work in arts and sci
 - [Apollon](../factors/apollon.md)
 - [Zeus](../factors/zeus.md)
 - [Jupiter/Apollon](../axes/jupiter-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

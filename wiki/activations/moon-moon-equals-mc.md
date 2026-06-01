@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Moon + Moon`
-- Source page: `119`
 #### Witte Entry
 
 The psychological influence of women. One’s own mind. The own attitude towards females, a people or to the public. The state of the mind and soul. Personal relations with females and to the public. Emotional hour. Emotions in a people. The start of an hour. The feeling or attitude of being a woman.
 
-## Comparative Schema
-
-- core meaning: The psychological influence of women. One’s own mind. The own attitude towards females, a people or to the public. The state of the mind and soul. Personal relations with females and to the public. Emotional hour. Emotions in a people. The start of an hour. The feeling or attitude of being a woman.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Moon = MC`: The psychological influence of women. One’s own mind. The own attitude towards females, a people or to the public. The state of the mind and soul. Personal relations with females and to the public. Emotional hour. Emotions in a people. The start of an hour. The feeling or attitude of being a woman.
+- Practical focus: turns `Moon/Moon` inward and public at once by making feeling itself the center of personal stance. It highlights one's own mind, one's attitude toward women or the public, and the emotional tone of a moment, so lunar life becomes self-reflective, identity-shaping, and psychically visible.
 
 ## Links
 

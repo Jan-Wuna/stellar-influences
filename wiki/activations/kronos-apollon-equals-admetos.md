@@ -3,7 +3,7 @@ title: Kronos/Apollon = Admetos
 page_type: activation
 slug: kronos-apollon-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Kronos
   - Apollon
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Kronos + Apollon`
-- Source page: `299`
 #### Witte Entry
 
 The specialist. Authority in a special field. Authority for a few in a small circle. Dealing with special products.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The specialist. Authority in a special field. Authority for a few in a small circle. Dealing with special products.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special successes through Griindlichkeit, the end of the great fullness, Greek successes of the hierarchy, successful resistance to the state, self defense knowledge defense, state restrictions on freedom, and increasing restriction of self governingness
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Apollon = Admetos`: the specialist, authority in a specific field, and command or influence that applies to a small circle or to special products.
+- Chart expression: concentrated mastery, elite niche expertise, and recognition earned through depth rather than breadth.
 
 ## Links
 
@@ -61,3 +56,5 @@ The specialist. Authority in a special field. Authority for a few in a small cir
 - [Apollon](../factors/apollon.md)
 - [Admetos](../factors/admetos.md)
 - [Kronos/Apollon](../axes/kronos-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

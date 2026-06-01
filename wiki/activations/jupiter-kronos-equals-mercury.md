@@ -3,7 +3,7 @@ title: Jupiter/Kronos = Mercury
 page_type: activation
 slug: jupiter-kronos-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Jupiter
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Kronos`
-- Source page: `214`
 #### Witte Entry
 
 Fortunate management of thoughts. Master of glib tongue.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Fortunate management of thoughts. Master of glib tongue.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+special media successes, reports on funds of the state, htcm, success by the superiority of the child, successful participation of the youth, and important youth law
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Kronos = Mercury`: authority working through rhetoric, mental command, and persuasive intelligence. It favors sharp verbal control and the ability to direct others through well-managed thought and language.
 
 ## Links
 
@@ -61,3 +55,5 @@ Fortunate management of thoughts. Master of glib tongue.
 - [Kronos](../factors/kronos.md)
 - [Mercury](../factors/mercury.md)
 - [Jupiter/Kronos](../axes/jupiter-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

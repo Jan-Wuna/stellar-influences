@@ -3,7 +3,7 @@ title: Moon/Mercury = Cupido
 page_type: activation
 slug: moon-mercury-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Mercury
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Mercury
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Mercury`
-- Source page: `122`
 #### Witte Entry
 
 The marriage of young girls. Artistic thinking young girl. Associations of youth.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The marriage of young girls. Artistic thinking young girl. Associations of youth.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+mobile woman in the community, shared language of the people, community of female youth, conversations in a women's community, youth community of a people, opinion of a women's community, and news for the community of the people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Mercury = Cupido`: The marriage of young girls. Artistic thinking young girl. Associations of youth.
+- Practical focus: socializes `Moon/Mercury` through youth culture, art, courtship, and associative life. It favors aesthetic thinking, early bonds, and communal identification, so feelings and ideas are shaped through peer groups, relationship rituals, and shared creative taste.
+- Practical expression: mobile woman in the community, shared language of the people, community of female youth, conversations in a women's community, and youth community of a people.
 
 ## Links
 
@@ -61,3 +57,5 @@ The marriage of young girls. Artistic thinking young girl. Associations of youth
 - [Mercury](../factors/mercury.md)
 - [Cupido](../factors/cupido.md)
 - [Moon/Mercury](../axes/moon-mercury.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

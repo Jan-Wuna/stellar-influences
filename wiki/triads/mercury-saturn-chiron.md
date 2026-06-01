@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Mercury Saturn Chiron`
 - Astronomicon triad-set: `T W Chiron`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Mercury/Saturn = Chiron`: John, page `45`
 - `Saturn/Chiron = Mercury`: John, page `87`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Chiron = Saturn` disciplines the axis into focused healing thought under pressure and limitation.
+- `Mercury/Saturn = Chiron`: An instinctive ability to communicate with a profound clarity. To be able to perceive the most important ideas., which leads to greater organization in thinking. A deep sensitivity to problems with communication, and an intuitive ability to heal them.
+- `Saturn/Chiron = Mercury` communicates Saturn/Chiron through careful, simple, targeted speech. It can say exactly what is needed for healing; the caution is that excessive control can become silence, stiffness, or overly narrow thinking.
 
 ## Links
 

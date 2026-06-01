@@ -3,7 +3,7 @@ title: Neptune/Pluto = Vulcanus
 page_type: activation
 slug: neptune-pluto-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Pluto
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Pluto`
-- Source page: `246`
 #### Witte Entry
 
 A secret development which by force strives for a decision and thus becomes public. In therapy: bursting of an abscess. In sport: the final spurt.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A secret development which by force strives for a decision and thus becomes public. In therapy: bursting of an abscess. In sport: the final spurt.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Deploy influence through fine tuning, develop force from intuitions, exchange unrest through violenceDevelopment, transformation of water energy, uncertainty through growing violence, alterations through water influence, and increasing power
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Pluto = Vulcanus`: A secret development which by force strives for a decision and thus becomes public. In therapy: bursting of an abscess. In sport: the final spurt.
+- Practical focus: secret development intensifies until it pushes for decisive release, forcing hidden processes into visibility through pressure, rupture, or final exposure.
+- Practical expression: deploy influence through fine tuning, develop force from intuitions, exchange unrest through violenceDevelopment, transformation of water energy, and uncertainty through growing violence.
 
 ## Links
 
@@ -61,3 +57,5 @@ A secret development which by force strives for a decision and thus becomes publ
 - [Pluto](../factors/pluto.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Neptune/Pluto](../axes/neptune-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

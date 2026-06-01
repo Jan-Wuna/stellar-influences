@@ -3,7 +3,7 @@ title: Pluto/Kronos = Asc
 page_type: activation
 slug: pluto-kronos-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Asc
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Kronos`
-- Source page: `260`
 #### Witte Entry
 
 To experience through others or with others a great change. Great changes at the place. To attend an educational school with others.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To experience through others or with others a great change. Great changes at the place. To attend an educational school with others.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Others develop self confidence, special developments on the spot, self reliant partnersDevelopment, state environmental changes, change in the hierarchy of a place, growing authorship of the partner, and important partner change
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Kronos = Asc`: changed relations with people in authority; Advancement affects the surroundings.
+- Practical expression: others develop self confidence, special developments on the spot, self reliant partnersDevelopment, state environmental changes, and change in the hierarchy of a place.
 
 ## Links
 
@@ -61,3 +56,5 @@ To experience through others or with others a great change. Great changes at the
 - [Kronos](../factors/kronos.md)
 - [Asc](../factors/asc.md)
 - [Pluto/Kronos](../axes/pluto-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

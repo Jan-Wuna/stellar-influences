@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Neptune + Neptune`
-- Source page: `244`
 #### Witte Entry
 
 Sensitive, delicate body or object. A body that is susceptible to disease or infection. Weak or physically defenseless. Infirmity. Poor blood. The gas balloon, airplane or ship. Uncertain times or days. Physical relaxation. Lack of live energy. Poor muscle tone of a body or decay. Feebleness or sickness. (In the solar cycle: an uncertain period.)
 
-## Comparative Schema
-
-- core meaning: Sensitive, delicate body or object. A body that is susceptible to disease or infection. Weak or physically defenseless. Infirmity. Poor blood. The gas balloon, airplane or ship. Uncertain times or days. Physical relaxation. Lack of live energy. Poor muscle tone of a body or decay. Feebleness or sickness. (In the solar cycle: an uncertain period.)
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Neptune = Sun`: Sensitive, delicate body or object. A body that is susceptible to disease or infection. Weak or physically defenseless. Infirmity. Poor blood. The gas balloon, airplane or ship. Uncertain times or days. Physical relaxation. Lack of live energy. Poor muscle tone of a body or decay. Feebleness or sickness. (In the solar cycle: an uncertain period.).
+- Practical focus: personalizes doubled Neptune as bodily delicacy, weak vitality, and uncertain periods, making the self unusually susceptible to illness, fatigue, or subtle atmospheric influences.
 
 ## Links
 

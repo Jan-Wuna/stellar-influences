@@ -3,7 +3,7 @@ title: Node/Kronos = Apollon
 page_type: activation
 slug: node-kronos-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - Kronos
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Kronos`
-- Source page: `152`
 #### Witte Entry
 
 Connections with scientific celebrities. Along with many other people in contact with the authorities.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Connections with scientific celebrities. Along with many other people in contact with the authorities.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special success of a connection, successful connection to the authority, successful procreation connection, successfully connected with fillends, state trade relations, state knowledge transfer, and connection to authorities of knowledge
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Kronos = Apollon`: Connections with scientific celebrities. Along with many other people in contact with the authorities.
+- Practical focus: connections with scientific celebrities; also along with many other people in contact with the authorities.
 
 ## Links
 
@@ -61,3 +56,5 @@ Connections with scientific celebrities. Along with many other people in contact
 - [Kronos](../factors/kronos.md)
 - [Apollon](../factors/apollon.md)
 - [Node/Kronos](../axes/node-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

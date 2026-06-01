@@ -3,7 +3,7 @@ title: Vernal Point/Admetos = Uranus
 page_type: activation
 slug: vernal-point-admetos-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Uranus
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Admetos`
-- Source page: `53`
 #### Witte Entry
 
 Sudden heavy depression. Excitement, aggravations through obstacles of a turbulent nature. Wreckage, broken pieces and rags. Surprised by the sudden death of another persons.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sudden heavy depression. Excitement, aggravations through obstacles of a turbulent nature. Wreckage, broken pieces and rags. Surprised by the sudden death of another persons.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+blocked public rhythm, restricting public impulses, new restrictions in public, suddenly blocked public life, rotational technology in public, and unrest through public resistance
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Admetos = Uranus`: sudden heavy depression, excitement, aggravations through obstacles of a turbulent nature, wreckage, broken pieces and rags, and surprised by the sudden death of another persons.
+- Practical expression: blocked public rhythm, restricting public impulses, new restrictions in public, suddenly blocked public life, and rotational technology in public.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sudden heavy depression. Excitement, aggravations through obstacles of a turbule
 - [Admetos](../factors/admetos.md)
 - [Uranus](../factors/uranus.md)
 - [Vernal Point/Admetos](../axes/vernal-point-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

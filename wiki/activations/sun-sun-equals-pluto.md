@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Sun + Sun`
-- Source page: `100`
 #### Witte Entry
 
 Physical transformation, development and change. To grow. The circulation of the fluids in the body. The physical assimilation of nourishment. The regeneration capacity of the body. The ability of the body to transform itself. Changes in living conditions. The function of the internal organs. (In the solar cycle: period of changes, turnarounds or developments.)
 
-## Comparative Schema
-
-- core meaning: Physical transformation, development and change. To grow. The circulation of the fluids in the body. The physical assimilation of nourishment. The regeneration capacity of the body. The ability of the body to transform itself. Changes in living conditions. The function of the internal organs. (In the solar cycle: period of changes, turnarounds or developments.)
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Sun = Pluto`: core transformation and powerful change touching identity itself.
 
 ## Links
 

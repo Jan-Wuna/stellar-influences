@@ -3,7 +3,7 @@ title: Node/Kronos = Jupiter
 page_type: activation
 slug: node-kronos-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Node
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Kronos`
-- Source page: `152`
 #### Witte Entry
 
 Court action. Good connections with authorities. Reward. To receive money.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Court action. Good connections with authorities. Reward. To receive money.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special connection to money, successful independence in one connection, joy in a special meeting, self governing financial connections, state law mediation, favorable connection to the state, and important relations with the law
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Kronos = Jupiter`: Court action. Good connections with authorities. Reward. To receive money.
+- Practical focus: court action; also good connections with authorities.
 
 ## Links
 
@@ -61,3 +56,5 @@ Court action. Good connections with authorities. Reward. To receive money.
 - [Kronos](../factors/kronos.md)
 - [Jupiter](../factors/jupiter.md)
 - [Node/Kronos](../axes/node-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

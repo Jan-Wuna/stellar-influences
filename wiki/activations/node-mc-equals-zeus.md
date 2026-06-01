@@ -3,10 +3,10 @@ title: Node/MC = Zeus
 page_type: activation
 slug: node-mc-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Node
+  - MC
   - Zeus
 normalized_formula: Node/MC = Zeus
 axis: Node/MC
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - MC
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Node`
-- Source page: `61`
 #### Witte Entry
 
 To be incited. To be aroused mentally. Want to achieve the personal goal in a relationship.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be incited. To be aroused mentally. Want to achieve the personal goal in a relationship.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Beginning of a psychic connection, fiery soul connection, my efforts in connections, my goals in connection, minute of a procreation connection, feeding in a psychic connection, and striving for a soul connection
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/MC = Zeus`: To be incited. To be aroused mentally. Want to achieve the personal goal in a relationship.
+- Practical focus: to be incited; also to be aroused mentally.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be incited. To be aroused mentally. Want to achieve the personal goal in a re
 - [MC](../factors/mc.md)
 - [Zeus](../factors/zeus.md)
 - [Node/MC](../axes/node-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

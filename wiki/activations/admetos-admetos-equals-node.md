@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Admetos + Admetos`
-- Source page: `309`
 #### Witte Entry
 
 Small exclusive circle. Connections with a few. Shackles. Connections which are oppressive and are a burden. Few connections. Reliable or very close connections. Static or unchangeable connections. Connections which are of great hindrance. Joining raw materials.
 
-## Comparative Schema
-
-- core meaning: Small exclusive circle. Connections with a few. Shackles. Connections which are oppressive and are a burden. Few connections. Reliable or very close connections. Static or unchangeable connections. Connections which are of great hindrance. Joining raw materials.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Admetos/Admetos = Node`: durable selective alliances and contacts that do not easily change. Main caution: shackled connection: ties become burdensome, exclusive, and immobile, so belonging constrains rather than opens life.
 
 ## Links
 

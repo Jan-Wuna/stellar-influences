@@ -3,7 +3,7 @@ title: Jupiter Hades Apollon
 page_type: triad_hub
 slug: jupiter-hades-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Hades Apollon`
 - Astronomicon triad-set: `V ¢ ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Apollon = Jupiter](../activations/hades-apollon-equals-jupiter.md)
-  Source page `280`
 - [Jupiter/Apollon = Hades](../activations/jupiter-apollon-equals-hades.md)
-  Source page `215`
 - [Jupiter/Hades = Apollon](../activations/jupiter-hades-equals-apollon.md)
-  Source page `212`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Apollon = Jupiter`: page `280`
-- `Jupiter/Apollon = Hades`: page `215`
-- `Jupiter/Hades = Apollon`: page `212`
+- `Hades/Apollon = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `280`
+- `Hades/Apollon = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `442`
+- `Jupiter/Apollon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `215`
+- `Jupiter/Apollon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `341`
+- `Jupiter/Hades = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `212`
+- `Jupiter/Hades = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `335`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Apollon = Jupiter`: being cared for in hard times, making money from junk or salvage, and finding success in history, antiquity, or secret science.
+- `Jupiter/Apollon = Hades`: wrong financial bets, large investment losses, and great amounts of money going wrong.
+- `Jupiter/Hades = Apollon`: many people being out of luck and science or large enterprises being hindered through lack.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Hades](../factors/hades.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Hades/Admetos = Apollon
 page_type: activation
 slug: hades-admetos-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Hades
   - Apollon
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Admetos`
-- Source page: `282`
 #### Witte Entry
 
 Beginning of hardship for many people. Satisfactory revelations in histo 2 'y peop’ ry ry bs science. Economic downturn. bE -1 To overdo frugality. Under heavy pressure through need, starvation or enmity.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Beginning of hardship for many people. Satisfactory revelations in histo 2 'y peop’ ry ry bs science. Economic downturn. bE -1 To overdo frugality. Under heavy pressure through need, starvation or enmity.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Spread of depression and grief, restriction of trade crime, success through perseverance and deprivation, dangerous depression experiences, grilning knowledge about the past, adverse limitation of freedom, and deepening into old knowledge
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Admetos = Apollon`: scarcity and decline becoming social or widespread, while understanding may come through studying what has already decayed or been left behind. Main caution: large-scale pessimism and the normalization of hardship as a collective condition.
 
 ## Links
 
@@ -61,3 +55,5 @@ Beginning of hardship for many people. Satisfactory revelations in histo 2 'y pe
 - [Admetos](../factors/admetos.md)
 - [Apollon](../factors/apollon.md)
 - [Hades/Admetos](../axes/hades-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

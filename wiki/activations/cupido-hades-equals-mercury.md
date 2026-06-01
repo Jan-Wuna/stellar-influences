@@ -3,7 +3,7 @@ title: Cupido/Hades = Mercury
 page_type: activation
 slug: cupido-hades-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Cupido
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Hades`
-- Source page: `267`
 #### Witte Entry
 
 To fight for the realization of artistic ideas.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To fight for the realization of artistic ideas.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Reports on communities in need, language about old people, language about common past, criminal youth community, opinions of a dangerous community, and news about dangerous communities
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Hades = Mercury`: thought, speech, planning, or advocacy used to push art or collective purpose through resistance and lack. Main caution: burning energy on articulation while material conditions remain bleak.
 
 ## Links
 
@@ -61,3 +55,5 @@ To fight for the realization of artistic ideas.
 - [Hades](../factors/hades.md)
 - [Mercury](../factors/mercury.md)
 - [Cupido/Hades](../axes/cupido-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

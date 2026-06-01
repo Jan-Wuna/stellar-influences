@@ -3,10 +3,10 @@ title: Pluto/MC = Zeus
 page_type: activation
 slug: pluto-mc-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Pluto
+  - MC
   - Zeus
 normalized_formula: Pluto/MC = Zeus
 axis: Pluto/MC
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - MC
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Pluto`
-- Source page: `69`
 #### Witte Entry
 
 The inner vocation. To develop and work up the performance. Making progress. Development of leadership.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The inner vocation. To develop and work up the performance. Making progress. Development of leadership.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+The unfolding of a fiery soul, the shaping of my evolution, the unfolding of creativity, my psychic efforts, my goal is development, the developing of psychic achievements, the changing of soul welfare, and the growing achievements of the soul
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/MC = Zeus`: personal duty, effort or production intensifies as development turns in a new direction.
+- Practical expression: the unfolding of a fiery soul, the shaping of my evolution, the unfolding of creativity, my psychic efforts, and my goal is development.
 
 ## Links
 
@@ -61,3 +56,5 @@ The inner vocation. To develop and work up the performance. Making progress. Dev
 - [MC](../factors/mc.md)
 - [Zeus](../factors/zeus.md)
 - [Pluto/MC](../axes/pluto-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

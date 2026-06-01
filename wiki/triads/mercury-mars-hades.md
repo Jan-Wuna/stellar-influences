@@ -3,7 +3,7 @@ title: Mercury Mars Hades
 page_type: triad_hub
 slug: mercury-mars-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Mars
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Mars Hades`
 - Astronomicon triad-set: `T U ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Hades = Mercury](../activations/mars-hades-equals-mercury.md)
-  Source page `198`
 - [Mercury/Hades = Mars](../activations/mercury-hades-equals-mars.md)
-  Source page `167`
 - [Mercury/Mars = Hades](../activations/mercury-mars-equals-hades.md)
-  Source page `160`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Hades = Mercury`: page `198`
-- `Mercury/Hades = Mars`: page `167`
-- `Mercury/Mars = Hades`: page `160`
+- `Mars/Hades = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `198`
+- `Mars/Hades = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `310`
+- `Mercury/Hades = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `167`
+- `Mercury/Hades = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `256`
+- `Mercury/Mars = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `160`
+- `Mercury/Mars = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `243`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Hades = Mercury`: criminal or destructive thinking, hateful language, and speech that carries damage, loss, or self-destructive intent.
+- `Mercury/Hades = Mars`: activates the axis into criminal thought, harmful action, and old hostile plans.
+- `Mercury/Mars = Hades`: degrades the axis into abuse, distressed speech, and misdeed-readiness.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Mars](../factors/mars.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

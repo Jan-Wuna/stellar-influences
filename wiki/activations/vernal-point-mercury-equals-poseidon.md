@@ -3,7 +3,7 @@ title: Vernal Point/Mercury = Poseidon
 page_type: activation
 slug: vernal-point-mercury-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Mercury
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Mercury
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Mercury`
-- Source page: `40`
 #### Witte Entry
 
 Ideas or insights related to public opinion.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Ideas or insights related to public opinion.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Spiritual speech in the public, clear opinions in the public life, public media culture, public culture language, language of truth in the public, public communication, and awareness of youth in the public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Mercury = Poseidon`: ideas or insights related to public opinion.
+- Practical expression: spiritual speech in the public, clear opinions in the public life, public media culture, public culture language, and language of truth in the public.
 
 ## Links
 
@@ -61,3 +56,5 @@ Ideas or insights related to public opinion.
 - [Mercury](../factors/mercury.md)
 - [Poseidon](../factors/poseidon.md)
 - [Vernal Point/Mercury](../axes/vernal-point-mercury.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

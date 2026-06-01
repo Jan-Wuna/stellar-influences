@@ -3,7 +3,7 @@ title: Saturn Admetos Poseidon
 page_type: triad_hub
 slug: saturn-admetos-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Admetos
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Admetos Poseidon`
 - Astronomicon triad-set: `W ¦ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Admetos/Poseidon = Saturn](../activations/admetos-poseidon-equals-saturn.md)
-  Source page `312`
 - [Saturn/Admetos = Poseidon](../activations/saturn-admetos-equals-poseidon.md)
-  Source page `229`
 - [Saturn/Poseidon = Admetos](../activations/saturn-poseidon-equals-admetos.md)
-  Source page `231`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Admetos/Poseidon = Saturn`: page `312`
-- `Saturn/Admetos = Poseidon`: page `229`
-- `Saturn/Poseidon = Admetos`: page `231`
+- `Admetos/Poseidon = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `312`
+- `Admetos/Poseidon = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `477`
+- `Saturn/Admetos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `229`
+- `Saturn/Admetos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `365`
+- `Saturn/Poseidon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `231`
+- `Saturn/Poseidon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `369`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Admetos/Poseidon = Saturn`: blocked or interrupted education, discipline under hindrance, and refinement slowed by obstacles.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Admetos](../factors/admetos.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

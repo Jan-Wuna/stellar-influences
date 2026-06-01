@@ -3,7 +3,7 @@ title: Pluto/Cupido = MC
 page_type: activation
 slug: pluto-cupido-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - MC
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Cupido`
-- Source page: `257`
 #### Witte Entry
 
 Taking part in the transformation of a community. To become a member of another club. Change in the social surroundings.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Taking part in the transformation of a community. To become a member of another club. Change in the social surroundings.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+The soul of a Gcmeinschatl unfold, common psychic development, I old age cine community, my development in the community, Schelic change in the community, and growing soul community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Cupido = MC`: taking part in the transformation of a community; To become a member of another club; Change in the social surroundings.
+- Practical expression: common psychic development, my development in the community, and growing soul community.
 
 ## Links
 
@@ -61,3 +56,5 @@ Taking part in the transformation of a community. To become a member of another 
 - [Cupido](../factors/cupido.md)
 - [MC](../factors/mc.md)
 - [Pluto/Cupido](../axes/pluto-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

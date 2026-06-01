@@ -3,7 +3,7 @@ title: Venus Jupiter Cupido
 page_type: triad_hub
 slug: venus-jupiter-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Jupiter
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Jupiter Cupido`
 - Astronomicon triad-set: `Q V ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Cupido = Venus](../activations/jupiter-cupido-equals-venus.md)
-  Source page `211`
 - [Venus/Cupido = Jupiter](../activations/venus-cupido-equals-jupiter.md)
-  Source page `182`
 - [Venus/Jupiter = Cupido](../activations/venus-jupiter-equals-cupido.md)
-  Source page `177`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Cupido = Venus`: page `211`
-- `Venus/Cupido = Jupiter`: page `182`
-- `Venus/Jupiter = Cupido`: page `177`
+- `Jupiter/Cupido = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `211`
+- `Jupiter/Cupido = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `332`
+- `Venus/Cupido = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `182`
+- `Venus/Cupido = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `282`
+- `Venus/Jupiter = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `177`
+- `Venus/Jupiter = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `273`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Cupido = Venus`: love happiness in married life, harmony in company, balanced family or company finances, and freedom from debt.
+- `Venus/Cupido = Jupiter`: great happiness in married life.
+- `Venus/Jupiter = Cupido`: love’s happiness in marital life.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Jupiter](../factors/jupiter.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

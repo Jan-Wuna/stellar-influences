@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Cupido + Cupido`
-- Source page: `265`
 #### Witte Entry
 
 TTie parental home. Family following. The apartment. The home. Houses. Dwellings. Social connections. Other people are united. Business partnership. Acquaintance with artists. Common endeavors. Family ties. The conditions that are present where one resides. Relations with group members. The outer appearance of the family, association or group.
 
-## Comparative Schema
-
-- core meaning: TTie parental home. Family following. The apartment. The home. Houses. Dwellings. Social connections. Other people are united. Business partnership. Acquaintance with artists. Common endeavors. Family ties. The conditions that are present where one resides. Relations with group members. The outer appearance of the family, association or group.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Cupido = Asc`: belonging showing up through residence, immediate surroundings, and face-to-face relations with relatives, partners, or group members. Main caution: letting outer domestic or social conditions define the whole relationship field.
 
 ## Links
 

@@ -3,7 +3,7 @@ title: Moon/Poseidon = Vulcanus
 page_type: activation
 slug: moon-poseidon-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Vulcanus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Poseidon`
-- Source page: `138`
 #### Witte Entry
 
 Great sensitivity for men and things.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great sensitivity for men and things.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Spiritual violence against a people, the spiritual power of a people, the influence of a spiritual woman, the cultural power of the people, the strength of clarity, the cultural influence of a woman, the power of a true woman, and the power of truth in the hour
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Poseidon = Vulcanus`: Great sensitivity for men and things.
+- Practical expression: spiritual violence against a people, the spiritual power of a people, the influence of a spiritual woman, the cultural power of the people, and the strength of clarity.
 
 ## Links
 
@@ -61,3 +56,5 @@ Great sensitivity for men and things.
 - [Poseidon](../factors/poseidon.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Moon/Poseidon](../axes/moon-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Mercury + Mercury`
-- Source page: `157`
 #### Witte Entry
 
 Connections of thoughts. Correspondence. To make new connection. Intellectual or communications ties. Contacts or connections for communication.
 
-## Comparative Schema
-
-- core meaning: Connections of thoughts. Correspondence. To make new connection. Intellectual or communications ties. Contacts or connections for communication.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Mercury = Node` socializes the axis through correspondence and communications ties.
+- Chart expression: connections of thought, new contacts, active correspondence, and communication functioning as the main thread that links people together.
 
 ## Links
 

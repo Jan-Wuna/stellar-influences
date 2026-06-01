@@ -3,7 +3,7 @@ title: Zeus/Vulcanus = Mars
 page_type: activation
 slug: zeus-vulcanus-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Zeus
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Vulcanus`
-- Source page: `295`
 #### Witte Entry
 
 Activity in connection with machines or mechanical contraptions. Mechanical horse power.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Activity in connection with machines or mechanical contraptions. Mechanical horse power.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful force work, work with fiery energies, violence acts of leadership, actions of leadership power, powerful labor performances, powerful leadership activity, effective energy generation, and determined power acts
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Vulcanus = Mars`: Activity in connection with machines or mechanical contraptions. Mechanical horse power.
+- Practical expression: effortful force work, work with fiery energies, violence acts of leadership, actions of leadership power, and powerful labor performances.
 
 ## Links
 
@@ -61,3 +56,5 @@ Activity in connection with machines or mechanical contraptions. Mechanical hors
 - [Vulcanus](../factors/vulcanus.md)
 - [Mars](../factors/mars.md)
 - [Zeus/Vulcanus](../axes/zeus-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

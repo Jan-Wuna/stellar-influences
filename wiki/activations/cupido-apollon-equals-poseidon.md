@@ -3,7 +3,7 @@ title: Cupido/Apollon = Poseidon
 page_type: activation
 slug: cupido-apollon-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Cupido
   - Apollon
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Apollon`
-- Source page: `270`
 #### Witte Entry
 
 To be joined with others of the same faith. Artistic or scientific union by the same world outlook
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be joined with others of the same faith. Artistic or scientific union by the same world outlook
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Expansion of a spiritual community, successful cultural community, successful artistic Idea, spiritual knowledge of a community, shared spiritual experiences, knowledge of arts and culture, and increasing common knowledge
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Apollon = Poseidon`: cultured or learned communities bound by principle, worldview, and higher meaning. Main caution: ideological uniformity or subtle exclusion of those outside the common outlook.
 
 ## Links
 
@@ -61,3 +55,5 @@ To be joined with others of the same faith. Artistic or scientific union by the 
 - [Apollon](../factors/apollon.md)
 - [Poseidon](../factors/poseidon.md)
 - [Cupido/Apollon](../axes/cupido-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

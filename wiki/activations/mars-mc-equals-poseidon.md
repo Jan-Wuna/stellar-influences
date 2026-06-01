@@ -3,10 +3,10 @@ title: Mars/MC = Poseidon
 page_type: activation
 slug: mars-mc-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Mars
+  - MC
   - Poseidon
 normalized_formula: Mars/MC = Poseidon
 axis: Mars/MC
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - MC
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Mars`
-- Source page: `64`
 #### Witte Entry
 
 Ones moral mode of action. Mentally active. High-minded insights based on a professional action.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Ones moral mode of action. Mentally active. High-minded insights based on a professional action.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Actions of the spirit soul, work on spirit and soul, I want the truth, clear soul impulses, my clear actions, my mental activity, my ideal actions, my culture work, and reason impulses of the soul
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/MC = Poseidon` refines vocation through morality, intellect, and high-minded insight.
+- Chart expression: a principled professional mode of action, mental activity directed toward higher understanding, and work informed by ethical or philosophical clarity.
 
 ## Links
 
@@ -61,3 +56,5 @@ Ones moral mode of action. Mentally active. High-minded insights based on a prof
 - [MC](../factors/mc.md)
 - [Poseidon](../factors/poseidon.md)
 - [Mars/MC](../axes/mars-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

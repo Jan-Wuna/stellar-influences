@@ -3,7 +3,7 @@ title: Node/Poseidon = Jupiter
 page_type: activation
 slug: node-poseidon-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Node
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Poseidon`
-- Source page: `156`
 #### Witte Entry
 
 Aligned with reasonable and prudent people. Connected with wise and philosophically educated people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Aligned with reasonable and prudent people. Connected with wise and philosophically educated people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful spiritual connections, conveying financial ideas, joy through cultural relationships, joy through truth mediation, clear financial connections, clarity through legal contacts, money for cultural connections, and connection to cultural law
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Poseidon = Jupiter`: Aligned with reasonable and prudent people. Connected with wise and philosophically educated people.
+- Practical focus: aligned with reasonable and prudent people; also connected with wise and philosophically educated people.
 
 ## Links
 
@@ -61,3 +56,5 @@ Aligned with reasonable and prudent people. Connected with wise and philosophica
 - [Poseidon](../factors/poseidon.md)
 - [Jupiter](../factors/jupiter.md)
 - [Node/Poseidon](../axes/node-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

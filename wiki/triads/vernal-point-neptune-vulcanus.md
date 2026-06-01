@@ -3,7 +3,7 @@ title: Vernal Point Neptune Vulcanus
 page_type: triad_hub
 slug: vernal-point-neptune-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Neptune
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Neptune Vulcanus`
 - Astronomicon triad-set: `VP Y §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Neptune/Vulcanus = Vernal Point](../activations/neptune-vulcanus-equals-vernal-point.md)
-  Source page `253`
 - [Vernal Point/Neptune = Vulcanus](../activations/vernal-point-neptune-equals-vulcanus.md)
-  Source page `46`
 - [Vernal Point/Vulcanus = Neptune](../activations/vernal-point-vulcanus-equals-neptune.md)
-  Source page `54`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Neptune/Vulcanus = Vernal Point`: page `253`
-- `Vernal Point/Neptune = Vulcanus`: page `46`
-- `Vernal Point/Vulcanus = Neptune`: page `54`
+- `Neptune/Vulcanus = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `253`
+- `Neptune/Vulcanus = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `404`
+- `Vernal Point/Neptune = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `46`
+- `Vernal Point/Neptune = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `41`
+- `Vernal Point/Vulcanus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `54`
+- `Vernal Point/Vulcanus = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `57`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Neptune/Vulcanus = Vernal Point`: The broader environment is marked by major disillusionment, whether through being deceived by the world or through becoming the agent of that disappointment.
+- `Vernal Point/Neptune = Vulcanus`: This formula emphasizes great or severe disappointments.
+- `Vernal Point/Vulcanus = Neptune`: This formula emphasizes power felt and sensed, but not seen or heard, power that lies in deception, powerlessness, pretending, and powers of wind or water.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Neptune](../factors/neptune.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

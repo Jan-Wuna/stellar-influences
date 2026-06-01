@@ -3,7 +3,7 @@ title: Neptune/Admetos = Sun
 page_type: activation
 slug: neptune-admetos-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Neptune
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Admetos`
-- Source page: `252`
 #### Witte Entry
 
 The condition of the body changes. The man who enters different living conditions. Days when the weather changes. To change to a different aggregate condition. To freeze or to thaw.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The condition of the body changes. The man who enters different living conditions. Days when the weather changes. To change to a different aggregate condition. To freeze or to thaw.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dissolving a personal blockage, blocked air centre, a person's FIU circuit, gross personal weakness, creeping personal depression, weak corporal resistance, and stabilizing a body weakness
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Admetos = Sun`: The condition of the body changes. The man who enters different living conditions. Days when the weather changes. To change to a different aggregate condition. To freeze or to thaw.
+- Practical focus: personalizes `Neptune/Admetos` through bodily change, altered weather or atmosphere, and a shift in the state of being itself. It ties the axis to the lived organism, making transition concrete in body, daily life, and physical condition.
+- Practical expression: dissolving a personal blockage, blocked air centre, a person's FIU circuit, gross personal weakness, and creeping personal depression.
 
 ## Links
 
@@ -61,3 +57,5 @@ The condition of the body changes. The man who enters different living condition
 - [Admetos](../factors/admetos.md)
 - [Sun](../factors/sun.md)
 - [Neptune/Admetos](../axes/neptune-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

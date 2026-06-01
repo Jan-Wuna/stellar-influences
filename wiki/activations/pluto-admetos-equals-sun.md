@@ -3,7 +3,7 @@ title: Pluto/Admetos = Sun
 page_type: activation
 slug: pluto-admetos-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Pluto
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Admetos`
-- Source page: `262`
 #### Witte Entry
 
 Profound change in the body-mechanism. The glandular system of the body, changes noticeable. The man who experiences a deep reaching transformation in relation to the exterior conditions of his existence. Changed course of the day, therefore also changed meals or food-intake.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Profound change in the body-mechanism. The glandular system of the body, changes noticeable. The man who experiences a deep reaching transformation in relation to the exterior conditions of his existence. Changed course of the day, therefore also changed meals or food-intake.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked corporal development, blocked development centre, restricted corporal development, depressive development of a man, grim change of a person, developing personal perseverance, and deepening in corporal development
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Admetos = Sun`: profound change in the body-mechanism; The glandular system of the body, changes noticeable.
+- Practical expression: blocked corporal development, blocked development centre, restricted corporal development, depressive development of a man, and grim change of a person.
 
 ## Links
 
@@ -61,3 +56,5 @@ Profound change in the body-mechanism. The glandular system of the body, changes
 - [Admetos](../factors/admetos.md)
 - [Sun](../factors/sun.md)
 - [Pluto/Admetos](../axes/pluto-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

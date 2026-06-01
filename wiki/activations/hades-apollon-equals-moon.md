@@ -3,7 +3,7 @@ title: Hades/Apollon = Moon
 page_type: activation
 slug: hades-apollon-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Hades
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Apollon`
-- Source page: `280`
 #### Witte Entry
 
 Great impoverishment of the people, extensive mass suffering. Epidemics. Lack of water. Drought and hot periods.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great impoverishment of the people, extensive mass suffering. Epidemics. Lack of water. Drought and hot periods.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Success of a people through deprivation, dangerous freedom of a woman, dangerous experiences with a woman, grief proliferation in the people, lack of knowledge about a woman, spread of GemOts Kummer, past success of a woman, and knowledge of an old woman
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Apollon = Moon`: large-scale hardship becoming lived emotionally and bodily by the people. Main caution: collective suffering becoming normalized as the emotional climate of daily life.
 
 ## Links
 
@@ -61,3 +55,5 @@ Great impoverishment of the people, extensive mass suffering. Epidemics. Lack of
 - [Apollon](../factors/apollon.md)
 - [Moon](../factors/moon.md)
 - [Hades/Apollon](../axes/hades-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

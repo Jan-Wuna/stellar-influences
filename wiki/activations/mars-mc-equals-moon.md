@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Mars`
-- Source page: `64`
 #### Witte Entry
 
 To give orders to a woman. The correct use and division of one’s time.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Mars/Medium Coeli`
-- Source page: `223`
-- Entry: `0772`
+#### ABC Entry
+
+Actions of my people, treatment of a woman's soul, emotional soul work, I work with women, I act as a woman, I want to feel, my woman acts, my emotional actions, my emotional impulses, the will of my people, and psychic power of action of the woman
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Impulsive, premature action, lack of deliberation or thought, strong emotional e
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mars/Midheaven midpoint`
-- Source page: `77`
-- Activator: `Moon`
-
 #### Sandbach Entry
 
 Conflicts with authority figures cause feelings of insecurity. The emotional need to act on the dictates of Spirit. One feels secure when working on something that feels like it will benefit the world, or fulfill one’s spiritual mission.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Realizing that you have emotions and the role these can play in making you a unique person; emphasizes your inner need to develop the maternal qualities of caring, sympathy, and understanding for others.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/MC = Moon`: emotionally charged work, strong feeling about one's duties, and the need to act in ways that create security or fulfill a felt purpose. Main caution: excitability: emotional pressure can turn authority into impulsiveness, mood-driven decisions, or needless clashes.
 
 ## Links
 
@@ -84,7 +76,8 @@ Conflicts with authority figures cause feelings of insecurity. The emotional nee
 - [MC](../factors/mc.md)
 - [Moon](../factors/moon.md)
 - [Mars/MC](../axes/mars-mc.md)
-- [Moon Mars MC](../triads/moon-mars-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

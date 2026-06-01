@@ -3,7 +3,7 @@ title: Cupido/Admetos = Vulcanus
 page_type: activation
 slug: cupido-admetos-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Cupido
   - Admetos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Admetos`
-- Source page: `272`
 #### Witte Entry
 
 To experience great obstacles and hindrances through the family or partner. To feel or be suppressed through such conditions. To fight or struggle hard for an artistic creation. Often to be forced to fight.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To experience great obstacles and hindrances through the family or partner. To feel or be suppressed through such conditions. To fight or struggle hard for an artistic creation. Often to be forced to fight.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+endurance and energy in of a community, blocked force of a community, depressing artistic influence, shared restriction of power, thorough influence of a community, and consolidation of power in of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Admetos = Vulcanus`: separation under pressure, powerful obstacle within close bonds, and the need to fight hard through communal or relational resistance. Main caution: exhausting struggle against conditions too strong or too entrenched to move easily.
 
 ## Links
 
@@ -61,3 +55,5 @@ To experience great obstacles and hindrances through the family or partner. To f
 - [Admetos](../factors/admetos.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Cupido/Admetos](../axes/cupido-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

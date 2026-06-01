@@ -3,7 +3,7 @@ title: Jupiter/Kronos = Hades
 page_type: activation
 slug: jupiter-kronos-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Hades
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Kronos`
-- Source page: `214`
 #### Witte Entry
 
 To accomplish much with litde. Thriftiness. Gain in money from things which are taken out of the earth. Owner of mines.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To accomplish much with litde. Thriftiness. Gain in money from things which are taken out of the earth. Owner of mines.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special success through renunciation, successes of a criminal authorization, joy in the state service, money deficiency of the state, great joy from the past, great G!Uck in secret, criminal state law, legal state in need, and state financial crime
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Kronos = Hades`: authority remaining effective even under scarcity. It favors resource discipline, practical economy, and profitable command over raw or buried material wealth.
 
 ## Links
 
@@ -61,3 +55,5 @@ To accomplish much with litde. Thriftiness. Gain in money from things which are 
 - [Kronos](../factors/kronos.md)
 - [Hades](../factors/hades.md)
 - [Jupiter/Kronos](../axes/jupiter-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

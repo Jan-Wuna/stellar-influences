@@ -3,7 +3,7 @@ title: Neptune MC Admetos
 page_type: triad_hub
 slug: neptune-mc-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Neptune MC Admetos`
 - Astronomicon triad-set: `Y MC ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Admetos = Neptune](../activations/mc-admetos-equals-neptune.md)
-  Source page `75`
 - [Neptune/Admetos = MC](../activations/neptune-admetos-equals-mc.md)
-  Source page `252`
 - [Neptune/MC = Admetos](../activations/neptune-mc-equals-admetos.md)
-  Source page `68`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Admetos = Neptune`: page `75`
-- `Neptune/Admetos = MC`: page `252`
-- `Neptune/MC = Admetos`: page `68`
+- `MC/Admetos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `75`
+- `MC/Admetos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `95`
+- `Neptune/Admetos = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `252`
+- `Neptune/Admetos = MC`: Udo Rudolph - ABC for Planetary Pictures, page `402`
+- `Neptune/MC = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `68`
+- `Neptune/MC = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `81`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Admetos = Neptune`: tests the axis through error, illusion, and resistance to being misled.
+- `Neptune/Admetos = MC`: This activation turns `Neptune/Admetos` into a change of role, profession, or basic state of being. It often marks a threshold where life form itself is altered, making hardening or dissolution part of a larger shift in identity, circumstance, or vocation.
+- `Neptune/MC = Admetos`: This activation compresses uncertain self-direction into coldness, repulsion, and deep bottom-up change, showing life conditions shifting thoroughly while one’s tact or warmth is strained or injured.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [MC](../factors/mc.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

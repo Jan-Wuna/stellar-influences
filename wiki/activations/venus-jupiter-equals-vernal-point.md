@@ -3,7 +3,7 @@ title: Venus/Jupiter = Vernal Point
 page_type: activation
 slug: venus-jupiter-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Jupiter
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Venus
   - Jupiter
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Jupiter`
-- Source page: `177`
 #### Witte Entry
 
 Love’s happiness. Luck and joy in the general public. Gorgeous celebrations. Jewelry.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Love’s happiness. Luck and joy in the general public. Gorgeous celebrations. Jewelry.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+successful beautifications in public life, success of peace in public, harmony through public law, public artistic successes, preference for public funds, and advantage in public life through beauty
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Jupiter = Vernal Point`: love’s happiness.
+- Practical expression: successful beautifications in public life, success of peace in public, harmony through public law, public artistic successes, and preference for public funds.
 
 ## Links
 
@@ -61,3 +56,5 @@ Love’s happiness. Luck and joy in the general public. Gorgeous celebrations. J
 - [Jupiter](../factors/jupiter.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Venus/Jupiter](../axes/venus-jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

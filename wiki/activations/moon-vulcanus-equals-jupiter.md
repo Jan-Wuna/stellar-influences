@@ -3,7 +3,7 @@ title: Moon/Vulcanus = Jupiter
 page_type: activation
 slug: moon-vulcanus-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Jupiter
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Vulcanus`
-- Source page: `136`
 #### Witte Entry
 
 Deeds which cause great public interest. A mighty nation in battle, making great efforts, developing great energies. To exercise great influence on male persons, or representatives of the public or armed authorities.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Deeds which cause great public interest. A mighty nation in battle, making great efforts, developing great energies. To exercise great influence on male persons, or representatives of the public or armed authorities.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+successes of an influential woman, successful influence of a people, financial power of the people, financial force of a woman, tremendous joy of the woman, legal influence of the woman, legal feeling of the woman, legal violence against a people, and strong feeling of luck
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Vulcanus = Jupiter`: Deeds which cause great public interest. A mighty nation in battle, making great efforts, developing great energies. To exercise great influence on male persons, or representatives of the public or armed authorities.
+- Practical expression: successes of an influential woman, successful influence of a people, financial power of the people, financial force of a woman, and tremendous joy of the woman.
 
 ## Links
 
@@ -61,3 +56,5 @@ Deeds which cause great public interest. A mighty nation in battle, making great
 - [Vulcanus](../factors/vulcanus.md)
 - [Jupiter](../factors/jupiter.md)
 - [Moon/Vulcanus](../axes/moon-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

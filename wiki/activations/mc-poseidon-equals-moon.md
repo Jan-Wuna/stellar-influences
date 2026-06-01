@@ -3,7 +3,7 @@ title: MC/Poseidon = Moon
 page_type: activation
 slug: mc-poseidon-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - MC
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Poseidon`
-- Source page: `77`
 #### Witte Entry
 
 Highly sensitive. Comprehensive mental perception. To influence women and the public. To possess emotional intelligence or perceptive faculty.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Highly sensitive. Comprehensive mental perception. To influence women and the public. To possess emotional intelligence or perceptive faculty.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Stundc of clarity, animated people's culture, spirit soul of the woman, clear life of the soul, culture of my people, my knowledge as a woman, my spiritualized wife, my poor wife, and my true idols
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Poseidon = Moon` emotionalizes the axis through high sensitivity and broad perception.
+- Chart expression: perceptive emotional intelligence, influence over women or the public through mental sensitivity, and a mind that feels its way into comprehensive understanding.
 
 ## Links
 
@@ -61,3 +56,5 @@ Highly sensitive. Comprehensive mental perception. To influence women and the pu
 - [Poseidon](../factors/poseidon.md)
 - [Moon](../factors/moon.md)
 - [MC/Poseidon](../axes/mc-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Asc Admetos Vulcanus
 page_type: triad_hub
 slug: asc-admetos-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Admetos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Asc Admetos Vulcanus`
 - Astronomicon triad-set: `Asc ¦ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Admetos/Vulcanus = Asc](../activations/admetos-vulcanus-equals-asc.md)
-  Source page `311`
 - [Asc/Admetos = Vulcanus](../activations/asc-admetos-equals-vulcanus.md)
-  Source page `96`
 - [Asc/Vulcanus = Admetos](../activations/asc-vulcanus-equals-admetos.md)
-  Source page `97`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Admetos/Vulcanus = Asc`: page `311`
-- `Asc/Admetos = Vulcanus`: page `96`
-- `Asc/Vulcanus = Admetos`: page `97`
+- `Admetos/Vulcanus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `311`
+- `Admetos/Vulcanus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `474`
+- `Asc/Admetos = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `96`
+- `Asc/Admetos = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `133`
+- `Asc/Vulcanus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `97`
+- `Asc/Vulcanus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `135`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Admetos/Vulcanus = Asc`: a hard, unyielding presence and surroundings defined by pressure, resistance, and severity.
+- `Asc/Admetos = Vulcanus`: hard-edged standing in a place where limits are enforced and respect depends on power or endurance.
+- `Asc/Vulcanus = Admetos`: a desire to dominate that meets heavy resistance, producing pressure, stalemate, and immovable opposition.
 
 ## Links
 
 - [Asc](../factors/asc.md)
 - [Admetos](../factors/admetos.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

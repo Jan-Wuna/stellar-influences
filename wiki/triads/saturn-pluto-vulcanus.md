@@ -3,7 +3,7 @@ title: Saturn Pluto Vulcanus
 page_type: triad_hub
 slug: saturn-pluto-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Pluto
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Pluto Vulcanus`
 - Astronomicon triad-set: `W Z §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Pluto/Vulcanus = Saturn](../activations/pluto-vulcanus-equals-saturn.md)
-  Source page `263`
 - [Saturn/Pluto = Vulcanus](../activations/saturn-pluto-equals-vulcanus.md)
-  Source page `223`
 - [Saturn/Vulcanus = Pluto](../activations/saturn-vulcanus-equals-pluto.md)
-  Source page `230`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Pluto/Vulcanus = Saturn`: page `263`
-- `Saturn/Pluto = Vulcanus`: page `223`
-- `Saturn/Vulcanus = Pluto`: page `230`
+- `Pluto/Vulcanus = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `263`
+- `Pluto/Vulcanus = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `421`
+- `Saturn/Pluto = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `223`
+- `Saturn/Pluto = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `353`
+- `Saturn/Vulcanus = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `230`
+- `Saturn/Vulcanus = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `367`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Pluto/Vulcanus = Saturn`: This activation emphasizes retarding a mighty transformation; Obstacles and hindrances which occur counter to a change; To keep something below the boiling point, to simmer.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Pluto](../factors/pluto.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

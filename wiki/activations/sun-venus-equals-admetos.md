@@ -3,7 +3,7 @@ title: Sun/Venus = Admetos
 page_type: activation
 slug: sun-venus-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Venus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Venus
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Venus`
-- Source page: `104`
 #### Witte Entry
 
 There is no response to the own feeling of love. No ability to love.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: There is no response to the own feeling of love. No ability to love.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Limitation of human joy, limitation of corporal love, end of a Harmonic Day, personal harmony strengthening, submission of a man's love, deepening of personal affection, and goodwill of a solid person
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Venus = Admetos`: difficult release from pain and constriction in affection or comfort.
+- Practical expression: limitation of human joy, limitation of corporal love, end of a Harmonic Day, personal harmony strengthening, and submission of a man's love.
 
 ## Links
 
@@ -61,3 +56,5 @@ There is no response to the own feeling of love. No ability to love.
 - [Venus](../factors/venus.md)
 - [Admetos](../factors/admetos.md)
 - [Sun/Venus](../axes/sun-venus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Sun Hades Admetos
 page_type: triad_hub
 slug: sun-hades-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Hades Admetos`
 - Astronomicon triad-set: `S ¢ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Admetos = Sun](../activations/hades-admetos-equals-sun.md)
-  Source page `284`
 - [Sun/Admetos = Hades](../activations/sun-admetos-equals-hades.md)
-  Source page `116`
 - [Sun/Hades = Admetos](../activations/sun-hades-equals-admetos.md)
-  Source page `112`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Admetos = Sun`: page `284`
-- `Sun/Admetos = Hades`: page `116`
-- `Sun/Hades = Admetos`: page `112`
+- `Hades/Admetos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `284`
+- `Hades/Admetos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `444`
+- `Sun/Admetos = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `116`
+- `Sun/Admetos = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `169`
+- `Sun/Hades = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `112`
+- `Sun/Hades = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `161`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Admetos = Sun`: days lived in an oppressed mood, a person with many lacks, very few needs, and an outward life marked by deprivation.
+- `Sun/Admetos = Hades`: This formula emphasizes lack of things of household and death through exhaustion.
+- `Sun/Hades = Admetos`: This formula emphasizes illness through the soil or graves and waste matter.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Hades](../factors/hades.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

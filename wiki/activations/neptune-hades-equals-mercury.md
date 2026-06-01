@@ -3,7 +3,7 @@ title: Neptune/Hades = Mercury
 page_type: activation
 slug: neptune-hades-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Neptune
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Hades`
-- Source page: `248`
 #### Witte Entry
 
 Confused thinking, not to concentrate, to lose control of the summary, to be confused. Diseases of the brain. Raving madness. To think of sea voyages.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Confused thinking, not to concentrate, to lose control of the summary, to be confused. Diseases of the brain. Raving madness. To think of sea voyages.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Reports on air and water pollution, difficult water traffic, dangerous water movement, talk about the weak of the past, youth crime on the water, reports about water shortage, and talk about the future and the past
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Hades = Mercury`: Confused thinking, not to concentrate, to lose control of the summary, to be confused. Diseases of the brain. Raving madness. To think of sea voyages.
+- Practical focus: mentalizes the axis through confusion, loss of concentration, and impaired coherence, showing thought that becomes disordered, obsessive, or overtaken by decaying and unstable themes.
+- Practical expression: reports on air, water pollution, difficult water traffic, dangerous water movement, and talk about the weak of the past.
 
 ## Links
 
@@ -61,3 +57,5 @@ Confused thinking, not to concentrate, to lose control of the summary, to be con
 - [Hades](../factors/hades.md)
 - [Mercury](../factors/mercury.md)
 - [Neptune/Hades](../axes/neptune-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

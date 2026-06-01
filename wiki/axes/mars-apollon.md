@@ -3,7 +3,7 @@ title: Mars/Apollon
 page_type: axis
 slug: mars-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Apollon
@@ -11,26 +11,26 @@ normalized_axis: Mars/Apollon
 factor_a: Mars
 factor_b: Apollon
 related_activations:
-  - Mars/Apollon = Vernal Point
-  - Mars/Apollon = MC
+  - Mars/Apollon = Admetos
   - Mars/Apollon = Asc
-  - Mars/Apollon = Sun
-  - Mars/Apollon = Moon
-  - Mars/Apollon = Node
-  - Mars/Apollon = Mercury
-  - Mars/Apollon = Venus
-  - Mars/Apollon = Jupiter
-  - Mars/Apollon = Saturn
-  - Mars/Apollon = Uranus
-  - Mars/Apollon = Neptune
-  - Mars/Apollon = Pluto
   - Mars/Apollon = Cupido
   - Mars/Apollon = Hades
-  - Mars/Apollon = Zeus
+  - Mars/Apollon = Jupiter
   - Mars/Apollon = Kronos
-  - Mars/Apollon = Admetos
-  - Mars/Apollon = Vulcanus
+  - Mars/Apollon = MC
+  - Mars/Apollon = Mercury
+  - Mars/Apollon = Moon
+  - Mars/Apollon = Neptune
+  - Mars/Apollon = Node
+  - Mars/Apollon = Pluto
   - Mars/Apollon = Poseidon
+  - Mars/Apollon = Saturn
+  - Mars/Apollon = Sun
+  - Mars/Apollon = Uranus
+  - Mars/Apollon = Venus
+  - Mars/Apollon = Vernal Point
+  - Mars/Apollon = Vulcanus
+  - Mars/Apollon = Zeus
 related_triad_hubs:
   - Mars Apollon Admetos
   - Mars Apollon Poseidon
@@ -56,15 +56,15 @@ aliases:
   - Apollon/Mars
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Axis: `Mars/Apollon`
 - Astronomicon axis: `U/¥`
-- Source heading: `Mars + Apollon`
-- Source page: `201`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
@@ -74,48 +74,44 @@ updated_at: 2026-04-21
 
 Generous way of acting. Peaceful, scientific or commercial activities. Successful activity. An activity is expanded and enlarged. Rising of the market. Activity in handicraft or industry. The forces of the trading market. Trading activity. Peacemaker. Scientist. Merchant.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Generous way of acting. Peaceful, scientific or commercial activities. Successful activity. An activity is expanded and enlarged. Rising of the market. Activity in handicraft or industry. The forces of the trading market. Trading activity. Peacemaker. Scientist. Merchant.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+#### ABC Pair Summary
+
+Work in the economy, work experience, success action, peace making, business activity, commercial success, will to freedom, increase of power, scientific work, create a lot of work, and knowledge
 
 ## Related Activations
 
-- [Mars/Apollon = Vernal Point](../activations/mars-apollon-equals-vernal-point.md)
-- [Mars/Apollon = MC](../activations/mars-apollon-equals-mc.md)
+- [Mars/Apollon = Admetos](../activations/mars-apollon-equals-admetos.md)
 - [Mars/Apollon = Asc](../activations/mars-apollon-equals-asc.md)
-- [Mars/Apollon = Sun](../activations/mars-apollon-equals-sun.md)
-- [Mars/Apollon = Moon](../activations/mars-apollon-equals-moon.md)
-- [Mars/Apollon = Node](../activations/mars-apollon-equals-node.md)
-- [Mars/Apollon = Mercury](../activations/mars-apollon-equals-mercury.md)
-- [Mars/Apollon = Venus](../activations/mars-apollon-equals-venus.md)
-- [Mars/Apollon = Jupiter](../activations/mars-apollon-equals-jupiter.md)
-- [Mars/Apollon = Saturn](../activations/mars-apollon-equals-saturn.md)
-- [Mars/Apollon = Uranus](../activations/mars-apollon-equals-uranus.md)
-- [Mars/Apollon = Neptune](../activations/mars-apollon-equals-neptune.md)
-- [Mars/Apollon = Pluto](../activations/mars-apollon-equals-pluto.md)
 - [Mars/Apollon = Cupido](../activations/mars-apollon-equals-cupido.md)
 - [Mars/Apollon = Hades](../activations/mars-apollon-equals-hades.md)
-- [Mars/Apollon = Zeus](../activations/mars-apollon-equals-zeus.md)
+- [Mars/Apollon = Jupiter](../activations/mars-apollon-equals-jupiter.md)
 - [Mars/Apollon = Kronos](../activations/mars-apollon-equals-kronos.md)
-- [Mars/Apollon = Admetos](../activations/mars-apollon-equals-admetos.md)
-- [Mars/Apollon = Vulcanus](../activations/mars-apollon-equals-vulcanus.md)
+- [Mars/Apollon = MC](../activations/mars-apollon-equals-mc.md)
+- [Mars/Apollon = Mercury](../activations/mars-apollon-equals-mercury.md)
+- [Mars/Apollon = Moon](../activations/mars-apollon-equals-moon.md)
+- [Mars/Apollon = Neptune](../activations/mars-apollon-equals-neptune.md)
+- [Mars/Apollon = Node](../activations/mars-apollon-equals-node.md)
+- [Mars/Apollon = Pluto](../activations/mars-apollon-equals-pluto.md)
 - [Mars/Apollon = Poseidon](../activations/mars-apollon-equals-poseidon.md)
+- [Mars/Apollon = Saturn](../activations/mars-apollon-equals-saturn.md)
+- [Mars/Apollon = Sun](../activations/mars-apollon-equals-sun.md)
+- [Mars/Apollon = Uranus](../activations/mars-apollon-equals-uranus.md)
+- [Mars/Apollon = Venus](../activations/mars-apollon-equals-venus.md)
+- [Mars/Apollon = Vernal Point](../activations/mars-apollon-equals-vernal-point.md)
+- [Mars/Apollon = Vulcanus](../activations/mars-apollon-equals-vulcanus.md)
+- [Mars/Apollon = Zeus](../activations/mars-apollon-equals-zeus.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Apollon`: productive expansion: successful activity in trade, industry, science, and peaceful enterprise, with effort widening its field, markets rising, and work becoming more comprehensive and commercially or intellectually effective.
+- Chart expression: energetic growth rather than conflict for its own sake. It favors merchants, scientists, technicians, industrial activity, trade circulation, broad practical effort, and the generous or open-handed use of action to enlarge results, while its liabilities are overstretched activity, market volatility, disputes in commerce or science, and the failure of large undertakings when direction is lost.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Apollon](../factors/apollon.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

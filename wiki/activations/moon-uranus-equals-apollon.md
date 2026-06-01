@@ -3,7 +3,7 @@ title: Moon/Uranus = Apollon
 page_type: activation
 slug: moon-uranus-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Uranus
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Uranus`
-- Source page: `127`
 #### Witte Entry
 
 Long lasting excitement. Uproar of the masses. Spreading of an uproar.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Long lasting excitement. Uproar of the masses. Spreading of an uproar.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Extension of unrest in the people, experiences with nervous woman, success of a dynamic woman, successful event in the hour, new knowledge for the woman, success of a woman, technical knowledge of a people, and restlessness through knowledge of the woman
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Uranus = Apollon`: Long lasting excitement. Uproar of the masses. Spreading of an uproar.
+- Practical focus: expands `Moon/Uranus` into prolonged excitement, mass unrest, and disturbance that spreads outward. It favors larger social or emotional waves of disruption, where agitation becomes collective, amplified, and harder to contain.
+- Practical expression: extension of unrest in the people, experiences with nervous woman, success of a dynamic woman, successful event in the hour, and new knowledge for the woman.
 
 ## Links
 
@@ -61,3 +57,5 @@ Long lasting excitement. Uproar of the masses. Spreading of an uproar.
 - [Uranus](../factors/uranus.md)
 - [Apollon](../factors/apollon.md)
 - [Moon/Uranus](../axes/moon-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

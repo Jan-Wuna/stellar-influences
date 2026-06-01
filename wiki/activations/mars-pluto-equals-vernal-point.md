@@ -3,7 +3,7 @@ title: Mars/Pluto = Vernal Point
 page_type: activation
 slug: mars-pluto-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Mars
   - Pluto
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Pluto`
-- Source page: `196`
 #### Witte Entry
 
 Plans and projects which concern the generality. Organizing, supervising the general work. General administration. Civil Service.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Plans and projects which concern the generality. Organizing, supervising the general work. General administration. Civil Service.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+developmental actions in public, change of public will, changing actions in public, growing public work, change of a public activity, and unfolding of will in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Pluto = Vernal Point` brings planning and supervision into the public, administrative, and collective sphere.
+- Chart expression: projects for the general public, organizing common work, general administration, and civil service shaped by large-scale planning.
 
 ## Links
 
@@ -61,3 +56,5 @@ Plans and projects which concern the generality. Organizing, supervising the gen
 - [Pluto](../factors/pluto.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Mars/Pluto](../axes/mars-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

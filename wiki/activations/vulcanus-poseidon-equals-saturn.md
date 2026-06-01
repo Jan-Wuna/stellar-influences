@@ -3,7 +3,7 @@ title: Vulcanus/Poseidon = Saturn
 page_type: activation
 slug: vulcanus-poseidon-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vulcanus
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Vulcanus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vulcanus + Poseidon`
-- Source page: `315`
 #### Witte Entry
 
 Humiliation, to be depreciated. Insulted sense of honor. Loss of prestige and dignity. Honor, prestige and dignity must be very carefully guarded. To overcome inhibitions on a spiritual level or through spiritual forces.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Humiliation, to be depreciated. Insulted sense of honor. Loss of prestige and dignity. Honor, prestige and dignity must be very carefully guarded. To overcome inhibitions on a spiritual level or through spiritual forces.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Spiritual strength in old age, tremendous spiritual problems, inhibitions by spiritual violence, concentration on spiritual energies, power through patience and courage, powerful culture tasks, and strong problems with the truth
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vulcanus/Poseidon = Saturn`: Humiliation, to be depreciated. Insulted sense of honor. Loss of prestige and dignity. Honor, prestige and dignity must be very carefully guarded. To overcome inhibitions on a spiritual level or through spiritual forces.
+- Practical expression: spiritual strength in old age, tremendous spiritual problems, inhibitions by spiritual violence, concentration on spiritual energies, and power through patience.
 
 ## Links
 
@@ -61,3 +56,5 @@ Humiliation, to be depreciated. Insulted sense of honor. Loss of prestige and di
 - [Poseidon](../factors/poseidon.md)
 - [Saturn](../factors/saturn.md)
 - [Vulcanus/Poseidon](../axes/vulcanus-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

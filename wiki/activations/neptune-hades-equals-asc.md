@@ -3,7 +3,7 @@ title: Neptune/Hades = Asc
 page_type: activation
 slug: neptune-hades-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Asc
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Hades`
-- Source page: `248`
 #### Witte Entry
 
 Others feel deceived and disappointed. To be deceived about the relations to the near surroundings. Sickness or death by water or dropsy.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Others feel deceived and disappointed. To be deceived about the relations to the near surroundings. Sickness or death by water or dropsy.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dangerous place on the water, air deficiency of the partner, air pollution on the spot, dirty water in the vicinity, weak of the partner from the past, hidden water on the spot, water deficiency on the spot, and water damage in the environment
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Hades = Asc`: Others feel deceived and disappointed. To be deceived about the relations to the near surroundings. Sickness or death by water or dropsy.
+- Practical focus: personalizes deception and disappointment through one’s immediate surroundings, showing harmful confusion in local relations and bodily vulnerability to watery or wasting conditions.
+- Practical expression: dangerous place on the water, air deficiency of the partner, air pollution on the spot, dirty water in the vicinity, and weak of the partner from the past.
 
 ## Links
 
@@ -61,3 +57,5 @@ Others feel deceived and disappointed. To be deceived about the relations to the
 - [Hades](../factors/hades.md)
 - [Asc](../factors/asc.md)
 - [Neptune/Hades](../axes/neptune-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

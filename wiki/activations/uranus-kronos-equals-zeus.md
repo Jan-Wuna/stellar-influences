@@ -3,7 +3,7 @@ title: Uranus/Kronos = Zeus
 page_type: activation
 slug: uranus-kronos-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Zeus
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Kronos`
-- Source page: `239`
 #### Witte Entry
 
 Violent thunderstorm. Suddenly commencing great activity. To begin a great arming. A war breaking out suddenly.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Violent thunderstorm. Suddenly commencing great activity. To begin a great arming. A war breaking out suddenly.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special self evident performance, troubled state leadership, great excitement through fire, great technical achievement, impulses of a leadership authority, new self awareness of leadership, new goals of the state, and self abandoned rhythm design
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Kronos = Zeus`: Violent thunderstorm. Suddenly commencing great activity. To begin a great arming. A war breaking out suddenly.
+- Practical expression: special self evident performance, troubled state leadership, great excitement through fire, great technical achievement, and impulses of a leadership authority.
 
 ## Links
 
@@ -61,3 +56,5 @@ Violent thunderstorm. Suddenly commencing great activity. To begin a great armin
 - [Kronos](../factors/kronos.md)
 - [Zeus](../factors/zeus.md)
 - [Uranus/Kronos](../axes/uranus-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

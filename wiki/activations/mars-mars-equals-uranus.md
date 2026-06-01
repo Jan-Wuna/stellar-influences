@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Mars + Mars`
-- Source page: `190`
 #### Witte Entry
 
 Sudden event. Exciting action. Energetic act. Fighting. Wounds. Bloody injury. Surgical procedure. Over impulsive or sudden action. Surprising action. Unexpected or new work. Impulsive movements or action. Actions in the field of technology or mathematics.
 
-## Comparative Schema
-
-- core meaning: Sudden event. Exciting action. Energetic act. Fighting. Wounds. Bloody injury. Surgical procedure. Over impulsive or sudden action. Surprising action. Unexpected or new work. Impulsive movements or action. Actions in the field of technology or mathematics.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Mars = Uranus` electrifies action into sudden events, injuries, shocks, and impulsive or technical activity.
+- Chart expression: exciting or surprising action, fighting, wounds, surgery, abrupt work, and explosive movement applied in new, mathematical, or technological fields.
 
 ## Links
 

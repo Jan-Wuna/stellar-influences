@@ -3,7 +3,7 @@ title: Jupiter/Zeus = Apollon
 page_type: activation
 slug: jupiter-zeus-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Zeus
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Zeus`
-- Source page: `213`
 #### Witte Entry
 
 Successful creation of products for many or with many. Beneficial creation work in science, commerce and industry.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Successful creation of products for many or with many. Beneficial creation work in science, commerce and industry.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful leadership through money, successful legal efforts, financial success through creativity, joy experienced through goal striving, performance benefits through knowledge, creative legal knowledge, increased money production, and increasing performance pleasure
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Zeus = Apollon`: successful creation for many, beneficial work in science, commerce, or industry, and prosperity through widening output.
+- Chart expression: commercial growth, productive multiplication, and creative success that scales beyond the individual.
 
 ## Links
 
@@ -61,3 +56,5 @@ Successful creation of products for many or with many. Beneficial creation work 
 - [Zeus](../factors/zeus.md)
 - [Apollon](../factors/apollon.md)
 - [Jupiter/Zeus](../axes/jupiter-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

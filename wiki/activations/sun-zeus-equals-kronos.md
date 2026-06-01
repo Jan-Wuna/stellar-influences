@@ -3,7 +3,7 @@ title: Sun/Zeus = Kronos
 page_type: activation
 slug: sun-zeus-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Zeus
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Zeus`
-- Source page: `113`
 #### Witte Entry
 
 Leading in action. High military rank. General field marshal.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Leading in action. High military rank. General field marshal.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Appreciated creative person, head of a filtration center, gro/3 fire per day, personal performance superiority, personal self sustaining striving, state performance center, important personal efforts, and determined person leadership
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Zeus = Kronos`: forceful leadership and creative command.
+- Practical expression: appreciated creative person, head of a filtration center, personal performance superiority, and personal self sustaining striving.
 
 ## Links
 
@@ -61,3 +56,5 @@ Leading in action. High military rank. General field marshal.
 - [Zeus](../factors/zeus.md)
 - [Kronos](../factors/kronos.md)
 - [Sun/Zeus](../axes/sun-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Hades/Admetos = Asc
 page_type: activation
 slug: hades-admetos-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - Hades
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Admetos`
-- Source page: `284`
 #### Witte Entry
 
 Connected with people who are in need. To suffer weather change or cold.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Connected with people who are in need. To suffer weather change or cold.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Limitation of the environmental disadvantages, dangerous cycle of the partner, serious loss of partners, criminalization of a place, lack of clarity with a partner, disadvantages due to depression of the partner, and deepening into the past of the other
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Admetos = Asc`: deprivation showing up plainly in one's social field and daily circumstances. Main caution: allowing hardship and coldness to become the unquestioned atmosphere of life.
 
 ## Links
 
@@ -61,3 +55,5 @@ Connected with people who are in need. To suffer weather change or cold.
 - [Admetos](../factors/admetos.md)
 - [Asc](../factors/asc.md)
 - [Hades/Admetos](../axes/hades-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

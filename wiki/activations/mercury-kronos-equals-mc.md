@@ -3,7 +3,7 @@ title: Mercury/Kronos = MC
 page_type: activation
 slug: mercury-kronos-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - MC
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Kronos`
-- Source page: `169`
 #### Witte Entry
 
 Good mental ability. Moment of government news, ideas or plans. Striving for justice.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Good mental ability. Moment of government news, ideas or plans. Striving for justice.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special language of the soul, the language of my boss, dominance of an animated language, my young boss: my selfish thinking, self confidence of the youth, and priority of my words
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Kronos = MC` internalizes the axis as strong intellect, governmental thought, and justice-seeking purpose.
+- Chart expression: good mental ability, inward orientation toward serious plans or state matters, and a personal drive to think and act in the name of justice.
 
 ## Links
 
@@ -61,3 +56,5 @@ Good mental ability. Moment of government news, ideas or plans. Striving for jus
 - [Kronos](../factors/kronos.md)
 - [MC](../factors/mc.md)
 - [Mercury/Kronos](../axes/mercury-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Jupiter Asc Zeus
 page_type: triad_hub
 slug: jupiter-asc-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Asc Zeus`
 - Astronomicon triad-set: `V Asc £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Zeus = Jupiter](../activations/asc-zeus-equals-jupiter.md)
-  Source page `93`
 - [Jupiter/Asc = Zeus](../activations/jupiter-asc-equals-zeus.md)
-  Source page `86`
 - [Jupiter/Zeus = Asc](../activations/jupiter-zeus-equals-asc.md)
-  Source page `213`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Zeus = Jupiter`: page `93`
-- `Jupiter/Asc = Zeus`: page `86`
-- `Jupiter/Zeus = Asc`: page `213`
+- `Asc/Zeus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `93`
+- `Asc/Zeus = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `126`
+- `Jupiter/Asc = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `86`
+- `Jupiter/Asc = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `113`
+- `Jupiter/Zeus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `213`
+- `Jupiter/Zeus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `336`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Zeus = Jupiter`: being pushed toward luck, pleasure, or productive good with others.
+- `Jupiter/Asc = Zeus`: fatherhood and progress in one's work through patronage or active support.
+- `Jupiter/Zeus = Asc`: being actively engaged with people, working productively in shared space, and finding that the surroundings themselves support output.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Asc](../factors/asc.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Mars`
-- Source page: `105`
 #### Witte Entry
 
 The womans husband. The active hours of the day.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Sun/Mars`
-- Source page: `87`
-- Entry: `0219`
+#### ABC Entry
+
+Man's felicitous actions, acting people of a people, actions between man and woman, personal conduct, woman's personal activity, hour of corporal work, day of people will, and powerful man of a woman
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Man in relation to women, desire for marriage. The husband.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Sun/Mars midpoint`
-- Source page: `11`
-- Activator: `Moon`
-
 #### Sandbach Entry
 
 The emotional need to do things on one’s own. Feeling secure when one has a long-range project on which to work. Security derived from being a leader or being in charge. Nurturing others by taking charge of them or telling them what to do.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Your family’s role in helping you develop a drive to be competitive; timid mannerisms which you reverse by adding to your physical development and personal courage; avoiding confrontation by wavering or indecision.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Mars = Moon`: protective or decisive nurturance, emotional investment in achievement, and instinctive drive toward leadership or marriage-like commitment. Main caution: emotional domination: security needs can become controlling, impatient, or tied to being in charge.
 
 ## Links
 
@@ -84,7 +76,8 @@ The emotional need to do things on one’s own. Feeling secure when one has a lo
 - [Mars](../factors/mars.md)
 - [Moon](../factors/moon.md)
 - [Sun/Mars](../axes/sun-mars.md)
-- [Sun Moon Mars](../triads/sun-moon-mars.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

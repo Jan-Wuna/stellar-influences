@@ -3,7 +3,7 @@ title: Saturn Uranus Poseidon
 page_type: triad_hub
 slug: saturn-uranus-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Uranus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Uranus Poseidon`
 - Astronomicon triad-set: `W X ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Saturn/Poseidon = Uranus](../activations/saturn-poseidon-equals-uranus.md)
-  Source page `231`
 - [Saturn/Uranus = Poseidon](../activations/saturn-uranus-equals-poseidon.md)
-  Source page `221`
 - [Uranus/Poseidon = Saturn](../activations/uranus-poseidon-equals-saturn.md)
-  Source page `243`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Saturn/Poseidon = Uranus`: page `231`
-- `Saturn/Uranus = Poseidon`: page `221`
-- `Uranus/Poseidon = Saturn`: page `243`
+- `Saturn/Poseidon = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `231`
+- `Saturn/Poseidon = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `369`
+- `Saturn/Uranus = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `221`
+- `Saturn/Uranus = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `349`
+- `Uranus/Poseidon = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `243`
+- `Uranus/Poseidon = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `389`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Saturn/Poseidon = Uranus`: surprising new knowledge in the field of education or leading others.
+- `Saturn/Uranus = Poseidon`: sudden shattering of confidence and faith, sudden separation from an opinion, conviction or concept of life.
+- `Uranus/Poseidon = Saturn`: Expiring life or light. To give up the mental soul, to breathe ones last. Death occurs.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Uranus](../factors/uranus.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

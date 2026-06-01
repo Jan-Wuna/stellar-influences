@@ -3,7 +3,7 @@ title: Admetos/Poseidon = Vulcanus
 page_type: activation
 slug: admetos-poseidon-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Admetos
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Admetos
   - Vulcanus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Admetos + Poseidon`
-- Source page: `312`
 #### Witte Entry
 
 Mighty and lasting influence of education. To be affected that way, or to affect others that way.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mighty and lasting influence of education. To be affected that way, or to affect others that way.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Depressive influence of truth, strengthening of the force of an idea, strengthening of spiritual energies, obsessive mental influence, limiting cultural influence, strengthening of power by truth, powerful submission of truth, and compaction of spiritual energies
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Admetos/Poseidon = Vulcanus`: durable training, long-lasting refinement, and teachings that leave a powerful mark on character or system. Main caution: overpowering formation: influence can become too heavy, coercive, or relentless, shaping others more by force than by clarity.
 
 ## Links
 
@@ -61,3 +55,5 @@ Mighty and lasting influence of education. To be affected that way, or to affect
 - [Poseidon](../factors/poseidon.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Admetos/Poseidon](../axes/admetos-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

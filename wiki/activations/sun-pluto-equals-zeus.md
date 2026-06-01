@@ -3,7 +3,7 @@ title: Sun/Pluto = Zeus
 page_type: activation
 slug: sun-pluto-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Pluto
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Pluto`
-- Source page: `110`
 #### Witte Entry
 
 An increased absorption of food because of the increased physical demands. The time of puberty.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: An increased absorption of food because of the increased physical demands. The time of puberty.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Beginning of personal development, Carperian procreation development, Personal development goals, Personal filtration change, Different human transportation, Growing corporal achievements, and Changes through personal goal striving
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Pluto = Zeus`: active transformation and forceful drive behind change.
+- Practical expression: beginning of personal development, carperian procreation development, personal development goals, personal filtration change, and different human transportation.
 
 ## Links
 
@@ -61,3 +56,5 @@ An increased absorption of food because of the increased physical demands. The t
 - [Pluto](../factors/pluto.md)
 - [Zeus](../factors/zeus.md)
 - [Sun/Pluto](../axes/sun-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

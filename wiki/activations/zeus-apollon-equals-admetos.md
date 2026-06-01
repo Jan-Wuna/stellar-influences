@@ -3,7 +3,7 @@ title: Zeus/Apollon = Admetos
 page_type: activation
 slug: zeus-apollon-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Zeus
   - Apollon
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Apollon`
-- Source page: `292`
 #### Witte Entry
 
 To terminate an apprenticeship, a study or research work. Deep research work in a narrowed field. Suspended economics.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To terminate an apprenticeship, a study or research work. Deep research work in a narrowed field. Suspended economics.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked trade efforts, restriction of commercial achievements, restricted creativity in science, experiences with fiery primordial material, fire proliferation damming, deepening filtration experiences, and and the ultimate goal of science
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Apollon = Admetos`: To terminate an apprenticeship, a study or research work. Deep research work in a narrowed field. Suspended economics.
+- Practical expression: blocked trade efforts, restriction of commercial achievements, restricted creativity in science, experiences with fiery primordial material, and fire proliferation damming.
 
 ## Links
 
@@ -61,3 +56,5 @@ To terminate an apprenticeship, a study or research work. Deep research work in 
 - [Apollon](../factors/apollon.md)
 - [Admetos](../factors/admetos.md)
 - [Zeus/Apollon](../axes/zeus-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

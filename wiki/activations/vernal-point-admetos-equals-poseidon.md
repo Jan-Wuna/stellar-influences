@@ -3,7 +3,7 @@ title: Vernal Point/Admetos = Poseidon
 page_type: activation
 slug: vernal-point-admetos-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Admetos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Admetos`
-- Source page: `53`
 #### Witte Entry
 
 General education, culture and training. General mental obstacles.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: General education, culture and training. General mental obstacles.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Insight into the public circulation, strengthening the truth in the public, mental resistance in the public, clarity in the public life through perseverance, public culture manifestation, and resistance to the public reason
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Admetos = Poseidon`: general education, culture and training and general mental obstacles.
+- Practical expression: insight into the public circulation, strengthening the truth in the public, mental resistance in the public, clarity in the public life through perseverance, and public culture manifestation.
 
 ## Links
 
@@ -61,3 +56,5 @@ General education, culture and training. General mental obstacles.
 - [Admetos](../factors/admetos.md)
 - [Poseidon](../factors/poseidon.md)
 - [Vernal Point/Admetos](../axes/vernal-point-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

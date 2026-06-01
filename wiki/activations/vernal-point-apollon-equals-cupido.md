@@ -3,7 +3,7 @@ title: Vernal Point/Apollon = Cupido
 page_type: activation
 slug: vernal-point-apollon-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Cupido
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Apollon`
-- Source page: `52`
 #### Witte Entry
 
 Extensive efforts for peace. Societies for peace. Expansion of organizations or companies. The science of the arts.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Extensive efforts for peace. Societies for peace. Expansion of organizations or companies. The science of the arts.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+expansion of a community in public life, trade community in public life, shared success in public, shared knowledge of the public, public economic community, and synthesis of knowledge in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Apollon = Cupido`: extensive efforts for peace, societies for peace, expansion of organizations or companies, and the science of the arts.
+- Practical expression: expansion of a community in public life, trade community in public life, shared success in public, shared knowledge of the public, and public economic community.
 
 ## Links
 
@@ -61,3 +56,5 @@ Extensive efforts for peace. Societies for peace. Expansion of organizations or 
 - [Apollon](../factors/apollon.md)
 - [Cupido](../factors/cupido.md)
 - [Vernal Point/Apollon](../axes/vernal-point-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

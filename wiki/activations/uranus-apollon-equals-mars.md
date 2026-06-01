@@ -3,7 +3,7 @@ title: Uranus/Apollon = Mars
 page_type: activation
 slug: uranus-apollon-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Uranus
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Apollon`
-- Source page: `240`
 #### Witte Entry
 
 Tense scientific, peaceful or commercial activity. Astrological activity.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Tense scientific, peaceful or commercial activity. Astrological activity.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exciting peace work, successful refonn activity, successful technical activity, successful work rhythm, renewal of trade activity, creating new knowledge, surprising work success, and increased tensions at work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Apollon = Mars`: Tense scientific, peaceful or commercial activity. Astrological activity.
+- Practical expression: exciting peace work, successful refonn activity, successful technical activity, successful work rhythm, and renewal of trade activity.
 
 ## Links
 
@@ -61,3 +56,5 @@ Tense scientific, peaceful or commercial activity. Astrological activity.
 - [Apollon](../factors/apollon.md)
 - [Mars](../factors/mars.md)
 - [Uranus/Apollon](../axes/uranus-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

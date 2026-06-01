@@ -3,7 +3,7 @@ title: Mercury/Mars = Zeus
 page_type: activation
 slug: mercury-mars-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Mars
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Mars
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Mars`
-- Source page: `160`
 #### Witte Entry
 
 Exactly formulated thoughts. Tone of authority. Anger leading to violence.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Exactly formulated thoughts. Tone of authority. Anger leading to violence.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful working language, fiery thought activity, leading news activity, speaking about the will to procreation, creative media impulses, driving mediawork, creative youth work, and effective speech leadership
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Mars = Zeus` directs the axis into exact formulation and authoritative aggression.
+- Chart expression: sharply formulated thoughts, a commanding tone, and the danger that anger or verbal force escalates into threat, coercion, or outright violence.
 
 ## Links
 
@@ -61,3 +56,5 @@ Exactly formulated thoughts. Tone of authority. Anger leading to violence.
 - [Mars](../factors/mars.md)
 - [Zeus](../factors/zeus.md)
 - [Mercury/Mars](../axes/mercury-mars.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

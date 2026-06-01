@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Pluto Asc`
 - Astronomicon triad-set: `U Z Asc`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,19 +40,27 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Mars/Asc = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `85`
+- `Mars/Asc = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `111`
 - `Mars/Asc = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `220`
 - `Mars/Asc = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `75`
+- `Mars/Asc = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `248`
 - `Mars/Pluto = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `196`
+- `Mars/Pluto = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `306`
 - `Mars/Pluto = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `215`
 - `Mars/Pluto = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `73`
+- `Mars/Pluto = Asc`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `240`
 - `Pluto/Asc = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `90`
+- `Pluto/Asc = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `120`
 - `Pluto/Asc = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `295`
 - `Pluto/Asc = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `116`
+- `Pluto/Asc = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `348`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Asc = Pluto`: powerful pressure in the environment, confrontational or dominating action, and circumstances that demand drastic self-assertion or adjustment.
+- `Mars/Pluto = Asc`: an intense, daring, and intimidating manner that acts as if change must be forced through by sheer will.
+- `Pluto/Asc = Mars`: a crisis-charged personality, with intense reactions, personal drive, and transformative pressure expressed through assertion, conflict, and survival instinct.
 
 ## Links
 
@@ -59,5 +68,7 @@ updated_at: 2026-04-22
 - [Pluto](../factors/pluto.md)
 - [Asc](../factors/asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

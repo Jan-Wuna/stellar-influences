@@ -3,7 +3,7 @@ title: Sun Jupiter Zeus
 page_type: triad_hub
 slug: sun-jupiter-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Jupiter
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Jupiter Zeus`
 - Astronomicon triad-set: `S V £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Zeus = Sun](../activations/jupiter-zeus-equals-sun.md)
-  Source page `213`
 - [Sun/Jupiter = Zeus](../activations/sun-jupiter-equals-zeus.md)
-  Source page `106`
 - [Sun/Zeus = Jupiter](../activations/sun-zeus-equals-jupiter.md)
-  Source page `113`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Zeus = Sun`: page `213`
-- `Sun/Jupiter = Zeus`: page `106`
-- `Sun/Zeus = Jupiter`: page `113`
+- `Jupiter/Zeus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `213`
+- `Jupiter/Zeus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `336`
+- `Sun/Jupiter = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `106`
+- `Sun/Jupiter = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `149`
+- `Sun/Zeus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `113`
+- `Sun/Zeus = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `162`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Zeus = Sun`: cheerful work, successful physical effort, and a person whose sense of life is strengthened by productive accomplishment.
+- `Sun/Jupiter = Zeus`: This formula emphasizes successful creative action and fortunate enterprise.
+- `Sun/Zeus = Jupiter`: This formula emphasizes successful creative action and fortunate enterprise.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Jupiter](../factors/jupiter.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

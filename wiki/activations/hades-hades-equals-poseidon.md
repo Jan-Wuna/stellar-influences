@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Hades + Hades`
-- Source page: `276`
 #### Witte Entry
 
 Mental, cultural or spiritual isolation, poverty, deficiencies, defects. Secret sciences. The spirit of the past or the antiquity. Mentally isolated being. Stupidity. Superstition. Secret doctrine.
 
-## Comparative Schema
-
-- core meaning: Mental, cultural or spiritual isolation, poverty, deficiencies, defects. Secret sciences. The spirit of the past or the antiquity. Mentally isolated being. Stupidity. Superstition. Secret doctrine.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Hades = Poseidon`: a mind working inside lack, secrecy, or historical residue. It can show hidden teachings and genuine antiquarian or occult study, but also barren belief, sterile ideas, and spiritual loneliness.
 
 ## Links
 

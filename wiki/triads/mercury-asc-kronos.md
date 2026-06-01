@@ -3,7 +3,7 @@ title: Mercury Asc Kronos
 page_type: triad_hub
 slug: mercury-asc-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Asc Kronos`
 - Astronomicon triad-set: `T Asc ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Kronos = Mercury](../activations/asc-kronos-equals-mercury.md)
-  Source page `94`
 - [Mercury/Asc = Kronos](../activations/mercury-asc-equals-kronos.md)
-  Source page `83`
 - [Mercury/Kronos = Asc](../activations/mercury-kronos-equals-asc.md)
-  Source page `169`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Kronos = Mercury`: page `94`
-- `Mercury/Asc = Kronos`: page `83`
-- `Mercury/Kronos = Asc`: page `169`
+- `Asc/Kronos = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `94`
+- `Asc/Kronos = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `128`
+- `Mercury/Asc = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `83`
+- `Mercury/Asc = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `107`
+- `Mercury/Kronos = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `169`
+- `Mercury/Kronos = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `260`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Kronos = Mercury`: thinking and speaking under instruction, carrying out orders, and opinions constrained by superior authority.
+- `Mercury/Asc = Kronos`: elevates the Mercury/Asc axis into respected speech, important topics, and advisory influence.
+- `Mercury/Kronos = Asc`: brings the axis into personal ties through elevated ideas and cultivated company.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Asc](../factors/asc.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

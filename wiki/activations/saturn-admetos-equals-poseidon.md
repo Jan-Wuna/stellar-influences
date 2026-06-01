@@ -3,7 +3,7 @@ title: Saturn/Admetos = Poseidon
 page_type: activation
 slug: saturn-admetos-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Admetos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Admetos`
-- Source page: `229`
 #### Witte Entry
 
 Long duration of education and training. A stalemate of long duration in education and training, and interest in activities in such fields.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Long duration of education and training. A stalemate of long duration in education and training, and interest in activities in such fields.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Consolidation of clarity through patience, critical concentration on the truth, disturbances through mental blockade, compaction of cultural tasks, indomitable restriction in old age, deepening of ideal tasks, and truth about depression problems
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Admetos = Poseidon`: long duration of education and training.
+- Practical expression: consolidation of clarity through patience, critical concentration on the truth, disturbances through mental blockade, compaction of cultural tasks, and indomitable restriction in old age.
 
 ## Links
 
@@ -61,3 +56,5 @@ Long duration of education and training. A stalemate of long duration in educati
 - [Admetos](../factors/admetos.md)
 - [Poseidon](../factors/poseidon.md)
 - [Saturn/Admetos](../axes/saturn-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

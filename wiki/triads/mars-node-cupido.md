@@ -3,7 +3,7 @@ title: Mars Node Cupido
 page_type: triad_hub
 slug: mars-node-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Node Cupido`
 - Astronomicon triad-set: `U g ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Cupido = Node](../activations/mars-cupido-equals-node.md)
-  Source page `197`
 - [Mars/Node = Cupido](../activations/mars-node-equals-cupido.md)
-  Source page `143`
 - [Node/Cupido = Mars](../activations/node-cupido-equals-mars.md)
-  Source page `149`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Cupido = Node`: page `197`
-- `Mars/Node = Cupido`: page `143`
-- `Node/Cupido = Mars`: page `149`
+- `Mars/Cupido = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `197`
+- `Mars/Cupido = Node`: Udo Rudolph - ABC for Planetary Pictures, page `308`
+- `Mars/Node = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `143`
+- `Mars/Node = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `213`
+- `Node/Cupido = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `149`
+- `Node/Cupido = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `224`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Cupido = Node`: connection created by working together, with marriage and partnership strengthened by common effort.
+- `Mars/Node = Cupido`: directs shared action toward formal union, marriage, and intentional partnership.
+- `Node/Cupido = Mars`: Proposal of love. Promise to marry. To join with others for common activities. Concerted activities in a firm.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Node](../factors/node.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

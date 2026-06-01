@@ -3,7 +3,7 @@ title: Sun/Jupiter = Zeus
 page_type: activation
 slug: sun-jupiter-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Jupiter
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Jupiter
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Jupiter`
-- Source page: `106`
 #### Witte Entry
 
 The fortune lies in production. Good inherited talents. The ability to procreate.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The fortune lies in production. Good inherited talents. The ability to procreate.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful efforts of a man, successful personnel training, financial benefits of a person, organization of the person's right, grinning of a legal center, personal success through goal, and personal procreation success
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Jupiter = Zeus`: successful creative action and fortunate enterprise.
+- Practical expression: successful efforts of a man, successful personnel training, financial benefits of a person, organization of the person's right, and grinning of a legal center.
 
 ## Links
 
@@ -61,3 +56,5 @@ The fortune lies in production. Good inherited talents. The ability to procreate
 - [Jupiter](../factors/jupiter.md)
 - [Zeus](../factors/zeus.md)
 - [Sun/Jupiter](../axes/sun-jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

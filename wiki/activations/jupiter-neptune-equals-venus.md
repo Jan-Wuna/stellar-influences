@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Neptune`
-- Source page: `209`
 #### Witte Entry
 
 Rapturous. Romantic love or unreliable happiness in love. Lyric poet.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Jupiter/Neptune`
-- Source page: `232`
-- Entry: `0810`
+#### ABC Entry
+
+Resolved love happiness, success in love through fine tuning, joy through water art, peace over water right, harmony and joy in the air, insecure love happiness, refinement of the right art, and preference for foreign money
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Erotic imagination, a reveling and idolizing disposition. Love dreams, love poet
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Jupiter/Neptune midpoint`
-- Source page: `81`
-- Activator: `Venus`
-
 #### Sandbach Entry
 
 One takes great pleasure in dreaming and speculating. An appreciation of richly imaginative art. A relationship in which the two people stimulate each other’s imagina tion, but which may be impractical.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Pleasant feelings obtained by escape from reality; delight or pleasure thru using substances or methods to allow an escape from mental or physical pain; satisfaction from attempts to understand the mystical side of life.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Neptune = Venus`: rich aesthetic response, love of imaginative art, tender or visionary romance, and optimism in affection. Main caution: impractical love: reverie, idolization, or speculating on happiness can make feeling exquisite but unreliable.
 
 ## Links
 
@@ -84,7 +76,8 @@ One takes great pleasure in dreaming and speculating. An appreciation of richly 
 - [Neptune](../factors/neptune.md)
 - [Venus](../factors/venus.md)
 - [Jupiter/Neptune](../axes/jupiter-neptune.md)
-- [Venus Jupiter Neptune](../triads/venus-jupiter-neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

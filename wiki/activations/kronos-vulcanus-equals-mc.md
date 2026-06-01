@@ -3,7 +3,7 @@ title: Kronos/Vulcanus = MC
 page_type: activation
 slug: kronos-vulcanus-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Kronos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Kronos + Vulcanus`
-- Source page: `301`
 #### Witte Entry
 
 To possess great esteem and great influence. To wield great power. To give dictatorial orders. To exercise the power of the state.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To possess great esteem and great influence. To wield great power. To give dictatorial orders. To exercise the power of the state.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influence of one great scroll, great scclic force, my influence in the state, my powerful state, my special power, my influential authoritat, my great power, my strong dominates, my important energies, and soul's powerful
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Vulcanus = MC`: great esteem, major influence, dictatorial command, and direct exercise of governing force.
+- Chart expression: public command, prestige backed by power, and vocation shaped by strong executive authority.
 
 ## Links
 
@@ -61,3 +56,5 @@ To possess great esteem and great influence. To wield great power. To give dicta
 - [Vulcanus](../factors/vulcanus.md)
 - [MC](../factors/mc.md)
 - [Kronos/Vulcanus](../axes/kronos-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

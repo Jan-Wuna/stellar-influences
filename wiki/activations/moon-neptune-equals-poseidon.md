@@ -3,7 +3,7 @@ title: Moon/Neptune = Poseidon
 page_type: activation
 slug: moon-neptune-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Neptune
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Neptune`
-- Source page: `128`
 #### Witte Entry
 
 Fine mental receptivity. Relaxation with mental thoughts.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Fine mental receptivity. Relaxation with mental thoughts.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Interchangeable hour of truth, knowledge of a people for the future, mentally confused woman, ideas of a subtle milt, cultural future of a people, clarity by refinement of the customs, and reason of a foreign people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Neptune = Poseidon`: Fine mental receptivity. Relaxation with mental thoughts.
+- Practical focus: spiritualizes `Moon/Neptune` further into fine receptivity, contemplative rest, and mentally elevated inner quiet. It favors subtle reflection rather than confusion, making the dreamlike or impressionable side of feeling more lucid, idealized, and inwardly meaningful.
+- Practical expression: interchangeable hour of truth, knowledge of a people for the future, mentally confused woman, ideas of a subtle milt, and cultural future of a people.
 
 ## Links
 
@@ -61,3 +57,5 @@ Fine mental receptivity. Relaxation with mental thoughts.
 - [Neptune](../factors/neptune.md)
 - [Poseidon](../factors/poseidon.md)
 - [Moon/Neptune](../axes/moon-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

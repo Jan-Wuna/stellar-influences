@@ -3,7 +3,7 @@ title: Vulcanus/Poseidon = Pluto
 page_type: activation
 slug: vulcanus-poseidon-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vulcanus
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Vulcanus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vulcanus + Poseidon`
-- Source page: `315`
 #### Witte Entry
 
 P Developing a sense of honor, pride, self-esteem. A change in the concept of honor, pride and self-esteem.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: P Developing a sense of honor, pride, self-esteem. A change in the concept of honor, pride and self-esteem.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+development, unfold spiritual energies, tremendous cultural development, strong unfolding of truth, transformation of spiritual energies, and growing cultural influence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vulcanus/Poseidon = Pluto`: P Developing a sense of honor, pride, self-esteem. A change in the concept of honor, pride and self-esteem.
+- Practical expression: development, unfold spiritual energies, tremendous cultural development, strong unfolding of truth, and transformation of spiritual energies.
 
 ## Links
 
@@ -61,3 +56,5 @@ P Developing a sense of honor, pride, self-esteem. A change in the concept of ho
 - [Poseidon](../factors/poseidon.md)
 - [Pluto](../factors/pluto.md)
 - [Vulcanus/Poseidon](../axes/vulcanus-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

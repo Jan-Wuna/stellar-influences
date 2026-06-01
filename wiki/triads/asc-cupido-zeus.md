@@ -3,7 +3,7 @@ title: Asc Cupido Zeus
 page_type: triad_hub
 slug: asc-cupido-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Asc Cupido Zeus`
 - Astronomicon triad-set: `Asc ¡ £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Cupido = Zeus](../activations/asc-cupido-equals-zeus.md)
-  Source page `91`
 - [Asc/Zeus = Cupido](../activations/asc-zeus-equals-cupido.md)
-  Source page `93`
 - [Cupido/Zeus = Asc](../activations/cupido-zeus-equals-asc.md)
-  Source page `268`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Cupido = Zeus`: page `91`
-- `Asc/Zeus = Cupido`: page `93`
-- `Cupido/Zeus = Asc`: page `268`
+- `Asc/Cupido = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `91`
+- `Asc/Cupido = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `123`
+- `Asc/Zeus = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `93`
+- `Asc/Zeus = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `127`
+- `Cupido/Zeus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `268`
+- `Cupido/Zeus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `426`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Cupido = Zeus`: growth of family or dwelling space, new building, and joint striving toward a shared practical goal.
+- `Asc/Zeus = Cupido`: communal work, organized effort, and group creation, especially in artistic or social settings.
+- `Cupido/Zeus = Asc`: common enterprises with others and personal involvement as a stockholder or active member of a corporation.
 
 ## Links
 
 - [Asc](../factors/asc.md)
 - [Cupido](../factors/cupido.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

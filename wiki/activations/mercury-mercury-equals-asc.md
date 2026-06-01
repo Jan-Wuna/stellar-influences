@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Mercury + Mercury`
-- Source page: `157`
 #### Witte Entry
 
 Talks, conversations and correspondence. To be the theme of conversation with others. Other people think of the native. News from other people. News about the closer environment. Exchange of ideas with acquaintances.
 
-## Comparative Schema
-
-- core meaning: Talks, conversations and correspondence. To be the theme of conversation with others. Other people think of the native. News from other people. News about the closer environment. Exchange of ideas with acquaintances.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Mercury = Asc` brings the axis directly into conversations, correspondence, and the near environment.
+- Chart expression: active exchange with acquaintances, being talked about by others, news from the immediate surroundings, and thought becoming a social current that moves through everyday contact.
 
 ## Links
 

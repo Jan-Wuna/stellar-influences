@@ -3,7 +3,7 @@ title: Sun/Apollon = Venus
 page_type: activation
 slug: sun-apollon-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Venus
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Apollon`
-- Source page: `115`
 #### Witte Entry
 
 Successful in peace promotion. True friendship. Successes in art. To become known as a musician.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Successful in peace promotion. True friendship. Successes in art. To become known as a musician.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful man of the arts, love success of the man, personal freedom of the artist, personal love experiences, preference for persons of knowledge, center of the artsScience, and increasing human peace
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Apollon = Venus`: successful in peace promotion and true friendship.
+- Practical expression: successful man of the arts, love success of the man, personal freedom of the artist, personal love experiences, and preference for persons of knowledge.
 
 ## Links
 
@@ -61,3 +56,5 @@ Successful in peace promotion. True friendship. Successes in art. To become know
 - [Apollon](../factors/apollon.md)
 - [Venus](../factors/venus.md)
 - [Sun/Apollon](../axes/sun-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

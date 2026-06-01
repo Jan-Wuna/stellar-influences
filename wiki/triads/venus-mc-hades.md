@@ -3,7 +3,7 @@ title: Venus MC Hades
 page_type: triad_hub
 slug: venus-mc-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus MC Hades`
 - Astronomicon triad-set: `Q MC ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Hades = Venus](../activations/mc-hades-equals-venus.md)
-  Source page `71`
 - [Venus/Hades = MC](../activations/venus-hades-equals-mc.md)
-  Source page `183`
 - [Venus/MC = Hades](../activations/venus-mc-equals-hades.md)
-  Source page `63`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Hades = Venus`: page `71`
-- `Venus/Hades = MC`: page `183`
-- `Venus/MC = Hades`: page `63`
+- `MC/Hades = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `71`
+- `MC/Hades = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `86`
+- `Venus/Hades = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `183`
+- `Venus/Hades = MC`: Udo Rudolph - ABC for Planetary Pictures, page `284`
+- `Venus/MC = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `63`
+- `Venus/MC = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `71`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Hades = Venus`: darkens the axis through grief in love and degraded sensuality.
+- `Venus/Hades = MC`: serving, submissive soul.
+- `Venus/MC = Hades`: preference for base love.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [MC](../factors/mc.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

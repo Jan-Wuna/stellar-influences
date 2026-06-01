@@ -3,7 +3,7 @@ title: Jupiter/Vulcanus = Neptune
 page_type: activation
 slug: jupiter-vulcanus-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Neptune
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Vulcanus`
-- Source page: `217`
 #### Witte Entry
 
 Mighty good luck or fortune which is not immediately recognized, but reveals itself in the future. The beginning of earning or making larger sums of money easily. Also to lose large sums of money.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mighty good luck or fortune which is not immediately recognized, but reveals itself in the future. The beginning of earning or making larger sums of money easily. Also to lose large sums of money.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful water force, successful influence of the metaphysics, joy over fossil energies, enormous legal uncertainty, power of joy in water, weak legal force, and advantage by water energy
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Vulcanus = Neptune`: hidden or future-revealed luck, easy access to large sums, and the possibility that major gains and major losses arise through unclear or fluid conditions.
+- Chart expression: inspired or quietly emerging prosperity, but it also carries speculation risk, blurred valuation, and unstable money flow if judgment dissolves.
 
 ## Links
 
@@ -61,3 +56,5 @@ Mighty good luck or fortune which is not immediately recognized, but reveals its
 - [Vulcanus](../factors/vulcanus.md)
 - [Neptune](../factors/neptune.md)
 - [Jupiter/Vulcanus](../axes/jupiter-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Hades/Kronos = Node
 page_type: activation
 slug: hades-kronos-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - Hades
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Kronos`
-- Source page: `279`
 #### Witte Entry
 
 To be witness to a great crime or great accident. To be a party to doubtful things. To be active as a spy. To be hired. Connection with the criminal investigation department.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be witness to a great crime or great accident. To be a party to doubtful things. To be active as a spy. To be hired. Connection with the criminal investigation department.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special connections to Y given, contacts to a hidden hierarchy, lack of self confidence in a connection, associated with special disadvantages, connection to a poor state, and connection with state secrets
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Kronos = Node`: relationships formed around secrecy, surveillance, or wrongdoing. It can show networks of spies, investigators, accomplices, or people pulled into morally compromised roles.
 
 ## Links
 
@@ -61,3 +55,5 @@ To be witness to a great crime or great accident. To be a party to doubtful thin
 - [Kronos](../factors/kronos.md)
 - [Node](../factors/node.md)
 - [Hades/Kronos](../axes/hades-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

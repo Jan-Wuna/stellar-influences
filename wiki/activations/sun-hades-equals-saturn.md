@@ -3,7 +3,7 @@ title: Sun/Hades = Saturn
 page_type: activation
 slug: sun-hades-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Saturn
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Hades`
-- Source page: `112`
 #### Witte Entry
 
 Chronic diseases. Lingering illness. Grief and losses through rejection or oppression. To be banished. Prison.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Chronic diseases. Lingering illness. Grief and losses through rejection or oppression. To be banished. Prison.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+By deprivation of mature man, patient old man, concentration of a man on the past, need of an old man, personal disadvantages in old age, hard past of a man, and losses by service personnel
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Hades = Saturn`: ill health and exhaustion.
+- Practical expression: by deprivation of mature man, patient old man, concentration of a man on the past, need of an old man, and personal disadvantages in old age.
 
 ## Links
 
@@ -61,3 +56,5 @@ Chronic diseases. Lingering illness. Grief and losses through rejection or oppre
 - [Hades](../factors/hades.md)
 - [Saturn](../factors/saturn.md)
 - [Sun/Hades](../axes/sun-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

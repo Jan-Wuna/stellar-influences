@@ -3,10 +3,10 @@ title: Neptune/Asc = Vulcanus
 page_type: activation
 slug: neptune-asc-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Neptune
+  - Asc
   - Vulcanus
 normalized_formula: Neptune/Asc = Vulcanus
 axis: Neptune/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Asc
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Neptune`
-- Source page: `89`
 #### Witte Entry
 
 Mighty deception and disappointment through others.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mighty deception and disappointment through others.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Energy weakness of the partner, powerful subtle environment, strong weakness of others, insecurity due to local violence, refined environmental energy, refined partner influence, water violence in the environment, and wind energy in the environment
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Asc = Vulcanus`: Mighty deception and disappointment through others.
+- Practical focus: intensifies deception through others into overwhelming disappointment, where hidden motives or false appearances carry unusual force and leave a heavy emotional impact.
+- Practical expression: energy weakness of the partner, powerful subtle environment, strong weakness of others, insecurity due to local violence, and refined environmental energy.
 
 ## Links
 
@@ -61,3 +57,5 @@ Mighty deception and disappointment through others.
 - [Asc](../factors/asc.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Neptune/Asc](../axes/neptune-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Mars Asc Zeus
 page_type: triad_hub
 slug: mars-asc-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Asc Zeus`
 - Astronomicon triad-set: `U Asc £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Zeus = Mars](../activations/asc-zeus-equals-mars.md)
-  Source page `93`
 - [Mars/Asc = Zeus](../activations/mars-asc-equals-zeus.md)
-  Source page `85`
 - [Mars/Zeus = Asc](../activations/mars-zeus-equals-asc.md)
-  Source page `199`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Zeus = Mars`: page `93`
-- `Mars/Asc = Zeus`: page `85`
-- `Mars/Zeus = Asc`: page `199`
+- `Asc/Zeus = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `93`
+- `Asc/Zeus = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `126`
+- `Mars/Asc = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `85`
+- `Mars/Asc = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `111`
+- `Mars/Zeus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `199`
+- `Mars/Zeus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `312`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Zeus = Mars`: being forced into action, receiving enforced decisions, and living with danger from heat, weapons, burns, or bodily harm.
+- `Mars/Asc = Zeus`: directs the Mars/Asc axis into production, pressure, compulsion, and purposeful activity driven by heat, weapons, or concentrated effort.
+- `Mars/Zeus = Asc`: brings the axis into direct contact with other people through conflict, technicians, soldiers, or threats.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Asc](../factors/asc.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

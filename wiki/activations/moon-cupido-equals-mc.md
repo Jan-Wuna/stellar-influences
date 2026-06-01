@@ -3,7 +3,7 @@ title: Moon/Cupido = MC
 page_type: activation
 slug: moon-cupido-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - MC
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Cupido`
-- Source page: `130`
 #### Witte Entry
 
 To be a fiance. Fiance of the native. Social inclination of native. One own s experiences in company with women. Favors large social clubs, balls, dancing.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be a fiance. Fiance of the native. Social inclination of native. One own s experiences in company with women. Favors large social clubs, balls, dancing.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+ensouled community of women, ensouled feeling of community, ensouled art of the woman, art of my people, art of my woman, my feeling of community, my community of the people, community of soul and feeling, and synthesis of the soul of the people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Cupido = MC`: To be a fiance. Fiance of the native. Social inclination of native. One own s experiences in company with women. Favors large social clubs, balls, dancing.
+- Practical expression: ensouled community of women, ensouled feeling of community, ensouled art of the woman, art of my people, and art of my woman.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be a fiance. Fiance of the native. Social inclination of native. One own s ex
 - [Cupido](../factors/cupido.md)
 - [MC](../factors/mc.md)
 - [Moon/Cupido](../axes/moon-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

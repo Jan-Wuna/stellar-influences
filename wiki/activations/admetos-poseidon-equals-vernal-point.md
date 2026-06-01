@@ -3,7 +3,7 @@ title: Admetos/Poseidon = Vernal Point
 page_type: activation
 slug: admetos-poseidon-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Admetos
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Admetos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Admetos + Poseidon`
-- Source page: `312`
 #### Witte Entry
 
 The general educational facilities.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The general educational facilities.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Spiritual depression in the public sphere, general clarity for the public, manifestation of truth in the public sphere, public culture blockade, strike filr reason in the public sphere, and suppression of truth in public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Admetos/Poseidon = Vernal Point`: educational infrastructure, public access to culture, and the social environment through which refinement is distributed. Main caution: impersonal schooling: public systems can become abstract, rigid, or widespread without truly shaping living understanding.
 
 ## Links
 
@@ -61,3 +55,5 @@ The general educational facilities.
 - [Poseidon](../factors/poseidon.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Admetos/Poseidon](../axes/admetos-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

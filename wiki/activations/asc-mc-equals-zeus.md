@@ -3,10 +3,10 @@ title: Asc/MC = Zeus
 page_type: activation
 slug: asc-mc-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Asc
+  - MC
   - Zeus
 normalized_formula: Asc/MC = Zeus
 axis: Asc/MC
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - MC
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Asc`
-- Source page: `58`
 #### Witte Entry
 
 To incite others. To incentive others. Aspirations that one shares with a partner.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To incite others. To incentive others. Aspirations that one shares with a partner.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Fire in my environment, fiery partner soul, filtration of my partner, my pursuit in the place, my determined partner, my efforts for the other, my partner performance, my environmental goals, and spiritual partner welfare
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/MC = Zeus`: a role that sparks initiative in partners, colleagues, or associates and to ambitions that gain force when they are carried jointly. Main caution: agitation: this can inspire action and shared aspiration, but it can also provoke strain, pressure, or excessive urgency in relationships.
 
 ## Links
 
@@ -61,3 +55,5 @@ To incite others. To incentive others. Aspirations that one shares with a partne
 - [MC](../factors/mc.md)
 - [Zeus](../factors/zeus.md)
 - [Asc/MC](../axes/asc-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

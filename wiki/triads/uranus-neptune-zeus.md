@@ -3,7 +3,7 @@ title: Uranus Neptune Zeus
 page_type: triad_hub
 slug: uranus-neptune-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Neptune
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Neptune Zeus`
 - Astronomicon triad-set: `X Y £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Neptune/Zeus = Uranus](../activations/neptune-zeus-equals-uranus.md)
-  Source page `249`
 - [Uranus/Neptune = Zeus](../activations/uranus-neptune-equals-zeus.md)
-  Source page `234`
 - [Uranus/Zeus = Neptune](../activations/uranus-zeus-equals-neptune.md)
-  Source page `238`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Neptune/Zeus = Uranus`: page `249`
-- `Uranus/Neptune = Zeus`: page `234`
-- `Uranus/Zeus = Neptune`: page `238`
+- `Neptune/Zeus = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `249`
+- `Neptune/Zeus = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `397`
+- `Uranus/Neptune = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `234`
+- `Uranus/Neptune = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `371`
+- `Uranus/Zeus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `238`
+- `Uranus/Zeus = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `379`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Neptune/Zeus = Uranus`: Volatile force breaks outward explosively, combining revolutionary impulse with engines, combustible gases, or sudden disruptive release.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Neptune](../factors/neptune.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

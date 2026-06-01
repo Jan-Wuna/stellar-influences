@@ -3,7 +3,7 @@ title: Hades/Apollon = Mercury
 page_type: activation
 slug: hades-apollon-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Hades
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Apollon`
-- Source page: `280`
 #### Witte Entry
 
 Talks, opinions and thoughts about epidemics, lack, poverty. To blab secrets. Debates or scientific thoughts about the past, antiquity on historical science.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Talks, opinions and thoughts about epidemics, lack, poverty. To blab secrets. Debates or scientific thoughts about the past, antiquity on historical science.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Reports about successful past, language about old knowledge, secret trade traffic, opinions about poor knowledge, news about successful deprivations, writings about secret knowledge, and multiplication of traffic risk
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Apollon = Mercury`: communication circling around misery, decay, old knowledge, and what is hidden or taboo. Main caution: turning discourse into constant bleak analysis without movement toward remedy.
 
 ## Links
 
@@ -61,3 +55,5 @@ Talks, opinions and thoughts about epidemics, lack, poverty. To blab secrets. De
 - [Apollon](../factors/apollon.md)
 - [Mercury](../factors/mercury.md)
 - [Hades/Apollon](../axes/hades-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

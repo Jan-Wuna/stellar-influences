@@ -3,7 +3,7 @@ title: Vulcanus/Poseidon = Jupiter
 page_type: activation
 slug: vulcanus-poseidon-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vulcanus
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Vulcanus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vulcanus + Poseidon`
-- Source page: `315`
 #### Witte Entry
 
 Happiness and joy over honour and dignity that one possesses. Happiness and joy at the prestige one enjoys.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Happiness and joy over honour and dignity that one possesses. Happiness and joy at the prestige one enjoys.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+influential financial idea, influential money culture, successful cultural influence, insights into the power of money, power through legal clarity, strong spiritual success, reasonable legal influence, truth through legal power, and contented cultural power
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vulcanus/Poseidon = Jupiter`: Happiness and joy over honour and dignity that one possesses. Happiness and joy at the prestige one enjoys.
+- Practical expression: influential financial idea, influential money culture, successful cultural influence, insights into the power of money, and power through legal clarity.
 
 ## Links
 
@@ -61,3 +56,5 @@ Happiness and joy over honour and dignity that one possesses. Happiness and joy 
 - [Poseidon](../factors/poseidon.md)
 - [Jupiter](../factors/jupiter.md)
 - [Vulcanus/Poseidon](../axes/vulcanus-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

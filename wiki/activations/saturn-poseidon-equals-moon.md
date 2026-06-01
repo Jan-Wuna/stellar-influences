@@ -3,7 +3,7 @@ title: Saturn/Poseidon = Moon
 page_type: activation
 slug: saturn-poseidon-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Saturn
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Poseidon`
-- Source page: `231`
 #### Witte Entry
 
 Public matters of education. Persons who differentiate in their world concept.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Public matters of education. Persons who differentiate in their world concept.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Patience and reason a woman, mental maturation of a woman, mental strangled woman, Gemtits clarity through concentration, hard truth for the people, cultural tasks of a people, problems of a woman with the truth, and sensible separation from the woman
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Poseidon = Moon`: public matters of education, persons who differentiate in their world concept.
+- Practical expression: patience, reason a woman, mental maturation of a woman, mental strangled woman, and gemtits clarity through concentration.
 
 ## Links
 
@@ -61,3 +56,5 @@ Public matters of education. Persons who differentiate in their world concept.
 - [Poseidon](../factors/poseidon.md)
 - [Moon](../factors/moon.md)
 - [Saturn/Poseidon](../axes/saturn-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

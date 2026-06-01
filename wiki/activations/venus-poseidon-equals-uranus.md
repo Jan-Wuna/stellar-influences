@@ -3,7 +3,7 @@ title: Venus/Poseidon = Uranus
 page_type: activation
 slug: venus-poseidon-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Uranus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Poseidon`
-- Source page: `189`
 #### Witte Entry
 
 <•> To arrive suddenly at a closer understanding of faith, religion or one’s view. Surprises and excitements in religious matters.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: <•> To arrive suddenly at a closer understanding of faith, religion or one’s view. Surprises and excitements in religious matters.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Spiritual harmony impulses, artistic and cultural events, cultural peace pulses, new peace ideas, tension through love of the truth, surprising joy through clarity, preference for new ideas, and preference for poor technology
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Poseidon = Uranus` brings sudden awakening into love, harmony, faith, and worldview: a closer understanding of religion or one's view can arrive abruptly, with surprises or excitement in spiritual matters.
+- Practical expression: spiritual harmony impulses, artistic or cultural events, new peace ideas, tension through love of truth, surprising joy through clarity, and preference for new ideas.
 
 ## Links
 
@@ -61,3 +56,5 @@ updated_at: 2026-04-21
 - [Poseidon](../factors/poseidon.md)
 - [Uranus](../factors/uranus.md)
 - [Venus/Poseidon](../axes/venus-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

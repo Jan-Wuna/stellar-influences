@@ -3,7 +3,7 @@ title: Mercury/Vulcanus = Poseidon
 page_type: activation
 slug: mercury-vulcanus-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Vulcanus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Vulcanus`
-- Source page: `172`
 #### Witte Entry
 
 The thoughts are concentrated on mental matters. To develop great ideas.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The thoughts are concentrated on mental matters. To develop great ideas.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Spiritual energies of youth, language about the power of truth, grilndlich cultureReports, clarity of a strong youth, powerful ideas in youth, cultural influence of youth, power of spiritualized thoughts, and messages about cultural deepening
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Vulcanus = Poseidon`: The thoughts are concentrated on mental matters. To develop great ideas.
+- Practical expression: spiritual energies of youth, language about the power of truth, clarity of a strong youth, and powerful ideas in youth.
 
 ## Links
 
@@ -61,3 +56,5 @@ The thoughts are concentrated on mental matters. To develop great ideas.
 - [Vulcanus](../factors/vulcanus.md)
 - [Poseidon](../factors/poseidon.md)
 - [Mercury/Vulcanus](../axes/mercury-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

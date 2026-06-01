@@ -3,7 +3,7 @@ title: Neptune/Vulcanus = MC
 page_type: activation
 slug: neptune-vulcanus-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - MC
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Vulcanus`
-- Source page: `253`
 #### Witte Entry
 
 Easy to deceive or defraud. To experience or feel a great disappointment.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Easy to deceive or defraud. To experience or feel a great disappointment.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Afflosung my's influence, I loose energies from or on, I veme force, my breathKall, my subtle energies, my power in water, my intuition force, my weak force, my unrecognized one, and refinement of the seclen force
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Vulcanus = MC`: Easy to deceive or defraud. To experience or feel a great disappointment.
+- The life direction or immediate situation is colored by major disappointment, susceptibility to deception, or the experience of being defrauded.
+- Practical expression: afflosung my's influence, i loose energies from or on, i veme force, my breathKall, and my subtle energies.
 
 ## Links
 
@@ -61,3 +57,5 @@ Easy to deceive or defraud. To experience or feel a great disappointment.
 - [Vulcanus](../factors/vulcanus.md)
 - [MC](../factors/mc.md)
 - [Neptune/Vulcanus](../axes/neptune-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

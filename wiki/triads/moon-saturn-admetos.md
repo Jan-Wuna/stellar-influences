@@ -3,7 +3,7 @@ title: Moon Saturn Admetos
 page_type: triad_hub
 slug: moon-saturn-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Saturn
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Saturn Admetos`
 - Astronomicon triad-set: `R W ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Admetos = Saturn](../activations/moon-admetos-equals-saturn.md)
-  Source page `135`
 - [Moon/Saturn = Admetos](../activations/moon-saturn-equals-admetos.md)
-  Source page `126`
 - [Saturn/Admetos = Moon](../activations/saturn-admetos-equals-moon.md)
-  Source page `229`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Admetos = Saturn`: page `135`
-- `Moon/Saturn = Admetos`: page `126`
-- `Saturn/Admetos = Moon`: page `229`
+- `Moon/Admetos = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `135`
+- `Moon/Admetos = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `203`
+- `Moon/Saturn = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `126`
+- `Moon/Saturn = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `185`
+- `Saturn/Admetos = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `229`
+- `Saturn/Admetos = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `364`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Admetos = Saturn`: Oppressed or suppressed. To feel oppressed. Feeling abandoned. A suppressed bad mood.
+- `Moon/Saturn = Admetos`: This activation constricts `Moon/Saturn` into short-lived relief, temporary dilemma, and hardship that settles into a narrow evening or end-of-cycle mood. It points to emotional burden condensed into a brief but heavy phase of need, loss, or constriction.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Saturn](../factors/saturn.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

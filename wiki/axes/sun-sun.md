@@ -45,8 +45,6 @@ updated_at: 2026-04-21
 
 - Axis: `Sun/Sun`
 - Astronomicon axis: `S/S`
-- Source heading: `Sun + Sun`
-- Source page: `99`
 
 ## Source Entries
 
@@ -55,15 +53,6 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 The body. The living body. A physical object. The day. The daily life, the life energy, will to live, life force. The annual solar cycle. The year.
-
-## Comparative Schema
-
-- core meaning: The body. The living body. A physical object. The day. The daily life, the life energy, will to live, life force. The annual solar cycle. The year.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
@@ -89,13 +78,11 @@ The body. The living body. A physical object. The day. The daily life, the life 
 - [Sun/Sun = Vulcanus](../activations/sun-sun-equals-vulcanus.md)
 - [Sun/Sun = Poseidon](../activations/sun-sun-equals-poseidon.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- This axis centers on pure identity, vitality, and the person as a direct expression of selfhood.
+- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
 
 ## Links
 

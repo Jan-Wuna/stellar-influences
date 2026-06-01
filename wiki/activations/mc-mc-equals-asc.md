@@ -28,30 +28,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `MC + MC`
-- Source page: `56`
 #### Witte Entry
 
 Ones relationship, position or attitude towards others. To join with others for a common objective. The social and vocational relations in the closer surroundings. Others influence one’s own emotions. In this minute at this place.
 
-## Comparative Schema
-
-- core meaning: Ones relationship, position or attitude towards others. To join with others for a common objective. The social and vocational relations in the closer surroundings. Others influence one’s own emotions. In this minute at this place.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/MC = Asc` turns the axis outward into relationships, social placement, and the near environment.
+- Chart expression: the self as shaped through others, cooperation toward shared objectives, and the immediate emotional and vocational field in which one's inner life meets surrounding people.
 
 ## Links
 

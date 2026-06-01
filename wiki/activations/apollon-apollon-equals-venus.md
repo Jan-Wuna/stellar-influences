@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Apollon + Apollon`
-- Source page: `304`
 #### Witte Entry
 
 Friendship. Peace. Faithfulness. Harmony with many. Science of art. Science of music. Peace-loving. Expanded harmony. Religiously inclined.
 
-## Comparative Schema
-
-- core meaning: Friendship. Peace. Faithfulness. Harmony with many. Science of art. Science of music. Peace-loving. Expanded harmony. Religiously inclined.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Apollon = Venus`: cordial networks, artistic or musical intelligence, peace-loving abundance, and the graceful widening of affection or taste. Main caution: complacent ease: harmony on a large scale can soften standards or avoid necessary conflict and discrimination.
 
 ## Links
 

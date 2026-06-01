@@ -3,7 +3,7 @@ title: Mars/Poseidon = Hades
 page_type: activation
 slug: mars-poseidon-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Hades
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Poseidon`
-- Source page: `204`
 #### Witte Entry
 
 Morally base acts. Lack of ethics or morality.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Morally base acts. Lack of ethics or morality.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Findings of work criminality, dangerous intellectual activity, creating dangerous truths, clear will absorption, cultural activity in the past, criminalization of ideal work, deficient spiritual work, and hidden spiritual will
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Poseidon = Hades` corrupts intellectual or moral action into base conduct and lack of ethics.
+- Chart expression: morally degraded acts, failures of conscience, and behavior in which doctrine or intellect is used without genuine ethical substance.
 
 ## Links
 
@@ -61,3 +56,5 @@ Morally base acts. Lack of ethics or morality.
 - [Poseidon](../factors/poseidon.md)
 - [Hades](../factors/hades.md)
 - [Mars/Poseidon](../axes/mars-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

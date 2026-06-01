@@ -3,7 +3,7 @@ title: Saturn/Zeus = Mars
 page_type: activation
 slug: saturn-zeus-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Saturn
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Zeus`
-- Source page: `226`
 #### Witte Entry
 
 Periodically interrupted common efforts. Death or injuries through firearms, through fire. Sterilization.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Periodically interrupted common efforts. Death or injuries through firearms, through fire. Sterilization.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful work tasks, work performance in old age, start of breaks at work, effort for mature work, serious problems of running, patient procreationacts, hard work at the fire, and lossful work achievements
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Zeus = Mars`: periodically interrupted common efforts, death or injuries through firearms, through fire, sterilization.
+- Practical expression: effortful work tasks, work performance in old age, start of breaks at work, effort for mature work, and serious problems of running.
 
 ## Links
 
@@ -61,3 +56,5 @@ Periodically interrupted common efforts. Death or injuries through firearms, thr
 - [Zeus](../factors/zeus.md)
 - [Mars](../factors/mars.md)
 - [Saturn/Zeus](../axes/saturn-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: MC/Apollon = Uranus
 page_type: activation
 slug: mc-apollon-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - MC
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Apollon`
-- Source page: `74`
 #### Witte Entry
 
 <•) Sudden experiences. To be scientifically connected with technology, industry or factories. The astrologer.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: <•) Sudden experiences. To be scientifically connected with technology, industry or factories. The astrologer.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+My new knowledge, my surprising success, my strength impulses, my tchnic experiences, ncues knowledge of the soul, reforming the knowledge of the soul, experiencing psychic excitement, and surprising liberation of the soul
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Apollon = Uranus` electrifies the axis through sudden experiences and technical-scientific connection.
+- Chart expression: unexpected widening of the horizon, innovative science, and a life role linked to technology, industry, or astrology as a specialized field of insight.
 
 ## Links
 
@@ -61,3 +56,5 @@ updated_at: 2026-04-21
 - [Apollon](../factors/apollon.md)
 - [Uranus](../factors/uranus.md)
 - [MC/Apollon](../axes/mc-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Moon/Node = Cupido
 page_type: activation
 slug: moon-node-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Node
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Node
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Node`
-- Source page: `121`
 #### Witte Entry
 
 Union of a woman leading to marriage.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Union of a woman leading to marriage.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+forming an emotional community, relationships with communities of women, contacts with communities of peoples, mother bond in the community, connected with the community of the people, connections among peoples through art, and changing feelings in a connection
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Node = Cupido`: Union of a woman leading to marriage.
+- Practical focus: socializes `Moon/Node` through union, marriage, and emotionally affiliative bonding. It points to connection with women taking on formal or relational shape, where attachment naturally moves toward partnership, family pattern, or social ritual.
+- Practical expression: forming an emotional community, mother bond in the community, connected with the community of the people, connections among peoples through art, and changing feelings in a connection.
 
 ## Links
 
@@ -61,3 +57,5 @@ Union of a woman leading to marriage.
 - [Node](../factors/node.md)
 - [Cupido](../factors/cupido.md)
 - [Moon/Node](../axes/moon-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Sun Pluto Kronos
 page_type: triad_hub
 slug: sun-pluto-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Pluto Kronos`
 - Astronomicon triad-set: `S Z ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Pluto/Kronos = Sun](../activations/pluto-kronos-equals-sun.md)
-  Source page `260`
 - [Sun/Kronos = Pluto](../activations/sun-kronos-equals-pluto.md)
-  Source page `114`
 - [Sun/Pluto = Kronos](../activations/sun-pluto-equals-kronos.md)
-  Source page `110`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Pluto/Kronos = Sun`: page `260`
-- `Sun/Kronos = Pluto`: page `114`
-- `Sun/Pluto = Kronos`: page `110`
+- `Pluto/Kronos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `260`
+- `Pluto/Kronos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `414`
+- `Sun/Kronos = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `114`
+- `Sun/Kronos = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `165`
+- `Sun/Pluto = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `110`
+- `Sun/Pluto = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `157`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Pluto/Kronos = Sun`: This activation emphasizes daily life or the body adjusts to increased responsibility, rank or tested capability.
+- `Sun/Kronos = Pluto`: This formula emphasizes change in authority and transformation through power.
+- `Sun/Pluto = Kronos`: This formula emphasizes transformation through authority and powerful shifts in rank or command.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Pluto](../factors/pluto.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

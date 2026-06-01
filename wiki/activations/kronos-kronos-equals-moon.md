@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Kronos + Kronos`
-- Source page: `297`
 #### Witte Entry
 
 Greatness of mind. Noble minded. Independent minded. Landlady. Housewife. Independent woman. A leading or great nation. Relations to authorities. Female administrator. Office Hours. Rank, grade. Authority hours. Connection of female persons with the authorities. Female government employees. Female wardens, officials, authorities or high personage. The leading or great people.
 
-## Comparative Schema
-
-- core meaning: Greatness of mind. Noble minded. Independent minded. Landlady. Housewife. Independent woman. A leading or great nation. Relations to authorities. Female administrator. Office Hours. Rank, grade. Authority hours. Connection of female persons with the authorities. Female government employees. Female wardens, officials, authorities or high personage. The leading or great people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Kronos = Moon`: the independent woman, female administrator, leading nation, relations to authorities, and public life organized around rank and office.
+- Chart expression: noble-minded collective identity and visible connection between everyday life and official structures.
 
 ## Links
 

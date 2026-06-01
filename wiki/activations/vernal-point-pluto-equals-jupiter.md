@@ -3,7 +3,7 @@ title: Vernal Point/Pluto = Jupiter
 page_type: activation
 slug: vernal-point-pluto-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Jupiter
   - Pluto
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Pluto`
-- Source page: `47`
 #### Witte Entry
 
 Fortunate developments. Changes in the monetary system.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Fortunate developments. Changes in the monetary system.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful changes in the public, financial changes in the public, gliickliche development in the public, legal developments in the public life, and satisfaction about the public changes
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Pluto = Jupiter`: fortunate developments and changes in the monetary system.
+- Practical expression: successful changes in the public, financial changes in the public, gliickliche development in the public, legal developments in the public life, and satisfaction about the public changes.
 
 ## Links
 
@@ -61,3 +56,5 @@ Fortunate developments. Changes in the monetary system.
 - [Pluto](../factors/pluto.md)
 - [Jupiter](../factors/jupiter.md)
 - [Vernal Point/Pluto](../axes/vernal-point-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

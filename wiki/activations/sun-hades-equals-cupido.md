@@ -3,7 +3,7 @@ title: Sun/Hades = Cupido
 page_type: activation
 slug: sun-hades-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Cupido
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Hades`
-- Source page: `112`
 #### Witte Entry
 
 Poor wedding. Joint experience of difficulties. Wedding of criminals. To use one’s artistic abilities when committing crimes, e.g. forgers of paper money.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Poor wedding. Joint experience of difficulties. Wedding of criminals. To use one’s artistic abilities when committing crimes, e.g. forgers of paper money.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Disadvantaged person community, dangerous people in the community, old people's community, man minor in of a community, human need community, persons of a tradition community, and hidden centre of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Hades = Cupido`: common mourning and mourning in the family.
+- Practical expression: disadvantaged person community, dangerous people in the community, old people's community, man minor in a community, and human need community.
 
 ## Links
 
@@ -61,3 +56,5 @@ Poor wedding. Joint experience of difficulties. Wedding of criminals. To use one
 - [Hades](../factors/hades.md)
 - [Cupido](../factors/cupido.md)
 - [Sun/Hades](../axes/sun-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Neptune Admetos Vulcanus
 page_type: triad_hub
 slug: neptune-admetos-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Admetos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Neptune Admetos Vulcanus`
 - Astronomicon triad-set: `Y ¦ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Admetos/Vulcanus = Neptune](../activations/admetos-vulcanus-equals-neptune.md)
-  Source page `311`
 - [Neptune/Admetos = Vulcanus](../activations/neptune-admetos-equals-vulcanus.md)
-  Source page `252`
 - [Neptune/Vulcanus = Admetos](../activations/neptune-vulcanus-equals-admetos.md)
-  Source page `253`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Admetos/Vulcanus = Neptune`: page `311`
-- `Neptune/Admetos = Vulcanus`: page `252`
-- `Neptune/Vulcanus = Admetos`: page `253`
+- `Admetos/Vulcanus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `311`
+- `Admetos/Vulcanus = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `475`
+- `Neptune/Admetos = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `252`
+- `Neptune/Admetos = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `403`
+- `Neptune/Vulcanus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `253`
+- `Neptune/Vulcanus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `405`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Admetos/Vulcanus = Neptune`: severe pressure leading to an unfortunate alteration in condition, often in ways that dissolve security rather than relieve the burden.
+- `Neptune/Admetos = Vulcanus`: This activation intensifies `Neptune/Admetos` into powerful alteration of existing conditions. It gives force and momentum to a normally slow or deprived axis, making changes in form, livelihood, or material reality larger and harder to resist.
+- `Neptune/Vulcanus = Admetos`: This activation compresses hidden force into major changes of condition, narrowing life through sensitivity, fragility, avoidance, or defensive withdrawal while powerful underlying shifts continue. It shows invisible pressure reshaping how one lives, copes, or maintains contact.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [Admetos](../factors/admetos.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

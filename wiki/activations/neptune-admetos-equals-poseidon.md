@@ -3,7 +3,7 @@ title: Neptune/Admetos = Poseidon
 page_type: activation
 slug: neptune-admetos-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Admetos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Admetos`
-- Source page: `252`
 #### Witte Entry
 
 Changes in the mental or spiritual concept of being.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Changes in the mental or spiritual concept of being.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dissolving of a mental blockade, perseverance in clear air, depression by the mentally weak, exchange by restricted honesty, profound clarity by F, clear deep water, spiritual deepening into metaphysics, and deepening into future culture
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Admetos = Poseidon`: Changes in the mental or spiritual concept of being.
+- Practical focus: spiritualizes `Neptune/Admetos` through changes in one's inner or ideological concept of existence. It moves deprivation or hardening into the realm of meaning, where altered conditions force a revised philosophy of life.
+- Practical expression: dissolving of a mental blockade, perseverance in clear air, depression by the mentally weak, exchange by restricted honesty, and profound clarity by F.
 
 ## Links
 
@@ -61,3 +57,5 @@ Changes in the mental or spiritual concept of being.
 - [Admetos](../factors/admetos.md)
 - [Poseidon](../factors/poseidon.md)
 - [Neptune/Admetos](../axes/neptune-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

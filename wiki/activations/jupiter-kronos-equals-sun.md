@@ -3,7 +3,7 @@ title: Jupiter/Kronos = Sun
 page_type: activation
 slug: jupiter-kronos-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Jupiter
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Kronos`
-- Source page: `214`
 #### Witte Entry
 
 The happy passed days. High personage. Successful leader. The man who is happy in his capacity as leader.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The happy passed days. High personage. Successful leader. The man who is happy in his capacity as leader.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+more important; environmental success of the state, important partner law of Marines, successful state center, great personal success, self sufficiency, state legal center, and personal legal
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Kronos = Sun`: identity flourishing through command and elevated success. It favors a visible figure whose vitality and confidence rise with recognized authority.
 
 ## Links
 
@@ -61,3 +55,5 @@ The happy passed days. High personage. Successful leader. The man who is happy i
 - [Kronos](../factors/kronos.md)
 - [Sun](../factors/sun.md)
 - [Jupiter/Kronos](../axes/jupiter-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

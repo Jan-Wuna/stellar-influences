@@ -3,7 +3,7 @@ title: Mercury Node Vulcanus
 page_type: triad_hub
 slug: mercury-node-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Node Vulcanus`
 - Astronomicon triad-set: `T g §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Node = Vulcanus](../activations/mercury-node-equals-vulcanus.md)
-  Source page `141`
 - [Mercury/Vulcanus = Node](../activations/mercury-vulcanus-equals-node.md)
-  Source page `172`
 - [Node/Vulcanus = Mercury](../activations/node-vulcanus-equals-mercury.md)
-  Source page `155`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Node = Vulcanus`: page `141`
-- `Mercury/Vulcanus = Node`: page `172`
-- `Node/Vulcanus = Mercury`: page `155`
+- `Mercury/Node = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `141`
+- `Mercury/Node = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `209`
+- `Mercury/Vulcanus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `172`
+- `Mercury/Vulcanus = Node`: Udo Rudolph - ABC for Planetary Pictures, page `266`
+- `Node/Vulcanus = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `155`
+- `Node/Vulcanus = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `236`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Node = Vulcanus`: strengthens the axis into powerful coordination of thought.
+- `Mercury/Vulcanus = Node`: Connections with people who think forcefully. Mighty connection of thoughts.
+- `Node/Vulcanus = Mercury`: Written complaints. Indignant, enraged in speech and writing.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Node](../factors/node.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

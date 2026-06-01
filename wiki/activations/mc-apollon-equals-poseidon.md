@@ -3,7 +3,7 @@ title: MC/Apollon = Poseidon
 page_type: activation
 slug: mc-apollon-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Apollon
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Apollon`
-- Source page: `74`
 #### Witte Entry
 
 Experiences though mental or spiritual spheres. To study philosophy or spiritual sciences. One’s own convictions. To be disinclined toward material things.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Experiences though mental or spiritual spheres. To study philosophy or spiritual sciences. One’s own convictions. To be disinclined toward material things.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Experiences of the spirit soul, success through psychic insight, my success through clarity, my spiritual success, my cultural success, my knowledge of the spirit, my spiritual freedom, psychic insights and experiences, and science of soul and spirit
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Apollon = Poseidon` spiritualizes the axis through philosophy, conviction, and non-material values.
+- Chart expression: a broad inner horizon shaped by spiritual study, firm beliefs, and experience gained in mental or philosophical spheres rather than through material pursuit.
 
 ## Links
 
@@ -61,3 +56,5 @@ Experiences though mental or spiritual spheres. To study philosophy or spiritual
 - [Apollon](../factors/apollon.md)
 - [Poseidon](../factors/poseidon.md)
 - [MC/Apollon](../axes/mc-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

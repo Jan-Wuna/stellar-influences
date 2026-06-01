@@ -3,7 +3,7 @@ title: Saturn/Vulcanus = Node
 page_type: activation
 slug: saturn-vulcanus-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Node
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Vulcanus`
-- Source page: `230`
 #### Witte Entry
 
 To experience strong hindrances in or through one’s connections. To be connected with people who themselves are attentive and vigilant.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To experience strong hindrances in or through one’s connections. To be connected with people who themselves are attentive and vigilant.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+lose an influential connection, influential connection in old age, unite energy with endurance, unite patience and power, violence in a disturbed relationship, enormous tasks of a relationship, and strong disturbances in a relationship
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Vulcanus = Node`: to experience strong hindrances in or through one’s connections.
+- Practical expression: lose an influential connection, influential connection in old age, unite energy with endurance, unite patience, and power.
 
 ## Links
 
@@ -61,3 +56,5 @@ To experience strong hindrances in or through one’s connections. To be connect
 - [Vulcanus](../factors/vulcanus.md)
 - [Node](../factors/node.md)
 - [Saturn/Vulcanus](../axes/saturn-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

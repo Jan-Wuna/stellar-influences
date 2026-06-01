@@ -3,7 +3,7 @@ title: Cupido/Kronos = Vulcanus
 page_type: activation
 slug: cupido-kronos-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Cupido
   - Kronos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Kronos`
-- Source page: `269`
 #### Witte Entry
 
 Might and influence through personal appearance or the distinguished social background to which one belongs. To be very dominant or domineering in art or society. Great state enterprises.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Might and influence through personal appearance or the distinguished social background to which one belongs. To be very dominant or domineering in art or society. Great state enterprises.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Reputation of an influential community, special power of a community, influence of an important community, influential artistic authorship, hierarchical power community, common state power, and violence of a large community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Kronos = Vulcanus`: elite communal structures becoming formidable, commanding, and institutionally powerful. Main caution: authoritarian display, coercive prestige, and force justified by rank.
 
 ## Links
 
@@ -61,3 +55,5 @@ Might and influence through personal appearance or the distinguished social back
 - [Kronos](../factors/kronos.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Cupido/Kronos](../axes/cupido-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

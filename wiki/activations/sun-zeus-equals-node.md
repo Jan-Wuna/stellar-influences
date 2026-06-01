@@ -3,7 +3,7 @@ title: Sun/Zeus = Node
 page_type: activation
 slug: sun-zeus-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Node
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Zeus`
-- Source page: `113`
 #### Witte Entry
 
 Connections with creative men. Allies in a fight. To see or to experience a fire.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Connections with creative men. Allies in a fight. To see or to experience a fire.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Relationships to leading persons, personal procreation connection, creative personal connection, personal efforts to relationships, connection with creative people, and connection to a performance center
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Zeus = Node`: active connections and unions driven by shared purpose or action.
+- Practical expression: relationships to leading persons, personal procreation connection, creative personal connection, personal efforts to relationships, and connection with creative people.
 
 ## Links
 
@@ -61,3 +56,5 @@ Connections with creative men. Allies in a fight. To see or to experience a fire
 - [Zeus](../factors/zeus.md)
 - [Node](../factors/node.md)
 - [Sun/Zeus](../axes/sun-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

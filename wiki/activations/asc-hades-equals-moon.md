@@ -3,7 +3,7 @@ title: Asc/Hades = Moon
 page_type: activation
 slug: asc-hades-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Asc
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Hades`
-- Source page: `92`
 #### Witte Entry
 
 Impoverished female persons, to expose them to danger. Acquaintance with poor old widowed or lonely woman. To become publicly known in a disagreeable manner.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Impoverished female persons, to expose them to danger. Acquaintance with poor old widowed or lonely woman. To become publicly known in a disagreeable manner.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Old environment of a woman, disadvantage of women in the village, dangerous women in the vicinity, dangerous environment of women, lack of partner, disadvantages of other women, hidden environment of women, and polluted environment of a people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Hades = Moon`: sympathetic but painful social exposure, local publics touched by poverty, and emotional contact with neglected or vulnerable women. Main caution: public degradation: what is already sad or poor can become visible in humiliating or dangerous form.
 
 ## Links
 
@@ -61,3 +55,5 @@ Impoverished female persons, to expose them to danger. Acquaintance with poor ol
 - [Hades](../factors/hades.md)
 - [Moon](../factors/moon.md)
 - [Asc/Hades](../axes/asc-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

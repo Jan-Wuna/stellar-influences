@@ -3,7 +3,7 @@ title: Pluto/Apollon
 page_type: axis
 slug: pluto-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Apollon
@@ -11,26 +11,26 @@ normalized_axis: Pluto/Apollon
 factor_a: Pluto
 factor_b: Apollon
 related_activations:
-  - Pluto/Apollon = Vernal Point
-  - Pluto/Apollon = MC
+  - Pluto/Apollon = Admetos
   - Pluto/Apollon = Asc
-  - Pluto/Apollon = Sun
-  - Pluto/Apollon = Moon
-  - Pluto/Apollon = Node
-  - Pluto/Apollon = Mercury
-  - Pluto/Apollon = Venus
-  - Pluto/Apollon = Mars
-  - Pluto/Apollon = Jupiter
-  - Pluto/Apollon = Saturn
-  - Pluto/Apollon = Uranus
-  - Pluto/Apollon = Neptune
   - Pluto/Apollon = Cupido
   - Pluto/Apollon = Hades
-  - Pluto/Apollon = Zeus
+  - Pluto/Apollon = Jupiter
   - Pluto/Apollon = Kronos
-  - Pluto/Apollon = Admetos
-  - Pluto/Apollon = Vulcanus
+  - Pluto/Apollon = Mars
+  - Pluto/Apollon = MC
+  - Pluto/Apollon = Mercury
+  - Pluto/Apollon = Moon
+  - Pluto/Apollon = Neptune
+  - Pluto/Apollon = Node
   - Pluto/Apollon = Poseidon
+  - Pluto/Apollon = Saturn
+  - Pluto/Apollon = Sun
+  - Pluto/Apollon = Uranus
+  - Pluto/Apollon = Venus
+  - Pluto/Apollon = Vernal Point
+  - Pluto/Apollon = Vulcanus
+  - Pluto/Apollon = Zeus
 related_triad_hubs:
   - Jupiter Pluto Apollon
   - Mars Pluto Apollon
@@ -56,15 +56,15 @@ aliases:
   - Apollon/Pluto
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Axis: `Pluto/Apollon`
 - Astronomicon axis: `Z/¥`
-- Source heading: `Pluto + Apollon`
-- Source page: `261`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
@@ -74,48 +74,44 @@ updated_at: 2026-04-21
 
 From a small staff to great importance. Occurrences with great consequences. Business enlargement, extension. Development of a science. Far reaching and expanded transformations. To grow or extend in all directions. Repetitions. To start small and to grow big. A large change. Events taking place for the first time with great consequences. Starting a commerce or trade on a small scale and developing it into a large scale.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: From a small staff to great importance. Occurrences with great consequences. Business enlargement, extension. Development of a science. Far reaching and expanded transformations. To grow or extend in all directions. Repetitions. To start small and to grow big. A large change. Events taking place for the first time with great consequences. Starting a commerce or trade on a small scale and developing it into a large scale.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+#### ABC Pair Summary
+
+Extension of a development.1 Development of science, successful changes, trade developments, transformation results, extensive changes, growing knowledge, and developing knowledge
 
 ## Related Activations
 
-- [Pluto/Apollon = Vernal Point](../activations/pluto-apollon-equals-vernal-point.md)
-- [Pluto/Apollon = MC](../activations/pluto-apollon-equals-mc.md)
+- [Pluto/Apollon = Admetos](../activations/pluto-apollon-equals-admetos.md)
 - [Pluto/Apollon = Asc](../activations/pluto-apollon-equals-asc.md)
-- [Pluto/Apollon = Sun](../activations/pluto-apollon-equals-sun.md)
-- [Pluto/Apollon = Moon](../activations/pluto-apollon-equals-moon.md)
-- [Pluto/Apollon = Node](../activations/pluto-apollon-equals-node.md)
-- [Pluto/Apollon = Mercury](../activations/pluto-apollon-equals-mercury.md)
-- [Pluto/Apollon = Venus](../activations/pluto-apollon-equals-venus.md)
-- [Pluto/Apollon = Mars](../activations/pluto-apollon-equals-mars.md)
-- [Pluto/Apollon = Jupiter](../activations/pluto-apollon-equals-jupiter.md)
-- [Pluto/Apollon = Saturn](../activations/pluto-apollon-equals-saturn.md)
-- [Pluto/Apollon = Uranus](../activations/pluto-apollon-equals-uranus.md)
-- [Pluto/Apollon = Neptune](../activations/pluto-apollon-equals-neptune.md)
 - [Pluto/Apollon = Cupido](../activations/pluto-apollon-equals-cupido.md)
 - [Pluto/Apollon = Hades](../activations/pluto-apollon-equals-hades.md)
-- [Pluto/Apollon = Zeus](../activations/pluto-apollon-equals-zeus.md)
+- [Pluto/Apollon = Jupiter](../activations/pluto-apollon-equals-jupiter.md)
 - [Pluto/Apollon = Kronos](../activations/pluto-apollon-equals-kronos.md)
-- [Pluto/Apollon = Admetos](../activations/pluto-apollon-equals-admetos.md)
-- [Pluto/Apollon = Vulcanus](../activations/pluto-apollon-equals-vulcanus.md)
+- [Pluto/Apollon = Mars](../activations/pluto-apollon-equals-mars.md)
+- [Pluto/Apollon = MC](../activations/pluto-apollon-equals-mc.md)
+- [Pluto/Apollon = Mercury](../activations/pluto-apollon-equals-mercury.md)
+- [Pluto/Apollon = Moon](../activations/pluto-apollon-equals-moon.md)
+- [Pluto/Apollon = Neptune](../activations/pluto-apollon-equals-neptune.md)
+- [Pluto/Apollon = Node](../activations/pluto-apollon-equals-node.md)
 - [Pluto/Apollon = Poseidon](../activations/pluto-apollon-equals-poseidon.md)
+- [Pluto/Apollon = Saturn](../activations/pluto-apollon-equals-saturn.md)
+- [Pluto/Apollon = Sun](../activations/pluto-apollon-equals-sun.md)
+- [Pluto/Apollon = Uranus](../activations/pluto-apollon-equals-uranus.md)
+- [Pluto/Apollon = Venus](../activations/pluto-apollon-equals-venus.md)
+- [Pluto/Apollon = Vernal Point](../activations/pluto-apollon-equals-vernal-point.md)
+- [Pluto/Apollon = Vulcanus](../activations/pluto-apollon-equals-vulcanus.md)
+- [Pluto/Apollon = Zeus](../activations/pluto-apollon-equals-zeus.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- This axis emphasizes from a small staff to great importance; Occurrences with great consequences; Business enlargement, extension; Development of a science; Far reaching and expanded transformations.
+- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
 
 ## Links
 
 - [Pluto](../factors/pluto.md)
 - [Apollon](../factors/apollon.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Uranus/Poseidon = Mercury
 page_type: activation
 slug: uranus-poseidon-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Uranus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Poseidon`
-- Source page: `243`
 #### Witte Entry
 
 To become tense as the result of new ideas. Visionary recognition. To send or receive a sign of life.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To become tense as the result of new ideas. Visionary recognition. To send or receive a sign of life.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Reports on cultural emanation, intellectual impulses from youth, language about mental emanation, ideas of traffic technology, new insights of youth, sudden thought clarity, news about cultural events, and Surprising truths in the media
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Poseidon = Mercury`: To become tense as the result of new ideas. Visionary recognition. To send or receive a sign of life.
+- Practical expression: reports on cultural emanation, intellectual impulses from youth, language about mental emanation, ideas of traffic technology, and new insights of youth.
 
 ## Links
 
@@ -61,3 +56,5 @@ To become tense as the result of new ideas. Visionary recognition. To send or re
 - [Poseidon](../factors/poseidon.md)
 - [Mercury](../factors/mercury.md)
 - [Uranus/Poseidon](../axes/uranus-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

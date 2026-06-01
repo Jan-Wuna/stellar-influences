@@ -3,7 +3,7 @@ title: Moon/Hades = Apollon
 page_type: activation
 slug: moon-hades-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Hades
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Hades`
-- Source page: `131`
 #### Witte Entry
 
 To have to care for many. Many worries. The mass of the lower people. Need and worries of a multitude of people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To have to care for many. Many worries. The mass of the lower people. Need and worries of a multitude of people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Spreading the plight of a people, experiences of an old woman, successful Y passed away a woman, experiencing GemOt's heart, criminal knowledge of a woman, many dangers for the woman, knowledge of the past of a people, and increasing renunciation of a woman
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Hades = Apollon`: To have to care for many. Many worries. The mass of the lower people. Need and worries of a multitude of people.
+- Practical expression: spreading the plight of a people, experiences of an old woman, successful Y passed away a woman, experiencing GemOt's heart, and criminal knowledge of a woman.
 
 ## Links
 
@@ -61,3 +56,5 @@ To have to care for many. Many worries. The mass of the lower people. Need and w
 - [Hades](../factors/hades.md)
 - [Apollon](../factors/apollon.md)
 - [Moon/Hades](../axes/moon-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

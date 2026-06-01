@@ -3,7 +3,7 @@ title: Moon Cupido Kronos
 page_type: triad_hub
 slug: moon-cupido-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Cupido Kronos`
 - Astronomicon triad-set: `R ¡ ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Kronos = Moon](../activations/cupido-kronos-equals-moon.md)
-  Source page `269`
 - [Moon/Cupido = Kronos](../activations/moon-cupido-equals-kronos.md)
-  Source page `130`
 - [Moon/Kronos = Cupido](../activations/moon-kronos-equals-cupido.md)
-  Source page `133`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Kronos = Moon`: page `269`
-- `Moon/Cupido = Kronos`: page `130`
-- `Moon/Kronos = Cupido`: page `133`
+- `Cupido/Kronos = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `269`
+- `Cupido/Kronos = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `428`
+- `Moon/Cupido = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `130`
+- `Moon/Cupido = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `193`
+- `Moon/Kronos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `133`
+- `Moon/Kronos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `199`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Kronos = Moon`: civil marriage for the bride, female artistry, and popular art shaped by formal recognition or social standing.
+- `Moon/Cupido = Kronos`: Betrothal. Marriage. Social marriage of women. Leisure time devoted to great things. Free time ordered by the state. Authorities influence marriage.
+- `Moon/Kronos = Cupido`: Independent authoritative housewife. Woman leads in art. In community with officials. Leisure hours of the housewife.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Cupido](../factors/cupido.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

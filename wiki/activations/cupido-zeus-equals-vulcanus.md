@@ -3,7 +3,7 @@ title: Cupido/Zeus = Vulcanus
 page_type: activation
 slug: cupido-zeus-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Cupido
   - Zeus
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Zeus`
-- Source page: `268`
 #### Witte Entry
 
 To unfold ones abilities and strength without hindrance. Opportunity for those who have the abilities and strength. Great artistic accomplishments.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To unfold ones abilities and strength without hindrance. Opportunity for those who have the abilities and strength. Great artistic accomplishments.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influenced leadership community, energy services of a community, common filtration power, joint power efforts, community against fire violence, powerful achievements of a community, and creative artificial influence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Zeus = Vulcanus`: directed communal initiative backed by enough concentrated power to actually realize its intentions. Main caution: power becoming self-validating and insensitive to limits or consequences.
 
 ## Links
 
@@ -61,3 +55,5 @@ To unfold ones abilities and strength without hindrance. Opportunity for those w
 - [Zeus](../factors/zeus.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Cupido/Zeus](../axes/cupido-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

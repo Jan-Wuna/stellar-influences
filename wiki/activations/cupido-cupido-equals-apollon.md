@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Cupido + Cupido`
-- Source page: `266`
 #### Witte Entry
 
 Multiplying. Expansion or extension of a community. Widespread artistic or scientific association. School classes. Scientific successes. To be in the company of many. Much sociability. Art association. Great expanded society, family etc. An association representing economic interests. Consumers union. A large family. Art and science.
 
-## Comparative Schema
-
-- core meaning: Multiplying. Expansion or extension of a community. Widespread artistic or scientific association. School classes. Scientific successes. To be in the company of many. Much sociability. Art association. Great expanded society, family etc. An association representing economic interests. Consumers union. A large family. Art and science.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Cupido = Apollon`: communities that grow, branch out, and become culturally, socially, or commercially influential. Main caution: sprawl: expansion can outrun cohesion or emotional intimacy.
 
 ## Links
 

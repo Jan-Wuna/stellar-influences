@@ -3,7 +3,7 @@ title: Mercury/Jupiter = Poseidon
 page_type: activation
 slug: mercury-jupiter-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Jupiter
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Jupiter
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Jupiter`
-- Source page: `161`
 #### Witte Entry
 
 Happiness through spiritual conversation (entertainment). To debate ideas with prudent and philosophically minded people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Happiness through spiritual conversation (entertainment). To debate ideas with prudent and philosophically minded people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Reports about legal culture, success through clarity of thought, successful cultural language, successful media culture, thoughts about right and truth, talk about intellectual successes, clear legal talk, and poor youth law
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Jupiter = Poseidon` refines the axis into spiritual and philosophical happiness.
+- Chart expression: joy through elevated conversation, prudent and thoughtful debate, and broad understanding shared with people who think in ethical, spiritual, or philosophical terms.
 
 ## Links
 
@@ -61,3 +56,5 @@ Happiness through spiritual conversation (entertainment). To debate ideas with p
 - [Jupiter](../factors/jupiter.md)
 - [Poseidon](../factors/poseidon.md)
 - [Mercury/Jupiter](../axes/mercury-jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Venus Uranus Apollon
 page_type: triad_hub
 slug: venus-uranus-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Uranus
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Uranus Apollon`
 - Astronomicon triad-set: `Q X ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Uranus/Apollon = Venus](../activations/uranus-apollon-equals-venus.md)
-  Source page `240`
 - [Venus/Apollon = Uranus](../activations/venus-apollon-equals-uranus.md)
-  Source page `186`
 - [Venus/Uranus = Apollon](../activations/venus-uranus-equals-apollon.md)
-  Source page `179`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Uranus/Apollon = Venus`: page `240`
-- `Venus/Apollon = Uranus`: page `186`
-- `Venus/Uranus = Apollon`: page `179`
+- `Uranus/Apollon = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `240`
+- `Uranus/Apollon = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `382`
+- `Venus/Apollon = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `186`
+- `Venus/Apollon = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `291`
+- `Venus/Uranus = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `179`
+- `Venus/Uranus = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `277`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Venus/Apollon = Uranus`: burning love for art and science, especially for astrology.
+- `Venus/Uranus = Apollon`: sudden harmony and friendship with many.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Uranus](../factors/uranus.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Zeus/Vulcanus = Apollon
 page_type: activation
 slug: zeus-vulcanus-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Zeus
   - Apollon
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Vulcanus`
-- Source page: `295`
 #### Witte Entry
 
 Mighty expansion and success of peaceful efforts. Successful efforts in science, “a commerce, trades and industry.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mighty expansion and success of peaceful efforts. Successful efforts in science, “a commerce, trades and industry.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Expansion of a fiery force, influential achievements of science, successful energy achievements, successful leadership power, successful power performance, power experiences through leadership, strong leadership success, and extensive violence generation
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Vulcanus = Apollon`: Mighty expansion and success of peaceful efforts. Successful efforts in science, “a commerce, trades and industry.
+- Practical expression: expansion of a fiery force, influential achievements of science, successful energy achievements, successful leadership power, and successful power performance.
 
 ## Links
 
@@ -61,3 +56,5 @@ Mighty expansion and success of peaceful efforts. Successful efforts in science,
 - [Vulcanus](../factors/vulcanus.md)
 - [Apollon](../factors/apollon.md)
 - [Zeus/Vulcanus](../axes/zeus-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

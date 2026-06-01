@@ -3,7 +3,7 @@ title: Moon/Saturn = Cupido
 page_type: activation
 slug: moon-saturn-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Saturn
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Saturn
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Saturn`
-- Source page: `126`
 #### Witte Entry
 
 The marriage of a widow. Hours of relaxation in the evening. Death-cult of a nation.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The marriage of a widow. Hours of relaxation in the evening. Death-cult of a nation.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Tasks of a women's community, burdens of a people community, serious hour of a community, patient women's community, storten people art, problems of a people's community, mature arts of a woman, and woman separated from the community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Saturn = Cupido`: The marriage of a widow. Hours of relaxation in the evening. Death-cult of a nation.
+- Practical focus: socializes `Moon/Saturn` through solemn unions, widow remarriage, evening leisure, and collective rites around death or duty. It gives relational and cultural form to loss, seriousness, and end-of-day emotional states.
+- Practical expression: tasks of a women's community, burdens of a people community, serious hour of a community, patient women's community, and storten people art.
 
 ## Links
 
@@ -61,3 +57,5 @@ The marriage of a widow. Hours of relaxation in the evening. Death-cult of a nat
 - [Saturn](../factors/saturn.md)
 - [Cupido](../factors/cupido.md)
 - [Moon/Saturn](../axes/moon-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

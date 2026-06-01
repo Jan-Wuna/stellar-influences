@@ -3,7 +3,7 @@ title: Sun Moon Cupido
 page_type: triad_hub
 slug: sun-moon-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Moon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Moon Cupido`
 - Astronomicon triad-set: `S R ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Cupido = Sun](../activations/moon-cupido-equals-sun.md)
-  Source page `130`
 - [Sun/Cupido = Moon](../activations/sun-cupido-equals-moon.md)
-  Source page `111`
 - [Sun/Moon = Cupido](../activations/sun-moon-equals-cupido.md)
-  Source page `101`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Cupido = Sun`: page `130`
-- `Sun/Cupido = Moon`: page `111`
-- `Sun/Moon = Cupido`: page `101`
+- `Moon/Cupido = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `130`
+- `Moon/Cupido = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `192`
+- `Sun/Cupido = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `111`
+- `Sun/Cupido = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `158`
+- `Sun/Moon = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `101`
+- `Sun/Moon = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `139`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Cupido = Sun`: The bride. Mans wife. Family home. Repeating hours of leisure.
+- `Sun/Cupido = Moon`: This formula emphasizes the family and to have a family.
+- `Sun/Moon = Cupido`: This formula emphasizes family life and belonging as a core expression of the self.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Moon](../factors/moon.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

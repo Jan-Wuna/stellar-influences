@@ -3,7 +3,7 @@ title: Sun/Hades = Zeus
 page_type: activation
 slug: sun-hades-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Hades
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Hades`
-- Source page: `112`
 #### Witte Entry
 
 Fever. Grave injuries of the body through fire or firearms. To be born in poor circumstances. Criminal ancestors. Leader of criminals.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Fever. Grave injuries of the body through fire or firearms. To be born in poor circumstances. Criminal ancestors. Leader of criminals.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Efforts of an old man, dangerous handling person, human need by fire, adverse personnel transport, personal service services, personal performance shortage, hidden handling center, and renunciation of corporal procreation
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Hades = Zeus`: unpleasant activity and destructive fire.
+- Practical expression: efforts of an old man, dangerous handling person, human need by fire, adverse personnel transport, and personal service services.
 
 ## Links
 
@@ -61,3 +56,5 @@ Fever. Grave injuries of the body through fire or firearms. To be born in poor c
 - [Hades](../factors/hades.md)
 - [Zeus](../factors/zeus.md)
 - [Sun/Hades](../axes/sun-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

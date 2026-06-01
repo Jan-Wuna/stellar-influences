@@ -3,7 +3,7 @@ title: Mercury/Kronos = Cupido
 page_type: activation
 slug: mercury-kronos-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Cupido
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Kronos`
-- Source page: `169`
 #### Witte Entry
 
 Artistically active thinker. Great artistic ability.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Artistically active thinker. Great artistic ability.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Community of young people, reports of a national community, large transport community, self evident opinion of a community, self employed youth community, state media community, and important language about art
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Kronos = Cupido` turns the axis toward artistic intelligence and refined creation.
+- Chart expression: a thinker who works artistically, with great creative ability expressed through form, taste, and cultivated mental production.
 
 ## Links
 
@@ -61,3 +56,5 @@ Artistically active thinker. Great artistic ability.
 - [Kronos](../factors/kronos.md)
 - [Cupido](../factors/cupido.md)
 - [Mercury/Kronos](../axes/mercury-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

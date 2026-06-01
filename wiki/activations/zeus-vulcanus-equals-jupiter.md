@@ -3,7 +3,7 @@ title: Zeus/Vulcanus = Jupiter
 page_type: activation
 slug: zeus-vulcanus-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Zeus
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Vulcanus`
-- Source page: `295`
 #### Witte Entry
 
 Mighty successful efforts. Important increase of fortune through luck or the own efforts.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mighty successful efforts. Important increase of fortune through luck or the own efforts.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+influential financial leadership, successful energy achievements, joy about leadership influence, tremendous financial achievements, tremendous legal success, powerful financial efforts, strong legal efforts, and creative financial power
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Vulcanus = Jupiter`: Mighty successful efforts. Important increase of fortune through luck or the own efforts.
+- Practical expression: influential financial leadership, successful energy achievements, joy about leadership influence, tremendous financial achievements, and tremendous legal success.
 
 ## Links
 
@@ -61,3 +56,5 @@ Mighty successful efforts. Important increase of fortune through luck or the own
 - [Vulcanus](../factors/vulcanus.md)
 - [Jupiter](../factors/jupiter.md)
 - [Zeus/Vulcanus](../axes/zeus-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

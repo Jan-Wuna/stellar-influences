@@ -3,7 +3,7 @@ title: Neptune/Hades = Saturn
 page_type: activation
 slug: neptune-hades-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Neptune
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Hades`
-- Source page: `248`
 #### Witte Entry
 
 Serious sickness. To experience hindrances through deceptions, mistakes or other vile circumstances. Losses through inundations or water. To overturn or fall into the water. Shipwreck. To give up seafaring. Evil smelling liquids, dung water, excrements, natural manure.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Serious sickness. To experience hindrances through deceptions, mistakes or other vile circumstances. Losses through inundations or water. To overturn or fall into the water. Shipwreck. To give up seafaring. Evil smelling liquids, dung water, excrements, natural manure.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Concentration on hidden and subtle, grief caused by creeping shocks, adverse problems with water, lack of patience and sensitivity, problems caused by air pollution, disturbances caused by air deficiency, and unknown hidden problems
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Hades = Saturn`: Serious sickness. To experience hindrances through deceptions, mistakes or other vile circumstances. Losses through inundations or water. To overturn or fall into the water. Shipwreck. To give up seafaring. Evil smelling liquids, dung water, excrements, natural manure.
+- Practical focus: hardens the axis into serious illness, deprivation, obstruction, or losses that demand endurance and structure. It shows decay meeting consequence, whether through age, duty, harsh conditions, or realities that force limits around instability, dependency, or damaged environments.
+- Practical expression: concentration on hidden, subtle, grief caused by creeping shocks, adverse problems with water, and lack of patience.
 
 ## Links
 
@@ -61,3 +57,5 @@ Serious sickness. To experience hindrances through deceptions, mistakes or other
 - [Hades](../factors/hades.md)
 - [Saturn](../factors/saturn.md)
 - [Neptune/Hades](../axes/neptune-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

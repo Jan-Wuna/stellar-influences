@@ -3,7 +3,7 @@ title: Saturn/Poseidon = Kronos
 page_type: activation
 slug: saturn-poseidon-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Kronos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Poseidon`
-- Source page: `231`
 #### Witte Entry
 
 Education sponsored by the state. The independent educator. To occupy a leading position in education. The dean of a school. An outstanding mentor.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Education sponsored by the state. The independent educator. To occupy a leading position in education. The dean of a school. An outstanding mentor.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special cultural tasks, patience and courage of a hierarchy, local state culture, clear tasks in the state, problems of the state with the truth, mature intellectual authority, lost ideas of the state, and priority spiritual tasks
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Poseidon = Kronos`: education sponsored by the state, the independent educator, to occupy a leading position in education.
+- Practical expression: special cultural tasks, patience, courage of a hierarchy, local state culture, and clear tasks in the state.
 
 ## Links
 
@@ -61,3 +56,5 @@ Education sponsored by the state. The independent educator. To occupy a leading 
 - [Poseidon](../factors/poseidon.md)
 - [Kronos](../factors/kronos.md)
 - [Saturn/Poseidon](../axes/saturn-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

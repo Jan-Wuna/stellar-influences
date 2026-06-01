@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Neptune`
-- Source page: `68`
 #### Witte Entry
 
 Sensitive to beams (radiated energy). Sleepwalker. To deceive females, or the people. To be very imaginative.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Neptune/Medium Coeli`
-- Source page: `290`
-- Entry: `1036`
+#### ABC Entry
+
+Blessing body flies, my wife's premonitions, my wife's fine feelings, my wife's intuitions, my wife's exchanged, my feeling uncertainty, my weak wife, my sensitive feeling, and my people's future
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Tendency to revel in fanciful imaginings, active and intense imagination, misint
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Neptune/Midheaven midpoint`
-- Source page: `113`
-- Activator: `Moon`
-
 #### Sandbach Entry
 
 The emotional need to have a career you can really feel dedicated to. Your ability to intuit how to spiritually advance yourself comes and goes, and you need to be sensitive to these cycles, so that you know that even though you sometimes feel not so spiritually connected you will experience a deeper connection soon. When you feel emotionally down you may get into negative imaginings about your career.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Increased receptivity about your plans and direction in life; brings a sensitivity to how others can or will deceive you about the help they give in fulfilling your dreams and visions; prompts hesitations about your goals.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/MC = Moon`: compassionate service, nurturing imagination, and public expression that touches feeling more than strict logic. Main caution: drift through mood: ambition can become unstable, overly receptive, or too dependent on emotional atmosphere and approval.
 
 ## Links
 
@@ -84,7 +76,8 @@ The emotional need to have a career you can really feel dedicated to. Your abili
 - [MC](../factors/mc.md)
 - [Moon](../factors/moon.md)
 - [Neptune/MC](../axes/neptune-mc.md)
-- [Moon Neptune MC](../triads/moon-neptune-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

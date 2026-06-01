@@ -3,7 +3,7 @@ title: Saturn Vulcanus Poseidon
 page_type: triad_hub
 slug: saturn-vulcanus-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Vulcanus
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Vulcanus Poseidon`
 - Astronomicon triad-set: `W § ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Saturn/Poseidon = Vulcanus](../activations/saturn-poseidon-equals-vulcanus.md)
-  Source page `231`
 - [Saturn/Vulcanus = Poseidon](../activations/saturn-vulcanus-equals-poseidon.md)
-  Source page `230`
 - [Vulcanus/Poseidon = Saturn](../activations/vulcanus-poseidon-equals-saturn.md)
-  Source page `315`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Saturn/Poseidon = Vulcanus`: page `231`
-- `Saturn/Vulcanus = Poseidon`: page `230`
-- `Vulcanus/Poseidon = Saturn`: page `315`
+- `Saturn/Poseidon = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `231`
+- `Saturn/Poseidon = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `369`
+- `Saturn/Vulcanus = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `230`
+- `Saturn/Vulcanus = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `367`
+- `Vulcanus/Poseidon = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `315`
+- `Vulcanus/Poseidon = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `479`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Vulcanus/Poseidon = Saturn`: Humiliation, to be depreciated. Insulted sense of honor. Loss of prestige and dignity. Honor, prestige and dignity must be very carefully guarded. To overcome inhibitions on a spiritual level or through spiritual forces.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

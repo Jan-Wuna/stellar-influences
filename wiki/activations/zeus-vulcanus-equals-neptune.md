@@ -3,7 +3,7 @@ title: Zeus/Vulcanus = Neptune
 page_type: activation
 slug: zeus-vulcanus-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Zeus
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Vulcanus`
-- Source page: `295`
 #### Witte Entry
 
 Not to find any use for one’s energies. Not able or not obliged to do anything. Wasted energies. Useless combustion of gas.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Not to find any use for one’s energies. Not able or not obliged to do anything. Wasted energies. Useless combustion of gas.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Starting energy weakness, influence of fire water (alcohol), energic lighting of the water, subtle flow influence/3, lenient air power, strong flow in the air, unknown flow power Exercising energy development, fire force unfolding, movement force developing, and management force developing
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Vulcanus = Neptune`: Not to find any use for one’s energies. Not able or not obliged to do anything. Wasted energies. Useless combustion of gas.
+- Practical expression: starting energy weakness, influence of fire water (alcohol), energic lighting of the water, subtle flow influence/3, and lenient air power.
 
 ## Links
 
@@ -61,3 +56,5 @@ Not to find any use for one’s energies. Not able or not obliged to do anything
 - [Vulcanus](../factors/vulcanus.md)
 - [Neptune](../factors/neptune.md)
 - [Zeus/Vulcanus](../axes/zeus-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

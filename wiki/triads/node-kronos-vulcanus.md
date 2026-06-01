@@ -3,7 +3,7 @@ title: Node Kronos Vulcanus
 page_type: triad_hub
 slug: node-kronos-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Kronos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Node Kronos Vulcanus`
 - Astronomicon triad-set: `g ¤ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Kronos/Vulcanus = Node](../activations/kronos-vulcanus-equals-node.md)
-  Source page `301`
 - [Node/Kronos = Vulcanus](../activations/node-kronos-equals-vulcanus.md)
-  Source page `152`
 - [Node/Vulcanus = Kronos](../activations/node-vulcanus-equals-kronos.md)
-  Source page `155`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Kronos/Vulcanus = Node`: page `301`
-- `Node/Kronos = Vulcanus`: page `152`
-- `Node/Vulcanus = Kronos`: page `155`
+- `Kronos/Vulcanus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `301`
+- `Kronos/Vulcanus = Node`: Udo Rudolph - ABC for Planetary Pictures, page `464`
+- `Node/Kronos = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `152`
+- `Node/Kronos = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `231`
+- `Node/Vulcanus = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `155`
+- `Node/Vulcanus = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `237`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Kronos/Vulcanus = Node`: direct connection with the force of the state, involvement with government power, and alliances formed around national or executive strength.
+- `Node/Kronos = Vulcanus`: Mighty influential connections. Connection with power of the state.
+- `Node/Vulcanus = Kronos`: To be subjected to power by the state. Connected with armed forces of state.
 
 ## Links
 
 - [Node](../factors/node.md)
 - [Kronos](../factors/kronos.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

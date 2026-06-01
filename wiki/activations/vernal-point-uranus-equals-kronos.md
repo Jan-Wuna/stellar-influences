@@ -3,7 +3,7 @@ title: Vernal Point/Uranus = Kronos
 page_type: activation
 slug: vernal-point-uranus-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Uranus
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Uranus`
-- Source page: `45`
 #### Witte Entry
 
 Surprising ordinances of the state. Events in a state or nation. Coup d etat.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Surprising ordinances of the state. Events in a state or nation. Coup d etat.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+special excitement in public, dominance of technology in public life, major tensions in public life, authoritative impulses in public, state reforms for the public, and important renewals in public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Uranus = Kronos`: surprising ordinances of the state, events in a state or nation, and coup d etat.
+- Practical expression: special excitement in public, dominance of technology in public life, major tensions in public life, and state reforms for the public.
 
 ## Links
 
@@ -61,3 +56,5 @@ Surprising ordinances of the state. Events in a state or nation. Coup d etat.
 - [Uranus](../factors/uranus.md)
 - [Kronos](../factors/kronos.md)
 - [Vernal Point/Uranus](../axes/vernal-point-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

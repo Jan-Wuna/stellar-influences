@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Hades + Hades`
-- Source page: `276`
 #### Witte Entry
 
 Great baseness and meanness, poverty or want. Poor government. Plain clothes police. The criminal on a large scale. Organized crime. Detective force. Criminal police. To be obliged to give up independence. Death and ruin in ruling circles.
 
-## Comparative Schema
-
-- core meaning: Great baseness and meanness, poverty or want. Poor government. Plain clothes police. The criminal on a large scale. Organized crime. Detective force. Criminal police. To be obliged to give up independence. Death and ruin in ruling circles.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Hades = Kronos`: misery administered from above or tied to rank and command. It can show loss of independence, degraded leadership, and the public consequences of corrupt or mean authority.
 
 ## Links
 

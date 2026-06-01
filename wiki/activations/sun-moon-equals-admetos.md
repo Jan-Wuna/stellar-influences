@@ -3,7 +3,7 @@ title: Sun/Moon = Admetos
 page_type: activation
 slug: sun-moon-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Moon
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Moon
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Moon`
-- Source page: `101`
 #### Witte Entry
 
 Days of no accomplishment. Dead, still day. The end of partnership or marriage.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Days of no accomplishment. Dead, still day. The end of partnership or marriage.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked feelings of the man, depressed people of a Y olke, restriction of a person's life, firmness between woman and man, woman's body cycle, woman's personal perseverance, and deepening of personal feelings
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Moon = Admetos`: practical activity and grounded, workmanlike embodiment.
+- Practical expression: blocked feelings of the man, depressed people of a Y olke, restriction of a person's life, firmness between woman, and woman's body cycle.
 
 ## Links
 
@@ -61,3 +56,5 @@ Days of no accomplishment. Dead, still day. The end of partnership or marriage.
 - [Moon](../factors/moon.md)
 - [Admetos](../factors/admetos.md)
 - [Sun/Moon](../axes/sun-moon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

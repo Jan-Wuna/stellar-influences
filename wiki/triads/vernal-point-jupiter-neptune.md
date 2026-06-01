@@ -3,7 +3,7 @@ title: Vernal Point Jupiter Neptune
 page_type: triad_hub
 slug: vernal-point-jupiter-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Jupiter
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Jupiter Neptune`
 - Astronomicon triad-set: `VP V Y`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Neptune = Vernal Point](../activations/jupiter-neptune-equals-vernal-point.md)
-  Source page `209`
 - [Vernal Point/Jupiter = Neptune](../activations/vernal-point-jupiter-equals-neptune.md)
-  Source page `43`
 - [Vernal Point/Neptune = Jupiter](../activations/vernal-point-neptune-equals-jupiter.md)
-  Source page `46`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Neptune = Vernal Point`: page `209`
-- `Vernal Point/Jupiter = Neptune`: page `43`
-- `Vernal Point/Neptune = Jupiter`: page `46`
+- `Jupiter/Neptune = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `209`
+- `Jupiter/Neptune = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `328`
+- `Vernal Point/Jupiter = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `43`
+- `Vernal Point/Jupiter = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `35`
+- `Vernal Point/Neptune = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `46`
+- `Vernal Point/Neptune = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `40`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Neptune = Vernal Point`: speculation, pretended luck, and general carelessness.
+- `Vernal Point/Jupiter = Neptune`: This formula emphasizes would-be fortune, squandering of substance, losses, and extravagance.
+- `Vernal Point/Neptune = Jupiter`: This formula emphasizes fraudulent money transactions.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Jupiter](../factors/jupiter.md)
 - [Neptune](../factors/neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

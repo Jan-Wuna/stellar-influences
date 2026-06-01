@@ -3,7 +3,7 @@ title: Vernal Point/Hades = Mars
 page_type: activation
 slug: vernal-point-hades-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Mars
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Hades`
-- Source page: `49`
 #### Witte Entry
 
 Work scarcity. Faulty, vulgar actions. Carelessness. Brutalities. To work in the general health system. *
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Work scarcity. Faulty, vulgar actions. Carelessness. Brutalities. To work in the general health system. *
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Work crime in public life, lack in public life, dangerous acts in public, criminal activity in public, dirty work in public, and hidden work in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Hades = Mars`: work scarcity, faulty, vulgar actions, carelessness, brutalities, and to work in the general health system.
+- Practical expression: work crime in public life, lack in public life, dangerous acts in public, criminal activity in public, and dirty work in public.
 
 ## Links
 
@@ -61,3 +56,5 @@ Work scarcity. Faulty, vulgar actions. Carelessness. Brutalities. To work in the
 - [Hades](../factors/hades.md)
 - [Mars](../factors/mars.md)
 - [Vernal Point/Hades](../axes/vernal-point-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

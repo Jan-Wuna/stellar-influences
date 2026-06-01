@@ -45,8 +45,6 @@ updated_at: 2026-04-21
 
 - Axis: `Zeus/Zeus`
 - Astronomicon axis: `£/£`
-- Source heading: `Zeus + Zeus`
-- Source page: `287`
 
 ## Source Entries
 
@@ -55,15 +53,6 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 Leadership. Creation. Procreation. Goal oriented. Controlled activity. Well planned efforts. Far reaching goals. Ruler. To want to lead or to command. Controlled fire. Controlled energy. Machines. Achievements. Performance.
-
-## Comparative Schema
-
-- core meaning: Leadership. Creation. Procreation. Goal oriented. Controlled activity. Well planned efforts. Far reaching goals. Ruler. To want to lead or to command. Controlled fire. Controlled energy. Machines. Achievements. Performance.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
@@ -89,13 +78,11 @@ Leadership. Creation. Procreation. Goal oriented. Controlled activity. Well plan
 - [Zeus/Zeus = Vulcanus](../activations/zeus-zeus-equals-vulcanus.md)
 - [Zeus/Zeus = Poseidon](../activations/zeus-zeus-equals-poseidon.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- This axis doubles Zeus themes of command, creation, and goal-directed performance, emphasizing intentional activity, leadership drive, and productive fire or machine-like output.
+- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
 
 ## Links
 

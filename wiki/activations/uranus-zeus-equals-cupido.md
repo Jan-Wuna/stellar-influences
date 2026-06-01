@@ -3,7 +3,7 @@ title: Uranus/Zeus = Cupido
 page_type: activation
 slug: uranus-zeus-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Cupido
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Zeus`
-- Source page: `238`
 #### Witte Entry
 
 Procreation in a marriage union. To force one’s will on a community, to dominate and to form it. Many gun shots at once or machine-gun fire.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Procreation in a marriage union. To force one’s will on a community, to dominate and to form it. Many gun shots at once or machine-gun fire.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Starting unrest in of a community, dynamic movement community, joint technical efforts, joint re start, joint procreation event, new direction for of a community, and reform struggles of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Zeus = Cupido`: Procreation in a marriage union. To force one’s will on a community, to dominate and to form it. Many gun shots at once or machine-gun fire.
+- Practical expression: starting unrest in a community, dynamic movement community, joint technical efforts, joint re start, and joint procreation event.
 
 ## Links
 
@@ -61,3 +56,5 @@ Procreation in a marriage union. To force one’s will on a community, to domina
 - [Zeus](../factors/zeus.md)
 - [Cupido](../factors/cupido.md)
 - [Uranus/Zeus](../axes/uranus-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

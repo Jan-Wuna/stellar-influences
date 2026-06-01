@@ -58,13 +58,14 @@ aliases:
   - Venus/Sun
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -77,17 +78,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Venus`
-- Source page: `104`
-
 #### Pair Summary
 
 Harmony. A peaceful day. Personal attraction. Magnetism. Beautiful body. The loving man. Hie time of love. The body’s capacity for love. (In the solar cycle: a peaceful period.)
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Sun/Venus`
-- Source page: `83`
+#### ABC Pair Summary
+
+Peace center, peaceful man, harmonious day, corporal love, art, man of the arts, human affection, personal harmony, personal preference, gentle man, day of love, and benevolent man
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -111,17 +112,11 @@ Physical love, harmony, beauty, art, the ideał. Psychologica/ Correspondence + 
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
-- Source heading: `Sun/Venus`
-- Source page: `7`
-
 #### Falis Entry
 
 You have conscious awareness of your powers of attraction. You are consciously aware of your ability to become popular. You ooze charm and attractiveness. Peo ple feel attracted to you. You find it easy to become popular. You identify with pop ular people. You identify with attractive people. Beauty icons are your role models. Fashion icons are your role models. You find yourself through the feminine arts. You are involved in beauty or fashion. You are involved in negotiations and diplo macy. You find yourself through involvement in issues of justice, cooperation and fairness. You find your identity through relationships. Relating to other people gives you a better sense of who you are. Your ego is bound up with how much you are liked and adored. You only feel like yourself when you are in popular social cir cles. You only feel like yourself when you feel attractive. How attractive you feel has a lot to do with how centered you are. Having your ego bound up with your appear ance. Vanity. Laziness. Go with the flow. Having an ego built upon likability and popularity. Wanting to belong. Wanting to find a place in the sun where you can be popular, well-liked and generally considered to be attractive. Your purpose in life is to find people you can relate to. You are not a loner. You like being in a rela tionship. Serial daters. Incurable flirts. Would rather compromise to get your way, or manipulate to get your way, than openly fight with anyone. Not against using charm or good looks to get what you want. Would rather sit around basking in adoration than start a feud. You identify with women. You have female role models in your life. Beauty icons. Models. Sex goddesses. Screen sirens. Pop princesses. You feel happy being surrounded by women. Well developed feminine traits. A loving and gentle person. Women who really identify with being a woman. Finding out who you are through involvement in the arts. An appreciation of the arts and a love of being surrounded by beautiful people and beautiful things. Feeling unattractive hurts your sense of self. You may fear becom ing ugly, unwanted or disliked. Confidence comes with popularity. Having a loving relationship with your father. Dad was well-liked. Dad was passive and didn't stand up for himself. Dad always tried to find a way to compromise and work things out. Liking men who prefer to compromise rather than fight. Liking men who have charm, class and grace. Liking men who appreciate women. A man who loves women. A womanizer. Thinking that your shit doesn't stink. Being high on yourself.
 
 ### Charles Carter - The Astrological Aspects
-
-- Source heading: `ASPECTS OF THE SUN AND VENUS`
-- Source page: `9`
 
 #### Pair Overview
 
@@ -150,9 +145,6 @@ In the maps of rulers it seems to denote restless and disloyal subjects and unfo
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Sun/Venus midpoint`
-- Source page: `10`
-
 #### Principle
 
 Love as a vitalizing and meaningful experience. Art. Aesthetics. Selflove both in the neurotic and healthy sense. One’s values as they relate to one’s long-term goals. To be egotistical about one’s own attractiveness and/or value.
@@ -163,17 +155,11 @@ To see the enduring and ultimately meaningful worth that lies underneath all pas
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Sun/Venus`
-- Source page: `201`
-
 #### Pair Delineation
 
 The will to have relationships, love, or create. May relate to artistic creativity, if other factors support. Personal happiness and gratification, comfort, feeling good. For both men and women this point may contribute to what they expect of the opposite sex.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `SUN/VENUS`
-- Source page: `63`
 
 #### Basic Ideas
 
@@ -202,15 +188,6 @@ Your attitude toward health and your body, in general; your thyroid’s ability 
 
 - [Michael Munkasey - Sun/Venus Concepts](../derived/munkasey-sun-venus-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Sun/Venus = Admetos](../activations/sun-venus-equals-admetos.md)
@@ -235,20 +212,18 @@ Your attitude toward health and your body, in general; your thyroid’s ability 
 - [Sun/Venus = Vulcanus](../activations/sun-venus-equals-vulcanus.md)
 - [Sun/Venus = Zeus](../activations/sun-venus-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Venus` joins identity and will with love, attraction, beauty, charm, pleasure, and the desire for harmonious exchange. It is a primary axis of affection, appreciation, artistry, and social grace.
+- In practice, this axis describes the need to feel valued and to express value directly: warmth, popularity, aesthetic refinement, cooperative style, and love as a meaningful part of self-expression. When distorted, the same axis can lean toward vanity, superficiality, or overdependence on approval and comfort.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Venus](../factors/venus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)

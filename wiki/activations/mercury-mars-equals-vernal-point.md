@@ -3,7 +3,7 @@ title: Mercury/Mars = Vernal Point
 page_type: activation
 slug: mercury-mars-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Mars
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Mercury
   - Mars
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Mars`
-- Source page: `160`
 #### Witte Entry
 
 Speaking. Quick acting. Energetic action.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Speaking. Quick acting. Energetic action.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+(a) to discuss activities in the field of education and training; (b) to discuss youth work in the public sphere; (c) to discuss youth work in the public sphere; (c) to discuss youth work in the public sphere; (c) to discuss youth work in the public sphere; (c) to discuss youth work in the public sphere; (c) to discuss youth work in the public sphere; (c) to discuss youth work in the public sphere; (c) to discuss youth work in the public sphere; (d) to discuss youth work in the public sphere; (d) to discuss youth work in the public sphere; (d) to discuss activities in the public sphere; (d) to discuss media creation; (d) to discuss news activities in the public sphere; (d) to discuss activities in the public sphere; (d) to discuss youth work in the public sphere; (d) to discuss youth work in the public sphere; (d) to discuss activities in the public sphere of life; (d) to discuss activities in the public sphere of life; (d) to discuss media creation; (d) to discuss news activities in the public sphere; (d) to discuss life; (d
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Mars = Vernal Point` projects the axis outward as direct speech and fast execution.
+- Chart expression: talking, quick movement, and energetic action made visible in the immediate world without delay or hesitation.
 
 ## Links
 
@@ -61,3 +56,5 @@ Speaking. Quick acting. Energetic action.
 - [Mars](../factors/mars.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Mercury/Mars](../axes/mercury-mars.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Mars/Apollon = Mercury
 page_type: activation
 slug: mars-apollon-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Mars
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Apollon`
-- Source page: `201`
 #### Witte Entry
 
 Scientific disputes and debates. Stock-taking. To give an accounting. Recorded statements or evidence. News or information about commercial transactions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Scientific disputes and debates. Stock-taking. To give an accounting. Recorded statements or evidence. News or information about commercial transactions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Work successes of the media, extensive language work, successful youth work, successful media activity, successful thinking and acting, talk about trade activity, extensive youth activity, and transport work of science
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Apollon = Mercury`: scientific debate, accounting, statements, evidence, and news about business or commercial dealings.
+- Chart expression: active analysis, reporting, record-keeping, and intellectual exchange around large operations or markets.
 
 ## Links
 
@@ -61,3 +56,5 @@ Scientific disputes and debates. Stock-taking. To give an accounting. Recorded s
 - [Apollon](../factors/apollon.md)
 - [Mercury](../factors/mercury.md)
 - [Mars/Apollon](../axes/mars-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

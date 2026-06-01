@@ -3,7 +3,7 @@ title: Venus/Vulcanus = Vernal Point
 page_type: activation
 slug: venus-vulcanus-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Venus
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Vulcanus`
-- Source page: `188`
 #### Witte Entry
 
 Something that is mostly desired by the general public. The general longing.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Something that is mostly desired by the general public. The general longing.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+The Power of Beauty in the Public, Administration and Public Love, Harmony Influence in the Public Life, art in the Public, Public Peace Power, and Strengthen the Common Principle in the Public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Vulcanus = Vernal Point`: something that is mostly desired by the general public.
+- Practical expression: the Power of Beauty in the Public, administration, public Love, harmony Influence in the Public Life, and art in the Public.
 
 ## Links
 
@@ -61,3 +56,5 @@ Something that is mostly desired by the general public. The general longing.
 - [Vulcanus](../factors/vulcanus.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Venus/Vulcanus](../axes/venus-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

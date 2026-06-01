@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `MC + MC`
-- Source page: `56`
 #### Witte Entry
 
 Making arrangements. Giving orders. One’s own action. A agitated mind. Self will. To feel energy. To pull oneself together. The urge to be active. Minute of action. Personal goals at work. Psychically active.
 
-## Comparative Schema
-
-- core meaning: Making arrangements. Giving orders. One’s own action. A agitated mind. Self will. To feel energy. To pull oneself together. The urge to be active. Minute of action. Personal goals at work. Psychically active.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/MC = Mars` energizes the axis into action, self-will, and the urge to accomplish.
+- Chart expression: an agitated and active mind, personal orders and arrangements, strong work drive, and a self that gathers itself for direct effort, initiative, and decisive action.
 
 ## Links
 

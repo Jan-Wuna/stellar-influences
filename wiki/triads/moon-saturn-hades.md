@@ -3,7 +3,7 @@ title: Moon Saturn Hades
 page_type: triad_hub
 slug: moon-saturn-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Saturn
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Saturn Hades`
 - Astronomicon triad-set: `R W ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Hades = Saturn](../activations/moon-hades-equals-saturn.md)
-  Source page `131`
 - [Moon/Saturn = Hades](../activations/moon-saturn-equals-hades.md)
-  Source page `126`
 - [Saturn/Hades = Moon](../activations/saturn-hades-equals-moon.md)
-  Source page `225`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Hades = Saturn`: page `131`
-- `Moon/Saturn = Hades`: page `126`
-- `Saturn/Hades = Moon`: page `225`
+- `Moon/Hades = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `131`
+- `Moon/Hades = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `195`
+- `Moon/Saturn = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `126`
+- `Moon/Saturn = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `185`
+- `Saturn/Hades = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `225`
+- `Saturn/Hades = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `356`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Hades = Saturn`: Hostility. Worries through enmities. Separation. Loss. Disappearance of vile things. Operative cut in the womb.
+- `Moon/Saturn = Hades`: This activation degrades `Moon/Saturn` into severe affliction, sorrow, and oppressive collective circumstance. It points to emotional restriction burdened further by illness, foreign domination, or prolonged obstacle, making heaviness harsher and more defeating.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Saturn](../factors/saturn.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

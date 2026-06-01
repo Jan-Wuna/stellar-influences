@@ -3,7 +3,7 @@ title: Vernal Point/Vulcanus = Saturn
 page_type: activation
 slug: vernal-point-vulcanus-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Saturn
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Vulcanus`
-- Source page: `54`
 #### Witte Entry
 
 To watch, to guard, to supervise, to shadow. Surveillance. Restriction of public energy.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To watch, to guard, to supervise, to shadow. Surveillance. Restriction of public energy.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Energy problems in the world, power concentration in the public, power problems in the world, dead ends in public, and separation from the public power. Losses by public violence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Vulcanus = Saturn`: to watch, to guard, to supervise, to shadow, surveillance, and restriction of public energy.
+- Practical expression: energy problems in the world, power concentration in the public, power problems in the world, dead ends in public, and separation from the public power. Losses by public violence.
 
 ## Links
 
@@ -61,3 +56,5 @@ To watch, to guard, to supervise, to shadow. Surveillance. Restriction of public
 - [Vulcanus](../factors/vulcanus.md)
 - [Saturn](../factors/saturn.md)
 - [Vernal Point/Vulcanus](../axes/vernal-point-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

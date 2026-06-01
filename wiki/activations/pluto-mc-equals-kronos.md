@@ -3,10 +3,10 @@ title: Pluto/MC = Kronos
 page_type: activation
 slug: pluto-mc-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Pluto
+  - MC
   - Kronos
 normalized_formula: Pluto/MC = Kronos
 axis: Pluto/MC
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - MC
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Pluto`
-- Source page: `69`
 #### Witte Entry
 
 The trend is upwards. To develop one’s knowledge. From student to master, high standards.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The trend is upwards. To develop one’s knowledge. From student to master, high standards.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Development of my independence, my emergence development, my development in the hierarchy, my special development, my changes by the state, developing psychic grofie, and independent soul development
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/MC = Kronos`: the native grows into authority, higher demands or tested capability.
+- Practical expression: development of my independence, my emergence development, my development in the hierarchy, my special development, and my changes by the state.
 
 ## Links
 
@@ -61,3 +56,5 @@ The trend is upwards. To develop one’s knowledge. From student to master, high
 - [MC](../factors/mc.md)
 - [Kronos](../factors/kronos.md)
 - [Pluto/MC](../axes/pluto-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

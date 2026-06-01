@@ -3,7 +3,7 @@ title: Moon/Admetos = Node
 page_type: activation
 slug: moon-admetos-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Node
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Admetos`
-- Source page: `135`
 #### Witte Entry
 
 Tied to a cramped space. Coming in contact with death or matters of death.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Tied to a cramped space. Coming in contact with death or matters of death.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exhaustive connection to women, limitation of the feelings of a connection, limitation of the connection to women, depth of a connection, connection to a depressed people, and deepening links to women
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Admetos = Node`: Tied to a cramped space. Coming in contact with death or matters of death.
+- Practical expression: exhaustive connection to women, limitation of the feelings of a connection, limitation of the connection to women, depth of a connection, and connection to a depressed people.
 
 ## Links
 
@@ -61,3 +56,5 @@ Tied to a cramped space. Coming in contact with death or matters of death.
 - [Admetos](../factors/admetos.md)
 - [Node](../factors/node.md)
 - [Moon/Admetos](../axes/moon-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

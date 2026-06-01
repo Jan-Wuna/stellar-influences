@@ -3,7 +3,7 @@ title: Kronos/Vulcanus = Mars
 page_type: activation
 slug: kronos-vulcanus-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Kronos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Kronos + Vulcanus`
-- Source page: `301`
 #### Witte Entry
 
 Great energy in action. Political activity. To fight for or against the existing form of state government. To exercise the power of the state.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great energy in action. Political activity. To fight for or against the existing form of state government. To exercise the power of the state.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special force work, special will influence, influential labour burden, power activity of the state, state force activity, strong will to self governance, important energy impulses, and important energies in activity
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Vulcanus = Mars`: political action, fighting for or against a regime, and direct exercise of state force.
+- Chart expression: decisive action, military or police assertion, and conflict over the right to wield governing power.
 
 ## Links
 
@@ -61,3 +56,5 @@ Great energy in action. Political activity. To fight for or against the existing
 - [Vulcanus](../factors/vulcanus.md)
 - [Mars](../factors/mars.md)
 - [Kronos/Vulcanus](../axes/kronos-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

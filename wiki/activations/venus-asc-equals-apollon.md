@@ -3,10 +3,10 @@ title: Venus/Asc = Apollon
 page_type: activation
 slug: venus-asc-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Venus
+  - Asc
   - Apollon
 normalized_formula: Venus/Asc = Apollon
 axis: Venus/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Asc
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Venus`
-- Source page: `84`
 #### Witte Entry
 
 Good standing in relationships with friends. To be loved by many.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Good standing in relationships with friends. To be loved by many.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Extension of peace in the place, freedom and peace in the place, love of freedom of the partner, successful artist in the place, love experiences of the partner, preference for trade in the place, artist and science in the environment, and increasing joy in the place
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Asc = Apollon`: good standing in relationships with friends.
+- Practical expression: extension of peace in the place, freedom, peace in the place, love of freedom of the partner, and successful artist in the place.
 
 ## Links
 
@@ -61,3 +56,5 @@ Good standing in relationships with friends. To be loved by many.
 - [Asc](../factors/asc.md)
 - [Apollon](../factors/apollon.md)
 - [Venus/Asc](../axes/venus-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Saturn MC Cupido
 page_type: triad_hub
 slug: saturn-mc-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - MC
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn MC Cupido`
 - Astronomicon triad-set: `W MC ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Cupido = Saturn](../activations/mc-cupido-equals-saturn.md)
-  Source page `70`
 - [Saturn/Cupido = MC](../activations/saturn-cupido-equals-mc.md)
-  Source page `224`
 - [Saturn/MC = Cupido](../activations/saturn-mc-equals-cupido.md)
-  Source page `66`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Cupido = Saturn`: page `70`
-- `Saturn/Cupido = MC`: page `224`
-- `Saturn/MC = Cupido`: page `66`
+- `MC/Cupido = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `70`
+- `MC/Cupido = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `85`
+- `Saturn/Cupido = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `224`
+- `Saturn/Cupido = MC`: Udo Rudolph - ABC for Planetary Pictures, page `354`
+- `Saturn/MC = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `66`
+- `Saturn/MC = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `77`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Cupido = Saturn`: burdens the axis through hindrance, separation, and sobered community feeling.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [MC](../factors/mc.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

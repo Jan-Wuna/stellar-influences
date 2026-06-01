@@ -3,7 +3,7 @@ title: Vernal Point Mars Admetos
 page_type: triad_hub
 slug: vernal-point-mars-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Mars
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Mars Admetos`
 - Astronomicon triad-set: `VP U ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Admetos = Vernal Point](../activations/mars-admetos-equals-vernal-point.md)
-  Source page `202`
 - [Vernal Point/Admetos = Mars](../activations/vernal-point-admetos-equals-mars.md)
-  Source page `53`
 - [Vernal Point/Mars = Admetos](../activations/vernal-point-mars-equals-admetos.md)
-  Source page `42`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Admetos = Vernal Point`: page `202`
-- `Vernal Point/Admetos = Mars`: page `53`
-- `Vernal Point/Mars = Admetos`: page `42`
+- `Mars/Admetos = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `202`
+- `Mars/Admetos = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `318`
+- `Vernal Point/Admetos = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `53`
+- `Vernal Point/Admetos = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `54`
+- `Vernal Point/Mars = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `42`
+- `Vernal Point/Mars = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `33`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Admetos = Vernal Point`: restricted work on a collective scale, market decline, bankruptcy, and broad depression or suppression of activity.
+- `Vernal Point/Admetos = Mars`: This formula emphasizes fighting resistance and homicide.
+- `Vernal Point/Mars = Admetos`: This formula emphasizes working on special subjects, limited field of activity, and oppression and terror.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Mars](../factors/mars.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

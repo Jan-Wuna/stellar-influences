@@ -45,8 +45,6 @@ updated_at: 2026-04-21
 
 - Axis: `Node/Node`
 - Astronomicon axis: `g/g`
-- Source heading: `Node + Node`
-- Source page: `139`
 
 ## Source Entries
 
@@ -55,15 +53,6 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 Union. Connections. Junction. Relationships. Contacts. Establishing relations. The common link. A node. Network. Limit, boundary or border relations.
-
-## Comparative Schema
-
-- core meaning: Union. Connections. Junction. Relationships. Contacts. Establishing relations. The common link. A node. Network. Limit, boundary or border relations.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
@@ -89,13 +78,11 @@ Union. Connections. Junction. Relationships. Contacts. Establishing relations. T
 - [Node/Node = Vulcanus](../activations/node-node-equals-vulcanus.md)
 - [Node/Node = Poseidon](../activations/node-node-equals-poseidon.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Node` combines connection, alliance, and shared ties with connection, alliance, and shared ties.
+- In practice, it most often shows union, along with connections.
 
 ## Links
 

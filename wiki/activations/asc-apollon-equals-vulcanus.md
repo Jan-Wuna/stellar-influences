@@ -3,7 +3,7 @@ title: Asc/Apollon = Vulcanus
 page_type: activation
 slug: asc-apollon-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - Apollon
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Apollon`
-- Source page: `95`
 #### Witte Entry
 
 Business success, expansive trade, rapidly moving merchandise.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Business success, expansive trade, rapidly moving merchandise.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Extension of local violence, successful partner influence, successful power expansion, tremendous environmental experiences, power expansion at the site, powerful environmental success, strong expansion of a place, and increasing power of others
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Apollon = Vulcanus`: force-backed commerce, strong market presence, and an environment where goods, influence, or opportunity move quickly. Main caution: pressured expansion: rapid flow and power can turn the field hard-driving, aggressive, or overstretched.
 
 ## Links
 
@@ -61,3 +55,5 @@ Business success, expansive trade, rapidly moving merchandise.
 - [Apollon](../factors/apollon.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Asc/Apollon](../axes/asc-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

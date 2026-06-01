@@ -3,7 +3,7 @@ title: Neptune Pluto Apollon
 page_type: triad_hub
 slug: neptune-pluto-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Neptune Pluto Apollon`
 - Astronomicon triad-set: `Y Z ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Neptune/Apollon = Pluto](../activations/neptune-apollon-equals-pluto.md)
-  Source page `251`
 - [Neptune/Pluto = Apollon](../activations/neptune-pluto-equals-apollon.md)
-  Source page `246`
 - [Pluto/Apollon = Neptune](../activations/pluto-apollon-equals-neptune.md)
-  Source page `261`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Neptune/Apollon = Pluto`: page `251`
-- `Neptune/Pluto = Apollon`: page `246`
-- `Pluto/Apollon = Neptune`: page `261`
+- `Neptune/Apollon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `251`
+- `Neptune/Apollon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `401`
+- `Neptune/Pluto = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `246`
+- `Neptune/Pluto = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `391`
+- `Pluto/Apollon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `261`
+- `Pluto/Apollon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `417`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Neptune/Apollon = Pluto`: This activation transforms `Neptune/Apollon` from minor concealment into mass fraud and large-scale deception. It shows diffuse or speculative falsehoods gaining force and reach until they become system-wide and deeply consequential.
+- `Neptune/Pluto = Apollon`: This activation enlarges subtle transformation through secret research and collective systems, showing scientific or social changes that spread quietly before becoming widely apparent.
+- `Pluto/Apollon = Neptune`: This activation emphasizes great transformation below the surface; Slow beginning of large dissolution.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [Pluto](../factors/pluto.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

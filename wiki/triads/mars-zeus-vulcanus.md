@@ -3,7 +3,7 @@ title: Mars Zeus Vulcanus
 page_type: triad_hub
 slug: mars-zeus-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Zeus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Zeus Vulcanus`
 - Astronomicon triad-set: `U £ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Vulcanus = Zeus](../activations/mars-vulcanus-equals-zeus.md)
-  Source page `203`
 - [Mars/Zeus = Vulcanus](../activations/mars-zeus-equals-vulcanus.md)
-  Source page `199`
 - [Zeus/Vulcanus = Mars](../activations/zeus-vulcanus-equals-mars.md)
-  Source page `295`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Vulcanus = Zeus`: page `203`
-- `Mars/Zeus = Vulcanus`: page `199`
-- `Zeus/Vulcanus = Mars`: page `295`
+- `Mars/Vulcanus = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `203`
+- `Mars/Vulcanus = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `321`
+- `Mars/Zeus = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `199`
+- `Mars/Zeus = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `313`
+- `Zeus/Vulcanus = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `295`
+- `Zeus/Vulcanus = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `456`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Vulcanus = Zeus`: directs great power into controlled mechanical or technical application.
+- `Mars/Zeus = Vulcanus`: amplifies the axis into unstoppable drive, explosive productivity, and massive accomplishment.
+- `Zeus/Vulcanus = Mars`: Activity in connection with machines or mechanical contraptions. Mechanical horse power.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Zeus](../factors/zeus.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

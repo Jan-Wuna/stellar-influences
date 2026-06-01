@@ -3,7 +3,7 @@ title: MC/Vulcanus = Poseidon
 page_type: activation
 slug: mc-vulcanus-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Vulcanus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Vulcanus`
-- Source page: `76`
 #### Witte Entry
 
 To have spiritual or mental influence or power. To use strong mental power.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To have spiritual or mental influence or power. To use strong mental power.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influence of culture, influence of soul and spirit, insight is my strong, knowledge of my energy, my mind is strong, my mental influence, my cultural influence, my spiritual strength, clarity of a strong soul, and strong spirit soul
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Vulcanus = Poseidon` spiritualizes the axis through mental or spiritual power.
+- Chart expression: strong intellectual influence, forceful thought, and a life direction in which power is exercised through ideas, conviction, or concentrated mental command.
 
 ## Links
 
@@ -61,3 +56,5 @@ To have spiritual or mental influence or power. To use strong mental power.
 - [Vulcanus](../factors/vulcanus.md)
 - [Poseidon](../factors/poseidon.md)
 - [MC/Vulcanus](../axes/mc-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

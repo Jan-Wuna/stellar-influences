@@ -3,7 +3,7 @@ title: Pluto MC Hades
 page_type: triad_hub
 slug: pluto-mc-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Pluto MC Hades`
 - Astronomicon triad-set: `Z MC ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Hades = Pluto](../activations/mc-hades-equals-pluto.md)
-  Source page `71`
 - [Pluto/Hades = MC](../activations/pluto-hades-equals-mc.md)
-  Source page `258`
 - [Pluto/MC = Hades](../activations/pluto-mc-equals-hades.md)
-  Source page `69`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Hades = Pluto`: page `71`
-- `Pluto/Hades = MC`: page `258`
-- `Pluto/MC = Hades`: page `69`
+- `MC/Hades = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `71`
+- `MC/Hades = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `87`
+- `Pluto/Hades = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `258`
+- `Pluto/Hades = MC`: Udo Rudolph - ABC for Planetary Pictures, page `410`
+- `Pluto/MC = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `69`
+- `Pluto/MC = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `83`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Hades = Pluto`: intensifies the axis through decline, sad transformation, and worsening psychological conditions.
+- `Pluto/Hades = MC`: This activation emphasizes to feel unhappy, dissatisfied and unqualified; To adapt badly to changes or transformations; Bad self-development or inharmonious adjustment.
+- `Pluto/MC = Hades`: This activation emphasizes unhappy or unhealthy self-development; The native struggles to adapt to worsening conditions.
 
 ## Links
 
 - [Pluto](../factors/pluto.md)
 - [MC](../factors/mc.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

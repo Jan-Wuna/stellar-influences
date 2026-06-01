@@ -3,7 +3,7 @@ title: Node Apollon Vulcanus
 page_type: triad_hub
 slug: node-apollon-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Apollon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Node Apollon Vulcanus`
 - Astronomicon triad-set: `g ¥ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Apollon/Vulcanus = Node](../activations/apollon-vulcanus-equals-node.md)
-  Source page `307`
 - [Node/Apollon = Vulcanus](../activations/node-apollon-equals-vulcanus.md)
-  Source page `153`
 - [Node/Vulcanus = Apollon](../activations/node-vulcanus-equals-apollon.md)
-  Source page `155`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Apollon/Vulcanus = Node`: page `307`
-- `Node/Apollon = Vulcanus`: page `153`
-- `Node/Vulcanus = Apollon`: page `155`
+- `Apollon/Vulcanus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `307`
+- `Apollon/Vulcanus = Node`: Udo Rudolph - ABC for Planetary Pictures, page `470`
+- `Node/Apollon = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `153`
+- `Node/Apollon = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `233`
+- `Node/Vulcanus = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `155`
+- `Node/Vulcanus = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `237`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Apollon/Vulcanus = Node`: success through connections, strategic alliances, and being strongly or advantageously linked.
+- `Node/Apollon = Vulcanus`: Unlimited freedom. Expansive power. Strong and outstanding successes in connection with science and industry.
+- `Node/Vulcanus = Apollon`: Success and promotion through mighty connection. To cause much excitement, excitation. Many get excited.
 
 ## Links
 
 - [Node](../factors/node.md)
 - [Apollon](../factors/apollon.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

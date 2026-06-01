@@ -3,7 +3,7 @@ title: Node/Kronos = Asc
 page_type: activation
 slug: node-kronos-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - Asc
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Kronos`
-- Source page: `152`
 #### Witte Entry
 
 Employment-contract. Others have difficulties with the authorities. To become entangled with the authorities through others. The beginning or end of a lawsuit.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Employment-contract. Others have difficulties with the authorities. To become entangled with the authorities through others. The beginning or end of a lawsuit.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Renown of a partner relationship, special relations with the environment, local connection with the authority, partner relationship with the boss, state environmental relations, links with public places, and priority partner link
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Kronos = Asc`: Employment-contract. Others have difficulties with the authorities. To become entangled with the authorities through others. The beginning or end of a lawsuit.
+- Practical focus: employment-contract; also to become entangled with the authorities through others.
+- In difficult expression, it can mark others have difficulties with the authorities.
 
 ## Links
 
@@ -61,3 +57,5 @@ Employment-contract. Others have difficulties with the authorities. To become en
 - [Kronos](../factors/kronos.md)
 - [Asc](../factors/asc.md)
 - [Node/Kronos](../axes/node-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

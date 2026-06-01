@@ -3,7 +3,7 @@ title: Venus Jupiter Hades
 page_type: triad_hub
 slug: venus-jupiter-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Jupiter
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Jupiter Hades`
 - Astronomicon triad-set: `Q V ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Hades = Venus](../activations/jupiter-hades-equals-venus.md)
-  Source page `212`
 - [Venus/Hades = Jupiter](../activations/venus-hades-equals-jupiter.md)
-  Source page `183`
 - [Venus/Jupiter = Hades](../activations/venus-jupiter-equals-hades.md)
-  Source page `177`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Hades = Venus`: page `212`
-- `Venus/Hades = Jupiter`: page `183`
-- `Venus/Jupiter = Hades`: page `177`
+- `Jupiter/Hades = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `212`
+- `Jupiter/Hades = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `334`
+- `Venus/Hades = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `183`
+- `Venus/Hades = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `284`
+- `Venus/Jupiter = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `177`
+- `Venus/Jupiter = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `273`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Hades = Venus`: indulgent or degraded love expression, favors received while on duty, and fine arts lacking success.
+- `Venus/Hades = Jupiter`: pleasant and happy service relations.
+- `Venus/Jupiter = Hades`: love’s happiness in secrecy.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Jupiter](../factors/jupiter.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

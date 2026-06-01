@@ -3,7 +3,7 @@ title: Sun Cupido Vulcanus
 page_type: triad_hub
 slug: sun-cupido-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Cupido Vulcanus`
 - Astronomicon triad-set: `S ¡ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Vulcanus = Sun](../activations/cupido-vulcanus-equals-sun.md)
-  Source page `273`
 - [Sun/Cupido = Vulcanus](../activations/sun-cupido-equals-vulcanus.md)
-  Source page `111`
 - [Sun/Vulcanus = Cupido](../activations/sun-vulcanus-equals-cupido.md)
-  Source page `117`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Vulcanus = Sun`: page `273`
-- `Sun/Cupido = Vulcanus`: page `111`
-- `Sun/Vulcanus = Cupido`: page `117`
+- `Cupido/Vulcanus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `273`
+- `Cupido/Vulcanus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `434`
+- `Sun/Cupido = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `111`
+- `Sun/Cupido = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `159`
+- `Sun/Vulcanus = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `117`
+- `Sun/Vulcanus = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `171`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Vulcanus = Sun`: being a member of a powerful community, days of great artistic production, and a person whose art carries real influence.
+- `Sun/Cupido = Vulcanus`: This formula emphasizes strong family bonds and energetic community.
+- `Sun/Vulcanus = Cupido`: This formula emphasizes strong family bonds and forceful community cohesion.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Cupido](../factors/cupido.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

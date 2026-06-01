@@ -3,7 +3,7 @@ title: Uranus/Poseidon = Vulcanus
 page_type: activation
 slug: uranus-poseidon-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Vulcanus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Poseidon`
-- Source page: `243`
 #### Witte Entry
 
 Forceful insight and clear sight. To be a great mental stimulant. To create mental tenseness. To draw mighty attention.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Forceful insight and clear sight. To be a great mental stimulant. To create mental tenseness. To draw mighty attention.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dynamic spiritual power, influence of technical ideas, influence of culture and technology, influential new ideas, spiritual energy impulses, powerful emanation of culture, nervousness through mental violence, new spiritual energies, and surprising cognition force
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Poseidon = Vulcanus`: Forceful insight and clear sight. To be a great mental stimulant. To create mental tenseness. To draw mighty attention.
+- Practical expression: dynamic spiritual power, influence of technical ideas, influence of culture, technology, and influential new ideas.
 
 ## Links
 
@@ -61,3 +56,5 @@ Forceful insight and clear sight. To be a great mental stimulant. To create ment
 - [Poseidon](../factors/poseidon.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Uranus/Poseidon](../axes/uranus-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Zeus/Poseidon = Uranus
 page_type: activation
 slug: zeus-poseidon-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Zeus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Poseidon`
-- Source page: `296`
 #### Witte Entry
 
 To suddenly take up or to receive a document, certificate or license. By surprise to prove, to witness or clarify something.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To suddenly take up or to receive a document, certificate or license. By surprise to prove, to witness or clarify something.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dynamic technical achievements, arousing truth testimony, spiritual direction impulses, shaping a cultural event, clear cultural goals, new clear goals, new cultural achievements, suddenly beginning knowledge, and restless fiery spirit
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Poseidon = Uranus`: To suddenly take up or to receive a document, certificate or license. By surprise to prove, to witness or clarify something.
+- Practical expression: dynamic technical achievements, arousing truth testimony, spiritual direction impulses, shaping a cultural event, and clear cultural goals.
 
 ## Links
 
@@ -61,3 +56,5 @@ To suddenly take up or to receive a document, certificate or license. By surpris
 - [Poseidon](../factors/poseidon.md)
 - [Uranus](../factors/uranus.md)
 - [Zeus/Poseidon](../axes/zeus-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

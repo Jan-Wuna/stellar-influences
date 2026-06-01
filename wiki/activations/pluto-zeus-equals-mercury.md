@@ -3,7 +3,7 @@ title: Pluto/Zeus = Mercury
 page_type: activation
 slug: pluto-zeus-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Pluto
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Zeus`
-- Source page: `259`
 #### Witte Entry
 
 To be at work with one’s thoughts. To direct one’s thoughts to one goal.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be at work with one’s thoughts. To direct one’s thoughts to one goal.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful traffic development, reports on creative developments, youth development design, creative development language, beginning developments talk, opinions on filthy change, and changing media objectives
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Zeus = Mercury`: to be at work with one’s thoughts; To direct one’s thoughts to one goal.
+- Practical expression: effortful traffic development, reports on creative developments, youth development design, creative development language, and beginning developments talk.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be at work with one’s thoughts. To direct one’s thoughts to one goal.
 - [Zeus](../factors/zeus.md)
 - [Mercury](../factors/mercury.md)
 - [Pluto/Zeus](../axes/pluto-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

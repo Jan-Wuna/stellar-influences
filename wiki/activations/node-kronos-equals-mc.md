@@ -3,7 +3,7 @@ title: Node/Kronos = MC
 page_type: activation
 slug: node-kronos-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - MC
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Kronos`
-- Source page: `152`
 #### Witte Entry
 
 A leader among leading men. Connected with leading men. Professional intercourse with the authorities.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A leader among leading men. Connected with leading men. Professional intercourse with the authorities.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special scelic connection, my self confidence in a connection, my respectable connection, my authority contacts, my dominance in contacts, my connection to the Chet: my connections to the state, and psychic great in a relationship
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Kronos = MC`: A leader among leading men. Connected with leading men. Professional intercourse with the authorities.
+- Practical focus: a leader among leading men; also connected with leading men.
 
 ## Links
 
@@ -61,3 +56,5 @@ A leader among leading men. Connected with leading men. Professional intercourse
 - [Kronos](../factors/kronos.md)
 - [MC](../factors/mc.md)
 - [Node/Kronos](../axes/node-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

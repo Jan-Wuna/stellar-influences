@@ -3,7 +3,7 @@ title: Vernal Point/Asc = MC
 page_type: activation
 slug: vernal-point-asc-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Asc
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Asc
   - MC
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Asc`
-- Source page: `36`
 #### Witte Entry
 
 The influences of the place on the professional position. Business connections.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The influences of the place on the professional position. Business connections.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Others and I in public, animated public environment, animated public partner life, my place in public, my public partner life, and my environment is the public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Asc = MC`: the influences of the place on the professional position and business connections.
+- Practical expression: others, i in public, animated public environment, animated public partner life, and my place in public.
 
 ## Links
 
@@ -61,3 +56,5 @@ The influences of the place on the professional position. Business connections.
 - [Asc](../factors/asc.md)
 - [MC](../factors/mc.md)
 - [Vernal Point/Asc](../axes/vernal-point-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

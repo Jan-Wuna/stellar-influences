@@ -3,7 +3,7 @@ title: Mercury MC Zeus
 page_type: triad_hub
 slug: mercury-mc-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury MC Zeus`
 - Astronomicon triad-set: `T MC £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Zeus = Mercury](../activations/mc-zeus-equals-mercury.md)
-  Source page `72`
 - [Mercury/MC = Zeus](../activations/mercury-mc-equals-zeus.md)
-  Source page `62`
 - [Mercury/Zeus = MC](../activations/mercury-zeus-equals-mc.md)
-  Source page `168`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Zeus = Mercury`: page `72`
-- `Mercury/MC = Zeus`: page `62`
-- `Mercury/Zeus = MC`: page `168`
+- `MC/Zeus = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `72`
+- `MC/Zeus = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `88`
+- `Mercury/MC = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `62`
+- `Mercury/MC = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `69`
+- `Mercury/Zeus = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `168`
+- `Mercury/Zeus = MC`: Udo Rudolph - ABC for Planetary Pictures, page `258`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Zeus = Mercury`: translates the axis into creative thought, proposals, and continual new starts.
+- `Mercury/MC = Zeus`: directs the axis into self-restraint and planned action.
+- `Mercury/Zeus = MC`: To outdo oneself. To heed a command.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [MC](../factors/mc.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

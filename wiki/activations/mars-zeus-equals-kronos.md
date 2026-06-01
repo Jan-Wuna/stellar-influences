@@ -3,7 +3,7 @@ title: Mars/Zeus = Kronos
 page_type: activation
 slug: mars-zeus-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Zeus
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Zeus`
-- Source page: `199`
 #### Witte Entry
 
 Master in activity. The machinist (boss). Leader of military detachment. Energetic work is encouraged by the authorities.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Master in activity. The machinist (boss). Leader of military detachment. Energetic work is encouraged by the authorities.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Efforts of the State, special will benefits, special creative power, self sustaining filthy activity, state work benefits, state filthy work, important filthy activity, and determined actions of the chief
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Zeus = Kronos` raises the axis into mastery, command, and officially backed technical leadership.
+- Chart expression: authoritative execution, leadership over machinery or armed effort, and goal-oriented work strengthened by rank, title, or institutional support.
 
 ## Links
 
@@ -61,3 +56,5 @@ Master in activity. The machinist (boss). Leader of military detachment. Energet
 - [Zeus](../factors/zeus.md)
 - [Kronos](../factors/kronos.md)
 - [Mars/Zeus](../axes/mars-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

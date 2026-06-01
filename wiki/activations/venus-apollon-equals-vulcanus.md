@@ -3,7 +3,7 @@ title: Venus/Apollon = Vulcanus
 page_type: activation
 slug: venus-apollon-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Apollon
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Apollon`
-- Source page: `186`
 #### Witte Entry
 
 Unquestionably reliable friends. Successes in the arts, sciences or economics.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Unquestionably reliable friends. Successes in the arts, sciences or economics.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Experience the power of love, successful influence of the artist, successful peace power, powerful peace art, power of artistic freedom, powerful freedom love, preference for the influence of science, and increasing influence of love
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Apollon = Vulcanus`: unquestionably reliable friends.
+- Practical expression: experience the power of love, successful influence of the artist, successful peace power, powerful peace art, and power of artistic freedom.
 
 ## Links
 
@@ -61,3 +56,5 @@ Unquestionably reliable friends. Successes in the arts, sciences or economics.
 - [Apollon](../factors/apollon.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Venus/Apollon](../axes/venus-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

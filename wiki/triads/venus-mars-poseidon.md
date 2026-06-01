@@ -3,7 +3,7 @@ title: Venus Mars Poseidon
 page_type: triad_hub
 slug: venus-mars-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Mars
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Mars Poseidon`
 - Astronomicon triad-set: `Q U ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Poseidon = Venus](../activations/mars-poseidon-equals-venus.md)
-  Source page `204`
 - [Venus/Mars = Poseidon](../activations/venus-mars-equals-poseidon.md)
-  Source page `176`
 - [Venus/Poseidon = Mars](../activations/venus-poseidon-equals-mars.md)
-  Source page `189`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Poseidon = Venus`: page `204`
-- `Venus/Mars = Poseidon`: page `176`
-- `Venus/Poseidon = Mars`: page `189`
+- `Mars/Poseidon = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `204`
+- `Mars/Poseidon = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `322`
+- `Venus/Mars = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `176`
+- `Venus/Mars = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `271`
+- `Venus/Poseidon = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `189`
+- `Venus/Poseidon = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `296`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Poseidon = Venus`: creates intimate bonds through shared mental, moral, or philosophical outlook.
+- `Venus/Mars = Poseidon`: platonic love.
+- `Venus/Poseidon = Mars`: religious activities.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Mars](../factors/mars.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

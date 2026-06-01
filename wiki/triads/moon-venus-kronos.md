@@ -3,7 +3,7 @@ title: Moon Venus Kronos
 page_type: triad_hub
 slug: moon-venus-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Venus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Venus Kronos`
 - Astronomicon triad-set: `R Q ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Kronos = Venus](../activations/moon-kronos-equals-venus.md)
-  Source page `133`
 - [Moon/Venus = Kronos](../activations/moon-venus-equals-kronos.md)
-  Source page `123`
 - [Venus/Kronos = Moon](../activations/venus-kronos-equals-moon.md)
-  Source page `185`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Kronos = Venus`: page `133`
-- `Moon/Venus = Kronos`: page `123`
-- `Venus/Kronos = Moon`: page `185`
+- `Moon/Kronos = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `133`
+- `Moon/Kronos = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `198`
+- `Moon/Venus = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `123`
+- `Moon/Venus = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `179`
+- `Venus/Kronos = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `185`
+- `Venus/Kronos = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `288`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Kronos = Venus`: Charitable. Treated well by officials. Philanthropist (female). Female officials. Pleasant connections with officials and boards.
+- `Moon/Venus = Kronos`: This activation elevates `Moon/Venus` through dignified motherhood, socially recognized partnership, and female leadership. It suggests affection and nurture carrying status, influence, or exemplary force within a household or movement.
+- `Venus/Kronos = Moon`: sacrificing, benevolent woman.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Venus](../factors/venus.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

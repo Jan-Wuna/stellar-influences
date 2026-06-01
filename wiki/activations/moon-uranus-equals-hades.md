@@ -3,7 +3,7 @@ title: Moon/Uranus = Hades
 page_type: activation
 slug: moon-uranus-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Uranus
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Uranus`
-- Source page: `127`
 #### Witte Entry
 
 Excitement about malice. Violent woman. Murderess. Violent mob.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Excitement about malice. Violent woman. Murderess. Violent mob.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Excitement by GemOt's heart, disadvantage of a nervous woman, criminal technique of a people, new deprivations for the people, new criminality in the people, sudden silence for a woman, and unrest by a people reform
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Uranus = Hades`: Excitement about malice. Violent woman. Murderess. Violent mob.
+- Practical focus: degrades `Moon/Uranus` into violent excitement, malicious agitation, and socially destructive unrest. It points to emotionally charged shock turning ugly, with disturbance becoming cruel, dangerous, or mob-like rather than liberating.
+- Practical expression: excitement by GemOt's heart, disadvantage of a nervous woman, criminal technique of a people, new deprivations for the people, and new criminality in the people.
 
 ## Links
 
@@ -61,3 +57,5 @@ Excitement about malice. Violent woman. Murderess. Violent mob.
 - [Uranus](../factors/uranus.md)
 - [Hades](../factors/hades.md)
 - [Moon/Uranus](../axes/moon-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

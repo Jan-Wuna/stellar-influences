@@ -3,7 +3,7 @@ title: Vernal Point Jupiter Vulcanus
 page_type: triad_hub
 slug: vernal-point-jupiter-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Jupiter
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Jupiter Vulcanus`
 - Astronomicon triad-set: `VP V §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Vulcanus = Vernal Point](../activations/jupiter-vulcanus-equals-vernal-point.md)
-  Source page `217`
 - [Vernal Point/Jupiter = Vulcanus](../activations/vernal-point-jupiter-equals-vulcanus.md)
-  Source page `43`
 - [Vernal Point/Vulcanus = Jupiter](../activations/vernal-point-vulcanus-equals-jupiter.md)
-  Source page `54`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Vulcanus = Vernal Point`: page `217`
-- `Vernal Point/Jupiter = Vulcanus`: page `43`
-- `Vernal Point/Vulcanus = Jupiter`: page `54`
+- `Jupiter/Vulcanus = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `217`
+- `Jupiter/Vulcanus = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `344`
+- `Vernal Point/Jupiter = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `43`
+- `Vernal Point/Jupiter = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `35`
+- `Vernal Point/Vulcanus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `54`
+- `Vernal Point/Vulcanus = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `56`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Vulcanus = Vernal Point`: general confidence, broad encouragement, and prosperity or trust that becomes publicly noticeable or widely distributed.
+- `Vernal Point/Jupiter = Vulcanus`: This formula emphasizes great success in general things or matters and general optimism.
+- `Vernal Point/Vulcanus = Jupiter`: This formula emphasizes great fortune, power through possessions, financial power, and powerful justice.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Jupiter](../factors/jupiter.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

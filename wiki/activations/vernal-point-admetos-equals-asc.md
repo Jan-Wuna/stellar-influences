@@ -3,7 +3,7 @@ title: Vernal Point/Admetos = Asc
 page_type: activation
 slug: vernal-point-admetos-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Asc
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Admetos`
-- Source page: `53`
 #### Witte Entry
 
 Connections and ties to home. Strong resistance in the environment. Strong resistance from another person nearby.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Connections and ties to home. Strong resistance in the environment. Strong resistance from another person nearby.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Deprimicrter partner in the public, restricted public environment, strengthening of the partner in the public life, public blockade on the spot, public environment undertaking, and public resistance on the spot
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Admetos = Asc`: connections and ties to home, strong resistance in the environment, and strong resistance from another person nearby.
+- Practical expression: deprimicrter partner in the public, restricted public environment, strengthening of the partner in the public life, public blockade on the spot, and public environment undertaking.
 
 ## Links
 
@@ -61,3 +56,5 @@ Connections and ties to home. Strong resistance in the environment. Strong resis
 - [Admetos](../factors/admetos.md)
 - [Asc](../factors/asc.md)
 - [Vernal Point/Admetos](../axes/vernal-point-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

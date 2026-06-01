@@ -3,7 +3,7 @@ title: Neptune/Poseidon = Mercury
 page_type: activation
 slug: neptune-poseidon-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Neptune
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Poseidon`
-- Source page: `254`
 #### Witte Entry
 
 Thoughts about fine mental things, debates about them. To accept thoughts intuitively. Wrong information or insights.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Thoughts about fine mental things, debates about them. To accept thoughts intuitively. Wrong information or insights.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Movement in clear water, insight and subtlety of youth, exchangeable truth in youth, thoughts on the spirit of the future, meetings in clear air, refinement of language culture, reason weakness in traffic, and truth exchange messages
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Poseidon = Mercury`: Thoughts about fine mental things, debates about them. To accept thoughts intuitively. Wrong information or insights.
+- Practical focus: mentalizes refined and subtle concerns through intuitive thought and debate, while making wrong insights or misleading information especially easy to absorb.
+- Practical expression: movement in clear water, insight, subtlety of youth, exchangeable truth in youth, and thoughts on the spirit of the future.
 
 ## Links
 
@@ -61,3 +57,5 @@ Thoughts about fine mental things, debates about them. To accept thoughts intuit
 - [Poseidon](../factors/poseidon.md)
 - [Mercury](../factors/mercury.md)
 - [Neptune/Poseidon](../axes/neptune-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

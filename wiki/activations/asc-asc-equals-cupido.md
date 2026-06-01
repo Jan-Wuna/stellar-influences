@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Asc + Asc`
-- Source page: `79`
 #### Witte Entry
 
 The parental home. Family following. The apartment. The home. Houses. Dwellings. Social connections. Other people are united. Business partnership. Acquaintance with artists. Common endeavors. Family ties. The conditions that are present where one resides. Relations with group members. The outer appearance of the family, association or group.
 
-## Comparative Schema
-
-- core meaning: The parental home. Family following. The apartment. The home. Houses. Dwellings. Social connections. Other people are united. Business partnership. Acquaintance with artists. Common endeavors. Family ties. The conditions that are present where one resides. Relations with group members. The outer appearance of the family, association or group.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Asc = Cupido`: home-centered belonging, social bonding, and local group life that defines the near field. Main caution: enclosure by group identity: family or association can dominate the environment and reduce individual freedom within it.
 
 ## Links
 

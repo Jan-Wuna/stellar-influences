@@ -3,7 +3,7 @@ title: Saturn/Cupido = Venus
 page_type: activation
 slug: saturn-cupido-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Saturn
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Cupido`
-- Source page: `224`
 #### Witte Entry
 
 Conference. Joy over a temporary union. Grief through divorce.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Conference. Joy over a temporary union. Grief through divorce.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+serious love for the arts, joy in common task, shared love community, shared peace tasks, common love problems, harmony storings in of a community, and concentration on the harmony of the whole
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Cupido = Venus`: conference, joy over a temporary union, grief through divorce.
+- Practical expression: serious love for the arts, oy in common task, shared love community, shared peace tasks, and common love problems.
 
 ## Links
 
@@ -61,3 +56,5 @@ Conference. Joy over a temporary union. Grief through divorce.
 - [Cupido](../factors/cupido.md)
 - [Venus](../factors/venus.md)
 - [Saturn/Cupido](../axes/saturn-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

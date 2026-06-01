@@ -3,7 +3,7 @@ title: Mercury Neptune Kronos
 page_type: triad_hub
 slug: mercury-neptune-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Neptune
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Neptune Kronos`
 - Astronomicon triad-set: `T Y ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Kronos = Neptune](../activations/mercury-kronos-equals-neptune.md)
-  Source page `169`
 - [Mercury/Neptune = Kronos](../activations/mercury-neptune-equals-kronos.md)
-  Source page `164`
 - [Neptune/Kronos = Mercury](../activations/neptune-kronos-equals-mercury.md)
-  Source page `250`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Kronos = Neptune`: page `169`
-- `Mercury/Neptune = Kronos`: page `164`
-- `Neptune/Kronos = Mercury`: page `250`
+- `Mercury/Kronos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `169`
+- `Mercury/Kronos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `261`
+- `Mercury/Neptune = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `164`
+- `Mercury/Neptune = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `251`
+- `Neptune/Kronos = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `250`
+- `Neptune/Kronos = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `398`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Kronos = Neptune`: softens the axis into rhetorical gift but uncertain state direction.
+- `Mercury/Neptune = Kronos`: elevates the axis into rich theory and fine intuition.
+- `Neptune/Kronos = Mercury`: This activation mentalizes compromised authority through grand but impracticable ideas, where inventive thinking can be high-reaching yet difficult to implement in workable form.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Neptune](../factors/neptune.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

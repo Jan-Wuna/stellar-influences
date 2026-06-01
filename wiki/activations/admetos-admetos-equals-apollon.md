@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Admetos + Admetos`
-- Source page: `310`
 #### Witte Entry
 
 The feeling of satisfaction. Contentment. Satiety. To be saturated. Stagnation or standstill in trade, handicraft, commerce, industry or science. Science in a small circle, for only a few. Exclusive scientific circle. The few, the small circle. The exclusive circle.
 
-## Comparative Schema
-
-- core meaning: The feeling of satisfaction. Contentment. Satiety. To be saturated. Stagnation or standstill in trade, handicraft, commerce, industry or science. Science in a small circle, for only a few. Exclusive scientific circle. The few, the small circle. The exclusive circle.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Admetos/Admetos = Apollon`: specialized knowledge, closed expert circles, and contentment within a very narrow field. Main caution: insular stagnation: growth spreads only within a sealed circle, leaving commerce, study, or exchange static and self-contained.
 
 ## Links
 

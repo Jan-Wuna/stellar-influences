@@ -3,7 +3,7 @@ title: Neptune/Vulcanus = Sun
 page_type: activation
 slug: neptune-vulcanus-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Neptune
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Vulcanus`
-- Source page: `253`
 #### Witte Entry
 
 Great physical delicacy (of feelings). To be physically without strength, to succumb. The man who feels weak and without spirit, who does not want to or cannot pull himself together.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great physical delicacy (of feelings). To be physically without strength, to succumb. The man who feels weak and without spirit, who does not want to or cannot pull himself together.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+influential person in the air, subtle energy of a person, tremendous personal deception, powerful uncertainty of a person, personal negation of force, strong personal intuition, and unknown personal influence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Vulcanus = Sun`: Great physical delicacy (of feelings). To be physically without strength, to succumb. The man who feels weak and without spirit, who does not want to or cannot pull himself together.
+- The core vitality is portrayed as physically and emotionally weakened, with strength, morale, or the ability to rally oneself markedly diminished.
+- Practical expression: influential person in the air, subtle energy of a person, tremendous personal deception, powerful uncertainty of a person, and personal negation of force.
 
 ## Links
 
@@ -61,3 +57,5 @@ Great physical delicacy (of feelings). To be physically without strength, to suc
 - [Vulcanus](../factors/vulcanus.md)
 - [Sun](../factors/sun.md)
 - [Neptune/Vulcanus](../axes/neptune-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

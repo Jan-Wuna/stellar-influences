@@ -3,7 +3,7 @@ title: Vernal Point Moon Jupiter
 page_type: triad_hub
 slug: vernal-point-moon-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Moon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Moon Jupiter`
 - Astronomicon triad-set: `VP R V`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Jupiter = Vernal Point](../activations/moon-jupiter-equals-vernal-point.md)
-  Source page `125`
 - [Vernal Point/Jupiter = Moon](../activations/vernal-point-jupiter-equals-moon.md)
-  Source page `43`
 - [Vernal Point/Moon = Jupiter](../activations/vernal-point-moon-equals-jupiter.md)
-  Source page `38`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Jupiter = Vernal Point`: page `125`
-- `Vernal Point/Jupiter = Moon`: page `43`
-- `Vernal Point/Moon = Jupiter`: page `38`
+- `Moon/Jupiter = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `125`
+- `Moon/Jupiter = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `182`
+- `Vernal Point/Jupiter = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `43`
+- `Vernal Point/Jupiter = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `34`
+- `Vernal Point/Moon = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `38`
+- `Vernal Point/Moon = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `24`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Jupiter = Vernal Point`: This activation externalizes `Moon/Jupiter` into visible good fortune, general uplift, and publicly recognizable contentment. It points to happy periods, beneficial change, and a wider atmosphere of ease, making emotional abundance more collective, social, and immediately noticeable in the world.
+- `Vernal Point/Jupiter = Moon`: This formula emphasizes happiness of a woman, fortunate with the public, and lucky hours.
+- `Vernal Point/Moon = Jupiter`: This formula emphasizes happiness of women and happy populace.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Moon](../factors/moon.md)
 - [Jupiter](../factors/jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

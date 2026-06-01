@@ -3,7 +3,7 @@ title: Mercury Apollon Admetos
 page_type: triad_hub
 slug: mercury-apollon-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Apollon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Apollon Admetos`
 - Astronomicon triad-set: `T ¥ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Apollon/Admetos = Mercury](../activations/apollon-admetos-equals-mercury.md)
-  Source page `306`
 - [Mercury/Admetos = Apollon](../activations/mercury-admetos-equals-apollon.md)
-  Source page `171`
 - [Mercury/Apollon = Admetos](../activations/mercury-apollon-equals-admetos.md)
-  Source page `170`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Apollon/Admetos = Mercury`: page `306`
-- `Mercury/Admetos = Apollon`: page `171`
-- `Mercury/Apollon = Admetos`: page `170`
+- `Apollon/Admetos = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `306`
+- `Apollon/Admetos = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `468`
+- `Mercury/Admetos = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `171`
+- `Mercury/Admetos = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `265`
+- `Mercury/Apollon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `170`
+- `Mercury/Apollon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `263`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Apollon/Admetos = Mercury`: talking about one's satisfaction and mentally dwelling on settled, sufficient conditions.
+- `Mercury/Admetos = Apollon`: widens the axis only to meet broad refusal and non-acceptance.
+- `Mercury/Apollon = Admetos`: narrows the axis into specialist thought that struggles to be received or understood.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Apollon](../factors/apollon.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: MC/Vulcanus = Mercury
 page_type: activation
 slug: mc-vulcanus-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - MC
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Vulcanus`
-- Source page: `76`
 #### Witte Entry
 
 Strong thinking activity. Great agility and activity of thoughts. Psychically impressed by mental power.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Strong thinking activity. Great agility and activity of thoughts. Psychically impressed by mental power.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influence of my thoughts, violence of the media language, speech about psychic energy, my movement energy, my energy in youth, my speech violence, my strong thoughts, news about psychic violence, and psychic strength in youth
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Vulcanus = Mercury` mentalizes the axis into strong and agile thought activity.
+- Chart expression: rapid forceful thinking, mental vigor, and a psyche impressed or shaped by the experience of strong ideas and commanding intellectual movement.
 
 ## Links
 
@@ -61,3 +56,5 @@ Strong thinking activity. Great agility and activity of thoughts. Psychically im
 - [Vulcanus](../factors/vulcanus.md)
 - [Mercury](../factors/mercury.md)
 - [MC/Vulcanus](../axes/mc-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

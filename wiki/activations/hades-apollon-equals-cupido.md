@@ -3,7 +3,7 @@ title: Hades/Apollon = Cupido
 page_type: activation
 slug: hades-apollon-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Cupido
   - Hades
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Apollon`
-- Source page: `280`
 #### Witte Entry
 
 To begin or to end the time of great emergency. The development of occult abilities.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To begin or to end the time of great emergency. The development of occult abilities.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Success through shared deprivations, successful skills of the past, dangerous freedom of the community, secret knowledge of a community, lack of common knowledge, adverse common experiences, and hidden trade community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Apollon = Cupido`: associations forming around crisis, secrecy, or hidden study as people bond through shared hardship or occult interest. Main caution: turning emergency or secrecy into the basis of belonging.
 
 ## Links
 
@@ -61,3 +55,5 @@ To begin or to end the time of great emergency. The development of occult abilit
 - [Apollon](../factors/apollon.md)
 - [Cupido](../factors/cupido.md)
 - [Hades/Apollon](../axes/hades-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

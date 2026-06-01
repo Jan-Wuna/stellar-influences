@@ -3,7 +3,7 @@ title: Asc/Admetos = Vulcanus
 page_type: activation
 slug: asc-admetos-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - Admetos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Admetos`
-- Source page: `96`
 #### Witte Entry
 
 The respect and rating one has at the place. Others are told to keep within bounds. To take one’s chance in a trial of strength or showdown.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The respect and rating one has at the place. Others are told to keep within bounds. To take one’s chance in a trial of strength or showdown.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Strengthen the energy of the partner by violence depressing partners, strengthen energy and perseverance of the others, restrict local violence, restrict energy by others, restrict power in the environment, and influence of partners
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Admetos = Vulcanus`: strong local authority, controlled boundaries, and showdowns that determine who holds ground and who yields. Main caution: coercive settlement: fixed environment can become a pressure field where respect is enforced by force rather than earned naturally.
 
 ## Links
 
@@ -61,3 +55,5 @@ The respect and rating one has at the place. Others are told to keep within boun
 - [Admetos](../factors/admetos.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Asc/Admetos](../axes/asc-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

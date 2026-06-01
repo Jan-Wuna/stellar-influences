@@ -3,7 +3,7 @@ title: Venus/Pluto = Zeus
 page_type: activation
 slug: venus-pluto-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Pluto
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Pluto`
-- Source page: `181`
 #### Witte Entry
 
 Good progress of current matters. A favorable developing pregnancy. Ripening fruits and fine prospects for the harvest. Forced consideration.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Good progress of current matters. A favorable developing pregnancy. Ripening fruits and fine prospects for the harvest. Forced consideration.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Beginning of a harmonious development, beginning of peace development, harmonious performance development, developing creative arts, unfolding love fire, transforming a fiery love, developing preference for performance, and growth through love denial
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Pluto = Zeus`: good progress of current matters.
+- Practical expression: beginning of a harmonious development, beginning of peace development, harmonious performance development, developing creative arts, and unfolding love fire.
 
 ## Links
 
@@ -61,3 +56,5 @@ Good progress of current matters. A favorable developing pregnancy. Ripening fru
 - [Pluto](../factors/pluto.md)
 - [Zeus](../factors/zeus.md)
 - [Venus/Pluto](../axes/venus-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

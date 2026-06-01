@@ -3,7 +3,7 @@ title: Venus/Apollon = Hades
 page_type: activation
 slug: venus-apollon-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Hades
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Apollon`
-- Source page: `186`
 #### Witte Entry
 
 Friendship with servants and serving people. Vulgar art and science. To make art and science popular. Layman’s art. Lay science. Art and science of antiquity or the past.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Friendship with servants and serving people. Vulgar art and science. To make art and science popular. Layman’s art. Lay science. Art and science of antiquity or the past.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Success through love forgotten, silence through freedom love, danger through commercial love, criminality in arts and trade, criminal arts trade, love kummer experience, tendency to dangerous trade, and art from the past
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Apollon = Hades`: friendship with servants and serving people.
+- Practical expression: success through love forgotten, silence through freedom love, danger through commercial love, criminality in arts, and trade.
 
 ## Links
 
@@ -61,3 +56,5 @@ Friendship with servants and serving people. Vulgar art and science. To make art
 - [Apollon](../factors/apollon.md)
 - [Hades](../factors/hades.md)
 - [Venus/Apollon](../axes/venus-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

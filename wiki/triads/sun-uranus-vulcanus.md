@@ -3,7 +3,7 @@ title: Sun Uranus Vulcanus
 page_type: triad_hub
 slug: sun-uranus-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Uranus
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Uranus Vulcanus`
 - Astronomicon triad-set: `S X §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Sun/Uranus = Vulcanus](../activations/sun-uranus-equals-vulcanus.md)
-  Source page `108`
 - [Sun/Vulcanus = Uranus](../activations/sun-vulcanus-equals-uranus.md)
-  Source page `117`
 - [Uranus/Vulcanus = Sun](../activations/uranus-vulcanus-equals-sun.md)
-  Source page `242`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Sun/Uranus = Vulcanus`: page `108`
-- `Sun/Vulcanus = Uranus`: page `117`
-- `Uranus/Vulcanus = Sun`: page `242`
+- `Sun/Uranus = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `108`
+- `Sun/Uranus = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `153`
+- `Sun/Vulcanus = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `117`
+- `Sun/Vulcanus = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `171`
+- `Uranus/Vulcanus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `242`
+- `Uranus/Vulcanus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `386`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Sun/Uranus = Vulcanus`: This formula emphasizes explosive force and powerful disruption.
+- `Sun/Vulcanus = Uranus`: This formula emphasizes extraordinary strength and to apply force suddenly.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Uranus](../factors/uranus.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

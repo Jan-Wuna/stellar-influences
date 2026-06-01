@@ -3,7 +3,7 @@ title: Sun/Pluto = Vernal Point
 page_type: activation
 slug: sun-pluto-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Sun
   - Pluto
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Pluto`
-- Source page: `110`
 #### Witte Entry
 
 The nutrition and mode of life in general.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The nutrition and mode of life in general.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+developmental center in public life, change of the year in public, human transformations in public life, changes of persons in public, and personal changes in public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Pluto = Vernal Point`: changed surroundings and transformation through circumstance.
+- Practical expression: developmental center in public life, change of the year in public, human transformations in public life, changes of persons in public, and personal changes in public life.
 
 ## Links
 
@@ -61,3 +56,5 @@ The nutrition and mode of life in general.
 - [Pluto](../factors/pluto.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Sun/Pluto](../axes/sun-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

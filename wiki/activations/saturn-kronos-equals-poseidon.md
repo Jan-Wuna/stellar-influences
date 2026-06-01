@@ -3,7 +3,7 @@ title: Saturn/Kronos = Poseidon
 page_type: activation
 slug: saturn-kronos-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Kronos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Kronos`
-- Source page: `227`
 #### Witte Entry
 
 Measures of education taken by the state, to submit to such measures.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Measures of education taken by the state, to submit to such measures.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+serious cultural authorship, intellectual authorship in old age, local culture in the state, recognition of great tasks, concentration on the authorship of truth, problems of a state with the truth, loss of spiritual self reliance, and important spiritual tasks
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Kronos = Poseidon`: measures of education taken by the state, to submit to such measures.
+- Practical expression: serious cultural authorship, intellectual authorship in old age, local culture in the state, recognition of great tasks, and concentration on the authorship of truth.
 
 ## Links
 
@@ -61,3 +56,5 @@ Measures of education taken by the state, to submit to such measures.
 - [Kronos](../factors/kronos.md)
 - [Poseidon](../factors/poseidon.md)
 - [Saturn/Kronos](../axes/saturn-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Moon Venus`
 - Astronomicon triad-set: `S R Q`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,19 +40,27 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Moon/Venus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `123`
+- `Moon/Venus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `178`
 - `Moon/Venus = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `117`
 - `Moon/Venus = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `27`
+- `Moon/Venus = Sun`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `108`
 - `Sun/Moon = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `101`
+- `Sun/Moon = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `138`
 - `Sun/Moon = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `78`
 - `Sun/Moon = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `6`
+- `Sun/Moon = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `56`
 - `Sun/Venus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `104`
+- `Sun/Venus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `144`
 - `Sun/Venus = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `84`
 - `Sun/Venus = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `10`
+- `Sun/Venus = Moon`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `64`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Venus = Sun`: channels the tender, receptive love of the Moon/Venus axis through the Sun, making affection more vital, visible, intentional, and identity-forming. It points to relational warmth that wants to express itself openly and to care that becomes central to purpose or selfhood.
+- `Sun/Moon = Venus`: love, attraction, appreciation, and relational ease as the factor that completes or sweetens the life-balance between the two luminaries.
+- `Sun/Venus = Moon`: channels the love-and-value axis through the Moon, so affection, charm, and beauty become emotionally felt, embodied, and security-seeking. The emphasis is on being in love, needing tenderness, and experiencing beauty or relationship as nourishment.
 
 ## Links
 
@@ -59,5 +68,7 @@ updated_at: 2026-04-22
 - [Moon](../factors/moon.md)
 - [Venus](../factors/venus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

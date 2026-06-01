@@ -3,7 +3,7 @@ title: Vernal Point Jupiter Node
 page_type: triad_hub
 slug: vernal-point-jupiter-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Jupiter
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Jupiter Node`
 - Astronomicon triad-set: `VP V g`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Node = Vernal Point](../activations/jupiter-node-equals-vernal-point.md)
-  Source page `144`
 - [Vernal Point/Jupiter = Node](../activations/vernal-point-jupiter-equals-node.md)
-  Source page `43`
 - [Vernal Point/Node = Jupiter](../activations/vernal-point-node-equals-jupiter.md)
-  Source page `39`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Node = Vernal Point`: page `144`
-- `Vernal Point/Jupiter = Node`: page `43`
-- `Vernal Point/Node = Jupiter`: page `39`
+- `Jupiter/Node = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `144`
+- `Jupiter/Node = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `214`
+- `Vernal Point/Jupiter = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `43`
+- `Vernal Point/Jupiter = Node`: Udo Rudolph - ABC for Planetary Pictures, page `34`
+- `Vernal Point/Node = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `39`
+- `Vernal Point/Node = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `26`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Node = Vernal Point`: good relationships in the public sphere and ties to public funds or public justice.
+- `Vernal Point/Jupiter = Node`: This formula emphasizes good fortune in partnerships, happy relationships in general, opportunities through ochers, and successful through connections.
+- `Vernal Point/Node = Jupiter`: This formula emphasizes happy companionship with others and successful in the general public with others.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Jupiter](../factors/jupiter.md)
 - [Node](../factors/node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

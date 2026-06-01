@@ -3,7 +3,7 @@ title: Cupido Zeus Kronos
 page_type: triad_hub
 slug: cupido-zeus-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Zeus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Cupido Zeus Kronos`
 - Astronomicon triad-set: `¡ £ ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Kronos = Zeus](../activations/cupido-kronos-equals-zeus.md)
-  Source page `269`
 - [Cupido/Zeus = Kronos](../activations/cupido-zeus-equals-kronos.md)
-  Source page `268`
 - [Zeus/Kronos = Cupido](../activations/zeus-kronos-equals-cupido.md)
-  Source page `289`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Kronos = Zeus`: page `269`
-- `Cupido/Zeus = Kronos`: page `268`
-- `Zeus/Kronos = Cupido`: page `289`
+- `Cupido/Kronos = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `269`
+- `Cupido/Kronos = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `429`
+- `Cupido/Zeus = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `268`
+- `Cupido/Zeus = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `427`
+- `Zeus/Kronos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `289`
+- `Zeus/Kronos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `451`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Kronos = Zeus`: large cooperative achievement, honors from authority, mechanical or engineered art, brilliant military success, and union among nations.
+- `Cupido/Zeus = Kronos`: great artistic creations with others, state-protected companies, comradeship, united troops, and formal military organization.
+- `Zeus/Kronos = Cupido`: Creator in art. To put new life into art. Creative art subsidized by the state.
 
 ## Links
 
 - [Cupido](../factors/cupido.md)
 - [Zeus](../factors/zeus.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

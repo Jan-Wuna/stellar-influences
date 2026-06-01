@@ -3,7 +3,7 @@ title: Vernal Point/Admetos = Jupiter
 page_type: activation
 slug: vernal-point-admetos-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Jupiter
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Admetos`
-- Source page: `53`
 #### Witte Entry
 
 The overcoming of difficulties in general. Moderate luck. Fortunate with property. Fortunate in retirement.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The overcoming of difficulties in general. Moderate luck. Fortunate with property. Fortunate in retirement.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked public funds, restricted public finances Life, successful public resistance, joy through consolidation in public life, public money circle, and stabilization of public law
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Admetos = Jupiter`: the overcoming of difficulties in general, moderate luck, fortunate with property, and fortunate in retirement.
+- Practical expression: blocked public funds, restricted public finances Life, successful public resistance, oy through consolidation in public life, and public money circle.
 
 ## Links
 
@@ -61,3 +56,5 @@ The overcoming of difficulties in general. Moderate luck. Fortunate with propert
 - [Admetos](../factors/admetos.md)
 - [Jupiter](../factors/jupiter.md)
 - [Vernal Point/Admetos](../axes/vernal-point-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

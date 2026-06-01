@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Chiron Uranus MC`
 - Astronomicon triad-set: `Chiron X MC`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Chiron/Uranus = MC`: John, page `96`
 - `Uranus/MC = Chiron`: John, page `108`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/MC = Uranus`: original healing perspectives and reforming vocation. Main caution: becoming so identified with revelation that practical embodiment falls behind.
+- `Chiron/Uranus = MC`: liberating vocation, unconventional public purpose, and work that must allow originality. Main caution: mistaking resistance to structure for true calling.
+- `Uranus/MC = Chiron`: Your vibration helps others to find their own unique path to God, and to be more uninhibited about opening up to spiritual messages. You also have the innate ability to heal feelings of social alienation, and to help others see the value of their own personal uniqueness to the world.
 
 ## Links
 

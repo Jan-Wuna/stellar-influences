@@ -3,7 +3,7 @@ title: Saturn/Admetos = Sun
 page_type: activation
 slug: saturn-admetos-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Saturn
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Admetos`
-- Source page: `229`
 #### Witte Entry
 
 The days we feel narrowed and hindered. The resting body. The man who is hindered in a physical motion. To be physically forced in a position.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The days we feel narrowed and hindered. The resting body. The man who is hindered in a physical motion. To be physically forced in a position.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Personal limitations in old age, deepening in corporal problems, gross concentration of a man, circulatory load of a man, corporal problems compaction, and center for limiting loss
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Admetos = Sun`: the days we feel narrowed and hindered, the resting body, the man who is hindered in a physical motion.
+- Practical expression: personal limitations in old age, deepening in corporal problems, gross concentration of a man, circulatory load of a man, and corporal problems compaction.
 
 ## Links
 
@@ -61,3 +56,5 @@ The days we feel narrowed and hindered. The resting body. The man who is hindere
 - [Admetos](../factors/admetos.md)
 - [Sun](../factors/sun.md)
 - [Saturn/Admetos](../axes/saturn-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

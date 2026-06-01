@@ -3,7 +3,7 @@ title: Kronos/Poseidon = Vulcanus
 page_type: activation
 slug: kronos-poseidon-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Kronos
   - Vulcanus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Kronos + Poseidon`
-- Source page: `303`
 #### Witte Entry
 
 Special cultural influence. Mighty influence of a truth. Tremendous spirituality. A great outstanding culture.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Special cultural influence. Mighty influence of a truth. Tremendous spirituality. A great outstanding culture.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special cultural influence, dominant spiritual power, influential cultural authorship, knowledge of spiritual guidance, great cultural power, great spiritual influence, superior power of the spirit, and important influence of truth
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Poseidon = Vulcanus`: mighty cultural influence, powerful truth, tremendous spirituality, and an outstanding civilization or culture.
+- Chart expression: overwhelming persuasive force in ideas, massive cultural impact, and truth that moves with power rather than mere subtlety.
 
 ## Links
 
@@ -61,3 +56,5 @@ Special cultural influence. Mighty influence of a truth. Tremendous spirituality
 - [Poseidon](../factors/poseidon.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Kronos/Poseidon](../axes/kronos-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

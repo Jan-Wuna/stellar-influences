@@ -3,7 +3,7 @@ title: Mercury/Kronos = Node
 page_type: activation
 slug: mercury-kronos-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Node
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Kronos`
-- Source page: `169`
 #### Witte Entry
 
 Connections with mentally elevated or leading people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Connections with mentally elevated or leading people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special connections in the youth, opinion transmission by the state, self conscious meetings of the youth, connections to a young boss, important news transmission, important relations with the youth, and important transport connections
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Kronos = Node` socializes the axis through contact with elevated or leading minds.
+- Chart expression: connection with distinguished, mentally refined, or authoritative people, and to networks built around influence, intellect, and leadership.
 
 ## Links
 
@@ -61,3 +56,5 @@ Connections with mentally elevated or leading people.
 - [Kronos](../factors/kronos.md)
 - [Node](../factors/node.md)
 - [Mercury/Kronos](../axes/mercury-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

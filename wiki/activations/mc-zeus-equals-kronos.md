@@ -3,7 +3,7 @@ title: MC/Zeus = Kronos
 page_type: activation
 slug: mc-zeus-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Zeus
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Zeus`
-- Source page: `72`
 #### Witte Entry
 
 To work at something independently. To create something great. A great inventor. Manager of a large technical establishment.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To work at something independently. To create something great. A great inventor. Manager of a large technical establishment.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Serving State Relief, Great fiery soul, my special goal, my important product, my beginning self governingness, my special achievements, my achievements for the State, my self defense efforts, and my State Relief
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Zeus = Kronos` elevates the axis into independent command, large-scale invention, and technical authority.
+- Chart expression: creating something significant through self-directed effort, managerial capacity, and the ability to lead major technical or institutional work.
 
 ## Links
 
@@ -61,3 +56,5 @@ To work at something independently. To create something great. A great inventor.
 - [Zeus](../factors/zeus.md)
 - [Kronos](../factors/kronos.md)
 - [MC/Zeus](../axes/mc-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

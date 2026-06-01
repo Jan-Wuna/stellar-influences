@@ -3,7 +3,7 @@ title: Neptune/Hades = Apollon
 page_type: activation
 slug: neptune-hades-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Hades
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Hades`
-- Source page: `248`
 #### Witte Entry
 
 Hopes for the future, which are never realized. Many are under the influence of alcohol. Chemical science. Evil fumes and vapors. Quantities of liquids. Water system, creeks, rivers, streams, oceans.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Hopes for the future, which are never realized. Many are under the influence of alcohol. Chemical science. Evil fumes and vapors. Quantities of liquids. Water system, creeks, rivers, streams, oceans.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Expansion of air pollution, experiences with the weak of the past, dangerous water masses, mysterious future knowledge, extensive water damage, unknown hidden knowledge, a lot of dirt in the water, and increasing air y damage
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Hades = Apollon`: Hopes for the future, which are never realized. Many are under the influence of alcohol. Chemical science. Evil fumes and vapors. Quantities of liquids. Water system, creeks, rivers, streams, oceans.
+- Practical focus: broadens concealed deterioration into large systems, numbers, or environments, showing unrealized hopes, chemical or pathological contexts, hidden business trouble, and the spread of toxic or misleading conditions through networks or shared resources.
+- Practical expression: expansion of air pollution, experiences with the weak of the past, dangerous water masses, mysterious future knowledge, and extensive water damage.
 
 ## Links
 
@@ -61,3 +57,5 @@ Hopes for the future, which are never realized. Many are under the influence of 
 - [Hades](../factors/hades.md)
 - [Apollon](../factors/apollon.md)
 - [Neptune/Hades](../axes/neptune-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

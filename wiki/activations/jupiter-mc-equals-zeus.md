@@ -3,10 +3,10 @@ title: Jupiter/MC = Zeus
 page_type: activation
 slug: jupiter-mc-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Jupiter
+  - MC
   - Zeus
 normalized_formula: Jupiter/MC = Zeus
 axis: Jupiter/MC
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - MC
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Jupiter`
-- Source page: `65`
 #### Witte Entry
 
 Happiness over accomplishments.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Happiness over accomplishments.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful soul carrying, joy of a creative soul, my procreation success, my successful movement, my financial efforts, my successful achievements, my legal goals, and creative soul joy
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/MC = Zeus`: life direction being energized by the joy of getting things done. It favors purposeful effort that feels rewarding, successful, and motivating.
 
 ## Links
 
@@ -61,3 +55,5 @@ Happiness over accomplishments.
 - [MC](../factors/mc.md)
 - [Zeus](../factors/zeus.md)
 - [Jupiter/MC](../axes/jupiter-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

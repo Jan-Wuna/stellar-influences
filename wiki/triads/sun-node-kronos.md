@@ -3,7 +3,7 @@ title: Sun Node Kronos
 page_type: triad_hub
 slug: sun-node-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Node Kronos`
 - Astronomicon triad-set: `S g ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Node/Kronos = Sun](../activations/node-kronos-equals-sun.md)
-  Source page `152`
 - [Sun/Kronos = Node](../activations/sun-kronos-equals-node.md)
-  Source page `114`
 - [Sun/Node = Kronos](../activations/sun-node-equals-kronos.md)
-  Source page `102`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Node/Kronos = Sun`: page `152`
-- `Sun/Kronos = Node`: page `114`
-- `Sun/Node = Kronos`: page `102`
+- `Node/Kronos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `152`
+- `Node/Kronos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `230`
+- `Sun/Kronos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `114`
+- `Sun/Kronos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `164`
+- `Sun/Node = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `102`
+- `Sun/Node = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `141`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Node/Kronos = Sun`: Entangled with the officials. To be summoned.
+- `Sun/Kronos = Node`: This formula emphasizes connections with authorities and associations of rank.
+- `Sun/Node = Kronos`: This formula emphasizes associations with authority and rank-conscious connections.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Node](../factors/node.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

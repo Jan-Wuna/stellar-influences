@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Saturn + Saturn`
-- Source page: `220`
 #### Witte Entry
 
 Custody. To guard, to preserve, to banish, to fortify or to fix something. Mighty hindrance. Supervision. Captivity, imprisonment, jail. Vigilance. To be on guard. Limitation of the great forces or great power. The loss of power.
 
-## Comparative Schema
-
-- core meaning: Custody. To guard, to preserve, to banish, to fortify or to fix something. Mighty hindrance. Supervision. Captivity, imprisonment, jail. Vigilance. To be on guard. Limitation of the great forces or great power. The loss of power.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Saturn = Vulcanus`: custody, to guard, to preserve, to banish, to fortify or to fix something, mighty hindrance.
 
 ## Links
 

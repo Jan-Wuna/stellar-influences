@@ -3,7 +3,7 @@ title: Vernal Point/Zeus = Moon
 page_type: activation
 slug: vernal-point-zeus-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Moon
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Zeus`
-- Source page: `50`
 #### Witte Entry
 
 Females who are eager to accomplish great feats.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Females who are eager to accomplish great feats.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Efforts of a people in public, leading woman in public, felicitous public design, shaping of the public by a woman, public objectives of a people, and creative woman in public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Zeus = Moon`: females who are eager to accomplish great feats.
+- Practical expression: efforts of a people in public, leading woman in public, felicitous public design, shaping of the public by a woman, and public objectives of a people.
 
 ## Links
 
@@ -61,3 +56,5 @@ Females who are eager to accomplish great feats.
 - [Zeus](../factors/zeus.md)
 - [Moon](../factors/moon.md)
 - [Vernal Point/Zeus](../axes/vernal-point-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

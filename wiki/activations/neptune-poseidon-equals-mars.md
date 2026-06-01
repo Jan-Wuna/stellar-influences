@@ -3,7 +3,7 @@ title: Neptune/Poseidon = Mars
 page_type: activation
 slug: neptune-poseidon-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Neptune
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Poseidon`
-- Source page: `254`
 #### Witte Entry
 
 To refuse a doctrine, a faith, an idea, or the concept of the world for moral reasons. To withdraw from something under false pretext.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To refuse a doctrine, a faith, an idea, or the concept of the world for moral reasons. To withdraw from something under false pretext.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Work in clear water, efforts for metaphysical truth, mental future work, actions from the knowledge of fine, weak mental activity, weak impulses of reason, refined cultural experiments, and impoverished cultural work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Poseidon = Mars`: To refuse a doctrine, a faith, an idea, or the concept of the world for moral reasons. To withdraw from something under false pretext.
+- Practical focus: moral or spiritual perception is directed into refusal and withdrawal, rejecting doctrine or worldview on principle while still risking false or evasive motives.
+- Practical expression: work in clear water, efforts for metaphysical truth, mental future work, actions from the knowledge of fine, and weak mental activity.
 
 ## Links
 
@@ -61,3 +57,5 @@ To refuse a doctrine, a faith, an idea, or the concept of the world for moral re
 - [Poseidon](../factors/poseidon.md)
 - [Mars](../factors/mars.md)
 - [Neptune/Poseidon](../axes/neptune-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

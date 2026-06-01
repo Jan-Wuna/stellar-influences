@@ -3,7 +3,7 @@ title: Sun Pluto Admetos
 page_type: triad_hub
 slug: sun-pluto-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Pluto Admetos`
 - Astronomicon triad-set: `S Z ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Pluto/Admetos = Sun](../activations/pluto-admetos-equals-sun.md)
-  Source page `262`
 - [Sun/Admetos = Pluto](../activations/sun-admetos-equals-pluto.md)
-  Source page `116`
 - [Sun/Pluto = Admetos](../activations/sun-pluto-equals-admetos.md)
-  Source page `110`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Pluto/Admetos = Sun`: page `262`
-- `Sun/Admetos = Pluto`: page `116`
-- `Sun/Pluto = Admetos`: page `110`
+- `Pluto/Admetos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `262`
+- `Pluto/Admetos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `418`
+- `Sun/Admetos = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `116`
+- `Sun/Admetos = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `169`
+- `Sun/Pluto = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `110`
+- `Sun/Pluto = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `157`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Pluto/Admetos = Sun`: This activation emphasizes profound change in the body-mechanism; The glandular system of the body, changes noticeable.
+- `Sun/Admetos = Pluto`: This formula emphasizes to create separation and severance.
+- `Sun/Pluto = Admetos`: This formula emphasizes separation, severance, or deep change tied to fixed conditions.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Pluto](../factors/pluto.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

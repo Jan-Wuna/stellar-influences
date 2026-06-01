@@ -3,7 +3,7 @@ title: Cupido/Kronos = Admetos
 page_type: activation
 slug: cupido-kronos-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Cupido
   - Kronos
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Kronos`
-- Source page: `269`
 #### Witte Entry
 
 Clumsy behavior and hermit-like life. To be noted unfavorably through dull manners which cause disadvantages and losses. To exclude oneself from a social group. To be socially banned. To make oneself impossible.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Clumsy behavior and hermit-like life. To be noted unfavorably through dull manners which cause disadvantages and losses. To exclude oneself from a social group. To be socially banned. To make oneself impossible.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Appreciation through perseverance of a community, special firmness in of a community, great limitations in of a community, grilndlich hierarchy community, self reinforcing into the arts, and resistance of a hierarchy community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Kronos = Admetos`: elite or official belonging breaking down through rigidity, bad form, or isolation from the very circles one seeks to enter. Main caution: social status hardening into sterile separation or self-sabotage.
 
 ## Links
 
@@ -61,3 +55,5 @@ Clumsy behavior and hermit-like life. To be noted unfavorably through dull manne
 - [Kronos](../factors/kronos.md)
 - [Admetos](../factors/admetos.md)
 - [Cupido/Kronos](../axes/cupido-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -16,6 +16,8 @@ updated_at: 2026-04-21
 
 - Factor: Chiron
 - Canonical page type: structural factor page created because the source treats `Chiron` as a first-class participant in axis and activation formulas.
+- This page is source-bounded to Sandbach's modern midpoint corpus.
+- Do not read it as a comparative factor doctrine page.
 
 ## Source Entries
 
@@ -24,18 +26,11 @@ updated_at: 2026-04-21
 - No standalone factor chapter material from this source is ingested on this page.
 - `Chiron` appears canonically through Sandbach axis pages, activation pages, and triad hubs.
 
-## Comparative Schema
-
-- core meaning: no standalone factor chapter is present in this source.
-- psychology: Sandbach expresses `Chiron` through axis principles, processes, and activator entries rather than through a dedicated factor chapter.
-- body/health: any bodily implications remain embedded inside the axis and activation pages where `Chiron` participates.
-- social/relationship: relational implications remain embedded inside the linked axis and activation pages.
-- events/manifestations: browse the related axes and activations below for the explicit formulas.
-- conflicts/notes: this page is structural only until another source contributes standalone `Chiron` doctrine.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond structural placement in the canonical factor inventory.
+- `Chiron` is present here as a structural factor because Sandbach uses it in axis and activation formulas, but no standalone factor chapter is currently ingested on this page.
+- Use the linked `Chiron` axes and activations for actual delineation; this page should not be treated as independent `Chiron` doctrine until a source-bearing factor entry is added.
 
 ## Related Axes
 
@@ -53,15 +48,6 @@ updated_at: 2026-04-21
 - [Sun/Chiron](../axes/sun-chiron.md)
 - [Venus/Chiron](../axes/venus-chiron.md)
 
-## Related Activations
-
-- Generated activation pages involving `Chiron`: `234`.
-- Browse [Index](../index.md) or the `wiki/activations/` folder for the full set.
-
 ## Related Sources
 
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
-
-## Open Questions
-
-- None recorded yet.

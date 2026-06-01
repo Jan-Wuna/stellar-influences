@@ -3,7 +3,7 @@ title: Asc/Poseidon = MC
 page_type: activation
 slug: asc-poseidon-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - MC
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Poseidon`
-- Source page: `98`
 #### Witte Entry
 
 To exchange mentally and spiritually with others. Mental influence through others.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To exchange mentally and spiritually with others. Mental influence through others.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Besekltc environment Culture, bcselter culture place, my insightful partner, my cultural place, my spiritual partner, my insights from the partner, my cultivated environment, my environmental fdeen, and truth mcines partner
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Poseidon = MC`: formative conversations, a vocation colored by ideas or teaching, and an environment where one's development is strongly guided by what others think or know. Main caution: overreliance on borrowed influence.
 
 ## Links
 
@@ -61,3 +55,5 @@ To exchange mentally and spiritually with others. Mental influence through other
 - [Poseidon](../factors/poseidon.md)
 - [MC](../factors/mc.md)
 - [Asc/Poseidon](../axes/asc-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

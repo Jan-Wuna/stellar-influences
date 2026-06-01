@@ -3,7 +3,7 @@ title: Saturn/Apollon = Admetos
 page_type: activation
 slug: saturn-apollon-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Apollon
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Apollon`
-- Source page: `228`
 #### Witte Entry
 
 Old and out of date method. To be suppressed and hindered systematically. To be surrounded and crowded. To be in a tight spot.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Old and out of date method. To be suppressed and hindered systematically. To be surrounded and crowded. To be in a tight spot.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Strengthen old knowledge, success through perseverance and patience, solidified success in old age, fundamental concentration on knowledge, trade losses through blockade, problems expansion through depression, mature knowledge through grtindlichkeit, and pain through blocked freedom
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Apollon = Admetos`: old and out of date method, to be suppressed and hindered systematically, to be surrounded and crowded.
+- Practical expression: strengthen old knowledge, success through perseverance, patience, solidified success in old age, and fundamental concentration on knowledge.
 
 ## Links
 
@@ -61,3 +56,5 @@ Old and out of date method. To be suppressed and hindered systematically. To be 
 - [Apollon](../factors/apollon.md)
 - [Admetos](../factors/admetos.md)
 - [Saturn/Apollon](../axes/saturn-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

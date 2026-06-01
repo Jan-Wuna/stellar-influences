@@ -3,7 +3,7 @@ title: Neptune/Zeus = Sun
 page_type: activation
 slug: neptune-zeus-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Neptune
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Zeus`
-- Source page: `249`
 #### Witte Entry
 
 Days of unsuccessful work. Fruidess work. The man who makes efforts in vain. Scald-burns.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Days of unsuccessful work. Fruidess work. The man who makes efforts in vain. Scald-burns.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Efforts of a man in the water, exchanging human achievements, fiery body in the air, creative fine tuning of a man, personal fatigue weakness, personal procreation weakness, and unclear personal goal
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Zeus = Sun`: Days of unsuccessful work. Fruidess work. The man who makes efforts in vain. Scald-burns.
+- Personal effort is spent without adequate result, showing wasted work, scorched vitality, or the experience of striving hard to little effect.
+- Practical expression: efforts of a man in the water, exchanging human achievements, fiery body in the air, creative fine tuning of a man, and personal fatigue weakness.
 
 ## Links
 
@@ -61,3 +57,5 @@ Days of unsuccessful work. Fruidess work. The man who makes efforts in vain. Sca
 - [Zeus](../factors/zeus.md)
 - [Sun](../factors/sun.md)
 - [Neptune/Zeus](../axes/neptune-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

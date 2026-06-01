@@ -45,8 +45,6 @@ updated_at: 2026-04-21
 
 - Axis: `Hades/Hades`
 - Astronomicon axis: `¢/¢`
-- Source heading: `Hades + Hades`
-- Source page: `275`
 
 ## Source Entries
 
@@ -55,15 +53,6 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 Poverty. Baseness. The deteriorating powers of the past. Garbage. Dirt. To hesitate. Delay. Loneliness. Lack. Illness. Secrets. Old burdens. History. Something old, antiques. Far past. Repulsiveness. Waste. Long illness or difficult (abnormal) circumstances. Events with bad impressions. Widows.
-
-## Comparative Schema
-
-- core meaning: Poverty. Baseness. The deteriorating powers of the past. Garbage. Dirt. To hesitate. Delay. Loneliness. Lack. Illness. Secrets. Old burdens. History. Something old, antiques. Far past. Repulsiveness. Waste. Long illness or difficult (abnormal) circumstances. Events with bad impressions. Widows.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
@@ -89,13 +78,11 @@ Poverty. Baseness. The deteriorating powers of the past. Garbage. Dirt. To hesit
 - [Hades/Hades = Vulcanus](../activations/hades-hades-equals-vulcanus.md)
 - [Hades/Hades = Poseidon](../activations/hades-hades-equals-poseidon.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Hades` is the pure doubling of the Hades principle: poverty, decay, illness, dirt, secrecy, burdens, repulsiveness, waste, and the heavy remnants of what has already gone wrong.
+- Chart expression: entrenched degradation rather than a passing problem. It describes chronic lack, long illness, lonely or ugly circumstances, stale grief, shame, old burdens, and adaptation to bleakness, but it can also describe history, antiques, salvage, and the need to work with what is old, discarded, or socially unwanted.
 
 ## Links
 

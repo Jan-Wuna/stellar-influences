@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Neptune`
-- Source page: `68`
 #### Witte Entry
 
 To induce others to commit fraudulent acts. Errors and deception in relationships.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Neptune/Medium Coeli`
-- Source page: `291`
-- Entry: `1044`
+#### ABC Entry
+
+Imagining my contacts, contact with a soul with a fine feeling, my exchanging connections, my contacts in the air, my sensitive relationships, my insecurity in relationships, and my future connections
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Unpleasant associations, bad company, sharing of bad intentions with other peopl
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Neptune/Midheaven midpoint`
-- Source page: `113`
-- Activator: `Node`
-
 #### Sandbach Entry
 
 The need to connect with people who share your same career ideals and aspira tions. Working for others who are working for humanity.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Finding others who share your dreams and visions for the future and who will work with you; acquiring help from support groups; people who listen to your dreams of the future; friends who create reality from your visions.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/MC = Node`: humanitarian work, symbolic community roles, and the ability to gather people around a dream, cause, or spiritual atmosphere. Main caution: misleading association: public direction can be distorted by false allies, unclear loyalties, or diffuse social pressure.
 
 ## Links
 
@@ -84,7 +76,8 @@ The need to connect with people who share your same career ideals and aspira tio
 - [MC](../factors/mc.md)
 - [Node](../factors/node.md)
 - [Neptune/MC](../axes/neptune-mc.md)
-- [Neptune Node MC](../triads/neptune-node-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

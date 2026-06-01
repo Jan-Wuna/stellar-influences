@@ -3,7 +3,7 @@ title: Sun Admetos Vulcanus
 page_type: triad_hub
 slug: sun-admetos-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Admetos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Admetos Vulcanus`
 - Astronomicon triad-set: `S ¦ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Admetos/Vulcanus = Sun](../activations/admetos-vulcanus-equals-sun.md)
-  Source page `311`
 - [Sun/Admetos = Vulcanus](../activations/sun-admetos-equals-vulcanus.md)
-  Source page `116`
 - [Sun/Vulcanus = Admetos](../activations/sun-vulcanus-equals-admetos.md)
-  Source page `117`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Admetos/Vulcanus = Sun`: page `311`
-- `Sun/Admetos = Vulcanus`: page `116`
-- `Sun/Vulcanus = Admetos`: page `117`
+- `Admetos/Vulcanus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `311`
+- `Admetos/Vulcanus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `474`
+- `Sun/Admetos = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `116`
+- `Sun/Admetos = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `169`
+- `Sun/Vulcanus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `117`
+- `Sun/Vulcanus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `171`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Admetos/Vulcanus = Sun`: a life period where only perseverance yields results and character is forged by harsh treatment and resistant conditions.
+- `Sun/Admetos = Vulcanus`: This formula emphasizes the complete occupation of the body and complete retirement.
+- `Sun/Vulcanus = Admetos`: This formula emphasizes complete occupation, force held in fixed conditions, or powerful withdrawal.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Admetos](../factors/admetos.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

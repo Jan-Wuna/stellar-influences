@@ -3,7 +3,7 @@ title: Sun/Cupido = Poseidon
 page_type: activation
 slug: sun-cupido-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Cupido
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Cupido`
-- Source page: `111`
 #### Witte Entry
 
 The spiritually minded artist. Member of a think tank.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The spiritually minded artist. Member of a think tank.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Findings of a men's community, common cultural centre, clarity of a person community, artificial and cultural centre, human cultural community, personal spiritualization in the community, and center of a spiritual community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Cupido = Poseidon`: ideal or spiritual community and to strive for peace.
+- Practical expression: findings of a men's community, common cultural centre, clarity of a person community, artificial, and cultural centre.
 
 ## Links
 
@@ -61,3 +56,5 @@ The spiritually minded artist. Member of a think tank.
 - [Cupido](../factors/cupido.md)
 - [Poseidon](../factors/poseidon.md)
 - [Sun/Cupido](../axes/sun-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

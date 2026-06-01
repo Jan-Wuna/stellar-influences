@@ -58,11 +58,12 @@ aliases:
   - Node/Venus
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -75,17 +76,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus/Dragon's Head`
-- Source page: `192`
-
 #### Pair Summary
 
 Pleasant connection. Love unions. Love ties. Contacts with female persons. Contacts to a motherly and caring woman. Contacts of love. Relationships, contacts and connections, in the field of harmony, peace, beauty, fine arts, music, pleasure or taste.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Venus/Dragon's Head`
-- Source page: `192`
+#### ABC Pair Summary
+
+Encounter with beauty, joyful encounter, peace contacts, harmonious connections, contact joy, artificial relationships, Licbes connections, and desire communication
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -109,9 +110,6 @@ Lovers, love unions.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Venus/Node midpoint`
-- Source page: `63`
-
 #### Principle
 
 To progress in one’s ability to love and to appreciate life, as well as to relax and enjoy one’s existence. Loving connections with other people. To seek out groups or individuals that share with one a common appreciation of life. Negatively, laziness and desire for comfort hold one back from progress.
@@ -122,17 +120,11 @@ Realizing the limitations of one’s love and seeking to love more fully and dee
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Venus/Nodes`
-- Source page: `207`
-
 #### Pair Delineation
 
 Love connections or meetings. Connections or meetings with friends or beautiful persons. Happy meetings with others. Working with creative or artistic people or to achieve some creative objective.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `VENUS/NODE`
-- Source page: `211`
 
 #### Basic Ideas
 
@@ -161,15 +153,6 @@ Your ability to relax with friends; associates who help you with your medical pr
 
 - [Michael Munkasey - Venus/Node Concepts](../derived/munkasey-venus-node-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Venus/Node = Admetos](../activations/venus-node-equals-admetos.md)
@@ -194,20 +177,18 @@ Your ability to relax with friends; associates who help you with your medical pr
 - [Venus/Node = Vulcanus](../activations/venus-node-equals-vulcanus.md)
 - [Venus/Node = Zeus](../activations/venus-node-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Node` is the axis of loving connection, social cooperation, and alliances built on affection, pleasure, beauty, or shared taste. It combines harmony, attraction, friendliness, and value with meetings, friendship, groups, and the bonds that draw people together.
+- Chart expression: pleasant contacts, supportive friends, romantic or artistic meetings, and the tendency to seek people who bring peace, rapport, and shared enjoyment. Liabilities: complacency, dependence on approval, jealousy, misuse of supportive ties, and separations caused by taking kindness or cooperation for granted.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Node](../factors/node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)

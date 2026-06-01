@@ -3,7 +3,7 @@ title: Venus/Hades = Cupido
 page_type: activation
 slug: venus-hades-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Cupido
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Hades`
-- Source page: `183`
 #### Witte Entry
 
 Sorrow in marital life caused by servants or through one’s own service or work relations. Secret love marriage. Marriages among prostitutes.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sorrow in marital life caused by servants or through one’s own service or work relations. Secret love marriage. Marriages among prostitutes.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Liebcs community, love services for cine community, common danger of love, poor harmony in of a community, renunciation of peace in the community, and preference for common past
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Hades = Cupido`: sorrow in marital life caused by servants or through one’s own service or work relations.
+- Practical expression: liebcs community, common danger of love, poor harmony in a community, and renunciation of peace in the community.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sorrow in marital life caused by servants or through one’s own service or work
 - [Hades](../factors/hades.md)
 - [Cupido](../factors/cupido.md)
 - [Venus/Hades](../axes/venus-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

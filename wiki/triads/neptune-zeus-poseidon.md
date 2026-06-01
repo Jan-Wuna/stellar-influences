@@ -3,7 +3,7 @@ title: Neptune Zeus Poseidon
 page_type: triad_hub
 slug: neptune-zeus-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Zeus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Neptune Zeus Poseidon`
 - Astronomicon triad-set: `Y £ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Neptune/Poseidon = Zeus](../activations/neptune-poseidon-equals-zeus.md)
-  Source page `254`
 - [Neptune/Zeus = Poseidon](../activations/neptune-zeus-equals-poseidon.md)
-  Source page `249`
 - [Zeus/Poseidon = Neptune](../activations/zeus-poseidon-equals-neptune.md)
-  Source page `296`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Neptune/Poseidon = Zeus`: page `254`
-- `Neptune/Zeus = Poseidon`: page `249`
-- `Zeus/Poseidon = Neptune`: page `296`
+- `Neptune/Poseidon = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `254`
+- `Neptune/Poseidon = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `407`
+- `Neptune/Zeus = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `249`
+- `Neptune/Zeus = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `397`
+- `Zeus/Poseidon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `296`
+- `Zeus/Poseidon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `459`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Neptune/Poseidon = Zeus`: This activation directs subtle mentality into conceptual production, but with strain around truthfulness or realism. It can show imaginative ideation, mental fabrication, or determined effort spent sustaining a mistaken premise or pretense.
+- `Neptune/Zeus = Poseidon`: Ideas here are risky, unproductive, or mentally compulsive, yet they also point toward the eventual release or resolution of that pressure.
+- `Zeus/Poseidon = Neptune`: Rejection of mental compulsion. Hidden mental leadership. The invisible hand.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [Zeus](../factors/zeus.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

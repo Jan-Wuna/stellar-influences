@@ -3,10 +3,10 @@ title: Moon/Asc = Cupido
 page_type: activation
 slug: moon-asc-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Moon
+  - Asc
   - Cupido
 normalized_formula: Moon/Asc = Cupido
 axis: Moon/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Asc
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Moon`
-- Source page: `81`
 #### Witte Entry
 
 Social gatherings with women. Getting acquainted with the wife. The quiet hours in the home. To become a public person through unions or parties.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Social gatherings with women. Getting acquainted with the wife. The quiet hours in the home. To become a public person through unions or parties.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Other people's communities, women's communities for the environment, women's arts in the village, friendly partner community, common closeness to mother, local meetings, community place for women, and artistic place of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Asc = Cupido`: Social gatherings with women. Getting acquainted with the wife. The quiet hours in the home. To become a public person through unions or parties.
+- Practical focus: domesticates and socializes `Moon/Asc`. It emphasizes gatherings, household quiet, marriage-linked acquaintance, and belonging through unions or parties, so emotional identity becomes more visible through family circles, intimate networks, and communal affiliation.
+- Practical expression: women's arts in the village, friendly partner community, common closeness to mother, local meetings, and community place for women.
 
 ## Links
 
@@ -61,3 +57,5 @@ Social gatherings with women. Getting acquainted with the wife. The quiet hours 
 - [Asc](../factors/asc.md)
 - [Cupido](../factors/cupido.md)
 - [Moon/Asc](../axes/moon-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

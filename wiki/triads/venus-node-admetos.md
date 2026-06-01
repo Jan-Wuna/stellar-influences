@@ -3,7 +3,7 @@ title: Venus Node Admetos
 page_type: triad_hub
 slug: venus-node-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Node Admetos`
 - Astronomicon triad-set: `Q g ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Node/Admetos = Venus](../activations/node-admetos-equals-venus.md)
-  Source page `154`
 - [Venus/Admetos = Node](../activations/venus-admetos-equals-node.md)
-  Source page `187`
 - [Venus/Node = Admetos](../activations/venus-node-equals-admetos.md)
-  Source page `142`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Node/Admetos = Venus`: page `154`
-- `Venus/Admetos = Node`: page `187`
-- `Venus/Node = Admetos`: page `142`
+- `Node/Admetos = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `154`
+- `Node/Admetos = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `234`
+- `Venus/Admetos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `187`
+- `Venus/Admetos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `292`
+- `Venus/Node = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `142`
+- `Venus/Node = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `211`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Node/Admetos = Venus`: To be harmonious with very few. To find little or no response. Bonds which do not hurt. Bonds of love.
+- `Venus/Admetos = Node`: harmoniously connected with few.
+- `Venus/Node = Admetos`: difficulties or obstacles in getting acquainted.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Node](../factors/node.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

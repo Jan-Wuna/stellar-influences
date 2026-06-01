@@ -3,7 +3,7 @@ title: Hades/Admetos = Mars
 page_type: activation
 slug: hades-admetos-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Hades
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Admetos`
-- Source page: `284`
 #### Witte Entry
 
 To be pressured to perform menial service. To be terrorized in or through one’s work. To make up for neglect and omissions through one’s work.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be pressured to perform menial service. To be terrorized in or through one’s work. To make up for neglect and omissions through one’s work.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Perseverance in the work service, strengthening of the will by renunciation, secret blockade activity, grim mitigations in secret, lack of perseverance in mitigating, adverse depression impulses, and deepening in secret activity
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Admetos = Mars`: scarcity and decay being answered by hard, often humiliating labor. Main caution: effort becoming punitive rather than genuinely corrective.
 
 ## Links
 
@@ -61,3 +55,5 @@ To be pressured to perform menial service. To be terrorized in or through one’
 - [Admetos](../factors/admetos.md)
 - [Mars](../factors/mars.md)
 - [Hades/Admetos](../axes/hades-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

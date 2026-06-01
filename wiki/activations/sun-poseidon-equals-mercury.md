@@ -3,7 +3,7 @@ title: Sun/Poseidon = Mercury
 page_type: activation
 slug: sun-poseidon-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Mercury
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Poseidon`
-- Source page: `118`
 #### Witte Entry
 
 The mental agility. To perceive new ideas.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The mental agility. To perceive new ideas.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Report on the idea of a man, insightful young person, knowledgeable words of a man, talk about personal insights, ideas of a young man, opinions about a man's body culture, culture news, and person culture of the media
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Poseidon = Mercury`: truthful thought and spiritualized communication.
+- Practical expression: report on the idea of a man, insightful young person, knowledgeable words of a man, talk about personal insights, and ideas of a young man.
 
 ## Links
 
@@ -61,3 +56,5 @@ The mental agility. To perceive new ideas.
 - [Poseidon](../factors/poseidon.md)
 - [Mercury](../factors/mercury.md)
 - [Sun/Poseidon](../axes/sun-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

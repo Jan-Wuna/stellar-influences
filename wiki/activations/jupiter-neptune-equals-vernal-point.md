@@ -3,7 +3,7 @@ title: Jupiter/Neptune = Vernal Point
 page_type: activation
 slug: jupiter-neptune-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Jupiter
   - Neptune
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Neptune`
-- Source page: `209`
 #### Witte Entry
 
 Speculations. Pretended luck. General carelessness.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Speculations. Pretended luck. General carelessness.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+foreign law in public life, good water for the public, public water law, legal expectations in public life, legal uncertainty in public, and uncertainties about public money
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Neptune = Vernal Point`: collective atmosphere becoming dreamy, careless, or inflated by false promise. It warns of public moods that confuse appearance with real fortune.
 
 ## Links
 
@@ -61,3 +55,5 @@ Speculations. Pretended luck. General carelessness.
 - [Neptune](../factors/neptune.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Jupiter/Neptune](../axes/jupiter-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

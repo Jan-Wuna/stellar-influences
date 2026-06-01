@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Mercury + Mercury`
-- Source page: `158`
 #### Witte Entry
 
 Creative thinking. To command. To threaten. Dictatorial. Inventions. Thinking that aims at something. Creative inventions. An order that was obeyed. Single minded thinking. To issue decrees or laws. To pass sentence.
 
-## Comparative Schema
-
-- core meaning: Creative thinking. To command. To threaten. Dictatorial. Inventions. Thinking that aims at something. Creative inventions. An order that was obeyed. Single minded thinking. To issue decrees or laws. To pass sentence.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Mercury = Zeus` directs the axis into invention, command, and single-minded creative thought.
+- Chart expression: purposeful thinking, decrees and laws, orders that get obeyed, inventions, and a mind that creates or threatens with the focus and force of command.
 
 ## Links
 

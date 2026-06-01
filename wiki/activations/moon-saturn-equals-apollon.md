@@ -3,7 +3,7 @@ title: Moon/Saturn = Apollon
 page_type: activation
 slug: moon-saturn-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Saturn
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Saturn
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Saturn`
-- Source page: `126`
 #### Witte Entry
 
 Female teachers. Hours of lessons. The many evening hours.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Female teachers. Hours of lessons. The many evening hours.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Experiences of a mature woman, success through separation from the woman, patience of an experienced woman, urban trade of a people, problems expanding for a woman, multiplication of a woman's faults, much patience of a woman, and scientific tasks of a woman
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Saturn = Apollon`: Female teachers. Hours of lessons. The many evening hours.
+- Practical focus: expands `Moon/Saturn` through education, instruction, and extended late-hour effort. It suggests emotional seriousness distributed across teaching, study, or long evening obligations, making restraint more useful and socially transmissible.
+- Practical expression: experiences of a mature woman, success through separation from the woman, patience of an experienced woman, urban trade of a people, and problems expanding for a woman.
 
 ## Links
 
@@ -61,3 +57,5 @@ Female teachers. Hours of lessons. The many evening hours.
 - [Saturn](../factors/saturn.md)
 - [Apollon](../factors/apollon.md)
 - [Moon/Saturn](../axes/moon-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

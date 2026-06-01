@@ -3,7 +3,7 @@ title: Venus/Vulcanus = Uranus
 page_type: activation
 slug: venus-vulcanus-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Uranus
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Vulcanus`
-- Source page: `188`
 #### Witte Entry
 
 To be strongly attracted to mental or spiritual things. Strong philosophical inclinations and convictions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be strongly attracted to mental or spiritual things. Strong philosophical inclinations and convictions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influential artificial event, harmonious encrusting pulses, powerful Licbes pulses, sudden love for power, strong peace pulses, strong love tension, balance by waiting in love, and preference for tremendous surprises
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Vulcanus = Uranus`: to be strongly attracted to mental or spiritual things.
+- Practical expression: influential artificial event, harmonious encrusting pulses, sudden love for power, and strong peace pulses.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be strongly attracted to mental or spiritual things. Strong philosophical inc
 - [Vulcanus](../factors/vulcanus.md)
 - [Uranus](../factors/uranus.md)
 - [Venus/Vulcanus](../axes/venus-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

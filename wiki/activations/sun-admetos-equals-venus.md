@@ -3,7 +3,7 @@ title: Sun/Admetos = Venus
 page_type: activation
 slug: sun-admetos-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Venus
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Admetos`
-- Source page: `116`
 #### Witte Entry
 
 To decline or to restrict physical love. Insensitive to pain. Love for the soil.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To decline or to restrict physical love. Insensitive to pain. Love for the soil.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Excessive personal love, restriction of corporal love, consolidation of harmony in man, consolidation of love for man, peace blockade by a person ' Harmonic deepening of a man, and deep love for man
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Admetos = Venus`: the difficult release from pain and bodily crampings.
+- Practical expression: excessive personal love, restriction of corporal love, consolidation of harmony in man, consolidation of love for man, and peace blockade by a person ' Harmonic deepening of a man.
 
 ## Links
 
@@ -61,3 +56,5 @@ To decline or to restrict physical love. Insensitive to pain. Love for the soil.
 - [Admetos](../factors/admetos.md)
 - [Venus](../factors/venus.md)
 - [Sun/Admetos](../axes/sun-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

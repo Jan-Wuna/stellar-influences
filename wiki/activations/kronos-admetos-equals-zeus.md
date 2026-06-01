@@ -3,7 +3,7 @@ title: Kronos/Admetos = Zeus
 page_type: activation
 slug: kronos-admetos-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Zeus
   - Kronos
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Kronos + Admetos`
-- Source page: `300`
 #### Witte Entry
 
 Difficult beginning of a great enterprise within narrow bounds. Special order. Special commission or position during war.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Difficult beginning of a great enterprise within narrow bounds. Special order. Special commission or position during war.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special perseverance achievements, blocked pursuit of self governingness, restricted state support, end of creative self governingness, end of state support, design of an important primordial substance, and fundamental superiority through goal striving
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Admetos = Zeus`: a difficult beginning for a large undertaking within narrow bounds, a special order, or a commission tied to exceptional conditions such as war.
+- Chart expression: concentrated strategic action under constraint, with ambition forced to operate through a highly specific or limited mandate.
 
 ## Links
 
@@ -61,3 +56,5 @@ Difficult beginning of a great enterprise within narrow bounds. Special order. S
 - [Admetos](../factors/admetos.md)
 - [Zeus](../factors/zeus.md)
 - [Kronos/Admetos](../axes/kronos-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

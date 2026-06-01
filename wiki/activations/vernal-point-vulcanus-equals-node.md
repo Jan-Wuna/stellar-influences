@@ -3,7 +3,7 @@ title: Vernal Point/Vulcanus = Node
 page_type: activation
 slug: vernal-point-vulcanus-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Node
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Vulcanus`
-- Source page: `54`
 #### Witte Entry
 
 Influential connections in general. Associated with violent acts or actions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Influential connections in general. Associated with violent acts or actions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Encounter with the public Violence, influential connections in the world, influential contacts with the public, energy yennittung for the public, public Energy association, and V connection to the public Power
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Vulcanus = Node`: influential connections in general and associated with violent acts or actions.
+- Practical expression: encounter with the public Violence, influential connections in the world, influential contacts with the public, energy yennittung for the public, and public Energy association.
 
 ## Links
 
@@ -61,3 +56,5 @@ Influential connections in general. Associated with violent acts or actions.
 - [Vulcanus](../factors/vulcanus.md)
 - [Node](../factors/node.md)
 - [Vernal Point/Vulcanus](../axes/vernal-point-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

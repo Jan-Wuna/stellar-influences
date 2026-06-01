@@ -3,7 +3,7 @@ title: Hades/Zeus = Vulcanus
 page_type: activation
 slug: hades-zeus-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Hades
   - Zeus
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Zeus`
-- Source page: `278`
 #### Witte Entry
 
 Decrease of activity. Mighty efforts to do away with unemployment. Increase of lowness and vulgarity. Violent outbreak of hate.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Decrease of activity. Mighty efforts to do away with unemployment. Increase of lowness and vulgarity. Violent outbreak of hate.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+efforts against violent criminality, serving leadership force, dangerous leadership influence, dangerous power goals, tremendous fire danger, lack of energetic performance, lack of leadership influence, strong influence of the past, and hidden leadership power
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Zeus = Vulcanus`: degraded will becoming massive and forceful. It can show social or industrial pressure mounting until hatred and roughness break out with strength.
 
 ## Links
 
@@ -61,3 +55,5 @@ Decrease of activity. Mighty efforts to do away with unemployment. Increase of l
 - [Zeus](../factors/zeus.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Hades/Zeus](../axes/hades-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

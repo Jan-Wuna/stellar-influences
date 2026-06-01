@@ -3,7 +3,7 @@ title: Mars/Saturn = Admetos
 page_type: activation
 slug: mars-saturn-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Saturn
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Saturn
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Saturn`
-- Source page: `193`
 #### Witte Entry
 
 The beginning of a very sad time. Sickness, separation or interruption of work for a very long period of time.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The beginning of a very sad time. Sickness, separation or interruption of work for a very long period of time.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Endurance at the best of work, blocked activities in old age, limitation of work tasks, serious commitment to clarity, patient will strengthening, painful limitation of work, and deepening in work problems
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Saturn = Admetos` compresses blocked force into long, heavy, and immobilizing hardship.
+- Chart expression: the beginning of a very sad period, prolonged sickness, separation, or interruption of work, and burdens that hold activity down for an extended time.
 
 ## Links
 
@@ -61,3 +56,5 @@ The beginning of a very sad time. Sickness, separation or interruption of work f
 - [Saturn](../factors/saturn.md)
 - [Admetos](../factors/admetos.md)
 - [Mars/Saturn](../axes/mars-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

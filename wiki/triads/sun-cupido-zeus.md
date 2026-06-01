@@ -3,7 +3,7 @@ title: Sun Cupido Zeus
 page_type: triad_hub
 slug: sun-cupido-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Cupido Zeus`
 - Astronomicon triad-set: `S ¡ £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Zeus = Sun](../activations/cupido-zeus-equals-sun.md)
-  Source page `268`
 - [Sun/Cupido = Zeus](../activations/sun-cupido-equals-zeus.md)
-  Source page `111`
 - [Sun/Zeus = Cupido](../activations/sun-zeus-equals-cupido.md)
-  Source page `113`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Zeus = Sun`: page `268`
-- `Sun/Cupido = Zeus`: page `111`
-- `Sun/Zeus = Cupido`: page `113`
+- `Cupido/Zeus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `268`
+- `Cupido/Zeus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `426`
+- `Sun/Cupido = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `111`
+- `Sun/Cupido = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `159`
+- `Sun/Zeus = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `113`
+- `Sun/Zeus = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `163`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Zeus = Sun`: the person who helps draw up new units, cooperates in new foundations, or serves as head of the new body, sometimes in military comradeship.
+- `Sun/Cupido = Zeus`: This formula emphasizes the artist or the man as artist and the creator in the family.
+- `Sun/Zeus = Cupido`: This formula emphasizes artist and a member of the artist circle.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Cupido](../factors/cupido.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

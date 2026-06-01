@@ -3,7 +3,7 @@ title: Cupido Kronos Poseidon
 page_type: triad_hub
 slug: cupido-kronos-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Kronos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Cupido Kronos Poseidon`
 - Astronomicon triad-set: `¡ ¤ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Kronos = Poseidon](../activations/cupido-kronos-equals-poseidon.md)
-  Source page `269`
 - [Cupido/Poseidon = Kronos](../activations/cupido-poseidon-equals-kronos.md)
-  Source page `274`
 - [Kronos/Poseidon = Cupido](../activations/kronos-poseidon-equals-cupido.md)
-  Source page `302`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Kronos = Poseidon`: page `269`
-- `Cupido/Poseidon = Kronos`: page `274`
-- `Kronos/Poseidon = Cupido`: page `302`
+- `Cupido/Kronos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `269`
+- `Cupido/Kronos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `429`
+- `Cupido/Poseidon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `274`
+- `Cupido/Poseidon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `437`
+- `Kronos/Poseidon = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `302`
+- `Kronos/Poseidon = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `467`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Kronos = Poseidon`: a state-protected spiritual or ideological community.
+- `Cupido/Poseidon = Kronos`: leadership of a cultural organization, state-run spiritual communities, and dominant philosophical politics.
+- `Kronos/Poseidon = Cupido`: community organized around culture, education, politics, or high spiritual attitude, including major educational institutions and cultural parties or movements.
 
 ## Links
 
 - [Cupido](../factors/cupido.md)
 - [Kronos](../factors/kronos.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

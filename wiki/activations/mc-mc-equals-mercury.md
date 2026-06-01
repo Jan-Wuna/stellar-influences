@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `MC + MC`
-- Source page: `56`
 #### Witte Entry
 
 One’s own observation. One’s own thinking. To meditate. Monologues. Self talks. Flexibility of the soul. Business thoughts. Mental attitude. The mobility of thinking. The faculty of thinking. The minute of news. Individual thoughts. Thoughts or news in profession. Media professionals.
 
-## Comparative Schema
-
-- core meaning: One’s own observation. One’s own thinking. To meditate. Monologues. Self talks. Flexibility of the soul. Business thoughts. Mental attitude. The mobility of thinking. The faculty of thinking. The minute of news. Individual thoughts. Thoughts or news in profession. Media professionals.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/MC = Mercury` mentalizes the axis into thought, observation, and flexible self-reflection.
+- Chart expression: a self defined through thinking, speaking, planning, and mental mobility, with identity strongly tied to ideas, communications, and professional information flow.
 
 ## Links
 

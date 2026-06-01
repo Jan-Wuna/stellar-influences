@@ -3,7 +3,7 @@ title: MC Cupido Apollon
 page_type: triad_hub
 slug: mc-cupido-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `MC Cupido Apollon`
 - Astronomicon triad-set: `MC ¡ ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Apollon = MC](../activations/cupido-apollon-equals-mc.md)
-  Source page `270`
 - [MC/Apollon = Cupido](../activations/mc-apollon-equals-cupido.md)
-  Source page `74`
 - [MC/Cupido = Apollon](../activations/mc-cupido-equals-apollon.md)
-  Source page `70`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Apollon = MC`: page `270`
-- `MC/Apollon = Cupido`: page `74`
-- `MC/Cupido = Apollon`: page `70`
+- `Cupido/Apollon = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `270`
+- `Cupido/Apollon = MC`: Udo Rudolph - ABC for Planetary Pictures, page `430`
+- `MC/Apollon = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `74`
+- `MC/Apollon = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `93`
+- `MC/Cupido = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `70`
+- `MC/Cupido = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `85`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Apollon = MC`: belonging to a great family or association and achieving success as an artist or scientist.
+- `MC/Apollon = Cupido`: collectivizes the axis through art, cultured circles, and peaceful networks.
+- `MC/Cupido = Apollon`: expands the axis into large families, broad social life, and wide communal affiliation.
 
 ## Links
 
 - [MC](../factors/mc.md)
 - [Cupido](../factors/cupido.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

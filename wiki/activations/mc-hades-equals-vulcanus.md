@@ -3,7 +3,7 @@ title: MC/Hades = Vulcanus
 page_type: activation
 slug: mc-hades-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Hades
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Hades`
-- Source page: `71`
 #### Witte Entry
 
 Sorrow through dependence and poverty.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sorrow through dependence and poverty.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influenced service of the soul, danger to the soul through violence, dangerous psychic influence/3, my influx/3 deficiency, my secret influence/3, my hidden influence/3, my renunciation of violence, hidden soul en force, and criminal violence per minute
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Hades = Vulcanus` massively intensifies the axis through dependence and poverty.
+- Chart expression: powerful sorrow under deprivation, burdens made heavier by dependence, and an oppressive life field in which hardship gains overwhelming force.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sorrow through dependence and poverty.
 - [Hades](../factors/hades.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [MC/Hades](../axes/mc-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

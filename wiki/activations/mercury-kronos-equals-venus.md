@@ -3,7 +3,7 @@ title: Mercury/Kronos = Venus
 page_type: activation
 slug: mercury-kronos-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Venus
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Kronos`
-- Source page: `169`
 #### Witte Entry
 
 Acquaintance through great thoughts or ideas. Soft artistic way of expression. Pleasant acquaintance with experts or the power of the state, and thereby enjoy advantages. Artistic form of literature.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Acquaintance through great thoughts or ideas. Soft artistic way of expression. Pleasant acquaintance with experts or the power of the state, and thereby enjoy advantages. Artistic form of literature.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Appreciation of the media art, special language art, dominant artistic opinion, peace language of the state, great youth love, great love for youth, self conscious young love, important words of goodwill, and benevolent words of the boss
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Kronos = Venus` softens the axis into refined relationships, artistic literature, and pleasant expert ties.
+- Chart expression: acquaintances formed through great ideas, graceful or artistic expression, and benefits gained through pleasant connection with experts, cultural authority, or the state.
 
 ## Links
 
@@ -61,3 +56,5 @@ Acquaintance through great thoughts or ideas. Soft artistic way of expression. P
 - [Kronos](../factors/kronos.md)
 - [Venus](../factors/venus.md)
 - [Mercury/Kronos](../axes/mercury-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

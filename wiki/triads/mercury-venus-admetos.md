@@ -3,7 +3,7 @@ title: Mercury Venus Admetos
 page_type: triad_hub
 slug: mercury-venus-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Venus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Venus Admetos`
 - Astronomicon triad-set: `T Q ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Admetos = Venus](../activations/mercury-admetos-equals-venus.md)
-  Source page `171`
 - [Mercury/Venus = Admetos](../activations/mercury-venus-equals-admetos.md)
-  Source page `159`
 - [Venus/Admetos = Mercury](../activations/venus-admetos-equals-mercury.md)
-  Source page `187`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Admetos = Venus`: page `171`
-- `Mercury/Venus = Admetos`: page `159`
-- `Venus/Admetos = Mercury`: page `187`
+- `Mercury/Admetos = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `171`
+- `Mercury/Admetos = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `264`
+- `Mercury/Venus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `159`
+- `Mercury/Venus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `241`
+- `Venus/Admetos = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `187`
+- `Venus/Admetos = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `292`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Admetos = Venus`: makes the axis socially awkward and ill-mannered.
+- `Mercury/Venus = Admetos`: To have few acquaintances. Cold behavior towards new friends. New friends given the cold shoulder. Disorderly conduct.
+- `Venus/Admetos = Mercury`: very concentrated thinking.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Venus](../factors/venus.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

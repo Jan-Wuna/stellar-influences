@@ -3,7 +3,7 @@ title: Mercury/Uranus = Kronos
 page_type: activation
 slug: mercury-uranus-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Uranus
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Uranus`
-- Source page: `163`
 #### Witte Entry
 
 Sudden decree of ruling persons. Official telegrams, emails.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sudden decree of ruling persons. Official telegrams, emails.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Particularly exciting language, troubling news of the boss, young dynamic boss, state media technology, technical news hierarchy, talk about state events, and priority media events
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Uranus = Kronos`: Sudden decree of ruling persons. Official telegrams, emails.
+- Practical expression: particularly exciting language, troubling news of the boss, young dynamic boss, state media technology, and technical news hierarchy.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sudden decree of ruling persons. Official telegrams, emails.
 - [Uranus](../factors/uranus.md)
 - [Kronos](../factors/kronos.md)
 - [Mercury/Uranus](../axes/mercury-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

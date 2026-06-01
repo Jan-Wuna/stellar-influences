@@ -3,7 +3,7 @@ title: Venus/Hades = Vulcanus
 page_type: activation
 slug: venus-hades-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Hades
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Hades`
-- Source page: `183`
 #### Witte Entry
 
 Performing dangerous services. Serious endangerment in the service. Crimes among prostitutes.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Performing dangerous services. Serious endangerment in the service. Crimes among prostitutes.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influential love service, danger by violence in love, secret love influence, artificial influence from the past, power of an old love, strength and beauty in old age, strong love cummer, hidden artificial influence, and renunciation of love violence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Hades = Vulcanus`: performing dangerous services.
+- Practical expression: influential love service, danger by violence in love, secret love influence, artificial influence from the past, and power of an old love.
 
 ## Links
 
@@ -61,3 +56,5 @@ Performing dangerous services. Serious endangerment in the service. Crimes among
 - [Hades](../factors/hades.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Venus/Hades](../axes/venus-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

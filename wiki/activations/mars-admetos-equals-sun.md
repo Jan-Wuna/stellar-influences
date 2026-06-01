@@ -3,7 +3,7 @@ title: Mars/Admetos = Sun
 page_type: activation
 slug: mars-admetos-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Mars
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Admetos`
-- Source page: `202`
 #### Witte Entry
 
 The little daily tasks. Activity confined to small space. The man who works with loss, who narrows, reduces his field of work. Clumsy man.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The little daily tasks. Activity confined to small space. The man who works with loss, who narrows, reduces his field of work. Clumsy man.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked work centre, solidified will of a person, gross actions of the man, circulatory work of the body, person working with earth, gross personal activity, personal will constriction, and center of a work cycle
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Admetos = Sun`: little daily tasks, work in a small space, reduced scope of effort, and the person whose activity contracts under pressure or loss.
+- Chart expression: modest, limited labor and practical reduction, but it also points to clumsiness, narrowed range, and diminished freedom of action.
 
 ## Links
 
@@ -61,3 +56,5 @@ The little daily tasks. Activity confined to small space. The man who works with
 - [Admetos](../factors/admetos.md)
 - [Sun](../factors/sun.md)
 - [Mars/Admetos](../axes/mars-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

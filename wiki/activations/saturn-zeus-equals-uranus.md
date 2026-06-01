@@ -3,7 +3,7 @@ title: Saturn/Zeus = Uranus
 page_type: activation
 slug: saturn-zeus-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Uranus
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Zeus`
-- Source page: `226`
 #### Witte Entry
 
 Sudden enforced separation, to be exposed to pressure. Loss by fire or lightning.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sudden enforced separation, to be exposed to pressure. Loss by fire or lightning.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Designing tasks, losing reform beginning Starting shocks in the water, replacing tasks design, performance problems in the water, problematic movement weakness, mature performance in metaphysics, and cancellationc
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Zeus = Uranus`: sudden enforced separation, to be exposed to pressure, loss by fire or lightning.
+- Practical expression: designing tasks, losing reform beginning Starting shocks in the water, replacing tasks design, performance problems in the water, and problematic movement weakness.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sudden enforced separation, to be exposed to pressure. Loss by fire or lightning
 - [Zeus](../factors/zeus.md)
 - [Uranus](../factors/uranus.md)
 - [Saturn/Zeus](../axes/saturn-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

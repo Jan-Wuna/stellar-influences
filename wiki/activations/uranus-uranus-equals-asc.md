@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Uranus + Uranus`
-- Source page: `232`
 #### Witte Entry
 
 Excitement, irritation or accidents caused by other people. Sudden acquaintances. Sudden events of other peoples. Tension and excitement by others. Reunions for a special reason. Sudden appearance. Location of an accident. Location for mathematics, technology or inventions. Engineers, restless or excited people in the immediate surroundings. Environmental technology.
 
-## Comparative Schema
-
-- core meaning: Excitement, irritation or accidents caused by other people. Sudden acquaintances. Sudden events of other peoples. Tension and excitement by others. Reunions for a special reason. Sudden appearance. Location of an accident. Location for mathematics, technology or inventions. Engineers, restless or excited people in the immediate surroundings. Environmental technology.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Uranus = Asc`: Excitement, irritation or accidents caused by other people. Sudden acquaintances. Sudden events of other peoples.
 
 ## Links
 

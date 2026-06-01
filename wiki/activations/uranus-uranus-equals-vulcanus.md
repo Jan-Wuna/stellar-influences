@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Uranus + Uranus`
-- Source page: `233`
 #### Witte Entry
 
 Sudden appearance of forces. Thunderbolt. Explosion. Mighty tension. Great display of strength. Engine power. Electric energies. Electrical high tension. Lightnings. Fires. New kind of energy. Revolutionary forces.
 
-## Comparative Schema
-
-- core meaning: Sudden appearance of forces. Thunderbolt. Explosion. Mighty tension. Great display of strength. Engine power. Electric energies. Electrical high tension. Lightnings. Fires. New kind of energy. Revolutionary forces.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Uranus = Vulcanus`: Sudden appearance of forces. Thunderbolt. Explosion. Mighty tension. Great display of strength. Engine power. Electric energies. Electrical high tension. Lightnings. Fires. New kind of energy. Revolutionary forces.
 
 ## Links
 

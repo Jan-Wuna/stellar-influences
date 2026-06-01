@@ -3,7 +3,7 @@ title: Vernal Point Sun Poseidon
 page_type: triad_hub
 slug: vernal-point-sun-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Sun
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Sun Poseidon`
 - Astronomicon triad-set: `VP S ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Sun/Poseidon = Vernal Point](../activations/sun-poseidon-equals-vernal-point.md)
-  Source page `118`
 - [Vernal Point/Poseidon = Sun](../activations/vernal-point-poseidon-equals-sun.md)
-  Source page `55`
 - [Vernal Point/Sun = Poseidon](../activations/vernal-point-sun-equals-poseidon.md)
-  Source page `37`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Sun/Poseidon = Vernal Point`: page `118`
-- `Vernal Point/Poseidon = Sun`: page `55`
-- `Vernal Point/Sun = Poseidon`: page `37`
+- `Sun/Poseidon = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `118`
+- `Sun/Poseidon = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `172`
+- `Vernal Point/Poseidon = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `55`
+- `Vernal Point/Poseidon = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `58`
+- `Vernal Point/Sun = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `37`
+- `Vernal Point/Sun = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `23`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Sun/Poseidon = Vernal Point`: This formula emphasizes spiritual atmosphere in the environment and truth appearing in circumstance.
+- `Vernal Point/Poseidon = Sun`: This formula emphasizes turning ideas into reality, inspiration and ideas about a physical form or an object, and the ideas and mindset of the current generation.
+- `Vernal Point/Sun = Poseidon`: This formula emphasizes the daily education in general, spirit, and the astral body.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Sun](../factors/sun.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

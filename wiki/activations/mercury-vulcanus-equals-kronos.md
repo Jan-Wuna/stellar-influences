@@ -3,7 +3,7 @@ title: Mercury/Vulcanus = Kronos
 page_type: activation
 slug: mercury-vulcanus-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Kronos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Vulcanus`
-- Source page: `172`
 #### Witte Entry
 
 Political thoughts, debates or conversations. To concern oneself with affairs of state.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Political thoughts, debates or conversations. To concern oneself with affairs of state.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Reports of state violence, dominant youth violence, speech about the power of authority, great influence of traffic, news about authority, state traffic violence, and important influence of youth
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Vulcanus = Kronos`: Political thoughts, debates or conversations. To concern oneself with affairs of state.
+- Practical expression: reports of state violence, dominant youth violence, speech about the power of authority, great influence of traffic, and news about authority.
 
 ## Links
 
@@ -61,3 +56,5 @@ Political thoughts, debates or conversations. To concern oneself with affairs of
 - [Vulcanus](../factors/vulcanus.md)
 - [Kronos](../factors/kronos.md)
 - [Mercury/Vulcanus](../axes/mercury-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

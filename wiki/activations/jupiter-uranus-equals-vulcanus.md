@@ -3,7 +3,7 @@ title: Jupiter/Uranus = Vulcanus
 page_type: activation
 slug: jupiter-uranus-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Uranus
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Uranus`
-- Source page: `208`
 #### Witte Entry
 
 Sudden might luck Optimism through sudden luck.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sudden might luck Optimism through sudden luck.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Excitement over right power, dynamic money power, successful energy impulses, joy over technical energy, tremendous technical success, and powerful tension through money
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Uranus = Vulcanus`: breakthrough events carrying real force behind them. It favors powerful surges of confidence and sudden opportunity that changes the balance of strength.
 
 ## Links
 
@@ -61,3 +55,5 @@ Sudden might luck Optimism through sudden luck.
 - [Uranus](../factors/uranus.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Jupiter/Uranus](../axes/jupiter-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

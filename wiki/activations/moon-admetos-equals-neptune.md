@@ -3,7 +3,7 @@ title: Moon/Admetos = Neptune
 page_type: activation
 slug: moon-admetos-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Neptune
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Admetos`
-- Source page: `135`
 #### Witte Entry
 
 Nation facing destruction and misfortune. Uncertain and black future. Hour of desperation. Deceived by the personal conditions. Deluded.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Nation facing destruction and misfortune. Uncertain and black future. Hour of desperation. Deceived by the personal conditions. Deluded.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Ignorance of a depressed woman, perseverance of a woman in the water, fine tuning of a woman solidified, feelings tauchung by depression, uncertainty of a woman by depression, deepening of a people in metaphysics, dedication of a people in the water restricted development of a woman, general development of a woman, and standstill in the
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Admetos = Neptune`: Nation facing destruction and misfortune. Uncertain and black future. Hour of desperation. Deceived by the personal conditions. Deluded.
+- Practical expression: ignorance of a depressed woman, perseverance of a woman in the water, fine tuning of a woman solidified, feelings tauchung by depression, and uncertainty of a woman by depression.
 
 ## Links
 
@@ -61,3 +56,5 @@ Nation facing destruction and misfortune. Uncertain and black future. Hour of de
 - [Admetos](../factors/admetos.md)
 - [Neptune](../factors/neptune.md)
 - [Moon/Admetos](../axes/moon-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -56,11 +56,12 @@ aliases:
   - Node/Neptune
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -73,17 +74,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune/Dragon's Head`
-- Source page: `283`
-
 #### Pair Summary
 
 Dissolution of unions. Secret relationships or contacts. Future connections. Sensitive or uncertain connection. Unreliable relationships. Connection to metaphysics. Connections to the unknown. Avoiding certain contacts.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Neptune/Dragon's Head`
-- Source page: `283`
+#### ABC Pair Summary
+
+Enf: swapping, fine tuning in compounds, fine tuning compound, intuitive compound, unsafe bonding, connection to metaphysics, prevention with a water, bonding unresolved, and future compounds
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -107,9 +108,6 @@ Antisocial elements.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Neptune/Node midpoint`
-- Source page: `111`
-
 #### Principle
 
 Subtle and/or subliminal connections with people. An intuitive link with others. The need to use one’s imagination in the service of one’s evolution. Confusion resulting from one’s connections with others. The need to heal confusion by tuning in to one’s inner spiritual guidance and allowing its clarifying influence to affect one’s life.
@@ -120,17 +118,11 @@ The progressive development of one’s intuitive abilities. The realization of d
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Neptune/Nodes`
-- Source page: `212`
-
 #### Pair Delineation
 
 Confusing connections, connections whose nature is not clear, deceitful connections. Connections with others for idealistic, spiritual, or religious purposes. Connections that involve self-sacrifice.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `NEPTUNE/NODE`
-- Source page: `331`
 
 #### Basic Ideas
 
@@ -159,15 +151,6 @@ Use of drugs to isolate self from society; subjugating yourself to the influence
 
 - [Michael Munkasey - Neptune/Node Concepts](../derived/munkasey-neptune-node-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Neptune/Node = Admetos](../activations/neptune-node-equals-admetos.md)
@@ -191,20 +174,18 @@ Use of drugs to isolate self from society; subjugating yourself to the influence
 - [Neptune/Node = Vulcanus](../activations/neptune-node-equals-vulcanus.md)
 - [Neptune/Node = Zeus](../activations/neptune-node-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Node` is the axis of subtle or sacrificial connection, intuitive fellowship, and bonds shaped by idealism, confusion, or invisible influences. It combines dream, sympathy, mysticism, and ambiguity with friendship, group ties, and shared experience.
+- Chart expression: spiritual companionship, compassion in association, intuitive links, and connections formed around healing, art, religion, or collective ideals. Liabilities: deceitful alliances, unclear motives, social withdrawal, evasiveness, and communities in which projection, disappointment, or exploitation quietly undermine trust.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [Node](../factors/node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)

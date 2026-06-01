@@ -3,7 +3,7 @@ title: Neptune Hades Kronos
 page_type: triad_hub
 slug: neptune-hades-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Neptune Hades Kronos`
 - Astronomicon triad-set: `Y ¢ ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Kronos = Neptune](../activations/hades-kronos-equals-neptune.md)
-  Source page `279`
 - [Neptune/Hades = Kronos](../activations/neptune-hades-equals-kronos.md)
-  Source page `248`
 - [Neptune/Kronos = Hades](../activations/neptune-kronos-equals-hades.md)
-  Source page `250`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Kronos = Neptune`: page `279`
-- `Neptune/Hades = Kronos`: page `248`
-- `Neptune/Kronos = Hades`: page `250`
+- `Hades/Kronos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `279`
+- `Hades/Kronos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `441`
+- `Neptune/Hades = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `248`
+- `Neptune/Hades = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `395`
+- `Neptune/Kronos = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `250`
+- `Neptune/Kronos = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `399`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Kronos = Neptune`: corruption producing deceit, and criminal or investigative authority itself becoming wrong, false, or compromised.
+- `Neptune/Hades = Kronos`: This activation elevates decay into the sphere of authority and state power, showing obsolete rule, corruption in governing circles, and ruin or death working through those at the top.
+- `Neptune/Kronos = Hades`: This activation darkens authority into open ruin, bringing misfortune and catastrophe to firms, leaders, or governments already weakened by deception or failed control.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [Hades](../factors/hades.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

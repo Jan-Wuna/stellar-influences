@@ -3,7 +3,7 @@ title: Sun/Cupido = Mars
 page_type: activation
 slug: sun-cupido-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Mars
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Cupido`
-- Source page: `111`
 #### Witte Entry
 
 Marriage bond. To celebrate one’s wedding. Nuptial night. The man active as an fol artist. Commerce or trade unions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Marriage bond. To celebrate one’s wedding. Nuptial night. The man active as an fol artist. Commerce or trade unions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Actions of a person community, joint corporal activities, corporal work in the community, man community, artistic activity of a man, day of community work, and center of a work community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Cupido = Mars`: family activities and active in a family or community.
+- Practical expression: actions of a person community, joint corporal activities, corporal work in the community, man community, and artistic activity of a man.
 
 ## Links
 
@@ -61,3 +56,5 @@ Marriage bond. To celebrate one’s wedding. Nuptial night. The man active as an
 - [Cupido](../factors/cupido.md)
 - [Mars](../factors/mars.md)
 - [Sun/Cupido](../axes/sun-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

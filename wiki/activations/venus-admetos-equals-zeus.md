@@ -3,7 +3,7 @@ title: Venus/Admetos = Zeus
 page_type: activation
 slug: venus-admetos-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Zeus
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Admetos`
-- Source page: `187`
 #### Witte Entry
 
 To do something with all one’s heart. To overcome a difficult beginning through love for the cause.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To do something with all one’s heart. To overcome a difficult beginning through love for the cause.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Especially deep affection, special deepening in the arts, dominant love depression, consolidation of peace by the state, consolidation of a great love, deepening peace with the hierarchy, and glaring self esteem in love
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Admetos = Zeus` directs restricted or concentrated affection into purposeful effort: doing something with all one's heart and overcoming a difficult beginning through love for the cause.
+- Practical expression: especially deep affection, special deepening in the arts, consolidation of peace, consolidation of a great love, and intensified self-esteem in love.
 
 ## Links
 
@@ -61,3 +56,5 @@ To do something with all one’s heart. To overcome a difficult beginning throug
 - [Admetos](../factors/admetos.md)
 - [Zeus](../factors/zeus.md)
 - [Venus/Admetos](../axes/venus-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

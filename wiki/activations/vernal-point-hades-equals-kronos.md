@@ -3,7 +3,7 @@ title: Vernal Point/Hades = Kronos
 page_type: activation
 slug: vernal-point-hades-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Hades
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Hades`
-- Source page: `49`
 #### Witte Entry
 
 Great general want. Great depression. General worries through leading forces. Coal mining.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great general want. Great depression. General worries through leading forces. Coal mining.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Authoritat's deficiency in the public, authorities's deficiency in the public life, great danger in the public, public disadvantages by the state, self evident public service, state criminality in the public, and important public renunciation
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Hades = Kronos`: great general want, great depression, general worries through leading forces, and coal mining.
+- Practical expression: authorities's deficiency in the public life, great danger in the public, public disadvantages by the state, and self evident public service.
 
 ## Links
 
@@ -61,3 +56,5 @@ Great general want. Great depression. General worries through leading forces. Co
 - [Hades](../factors/hades.md)
 - [Kronos](../factors/kronos.md)
 - [Vernal Point/Hades](../axes/vernal-point-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

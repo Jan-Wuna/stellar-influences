@@ -3,7 +3,7 @@ title: Vernal Point Jupiter Poseidon
 page_type: triad_hub
 slug: vernal-point-jupiter-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Jupiter
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Jupiter Poseidon`
 - Astronomicon triad-set: `VP V ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Poseidon = Vernal Point](../activations/jupiter-poseidon-equals-vernal-point.md)
-  Source page `218`
 - [Vernal Point/Jupiter = Poseidon](../activations/vernal-point-jupiter-equals-poseidon.md)
-  Source page `43`
 - [Vernal Point/Poseidon = Jupiter](../activations/vernal-point-poseidon-equals-jupiter.md)
-  Source page `55`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Poseidon = Vernal Point`: page `218`
-- `Vernal Point/Jupiter = Poseidon`: page `43`
-- `Vernal Point/Poseidon = Jupiter`: page `55`
+- `Jupiter/Poseidon = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `218`
+- `Jupiter/Poseidon = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `346`
+- `Vernal Point/Jupiter = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `43`
+- `Vernal Point/Jupiter = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `35`
+- `Vernal Point/Poseidon = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `55`
+- `Vernal Point/Poseidon = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `58`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Poseidon = Vernal Point`: general reason and intelligence, law conditions in general, and a kind of world conscience.
+- `Vernal Point/Jupiter = Poseidon`: This formula emphasizes the common sense or reason and the knowledge that enriches the general public.
+- `Vernal Point/Poseidon = Jupiter`: This formula emphasizes fortunate understanding, reason, wisdom.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Jupiter](../factors/jupiter.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

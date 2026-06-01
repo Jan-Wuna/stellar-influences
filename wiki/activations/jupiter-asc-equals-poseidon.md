@@ -3,10 +3,10 @@ title: Jupiter/Asc = Poseidon
 page_type: activation
 slug: jupiter-asc-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Jupiter
+  - Asc
   - Poseidon
 normalized_formula: Jupiter/Asc = Poseidon
 axis: Jupiter/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Asc
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Jupiter`
-- Source page: `86`
 #### Witte Entry
 
 In the company of prudent and reasonable men.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: In the company of prudent and reasonable men.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful cultural place, joy in environmental culture, happy spiritual environment, ideal environmental success, clear financials of the partner, legal clarity in the place, spiritual success in the place, advantage by spiritual partners, and satisfaction over true partners
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Asc = Poseidon`: social optimism elevated by wisdom. It can show good fortune arising through intellectually sound or ethically clear companionship.
 
 ## Links
 
@@ -61,3 +55,5 @@ In the company of prudent and reasonable men.
 - [Asc](../factors/asc.md)
 - [Poseidon](../factors/poseidon.md)
 - [Jupiter/Asc](../axes/jupiter-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

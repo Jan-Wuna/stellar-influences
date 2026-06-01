@@ -3,10 +3,10 @@ title: Mars/Asc = Vulcanus
 page_type: activation
 slug: mars-asc-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Mars
+  - Asc
   - Vulcanus
 normalized_formula: Mars/Asc = Vulcanus
 axis: Mars/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Asc
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Mars`
-- Source page: `85`
 #### Witte Entry
 
 Others act on their own authority. Violent deeds of others. To be exposed to grave threats of others.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Others act on their own authority. Violent deeds of others. To be exposed to grave threats of others.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Work force filr the environment, energy impulses from the environment, violence activity in the place, enormous influence of others, powerful actions for the environment, powerful action in the place, powerful action of other, and strong environmental emulations
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Asc = Vulcanus` intensifies the Mars/Asc axis into overwhelming force from others, violent deeds, and grave threats in the immediate environment.
+- Chart expression: domination, coercion, and exposure to raw power, where the normal fighting spirit becomes a confrontation with superior strength or dangerous pressure.
 
 ## Links
 
@@ -61,3 +56,5 @@ Others act on their own authority. Violent deeds of others. To be exposed to gra
 - [Asc](../factors/asc.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Mars/Asc](../axes/mars-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

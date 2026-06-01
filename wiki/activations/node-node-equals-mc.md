@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Node + Node`
-- Source page: `139`
 #### Witte Entry
 
 Soul mates. One’s close personal connections. Contacts in profession. Inner or emotional bonds. The moment (minute) of contact. The moment of connection.
 
-## Comparative Schema
-
-- core meaning: Soul mates. One’s close personal connections. Contacts in profession. Inner or emotional bonds. The moment (minute) of contact. The moment of connection.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Node = MC`: Soul mates. One’s close personal connections. Contacts in profession. Inner or emotional bonds. The moment (minute) of contact. The moment of connection.
+- Practical focus: soul mates; also one’s close personal connections.
 
 ## Links
 

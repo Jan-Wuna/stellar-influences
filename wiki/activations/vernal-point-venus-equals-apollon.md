@@ -3,7 +3,7 @@ title: Vernal Point/Venus = Apollon
 page_type: activation
 slug: vernal-point-venus-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Venus
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Venus
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Venus`
-- Source page: `41`
 #### Witte Entry
 
 General peace, concord, unity and friendship.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: General peace, concord, unity and friendship.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Peace success in public, harmony expansion in public, artificial trade in public, preference for public experiences, economic peace in public life, and increasing joy in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Venus = Apollon`: general peace, concord, unity and friendship.
+- Practical expression: peace success in public, harmony expansion in public, artificial trade in public, preference for public experiences, and economic peace in public life.
 
 ## Links
 
@@ -61,3 +56,5 @@ General peace, concord, unity and friendship.
 - [Venus](../factors/venus.md)
 - [Apollon](../factors/apollon.md)
 - [Vernal Point/Venus](../axes/vernal-point-venus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

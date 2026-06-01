@@ -3,7 +3,7 @@ title: Kronos/Poseidon = Asc
 page_type: activation
 slug: kronos-poseidon-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - Kronos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Kronos + Poseidon`
-- Source page: `302`
 #### Witte Entry
 
 To be connected with others through high minded subjects. Others are intellectuals or the native appears mentally superior. To be under the mental influence of others.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be connected with others through high minded subjects. Others are intellectuals or the native appears mentally superior. To be under the mental influence of others.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Other mentally guided, special environmental culture, dominant idea of the partner, mentally self sufficient partner, gcistigc authority, place, cultural prestige of a place, state environmental culture, important clarity in the place, and important truth of others
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Poseidon = Asc`: connection with others through high-minded subjects, appearance of mental superiority, and strong influence from intellectually elevated people.
+- Chart expression: an environment shaped by ideas, education, and principle, with relationships colored by perceived mental stature.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be connected with others through high minded subjects. Others are intellectua
 - [Poseidon](../factors/poseidon.md)
 - [Asc](../factors/asc.md)
 - [Kronos/Poseidon](../axes/kronos-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

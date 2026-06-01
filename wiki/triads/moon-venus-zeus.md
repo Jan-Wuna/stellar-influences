@@ -3,7 +3,7 @@ title: Moon Venus Zeus
 page_type: triad_hub
 slug: moon-venus-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Venus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Venus Zeus`
 - Astronomicon triad-set: `R Q £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Venus = Zeus](../activations/moon-venus-equals-zeus.md)
-  Source page `123`
 - [Moon/Zeus = Venus](../activations/moon-zeus-equals-venus.md)
-  Source page `132`
 - [Venus/Zeus = Moon](../activations/venus-zeus-equals-moon.md)
-  Source page `184`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Venus = Zeus`: page `123`
-- `Moon/Zeus = Venus`: page `132`
-- `Venus/Zeus = Moon`: page `184`
+- `Moon/Venus = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `123`
+- `Moon/Venus = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `179`
+- `Moon/Zeus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `132`
+- `Moon/Zeus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `196`
+- `Venus/Zeus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `184`
+- `Venus/Zeus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `286`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Venus = Zeus`: This activation energizes `Moon/Venus` through betrothal, desire for motherhood, and active increase of family life. It turns affection toward generation, commitment, and the wish to make love fruitful and concrete.
+- `Moon/Zeus = Venus`: Fiery love nature. Hot blooded. Hour of progeny.
+- `Venus/Zeus = Moon`: pregnancy, gestation.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Venus](../factors/venus.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

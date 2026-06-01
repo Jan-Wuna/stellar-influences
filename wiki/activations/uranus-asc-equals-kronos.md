@@ -3,10 +3,10 @@ title: Uranus/Asc = Kronos
 page_type: activation
 slug: uranus-asc-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Uranus
+  - Asc
   - Kronos
 normalized_formula: Uranus/Asc = Kronos
 axis: Uranus/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Asc
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Uranus`
-- Source page: `88`
 #### Witte Entry
 
 To be implicated in an event by the state. The execution of orders.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be implicated in an event by the state. The execution of orders.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special event on site, great tensions with the partner, sudden superiority of the partner, reformation of the environmental authority, state environmental technology, state event on site, ubiquitous independence of the partner, and important place of technology
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Asc = Kronos`: To be implicated in an event by the state. The execution of orders.
+- Practical expression: special event on site, great tensions with the partner, sudden superiority of the partner, reformation of the environmental authority, and state environmental technology.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be implicated in an event by the state. The execution of orders.
 - [Asc](../factors/asc.md)
 - [Kronos](../factors/kronos.md)
 - [Uranus/Asc](../axes/uranus-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

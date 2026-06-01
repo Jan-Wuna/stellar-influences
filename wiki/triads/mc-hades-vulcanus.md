@@ -3,7 +3,7 @@ title: MC Hades Vulcanus
 page_type: triad_hub
 slug: mc-hades-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `MC Hades Vulcanus`
 - Astronomicon triad-set: `MC ¢ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Vulcanus = MC](../activations/hades-vulcanus-equals-mc.md)
-  Source page `285`
 - [MC/Hades = Vulcanus](../activations/mc-hades-equals-vulcanus.md)
-  Source page `71`
 - [MC/Vulcanus = Hades](../activations/mc-vulcanus-equals-hades.md)
-  Source page `76`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Vulcanus = MC`: page `285`
-- `MC/Hades = Vulcanus`: page `71`
-- `MC/Vulcanus = Hades`: page `76`
+- `Hades/Vulcanus = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `285`
+- `Hades/Vulcanus = MC`: Udo Rudolph - ABC for Planetary Pictures, page `446`
+- `MC/Hades = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `71`
+- `MC/Hades = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `87`
+- `MC/Vulcanus = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `76`
+- `MC/Vulcanus = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `97`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Vulcanus = MC`: a feeling of dependence and being subject to overpowering forces beyond personal control.
+- `MC/Hades = Vulcanus`: massively intensifies the axis through dependence and poverty.
+- `MC/Vulcanus = Hades`: darkens the axis through danger, grim confrontation, and force applied amid repulsive conditions.
 
 ## Links
 
 - [MC](../factors/mc.md)
 - [Hades](../factors/hades.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

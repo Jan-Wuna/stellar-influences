@@ -3,7 +3,7 @@ title: Sun/Neptune = Admetos
 page_type: activation
 slug: sun-neptune-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Neptune
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Neptune`
-- Source page: `109`
 #### Witte Entry
 
 Frozen or chilled body. Coagulation of the blood. Stiffness.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Frozen or chilled body. Coagulation of the blood. Stiffness.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Autlasung of personal depression, narrowed insecure person, strengthening of a person's fine feeling, poison in the body circuit, man in deep water, creeping body blockade, and underdripping of weak persons
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Neptune = Admetos`: hidden matters in the ground or home and buried spiritual or secret concerns.
+- Practical expression: autlasung of personal depression, narrowed insecure person, strengthening of a person's fine feeling, poison in the body circuit, and man in deep water.
 
 ## Links
 
@@ -61,3 +56,5 @@ Frozen or chilled body. Coagulation of the blood. Stiffness.
 - [Neptune](../factors/neptune.md)
 - [Admetos](../factors/admetos.md)
 - [Sun/Neptune](../axes/sun-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

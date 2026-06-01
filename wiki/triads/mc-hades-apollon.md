@@ -3,7 +3,7 @@ title: MC Hades Apollon
 page_type: triad_hub
 slug: mc-hades-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `MC Hades Apollon`
 - Astronomicon triad-set: `MC ¢ ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Apollon = MC](../activations/hades-apollon-equals-mc.md)
-  Source page `280`
 - [MC/Apollon = Hades](../activations/mc-apollon-equals-hades.md)
-  Source page `74`
 - [MC/Hades = Apollon](../activations/mc-hades-equals-apollon.md)
-  Source page `71`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Apollon = MC`: page `280`
-- `MC/Apollon = Hades`: page `74`
-- `MC/Hades = Apollon`: page `71`
+- `Hades/Apollon = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `280`
+- `Hades/Apollon = MC`: Udo Rudolph - ABC for Planetary Pictures, page `442`
+- `MC/Apollon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `74`
+- `MC/Apollon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `93`
+- `MC/Hades = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `71`
+- `MC/Hades = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `87`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Apollon = MC`: learning from poverty or difficulty, becoming impressed by great want, and turning toward history or secret doctrine.
+- `MC/Apollon = Hades`: lowers the axis into old, obscure, or difficult fields of knowledge.
+- `MC/Hades = Apollon`: broadens the axis into historical, antiquarian, or secret forms of knowledge while worsening ordinary prosperity.
 
 ## Links
 
 - [MC](../factors/mc.md)
 - [Hades](../factors/hades.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

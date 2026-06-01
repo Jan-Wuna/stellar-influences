@@ -3,7 +3,7 @@ title: Moon/Jupiter = Kronos
 page_type: activation
 slug: moon-jupiter-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Jupiter
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Jupiter
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Jupiter`
-- Source page: `125`
 #### Witte Entry
 
 To be in good mood through ones own ability. Gain through lottery by the wife. A woman having become well-to-do through the state. The populace made happy by the government.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be in good mood through ones own ability. Gain through lottery by the wife. A woman having become well-to-do through the state. The populace made happy by the government.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special advantages for the woman, success of a woman as boss, successful authorship of the woman, financially self employed woman, groBes GIUcks feeling, self awareness of a happy mother, state women's law, and important rights of women
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Jupiter = Kronos`: To be in good mood through ones own ability. Gain through lottery by the wife. A woman having become well-to-do through the state. The populace made happy by the government.
+- Practical focus: elevates `Moon/Jupiter` through competence, patronage, and high-level support. It points to good fortune tied to personal ability, government, status, or official protection, so emotional confidence is reinforced by recognition, institutional help, or prosperity that carries public consequence.
+- Practical expression: special advantages for the woman, success of a woman as boss, successful authorship of the woman, financially self employed woman, and groBes GIUcks feeling.
 
 ## Links
 
@@ -61,3 +57,5 @@ To be in good mood through ones own ability. Gain through lottery by the wife. A
 - [Jupiter](../factors/jupiter.md)
 - [Kronos](../factors/kronos.md)
 - [Moon/Jupiter](../axes/moon-jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

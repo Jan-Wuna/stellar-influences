@@ -3,7 +3,7 @@ title: Uranus Pluto Hades
 page_type: triad_hub
 slug: uranus-pluto-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Pluto
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Pluto Hades`
 - Astronomicon triad-set: `X Z ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Pluto/Hades = Uranus](../activations/pluto-hades-equals-uranus.md)
-  Source page `258`
 - [Uranus/Hades = Pluto](../activations/uranus-hades-equals-pluto.md)
-  Source page `237`
 - [Uranus/Pluto = Hades](../activations/uranus-pluto-equals-hades.md)
-  Source page `235`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Pluto/Hades = Uranus`: page `258`
-- `Uranus/Hades = Pluto`: page `237`
-- `Uranus/Pluto = Hades`: page `235`
+- `Pluto/Hades = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `258`
+- `Pluto/Hades = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `411`
+- `Uranus/Hades = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `237`
+- `Uranus/Hades = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `377`
+- `Uranus/Pluto = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `235`
+- `Uranus/Pluto = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `373`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Pluto/Hades = Uranus`: This activation emphasizes sudden damaging change; Abrupt decline or disruptive worsening of conditions.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Pluto](../factors/pluto.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

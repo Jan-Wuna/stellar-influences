@@ -3,7 +3,7 @@ title: Jupiter/Hades = Mercury
 page_type: activation
 slug: jupiter-hades-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Jupiter
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Hades`
-- Source page: `212`
 #### Witte Entry
 
 To make indecent remarks. To tell dirty stories and obscene jokes. Vulgar talkativeness. Drivel and twaddle.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To make indecent remarks. To tell dirty stories and obscene jokes. Vulgar talkativeness. Drivel and twaddle.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Reports about G!Uck in danger, successfully describing hidden thoughts, financial distress, money absorption in youth, youth crime and law, news about Gltick in need, disadvantages by traffic law, and pros and cons of traffic
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Hades = Mercury`: mental and verbal expression dropping into coarseness or triviality. It can show the shadow side of wit and speech: debased conversation that reflects a lowered social or moral atmosphere.
 
 ## Links
 
@@ -61,3 +55,5 @@ To make indecent remarks. To tell dirty stories and obscene jokes. Vulgar talkat
 - [Hades](../factors/hades.md)
 - [Mercury](../factors/mercury.md)
 - [Jupiter/Hades](../axes/jupiter-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

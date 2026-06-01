@@ -3,7 +3,7 @@ title: Saturn/Hades = Uranus
 page_type: activation
 slug: saturn-hades-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Uranus
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Hades`
-- Source page: `225`
 #### Witte Entry
 
 <?) Surprising money losses. Sudden demise after severe sickness.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: <?) Surprising money losses. Sudden demise after severe sickness.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Constraints due to local rhythms, concentration on technical features, insufficient concentration on reform, disadvantages due to sudden relief, nervousness due to lack of concentration, and tension due to a blastening past
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Hades = Uranus` brings sudden disturbance into the Saturn/Hades field: surprising money losses and, in severe contexts, sudden death after serious illness.
+- Practical expression: constraints from local rhythms, technical concentration, insufficient focus on reform, disadvantages after sudden relief, and nervousness from poor concentration.
 
 ## Links
 
@@ -61,3 +56,5 @@ updated_at: 2026-04-21
 - [Hades](../factors/hades.md)
 - [Uranus](../factors/uranus.md)
 - [Saturn/Hades](../axes/saturn-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

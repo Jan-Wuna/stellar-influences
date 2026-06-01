@@ -3,7 +3,7 @@ title: Neptune/Hades = Jupiter
 page_type: activation
 slug: neptune-hades-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Neptune
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Hades`
-- Source page: `248`
 #### Witte Entry
 
 Tuberculosis of the lungs. Wastefulness. Bathing. To be lucky with water or liquids. Good luck in water catastrophes.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Tuberculosis of the lungs. Wastefulness. Bathing. To be lucky with water or liquids. Good luck in water catastrophes.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Joy of the unknown and the hidden, money through water damage, money loss through water, happiness in danger with water, criminal success on the water, defective water law, disadvantages due to money weakness, and weak by money deficiency
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Hades = Jupiter`: Tuberculosis of the lungs. Wastefulness. Bathing. To be lucky with water or liquids. Good luck in water catastrophes.
+- Practical focus: gives dark or decaying conditions a paradoxical opening through water, liquids, or excess, mixing bodily weakness and wastefulness with a capacity to fare unexpectedly well amid watery danger.
+- Practical expression: oy of the unknown, the hidden, money through water damage, money loss through water, and happiness in danger with water.
 
 ## Links
 
@@ -61,3 +57,5 @@ Tuberculosis of the lungs. Wastefulness. Bathing. To be lucky with water or liqu
 - [Hades](../factors/hades.md)
 - [Jupiter](../factors/jupiter.md)
 - [Neptune/Hades](../axes/neptune-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

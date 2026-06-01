@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Venus`
-- Source page: `123`
 #### Witte Entry
 
 TTie: thoughts of a loving woman. Acquaintanceship with loving or pregnant women. Thoughts of motherhood.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Moon/Venus`
-- Source page: `117`
-- Entry: `0340`
+#### ABC Entry
+
+Reports about people art, joy young women, peace speaking of a people, thoughts of a gentle woman, happy harmonious speech, harmonious youth of a woman, love for a young woman, and hour of harmonious speech
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,21 @@ Longing for love, erotic thoughts. Reflecting on love problems.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Moon/Venus midpoint`
-- Source page: `27`
-- Activator: `Mercury`
-
 #### Sandbach Entry
 
 One communicating nurtures the loved one. One’s communicating is charac terized by much persuasive feeling. A smooth and flowing way of communicating that is simple, natural and graceful. One’s thinking is constantly oriented toward emotional satisfaction and gratification.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Your need to talk about how you want to care and nurture others; additional ideas and thinking on how you can best support people you care about; the care and concern you show for your neighborhood.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Venus = Mercury` channels the tender, receptive love of the Moon/Venus axis through Mercury, giving affection language, tact, and responsive thought. It points to emotional grace expressed through conversation, listening, and the ability to say what soothes or connects.
+- Chart expression: charming communication, affectionate intelligence, and the verbal shaping of comfort, rapport, and shared feeling. Main caution: soft-edged thinking, because clarity can yield too quickly to mood, pleasing tone, or the wish to avoid tension.
 
 ## Links
 
@@ -84,7 +77,8 @@ One communicating nurtures the loved one. One’s communicating is charac terize
 - [Venus](../factors/venus.md)
 - [Mercury](../factors/mercury.md)
 - [Moon/Venus](../axes/moon-venus.md)
-- [Moon Mercury Venus](../triads/moon-mercury-venus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

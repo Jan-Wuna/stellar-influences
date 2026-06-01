@@ -3,7 +3,7 @@ title: Moon/Admetos = Mars
 page_type: activation
 slug: moon-admetos-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Mars
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Admetos`
-- Source page: `135`
 #### Witte Entry
 
 Forced to work in crowded places. Prison labor. Slave labor.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Forced to work in crowded places. Prison labor. Slave labor.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Work strike in the hour, blocked actions of femininity, depressive Gemtits impulses, restricted work of the woman, grindliche women work, Unterdichtigung the Gefhille bei work, deepening of a woman in the work, and will restrictions of a people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Admetos = Mars`: Forced to work in crowded places. Prison labor. Slave labor.
+- Practical expression: work strike in the hour, blocked actions of femininity, depressive Gemtits impulses, restricted work of the woman, and grindliche women work.
 
 ## Links
 
@@ -61,3 +56,5 @@ Forced to work in crowded places. Prison labor. Slave labor.
 - [Admetos](../factors/admetos.md)
 - [Mars](../factors/mars.md)
 - [Moon/Admetos](../axes/moon-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

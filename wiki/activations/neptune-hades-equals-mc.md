@@ -3,7 +3,7 @@ title: Neptune/Hades = MC
 page_type: activation
 slug: neptune-hades-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - MC
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Hades`
-- Source page: `248`
 #### Witte Entry
 
 To commit oneself to great danger. Subjected to grave deceptions. To drown. Seafarer. Suffocation.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To commit oneself to great danger. Subjected to grave deceptions. To drown. Seafarer. Suffocation.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+I have water damage, my lack of lull, my dirty water, my dangerous poisoning, my weak from the past, minute of danger in the water, and creeping distress of the soul
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Hades = MC`: To commit oneself to great danger. Subjected to grave deceptions. To drown. Seafarer. Suffocation.
+- Practical focus: internalizes grave deception and danger as a condition one lives out directly, showing exposure to drowning, suffocation, seafaring risk, or an identity shaped by perilous decline.
+- Practical expression: i have water damage, my lack of lull, my dirty water, my dangerous poisoning, and my weak from the past.
 
 ## Links
 
@@ -61,3 +57,5 @@ To commit oneself to great danger. Subjected to grave deceptions. To drown. Seaf
 - [Hades](../factors/hades.md)
 - [MC](../factors/mc.md)
 - [Neptune/Hades](../axes/neptune-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

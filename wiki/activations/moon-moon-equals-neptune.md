@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Moon + Moon`
-- Source page: `120`
 #### Witte Entry
 
 To fall asleep. To dream. State of dreaming. Cerebral state of sleep. Not quite clearly conscious. Dazed. Receptive brains. Delicacy, tact. To have a scent for something. Sensitive or feeble woman. Deceiving or disappointed woman. Hours of relaxation. Night hours. Light, thin gas. Inspiration. Sensitivity. Air. Change in weather. Smell.
 
-## Comparative Schema
-
-- core meaning: To fall asleep. To dream. State of dreaming. Cerebral state of sleep. Not quite clearly conscious. Dazed. Receptive brains. Delicacy, tact. To have a scent for something. Sensitive or feeble woman. Deceiving or disappointed woman. Hours of relaxation. Night hours. Light, thin gas. Inspiration. Sensitivity. Air. Change in weather. Smell.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Moon = Neptune`: To fall asleep. To dream. State of dreaming. Cerebral state of sleep. Not quite clearly conscious. Dazed. Receptive brains. Delicacy, tact. To have a scent for something. Sensitive or feeble woman. Deceiving or disappointed woman. Hours of relaxation. Night hours. Light, thin gas. Inspiration. Sensitivity. Air. Change in weather. Smell.
+- Practical focus: diffuses `Moon/Moon` into dream, sleep, sensitivity, and porous consciousness. It favors inspiration, tact, and subtle receptivity, but can also blur awareness through disappointment, weakness, or emotional confusion, making lunar life more atmospheric than solid.
 
 ## Links
 

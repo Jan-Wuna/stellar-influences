@@ -3,7 +3,7 @@ title: Jupiter/Zeus = Neptune
 page_type: activation
 slug: jupiter-zeus-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Neptune
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Zeus`
-- Source page: `213`
 #### Witte Entry
 
 To work without success.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To work without success.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Starting legal uncertainty, exchanged procreation pleasure, successful efforts in the air, successful refinement of services, design frequency in the water, happiness through intuitive guidance, and weak legal performance
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Zeus = Neptune`: effort without success, action that fails to solidify, and productivity weakened by confusion, vagueness, or misdirection.
+- Main caution: good intentions and activity are not enough here; results can disappear unless the work is clarified and grounded.
 
 ## Links
 
@@ -61,3 +56,5 @@ To work without success.
 - [Zeus](../factors/zeus.md)
 - [Neptune](../factors/neptune.md)
 - [Jupiter/Zeus](../axes/jupiter-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

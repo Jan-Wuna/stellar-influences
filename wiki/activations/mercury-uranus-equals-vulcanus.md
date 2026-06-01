@@ -3,7 +3,7 @@ title: Mercury/Uranus = Vulcanus
 page_type: activation
 slug: mercury-uranus-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Uranus
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Uranus`
-- Source page: `163`
 #### Witte Entry
 
 To comprehend (grasp) fast and good. Fast thinking. Potent original thoughts. Sudden news creating, causing great excitement.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To comprehend (grasp) fast and good. Fast thinking. Potent original thoughts. Sudden news creating, causing great excitement.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Excitement about youth violence, reports about tremendous events, dynamic youth power, excited talk about violence, strong impulses of youth, tension by word violence, tension by powerful thinking, and report about technical energies
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Uranus = Vulcanus`: To comprehend (grasp) fast and good. Fast thinking. Potent original thoughts. Sudden news creating, causing great excitement.
+- Practical expression: excitement about youth violence, reports about tremendous events, dynamic youth power, excited talk about violence, and strong impulses of youth.
 
 ## Links
 
@@ -61,3 +56,5 @@ To comprehend (grasp) fast and good. Fast thinking. Potent original thoughts. Su
 - [Uranus](../factors/uranus.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Mercury/Uranus](../axes/mercury-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

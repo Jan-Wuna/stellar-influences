@@ -33,30 +33,14 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Saturn/Neptune midpoint`
-- Source page: `90`
-- Activator: `Chiron`
-
 #### Sandbach Entry
 
 One can potentially heal others by helping them to experience the gap between their ideals and reality, and to perceive that this gap serves the purpose of fostering soul evolution. Helping others to see deeply into their fears so they may be released.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Neptune = Chiron` heals by revealing the gap between ideals and reality and by helping fears come into view for release. It is useful for spiritualizing disappointment without denying it; the caution is to keep compassion connected to practical boundaries.
 
 ## Links
 

@@ -58,13 +58,14 @@ aliases:
   - Neptune/Mercury
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -77,17 +78,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Neptune`
-- Source page: `164`
-
 #### Pair Summary
 
 Intuition. Fantasy. Imagination. Lack of clarity. Expressing uncertainly, confusion or lies. Illogical thinking. Falsehood. Intuitive thinking. To ramble (in speaking). Motion in water or air.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Mercury/Neptune`
-- Source page: `160`
+#### ABC Pair Summary
+
+subtle thinking, foreign language, thought weakness, cesprache about metaphysics, air movement, air traffic, unclear thinking, insecure youth, water movement, future of youth, and future language
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -111,17 +112,11 @@ Actors, deceitful people, liars.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
-- Source heading: `Mercury/Neptune`
-- Source page: `41`
-
 #### Falis Entry
 
 Media mavericks. Propaganda. Subliminal messages. Subliminal communication. Blowing smoke. Smokescreens. Distorting information. Misinformation. Lying. Telling tales. Fairy tales. Fibbing. White lies. Communicating through imagery. Television watchers. Zoning out. Filmmakers. Storytellers. The dreaming mind. In ability to distinguish between what is real and what is fantasy. Making it up. Spac ing out. Daydreaming. The ability to fascinate and dazzle with words. Mumblers. Incomprehensible. Unrealistic thinking. Overly idealistic notions. Imagination. No limit to the number of mental connections you can make. No boundaries to the ways that information can be linked together. Linking everything together. Inco herent rambling. Confused babbling. People who are difficult to understand. Peo ple who don't make sense. Illogical connections. Illogical thought processes. Slurred speech. Advertising. Cryptic symbols. Deception. Mind meld. Telepathy. Communicating without words. Clairvoyance. Access to the subconscious mind. Ninja mind. An elusive sibling. Confusing sibling relationships. Poetic language. Allusions. The ability to say something without actually saying it. Telling stories with pictures. Painting a picture with words. Subliminal suggestion. Hypnotism. Permeating the rational mind. Absorbing information. Learning through "osmosis." Irrational thought. Chaotic mental processes. Indiscriminate influx of information. Picking up on the nuances of speech and language. Learning new languages simply by being around people who speak them. Picking up other people's accents simply by being around them. Reception to thoughts that have no rational basis. Ob scured thoughts. Inscrutable logic. Camouflaging your intentions. Falsifying infor mation. Visionary ideas. Unrealistic ideas. Leaking information. Inability to make your message clear. Misunderstandings. Feeling that people don't understand what you mean. Feeling misunderstood. Having a soft voice. Being asked to repeat yourself.
 
 ### Charles Carter - The Astrological Aspects
-
-- Source heading: `ASPECTS OF MERCURY & NEPTUNE`
-- Source page: `41`
 
 #### Harmonious Aspects
 
@@ -167,9 +162,6 @@ Active imagination and the insight into motives that results from sensitive perc
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mercury/Neptune midpoint`
-- Source page: `49`
-
 #### Principle
 
 The imagination. The ability to communicate in a subtle way and to imply much with one’s words. Confused thinking, and the possibility of being misunderstood, either because one is vague, or because others lack the sensitivity to pick up on what one is saying. Clairvoyance. Messages from beyond. Channeling.
@@ -180,17 +172,11 @@ To dissolve the boundaries that limit communication. To develop a finer and fine
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Mercury/Neptune`
-- Source page: `205`
-
 #### Pair Delineation
 
 Imagination and inspiration. Possibility of confusion, muddled or irrational thinking. Nervous weakness or exhaustion. Concern with spiritual ideas and ideals. The need to transcend ordinary thought patterns.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `MERCURY/NEPTUNE`
-- Source page: `167`
 
 #### Basic Ideas
 
@@ -219,15 +205,6 @@ Drug reactions which affect the nervous system; weakened lungs; vivid dreaming; 
 
 - [Michael Munkasey - Mercury/Neptune Concepts](../derived/munkasey-mercury-neptune-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Mercury/Neptune = Admetos](../activations/mercury-neptune-equals-admetos.md)
@@ -252,20 +229,18 @@ Drug reactions which affect the nervous system; weakened lungs; vivid dreaming; 
 - [Mercury/Neptune = Vulcanus](../activations/mercury-neptune-equals-vulcanus.md)
 - [Mercury/Neptune = Zeus](../activations/mercury-neptune-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Neptune` is the axis of imagination, subtle perception, poetic or symbolic communication, and thought shaped by intuition, atmosphere, and porous boundaries. It combines language and reasoning with dream, image, spirituality, ambiguity, and the ability to imply more than one states directly.
+- Chart expression: inspired language, storytelling, music or image-thinking, sensitivity to subtext, mystical or psychic perception, and the capacity to influence indirectly. Liabilities: confusion, vagueness, misinformation, self-deception, evasiveness, and thought that drifts too far from fact, structure, or clear definition.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Neptune](../factors/neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)

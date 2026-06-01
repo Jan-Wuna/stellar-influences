@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Moon + Moon`
-- Source page: `119`
 #### Witte Entry
 
 Acquaintances with female persons. The people of the closer surroundings. To be brought into public by others. Female acquaintances. Women in the environment. Quality of the hour at this place.
 
-## Comparative Schema
-
-- core meaning: Acquaintances with female persons. The people of the closer surroundings. To be brought into public by others. Female acquaintances. Women in the environment. Quality of the hour at this place.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Moon = Asc`: Acquaintances with female persons. The people of the closer surroundings. To be brought into public by others. Female acquaintances. Women in the environment. Quality of the hour at this place.
+- Practical focus: externalizes `Moon/Moon` into immediate environment, nearby people, and public visibility through others. It often shows emotional life shaped by female acquaintances and close surroundings, making lunar sensitivity more local, relational, and openly present in day-to-day contact.
 
 ## Links
 

@@ -3,7 +3,7 @@ title: Node/Hades = Admetos
 page_type: activation
 slug: node-hades-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - Hades
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Hades`
-- Source page: `150`
 #### Witte Entry
 
 Disagreeableness in a small circle. Junk dealer.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Disagreeableness in a small circle. Junk dealer.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Consolidate old relationships, end of Y bonding from Y bonding, depression in a criminal connection, restriction of Y bonding by deficiency, dangerous inhibition in a bond, and grtind relations in need
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Hades = Admetos`: Disagreeableness in a small circle. Junk dealer.
+- Practical focus: disagreeableness in a small circle; also junk dealer.
 
 ## Links
 
@@ -61,3 +56,5 @@ Disagreeableness in a small circle. Junk dealer.
 - [Hades](../factors/hades.md)
 - [Admetos](../factors/admetos.md)
 - [Node/Hades](../axes/node-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

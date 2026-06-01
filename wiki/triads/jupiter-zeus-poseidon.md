@@ -3,7 +3,7 @@ title: Jupiter Zeus Poseidon
 page_type: triad_hub
 slug: jupiter-zeus-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Zeus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Zeus Poseidon`
 - Astronomicon triad-set: `V £ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Poseidon = Zeus](../activations/jupiter-poseidon-equals-zeus.md)
-  Source page `218`
 - [Jupiter/Zeus = Poseidon](../activations/jupiter-zeus-equals-poseidon.md)
-  Source page `213`
 - [Zeus/Poseidon = Jupiter](../activations/zeus-poseidon-equals-jupiter.md)
-  Source page `296`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Poseidon = Zeus`: page `218`
-- `Jupiter/Zeus = Poseidon`: page `213`
-- `Zeus/Poseidon = Jupiter`: page `296`
+- `Jupiter/Poseidon = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `218`
+- `Jupiter/Poseidon = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `347`
+- `Jupiter/Zeus = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `213`
+- `Jupiter/Zeus = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `337`
+- `Zeus/Poseidon = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `296`
+- `Zeus/Poseidon = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `458`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Poseidon = Zeus`: following the better instinct and succeeding through correct perception of things.
+- `Jupiter/Zeus = Poseidon`: fortunate mental creation and the ability to convince through reason, insight, and clear understanding.
+- `Zeus/Poseidon = Jupiter`: The successful proof. To prove the correctness of something. Joy and happiness over the correctness of one’s own opinion, conviction, reason and wisdom.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Zeus](../factors/zeus.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Mercury/Admetos = Asc
 page_type: activation
 slug: mercury-admetos-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Asc
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Admetos`
-- Source page: `171`
 #### Witte Entry
 
 Intercourse with people who sit much, like office personnel or any crew of a vehicle.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Intercourse with people who sit much, like office personnel or any crew of a vehicle.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Reports about the blockade of a place, talk about depressions of the partner, talk in depth with the partner, depressing environmental news, news lock for a place, and traffic detachment at the place
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Admetos = Asc` places the axis into direct contact with sedentary or transport-bound environments and people.
+- Chart expression: a social field shaped by office work, crews, or those who sit and travel together, with communication tied to fixed positions, vehicles, and limited movement.
 
 ## Links
 
@@ -61,3 +56,5 @@ Intercourse with people who sit much, like office personnel or any crew of a veh
 - [Admetos](../factors/admetos.md)
 - [Asc](../factors/asc.md)
 - [Mercury/Admetos](../axes/mercury-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Sun Mars Cupido
 page_type: triad_hub
 slug: sun-mars-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Mars
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Mars Cupido`
 - Astronomicon triad-set: `S U ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Cupido = Sun](../activations/mars-cupido-equals-sun.md)
-  Source page `197`
 - [Sun/Cupido = Mars](../activations/sun-cupido-equals-mars.md)
-  Source page `111`
 - [Sun/Mars = Cupido](../activations/sun-mars-equals-cupido.md)
-  Source page `105`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Cupido = Sun`: page `197`
-- `Sun/Cupido = Mars`: page `111`
-- `Sun/Mars = Cupido`: page `105`
+- `Mars/Cupido = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `197`
+- `Mars/Cupido = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `308`
+- `Sun/Cupido = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `111`
+- `Sun/Cupido = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `158`
+- `Sun/Mars = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `105`
+- `Sun/Mars = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `147`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Cupido = Sun`: regular communal work, active family involvement, and marriage or cooperation tied to ordinary lived purpose.
+- `Sun/Cupido = Mars`: This formula emphasizes family activities and active in a family or community.
+- `Sun/Mars = Cupido`: This formula emphasizes active family life and energetic participation in community.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Mars](../factors/mars.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

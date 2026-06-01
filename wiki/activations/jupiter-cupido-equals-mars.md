@@ -3,7 +3,7 @@ title: Jupiter/Cupido = Mars
 page_type: activation
 slug: jupiter-cupido-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Jupiter
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Cupido`
-- Source page: `211`
 #### Witte Entry
 
 Betrothal leading to marriage. Successful common or joint action. Working for a good firm or for a money company. Work in a legal organization.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Betrothal leading to marriage. Successful common or joint action. Working for a good firm or for a money company. Work in a legal organization.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+work of a legal community, success of a financial community, successful efforts of synthesis, shared success in work, shared efforts around money, happy work community, and advantages of community work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Cupido = Mars`: communal happiness becoming active, practical, and organized. It can show engagement, coordinated labor, and success achieved through purposeful work done together.
 
 ## Links
 
@@ -61,3 +55,5 @@ Betrothal leading to marriage. Successful common or joint action. Working for a 
 - [Cupido](../factors/cupido.md)
 - [Mars](../factors/mars.md)
 - [Jupiter/Cupido](../axes/jupiter-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

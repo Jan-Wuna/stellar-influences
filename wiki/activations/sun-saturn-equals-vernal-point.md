@@ -3,7 +3,7 @@ title: Sun/Saturn = Vernal Point
 page_type: activation
 slug: sun-saturn-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Saturn
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Sun
   - Saturn
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Saturn`
-- Source page: `107`
 #### Witte Entry
 
 Older persons. Difficulties in everyday matters or connections. A day for catching cold. To separate. Formula for rheumatism.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Older persons. Difficulties in everyday matters or connections. A day for catching cold. To separate. Formula for rheumatism.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Old man in the public sphere, working life in the public sphere, day of separation in the public sphere, and loss of a man in the public sphere
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Saturn = Vernal Point`: isolation or pressure in the immediate environment.
+- Practical expression: old man in the public sphere, working life in the public sphere, day of separation in the public sphere, and loss of a man in the public sphere.
 
 ## Links
 
@@ -61,3 +56,5 @@ Older persons. Difficulties in everyday matters or connections. A day for catchi
 - [Saturn](../factors/saturn.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Sun/Saturn](../axes/sun-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

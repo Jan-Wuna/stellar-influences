@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Admetos + Admetos`
-- Source page: `309`
 #### Witte Entry
 
 Specialism. Special work. The sinking trend of the market. The decrease of work.
 
-## Comparative Schema
-
-- core meaning: Specialism. Special work. The sinking trend of the market. The decrease of work.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Admetos/Admetos = Mars`: technical specialization and the ability to keep working under hard conditions with very focused effort. Main caution: blocked force: labor declines, action dwindles, and effort becomes so restricted that motion nearly stops.
 
 ## Links
 

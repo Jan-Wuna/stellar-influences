@@ -3,7 +3,7 @@ title: Venus/Pluto = Vernal Point
 page_type: activation
 slug: venus-pluto-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Venus
   - Pluto
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Pluto`
-- Source page: `181`
 #### Witte Entry
 
 General harmonious development. General public’s development of wishes and hopes.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: General harmonious development. General public’s development of wishes and hopes.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+develop harmony in public, artistic developments for the public, change affection for public life, wish for changes for the public, and develop a preference for the public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Pluto = Vernal Point`: general harmonious development.
+- Practical expression: develop harmony in public, artistic developments for the public, change affection for public life, wish for changes for the public, and develop a preference for the public.
 
 ## Links
 
@@ -61,3 +56,5 @@ General harmonious development. General public’s development of wishes and hop
 - [Pluto](../factors/pluto.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Venus/Pluto](../axes/venus-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

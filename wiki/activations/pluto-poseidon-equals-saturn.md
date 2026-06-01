@@ -3,7 +3,7 @@ title: Pluto/Poseidon = Saturn
 page_type: activation
 slug: pluto-poseidon-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Pluto
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Poseidon`
-- Source page: `264`
 #### Witte Entry
 
 Termination of an education. To interrupt the mental growth. Not able to keep up the pace in mental development with others. To be separated because of differing convictions. To be left behind, which causes isolation and resentment in the attitude toward the world.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Termination of an education. To interrupt the mental growth. Not able to keep up the pace in mental development with others. To be separated because of differing convictions. To be left behind, which causes isolation and resentment in the attitude toward the world.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Developing insight and patience, age based mental development, concentration on mental development, slow growth of an idea, painful unfolding of truth, growing clarity through patience, and growing cultural tasks
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Poseidon = Saturn`: termination of an education; To interrupt the mental growth; Not able to keep up the pace in mental development with others.
+- Practical expression: developing insight, patience, age based mental development, concentration on mental development, and slow growth of an idea.
 
 ## Links
 
@@ -61,3 +56,5 @@ Termination of an education. To interrupt the mental growth. Not able to keep up
 - [Poseidon](../factors/poseidon.md)
 - [Saturn](../factors/saturn.md)
 - [Pluto/Poseidon](../axes/pluto-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

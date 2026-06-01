@@ -3,7 +3,7 @@ title: Pluto/Kronos = Neptune
 page_type: activation
 slug: pluto-kronos-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Pluto
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Kronos`
-- Source page: `260`
 #### Witte Entry
 
 Camouflage of unusual changes. Unnoticed great transformation. A slowly starting government crisis, dragging on, which after years only causes the breakdown and the dissolution.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Camouflage of unusual changes. Unnoticed great transformation. A slowly starting government crisis, dragging on, which after years only causes the breakdown and the dissolution.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special development in metaphysics, special fine tuning, large air/water changes, self development in the air, unsichcre development of the state, priority air change, and growing importance of the water and the air see above
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Kronos = Neptune`: uncertain or hidden shifts in authority; Advancement develops below the surface.
+- Practical expression: special development in metaphysics, special fine tuning, large air/water changes, self development in the air, and unsichcre development of the state.
 
 ## Links
 
@@ -61,3 +56,5 @@ Camouflage of unusual changes. Unnoticed great transformation. A slowly starting
 - [Kronos](../factors/kronos.md)
 - [Neptune](../factors/neptune.md)
 - [Pluto/Kronos](../axes/pluto-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

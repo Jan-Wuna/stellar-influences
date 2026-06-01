@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `MC + MC`
-- Source page: `56`
 #### Witte Entry
 
 To feel a burden. Inhibition or loneliness. To take over a duty. Depression. Dejection. To separate. To feel deserted. Being ponderous. Personal sorrows. Mournful states or afflictions. Serious minded. Concentrated attitude. To be restrained. To slow down. Losing life goals. The moment (minute) of separation.
 
-## Comparative Schema
-
-- core meaning: To feel a burden. Inhibition or loneliness. To take over a duty. Depression. Dejection. To separate. To feel deserted. Being ponderous. Personal sorrows. Mournful states or afflictions. Serious minded. Concentrated attitude. To be restrained. To slow down. Losing life goals. The moment (minute) of separation.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/MC = Saturn` burdens the axis through inhibition, loneliness, duty, and loss of goals.
+- Chart expression: depression, heaviness, restraint, and a serious self struggling with sorrow, separation, duty, or a slowed and burdened inner life.
 
 ## Links
 

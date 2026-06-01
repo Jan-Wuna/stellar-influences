@@ -3,7 +3,7 @@ title: Sun/Cupido = Venus
 page_type: activation
 slug: sun-cupido-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Venus
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Cupido`
-- Source page: `111`
 #### Witte Entry
 
 Alove match. Communion of love. Harmonious marriage or community.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Alove match. Communion of love. Harmonious marriage or community.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Peace centre of a community, common joy of the day, harmony of a man's community, harmonious person community, artificial center of a community, personal love community, and day of peace for of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Cupido = Venus`: family love and marriage.
+- Practical expression: peace centre of a community, common joy of the day, harmony of a man's community, harmonious person community, and artificial center of a community.
 
 ## Links
 
@@ -61,3 +56,5 @@ Alove match. Communion of love. Harmonious marriage or community.
 - [Cupido](../factors/cupido.md)
 - [Venus](../factors/venus.md)
 - [Sun/Cupido](../axes/sun-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

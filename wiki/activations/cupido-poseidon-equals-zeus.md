@@ -3,7 +3,7 @@ title: Cupido/Poseidon = Zeus
 page_type: activation
 slug: cupido-poseidon-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Cupido
   - Zeus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Poseidon`
-- Source page: `274`
 #### Witte Entry
 
 To take part in the leadership and the institution of a spiritual, cultural or philosophical community. To be the cofounder.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To take part in the leadership and the institution of a spiritual, cultural or philosophical community. To be the cofounder.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Efforts of a spiritual community, leading knowledge community, spiritual leadership community, common truth witnessing, common culture creation, shaping of arts and culture, and clear objectives of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Poseidon = Zeus`: belief-based community being deliberately built, led, and directed toward form and mission. Main caution: zeal for institution outrunning wisdom or humility.
 
 ## Links
 
@@ -61,3 +55,5 @@ To take part in the leadership and the institution of a spiritual, cultural or p
 - [Poseidon](../factors/poseidon.md)
 - [Zeus](../factors/zeus.md)
 - [Cupido/Poseidon](../axes/cupido-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

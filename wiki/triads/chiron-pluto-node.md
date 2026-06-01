@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Chiron Pluto Node`
 - Astronomicon triad-set: `Chiron Z g`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Chiron/Pluto = Node`: John, page `99`
 - `Pluto/Node = Chiron`: John, page `114`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Node = Pluto`: karmic pressure, deep transformative yearning, and the danger of substituting outer power for true inner evolution. Main caution: obsession, control, or using connection to feed ego rather than soul.
+- `Chiron/Pluto = Node`: catalytic connections, karmic intensity, and healing through total honesty about what has been carried from the past. Main caution: choosing intensity for its own sake or reenacting trauma under the banner of transformation.
+- `Pluto/Node = Chiron` makes contact itself a trigger for healing release. Relationships may evoke past material that needs to be let go so the person can enter a future they did not think possible; the caution is not to make every bond into a purge or crisis of transformation.
 
 ## Links
 

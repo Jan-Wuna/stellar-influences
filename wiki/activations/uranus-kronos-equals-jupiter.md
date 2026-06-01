@@ -3,7 +3,7 @@ title: Uranus/Kronos = Jupiter
 page_type: activation
 slug: uranus-kronos-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Uranus
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Kronos`
-- Source page: `239`
 #### Witte Entry
 
 Decrees and enactments concerning finances.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Decrees and enactments concerning finances.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Excitement about the steering of the finances, especially joyful over surprise, successful state event, successful management of the technology, great legal tension, iisurprising joy of the superior, and priority success of the technology
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Kronos = Jupiter`: Decrees and enactments concerning finances.
+- Practical expression: excitement about the steering of the finances, especially joyful over surprise, successful state event, successful management of the technology, and great legal tension.
 
 ## Links
 
@@ -61,3 +56,5 @@ Decrees and enactments concerning finances.
 - [Kronos](../factors/kronos.md)
 - [Jupiter](../factors/jupiter.md)
 - [Uranus/Kronos](../axes/uranus-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

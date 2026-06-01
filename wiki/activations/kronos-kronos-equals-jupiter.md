@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Kronos + Kronos`
-- Source page: `297`
 #### Witte Entry
 
 Formula of a wealthy man, or lucky and successful manager. Bankers. Independence in money matters. Philanthropist. Great luck and fortune. Government regulations for the monetary system and for the national banks. State justice.
 
-## Comparative Schema
-
-- core meaning: Formula of a wealthy man, or lucky and successful manager. Bankers. Independence in money matters. Philanthropist. Great luck and fortune. Government regulations for the monetary system and for the national banks. State justice.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Kronos = Jupiter`: the wealthy manager, banker, philanthropist, fortunate sovereign function, and justice or regulation administered through official power.
+- Chart expression: prosperous leadership, monetary independence, and state-backed order that protects or expands fortune.
 
 ## Links
 

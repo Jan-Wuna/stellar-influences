@@ -3,7 +3,7 @@ title: Pluto/Cupido = Node
 page_type: activation
 slug: pluto-cupido-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Node
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Cupido`
-- Source page: `257`
 #### Witte Entry
 
 To be connected with changed conditions of being.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be connected with changed conditions of being.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Developing common links, different links in of a community, links to a development community, growing links to the whole, and changes in common links
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Cupido = Node`: to be connected with changed conditions of being.
+- Practical expression: developing common links, different links in a community, links to a development community, growing links to the whole, and changes in common links.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be connected with changed conditions of being.
 - [Cupido](../factors/cupido.md)
 - [Node](../factors/node.md)
 - [Pluto/Cupido](../axes/pluto-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

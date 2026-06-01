@@ -3,7 +3,7 @@ title: Vernal Point/Moon = Venus
 page_type: activation
 slug: vernal-point-moon-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Moon
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Moon
   - Venus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Moon`
-- Source page: `38`
 #### Witte Entry
 
 The love of women. Motherhood.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The love of women. Motherhood.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Joy for women ·in public, peace in public Life of a people, people in public, artistic women in public Life, gentle women in public, and hour of harmony in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Moon = Venus`: the love of women and motherhood.
+- Practical expression: oy for women ·in public, peace in public Life of a people, people in public, artistic women in public Life, and gentle women in public.
 
 ## Links
 
@@ -61,3 +56,5 @@ The love of women. Motherhood.
 - [Moon](../factors/moon.md)
 - [Venus](../factors/venus.md)
 - [Vernal Point/Moon](../axes/vernal-point-moon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

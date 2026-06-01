@@ -3,7 +3,7 @@ title: Mars/Neptune = Hades
 page_type: activation
 slug: mars-neptune-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Neptune
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Neptune`
-- Source page: `195`
 #### Witte Entry
 
 Coming in touch with mean, vicious people and to suffer from them. Destruction by drowning, epidemics or atrocity.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Coming in touch with mean, vicious people and to suffer from them. Destruction by drowning, epidemics or atrocity.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Work in deficient air, exchange of will absorption, exchange of lack of work, dangerous mis actions, lack of water processing, disadvantages due to will weakness, sensitive secret activity, and insecurity due to work lack
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Neptune = Hades` deepens harmful confusion into vicious contact, atrocity, and ruinous suffering.
+- Chart expression: falling in with cruel or corrupt people, suffering from them, and destruction through drowning, epidemic, or other dark and degrading forms of harm.
 
 ## Links
 
@@ -61,3 +56,5 @@ Coming in touch with mean, vicious people and to suffer from them. Destruction b
 - [Neptune](../factors/neptune.md)
 - [Hades](../factors/hades.md)
 - [Mars/Neptune](../axes/mars-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

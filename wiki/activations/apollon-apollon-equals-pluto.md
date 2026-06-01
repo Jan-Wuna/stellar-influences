@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Apollon + Apollon`
-- Source page: `305`
 #### Witte Entry
 
 E From a small staff to great importance. Occurrences with great consequences. Business enlargement, extension. Development of a science. Far reaching and expanded transformations. To grow or extend in all directions. Repetitions. To start small and to grow big. A large change. Events taking place for the first time with great consequences. Starting a commerce or trade on a small scale and developing it into a large scale.
 
-## Comparative Schema
-
-- core meaning: E From a small staff to great importance. Occurrences with great consequences. Business enlargement, extension. Development of a science. Far reaching and expanded transformations. To grow or extend in all directions. Repetitions. To start small and to grow big. A large change. Events taking place for the first time with great consequences. Starting a commerce or trade on a small scale and developing it into a large scale.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Apollon = Pluto`: large developmental turns, business enlargement, scientific evolution, and events whose impact extends beyond their beginnings. Main caution: unstoppable escalation: once growth is set in motion, it may intensify beyond easy control or proportion.
 
 ## Links
 

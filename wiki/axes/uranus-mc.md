@@ -58,11 +58,12 @@ aliases:
   - MC/Uranus
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -75,17 +76,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus/Medium Coeli`
-- Source page: `277`
-
 #### Pair Summary
 
 To have a mind to do something. Personal tension. To be excited. Vibrations. One inclined to sudden decisions. An explosive manner. To show ambitions. Impatient. The moment (minute) of tenseness.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Uranus/Medium Coeli`
-- Source page: `277`
+#### ABC Pair Summary
+
+Exciting minutes, dynamic soul, dynamic self, excited soul, my rhythm, my restlessness, my nervousness, psychic arousal, psychic impulses, and emotional tensions
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -109,9 +110,6 @@ Original personalities.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Uranus/Midheaven midpoint`
-- Source page: `108`
-
 #### Principle
 
 To find one’s own unique path in life, and/or to approach it experimentally and/or on one’s own. To have unique or unusual gifts to give to the world. Upsets or unexpected occurrences in one’s career. To rebel against authority figures and/or the status quo. One’s career work is carried out in an independent, unique and/or innova tive manner.
@@ -122,17 +120,11 @@ Opening oneself up to messages and other impulses coming from the spir itual rea
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Uranus/Midheaven`
-- Source page: `211`
-
 #### Pair Delineation
 
 One's ow ?n independence, one's sense of being unusual. To desire to go one's own way, to be free. The uniqueness of one's personal objectives or life path. Often connected with people who are in a career that is unusual or has to do with science or technology.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `URANUS/MIDHEAVEN`
-- Source page: `323`
 
 #### Basic Ideas
 
@@ -161,15 +153,6 @@ You may find much stress in your work environment; a stubbornness or resistance 
 
 - [Michael Munkasey - Uranus/MC Concepts](../derived/munkasey-uranus-mc-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Uranus/MC = Admetos](../activations/uranus-mc-equals-admetos.md)
@@ -194,20 +177,18 @@ You may find much stress in your work environment; a stubbornness or resistance 
 - [Uranus/MC = Vulcanus](../activations/uranus-mc-equals-vulcanus.md)
 - [Uranus/MC = Zeus](../activations/uranus-mc-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/MC` is the axis of unconventional life direction, sudden vocational change, and the drive to pursue an independent or innovative path. It combines disruption, originality, breakthrough, and rebellion with purpose, status, public role, and the shaping of destiny.
+- Chart expression: unusual goals, inventive public expression, rapid changes in career or circumstances, and strong resistance to confining authority. Liabilities: hasty action, erratic aims, notoriety, upheaval, and the tendency to reject structure before a workable direction has formed.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)

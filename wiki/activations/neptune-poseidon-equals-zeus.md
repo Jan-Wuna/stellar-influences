@@ -3,7 +3,7 @@ title: Neptune/Poseidon = Zeus
 page_type: activation
 slug: neptune-poseidon-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Zeus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Poseidon`
-- Source page: `254`
 #### Witte Entry
 
 Mental creation out of a false concept. To try in vain to pretend.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mental creation out of a false concept. To try in vain to pretend.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful exchange of truth, beginning of reason weakness, spiritual movement, mental future shaping, clear movement through intuition, weak mental effort, sensitization of spiritual goals, and unclear movement ideas
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Poseidon = Zeus`: Mental creation out of a false concept. To try in vain to pretend.
+- Practical focus: subtle mentality is directed into conceptual production, but with strain around truthfulness or realism. It can show imaginative ideation, mental fabrication, or determined effort spent sustaining a mistaken premise or pretense.
+- Practical expression: effortful exchange of truth, beginning of reason weakness, spiritual movement, mental future shaping, and clear movement through intuition.
 
 ## Links
 
@@ -61,3 +57,5 @@ Mental creation out of a false concept. To try in vain to pretend.
 - [Poseidon](../factors/poseidon.md)
 - [Zeus](../factors/zeus.md)
 - [Neptune/Poseidon](../axes/neptune-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

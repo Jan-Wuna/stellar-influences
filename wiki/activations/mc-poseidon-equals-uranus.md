@@ -3,7 +3,7 @@ title: MC/Poseidon = Uranus
 page_type: activation
 slug: mc-poseidon-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - MC
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Poseidon`
-- Source page: `77`
 #### Witte Entry
 
 To inform. Mental clarity. Sudden realization of the truth. Recognizing ones own path to the goal of live.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To inform. Mental clarity. Sudden realization of the truth. Recognizing ones own path to the goal of live.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Excited spirit soul, clear impulses of the soul, my arousing truth, mcinc spiritual restlessness, my spiritual impulses, my culture impulses, my new ideas, mcinc sudden realizations, soul and spirit in tension, and unsurprising psychic clarity
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Poseidon = Uranus` electrifies the axis through truth, mental clarity, and sudden realization.
+- Chart expression: flashes of insight, informing others, awakening to one's real path, and an intellectual life marked by abrupt clear recognition of truth.
 
 ## Links
 
@@ -61,3 +56,5 @@ To inform. Mental clarity. Sudden realization of the truth. Recognizing ones own
 - [Poseidon](../factors/poseidon.md)
 - [Uranus](../factors/uranus.md)
 - [MC/Poseidon](../axes/mc-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

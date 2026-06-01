@@ -3,7 +3,7 @@ title: Venus/Cupido = Uranus
 page_type: activation
 slug: venus-cupido-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Uranus
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Cupido`
-- Source page: `182`
 #### Witte Entry
 
 Sudden marital happiness. To be unexpectedly in nice company.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sudden marital happiness. To be unexpectedly in nice company.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+common love impulses, harmonious technical community, rhythmic artificial community, tensions in a Licbes community, unrest in of a community through love, and restless peace community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Cupido = Uranus`: sudden marital happiness.
+- Practical expression: common love impulses, harmonious technical community, rhythmic artificial community, and unrest in a community through love.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sudden marital happiness. To be unexpectedly in nice company.
 - [Cupido](../factors/cupido.md)
 - [Uranus](../factors/uranus.md)
 - [Venus/Cupido](../axes/venus-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

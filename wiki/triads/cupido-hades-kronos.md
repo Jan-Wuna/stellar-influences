@@ -3,7 +3,7 @@ title: Cupido Hades Kronos
 page_type: triad_hub
 slug: cupido-hades-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Cupido Hades Kronos`
 - Astronomicon triad-set: `¡ ¢ ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Hades = Kronos](../activations/cupido-hades-equals-kronos.md)
-  Source page `267`
 - [Cupido/Kronos = Hades](../activations/cupido-kronos-equals-hades.md)
-  Source page `269`
 - [Hades/Kronos = Cupido](../activations/hades-kronos-equals-cupido.md)
-  Source page `279`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Hades = Kronos`: page `267`
-- `Cupido/Kronos = Hades`: page `269`
-- `Hades/Kronos = Cupido`: page `279`
+- `Cupido/Hades = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `267`
+- `Cupido/Hades = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `425`
+- `Cupido/Kronos = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `269`
+- `Cupido/Kronos = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `429`
+- `Hades/Kronos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `279`
+- `Hades/Kronos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `441`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Hades = Kronos`: poorhouses, orphanages, and official structures built to contain deprivation, abandonment, or social misfortune.
+- `Cupido/Kronos = Hades`: impoverished noble society, misfortune in great concerns, collapse of corporations, and art falling dormant.
+- `Hades/Kronos = Cupido`: criminal gangs, mob-level meanness, and collective expression that turns vulgar, obscene, or degraded.
 
 ## Links
 
 - [Cupido](../factors/cupido.md)
 - [Hades](../factors/hades.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

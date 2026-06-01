@@ -3,7 +3,7 @@ title: Vernal Point/Cupido = Venus
 page_type: activation
 slug: vernal-point-cupido-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Venus
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Cupido`
-- Source page: `48`
 #### Witte Entry
 
 A harmonious community. Clubs to promote sociability.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A harmonious community. Clubs to promote sociability.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Pleasure for the public art, common joy in the public, art for the public Community, public Peace community, gentle clientele in the public, and preference for the public art
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Cupido = Venus`: a harmonious community and clubs to promote sociability.
+- Practical expression: pleasure for the public art, common joy in the public, art for the public Community, public Peace community, and gentle clientele in the public.
 
 ## Links
 
@@ -61,3 +56,5 @@ A harmonious community. Clubs to promote sociability.
 - [Cupido](../factors/cupido.md)
 - [Venus](../factors/venus.md)
 - [Vernal Point/Cupido](../axes/vernal-point-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

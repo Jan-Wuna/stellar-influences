@@ -3,7 +3,7 @@ title: Vernal Point/Saturn = Uranus
 page_type: activation
 slug: vernal-point-saturn-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Saturn
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Saturn
   - Uranus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Saturn`
-- Source page: `44`
 #### Witte Entry
 
 <J> Sudden parting from another person. Sudden death.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: <J> Sudden parting from another person. Sudden death.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Serious tensions in public, new burdens for the public, sudden separation from public life, difficult reforms in public, disturbances and unrest in public life, and technical losses in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Saturn = Uranus` brings sudden Saturn-Uranus separation into direct worldly contact: abrupt parting from another person, and in severe contexts sudden death.
+- Practical expression: serious public tensions, sudden separation from public life, difficult reforms, disturbances or unrest in public life, and technical losses in public.
 
 ## Links
 
@@ -61,3 +56,5 @@ updated_at: 2026-04-21
 - [Saturn](../factors/saturn.md)
 - [Uranus](../factors/uranus.md)
 - [Vernal Point/Saturn](../axes/vernal-point-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

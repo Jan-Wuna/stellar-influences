@@ -3,7 +3,7 @@ title: Mars Saturn Cupido
 page_type: triad_hub
 slug: mars-saturn-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Saturn
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Saturn Cupido`
 - Astronomicon triad-set: `U W ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Cupido = Saturn](../activations/mars-cupido-equals-saturn.md)
-  Source page `197`
 - [Mars/Saturn = Cupido](../activations/mars-saturn-equals-cupido.md)
-  Source page `193`
 - [Saturn/Cupido = Mars](../activations/saturn-cupido-equals-mars.md)
-  Source page `224`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Cupido = Saturn`: page `197`
-- `Mars/Saturn = Cupido`: page `193`
-- `Saturn/Cupido = Mars`: page `224`
+- `Mars/Cupido = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `197`
+- `Mars/Cupido = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `309`
+- `Mars/Saturn = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `193`
+- `Mars/Saturn = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `301`
+- `Saturn/Cupido = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `224`
+- `Saturn/Cupido = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `354`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Cupido = Saturn`: cooperation under time limits, separation in work or marriage, and communal bonds cut by hardship or death.
+- `Mars/Saturn = Cupido`: brings strain and severance into communal, marital, or family life.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Saturn](../factors/saturn.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

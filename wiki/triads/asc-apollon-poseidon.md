@@ -3,7 +3,7 @@ title: Asc Apollon Poseidon
 page_type: triad_hub
 slug: asc-apollon-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Apollon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Asc Apollon Poseidon`
 - Astronomicon triad-set: `Asc ¥ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Apollon/Poseidon = Asc](../activations/apollon-poseidon-equals-asc.md)
-  Source page `308`
 - [Asc/Apollon = Poseidon](../activations/asc-apollon-equals-poseidon.md)
-  Source page `95`
 - [Asc/Poseidon = Apollon](../activations/asc-poseidon-equals-apollon.md)
-  Source page `98`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Apollon/Poseidon = Asc`: page `308`
-- `Asc/Apollon = Poseidon`: page `95`
-- `Asc/Poseidon = Apollon`: page `98`
+- `Apollon/Poseidon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `308`
+- `Apollon/Poseidon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `472`
+- `Asc/Apollon = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `95`
+- `Asc/Apollon = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `131`
+- `Asc/Poseidon = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `98`
+- `Asc/Poseidon = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `137`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Apollon/Poseidon = Asc`: a visibly broad mental horizon, with the environment reflecting outlook, attitude, and shared intellectual disposition.
+- `Asc/Apollon = Poseidon`: having listeners, engaging a thoughtful audience, and meeting scientific or marine-oriented minds in the immediate field.
+- `Asc/Poseidon = Apollon`: widening the mental horizon together with many others and growing through shared learning, culture, or philosophy.
 
 ## Links
 
 - [Asc](../factors/asc.md)
 - [Apollon](../factors/apollon.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

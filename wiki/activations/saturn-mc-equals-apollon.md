@@ -3,10 +3,10 @@ title: Saturn/MC = Apollon
 page_type: activation
 slug: saturn-mc-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Saturn
+  - MC
   - Apollon
 normalized_formula: Saturn/MC = Apollon
 axis: Saturn/MC
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - MC
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Saturn`
-- Source page: `66`
 #### Witte Entry
 
 To be a teacher, to instruct. Necessary to separate often. To separate from many.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be a teacher, to instruct. Necessary to separate often. To separate from many.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Extending my tasks, experiences of a mature soul, my success through concentration, my loss of freedom, my patience, my concentration on knowledge, my problematic experiences, and my separation successes
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/MC = Apollon`: to be a teacher, to instruct, necessary to separate often, to separate from many.
+- Practical expression: extending my tasks, experiences of a mature soul, my success through concentration, my loss of freedom, and my patience.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be a teacher, to instruct. Necessary to separate often. To separate from many
 - [MC](../factors/mc.md)
 - [Apollon](../factors/apollon.md)
 - [Saturn/MC](../axes/saturn-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

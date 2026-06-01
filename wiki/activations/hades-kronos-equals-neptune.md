@@ -3,7 +3,7 @@ title: Hades/Kronos = Neptune
 page_type: activation
 slug: hades-kronos-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Hades
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Kronos`
-- Source page: `279`
 #### Witte Entry
 
 Fraud developed by corruption. The criminal police is wrong.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Fraud developed by corruption. The criminal police is wrong.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special air and water shortages, deprivations caused by state weakness, dangerous futures, great danger in water, large air pollution, poor air service, state secrets for the future, lack of awareness of the past, development of poverty in the state, and development of
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Kronos = Neptune`: official deception, tainted investigation, and institutions that should expose corruption instead serving it or misreading it. Main caution: false authority hiding behind secrecy and ambiguity.
 
 ## Links
 
@@ -61,3 +55,5 @@ Fraud developed by corruption. The criminal police is wrong.
 - [Kronos](../factors/kronos.md)
 - [Neptune](../factors/neptune.md)
 - [Hades/Kronos](../axes/hades-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

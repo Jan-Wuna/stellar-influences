@@ -3,7 +3,7 @@ title: Moon/Jupiter = Poseidon
 page_type: activation
 slug: moon-jupiter-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Jupiter
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Jupiter
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Jupiter`
-- Source page: `125`
 #### Witte Entry
 
 Looking for happiness in mental activity and to find it.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Looking for happiness in mental activity and to find it.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful folk culture, woman with successful ideas, joy in an hour of knowledge, spiritual happiness of a woman, happy insights of a woman, legal culture of a people, advantage through clarity of a woman, and true happiness's feeling
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Jupiter = Poseidon`: Looking for happiness in mental activity and to find it.
+- Practical focus: spiritualizes `Moon/Jupiter` and locates happiness in thought, insight, and refined meaning. It suggests emotional optimism nourished by study, ideals, or contemplative life, so faith is strengthened not just by comfort but by mental clarity and a sense of higher coherence.
+- Practical expression: successful folk culture, woman with successful ideas, oy in an hour of knowledge, spiritual happiness of a woman, and happy insights of a woman.
 
 ## Links
 
@@ -61,3 +57,5 @@ Looking for happiness in mental activity and to find it.
 - [Jupiter](../factors/jupiter.md)
 - [Poseidon](../factors/poseidon.md)
 - [Moon/Jupiter](../axes/moon-jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

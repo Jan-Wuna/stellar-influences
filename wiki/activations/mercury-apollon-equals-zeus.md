@@ -3,7 +3,7 @@ title: Mercury/Apollon = Zeus
 page_type: activation
 slug: mercury-apollon-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Zeus
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Apollon`
-- Source page: `170`
 #### Witte Entry
 
 To direct the discourses of many. To lead scientific debates.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To direct the discourses of many. To lead scientific debates.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Reports on trade goals, success through creative thinking, performance reports of science, free language of the media, leading opinion of science, talk about successful efforts, achievement of youth, and scientific goals discuss
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Apollon = Zeus` directs the axis into leading debates and guiding collective discourse.
+- Chart expression: taking charge of discussion, steering scientific argument, and using wide mental reach to organize, direct, or command the conversation of many.
 
 ## Links
 
@@ -61,3 +56,5 @@ To direct the discourses of many. To lead scientific debates.
 - [Apollon](../factors/apollon.md)
 - [Zeus](../factors/zeus.md)
 - [Mercury/Apollon](../axes/mercury-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

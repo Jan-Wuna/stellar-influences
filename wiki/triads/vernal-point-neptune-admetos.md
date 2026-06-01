@@ -3,7 +3,7 @@ title: Vernal Point Neptune Admetos
 page_type: triad_hub
 slug: vernal-point-neptune-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Neptune
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Neptune Admetos`
 - Astronomicon triad-set: `VP Y ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Neptune/Admetos = Vernal Point](../activations/neptune-admetos-equals-vernal-point.md)
-  Source page `252`
 - [Vernal Point/Admetos = Neptune](../activations/vernal-point-admetos-equals-neptune.md)
-  Source page `53`
 - [Vernal Point/Neptune = Admetos](../activations/vernal-point-neptune-equals-admetos.md)
-  Source page `46`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Neptune/Admetos = Vernal Point`: page `252`
-- `Vernal Point/Admetos = Neptune`: page `53`
-- `Vernal Point/Neptune = Admetos`: page `46`
+- `Neptune/Admetos = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `252`
+- `Neptune/Admetos = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `402`
+- `Vernal Point/Admetos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `53`
+- `Vernal Point/Admetos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `55`
+- `Vernal Point/Neptune = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `46`
+- `Vernal Point/Neptune = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `41`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Neptune/Admetos = Vernal Point`: This activation externalizes `Neptune/Admetos` into general changes of existence and widely shared shifts in living form. It turns the axis outward so that transformation is no longer private or local, but part of the common field of life.
+- `Vernal Point/Admetos = Neptune`: This formula emphasizes to make solid, solidification, to stop a dissolution or a putrefaction, conservation, and to embalm.
+- `Vernal Point/Neptune = Admetos`: This formula emphasizes until now uncertain conditions are settled, forming of ice, and icing up glaciation.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Neptune](../factors/neptune.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

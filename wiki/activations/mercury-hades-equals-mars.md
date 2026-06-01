@@ -3,7 +3,7 @@ title: Mercury/Hades = Mars
 page_type: activation
 slug: mercury-hades-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Mars
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Hades`
-- Source page: `167`
 #### Witte Entry
 
 To hear about murder and to talk about it to others. Thoughts of robbery and murder. Criminal acts. To cause losses to others. Working with old plans or ideas. Actions with limited mobility.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To hear about murder and to talk about it to others. Thoughts of robbery and murder. Criminal acts. To cause losses to others. Working with old plans or ideas. Actions with limited mobility.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Working with old languages, discussing secret activity, talking about work shortages, talking about dirty work, dangerous media work, criminal acts of youth, lack of thought work, and working emergency calls
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Hades = Mars` activates the axis into criminal thought, harmful action, and old hostile plans.
+- Chart expression: talk of violence, robbery, or murder, causing losses to others, and acting from stale or degraded ideas under constrained or limited movement.
 
 ## Links
 
@@ -61,3 +56,5 @@ To hear about murder and to talk about it to others. Thoughts of robbery and mur
 - [Hades](../factors/hades.md)
 - [Mars](../factors/mars.md)
 - [Mercury/Hades](../axes/mercury-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

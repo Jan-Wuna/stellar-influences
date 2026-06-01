@@ -3,7 +3,7 @@ title: Moon Node Vulcanus
 page_type: triad_hub
 slug: moon-node-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Node Vulcanus`
 - Astronomicon triad-set: `R g §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Node = Vulcanus](../activations/moon-node-equals-vulcanus.md)
-  Source page `121`
 - [Moon/Vulcanus = Node](../activations/moon-vulcanus-equals-node.md)
-  Source page `136`
 - [Node/Vulcanus = Moon](../activations/node-vulcanus-equals-moon.md)
-  Source page `155`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Node = Vulcanus`: page `121`
-- `Moon/Vulcanus = Node`: page `136`
-- `Node/Vulcanus = Moon`: page `155`
+- `Moon/Node = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `121`
+- `Moon/Node = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `175`
+- `Moon/Vulcanus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `136`
+- `Moon/Vulcanus = Node`: Udo Rudolph - ABC for Planetary Pictures, page `204`
+- `Node/Vulcanus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `155`
+- `Node/Vulcanus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `236`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Node = Vulcanus`: This activation intensifies `Moon/Node` into powerful communal ties and highly influential female or popular alliances. It suggests emotionally charged association with force behind it, where belonging becomes organized, strong, and hard to ignore.
+- `Moon/Vulcanus = Node`: The man who causes public interest. The daily repeating forceful events. The daily being together with people of public interest and influence.
+- `Node/Vulcanus = Moon`: Persons in public power get excited about the native.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Node](../factors/node.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

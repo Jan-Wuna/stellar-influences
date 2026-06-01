@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Venus Chiron Node`
 - Astronomicon triad-set: `Q Chiron g`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Venus/Chiron = Node`: John, page `58`
 - `Venus/Node = Chiron`: John, page `63`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Node = Venus`: relational grace, affectionate karmic healing, and evolution supported by appreciation rather than fear. Main caution: sentimentalizing connection instead of letting it truly change the heart.
+- `Venus/Chiron = Node`: to connect with others in a profoundly loving way, which helps them to attain greater peace and a deeper appreciation of the beauty of the universe.
+- `Venus/Node = Chiron`: one's vibration helps others to appreciate the way they are connected to everything, and also to connect in a more loving and relaxed way.
 
 ## Links
 

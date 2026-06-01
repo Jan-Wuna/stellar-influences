@@ -3,7 +3,7 @@ title: Moon/Poseidon = Cupido
 page_type: activation
 slug: moon-poseidon-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Cupido
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Poseidon`
-- Source page: `138`
 #### Witte Entry
 
 Spiritual community. To be a member of a spiritual community. The audience.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Spiritual community. To be a member of a spiritual community. The audience.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+woman for art and culture, spirit of a people's community, community of ideas of a people, clarity of an emotional community, cultural women's community, hour of truth for of a community, and reasonable women of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Poseidon = Cupido`: Spiritual community. To be a member of a spiritual community. The audience.
+- Practical expression: woman for art, culture, spirit of a people's community, community of ideas of a people, and clarity of an emotional community.
 
 ## Links
 
@@ -61,3 +56,5 @@ Spiritual community. To be a member of a spiritual community. The audience.
 - [Poseidon](../factors/poseidon.md)
 - [Cupido](../factors/cupido.md)
 - [Moon/Poseidon](../axes/moon-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

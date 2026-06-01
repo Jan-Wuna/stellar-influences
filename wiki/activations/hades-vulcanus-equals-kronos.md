@@ -3,7 +3,7 @@ title: Hades/Vulcanus = Kronos
 page_type: activation
 slug: hades-vulcanus-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Hades
   - Kronos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Vulcanus`
-- Source page: `283`
 #### Witte Entry
 
 Gigantic crimes and evil deeds or meanness. Heavy oppression and suppression by governments and ruling powers.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Gigantic crimes and evil deeds or meanness. Heavy oppression and suppression by governments and ruling powers.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special energy deficiency, dangerous authoritarian influence, secret power superiority, criminal violence in the state, power deficiency of the state, defective state influence, hidden power of the hierarchic, and renunciation of the state on violence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Vulcanus = Kronos`: institutionalized brutality. It can show state violence, commanding evil, and the use of higher authority to impose destructive force on a large scale.
 
 ## Links
 
@@ -61,3 +55,5 @@ Gigantic crimes and evil deeds or meanness. Heavy oppression and suppression by 
 - [Vulcanus](../factors/vulcanus.md)
 - [Kronos](../factors/kronos.md)
 - [Hades/Vulcanus](../axes/hades-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

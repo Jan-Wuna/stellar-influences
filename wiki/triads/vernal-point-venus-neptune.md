@@ -3,7 +3,7 @@ title: Vernal Point Venus Neptune
 page_type: triad_hub
 slug: vernal-point-venus-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Venus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Venus Neptune`
 - Astronomicon triad-set: `VP Q Y`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Venus/Neptune = Vernal Point](../activations/venus-neptune-equals-vernal-point.md)
-  Source page `180`
 - [Vernal Point/Neptune = Venus](../activations/vernal-point-neptune-equals-venus.md)
-  Source page `46`
 - [Vernal Point/Venus = Neptune](../activations/vernal-point-venus-equals-neptune.md)
-  Source page `41`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Venus/Neptune = Vernal Point`: page `180`
-- `Vernal Point/Neptune = Venus`: page `46`
-- `Vernal Point/Venus = Neptune`: page `41`
+- `Venus/Neptune = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `180`
+- `Venus/Neptune = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `278`
+- `Vernal Point/Neptune = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `46`
+- `Vernal Point/Neptune = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `40`
+- `Vernal Point/Venus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `41`
+- `Vernal Point/Venus = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `31`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Venus/Neptune = Vernal Point`: prudishness.
+- `Vernal Point/Neptune = Venus`: This formula emphasizes disappointments in love and unfavorable time for mating.
+- `Vernal Point/Venus = Neptune`: This formula emphasizes falsehood, to pretend love, make believe love, and unrequited love.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Venus](../factors/venus.md)
 - [Neptune](../factors/neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Moon/Mars = Vernal Point
 page_type: activation
 slug: moon-mars-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Mars
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Moon
   - Mars
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Mars`
-- Source page: `124`
 #### Witte Entry
 
 Public works. To be active in the public. Female workers. Ihe general daily working time and conditions. The force of the people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Public works. To be active in the public. Female workers. Ihe general daily working time and conditions. The force of the people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+activities in public at this hour, women's work in public life, activating feelings in public, woman acting in public, people creating in public, hour of public activity, and will of the people in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Mars = Vernal Point`: Public works. To be active in the public. Female workers. Ihe general daily working time and conditions. The force of the people.
+- Practical focus: externalizes `Moon/Mars` into public activity, visible labor, and collective force. It points to work performed in open view, strong daily engagement with the wider world, and instinctive action that becomes socially evident through practical contribution, activism, or the momentum of the people.
+- Practical expression: activities in public at this hour, women's work in public life, activating feelings in public, woman acting in public, and people creating in public.
 
 ## Links
 
@@ -61,3 +57,5 @@ Public works. To be active in the public. Female workers. Ihe general daily work
 - [Mars](../factors/mars.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Moon/Mars](../axes/moon-mars.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

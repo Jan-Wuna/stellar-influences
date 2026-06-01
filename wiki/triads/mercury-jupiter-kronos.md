@@ -3,7 +3,7 @@ title: Mercury Jupiter Kronos
 page_type: triad_hub
 slug: mercury-jupiter-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Jupiter
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Jupiter Kronos`
 - Astronomicon triad-set: `T V ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Kronos = Mercury](../activations/jupiter-kronos-equals-mercury.md)
-  Source page `214`
 - [Mercury/Jupiter = Kronos](../activations/mercury-jupiter-equals-kronos.md)
-  Source page `161`
 - [Mercury/Kronos = Jupiter](../activations/mercury-kronos-equals-jupiter.md)
-  Source page `169`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Kronos = Mercury`: page `214`
-- `Mercury/Jupiter = Kronos`: page `161`
-- `Mercury/Kronos = Jupiter`: page `169`
+- `Jupiter/Kronos = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `214`
+- `Jupiter/Kronos = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `338`
+- `Mercury/Jupiter = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `161`
+- `Mercury/Jupiter = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `245`
+- `Mercury/Kronos = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `169`
+- `Mercury/Kronos = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `260`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Kronos = Mercury`: fortunate management of thoughts and mastery of the glib tongue.
+- `Mercury/Jupiter = Kronos`: elevates the axis into eloquent display, public festivity, and courtly expression.
+- `Mercury/Kronos = Jupiter`: brightens the axis into noble oratory and public affirmation.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Jupiter](../factors/jupiter.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

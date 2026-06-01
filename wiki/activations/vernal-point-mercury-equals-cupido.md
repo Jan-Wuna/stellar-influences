@@ -3,7 +3,7 @@ title: Vernal Point/Mercury = Cupido
 page_type: activation
 slug: vernal-point-mercury-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Mercury
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Mercury
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Mercury`
-- Source page: `40`
 #### Witte Entry
 
 General opinion about marriage. Predominant tendency in art. Opinions of associations or unions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: General opinion about marriage. Predominant tendency in art. Opinions of associations or unions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Common language in public, young artist community, youth community in public, news community for the public, public speaking community, and public transport community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Mercury = Cupido`: general opinion about marriage, predominant tendency in art, and opinions of associations or unions.
+- Practical expression: common language in public, young artist community, youth community in public, news community for the public, and public speaking community.
 
 ## Links
 
@@ -61,3 +56,5 @@ General opinion about marriage. Predominant tendency in art. Opinions of associa
 - [Mercury](../factors/mercury.md)
 - [Cupido](../factors/cupido.md)
 - [Vernal Point/Mercury](../axes/vernal-point-mercury.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

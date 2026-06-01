@@ -3,7 +3,7 @@ title: Mercury/Admetos = Neptune
 page_type: activation
 slug: mercury-admetos-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Neptune
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Admetos`
-- Source page: `171`
 #### Witte Entry
 
 To be in doubt. Under this configuration intuition often joins concentration, but it can also mean unsuccessful concentration.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be in doubt. Under this configuration intuition often joins concentration, but it can also mean unsuccessful concentration.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Unlocking of blocked thoughts, report on water circulation, strengthening of the future for youth, grild language about metaphysics, sensitive thoughts firming, uncertainty through news blocking, and deepening in foreign languages
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Admetos = Neptune` makes the axis doubtful, intuitive, and potentially unproductive.
+- Chart expression: concentration mixed with uncertainty, intuition entering heavy thought, and a risk that deep focus dissolves into vagueness or unsuccessful mental effort.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be in doubt. Under this configuration intuition often joins concentration, bu
 - [Admetos](../factors/admetos.md)
 - [Neptune](../factors/neptune.md)
 - [Mercury/Admetos](../axes/mercury-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

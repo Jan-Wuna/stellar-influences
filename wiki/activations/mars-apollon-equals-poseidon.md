@@ -3,7 +3,7 @@ title: Mars/Apollon = Poseidon
 page_type: activation
 slug: mars-apollon-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Apollon
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Apollon`
-- Source page: `201`
 #### Witte Entry
 
 Business practices, business customs, business moral in trade, commerce or industry. Mental property. Mental freedom. Scientific colleagues.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Business practices, business customs, business moral in trade, commerce or industry. Mental property. Mental freedom. Scientific colleagues.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Work in the mind science, expansion of mental work, successful spiritual activity, successful proliferation of truth, cognition work of science, commercial reason acts, clear knowledge impulses, and scientific culture work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Apollon = Poseidon`: business morality, intellectual property, mental freedom, and collegiality in science or commerce.
+- Chart expression: principled enterprise, ethical practice, and productive collaboration grounded in shared understanding and intellectual standards.
 
 ## Links
 
@@ -61,3 +56,5 @@ Business practices, business customs, business moral in trade, commerce or indus
 - [Apollon](../factors/apollon.md)
 - [Poseidon](../factors/poseidon.md)
 - [Mars/Apollon](../axes/mars-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

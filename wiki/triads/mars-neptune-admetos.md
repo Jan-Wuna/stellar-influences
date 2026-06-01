@@ -3,7 +3,7 @@ title: Mars Neptune Admetos
 page_type: triad_hub
 slug: mars-neptune-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Neptune
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Neptune Admetos`
 - Astronomicon triad-set: `U Y ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Admetos = Neptune](../activations/mars-admetos-equals-neptune.md)
-  Source page `202`
 - [Mars/Neptune = Admetos](../activations/mars-neptune-equals-admetos.md)
-  Source page `195`
 - [Neptune/Admetos = Mars](../activations/neptune-admetos-equals-mars.md)
-  Source page `252`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Admetos = Neptune`: page `202`
-- `Mars/Neptune = Admetos`: page `195`
-- `Neptune/Admetos = Mars`: page `252`
+- `Mars/Admetos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `202`
+- `Mars/Admetos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `319`
+- `Mars/Neptune = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `195`
+- `Mars/Neptune = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `305`
+- `Neptune/Admetos = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `252`
+- `Neptune/Admetos = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `402`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Admetos = Neptune`: important hindrances, large disturbances, breakdown, and great failure where effort cannot hold together.
+- `Mars/Neptune = Admetos`: freezes weakened action into loss, cold damage, and destructive depletion.
+- `Neptune/Admetos = Mars`: This activation energizes `Neptune/Admetos` through work undertaken to improve difficult conditions. It makes adaptation active and labor-based, turning decay or shortage into something that can be met through effort, reorganization, and practical struggle.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Neptune](../factors/neptune.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Saturn/Cupido = Sun
 page_type: activation
 slug: saturn-cupido-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Saturn
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Cupido`
-- Source page: `224`
 #### Witte Entry
 
 Days on which one feels antisocial and does better by oneself. To be separated from the family. Divorce of the father.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Days on which one feels antisocial and does better by oneself. To be separated from the family. Divorce of the father.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+serious artist kines man. Community of older people, concentrated male community, personal gifts in the community, problems of a male center, separation from of a community with the man, and losses of a person community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Cupido = Sun`: days on which one feels antisocial and does better by oneself, to be separated from the family.
+- Practical expression: serious artist kines man. Community of older people, concentrated male community, personal gifts in the community, problems of a male center, and separation from of a community with the man.
 
 ## Links
 
@@ -61,3 +56,5 @@ Days on which one feels antisocial and does better by oneself. To be separated f
 - [Cupido](../factors/cupido.md)
 - [Sun](../factors/sun.md)
 - [Saturn/Cupido](../axes/saturn-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

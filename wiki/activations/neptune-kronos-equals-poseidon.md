@@ -3,7 +3,7 @@ title: Neptune/Kronos = Poseidon
 page_type: activation
 slug: neptune-kronos-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Kronos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Kronos`
-- Source page: `250`
 #### Witte Entry
 
 High minded, fine mental attitude. To refuse mental leadership. Failure in mental leadership.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: High minded, fine mental attitude. To refuse mental leadership. Failure in mental leadership.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Particularly subtle ideas, especially clear water, foreign cultural state, subtle feeling of intellectual authorship, unknown spiritual hierarchy, opinion of important truths, future change, and important metaphysical truth
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Kronos = Poseidon`: High minded, fine mental attitude. To refuse mental leadership. Failure in mental leadership.
+- Practical focus: spiritualizes authority through refined ideals and mental elevation, yet also shows refusal of intellectual leadership or failure to sustain it in practice.
+- Practical expression: particularly subtle ideas, especially clear water, foreign cultural state, subtle feeling of intellectual authorship, and unknown spiritual hierarchy.
 
 ## Links
 
@@ -61,3 +57,5 @@ High minded, fine mental attitude. To refuse mental leadership. Failure in menta
 - [Kronos](../factors/kronos.md)
 - [Poseidon](../factors/poseidon.md)
 - [Neptune/Kronos](../axes/neptune-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

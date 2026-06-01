@@ -3,7 +3,7 @@ title: Zeus Admetos Vulcanus
 page_type: triad_hub
 slug: zeus-admetos-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Admetos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Zeus Admetos Vulcanus`
 - Astronomicon triad-set: `£ ¦ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Admetos/Vulcanus = Zeus](../activations/admetos-vulcanus-equals-zeus.md)
-  Source page `311`
 - [Zeus/Admetos = Vulcanus](../activations/zeus-admetos-equals-vulcanus.md)
-  Source page `294`
 - [Zeus/Vulcanus = Admetos](../activations/zeus-vulcanus-equals-admetos.md)
-  Source page `295`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Admetos/Vulcanus = Zeus`: page `311`
-- `Zeus/Admetos = Vulcanus`: page `294`
-- `Zeus/Vulcanus = Admetos`: page `295`
+- `Admetos/Vulcanus = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `311`
+- `Admetos/Vulcanus = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `475`
+- `Zeus/Admetos = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `294`
+- `Zeus/Admetos = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `455`
+- `Zeus/Vulcanus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `295`
+- `Zeus/Vulcanus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `457`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Admetos/Vulcanus = Zeus`: work hindered by obstacles and difficult beginnings made even harder by external pressure.
+- `Zeus/Admetos = Vulcanus`: Abrupt beginning of new work. To start with a mighty effort. Great forces are concentrated toward one goal. Great difficulties in the initial state. Long held- back forces release themselves violently. Volcanic eruption.
+- `Zeus/Vulcanus = Admetos`: A great enterprise is started on a small scale with expedients. To lay the Pee el foundation for a great work.
 
 ## Links
 
 - [Zeus](../factors/zeus.md)
 - [Admetos](../factors/admetos.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

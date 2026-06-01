@@ -3,7 +3,7 @@ title: Pluto Cupido Admetos
 page_type: triad_hub
 slug: pluto-cupido-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Pluto Cupido Admetos`
 - Astronomicon triad-set: `Z ¡ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Admetos = Pluto](../activations/cupido-admetos-equals-pluto.md)
-  Source page `271`
 - [Pluto/Admetos = Cupido](../activations/pluto-admetos-equals-cupido.md)
-  Source page `262`
 - [Pluto/Cupido = Admetos](../activations/pluto-cupido-equals-admetos.md)
-  Source page `257`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Admetos = Pluto`: page `271`
-- `Pluto/Admetos = Cupido`: page `262`
-- `Pluto/Cupido = Admetos`: page `257`
+- `Cupido/Admetos = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `271`
+- `Cupido/Admetos = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `433`
+- `Pluto/Admetos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `262`
+- `Pluto/Admetos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `419`
+- `Pluto/Cupido = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `257`
+- `Pluto/Cupido = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `409`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Admetos = Pluto`: far-reaching transformation in family or partnership, or a passing reunion that temporarily alters communal conditions.
+- `Pluto/Admetos = Cupido`: This activation emphasizes changes in the social or family relations.
+- `Pluto/Cupido = Admetos`: This activation emphasizes to retire into oneself, to become a hermit; Complete transformation and change in social position or social circumstances or social surroundings.
 
 ## Links
 
 - [Pluto](../factors/pluto.md)
 - [Cupido](../factors/cupido.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

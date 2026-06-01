@@ -3,7 +3,7 @@ title: Hades/Poseidon = Sun
 page_type: activation
 slug: hades-poseidon-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Hades
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Poseidon`
-- Source page: `286`
 #### Witte Entry
 
 Odd person, crank. Conservative thinking, to stick to tradition.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Odd person, crank. Conservative thinking, to stick to tradition.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Mystery of mind and body, mental distress of a man, endangered culture centre, lack of human courage, lack of body culture, hidden culture centre, past culture centre, and renunciation of a person
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Poseidon = Sun`: identity being marked by eccentricity, archaic thought, or a stubbornly private worldview. It can show originality, but also a self that is mentally out of step with the surrounding age.
 
 ## Links
 
@@ -61,3 +55,5 @@ Odd person, crank. Conservative thinking, to stick to tradition.
 - [Poseidon](../factors/poseidon.md)
 - [Sun](../factors/sun.md)
 - [Hades/Poseidon](../axes/hades-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

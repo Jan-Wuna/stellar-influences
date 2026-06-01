@@ -3,7 +3,7 @@ title: Sun/Poseidon = MC
 page_type: activation
 slug: sun-poseidon-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - MC
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Poseidon`
-- Source page: `118`
 #### Witte Entry
 
 Mental and spiritual inclinations. To have a delicate body.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mental and spiritual inclinations. To have a delicate body.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+My gcistigcs center, (Gcist+Scclc+Klfrper as unit, personality point according to Carl Perch) mcinc human insight, my human culture, my personal insights, my personal ideas, and the spirit of the body
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Poseidon = MC`: spiritual purpose shaping one's path and public direction.
+- Practical expression: my gcistigcs center, gcist+Scclc+Klfrper as unit, personality point according to Carl Perch) mcinc human insight, my human culture, and my personal insights.
 
 ## Links
 
@@ -61,3 +56,5 @@ Mental and spiritual inclinations. To have a delicate body.
 - [Poseidon](../factors/poseidon.md)
 - [MC](../factors/mc.md)
 - [Sun/Poseidon](../axes/sun-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Uranus/Neptune = Apollon
 page_type: activation
 slug: uranus-neptune-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Neptune
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Neptune`
-- Source page: `234`
 #### Witte Entry
 
 Many do not know what they want. Occult science. Crisis and revolution in science.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Many do not know what they want. Occult science. Crisis and revolution in science.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Expansion of air technology, success technology of the future, excitement about future knowledge, subtle knowledge impulses, new future science, creeping unrest in trade, unrest through much water, and increasing refinement of technology
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Neptune = Apollon`: Many do not know what they want. Occult science. Crisis and revolution in science.
+- Practical expression: expansion of air technology, success technology of the future, excitement about future knowledge, subtle knowledge impulses, and new future science.
 
 ## Links
 
@@ -61,3 +56,5 @@ Many do not know what they want. Occult science. Crisis and revolution in scienc
 - [Neptune](../factors/neptune.md)
 - [Apollon](../factors/apollon.md)
 - [Uranus/Neptune](../axes/uranus-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

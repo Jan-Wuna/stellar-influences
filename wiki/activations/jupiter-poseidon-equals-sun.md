@@ -3,7 +3,7 @@ title: Jupiter/Poseidon = Sun
 page_type: activation
 slug: jupiter-poseidon-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Jupiter
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Poseidon`
-- Source page: `218`
 #### Witte Entry
 
 Days devoted to meditation. The voice of the conscience. The man who follows the voice of his conscience, who knows what is right, who listens to reason.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Days devoted to meditation. The voice of the conscience. The man who follows the voice of his conscience, who knows what is right, who listens to reason.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Financial idea of a man, common advantage of a person, personal right clarity, personal culture success, personal truth success, right of man to clarity benefits of culture human, and center for law and reason '
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Poseidon = Sun`: identity being guided by inner truth and moral intelligence. It favors conscious living shaped by reflective principle rather than impulse.
 
 ## Links
 
@@ -61,3 +55,5 @@ Days devoted to meditation. The voice of the conscience. The man who follows the
 - [Poseidon](../factors/poseidon.md)
 - [Sun](../factors/sun.md)
 - [Jupiter/Poseidon](../axes/jupiter-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

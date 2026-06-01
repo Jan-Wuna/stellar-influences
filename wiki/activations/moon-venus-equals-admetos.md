@@ -3,7 +3,7 @@ title: Moon/Venus = Admetos
 page_type: activation
 slug: moon-venus-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Venus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Venus
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Venus`
-- Source page: `123`
 #### Witte Entry
 
 Deep, unselfish love of a woman. The woman whose love is not returned.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Deep, unselfish love of a woman. The woman whose love is not returned.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Limited joy of a woman, depression of a gentle woman, Greek love of a woman, harmonies of a woman, harmonious plume deepening of a peaceful people, reduction of love for a woman, and deepening of love for women
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Venus = Admetos`: Deep, unselfish love of a woman. The woman whose love is not returned.
+- Practical focus: constricts `Moon/Venus` into deep but unreturned attachment, where tenderness persists under limitation or emotional non-reciprocity. It points to love that is sincere and selfless yet held in a closed or lonely form.
+- Practical expression: limited joy of a woman, depression of a gentle woman, greek love of a woman, harmonies of a woman, and harmonious plume deepening of a peaceful people.
 
 ## Links
 
@@ -61,3 +57,5 @@ Deep, unselfish love of a woman. The woman whose love is not returned.
 - [Venus](../factors/venus.md)
 - [Admetos](../factors/admetos.md)
 - [Moon/Venus](../axes/moon-venus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

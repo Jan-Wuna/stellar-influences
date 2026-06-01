@@ -3,7 +3,7 @@ title: Mercury Neptune Vulcanus
 page_type: triad_hub
 slug: mercury-neptune-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Neptune
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Neptune Vulcanus`
 - Astronomicon triad-set: `T Y §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Neptune = Vulcanus](../activations/mercury-neptune-equals-vulcanus.md)
-  Source page `164`
 - [Mercury/Vulcanus = Neptune](../activations/mercury-vulcanus-equals-neptune.md)
-  Source page `172`
 - [Neptune/Vulcanus = Mercury](../activations/neptune-vulcanus-equals-mercury.md)
-  Source page `253`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Neptune = Vulcanus`: page `164`
-- `Mercury/Vulcanus = Neptune`: page `172`
-- `Neptune/Vulcanus = Mercury`: page `253`
+- `Mercury/Neptune = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `164`
+- `Mercury/Neptune = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `251`
+- `Mercury/Vulcanus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `172`
+- `Mercury/Vulcanus = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `267`
+- `Neptune/Vulcanus = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `253`
+- `Neptune/Vulcanus = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `404`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Neptune = Vulcanus`: strengthens the axis into powerful intuitive accomplishment.
+- `Mercury/Vulcanus = Neptune`: Great intuition. Great ability for sympathetic understanding. Mighty thoughts for the future. Great entanglement or confusion. Illusion and deception.
+- `Neptune/Vulcanus = Mercury`: Thought and speech combine strong intuition with serious risk of error, producing powerful impressions, opinions, or statements that can still be mistaken.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Neptune](../factors/neptune.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Mars Jupiter Hades
 page_type: triad_hub
 slug: mars-jupiter-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Jupiter
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Jupiter Hades`
 - Astronomicon triad-set: `U V ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Hades = Mars](../activations/jupiter-hades-equals-mars.md)
-  Source page `212`
 - [Mars/Hades = Jupiter](../activations/mars-hades-equals-jupiter.md)
-  Source page `198`
 - [Mars/Jupiter = Hades](../activations/mars-jupiter-equals-hades.md)
-  Source page `192`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Hades = Mars`: page `212`
-- `Mars/Hades = Jupiter`: page `198`
-- `Mars/Jupiter = Hades`: page `192`
+- `Jupiter/Hades = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `212`
+- `Jupiter/Hades = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `334`
+- `Mars/Hades = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `198`
+- `Mars/Hades = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `310`
+- `Mars/Jupiter = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `192`
+- `Mars/Jupiter = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `299`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Hades = Mars`: reduced success because of lack of money, aggravated service, and unpleasant disturbances in work or subordinate roles.
+- `Mars/Hades = Jupiter`: bad work results ending in sentence, punishment, killing, or swift unusual death.
+- `Mars/Jupiter = Hades`: drags productive optimism into difficulty, waste, and poor or unharvested results.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Jupiter](../factors/jupiter.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

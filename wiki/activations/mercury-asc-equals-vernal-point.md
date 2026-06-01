@@ -3,10 +3,10 @@ title: Mercury/Asc = Vernal Point
 page_type: activation
 slug: mercury-asc-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Mercury
+  - Asc
   - Vernal Point
 normalized_formula: Mercury/Asc = Vernal Point
 axis: Mercury/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Mercury
   - Asc
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Mercury`
-- Source page: `83`
 #### Witte Entry
 
 Conversation in the public. Announcements, advertisements, newspapers. A public memorandum.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Conversation in the public. Announcements, advertisements, newspapers. A public memorandum.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Conversation partners in public, conversations in the public environment, media in the public environment, public local traffic, local youth in public, partner conversations in public, and environmental reports for the public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Asc = Vernal Point` projects the Mercury/Asc axis into public circulation and announcement.
+- Chart expression: public conversation, advertising, newspapers, and messages intended for wide notice, with communication becoming part of the shared social atmosphere.
 
 ## Links
 
@@ -61,3 +56,5 @@ Conversation in the public. Announcements, advertisements, newspapers. A public 
 - [Asc](../factors/asc.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Mercury/Asc](../axes/mercury-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

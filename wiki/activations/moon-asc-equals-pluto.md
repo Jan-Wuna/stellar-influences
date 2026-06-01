@@ -19,8 +19,10 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -34,38 +36,32 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Moon`
-- Source page: `81`
 #### Witte Entry
 
 Changes which do not last. Changes of ones own circumstances through acquaintance with females. Changes in public conditions.
 
-### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Planets activating the Moon/Ascendant midpoint`
-- Source page: `39`
-- Activator: `Pluto`
+#### ABC Entry
+
+Development of an emotional environment, development of other peoples, emotional unfolding toward the partner, hour of change in place, environmental change through the woman, growing feelings of the partner, and transformation of the woman as partner
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
 One is strongly impacted by emotional sharing in one-on-one relationships. One can get deeply in touch with one’s feelings when interacting with another, though there may be fear of and resistance to doing so.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Abnormal feelings of gloom or despair felt from others; eliminating any awareness of the needs for others; concentrating on self while excluding others; an emotional need to gain power or prestige at the expense of others.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Asc = Pluto`: strong intuitive impact, emotional resilience, and the ability to affect others profoundly through presence alone. Main caution: intensity in closeness: feelings can become controlling, suspicious, or too heavy for easy rapport.
 
 ## Links
 
@@ -73,6 +69,7 @@ One is strongly impacted by emotional sharing in one-on-one relationships. One c
 - [Asc](../factors/asc.md)
 - [Pluto](../factors/pluto.md)
 - [Moon/Asc](../axes/moon-asc.md)
-- [Moon Pluto Asc](../triads/moon-pluto-asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

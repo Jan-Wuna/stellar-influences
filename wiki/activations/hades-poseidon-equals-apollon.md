@@ -3,7 +3,7 @@ title: Hades/Poseidon = Apollon
 page_type: activation
 slug: hades-poseidon-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Hades
   - Apollon
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Poseidon`
-- Source page: `286`
 #### Witte Entry
 
 To separate or isolate from many or to have a special position among many.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To separate or isolate from many or to have a special position among many.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Old culture knowledge, spread of hidden knowledge, expansion of dangerous ideas, successful spiritual service, successful cultural past, spiritual success through renunciation, cultural success in old age, and increasing cultural danger
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Poseidon = Apollon`: oddity or exclusiveness becoming publicly noticeable at scale. It can show broad recognition of a special doctrine, or large networks that still remain mentally apart from the mainstream.
 
 ## Links
 
@@ -61,3 +55,5 @@ To separate or isolate from many or to have a special position among many.
 - [Poseidon](../factors/poseidon.md)
 - [Apollon](../factors/apollon.md)
 - [Hades/Poseidon](../axes/hades-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

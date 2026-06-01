@@ -3,7 +3,7 @@ title: Vernal Point/Uranus = Mercury
 page_type: activation
 slug: vernal-point-uranus-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Mercury
   - Uranus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Uranus`
-- Source page: `45`
 #### Witte Entry
 
 Sudden ideas, thoughts. Telegraphic news. Breaking news.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sudden ideas, thoughts. Telegraphic news. Breaking news.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exciting news for the public, reports about emanations of the public life, excited youth in the public, excitement about the youth in the public, public traffic rhythm, and suspenseful speech in the public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Uranus = Mercury`: sudden ideas, thoughts, telegraphic news, and breaking news.
+- Practical expression: exciting news for the public, reports about emanations of the public life, excited youth in the public, excitement about the youth in the public, and public traffic rhythm.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sudden ideas, thoughts. Telegraphic news. Breaking news.
 - [Uranus](../factors/uranus.md)
 - [Mercury](../factors/mercury.md)
 - [Vernal Point/Uranus](../axes/vernal-point-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

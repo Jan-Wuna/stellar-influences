@@ -3,7 +3,7 @@ title: Sun Uranus Admetos
 page_type: triad_hub
 slug: sun-uranus-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Uranus
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Uranus Admetos`
 - Astronomicon triad-set: `S X ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Sun/Admetos = Uranus](../activations/sun-admetos-equals-uranus.md)
-  Source page `116`
 - [Sun/Uranus = Admetos](../activations/sun-uranus-equals-admetos.md)
-  Source page `108`
 - [Uranus/Admetos = Sun](../activations/uranus-admetos-equals-sun.md)
-  Source page `241`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Sun/Admetos = Uranus`: page `116`
-- `Sun/Uranus = Admetos`: page `108`
-- `Uranus/Admetos = Sun`: page `241`
+- `Sun/Admetos = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `116`
+- `Sun/Admetos = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `169`
+- `Sun/Uranus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `108`
+- `Sun/Uranus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `153`
+- `Uranus/Admetos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `241`
+- `Uranus/Admetos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `384`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Sun/Admetos = Uranus`: This formula emphasizes to be a disturber and to plough.
+- `Sun/Uranus = Admetos`: This formula emphasizes disruption tied to fixed conditions and sudden disturbance in settled states.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Uranus](../factors/uranus.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

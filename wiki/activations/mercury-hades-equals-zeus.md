@@ -3,7 +3,7 @@ title: Mercury/Hades = Zeus
 page_type: activation
 slug: mercury-hades-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Hades
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Hades`
-- Source page: `167`
 #### Witte Entry
 
 To mock military persons, or guards. Vulgar, hateful thoughts and talks. Insults, threats and slander. To create strange thoughts.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To mock military persons, or guards. Vulgar, hateful thoughts and talks. Insults, threats and slander. To create strange thoughts.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful language about the past, disadvantaged youth services, fire emergency call, dangerous driving language, secret language, media services through deprivation, language recordings of the past, and youth's renunciation of procreation
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Hades = Zeus` drives the axis into aggressive mockery, threats, and distorted invention.
+- Chart expression: insulting or mocking authority figures, hateful and vulgar talk, threats and slander, and the active production of strange or hostile ideas.
 
 ## Links
 
@@ -61,3 +56,5 @@ To mock military persons, or guards. Vulgar, hateful thoughts and talks. Insults
 - [Hades](../factors/hades.md)
 - [Zeus](../factors/zeus.md)
 - [Mercury/Hades](../axes/mercury-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

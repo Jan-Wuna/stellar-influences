@@ -3,7 +3,7 @@ title: Mercury/Poseidon = Hades
 page_type: activation
 slug: mercury-poseidon-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Hades
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Poseidon`
-- Source page: `173`
 #### Witte Entry
 
 To meet with stupidity.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To meet with stupidity.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Reports of mental dangers, danger to media culture, language about culture deficiency, describing criminal ideas, lack of clarity of thought, hidden culture movement, poor renunciation of youth, and concealing true thoughts
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Poseidon = Hades`: To meet with stupidity.
+- Practical expression: reports of mental dangers, danger to media culture, language about culture deficiency, describing criminal ideas, and lack of clarity of thought.
 
 ## Links
 
@@ -61,3 +56,5 @@ To meet with stupidity.
 - [Poseidon](../factors/poseidon.md)
 - [Hades](../factors/hades.md)
 - [Mercury/Poseidon](../axes/mercury-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

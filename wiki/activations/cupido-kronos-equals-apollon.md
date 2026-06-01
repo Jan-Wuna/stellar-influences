@@ -3,7 +3,7 @@ title: Cupido/Kronos = Apollon
 page_type: activation
 slug: cupido-kronos-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Cupido
   - Kronos
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Kronos`
-- Source page: `269`
 #### Witte Entry
 
 Great distinguished social gatherings. Extensive artistic or scientific associations. To be or to become known to many through great art.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great distinguished social gatherings. Extensive artistic or scientific associations. To be or to become known to many through great art.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Community policy, economic and monetary union, and economic union
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Kronos = Apollon`: elite networks expanding in reach, influence, and recognition, often through culture, science, or high social exchange. Main caution: prestige spreading faster than real cohesion or substance.
 
 ## Links
 
@@ -61,3 +55,5 @@ Great distinguished social gatherings. Extensive artistic or scientific associat
 - [Kronos](../factors/kronos.md)
 - [Apollon](../factors/apollon.md)
 - [Cupido/Kronos](../axes/cupido-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

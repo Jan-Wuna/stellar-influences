@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Jupiter + Jupiter`
-- Source page: `206`
 #### Witte Entry
 
 Saddened disturbed or hidden happiness. Lack of money. To be lucky with raw materials, antiquities, old materials, junk or on the black market. Clouded happiness. Money losses. Bargaining. Dirty financial transactions. Money laundering. Poor cash flow.
 
-## Comparative Schema
-
-- core meaning: Saddened disturbed or hidden happiness. Lack of money. To be lucky with raw materials, antiquities, old materials, junk or on the black market. Clouded happiness. Money losses. Bargaining. Dirty financial transactions. Money laundering. Poor cash flow.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Jupiter = Hades`: good fortune operating under degraded or concealed conditions. It can show survival through rough or low channels, but also the moral and material burden of prosperity mixed with scarcity and compromise.
 
 ## Links
 

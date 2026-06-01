@@ -3,7 +3,7 @@ title: Venus/Pluto = Poseidon
 page_type: activation
 slug: venus-pluto-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Pluto
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Pluto`
-- Source page: `181`
 #### Witte Entry
 
 Harmonious change or development in the philosophical, or political attitude. Consideration for the world view.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Harmonious change or development in the philosophical, or political attitude. Consideration for the world view.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Development of peace through culture, developing artificial ideas, developing artificial and cultural ideas, growing peace ideas, developing spiritual unfolding of love, developing spiritual artificiality, developing growing harmony through clarity, and developing dignity in love
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Pluto = Poseidon`: harmonious change or development in the philosophical, or political attitude.
+- Practical expression: development of peace through culture, developing artificial ideas, developing artificial, cultural ideas, and growing peace ideas.
 
 ## Links
 
@@ -61,3 +56,5 @@ Harmonious change or development in the philosophical, or political attitude. Co
 - [Pluto](../factors/pluto.md)
 - [Poseidon](../factors/poseidon.md)
 - [Venus/Pluto](../axes/venus-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

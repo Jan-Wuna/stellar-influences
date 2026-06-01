@@ -3,21 +3,22 @@ title: Apollon
 page_type: factor
 slug: apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Apollon
 aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Factor: Apollon
 - Astronomicon token: `¥`
-- Source factor chapter page: `29`
+- Canonical page type: comparative factor page grounded in standalone source entries.
 
 ## Source Entries
 
@@ -27,19 +28,18 @@ updated_at: 2026-04-21
 
 Commerce. Trade. Economy. Religion. Philosophy. Glory. Greatest success. Greatest expansion. Science, Experience. Far wide. Peace. Arts.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Commerce. Trade. Economy. Religion. Philosophy. Glory. Greatest success. Greatest expansion. Science, Experience. Far wide. Peace. Arts.
-- psychology: no separate source-native subdivision is present in the standalone factor chapter.
-- body/health: no separate source-native subdivision is present in the standalone factor chapter.
-- social/relationship: no separate source-native subdivision is present in the standalone factor chapter.
-- events/manifestations: browse related axis and activation pages for explicit formulas involving `Apollon`.
-- conflicts/notes: this page preserves the standalone factor chapter as sourced doctrine from Witte.
+#### ABC Keyword Entry
 
+Expansion, fullness, much, dissemination, veneration, increasing, masses, extensive, unlimited, vastness, freedom, and trade
 
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-
+- `Apollon` is the factor of expansion, fullness, multiplication, commerce, science, experience, and wide distribution across a broad field.
+- Chart expression: growth, trade, prosperity, dissemination, mass reach, intellectual or spiritual breadth, and the freedom to connect things across distance, scale, or category.
+- Its liabilities are overextension, inflation, scattered enlargement without depth, sterile grandiosity, and success or breadth outrunning proportion, grounding, or practical containment.
 
 ## Related Axes
 
@@ -66,15 +66,7 @@ Commerce. Trade. Economy. Religion. Philosophy. Glory. Greatest success. Greates
 - [Vernal Point/Apollon](../axes/vernal-point-apollon.md)
 - [Zeus/Apollon](../axes/zeus-apollon.md)
 
-## Related Activations
-
-- Generated activation pages involving `Apollon`: `693`.
-- Browse [Index](../index.md) or the `wiki/activations/` folder for the full set.
-
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-
-## Open Questions
-
-
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

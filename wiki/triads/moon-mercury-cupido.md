@@ -3,7 +3,7 @@ title: Moon Mercury Cupido
 page_type: triad_hub
 slug: moon-mercury-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Mercury
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Mercury Cupido`
 - Astronomicon triad-set: `R T ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Cupido = Moon](../activations/mercury-cupido-equals-moon.md)
-  Source page `166`
 - [Moon/Cupido = Mercury](../activations/moon-cupido-equals-mercury.md)
-  Source page `130`
 - [Moon/Mercury = Cupido](../activations/moon-mercury-equals-cupido.md)
-  Source page `122`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Cupido = Moon`: page `166`
-- `Moon/Cupido = Mercury`: page `130`
-- `Moon/Mercury = Cupido`: page `122`
+- `Mercury/Cupido = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `166`
+- `Mercury/Cupido = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `254`
+- `Moon/Cupido = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `130`
+- `Moon/Cupido = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `192`
+- `Moon/Mercury = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `122`
+- `Moon/Mercury = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `177`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Cupido = Moon`: joins the axis to public feeling, feminine beauty, and discussion groups.
+- `Moon/Cupido = Mercury`: Hours of play in youth. Correspondence with or of the bride. Literary or social entertainment during leisure hours. To think of women or the community.
+- `Moon/Mercury = Cupido`: This activation socializes `Moon/Mercury` through youth culture, art, courtship, and associative life. It favors aesthetic thinking, early bonds, and communal identification, so feelings and ideas are shaped through peer groups, relationship rituals, and shared creative taste.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Mercury](../factors/mercury.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

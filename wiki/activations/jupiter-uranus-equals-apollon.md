@@ -3,7 +3,7 @@ title: Jupiter/Uranus = Apollon
 page_type: activation
 slug: jupiter-uranus-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Uranus
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Uranus`
-- Source page: `208`
 #### Witte Entry
 
 Much money suddenly appears. Sudden luck for many. Good fortune through astrology.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Much money suddenly appears. Sudden luck for many. Good fortune through astrology.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dynamic money renunciation, success in legal tensions, success through new knowledge, successful trade events, new legal knowledge, surprising expansion of joy, great pleasure through technology, and advantage through technical knowledge
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Uranus = Apollon`: lucky breakthrough moving through big networks, new knowledge, or expanding markets. It favors sudden enlargement and collective opportunity.
 
 ## Links
 
@@ -61,3 +55,5 @@ Much money suddenly appears. Sudden luck for many. Good fortune through astrolog
 - [Uranus](../factors/uranus.md)
 - [Apollon](../factors/apollon.md)
 - [Jupiter/Uranus](../axes/jupiter-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

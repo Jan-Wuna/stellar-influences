@@ -3,7 +3,7 @@ title: Vernal Point/Venus = MC
 page_type: activation
 slug: vernal-point-venus-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Venus
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Venus
   - MC
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Venus`
-- Source page: `41`
 #### Witte Entry
 
 Ones power of attraction. The native is beloved. The personal attitude of love, peace or freedom towards the general public.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Ones power of attraction. The native is beloved. The personal attitude of love, peace or freedom towards the general public.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+animated artist in the frequentity, harmony of souls in the public life, my joy in the frequent, my harmony in the public life, my artist in the public, and mcinc Vorlicbc for the public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Venus = MC`: ones power of attraction, the native is beloved, and the personal attitude of love, peace or freedom towards the general public.
+- Practical expression: animated artist in the frequentity, harmony of souls in the public life, my joy in the frequent, my harmony in the public life, and my artist in the public.
 
 ## Links
 
@@ -61,3 +56,5 @@ Ones power of attraction. The native is beloved. The personal attitude of love, 
 - [Venus](../factors/venus.md)
 - [MC](../factors/mc.md)
 - [Vernal Point/Venus](../axes/vernal-point-venus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

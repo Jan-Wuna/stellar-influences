@@ -3,7 +3,7 @@ title: Venus/Vulcanus = Saturn
 page_type: activation
 slug: venus-vulcanus-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Saturn
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Vulcanus`
-- Source page: `188`
 #### Witte Entry
 
 The sorrows of parting.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The sorrows of parting.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influence of old artist, storten Licbes force, enormous love pain, Harrnonic influence through concentration, strong concentration on peace, painful violence in love, loss of affection through violence, and prejudice for enormous tasks
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Vulcanus = Saturn`: the sorrows of parting.
+- Practical expression: influence of old artist, enormous love pain, harrnonic influence through concentration, and strong concentration on peace.
 
 ## Links
 
@@ -61,3 +56,5 @@ The sorrows of parting.
 - [Vulcanus](../factors/vulcanus.md)
 - [Saturn](../factors/saturn.md)
 - [Venus/Vulcanus](../axes/venus-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

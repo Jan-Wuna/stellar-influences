@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Mercury + Mercury`
-- Source page: `158`
 #### Witte Entry
 
 The function of the nerves. External and internal motion. The development of the thinking. From thinking to understanding. To develop or transform a thought. Thinking and perception is one thing. The development or change of the opinion, of the outlook on life, or of the understanding.
 
-## Comparative Schema
-
-- core meaning: The function of the nerves. External and internal motion. The development of the thinking. From thinking to understanding. To develop or transform a thought. Thinking and perception is one thing. The development or change of the opinion, of the outlook on life, or of the understanding.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Mercury = Pluto` deepens the axis into transformation of thought, understanding, and nerve function.
+- Chart expression: opinions developing through pressure, thought becoming understanding, and mental or nervous life undergoing strong inner change and reorganization.
 
 ## Links
 

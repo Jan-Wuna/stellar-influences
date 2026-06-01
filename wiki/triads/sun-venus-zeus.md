@@ -3,7 +3,7 @@ title: Sun Venus Zeus
 page_type: triad_hub
 slug: sun-venus-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Venus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Venus Zeus`
 - Astronomicon triad-set: `S Q £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Sun/Venus = Zeus](../activations/sun-venus-equals-zeus.md)
-  Source page `104`
 - [Sun/Zeus = Venus](../activations/sun-zeus-equals-venus.md)
-  Source page `113`
 - [Venus/Zeus = Sun](../activations/venus-zeus-equals-sun.md)
-  Source page `184`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Sun/Venus = Zeus`: page `104`
-- `Sun/Zeus = Venus`: page `113`
-- `Venus/Zeus = Sun`: page `184`
+- `Sun/Venus = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `104`
+- `Sun/Venus = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `145`
+- `Sun/Zeus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `113`
+- `Sun/Zeus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `162`
+- `Venus/Zeus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `184`
+- `Venus/Zeus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `286`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Sun/Venus = Zeus`: This formula emphasizes creative affection and active pursuit of pleasure, love, or art.
+- `Sun/Zeus = Venus`: This formula emphasizes creative affection and active pursuit of pleasure, love, or art.
+- `Venus/Zeus = Sun`: physical work done lovingly.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Venus](../factors/venus.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Jupiter Kronos Admetos
 page_type: triad_hub
 slug: jupiter-kronos-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Kronos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Kronos Admetos`
 - Astronomicon triad-set: `V ¤ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Admetos = Kronos](../activations/jupiter-admetos-equals-kronos.md)
-  Source page `216`
 - [Jupiter/Kronos = Admetos](../activations/jupiter-kronos-equals-admetos.md)
-  Source page `214`
 - [Kronos/Admetos = Jupiter](../activations/kronos-admetos-equals-jupiter.md)
-  Source page `300`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Admetos = Kronos`: page `216`
-- `Jupiter/Kronos = Admetos`: page `214`
-- `Kronos/Admetos = Jupiter`: page `300`
+- `Jupiter/Admetos = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `216`
+- `Jupiter/Admetos = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `343`
+- `Jupiter/Kronos = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `214`
+- `Jupiter/Kronos = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `339`
+- `Kronos/Admetos = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `300`
+- `Kronos/Admetos = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `462`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Admetos = Kronos`: heavy expenditure, major spending, strong financial burden, and raw-material reserves or deposits.
+- `Jupiter/Kronos = Admetos`: gladly spending money, luck for a few in a limited way, and leadership over only a small or select group.
+- `Kronos/Admetos = Jupiter`: happiness in a secluded or special position and the ability to find ease, benefit, or dignity inside separation from the ordinary.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Kronos](../factors/kronos.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Vernal Point/Zeus = Mercury
 page_type: activation
 slug: vernal-point-zeus-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Mercury
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Zeus`
-- Source page: `50`
 #### Witte Entry
 
 Laws. One who follows orders. To learn the manipulation of motors. A general urge for mental or spiritual work.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Laws. One who follows orders. To learn the manipulation of motors. A general urge for mental or spiritual work.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+leadership talks in public, talks with the public leadership, youth leadership in public, achievements of youth in public, news about public achievements, public traffic goals, and language achievements in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Zeus = Mercury`: laws, one who follows orders, to learn the manipulation of motors, and a general urge for mental or spiritual work.
+- Practical expression: leadership talks in public, talks with the public leadership, youth leadership in public, achievements of youth in public, and news about public achievements.
 
 ## Links
 
@@ -61,3 +56,5 @@ Laws. One who follows orders. To learn the manipulation of motors. A general urg
 - [Zeus](../factors/zeus.md)
 - [Mercury](../factors/mercury.md)
 - [Vernal Point/Zeus](../axes/vernal-point-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

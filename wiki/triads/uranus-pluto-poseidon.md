@@ -3,7 +3,7 @@ title: Uranus Pluto Poseidon
 page_type: triad_hub
 slug: uranus-pluto-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Pluto
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Pluto Poseidon`
 - Astronomicon triad-set: `X Z ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Pluto/Poseidon = Uranus](../activations/pluto-poseidon-equals-uranus.md)
-  Source page `264`
 - [Uranus/Pluto = Poseidon](../activations/uranus-pluto-equals-poseidon.md)
-  Source page `235`
 - [Uranus/Poseidon = Pluto](../activations/uranus-poseidon-equals-pluto.md)
-  Source page `243`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Pluto/Poseidon = Uranus`: page `264`
-- `Uranus/Pluto = Poseidon`: page `235`
-- `Uranus/Poseidon = Pluto`: page `243`
+- `Pluto/Poseidon = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `264`
+- `Pluto/Poseidon = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `423`
+- `Uranus/Pluto = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `235`
+- `Uranus/Pluto = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `373`
+- `Uranus/Poseidon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `243`
+- `Uranus/Poseidon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `389`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Pluto/Poseidon = Uranus`: This activation emphasizes surprising, suddenly gained understanding asks for a push in the mental and emotional attitude; A theoretical development with revolutionary results.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Pluto](../factors/pluto.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

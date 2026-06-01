@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Saturn`
-- Source page: `193`
 #### Witte Entry
 
 Grief. To suffer from separations or separating actions. Decease. Cause of death. Dying. Deaths of others that make a deep impression upon the mind of the native. One’s own death.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Mars/Saturn`
-- Source page: `206`
-- Entry: `0709`
+#### ABC Entry
+
+I at the arbcilc harl, my patient sheep, my total will, my serious crime, my concentration on the work, my problcmal arbcit, psychic pulses, and seclical stress on the work
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Endurance, power of resistance, indefatigable. The need to overcome many difficu
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mars/Saturn midpoint`
-- Source page: `68`
-- Activator: `Midheaven`
-
 #### Sandbach Entry
 
 One is growing in this lifetime toward a stronger, more careful and sincere expression of spiritual truth, and toward keeping one’s efforts in focused alignment with one’s High Self. Slow, focused, gradual and/or careful action taken to fulfill career goals. The tendency to be uncertain of how to proceed in one’s work. The possibility of being frustrated with or by employers and/or authority figures. At worst, one plays the role of an aggressive authoritarian.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Increases in the respect or personal stature you receive due to great efforts on your part to develop self slowly and in a mature fashion; learning the role of discipline and persistence in forging ahead toward gaining expertise.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Saturn = MC`: toughness, disciplined work, and the capacity to maintain position under prolonged pressure or sorrow. Main caution: authoritarian or grief-laden purpose: blocked force can make work feel joyless, frustrate direction, or express itself as harsh control.
 
 ## Links
 
@@ -84,7 +76,8 @@ One is growing in this lifetime toward a stronger, more careful and sincere expr
 - [Saturn](../factors/saturn.md)
 - [MC](../factors/mc.md)
 - [Mars/Saturn](../axes/mars-saturn.md)
-- [Mars Saturn MC](../triads/mars-saturn-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

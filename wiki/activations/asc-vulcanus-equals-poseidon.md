@@ -3,7 +3,7 @@ title: Asc/Vulcanus = Poseidon
 page_type: activation
 slug: asc-vulcanus-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - Vulcanus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Vulcanus`
-- Source page: `97`
 #### Witte Entry
 
 To be under the mighty influence of others. Occurring forces of tidal waves.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be under the mighty influence of others. Occurring forces of tidal waves.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influence of a strong partner, influential ideas of the partner, influential environmental culture, knowledge of space energy, spiritual energy of the partner, spiritual power in the place, spiritual power place, cultural influence in the place, and power of the environment truth
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Vulcanus = Poseidon`: overwhelming ideological, spiritual, or natural force acting on the immediate environment. Main caution: being swept up by power too large or subtle to manage easily.
 
 ## Links
 
@@ -61,3 +55,5 @@ To be under the mighty influence of others. Occurring forces of tidal waves.
 - [Vulcanus](../factors/vulcanus.md)
 - [Poseidon](../factors/poseidon.md)
 - [Asc/Vulcanus](../axes/asc-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

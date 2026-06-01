@@ -3,7 +3,7 @@ title: Apollon/Admetos = Jupiter
 page_type: activation
 slug: apollon-admetos-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Apollon
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Apollon
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Apollon + Admetos`
-- Source page: `306`
 #### Witte Entry
 
 To feel happy and content in one’s habits.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To feel happy and content in one’s habits.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Limitation of the financial expansion, successful knowledge deepening, joy through brilliant knowledge, brilliant legal knowledge, extensive money circle, deepening into trade law, and increasing financial blockade
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Admetos = Jupiter`: happiness with one's lot and a settled sense of material or psychological sufficiency. Main caution: satisfied inertia: good fortune can reduce initiative and encourage staying too long inside comfortable routines.
 
 ## Links
 
@@ -61,3 +55,5 @@ To feel happy and content in one’s habits.
 - [Admetos](../factors/admetos.md)
 - [Jupiter](../factors/jupiter.md)
 - [Apollon/Admetos](../axes/apollon-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

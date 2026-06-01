@@ -3,7 +3,7 @@ title: Node/Admetos = Cupido
 page_type: activation
 slug: node-admetos-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - Cupido
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Admetos`
-- Source page: `154`
 #### Witte Entry
 
 Few members of family. Reduction of family. To retain only a few social connections. Loneliness in connection with a few. Heavily oppressed communities.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Few members of family. Reduction of family. To retain only a few social connections. Loneliness in connection with a few. Heavily oppressed communities.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exhaustive connections in need, blockade in a secret connection, restriction of a criminal connection, end of a dangerous negation, end by renunciation of a connection, and consolidation of a connection from the past
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Admetos = Cupido`: Few members of family. Reduction of family. To retain only a few social connections. Loneliness in connection with a few. Heavily oppressed communities.
+- Practical focus: heavily oppressed communities.
+- In difficult expression, it can mark few members of family.
 
 ## Links
 
@@ -61,3 +57,5 @@ Few members of family. Reduction of family. To retain only a few social connecti
 - [Admetos](../factors/admetos.md)
 - [Cupido](../factors/cupido.md)
 - [Node/Admetos](../axes/node-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

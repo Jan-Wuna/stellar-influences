@@ -3,7 +3,7 @@ title: Neptune/Poseidon = Pluto
 page_type: activation
 slug: neptune-poseidon-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Pluto
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Poseidon`
-- Source page: `254`
 #### Witte Entry
 
 Eagerness to convert people. To be a missionary. They are the wise who gain truth through error, they are the fools who adhere to their errors. To arrive at a high mental concept of the world.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Eagerness to convert people. To be a missionary. They are the wise who gain truth through error, they are the fools who adhere to their errors. To arrive at a high mental concept of the world.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Weak spiritual development, developing unclear ideas, developing impoverished cultural development, refined spiritual development, growing sense weakness, exchanging truth development, increasing clarity through fine tuning, and growing culture enhancing
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Poseidon = Pluto`: Eagerness to convert people. To be a missionary. They are the wise who gain truth through error, they are the fools who adhere to their errors. To arrive at a high mental concept of the world.
+- Practical focus: transforms subtle belief through crisis, correction, and worldview reversal. It can mark a reforming or missionary impulse in which truth is pursued through error, disillusionment, and deep changes in conviction.
+- Practical expression: weak spiritual development, developing unclear ideas, developing impoverished cultural development, refined spiritual development, and growing sense weakness.
 
 ## Links
 
@@ -61,3 +57,5 @@ Eagerness to convert people. To be a missionary. They are the wise who gain trut
 - [Poseidon](../factors/poseidon.md)
 - [Pluto](../factors/pluto.md)
 - [Neptune/Poseidon](../axes/neptune-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

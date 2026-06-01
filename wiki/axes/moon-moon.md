@@ -45,8 +45,6 @@ updated_at: 2026-04-21
 
 - Axis: `Moon/Moon`
 - Astronomicon axis: `R/R`
-- Source heading: `Moon + Moon`
-- Source page: `119`
 
 ## Source Entries
 
@@ -55,15 +53,6 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 Female persons. The people. The public. The hour. Changeable things. Function of the brain, the emotional state, the glands, the secretions and liquids of the body.
-
-## Comparative Schema
-
-- core meaning: Female persons. The people. The public. The hour. Changeable things. Function of the brain, the emotional state, the glands, the secretions and liquids of the body.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
@@ -89,13 +78,11 @@ Female persons. The people. The public. The hour. Changeable things. Function of
 - [Moon/Moon = Vulcanus](../activations/moon-moon-equals-vulcanus.md)
 - [Moon/Moon = Poseidon](../activations/moon-moon-equals-poseidon.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Moon` concentrates pure lunar life: feeling, fluctuation, the public mood, female presence, bodily rhythms, and the mutable psychic atmosphere of an hour or a people. It describes emotional receptivity in its most undiluted form, so later activations show how instinctive life becomes protected, socialized, burdened, fortunate, forceful, or publicly expressed.
+- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
 
 ## Links
 

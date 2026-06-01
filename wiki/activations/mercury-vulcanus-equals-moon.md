@@ -3,7 +3,7 @@ title: Mercury/Vulcanus = Moon
 page_type: activation
 slug: mercury-vulcanus-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Mercury
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Vulcanus`
-- Source page: `172`
 #### Witte Entry
 
 The public under the impact of a mighty or great idea or an enormous might. To get on and off, to ride back and forth. Riding people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The public under the impact of a mighty or great idea or an enormous might. To get on and off, to ride back and forth. Riding people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influential words of a woman, influence of young women, fiihls stark in speech, talk about the power of the people, power of women's youth, media influence in the people, opinions of an influential woman, strong women's movement, and talk about fiihls stark
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Vulcanus = Moon`: The public under the impact of a mighty or great idea or an enormous might. To get on and off, to ride back and forth. Riding people.
+- Practical expression: influential words of a woman, influence of young women, fiihls stark in speech, talk about the power of the people, and power of women's youth.
 
 ## Links
 
@@ -61,3 +56,5 @@ The public under the impact of a mighty or great idea or an enormous might. To g
 - [Vulcanus](../factors/vulcanus.md)
 - [Moon](../factors/moon.md)
 - [Mercury/Vulcanus](../axes/mercury-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

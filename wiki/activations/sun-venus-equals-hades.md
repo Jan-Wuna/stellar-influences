@@ -3,7 +3,7 @@ title: Sun/Venus = Hades
 page_type: activation
 slug: sun-venus-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Venus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Venus
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Venus`
-- Source page: `104`
 #### Witte Entry
 
 Connections to poor girls, also servant girls. Preference for street girls.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Connections to poor girls, also servant girls. Preference for street girls.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+A man's peace service, dangerous love for a man, criminal corporal love, disadvantages for a peace center, hidden affection of a man, past shame of a man, and goodwill for a man from the past
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Venus = Hades`: painful affection and difficulty in love or comfort.
+- Practical expression: a man's peace service, dangerous love for a man, criminal corporal love, disadvantages for a peace center, and hidden affection of a man.
 
 ## Links
 
@@ -61,3 +56,5 @@ Connections to poor girls, also servant girls. Preference for street girls.
 - [Venus](../factors/venus.md)
 - [Hades](../factors/hades.md)
 - [Sun/Venus](../axes/sun-venus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

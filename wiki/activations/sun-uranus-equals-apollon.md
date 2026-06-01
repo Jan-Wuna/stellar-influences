@@ -3,7 +3,7 @@ title: Sun/Uranus = Apollon
 page_type: activation
 slug: sun-uranus-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Uranus
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Uranus`
-- Source page: `108`
 #### Witte Entry
 
 Surprising success. To be suddenly known to many people. Far extending tensions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Surprising success. To be suddenly known to many people. Far extending tensions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Extension of the personal rhythm, successful reform day, new knowledge for the human being, personal knowledge renewal, technical knowledge of a person, technical knowledge center, many personal tensions, and increasing personal tensions
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Uranus = Apollon`: sudden success and expansive breakthroughs.
+- Practical expression: extension of the personal rhythm, successful reform day, new knowledge for the human being, personal knowledge renewal, and technical knowledge of a person.
 
 ## Links
 
@@ -61,3 +56,5 @@ Surprising success. To be suddenly known to many people. Far extending tensions.
 - [Uranus](../factors/uranus.md)
 - [Apollon](../factors/apollon.md)
 - [Sun/Uranus](../axes/sun-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

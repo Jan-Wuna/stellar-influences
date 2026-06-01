@@ -3,7 +3,7 @@ title: Moon/Node = Vulcanus
 page_type: activation
 slug: moon-node-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Node
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Node
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Node`
-- Source page: `121`
 #### Witte Entry
 
 Mighty and influential women’s or people's association.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mighty and influential women’s or people's association.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influential V oleker connections, influential women's connections, contact with an energetic woman, power of woman in connection, powerful people connections, strong women's connection, and strong mother bond
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Node = Vulcanus`: Mighty and influential women’s or people's association.
+- Practical focus: intensifies `Moon/Node` into powerful communal ties and highly influential female or popular alliances. It suggests emotionally charged association with force behind it, where belonging becomes organized, strong, and hard to ignore.
+- Practical expression: influential V oleker connections, influential women's connections, contact with an energetic woman, power of woman in connection, and powerful people connections.
 
 ## Links
 
@@ -61,3 +57,5 @@ Mighty and influential women’s or people's association.
 - [Node](../factors/node.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Moon/Node](../axes/moon-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

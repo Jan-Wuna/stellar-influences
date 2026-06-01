@@ -3,7 +3,7 @@ title: Moon/Saturn = Poseidon
 page_type: activation
 slug: moon-saturn-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Saturn
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Saturn
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Saturn`
-- Source page: `126`
 #### Witte Entry
 
 Interested in serious mental matters. Hours for educating. Mental activity in the evening hours.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Interested in serious mental matters. Hours for educating. Mental activity in the evening hours.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Contaminating knowledge for a woman, insight of a cowardly woman, mentally concentrated woman, clarity of a woman through patience, cultural tasks of a people, cultural loss of a people, problems of a woman with the truth, and lost ideas of a people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Saturn = Poseidon`: Interested in serious mental matters. Hours for educating. Mental activity in the evening hours.
+- Practical focus: spiritualizes `Moon/Saturn` through serious study, evening contemplation, and sober mental work. It channels restraint into education and reflective discipline, making emotional heaviness more thoughtful, principled, and inwardly ordered.
+- Practical expression: contaminating knowledge for a woman, insight of a cowardly woman, mentally concentrated woman, clarity of a woman through patience, and cultural tasks of a people.
 
 ## Links
 
@@ -61,3 +57,5 @@ Interested in serious mental matters. Hours for educating. Mental activity in th
 - [Saturn](../factors/saturn.md)
 - [Poseidon](../factors/poseidon.md)
 - [Moon/Saturn](../axes/moon-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

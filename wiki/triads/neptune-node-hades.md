@@ -3,7 +3,7 @@ title: Neptune Node Hades
 page_type: triad_hub
 slug: neptune-node-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Neptune Node Hades`
 - Astronomicon triad-set: `Y g ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Neptune/Hades = Node](../activations/neptune-hades-equals-node.md)
-  Source page `248`
 - [Neptune/Node = Hades](../activations/neptune-node-equals-hades.md)
-  Source page `147`
 - [Node/Hades = Neptune](../activations/node-hades-equals-neptune.md)
-  Source page `150`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Neptune/Hades = Node`: page `248`
-- `Neptune/Node = Hades`: page `147`
-- `Node/Hades = Neptune`: page `150`
+- `Neptune/Hades = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `248`
+- `Neptune/Hades = Node`: Udo Rudolph - ABC for Planetary Pictures, page `394`
+- `Neptune/Node = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `147`
+- `Neptune/Node = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `221`
+- `Node/Hades = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `150`
+- `Node/Hades = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `227`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Neptune/Hades = Node`: This activation turns hidden decay into disappointing connections and compromised associations, where one’s ties to others become unclear, deceptive, or entangled with liquid, weather, or disaster conditions.
+- `Neptune/Node = Hades`: This activation darkens uncertain ties into hopelessness, poverty, and social exclusion, where one feels cut off from others without a clear path back into belonging.
+- `Node/Hades = Neptune`: Passing connection with evil things. To have to do with water. To experience water accidents. Danger of drowning.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [Node](../factors/node.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

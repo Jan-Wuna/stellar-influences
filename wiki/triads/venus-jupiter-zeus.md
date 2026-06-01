@@ -3,7 +3,7 @@ title: Venus Jupiter Zeus
 page_type: triad_hub
 slug: venus-jupiter-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Jupiter
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Jupiter Zeus`
 - Astronomicon triad-set: `Q V £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Zeus = Venus](../activations/jupiter-zeus-equals-venus.md)
-  Source page `213`
 - [Venus/Jupiter = Zeus](../activations/venus-jupiter-equals-zeus.md)
-  Source page `177`
 - [Venus/Zeus = Jupiter](../activations/venus-zeus-equals-jupiter.md)
-  Source page `184`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Zeus = Venus`: page `213`
-- `Venus/Jupiter = Zeus`: page `177`
-- `Venus/Zeus = Jupiter`: page `184`
+- `Jupiter/Zeus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `213`
+- `Jupiter/Zeus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `336`
+- `Venus/Jupiter = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `177`
+- `Venus/Jupiter = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `273`
+- `Venus/Zeus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `184`
+- `Venus/Zeus = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `286`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Zeus = Venus`: loving one's work, finding joy in creation, and experiencing pleasure through productive activity.
+- `Venus/Jupiter = Zeus`: realization of a desire.
+- `Venus/Zeus = Jupiter`: happiness through devoted activities.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Jupiter](../factors/jupiter.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

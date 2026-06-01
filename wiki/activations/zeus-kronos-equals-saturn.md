@@ -3,7 +3,7 @@ title: Zeus/Kronos = Saturn
 page_type: activation
 slug: zeus-kronos-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Zeus
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Kronos`
-- Source page: `289`
 #### Witte Entry
 
 Great successful accomplishments. Big financial institutions. Good luck in warfare.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great successful accomplishments. Big financial institutions. Good luck in warfare.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special creativeness in old age, stratified state goal seeking, loss of fire, concentration on basic achievements, problematic state welfare, self sustaining tasksDesign, self consciousness through patient striving, and important goals in old age
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Kronos = Saturn`: Great successful accomplishments. Big financial institutions. Good luck in warfare.
+- Practical expression: special creativeness in old age, stratified state goal seeking, loss of fire, concentration on basic achievements, and problematic state welfare.
 
 ## Links
 
@@ -61,3 +56,5 @@ Great successful accomplishments. Big financial institutions. Good luck in warfa
 - [Kronos](../factors/kronos.md)
 - [Saturn](../factors/saturn.md)
 - [Zeus/Kronos](../axes/zeus-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

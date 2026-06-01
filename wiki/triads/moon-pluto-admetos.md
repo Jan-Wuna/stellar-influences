@@ -3,7 +3,7 @@ title: Moon Pluto Admetos
 page_type: triad_hub
 slug: moon-pluto-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Pluto Admetos`
 - Astronomicon triad-set: `R Z ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Admetos = Pluto](../activations/moon-admetos-equals-pluto.md)
-  Source page `135`
 - [Moon/Pluto = Admetos](../activations/moon-pluto-equals-admetos.md)
-  Source page `129`
 - [Pluto/Admetos = Moon](../activations/pluto-admetos-equals-moon.md)
-  Source page `262`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Admetos = Pluto`: page `135`
-- `Moon/Pluto = Admetos`: page `129`
-- `Pluto/Admetos = Moon`: page `262`
+- `Moon/Admetos = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `135`
+- `Moon/Admetos = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `203`
+- `Moon/Pluto = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `129`
+- `Moon/Pluto = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `191`
+- `Pluto/Admetos = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `262`
+- `Pluto/Admetos = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `418`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Admetos = Pluto`: Modified conditions. To get out of crowded circumstances. To gain more freedom.
+- `Moon/Pluto = Admetos`: This activation constricts `Moon/Pluto` into slowed transition, resistance to upheaval, and the gradual hardening of changing conditions into something fixed. It favors stabilization after flux, but often through emotional reluctance, fatigue, or a wish to stop further mutation.
+- `Pluto/Admetos = Moon`: This activation emphasizes deep reaching transformation through or with women in the life of a people or in the public.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Pluto](../factors/pluto.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

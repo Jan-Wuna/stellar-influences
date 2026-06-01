@@ -3,7 +3,7 @@ title: Zeus/Poseidon = Kronos
 page_type: activation
 slug: zeus-poseidon-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Zeus
   - Kronos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Poseidon`
-- Source page: `296`
 #### Witte Entry
 
 Great mental accomplishment. To be an authority because of ability and mental productivity. Mental leadership and direction.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great mental accomplishment. To be an authority because of ability and mental productivity. Mental leadership and direction.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Beginning of great clarity, special reason efforts, spiritual filtration hierarchy, leading cultural state, clear goals of the state, creative intellectual authorship, self standing intellectual goal striving, state culture design, and important truth testimony
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Poseidon = Kronos`: Great mental accomplishment. To be an authority because of ability and mental productivity. Mental leadership and direction.
+- Practical expression: beginning of great clarity, special reason efforts, spiritual filtration hierarchy, leading cultural state, and clear goals of the state.
 
 ## Links
 
@@ -61,3 +56,5 @@ Great mental accomplishment. To be an authority because of ability and mental pr
 - [Poseidon](../factors/poseidon.md)
 - [Kronos](../factors/kronos.md)
 - [Zeus/Poseidon](../axes/zeus-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

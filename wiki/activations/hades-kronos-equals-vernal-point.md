@@ -3,7 +3,7 @@ title: Hades/Kronos = Vernal Point
 page_type: activation
 slug: hades-kronos-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Hades
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Kronos`
-- Source page: `279`
 #### Witte Entry
 
 Atrocities. Great mortality. Sacrifices of human lives. Great crimes of or against the government. Failure of a plot.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Atrocities. Great mortality. Sacrifices of human lives. Great crimes of or against the government. Failure of a plot.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+reputation in public life from the past, lack of authority in public, special guided criminality in public, disadvantages in public, public state service, and state secrets in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Kronos = Vernal Point`: public catastrophe tied to power. It can show state crime, anti-state violence, mass death, and the social exposure of harsh high-level wrongdoing.
 
 ## Links
 
@@ -61,3 +55,5 @@ Atrocities. Great mortality. Sacrifices of human lives. Great crimes of or again
 - [Kronos](../factors/kronos.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Hades/Kronos](../axes/hades-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Mars`
-- Source page: `64`
 #### Witte Entry
 
 To give orders. To act rashly. Acting quickly.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Mars/Medium Coeli`
-- Source page: `223`
-- Entry: `0773`
+#### ABC Entry
+
+I at the talking about power of action, I think and act, my activity in youth, my thoughts, my thoughts to work, and my speech activity
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Inclination to act with deliberation, organizing things, acting according to reg
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mars/Midheaven midpoint`
-- Source page: `77`
-- Activator: `Mercury`
-
 #### Sandbach Entry
 
 One’s ideas may be in conflict with authorities. One’s ideas challenge ac cepted ways of thinking about things. To be outspoken about ethics, morals, and what one feels is right.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Highlights your need to use your innate intelligence and inner gifts to progress in life; helps you realize your spiritual origins and the need to develop your attitudes and efforts to conform to these inner principles.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/MC = Mercury`: organizing through words, energetic communication, exciting news tied to work, and the ability to make ideas operational. Main caution: verbal overdrive: orders, opinions, or fast judgments can provoke conflict or push action ahead of clear reflection.
 
 ## Links
 
@@ -84,7 +76,8 @@ One’s ideas may be in conflict with authorities. One’s ideas challenge ac ce
 - [MC](../factors/mc.md)
 - [Mercury](../factors/mercury.md)
 - [Mars/MC](../axes/mars-mc.md)
-- [Mercury Mars MC](../triads/mercury-mars-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

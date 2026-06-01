@@ -3,7 +3,7 @@ title: Asc/Poseidon = Mercury
 page_type: activation
 slug: asc-poseidon-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Asc
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Poseidon`
-- Source page: `98`
 #### Witte Entry
 
 Union of ideas with others. To be brought together with others for the same idea.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Union of ideas with others. To be brought together with others for the same idea.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Reports about ·a cultural place, ideal partner language, youth as a cultural partner, clear environmental reports, local cultural media, cultural news of a place, environmental knowledge of youth, and words of truth of the partner
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Poseidon = Mercury`: discussion groups, study alliances, and a near field organized by common ideas, writing, teaching, or exchange. Main caution: mental enclosure: agreement can become an echo chamber.
 
 ## Links
 
@@ -61,3 +55,5 @@ Union of ideas with others. To be brought together with others for the same idea
 - [Poseidon](../factors/poseidon.md)
 - [Mercury](../factors/mercury.md)
 - [Asc/Poseidon](../axes/asc-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

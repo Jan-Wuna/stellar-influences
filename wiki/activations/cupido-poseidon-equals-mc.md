@@ -3,7 +3,7 @@ title: Cupido/Poseidon = MC
 page_type: activation
 slug: cupido-poseidon-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Cupido
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Poseidon`
-- Source page: `274`
 #### Witte Entry
 
 To seek mental or spiritual community. To be attracted by spiritual, educational, cultural or philosophical communities.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To seek mental or spiritual community. To be attracted by spiritual, educational, cultural or philosophical communities.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+The Community of Culture, Arts and Culture in the Public Life I've shared cultural community, spirit and soul, my knowledge of the Community, the knowledge of the soul, my spiritual community, and my ideas
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Poseidon = MC`: identity and life direction being guided by the search for a higher-minded group or shared outlook. Main caution: pursuing ideal community without testing whether it is truly sound or humane.
 
 ## Links
 
@@ -61,3 +55,5 @@ To seek mental or spiritual community. To be attracted by spiritual, educational
 - [Poseidon](../factors/poseidon.md)
 - [MC](../factors/mc.md)
 - [Cupido/Poseidon](../axes/cupido-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

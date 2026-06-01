@@ -3,7 +3,7 @@ title: Hades/Vulcanus = Zeus
 page_type: activation
 slug: hades-vulcanus-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Hades
   - Zeus
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Vulcanus`
-- Source page: `283`
 #### Witte Entry
 
 Oppressed or decimated families and great communities. The community that has been weakened through great losses or that is in constant danger. Gang of criminals.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Oppressed or decimated families and great communities. The community that has been weakened through great losses or that is in constant danger. Gang of criminals.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Beginning of huge disadvantages, dangerous violence of fire, criminal fire force, grief by enormous fire, lack of energy performances, adverse power efforts, hidden bouncing force, past power power, and renunciation of leadership power
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Vulcanus = Zeus`: destructive force being aimed at collective life. It can show planned intimidation, communal weakening, and organized criminal pressure against whole social units.
 
 ## Links
 
@@ -61,3 +55,5 @@ Oppressed or decimated families and great communities. The community that has be
 - [Vulcanus](../factors/vulcanus.md)
 - [Zeus](../factors/zeus.md)
 - [Hades/Vulcanus](../axes/hades-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

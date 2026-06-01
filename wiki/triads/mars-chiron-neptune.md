@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Mars Chiron Neptune`
 - Astronomicon triad-set: `U Chiron Y`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Mars/Chiron = Neptune`: John, page `69`
 - `Mars/Neptune = Chiron`: John, page `72`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Neptune = Mars`: healing through timely, intuitive intervention rather than blunt force. Main caution: acting on inspiration without enough grounding or clarity.
+- `Mars/Chiron = Neptune`: compassionate intervention, intuitive diagnosis, and the ability to work below the surface where others cannot yet see what is wrong. The caution is vagueness, secrecy, or acting on impressions that are hard to verify.
+- `Mars/Neptune = Chiron` helps confused or draining action realign with intuition and subtle effectiveness.
 
 ## Links
 

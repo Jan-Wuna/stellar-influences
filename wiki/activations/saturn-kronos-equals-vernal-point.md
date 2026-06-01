@@ -3,7 +3,7 @@ title: Saturn/Kronos = Vernal Point
 page_type: activation
 slug: saturn-kronos-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Saturn
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Kronos`
-- Source page: `227`
 #### Witte Entry
 
 Poor government structures. Shutdown of government structures in public.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Poor government structures. Shutdown of government structures in public.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+human losses in public, special patience in public life, serious authority in public life, great pain in public, losses of the state in public life, and important tasks for the public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Kronos = Vernal Point`: poor government structures, shutdown of government structures in public.
+- Practical expression: human losses in public, special patience in public life, serious authority in public life, great pain in public, and losses of the state in public life.
 
 ## Links
 
@@ -61,3 +56,5 @@ Poor government structures. Shutdown of government structures in public.
 - [Kronos](../factors/kronos.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Saturn/Kronos](../axes/saturn-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

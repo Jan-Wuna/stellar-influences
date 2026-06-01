@@ -3,7 +3,7 @@ title: Vernal Point Mars Uranus
 page_type: triad_hub
 slug: vernal-point-mars-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Mars
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Mars Uranus`
 - Astronomicon triad-set: `VP U X`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Uranus = Vernal Point](../activations/mars-uranus-equals-vernal-point.md)
-  Source page `194`
 - [Vernal Point/Mars = Uranus](../activations/vernal-point-mars-equals-uranus.md)
-  Source page `42`
 - [Vernal Point/Uranus = Mars](../activations/vernal-point-uranus-equals-mars.md)
-  Source page `45`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Uranus = Vernal Point`: page `194`
-- `Vernal Point/Mars = Uranus`: page `42`
-- `Vernal Point/Uranus = Mars`: page `45`
+- `Mars/Uranus = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `194`
+- `Mars/Uranus = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `302`
+- `Vernal Point/Mars = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `42`
+- `Vernal Point/Mars = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `33`
+- `Vernal Point/Uranus = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `45`
+- `Vernal Point/Uranus = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `38`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Uranus = Vernal Point`: makes excitement, rebellion, and uproar collective and publicly felt.
+- `Vernal Point/Mars = Uranus`: brings sudden action into direct worldly contact; main caution: injury or abrupt conflict when force discharges too quickly.
+- `Vernal Point/Uranus = Mars`: This formula emphasizes heedless or hasty actions, accident or attempt upon a person’s life, and working with environmental technology.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Mars](../factors/mars.md)
 - [Uranus](../factors/uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

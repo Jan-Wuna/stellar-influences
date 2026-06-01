@@ -53,9 +53,6 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Chiron/Node midpoint`
-- Source page: `100`
-
 #### Principle
 
 A compelling need to connect to positive energy and to spirit guides. An urgent need to clear past karmas and to resolve issues of the past so that one can move forward. A need to understand one’s attachments to the past and how those attachments are fear-based. Needing to seek out people who are willing to grow and evolve with oneself. A need to connect with people who will accept the love one has to give. Tension between oneself and others caused by others unwillingness to grow or change. Often the source of this tension is hidden. Sometimes one has great problems with others that are hard to define. The only way to solve these problems is to trust in one’s instincts and to be receptive to answers coming from deep inside oneself or from spirit guides.
@@ -63,15 +60,6 @@ A compelling need to connect to positive energy and to spirit guides. An urgent 
 #### Process
 
 The finding of ways to evolve, often ways one does not expect and which turn out to be short-cuts that speed the process of the growth of consciousness.
-
-## Comparative Schema
-
-- core meaning: source-native pair entries are preserved side by side above.
-- psychology: Sandbach contributes an explicit `Principle` and `Process` layer, while other sources retain their own native structure and vocabulary.
-- body/health: bodily or vitality implications remain embedded inside each source entry when present.
-- social/relationship: interpersonal implications remain attached to the source-native wording above instead of being flattened into one paraphrase.
-- events/manifestations: see the source entries above and the orientation-specific activation pages linked below.
-- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
 
 ## Related Activations
 
@@ -88,14 +76,11 @@ The finding of ways to evolve, often ways one does not expect and which turn out
 - [Chiron/Node = Uranus](../activations/chiron-node-equals-uranus.md)
 - [Chiron/Node = Venus](../activations/chiron-node-equals-venus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices and framework emphases rather than flattened into one interpretation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Chiron/Node`: spiritual connectedness through relationship: an urgent need to clear the past, dissolve fear-based attachment, and seek bonds that genuinely support evolution rather than repeating hidden painful patterns.
+- Chart expression: growth through the people one chooses, to a need for spiritually receptive companionship, and to the discovery that difficult or vaguely painful connections often signal unresolved karma or unhealed past material. Liabilities: remaining attached to painful relational patterns, confusing longing for connection with true resonance, or repeating the past while calling it destiny.
 
 ## Links
 

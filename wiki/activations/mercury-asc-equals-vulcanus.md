@@ -3,10 +3,10 @@ title: Mercury/Asc = Vulcanus
 page_type: activation
 slug: mercury-asc-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Mercury
+  - Asc
   - Vulcanus
 normalized_formula: Mercury/Asc = Vulcanus
 axis: Mercury/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Asc
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Mercury`
-- Source page: `83`
 #### Witte Entry
 
 To be very much occupied with professional or business talks. To be hurried.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be very much occupied with professional or business talks. To be hurried.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Others talk about power, reports about places of power, influential language partners, energetic language in the place, describing violence in the environment, violent youth in the place, powerful language of the partner, and news about violence in the place
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Asc = Vulcanus` intensifies the Mercury/Asc axis into pressured, forceful business communication.
+- Chart expression: being heavily occupied with professional or commercial talks, mental hurry, and an exchange style driven by urgency, workload, or concentrated pressure.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be very much occupied with professional or business talks. To be hurried.
 - [Asc](../factors/asc.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Mercury/Asc](../axes/mercury-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

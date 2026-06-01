@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Asc + Asc`
-- Source page: `78`
 #### Witte Entry
 
 Acquaintances. To establish connections. To keep in touch. Contact with the closer environment. Limits set by the environment. The mediator, broker or an agent. Being connected to one place. Connected locations. Links to the surroundings.
 
-## Comparative Schema
-
-- core meaning: Acquaintances. To establish connections. To keep in touch. Contact with the closer environment. Limits set by the environment. The mediator, broker or an agent. Being connected to one place. Connected locations. Links to the surroundings.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Asc = Node`: brokerage, networking, and sustained connection with the immediate surroundings. Main caution: entanglement in local ties: connection may be constant, but also limiting, repetitive, or too bound to one field.
 
 ## Links
 

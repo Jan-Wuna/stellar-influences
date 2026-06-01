@@ -3,7 +3,7 @@ title: Moon/Cupido = Asc
 page_type: activation
 slug: moon-cupido-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Asc
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Cupido`
-- Source page: `130`
 #### Witte Entry
 
 One’s own wife as fiance. Acquaintance with fiancees. Visitors. Leisure hours with others at home. To attend a meeting for a few hours.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: One’s own wife as fiance. Acquaintance with fiancees. Visitors. Leisure hours with others at home. To attend a meeting for a few hours.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+women community ftirdie environment, GemOts community with a partner, community of women in the environment, community community with the partner, art a women at the place, and community at the place
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Cupido = Asc`: One’s own wife as fiance. Acquaintance with fiancees. Visitors. Leisure hours with others at home. To attend a meeting for a few hours.
+- Practical expression: gemOts community with a partner, community of women in the environment, community community with the partner, art a women at the place, and community at the place.
 
 ## Links
 
@@ -61,3 +56,5 @@ One’s own wife as fiance. Acquaintance with fiancees. Visitors. Leisure hours 
 - [Cupido](../factors/cupido.md)
 - [Asc](../factors/asc.md)
 - [Moon/Cupido](../axes/moon-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

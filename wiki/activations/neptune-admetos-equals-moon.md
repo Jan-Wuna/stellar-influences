@@ -3,7 +3,7 @@ title: Neptune/Admetos = Moon
 page_type: activation
 slug: neptune-admetos-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Neptune
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Admetos`
-- Source page: `252`
 #### Witte Entry
 
 People, the public, several persons or women experience changes in their form of being.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: People, the public, several persons or women experience changes in their form of being.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Depression of an exchanged woman, constriction of water for a people, strengthening of unclear fads, fiddling cycle of the woman, grundliche feeling Tauchung, circulatory system:weakness of a woman, slogan of a fiihls blockade, and deepening and refinement of the feihls
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Admetos = Moon`: People, the public, several persons or women experience changes in their form of being.
+- Practical focus: collectivizes `Neptune/Admetos` by making whole groups, publics, or women experience altered conditions of life. It shifts the axis from abstract deprivation or freezing into something socially felt, shared, and emotionally inhabited.
+- Practical expression: depression of an exchanged woman, constriction of water for a people, strengthening of unclear fads, fiddling cycle of the woman, and circulatory system:weakness of a woman.
 
 ## Links
 
@@ -61,3 +57,5 @@ People, the public, several persons or women experience changes in their form of
 - [Admetos](../factors/admetos.md)
 - [Moon](../factors/moon.md)
 - [Neptune/Admetos](../axes/neptune-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

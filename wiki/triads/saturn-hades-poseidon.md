@@ -3,7 +3,7 @@ title: Saturn Hades Poseidon
 page_type: triad_hub
 slug: saturn-hades-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Hades
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Hades Poseidon`
 - Astronomicon triad-set: `W ¢ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Poseidon = Saturn](../activations/hades-poseidon-equals-saturn.md)
-  Source page `286`
 - [Saturn/Hades = Poseidon](../activations/saturn-hades-equals-poseidon.md)
-  Source page `225`
 - [Saturn/Poseidon = Hades](../activations/saturn-poseidon-equals-hades.md)
-  Source page `231`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Poseidon = Saturn`: page `286`
-- `Saturn/Hades = Poseidon`: page `225`
-- `Saturn/Poseidon = Hades`: page `231`
+- `Hades/Poseidon = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `286`
+- `Hades/Poseidon = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `449`
+- `Saturn/Hades = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `225`
+- `Saturn/Hades = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `357`
+- `Saturn/Poseidon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `231`
+- `Saturn/Poseidon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `369`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Poseidon = Saturn`: deficiencies in education, depression, oppression through isolation, persecution for differing beliefs, and possible mental disorder.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Hades](../factors/hades.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

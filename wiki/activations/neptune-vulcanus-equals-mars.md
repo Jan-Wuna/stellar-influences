@@ -3,7 +3,7 @@ title: Neptune/Vulcanus = Mars
 page_type: activation
 slug: neptune-vulcanus-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Neptune
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Vulcanus`
-- Source page: `253`
 #### Witte Entry
 
 Suspension of activity, might or influence. Destruction of great values. Forces, which can be very destructive.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Suspension of activity, might or influence. Destruction of great values. Forces, which can be very destructive.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Actions of an air power, work with subtle energy, work with water force, influential activity in the air, weak labor force, strong intuition impulses, activity with fluid energy, and uncertainty of labor force
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Vulcanus = Mars`: Suspension of activity, might or influence. Destruction of great values. Forces, which can be very destructive.
+- Action and force are shown as stalled or turned destructive, with strong energies breaking down values, influence, or existing power.
+- Practical expression: actions of an air power, work with subtle energy, work with water force, influential activity in the air, and weak labor force.
 
 ## Links
 
@@ -61,3 +57,5 @@ Suspension of activity, might or influence. Destruction of great values. Forces,
 - [Vulcanus](../factors/vulcanus.md)
 - [Mars](../factors/mars.md)
 - [Neptune/Vulcanus](../axes/neptune-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

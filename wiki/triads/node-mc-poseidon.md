@@ -3,7 +3,7 @@ title: Node MC Poseidon
 page_type: triad_hub
 slug: node-mc-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Node MC Poseidon`
 - Astronomicon triad-set: `g MC ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Poseidon = Node](../activations/mc-poseidon-equals-node.md)
-  Source page `77`
 - [Node/MC = Poseidon](../activations/node-mc-equals-poseidon.md)
-  Source page `61`
 - [Node/Poseidon = MC](../activations/node-poseidon-equals-mc.md)
-  Source page `156`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Poseidon = Node`: page `77`
-- `Node/MC = Poseidon`: page `61`
-- `Node/Poseidon = MC`: page `156`
+- `MC/Poseidon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `77`
+- `MC/Poseidon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `98`
+- `Node/MC = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `61`
+- `Node/MC = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `67`
+- `Node/Poseidon = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `156`
+- `Node/Poseidon = MC`: Udo Rudolph - ABC for Planetary Pictures, page `238`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Poseidon = Node`: joins the axis through mental partnership and shared understanding.
+- `Node/MC = Poseidon`: To have and to seek for mental connections. -----------.
+- `Node/Poseidon = MC`: The native has mental and spiritual connections. The mental connections affect the native.
 
 ## Links
 
 - [Node](../factors/node.md)
 - [MC](../factors/mc.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

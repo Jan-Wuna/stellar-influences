@@ -3,7 +3,7 @@ title: Jupiter Neptune Apollon
 page_type: triad_hub
 slug: jupiter-neptune-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Neptune
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Neptune Apollon`
 - Astronomicon triad-set: `V Y ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Apollon = Neptune](../activations/jupiter-apollon-equals-neptune.md)
-  Source page `215`
 - [Jupiter/Neptune = Apollon](../activations/jupiter-neptune-equals-apollon.md)
-  Source page `209`
 - [Neptune/Apollon = Jupiter](../activations/neptune-apollon-equals-jupiter.md)
-  Source page `251`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Apollon = Neptune`: page `215`
-- `Jupiter/Neptune = Apollon`: page `209`
-- `Neptune/Apollon = Jupiter`: page `251`
+- `Jupiter/Apollon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `215`
+- `Jupiter/Apollon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `341`
+- `Jupiter/Neptune = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `209`
+- `Jupiter/Neptune = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `329`
+- `Neptune/Apollon = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `251`
+- `Neptune/Apollon = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `400`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Apollon = Neptune`: lucky prophecy, disappointed prophecy, and uncertain future fortune.
+- `Jupiter/Neptune = Apollon`: future good fortune and easy money through science, commerce, or broad enterprise.
+- `Neptune/Apollon = Jupiter`: This activation enlarges `Neptune/Apollon` through fortunate illusion, successful absorption of new science, and happiness sought in occult or visionary systems. It gives the axis optimism and reach, though that promise can still blur into glamour or belief-led overextension.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Neptune](../factors/neptune.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

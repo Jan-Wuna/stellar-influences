@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Chiron Neptune Node`
 - Astronomicon triad-set: `Chiron Y g`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Chiron/Node = Neptune`: John, page `100`
 - `Neptune/Node = Chiron`: John, page `111`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Neptune = Node`: spiritually attuned connection, relationship as intuitive guidance, and healing through recognizing what is really moving beneath the surface of a bond. Main caution: surrendering judgment to unexamined atmosphere or wishful interpretation.
+- `Chiron/Node = Neptune`: mystical connectedness, subtle evolutionary awareness, and healing through surrender of past attachment. Main caution: turning unresolved past material into fantasy, confusion, or spiritual blur.
+- `Neptune/Node = Chiron` has no source-bearing activation paragraph currently ingested on this page; treat it as an orientation placeholder rather than interpretive doctrine.
 
 ## Links
 

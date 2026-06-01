@@ -3,7 +3,7 @@ title: Uranus/Cupido = Jupiter
 page_type: activation
 slug: uranus-cupido-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Uranus
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Cupido`
-- Source page: `236`
 #### Witte Entry
 
 Sudden marriage contracted happily. Happy times in married life.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sudden marriage contracted happily. Happy times in married life.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Success of a technical community, successful art event, aroused legal community, common arousal of money, impulses of a legal community, reform of a community, unrest in a financial community, and advantage of arts and technology
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Cupido = Jupiter`: Sudden marriage contracted happily. Happy times in married life.
+- Practical expression: success of a technical community, successful art event, aroused legal community, common arousal of money, and impulses of a legal community.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sudden marriage contracted happily. Happy times in married life.
 - [Cupido](../factors/cupido.md)
 - [Jupiter](../factors/jupiter.md)
 - [Uranus/Cupido](../axes/uranus-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

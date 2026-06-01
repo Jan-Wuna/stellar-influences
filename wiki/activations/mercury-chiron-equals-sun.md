@@ -33,30 +33,15 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mercury/Chiron midpoint`
-- Source page: `46`
-- Activator: `Sun`
-
 #### Sandbach Entry
 
 One is capable of bringing to light ideas that can have a potentially healing effect. An awareness of ways to open up new lines of communication and heal mental distor tions. One’s purpose in life involves healing through communication.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Chiron = Sun` brings the axis into purpose, visibility, and life-direction.
+- Chart expression: bringing healing ideas into the light, opening new lines of communication, and living out a core purpose centered on repairing thought and connection through speech or understanding.
 
 ## Links
 

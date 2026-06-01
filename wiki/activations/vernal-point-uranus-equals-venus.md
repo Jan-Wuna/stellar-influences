@@ -3,7 +3,7 @@ title: Vernal Point/Uranus = Venus
 page_type: activation
 slug: vernal-point-uranus-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Venus
   - Uranus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Uranus`
-- Source page: `45`
 #### Witte Entry
 
 Sudden expressions of love. Sudden peace.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sudden expressions of love. Sudden peace.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Joy of rhythm in the public, harmonious impulses from the public, harmonious rhythm in the public, new love in the public, new artist in the public, and artistic event in the public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Uranus = Venus`: sudden expressions of love and sudden peace.
+- Practical expression: oy of rhythm in the public, harmonious impulses from the public, harmonious rhythm in the public, new love in the public, and new artist in the public.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sudden expressions of love. Sudden peace.
 - [Uranus](../factors/uranus.md)
 - [Venus](../factors/venus.md)
 - [Vernal Point/Uranus](../axes/vernal-point-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

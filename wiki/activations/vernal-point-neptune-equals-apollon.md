@@ -3,7 +3,7 @@ title: Vernal Point/Neptune = Apollon
 page_type: activation
 slug: vernal-point-neptune-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Neptune
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Neptune`
-- Source page: `46`
 #### Witte Entry
 
 Far spread chaos. Corruption. Dissolutions. Disappointment of the masses. Chemical sciences.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Far spread chaos. Corruption. Dissolutions. Disappointment of the masses. Chemical sciences.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Expansion of the public Uncertainty, public Water trade, water masses in the public, knowledge weakness in the public Life, increasing uncertainty in the public Life, and future knowledge for the public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Neptune = Apollon`: far spread chaos, corruption, dissolutions, disappointment of the masses, and chemical sciences.
+- Practical expression: expansion of the public Uncertainty, public Water trade, water masses in the public, knowledge weakness in the public Life, and increasing uncertainty in the public Life.
 
 ## Links
 
@@ -61,3 +56,5 @@ Far spread chaos. Corruption. Dissolutions. Disappointment of the masses. Chemic
 - [Neptune](../factors/neptune.md)
 - [Apollon](../factors/apollon.md)
 - [Vernal Point/Neptune](../axes/vernal-point-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

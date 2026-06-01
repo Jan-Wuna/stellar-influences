@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `MC + MC`
-- Source page: `57`
 #### Witte Entry
 
 To decline. To refuse something. To be unsure, unable to support. Unintelligible attitude. To follow wrong ideas. “I deceive”. Untruth. Falsehood. Swindle. To be intuitive. To concentrate on the future. To follow the unknown, the doubtful. To be disappointed. To appear unreliable or mysterious. To feel uncomfortable. Moment (minute) of uncertainty.
 
-## Comparative Schema
-
-- core meaning: To decline. To refuse something. To be unsure, unable to support. Unintelligible attitude. To follow wrong ideas. “I deceive”. Untruth. Falsehood. Swindle. To be intuitive. To concentrate on the future. To follow the unknown, the doubtful. To be disappointed. To appear unreliable or mysterious. To feel uncomfortable. Moment (minute) of uncertainty.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/MC = Neptune` dissolves the axis through uncertainty, falsehood, and unreliable self-direction.
+- Chart expression: a doubtful or mysterious personality, wrong ideas, deception, disappointment, and a self drawn toward the unknown, the future, or the uncertain without solid support.
 
 ## Links
 

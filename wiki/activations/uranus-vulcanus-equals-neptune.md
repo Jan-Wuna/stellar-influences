@@ -3,7 +3,7 @@ title: Uranus/Vulcanus = Neptune
 page_type: activation
 slug: uranus-vulcanus-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Neptune
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Vulcanus`
-- Source page: `242`
 #### Witte Entry
 
 Sudden surprising powerlessness, disappointment, and to be forced out of activity.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sudden surprising powerlessness, disappointment, and to be forced out of activity.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Excitement by water violence, dynamic water force, influential air technology, new influence of metaphysics, new water energies, strong subtle impulses, technical energy in the air, surprising power resolve, unsafe power emergence Dynamic forces develop, unfold a new power, and development of balance and
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Vulcanus = Neptune`: Sudden surprising powerlessness, disappointment, and to be forced out of activity.
+- Practical expression: excitement by water violence, dynamic water force, influential air technology, new influence of metaphysics, and new water energies.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sudden surprising powerlessness, disappointment, and to be forced out of activit
 - [Vulcanus](../factors/vulcanus.md)
 - [Neptune](../factors/neptune.md)
 - [Uranus/Vulcanus](../axes/uranus-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

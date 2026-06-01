@@ -3,7 +3,7 @@ title: Node/Poseidon = Vulcanus
 page_type: activation
 slug: node-poseidon-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - Vulcanus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Poseidon`
-- Source page: `156`
 #### Witte Entry
 
 To be noticed in mental connections through eagerness and alertness. Influence in or through mental connections.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be noticed in mental connections through eagerness and alertness. Influence in or through mental connections.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Communicating spiritual energies, mental influence in a connection, encountering mental violence, violence in an idea connection, powerful truth transmission, powerful culture connections, power of a spiritual connection, and strong cultural connections
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Poseidon = Vulcanus`: To be noticed in mental connections through eagerness and alertness. Influence in or through mental connections.
+- Practical focus: to be noticed in mental connections through eagerness and alertness; also influence in or through mental connections.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be noticed in mental connections through eagerness and alertness. Influence i
 - [Poseidon](../factors/poseidon.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Node/Poseidon](../axes/node-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

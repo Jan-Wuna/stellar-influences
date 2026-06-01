@@ -3,10 +3,10 @@ title: Pluto/Node = Vulcanus
 page_type: activation
 slug: pluto-node-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Pluto
+  - Node
   - Vulcanus
 normalized_formula: Pluto/Node = Vulcanus
 axis: Pluto/Node
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Node
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Pluto`
-- Source page: `148`
 #### Witte Entry
 
 New connections of great importance for the native.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: New connections of great importance for the native.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Developing energies in a relationship, developing a strong relationship, developing power in a relationship, changing power in the Y bond, strong change relationship, growing violence in a connection, and changing influence of a connection
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Node = Vulcanus`: powerful ties or encounters drive major transformation.
+- Practical expression: developing energies in a relationship, developing a strong relationship, developing power in a relationship, changing power in the Y bond, and strong change relationship.
 
 ## Links
 
@@ -61,3 +56,5 @@ New connections of great importance for the native.
 - [Node](../factors/node.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Pluto/Node](../axes/pluto-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

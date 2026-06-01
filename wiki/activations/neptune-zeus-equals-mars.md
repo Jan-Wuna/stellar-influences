@@ -3,7 +3,7 @@ title: Neptune/Zeus = Mars
 page_type: activation
 slug: neptune-zeus-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Neptune
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Zeus`
-- Source page: `249`
 #### Witte Entry
 
 Energy or power produced by burning gas or liquid.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Energy or power produced by burning gas or liquid.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful future activity, exchangeable work performances, fine tuning creative work, leadership activity in the air, intuitive work design, metaphysical work start, creative work in metaphysics, and weak leadership actions
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Zeus = Mars`: Energy or power produced by burning gas or liquid.
+- Productive force is generated through volatile or combustible means, emphasizing energy derived from burning gas, liquid fuel, or similar fire-driven processes.
+- Practical expression: effortful future activity, exchangeable work performances, fine tuning creative work, leadership activity in the air, and intuitive work design.
 
 ## Links
 
@@ -61,3 +57,5 @@ Energy or power produced by burning gas or liquid.
 - [Zeus](../factors/zeus.md)
 - [Mars](../factors/mars.md)
 - [Neptune/Zeus](../axes/neptune-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

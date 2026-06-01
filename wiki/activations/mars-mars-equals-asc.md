@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Mars + Mars`
-- Source page: `190`
 #### Witte Entry
 
 Actions and deeds of others or with others. Excitement. Arguments with others. To be handled energetically, leading eventually to violence. Fights. Strife. Co worker. To be made angry by others. Excitement or action in the immediate surroundings. Actions and deeds of others. Others are in activity. Place of work. Working environment.
 
-## Comparative Schema
-
-- core meaning: Actions and deeds of others or with others. Excitement. Arguments with others. To be handled energetically, leading eventually to violence. Fights. Strife. Co worker. To be made angry by others. Excitement or action in the immediate surroundings. Actions and deeds of others. Others are in activity. Place of work. Working environment.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Mars = Asc` brings pure activity directly into the immediate environment and dealings with other people.
+- Chart expression: arguments, excitement, strife, and energetic interactions, but also to coworkers, shared labor, and surroundings charged with motion, anger, or physically active conditions.
 
 ## Links
 

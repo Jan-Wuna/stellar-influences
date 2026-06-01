@@ -3,7 +3,7 @@ title: Hades/Zeus = Venus
 page_type: activation
 slug: hades-zeus-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Hades
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Zeus`
-- Source page: `277`
 #### Witte Entry
 
 To be forced into menial service. Ugly way of acting by female persons. Injury to female person by fire.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be forced into menial service. Ugly way of acting by female persons. Injury to female person by fire.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful love service, beginning of a dangerous love, beginning of love heart, secret love goals, lack of harmony strife, traditional joy fire, renunciation of peace efforts, and preference for achievements of the past
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Zeus = Venus`: affection or value being dragged into low work, degradation, or harm. It can show relationship life colored by ugliness, coercion, or burning conflict.
 
 ## Links
 
@@ -61,3 +55,5 @@ To be forced into menial service. Ugly way of acting by female persons. Injury t
 - [Zeus](../factors/zeus.md)
 - [Venus](../factors/venus.md)
 - [Hades/Zeus](../axes/hades-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

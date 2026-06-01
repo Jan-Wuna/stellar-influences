@@ -3,7 +3,7 @@ title: Vernal Point/Pluto = Poseidon
 page_type: activation
 slug: vernal-point-pluto-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Pluto
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Pluto`
-- Source page: `47`
 #### Witte Entry
 
 Developing new ideas. General mental transformations or developments.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Developing new ideas. General mental transformations or developments.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Findings about developments in the public, change of ideas in the public, clear changes in the public, cultural development in the public life, development of truth in the public, and development of communication in the public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Pluto = Poseidon`: developing new ideas and general mental transformations or developments.
+- Practical expression: findings about developments in the public, change of ideas in the public, clear changes in the public, cultural development in the public life, and development of truth in the public.
 
 ## Links
 
@@ -61,3 +56,5 @@ Developing new ideas. General mental transformations or developments.
 - [Pluto](../factors/pluto.md)
 - [Poseidon](../factors/poseidon.md)
 - [Vernal Point/Pluto](../axes/vernal-point-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

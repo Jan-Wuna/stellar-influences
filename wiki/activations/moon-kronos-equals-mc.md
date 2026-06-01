@@ -3,7 +3,7 @@ title: Moon/Kronos = MC
 page_type: activation
 slug: moon-kronos-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - MC
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Kronos`
-- Source page: `133`
 #### Witte Entry
 
 Nobility of soul. Mental influence by independent women. To belong to the leading people. Civil servants.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Nobility of soul. Mental influence by independent women. To belong to the leading people. Civil servants.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+reputation of my woman, ensouled self aware people, especially sensitive soul, hierarchy of my people, my feeling of dominance, my woman as chief, my woman has precedence, my self aware woman, soulful greatness of a woman, and important feelings of the soul
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Kronos = MC`: Nobility of soul. Mental influence by independent women. To belong to the leading people. Civil servants.
+- Practical expression: reputation of my woman, ensouled self aware people, especially sensitive soul, hierarchy of my people, and my feeling of dominance.
 
 ## Links
 
@@ -61,3 +56,5 @@ Nobility of soul. Mental influence by independent women. To belong to the leadin
 - [Kronos](../factors/kronos.md)
 - [MC](../factors/mc.md)
 - [Moon/Kronos](../axes/moon-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

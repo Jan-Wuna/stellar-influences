@@ -3,7 +3,7 @@ title: Zeus/Vulcanus = Moon
 page_type: activation
 slug: zeus-vulcanus-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Zeus
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Vulcanus`
-- Source page: `295`
 #### Witte Entry
 
 Persons, the public, a people or women who concentrate all their efforts in one direction.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Persons, the public, a people or women who concentrate all their efforts in one direction.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influence of a strong people, influence of fiery life, energy of a fiery woman, influence of woman, influence of a woman, power of a woman, and power of the people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Vulcanus = Moon`: Persons, the public, a people or women who concentrate all their efforts in one direction.
+- Practical expression: influence of a strong people, influence of fiery life, energy of a fiery woman, influence of woman, and influence of a woman.
 
 ## Links
 
@@ -61,3 +56,5 @@ Persons, the public, a people or women who concentrate all their efforts in one 
 - [Vulcanus](../factors/vulcanus.md)
 - [Moon](../factors/moon.md)
 - [Zeus/Vulcanus](../axes/zeus-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

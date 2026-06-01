@@ -3,7 +3,7 @@ title: Uranus Hades Poseidon
 page_type: triad_hub
 slug: uranus-hades-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Hades
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Hades Poseidon`
 - Astronomicon triad-set: `X ¢ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Poseidon = Uranus](../activations/hades-poseidon-equals-uranus.md)
-  Source page `286`
 - [Uranus/Hades = Poseidon](../activations/uranus-hades-equals-poseidon.md)
-  Source page `237`
 - [Uranus/Poseidon = Hades](../activations/uranus-poseidon-equals-hades.md)
-  Source page `243`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Poseidon = Uranus`: page `286`
-- `Uranus/Hades = Poseidon`: page `237`
-- `Uranus/Poseidon = Hades`: page `243`
+- `Hades/Poseidon = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `286`
+- `Hades/Poseidon = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `449`
+- `Uranus/Hades = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `237`
+- `Uranus/Hades = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `377`
+- `Uranus/Poseidon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `243`
+- `Uranus/Poseidon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `389`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Poseidon = Uranus`: seeing through mean actions, together with sudden heavy sorrow.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Hades](../factors/hades.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

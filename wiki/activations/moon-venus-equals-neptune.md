@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Venus`
-- Source page: `123`
 #### Witte Entry
 
 Unselfish love. Dreaming. Unfortunate (unhappy) love of a woman. The infection of a woman. Interruption of pregnancy. Denial of motherhood.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Moon/Venus`
-- Source page: `117`
-- Entry: `0345`
+#### ABC Entry
+
+Interchangeable love for women, exchange of a gentle woman, peace expectations of a people, love exchange of a woman, unclear women's whims, uncertainty of women's love, refined love for women, and belief in love for women
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,21 @@ Moody, impressionable, tendency to be tempted or seduced easily, misguided or mi
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Moon/Venus midpoint`
-- Source page: `27`
-- Activator: `Neptune`
-
 #### Sandbach Entry
 
 To be psychically attuned to the emotions of the person one is relating to. To become confused about the feelings being exchanged in a relationship. To be psychi cally aware of subtle or hidden feelings at work in relationships. Intuitively knowing how to nurture the other person in a relationship.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Increased sensitivity to the artistic side of life, and your ability to read the artistic moods of others; a temporary quality to all that you do in life; you may misuse the good intentions and help of others; disappearing love.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Venus = Neptune` channels the tender, receptive love of the Moon/Venus axis through Neptune, turning affection into romantic longing, idealized tenderness, and soulful sensitivity. It points to emotional harmony experienced as dream, devotion, or the wish to be dissolved into beauty and care.
+- Chart expression: romantic softness, aesthetic feeling, and the need to love through compassion, atmosphere, and subtle emotional resonance. Main caution: idealized attachment, because tenderness can become porous, projected, or too vague to hold cleanly in real life.
 
 ## Links
 
@@ -84,7 +77,8 @@ To be psychically attuned to the emotions of the person one is relating to. To b
 - [Venus](../factors/venus.md)
 - [Neptune](../factors/neptune.md)
 - [Moon/Venus](../axes/moon-venus.md)
-- [Moon Venus Neptune](../triads/moon-venus-neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

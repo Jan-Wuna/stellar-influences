@@ -3,7 +3,7 @@ title: Neptune Cupido Admetos
 page_type: triad_hub
 slug: neptune-cupido-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Neptune Cupido Admetos`
 - Astronomicon triad-set: `Y ¡ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Admetos = Neptune](../activations/cupido-admetos-equals-neptune.md)
-  Source page `271`
 - [Neptune/Admetos = Cupido](../activations/neptune-admetos-equals-cupido.md)
-  Source page `252`
 - [Neptune/Cupido = Admetos](../activations/neptune-cupido-equals-admetos.md)
-  Source page `247`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Admetos = Neptune`: page `271`
-- `Neptune/Admetos = Cupido`: page `252`
-- `Neptune/Cupido = Admetos`: page `247`
+- `Cupido/Admetos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `271`
+- `Cupido/Admetos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `433`
+- `Neptune/Admetos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `252`
+- `Neptune/Admetos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `403`
+- `Neptune/Cupido = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `247`
+- `Neptune/Cupido = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `393`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Admetos = Neptune`: altered partnership conditions, shifting customs, revolt against old manners, uncertain social position, and unreliable allies.
+- `Neptune/Admetos = Cupido`: This activation socializes `Neptune/Admetos` through family separation, changed household conditions, and strain on community bonds. It suggests decay or transition entering domestic and partnership life, reshaping the emotional structure of belonging.
+- `Neptune/Cupido = Admetos`: This activation compresses unhappy union into loneliness, separation, and abandonment, showing partnership loss and defrauding that leave communal or marital life narrowed and emotionally vacant.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [Cupido](../factors/cupido.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

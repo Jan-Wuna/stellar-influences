@@ -3,7 +3,7 @@ title: Apollon/Admetos = Kronos
 page_type: activation
 slug: apollon-admetos-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Apollon
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Kronos
   - Apollon
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Apollon + Admetos`
-- Source page: `306`
 #### Witte Entry
 
 Without care and worry. To be very satisfied with one’s special mode of life. Best expression for this formula is: free from worry.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Without care and worry. To be very satisfied with one’s special mode of life. Best expression for this formula is: free from worry.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special scientific grinndlichkeit, restriction of freedom by the state, success by special perseverance, consolidation of state successes, vie! depressions in the state, and increasing resistance to the state
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Admetos = Kronos`: rare calm, contained authority, and the ability to remain above ordinary anxieties. Main caution: superior complacency: peace may become aloofness, privileged detachment, or stagnation disguised as mastery.
 
 ## Links
 
@@ -61,3 +55,5 @@ Without care and worry. To be very satisfied with one’s special mode of life. 
 - [Admetos](../factors/admetos.md)
 - [Kronos](../factors/kronos.md)
 - [Apollon/Admetos](../axes/apollon-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

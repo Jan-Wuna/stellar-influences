@@ -3,7 +3,7 @@ title: Moon/Cupido = Mercury
 page_type: activation
 slug: moon-cupido-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Mercury
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Cupido`
-- Source page: `130`
 #### Witte Entry
 
 Hours of play in youth. Correspondence with or of the bride. Literary or social entertainment during leisure hours. To think of women or the community.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Hours of play in youth. Correspondence with or of the bride. Literary or social entertainment during leisure hours. To think of women or the community.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+French speaking community, Community of the youth of a people, Community of young women, Artistic language culture, Women speaking about the arts, Opinions on the arts of a people, and Hour of a young community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Cupido = Mercury`: Hours of play in youth. Correspondence with or of the bride. Literary or social entertainment during leisure hours. To think of women or the community.
+- Practical expression: french speaking community, Community of the youth of a people, Community of young women, Artistic language culture, and Women speaking about the arts.
 
 ## Links
 
@@ -61,3 +56,5 @@ Hours of play in youth. Correspondence with or of the bride. Literary or social 
 - [Cupido](../factors/cupido.md)
 - [Mercury](../factors/mercury.md)
 - [Moon/Cupido](../axes/moon-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

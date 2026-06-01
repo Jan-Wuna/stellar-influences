@@ -3,10 +3,10 @@ title: Saturn/Asc = Zeus
 page_type: activation
 slug: saturn-asc-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Saturn
+  - Asc
   - Zeus
 normalized_formula: Saturn/Asc = Zeus
 axis: Saturn/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Asc
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Saturn`
-- Source page: `87`
 #### Witte Entry
 
 Separation from the father or from the parents.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Separation from the father or from the parents.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful environmental tasks, task design for the environment, serious partner efforts, care problems in the environment, patient goal seeking on site, inhibited partner services, loss of fire on site, and procreation problems with the partner
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Asc = Zeus`: separation from the father or from the parents.
+- Practical expression: effortful environmental tasks, task design for the environment, serious partner efforts, care problems in the environment, and patient goal seeking on site.
 
 ## Links
 
@@ -61,3 +56,5 @@ Separation from the father or from the parents.
 - [Asc](../factors/asc.md)
 - [Zeus](../factors/zeus.md)
 - [Saturn/Asc](../axes/saturn-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

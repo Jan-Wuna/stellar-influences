@@ -3,7 +3,7 @@ title: Venus/Poseidon = Jupiter
 page_type: activation
 slug: venus-poseidon-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Jupiter
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Poseidon`
-- Source page: `189`
 #### Witte Entry
 
 The just and good faith. To be happy in one’s religion, faith or philosophy. To have confidence. To act bona fide.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The just and good faith. To be happy in one’s religion, faith or philosophy. To have confidence. To act bona fide.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Erfo)g through love of truth, successful peace idea, joy through spiritual harmony, joy ilber k)are finance, artificial and cultural success, spiritueHe art success, preference for right wingness, and true love GJUck
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Poseidon = Jupiter`: the just and good faith.
+- Practical expression: erfo)g through love of truth, successful peace idea, oy through spiritual harmony, oy ilber k)are finance, and artificial.
 
 ## Links
 
@@ -61,3 +56,5 @@ The just and good faith. To be happy in one’s religion, faith or philosophy. T
 - [Poseidon](../factors/poseidon.md)
 - [Jupiter](../factors/jupiter.md)
 - [Venus/Poseidon](../axes/venus-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

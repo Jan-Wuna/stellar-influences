@@ -3,7 +3,7 @@ title: Jupiter Node Apollon
 page_type: triad_hub
 slug: jupiter-node-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Node Apollon`
 - Astronomicon triad-set: `V g ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Apollon = Node](../activations/jupiter-apollon-equals-node.md)
-  Source page `215`
 - [Jupiter/Node = Apollon](../activations/jupiter-node-equals-apollon.md)
-  Source page `144`
 - [Node/Apollon = Jupiter](../activations/node-apollon-equals-jupiter.md)
-  Source page `153`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Apollon = Node`: page `215`
-- `Jupiter/Node = Apollon`: page `144`
-- `Node/Apollon = Jupiter`: page `153`
+- `Jupiter/Apollon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `215`
+- `Jupiter/Apollon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `340`
+- `Jupiter/Node = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `144`
+- `Jupiter/Node = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `215`
+- `Node/Apollon = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `153`
+- `Node/Apollon = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `232`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Apollon = Node`: happy connection with many and links through science or commerce.
+- `Jupiter/Node = Apollon`: happy union with many people and fine connections with merchants or scientists.
+- `Node/Apollon = Jupiter`: Luck of freedom. Successfully connected in the field of economy or science.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Node](../factors/node.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

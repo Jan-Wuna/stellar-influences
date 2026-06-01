@@ -3,7 +3,7 @@ title: Sun/Poseidon = Neptune
 page_type: activation
 slug: sun-poseidon-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Neptune
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Poseidon`
-- Source page: `118`
 #### Witte Entry
 
 Mental helplessness. Confused mentality. Chaos. Disconcerted spirit.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mental helplessness. Confused mentality. Chaos. Disconcerted spirit.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+sensitivity of an insightful person, person of a foreign culture, personal insights into subtle substance, spiritual intuition of a man, spiritualization of a person through metaphysics, and negation of the culture of persons
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Poseidon = Neptune`: Mental helplessness. Confused mentality. Chaos. Disconcerted spirit.
+- Practical focus: dissolves mental clarity into confusion and helplessness. It can show disordered thought, spiritual disorientation, or chaos in the guiding idea that normally gives the self coherence and direction.
+- Practical expression: sensitivity of an insightful person, person of a foreign culture, personal insights into subtle substance, spiritual intuition of a man, and spiritualization of a person through metaphysics.
 
 ## Links
 
@@ -61,3 +57,5 @@ Mental helplessness. Confused mentality. Chaos. Disconcerted spirit.
 - [Poseidon](../factors/poseidon.md)
 - [Neptune](../factors/neptune.md)
 - [Sun/Poseidon](../axes/sun-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Asc/Vulcanus = Sun
 page_type: activation
 slug: asc-vulcanus-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Asc
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Vulcanus`
-- Source page: `97`
 #### Witte Entry
 
 To have to deal with bodily stronger people. Others are bodily superior. To be kept in check.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To have to deal with bodily stronger people. Others are bodily superior. To be kept in check.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influence of a manly partner, violence on the ground day, corporally strong partner, corporal violence on the ground, power center of a place, power center on the ground, and personal spaceEnergy
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Vulcanus = Sun`: strong personalities dominating the near field and identity being shaped in response to superior strength. Main caution: loss of autonomy through overpowering individuals.
 
 ## Links
 
@@ -61,3 +55,5 @@ To have to deal with bodily stronger people. Others are bodily superior. To be k
 - [Vulcanus](../factors/vulcanus.md)
 - [Sun](../factors/sun.md)
 - [Asc/Vulcanus](../axes/asc-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

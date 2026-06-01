@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Sun Mars Chiron`
 - Astronomicon triad-set: `S U Chiron`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Sun/Chiron = Mars`: John, page `15`
 - `Sun/Mars = Chiron`: John, page `11`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Chiron = Sun`: clear-hearted courage, conscious healing initiative, and the ability to bring hidden tensions into the light so they can teach and transform. The caution is repressing those guiding impulses until they return as sharper conflict.
+- `Sun/Chiron = Mars`: To be able to clear anger by seeing the meaning and purpose behind it. To intu itively assert oneself in a way that fulfills spiritual purpose. One actions reveals things one did not expect, and which usually take the form of new depths of meaning and pur pose to life.
+- `Sun/Mars = Chiron`: clearing anger by seeing its deeper purpose and asserting oneself in a way that serves spiritual meaning.
 
 ## Links
 

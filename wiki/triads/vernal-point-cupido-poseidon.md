@@ -3,7 +3,7 @@ title: Vernal Point Cupido Poseidon
 page_type: triad_hub
 slug: vernal-point-cupido-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Cupido Poseidon`
 - Astronomicon triad-set: `VP ¡ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Poseidon = Vernal Point](../activations/cupido-poseidon-equals-vernal-point.md)
-  Source page `274`
 - [Vernal Point/Cupido = Poseidon](../activations/vernal-point-cupido-equals-poseidon.md)
-  Source page `48`
 - [Vernal Point/Poseidon = Cupido](../activations/vernal-point-poseidon-equals-cupido.md)
-  Source page `55`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Poseidon = Vernal Point`: page `274`
-- `Vernal Point/Cupido = Poseidon`: page `48`
-- `Vernal Point/Poseidon = Cupido`: page `55`
+- `Cupido/Poseidon = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `274`
+- `Cupido/Poseidon = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `436`
+- `Vernal Point/Cupido = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `48`
+- `Vernal Point/Cupido = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `45`
+- `Vernal Point/Poseidon = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `55`
+- `Vernal Point/Poseidon = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `59`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Poseidon = Vernal Point`: public or general spiritual, educational, cultural, or philosophical communities.
+- `Vernal Point/Cupido = Poseidon`: This formula emphasizes association of philosophers, geniuses or deep thinkers.
+- `Vernal Point/Poseidon = Cupido`: This formula emphasizes the refined mental attitude in marriage, community or art, spiritual communities, and societies based on a common perception of the world.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Cupido](../factors/cupido.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

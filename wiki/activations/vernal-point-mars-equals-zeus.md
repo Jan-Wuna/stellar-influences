@@ -3,7 +3,7 @@ title: Vernal Point/Mars = Zeus
 page_type: activation
 slug: vernal-point-mars-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Mars
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Mars
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Mars`
-- Source page: `42`
 #### Witte Entry
 
 Fruitful deeds. Directed energies. Combustion. Machinery power.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Fruitful deeds. Directed energies. Combustion. Machinery power.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful public work, work services for the public Life, serviceWork in the public Life, public Work goals, creative impulses from publicity, and determined action in the public Life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Mars = Zeus`: fruitful deeds, directed energies, combustion, and machinery power.
+- Practical expression: effortful public work, work services for the public Life, serviceWork in the public Life, public Work goals, and creative impulses from publicity.
 
 ## Links
 
@@ -61,3 +56,5 @@ Fruitful deeds. Directed energies. Combustion. Machinery power.
 - [Mars](../factors/mars.md)
 - [Zeus](../factors/zeus.md)
 - [Vernal Point/Mars](../axes/vernal-point-mars.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

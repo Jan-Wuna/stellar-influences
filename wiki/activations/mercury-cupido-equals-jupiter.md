@@ -3,7 +3,7 @@ title: Mercury/Cupido = Jupiter
 page_type: activation
 slug: mercury-cupido-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Jupiter
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Cupido`
-- Source page: `166`
 #### Witte Entry
 
 Fortunate through sociable entertainment with others or through artistic thoughts. Mutual plans which are successful. Jewelry products.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Fortunate through sociable entertainment with others or through artistic thoughts. Mutual plans which are successful. Jewelry products.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Movement joy of a community, successful language community, successful young community, joy through artificial language, common financial language, common youth joys, common legal thinking, and legal talk for of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Cupido = Jupiter` brightens the axis through fortunate sociability and successful shared plans.
+- Chart expression: luck through social entertainment, artistic ideas that prosper, cooperative plans that work out well, and an atmosphere of decorative abundance or ornamentation.
 
 ## Links
 
@@ -61,3 +56,5 @@ Fortunate through sociable entertainment with others or through artistic thought
 - [Cupido](../factors/cupido.md)
 - [Jupiter](../factors/jupiter.md)
 - [Mercury/Cupido](../axes/mercury-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

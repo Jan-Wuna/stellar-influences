@@ -3,7 +3,7 @@ title: Cupido/Apollon = Node
 page_type: activation
 slug: cupido-apollon-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - Cupido
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Apollon`
-- Source page: `270`
 #### Witte Entry
 
 In connection with art and science.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: In connection with art and science.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Extension of a community's links, experience of joint links, successful Community links, successful contacts with the arts, joint trade links, and increasing links in of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Apollon = Node`: joining others through common study, artistic culture, or broad intellectual affiliation. Main caution: relationship becoming purely interest-based and lacking deeper human warmth.
 
 ## Links
 
@@ -61,3 +55,5 @@ In connection with art and science.
 - [Apollon](../factors/apollon.md)
 - [Node](../factors/node.md)
 - [Cupido/Apollon](../axes/cupido-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

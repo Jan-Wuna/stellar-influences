@@ -3,7 +3,7 @@ title: Vernal Point Venus Kronos
 page_type: triad_hub
 slug: vernal-point-venus-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Venus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Venus Kronos`
 - Astronomicon triad-set: `VP Q ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Venus/Kronos = Vernal Point](../activations/venus-kronos-equals-vernal-point.md)
-  Source page `185`
 - [Vernal Point/Kronos = Venus](../activations/vernal-point-kronos-equals-venus.md)
-  Source page `51`
 - [Vernal Point/Venus = Kronos](../activations/vernal-point-venus-equals-kronos.md)
-  Source page `41`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Venus/Kronos = Vernal Point`: page `185`
-- `Vernal Point/Kronos = Venus`: page `51`
-- `Vernal Point/Venus = Kronos`: page `41`
+- `Venus/Kronos = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `185`
+- `Venus/Kronos = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `288`
+- `Vernal Point/Kronos = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `51`
+- `Vernal Point/Kronos = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `50`
+- `Vernal Point/Venus = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `41`
+- `Vernal Point/Venus = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `31`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Venus/Kronos = Vernal Point`: general charitable activity.
+- `Vernal Point/Kronos = Venus`: This formula emphasizes great philanthropic and the peace movement.
+- `Vernal Point/Venus = Kronos`: This formula emphasizes general peaceable thinking, peace, general willingness to help, and a charitable attitude of the public.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Venus](../factors/venus.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Mercury Cupido Admetos
 page_type: triad_hub
 slug: mercury-cupido-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Cupido Admetos`
 - Astronomicon triad-set: `T ¡ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Admetos = Mercury](../activations/cupido-admetos-equals-mercury.md)
-  Source page `271`
 - [Mercury/Admetos = Cupido](../activations/mercury-admetos-equals-cupido.md)
-  Source page `171`
 - [Mercury/Cupido = Admetos](../activations/mercury-cupido-equals-admetos.md)
-  Source page `166`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Admetos = Mercury`: page `271`
-- `Mercury/Admetos = Cupido`: page `171`
-- `Mercury/Cupido = Admetos`: page `166`
+- `Cupido/Admetos = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `271`
+- `Cupido/Admetos = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `432`
+- `Mercury/Admetos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `171`
+- `Mercury/Admetos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `265`
+- `Mercury/Cupido = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `166`
+- `Mercury/Cupido = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `255`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Admetos = Mercury`: thinking about dissolution, farewell talks, or artistic thought formed in solitude.
+- `Mercury/Admetos = Cupido`: carries the axis into family or community life as isolation, gloom, and narrowed artistic focus.
+- `Mercury/Cupido = Admetos`: narrows the axis into close, melancholy, and solitary exchange.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Cupido](../factors/cupido.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

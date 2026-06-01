@@ -33,30 +33,15 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Moon/Ascendant midpoint`
-- Source page: `39`
-- Activator: `Chiron`
-
 #### Sandbach Entry
 
 Your energy helps others to be more aware of how they feel about themselves and their relationships, and to allow emotional energy to flow more freely when they re late. You help people to see how their feelings conditions their identity.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Asc = Chiron`: Your energy helps others to be more aware of how they feel about themselves and their relationships, and to allow emotional energy to flow more freely when they re late. You help people to see how their feelings conditions their identity.
+- Practical focus: makes `Moon/Asc` relationally healing and emotionally clarifying. The person tends to help others recognize how feeling shapes identity and partnership, so presence itself becomes a catalyst for release, self-awareness, and more honest emotional exchange.
 
 ## Links
 

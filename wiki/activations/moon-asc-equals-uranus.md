@@ -19,8 +19,10 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -34,38 +36,32 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Moon`
-- Source page: `81`
 #### Witte Entry
 
 Spontaneous relationship. Accidents of female persons, aggravations through them. Rich in eventful hours with others.
 
-### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Planets activating the Moon/Ascendant midpoint`
-- Source page: `39`
-- Activator: `Uranus`
+#### ABC Entry
+
+Other peoples are restless, women in the environment, women as partners, women's mother on the spot, women's excitement, and women's change
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
 An uninhibited, sudden, and/or surprising sharing of feelings with others. A ge nius for tracking with the emotional flow between oneself and others. To have strange, unusual or inexplicable feelings about oneself.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Abrupt reception of emotional reactions from others; staying aloof from the uncertainty or emotional states aroused by others; unusual sentiment in your mannerisms; an aura of being different even when you try to blend in.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Asc = Uranus`: intuitive awakenings, quick adaptation, and the ability to register change in the environment immediately. Main caution: instability: moods and closeness can shift too abruptly for steady emotional exchange.
 
 ## Links
 
@@ -73,6 +69,7 @@ An uninhibited, sudden, and/or surprising sharing of feelings with others. A ge 
 - [Asc](../factors/asc.md)
 - [Uranus](../factors/uranus.md)
 - [Moon/Asc](../axes/moon-asc.md)
-- [Moon Uranus Asc](../triads/moon-uranus-asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

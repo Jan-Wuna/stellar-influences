@@ -3,7 +3,7 @@ title: Asc/Hades = Mars
 page_type: activation
 slug: asc-hades-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Asc
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Hades`
-- Source page: `92`
 #### Witte Entry
 
 Assisting others in case of accidents. Ineffective faulty deeds, and faulty actions of others. To be threatened by others. Activity in a depressed environment.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Assisting others in case of accidents. Ineffective faulty deeds, and faulty actions of others. To be threatened by others. Activity in a depressed environment.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dangerous environmental activities, actions to pollute the environment, criminal environmental actions, lack of partner impulses, inadequate environmental activity, dirty work place, hidden activity on site, and hidden environmental impulses
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Hades = Mars`: emergency response, conflict in poor conditions, and immediate contact with accident, threat, or botched action. Main caution: embattled degradation: hostile or broken surroundings can turn every activity into reaction, cleanup, or defense.
 
 ## Links
 
@@ -61,3 +55,5 @@ Assisting others in case of accidents. Ineffective faulty deeds, and faulty acti
 - [Hades](../factors/hades.md)
 - [Mars](../factors/mars.md)
 - [Asc/Hades](../axes/asc-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

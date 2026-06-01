@@ -3,7 +3,7 @@ title: Sun Venus Vulcanus
 page_type: triad_hub
 slug: sun-venus-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Venus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Venus Vulcanus`
 - Astronomicon triad-set: `S Q §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Sun/Venus = Vulcanus](../activations/sun-venus-equals-vulcanus.md)
-  Source page `104`
 - [Sun/Vulcanus = Venus](../activations/sun-vulcanus-equals-venus.md)
-  Source page `117`
 - [Venus/Vulcanus = Sun](../activations/venus-vulcanus-equals-sun.md)
-  Source page `188`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Sun/Venus = Vulcanus`: page `104`
-- `Sun/Vulcanus = Venus`: page `117`
-- `Venus/Vulcanus = Sun`: page `188`
+- `Sun/Venus = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `104`
+- `Sun/Venus = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `145`
+- `Sun/Vulcanus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `117`
+- `Sun/Vulcanus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `170`
+- `Venus/Vulcanus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `188`
+- `Venus/Vulcanus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `294`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Sun/Venus = Vulcanus`: This formula emphasizes strong affection, powerful attraction, or forceful pleasure.
+- `Sun/Vulcanus = Venus`: This activation concentrates force into attraction, desire, and sensual magnetism. It emphasizes powerful erotic pull, strong relational appetite, and a refined flair that gives intensity a graceful or alluring form.
+- `Venus/Vulcanus = Sun`: powerful physical longing for love.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Venus](../factors/venus.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Mercury/Cupido = MC
 page_type: activation
 slug: mercury-cupido-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - MC
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Cupido`
-- Source page: `166`
 #### Witte Entry
 
 Inspired by the muse. Artistically gifted. Socially inclined.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Inspired by the muse. Artistically gifted. Socially inclined.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+ensouled thoughts about the community, ensouled youth community, shared soul language, conversations of a soulful community, I think about the whole, I write about art, my thinking about the community, and my community in youth
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Cupido = MC` internalizes the axis as artistic inspiration and social inclination.
+- Chart expression: being musically or artistically gifted, socially disposed, and inwardly oriented toward beauty, companionship, and creative refinement.
 
 ## Links
 
@@ -61,3 +56,5 @@ Inspired by the muse. Artistically gifted. Socially inclined.
 - [Cupido](../factors/cupido.md)
 - [MC](../factors/mc.md)
 - [Mercury/Cupido](../axes/mercury-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

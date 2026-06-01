@@ -3,7 +3,7 @@ title: Admetos/Poseidon = Mercury
 page_type: activation
 slug: admetos-poseidon-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Admetos
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Admetos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Admetos + Poseidon`
-- Source page: `312`
 #### Witte Entry
 
 Thoughts about education and training. Thoughts on fine, or non-material matters. One’s ideas are rejected.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Thoughts about education and training. Thoughts on fine, or non-material matters. One’s ideas are rejected.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked traffic ldeen, depressing culture news, restriction of truth by media, spiritual deepening in youth, talk about spiritual subjection, fundamental insights in youth, and fundamental thought clarity
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Admetos/Poseidon = Mercury`: educational thinking, philosophical concentration, and attention to non-material or fine distinctions. Main caution: rejected or sterile ideas: thought can become too abstract, difficult to communicate, or dismissed by others despite its depth.
 
 ## Links
 
@@ -61,3 +55,5 @@ Thoughts about education and training. Thoughts on fine, or non-material matters
 - [Poseidon](../factors/poseidon.md)
 - [Mercury](../factors/mercury.md)
 - [Admetos/Poseidon](../axes/admetos-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

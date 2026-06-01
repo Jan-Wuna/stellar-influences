@@ -3,7 +3,7 @@ title: Moon/Venus = Kronos
 page_type: activation
 slug: moon-venus-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Venus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Venus
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Venus`
-- Source page: `123`
 #### Witte Entry
 
 The landlord’s wife. Marital motherhood. Leading feminist.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The landlord’s wife. Marital motherhood. Leading feminist.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special joy of the woman, special hour of harmony, dominance of a gentle woman, peaceful great people, woman in harmony with the boss, kiss of a self sustained people, guidance of love by the woman, and self sustaining gentle woman
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Venus = Kronos`: The landlord’s wife. Marital motherhood. Leading feminist.
+- Practical focus: elevates `Moon/Venus` through dignified motherhood, socially recognized partnership, and female leadership. It suggests affection and nurture carrying status, influence, or exemplary force within a household or movement.
+- Practical expression: special joy of the woman, special hour of harmony, dominance of a gentle woman, peaceful great people, and woman in harmony with the boss.
 
 ## Links
 
@@ -61,3 +57,5 @@ The landlord’s wife. Marital motherhood. Leading feminist.
 - [Venus](../factors/venus.md)
 - [Kronos](../factors/kronos.md)
 - [Moon/Venus](../axes/moon-venus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

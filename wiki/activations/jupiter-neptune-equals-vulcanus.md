@@ -3,7 +3,7 @@ title: Jupiter/Neptune = Vulcanus
 page_type: activation
 slug: jupiter-neptune-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Neptune
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Neptune`
-- Source page: `209`
 #### Witte Entry
 
 Great sums of money easily made and just as easily lost.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great sums of money easily made and just as easily lost.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Success through water energy, successful influence through metaphysics, foreign legal influence, foreign money power, money through water energy, powerful success expectations, enormous legal uncertainty, and beneficial influence of water
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Neptune = Vulcanus`: imaginative fortune operating with high amplitude and weak permanence. It favors dramatic financial swings, powerful opportunities, and equally powerful reversals.
 
 ## Links
 
@@ -61,3 +55,5 @@ Great sums of money easily made and just as easily lost.
 - [Neptune](../factors/neptune.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Jupiter/Neptune](../axes/jupiter-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

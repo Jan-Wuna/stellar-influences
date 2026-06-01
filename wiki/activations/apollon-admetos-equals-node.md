@@ -3,7 +3,7 @@ title: Apollon/Admetos = Node
 page_type: activation
 slug: apollon-admetos-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Apollon
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - Apollon
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Apollon + Admetos`
-- Source page: `306`
 #### Witte Entry
 
 To be satisfied with the existing circumstances. To have the necessary connections.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be satisfied with the existing circumstances. To have the necessary connections.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked trade Y ties, restriction of freedom in a connection, end of a successful connection, successful connection through perseverance, firm connection to science, freedom in a fixed connection, and grild experiences in connections
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Admetos = Node`: adequate connections, stable circumstances, and social arrangements that feel sufficient. Main caution: dependency on the given setup: necessary ties may become limiting because they are merely enough, not truly growth-producing.
 
 ## Links
 
@@ -61,3 +55,5 @@ To be satisfied with the existing circumstances. To have the necessary connectio
 - [Admetos](../factors/admetos.md)
 - [Node](../factors/node.md)
 - [Apollon/Admetos](../axes/apollon-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

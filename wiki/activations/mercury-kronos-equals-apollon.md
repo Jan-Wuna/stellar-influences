@@ -3,7 +3,7 @@ title: Mercury/Kronos = Apollon
 page_type: activation
 slug: mercury-kronos-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Kronos
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Kronos`
-- Source page: `169`
 #### Witte Entry
 
 Great scientific thoughts or ideas. Recognized leader of science.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great scientific thoughts or ideas. Recognized leader of science.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+see above
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Kronos = Apollon` expands the axis into recognized scientific leadership.
+- Chart expression: great scientific ideas, broad intellectual authority, and public recognition as a leader in scholarship, theory, or organized knowledge.
 
 ## Links
 
@@ -61,3 +56,5 @@ Great scientific thoughts or ideas. Recognized leader of science.
 - [Kronos](../factors/kronos.md)
 - [Apollon](../factors/apollon.md)
 - [Mercury/Kronos](../axes/mercury-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

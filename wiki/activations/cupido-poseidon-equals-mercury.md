@@ -3,7 +3,7 @@ title: Cupido/Poseidon = Mercury
 page_type: activation
 slug: cupido-poseidon-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Cupido
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Poseidon`
-- Source page: `274`
 #### Witte Entry
 
 To think, speak or write about spiritual, cultural or philosophical societies. To conduct propaganda for groups of a certain worldview.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To think, speak or write about spiritual, cultural or philosophical societies. To conduct propaganda for groups of a certain worldview.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+In this context, it is important to stress the importance of the Community's role in the development of the common foreign and security policy, and in particular in the field of security and security
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Poseidon = Mercury`: doctrine circulating through communication, teaching, publishing, persuasion, and narrative framing. Main caution: rhetoric overtaking truth or propaganda replacing inquiry.
 
 ## Links
 
@@ -61,3 +55,5 @@ To think, speak or write about spiritual, cultural or philosophical societies. T
 - [Poseidon](../factors/poseidon.md)
 - [Mercury](../factors/mercury.md)
 - [Cupido/Poseidon](../axes/cupido-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

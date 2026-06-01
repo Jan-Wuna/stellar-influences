@@ -3,7 +3,7 @@ title: Neptune/Vulcanus = Venus
 page_type: activation
 slug: neptune-vulcanus-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Neptune
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Vulcanus`
-- Source page: `253`
 #### Witte Entry
 
 To be without any power of attraction. To be greatly deceived in ones love and affections.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be without any power of attraction. To be greatly deceived in ones love and affections.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+disappointing power of peace, subtle energies of love, subtle artistic influence, peaceful air power, weakened power of love, tremendous deception in love, harmonious influence through metaphysics, and powerful uncertainty in love
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Vulcanus = Venus`: To be without any power of attraction. To be greatly deceived in ones love and affections.
+- Practical focus: moves hidden force into love, value, and attraction, showing deception in affections and bonds where sympathy, dependence, or vulnerability become the price of approval or attachment. It can mark both loss of magnetism and coercive emotional dynamics masked as care.
+- Practical expression: disappointing power of peace, subtle energies of love, subtle artistic influence, peaceful air power, and weakened power of love.
 
 ## Links
 
@@ -61,3 +57,5 @@ To be without any power of attraction. To be greatly deceived in ones love and a
 - [Vulcanus](../factors/vulcanus.md)
 - [Venus](../factors/venus.md)
 - [Neptune/Vulcanus](../axes/neptune-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

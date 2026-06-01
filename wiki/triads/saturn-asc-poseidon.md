@@ -3,7 +3,7 @@ title: Saturn Asc Poseidon
 page_type: triad_hub
 slug: saturn-asc-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Asc
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Asc Poseidon`
 - Astronomicon triad-set: `W Asc ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Poseidon = Saturn](../activations/asc-poseidon-equals-saturn.md)
-  Source page `98`
 - [Saturn/Asc = Poseidon](../activations/saturn-asc-equals-poseidon.md)
-  Source page `87`
 - [Saturn/Poseidon = Asc](../activations/saturn-poseidon-equals-asc.md)
-  Source page `231`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Poseidon = Saturn`: page `98`
-- `Saturn/Asc = Poseidon`: page `87`
-- `Saturn/Poseidon = Asc`: page `231`
+- `Asc/Poseidon = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `98`
+- `Asc/Poseidon = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `137`
+- `Saturn/Asc = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `87`
+- `Saturn/Asc = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `115`
+- `Saturn/Poseidon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `231`
+- `Saturn/Poseidon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `368`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Poseidon = Saturn`: being hindered, corrected, or divided by others at the level of thought, principle, or education.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Asc](../factors/asc.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

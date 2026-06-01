@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Mercury Chiron Uranus`
 - Astronomicon triad-set: `T Chiron X`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Mercury/Chiron = Uranus`: John, page `46`
 - `Mercury/Uranus = Chiron`: John, page `47`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Uranus = Mercury`: startling insight, inventive language, and communication that opens others. Main caution: clever novelty without enough grounding or follow-through.
+- `Mercury/Chiron = Uranus` electrifies the axis with sudden insight into how communication can be healed.
+- `Mercury/Uranus = Chiron`: To open up the mind of others through communicating. To help others tran scend the limits of their own thinking, as well as to realize their own unique thoughts. To free others from the thought patterns of the mass consciousness.
 
 ## Links
 

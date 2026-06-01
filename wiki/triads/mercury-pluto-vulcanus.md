@@ -3,7 +3,7 @@ title: Mercury Pluto Vulcanus
 page_type: triad_hub
 slug: mercury-pluto-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Pluto Vulcanus`
 - Astronomicon triad-set: `T Z §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Pluto = Vulcanus](../activations/mercury-pluto-equals-vulcanus.md)
-  Source page `165`
 - [Mercury/Vulcanus = Pluto](../activations/mercury-vulcanus-equals-pluto.md)
-  Source page `172`
 - [Pluto/Vulcanus = Mercury](../activations/pluto-vulcanus-equals-mercury.md)
-  Source page `263`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Pluto = Vulcanus`: page `165`
-- `Mercury/Vulcanus = Pluto`: page `172`
-- `Pluto/Vulcanus = Mercury`: page `263`
+- `Mercury/Pluto = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `165`
+- `Mercury/Pluto = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `253`
+- `Mercury/Vulcanus = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `172`
+- `Mercury/Vulcanus = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `267`
+- `Pluto/Vulcanus = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `263`
+- `Pluto/Vulcanus = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `420`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Pluto = Vulcanus`: To be able or to be obliged to think fast. Mighty transformation in thinking. To recognize a mighty transformation.
+- `Mercury/Vulcanus = Pluto`: To be very agile. To develop great speed. To recognize a mighty change.
+- `Pluto/Vulcanus = Mercury`: This activation emphasizes to concentrate the thought on great changes and to talk, to converse, to debate about it; To have to change the mind fast.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Pluto](../factors/pluto.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

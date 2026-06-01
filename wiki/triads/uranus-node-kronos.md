@@ -3,7 +3,7 @@ title: Uranus Node Kronos
 page_type: triad_hub
 slug: uranus-node-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Node
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Node Kronos`
 - Astronomicon triad-set: `X g ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Node/Kronos = Uranus](../activations/node-kronos-equals-uranus.md)
-  Source page `152`
 - [Uranus/Kronos = Node](../activations/uranus-kronos-equals-node.md)
-  Source page `239`
 - [Uranus/Node = Kronos](../activations/uranus-node-equals-kronos.md)
-  Source page `146`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Node/Kronos = Uranus`: page `152`
-- `Uranus/Kronos = Node`: page `239`
-- `Uranus/Node = Kronos`: page `146`
+- `Node/Kronos = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `152`
+- `Node/Kronos = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `231`
+- `Uranus/Kronos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `239`
+- `Uranus/Kronos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `380`
+- `Uranus/Node = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `146`
+- `Uranus/Node = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `219`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Node/Kronos = Uranus`: Sudden connections with the authorities.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Node](../factors/node.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Asc/Cupido = Moon
 page_type: activation
 slug: asc-cupido-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Asc
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Cupido`
-- Source page: `91`
 #### Witte Entry
 
 Social relations with female persons. Together with many people. Houses and buildings for service to the public, such as railroad stations, city hall, post offices or libraries.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Social relations with female persons. Together with many people. Houses and buildings for service to the public, such as railroad stations, city hall, post offices or libraries.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Other women's communities, women's community in the environment, common environment of a people, community with other women, community community at the place, community hour at the place, place of people art, and local community of women
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Cupido = Moon`: socially receptive environments, public-use buildings, and nurturing or service-oriented communal space. Main caution: overexposure of the home-field to public need: the domestic or group unit may lose privacy through constant public or emotional traffic.
 
 ## Links
 
@@ -61,3 +55,5 @@ Social relations with female persons. Together with many people. Houses and buil
 - [Cupido](../factors/cupido.md)
 - [Moon](../factors/moon.md)
 - [Asc/Cupido](../axes/asc-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

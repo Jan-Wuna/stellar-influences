@@ -3,7 +3,7 @@ title: MC/Zeus = Asc
 page_type: activation
 slug: mc-zeus-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - MC
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Zeus`
-- Source page: `72`
 #### Witte Entry
 
 Teaching. To help others intellectually. To force one’s own will on others. Instructions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Teaching. To help others intellectually. To force one’s own will on others. Instructions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+fiery partner schele, I start with others, I shape the environment, inner fire of the partner, my goal !Ur the environment, my efforts with the partner, my pleasures for the environment, and spiritual partner carriage
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Zeus = Asc` brings the axis out through teaching, instruction, and direct personal influence.
+- Chart expression: an instructive presence, active intellectual help, and a habit of guiding others through firm direction that can also become pressure or will-imposition.
 
 ## Links
 
@@ -61,3 +56,5 @@ Teaching. To help others intellectually. To force one’s own will on others. In
 - [Zeus](../factors/zeus.md)
 - [Asc](../factors/asc.md)
 - [MC/Zeus](../axes/mc-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

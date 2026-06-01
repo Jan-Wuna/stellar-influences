@@ -3,7 +3,7 @@ title: Asc Hades Zeus
 page_type: triad_hub
 slug: asc-hades-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Asc Hades Zeus`
 - Astronomicon triad-set: `Asc ¢ £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Hades = Zeus](../activations/asc-hades-equals-zeus.md)
-  Source page `92`
 - [Asc/Zeus = Hades](../activations/asc-zeus-equals-hades.md)
-  Source page `93`
 - [Hades/Zeus = Asc](../activations/hades-zeus-equals-asc.md)
-  Source page `277`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Hades = Zeus`: page `92`
-- `Asc/Zeus = Hades`: page `93`
-- `Hades/Zeus = Asc`: page `277`
+- `Asc/Hades = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `92`
+- `Asc/Hades = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `125`
+- `Asc/Zeus = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `93`
+- `Asc/Zeus = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `127`
+- `Hades/Zeus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `277`
+- `Hades/Zeus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `438`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Hades = Zeus`: being constrained or threatened by active destructive intent in the environment, including fire, attack, or coercive pressure.
+- `Asc/Zeus = Hades`: hostile deeds from others and destructive fire or mechanical harm arising from low motives.
+- `Hades/Zeus = Asc`: contact with hateful, lazy, disorderly, or negative others, dirty surroundings, and damage by destructive fire.
 
 ## Links
 
 - [Asc](../factors/asc.md)
 - [Hades](../factors/hades.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Mercury/Admetos = Kronos
 page_type: activation
 slug: mercury-admetos-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Kronos
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Admetos`
-- Source page: `171`
 #### Witte Entry
 
 Great ability to concentrate on something. To prepare for future successes.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great ability to concentrate on something. To prepare for future successes.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Limitation of media self reliance, restriction of a young boss, grilndling speech with the boss, news circle of a hierarchic, deepening news about state grilndlichkeit, and important language
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Admetos = Kronos` strengthens the axis into high-level concentration and long preparation.
+- Chart expression: strong powers of focus, serious planning aimed at future success, and a mind able to hold one demanding line of thought until it becomes authoritative or effective.
 
 ## Links
 
@@ -61,3 +56,5 @@ Great ability to concentrate on something. To prepare for future successes.
 - [Admetos](../factors/admetos.md)
 - [Kronos](../factors/kronos.md)
 - [Mercury/Admetos](../axes/mercury-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,10 +3,10 @@ title: Node/Asc = Vernal Point
 page_type: activation
 slug: node-asc-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Node
+  - Asc
   - Vernal Point
 normalized_formula: Node/Asc = Vernal Point
 axis: Node/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Node
   - Asc
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Node`
-- Source page: `82`
 #### Witte Entry
 
 Acquaintances and connections with many in public life.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Acquaintances and connections with many in public life.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Meetings at public places, public partner mediation, partner connections in public, environmental connections in public life, and connections with others in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Asc = Vernal Point`: Acquaintances and connections with many in public life.
+- Practical focus: acquaintances and connections with many in public life.
 
 ## Links
 
@@ -61,3 +56,5 @@ Acquaintances and connections with many in public life.
 - [Asc](../factors/asc.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Node/Asc](../axes/node-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

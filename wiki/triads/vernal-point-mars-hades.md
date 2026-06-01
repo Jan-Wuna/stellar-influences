@@ -3,7 +3,7 @@ title: Vernal Point Mars Hades
 page_type: triad_hub
 slug: vernal-point-mars-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Mars
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Mars Hades`
 - Astronomicon triad-set: `VP U ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Hades = Vernal Point](../activations/mars-hades-equals-vernal-point.md)
-  Source page `198`
 - [Vernal Point/Hades = Mars](../activations/vernal-point-hades-equals-mars.md)
-  Source page `49`
 - [Vernal Point/Mars = Hades](../activations/vernal-point-mars-equals-hades.md)
-  Source page `42`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Hades = Vernal Point`: page `198`
-- `Vernal Point/Hades = Mars`: page `49`
-- `Vernal Point/Mars = Hades`: page `42`
+- `Mars/Hades = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `198`
+- `Mars/Hades = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `310`
+- `Vernal Point/Hades = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `49`
+- `Vernal Point/Hades = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `46`
+- `Vernal Point/Mars = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `42`
+- `Vernal Point/Mars = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `33`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Hades = Vernal Point`: serious misfortune, aggravated action, and fatal wrongdoing playing out in the wider human field.
+- `Vernal Point/Hades = Mars`: This formula emphasizes work scarcity, faulty, vulgar actions, carelessness, brutalities, and to work in the general health system.
+- `Vernal Point/Mars = Hades`: This formula emphasizes to act faultily, faulty work, and archaeological work.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Mars](../factors/mars.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Vernal Point/Sun = Zeus
 page_type: activation
 slug: vernal-point-sun-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Sun
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Sun
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Sun`
-- Source page: `37`
 #### Witte Entry
 
 To master the body. Capability to lead. Person who lead others. Days with fire.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To master the body. Capability to lead. Person who lead others. Days with fire.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Leadership person for the public, creative people of the public life, achievements of the man in the public, public fire center, public performance center, and personal goal striving in the public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Sun = Zeus`: to master the body, capability to lead, person who lead others, and days with fire.
+- Practical expression: leadership person for the public, creative people of the public life, achievements of the man in the public, public fire center, and public performance center.
 
 ## Links
 
@@ -61,3 +56,5 @@ To master the body. Capability to lead. Person who lead others. Days with fire.
 - [Sun](../factors/sun.md)
 - [Zeus](../factors/zeus.md)
 - [Vernal Point/Sun](../axes/vernal-point-sun.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

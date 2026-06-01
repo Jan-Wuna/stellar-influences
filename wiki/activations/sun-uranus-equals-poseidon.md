@@ -3,7 +3,7 @@ title: Sun/Uranus = Poseidon
 page_type: activation
 slug: sun-uranus-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Uranus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Uranus`
-- Source page: `108`
 #### Witte Entry
 
 be tense through a sudden realization. Propagandist. Phosphorescent body. The light-bearer. The transparent body.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: be tense through a sudden realization. Propagandist. Phosphorescent body. The light-bearer. The transparent body.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Spiritual impulses of the man, new ideas of a person, dynamic spiritualized man, body and mind in excitement, human insight for reflections, new insights of man, surprising personal clarity, and restless mind in the body
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Uranus = Poseidon`: inspired breakthroughs and abrupt revelations of truth.
+- Practical expression: spiritual impulses of the man, new ideas of a person, dynamic spiritualized man, body, and mind in excitement.
 
 ## Links
 
@@ -61,3 +56,5 @@ be tense through a sudden realization. Propagandist. Phosphorescent body. The li
 - [Uranus](../factors/uranus.md)
 - [Poseidon](../factors/poseidon.md)
 - [Sun/Uranus](../axes/sun-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

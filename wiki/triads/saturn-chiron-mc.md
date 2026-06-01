@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Saturn Chiron MC`
 - Astronomicon triad-set: `W Chiron MC`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Saturn/Chiron = MC`: John, page `87`
 - `Saturn/MC = Chiron`: John, page `95`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/MC = Saturn`: blocked vocation and the need to heal one's relationship to authority, place, and worth. Main caution: accepting limitation as destiny instead of as material for healing.
+- `Saturn/Chiron = MC` turns Saturn/Chiron toward vocation, purpose, and life pattern. It points to understanding hardship as part of an ordered life task and bringing a healing sense of structure into career work; the caution is not to reduce vocation to endurance or duty alone.
+- `Saturn/MC = Chiron` channels Chiron through seriousness of purpose and inner guidance. The presence can help others connect with a higher-minded or spiritual self and follow their own direction; the caution is to respect readiness rather than press guidance onto someone prematurely.
 
 ## Links
 

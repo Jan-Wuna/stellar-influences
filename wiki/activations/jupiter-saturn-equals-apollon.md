@@ -3,7 +3,7 @@ title: Jupiter/Saturn = Apollon
 page_type: activation
 slug: jupiter-saturn-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Saturn
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Saturn
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Saturn`
-- Source page: `207`
 #### Witte Entry
 
 Happy separation of many or for many. Building for trade, commerce or science.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Happy separation of many or for many. Building for trade, commerce or science.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Success in legal problems, success losses in trade, financial losses of the economy, concentration on right knowledge, problematic money proliferation, dead peace joy, loss of vie! money, vie! joy in old age, and increasing legal problems
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Saturn = Apollon`: orderly expansion taking material form. It favors practical development, institutional building, and constructive widening achieved through discipline.
 
 ## Links
 
@@ -61,3 +55,5 @@ Happy separation of many or for many. Building for trade, commerce or science.
 - [Saturn](../factors/saturn.md)
 - [Apollon](../factors/apollon.md)
 - [Jupiter/Saturn](../axes/jupiter-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

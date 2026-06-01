@@ -3,10 +3,10 @@ title: Mars/Node = Admetos
 page_type: activation
 slug: mars-node-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Mars
+  - Node
   - Admetos
 normalized_formula: Mars/Node = Admetos
 axis: Mars/Node
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Node
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Mars`
-- Source page: `143`
 #### Witte Entry
 
 Working community in a small circle. To be a participant in or witness to terrorist acts. Clique.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Working community in a small circle. To be a participant in or witness to terrorist acts. Clique.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Perseverance in a relationship by force of action, blockage actions in connections, creating fixed connections, general mediation activity, production of fixed connections, and submission actions in a connection
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Node = Admetos` narrows shared action into cliques, small circles, and compressed group effort.
+- Chart expression: work communities confined to limited circles, exclusive or closed participation, and in harsher form involvement with oppressive or terrorizing collective acts.
 
 ## Links
 
@@ -61,3 +56,5 @@ Working community in a small circle. To be a participant in or witness to terror
 - [Node](../factors/node.md)
 - [Admetos](../factors/admetos.md)
 - [Mars/Node](../axes/mars-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

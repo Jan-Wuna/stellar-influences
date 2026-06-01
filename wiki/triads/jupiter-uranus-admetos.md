@@ -3,7 +3,7 @@ title: Jupiter Uranus Admetos
 page_type: triad_hub
 slug: jupiter-uranus-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Uranus
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Uranus Admetos`
 - Astronomicon triad-set: `V X ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Admetos = Uranus](../activations/jupiter-admetos-equals-uranus.md)
-  Source page `216`
 - [Jupiter/Uranus = Admetos](../activations/jupiter-uranus-equals-admetos.md)
-  Source page `208`
 - [Uranus/Admetos = Jupiter](../activations/uranus-admetos-equals-jupiter.md)
-  Source page `241`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Admetos = Uranus`: page `216`
-- `Jupiter/Uranus = Admetos`: page `208`
-- `Uranus/Admetos = Jupiter`: page `241`
+- `Jupiter/Admetos = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `216`
+- `Jupiter/Admetos = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `343`
+- `Jupiter/Uranus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `208`
+- `Jupiter/Uranus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `327`
+- `Uranus/Admetos = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `241`
+- `Uranus/Admetos = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `384`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Admetos = Uranus`: sudden disturbance of rest, grave property damage, and abrupt forced spending.
+- `Jupiter/Uranus = Admetos`: sudden luck for a few, within a small or exclusive group, corporation, or circle.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Uranus](../factors/uranus.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Venus`
-- Source page: `123`
 #### Witte Entry
 
 The passionate woman. To become a mother. To be active because of love of the subject.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Moon/Venus`
-- Source page: `117`
-- Entry: `0341`
+#### ABC Entry
+
+Working with a lovable woman, peace actions of a people, harmonious actions, impulses of a gentle woman, artistic creation of a people, artistic women's work, woman's love actions, and activity of a gentle woman
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,21 @@ A strongly instinctive, emotional or passionate way of living, actions are cause
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Moon/Venus midpoint`
-- Source page: `27`
-- Activator: `Mars`
-
 #### Sandbach Entry
 
 To assert oneself in a nurturing and soft manner. Agitation caused by feeling vulnerable in a relationship. One takes the initiative to take care of others. When one is doing something it is easy to lose focus or move on to another thing that one feels at tracted to. One’s manner tends to be without harshness or sharpness.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+A touch of impatience and abruptness to the quality of care you show to others; wanting to nurture, but also wanting to rush into other things; heightened sexual enjoyment with those for whom you sincerely care.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Venus = Mars` channels the tender, receptive love of the Moon/Venus axis through Mars, turning affection into desire, pursuit, and active protectiveness. It points to emotional warmth that wants to act, defend, and seek closeness in immediate, embodied ways.
+- Chart expression: passionate tenderness, lively attachment, and the ability to move from care into decisive relational expression. Main caution: touchy desire, because feeling and attraction can turn quickly into jealousy, friction, or reactive pursuit.
 
 ## Links
 
@@ -84,7 +77,8 @@ To assert oneself in a nurturing and soft manner. Agitation caused by feeling vu
 - [Venus](../factors/venus.md)
 - [Mars](../factors/mars.md)
 - [Moon/Venus](../axes/moon-venus.md)
-- [Moon Venus Mars](../triads/moon-venus-mars.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

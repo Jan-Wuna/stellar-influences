@@ -3,7 +3,7 @@ title: Uranus/Zeus = Hades
 page_type: activation
 slug: uranus-zeus-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Hades
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Zeus`
-- Source page: `238`
 #### Witte Entry
 
 Forces bringing destruction. Destruction through power of nature such as thundershowers, storms at sea, earthquakes, eruption of volcanoes.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Forces bringing destruction. Destruction through power of nature such as thundershowers, storms at sea, earthquakes, eruption of volcanoes.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Excitement about criminal movement, difficult new beginning, danger of sudden fire, inadequate design impulses, disadvantages due to technical creativity, restlessness due to fire crime, and creative impulses from the past
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Zeus = Hades`: Forces bringing destruction. Destruction through power of nature such as thundershowers, storms at sea, earthquakes, eruption of volcanoes.
+- Practical expression: excitement about criminal movement, difficult new beginning, danger of sudden fire, inadequate design impulses, and disadvantages due to technical creativity.
 
 ## Links
 
@@ -61,3 +56,5 @@ Forces bringing destruction. Destruction through power of nature such as thunder
 - [Zeus](../factors/zeus.md)
 - [Hades](../factors/hades.md)
 - [Uranus/Zeus](../axes/uranus-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

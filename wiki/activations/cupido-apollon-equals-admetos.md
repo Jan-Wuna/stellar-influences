@@ -3,7 +3,7 @@ title: Cupido/Apollon = Admetos
 page_type: activation
 slug: cupido-apollon-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Cupido
   - Apollon
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Apollon`
-- Source page: `270`
 #### Witte Entry
 
 To be noticed in a small circle for artistic or scientific accomplishments. The possibilities in such fields are hindered.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be noticed in a small circle for artistic or scientific accomplishments. The possibilities in such fields are hindered.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked artistic freedom, restricted success community, successful deepening in the arts, freedom restriction of a community, fundamental knowledge of the arts, resistance to a successful community, and increasingly blocked communities
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Apollon = Admetos`: real merit in a restricted network and to success that stays contained rather than spreading widely. Main caution: remaining boxed into a niche or having expansion blocked just as recognition begins.
 
 ## Links
 
@@ -61,3 +55,5 @@ To be noticed in a small circle for artistic or scientific accomplishments. The 
 - [Apollon](../factors/apollon.md)
 - [Admetos](../factors/admetos.md)
 - [Cupido/Apollon](../axes/cupido-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

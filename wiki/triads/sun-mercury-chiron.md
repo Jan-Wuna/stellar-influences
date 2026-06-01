@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Sun Mercury Chiron`
 - Astronomicon triad-set: `S T Chiron`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Sun/Chiron = Mercury`: John, page `15`
 - `Sun/Mercury = Chiron`: John, page `8`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Chiron = Sun` brings the axis into purpose, visibility, and life-direction.
+- `Sun/Chiron = Mercury`: speaking and thinking from a deeper sense of purpose and communicating meanings that help reveal what matters most.
+- `Sun/Mercury = Chiron`: communicating deeper meaning and thinking in ways that reveal spiritual purpose beneath appearances.
 
 ## Links
 

@@ -3,7 +3,7 @@ title: MC/Zeus = Venus
 page_type: activation
 slug: mc-zeus-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - MC
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Zeus`
-- Source page: `72`
 #### Witte Entry
 
 Wishing to produce something beautiful. Producing with love.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Wishing to produce something beautiful. Producing with love.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Harmony with a fiery soul, harmonious soul guidance, inner love fire, love efforts of the soul, my peace goal, my love efforts, my achievements in the arts, my love witnessing, and my preference to lead
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Zeus = Venus` softens the axis into beauty, affection, and loving creation.
+- Chart expression: wanting to make something pleasing, artistic, or harmonious, with work and effort guided by taste, attraction, and genuine feeling.
 
 ## Links
 
@@ -61,3 +56,5 @@ Wishing to produce something beautiful. Producing with love.
 - [Zeus](../factors/zeus.md)
 - [Venus](../factors/venus.md)
 - [MC/Zeus](../axes/mc-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

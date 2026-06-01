@@ -3,10 +3,10 @@ title: Neptune/MC = Admetos
 page_type: activation
 slug: neptune-mc-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Neptune
+  - MC
   - Admetos
 normalized_formula: Neptune/MC = Admetos
 axis: Neptune/MC
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - MC
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Neptune`
-- Source page: `68`
 #### Witte Entry
 
 To be repulsive. To radiate a cold nature. Situations that are injurious to ones own tactful nature. To experience changes of conditions from the bottom up. Experiencing a thorough change of circumstances.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be repulsive. To radiate a cold nature. Situations that are injurious to ones own tactful nature. To experience changes of conditions from the bottom up. Experiencing a thorough change of circumstances.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dissolving my blockade, consolidating my insecurity, my lucid spor, my perseverance in the water, my circulatory weakness, my deepening in metaphysics, and my misunderstandings
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/MC = Admetos`: To be repulsive. To radiate a cold nature. Situations that are injurious to ones own tactful nature. To experience changes of conditions from the bottom up. Experiencing a thorough change of circumstances.
+- Practical focus: compresses uncertain self-direction into coldness, repulsion, and deep bottom-up change, showing life conditions shifting thoroughly while one’s tact or warmth is strained or injured.
+- Practical expression: dissolving my blockade, consolidating my insecurity, my lucid spor, my perseverance in the water, and my circulatory weakness.
 
 ## Links
 
@@ -61,3 +57,5 @@ To be repulsive. To radiate a cold nature. Situations that are injurious to ones
 - [MC](../factors/mc.md)
 - [Admetos](../factors/admetos.md)
 - [Neptune/MC](../axes/neptune-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

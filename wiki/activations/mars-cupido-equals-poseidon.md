@@ -3,7 +3,7 @@ title: Mars/Cupido = Poseidon
 page_type: activation
 slug: mars-cupido-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Cupido
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Cupido`
-- Source page: `197`
 #### Witte Entry
 
 The moral, mental or spiritual holding together of the family, marriage, art group or work partnership. Working together an moral matters. To conclude a marriage for moral reasons.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The moral, mental or spiritual holding together of the family, marriage, art group or work partnership. Working together an moral matters. To conclude a marriage for moral reasons.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Work of a spiritual community, common cultural work, common will for truth, creation of truth in of a community, clear impulses for of a community, spiritual community work, and power of action of a spiritual community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Cupido = Poseidon`: ethical cooperation, ideologically bonded unions, and communal action justified by conscience, education, or spiritual purpose.
 
 ## Links
 
@@ -61,3 +55,5 @@ The moral, mental or spiritual holding together of the family, marriage, art gro
 - [Cupido](../factors/cupido.md)
 - [Poseidon](../factors/poseidon.md)
 - [Mars/Cupido](../axes/mars-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

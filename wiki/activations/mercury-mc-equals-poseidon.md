@@ -3,10 +3,10 @@ title: Mercury/MC = Poseidon
 page_type: activation
 slug: mercury-mc-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Mercury
+  - MC
   - Poseidon
 normalized_formula: Mercury/MC = Poseidon
 axis: Mercury/MC
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - MC
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Mercury`
-- Source page: `62`
 #### Witte Entry
 
 The own thoughts are on on the spiritual, mental, intellectual or ideological plane. To have clear ideas, thoughts and insights.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The own thoughts are on on the spiritual, mental, intellectual or ideological plane. To have clear ideas, thoughts and insights.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Intelligible description of the soul, I write hard, the truth of my places, I describe ideas, clarity of my thinking, my thoughts about the spiritual principle, animated thinking culture, and my thinking is clean
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/MC = Poseidon` refines the axis into clear intellectual and spiritual orientation.
+- Chart expression: thoughts naturally operating on a mental, ideological, or spiritual plane, with clarity, insight, and clean perception shaping one's personal outlook.
 
 ## Links
 
@@ -61,3 +56,5 @@ The own thoughts are on on the spiritual, mental, intellectual or ideological pl
 - [MC](../factors/mc.md)
 - [Poseidon](../factors/poseidon.md)
 - [Mercury/MC](../axes/mercury-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

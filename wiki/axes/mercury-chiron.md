@@ -53,9 +53,6 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mercury/Chiron midpoint`
-- Source page: `46`
-
 #### Principle
 
 Leaving behind ideas that hold one in a rut while embracing and assimilating ideas that assist one to evolve. Communication with Angels and other beings beyond the physical realm, whether one realizes this is happening or not, the communicating often happening in ways that one does not expect. Having a sense of the right thing to say that will heal a situation and bring others together. Having the right ideas at the right time come to one due to one’s ability to listen to messages coming from beyond.
@@ -63,15 +60,6 @@ Leaving behind ideas that hold one in a rut while embracing and assimilating ide
 #### Process
 
 Allowing spiritual forces to take over the mind and guide it so that communi cation eventually becomes full, open, and clear.
-
-## Comparative Schema
-
-- core meaning: source-native pair entries are preserved side by side above.
-- psychology: Sandbach contributes an explicit `Principle` and `Process` layer, while other sources retain their own native structure and vocabulary.
-- body/health: bodily or vitality implications remain embedded inside each source entry when present.
-- social/relationship: interpersonal implications remain attached to the source-native wording above instead of being flattened into one paraphrase.
-- events/manifestations: see the source entries above and the orientation-specific activation pages linked below.
-- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
 
 ## Related Activations
 
@@ -88,14 +76,11 @@ Allowing spiritual forces to take over the mind and guide it so that communi cat
 - [Mercury/Chiron = Uranus](../activations/mercury-chiron-equals-uranus.md)
 - [Mercury/Chiron = Venus](../activations/mercury-chiron-equals-venus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices and framework emphases rather than flattened into one interpretation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Chiron`: healing communication: the right ideas arriving at the right time to help thought evolve beyond old ruts.
+- Chart expression: spiritually guided messages, restorative dialogue, and an instinct for words that reconnect people with themselves, with each other, and with wider sources of meaning. It can show communication that mends, integrates, and quietly reveals deeper connections.
 
 ## Links
 

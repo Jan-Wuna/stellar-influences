@@ -3,7 +3,7 @@ title: Asc/Kronos = Neptune
 page_type: activation
 slug: asc-kronos-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Asc
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Kronos`
-- Source page: `94`
 #### Witte Entry
 
 To give up employment. Quitting a business by the principal. Bankruptcy of the employer. To be deceived by the state.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To give up employment. Quitting a business by the principal. Bankruptcy of the employer. To be deceived by the state.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Viewed place on the water, particularly finely fledged partners, special water at the place, steering of other vehicles, authority as insecure partner, weak authority at the place, sensitive place hierarchy, weak environmental steering, vemcination of the Authoritat at 011 Others direct the development, development in the large place, and self andigc partncr development
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Kronos = Neptune`: collapsing employers, deceptive institutions, and authority that cannot actually sustain what it promises. Main caution: false hierarchy: what looks secure from above may dissolve without warning.
 
 ## Links
 
@@ -61,3 +55,5 @@ To give up employment. Quitting a business by the principal. Bankruptcy of the e
 - [Kronos](../factors/kronos.md)
 - [Neptune](../factors/neptune.md)
 - [Asc/Kronos](../axes/asc-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

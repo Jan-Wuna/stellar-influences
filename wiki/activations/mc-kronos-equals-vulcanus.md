@@ -3,7 +3,7 @@ title: MC/Kronos = Vulcanus
 page_type: activation
 slug: mc-kronos-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Kronos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Kronos`
-- Source page: `73`
 #### Witte Entry
 
 To have the power of attorney. A mighty authority. To exercise the power of the state. Executive powers.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To have the power of attorney. A mighty authority. To exercise the power of the state. Executive powers.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special psychic influence, great psychic power, my nightly state, my influential authority, my power from self governingness, my power through the boss, my strong self consciousness, and strong dominance of the inner being
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Kronos = Vulcanus` massively strengthens the axis through state power and mighty executive force.
+- Chart expression: formal power of attorney, overwhelming authority, and the exercise of executive or governmental force on a scale others must submit to.
 
 ## Links
 
@@ -61,3 +56,5 @@ To have the power of attorney. A mighty authority. To exercise the power of the 
 - [Kronos](../factors/kronos.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [MC/Kronos](../axes/mc-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

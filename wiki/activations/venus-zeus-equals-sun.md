@@ -3,7 +3,7 @@ title: Venus/Zeus = Sun
 page_type: activation
 slug: venus-zeus-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Venus
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Zeus`
-- Source page: `184`
 #### Witte Entry
 
 Physical work done lovingly. Generative qualities and abilities.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Physical work done lovingly. Generative qualities and abilities.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Beginning of a personal love, man's peace strike, corporal love witness, personal harmony strike, personal love goals, personal preference for fire, beauty of the body as goal, and preference for corporal achievements
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Zeus = Sun`: physical work done lovingly.
+- Practical expression: beginning of a personal love, man's peace strike, corporal love witness, personal harmony strike, and personal love goals.
 
 ## Links
 
@@ -61,3 +56,5 @@ Physical work done lovingly. Generative qualities and abilities.
 - [Zeus](../factors/zeus.md)
 - [Sun](../factors/sun.md)
 - [Venus/Zeus](../axes/venus-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

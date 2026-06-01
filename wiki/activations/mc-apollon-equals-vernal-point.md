@@ -3,7 +3,7 @@ title: MC/Apollon = Vernal Point
 page_type: activation
 slug: mc-apollon-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - MC
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Apollon`
-- Source page: `74`
 #### Witte Entry
 
 Meeting many people. To hear and see much. Great and rich experiences in a lifetime. Scientists in general. Geoscientists.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Meeting many people. To hear and see much. Great and rich experiences in a lifetime. Scientists in general. Geoscientists.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+My success in the public sphere and my experience in the public sphere
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Apollon = Vernal Point` externalizes the axis into many meetings, rich experience, and visible scientific life.
+- Chart expression: a lifetime of wide exposure, much seeing and hearing, and a publicly manifested horizon broadened by travel, people, learning, and general science.
 
 ## Links
 
@@ -61,3 +56,5 @@ Meeting many people. To hear and see much. Great and rich experiences in a lifet
 - [Apollon](../factors/apollon.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [MC/Apollon](../axes/mc-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

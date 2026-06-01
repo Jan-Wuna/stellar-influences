@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Pluto`
-- Source page: `235`
 #### Witte Entry
 
 Sudden commencing of development which cannot be judged as to duration, direction and process. The step into the unknown.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Uranus/Pluto`
-- Source page: `269`
-- Entry: `0958`
+#### ABC Entry
+
+Water and water increase by technology at the top
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Sympathetic understanding of other people, knowledge of human nature, deep study
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Uranus/Pluto midpoint`
-- Source page: `105`
-- Activator: `Neptune`
-
 #### Sandbach Entry
 
 To be able to effect a profound revolution in a subtle, hidden, and/or unseen way. To harbor extremely strange ideals and imaginings. Extreme changes which create chaos and/or confusion.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+You spend much time with your own dreams of what reality is and how the non-physical and physical worlds operate; you enjoy astrology and the occult; you desire to use computers and new-age sciences to assist you.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Pluto = Neptune`: occult sensitivity, revolutionary undercurrents, and the ability to sense deep systems breaking down behind appearances. Main caution: obscured chaos: change can become too paranoid, delusional, or difficult to ground before damage spreads.
 
 ## Links
 
@@ -84,7 +76,8 @@ To be able to effect a profound revolution in a subtle, hidden, and/or unseen wa
 - [Pluto](../factors/pluto.md)
 - [Neptune](../factors/neptune.md)
 - [Uranus/Pluto](../axes/uranus-pluto.md)
-- [Uranus Neptune Pluto](../triads/uranus-neptune-pluto.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

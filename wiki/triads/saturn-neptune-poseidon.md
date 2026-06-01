@@ -3,7 +3,7 @@ title: Saturn Neptune Poseidon
 page_type: triad_hub
 slug: saturn-neptune-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Neptune
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Neptune Poseidon`
 - Astronomicon triad-set: `W Y ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Neptune/Poseidon = Saturn](../activations/neptune-poseidon-equals-saturn.md)
-  Source page `254`
 - [Saturn/Neptune = Poseidon](../activations/saturn-neptune-equals-poseidon.md)
-  Source page `222`
 - [Saturn/Poseidon = Neptune](../activations/saturn-poseidon-equals-neptune.md)
-  Source page `231`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Neptune/Poseidon = Saturn`: page `254`
-- `Saturn/Neptune = Poseidon`: page `222`
-- `Saturn/Poseidon = Neptune`: page `231`
+- `Neptune/Poseidon = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `254`
+- `Neptune/Poseidon = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `407`
+- `Saturn/Neptune = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `222`
+- `Saturn/Neptune = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `351`
+- `Saturn/Poseidon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `231`
+- `Saturn/Poseidon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `369`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Neptune/Poseidon = Saturn`: This activation disciplines subtle perception through sobering mental structure and psychological education. It tends to turn intuition or spiritual sensitivity toward serious inner study, reflective judgment, and a more defined understanding of hidden motives.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Neptune](../factors/neptune.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

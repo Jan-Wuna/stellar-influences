@@ -3,7 +3,7 @@ title: Venus/Neptune = Vernal Point
 page_type: activation
 slug: venus-neptune-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Venus
   - Neptune
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Neptune`
-- Source page: `180`
 #### Witte Entry
 
 Prudishness. To be averse to love. Deceit and deception in love in the general public.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Prudishness. To be averse to love. Deceit and deception in love in the general public.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exchangeable skills in public life, mutual love in public life, unsafe peace in public life, water skills in public life, and future wish for public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Neptune = Vernal Point`: prudishness.
+- Practical expression: exchangeable skills in public life, mutual love in public life, unsafe peace in public life, water skills in public life, and future wish for public life.
 
 ## Links
 
@@ -61,3 +56,5 @@ Prudishness. To be averse to love. Deceit and deception in love in the general p
 - [Neptune](../factors/neptune.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Venus/Neptune](../axes/venus-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

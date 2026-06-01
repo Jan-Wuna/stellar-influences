@@ -3,7 +3,7 @@ title: MC/Poseidon = Pluto
 page_type: activation
 slug: mc-poseidon-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - MC
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Poseidon`
-- Source page: `77`
 #### Witte Entry
 
 A transformation in one’s thought processes. Ones personal mental and spiritual development. To change one’s own attitude to mental insights.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A transformation in one’s thought processes. Ones personal mental and spiritual development. To change one’s own attitude to mental insights.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+my spiritual development, my cultural development, mcinc growing spirit, soul culture developing, and growing clarity of soul
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Poseidon = Pluto` deepens the axis through transformation of thought and spiritual development.
+- Chart expression: changed attitudes through insight, evolving mental structure, and a self repeatedly reshaped by intellectual or spiritual growth.
 
 ## Links
 
@@ -61,3 +56,5 @@ A transformation in one’s thought processes. Ones personal mental and spiritua
 - [Poseidon](../factors/poseidon.md)
 - [Pluto](../factors/pluto.md)
 - [MC/Poseidon](../axes/mc-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Asc/Poseidon = Cupido
 page_type: activation
 slug: asc-poseidon-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - Cupido
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Poseidon`
-- Source page: `98`
 #### Witte Entry
 
 Spiritually interested members in the family. Together with men of the same world-concept.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Spiritually interested members in the family. Together with men of the same world-concept.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Common local culture, common environmental ideas, common cultural space, idccllc partner community, arts and culture in the surrounding area, local cultural community, and Synthcsc for environmental culture
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Poseidon = Cupido`: domestic, communal, or group life organized around common ideals, beliefs, or cultural taste. Main caution: closed-circuit agreement: shared outlook can harden into sectarianism or group insularity.
 
 ## Links
 
@@ -61,3 +55,5 @@ Spiritually interested members in the family. Together with men of the same worl
 - [Poseidon](../factors/poseidon.md)
 - [Cupido](../factors/cupido.md)
 - [Asc/Poseidon](../axes/asc-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

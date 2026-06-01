@@ -3,7 +3,7 @@ title: Vernal Point Venus Poseidon
 page_type: triad_hub
 slug: vernal-point-venus-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Venus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Venus Poseidon`
 - Astronomicon triad-set: `VP Q ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Venus/Poseidon = Vernal Point](../activations/venus-poseidon-equals-vernal-point.md)
-  Source page `189`
 - [Vernal Point/Poseidon = Venus](../activations/vernal-point-poseidon-equals-venus.md)
-  Source page `55`
 - [Vernal Point/Venus = Poseidon](../activations/vernal-point-venus-equals-poseidon.md)
-  Source page `41`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Venus/Poseidon = Vernal Point`: page `189`
-- `Vernal Point/Poseidon = Venus`: page `55`
-- `Vernal Point/Venus = Poseidon`: page `41`
+- `Venus/Poseidon = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `189`
+- `Venus/Poseidon = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `296`
+- `Vernal Point/Poseidon = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `55`
+- `Vernal Point/Poseidon = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `58`
+- `Vernal Point/Venus = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `41`
+- `Vernal Point/Venus = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `31`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Venus/Poseidon = Vernal Point`: the general faith.
+- `Vernal Point/Poseidon = Venus`: This formula emphasizes peaceful attitude of the general public through knowledge, spiritual attitude, and referring to philosophy affairs and matters of belief.
+- `Vernal Point/Venus = Poseidon`: This formula emphasizes insights for a peaceful world, calm ocean, and non dangerous water masses.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Venus](../factors/venus.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

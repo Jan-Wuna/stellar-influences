@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Moon + Moon`
-- Source page: `119`
 #### Witte Entry
 
 Concerning female persons, a people and countries. Nations. Public. National community. Tides.
 
-## Comparative Schema
-
-- core meaning: Concerning female persons, a people and countries. Nations. Public. National community. Tides.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Moon = Vernal Point`: Concerning female persons, a people and countries. Nations. Public. National community. Tides.
+- Practical focus: externalizes `Moon/Moon` into nations, tides, and the broad public field. It emphasizes female persons, peoples, and countries as collective bodies, making pure lunar life more geographic, communal, and visibly tied to mass conditions or cyclical worldly rhythms.
 
 ## Links
 

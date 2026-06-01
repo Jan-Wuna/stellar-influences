@@ -3,7 +3,7 @@ title: Node Cupido Zeus
 page_type: triad_hub
 slug: node-cupido-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Node Cupido Zeus`
 - Astronomicon triad-set: `g ¡ £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Zeus = Node](../activations/cupido-zeus-equals-node.md)
-  Source page `268`
 - [Node/Cupido = Zeus](../activations/node-cupido-equals-zeus.md)
-  Source page `149`
 - [Node/Zeus = Cupido](../activations/node-zeus-equals-cupido.md)
-  Source page `151`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Zeus = Node`: page `268`
-- `Node/Cupido = Zeus`: page `149`
-- `Node/Zeus = Cupido`: page `151`
+- `Cupido/Zeus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `268`
+- `Cupido/Zeus = Node`: Udo Rudolph - ABC for Planetary Pictures, page `426`
+- `Node/Cupido = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `149`
+- `Node/Cupido = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `225`
+- `Node/Zeus = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `151`
+- `Node/Zeus = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `229`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Zeus = Node`: being a cofounder of a corporation or shared communal venture.
+- `Node/Cupido = Zeus`: Wanting union and combination. To tend toward association. Creative work together with others.
+- `Node/Zeus = Cupido`: To found associations (corporations). To be forced into a union.
 
 ## Links
 
 - [Node](../factors/node.md)
 - [Cupido](../factors/cupido.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

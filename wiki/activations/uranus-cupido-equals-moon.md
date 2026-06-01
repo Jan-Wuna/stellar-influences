@@ -3,7 +3,7 @@ title: Uranus/Cupido = Moon
 page_type: activation
 slug: uranus-cupido-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Uranus
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Cupido`
-- Source page: `236`
 #### Witte Entry
 
 Women who are married quickly. Persons who decide quickly to enter a certain association or company. Suddenly forming a company in the public.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Women who are married quickly. Persons who decide quickly to enter a certain association or company. Suddenly forming a company in the public.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Agitated people's community, a community's impulse, women's artificial impulses, nervous women's community, new people arts, new community culture, women's technical community, and people art
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Cupido = Moon`: Women who are married quickly. Persons who decide quickly to enter a certain association or company. Suddenly forming a company in the public.
+- Practical expression: agitated people's community, a community's impulse, women's artificial impulses, nervous women's community, and new people arts.
 
 ## Links
 
@@ -61,3 +56,5 @@ Women who are married quickly. Persons who decide quickly to enter a certain ass
 - [Cupido](../factors/cupido.md)
 - [Moon](../factors/moon.md)
 - [Uranus/Cupido](../axes/uranus-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: MC/Poseidon = Apollon
 page_type: activation
 slug: mc-poseidon-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Apollon
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Poseidon`
-- Source page: `77`
 #### Witte Entry
 
 A free-thinker. Breadth of spirit. Spiritually unfettered. Own conception of the world. Inclination, disposition and attitude toward religion.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A free-thinker. Breadth of spirit. Spiritually unfettered. Own conception of the world. Inclination, disposition and attitude toward religion.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Experienced mind soul, success of my clarity, my success through truth, my spiritual success, my spiritual knowledge, my cultural success, my cultural knowledge, my successful idea, knowledge of soul and mind, and increasing psychic clarity
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Poseidon = Apollon` widens the axis into broad spiritual and philosophical independence.
+- Chart expression: a free-thinking worldview, spiritual breadth, and a life stance that approaches religion, belief, and culture from a spacious, self-determined perspective.
 
 ## Links
 
@@ -61,3 +56,5 @@ A free-thinker. Breadth of spirit. Spiritually unfettered. Own conception of the
 - [Poseidon](../factors/poseidon.md)
 - [Apollon](../factors/apollon.md)
 - [MC/Poseidon](../axes/mc-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

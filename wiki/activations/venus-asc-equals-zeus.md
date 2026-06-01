@@ -3,10 +3,10 @@ title: Venus/Asc = Zeus
 page_type: activation
 slug: venus-asc-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Venus
+  - Asc
   - Zeus
 normalized_formula: Venus/Asc = Zeus
 axis: Venus/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Asc
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Venus`
-- Source page: `84`
 #### Witte Entry
 
 Paternally desired. To desire motherhood. “The favored one”. Pleasant and creative connections.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Paternally desired. To desire motherhood. “The favored one”. Pleasant and creative connections.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Beginning harmony with other, peace services on site, peaceful local transportation, artistic achievements of the partner, love witnessing with the partner, harmony stretching in the environment, harmonious objective with other, and creative artificial place
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Asc = Zeus`: paternally desired.
+- Practical expression: beginning harmony with other, peace services on site, peaceful local transportation, artistic achievements of the partner, and love witnessing with the partner.
 
 ## Links
 
@@ -61,3 +56,5 @@ Paternally desired. To desire motherhood. “The favored one”. Pleasant and cr
 - [Asc](../factors/asc.md)
 - [Zeus](../factors/zeus.md)
 - [Venus/Asc](../axes/venus-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

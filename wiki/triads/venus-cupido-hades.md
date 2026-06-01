@@ -3,7 +3,7 @@ title: Venus Cupido Hades
 page_type: triad_hub
 slug: venus-cupido-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Cupido Hades`
 - Astronomicon triad-set: `Q ¡ ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Hades = Venus](../activations/cupido-hades-equals-venus.md)
-  Source page `267`
 - [Venus/Cupido = Hades](../activations/venus-cupido-equals-hades.md)
-  Source page `182`
 - [Venus/Hades = Cupido](../activations/venus-hades-equals-cupido.md)
-  Source page `183`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Hades = Venus`: page `267`
-- `Venus/Cupido = Hades`: page `182`
-- `Venus/Hades = Cupido`: page `183`
+- `Cupido/Hades = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `267`
+- `Cupido/Hades = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `424`
+- `Venus/Cupido = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `182`
+- `Venus/Cupido = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `283`
+- `Venus/Hades = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `183`
+- `Venus/Hades = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `285`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Hades = Venus`: miserable love associations, prostitution, poor housing, and being compelled to accept whatever affection or comfort is available.
+- `Venus/Cupido = Hades`: marital happiness spoiled by poverty.
+- `Venus/Hades = Cupido`: sorrow in marital life caused by servants or through one’s own service or work relations.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Cupido](../factors/cupido.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

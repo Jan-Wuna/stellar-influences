@@ -3,7 +3,7 @@ title: Jupiter/Kronos = Pluto
 page_type: activation
 slug: jupiter-kronos-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Pluto
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Kronos`
-- Source page: `214`
 #### Witte Entry
 
 A great fortune is on the way. Practice makes perfect. Changes in the high finance sector.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A great fortune is on the way. Practice makes perfect. Changes in the high finance sector.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+wrinkling, successful development in the state, great successful changes, state law development, growing success through self governing, and important legal development
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Kronos = Pluto`: authority meeting breakthrough opportunity. It favors major advancement, strengthening through disciplined repetition, and transformative developments in top-level financial systems.
 
 ## Links
 
@@ -61,3 +55,5 @@ A great fortune is on the way. Practice makes perfect. Changes in the high finan
 - [Kronos](../factors/kronos.md)
 - [Pluto](../factors/pluto.md)
 - [Jupiter/Kronos](../axes/jupiter-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

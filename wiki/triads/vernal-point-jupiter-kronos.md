@@ -3,7 +3,7 @@ title: Vernal Point Jupiter Kronos
 page_type: triad_hub
 slug: vernal-point-jupiter-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Jupiter
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Jupiter Kronos`
 - Astronomicon triad-set: `VP V ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Kronos = Vernal Point](../activations/jupiter-kronos-equals-vernal-point.md)
-  Source page `214`
 - [Vernal Point/Jupiter = Kronos](../activations/vernal-point-jupiter-equals-kronos.md)
-  Source page `43`
 - [Vernal Point/Kronos = Jupiter](../activations/vernal-point-kronos-equals-jupiter.md)
-  Source page `51`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Kronos = Vernal Point`: page `214`
-- `Vernal Point/Jupiter = Kronos`: page `43`
-- `Vernal Point/Kronos = Jupiter`: page `51`
+- `Jupiter/Kronos = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `214`
+- `Jupiter/Kronos = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `338`
+- `Vernal Point/Jupiter = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `43`
+- `Vernal Point/Jupiter = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `35`
+- `Vernal Point/Kronos = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `51`
+- `Vernal Point/Kronos = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `50`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Kronos = Vernal Point`: financial giants, the global financial system, and tax or financial authority in general.
+- `Vernal Point/Jupiter = Kronos`: This formula emphasizes advantages through the father, superiors or authorities.
+- `Vernal Point/Kronos = Jupiter`: This formula emphasizes the successful leader, good income, dealing with financial transactions, and banks.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Jupiter](../factors/jupiter.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

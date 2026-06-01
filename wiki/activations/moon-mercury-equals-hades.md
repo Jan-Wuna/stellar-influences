@@ -3,7 +3,7 @@ title: Moon/Mercury = Hades
 page_type: activation
 slug: moon-mercury-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Mercury
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Mercury
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Mercury`
-- Source page: `122`
 #### Witte Entry
 
 Bad memory. Garbage-wagon. Street walkers. Not settled people. Poor girls. Depressed mind.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Bad memory. Garbage-wagon. Street walkers. Not settled people. Poor girls. Depressed mind.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dangerous youth of a people, mystery of a young woman, talk about feelings Kummer, criminal youth of a people, news about privations of a people, hidden thoughts of a woman, and female youth crime
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Mercury = Hades`: Bad memory. Garbage-wagon. Street walkers. Not settled people. Poor girls. Depressed mind.
+- Practical focus: degrades `Moon/Mercury` into poor memory, troubled thinking, and emotionally low or unstable social environments. It can show a mind pulled toward dirt, sadness, marginality, or disordered association, making communication and feeling harder to keep clean, hopeful, or settled.
+- Practical expression: dangerous youth of a people, mystery of a young woman, talk about feelings Kummer, criminal youth of a people, and news about privations of a people.
 
 ## Links
 
@@ -61,3 +57,5 @@ Bad memory. Garbage-wagon. Street walkers. Not settled people. Poor girls. Depre
 - [Mercury](../factors/mercury.md)
 - [Hades](../factors/hades.md)
 - [Moon/Mercury](../axes/moon-mercury.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

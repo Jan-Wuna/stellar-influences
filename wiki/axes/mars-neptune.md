@@ -58,13 +58,14 @@ aliases:
   - Neptune/Mars
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -77,17 +78,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Neptune`
-- Source page: `195`
-
 #### Pair Summary
 
 Rejection. Denial. Destruction. Infection. Failures. Future employment. Causing poisoning. To act with poor results. To be hindered, prevented. Inability to carry out the plans. Unclear or incomprehensible actions. Working under insecure or unknown conditions. Activities or labor in connection with water or air.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Mars/Neptune`
-- Source page: `210`
+#### ABC Pair Summary
+
+Work in loose air, Denial work, Dissolvingactivities, IntuitionS••Impulses, metaphysical impulses, unsafe actions, future creating, and will weakness
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -111,17 +112,11 @@ Sick people, people craving for drugs. People connected generally with water or 
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
-- Source heading: `Mars/Neptune`
-- Source page: `61`
-
 #### Falis Entry
 
 Putting energy into dance. Putting energy into the spiritual. Putting energy into meditation. Passive energy. Getting your groove on. Slow jams. Glamouring. Daz zling. Magicians. Sorcerers. Jedis. "These are not the droids you're looking for." Disappearing acts. Slipping in and out of roles. Con artists. Smooth operators. Soul men. Sex magic. Seduction. Ineffectual. Futile efforts. Sleazy actions. A weak father. Feeling that the men in your life are unreliable, weak or simply not around. No strong men in your life. Confusion about masculinity. The Sensitive Man. Spir itual men. Men who transcend the normal ideas of what it means to be masculine. Disillusioned with men. Feeling let down by men. Disappointed by people's ac tions. Feeling that self-assertion is pointless. War of ideals. Compassionate action. Acting with sensitivity. Weak willed. Pushovers. Wafflers. Asserting your ideal vi sions. Acting on ideals. Championing the underdog. Spiritually competitive. Musi cally competitive. Poetry competitions. Asserting your imagination. The courage to let go. The courage to act on behalf of a higher power. Using energy for a higher cause. Actions that serve a higher purpose. Sexuality that serves a higher power. Spiritual sexuality. Idealizing the sexual experience. Idealizing passion. Passionate about ideals. Wanting to physically merge. Physical surrender. Surrendering to your phys ical impulses, for better or worse. A drive that knows no limits. Having no bound aries surrounding what you will or will not do. Weak physical boundaries. Inability to say no. Acting like a martyr. Self-sacrificing. Spiritual energy. Refined, delicate energy. Actions that are dictated by other realms and otherworldly experiences. Spaced-out. Self-assertion in a chaotic manner. Unfocused energy. Diffused, permeable energy. Selfless efforts. Having no idea what to do next. Difficulty ac cessing personal will power. Difficulty acting on your own behalf. Putting yourself last. Acute physical sensitivity. Dulling your senses as a way to cope with anger. Using drugs, alcohol, sex ... or anything really to drift out of reality rather than deal with anger. Daydreaming as a response to anger. Spacing out to cope with anger. Find ing a spiritual path that helps you release anger. Releasing energy through imagi native, dream-like experiences. Releasing energy through meditation. Active medi tation. Active dreamers. Acting like a flake. Film actors. Magnetic sexuality. Con veying a sexual presence on film. The ability to mesmerize. Finding an outlet for anger through acting, dancing or music. Dancing your ass off. Competitive danc ing. Violent dreams. Delusional behavior. Ecstatic dance. Moving energy in imper ceptible ways. Dealing with forces that other people have trouble seeing or recog nizing. Psychic energy. Reiki. Tai Chi. Subtle force. Acting on dreams. Unrealistic approach. Indistinct sense of direction. Impatience that dissolves. Energy that dis solves. Force that dissolves. Courage that dissolves. Transcendental energy. Avoid ance. Escape. Drifters. Grifters. Passionate poets. Melting sexuality. Pervasive lust. Fighting ghosts. Fighting addiction. Sexual fantasy.
 
 ### Charles Carter - The Astrological Aspects
-
-- Source heading: `ASPECTS OF MARS & NEPTUNE`
-- Source page: `58`
 
 #### Harmonious Aspects
 
@@ -169,9 +164,6 @@ The effect on the health is through worry, diseases of the imagination or throug
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mars/Neptune midpoint`
-- Source page: `72`
-
 #### Principle
 
 To act out of a sense of spiritual obligation. Taking the initiative to help others. The refinement of one’s ability to act. The ability to assert oneself in subtle ways. Psy chic warfare. Engaging in magic practices. To psychically tune in to conflicts. Actions that are confused or impractical. To refine and uplift sexual energy. The excitement of the imagination, and its use in both constructive and destructive ways.
@@ -182,17 +174,11 @@ To become increasingly aware of what you’re doing, so that you’re less and l
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Mars/Neptune`
-- Source page: `208`
-
 #### Pair Delineation
 
 Weakness, paralysis, feelings of inferiority or inability to cope. Covert actions. Connected with allergies, drug problems, and infectious diseases. Also spiritual activity and work in which spiritual rather than physical benefit is the object.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `MARS/NEPTUNE`
-- Source page: `235`
 
 #### Basic Ideas
 
@@ -221,15 +207,6 @@ Weakens your overall physical stamina; muscle weakness or atrophy; physical cond
 
 - [Michael Munkasey - Mars/Neptune Concepts](../derived/munkasey-mars-neptune-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Mars/Neptune = Admetos](../activations/mars-neptune-equals-admetos.md)
@@ -254,20 +231,18 @@ Weakens your overall physical stamina; muscle weakness or atrophy; physical cond
 - [Mars/Neptune = Vulcanus](../activations/mars-neptune-equals-vulcanus.md)
 - [Mars/Neptune = Zeus](../activations/mars-neptune-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Neptune` is the axis of diffused or idealized action: energy shaped by imagination, sensitivity, devotion, confusion, sacrifice, or hidden motives. It can describe subtle, inspired, compassionate effort, but also weakened will, unclear direction, and action that leaks away into fantasy, avoidance, or deception.
+- Chart expression: spiritualized effort, artistic or erotic magnetism, covert action, subtle force, and the urge to serve or fight for an ideal. Its difficult side is especially important: frustration, passivity, self-undoing, unclear conflict, exploitation, addiction, infection, exhaustion, or acting without enough clarity, boundaries, or practical force.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Neptune](../factors/neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)

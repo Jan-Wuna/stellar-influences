@@ -3,7 +3,7 @@ title: Vernal Point Saturn Node
 page_type: triad_hub
 slug: vernal-point-saturn-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Saturn
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Saturn Node`
 - Astronomicon triad-set: `VP W g`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Saturn/Node = Vernal Point](../activations/saturn-node-equals-vernal-point.md)
-  Source page `145`
 - [Vernal Point/Node = Saturn](../activations/vernal-point-node-equals-saturn.md)
-  Source page `39`
 - [Vernal Point/Saturn = Node](../activations/vernal-point-saturn-equals-node.md)
-  Source page `44`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Saturn/Node = Vernal Point`: page `145`
-- `Vernal Point/Node = Saturn`: page `39`
-- `Vernal Point/Saturn = Node`: page `44`
+- `Saturn/Node = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `145`
+- `Saturn/Node = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `216`
+- `Vernal Point/Node = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `39`
+- `Vernal Point/Node = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `27`
+- `Vernal Point/Saturn = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `44`
+- `Vernal Point/Saturn = Node`: Udo Rudolph - ABC for Planetary Pictures, page `36`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Vernal Point/Node = Saturn`: This formula emphasizes general separation and restrictions on public connections.
+- `Vernal Point/Saturn = Node`: This formula emphasizes to take leave.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Saturn](../factors/saturn.md)
 - [Node](../factors/node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Asc/Cupido = Uranus
 page_type: activation
 slug: asc-cupido-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Asc
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Cupido`
-- Source page: `91`
 #### Witte Entry
 
 ^ surprise marriage. Sudden event in a marriage or at a wedding. Excitement in the family. To surprisingly obtain an apartment. Modern home. Excitement in or through a community.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: ^ surprise marriage. Sudden event in a marriage or at a wedding. Excitement in the family. To surprisingly obtain an apartment. Modern home. Excitement in or through a community.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Agitated local community, dynamic partner community, joint environmental pollution, new local environment, local reform community, tensions in the common environment, technical communities in the environment, and restless community community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Cupido = Uranus`: unexpected domestic turns, modern or unconventional home patterns, and communal life prone to sudden shocks. Main caution: unstable cohesion: the home or group unit may become restless, erratic, or repeatedly jolted out of continuity.
 
 ## Links
 
@@ -61,3 +55,5 @@ updated_at: 2026-04-21
 - [Cupido](../factors/cupido.md)
 - [Uranus](../factors/uranus.md)
 - [Asc/Cupido](../axes/asc-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

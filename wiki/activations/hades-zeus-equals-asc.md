@@ -3,7 +3,7 @@ title: Hades/Zeus = Asc
 page_type: activation
 slug: hades-zeus-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - Hades
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Zeus`
-- Source page: `277`
 #### Witte Entry
 
 Others are obnoxious, hateful and negative, disorderly or lazy. Disorder and dirt in the surroundings. Damage by fire. To be visited by destructive fire.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Others are obnoxious, hateful and negative, disorderly or lazy. Disorder and dirt in the surroundings. Damage by fire. To be visited by destructive fire.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Service at the fire place, commercial goal of the partner, dangerous fire at the place, defective location feeling, defective environmental stress, environmental guidance service, hidden partner fohnmg, and procreation passion of the partner
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Zeus = Asc`: daily life being shaped by low-quality force in the environment. It can show obnoxious people, surrounding disorder, and direct exposure to harmful or incendiary conditions.
 
 ## Links
 
@@ -61,3 +55,5 @@ Others are obnoxious, hateful and negative, disorderly or lazy. Disorder and dir
 - [Zeus](../factors/zeus.md)
 - [Asc](../factors/asc.md)
 - [Hades/Zeus](../axes/hades-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

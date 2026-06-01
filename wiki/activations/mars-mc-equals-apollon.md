@@ -3,10 +3,10 @@ title: Mars/MC = Apollon
 page_type: activation
 slug: mars-mc-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Mars
+  - MC
   - Apollon
 normalized_formula: Mars/MC = Apollon
 axis: Mars/MC
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - MC
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Mars`
-- Source page: `64`
 #### Witte Entry
 
 Being generous. To be prudent. Engaged in science or commerce. Activity of a economic expert.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Being generous. To be prudent. Engaged in science or commerce. Activity of a economic expert.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful soul pulses, successful soul treatment, I work vie!, I want freedom, my work experiences, my scientific work, my work is successful, much psychic activity, and scientific soul work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/MC = Apollon` widens vocational action into generous, prudent, scientific, commercial, or economic activity.
+- Chart expression: professional competence expressed through trade, science, or management, with an active role in broad practical or economic affairs.
 
 ## Links
 
@@ -61,3 +56,5 @@ Being generous. To be prudent. Engaged in science or commerce. Activity of a eco
 - [MC](../factors/mc.md)
 - [Apollon](../factors/apollon.md)
 - [Mars/MC](../axes/mars-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Moon Mars Admetos
 page_type: triad_hub
 slug: moon-mars-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Mars
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Mars Admetos`
 - Astronomicon triad-set: `R U ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Admetos = Moon](../activations/mars-admetos-equals-moon.md)
-  Source page `202`
 - [Moon/Admetos = Mars](../activations/moon-admetos-equals-mars.md)
-  Source page `135`
 - [Moon/Mars = Admetos](../activations/moon-mars-equals-admetos.md)
-  Source page `124`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Admetos = Moon`: page `202`
-- `Moon/Admetos = Mars`: page `135`
-- `Moon/Mars = Admetos`: page `124`
+- `Mars/Admetos = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `202`
+- `Mars/Admetos = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `318`
+- `Moon/Admetos = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `135`
+- `Moon/Admetos = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `202`
+- `Moon/Mars = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `124`
+- `Moon/Mars = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `181`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Admetos = Moon`: depressed, crowded, pessimistic people and a public or female field that feels terrorized or hemmed in.
+- `Moon/Admetos = Mars`: Forced to work in crowded places. Prison labor. Slave labor.
+- `Moon/Mars = Admetos`: This activation constricts `Moon/Mars` into concentrated labor, reduced domestic ease, and effort under limitation. It often shows energy forced into narrow channels, making work specialized or burdensome while emotional drive has to cope with cramped living conditions, delays in establishing a home, or a smaller field of action than desired.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Mars](../factors/mars.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

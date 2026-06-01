@@ -3,7 +3,7 @@ title: Neptune/Hades = Vernal Point
 page_type: activation
 slug: neptune-hades-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Neptune
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Hades`
-- Source page: `248`
 #### Witte Entry
 
 The native deceives himself about his relations to the surroundings and the general world. Also the environment may not be sure how it feels about the native. Floods. Tidal waves.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The native deceives himself about his relations to the surroundings and the general world. Also the environment may not be sure how it feels about the native. Floods. Tidal waves.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Feather in public wash, criminality in public waters, air shortage in the public, public air pollution, public water shortage, polluted public waters, and wasscr damage in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Hades = Vernal Point`: The native deceives himself about his relations to the surroundings and the general world. Also the environment may not be sure how it feels about the native. Floods. Tidal waves.
+- Practical focus: externalizes self-deception and environmental uncertainty, showing confused relations with the wider world and collective exposure to overwhelming water conditions.
+- Practical expression: feather in public wash, criminality in public waters, air shortage in the public, public air pollution, and public water shortage.
 
 ## Links
 
@@ -61,3 +57,5 @@ The native deceives himself about his relations to the surroundings and the gene
 - [Hades](../factors/hades.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Neptune/Hades](../axes/neptune-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Apollon/Poseidon = Moon
 page_type: activation
 slug: apollon-poseidon-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Apollon
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Apollon
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Apollon + Poseidon`
-- Source page: `308`
 #### Witte Entry
 
 A people, the public, women or several persons show their attitude and disposition.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A people, the public, women or several persons show their attitude and disposition.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Success through clear skills, mental experiences of a woman, cultural knowledge of a people, cultural success of a woman, truth knowledge of a woman, knowledge of a culture people, and increasing knowledge of a woman
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Poseidon = Moon`: public mood, collective mentality, and emotional identification around shared belief or perspective. Main caution: mass suggestibility: a common mood can spread faster than clarity, nuance, or individual judgment.
 
 ## Links
 
@@ -61,3 +55,5 @@ A people, the public, women or several persons show their attitude and dispositi
 - [Poseidon](../factors/poseidon.md)
 - [Moon](../factors/moon.md)
 - [Apollon/Poseidon](../axes/apollon-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

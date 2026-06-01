@@ -3,7 +3,7 @@ title: Zeus/Kronos = Admetos
 page_type: activation
 slug: zeus-kronos-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Zeus
   - Kronos
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Kronos`
-- Source page: `290`
 #### Witte Entry
 
 Great creation on a limited scope. Competition among a few. To get a special commission. To be outstanding through special accomplishments. To appear as an odd character through ones behavior,
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great creation on a limited scope. Competition among a few. To get a special commission. To be outstanding through special accomplishments. To appear as an odd character through ones behavior,
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Start of a special Y deepening, blocked goal of a hierarchic, restricted state filtration, restriction of special efforts, strengthened state leadership, condemnation of grudge fire, and resistance to the state leadership
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Kronos = Admetos`: Great creation on a limited scope. Competition among a few. To get a special commission. To be outstanding through special accomplishments. To appear as an odd character through ones behavior,.
+- Practical expression: start of a special Y deepening, blocked goal of a hierarchic, restricted state filtration, restriction of special efforts, and strengthened state leadership.
 
 ## Links
 
@@ -61,3 +56,5 @@ Great creation on a limited scope. Competition among a few. To get a special com
 - [Kronos](../factors/kronos.md)
 - [Admetos](../factors/admetos.md)
 - [Zeus/Kronos](../axes/zeus-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

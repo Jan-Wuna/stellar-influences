@@ -3,7 +3,7 @@ title: Mercury Venus Poseidon
 page_type: triad_hub
 slug: mercury-venus-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Venus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Venus Poseidon`
 - Astronomicon triad-set: `T Q ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Poseidon = Venus](../activations/mercury-poseidon-equals-venus.md)
-  Source page `173`
 - [Mercury/Venus = Poseidon](../activations/mercury-venus-equals-poseidon.md)
-  Source page `159`
 - [Venus/Poseidon = Mercury](../activations/venus-poseidon-equals-mercury.md)
-  Source page `189`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Poseidon = Venus`: page `173`
-- `Mercury/Venus = Poseidon`: page `159`
-- `Venus/Poseidon = Mercury`: page `189`
+- `Mercury/Poseidon = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `173`
+- `Mercury/Poseidon = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `268`
+- `Mercury/Venus = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `159`
+- `Mercury/Venus = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `241`
+- `Venus/Poseidon = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `189`
+- `Venus/Poseidon = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `296`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Poseidon = Venus`: To be in touch with ministers, preachers etc.
+- `Mercury/Venus = Poseidon`: New friends through ideas, insights or spiritual matters.
+- `Venus/Poseidon = Mercury`: acquaintanceship with faithful, religious people.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Venus](../factors/venus.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Kronos/Vulcanus = Mercury
 page_type: activation
 slug: kronos-vulcanus-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Kronos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Kronos + Vulcanus`
-- Source page: `301`
 #### Witte Entry
 
 Thoughts about the state. Political thinking, political talks.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Thoughts about the state. Political thinking, political talks.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Especially strong traffic, influential media authorship, language about the influence of hierarchy, great energies in motion, great thought power, self conscious power of youth, state violence against young people, and strong media dominance
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Vulcanus = Mercury`: political thinking, state-centered planning, and conversations or directives organized around power and government.
+- Chart expression: strategic political thought, command language, and intelligence focused on administration and authority.
 
 ## Links
 
@@ -61,3 +56,5 @@ Thoughts about the state. Political thinking, political talks.
 - [Vulcanus](../factors/vulcanus.md)
 - [Mercury](../factors/mercury.md)
 - [Kronos/Vulcanus](../axes/kronos-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

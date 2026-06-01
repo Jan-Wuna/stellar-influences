@@ -3,7 +3,7 @@ title: Asc/Admetos = Saturn
 page_type: activation
 slug: asc-admetos-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Asc
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Admetos`
-- Source page: `96`
 #### Witte Entry
 
 Others feel conscious of guilt. To feel limited and depressed through the domicile.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Others feel conscious of guilt. To feel limited and depressed through the domicile.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Perseverance and patience of the partner, blocked and peripheral environment, depressing environmental problems, serious tasks of the partner, problematic limitations for a place, and disturbances due to traffic jams in the place
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Admetos = Saturn`: local restriction, oppressive home conditions, and others burdened by guilt, inferiority, or lowered morale. Main caution: immobilized heaviness: settled life may become so constricted that it turns depressive, punitive, or chronically stuck.
 
 ## Links
 
@@ -61,3 +55,5 @@ Others feel conscious of guilt. To feel limited and depressed through the domici
 - [Admetos](../factors/admetos.md)
 - [Saturn](../factors/saturn.md)
 - [Asc/Admetos](../axes/asc-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

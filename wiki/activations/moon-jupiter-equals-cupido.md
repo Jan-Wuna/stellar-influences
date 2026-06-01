@@ -3,7 +3,7 @@ title: Moon/Jupiter = Cupido
 page_type: activation
 slug: moon-jupiter-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Jupiter
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Jupiter
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Jupiter`
-- Source page: `125`
 #### Witte Entry
 
 The happy wedding participant. The bride. The happy hours of relaxation in the family. To be happy in company.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The happy wedding participant. The bride. The happy hours of relaxation in the family. To be happy in company.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful women's community, financial communities of a people, Freudc in a people community, common legal feeling, happy people's community, right of a people's community, and hour of joy in of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Jupiter = Cupido`: The happy wedding participant. The bride. The happy hours of relaxation in the family. To be happy in company.
+- Practical focus: domesticates `Moon/Jupiter` through family happiness, ceremony, and shared relaxation. It favors weddings, affectionate company, and contentment in close social circles, making emotional abundance most visible when it is lived together rather than enjoyed alone.
+- Practical expression: successful women's community, freudc in a people community, common legal feeling, happy people's community, and right of a people's community.
 
 ## Links
 
@@ -61,3 +57,5 @@ The happy wedding participant. The bride. The happy hours of relaxation in the f
 - [Jupiter](../factors/jupiter.md)
 - [Cupido](../factors/cupido.md)
 - [Moon/Jupiter](../axes/moon-jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

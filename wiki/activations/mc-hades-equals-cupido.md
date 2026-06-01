@@ -3,7 +3,7 @@ title: MC/Hades = Cupido
 page_type: activation
 slug: mc-hades-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Cupido
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Hades`
-- Source page: `71`
 #### Witte Entry
 
 Grief through married life, organizations or associations. I am worried about the future”.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Grief through married life, organizations or associations. I am worried about the future”.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Old soul community, common soul combination, I receive the community, criminal soul of a community, my service in the community, my sorrow of the community, my renunciation of the community, and my old community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Hades = Cupido` socializes the axis through grief in marriage, family, or organizations.
+- Chart expression: sorrow tied to communal or married life, worry about the future of groups, and belonging colored by anxiety, loss, or unhappy association.
 
 ## Links
 
@@ -61,3 +56,5 @@ Grief through married life, organizations or associations. I am worried about th
 - [Hades](../factors/hades.md)
 - [Cupido](../factors/cupido.md)
 - [MC/Hades](../axes/mc-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

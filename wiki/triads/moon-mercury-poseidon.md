@@ -3,7 +3,7 @@ title: Moon Mercury Poseidon
 page_type: triad_hub
 slug: moon-mercury-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Mercury
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Mercury Poseidon`
 - Astronomicon triad-set: `R T ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Poseidon = Moon](../activations/mercury-poseidon-equals-moon.md)
-  Source page `173`
 - [Moon/Mercury = Poseidon](../activations/moon-mercury-equals-poseidon.md)
-  Source page `122`
 - [Moon/Poseidon = Mercury](../activations/moon-poseidon-equals-mercury.md)
-  Source page `138`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Poseidon = Moon`: page `173`
-- `Moon/Mercury = Poseidon`: page `122`
-- `Moon/Poseidon = Mercury`: page `138`
+- `Mercury/Poseidon = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `173`
+- `Mercury/Poseidon = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `268`
+- `Moon/Mercury = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `122`
+- `Moon/Mercury = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `177`
+- `Moon/Poseidon = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `138`
+- `Moon/Poseidon = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `206`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Poseidon = Moon`: Women with a spiritual attitude. Spiritual man as the medium of an idea. Men who are possessed by an idea, who spread these ideas.
+- `Moon/Mercury = Poseidon`: This activation spiritualizes `Moon/Mercury` into enthusiasm, receptivity, and refined intellectual-emotional development. It favors thoughtful youth, higher education, and suggestible but idealistic feeling, so the mind becomes more inspired, impressionable, and open to elevated ideas.
+- `Moon/Poseidon = Mercury`: Conversations with people who are mentally inspired. Receptive of ideas. Born graphologist. Media who speak or write.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Mercury](../factors/mercury.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

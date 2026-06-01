@@ -3,7 +3,7 @@ title: Asc/Hades = Vulcanus
 page_type: activation
 slug: asc-hades-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - Hades
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Hades`
-- Source page: `92`
 #### Witte Entry
 
 To live in dangerous surroundings.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To live in dangerous surroundings.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+dangerous force in the environment, forceful renunciation on the spot, tremendous disadvantages through the partner, criminal power on the spot, powerful environmental pollution, disadvantages through violence on the spot, hidden influence of the partner, and hidden environmental influence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Hades = Vulcanus`: dangerous neighborhoods, powerful destructive currents, and an immediate field charged with coercive or physically threatening energy. Main caution: overwhelming hazard: degraded conditions become active menace rather than passive unpleasantness.
 
 ## Links
 
@@ -61,3 +55,5 @@ To live in dangerous surroundings.
 - [Hades](../factors/hades.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Asc/Hades](../axes/asc-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

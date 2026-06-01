@@ -3,7 +3,7 @@ title: Jupiter/Admetos = Apollon
 page_type: activation
 slug: jupiter-admetos-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Apollon
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Admetos`
-- Source page: `216`
 #### Witte Entry
 
 Lucky through contentment. Many people close together, but happy with each other. .
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Lucky through contentment. Many people close together, but happy with each other. .
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+enduring money proliferation, restricted money trade, restricted legal success, success through profound knowledge, consolidation of trade rights, money bullet in the cycle, general legal knowledge, and increasing money blocking
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Admetos = Apollon`: contented luck among many people gathered closely together, with happiness arising inside nearness and limitation rather than open expansion.
 
 ## Links
 
@@ -61,3 +55,5 @@ Lucky through contentment. Many people close together, but happy with each other
 - [Admetos](../factors/admetos.md)
 - [Apollon](../factors/apollon.md)
 - [Jupiter/Admetos](../axes/jupiter-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

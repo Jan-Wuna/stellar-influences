@@ -3,7 +3,7 @@ title: Moon/Admetos = Zeus
 page_type: activation
 slug: moon-admetos-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Zeus
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Admetos`
-- Source page: `135`
 #### Witte Entry
 
 To feel depressed at work. To work under pressure. To make up one’s mind.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To feel depressed at work. To work under pressure. To make up one’s mind.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Perseverance of a frail woman, limitation of fiery feelings, firm goals of a woman, performance restrictions in the people, gem tit depression after procreation, gross efforts of a woman, hour of creative deepening, and creating deep feelings
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Admetos = Zeus`: To feel depressed at work. To work under pressure. To make up one’s mind.
+- Practical expression: perseverance of a frail woman, limitation of fiery feelings, firm goals of a woman, performance restrictions in the people, and gem tit depression after procreation.
 
 ## Links
 
@@ -61,3 +56,5 @@ To feel depressed at work. To work under pressure. To make up one’s mind.
 - [Admetos](../factors/admetos.md)
 - [Zeus](../factors/zeus.md)
 - [Moon/Admetos](../axes/moon-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

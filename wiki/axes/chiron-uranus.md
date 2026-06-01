@@ -53,9 +53,6 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Chiron/Uranus midpoint`
-- Source page: `96`
-
 #### Principle
 
 The ability to be open-minded and because of this to see things in a new way by freeing oneself from limiting biases. Sudden messages coming from beyond, often manifesting in an unexpected or surprising form. The ability to recognize and interpret omens, signs, and portents. The ability to heal feelings of being alienated, isolated, or cut off. Helping others to bring out their unique gifts and talents and to accept and value their own uniqueness.
@@ -63,15 +60,6 @@ The ability to be open-minded and because of this to see things in a new way by 
 #### Process
 
 The progressive giving up of all biases, judgments and taken-forgranted notions of how spiritual forces may manifest. The ability to spontaneously and by inspi ration create shocks and surprises, often of a subtle nature, for the purpose of awaken ing others to the spiritual dimensions of life.
-
-## Comparative Schema
-
-- core meaning: source-native pair entries are preserved side by side above.
-- psychology: Sandbach contributes an explicit `Principle` and `Process` layer, while other sources retain their own native structure and vocabulary.
-- body/health: bodily or vitality implications remain embedded inside each source entry when present.
-- social/relationship: interpersonal implications remain attached to the source-native wording above instead of being flattened into one paraphrase.
-- events/manifestations: see the source entries above and the orientation-specific activation pages linked below.
-- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
 
 ## Related Activations
 
@@ -88,14 +76,11 @@ The progressive giving up of all biases, judgments and taken-forgranted notions 
 - [Chiron/Uranus = Sun](../activations/chiron-uranus-equals-sun.md)
 - [Chiron/Uranus = Venus](../activations/chiron-uranus-equals-venus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices and framework emphases rather than flattened into one interpretation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Chiron/Uranus`: healing through liberation: freeing oneself from limiting biases, receiving sudden messages from beyond, and helping oneself and others value uniqueness rather than alienation.
+- Chart expression: open-minded spiritual experimentation, to omens, portents, and surprising insights as valid healing channels, and to a progressive release of rigid assumptions so that awakening can happen. Liabilities: instability, rebellion for its own sake, attachment to shock or novelty, and using freedom language to avoid deeper integration.
 
 ## Links
 

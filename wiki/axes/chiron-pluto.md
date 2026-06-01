@@ -53,9 +53,6 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Chiron/Pluto midpoint`
-- Source page: `99`
-
 #### Principle
 
 A strong compulsion to overcoming egotism and to see it for what it is fear based. Feeling strongly urged, even pushed, by forces beyond oneself to grow by tran scending one’s limitations. The process of learning how to let through messages from beyond, as well as to accept them and act on them. Strong, persistent impulses that one must eventually follow. Chiron/Pluto heals the striving to acquire power for selfish reasons, and helps one to use power to encourage, guide, and assist others in their spiritual growth.
@@ -63,15 +60,6 @@ A strong compulsion to overcoming egotism and to see it for what it is fear base
 #### Process
 
 An intense desire to evolve creates situations that cause deep changes to occur. One feels the pressure of spiritual forces attempting to bring light and harmony to situations, and needs to not resist them.
-
-## Comparative Schema
-
-- core meaning: source-native pair entries are preserved side by side above.
-- psychology: Sandbach contributes an explicit `Principle` and `Process` layer, while other sources retain their own native structure and vocabulary.
-- body/health: bodily or vitality implications remain embedded inside each source entry when present.
-- social/relationship: interpersonal implications remain attached to the source-native wording above instead of being flattened into one paraphrase.
-- events/manifestations: see the source entries above and the orientation-specific activation pages linked below.
-- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
 
 ## Related Activations
 
@@ -88,14 +76,11 @@ An intense desire to evolve creates situations that cause deep changes to occur.
 - [Chiron/Pluto = Uranus](../activations/chiron-pluto-equals-uranus.md)
 - [Chiron/Pluto = Venus](../activations/chiron-pluto-equals-venus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices and framework emphases rather than flattened into one interpretation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Chiron/Pluto`: evolution under spiritual pressure: being pushed beyond egotism, meeting persistent forces that demand deep change, and learning to use power not for self-protection but for genuine healing and guidance.
+- Chart expression: an intense drive to grow, to messages from beyond that cannot be ignored forever, and to healing that works by bringing hidden motives, attachments, and power struggles into the light. Liabilities: obsession, fear-based striving for control, resisting necessary change, or using spiritual force as another way to dominate instead of to transform.
 
 ## Links
 

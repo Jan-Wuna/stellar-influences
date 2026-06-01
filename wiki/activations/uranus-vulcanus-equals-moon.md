@@ -3,7 +3,7 @@ title: Uranus/Vulcanus = Moon
 page_type: activation
 slug: uranus-vulcanus-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Uranus
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Vulcanus`
-- Source page: `242`
 #### Witte Entry
 
 Hours full of decision. Eventful hours. The public is very much provoked. Surprising appearance of power and might of a nation.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Hours full of decision. Eventful hours. The public is very much provoked. Surprising appearance of power and might of a nation.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Unsettling influence of the people, dynamic power of a people, power emergence of a people, power impulses of of women, powerful tensions in the people, violent influence of the refugees, strongly excited woman, strong tensions of the refugees, and Surprising influence of of women
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Vulcanus = Moon`: Hours full of decision. Eventful hours. The public is very much provoked. Surprising appearance of power and might of a nation.
+- Practical expression: unsettling influence of the people, dynamic power of a people, power emergence of a people, power impulses of of women, and powerful tensions in the people.
 
 ## Links
 
@@ -61,3 +56,5 @@ Hours full of decision. Eventful hours. The public is very much provoked. Surpri
 - [Vulcanus](../factors/vulcanus.md)
 - [Moon](../factors/moon.md)
 - [Uranus/Vulcanus](../axes/uranus-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

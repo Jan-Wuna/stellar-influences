@@ -3,7 +3,7 @@ title: Neptune/Hades = Moon
 page_type: activation
 slug: neptune-hades-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Neptune
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Hades`
-- Source page: `248`
 #### Witte Entry
 
 Deception, unpleasant things or want of clearness through female persons or in the public. Hydrocephalus. Death in small bodies of water. Cloudbursts.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Deception, unpleasant things or want of clearness through female persons or in the public. Hydrocephalus. Death in small bodies of water. Cloudbursts.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Insecure woman, there; unknown and hidden of woman, inconsistency deficiency of a woman, danger for a woman in water, sorrow by unclear ways, disadvantages of a people from the past, and water damage for a people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Hades = Moon`: Deception, unpleasant things or want of clearness through female persons or in the public. Hydrocephalus. Death in small bodies of water. Cloudbursts.
+- Practical focus: emotionalizes hidden decline through women, the public, or bodily fluids, bringing unpleasantness, clouded perception, and vulnerable collective or domestic conditions to the foreground.
+- Practical expression: insecure woman, there; unknown, hidden of woman, inconsistency deficiency of a woman, and danger for a woman in water.
 
 ## Links
 
@@ -61,3 +57,5 @@ Deception, unpleasant things or want of clearness through female persons or in t
 - [Hades](../factors/hades.md)
 - [Moon](../factors/moon.md)
 - [Neptune/Hades](../axes/neptune-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

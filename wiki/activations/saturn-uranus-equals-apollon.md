@@ -3,7 +3,7 @@ title: Saturn/Uranus = Apollon
 page_type: activation
 slug: saturn-uranus-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Uranus
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Uranus`
-- Source page: `221`
 #### Witte Entry
 
 To abandon an approved method. To be misguided. To split one s forces. Discord of many. Sudden separation from many.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To abandon an approved method. To be misguided. To split one s forces. Discord of many. Sudden separation from many.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Expansion of painful events, serious unrest in the economy, storten successRhythm, concentration on new knowledge, new problems of science, new extensive losses, sudden shocks in trade, and increasing refonn problems
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Uranus = Apollon`: to abandon an approved method, to be misguided, to split one's forces.
+- Practical expression: expansion of painful events, serious unrest in the economy, storten successRhythm, concentration on new knowledge, and new problems of science.
 
 ## Links
 
@@ -61,3 +56,5 @@ To abandon an approved method. To be misguided. To split one s forces. Discord o
 - [Uranus](../factors/uranus.md)
 - [Apollon](../factors/apollon.md)
 - [Saturn/Uranus](../axes/saturn-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

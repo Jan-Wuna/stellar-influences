@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Jupiter + Jupiter`
-- Source page: `205`
 #### Witte Entry
 
 “Ripe Old Age”. Inconstant success. Successful separations. Separates from luck. Buildings. Change of residence. To have no luck. Money losses. Contentment in being alone. Separation from happiness or happy separation. Basic separation formula for birth.
 
-## Comparative Schema
-
-- core meaning: “Ripe Old Age”. Inconstant success. Successful separations. Separates from luck. Buildings. Change of residence. To have no luck. Money losses. Contentment in being alone. Separation from happiness or happy separation. Basic separation formula for birth.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Jupiter = Neptune`: fortune becoming unstable, migratory, or solitary. It can show graceful withdrawal or peaceful aloneness, but also luck thinning out through separation, drift, or impermanence.
 
 ## Links
 

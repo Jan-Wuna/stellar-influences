@@ -3,7 +3,7 @@ title: Moon Kronos Apollon
 page_type: triad_hub
 slug: moon-kronos-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Kronos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Kronos Apollon`
 - Astronomicon triad-set: `R ¤ ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Kronos/Apollon = Moon](../activations/kronos-apollon-equals-moon.md)
-  Source page `299`
 - [Moon/Apollon = Kronos](../activations/moon-apollon-equals-kronos.md)
-  Source page `134`
 - [Moon/Kronos = Apollon](../activations/moon-kronos-equals-apollon.md)
-  Source page `133`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Kronos/Apollon = Moon`: page `299`
-- `Moon/Apollon = Kronos`: page `134`
-- `Moon/Kronos = Apollon`: page `133`
+- `Kronos/Apollon = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `299`
+- `Kronos/Apollon = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `460`
+- `Moon/Apollon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `134`
+- `Moon/Apollon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `201`
+- `Moon/Kronos = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `133`
+- `Moon/Kronos = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `199`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Kronos/Apollon = Moon`: the female scientist, scientific authority for others, and public-facing expertise such as judges, lawyers, or population science.
+- `Moon/Apollon = Kronos`: To lead great masses and be a model leader. Expanding people. Great leading people.
+- `Moon/Kronos = Apollon`: Greater demands in the office. More office hours. To hold several offices at same time.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Kronos](../factors/kronos.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

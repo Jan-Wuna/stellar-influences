@@ -3,10 +3,10 @@ title: Uranus/MC = Vulcanus
 page_type: activation
 slug: uranus-mc-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Uranus
+  - MC
   - Vulcanus
 normalized_formula: Uranus/MC = Vulcanus
 axis: Uranus/MC
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - MC
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Uranus`
-- Source page: `67`
 #### Witte Entry
 
 Irritable character. Suddenly using force.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Irritable character. Suddenly using force.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dynamic force of the soul, influence of a dynamic soul, influence by psychic impulses, enormous psychic tensions, powerful psychic arousal, my enormous restlessness, new psychic energy, and strong emotional restlessness
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/MC = Vulcanus`: Irritable character. Suddenly using force.
+- Practical expression: dynamic force of the soul, influence of a dynamic soul, influence by psychic impulses, enormous psychic tensions, and powerful psychic arousal.
 
 ## Links
 
@@ -61,3 +56,5 @@ Irritable character. Suddenly using force.
 - [MC](../factors/mc.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Uranus/MC](../axes/uranus-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

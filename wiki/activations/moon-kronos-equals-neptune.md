@@ -3,7 +3,7 @@ title: Moon/Kronos = Neptune
 page_type: activation
 slug: moon-kronos-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Neptune
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Kronos`
-- Source page: `133`
 #### Witte Entry
 
 Independent women unfit as managers. Leading women cause intrigues, failures. Officials and boards interfere in vain.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Independent women unfit as managers. Leading women cause intrigues, failures. Officials and boards interfere in vain.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Ignorance of a self defenced woman, respect for a woman, a woman's authoritarianity, exchange by the authority of a woman, a woman in the water, development of a woman in the state of health, a woman in the state of health, and a woman's health
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Kronos = Neptune`: Independent women unfit as managers. Leading women cause intrigues, failures. Officials and boards interfere in vain.
+- Practical expression: ignorance of a self defenced woman, respect for a woman, a woman's authoritarianity, exchange by the authority of a woman, and a woman in the water.
 
 ## Links
 
@@ -61,3 +56,5 @@ Independent women unfit as managers. Leading women cause intrigues, failures. Of
 - [Kronos](../factors/kronos.md)
 - [Neptune](../factors/neptune.md)
 - [Moon/Kronos](../axes/moon-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

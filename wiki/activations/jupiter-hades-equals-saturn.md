@@ -3,7 +3,7 @@ title: Jupiter/Hades = Saturn
 page_type: activation
 slug: jupiter-hades-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Saturn
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Hades`
-- Source page: `212`
 #### Witte Entry
 
 Unnecessary or wrong spending of money or poor investments. To be impoverished by shortage of money.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Unnecessary or wrong spending of money or poor investments. To be impoverished by shortage of money.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Burdening financial crime, success by patience at risk, concealing money problems, happiness due to deprivations in old age, disadvantages due to money loss, disadvantages due to legal problems, and problems due to money deficiency
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Hades = Saturn`: loss becoming fixed through bad judgment, restriction, or financial burden. It favors hard lessons about waste, limits, and the price of mismanaged resources.
 
 ## Links
 
@@ -61,3 +55,5 @@ Unnecessary or wrong spending of money or poor investments. To be impoverished b
 - [Hades](../factors/hades.md)
 - [Saturn](../factors/saturn.md)
 - [Jupiter/Hades](../axes/jupiter-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Mercury Asc Cupido
 page_type: triad_hub
 slug: mercury-asc-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Asc Cupido`
 - Astronomicon triad-set: `T Asc ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Cupido = Mercury](../activations/asc-cupido-equals-mercury.md)
-  Source page `91`
 - [Mercury/Asc = Cupido](../activations/mercury-asc-equals-cupido.md)
-  Source page `83`
 - [Mercury/Cupido = Asc](../activations/mercury-cupido-equals-asc.md)
-  Source page `166`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Cupido = Mercury`: page `91`
-- `Mercury/Asc = Cupido`: page `83`
-- `Mercury/Cupido = Asc`: page `166`
+- `Asc/Cupido = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `91`
+- `Asc/Cupido = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `121`
+- `Mercury/Asc = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `83`
+- `Mercury/Asc = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `107`
+- `Mercury/Cupido = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `166`
+- `Mercury/Cupido = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `254`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Cupido = Mercury`: thought centered on home, family, and apartment matters, along with messages or invitations into sociable domestic settings.
+- `Mercury/Asc = Cupido`: domesticates and socializes the Mercury/Asc axis through marriage, home, and association.
+- `Mercury/Cupido = Asc`: brings the axis into direct social contact and artistic company.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Asc](../factors/asc.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

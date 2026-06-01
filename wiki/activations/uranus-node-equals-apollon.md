@@ -3,10 +3,10 @@ title: Uranus/Node = Apollon
 page_type: activation
 slug: uranus-node-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Uranus
+  - Node
   - Apollon
 normalized_formula: Uranus/Node = Apollon
 axis: Uranus/Node
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Node
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Uranus`
-- Source page: `146`
 #### Witte Entry
 
 Sudden business connections or with scientists. A lot of tension in a relationship.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sudden business connections or with scientists. A lot of tension in a relationship.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Success through dynamic relationships, success impulses, new connections to knowledge, technical trade relations, new links to the economy, sudden expansion of a connection, and much tension in a relationship
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Node = Apollon`: Sudden business connections or with scientists. A lot of tension in a relationship.
+- Practical expression: success through dynamic relationships, success impulses, new connections to knowledge, technical trade relations, and new links to the economy.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sudden business connections or with scientists. A lot of tension in a relationsh
 - [Node](../factors/node.md)
 - [Apollon](../factors/apollon.md)
 - [Uranus/Node](../axes/uranus-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

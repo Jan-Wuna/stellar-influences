@@ -3,7 +3,7 @@ title: Saturn/Kronos = Cupido
 page_type: activation
 slug: saturn-kronos-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Cupido
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Kronos`
-- Source page: `227`
 #### Witte Entry
 
 Unsociable family life. An art which is maintained by government subsidies or which is not very lucrative. To be hindered by the authority in one’s artistic endeavor.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Unsociable family life. An art which is maintained by government subsidies or which is not very lucrative. To be hindered by the authority in one’s artistic endeavor.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+The Community's reputation, the loss of a community, the loss of a community by the state, the problems of a large community, the concentration on a special community, the maturity of a community, the loss of common independence, and important Community tasks
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Kronos = Cupido`: unsociable family life, an art which is maintained by government subsidies or which is not very lucrative.
+- Practical expression: the Community's reputation, the loss of a community, the loss of a community by the state, the problems of a large community, and the concentration on a special community.
 
 ## Links
 
@@ -61,3 +56,5 @@ Unsociable family life. An art which is maintained by government subsidies or wh
 - [Kronos](../factors/kronos.md)
 - [Cupido](../factors/cupido.md)
 - [Saturn/Kronos](../axes/saturn-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

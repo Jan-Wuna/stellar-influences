@@ -3,7 +3,7 @@ title: Hades Kronos Poseidon
 page_type: triad_hub
 slug: hades-kronos-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Kronos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Hades Kronos Poseidon`
 - Astronomicon triad-set: `¢ ¤ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Kronos = Poseidon](../activations/hades-kronos-equals-poseidon.md)
-  Source page `279`
 - [Hades/Poseidon = Kronos](../activations/hades-poseidon-equals-kronos.md)
-  Source page `286`
 - [Kronos/Poseidon = Hades](../activations/kronos-poseidon-equals-hades.md)
-  Source page `303`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Kronos = Poseidon`: page `279`
-- `Hades/Poseidon = Kronos`: page `286`
-- `Kronos/Poseidon = Hades`: page `303`
+- `Hades/Kronos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `279`
+- `Hades/Kronos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `441`
+- `Hades/Poseidon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `286`
+- `Hades/Poseidon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `449`
+- `Kronos/Poseidon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `303`
+- `Kronos/Poseidon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `467`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Kronos = Poseidon`: a base or mediocre view of life, plus lies, distortion, or wickedness in doctrine, ideology, or world outlook.
+- `Hades/Poseidon = Kronos`: great meanness and losses, especially from authorities or higher-ups, because of one's exceptional or separate position.
+- `Kronos/Poseidon = Hades`: base cultural attitude, low-grade spiritual or educational endeavor, and engagement with cultures of the past.
 
 ## Links
 
 - [Hades](../factors/hades.md)
 - [Kronos](../factors/kronos.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

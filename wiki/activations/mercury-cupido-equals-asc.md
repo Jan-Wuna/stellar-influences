@@ -3,7 +3,7 @@ title: Mercury/Cupido = Asc
 page_type: activation
 slug: mercury-cupido-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Asc
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Cupido`
-- Source page: `166`
 #### Witte Entry
 
 Socially conversing with others. Social intercourse with artists.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Socially conversing with others. Social intercourse with artists.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+others speak about art, media art in the environment, youth in a shared environment, young partner community, partner conversations about the community, speech art of the partner, environmental conversation community, and traffic community at the place
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Cupido = Asc` brings the axis into direct social contact and artistic company.
+- Chart expression: sociable conversation, easy exchange with others, and a personal environment shaped by artists, social intercourse, and aesthetically minded people.
 
 ## Links
 
@@ -61,3 +56,5 @@ Socially conversing with others. Social intercourse with artists.
 - [Cupido](../factors/cupido.md)
 - [Asc](../factors/asc.md)
 - [Mercury/Cupido](../axes/mercury-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Uranus/Poseidon = Apollon
 page_type: activation
 slug: uranus-poseidon-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Apollon
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Poseidon`
-- Source page: `243`
 #### Witte Entry
 
 Many people are mentally influenced, inspired or enlightened. Many are kept under tension. To find like-minded people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Many people are mentally influenced, inspired or enlightened. Many are kept under tension. To find like-minded people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Extension of a spiritual emanation, emancipation of cultural freedom, successful cultural emanation, new ideas of science, Surprising spread of truth, future impulses of freedom, and increasing new insights
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Poseidon = Apollon`: Many people are mentally influenced, inspired or enlightened. Many are kept under tension. To find like-minded people.
+- Practical expression: extension of a spiritual emanation, emancipation of cultural freedom, successful cultural emanation, new ideas of science, and surprising spread of truth.
 
 ## Links
 
@@ -61,3 +56,5 @@ Many people are mentally influenced, inspired or enlightened. Many are kept unde
 - [Poseidon](../factors/poseidon.md)
 - [Apollon](../factors/apollon.md)
 - [Uranus/Poseidon](../axes/uranus-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

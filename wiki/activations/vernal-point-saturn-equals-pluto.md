@@ -3,7 +3,7 @@ title: Vernal Point/Saturn = Pluto
 page_type: activation
 slug: vernal-point-saturn-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Saturn
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Saturn
   - Pluto
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Saturn`
-- Source page: `44`
 #### Witte Entry
 
 Matters come to a standstill. Slow, hindered developments. Beginning of a separation.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Matters come to a standstill. Slow, hindered developments. Beginning of a separation.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Burdensome developments in public, developmental problems in public life, harsh changes in public, concentration on public development, and loss filled transformations in public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Saturn = Pluto`: matters come to a standstill, slow, hindered developments, and beginning of a separation.
+- Practical expression: burdensome developments in public, developmental problems in public life, harsh changes in public, concentration on public development, and loss filled transformations in public life.
 
 ## Links
 
@@ -61,3 +56,5 @@ Matters come to a standstill. Slow, hindered developments. Beginning of a separa
 - [Saturn](../factors/saturn.md)
 - [Pluto](../factors/pluto.md)
 - [Vernal Point/Saturn](../axes/vernal-point-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

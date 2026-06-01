@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `MC + MC`
-- Source page: `57`
 #### Witte Entry
 
 One’s firmness, perseverance and steadfastness. To be insensible, apathetic, hard hearted. A conservative attitude. Standing on firm ground. Going back to the primary cause of things. To feel paralyzed. A dead soul. The moment (minute) of death.
 
-## Comparative Schema
-
-- core meaning: One’s firmness, perseverance and steadfastness. To be insensible, apathetic, hard hearted. A conservative attitude. Standing on firm ground. Going back to the primary cause of things. To feel paralyzed. A dead soul. The moment (minute) of death.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/MC = Admetos` hardens the axis into perseverance, emotional deadening, and standstill.
+- Chart expression: a conservative, immovable inner stance, deep firmness under pressure, and a self that can become apathetic, paralyzed, or reduced to bare endurance.
 
 ## Links
 

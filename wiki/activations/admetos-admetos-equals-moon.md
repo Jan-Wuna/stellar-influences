@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Admetos + Admetos`
-- Source page: `309`
 #### Witte Entry
 
 Stillness. Inner contemplation. Narrow-mindedness. Narrow conditions. The closed or locked room. Excluded from the public. Dying nation. Stoic character. Death of a female person. Hour of death. Change in the state of aggregation. Consolidation, freezing, thawing or softening.
 
-## Comparative Schema
-
-- core meaning: Stillness. Inner contemplation. Narrow-mindedness. Narrow conditions. The closed or locked room. Excluded from the public. Dying nation. Stoic character. Death of a female person. Hour of death. Change in the state of aggregation. Consolidation, freezing, thawing or softening.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Admetos/Admetos = Moon`: contemplation, stoic endurance, and slow processes of consolidation, freezing, thawing, or emotional hardening. Main caution: shut-in life: exclusion, coldness, narrow-mindedness, or feeling locked into grief, decline, or immobile conditions.
 
 ## Links
 

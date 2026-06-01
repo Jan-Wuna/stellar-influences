@@ -3,7 +3,7 @@ title: MC/Kronos = Pluto
 page_type: activation
 slug: mc-kronos-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - MC
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Kronos`
-- Source page: `73`
 #### Witte Entry
 
 E Tie desire to dominate. To be or to become a master. To develop skills over the average.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: E Tie desire to dominate. To be or to become a master. To develop skills over the average.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+with the boss, my own development, my growing self andigccit, developing psychic great, and growing dominance of the inner being
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Kronos = Pluto` deepens the axis through the desire to dominate and develop mastery.
+- Chart expression: transformative ambition, becoming a master through force of will, and building abilities that exceed the ordinary through sustained drive to rule or excel.
 
 ## Links
 
@@ -61,3 +56,5 @@ E Tie desire to dominate. To be or to become a master. To develop skills over th
 - [Kronos](../factors/kronos.md)
 - [Pluto](../factors/pluto.md)
 - [MC/Kronos](../axes/mc-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

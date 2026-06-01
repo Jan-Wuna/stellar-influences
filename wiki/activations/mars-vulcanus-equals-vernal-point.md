@@ -3,7 +3,7 @@ title: Mars/Vulcanus = Vernal Point
 page_type: activation
 slug: mars-vulcanus-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Mars
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Vulcanus`
-- Source page: `203`
 #### Witte Entry
 
 General energies, efforts or violent acts. Efforts in the field of climate, because of extremes heat or cold.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: General energies, efforts or violent acts. Efforts in the field of climate, because of extremes heat or cold.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+work force for the public, influence of public will, influential activity in public, violent activity in public, actions of public power, power of action of the public, and strong public work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Vulcanus = Vernal Point` makes strong force, effort, and violence broadly public or general in effect.
+- Chart expression: collective exertion, general violent acts, and large-scale struggles involving climate extremes, heat, cold, or other broad energetic pressures.
 
 ## Links
 
@@ -61,3 +56,5 @@ General energies, efforts or violent acts. Efforts in the field of climate, beca
 - [Vulcanus](../factors/vulcanus.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Mars/Vulcanus](../axes/mars-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

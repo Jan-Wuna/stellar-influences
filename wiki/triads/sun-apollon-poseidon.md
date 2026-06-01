@@ -3,7 +3,7 @@ title: Sun Apollon Poseidon
 page_type: triad_hub
 slug: sun-apollon-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Apollon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Apollon Poseidon`
 - Astronomicon triad-set: `S ¥ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Apollon/Poseidon = Sun](../activations/apollon-poseidon-equals-sun.md)
-  Source page `308`
 - [Sun/Apollon = Poseidon](../activations/sun-apollon-equals-poseidon.md)
-  Source page `115`
 - [Sun/Poseidon = Apollon](../activations/sun-poseidon-equals-apollon.md)
-  Source page `118`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Apollon/Poseidon = Sun`: page `308`
-- `Sun/Apollon = Poseidon`: page `115`
-- `Sun/Poseidon = Apollon`: page `118`
+- `Apollon/Poseidon = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `308`
+- `Apollon/Poseidon = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `472`
+- `Sun/Apollon = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `115`
+- `Sun/Apollon = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `167`
+- `Sun/Poseidon = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `118`
+- `Sun/Poseidon = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `173`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Apollon/Poseidon = Sun`: a person whose appearance and presence reveal mental and emotional attitude directly and unmistakably.
+- `Sun/Apollon = Poseidon`: This formula emphasizes inspiration or success through spiritual leadership and love of truth.
+- `Sun/Poseidon = Apollon`: This formula emphasizes inspiration that brings success and truth that spreads widely.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Apollon](../factors/apollon.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Mercury MC Poseidon
 page_type: triad_hub
 slug: mercury-mc-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury MC Poseidon`
 - Astronomicon triad-set: `T MC ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Poseidon = Mercury](../activations/mc-poseidon-equals-mercury.md)
-  Source page `77`
 - [Mercury/MC = Poseidon](../activations/mercury-mc-equals-poseidon.md)
-  Source page `62`
 - [Mercury/Poseidon = MC](../activations/mercury-poseidon-equals-mc.md)
-  Source page `173`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Poseidon = Mercury`: page `77`
-- `Mercury/MC = Poseidon`: page `62`
-- `Mercury/Poseidon = MC`: page `173`
+- `MC/Poseidon = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `77`
+- `MC/Poseidon = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `98`
+- `Mercury/MC = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `62`
+- `Mercury/MC = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `69`
+- `Mercury/Poseidon = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `173`
+- `Mercury/Poseidon = MC`: Udo Rudolph - ABC for Planetary Pictures, page `268`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Poseidon = Mercury`: mentalizes the axis into idealistic thought and clear ownership of ideas.
+- `Mercury/MC = Poseidon`: refines the axis into clear intellectual and spiritual orientation.
+- `Mercury/Poseidon = MC`: To appear spiritualized. To be the carrier of an idea. Elevated thinking.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [MC](../factors/mc.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

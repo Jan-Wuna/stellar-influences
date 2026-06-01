@@ -3,7 +3,7 @@ title: Hades/Apollon = Uranus
 page_type: activation
 slug: hades-apollon-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Hades
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Apollon`
-- Source page: `280`
 #### Witte Entry
 
 Sudden mean acts as consequence of previous mistakes. Old sins and failings react. The past mistakes and evil deeds are rubbed in. Astrology of the long past ages.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sudden mean acts as consequence of previous mistakes. Old sins and failings react. The past mistakes and evil deeds are rubbed in. Astrology of the long past ages.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Focus on new knowledge, experience adverse surprises, reform results through deprivation, tensions over hidden knowledge, much grief and nervousness, knowledge appreciation from the past, and increase in rhythm cancellations
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Apollon = Uranus`: previous failures or evils breaking back into consciousness in a disruptive way. Main caution: underestimating how suddenly buried history can reassert itself.
 
 ## Links
 
@@ -61,3 +55,5 @@ Sudden mean acts as consequence of previous mistakes. Old sins and failings reac
 - [Apollon](../factors/apollon.md)
 - [Uranus](../factors/uranus.md)
 - [Hades/Apollon](../axes/hades-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

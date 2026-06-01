@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Chiron Uranus Pluto`
 - Astronomicon triad-set: `Chiron X Z`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Chiron/Uranus = Pluto`: John, page `96`
 - `Uranus/Pluto = Chiron`: John, page `105`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Pluto = Uranus`: breakthrough healing, radical self-renewal, and profound change through liberated inspiration. Main caution: blowing up structures indiscriminately in the name of freedom.
+- `Chiron/Uranus = Pluto`: transformative liberation and profound pressure to become more open and real. Main caution: making emancipation another obsession or power struggle.
+- `Uranus/Pluto = Chiron`: One’s vibration helps others to open up and to be more free, and even eventu ally to instigate profound changes in one’s life.
 
 ## Links
 

@@ -3,7 +3,7 @@ title: Moon/Jupiter = Hades
 page_type: activation
 slug: moon-jupiter-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Jupiter
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Jupiter
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Jupiter`
-- Source page: `125`
 #### Witte Entry
 
 Easy going, happy woman. Happy hours in sad circumstances.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Easy going, happy woman. Happy hours in sad circumstances.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Success of a people through deprivation, financial disadvantage of a woman, financial crime in a people, lack of joy for a woman, lack of justice, poor rights of a woman, and legal disadvantages of a people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Jupiter = Hades`: Easy going, happy woman. Happy hours in sad circumstances.
+- Practical focus: places `Moon/Jupiter` in mixed conditions where ease survives inside difficulty. It can show good humor or emotional generosity persisting through sadness, poverty, or worn circumstances, so happiness here is real but touched by compromise, melancholy, or the need to make do.
+- Practical expression: success of a people through deprivation, financial disadvantage of a woman, financial crime in a people, lack of joy for a woman, and lack of justice.
 
 ## Links
 
@@ -61,3 +57,5 @@ Easy going, happy woman. Happy hours in sad circumstances.
 - [Jupiter](../factors/jupiter.md)
 - [Hades](../factors/hades.md)
 - [Moon/Jupiter](../axes/moon-jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

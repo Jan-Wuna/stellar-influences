@@ -3,7 +3,7 @@ title: Uranus/Apollon = Cupido
 page_type: activation
 slug: uranus-apollon-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Cupido
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Apollon`
-- Source page: `240`
 #### Witte Entry
 
 A community, family or partners are under tension. Sudden expansion in art. To create something new in science or art. Astrological association.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A community, family or partners are under tension. Sudden expansion in art. To create something new in science or art. Astrological association.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Extension of tensions in the Community, emancipation of science as a whole, joint freedom impulses, joint experiences emuem, new scientific communities, new technical knowledge, and technical successes for the whole
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Apollon = Cupido`: A community, family or partners are under tension. Sudden expansion in art. To create something new in science or art. Astrological association.
+- Practical expression: extension of tensions in the Community, emancipation of science as a whole, joint freedom impulses, joint experiences emuem, and new technical knowledge.
 
 ## Links
 
@@ -61,3 +56,5 @@ A community, family or partners are under tension. Sudden expansion in art. To c
 - [Apollon](../factors/apollon.md)
 - [Cupido](../factors/cupido.md)
 - [Uranus/Apollon](../axes/uranus-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

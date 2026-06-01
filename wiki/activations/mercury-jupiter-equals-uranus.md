@@ -19,8 +19,10 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -34,38 +36,32 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Jupiter`
-- Source page: `161`
 #### Witte Entry
 
 Quick at repartee. Agitators. Sudden financial information. Extensive conversations about technology. The sudden judgment.
 
-### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Planets activating the Mercury/Jupiter midpoint`
-- Source page: `44`
-- Activator: `Uranus`
+#### ABC Entry
+
+Excited speech about money, joy in rhythmic movement, joyful tension in tongues, words about renewal of rights, good technical reports, new traffic law, reform of youth law, and language success through technology
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
 A love of unusual ideas. An ability to put ideas together in one’s own unique way. Sudden and unpredictable episodes of pouring forth ideas. A strange, unusual or highly distinctive philosophy of life.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Breakthroughs in communication or scientific theory; sudden development of radical new means of increasing capacities for data transmission; the study or expansion of theories concerning astrology, computing, or science.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Jupiter = Uranus`: brilliant synthesis, progressive teaching, and the ability to expand understanding through unexpected angles or technical ingenuity. Main caution: unstable certainty: inspiration can become erratic, overexcited, or too quick to outrun practical grounding.
 
 ## Links
 
@@ -73,6 +69,7 @@ A love of unusual ideas. An ability to put ideas together in one’s own unique 
 - [Jupiter](../factors/jupiter.md)
 - [Uranus](../factors/uranus.md)
 - [Mercury/Jupiter](../axes/mercury-jupiter.md)
-- [Mercury Jupiter Uranus](../triads/mercury-jupiter-uranus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

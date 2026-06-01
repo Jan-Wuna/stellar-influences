@@ -3,7 +3,7 @@ title: Pluto/Kronos = Mercury
 page_type: activation
 slug: pluto-kronos-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Pluto
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Kronos`
-- Source page: `260`
 #### Witte Entry
 
 Thoughts, news, talks about great changes.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Thoughts, news, talks about great changes.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special development in youth, developments in youth in the state, language about the development of a hierarchy, news about major changes, self determined development in traffic, state traffic development, and important thought development
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Kronos = Mercury`: thoughts or discussions about advancement, rank or tested ability.
+- Practical expression: special development in youth, developments in youth in the state, language about the development of a hierarchy, news about major changes, and self determined development in traffic.
 
 ## Links
 
@@ -61,3 +56,5 @@ Thoughts, news, talks about great changes.
 - [Kronos](../factors/kronos.md)
 - [Mercury](../factors/mercury.md)
 - [Pluto/Kronos](../axes/pluto-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

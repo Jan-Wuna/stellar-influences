@@ -3,10 +3,10 @@ title: Moon/MC = Admetos
 page_type: activation
 slug: moon-mc-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Moon
+  - MC
   - Admetos
 normalized_formula: Moon/MC = Admetos
 axis: Moon/MC
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - MC
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Moon`
-- Source page: `60`
 #### Witte Entry
 
 To be closed, refusing or narrow-minded. Immobile in personal emotions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be closed, refusing or narrow-minded. Immobile in personal emotions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blockage of soul and mildness, depression of my wife, I restrict my life, my people are restricted, my wife is grilning, my deep feelings, V deepening of the female soul, and mental depression of the animals
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/MC = Admetos`: To be closed, refusing or narrow-minded. Immobile in personal emotions.
+- Practical focus: constricts `Moon/MC` into emotional reserve, fixed attitudes, and a narrowed inner posture. It often shows someone whose public or vocational feeling-life becomes closed off, stubborn, or slow to move, making private responsiveness harder to express and personal development more resistant to change.
+- Practical expression: blockage of soul, mildness, depression of my wife, i restrict my life, and my people are restricted.
 
 ## Links
 
@@ -61,3 +57,5 @@ To be closed, refusing or narrow-minded. Immobile in personal emotions.
 - [MC](../factors/mc.md)
 - [Admetos](../factors/admetos.md)
 - [Moon/MC](../axes/moon-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

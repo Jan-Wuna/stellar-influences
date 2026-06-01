@@ -3,7 +3,7 @@ title: Cupido/Poseidon = Jupiter
 page_type: activation
 slug: cupido-poseidon-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Cupido
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Poseidon`
-- Source page: `274`
 #### Witte Entry
 
 To feel happy in a spiritual, cultural or philosophical community. Luck and success with or through such associations.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To feel happy in a spiritual, cultural or philosophical community. Luck and success with or through such associations.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Cultural activity, effective Community action Findings of a financial community, common financial culture, shared joy in the truth, common legal clarity, common cultural law, and intellectual successes
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Poseidon = Jupiter`: worldview-based belonging becoming genuinely supportive, fortunate, or meaningful, often through education, faith, or refined culture. Main caution: assuming success proves the doctrine itself is sound.
 
 ## Links
 
@@ -61,3 +55,5 @@ To feel happy in a spiritual, cultural or philosophical community. Luck and succ
 - [Poseidon](../factors/poseidon.md)
 - [Jupiter](../factors/jupiter.md)
 - [Cupido/Poseidon](../axes/cupido-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

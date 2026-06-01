@@ -58,11 +58,12 @@ aliases:
   - Asc/Neptune
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -75,17 +76,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune/Ascendant`
-- Source page: `286`
-
 #### Pair Summary
 
 To be deceived. Wrongly connected. Others are negative, irresolute or prejudiced. Others say “No”. Want of clearness in relations with others. To be deceived or avoided by others. Uncertain, doubtful, precarious, unsteady situations in relation to a location.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Neptune/Ascendant`
-- Source page: `286`
+#### ABC Pair Summary
+
+Others in the air, exchanged partners, expectation of the other, subtle environment, foreign place, weak partner, sensitive partner, uncertain environment, unsafe partner, refinement of the environment, and water as/in the environment
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -109,9 +110,6 @@ Insincere people, liars, crooks. Sensitives, mediums.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Neptune/Ascendant midpoint`
-- Source page: `112`
-
 #### Principle
 
 To identify with one’s ideals. To have a subtle, profound, deep or mysterious personality. Confusion concerning who one is. To be misconstrued by other people, or idealized by them. The ability to experiences many different layers within the self. Un certainty, confusion, deception or other forms of unreality in one’s relationships.
@@ -122,17 +120,11 @@ The intuitive perception of deeper layers beneath one’s identity. The exalting
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Neptune/Ascendant`
-- Source page: `212`
-
 #### Pair Delineation
 
 Close relationships that involve self-sacrifice, or that require one person to care for another who is in difficulty. Highly idealistic relationships, platonic relationships. Relationships that are not honest or not what they appear to be.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `NEPTUNE/ASCENDANT`
-- Source page: `335`
 
 #### Basic Ideas
 
@@ -161,15 +153,6 @@ Enhanced needs for using drugs to alter reality; an affinity or craving for diff
 
 - [Michael Munkasey - Neptune/Asc Concepts](../derived/munkasey-neptune-asc-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Neptune/Asc = Admetos](../activations/neptune-asc-equals-admetos.md)
@@ -194,20 +177,18 @@ Enhanced needs for using drugs to alter reality; an affinity or craving for diff
 - [Neptune/Asc = Vulcanus](../activations/neptune-asc-equals-vulcanus.md)
 - [Neptune/Asc = Zeus](../activations/neptune-asc-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Asc` is the axis of impressionable identity, porous boundaries, and relationships colored by idealization, sympathy, or ambiguity. It combines sensitivity, imagination, intuition, and sacrifice with personality, appearance, and the way one meets and is perceived by others.
+- Chart expression: empathy, subtle charm, mystical or artistic presence, and a personality that reads and absorbs more than it can easily define. Liabilities: confusion about self, projection, deception, exploitation, blurred relationship boundaries, and a tendency either to idealize others or to become unreadable and elusive oneself.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [Asc](../factors/asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)

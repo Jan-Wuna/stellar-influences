@@ -3,7 +3,7 @@ title: Asc/Zeus = Admetos
 page_type: activation
 slug: asc-zeus-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - Zeus
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Zeus`
-- Source page: `93`
 #### Witte Entry
 
 To be forced to conquer obstacles and opposition. To be forced to start, commence, or to take up. Others are confronted with obstacles and strong resistance.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be forced to conquer obstacles and opposition. To be forced to start, commence, or to take up. Others are confronted with obstacles and strong resistance.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exhaustive environmental design, starting depression at the partner, restricted environmental goals, grilndliche location guidance, grilndliche partner goals, performance limitation by others, environmental efforts block, and resistance to the location guidance
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Zeus = Admetos`: blocked action, work that only moves through endurance, and an environment where effort meets stubborn resistance. Main caution: strain without flow: pressure builds around impediments.
 
 ## Links
 
@@ -61,3 +55,5 @@ To be forced to conquer obstacles and opposition. To be forced to start, commenc
 - [Zeus](../factors/zeus.md)
 - [Admetos](../factors/admetos.md)
 - [Asc/Zeus](../axes/asc-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

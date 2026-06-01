@@ -3,7 +3,7 @@ title: Apollon/Poseidon = Jupiter
 page_type: activation
 slug: apollon-poseidon-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Apollon
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Apollon
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Apollon + Poseidon`
-- Source page: `308`
 #### Witte Entry
 
 Congenial with others who share in the same mental and emotional disposition.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Congenial with others who share in the same mental and emotional disposition.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful legal culture, joy through knowledge of the mind, joy over success ideas, clear legal success, effective legal knowledge, reliable money increase, lots of money filr cine idea, and increasing legal knowledge
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Poseidon = Jupiter`: encouraging alliances, expansive agreement of outlook, and the happy enlargement of cultured or spiritual companionship. Main caution: optimistic idealization: harmony of mind may be assumed too quickly and gloss over real difference.
 
 ## Links
 
@@ -61,3 +55,5 @@ Congenial with others who share in the same mental and emotional disposition.
 - [Poseidon](../factors/poseidon.md)
 - [Jupiter](../factors/jupiter.md)
 - [Apollon/Poseidon](../axes/apollon-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

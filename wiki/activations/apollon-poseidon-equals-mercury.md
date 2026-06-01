@@ -3,7 +3,7 @@ title: Apollon/Poseidon = Mercury
 page_type: activation
 slug: apollon-poseidon-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Apollon
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Apollon
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Apollon + Poseidon`
-- Source page: `308`
 #### Witte Entry
 
 Discussion with congenial persons. Conferences, debates.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Discussion with congenial persons. Conferences, debates.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful spiritual language, successful cultural reports, successful language culture, thoughts on the freedom of the mind, extensive cultural knowledge, truth experiences with the media, and increasing knowledge in youth
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Poseidon = Mercury`: intellectual networks, philosophical conversation, and speech that spreads or refines shared ideas. Main caution: talk replacing substance: debate can circulate worldview endlessly without grounding or genuine testing.
 
 ## Links
 
@@ -61,3 +55,5 @@ Discussion with congenial persons. Conferences, debates.
 - [Poseidon](../factors/poseidon.md)
 - [Mercury](../factors/mercury.md)
 - [Apollon/Poseidon](../axes/apollon-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

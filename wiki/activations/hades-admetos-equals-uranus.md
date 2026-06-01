@@ -3,7 +3,7 @@ title: Hades/Admetos = Uranus
 page_type: activation
 slug: hades-admetos-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Hades
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Admetos`
-- Source page: `284`
 #### Witte Entry
 
 Grave event. Suddenly appearing want, need or poverty. Sudden serious enmity. Sudden slide of the earth or of firm things. To be buried under something.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Grave event. Suddenly appearing want, need or poverty. Sudden serious enmity. Sudden slide of the earth or of firm things. To be buried under something.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dangerous technical cycle, grief caused by new barriers, sudden circulatory danger, nervousness due to poor working conditions, condensation of dangerous tensions, and deepening into past rhythms
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Admetos = Uranus`: scarcity and attrition becoming suddenly catastrophic rather than merely chronic. Main caution: underestimating how quickly a strained condition can break.
 
 ## Links
 
@@ -61,3 +55,5 @@ Grave event. Suddenly appearing want, need or poverty. Sudden serious enmity. Su
 - [Admetos](../factors/admetos.md)
 - [Uranus](../factors/uranus.md)
 - [Hades/Admetos](../axes/hades-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

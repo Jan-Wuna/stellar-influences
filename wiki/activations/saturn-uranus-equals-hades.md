@@ -3,7 +3,7 @@ title: Saturn/Uranus = Hades
 page_type: activation
 slug: saturn-uranus-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Uranus
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Uranus`
-- Source page: `221`
 #### Witte Entry
 
 Sudden separation through vulgarity and treachery. Losses trough violence. Old technology in idle mode. Permanent shut down of technical equipment.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sudden separation through vulgarity and treachery. Losses trough violence. Old technology in idle mode. Permanent shut down of technical equipment.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exciting losses due to criminality, mysterious rhythm torment, adverse concentration on technology, new problems from the past, sudden shocks from the hidden, sudden loss danger, and surprising painful renunciation
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Uranus = Hades`: sudden separation through vulgarity and treachery, losses trough violence, old technology in idle mode.
+- Practical expression: exciting losses due to criminality, mysterious rhythm torment, adverse concentration on technology, new problems from the past, and sudden shocks from the hidden.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sudden separation through vulgarity and treachery. Losses trough violence. Old t
 - [Uranus](../factors/uranus.md)
 - [Hades](../factors/hades.md)
 - [Saturn/Uranus](../axes/saturn-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Node MC Hades
 page_type: triad_hub
 slug: node-mc-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Node MC Hades`
 - Astronomicon triad-set: `g MC ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Hades = Node](../activations/mc-hades-equals-node.md)
-  Source page `71`
 - [Node/Hades = MC](../activations/node-hades-equals-mc.md)
-  Source page `150`
 - [Node/MC = Hades](../activations/node-mc-equals-hades.md)
-  Source page `61`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Hades = Node`: page `71`
-- `Node/Hades = MC`: page `150`
-- `Node/MC = Hades`: page `61`
+- `MC/Hades = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `71`
+- `MC/Hades = Node`: Udo Rudolph - ABC for Planetary Pictures, page `86`
+- `Node/Hades = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `150`
+- `Node/Hades = MC`: Udo Rudolph - ABC for Planetary Pictures, page `226`
+- `Node/MC = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `61`
+- `Node/MC = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `67`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Hades = Node`: joins the axis to troubled, disloyal, or burdensome relationships.
+- `Node/Hades = MC`: To be forced to deal with base and vulgar people. To have to stand for insults and abuse. To be connected professionally with criminals. A “fence”.
+- `Node/MC = Hades`: To be linked with evil things, old or historical matters. To suffer a mental depression in a relationship.
 
 ## Links
 
 - [Node](../factors/node.md)
 - [MC](../factors/mc.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Mars/Admetos = Pluto
 page_type: activation
 slug: mars-admetos-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Pluto
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Admetos`
-- Source page: `202`
 #### Witte Entry
 
 Discarded plans. Dwindling development. The stock market shows sinking tendencies. Profound planning in a special domain. Breaking down of present conditions changes things.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Discarded plans. Dwindling development. The stock market shows sinking tendencies. Profound planning in a special domain. Breaking down of present conditions changes things.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+develop, activate the fluid cycle, thorough changes in work, transformational activity with primordial material, and growing impulses of depression
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Admetos = Pluto`: discarded plans, sinking markets, dwindling development, and deep planning inside a special domain as old conditions collapse.
+- Chart expression: restructuring through breakdown, where present arrangements must be reduced or dismantled before new movement can occur.
 
 ## Links
 
@@ -61,3 +56,5 @@ Discarded plans. Dwindling development. The stock market shows sinking tendencie
 - [Admetos](../factors/admetos.md)
 - [Pluto](../factors/pluto.md)
 - [Mars/Admetos](../axes/mars-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Jupiter`
-- Source page: `86`
 #### Witte Entry
 
 Sudden luck with others or through others.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Jupiter/Ascendant`
-- Source page: `241`
-- Entry: `0849`
+#### ABC Entry
+
+Exciting success with the partner, successful Tcchnik at the place, joyful exploration in the environment, happy event at the place, partncr spans wggen money, Rchts Ercignis at the place, and surprising satisfaction of the partner
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Optimistic attitude toward others, a lucky hand in the guidance of other people 
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Jupiter/Ascendant midpoint`
-- Source page: `85`
-- Activator: `Uranus`
-
 #### Sandbach Entry
 
 A sudden or unexpected expression of enthusiasm. The growth of one’s per sonality can happen quickly, suddenly, or erratically.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Bursts in on others and greets them loudly or in unusual ways; suddenly comes upon people who need help and a kind word; unique ways of making others feel comfortable when in your surroundings; many friends.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Asc = Uranus`: fortunate breaks, innovative contacts, and sudden enthusiasm that can quickly enlarge the native's world. Main caution: instability: growth can come erratically, and excitement may tempt the native to move faster than judgment or continuity can support.
 
 ## Links
 
@@ -84,7 +76,8 @@ A sudden or unexpected expression of enthusiasm. The growth of one’s per sonal
 - [Asc](../factors/asc.md)
 - [Uranus](../factors/uranus.md)
 - [Jupiter/Asc](../axes/jupiter-asc.md)
-- [Jupiter Uranus Asc](../triads/jupiter-uranus-asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

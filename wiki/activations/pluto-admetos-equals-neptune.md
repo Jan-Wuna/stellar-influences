@@ -3,7 +3,7 @@ title: Pluto/Admetos = Neptune
 page_type: activation
 slug: pluto-admetos-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Pluto
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Admetos`
-- Source page: `262`
 #### Witte Entry
 
 One experiences deep changes in the near future. Coming events develop below the surface and can be noticed in small symptoms.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: One experiences deep changes in the near future. Coming events develop below the surface and can be noticed in small symptoms.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked development of the future, development of a FIU, restricted development in air or water, regressive alteration by fine tuning, alteration by congestion water, and change between solid and liquid see above
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Admetos = Neptune`: one experiences deep changes in the near future; Coming events develop below the surface and can be noticed in small symptoms.
+- Practical expression: blocked development of the future, development of a FIU, restricted development in air or water, regressive alteration by fine tuning, and alteration by congestion water.
 
 ## Links
 
@@ -61,3 +56,5 @@ One experiences deep changes in the near future. Coming events develop below the
 - [Admetos](../factors/admetos.md)
 - [Neptune](../factors/neptune.md)
 - [Pluto/Admetos](../axes/pluto-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Vulcanus/Poseidon = Admetos
 page_type: activation
 slug: vulcanus-poseidon-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vulcanus
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Admetos
   - Vulcanus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vulcanus + Poseidon`
-- Source page: `315`
 #### Witte Entry
 
 To enjoy esteem and respect in a small circle.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To enjoy esteem and respect in a small circle.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked mental energy, depression through mental violence, curtailment of mental violence. Condensing mental energies, grilning influence of an Idea, grilning cultural influence, vemilnftige power strengthening, and resistance against mental violence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vulcanus/Poseidon = Admetos`: To enjoy esteem and respect in a small circle.
+- Practical expression: blocked mental energy, depression through mental violence, and curtailment of mental violence. Condensing mental energies.
 
 ## Links
 
@@ -61,3 +56,5 @@ To enjoy esteem and respect in a small circle.
 - [Poseidon](../factors/poseidon.md)
 - [Admetos](../factors/admetos.md)
 - [Vulcanus/Poseidon](../axes/vulcanus-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

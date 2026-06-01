@@ -3,10 +3,10 @@ title: Venus/Node = Vulcanus
 page_type: activation
 slug: venus-node-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Venus
+  - Node
   - Vulcanus
 normalized_formula: Venus/Node = Vulcanus
 axis: Venus/Node
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Node
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Venus`
-- Source page: `142`
 #### Witte Entry
 
 Longing for harmony with a soul equally attuned. Harmony of the soul with others. Passionate in love affairs.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Longing for harmony with a soul equally attuned. Harmony of the soul with others. Passionate in love affairs.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+energetic bond through love, influential connections to art, violence in a love relationship, force of a love relationship, powerful peace contacts, strength of a harmonious connection, and benevolent influence of a connection
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Node = Vulcanus`: longing for harmony with a soul equally attuned.
+- Practical expression: energetic bond through love, influential connections to art, violence in a love relationship, force of a love relationship, and powerful peace contacts.
 
 ## Links
 
@@ -61,3 +56,5 @@ Longing for harmony with a soul equally attuned. Harmony of the soul with others
 - [Node](../factors/node.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Venus/Node](../axes/venus-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

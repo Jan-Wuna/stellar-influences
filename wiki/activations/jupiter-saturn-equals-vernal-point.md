@@ -3,7 +3,7 @@ title: Jupiter/Saturn = Vernal Point
 page_type: activation
 slug: jupiter-saturn-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Saturn
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Jupiter
   - Saturn
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Saturn`
-- Source page: `207`
 #### Witte Entry
 
 Separation favored by good fortune. Change of place. Real estate.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Separation favored by good fortune. Change of place. Real estate.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+I at the very happy with age, my success through concentration, my GILick is the duty, my advantage through patience, my successful separations, my financial problems, my legal problems, and spelen pleasure in old age
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Saturn = Vernal Point`: progress through relocation, strategic distance, or public repositioning. It favors constructive change when one accepts that separation can be part of stable growth.
 
 ## Links
 
@@ -61,3 +55,5 @@ Separation favored by good fortune. Change of place. Real estate.
 - [Saturn](../factors/saturn.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Jupiter/Saturn](../axes/jupiter-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

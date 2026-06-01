@@ -3,7 +3,7 @@ title: Neptune/Apollon = Hades
 page_type: activation
 slug: neptune-apollon-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Hades
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Apollon`
-- Source page: `251`
 #### Witte Entry
 
 Chemical science. To drain, to water. Ill vapors, gases, bad smelling matters.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Chemical science. To drain, to water. Ill vapors, gases, bad smelling matters.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dangerous metaphysical experiences, dangerous amounts of water, adverse spread of uncertainty, uncertainty through economic crime, hidden metaphysical knowledge, increased air pollution, and renunciation of future knowledge
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Apollon = Hades`: Chemical science. To drain, to water. Ill vapors, gases, bad smelling matters.
+- Practical focus: degrades `Neptune/Apollon` into toxic mixtures, foul vapors, and the lower or more noxious side of chemistry and mass atmosphere. It points to broad contamination or science turned toward draining, corruption, and unpleasant material consequence.
+- Practical expression: dangerous metaphysical experiences, dangerous amounts of water, adverse spread of uncertainty, uncertainty through economic crime, and hidden metaphysical knowledge.
 
 ## Links
 
@@ -61,3 +57,5 @@ Chemical science. To drain, to water. Ill vapors, gases, bad smelling matters.
 - [Apollon](../factors/apollon.md)
 - [Hades](../factors/hades.md)
 - [Neptune/Apollon](../axes/neptune-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

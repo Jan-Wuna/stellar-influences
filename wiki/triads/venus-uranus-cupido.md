@@ -3,7 +3,7 @@ title: Venus Uranus Cupido
 page_type: triad_hub
 slug: venus-uranus-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Uranus
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Uranus Cupido`
 - Astronomicon triad-set: `Q X ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Uranus/Cupido = Venus](../activations/uranus-cupido-equals-venus.md)
-  Source page `236`
 - [Venus/Cupido = Uranus](../activations/venus-cupido-equals-uranus.md)
-  Source page `182`
 - [Venus/Uranus = Cupido](../activations/venus-uranus-equals-cupido.md)
-  Source page `179`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Uranus/Cupido = Venus`: page `236`
-- `Venus/Cupido = Uranus`: page `182`
-- `Venus/Uranus = Cupido`: page `179`
+- `Uranus/Cupido = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `236`
+- `Uranus/Cupido = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `374`
+- `Venus/Cupido = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `182`
+- `Venus/Cupido = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `283`
+- `Venus/Uranus = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `179`
+- `Venus/Uranus = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `277`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Venus/Cupido = Uranus`: sudden marital happiness.
+- `Venus/Uranus = Cupido`: sudden love with quick marriage.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Uranus](../factors/uranus.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

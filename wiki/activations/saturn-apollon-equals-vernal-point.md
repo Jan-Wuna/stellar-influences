@@ -3,7 +3,7 @@ title: Saturn/Apollon = Vernal Point
 page_type: activation
 slug: saturn-apollon-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Saturn
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Apollon`
-- Source page: `228`
 #### Witte Entry
 
 Many separate. To separate from many or from the generality.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Many separate. To separate from many or from the generality.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Old knowledge in public, tasks of public trade, expansion of public problems, success in public through patience, freedom loss in public life, public success in old age, and public trade losses
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Apollon = Vernal Point`: many separate, to separate from many or from the generality.
+- Practical expression: old knowledge in public, tasks of public trade, expansion of public problems, success in public through patience, and freedom loss in public life.
 
 ## Links
 
@@ -61,3 +56,5 @@ Many separate. To separate from many or from the generality.
 - [Apollon](../factors/apollon.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Saturn/Apollon](../axes/saturn-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

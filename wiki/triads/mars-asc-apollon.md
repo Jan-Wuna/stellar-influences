@@ -3,7 +3,7 @@ title: Mars Asc Apollon
 page_type: triad_hub
 slug: mars-asc-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Asc Apollon`
 - Astronomicon triad-set: `U Asc ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Apollon = Mars](../activations/asc-apollon-equals-mars.md)
-  Source page `95`
 - [Mars/Apollon = Asc](../activations/mars-apollon-equals-asc.md)
-  Source page `201`
 - [Mars/Asc = Apollon](../activations/mars-asc-equals-apollon.md)
-  Source page `85`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Apollon = Mars`: page `95`
-- `Mars/Apollon = Asc`: page `201`
-- `Mars/Asc = Apollon`: page `85`
+- `Asc/Apollon = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `95`
+- `Asc/Apollon = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `130`
+- `Mars/Apollon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `201`
+- `Mars/Apollon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `316`
+- `Mars/Asc = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `85`
+- `Mars/Asc = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `111`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Apollon = Mars`: outward expansion through business tasks, active exchange, and practical or research-driven engagement.
+- `Mars/Apollon = Asc`: active cooperation with others in trade, science, or commerce and a personal field organized around shared enterprise.
+- `Mars/Asc = Apollon`: turns assertive presence toward broad cooperation, especially shared technical, scientific, or economic activity with others.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Asc](../factors/asc.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

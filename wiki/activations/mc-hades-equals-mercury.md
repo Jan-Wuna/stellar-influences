@@ -3,7 +3,7 @@ title: MC/Hades = Mercury
 page_type: activation
 slug: mc-hades-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - MC
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Hades`
-- Source page: `71`
 #### Witte Entry
 
 Ponderous thoughts. Stupidity. To keep bad things to oneself. To meditate about miserable things. Wishing evil on others. A bad moment for plans or decisions. Problematic attitude in ideas, plans, talking or writing.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Ponderous thoughts. Stupidity. To keep bad things to oneself. To meditate about miserable things. Wishing evil on others. A bad moment for plans or decisions. Problematic attitude in ideas, plans, talking or writing.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+I at the thinking of the past, my sorrow in youth, my language of privation, my flawed writing, my hidden thoughts, and my psychic youth crime
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Hades = Mercury` mentalizes the axis into heavy thought, bad intentions, and problematic planning.
+- Chart expression: ponderous thinking, miserable reflection, harmful wishes, and ideas, speech, or decisions shaped by gloom, secrecy, or mental distortion.
 
 ## Links
 
@@ -61,3 +56,5 @@ Ponderous thoughts. Stupidity. To keep bad things to oneself. To meditate about 
 - [Hades](../factors/hades.md)
 - [Mercury](../factors/mercury.md)
 - [MC/Hades](../axes/mc-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

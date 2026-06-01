@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `MC + MC`
-- Source page: `57`
 #### Witte Entry
 
 The divine spark in men. The own intellectual aspiration for knowledge and education. Deep thinker, or seeking to be one. One’s own intellectual knowledge, education or mental skills. One’s own higher self-image or aspiration. To give life to a project or plan. The moment of a large flooding.
 
-## Comparative Schema
-
-- core meaning: The divine spark in men. The own intellectual aspiration for knowledge and education. Deep thinker, or seeking to be one. One’s own intellectual knowledge, education or mental skills. One’s own higher self-image or aspiration. To give life to a project or plan. The moment of a large flooding.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/MC = Poseidon` spiritualizes the axis through aspiration, higher knowledge, and the divine spark.
+- Chart expression: a self-image shaped by education, deep thought, idealized mental goals, and the wish to animate life through intellect, meaning, and higher purpose.
 
 ## Links
 

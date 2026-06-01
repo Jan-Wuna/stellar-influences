@@ -58,11 +58,12 @@ aliases:
   - MC/Neptune
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -75,17 +76,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune/Medium Coeli`
-- Source page: `289`
-
 #### Pair Summary
 
 To decline. To refuse something. To be unsure, unable to support. Unintelligible attitude. To follow wrong ideas. “I deceive”. Untruth. Falsehood. Swindle. To be intuitive. To concentrate on the future. To follow the unknown, the doubtful. To be disappointed. To appear unreliable or mysterious. To feel uncomfortable. Moment (minute) of uncertainty.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Neptune/Medium Coeli`
-- Source page: `289`
+#### ABC Pair Summary
+
+I in water, my breath, my premonitions, my sensitivity, my intuition, my weakness, my sensitiveness, my deceptions, my uncertainty, my future, disappointment in the soul, and spiritual sensitivity
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -109,9 +110,6 @@ People with Utopian ideas, crooks or swindlers. "Man of big talk but not of acti
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Neptune/Midheaven midpoint`
-- Source page: `113`
-
 #### Principle
 
 The need to allow one’s intuition to guide one’s progress. The need to listen to the subtle messages coming from the spiritual realms. Unformed, chaotic or confus ing energies affecting one’s career, which can be resolved the more one listens to and follows one’s intuition. A career involving idealism and/ or the use of one’s imagination, or possibly one involving humanitarian work.
@@ -122,17 +120,11 @@ The dedication of oneself to the bettering and uplifting of society. The sharing
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Neptune/Midheaven`
-- Source page: `212`
-
 #### Pair Delineation
 
 Weak or sensitive ego. The feeling of being unable to stand alone. Tendency to be easily influenced in one's life course by others. Lack of clear consciousness of objective. Spiritual or idealistic life directions, often involving self-sacrifice or self-denial. Often connected with psychic ability.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `NEPTUNE/MIDHEAVEN`
-- Source page: `339`
 
 #### Basic Ideas
 
@@ -161,15 +153,6 @@ May bring a genetic weakness or body reaction to certain allergens, drugs, alcoh
 
 - [Michael Munkasey - Neptune/MC Concepts](../derived/munkasey-neptune-mc-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Neptune/MC = Admetos](../activations/neptune-mc-equals-admetos.md)
@@ -194,20 +177,18 @@ May bring a genetic weakness or body reaction to certain allergens, drugs, alcoh
 - [Neptune/MC = Vulcanus](../activations/neptune-mc-equals-vulcanus.md)
 - [Neptune/MC = Zeus](../activations/neptune-mc-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/MC` is the axis of idealistic but uncertain vocation, visionary life direction, and public identity shaped by imagination, sacrifice, or subtle influence. It combines dream, intuition, compassion, and unreality with ambition, status, self-definition, and the search for a role in the world.
+- Chart expression: humanitarian, artistic, mystical, or symbolic callings, and to a life path guided more by intuition or ideals than by hard worldly certainty. Liabilities: aimlessness, insecurity, deception, public confusion, susceptibility to misleading influences, and career or purpose that dissolves when ideals are not grounded in practical form.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)

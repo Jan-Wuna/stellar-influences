@@ -3,10 +3,10 @@ title: Venus/MC = Hades
 page_type: activation
 slug: venus-mc-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Venus
+  - MC
   - Hades
 normalized_formula: Venus/MC = Hades
 axis: Venus/MC
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - MC
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Venus`
-- Source page: `63`
 #### Witte Entry
 
 Preference for base love. Attracted to base love or immorality.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Preference for base love. Attracted to base love or immorality.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Danger to my harmony, dangerous soul peace, lack of soul peace, my lack of love, my lack of harmony, my love, my past love, my renunciation of love, and my preference for criminality
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/MC = Hades`: preference for base love.
+- Practical expression: danger to my harmony, dangerous soul peace, lack of soul peace, my lack of love, and my lack of harmony.
 
 ## Links
 
@@ -61,3 +56,5 @@ Preference for base love. Attracted to base love or immorality.
 - [MC](../factors/mc.md)
 - [Hades](../factors/hades.md)
 - [Venus/MC](../axes/venus-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Jupiter/Admetos = Kronos
 page_type: activation
 slug: jupiter-admetos-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Kronos
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Admetos`
-- Source page: `216`
 #### Witte Entry
 
 Expenses. Great spending of money. High financial burden. Raw material deposit.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Expenses. Great spending of money. High financial burden. Raw material deposit.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked legal authority, blocked funds of the state, shrunken legal state, consolidation of the legal state, large money blockade, state money circle, deepening into state law, and important success through perseverance
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Admetos = Kronos`: wealth tied to weight and obligation. It can show large purchases, resource holdings, or high-level financial pressure carried with relative steadiness.
 
 ## Links
 
@@ -61,3 +55,5 @@ Expenses. Great spending of money. High financial burden. Raw material deposit.
 - [Admetos](../factors/admetos.md)
 - [Kronos](../factors/kronos.md)
 - [Jupiter/Admetos](../axes/jupiter-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

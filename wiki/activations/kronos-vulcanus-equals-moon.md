@@ -3,7 +3,7 @@ title: Kronos/Vulcanus = Moon
 page_type: activation
 slug: kronos-vulcanus-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Kronos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Kronos + Vulcanus`
-- Source page: `301`
 #### Witte Entry
 
 Persons (especially females) with executive power. High government authorities, offices. Mighty sensation in the public.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Persons (especially females) with executive power. High government authorities, offices. Mighty sensation in the public.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special influence of a people, influence of a great people, influence of a self defenced woman, woman with state violence, great power of a people, strong dominance of a woman, hour of special strength, and important energies of a people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Vulcanus = Moon`: female executive authority, high offices, and a strong public sensation produced by concentrated government force.
+- Chart expression: visibly empowered authorities in the collective field and emotional public response to power from above.
 
 ## Links
 
@@ -61,3 +56,5 @@ Persons (especially females) with executive power. High government authorities, 
 - [Vulcanus](../factors/vulcanus.md)
 - [Moon](../factors/moon.md)
 - [Kronos/Vulcanus](../axes/kronos-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

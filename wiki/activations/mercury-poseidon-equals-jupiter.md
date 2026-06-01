@@ -3,7 +3,7 @@ title: Mercury/Poseidon = Jupiter
 page_type: activation
 slug: mercury-poseidon-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Jupiter
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Poseidon`
-- Source page: `173`
 #### Witte Entry
 
 To develop and build up a logical idea. To be instructive or educational through ideas. To experience refusal of ideas. To separate from others mentally.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To develop and build up a logical idea. To be instructive or educational through ideas. To experience refusal of ideas. To separate from others mentally.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Insightful youth law, knowledgeable financial language, joy of an ideal minded youth, clear language about law, clarity in money traffic, poor language about money, powerful legal talk, and advantages through clear thinking
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Poseidon = Jupiter`: To develop and build up a logical idea. To be instructive or educational through ideas. To experience refusal of ideas. To separate from others mentally.
+- Practical expression: insightful youth law, knowledgeable financial language, joy of an ideal minded youth, clear language about law, and clarity in money traffic.
 
 ## Links
 
@@ -61,3 +56,5 @@ To develop and build up a logical idea. To be instructive or educational through
 - [Poseidon](../factors/poseidon.md)
 - [Jupiter](../factors/jupiter.md)
 - [Mercury/Poseidon](../axes/mercury-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

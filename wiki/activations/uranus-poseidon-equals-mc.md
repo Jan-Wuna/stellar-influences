@@ -3,7 +3,7 @@ title: Uranus/Poseidon = MC
 page_type: activation
 slug: uranus-poseidon-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - MC
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Poseidon`
-- Source page: `243`
 #### Witte Entry
 
 To be mentally alive and alert. Mental preparedness and tenseness. To strive for light, knowledge and truth.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be mentally alive and alert. Mental preparedness and tenseness. To strive for light, knowledge and truth.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Strict mind sicle, my restless mind, my spiritual emanation, my spiritual impulses, my cultural!e emanation, my new ideas, my sudden clarity, new soul culture, and seclic provocation through truth
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Poseidon = MC`: To be mentally alive and alert. Mental preparedness and tenseness. To strive for light, knowledge and truth.
+- Practical expression: strict mind sicle, my restless mind, my spiritual emanation, my spiritual impulses, and my cultural!e emanation.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be mentally alive and alert. Mental preparedness and tenseness. To strive for
 - [Poseidon](../factors/poseidon.md)
 - [MC](../factors/mc.md)
 - [Uranus/Poseidon](../axes/uranus-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,10 +3,10 @@ title: Sun/MC = Zeus
 page_type: activation
 slug: sun-mc-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Sun
+  - MC
   - Zeus
 normalized_formula: Sun/MC = Zeus
 axis: Sun/MC
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - MC
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Sun`
-- Source page: `59`
 #### Witte Entry
 
 The creative drive of the body and soul. Courageous, energetic or wanting to lead. To have to interfere.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The creative drive of the body and soul. Courageous, energetic or wanting to lead. To have to interfere.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+my caring achievements, my caring procreation, my corporal goals, a man's mental goals, and man's mental guidance
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/MC = Zeus`: active direction and the will to make things happen publicly.
+- Practical expression: my caring achievements, my caring procreation, my corporal goals, a man's mental goals, and man's mental guidance.
 
 ## Links
 
@@ -61,3 +56,5 @@ The creative drive of the body and soul. Courageous, energetic or wanting to lea
 - [MC](../factors/mc.md)
 - [Zeus](../factors/zeus.md)
 - [Sun/MC](../axes/sun-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

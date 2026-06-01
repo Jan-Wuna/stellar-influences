@@ -3,7 +3,7 @@ title: Uranus Neptune Kronos
 page_type: triad_hub
 slug: uranus-neptune-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Neptune
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Neptune Kronos`
 - Astronomicon triad-set: `X Y ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Neptune/Kronos = Uranus](../activations/neptune-kronos-equals-uranus.md)
-  Source page `250`
 - [Uranus/Kronos = Neptune](../activations/uranus-kronos-equals-neptune.md)
-  Source page `239`
 - [Uranus/Neptune = Kronos](../activations/uranus-neptune-equals-kronos.md)
-  Source page `234`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Neptune/Kronos = Uranus`: page `250`
-- `Uranus/Kronos = Neptune`: page `239`
-- `Uranus/Neptune = Kronos`: page `234`
+- `Neptune/Kronos = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `250`
+- `Neptune/Kronos = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `399`
+- `Uranus/Kronos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `239`
+- `Uranus/Kronos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `381`
+- `Uranus/Neptune = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `234`
+- `Uranus/Neptune = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `371`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Neptune/Kronos = Uranus`: This activation shocks authority into abrupt intervention or revolution from above, where governmental force acts suddenly yet unsuccessfully or destabilizes its own order.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Neptune](../factors/neptune.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

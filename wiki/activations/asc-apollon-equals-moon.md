@@ -3,7 +3,7 @@ title: Asc/Apollon = Moon
 page_type: activation
 slug: asc-apollon-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Asc
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Apollon`
-- Source page: `95`
 #### Witte Entry
 
 To become known to the public. To have women as customers or clients.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To become known to the public. To have women as customers or clients.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Experienced partner of the woman, successful woman in the place, freedom of the female partner, knowledge of the partner, trade place of the people, space expansion of a people, environmental experience of the woman, many women in the place, and increasing partner feelings
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Apollon = Moon`: public familiarity, social response, and a wider environment that feeds on recognition and human receptivity. Main caution: popularity without depth: attention from the public can enlarge the field while keeping it emotionally diffuse or inconsistent.
 
 ## Links
 
@@ -61,3 +55,5 @@ To become known to the public. To have women as customers or clients.
 - [Apollon](../factors/apollon.md)
 - [Moon](../factors/moon.md)
 - [Asc/Apollon](../axes/asc-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Uranus/Apollon = Hades
 page_type: activation
 slug: uranus-apollon-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Hades
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Apollon`
-- Source page: `240`
 #### Witte Entry
 
 Tenseness and excitement through base actions or vile acts. Degradation of a new science. Ancient or historical scientific study. Hamburg School of Astrology.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Tenseness and excitement through base actions or vile acts. Degradation of a new science. Ancient or historical scientific study. Hamburg School of Astrology.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Extension of dangerous tensions, lack of impulses of science, new knowledge of the past, sudden expansion of danger, technical successes of the past, surprising experiences in need, and hidden freedom pulses
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Apollon = Hades`: Tenseness and excitement through base actions or vile acts. Degradation of a new science. Ancient or historical scientific study. Hamburg School of Astrology.
+- Practical expression: extension of dangerous tensions, lack of impulses of science, new knowledge of the past, sudden expansion of danger, and technical successes of the past.
 
 ## Links
 
@@ -61,3 +56,5 @@ Tenseness and excitement through base actions or vile acts. Degradation of a new
 - [Apollon](../factors/apollon.md)
 - [Hades](../factors/hades.md)
 - [Uranus/Apollon](../axes/uranus-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

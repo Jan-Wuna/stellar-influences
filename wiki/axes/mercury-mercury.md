@@ -45,8 +45,6 @@ updated_at: 2026-04-21
 
 - Axis: `Mercury/Mercury`
 - Astronomicon axis: `T/T`
-- Source heading: `Mercury + Mercury`
-- Source page: `157`
 
 ## Source Entries
 
@@ -55,15 +53,6 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 Intellectuality. Thoughts expressed through speech, writing, or mimic. Ideas, plans, mental developments. Movement. The content of thinking. Thoughts. News. Opinion. Assertion. Exchange of information. Mind games. Agility. Young people.
-
-## Comparative Schema
-
-- core meaning: Intellectuality. Thoughts expressed through speech, writing, or mimic. Ideas, plans, mental developments. Movement. The content of thinking. Thoughts. News. Opinion. Assertion. Exchange of information. Mind games. Agility. Young people.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
@@ -89,13 +78,11 @@ Intellectuality. Thoughts expressed through speech, writing, or mimic. Ideas, pl
 - [Mercury/Mercury = Vulcanus](../activations/mercury-mercury-equals-vulcanus.md)
 - [Mercury/Mercury = Poseidon](../activations/mercury-mercury-equals-poseidon.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Mercury` is the axis of pure thinking, speech, writing, news, exchange, mimic, and the restless movement of ideas themselves.
+- Chart expression: intellectuality, correspondence, opinion, plans, mental agility, youthful curiosity, and a life strongly organized around information, conversation, and the continual motion of mind.
 
 ## Links
 

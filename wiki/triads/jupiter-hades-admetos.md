@@ -3,7 +3,7 @@ title: Jupiter Hades Admetos
 page_type: triad_hub
 slug: jupiter-hades-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Hades Admetos`
 - Astronomicon triad-set: `V ¢ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Admetos = Jupiter](../activations/hades-admetos-equals-jupiter.md)
-  Source page `284`
 - [Jupiter/Admetos = Hades](../activations/jupiter-admetos-equals-hades.md)
-  Source page `216`
 - [Jupiter/Hades = Admetos](../activations/jupiter-hades-equals-admetos.md)
-  Source page `212`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Admetos = Jupiter`: page `284`
-- `Jupiter/Admetos = Hades`: page `216`
-- `Jupiter/Hades = Admetos`: page `212`
+- `Hades/Admetos = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `284`
+- `Hades/Admetos = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `444`
+- `Jupiter/Admetos = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `216`
+- `Jupiter/Admetos = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `343`
+- `Jupiter/Hades = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `212`
+- `Jupiter/Hades = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `335`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Admetos = Jupiter`: having the absolute essentials despite scarcity and managing not to feel the full weight of need.
+- `Jupiter/Admetos = Hades`: equanimity amid evil, misfortune, or threat, and refusal to be intimidated by harsh circumstances.
+- `Jupiter/Hades = Admetos`: shrinkage of money and deflation.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Hades](../factors/hades.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

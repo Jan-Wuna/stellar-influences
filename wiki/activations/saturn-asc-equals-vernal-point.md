@@ -3,10 +3,10 @@ title: Saturn/Asc = Vernal Point
 page_type: activation
 slug: saturn-asc-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Saturn
+  - Asc
   - Vernal Point
 normalized_formula: Saturn/Asc = Vernal Point
 axis: Saturn/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Saturn
   - Asc
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Saturn`
-- Source page: `87`
 #### Witte Entry
 
 Parting from other people. Leave-taking. A serious phenomena in public life.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Parting from other people. Leave-taking. A serious phenomena in public life.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Old place in public life, inhibitions at a public place, public environmental tasks, problematic public environment, problems with others in public, disturbances at a public place, and separation from a public place
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Asc = Vernal Point`: parting from other people, leave-taking, a serious phenomena in public life.
+- Practical expression: old place in public life, inhibitions at a public place, public environmental tasks, problematic public environment, and problems with others in public.
 
 ## Links
 
@@ -61,3 +56,5 @@ Parting from other people. Leave-taking. A serious phenomena in public life.
 - [Asc](../factors/asc.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Saturn/Asc](../axes/saturn-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

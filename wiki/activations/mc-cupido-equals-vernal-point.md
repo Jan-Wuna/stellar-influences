@@ -3,7 +3,7 @@ title: MC/Cupido = Vernal Point
 page_type: activation
 slug: mc-cupido-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - MC
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Cupido`
-- Source page: `70`
 #### Witte Entry
 
 To take part in common endeavors. To participate in general artistic offerings.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To take part in common endeavors. To participate in general artistic offerings.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Inspired community in public, inspired art in public, inspired public community, shared actions in public life, my public community, and my art in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Cupido = Vernal Point` externalizes the axis into participation in common and artistic offerings.
+- Chart expression: public involvement in shared enterprises, general access to artistic life, and identity formed through joining what a community collectively creates or enjoys.
 
 ## Links
 
@@ -61,3 +56,5 @@ To take part in common endeavors. To participate in general artistic offerings.
 - [Cupido](../factors/cupido.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [MC/Cupido](../axes/mc-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

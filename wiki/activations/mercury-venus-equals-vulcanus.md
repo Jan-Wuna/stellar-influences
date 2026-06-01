@@ -3,7 +3,7 @@ title: Mercury/Venus = Vulcanus
 page_type: activation
 slug: mercury-venus-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Venus
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Venus
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Venus`
-- Source page: `159`
 #### Witte Entry
 
 New fast friends, well received. Favored by friends. Polite greeting.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: New fast friends, well received. Favored by friends. Polite greeting.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+influence of media art, influential conversations about art, strength and joy of youth, forceful thoughts of peace, harmony through the strength of thoughts, harmonious influence of speech, news about violence in love, and beauty as moving energy
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Venus = Vulcanus`: New fast friends, well received. Favored by friends. Polite greeting.
+- Practical expression: influence of media art, influential conversations about art, strength, joy of youth, and forceful thoughts of peace.
 
 ## Links
 
@@ -61,3 +56,5 @@ New fast friends, well received. Favored by friends. Polite greeting.
 - [Venus](../factors/venus.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Mercury/Venus](../axes/mercury-venus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -32,30 +32,14 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Chiron/Ascendant midpoint`
-- Source page: `101`
-- Activator: `Midheaven`
-
 #### Sandbach Entry
 
 One's life purpose is to continue to let go of the limits of one's identity until it is perfectly spiritualized. One may be unhappy and unfilled in one's career until one is able to give up old and restrictive ways of seeing oneself.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Chiron/Asc = MC`: vocational frustration when identity stagnates and to clearer purpose when self-definition becomes more open and healed. Main caution: clinging to an outdated self-image and expecting life direction to change anyway.
 
 ## Links
 

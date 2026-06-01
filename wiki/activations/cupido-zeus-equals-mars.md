@@ -3,7 +3,7 @@ title: Cupido/Zeus = Mars
 page_type: activation
 slug: cupido-zeus-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Cupido
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Zeus`
-- Source page: `268`
 #### Witte Entry
 
 Preparation for work. Cooperative energetic work. Trading company dealing in products made of metal. The decision of an organization. War allies.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Preparation for work. Cooperative energetic work. Trading company dealing in products made of metal. The decision of an organization. War allies.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Actions of a leadership community, fiery impulses of a community, joint work performances, joint procreation actions, will efforts of a community, and determined work of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Zeus = Mars`: communal initiative becoming operational through work, logistics, and shared exertion. Main caution: momentum and aggression outrunning reflection or human cost.
 
 ## Links
 
@@ -61,3 +55,5 @@ Preparation for work. Cooperative energetic work. Trading company dealing in pro
 - [Zeus](../factors/zeus.md)
 - [Mars](../factors/mars.md)
 - [Cupido/Zeus](../axes/cupido-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

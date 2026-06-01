@@ -3,7 +3,7 @@ title: Zeus/Poseidon = Asc
 page_type: activation
 slug: zeus-poseidon-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - Zeus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Poseidon`
-- Source page: `296`
 #### Witte Entry
 
 To be mentally influenced and impressed by others. To be under the mental guidance of others. Others show their conviction and mental attitude. They are under mental compulsion.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be mentally influenced and impressed by others. To be under the mental guidance of others. Others show their conviction and mental attitude. They are under mental compulsion.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Addresses of cultural sites, intellectual leadership of the partner, clear location management, clear environmental objectives, environmental design, environmental performance, local Yemunft efforts, and witnessing of the partner
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Poseidon = Asc`: To be mentally influenced and impressed by others. To be under the mental guidance of others. Others show their conviction and mental attitude. They are under mental compulsion.
+- Practical expression: addresses of cultural sites, intellectual leadership of the partner, clear location management, clear environmental objectives, and environmental design.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be mentally influenced and impressed by others. To be under the mental guidan
 - [Poseidon](../factors/poseidon.md)
 - [Asc](../factors/asc.md)
 - [Zeus/Poseidon](../axes/zeus-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

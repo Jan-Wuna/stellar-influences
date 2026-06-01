@@ -3,7 +3,7 @@ title: Jupiter/Zeus = Vernal Point
 page_type: activation
 slug: jupiter-zeus-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Jupiter
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Zeus`
-- Source page: `213`
 #### Witte Entry
 
 General prosperous working and accomplishing. Products, creations in general.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: General prosperous working and accomplishing. Products, creations in general.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+(c) financial efforts for the public, good performance in public life, and good health
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Zeus = Vernal Point`: general prosperous work, successful accomplishment, and products or creations that become broadly visible or relevant.
+- Chart expression: public productivity, recognizable output, and a collective atmosphere of successful making and doing.
 
 ## Links
 
@@ -61,3 +56,5 @@ General prosperous working and accomplishing. Products, creations in general.
 - [Zeus](../factors/zeus.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Jupiter/Zeus](../axes/jupiter-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Jupiter/Hades = Venus
 page_type: activation
 slug: jupiter-hades-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Jupiter
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Hades`
-- Source page: `212`
 #### Witte Entry
 
 Love orgies. To receive favors while on duty. Fine arts with lack of success.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Love orgies. To receive favors while on duty. Fine arts with lack of success.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Joy of love service, dangerous love happiness, mystery of joy and harmony, secret love joy, artificial success from the past, love service for money, past love happiness, and pros and cons of beauty
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Hades = Venus`: value and pleasure being touched by shadow, compromise, or failed refinement. It can show enjoyment that is ethically blurred, or art and affection operating without clear success or purity.
 
 ## Links
 
@@ -61,3 +55,5 @@ Love orgies. To receive favors while on duty. Fine arts with lack of success.
 - [Hades](../factors/hades.md)
 - [Venus](../factors/venus.md)
 - [Jupiter/Hades](../axes/jupiter-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

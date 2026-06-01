@@ -3,7 +3,7 @@ title: Moon/Neptune = Vulcanus
 page_type: activation
 slug: moon-neptune-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Neptune
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Neptune`
-- Source page: `128`
 #### Witte Entry
 
 A mighty sense of scent. Mighty disappointment of the people. Deception.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A mighty sense of scent. Mighty disappointment of the people. Deception.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exchange through violence against women, confiscation of a sensitive woman, influence of foreign folk, influence by refinement of the feelings, weakened energy of a people, enormous exchange of a woman, and future influence of women
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Neptune = Vulcanus`: A mighty sense of scent. Mighty disappointment of the people. Deception.
+- Practical focus: intensifies `Moon/Neptune` into powerful disappointment, strong psychic impression, and deception with force behind it. It can magnify sensitivity into overwhelming reaction, making intuition, scent, or subtle perception unusually potent but also more vulnerable to disillusionment.
+- Practical expression: exchange through violence against women, confiscation of a sensitive woman, influence of foreign folk, influence by refinement of the feelings, and weakened energy of a people.
 
 ## Links
 
@@ -61,3 +57,5 @@ A mighty sense of scent. Mighty disappointment of the people. Deception.
 - [Neptune](../factors/neptune.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Moon/Neptune](../axes/moon-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

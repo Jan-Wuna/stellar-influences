@@ -3,7 +3,7 @@ title: Mercury/Uranus = Apollon
 page_type: activation
 slug: mercury-uranus-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Uranus
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Uranus`
-- Source page: `163`
 #### Witte Entry
 
 Many want to send news suddenly. Many sudden news items. Telegrams or text messages. Sudden astrological thoughts.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Many want to send news suddenly. Many sudden news items. Telegrams or text messages. Sudden astrological thoughts.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exciting experiences in the air, disturbing opinions of science, successful media technology, successful technical description, expansion of youth reform, new trade reports, new knowledge in the language, exciting success reports enduring technical language, excitement of a blocked youth, and excitement about
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Uranus = Apollon`: Many want to send news suddenly. Many sudden news items. Telegrams or text messages. Sudden astrological thoughts.
+- Practical expression: exciting experiences in the air, disturbing opinions of science, successful media technology, successful technical description, and expansion of youth reform.
 
 ## Links
 
@@ -61,3 +56,5 @@ Many want to send news suddenly. Many sudden news items. Telegrams or text messa
 - [Uranus](../factors/uranus.md)
 - [Apollon](../factors/apollon.md)
 - [Mercury/Uranus](../axes/mercury-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

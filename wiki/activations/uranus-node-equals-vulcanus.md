@@ -3,10 +3,10 @@ title: Uranus/Node = Vulcanus
 page_type: activation
 slug: uranus-node-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Uranus
+  - Node
   - Vulcanus
 normalized_formula: Uranus/Node = Vulcanus
 axis: Uranus/Node
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Node
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Uranus`
-- Source page: `146`
 #### Witte Entry
 
 Suddenly connected with mighty influential people or with superiors. Examiners.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Suddenly connected with mighty influential people or with superiors. Examiners.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exciting influence of a connection, energy impulses in a relationship, great nervousness in a relationship, powerful tensions in a connection, reforestation of power connections, and connection by enormous events
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Node = Vulcanus`: Suddenly connected with mighty influential people or with superiors. Examiners.
+- Practical expression: exciting influence of a connection, energy impulses in a relationship, great nervousness in a relationship, powerful tensions in a connection, and reforestation of power connections.
 
 ## Links
 
@@ -61,3 +56,5 @@ Suddenly connected with mighty influential people or with superiors. Examiners.
 - [Node](../factors/node.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Uranus/Node](../axes/uranus-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

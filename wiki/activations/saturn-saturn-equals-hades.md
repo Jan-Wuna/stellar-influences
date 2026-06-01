@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Saturn + Saturn`
-- Source page: `220`
 #### Witte Entry
 
 Melancholy. Trouble. Sadness. The alien. Refugees. Serious obstacles. Severe sickness. Unemployment of long duration. Enemies. Enmity. Serious loss. Prison. Long poverty. To be impoverished by sickness. Isolation through sickness. Damages to the crops. To be separated through accidents. Illness restrictions. Hard luck.
 
-## Comparative Schema
-
-- core meaning: Melancholy. Trouble. Sadness. The alien. Refugees. Serious obstacles. Severe sickness. Unemployment of long duration. Enemies. Enmity. Serious loss. Prison. Long poverty. To be impoverished by sickness. Isolation through sickness. Damages to the crops. To be separated through accidents. Illness restrictions. Hard luck.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Saturn = Hades`: melancholy, trouble, sadness.
 
 ## Links
 

@@ -3,7 +3,7 @@ title: Apollon/Vulcanus = Vernal Point
 page_type: activation
 slug: apollon-vulcanus-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Apollon
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Apollon
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Apollon + Vulcanus`
-- Source page: `307`
 #### Witte Entry
 
 Great general success. Prosperity and wealth in general. The growth of the general public’s wealth.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great general success. Prosperity and wealth in general. The growth of the general public’s wealth.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+influence of science in public, expansion of influence in public life, experiences of force in public, tremendous public success, public commercial power, public trade in energy, and strong success in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Vulcanus = Vernal Point`: public-scale increase, collective affluence, and prosperity that affects the wider world rather than only the individual. Main caution: impersonal inflation: general wealth or success can expand faster than ethical balance, equal distribution, or resilience.
 
 ## Links
 
@@ -61,3 +55,5 @@ Great general success. Prosperity and wealth in general. The growth of the gener
 - [Vulcanus](../factors/vulcanus.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Apollon/Vulcanus](../axes/apollon-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

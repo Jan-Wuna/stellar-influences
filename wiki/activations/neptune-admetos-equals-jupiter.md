@@ -3,7 +3,7 @@ title: Neptune/Admetos = Jupiter
 page_type: activation
 slug: neptune-admetos-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Neptune
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Admetos`
-- Source page: `252`
 #### Witte Entry
 
 Happy and fortunate changes in relation to living conditions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Happy and fortunate changes in relation to living conditions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dissolving of a financial blockade, restricted joy in the water, success by gritty fine tuning, successful blockade loss, strengthening financial weakness, joy in the deep water, grundliche right stamping, and advantage by deepening in metaphysics
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Admetos = Jupiter`: Happy and fortunate changes in relation to living conditions.
+- Practical focus: enlarges `Neptune/Admetos` through fortunate change, relief, and better living conditions. It shows that even a difficult or depleted baseline can evolve toward improvement, abundance, or more hopeful material circumstances.
+- Practical expression: dissolving of a financial blockade, restricted joy in the water, success by gritty fine tuning, successful blockade loss, and strengthening financial weakness.
 
 ## Links
 
@@ -61,3 +57,5 @@ Happy and fortunate changes in relation to living conditions.
 - [Admetos](../factors/admetos.md)
 - [Jupiter](../factors/jupiter.md)
 - [Neptune/Admetos](../axes/neptune-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

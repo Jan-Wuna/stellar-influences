@@ -3,7 +3,7 @@ title: Sun/Zeus = Cupido
 page_type: activation
 slug: sun-zeus-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Cupido
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Zeus`
-- Source page: `113`
 #### Witte Entry
 
 Marital procreation. To look after the interests of others, with others. A gifted artist. A bewitching player (musician). Fuel business (company). Coal mines.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Marital procreation. To look after the interests of others, with others. A gifted artist. A bewitching player (musician). Fuel business (company). Coal mines.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Community of persons, Centre for the performance of a community, Synthesis of persons, creative man of the arts, and determined human community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Zeus = Cupido`: artist and a member of the artist circle.
+- Practical expression: community of persons, centre for the performance of a community, synthesis of persons, creative man of the arts, and determined human community.
 
 ## Links
 
@@ -61,3 +56,5 @@ Marital procreation. To look after the interests of others, with others. A gifte
 - [Zeus](../factors/zeus.md)
 - [Cupido](../factors/cupido.md)
 - [Sun/Zeus](../axes/sun-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

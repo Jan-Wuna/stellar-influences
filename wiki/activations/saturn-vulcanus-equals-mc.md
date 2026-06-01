@@ -3,7 +3,7 @@ title: Saturn/Vulcanus = MC
 page_type: activation
 slug: saturn-vulcanus-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - MC
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Vulcanus`
-- Source page: `230`
 #### Witte Entry
 
 To be vigilant. Intense guarding. To watch very closely. To have an eye to one’s own interests. Not easily deceived (it may be that these characteristic qualities do not appear until the native has some bad experiences).
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be vigilant. Intense guarding. To watch very closely. To have an eye to one’s own interests. Not easily deceived (it may be that these characteristic qualities do not appear until the native has some bad experiences).
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Patience and strength of the soul, my energy problems, my energy in old age, my influxes, my concentration force, my power through patience, and psychic strength
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Vulcanus = MC`: to be vigilant, intense guarding, to watch very closely.
+- Practical expression: patience, strength of the soul, my energy problems, my energy in old age, and my influxes.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be vigilant. Intense guarding. To watch very closely. To have an eye to one�
 - [Vulcanus](../factors/vulcanus.md)
 - [MC](../factors/mc.md)
 - [Saturn/Vulcanus](../axes/saturn-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

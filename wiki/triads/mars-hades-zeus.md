@@ -3,7 +3,7 @@ title: Mars Hades Zeus
 page_type: triad_hub
 slug: mars-hades-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Hades Zeus`
 - Astronomicon triad-set: `U ¢ £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Zeus = Mars](../activations/hades-zeus-equals-mars.md)
-  Source page `277`
 - [Mars/Hades = Zeus](../activations/mars-hades-equals-zeus.md)
-  Source page `198`
 - [Mars/Zeus = Hades](../activations/mars-zeus-equals-hades.md)
-  Source page `199`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Zeus = Mars`: page `277`
-- `Mars/Hades = Zeus`: page `198`
-- `Mars/Zeus = Hades`: page `199`
+- `Hades/Zeus = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `277`
+- `Hades/Zeus = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `438`
+- `Mars/Hades = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `198`
+- `Mars/Hades = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `311`
+- `Mars/Zeus = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `199`
+- `Mars/Zeus = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `313`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Zeus = Mars`: hard new labor, dangerous acute illness or injury, deeds born of hate, strikes, battle actions, fires, deadly conflagration, and premeditated homicide.
+- `Mars/Hades = Zeus`: soldiering, war service, loss of procreative capacity, and death through machines, vehicles, firearms, or fire.
+- `Mars/Zeus = Hades`: degrades directed force through deficiency, injury, war loss, and destructive aftermath.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Hades](../factors/hades.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Venus Asc Zeus
 page_type: triad_hub
 slug: venus-asc-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Asc Zeus`
 - Astronomicon triad-set: `Q Asc £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Zeus = Venus](../activations/asc-zeus-equals-venus.md)
-  Source page `93`
 - [Venus/Asc = Zeus](../activations/venus-asc-equals-zeus.md)
-  Source page `84`
 - [Venus/Zeus = Asc](../activations/venus-zeus-equals-asc.md)
-  Source page `184`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Zeus = Venus`: page `93`
-- `Venus/Asc = Zeus`: page `84`
-- `Venus/Zeus = Asc`: page `184`
+- `Asc/Zeus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `93`
+- `Asc/Zeus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `126`
+- `Venus/Asc = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `84`
+- `Venus/Asc = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `109`
+- `Venus/Zeus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `184`
+- `Venus/Zeus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `286`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Zeus = Venus`: complying with others' wishes, giving love, or producing something pleasing or generative.
+- `Venus/Asc = Zeus`: paternally desired.
+- `Venus/Zeus = Asc`: to be impregnated.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Asc](../factors/asc.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

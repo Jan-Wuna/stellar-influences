@@ -3,7 +3,7 @@ title: Vernal Point Neptune Zeus
 page_type: triad_hub
 slug: vernal-point-neptune-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Neptune
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Neptune Zeus`
 - Astronomicon triad-set: `VP Y £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Neptune/Zeus = Vernal Point](../activations/neptune-zeus-equals-vernal-point.md)
-  Source page `249`
 - [Vernal Point/Neptune = Zeus](../activations/vernal-point-neptune-equals-zeus.md)
-  Source page `46`
 - [Vernal Point/Zeus = Neptune](../activations/vernal-point-zeus-equals-neptune.md)
-  Source page `50`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Neptune/Zeus = Vernal Point`: page `249`
-- `Vernal Point/Neptune = Zeus`: page `46`
-- `Vernal Point/Zeus = Neptune`: page `50`
+- `Neptune/Zeus = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `249`
+- `Neptune/Zeus = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `396`
+- `Vernal Point/Neptune = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `46`
+- `Vernal Point/Neptune = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `41`
+- `Vernal Point/Zeus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `50`
+- `Vernal Point/Zeus = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `49`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Neptune/Zeus = Vernal Point`: Collective conditions reflect destructive volatile force, including war loss, shattered common assets, failed conflict, or gas-related devastation.
+- `Vernal Point/Neptune = Zeus`: This formula emphasizes restriction in activity through malice and hatefulness, disruptions in the railroad business or machine establishments, and to derange or mess up.
+- `Vernal Point/Zeus = Neptune`: This formula emphasizes rejecting a compulsion, wasted energies, heat vapors, combustible gas, and fire fighting institutions.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Neptune](../factors/neptune.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

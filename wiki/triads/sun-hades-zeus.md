@@ -3,7 +3,7 @@ title: Sun Hades Zeus
 page_type: triad_hub
 slug: sun-hades-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Hades Zeus`
 - Astronomicon triad-set: `S ¢ £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Zeus = Sun](../activations/hades-zeus-equals-sun.md)
-  Source page `277`
 - [Sun/Hades = Zeus](../activations/sun-hades-equals-zeus.md)
-  Source page `112`
 - [Sun/Zeus = Hades](../activations/sun-zeus-equals-hades.md)
-  Source page `113`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Zeus = Sun`: page `277`
-- `Sun/Hades = Zeus`: page `112`
-- `Sun/Zeus = Hades`: page `113`
+- `Hades/Zeus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `277`
+- `Hades/Zeus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `438`
+- `Sun/Hades = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `112`
+- `Sun/Hades = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `161`
+- `Sun/Zeus = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `113`
+- `Sun/Zeus = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `163`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Zeus = Sun`: burns, physical defect or sickness that obstructs work, being hated, and living among the dirty remains of fire and reconstruction.
+- `Sun/Hades = Zeus`: This formula emphasizes unpleasant activity and destructive fire.
+- `Sun/Zeus = Hades`: This formula emphasizes unpleasant activity and destructive fire.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Hades](../factors/hades.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

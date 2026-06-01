@@ -3,7 +3,7 @@ title: Cupido/Kronos = MC
 page_type: activation
 slug: cupido-kronos-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Cupido
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Kronos`
-- Source page: `269`
 #### Witte Entry
 
 Marriages. Great family celebration. To be present at family gatherings. Ones own social position. Great artistic talent.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Marriages. Great family celebration. To be present at family gatherings. Ones own social position. Great artistic talent.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+In the case of the Scelne Community, the Community of States, the Community of Mem ber States, the Community of Mem ber States of Mem ber States, and the Community of Mem ber States of Mem ber
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Kronos = MC`: identity and life direction being shaped by rank, family ceremony, and recognized cultural gift. Main caution: building self-worth too heavily on formal place or public honor.
 
 ## Links
 
@@ -61,3 +55,5 @@ Marriages. Great family celebration. To be present at family gatherings. Ones ow
 - [Kronos](../factors/kronos.md)
 - [MC](../factors/mc.md)
 - [Cupido/Kronos](../axes/cupido-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

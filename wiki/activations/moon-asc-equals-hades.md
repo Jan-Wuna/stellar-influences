@@ -3,10 +3,10 @@ title: Moon/Asc = Hades
 page_type: activation
 slug: moon-asc-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Moon
+  - Asc
   - Hades
 normalized_formula: Moon/Asc = Hades
 axis: Moon/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Asc
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Moon`
-- Source page: `81`
 #### Witte Entry
 
 Ailments of female persons. Unpleasant things through women. Oppressive events in public.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Ailments of female persons. Unpleasant things through women. Oppressive events in public.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Other people in need, family of the partner, mother's service in the place, dangerous environment of the mother, dangerous place for the woman, Crimea inalitat cine other people, lack of feeling of a woman, and hour of danger in the place
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Asc = Hades`: Ailments of female persons. Unpleasant things through women. Oppressive events in public.
+- Practical focus: burdens `Moon/Asc` with discomfort, ailment, and oppressive public feeling. It can show emotional sensitivity exposed to degrading circumstances, troublesome female figures, or unhealthy environments, making the person's immediate social field feel heavy, unpleasant, or sorrow-laden.
+- Practical expression: other people in need, family of the partner, mother's service in the place, dangerous environment of the mother, and dangerous place for the woman.
 
 ## Links
 
@@ -61,3 +57,5 @@ Ailments of female persons. Unpleasant things through women. Oppressive events i
 - [Asc](../factors/asc.md)
 - [Hades](../factors/hades.md)
 - [Moon/Asc](../axes/moon-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

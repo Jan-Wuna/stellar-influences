@@ -3,7 +3,7 @@ title: Kronos/Admetos = Vernal Point
 page_type: activation
 slug: kronos-admetos-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Kronos
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Kronos + Admetos`
-- Source page: `300`
 #### Witte Entry
 
 To withdraw from the generality. Men who join together to live in an odd way, who live for the same idea.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To withdraw from the generality. Men who join together to live in an odd way, who live for the same idea.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Especially depressed public, end of the public self governingness, consolidated authority in the public life, public resistance to the state, state restriction for the public, and superior resistance in the public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Admetos = Vernal Point`: withdrawal from the generality and association with others who live in an unusual way for a common idea.
+- Chart expression: visible separation from the mainstream and communal life organized around special principles or uncommon living.
 
 ## Links
 
@@ -61,3 +56,5 @@ To withdraw from the generality. Men who join together to live in an odd way, wh
 - [Admetos](../factors/admetos.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Kronos/Admetos](../axes/kronos-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

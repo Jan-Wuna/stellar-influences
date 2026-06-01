@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Venus Jupiter Chiron`
 - Astronomicon triad-set: `Q V Chiron`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Venus/Chiron = Jupiter`: John, page `58`
 - `Venus/Jupiter = Chiron`: John, page `56`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Chiron = Venus`: healing through kindness, beauty, and relational warmth. It can show hope transmitted by how one loves, values, and appreciates.
+- `Venus/Chiron = Jupiter`: an enthusiasm and expansiveness that is generous and loving toward all and which promotes an awareness of the deepest and most meaningful values inherent in everything.
+- `Venus/Jupiter = Chiron`: one intuitively help others to access the love which is there all around them and always ready to be taken in.
 
 ## Links
 

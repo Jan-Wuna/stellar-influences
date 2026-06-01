@@ -3,7 +3,7 @@ title: Jupiter/Poseidon = Saturn
 page_type: activation
 slug: jupiter-poseidon-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Saturn
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Poseidon`
-- Source page: `218`
 #### Witte Entry
 
 To have to switch off reason and intelligence. Persons with whom reason and intelligence first must grow to maturity. To educate others to reason and intelligence.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To have to switch off reason and intelligence. Persons with whom reason and intelligence first must grow to maturity. To educate others to reason and intelligence.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Spiritual success through patience, mental advantages in old age, staggered money culture, ideal gain through losses, problematic legal culture, problematic financial truth, right problems permeate, and loss of clarity about money
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Poseidon = Saturn`: wisdom being tested through delay, restraint, or immaturity. It favors patient teaching and sober formation, but warns that judgment may temporarily be blocked or underdeveloped.
 
 ## Links
 
@@ -61,3 +55,5 @@ To have to switch off reason and intelligence. Persons with whom reason and inte
 - [Poseidon](../factors/poseidon.md)
 - [Saturn](../factors/saturn.md)
 - [Jupiter/Poseidon](../axes/jupiter-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

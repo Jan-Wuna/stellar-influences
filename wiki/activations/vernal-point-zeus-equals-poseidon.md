@@ -3,7 +3,7 @@ title: Vernal Point/Zeus = Poseidon
 page_type: activation
 slug: vernal-point-zeus-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Zeus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Zeus`
-- Source page: `50`
 #### Witte Entry
 
 Mind creations in the intellectual or spiritual field. To express logic. Proofs.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mind creations in the intellectual or spiritual field. To express logic. Proofs.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Fundende Idea in the public, mental Fundung the public, mental Kreativit in the public Life, clarity of the public Fundung, public Culture design, nenUnftige Zielen in the public Life, and truth struggling in public Life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Zeus = Poseidon`: mind creations in the intellectual or spiritual field, to express logic, and proofs.
+- Practical expression: fundende Idea in the public, mental Fundung the public, mental Kreativit in the public Life, clarity of the public Fundung, and public Culture design.
 
 ## Links
 
@@ -61,3 +56,5 @@ Mind creations in the intellectual or spiritual field. To express logic. Proofs.
 - [Zeus](../factors/zeus.md)
 - [Poseidon](../factors/poseidon.md)
 - [Vernal Point/Zeus](../axes/vernal-point-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

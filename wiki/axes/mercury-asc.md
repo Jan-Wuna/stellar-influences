@@ -58,11 +58,12 @@ aliases:
   - Asc/Mercury
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -75,17 +76,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury/Ascendant`
-- Source page: `169`
-
 #### Pair Summary
 
 Talks, conversations and correspondence. To be the theme of conversation with others. Other people think of the native. News from other people. News about the closer environment. Exchange of ideas with acquaintances.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Mercury/Ascendant`
-- Source page: `169`
+#### ABC Pair Summary
+
+Thoughts in the lJmfeld, language partner, intellectual facility, intellectual partner, youth in the lJmfeld, media as partner, local news, local youth, partner language, and lJmwelt language
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -109,9 +110,6 @@ Thinking, talkative and working people in one's environment.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mercury/Ascendant midpoint`
-- Source page: `52`
-
 #### Principle
 
 A love of sharing ideas with others. Truly caring about with other people think. Others’ ideas help one to refine one’s own, and to be more clear about what one thinks. The search for ideas that will help one evolve.
@@ -122,9 +120,6 @@ The selecting of ideas to form one’s identity. The sharing of ideas with other
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Mercury/Ascendant`
-- Source page: `205`
-
 #### Pair Delineation
 
 The verbal and mental expression of one's
@@ -132,9 +127,6 @@ The verbal and mental expression of one's
 personality to others, and also the ability to listen to others. To speak. The reception of data from the environment by means of one's sense organs.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `MERCURY/ASCENDANT`
-- Source page: `179`
 
 #### Basic Ideas
 
@@ -163,15 +155,6 @@ The effect of your mental attitude on your health; intestinal gas from the stres
 
 - [Michael Munkasey - Mercury/Asc Concepts](../derived/munkasey-mercury-asc-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Mercury/Asc = Admetos](../activations/mercury-asc-equals-admetos.md)
@@ -196,20 +179,18 @@ The effect of your mental attitude on your health; intestinal gas from the stres
 - [Mercury/Asc = Vulcanus](../activations/mercury-asc-equals-vulcanus.md)
 - [Mercury/Asc = Zeus](../activations/mercury-asc-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Asc` is the axis of communicative presence, social perception, and identity formed through exchange with the immediate environment. It combines thought, language, observation, and adaptability with personality, approach, and responsiveness to other people.
+- Chart expression: talkativeness, mental alertness, curiosity about others, conversational skill, and a style that defines itself through ideas, feedback, and contact. Liabilities: gossip, nervous overstimulation, shallow judgments, misreading people, and a tendency to reduce relationships to commentary, critique, or restless analysis.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Asc](../factors/asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)

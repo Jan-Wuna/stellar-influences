@@ -3,7 +3,7 @@ title: Neptune/Pluto = Vernal Point
 page_type: activation
 slug: neptune-pluto-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Neptune
   - Pluto
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Pluto`
-- Source page: `246`
 #### Witte Entry
 
 Changes in general which cannot be estimated correctly.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Changes in general which cannot be estimated correctly.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exchange developments in the public, creeping changes in the public life, uncertain development in the private sphere, growing expectations in the public life, growing uncertainty in the public sphere, and changes in the public sphere
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Pluto = Vernal Point`: Changes in general which cannot be estimated correctly.
+- Practical focus: externalizes subtle transformation into collective life, where changes are underway but remain difficult for the wider public to estimate accurately while they unfold.
+- Practical expression: exchange developments in the public, creeping changes in the public life, uncertain development in the private sphere, growing expectations in the public life, and growing uncertainty in the public sphere.
 
 ## Links
 
@@ -61,3 +57,5 @@ Changes in general which cannot be estimated correctly.
 - [Pluto](../factors/pluto.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Neptune/Pluto](../axes/neptune-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

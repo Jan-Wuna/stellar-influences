@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Sun Moon Chiron`
 - Astronomicon triad-set: `S R Chiron`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Sun/Chiron = Moon`: John, page `15`
 - `Sun/Moon = Chiron`: John, page `6`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Chiron = Sun`: The goal of one’s life is dependent on one’s ability to allow emotions to flow openly and freely so that the emotional body may be cleansed, vitalized and purified. The ego is healed by deep attunement to and acceptance of one’s feelings as well as the feelings of others.
+- `Sun/Chiron = Moon`: responding emotionally to deeper meaning and allowing feeling life to reveal what has genuine spiritual importance.
+- `Sun/Moon = Chiron`: emotional and personal growth through deeper meaning and discovering what truly matters beyond surface identity.
 
 ## Links
 

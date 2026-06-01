@@ -3,7 +3,7 @@ title: MC/Kronos = Saturn
 page_type: activation
 slug: mc-kronos-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - MC
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Kronos`
-- Source page: `73`
 #### Witte Entry
 
 Decrease and losses through one’s own initiative. Owner of an estate. Dealing in agricultural produce. An authority on the soil.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Decrease and losses through one’s own initiative. Owner of an estate. Dealing in agricultural produce. An authority on the soil.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+View of a mature soul, special mental problems, great soul pains, my statured self restraint, my great difficulties, my concentration on the special, psychic great in old age, and loss of a great soul
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Kronos = Saturn` hardens the axis through losses arising from one's own initiative.
+- Chart expression: authority tied to land, estates, or agriculture, but also to setbacks and decreases when leadership acts under difficult, material, or restrictive conditions.
 
 ## Links
 
@@ -61,3 +56,5 @@ Decrease and losses through one’s own initiative. Owner of an estate. Dealing 
 - [Kronos](../factors/kronos.md)
 - [Saturn](../factors/saturn.md)
 - [MC/Kronos](../axes/mc-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

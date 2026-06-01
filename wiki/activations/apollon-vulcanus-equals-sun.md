@@ -3,7 +3,7 @@ title: Apollon/Vulcanus = Sun
 page_type: activation
 slug: apollon-vulcanus-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Apollon
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Apollon
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Apollon + Vulcanus`
-- Source page: `307`
 #### Witte Entry
 
 The successful man. The man who has power and influence, who experiences an increase in fortune. Days of prosperity and success.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The successful man. The man who has power and influence, who experiences an increase in fortune. Days of prosperity and success.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Energy trading center, man's influence expansion, a person's experience of violence, tremendous personal success, personal energy quantity, personal influence through knowledge, personal power expansion, and increasing body force
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Vulcanus = Sun`: visible prosperity, strong personal impact, and periods marked by success, authority, and increase. Main caution: self-inflation: identity may become too fused with triumph, power, or the expectation of continual success.
 
 ## Links
 
@@ -61,3 +55,5 @@ The successful man. The man who has power and influence, who experiences an incr
 - [Vulcanus](../factors/vulcanus.md)
 - [Sun](../factors/sun.md)
 - [Apollon/Vulcanus](../axes/apollon-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Vernal Point/Apollon = Kronos
 page_type: activation
 slug: vernal-point-apollon-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Kronos
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Apollon`
-- Source page: `52`
 #### Witte Entry
 
 One who is a scientific authority. Great masses of people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: One who is a scientific authority. Great masses of people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Expansion of the state in public, freedom and self governing in public life, hierarchic of the world economy, self governing public trade, state successes in public, and increasing freedom in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Apollon = Kronos`: one who is a scientific authority and great masses of people.
+- Practical expression: expansion of the state in public, freedom, self governing in public life, hierarchic of the world economy, and self governing public trade.
 
 ## Links
 
@@ -61,3 +56,5 @@ One who is a scientific authority. Great masses of people.
 - [Apollon](../factors/apollon.md)
 - [Kronos](../factors/kronos.md)
 - [Vernal Point/Apollon](../axes/vernal-point-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

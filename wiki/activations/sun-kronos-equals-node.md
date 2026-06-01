@@ -3,7 +3,7 @@ title: Sun/Kronos = Node
 page_type: activation
 slug: sun-kronos-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Node
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Kronos`
-- Source page: `114`
 #### Witte Entry
 
 Connections with the authorities or leading persons. Manager. Representative of the government. Embassy.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Connections with the authorities or leading persons. Manager. Representative of the government. Embassy.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Relationships with individuals, contacts with respected people, man time priority in connection, personal standing in connection, personal ties with the state, and self reliant connections of a man
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Kronos = Node`: connections with authorities and associations of rank.
+- Practical expression: relationships with individuals, contacts with respected people, man time priority in connection, personal standing in connection, and personal ties with the state.
 
 ## Links
 
@@ -61,3 +56,5 @@ Connections with the authorities or leading persons. Manager. Representative of 
 - [Kronos](../factors/kronos.md)
 - [Node](../factors/node.md)
 - [Sun/Kronos](../axes/sun-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

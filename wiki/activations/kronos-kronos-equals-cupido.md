@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Kronos + Kronos`
-- Source page: `298`
 #### Witte Entry
 
 The head of the family. Distinguished or illustrious society or company. Great art and artists. Large corporations or enterprises. Meetings of heads of governments. License bureaus. Registry offices. United States or United Nations. To represent greatness in art. Art protector. Patron. Marriage-office.
 
-## Comparative Schema
-
-- core meaning: The head of the family. Distinguished or illustrious society or company. Great art and artists. Large corporations or enterprises. Meetings of heads of governments. License bureaus. Registry offices. United States or United Nations. To represent greatness in art. Art protector. Patron. Marriage-office.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Kronos = Cupido`: the head of the family, illustrious companies, large enterprises, distinguished gatherings, and official bodies tied to art, marriage, or governance.
+- Chart expression: ceremonial and institutional greatness, patronage, and authority expressed through prestigious groups and corporate structures.
 
 ## Links
 

@@ -3,7 +3,7 @@ title: Jupiter/Cupido = Mercury
 page_type: activation
 slug: jupiter-cupido-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Jupiter
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Cupido`
-- Source page: `211`
 #### Witte Entry
 
 Thoughts about a happy marriage, or partnership. Cheerful around the table talks. Information or plans on the status of family or company finances.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Thoughts about a happy marriage, or partnership. Cheerful around the table talks. Information or plans on the status of family or company finances.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Reports of a legal community, success through common language, success messages of a community, success of a media community, successful synthesis thinking, joy in a youth community, and talk about common money
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Cupido = Mercury`: communal happiness being coordinated through words and ideas. It favors convivial discussion, planning around marriage or household prosperity, and active communication within family or corporate settings.
 
 ## Links
 
@@ -61,3 +55,5 @@ Thoughts about a happy marriage, or partnership. Cheerful around the table talks
 - [Cupido](../factors/cupido.md)
 - [Mercury](../factors/mercury.md)
 - [Jupiter/Cupido](../axes/jupiter-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

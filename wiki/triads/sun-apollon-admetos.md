@@ -3,7 +3,7 @@ title: Sun Apollon Admetos
 page_type: triad_hub
 slug: sun-apollon-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Apollon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Apollon Admetos`
 - Astronomicon triad-set: `S ¥ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Apollon/Admetos = Sun](../activations/apollon-admetos-equals-sun.md)
-  Source page `306`
 - [Sun/Admetos = Apollon](../activations/sun-admetos-equals-apollon.md)
-  Source page `116`
 - [Sun/Apollon = Admetos](../activations/sun-apollon-equals-admetos.md)
-  Source page `115`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Apollon/Admetos = Sun`: page `306`
-- `Sun/Admetos = Apollon`: page `116`
-- `Sun/Apollon = Admetos`: page `115`
+- `Apollon/Admetos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `306`
+- `Apollon/Admetos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `468`
+- `Sun/Admetos = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `116`
+- `Sun/Admetos = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `169`
+- `Sun/Apollon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `115`
+- `Sun/Apollon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `167`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Apollon/Admetos = Sun`: rest, easy-minded satisfaction, and a selfhood that feels balanced enough not to be easily disturbed.
+- `Sun/Admetos = Apollon`: This formula emphasizes amply supplied with furniture or utensils for daily use and elevation of the ground.
+- `Sun/Apollon = Admetos`: This formula emphasizes successful in practical work and careful in active work.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Apollon](../factors/apollon.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Vernal Point/Moon = Admetos
 page_type: activation
 slug: vernal-point-moon-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Moon
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Moon
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Moon`
-- Source page: `38`
 #### Witte Entry
 
 Death of many female persons. The death of a nation.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Death of many female persons. The death of a nation.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Endurance of a woman in public life, blocked feelings in public, depressed miltters of the world, depressed people in public, restricted people in public life, and strengthening of women in public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Moon = Admetos`: death of many female persons and the death of a nation.
+- Practical expression: endurance of a woman in public life, blocked feelings in public, depressed miltters of the world, depressed people in public, and restricted people in public life.
 
 ## Links
 
@@ -61,3 +56,5 @@ Death of many female persons. The death of a nation.
 - [Moon](../factors/moon.md)
 - [Admetos](../factors/admetos.md)
 - [Vernal Point/Moon](../axes/vernal-point-moon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

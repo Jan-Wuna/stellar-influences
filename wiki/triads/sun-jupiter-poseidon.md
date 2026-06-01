@@ -3,7 +3,7 @@ title: Sun Jupiter Poseidon
 page_type: triad_hub
 slug: sun-jupiter-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Jupiter
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Jupiter Poseidon`
 - Astronomicon triad-set: `S V ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Poseidon = Sun](../activations/jupiter-poseidon-equals-sun.md)
-  Source page `218`
 - [Sun/Jupiter = Poseidon](../activations/sun-jupiter-equals-poseidon.md)
-  Source page `106`
 - [Sun/Poseidon = Jupiter](../activations/sun-poseidon-equals-jupiter.md)
-  Source page `118`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Poseidon = Sun`: page `218`
-- `Sun/Jupiter = Poseidon`: page `106`
-- `Sun/Poseidon = Jupiter`: page `118`
+- `Jupiter/Poseidon = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `218`
+- `Jupiter/Poseidon = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `346`
+- `Sun/Jupiter = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `106`
+- `Sun/Jupiter = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `149`
+- `Sun/Poseidon = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `118`
+- `Sun/Poseidon = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `172`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Poseidon = Sun`: days devoted to meditation and the figure of the person who listens to conscience, reason, and what is right.
+- `Sun/Jupiter = Poseidon`: This formula emphasizes spiritual happiness and fortunate inspiration.
+- `Sun/Poseidon = Jupiter`: This formula emphasizes fortunate inspiration and happiness through truth or spiritual life.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Jupiter](../factors/jupiter.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

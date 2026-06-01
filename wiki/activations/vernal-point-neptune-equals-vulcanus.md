@@ -3,7 +3,7 @@ title: Vernal Point/Neptune = Vulcanus
 page_type: activation
 slug: vernal-point-neptune-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Neptune
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Neptune`
-- Source page: `46`
 #### Witte Entry
 
 Great or severe disappointments.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great or severe disappointments.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Power losing in public, public air power, strong exchange in the 6public, unknown influence in public, insecurity through violence in public life, and future energy for the public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Neptune = Vulcanus`: great or severe disappointments.
+- Practical expression: power losing in public, public air power, strong exchange in the 6public, unknown influence in public, and insecurity through violence in public life.
 
 ## Links
 
@@ -61,3 +56,5 @@ Great or severe disappointments.
 - [Neptune](../factors/neptune.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Vernal Point/Neptune](../axes/vernal-point-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Uranus/Cupido = Hades
 page_type: activation
 slug: uranus-cupido-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Cupido
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Cupido`
-- Source page: `236`
 #### Witte Entry
 
 Sudden changes in a marriage caused by sickness or poverty. An association which suffers from lack or through sickness or poverty of the members.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sudden changes in a marriage caused by sickness or poverty. An association which suffers from lack or through sickness or poverty of the members.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Agitated community in need, mysterious tensions in of a community, artificial impulses from the past, inadequate technical synthesis, sudden danger to of a community, Surprising common deprivations, and hidden common distress
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Cupido = Hades`: Sudden changes in a marriage caused by sickness or poverty. An association which suffers from lack or through sickness or poverty of the members.
+- Practical expression: agitated community in need, mysterious tensions in a community, artificial impulses from the past, inadequate technical synthesis, and sudden danger to a community.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sudden changes in a marriage caused by sickness or poverty. An association which
 - [Cupido](../factors/cupido.md)
 - [Hades](../factors/hades.md)
 - [Uranus/Cupido](../axes/uranus-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

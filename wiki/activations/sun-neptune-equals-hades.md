@@ -3,7 +3,7 @@ title: Sun/Neptune = Hades
 page_type: activation
 slug: sun-neptune-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Neptune
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Neptune`
-- Source page: `109`
 #### Witte Entry
 
 Susceptible to serious epidemics. To be inclined to the use of narcotics. Destructive water or poison. The wrecking of an airship.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Susceptible to serious epidemics. To be inclined to the use of narcotics. Destructive water or poison. The wrecking of an airship.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+man disappointed through hardship, endangered bodily fluids, bodily deficiencies and weaknesses, lack of personal sensitivity, disadvantages through foreign persons, personal sensitivity through privation, and hidden bodily poison
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Neptune = Hades`: spiritual suffering and confusion under adverse conditions.
+- Practical expression: man disappointed through hardship, endangered bodily fluids, bodily deficiencies, weaknesses, and lack of personal sensitivity.
 
 ## Links
 
@@ -61,3 +56,5 @@ Susceptible to serious epidemics. To be inclined to the use of narcotics. Destru
 - [Neptune](../factors/neptune.md)
 - [Hades](../factors/hades.md)
 - [Sun/Neptune](../axes/sun-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Mars Uranus Poseidon
 page_type: triad_hub
 slug: mars-uranus-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Uranus
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Uranus Poseidon`
 - Astronomicon triad-set: `U X ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Poseidon = Uranus](../activations/mars-poseidon-equals-uranus.md)
-  Source page `204`
 - [Mars/Uranus = Poseidon](../activations/mars-uranus-equals-poseidon.md)
-  Source page `194`
 - [Uranus/Poseidon = Mars](../activations/uranus-poseidon-equals-mars.md)
-  Source page `243`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Poseidon = Uranus`: page `204`
-- `Mars/Uranus = Poseidon`: page `194`
-- `Uranus/Poseidon = Mars`: page `243`
+- `Mars/Poseidon = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `204`
+- `Mars/Poseidon = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `323`
+- `Mars/Uranus = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `194`
+- `Mars/Uranus = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `303`
+- `Uranus/Poseidon = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `243`
+- `Uranus/Poseidon = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `388`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Poseidon = Uranus`: shocks moral or intellectual life into sudden clarity and revealing action.
+- `Mars/Uranus = Poseidon`: aligns sudden force with truth, honesty, and clear moral action.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Uranus](../factors/uranus.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

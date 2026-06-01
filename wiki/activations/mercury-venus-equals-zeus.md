@@ -3,7 +3,7 @@ title: Mercury/Venus = Zeus
 page_type: activation
 slug: mercury-venus-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Venus
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Venus
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Venus`
-- Source page: `159`
 #### Witte Entry
 
 Acquaintances by order or work. To be forced to greet the superiors. Incendiary mania. Pyrotechnist. Artist with fireworks.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Acquaintances by order or work. To be forced to greet the superiors. Incendiary mania. Pyrotechnist. Artist with fireworks.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful peace language, artificial expression, the beauty of creative language, harmonic procreation language, powerful media arts, love witnessing in youth, creative writing arts, and female youth leadership
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Venus = Zeus`: Acquaintances by order or work. To be forced to greet the superiors. Incendiary mania. Pyrotechnist. Artist with fireworks.
+- Practical expression: effortful peace language, artificial expression, the beauty of creative language, harmonic procreation language, and powerful media arts.
 
 ## Links
 
@@ -61,3 +56,5 @@ Acquaintances by order or work. To be forced to greet the superiors. Incendiary 
 - [Venus](../factors/venus.md)
 - [Zeus](../factors/zeus.md)
 - [Mercury/Venus](../axes/mercury-venus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

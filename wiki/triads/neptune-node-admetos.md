@@ -3,7 +3,7 @@ title: Neptune Node Admetos
 page_type: triad_hub
 slug: neptune-node-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Neptune Node Admetos`
 - Astronomicon triad-set: `Y g ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Neptune/Admetos = Node](../activations/neptune-admetos-equals-node.md)
-  Source page `252`
 - [Neptune/Node = Admetos](../activations/neptune-node-equals-admetos.md)
-  Source page `147`
 - [Node/Admetos = Neptune](../activations/node-admetos-equals-neptune.md)
-  Source page `154`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Neptune/Admetos = Node`: page `252`
-- `Neptune/Node = Admetos`: page `147`
-- `Node/Admetos = Neptune`: page `154`
+- `Neptune/Admetos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `252`
+- `Neptune/Admetos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `402`
+- `Neptune/Node = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `147`
+- `Neptune/Node = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `221`
+- `Node/Admetos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `154`
+- `Node/Admetos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `235`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Neptune/Admetos = Node`: This activation links `Neptune/Admetos` to shared participation in changed conditions, whether through suffering, adaptation, or communal involvement. It shows hardship or transformation becoming relational, so people are joined by the very circumstances they must endure.
+- `Neptune/Node = Admetos`: This activation cools uncertain or porous ties into a slow, definite ending, showing relationships and unions that withdraw gradually until separation becomes irreversible.
+- `Node/Admetos = Neptune`: Dissolving connection with few. To free oneself from bonds, to untie.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [Node](../factors/node.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

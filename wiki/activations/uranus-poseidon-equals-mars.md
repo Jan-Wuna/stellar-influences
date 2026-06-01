@@ -3,7 +3,7 @@ title: Uranus/Poseidon = Mars
 page_type: activation
 slug: uranus-poseidon-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Uranus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Poseidon`
-- Source page: `243`
 #### Witte Entry
 
 To press energetically for attention and carefulness. To demand conscientiousness.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To press energetically for attention and carefulness. To demand conscientiousness.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+treat exciting truths, insightful work reform, eventful cultural work, spiritual work impulses, bring about cultural renewal, new spiritual work, work on new ideas, surprisingly clear actions, and rational technical work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Poseidon = Mars`: To press energetically for attention and carefulness. To demand conscientiousness.
+- Practical expression: treat exciting truths, insightful work reform, eventful cultural work, spiritual work impulses, and bring about cultural renewal.
 
 ## Links
 
@@ -61,3 +56,5 @@ To press energetically for attention and carefulness. To demand conscientiousnes
 - [Poseidon](../factors/poseidon.md)
 - [Mars](../factors/mars.md)
 - [Uranus/Poseidon](../axes/uranus-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

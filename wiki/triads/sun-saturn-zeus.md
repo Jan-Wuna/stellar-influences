@@ -3,7 +3,7 @@ title: Sun Saturn Zeus
 page_type: triad_hub
 slug: sun-saturn-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Saturn
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Saturn Zeus`
 - Astronomicon triad-set: `S W £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Saturn/Zeus = Sun](../activations/saturn-zeus-equals-sun.md)
-  Source page `226`
 - [Sun/Saturn = Zeus](../activations/sun-saturn-equals-zeus.md)
-  Source page `107`
 - [Sun/Zeus = Saturn](../activations/sun-zeus-equals-saturn.md)
-  Source page `113`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Saturn/Zeus = Sun`: page `226`
-- `Sun/Saturn = Zeus`: page `107`
-- `Sun/Zeus = Saturn`: page `113`
+- `Saturn/Zeus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `226`
+- `Saturn/Zeus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `358`
+- `Sun/Saturn = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `107`
+- `Sun/Saturn = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `151`
+- `Sun/Zeus = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `113`
+- `Sun/Zeus = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `163`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Sun/Saturn = Zeus`: This formula emphasizes effort under pressure and active struggle within limits.
+- `Sun/Zeus = Saturn`: This formula emphasizes inability to carry on and to get cold.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Saturn](../factors/saturn.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

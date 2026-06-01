@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Jupiter Chiron Neptune`
 - Astronomicon triad-set: `V Chiron Y`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Jupiter/Chiron = Neptune`: John, page `79`
 - `Jupiter/Neptune = Chiron`: John, page `81`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Neptune = Jupiter`: inspired faith, imaginative wisdom, and healing that works through expansive subtle understanding. Main caution: inflated idealism or trusting inspiration more than discernment.
+- `Jupiter/Chiron = Neptune`: healing through subtle insight, compassion, and spiritual receptivity. It can show deep knowing that arrives quietly but reaches far.
+- `Jupiter/Neptune = Chiron`: visionary compassion becoming therapeutically useful. It favors inspired healing presence, imaginative encouragement, and helping others believe in higher possibilities without forcing them.
 
 ## Links
 

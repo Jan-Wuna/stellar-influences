@@ -3,7 +3,7 @@ title: Zeus/Vulcanus = Admetos
 page_type: activation
 slug: zeus-vulcanus-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Zeus
   - Admetos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Vulcanus`
-- Source page: `295`
 #### Witte Entry
 
 A great enterprise is started on a small scale with expedients. To lay the Pee el foundation for a great work.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A great enterprise is started on a small scale with expedients. To lay the Pee el foundation for a great work.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+beginning of strong depressions, blockage of a leadership power, depressive leadership influence, restricted energy performance, contain fire force, consolidated leadership force, consolidate goals of power, creative circulatory energy, and resistance against the production of force
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Vulcanus = Admetos`: A great enterprise is started on a small scale with expedients. To lay the Pee el foundation for a great work.
+- Practical expression: beginning of strong depressions, blockage of a leadership power, depressive leadership influence, restricted energy performance, and contain fire force.
 
 ## Links
 
@@ -61,3 +56,5 @@ A great enterprise is started on a small scale with expedients. To lay the Pee e
 - [Vulcanus](../factors/vulcanus.md)
 - [Admetos](../factors/admetos.md)
 - [Zeus/Vulcanus](../axes/zeus-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

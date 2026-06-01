@@ -3,7 +3,7 @@ title: Venus/Mars = Admetos
 page_type: activation
 slug: venus-mars-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Mars
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Mars
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Mars`
-- Source page: `176`
 #### Witte Entry
 
 To refuse, to reject, to suppress or mortify the sexual urge. Small circle of relatives. A few intimate friends.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To refuse, to reject, to suppress or mortify the sexual urge. Small circle of relatives. A few intimate friends.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exhaustive preference for work, blocked peace work, restricted harmonyWill, restriction of love acts, consolidation of peace activities, grilndliche art, subordinated love impulses, and deepening of peace work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Mars = Admetos`: to refuse, to reject, to suppress or mortify the sexual urge.
+- Practical expression: exhaustive preference for work, blocked peace work, restricted harmonyWill, restriction of love acts, and consolidation of peace activities.
 
 ## Links
 
@@ -61,3 +56,5 @@ To refuse, to reject, to suppress or mortify the sexual urge. Small circle of re
 - [Mars](../factors/mars.md)
 - [Admetos](../factors/admetos.md)
 - [Venus/Mars](../axes/venus-mars.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

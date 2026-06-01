@@ -3,7 +3,7 @@ title: Jupiter/Admetos = Hades
 page_type: activation
 slug: jupiter-admetos-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Hades
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Admetos`
-- Source page: `216`
 #### Witte Entry
 
 To keep ones equanimity under evil and viscous circumstances. Not to be intimidated by misfortune or threat.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To keep ones equanimity under evil and viscous circumstances. Not to be intimidated by misfortune or threat.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Depression due to failure to succeed, success due to gross renunciation, success consolidation from the past, consolidation of old rights, criminal money circle, disadvantages due to moneyBlockade, need by right blocking, and deepening of the happiness in secret
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Admetos = Hades`: fortunate composure surviving inside bleakness. It can show dignity and calm where others would collapse under pressure.
 
 ## Links
 
@@ -61,3 +55,5 @@ To keep ones equanimity under evil and viscous circumstances. Not to be intimida
 - [Admetos](../factors/admetos.md)
 - [Hades](../factors/hades.md)
 - [Jupiter/Admetos](../axes/jupiter-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

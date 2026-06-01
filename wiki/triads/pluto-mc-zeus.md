@@ -3,7 +3,7 @@ title: Pluto MC Zeus
 page_type: triad_hub
 slug: pluto-mc-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Pluto MC Zeus`
 - Astronomicon triad-set: `Z MC £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Zeus = Pluto](../activations/mc-zeus-equals-pluto.md)
-  Source page `72`
 - [Pluto/MC = Zeus](../activations/pluto-mc-equals-zeus.md)
-  Source page `69`
 - [Pluto/Zeus = MC](../activations/pluto-zeus-equals-mc.md)
-  Source page `259`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Zeus = Pluto`: page `72`
-- `Pluto/MC = Zeus`: page `69`
-- `Pluto/Zeus = MC`: page `259`
+- `MC/Zeus = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `72`
+- `MC/Zeus = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `89`
+- `Pluto/MC = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `69`
+- `Pluto/MC = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `83`
+- `Pluto/Zeus = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `259`
+- `Pluto/Zeus = MC`: Udo Rudolph - ABC for Planetary Pictures, page `412`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Zeus = Pluto`: intensifies the axis into thrust, ambition, and transformational pressure.
+- `Pluto/MC = Zeus`: This activation emphasizes personal duty, effort or production intensifies as development turns in a new direction.
+- `Pluto/Zeus = MC`: This activation emphasizes one’s personal impulses; Sense of duty; To be conscientious; Eagerness to produce; To take over a duty.
 
 ## Links
 
 - [Pluto](../factors/pluto.md)
 - [MC](../factors/mc.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

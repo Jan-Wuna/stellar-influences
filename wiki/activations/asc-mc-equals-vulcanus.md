@@ -3,10 +3,10 @@ title: Asc/MC = Vulcanus
 page_type: activation
 slug: asc-mc-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Asc
+  - MC
   - Vulcanus
 normalized_formula: Asc/MC = Vulcanus
 axis: Asc/MC
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - MC
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Asc`
-- Source page: `58`
 #### Witte Entry
 
 To exercise power with other people. Joint proceedings.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To exercise power with other people. Joint proceedings.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Others influence me, energy of my partner, power of my partner, my influence on the partner, my environmental influence, my power for the environment, psychic violence of the partner, psychic strength of the partner, and psychic partner influence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/MC = Vulcanus`: commanding group operations, strong public impact, and relationships organized around force, stamina, or the ability to move matters through with others. Main caution: overpoweringness: the same collective strength that makes this effective can become coercive or too heavy-handed if not controlled.
 
 ## Links
 
@@ -61,3 +55,5 @@ To exercise power with other people. Joint proceedings.
 - [MC](../factors/mc.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Asc/MC](../axes/asc-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

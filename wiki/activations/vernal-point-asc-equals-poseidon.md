@@ -3,7 +3,7 @@ title: Vernal Point/Asc = Poseidon
 page_type: activation
 slug: vernal-point-asc-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Asc
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Asc
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Asc`
-- Source page: `36`
 #### Witte Entry
 
 To seek mental communities. To be introduced to ideas. Cities where there are universities and publishing houses.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To seek mental communities. To be introduced to ideas. Cities where there are universities and publishing houses.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Findings for the public Environment, witty partners in the public, clarity for a public place, culture place in the public, public place for truth, and public environment culture
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Asc = Poseidon`: to seek mental communities, to be introduced to ideas, and cities where there are universities and publishing houses.
+- Practical expression: findings for the public Environment, witty partners in the public, clarity for a public place, culture place in the public, and public place for truth.
 
 ## Links
 
@@ -61,3 +56,5 @@ To seek mental communities. To be introduced to ideas. Cities where there are un
 - [Asc](../factors/asc.md)
 - [Poseidon](../factors/poseidon.md)
 - [Vernal Point/Asc](../axes/vernal-point-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

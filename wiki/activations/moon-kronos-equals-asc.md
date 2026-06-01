@@ -3,7 +3,7 @@ title: Moon/Kronos = Asc
 page_type: activation
 slug: moon-kronos-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Asc
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Kronos`
-- Source page: `133`
 #### Witte Entry
 
 Acquaintance with independent women. Dealing with officials or governments.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Acquaintance with independent women. Dealing with officials or governments.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Recognized woman in the environment, dominance of other people, hierarchic of another people, managing partner gflihle, self governing woman as a woman, superiority feeling of the other, priority feeling of the partner, and important hour at the place
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Kronos = Asc`: Acquaintance with independent women. Dealing with officials or governments.
+- Practical expression: recognized woman in the environment, dominance of other people, managing partner gflihle, and self governing woman as a woman.
 
 ## Links
 
@@ -61,3 +56,5 @@ Acquaintance with independent women. Dealing with officials or governments.
 - [Kronos](../factors/kronos.md)
 - [Asc](../factors/asc.md)
 - [Moon/Kronos](../axes/moon-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

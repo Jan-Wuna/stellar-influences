@@ -3,7 +3,7 @@ title: Apollon/Poseidon = Sun
 page_type: activation
 slug: apollon-poseidon-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Apollon
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Apollon
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Apollon + Poseidon`
-- Source page: `308`
 #### Witte Entry
 
 The physical appearance as an expression of the mental and emotional attitude. The man who reveals his mental and emotional disposition, who shows his attitude. Days which are very exacting concerning the disposition and attitude.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The physical appearance as an expression of the mental and emotional attitude. The man who reveals his mental and emotional disposition, who shows his attitude. Days which are very exacting concerning the disposition and attitude.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Success of a human being through reason, spiritual freedom of a person, spiritual knowledge centre, personal success idea, spiritual success over the body, clear personal knowledge, clear knowledge of the body, and personal culture success
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Poseidon = Sun`: identity expressed through worldview, and to periods where one's disposition or guiding outlook is especially tested or exposed. Main caution: overexposed mentality: the person may become too transparently defined by attitude, principle, or ideal stance.
 
 ## Links
 
@@ -61,3 +55,5 @@ The physical appearance as an expression of the mental and emotional attitude. T
 - [Poseidon](../factors/poseidon.md)
 - [Sun](../factors/sun.md)
 - [Apollon/Poseidon](../axes/apollon-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Mars Cupido Zeus
 page_type: triad_hub
 slug: mars-cupido-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Cupido Zeus`
 - Astronomicon triad-set: `U ¡ £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Zeus = Mars](../activations/cupido-zeus-equals-mars.md)
-  Source page `268`
 - [Mars/Cupido = Zeus](../activations/mars-cupido-equals-zeus.md)
-  Source page `197`
 - [Mars/Zeus = Cupido](../activations/mars-zeus-equals-cupido.md)
-  Source page `199`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Zeus = Mars`: page `268`
-- `Mars/Cupido = Zeus`: page `197`
-- `Mars/Zeus = Cupido`: page `199`
+- `Cupido/Zeus = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `268`
+- `Cupido/Zeus = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `426`
+- `Mars/Cupido = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `197`
+- `Mars/Cupido = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `309`
+- `Mars/Zeus = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `199`
+- `Mars/Zeus = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `313`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Zeus = Mars`: preparation for labor, cooperative energetic effort, decisive organization, and coordinated industrial or military action.
+- `Mars/Cupido = Zeus`: directs Mars/Cupido into production, procreation, and forceful results in shared life.
+- `Mars/Zeus = Cupido`: collectivizes the axis into marriage, art, and organized production.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Cupido](../factors/cupido.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

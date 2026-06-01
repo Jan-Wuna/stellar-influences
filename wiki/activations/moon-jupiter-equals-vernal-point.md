@@ -3,7 +3,7 @@ title: Moon/Jupiter = Vernal Point
 page_type: activation
 slug: moon-jupiter-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Jupiter
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Moon
   - Jupiter
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Jupiter`
-- Source page: `125`
 #### Witte Entry
 
 Happy hours. Fortunate change in general. Happy and contented nation.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Happy hours. Fortunate change in general. Happy and contented nation.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful woman in public life, financial woman in public, finances of the people in public, glUcklichc hour in public life, glickliches people in public, public joy of the people, and people law in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Jupiter = Vernal Point`: Happy hours. Fortunate change in general. Happy and contented nation.
+- Practical focus: externalizes `Moon/Jupiter` into visible good fortune, general uplift, and publicly recognizable contentment. It points to happy periods, beneficial change, and a wider atmosphere of ease, making emotional abundance more collective, social, and immediately noticeable in the world.
+- Practical expression: successful woman in public life, financial woman in public, finances of the people in public, glUcklichc hour in public life, and glickliches people in public.
 
 ## Links
 
@@ -61,3 +57,5 @@ Happy hours. Fortunate change in general. Happy and contented nation.
 - [Jupiter](../factors/jupiter.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Moon/Jupiter](../axes/moon-jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

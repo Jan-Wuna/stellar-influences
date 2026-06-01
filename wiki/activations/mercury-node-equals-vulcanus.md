@@ -3,10 +3,10 @@ title: Mercury/Node = Vulcanus
 page_type: activation
 slug: mercury-node-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Mercury
+  - Node
   - Vulcanus
 normalized_formula: Mercury/Node = Vulcanus
 axis: Mercury/Node
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Node
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Mercury`
-- Source page: `141`
 #### Witte Entry
 
 Mighty, extraordinary thought activity. Special abilities in coordination of thoughts. Mighty connections of thoughts, correspondence, conversations.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mighty, extraordinary thought activity. Special abilities in coordination of thoughts. Mighty connections of thoughts, correspondence, conversations.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influence of a youth connection, influential media connections, violence against youth connections, powerful thought connections, news about violence in connections, speech violence in relationships, and strong connection to youth
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Node = Vulcanus` strengthens the axis into powerful coordination of thought.
+- Chart expression: extraordinary mental activity, strong correspondence and conversations, and unusual ability to align, coordinate, or intensify the thinking of many people at once.
 
 ## Links
 
@@ -61,3 +56,5 @@ Mighty, extraordinary thought activity. Special abilities in coordination of tho
 - [Node](../factors/node.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Mercury/Node](../axes/mercury-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

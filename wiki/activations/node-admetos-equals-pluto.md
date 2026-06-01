@@ -3,7 +3,7 @@ title: Node/Admetos = Pluto
 page_type: activation
 slug: node-admetos-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Node
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Admetos`
-- Source page: `154`
 #### Witte Entry
 
 P Fundamental transformation in connection with a few. Weakening or strengthening the bonds.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: P Fundamental transformation in connection with a few. Weakening or strengthening the bonds.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Intensification of a connection to the whole, linked by depression, restricted community connections, firmly connected community, large community community, and connection to the artificial strengthening
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Admetos = Pluto`: P Fundamental transformation in connection with a few. Weakening or strengthening the bonds.
+- Practical focus: weakening or strengthening the bonds.
+- In difficult expression, it can mark p Fundamental transformation in connection with a few.
 
 ## Links
 
@@ -61,3 +57,5 @@ P Fundamental transformation in connection with a few. Weakening or strengthenin
 - [Admetos](../factors/admetos.md)
 - [Pluto](../factors/pluto.md)
 - [Node/Admetos](../axes/node-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

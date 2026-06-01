@@ -3,10 +3,10 @@ title: Saturn/Node = Kronos
 page_type: activation
 slug: saturn-node-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Saturn
+  - Node
   - Kronos
 normalized_formula: Saturn/Node = Kronos
 axis: Saturn/Node
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Node
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Saturn`
-- Source page: `145`
 #### Witte Entry
 
 Disagreeableness through the chief. Restriction through the state. To be separated by the government or some superior power.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Disagreeableness through the chief. Restriction through the state. To be separated by the government or some superior power.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special tasks a connection, distanced connection to the authority, inhibited independence in a relationship, loss of independence in a connection, loss of connection to the state, and important connections in old age
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Node = Kronos`: disagreeableness through the chief, restriction through the state.
+- Practical expression: special tasks a connection, distanced connection to the authority, inhibited independence in a relationship, loss of independence in a connection, and loss of connection to the state.
 
 ## Links
 
@@ -61,3 +56,5 @@ Disagreeableness through the chief. Restriction through the state. To be separat
 - [Node](../factors/node.md)
 - [Kronos](../factors/kronos.md)
 - [Saturn/Node](../axes/saturn-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

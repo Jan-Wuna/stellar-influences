@@ -3,7 +3,7 @@ title: Saturn/Apollon = Mars
 page_type: activation
 slug: saturn-apollon-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Saturn
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Apollon`
-- Source page: `228`
 #### Witte Entry
 
 Systematic proceedings. Activities are carried out after a certain method.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Systematic proceedings. Activities are carried out after a certain method.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Editing old knowledge, broadening the problems of work, success through patient work, successful embezzlement in old age, successful concentration on work, concentrated embezzlement of knowledge, developing mature knowledge, and lossy trade work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Apollon = Mars`: systematic proceedings, activities are carried out after a certain method.
+- Practical expression: editing old knowledge, broadening the problems of work, success through patient work, successful embezzlement in old age, and successful concentration on work.
 
 ## Links
 
@@ -61,3 +56,5 @@ Systematic proceedings. Activities are carried out after a certain method.
 - [Apollon](../factors/apollon.md)
 - [Mars](../factors/mars.md)
 - [Saturn/Apollon](../axes/saturn-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

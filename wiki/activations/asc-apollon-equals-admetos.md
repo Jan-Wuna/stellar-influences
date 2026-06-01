@@ -3,7 +3,7 @@ title: Asc/Apollon = Admetos
 page_type: activation
 slug: asc-apollon-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - Apollon
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Apollon`
-- Source page: `95`
 #### Witte Entry
 
 Retarded business. Steady customers. No further business can be done.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Retarded business. Steady customers. No further business can be done.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked partner freedom, restricted freedom in the place, consolidation of environmental results, major success of others, increased congestion in the place, deepening of environmental experiences, vie) limitations by the partner, and increasing depression of the partner
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Apollon = Admetos`: steady contacts, a settled commercial field, and familiar reach that has become narrow or static. Main caution: stalled expansion: breadth turns into repetition, and existing connections remain while further development stops.
 
 ## Links
 
@@ -61,3 +55,5 @@ Retarded business. Steady customers. No further business can be done.
 - [Apollon](../factors/apollon.md)
 - [Admetos](../factors/admetos.md)
 - [Asc/Apollon](../axes/asc-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

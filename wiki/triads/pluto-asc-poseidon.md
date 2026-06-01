@@ -3,7 +3,7 @@ title: Pluto Asc Poseidon
 page_type: triad_hub
 slug: pluto-asc-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Pluto Asc Poseidon`
 - Astronomicon triad-set: `Z Asc ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Poseidon = Pluto](../activations/asc-poseidon-equals-pluto.md)
-  Source page `98`
 - [Pluto/Asc = Poseidon](../activations/pluto-asc-equals-poseidon.md)
-  Source page `90`
 - [Pluto/Poseidon = Asc](../activations/pluto-poseidon-equals-asc.md)
-  Source page `264`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Poseidon = Pluto`: page `98`
-- `Pluto/Asc = Poseidon`: page `90`
-- `Pluto/Poseidon = Asc`: page `264`
+- `Asc/Poseidon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `98`
+- `Asc/Poseidon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `137`
+- `Pluto/Asc = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `90`
+- `Pluto/Asc = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `121`
+- `Pluto/Poseidon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `264`
+- `Pluto/Poseidon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `422`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Poseidon = Pluto`: being with people undergoing deep mental or spiritual change and sharing an environment charged with ideological upheaval.
+- `Pluto/Asc = Poseidon`: This activation emphasizes changes of place for the purpose of intellectual and spiritual development and education; Waves in the surrounding area.
+- `Pluto/Poseidon = Asc`: This activation emphasizes the people around the native change and develop mentally.
 
 ## Links
 
 - [Pluto](../factors/pluto.md)
 - [Asc](../factors/asc.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Moon/Admetos = Sun
 page_type: activation
 slug: moon-admetos-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Moon
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Admetos`
-- Source page: `135`
 #### Witte Entry
 
 Daily repeating sad hours. To be daily conscious of crowded conditions. The personal attitude toward death. Day and hour of death. Remaining immovable.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Daily repeating sad hours. To be daily conscious of crowded conditions. The personal attitude toward death. Day and hour of death. Remaining immovable.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+A man's poor heart, a man's basic wife, a man's restricted man's wife, a man's restricted woman, people of a depressed people, a person's intensification, and day and hour of resistance
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Admetos = Sun`: Daily repeating sad hours. To be daily conscious of crowded conditions. The personal attitude toward death. Day and hour of death. Remaining immovable.
+- Practical expression: A man's poor heart, a man's basic wife, a man's restricted man's wife, a man's restricted woman, and people of a depressed people.
 
 ## Links
 
@@ -61,3 +56,5 @@ Daily repeating sad hours. To be daily conscious of crowded conditions. The pers
 - [Admetos](../factors/admetos.md)
 - [Sun](../factors/sun.md)
 - [Moon/Admetos](../axes/moon-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

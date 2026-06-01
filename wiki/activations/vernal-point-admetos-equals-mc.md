@@ -3,7 +3,7 @@ title: Vernal Point/Admetos = MC
 page_type: activation
 slug: vernal-point-admetos-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - MC
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Admetos`
-- Source page: `53`
 #### Witte Entry
 
 Checkmated. Strong resistance in general. To be exhausted.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Checkmated. Strong resistance in general. To be exhausted.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+I at the engrossed in the public sphere, my public circulation, my perseverance in the open mindedness, my firmness in public life, and my psychic support in the public sphere
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Admetos = MC`: checkmated, strong resistance in general, and to be exhausted.
+- Practical expression: i at the engrossed in the public sphere, my public circulation, my perseverance in the open mindedness, my firmness in public life, and my psychic support in the public sphere.
 
 ## Links
 
@@ -61,3 +56,5 @@ Checkmated. Strong resistance in general. To be exhausted.
 - [Admetos](../factors/admetos.md)
 - [MC](../factors/mc.md)
 - [Vernal Point/Admetos](../axes/vernal-point-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

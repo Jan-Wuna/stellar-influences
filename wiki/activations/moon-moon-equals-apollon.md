@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Moon + Moon`
-- Source page: `120`
 #### Witte Entry
 
 Experience. Many hours. Multitude of a people. Spreading of a people. Many nations. Multitude of females. Generous disposition women or nations. A group of people who are foresighted.
 
-## Comparative Schema
-
-- core meaning: Experience. Many hours. Multitude of a people. Spreading of a people. Many nations. Multitude of females. Generous disposition women or nations. A group of people who are foresighted.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Moon = Apollon`: Experience. Many hours. Multitude of a people. Spreading of a people. Many nations. Multitude of females. Generous disposition women or nations. A group of people who are foresighted.
+- Practical focus: expands `Moon/Moon` into multitude, circulation, and collective abundance. It points to many women, many peoples, long spans of experience, and a wider social horizon, so emotion and public life become more distributed, generous, and capable of operating on a national or mass scale.
 
 ## Links
 

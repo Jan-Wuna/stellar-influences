@@ -3,7 +3,7 @@ title: Vernal Point/MC = Node
 page_type: activation
 slug: vernal-point-mc-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - MC
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Node
   - MC
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + MC`
-- Source page: `35`
 #### Witte Entry
 
 To be associated professionally with others in public. To have many connections and to get them easily.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be associated professionally with others in public. To have many connections and to get them easily.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+My contacts in the public Life, my connections to the world, minute of encounter in the public, spiritual encounter in the public Life, and connection to the worldSoul
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/MC = Node`: to be associated professionally with others in public and to have many connections and to get them easily.
+- Practical expression: my contacts in the public Life, my connections to the world, minute of encounter in the public, spiritual encounter in the public Life, and connection to the worldSoul.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be associated professionally with others in public. To have many connections 
 - [MC](../factors/mc.md)
 - [Node](../factors/node.md)
 - [Vernal Point/MC](../axes/vernal-point-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

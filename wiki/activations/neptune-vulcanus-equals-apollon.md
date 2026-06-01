@@ -3,7 +3,7 @@ title: Neptune/Vulcanus = Apollon
 page_type: activation
 slug: neptune-vulcanus-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Apollon
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Vulcanus`
-- Source page: `253`
 #### Witte Entry
 
 Inflation. Destruction of prosperity. Great schemes of swindles. Detection of extensive corruption.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Inflation. Destruction of prosperity. Great schemes of swindles. Detection of extensive corruption.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+influence through refinement of knowledge, influential trade with water, energy economy with fine substances, experiences with wind energy, success through strong intuition, sea trade power, strong influence of metaphysics, and increase of water energy
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Vulcanus = Apollon`: Inflation. Destruction of prosperity. Great schemes of swindles. Detection of extensive corruption.
+- Practical focus: expands hidden force into large-scale distortion, inflation, or corruption. It can show powerful deceptive schemes, destructive excess around prosperity, or the exposure of broad networks of fraud and misuse.
+- Practical expression: influence through refinement of knowledge, influential trade with water, energy economy with fine substances, experiences with wind energy, and success through strong intuition.
 
 ## Links
 
@@ -61,3 +57,5 @@ Inflation. Destruction of prosperity. Great schemes of swindles. Detection of ex
 - [Vulcanus](../factors/vulcanus.md)
 - [Apollon](../factors/apollon.md)
 - [Neptune/Vulcanus](../axes/neptune-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

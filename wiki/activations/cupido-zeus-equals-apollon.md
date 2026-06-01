@@ -3,7 +3,7 @@ title: Cupido/Zeus = Apollon
 page_type: activation
 slug: cupido-zeus-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Cupido
   - Zeus
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Zeus`
-- Source page: `268`
 #### Witte Entry
 
 To unite for common efforts. Foundation of a corporation for trade or science.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To unite for common efforts. Foundation of a corporation for trade or science.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful leadership community, successful joint efforts, achievements of a commercial community, creative arts experience, scientific filtration community, and objectives of a free community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Zeus = Apollon`: organizational initiative scaling outward into commerce, research, or large cooperative ventures. Main caution: enlarging the structure faster than its core intention can sustain.
 
 ## Links
 
@@ -61,3 +55,5 @@ To unite for common efforts. Foundation of a corporation for trade or science.
 - [Zeus](../factors/zeus.md)
 - [Apollon](../factors/apollon.md)
 - [Cupido/Zeus](../axes/cupido-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

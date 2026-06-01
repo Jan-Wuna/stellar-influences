@@ -3,7 +3,7 @@ title: Venus Jupiter Admetos
 page_type: triad_hub
 slug: venus-jupiter-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Jupiter
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Jupiter Admetos`
 - Astronomicon triad-set: `Q V ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Admetos = Venus](../activations/jupiter-admetos-equals-venus.md)
-  Source page `216`
 - [Venus/Admetos = Jupiter](../activations/venus-admetos-equals-jupiter.md)
-  Source page `187`
 - [Venus/Jupiter = Admetos](../activations/venus-jupiter-equals-admetos.md)
-  Source page `177`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Admetos = Venus`: page `216`
-- `Venus/Admetos = Jupiter`: page `187`
-- `Venus/Jupiter = Admetos`: page `177`
+- `Jupiter/Admetos = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `216`
+- `Jupiter/Admetos = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `342`
+- `Venus/Admetos = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `187`
+- `Venus/Admetos = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `292`
+- `Venus/Jupiter = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `177`
+- `Venus/Jupiter = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `273`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Admetos = Venus`: joy in giving and money gladly spent.
+- `Venus/Admetos = Jupiter`: happy in a close circle, or resting deeply absorbed in thoughts.
+- `Venus/Jupiter = Admetos`: to have a few good friends.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Jupiter](../factors/jupiter.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

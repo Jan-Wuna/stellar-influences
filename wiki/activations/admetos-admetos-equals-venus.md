@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Admetos + Admetos`
-- Source page: `309`
 #### Witte Entry
 
 Connected in love and friendship with a few. Picky, but true and deep in love and friendship. Unselfish. End of a love. Meditation, turning inwards. Death of female persons. Repressed affections. Frigidity in love. Heartlessness. Death of love. Without sensation. Limited feeling.
 
-## Comparative Schema
-
-- core meaning: Connected in love and friendship with a few. Picky, but true and deep in love and friendship. Unselfish. End of a love. Meditation, turning inwards. Death of female persons. Repressed affections. Frigidity in love. Heartlessness. Death of love. Without sensation. Limited feeling.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Admetos/Admetos = Venus`: loyal but few connections and a preference for depth over breadth in friendship or intimacy. Main caution: deadened feeling: frigidity, heartlessness, repressed affection, or the experience that love has narrowed into isolation, loss, or emotional nonresponse.
 
 ## Links
 

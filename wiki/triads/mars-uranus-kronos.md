@@ -3,7 +3,7 @@ title: Mars Uranus Kronos
 page_type: triad_hub
 slug: mars-uranus-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Uranus
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Uranus Kronos`
 - Astronomicon triad-set: `U X ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Kronos = Uranus](../activations/mars-kronos-equals-uranus.md)
-  Source page `200`
 - [Mars/Uranus = Kronos](../activations/mars-uranus-equals-kronos.md)
-  Source page `194`
 - [Uranus/Kronos = Mars](../activations/uranus-kronos-equals-mars.md)
-  Source page `239`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Kronos = Uranus`: page `200`
-- `Mars/Uranus = Kronos`: page `194`
-- `Uranus/Kronos = Mars`: page `239`
+- `Mars/Kronos = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `200`
+- `Mars/Kronos = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `315`
+- `Mars/Uranus = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `194`
+- `Mars/Uranus = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `303`
+- `Uranus/Kronos = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `239`
+- `Uranus/Kronos = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `380`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Kronos = Uranus`: makes official force sudden, disruptive, and sharply interventionist.
+- `Mars/Uranus = Kronos`: brings rebellion and sudden force directly into the sphere of authority.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Uranus](../factors/uranus.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

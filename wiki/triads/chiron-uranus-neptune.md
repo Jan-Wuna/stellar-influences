@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Chiron Uranus Neptune`
 - Astronomicon triad-set: `Chiron X Y`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Chiron/Uranus = Neptune`: John, page `96`
 - `Uranus/Neptune = Chiron`: John, page `104`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Neptune = Uranus`: sudden healing insight, unconventional sensitivity, and inspired methods that bypass stale patterns. Main caution: instability or mistaking every impulse for revelation.
+- `Chiron/Uranus = Neptune`: synchronistic healing, symbolic guidance, and imaginative openness to nonordinary messages. Main caution: overreading signs or drifting into magical thinking without discernment.
+- `Uranus/Neptune = Chiron`: One’s vibration brings a subtle cosmic element to everything one touches and every person one meets. Healing others through making them aware that they are much greater, more powerful, and wiser than any and all of their problems.
 
 ## Links
 

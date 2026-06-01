@@ -3,7 +3,7 @@ title: Uranus Cupido Vulcanus
 page_type: triad_hub
 slug: uranus-cupido-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Cupido
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Cupido Vulcanus`
 - Astronomicon triad-set: `X ¡ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Vulcanus = Uranus](../activations/cupido-vulcanus-equals-uranus.md)
-  Source page `273`
 - [Uranus/Cupido = Vulcanus](../activations/uranus-cupido-equals-vulcanus.md)
-  Source page `236`
 - [Uranus/Vulcanus = Cupido](../activations/uranus-vulcanus-equals-cupido.md)
-  Source page `242`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Vulcanus = Uranus`: page `273`
-- `Uranus/Cupido = Vulcanus`: page `236`
-- `Uranus/Vulcanus = Cupido`: page `242`
+- `Cupido/Vulcanus = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `273`
+- `Cupido/Vulcanus = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `435`
+- `Uranus/Cupido = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `236`
+- `Uranus/Cupido = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `375`
+- `Uranus/Vulcanus = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `242`
+- `Uranus/Vulcanus = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `387`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Vulcanus = Uranus`: collective contests of force, abrupt access to a great society, and artistic or organizational creation achieved by superhuman effort in very little time.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Cupido](../factors/cupido.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

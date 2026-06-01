@@ -3,7 +3,7 @@ title: Vernal Point/Apollon = Poseidon
 page_type: activation
 slug: vernal-point-apollon-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Apollon
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Apollon`
-- Source page: `52`
 #### Witte Entry
 
 Spreading extensive ideas to the world. Knowledge and education about public economy.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Spreading extensive ideas to the world. Knowledge and education about public economy.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Success in the public through truth, public culture success, mind science in the public, intellectual freedom in the public, culture science in the public life, and truth experiences in the public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Apollon = Poseidon`: spreading extensive ideas to the world and knowledge and education about public economy.
+- Practical expression: success in the public through truth, public culture success, mind science in the public, intellectual freedom in the public, and culture science in the public life.
 
 ## Links
 
@@ -61,3 +56,5 @@ Spreading extensive ideas to the world. Knowledge and education about public eco
 - [Apollon](../factors/apollon.md)
 - [Poseidon](../factors/poseidon.md)
 - [Vernal Point/Apollon](../axes/vernal-point-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

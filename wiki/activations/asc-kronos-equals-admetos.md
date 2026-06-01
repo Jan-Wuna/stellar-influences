@@ -3,7 +3,7 @@ title: Asc/Kronos = Admetos
 page_type: activation
 slug: asc-kronos-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - Kronos
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Kronos`
-- Source page: `94`
 #### Witte Entry
 
 Disagreeable subordinates. Discharged by the state.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Disagreeable subordinates. Discharged by the state.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Perseverance of the hierarchy of a place, limitation of the self governingness of the partner, special deepening at the place, blockade of a state place, restriction of a large place, consolidation of the authorship at the place, and grtindliche steering of others
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Kronos = Admetos`: stalled advancement, heavy institutional pressure, and rank structures that feel harsh and immovable. Main caution: immobilized hierarchy: authority becomes burdensome, punitive, and difficult to alter.
 
 ## Links
 
@@ -61,3 +55,5 @@ Disagreeable subordinates. Discharged by the state.
 - [Kronos](../factors/kronos.md)
 - [Admetos](../factors/admetos.md)
 - [Asc/Kronos](../axes/asc-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

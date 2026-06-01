@@ -3,7 +3,7 @@ title: Saturn/Hades = Neptune
 page_type: activation
 slug: saturn-hades-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Neptune
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Hades`
-- Source page: `225`
 #### Witte Entry
 
 Severe loss. Dismal fate. Floods. Losses at sea. Slow decay of the body (cancer).
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Severe loss. Dismal fate. Floods. Losses at sea. Slow decay of the body (cancer).
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dissolving past problems, pollution from dirt water, dangerous problems in the air, severe deprivation in the water, concentration on secrets of metaphysics, grief and pain by the weak, and hidden losses in the water
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Hades = Neptune`: severe loss, dismal fate, floods.
+- Practical expression: dissolving past problems, pollution from dirt water, dangerous problems in the air, severe deprivation in the water, and concentration on secrets of metaphysics.
 
 ## Links
 
@@ -61,3 +56,5 @@ Severe loss. Dismal fate. Floods. Losses at sea. Slow decay of the body (cancer)
 - [Hades](../factors/hades.md)
 - [Neptune](../factors/neptune.md)
 - [Saturn/Hades](../axes/saturn-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

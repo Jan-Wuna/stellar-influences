@@ -3,7 +3,7 @@ title: MC/Zeus = Cupido
 page_type: activation
 slug: mc-zeus-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Cupido
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Zeus`
-- Source page: `72`
 #### Witte Entry
 
 Need to work in community. Artistic creativity. To bring something new in art.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Need to work in community. Artistic creativity. To bring something new in art.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Fiery soul community, common leadership of a soul, common scelic goals, I lead of a community, inner fire of a community, my goal for the community, my artificial creations, and my achievements for the community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Zeus = Cupido` joins the axis to communal work, artistry, and group creation.
+- Chart expression: creative effort expressed through community, collaborative production, and the urge to contribute something new within artistic or social circles.
 
 ## Links
 
@@ -61,3 +56,5 @@ Need to work in community. Artistic creativity. To bring something new in art.
 - [Zeus](../factors/zeus.md)
 - [Cupido](../factors/cupido.md)
 - [MC/Zeus](../axes/mc-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

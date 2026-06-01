@@ -3,7 +3,7 @@ title: Hades/Poseidon = Moon
 page_type: activation
 slug: hades-poseidon-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Hades
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Poseidon`
-- Source page: `286`
 #### Witte Entry
 
 Odd female persons. To stand out from other persons and the public in relation to mentality and understanding of the world, The native, as a rule, has no understanding for the public or other people in this respect.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Odd female persons. To stand out from other persons and the public in relation to mentality and understanding of the world, The native, as a rule, has no understanding for the public or other people in this respect.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Old people of culture, dangerous spirit of a people, hidden clearly, cultural past of a people, lack of clear feelings, lack of clarity of a woman, hidden people's culture, poor renunciation of a woman, and people's culture in danger
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Poseidon = Moon`: emotional life and public contact being shaped by estrangement in worldview. The person may stand apart from common feeling or feel that the public cannot meet them mentally.
 
 ## Links
 
@@ -61,3 +55,5 @@ Odd female persons. To stand out from other persons and the public in relation t
 - [Poseidon](../factors/poseidon.md)
 - [Moon](../factors/moon.md)
 - [Hades/Poseidon](../axes/hades-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

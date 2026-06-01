@@ -58,13 +58,14 @@ aliases:
   - Neptune/Moon
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -77,17 +78,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Neptune`
-- Source page: `128`
-
 #### Pair Summary
 
 To fall asleep. To dream. State of dreaming. Cerebral state of sleep. Not quite clearly conscious. Dazed. Receptive brains. Delicacy, tact. To have a scent for something. Sensitive or feeble woman. Deceiving or disappointed woman. Hours of relaxation. Night hours. Light, thin gas. Inspiration. Sensitivity. Air. Change in weather. Smell.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Moon/Neptune`
-- Source page: `131`
+#### ABC Pair Summary
+
+Interchanged frnu, woman of the future, foreign woman, foreign people, weak woman, hour of exchange, unclear customs, insecure woman, refined customs, future of a people, and poor woman
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -111,17 +112,11 @@ Sensitive persons, impressionable women, weak or feeble persons. Disappointed or
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
-- Source heading: `Moon/Neptune`
-- Source page: `30`
-
 #### Falis Entry
 
 Wanting to escape. Emotionally elusive. Refined emotions. Refined sensitivity. Emotionally delicate. Fragile emotional states. Emotionally confused. Compas sionate feelings. Artistic sensitivity. Imaginary emotions. Feeling comfortable with lies. Compassion for your mother. Feeling like a victim. Fluctuating imagination. Inconsistent imagination. Inconsistent compassion. Feeling comfortable in the world of imagination. Feeling comfortable dropping out. Feeling comfortable with sensitive people. Comfortable being around people you feel sorry for. Living in fan tasy world. Overly idealistic longings. Lack of emotional boundaries. Merging with other people emotionally. Merging with your mother. Absorbing too much of your mother's emotional states. Merging spiritually. Taking on other people's feelings. Inability to discern where your feel ings stop and another person's emotions start. Emotional sponge. Emotional sensitivity overload. Overly sensitive to the emotional environment. Letting other people's moods seep into your emotions. Merging with the women in your life. In ability to cope with cold, hard reality. Unrealistic emotional expectations. Blurring emotional boundaries. Because your boundaries are blurry, you think everything re lates to you or is about you. You blame yourself for circumstances that have noth ing to do with you. You blame yourself for reactions in others that have nothing to do with you. You pick up on the emotions around you. You are psychically sensi tive to the way other people are feeling. You are the first to ask, "What's wrong? Are you OK? Is everything alright?" You desperately want to merge with something greater than yourself. Seeking to merge through drugs or alcohol use. Seeking to merge through spiritual practice. Delusional feelings. Delusional hunches. Seeking to merge through music and film. Surrendering to cinema. Surrendering to music. Surrendering to dance. Watching movies makes you happy. You let go and escape through film. Photography makes you happy. Dance makes you happy. Having no responsibilities makes you happy. Spirituality makes you happy. Music makes you happy. Seclusion due to hypersensitivity. Retreat. Isolation, to avoid the abrasive outside world. Emotional disintegration. Emotionally diffuse. Confused habits. Emotionally frazzled. Caring for the sick, weak or injured. Caring for people who are down on their luck. Charitable intentions. Comfortable being a martyr. Comfortable with selflessness. Self-pity. Empathy. Unselfish emotional expression. Seeing mom as a victim. See ing mom as a martyr. Liking sensitive, refined, gentle women. Liking spiritually inclined women. Liking women who are compassionate and empathic. Interested in psychic phenomena. Having psychic intuition. Having a psychic connection to your mother. Chaotic, undefined, difficult to grasp feelings. Vague feelings and hunches. Inability to pinpoint how you feel. Emotionally frail. Spreading your emo tions thinly. No awareness of having a separate emotional life. An emotional life that is tangled up with the people around you. Inability to separate what you feel from what other people feel. Picking up the habits of the people around you. You need to be careful who you live with.
 
 ### Charles Carter - The Astrological Aspects
-
-- Source heading: `ASPECTS OF THE MOON & NEPTUNE`
-- Source page: `31`
 
 #### Harmonious Aspects
 
@@ -171,9 +166,6 @@ The tendency to resort to spiritualistic practices is common under these configu
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Moon/Neptune midpoint`
-- Source page: `34`
-
 #### Principle
 
 Emotional sensitivity. The ability to feel the feelings of others, unfortunately often confusing them with one’s own. To be uncertain as to how one feels, often be cause many different emotions are mixing together. To be a selfsacrificing nurturer. The receiving of subtle impressions. Strange or undiagnosable health problems caused by taking on negative psychic energy.
@@ -184,17 +176,11 @@ Emotional attunement to higher spiritual realities. The clarifying and refining 
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Moon/Neptune`
-- Source page: `203`
-
 #### Pair Delineation
 
 Extreme sensitivity and subjection to external energies and influences. Tendency to self-sacrifice or martyrdom. Passivity. Escapism, fantasies, unconscious forces influencing the imagination. Illusions created by subconscious desires or energies that have their origin in the past.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `MOON/NEPTUNE`
-- Source page: `127`
 
 #### Basic Ideas
 
@@ -223,15 +209,6 @@ Ulcers; a nervous stomach; reactions bought on by a sensitivity to drugs; sensit
 
 - [Michael Munkasey - Moon/Neptune Concepts](../derived/munkasey-moon-neptune-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Moon/Neptune = Admetos](../activations/moon-neptune-equals-admetos.md)
@@ -256,20 +233,18 @@ Ulcers; a nervous stomach; reactions bought on by a sensitivity to drugs; sensit
 - [Moon/Neptune = Vulcanus](../activations/moon-neptune-equals-vulcanus.md)
 - [Moon/Neptune = Zeus](../activations/moon-neptune-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Neptune` is the axis of porous feeling, empathy, dream, and emotional receptivity to subtle or invisible influences. It combines nurture, memory, and mood with imagination, compassion, spirituality, atmosphere, and the tendency to merge with what is felt around oneself.
+- Chart expression: sympathy, artistic or psychic sensitivity, retreat, longing, devotion, and the capacity to care for what is fragile, suffering, or hard to define. Liabilities: confusion, escapism, martyrdom, emotional diffusion, self-deception, exploitation, and security problems caused by weak boundaries or too much suggestibility.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Neptune](../factors/neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)

@@ -3,7 +3,7 @@ title: Node Asc Hades
 page_type: triad_hub
 slug: node-asc-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Node Asc Hades`
 - Astronomicon triad-set: `g Asc ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Hades = Node](../activations/asc-hades-equals-node.md)
-  Source page `92`
 - [Node/Asc = Hades](../activations/node-asc-equals-hades.md)
-  Source page `82`
 - [Node/Hades = Asc](../activations/node-hades-equals-asc.md)
-  Source page `150`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Hades = Node`: page `92`
-- `Node/Asc = Hades`: page `82`
-- `Node/Hades = Asc`: page `150`
+- `Asc/Hades = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `92`
+- `Asc/Hades = Node`: Udo Rudolph - ABC for Planetary Pictures, page `124`
+- `Node/Asc = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `82`
+- `Node/Asc = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `105`
+- `Node/Hades = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `150`
+- `Node/Hades = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `226`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Hades = Node`: being bound up with sick people, physicians, or degrading conditions through direct contact and ongoing ties.
+- `Node/Asc = Hades`: Disagreeable acquaintances. Misunderstandings through them. To avoid certain acquaintances and certain places. Closely connected persons suffer from sorrow and illness.
+- `Node/Hades = Asc`: Secret connection with others. To be visited by criminals, burglars. To be fed up with other people.
 
 ## Links
 
 - [Node](../factors/node.md)
 - [Asc](../factors/asc.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

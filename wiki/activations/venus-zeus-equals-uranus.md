@@ -3,7 +3,7 @@ title: Venus/Zeus = Uranus
 page_type: activation
 slug: venus-zeus-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Uranus
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Zeus`
-- Source page: `184`
 #### Witte Entry
 
 Burning desire. Unexpected procreation.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Burning desire. Unexpected procreation.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exciting love event, beginning of a love tension, beginning of a new love, dynamic art direction, dynamic harmony strife, joy in technical achievements, leading art event, creative art impulses, and surprising Liebcs testimony
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Zeus = Uranus`: burning desire.
+- Practical expression: exciting love event, beginning of a love tension, beginning of a new love, dynamic art direction, and dynamic harmony strife.
 
 ## Links
 
@@ -61,3 +56,5 @@ Burning desire. Unexpected procreation.
 - [Zeus](../factors/zeus.md)
 - [Uranus](../factors/uranus.md)
 - [Venus/Zeus](../axes/venus-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

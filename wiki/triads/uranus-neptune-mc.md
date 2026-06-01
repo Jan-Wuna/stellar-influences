@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Neptune MC`
 - Astronomicon triad-set: `X Y MC`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,19 +40,27 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Neptune/MC = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `68`
+- `Neptune/MC = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `81`
 - `Neptune/MC = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `290`
 - `Neptune/MC = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `113`
+- `Neptune/MC = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `340`
 - `Uranus/MC = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `67`
+- `Uranus/MC = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `79`
 - `Uranus/MC = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `278`
 - `Uranus/MC = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `108`
+- `Uranus/MC = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `324`
 - `Uranus/Neptune = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `234`
+- `Uranus/Neptune = MC`: Udo Rudolph - ABC for Planetary Pictures, page `370`
 - `Uranus/Neptune = MC`: Reinhold Ebertin - The Combination of Stellar Influences, page `267`
 - `Uranus/Neptune = MC`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `104`
+- `Uranus/Neptune = MC`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `308`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Neptune/MC = Uranus`: an unstable but visionary vocation, with life direction shaped by sudden inspiration, unconventional ideals, and the urge to break from ordinary social definitions of purpose.
+- `Uranus/MC = Neptune`: an inspired but elusive public path, with life direction shaped by ideals, intuition, and disruptions that are hard to define clearly.
+- `Uranus/Neptune = MC`: a visionary but unstable public path, with outer life shaped by unusual ideals, spiritualized change, and abrupt shifts in purpose or role.
 
 ## Links
 
@@ -59,5 +68,7 @@ updated_at: 2026-04-22
 - [Neptune](../factors/neptune.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

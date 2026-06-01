@@ -3,7 +3,7 @@ title: Sun Mercury Vulcanus
 page_type: triad_hub
 slug: sun-mercury-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Mercury
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Mercury Vulcanus`
 - Astronomicon triad-set: `S T §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Vulcanus = Sun](../activations/mercury-vulcanus-equals-sun.md)
-  Source page `172`
 - [Sun/Mercury = Vulcanus](../activations/sun-mercury-equals-vulcanus.md)
-  Source page `103`
 - [Sun/Vulcanus = Mercury](../activations/sun-vulcanus-equals-mercury.md)
-  Source page `117`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Vulcanus = Sun`: page `172`
-- `Sun/Mercury = Vulcanus`: page `103`
-- `Sun/Vulcanus = Mercury`: page `117`
+- `Mercury/Vulcanus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `172`
+- `Mercury/Vulcanus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `266`
+- `Sun/Mercury = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `103`
+- `Sun/Mercury = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `143`
+- `Sun/Vulcanus = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `117`
+- `Sun/Vulcanus = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `170`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Vulcanus = Sun`: To be physically much in motion. A life or mode of living which demands much moving around. Great speed of a body.
+- `Sun/Mercury = Vulcanus`: This formula emphasizes forceful thinking and mental power.
+- `Sun/Vulcanus = Mercury`: This formula emphasizes forceful thought and mental power.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Mercury](../factors/mercury.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

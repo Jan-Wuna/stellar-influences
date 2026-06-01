@@ -3,7 +3,7 @@ title: Mercury/Apollon = Asc
 page_type: activation
 slug: mercury-apollon-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Asc
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Apollon`
-- Source page: `170`
 #### Witte Entry
 
 Many talks with others. Acquaintanceship with scientists.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Many talks with others. Acquaintanceship with scientists.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Extensive discussions with the partner, success reports about a place, successful youth in the environment, news about environmental experiences, environmental knowledge of the youth, many opinions about the environment, and increasing environmental traffic
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Apollon = Asc` brings the axis into active exchange with others and with scientific circles.
+- Chart expression: many conversations, a socially communicative stance, and direct acquaintance with scholars, experts, or people identified with scientific work.
 
 ## Links
 
@@ -61,3 +56,5 @@ Many talks with others. Acquaintanceship with scientists.
 - [Apollon](../factors/apollon.md)
 - [Asc](../factors/asc.md)
 - [Mercury/Apollon](../axes/mercury-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

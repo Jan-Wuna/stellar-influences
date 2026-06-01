@@ -3,7 +3,7 @@ title: Vernal Point/Poseidon = MC
 page_type: activation
 slug: vernal-point-poseidon-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - MC
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Poseidon`
-- Source page: `55`
 #### Witte Entry
 
 Personally influenced by the ideas of the current time. To appear spiritualized. The own general knowledge. The moment of floods.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Personally influenced by the ideas of the current time. To appear spiritualized. The own general knowledge. The moment of floods.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Bcsce!tc Kullur in the (public, besserte world culture, my insight about the Ofkntlichkcit, my clarity in the Ofktlichkcit, my ldeen in the public Life, my Reason in ckr public, my Thrheit in the ofktlichkcit, and my ldeen in the public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Poseidon = MC`: personally influenced by the ideas of the current time, to appear spiritualized, the own general knowledge, and the moment of floods.
+- Practical expression: bcsce!tc Kullur in the (public, besserte world culture, my insight about the Ofkntlichkcit, my clarity in the Ofktlichkcit, and my Reason in ckr public.
 
 ## Links
 
@@ -61,3 +56,5 @@ Personally influenced by the ideas of the current time. To appear spiritualized.
 - [Poseidon](../factors/poseidon.md)
 - [MC](../factors/mc.md)
 - [Vernal Point/Poseidon](../axes/vernal-point-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

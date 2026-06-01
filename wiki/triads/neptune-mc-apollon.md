@@ -3,7 +3,7 @@ title: Neptune MC Apollon
 page_type: triad_hub
 slug: neptune-mc-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Neptune MC Apollon`
 - Astronomicon triad-set: `Y MC ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Apollon = Neptune](../activations/mc-apollon-equals-neptune.md)
-  Source page `74`
 - [Neptune/Apollon = MC](../activations/neptune-apollon-equals-mc.md)
-  Source page `251`
 - [Neptune/MC = Apollon](../activations/neptune-mc-equals-apollon.md)
-  Source page `68`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Apollon = Neptune`: page `74`
-- `Neptune/Apollon = MC`: page `251`
-- `Neptune/MC = Apollon`: page `68`
+- `MC/Apollon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `74`
+- `MC/Apollon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `93`
+- `Neptune/Apollon = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `251`
+- `Neptune/Apollon = MC`: Udo Rudolph - ABC for Planetary Pictures, page `400`
+- `Neptune/MC = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `68`
+- `Neptune/MC = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `81`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Apollon = Neptune`: opens the axis into strange experience and unexplored scientific territory.
+- `Neptune/Apollon = MC`: This activation personalizes `Neptune/Apollon` as grand illusion, fear about the future, or the urge to reveal future patterns scientifically. It turns large-scale deception and possibility into a life-direction issue, where the self becomes entangled with both false promise and prophetic inquiry.
+- `Neptune/MC = Apollon`: This activation broadens personal or vocational uncertainty into extensive fraud, making deception large in scale, reach, or consequence rather than merely local or private.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [MC](../factors/mc.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

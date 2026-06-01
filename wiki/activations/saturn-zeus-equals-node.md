@@ -3,7 +3,7 @@ title: Saturn/Zeus = Node
 page_type: activation
 slug: saturn-zeus-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Node
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Zeus`
-- Source page: `226`
 #### Witte Entry
 
 Work agreements where everybody works for himself. To be connected to fire losses.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Work agreements where everybody works for himself. To be connected to fire losses.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+serious procreation connection, fatigue problems in a relationship, patience in connection with fatigue, performance problems in a connection, problematic objective in a Y attachment, and creative Y engagements in old age
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Zeus = Node`: work agreements where everybody works for himself, to be connected to fire losses.
+- Practical expression: serious procreation connection, fatigue problems in a relationship, patience in connection with fatigue, performance problems in a connection, and problematic objective in a Y attachment.
 
 ## Links
 
@@ -61,3 +56,5 @@ Work agreements where everybody works for himself. To be connected to fire losse
 - [Zeus](../factors/zeus.md)
 - [Node](../factors/node.md)
 - [Saturn/Zeus](../axes/saturn-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

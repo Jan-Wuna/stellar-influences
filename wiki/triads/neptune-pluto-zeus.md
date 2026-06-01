@@ -3,7 +3,7 @@ title: Neptune Pluto Zeus
 page_type: triad_hub
 slug: neptune-pluto-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Neptune Pluto Zeus`
 - Astronomicon triad-set: `Y Z £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Neptune/Pluto = Zeus](../activations/neptune-pluto-equals-zeus.md)
-  Source page `246`
 - [Neptune/Zeus = Pluto](../activations/neptune-zeus-equals-pluto.md)
-  Source page `249`
 - [Pluto/Zeus = Neptune](../activations/pluto-zeus-equals-neptune.md)
-  Source page `259`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Neptune/Pluto = Zeus`: page `246`
-- `Neptune/Zeus = Pluto`: page `249`
-- `Pluto/Zeus = Neptune`: page `259`
+- `Neptune/Pluto = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `246`
+- `Neptune/Pluto = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `391`
+- `Neptune/Zeus = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `249`
+- `Neptune/Zeus = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `397`
+- `Pluto/Zeus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `259`
+- `Pluto/Zeus = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `413`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Neptune/Pluto = Zeus`: This activation directs hidden transformation into secret action, covert practice, or concealed armament, showing energies and intentions deliberately kept out of public view.
+- `Neptune/Zeus = Pluto`: Work and accomplishment proceed quietly but effectively beneath the surface, with hidden development, solitary execution, or covert buildup of force.
+- `Pluto/Zeus = Neptune`: This activation emphasizes wasted efforts; Duties which are performed in vain; Unselfish work; Long-range work, not living to see the result.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [Pluto](../factors/pluto.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

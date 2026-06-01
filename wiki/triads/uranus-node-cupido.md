@@ -3,7 +3,7 @@ title: Uranus Node Cupido
 page_type: triad_hub
 slug: uranus-node-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Node
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Node Cupido`
 - Astronomicon triad-set: `X g ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Node/Cupido = Uranus](../activations/node-cupido-equals-uranus.md)
-  Source page `149`
 - [Uranus/Cupido = Node](../activations/uranus-cupido-equals-node.md)
-  Source page `236`
 - [Uranus/Node = Cupido](../activations/uranus-node-equals-cupido.md)
-  Source page `146`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Node/Cupido = Uranus`: page `149`
-- `Uranus/Cupido = Node`: page `236`
-- `Uranus/Node = Cupido`: page `146`
+- `Node/Cupido = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `149`
+- `Node/Cupido = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `225`
+- `Uranus/Cupido = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `236`
+- `Uranus/Cupido = Node`: Udo Rudolph - ABC for Planetary Pictures, page `374`
+- `Uranus/Node = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `146`
+- `Uranus/Node = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `219`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Node/Cupido = Uranus`: <?> Sudden events of a betrothed couple or in the family. Commotion or excitement in an association or firm.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Node](../factors/node.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

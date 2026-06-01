@@ -3,7 +3,7 @@ title: Uranus/Zeus = Admetos
 page_type: activation
 slug: uranus-zeus-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Zeus
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Zeus`
-- Source page: `238`
 #### Witte Entry
 
 Dangerous fuels. Explosive raw materials. Rags and broken pieces through explosion.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Dangerous fuels. Explosive raw materials. Rags and broken pieces through explosion.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exhaustive rhythmic efforts, restriction of creative impulses, restricted dynamic leadership, consolidation of a new leadership, grinning new beginnings, sudden beginnings of depression, under drinking reform struggles, and deepening into new goals
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Zeus = Admetos`: Dangerous fuels. Explosive raw materials. Rags and broken pieces through explosion.
+- Practical expression: exhaustive rhythmic efforts, restriction of creative impulses, restricted dynamic leadership, consolidation of a new leadership, and grinning new beginnings.
 
 ## Links
 
@@ -61,3 +56,5 @@ Dangerous fuels. Explosive raw materials. Rags and broken pieces through explosi
 - [Zeus](../factors/zeus.md)
 - [Admetos](../factors/admetos.md)
 - [Uranus/Zeus](../axes/uranus-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

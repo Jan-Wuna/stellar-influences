@@ -3,7 +3,7 @@ title: Node/Hades = MC
 page_type: activation
 slug: node-hades-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - MC
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Hades`
-- Source page: `150`
 #### Witte Entry
 
 To be forced to deal with base and vulgar people. To have to stand for insults and abuse. To be connected professionally with criminals. A “fence”.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be forced to deal with base and vulgar people. To have to stand for insults and abuse. To be connected professionally with criminals. A “fence”.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Inadequacy of the Scelen connection, my incompatibilities in a connection, my secret obligation, my night cile in the connection, my connection with tradition, mental difficulties in distress, and scelic distress in connexion
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Hades = MC`: To be forced to deal with base and vulgar people. To have to stand for insults and abuse. To be connected professionally with criminals. A “fence”.
+- Practical focus: to be forced to deal with base and vulgar people; also to have to stand for insults and abuse.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be forced to deal with base and vulgar people. To have to stand for insults a
 - [Hades](../factors/hades.md)
 - [MC](../factors/mc.md)
 - [Node/Hades](../axes/node-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

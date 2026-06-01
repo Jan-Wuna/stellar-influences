@@ -3,7 +3,7 @@ title: Jupiter Hades Vulcanus
 page_type: triad_hub
 slug: jupiter-hades-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Hades Vulcanus`
 - Astronomicon triad-set: `V ¢ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Vulcanus = Jupiter](../activations/hades-vulcanus-equals-jupiter.md)
-  Source page `285`
 - [Jupiter/Hades = Vulcanus](../activations/jupiter-hades-equals-vulcanus.md)
-  Source page `212`
 - [Jupiter/Vulcanus = Hades](../activations/jupiter-vulcanus-equals-hades.md)
-  Source page `217`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Vulcanus = Jupiter`: page `285`
-- `Jupiter/Hades = Vulcanus`: page `212`
-- `Jupiter/Vulcanus = Hades`: page `217`
+- `Hades/Vulcanus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `285`
+- `Hades/Vulcanus = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `446`
+- `Jupiter/Hades = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `212`
+- `Jupiter/Hades = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `335`
+- `Jupiter/Vulcanus = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `217`
+- `Jupiter/Vulcanus = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `345`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Vulcanus = Jupiter`: unjust treatment, exposure to viciousness through activity, great destruction, mighty warlike acts, and rebellion against oppression.
+- `Jupiter/Hades = Vulcanus`: not being solvent and crimes caused by lack of money.
+- `Jupiter/Vulcanus = Hades`: either escape from deceit through superior strength or success gained by operating inside morally compromised or covert circumstances.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Hades](../factors/hades.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Moon + Moon`
-- Source page: `119`
 #### Witte Entry
 
 Motion of the brain. Thinking capacity. The memory. The imaginative power. Superficial thinking. The young generation. Young girl. Young woman. Several hours. Office hours. Vehicles. Shifted hour. Lively and changeable train of thoughts. The general opinion in relation to the hour and female persons.
 
-## Comparative Schema
-
-- core meaning: Motion of the brain. Thinking capacity. The memory. The imaginative power. Superficial thinking. The young generation. Young girl. Young woman. Several hours. Office hours. Vehicles. Shifted hour. Lively and changeable train of thoughts. The general opinion in relation to the hour and female persons.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Moon = Mercury`: Motion of the brain. Thinking capacity. The memory. The imaginative power. Superficial thinking. The young generation. Young girl. Young woman. Several hours. Office hours. Vehicles. Shifted hour. Lively and changeable train of thoughts. The general opinion in relation to the hour and female persons.
+- Practical focus: quickens `Moon/Moon` into lively thought, memory, imagination, and rapidly changing public or feminine opinion. It points to a feeling-life that thinks, moves, and reacts quickly, making pure lunar receptivity more verbal, impressionable, youthful, and mentally mobile.
 
 ## Links
 

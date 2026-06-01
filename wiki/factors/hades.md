@@ -3,21 +3,22 @@ title: Hades
 page_type: factor
 slug: hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
 aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Factor: Hades
 - Astronomicon token: `¢`
-- Source factor chapter page: `29`
+- Canonical page type: comparative factor page grounded in standalone source entries.
 
 ## Source Entries
 
@@ -27,19 +28,18 @@ updated_at: 2026-04-21
 
 Poverty. Baseness. The deteriorating powers of the past. Garbage. Dirt. To hesitate. Delay. Loneliness. Lack. Illness. Secrets. Old burdens. History. Something old, antiques. Far past. Repulsiveness. Waste. Long illness or difficult (abnormal) circumstances. Events with bad impressions. Widows.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Poverty. Baseness. The deteriorating powers of the past. Garbage. Dirt. To hesitate. Delay. Loneliness. Lack. Illness. Secrets. Old burdens. History. Something old, antiques. Far past. Repulsiveness. Waste. Long illness or difficult (abnormal) circumstances. Events with bad impressions. Widows.
-- psychology: no separate source-native subdivision is present in the standalone factor chapter.
-- body/health: no separate source-native subdivision is present in the standalone factor chapter.
-- social/relationship: no separate source-native subdivision is present in the standalone factor chapter.
-- events/manifestations: browse related axis and activation pages for explicit formulas involving `Hades`.
-- conflicts/notes: this page preserves the standalone factor chapter as sourced doctrine from Witte.
+#### ABC Keyword Entry
 
+Secret, Hidden, Past, Old, Tradition, serving, renunciation, deprivation, hardships, sorrow, need, and lack
 
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-
+- `Hades` is the factor of what is hidden, old, deprived, worn down, dirty, secret, sorrowful, or left behind by past conditions.
+- Chart expression: hardship, poverty, illness, renunciation, service under difficult conditions, old damage, tradition as burden, and unpleasant truths that remain present after life has fallen below health or dignity.
+- Its liabilities are degradation, despair, secrecy, danger, criminality, and fixation on what is rotten, depleted, or past its time unless something cleaner and stronger intervenes.
 
 ## Related Axes
 
@@ -66,15 +66,7 @@ Poverty. Baseness. The deteriorating powers of the past. Garbage. Dirt. To hesit
 - [Venus/Hades](../axes/venus-hades.md)
 - [Vernal Point/Hades](../axes/vernal-point-hades.md)
 
-## Related Activations
-
-- Generated activation pages involving `Hades`: `693`.
-- Browse [Index](../index.md) or the `wiki/activations/` folder for the full set.
-
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-
-## Open Questions
-
-
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

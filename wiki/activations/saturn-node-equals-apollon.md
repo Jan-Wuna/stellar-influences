@@ -3,10 +3,10 @@ title: Saturn/Node = Apollon
 page_type: activation
 slug: saturn-node-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Saturn
+  - Node
   - Apollon
 normalized_formula: Saturn/Node = Apollon
 axis: Saturn/Node
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Node
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Saturn`
-- Source page: `145`
 #### Witte Entry
 
 Many are inhibiting. Breaking off of connections with many. Many part with something.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Many are inhibiting. Breaking off of connections with many. Many part with something.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Success through patience in a connection, success of a serious relationship, serious connection to science, extension of tasks in a connection, distanced trade relations, concentrated links to the economy, and many problems in a relationship
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Node = Apollon`: many are inhibiting, breaking off of connections with many, many part with something.
+- Practical expression: success through patience in a connection, success of a serious relationship, serious connection to science, extension of tasks in a connection, and distanced trade relations.
 
 ## Links
 
@@ -61,3 +56,5 @@ Many are inhibiting. Breaking off of connections with many. Many part with somet
 - [Node](../factors/node.md)
 - [Apollon](../factors/apollon.md)
 - [Saturn/Node](../axes/saturn-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

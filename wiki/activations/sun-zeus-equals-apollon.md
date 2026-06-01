@@ -3,7 +3,7 @@ title: Sun/Zeus = Apollon
 page_type: activation
 slug: sun-zeus-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Zeus
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Zeus`
-- Source page: `113`
 #### Witte Entry
 
 A successful leader. Recognition by many. A successful merchant. Manager.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A successful leader. Recognition by many. A successful merchant. Manager.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Expansion of personal efforts, successful personal procreation, leading trading man, fending business center, creative man of science, human knowledge of procreation, and personal freedom mitigations
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Zeus = Apollon`: a successful leader and recognition by many.
+- Practical expression: expansion of personal efforts, successful personal procreation, leading trading man, fending business center, and creative man of science.
 
 ## Links
 
@@ -61,3 +56,5 @@ A successful leader. Recognition by many. A successful merchant. Manager.
 - [Zeus](../factors/zeus.md)
 - [Apollon](../factors/apollon.md)
 - [Sun/Zeus](../axes/sun-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

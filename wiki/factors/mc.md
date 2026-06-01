@@ -10,15 +10,17 @@ aliases:
   - Meridian
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Factor: MC
-- Canonical page type: comparative factor page grounded in standalone source chapters.
+- Canonical page type: comparative factor page grounded in standalone source entries.
 
 ## Source Entries
 
@@ -28,10 +30,13 @@ updated_at: 2026-04-22
 
 The personality of the native. The soul. The ego. Emotional experiences and qualities. Personal expectations. Psychological influences. Efforts towards the peak of life. The attitude in public, profession and vocation. The minute. The moment.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `The Medium Coeli (MC)`
-- Source page: `74`
+#### ABC Keyword Entry
+
+Me, inner being, minute, soul, and the self
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -66,9 +71,6 @@ The individual.
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `The Ascendant and Midheaven`
-- Source page: `102`
-
 #### Hand Factor Entry
 
 The Ascendant and Midheaven were defined in Chapter 2 and will be discussed much more fully in Chapter 12 as markers of a planet's mundane position. I mention them here only in their roles as nodes and as sensitive points that lie along the ecliptic, forming various angular relationships along the ecliptic to other points in the horoscope. The Ascendant and Midheaven are considered the principal ends of
@@ -77,23 +79,98 @@ their respective nodal axes, even though both are exceptions to the rule above a
 
 Traveling at the speed they do, they are in a constantly changing relationship to all the other points in the horoscope, highlighting one group of planets at one time, and then another group a few minutes later. Thus the horoscope of a person born at eight o'clock can be quite different from that of another born the same day at eight-thirty. In Chapters 12 and 15 I will describe in detail how the Ascendant and Midheaven derive their meanings from their position in the mundane cycle. Here, however, it suffices to outline their signification using a few keywords. A key idea for the Ascendant-Descendant axis is "exchange with the environment." Planets in a significant angular relationship to this axis generally manifest in relationships and in a person's interaction with the outside world. The Midheaven-I.C. axis, on the other hand, signifies how one feels inwardly (I.C.) and expresses oneself outwardly (Midheaven), or ■where in life one is coming from and going to. The key idea here is "I, me, mine": this axis has less to do with relationships and more to do with one's sense of oneself. Examples of how the Ascendant and Midheaven -work in combination "with planetary energies can be found in the brief midpoint delineations of pairs of points in Chapter o.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native factor entries are preserved side by side above.
-- psychology: source-specific psychological and doctrinal emphases remain attached to their own source blocks instead of being flattened.
-- body/health: bodily wording remains inside each contributing source block when present.
-- social/relationship: interpersonal implications remain attached to each source's own phrasing.
-- events/manifestations: sign-position or chapter-level extensions remain attached to the source entry that states them.
-- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
+#### Basic Ideas
 
-## Contradictions and Framework Notes
+- Accomplishment
+- Aims
+- Ambition
+- Aptitude
+- Assurances
+- Attainment
+- Authentication
+- Authorization
+- Beginnings
+- Behavior
+- Capacity, One's
+- Career
+- Competence
+- Conclusions
+- Conduct
+- Confirmation
+- Constancy
+- Corroboration
+- Credentials
+- Experience
+- Fulfillment
+- Goals
+- Guiding Principles
+- Mastery
+- Meanings
+- Methods
+- Purposes
+- Qualifications
+- Rank
+- Rewards
+- Security, Needs for
+- Security Seeking
+- Sense of Fairness
+- Start in Life
+- Trust, Personal
+- Word, Keeping One's
 
-- Source differences on this factor page are preserved as framework emphasis rather than forced contradiction.
-- This page keeps the contributing source chapters side by side instead of treating one as a gloss on the other.
+#### In Your Relationships
 
+- Fulfillment
+- Learning and Growing
+- Objectives
+- Outcomes
+- Rewards from
+- Security Needs from
+
+#### With Body or Mind
+
+- Behavior, One's
+- Conscience
+- Coping
+- Defenses, Personal
+- Integrity
+- Maturity
+- Principles, Personal
+- Security, Needs for
+- Self-Restraint
+
+#### In Politics or Business
+
+- Assurances
+- Beginnings
+- Certification
+- Degrees, Scholarly
+- Guarantees
+- Integration
+- Objective
+- Origins
+- Outcomes
+- Planning
+- Public Projection
+- Reputation
+- Roots
+- Rules of Conduct
+- Safe Passage
+- Safety
+- Schooling
+- Security
+- Standards
+- Trust
+- Workmanship
+
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC` is the factor of the inner being, soul, self-direction, vocation, public role, and the life line by which inner identity seeks outward realization.
+- Chart expression: ambition, self-knowledge, role formation, reputation, career direction, and the need to shape a coherent personal or public path from the center of the self.
+- Its liabilities are over-identification with status, hypersensitivity to recognition, aimlessness, role instability, or a life course driven more by image than grounded purpose.
 
 ## Related Axes
 
@@ -121,17 +198,10 @@ Traveling at the speed they do, they are in a constantly changing relationship t
 - [Venus/MC](../axes/venus-mc.md)
 - [Vernal Point/MC](../axes/vernal-point-mc.md)
 
-## Related Activations
-
-- Generated activation pages involving `MC`: `729`.
-- Browse [Index](../index.md) or the `wiki/activations/` folder for the full set.
-
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
-
-## Open Questions
-
-- None recorded yet.
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

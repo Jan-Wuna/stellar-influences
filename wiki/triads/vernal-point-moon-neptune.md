@@ -3,7 +3,7 @@ title: Vernal Point Moon Neptune
 page_type: triad_hub
 slug: vernal-point-moon-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Moon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Moon Neptune`
 - Astronomicon triad-set: `VP R Y`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Neptune = Vernal Point](../activations/moon-neptune-equals-vernal-point.md)
-  Source page `128`
 - [Vernal Point/Moon = Neptune](../activations/vernal-point-moon-equals-neptune.md)
-  Source page `38`
 - [Vernal Point/Neptune = Moon](../activations/vernal-point-neptune-equals-moon.md)
-  Source page `46`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Neptune = Vernal Point`: page `128`
-- `Vernal Point/Moon = Neptune`: page `38`
-- `Vernal Point/Neptune = Moon`: page `46`
+- `Moon/Neptune = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `128`
+- `Moon/Neptune = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `188`
+- `Vernal Point/Moon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `38`
+- `Vernal Point/Moon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `25`
+- `Vernal Point/Neptune = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `46`
+- `Vernal Point/Neptune = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `40`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Neptune = Vernal Point`: This activation externalizes `Moon/Neptune` into collective susceptibility, public confusion, and general night or atmospheric conditions. It points to impressionable masses, emotionally porous social fields, and diffuse shared sensitivity that can be nurturing, passive, or easily misled.
+- `Vernal Point/Moon = Neptune`: This formula emphasizes weak women, sensitive women, and motion of the air.
+- `Vernal Point/Neptune = Moon`: This formula emphasizes sensitiveness in general and weather sensitivity.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Moon](../factors/moon.md)
 - [Neptune](../factors/neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

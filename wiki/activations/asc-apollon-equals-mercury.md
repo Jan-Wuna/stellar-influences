@@ -3,7 +3,7 @@ title: Asc/Apollon = Mercury
 page_type: activation
 slug: asc-apollon-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Asc
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Apollon`
-- Source page: `95`
 #### Witte Entry
 
 Business agreements. Talks with customers. To serve customers.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Business agreements. Talks with customers. To serve customers.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Reports on environmental successes, successes of young people in the environment, successful environmental language, thoughts about freedom of the partner, partner experiences in the youth, mediaErfolge for the environment, extensive environmental knowledge, and traffic expansion on site
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Apollon = Mercury`: deals, negotiations, and a widened field sustained through speaking, listening, and coordinating needs. Main caution: purely transactional contact: relationships can flatten into agreements, sales talk, and ongoing service traffic.
 
 ## Links
 
@@ -61,3 +55,5 @@ Business agreements. Talks with customers. To serve customers.
 - [Apollon](../factors/apollon.md)
 - [Mercury](../factors/mercury.md)
 - [Asc/Apollon](../axes/asc-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

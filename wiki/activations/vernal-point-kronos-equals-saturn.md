@@ -3,7 +3,7 @@ title: Vernal Point/Kronos = Saturn
 page_type: activation
 slug: vernal-point-kronos-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Saturn
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Kronos`
-- Source page: `51`
 #### Witte Entry
 
 Large agricultural estates. Forestry. Separation and prohibition ordered by the state. Authorities issue orders to evacuate, a curfew or a shut down.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Large agricultural estates. Forestry. Separation and prohibition ordered by the state. Authorities issue orders to evacuate, a curfew or a shut down.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Hard authorship in public, public problems of the state, public reputation in old age, state burden of the public, important tasks for the public, state losses in public, and loss of public reputation
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Kronos = Saturn`: large agricultural estates, forestry, separation and prohibition ordered by the state, and authorities issue orders to evacuate, a curfew or a shut down.
+- Practical expression: hard authorship in public, public problems of the state, public reputation in old age, state burden of the public, and important tasks for the public.
 
 ## Links
 
@@ -61,3 +56,5 @@ Large agricultural estates. Forestry. Separation and prohibition ordered by the 
 - [Kronos](../factors/kronos.md)
 - [Saturn](../factors/saturn.md)
 - [Vernal Point/Kronos](../axes/vernal-point-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Saturn/Hades = Cupido
 page_type: activation
 slug: saturn-hades-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Cupido
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Hades`
-- Source page: `225`
 #### Witte Entry
 
 Marriage in a family with hereditary disease. Severe arguments or disagreements with partners, in the family or in a company.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Marriage in a family with hereditary disease. Severe arguments or disagreements with partners, in the family or in a company.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Community, common problems of the past, distress of a burdened community, lack of firsthand skills, lack of concentration of a community, pain in common distress, and hidden losses of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Hades = Cupido`: marriage in a family with hereditary disease.
+- Practical expression: community, common problems of the past, distress of a burdened community, lack of firsthand skills, and lack of concentration of a community.
 
 ## Links
 
@@ -61,3 +56,5 @@ Marriage in a family with hereditary disease. Severe arguments or disagreements 
 - [Hades](../factors/hades.md)
 - [Cupido](../factors/cupido.md)
 - [Saturn/Hades](../axes/saturn-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

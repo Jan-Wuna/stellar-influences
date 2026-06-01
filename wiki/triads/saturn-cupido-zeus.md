@@ -3,7 +3,7 @@ title: Saturn Cupido Zeus
 page_type: triad_hub
 slug: saturn-cupido-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Cupido
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Cupido Zeus`
 - Astronomicon triad-set: `W ¡ £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Zeus = Saturn](../activations/cupido-zeus-equals-saturn.md)
-  Source page `268`
 - [Saturn/Cupido = Zeus](../activations/saturn-cupido-equals-zeus.md)
-  Source page `224`
 - [Saturn/Zeus = Cupido](../activations/saturn-zeus-equals-cupido.md)
-  Source page `226`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Zeus = Saturn`: page `268`
-- `Saturn/Cupido = Zeus`: page `224`
-- `Saturn/Zeus = Cupido`: page `226`
+- `Cupido/Zeus = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `268`
+- `Cupido/Zeus = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `427`
+- `Saturn/Cupido = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `224`
+- `Saturn/Cupido = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `355`
+- `Saturn/Zeus = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `226`
+- `Saturn/Zeus = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `359`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Zeus = Saturn`: a disruptive factor inside an organization and losses to a corporation, association, or military body.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Cupido](../factors/cupido.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

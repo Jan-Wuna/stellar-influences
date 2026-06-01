@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Neptune + Neptune`
-- Source page: `245`
 #### Witte Entry
 
 Creative imagination. Wasted energies. Sterility. Without direction. Inflammable gas. Liquid fuel. Steam. Concealed weapons. To provoke somebody, to enrage him or get him angry. Failure. Impotence. Scalds. To ignite something. To be compelled to inflict losses. Offences. Setbacks. Scald burns.
 
-## Comparative Schema
-
-- core meaning: Creative imagination. Wasted energies. Sterility. Without direction. Inflammable gas. Liquid fuel. Steam. Concealed weapons. To provoke somebody, to enrage him or get him angry. Failure. Impotence. Scalds. To ignite something. To be compelled to inflict losses. Offences. Setbacks. Scald burns.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Neptune = Zeus`: Creative imagination. Wasted energies. Sterility. Without direction. Inflammable gas. Liquid fuel. Steam. Concealed weapons. To provoke somebody, to enrage him or get him angry. Failure. Impotence. Scalds. To ignite something. To be compelled to inflict losses. Offences. Setbacks. Scald burns.
+- Practical focus: doubled Neptune is directed into misfired imagination and combustible effort, showing creative force without direction, concealed aggression, and actions that waste energy or ignite loss.
 
 ## Links
 

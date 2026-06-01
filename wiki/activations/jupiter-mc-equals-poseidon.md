@@ -3,10 +3,10 @@ title: Jupiter/MC = Poseidon
 page_type: activation
 slug: jupiter-mc-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Jupiter
+  - MC
   - Poseidon
 normalized_formula: Jupiter/MC = Poseidon
 axis: Jupiter/MC
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - MC
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Jupiter`
-- Source page: `65`
 #### Witte Entry
 
 Mental happiness and health. Good luck through a sensible attitude.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mental happiness and health. Good luck through a sensible attitude.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Spiritual and psychic gltick, my cognition joy, my financial clarity, my joy in culture, my spiritual joy, my spiritual right, my ideal success, my spiritual gltick, clarity through soul pleasure, and spiritual gltcks minute
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/MC = Poseidon`: vocation and public growth being guided by wisdom, clear judgment, and a healthy worldview. It favors success that comes from principled understanding rather than force.
 
 ## Links
 
@@ -61,3 +55,5 @@ Mental happiness and health. Good luck through a sensible attitude.
 - [MC](../factors/mc.md)
 - [Poseidon](../factors/poseidon.md)
 - [Jupiter/MC](../axes/jupiter-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

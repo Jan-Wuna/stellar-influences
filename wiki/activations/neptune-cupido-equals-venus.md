@@ -3,7 +3,7 @@ title: Neptune/Cupido = Venus
 page_type: activation
 slug: neptune-cupido-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Neptune
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Cupido`
-- Source page: `247`
 #### Witte Entry
 
 Dissonances in love marriage. Deception in love. Breach of promise to marry.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Dissonances in love marriage. Deception in love. Breach of promise to marry.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dissolution of a harmonious community, exchanged love community, shared joy in the water, harmony of a community in the air, secret love community, uncertain peace in of a community, and future peace community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Cupido = Venus`: Dissonances in love marriage. Deception in love. Breach of promise to marry.
+- Practical focus: moves dissolution into love and promise, showing deceptive affection, broken engagement, or discord in marriages formed on unstable emotional ground.
+- Practical expression: dissolution of a harmonious community, exchanged love community, shared joy in the water, harmony of a community in the air, and secret love community.
 
 ## Links
 
@@ -61,3 +57,5 @@ Dissonances in love marriage. Deception in love. Breach of promise to marry.
 - [Cupido](../factors/cupido.md)
 - [Venus](../factors/venus.md)
 - [Neptune/Cupido](../axes/neptune-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

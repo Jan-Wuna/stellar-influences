@@ -3,7 +3,7 @@ title: Sun Mars Kronos
 page_type: triad_hub
 slug: sun-mars-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Mars
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Mars Kronos`
 - Astronomicon triad-set: `S U ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Kronos = Sun](../activations/mars-kronos-equals-sun.md)
-  Source page `200`
 - [Sun/Kronos = Mars](../activations/sun-kronos-equals-mars.md)
-  Source page `114`
 - [Sun/Mars = Kronos](../activations/sun-mars-equals-kronos.md)
-  Source page `105`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Kronos = Sun`: page `200`
-- `Sun/Kronos = Mars`: page `114`
-- `Sun/Mars = Kronos`: page `105`
+- `Mars/Kronos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `200`
+- `Mars/Kronos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `314`
+- `Sun/Kronos = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `114`
+- `Sun/Kronos = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `164`
+- `Sun/Mars = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `105`
+- `Sun/Mars = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `147`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Kronos = Sun`: embodies the axis as a person who acts independently, autocratically, or as an executor of ruling power.
+- `Sun/Kronos = Mars`: This formula emphasizes the active superior and leadership in action.
+- `Sun/Mars = Kronos`: This formula emphasizes leadership in action and forceful command.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Mars](../factors/mars.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

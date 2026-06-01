@@ -3,7 +3,7 @@ title: Moon/Mercury = Admetos
 page_type: activation
 slug: moon-mercury-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Mercury
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Mercury
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Mercury`
-- Source page: `122`
 #### Witte Entry
 
 Depressed mind. Sorrowful thinking. Forgetting. To drop a thought.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Depressed mind. Sorrowful thinking. Forgetting. To drop a thought.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked thinking of a woman, reports of subjugation of a people it, depressed young woman, restriction of women's opinion, strike movements in the people, deep feelings of youth, subjugated youth of a people, and subjugated popular opinion
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Mercury = Admetos`: Depressed mind. Sorrowful thinking. Forgetting. To drop a thought.
+- Practical focus: constricts `Moon/Mercury` into heavy thought, emotional discouragement, and slowed recall. It often shows feelings that are hard to articulate, a mind weighed down by sorrow or withdrawal, and memory or association that narrows instead of flowing freely.
+- Practical expression: blocked thinking of a woman, reports of subjugation of a people it, depressed young woman, restriction of women's opinion, and strike movements in the people.
 
 ## Links
 
@@ -61,3 +57,5 @@ Depressed mind. Sorrowful thinking. Forgetting. To drop a thought.
 - [Mercury](../factors/mercury.md)
 - [Admetos](../factors/admetos.md)
 - [Moon/Mercury](../axes/moon-mercury.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

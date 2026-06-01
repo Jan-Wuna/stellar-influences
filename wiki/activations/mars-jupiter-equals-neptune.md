@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Jupiter`
-- Source page: `192`
 #### Witte Entry
 
 Denials of betrothals. Dissolution of promises or agreements. Hopeless relationship. Project which was not executed. End of a happy activity. Happy activity, but without success. Impotence. Miscarriages.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Mars/Jupiter`
-- Source page: `202`
-- Entry: `0693`
+#### ABC Entry
+
+Work success with water, work joy in the air, exchangeable financial activity, successful work for the future, fine tuning legal actions, subtle happiness's impulses, weak action success, weak will success developing work joy, developing a legal activity, and successful development-
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Feeling of inferiority, falsehood, unfaithfulness, plans without a chance of rea
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mars/Jupiter midpoint`
-- Source page: `67`
-- Activator: `Neptune`
-
 #### Sandbach Entry
 
 An enthusiastic assertiveness when it comes to one’s ideals. When one goes too far or does too much it can create chaos and confusion. A willingness to go a long way to fulfill one’s obligations to others as well as what one feels to be one’s spiritual obligations.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Confusion over how to use the powers or forces available to you; your use of force to establish new religions or mystical insight; misstatements of doctrine or philosophy which are spread; a loss or draining of energy resources.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Jupiter = Neptune`: sacrificial effort, inspired obligation, and action driven by faith, imagination, or vision more than by concrete limits. Main caution: unreality: hopeful striving can lead to false promises, hopeless ties, failures of execution, or energy scattered into confusion.
 
 ## Links
 
@@ -84,7 +76,8 @@ An enthusiastic assertiveness when it comes to one’s ideals. When one goes too
 - [Jupiter](../factors/jupiter.md)
 - [Neptune](../factors/neptune.md)
 - [Mars/Jupiter](../axes/mars-jupiter.md)
-- [Mars Jupiter Neptune](../triads/mars-jupiter-neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

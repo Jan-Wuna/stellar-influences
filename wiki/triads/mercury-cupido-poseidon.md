@@ -3,7 +3,7 @@ title: Mercury Cupido Poseidon
 page_type: triad_hub
 slug: mercury-cupido-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Cupido Poseidon`
 - Astronomicon triad-set: `T ¡ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Poseidon = Mercury](../activations/cupido-poseidon-equals-mercury.md)
-  Source page `274`
 - [Mercury/Cupido = Poseidon](../activations/mercury-cupido-equals-poseidon.md)
-  Source page `166`
 - [Mercury/Poseidon = Cupido](../activations/mercury-poseidon-equals-cupido.md)
-  Source page `173`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Poseidon = Mercury`: page `274`
-- `Mercury/Cupido = Poseidon`: page `166`
-- `Mercury/Poseidon = Cupido`: page `173`
+- `Cupido/Poseidon = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `274`
+- `Cupido/Poseidon = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `436`
+- `Mercury/Cupido = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `166`
+- `Mercury/Cupido = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `255`
+- `Mercury/Poseidon = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `173`
+- `Mercury/Poseidon = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `269`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Poseidon = Mercury`: thinking, talking, or writing about spiritual or philosophical groups and conducting propaganda for a certain worldview.
+- `Mercury/Cupido = Poseidon`: refines the axis into shared artistic or philosophical debate.
+- `Mercury/Poseidon = Cupido`: Memories. Reminiscences. To have to deal with stupid and uncultured people.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Cupido](../factors/cupido.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

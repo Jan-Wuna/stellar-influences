@@ -3,7 +3,7 @@ title: Pluto/Admetos = Poseidon
 page_type: activation
 slug: pluto-admetos-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Admetos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Admetos`
-- Source page: `262`
 #### Witte Entry
 
 Deep reaching changes in the mental and spiritual attitude and in the concept of the world. '>«
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Deep reaching changes in the mental and spiritual attitude and in the concept of the world. '>«
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Restricted spiritual development, consolidation through spiritual growth, spiritual depth growth, grild truth unfolding, clarity about transformation of primordial energy, profound spiritual development, and growing knowledge about primordial material
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Admetos = Poseidon` brings deep, slow change into the mental and spiritual attitude, altering the concept of the world from the roots.
+- Practical expression: restricted spiritual development, consolidation through spiritual growth, spiritual depth, clarity about transformation of primordial energy, and growing knowledge about primordial material.
 
 ## Links
 
@@ -61,3 +56,5 @@ Deep reaching changes in the mental and spiritual attitude and in the concept of
 - [Admetos](../factors/admetos.md)
 - [Poseidon](../factors/poseidon.md)
 - [Pluto/Admetos](../axes/pluto-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

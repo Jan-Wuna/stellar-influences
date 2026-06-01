@@ -3,7 +3,7 @@ title: Cupido/Admetos = Jupiter
 page_type: activation
 slug: cupido-admetos-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Cupido
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Admetos`
-- Source page: `271`
 #### Witte Entry
 
 A small, true community. Passing pleasant company or comradeship.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A small, true community. Passing pleasant company or comradeship.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+blocked financial community, financial restriction of the community, restriction through a legal community, consolidation of shared good fortune, shared success through endurance, and thorough success of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Admetos = Jupiter`: limited but sincere fellowship and to the possibility of finding warmth even within a narrowed social field. Main caution: assuming the goodness is durable when the source also stresses its passing quality.
 
 ## Links
 
@@ -61,3 +55,5 @@ A small, true community. Passing pleasant company or comradeship.
 - [Admetos](../factors/admetos.md)
 - [Jupiter](../factors/jupiter.md)
 - [Cupido/Admetos](../axes/cupido-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

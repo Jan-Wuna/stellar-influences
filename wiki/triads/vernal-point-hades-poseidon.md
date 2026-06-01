@@ -3,7 +3,7 @@ title: Vernal Point Hades Poseidon
 page_type: triad_hub
 slug: vernal-point-hades-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Hades Poseidon`
 - Astronomicon triad-set: `VP ¢ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Poseidon = Vernal Point](../activations/hades-poseidon-equals-vernal-point.md)
-  Source page `286`
 - [Vernal Point/Hades = Poseidon](../activations/vernal-point-hades-equals-poseidon.md)
-  Source page `49`
 - [Vernal Point/Poseidon = Hades](../activations/vernal-point-poseidon-equals-hades.md)
-  Source page `55`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Poseidon = Vernal Point`: page `286`
-- `Vernal Point/Hades = Poseidon`: page `49`
-- `Vernal Point/Poseidon = Hades`: page `55`
+- `Hades/Poseidon = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `286`
+- `Hades/Poseidon = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `448`
+- `Vernal Point/Hades = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `49`
+- `Vernal Point/Hades = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `47`
+- `Vernal Point/Poseidon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `55`
+- `Vernal Point/Poseidon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `59`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Poseidon = Vernal Point`: general mental blindness, poverty of understanding, and widespread contact where no real mental meeting is possible.
+- `Vernal Point/Hades = Poseidon`: This formula emphasizes lack of public education, mental poverty, and ignorance.
+- `Vernal Point/Poseidon = Hades`: This formula emphasizes the spirit of antiquity or the past and mental baseness.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Hades](../factors/hades.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

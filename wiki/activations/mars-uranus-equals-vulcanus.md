@@ -3,7 +3,7 @@ title: Mars/Uranus = Vulcanus
 page_type: activation
 slug: mars-uranus-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Uranus
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Uranus`
-- Source page: `194`
 #### Witte Entry
 
 To gamble with everything, to stake everything. With great, surprising power. Great collision or huge explosion.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To gamble with everything, to stake everything. With great, surprising power. Great collision or huge explosion.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exciting power will, disturbing energy impulses, influential work impulses, influential reform activities, tremendous technical activities, sudden acts of violence, spontaneous power activities, technical work force, and explosive will strongness
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Uranus = Vulcanus` magnifies shock into enormous force, extreme risk, and explosive impact.
+- Chart expression: staking everything, massive collisions, huge explosions, and surprising surges of power that can overturn the whole field at once.
 
 ## Links
 
@@ -61,3 +56,5 @@ To gamble with everything, to stake everything. With great, surprising power. Gr
 - [Uranus](../factors/uranus.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Mars/Uranus](../axes/mars-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

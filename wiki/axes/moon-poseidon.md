@@ -3,7 +3,7 @@ title: Moon/Poseidon
 page_type: axis
 slug: moon-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Poseidon
@@ -11,26 +11,26 @@ normalized_axis: Moon/Poseidon
 factor_a: Moon
 factor_b: Poseidon
 related_activations:
-  - Moon/Poseidon = Vernal Point
-  - Moon/Poseidon = MC
+  - Moon/Poseidon = Admetos
+  - Moon/Poseidon = Apollon
   - Moon/Poseidon = Asc
-  - Moon/Poseidon = Sun
-  - Moon/Poseidon = Node
-  - Moon/Poseidon = Mercury
-  - Moon/Poseidon = Venus
-  - Moon/Poseidon = Mars
-  - Moon/Poseidon = Jupiter
-  - Moon/Poseidon = Saturn
-  - Moon/Poseidon = Uranus
-  - Moon/Poseidon = Neptune
-  - Moon/Poseidon = Pluto
   - Moon/Poseidon = Cupido
   - Moon/Poseidon = Hades
-  - Moon/Poseidon = Zeus
+  - Moon/Poseidon = Jupiter
   - Moon/Poseidon = Kronos
-  - Moon/Poseidon = Apollon
-  - Moon/Poseidon = Admetos
+  - Moon/Poseidon = Mars
+  - Moon/Poseidon = MC
+  - Moon/Poseidon = Mercury
+  - Moon/Poseidon = Neptune
+  - Moon/Poseidon = Node
+  - Moon/Poseidon = Pluto
+  - Moon/Poseidon = Saturn
+  - Moon/Poseidon = Sun
+  - Moon/Poseidon = Uranus
+  - Moon/Poseidon = Venus
+  - Moon/Poseidon = Vernal Point
   - Moon/Poseidon = Vulcanus
+  - Moon/Poseidon = Zeus
 related_triad_hubs:
   - Moon Admetos Poseidon
   - Moon Apollon Poseidon
@@ -56,15 +56,15 @@ aliases:
   - Poseidon/Moon
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Axis: `Moon/Poseidon`
 - Astronomicon axis: `R/¨`
-- Source heading: `Moon + Poseidon`
-- Source page: `138`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
@@ -74,48 +74,46 @@ updated_at: 2026-04-21
 
 The influence of the spirit upon the soul. A people that is receptive to spiritual or intellectual issues. The medium. The hour of realization. Subconscious mind. Mentally elevated woman. Large sea tides.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The influence of the spirit upon the soul. A people that is receptive to spiritual or intellectual issues. The medium. The hour of realization. Subconscious mind. Mentally elevated woman. Large sea tides.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+#### ABC Pair Summary
+
+Insightful woman, spirit of woman, spirit of a people, clear customs, cultivated woman, cultured people, hour of truth, spiritualized woman, people culture, and truth order
 
 ## Related Activations
 
-- [Moon/Poseidon = Vernal Point](../activations/moon-poseidon-equals-vernal-point.md)
-- [Moon/Poseidon = MC](../activations/moon-poseidon-equals-mc.md)
+- [Moon/Poseidon = Admetos](../activations/moon-poseidon-equals-admetos.md)
+- [Moon/Poseidon = Apollon](../activations/moon-poseidon-equals-apollon.md)
 - [Moon/Poseidon = Asc](../activations/moon-poseidon-equals-asc.md)
-- [Moon/Poseidon = Sun](../activations/moon-poseidon-equals-sun.md)
-- [Moon/Poseidon = Node](../activations/moon-poseidon-equals-node.md)
-- [Moon/Poseidon = Mercury](../activations/moon-poseidon-equals-mercury.md)
-- [Moon/Poseidon = Venus](../activations/moon-poseidon-equals-venus.md)
-- [Moon/Poseidon = Mars](../activations/moon-poseidon-equals-mars.md)
-- [Moon/Poseidon = Jupiter](../activations/moon-poseidon-equals-jupiter.md)
-- [Moon/Poseidon = Saturn](../activations/moon-poseidon-equals-saturn.md)
-- [Moon/Poseidon = Uranus](../activations/moon-poseidon-equals-uranus.md)
-- [Moon/Poseidon = Neptune](../activations/moon-poseidon-equals-neptune.md)
-- [Moon/Poseidon = Pluto](../activations/moon-poseidon-equals-pluto.md)
 - [Moon/Poseidon = Cupido](../activations/moon-poseidon-equals-cupido.md)
 - [Moon/Poseidon = Hades](../activations/moon-poseidon-equals-hades.md)
-- [Moon/Poseidon = Zeus](../activations/moon-poseidon-equals-zeus.md)
+- [Moon/Poseidon = Jupiter](../activations/moon-poseidon-equals-jupiter.md)
 - [Moon/Poseidon = Kronos](../activations/moon-poseidon-equals-kronos.md)
-- [Moon/Poseidon = Apollon](../activations/moon-poseidon-equals-apollon.md)
-- [Moon/Poseidon = Admetos](../activations/moon-poseidon-equals-admetos.md)
+- [Moon/Poseidon = Mars](../activations/moon-poseidon-equals-mars.md)
+- [Moon/Poseidon = MC](../activations/moon-poseidon-equals-mc.md)
+- [Moon/Poseidon = Mercury](../activations/moon-poseidon-equals-mercury.md)
+- [Moon/Poseidon = Neptune](../activations/moon-poseidon-equals-neptune.md)
+- [Moon/Poseidon = Node](../activations/moon-poseidon-equals-node.md)
+- [Moon/Poseidon = Pluto](../activations/moon-poseidon-equals-pluto.md)
+- [Moon/Poseidon = Saturn](../activations/moon-poseidon-equals-saturn.md)
+- [Moon/Poseidon = Sun](../activations/moon-poseidon-equals-sun.md)
+- [Moon/Poseidon = Uranus](../activations/moon-poseidon-equals-uranus.md)
+- [Moon/Poseidon = Venus](../activations/moon-poseidon-equals-venus.md)
+- [Moon/Poseidon = Vernal Point](../activations/moon-poseidon-equals-vernal-point.md)
 - [Moon/Poseidon = Vulcanus](../activations/moon-poseidon-equals-vulcanus.md)
+- [Moon/Poseidon = Zeus](../activations/moon-poseidon-equals-zeus.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Poseidon` is the axis of spirit influencing soul: receptivity to spiritual or intellectual issues, subconscious realization, the medium, cultured people, and the hour of truth.
+- Constructively it gives insight, spiritualized feeling, cultivated women or peoples, and emotional openness to ideals, culture, and clear meaning.
+- The liability is excessive receptivity, abstraction, or being moved by an ideal without enough grounding in lived feeling.
+- Activations show whether the spiritualized feeling becomes speech, public culture, realization, confusion, power, or a shared intellectual atmosphere.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Poseidon](../factors/poseidon.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

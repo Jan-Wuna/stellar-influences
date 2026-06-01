@@ -3,7 +3,7 @@ title: Uranus/Cupido = Neptune
 page_type: activation
 slug: uranus-cupido-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Neptune
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Cupido`
-- Source page: `236`
 #### Witte Entry
 
 Marriage separated by death. Signs of dissolution in a community. Dissolution of a revolutionary union.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Marriage separated by death. Signs of dissolution in a community. Dissolution of a revolutionary union.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Oynamic Future Community, subtle impulses in of a community, common air technology, artistic water technology, sudden dissolution of a community, weakness of a nervous community, unknown tensions in of a community Common dynamic changes, common rhythm change, and development of
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Cupido = Neptune`: Marriage separated by death. Signs of dissolution in a community. Dissolution of a revolutionary union.
+- Practical expression: subtle impulses in a community, common air technology, artistic water technology, and sudden dissolution of a community.
 
 ## Links
 
@@ -61,3 +56,5 @@ Marriage separated by death. Signs of dissolution in a community. Dissolution of
 - [Cupido](../factors/cupido.md)
 - [Neptune](../factors/neptune.md)
 - [Uranus/Cupido](../axes/uranus-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Apollon/Admetos = Sun
 page_type: activation
 slug: apollon-admetos-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Apollon
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Apollon
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Apollon + Admetos`
-- Source page: `306`
 #### Witte Entry
 
 Satisfactory conditions. Days of contentment and rest. The man whose mind is at rest and easy. Well balanced mentally so that nothing can move or scare him.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Satisfactory conditions. Days of contentment and rest. The man whose mind is at rest and easy. Well balanced mentally so that nothing can move or scare him.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blockicrte's personal knowledge, strengthening of a man's personal knowledge, brilliant experiences, corporal success through perseverance, personal freedom limitation, and scientific center for depression
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Admetos = Sun`: contented days, psychological equilibrium, and a person who is quietly at ease with present conditions. Main caution: self-satisfied inertia: the calm can become so complete that drive, challenge, and ambition lose their place.
 
 ## Links
 
@@ -61,3 +55,5 @@ Satisfactory conditions. Days of contentment and rest. The man whose mind is at 
 - [Admetos](../factors/admetos.md)
 - [Sun](../factors/sun.md)
 - [Apollon/Admetos](../axes/apollon-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

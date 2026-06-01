@@ -3,7 +3,7 @@ title: Neptune/Admetos = Asc
 page_type: activation
 slug: neptune-admetos-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Asc
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Admetos`
-- Source page: `252`
 #### Witte Entry
 
 Others experience changes in their economic situation. Change in relation to the environment or to other people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Others experience changes in their economic situation. Change in relation to the environment or to other people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+dissolution of depressions in the partner, restrictions and disappointments in the environment, sensitivity of a thorough partner, thoroughly disappointed partner, circulatory weakness of the partner, air resistance in the space, dissolution of congestion at a place, and water congestion in a place
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Admetos = Asc`: Others experience changes in their economic situation. Change in relation to the environment or to other people.
+- Practical focus: externalizes `Neptune/Admetos` through environmental and interpersonal change. It shows altered living conditions being experienced through others, local surroundings, or economic shifts, so hardening or decline becomes concretely relational and situational.
+- Practical expression: dissolution of depressions in the partner, restrictions, disappointments in the environment, sensitivity of a thorough partner, and thoroughly disappointed partner.
 
 ## Links
 
@@ -61,3 +57,5 @@ Others experience changes in their economic situation. Change in relation to the
 - [Admetos](../factors/admetos.md)
 - [Asc](../factors/asc.md)
 - [Neptune/Admetos](../axes/neptune-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

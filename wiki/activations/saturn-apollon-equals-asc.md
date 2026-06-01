@@ -3,7 +3,7 @@ title: Saturn/Apollon = Asc
 page_type: activation
 slug: saturn-apollon-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Asc
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Apollon`
-- Source page: `228`
 #### Witte Entry
 
 Others separate from a community. To be separated from many.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Others separate from a community. To be separated from many.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Old knowledge of a place, extension of the environmental problems, success of the partner in old age, successful concentration on the environment, trade losses in the place, environmental success through patience, and increasing patience of the partner
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Apollon = Asc`: others separate from a community, to be separated from many.
+- Practical expression: old knowledge of a place, extension of the environmental problems, success of the partner in old age, successful concentration on the environment, and trade losses in the place.
 
 ## Links
 
@@ -61,3 +56,5 @@ Others separate from a community. To be separated from many.
 - [Apollon](../factors/apollon.md)
 - [Asc](../factors/asc.md)
 - [Saturn/Apollon](../axes/saturn-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

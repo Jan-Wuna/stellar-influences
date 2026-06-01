@@ -3,10 +3,10 @@ title: Jupiter/Asc = Apollon
 page_type: activation
 slug: jupiter-asc-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Jupiter
+  - Asc
   - Apollon
 normalized_formula: Jupiter/Asc = Apollon
 axis: Jupiter/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Asc
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Jupiter`
-- Source page: `86`
 #### Witte Entry
 
 To be fortunate with many. Good relations with business people or men of science.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be fortunate with many. Good relations with business people or men of science.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Extensive joy in the place, success with money of the partner, successful local economy, successful trade in the place, place of money increase, place of law science, place of peace and joy, legal success of the partner, and increasing success of others
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Asc = Apollon`: social goodwill scaling into networks, commerce, and intellectual society. It can show popularity and opportunity growing through wide association.
 
 ## Links
 
@@ -61,3 +55,5 @@ To be fortunate with many. Good relations with business people or men of science
 - [Asc](../factors/asc.md)
 - [Apollon](../factors/apollon.md)
 - [Jupiter/Asc](../axes/jupiter-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

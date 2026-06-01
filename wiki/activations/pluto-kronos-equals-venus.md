@@ -3,7 +3,7 @@ title: Pluto/Kronos = Venus
 page_type: activation
 slug: pluto-kronos-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Pluto
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Kronos`
-- Source page: `260`
 #### Witte Entry
 
 The authorities, the government, chief, the boss prefer the native in connection with great changes.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The authorities, the government, chief, the boss prefer the native in connection with great changes.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special developments in the arts, development to self governance in love, development of great joy, great preference for change, harmonious development in the hierarchy, self sustained development through beauty, and growing authorship in the arts
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Kronos = Venus`: pleasant advancement; Relationships or values support rising status or capability.
+- Practical expression: special developments in the arts, development to self governance in love, development of great joy, great preference for change, and harmonious development in the hierarchy.
 
 ## Links
 
@@ -61,3 +56,5 @@ The authorities, the government, chief, the boss prefer the native in connection
 - [Kronos](../factors/kronos.md)
 - [Venus](../factors/venus.md)
 - [Pluto/Kronos](../axes/pluto-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

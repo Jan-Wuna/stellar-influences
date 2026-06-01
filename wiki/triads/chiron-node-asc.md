@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Chiron Node Asc`
 - Astronomicon triad-set: `Chiron g Asc`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Chiron/Node = Asc`: John, page `100`
 - `Node/Asc = Chiron`: John, page `118`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Asc = Node`: relational healing and to connections that either support spiritualized identity or painfully expose limiting patterns. Main caution: repeatedly choosing ties that reinforce identity wounds.
+- `Chiron/Node = Asc`: relationship and spiritual connection being filtered directly through self-presentation and identity style. Main caution: preserving a persona that blocks the very connectedness one longs for.
+- `Node/Asc = Chiron`: One’s vibration spontaneously helps others to relate to their own past in a more healing manner and to identify more strongly with those energies which will most help them to evolve.
 
 ## Links
 

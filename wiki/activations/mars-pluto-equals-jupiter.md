@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Pluto`
-- Source page: `196`
 #### Witte Entry
 
 Plans bring or should bring good fortune. Plans carried through successfully.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Mars/Pluto`
-- Source page: `214`
-- Entry: `0739`
+#### ABC Entry
+
+Development of the right to work, successful development of work, successful evolution work, successful development of the will, developing legal activity, growing financial activity, and changes through legal action
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ The consciousness of an aim or objective, ability to organize, right use of one'
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mars/Pluto midpoint`
-- Source page: `73`
-- Activator: `Jupiter`
-
 #### Sandbach Entry
 
 To work extremely hard to grow or to advance oneself. To have tremendously passionate enthusiasm. Success that comes through relentless work.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Increases any destructive powers; the use of powerful forces to highlight or single out conditions; the ethics of propagating powerful destructive forces or urges; a fortuitous outcome when activating extreme measures.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Pluto = Jupiter`: major effort, strong organizing ability, and growth through courage, pressure, and uncompromising commitment. Main caution: excess: ambition and enthusiasm can become fanatical, overbearing, or too ready to justify force in the name of success.
 
 ## Links
 
@@ -84,7 +76,8 @@ To work extremely hard to grow or to advance oneself. To have tremendously passi
 - [Pluto](../factors/pluto.md)
 - [Jupiter](../factors/jupiter.md)
 - [Mars/Pluto](../axes/mars-pluto.md)
-- [Mars Jupiter Pluto](../triads/mars-jupiter-pluto.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

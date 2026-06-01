@@ -58,11 +58,12 @@ aliases:
   - MC/Venus
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -75,17 +76,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus/Medium Coeli`
-- Source page: `198`
-
 #### Pair Summary
 
 One’s own personal affections. Love sentiments. One’s wishes and hopes. One’s own personal attraction. To have the power of attraction. To be attractive. To be fond of something. Peaceful minded. Feeling balanced. Sense of attraction. Sympathies.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Venus/Medium Coeli`
-- Source page: `198`
+#### ABC Pair Summary
+
+Stirred kiss, inner peace, my wife, my joy, my kiss, my love, my affection, beauty of the soul, soul peace, and soul harmony
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -109,9 +110,6 @@ The loving human being, the artist.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Venus/Midheaven midpoint`
-- Source page: `66`
-
 #### Principle
 
 To spread love and beauty to the world, and to help others to appreciate the spiritual aspects of life. A career in the arts. To have a harmonious relationship with one’s employer. To play the role of a loving and soothing parent. Negatively, to be a selfish parent.
@@ -122,17 +120,11 @@ To experience love as a guiding force, and to be open to the love which comes fr
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Venus/Midheaven`
-- Source page: `207`
-
 #### Pair Delineation
 
 One's own love and happiness in relationships. One's own creativity and love of beauty. Admiration of the self. Often a sign of creativity in the arts.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `VENUS/MIDHEAVEN`
-- Source page: `219`
 
 #### Basic Ideas
 
@@ -161,15 +153,6 @@ An inability to develop an appreciation for what others do for you; your ability
 
 - [Michael Munkasey - Venus/MC Concepts](../derived/munkasey-venus-mc-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Venus/MC = Admetos](../activations/venus-mc-equals-admetos.md)
@@ -194,20 +177,18 @@ An inability to develop an appreciation for what others do for you; your ability
 - [Venus/MC = Vulcanus](../activations/venus-mc-equals-vulcanus.md)
 - [Venus/MC = Zeus](../activations/venus-mc-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/MC` is the axis of affectionate life direction, creative vocation, and public identity shaped by love, beauty, peace, and appreciation. It combines harmony, attraction, artistry, and value with purpose, status, self-worth, and the way one wishes to be known.
+- Chart expression: a gracious or artistic calling, the desire to spread beauty or kindness, and a life path guided by relationship, aesthetics, and the search for inner and outer harmony. Liabilities: self-admiration, jealousy, superficial refinement, and the tendency to confuse real worth with admiration, gifts, or image.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)

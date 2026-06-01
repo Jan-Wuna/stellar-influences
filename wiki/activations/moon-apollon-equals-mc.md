@@ -3,7 +3,7 @@ title: Moon/Apollon = MC
 page_type: activation
 slug: moon-apollon-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - MC
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Apollon`
-- Source page: `134`
 #### Witte Entry
 
 Greatness of soul. Generously predisposed. To be in touch with several nations, to be impressed by them.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Greatness of soul. Generously predisposed. To be in touch with several nations, to be impressed by them.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+ensouled emotional knowledge, experiences of a sensitive soul, freedom of my people, my success with women, my emotional knowledge, my experienced woman, my successful woman, my many women, soulful experiences of the woman, and hour of my success
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Apollon = MC`: Greatness of soul. Generously predisposed. To be in touch with several nations, to be impressed by them.
+- Practical expression: ensouled emotional knowledge, experiences of a sensitive soul, freedom of my people, my success with women, and my emotional knowledge.
 
 ## Links
 
@@ -61,3 +56,5 @@ Greatness of soul. Generously predisposed. To be in touch with several nations, 
 - [Apollon](../factors/apollon.md)
 - [MC](../factors/mc.md)
 - [Moon/Apollon](../axes/moon-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

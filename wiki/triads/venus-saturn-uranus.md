@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Saturn Uranus`
 - Astronomicon triad-set: `Q W X`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,19 +40,27 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Saturn/Uranus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `221`
+- `Saturn/Uranus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `348`
 - `Saturn/Uranus = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `247`
 - `Saturn/Uranus = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `88`
+- `Saturn/Uranus = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `284`
 - `Venus/Saturn = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `178`
+- `Venus/Saturn = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `275`
 - `Venus/Saturn = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `182`
 - `Venus/Saturn = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `57`
+- `Venus/Saturn = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `196`
 - `Venus/Uranus = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `179`
+- `Venus/Uranus = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `277`
 - `Venus/Uranus = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `185`
 - `Venus/Uranus = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `60`
+- `Venus/Uranus = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `200`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Saturn/Uranus = Venus`: unconventional but restrained attachment, with affection shaped by both loyalty and the need for freedom from stale relational forms.
+- `Venus/Saturn = Uranus`: restrained affection, serious love, and value tested through time, duty, and limitation made tension-filled, alternating, and unstable.
+- `Venus/Uranus = Saturn`: electric attraction, unconventional love, and liberating value shifts made conflicted, disciplined, and structurally tense.
 
 ## Links
 
@@ -59,5 +68,7 @@ updated_at: 2026-04-22
 - [Saturn](../factors/saturn.md)
 - [Uranus](../factors/uranus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

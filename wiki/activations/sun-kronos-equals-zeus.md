@@ -3,7 +3,7 @@ title: Sun/Kronos = Zeus
 page_type: activation
 slug: sun-kronos-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Zeus
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Kronos`
-- Source page: `114`
 #### Witte Entry
 
 Of good extraction. Great urge to create. Outstanding qualities of leadership. To experience might. Judicial decision; passing judgement.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Of good extraction. Great urge to create. Outstanding qualities of leadership. To experience might. Judicial decision; passing judgement.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Efforts of a state man, special body performance, leadership person in the state, leadership centre of the state, creative authoritarian person, persons with special purpose, and center for special procreation
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Kronos = Zeus`: forceful leadership and creative command.
+- Practical expression: efforts of a state man, special body performance, leadership person in the state, leadership centre of the state, and creative authoritarian person.
 
 ## Links
 
@@ -61,3 +56,5 @@ Of good extraction. Great urge to create. Outstanding qualities of leadership. T
 - [Kronos](../factors/kronos.md)
 - [Zeus](../factors/zeus.md)
 - [Sun/Kronos](../axes/sun-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

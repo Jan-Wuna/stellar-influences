@@ -3,7 +3,7 @@ title: Pluto/Admetos = Kronos
 page_type: activation
 slug: pluto-admetos-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Kronos
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Admetos`
-- Source page: `262`
 #### Witte Entry
 
 In the life of nations great changes in the existing forms of governments. In personal horoscopes, to live through such changes, or changed attitude of the native toward superiors, government, or the form of government.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: In the life of nations great changes in the existing forms of governments. In personal horoscopes, to live through such changes, or changed attitude of the native toward superiors, government, or the form of government.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Developing special perseverance, consolidating important developments, great circulatory changes, grim development of the hierarchy, grilndlich changes in the state, profound transformation of authorship, and growing superiority through grinndlichkeit
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Admetos = Kronos`: in the life of nations great changes in the existing forms of governments.
+- Practical expression: developing special perseverance, consolidating important developments, great circulatory changes, and grim development of the hierarchy.
 
 ## Links
 
@@ -61,3 +56,5 @@ In the life of nations great changes in the existing forms of governments. In pe
 - [Admetos](../factors/admetos.md)
 - [Kronos](../factors/kronos.md)
 - [Pluto/Admetos](../axes/pluto-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

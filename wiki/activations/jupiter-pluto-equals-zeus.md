@@ -3,7 +3,7 @@ title: Jupiter/Pluto = Zeus
 page_type: activation
 slug: jupiter-pluto-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Pluto
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Pluto`
-- Source page: `210`
 #### Witte Entry
 
 Good circumstances continue to improve. To create the increase of charitable activities.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Good circumstances continue to improve. To create the increase of charitable activities.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Starting money development, developing successful timing, successful performanceChanges, joyful performance development, good start for a change, developing legal services, and growing happiness through efforts
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Pluto = Zeus`: growth becoming active, constructive, and outwardly useful. It favors producing better conditions over time and channeling power into generous or socially beneficial work.
 
 ## Links
 
@@ -61,3 +55,5 @@ Good circumstances continue to improve. To create the increase of charitable act
 - [Pluto](../factors/pluto.md)
 - [Zeus](../factors/zeus.md)
 - [Jupiter/Pluto](../axes/jupiter-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

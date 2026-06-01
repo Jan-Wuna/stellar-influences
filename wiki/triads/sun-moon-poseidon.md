@@ -3,7 +3,7 @@ title: Sun Moon Poseidon
 page_type: triad_hub
 slug: sun-moon-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Moon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Moon Poseidon`
 - Astronomicon triad-set: `S R ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Poseidon = Sun](../activations/moon-poseidon-equals-sun.md)
-  Source page `138`
 - [Sun/Moon = Poseidon](../activations/sun-moon-equals-poseidon.md)
-  Source page `101`
 - [Sun/Poseidon = Moon](../activations/sun-poseidon-equals-moon.md)
-  Source page `118`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Poseidon = Sun`: page `138`
-- `Sun/Moon = Poseidon`: page `101`
-- `Sun/Poseidon = Moon`: page `118`
+- `Moon/Poseidon = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `138`
+- `Moon/Poseidon = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `206`
+- `Sun/Moon = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `101`
+- `Sun/Moon = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `139`
+- `Sun/Poseidon = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `118`
+- `Sun/Poseidon = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `172`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Poseidon = Sun`: The daily repeating hours of susceptibility. To be in company with such people.
+- `Sun/Moon = Poseidon`: This formula emphasizes spiritualized personal life and truth shaping the basic self.
+- `Sun/Poseidon = Moon`: This formula emphasizes emotional truth and ordinary life colored by spiritual meaning.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Moon](../factors/moon.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

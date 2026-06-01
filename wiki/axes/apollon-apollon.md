@@ -45,8 +45,6 @@ updated_at: 2026-04-21
 
 - Axis: `Apollon/Apollon`
 - Astronomicon axis: `¥/¥`
-- Source heading: `Apollon + Apollon`
-- Source page: `304`
 
 ## Source Entries
 
@@ -55,15 +53,6 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 Commerce. Trade. Economy. Religion. Philosophy. Glory. Greatest success. Greatest expansion. Science, Experience. Far wide. Peace. Arts.
-
-## Comparative Schema
-
-- core meaning: Commerce. Trade. Economy. Religion. Philosophy. Glory. Greatest success. Greatest expansion. Science, Experience. Far wide. Peace. Arts.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
@@ -89,13 +78,11 @@ Commerce. Trade. Economy. Religion. Philosophy. Glory. Greatest success. Greates
 - [Apollon/Apollon = Vulcanus](../activations/apollon-apollon-equals-vulcanus.md)
 - [Apollon/Apollon = Poseidon](../activations/apollon-apollon-equals-poseidon.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Apollon` is the pure amplification of the Apollon principle: greatest expansion, wide distribution, commerce, science, philosophy, arts, peace, and success operating at large scale.
+- Chart expression: prosperity, recognition, globalization, intellectual or spiritual breadth, and systems, enterprises, or ideas that extend far beyond a local field. Liabilities: inflation, grandiosity, overreach, and enlargement that outruns proportion, substance, or practical control.
 
 ## Links
 

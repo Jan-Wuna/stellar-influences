@@ -3,7 +3,7 @@ title: Moon/Pluto = Kronos
 page_type: activation
 slug: moon-pluto-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Pluto
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Pluto`
-- Source page: `129`
 #### Witte Entry
 
 Changes in the official function or official position.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Changes in the official function or official position.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special changes in women's attitudes, the development of women in the state, the development of a people to self governance, the development of a respected woman, great changes in the people, the growing self governingness of women, and changes in the reputation of a people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Pluto = Kronos`: Changes in the official function or official position.
+- Practical focus: elevates `Moon/Pluto` through changes in office, rank, or formal role. It points to emotional or public transformation tied to authority, where status shifts, institutional repositioning, or altered official function become the main outlet for change.
+- Practical expression: special changes in women's attitudes, the development of women in the state, the development of a people to self governance, the development of a respected woman, and great changes in the people.
 
 ## Links
 
@@ -61,3 +57,5 @@ Changes in the official function or official position.
 - [Pluto](../factors/pluto.md)
 - [Kronos](../factors/kronos.md)
 - [Moon/Pluto](../axes/moon-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

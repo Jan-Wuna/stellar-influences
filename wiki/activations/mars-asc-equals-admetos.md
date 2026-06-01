@@ -3,10 +3,10 @@ title: Mars/Asc = Admetos
 page_type: activation
 slug: mars-asc-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Mars
+  - Asc
   - Admetos
 normalized_formula: Mars/Asc = Admetos
 axis: Mars/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Asc
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Mars`
-- Source page: `85`
 #### Witte Entry
 
 To be depressed or oppressed by others.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be depressed or oppressed by others.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Work blockade in the environment, long term partner work, depressive partner impulses, limited activity at the site, consolidation of the partner's will, basic work partner, restricted work for the environment, and deepening in environmental work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Asc = Admetos` compresses the Mars/Asc axis of assertive presence into inhibition, oppression, and heavy pressure from other people or the environment.
+- Chart expression: blocked action, depressed morale, and situations where one is held down, wearied, or forced to endure others' force rather than act freely.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be depressed or oppressed by others.
 - [Asc](../factors/asc.md)
 - [Admetos](../factors/admetos.md)
 - [Mars/Asc](../axes/mars-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

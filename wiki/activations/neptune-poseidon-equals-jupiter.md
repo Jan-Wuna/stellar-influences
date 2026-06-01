@@ -3,7 +3,7 @@ title: Neptune/Poseidon = Jupiter
 page_type: activation
 slug: neptune-poseidon-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Neptune
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Poseidon`
-- Source page: `254`
 #### Witte Entry
 
 To be fortunate in highly placed mental matters. To remain hidden. To successfully pretend.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be fortunate in highly placed mental matters. To remain hidden. To successfully pretend.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exchangeable right wingness, exchangeable financial values, successful culture refinement, false money culture, joy through metaphysical wisdom, spiritual success through intuition, spiritual happiness through subtlety, and clarity through successful intuition
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Poseidon = Jupiter`: To be fortunate in highly placed mental matters. To remain hidden. To successfully pretend.
+- Practical focus: enlarges subtle mentality through fortunate concealment and successful pretense, showing high-minded or mental matters that prosper while remaining partly hidden.
+- Practical expression: exchangeable right wingness, exchangeable financial values, successful culture refinement, false money culture, and oy through metaphysical wisdom.
 
 ## Links
 
@@ -61,3 +57,5 @@ To be fortunate in highly placed mental matters. To remain hidden. To successful
 - [Poseidon](../factors/poseidon.md)
 - [Jupiter](../factors/jupiter.md)
 - [Neptune/Poseidon](../axes/neptune-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

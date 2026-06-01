@@ -3,7 +3,7 @@ title: Neptune/Poseidon = Kronos
 page_type: activation
 slug: neptune-poseidon-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Kronos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Poseidon`
-- Source page: `254`
 #### Witte Entry
 
 A great pretender who appears or wants to give the impression of great importance.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A great pretender who appears or wants to give the impression of great importance.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special clarity through intuition, expectations of the spiritual hierarchy, intellectual authority of the future, weak state authority, self confidence through metaphysical knowledge, denial of state ideas, and important foreign culture
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Poseidon = Kronos`: A great pretender who appears or wants to give the impression of great importance.
+- Practical focus: elevates spiritualized uncertainty into grand pretension, where one projects great importance or higher insight without sufficient reality behind the appearance.
+- Practical expression: special clarity through intuition, expectations of the spiritual hierarchy, intellectual authority of the future, weak state authority, and self confidence through metaphysical knowledge.
 
 ## Links
 
@@ -61,3 +57,5 @@ A great pretender who appears or wants to give the impression of great importanc
 - [Poseidon](../factors/poseidon.md)
 - [Kronos](../factors/kronos.md)
 - [Neptune/Poseidon](../axes/neptune-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

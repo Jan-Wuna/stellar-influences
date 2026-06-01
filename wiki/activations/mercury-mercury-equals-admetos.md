@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Mercury + Mercury`
-- Source page: `158`
 #### Witte Entry
 
 Serious or limited thinking. Perseverance in thinking. Profound thinker. Profound concentration of thoughts. Thoughts, news or information of death, grief, standstill, hindrance. Pessimist. End of a motion. Negotiations which are a dead issue. Ponderous, slow and sluggish.
 
-## Comparative Schema
-
-- core meaning: Serious or limited thinking. Perseverance in thinking. Profound thinker. Profound concentration of thoughts. Thoughts, news or information of death, grief, standstill, hindrance. Pessimist. End of a motion. Negotiations which are a dead issue. Ponderous, slow and sluggish.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Mercury = Admetos` compresses the axis into grave concentration, dead issue, and slow mental persistence.
+- Chart expression: serious or limited thinking, deep concentration, pessimistic or grief-laden news, stalled negotiations, and a mind that keeps working even when motion has nearly come to a stop.
 
 ## Links
 

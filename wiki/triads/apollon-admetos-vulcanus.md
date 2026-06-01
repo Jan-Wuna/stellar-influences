@@ -3,7 +3,7 @@ title: Apollon Admetos Vulcanus
 page_type: triad_hub
 slug: apollon-admetos-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Apollon
   - Admetos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Apollon Admetos Vulcanus`
 - Astronomicon triad-set: `¥ ¦ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Admetos/Vulcanus = Apollon](../activations/admetos-vulcanus-equals-apollon.md)
-  Source page `311`
 - [Apollon/Admetos = Vulcanus](../activations/apollon-admetos-equals-vulcanus.md)
-  Source page `306`
 - [Apollon/Vulcanus = Admetos](../activations/apollon-vulcanus-equals-admetos.md)
-  Source page `307`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Admetos/Vulcanus = Apollon`: page `311`
-- `Apollon/Admetos = Vulcanus`: page `306`
-- `Apollon/Vulcanus = Admetos`: page `307`
+- `Admetos/Vulcanus = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `311`
+- `Admetos/Vulcanus = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `475`
+- `Apollon/Admetos = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `306`
+- `Apollon/Admetos = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `469`
+- `Apollon/Vulcanus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `307`
+- `Apollon/Vulcanus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `471`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Admetos/Vulcanus = Apollon`: collective exposure to heavy fate pressure, with many people sharing one hard impact or burden.
+- `Apollon/Admetos = Vulcanus`: contentment swollen into overconfidence, with sufficiency hardening into arrogance or presumption.
+- `Apollon/Vulcanus = Admetos`: powerful success on a small scale, where prosperity and might are present but tightly bounded.
 
 ## Links
 
 - [Apollon](../factors/apollon.md)
 - [Admetos](../factors/admetos.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

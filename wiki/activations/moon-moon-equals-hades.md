@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Moon + Moon`
-- Source page: `120`
 #### Witte Entry
 
 Resignation. Woman alone in the world. Uterine diseases. A pitiable woman. Poor woman. The caring woman. Widow. Hours full of worry and anguish. Hour of fate. Stomach trouble. A people affected by misfortune. Single (solitary) woman. Base people. A low life woman. Not much soul. Ailments of female persons. Unfortunate hour.
 
-## Comparative Schema
-
-- core meaning: Resignation. Woman alone in the world. Uterine diseases. A pitiable woman. Poor woman. The caring woman. Widow. Hours full of worry and anguish. Hour of fate. Stomach trouble. A people affected by misfortune. Single (solitary) woman. Base people. A low life woman. Not much soul. Ailments of female persons. Unfortunate hour.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Moon = Hades`: Resignation. Woman alone in the world. Uterine diseases. A pitiable woman. Poor woman. The caring woman. Widow. Hours full of worry and anguish. Hour of fate. Stomach trouble. A people affected by misfortune. Single (solitary) woman. Base people. A low life woman. Not much soul. Ailments of female persons. Unfortunate hour.
+- Practical focus: degrades `Moon/Moon` into sorrow, misfortune, illness, and solitary feminine hardship. It can show worried hours, bodily ailments, emotional resignation, or a public mood touched by poverty and loss, making pure lunar receptivity vulnerable to anguish, neglect, and fate-heavy conditions.
 
 ## Links
 

@@ -3,7 +3,7 @@ title: Uranus MC Zeus
 page_type: triad_hub
 slug: uranus-mc-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - MC
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus MC Zeus`
 - Astronomicon triad-set: `X MC £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Zeus = Uranus](../activations/mc-zeus-equals-uranus.md)
-  Source page `72`
 - [Uranus/MC = Zeus](../activations/uranus-mc-equals-zeus.md)
-  Source page `67`
 - [Uranus/Zeus = MC](../activations/uranus-zeus-equals-mc.md)
-  Source page `238`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Zeus = Uranus`: page `72`
-- `Uranus/MC = Zeus`: page `67`
-- `Uranus/Zeus = MC`: page `238`
+- `MC/Zeus = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `72`
+- `MC/Zeus = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `89`
+- `Uranus/MC = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `67`
+- `Uranus/MC = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `79`
+- `Uranus/Zeus = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `238`
+- `Uranus/Zeus = MC`: Udo Rudolph - ABC for Planetary Pictures, page `378`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Zeus = Uranus`: electrifies the axis with sudden initiative, innovation, and forceful will.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [MC](../factors/mc.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

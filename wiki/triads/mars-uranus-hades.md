@@ -3,7 +3,7 @@ title: Mars Uranus Hades
 page_type: triad_hub
 slug: mars-uranus-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Uranus
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Uranus Hades`
 - Astronomicon triad-set: `U X ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Hades = Uranus](../activations/mars-hades-equals-uranus.md)
-  Source page `198`
 - [Mars/Uranus = Hades](../activations/mars-uranus-equals-hades.md)
-  Source page `194`
 - [Uranus/Hades = Mars](../activations/uranus-hades-equals-mars.md)
-  Source page `237`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Hades = Uranus`: page `198`
-- `Mars/Uranus = Hades`: page `194`
-- `Uranus/Hades = Mars`: page `237`
+- `Mars/Hades = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `198`
+- `Mars/Hades = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `311`
+- `Mars/Uranus = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `194`
+- `Mars/Uranus = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `303`
+- `Uranus/Hades = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `237`
+- `Uranus/Hades = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `376`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Hades = Uranus`: loss-producing activity, war atrocity, murder, and suicide emerging through sudden destructive force.
+- `Mars/Uranus = Hades`: makes destructive shocks crude, violent, and catastrophic.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Uranus](../factors/uranus.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

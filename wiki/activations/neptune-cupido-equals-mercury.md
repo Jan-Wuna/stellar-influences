@@ -3,7 +3,7 @@ title: Neptune/Cupido = Mercury
 page_type: activation
 slug: neptune-cupido-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Neptune
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Cupido`
-- Source page: `247`
 #### Witte Entry
 
 Professional breach of promise (of marriage). Infidelity in married life. To think about the dissolution of a community, longing to leave it. Thoughts of sorrow and sadness about the dissolution of the family or about a shortage of housing .
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Professional breach of promise (of marriage). Infidelity in married life. To think about the dissolution of a community, longing to leave it. Thoughts of sorrow and sadness about the dissolution of the family or about a shortage of housing .
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Resolution of a youth community, foreign art reports, foreign transport community, language community in the air, youth community in the water, talking about common future, and insecure community in the youth
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Cupido = Mercury`: Professional breach of promise (of marriage). Infidelity in married life. To think about the dissolution of a community, longing to leave it. Thoughts of sorrow and sadness about the dissolution of the family or about a shortage of housing.
+- Practical focus: gives unhappy union a mental and verbal form through infidelity, broken promises, and persistent thoughts of leaving, separating, or grieving communal and domestic dissolution.
+- Practical expression: resolution of a youth community, foreign art reports, foreign transport community, language community in the air, and youth community in the water.
 
 ## Links
 
@@ -61,3 +57,5 @@ Professional breach of promise (of marriage). Infidelity in married life. To thi
 - [Cupido](../factors/cupido.md)
 - [Mercury](../factors/mercury.md)
 - [Neptune/Cupido](../axes/neptune-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

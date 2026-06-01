@@ -3,7 +3,7 @@ title: Neptune/Kronos = Vulcanus
 page_type: activation
 slug: neptune-kronos-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Kronos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Kronos`
-- Source page: `250`
 #### Witte Entry
 
 Mighty deception through incompetent leadership. Diplomacy of a great power.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mighty deception through incompetent leadership. Diplomacy of a great power.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Power uncertainty of the state, special energy of the world, great unknown energy, great uncertainty in the air, power weakness of the state, state air power, uncertainty by great violence, pre exchange of great strong, and important subtle influence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Kronos = Vulcanus`: Mighty deception through incompetent leadership. Diplomacy of a great power.
+- Practical focus: intensifies compromised authority into powerful deception, combining great-power diplomacy with the forceful consequences of incompetent or misleading leadership.
+- Practical expression: power uncertainty of the state, special energy of the world, great unknown energy, great uncertainty in the air, and power weakness of the state.
 
 ## Links
 
@@ -61,3 +57,5 @@ Mighty deception through incompetent leadership. Diplomacy of a great power.
 - [Kronos](../factors/kronos.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Neptune/Kronos](../axes/neptune-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

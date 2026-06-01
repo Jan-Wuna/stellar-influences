@@ -33,30 +33,14 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mars/Chiron midpoint`
-- Source page: `69`
-- Activator: `Jupiter`
-
 #### Sandbach Entry
 
 An enthusiasm for being assertive in such a way that healing results. Excesses cause conflicts and a contacting of inner destructive energy that can then be healed.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Chiron = Jupiter`: spirited intervention, constructive excess, and the ability to turn overreaction into insight and recovery. The caution is moral overconfidence or inflaming a situation under the belief that more intensity will automatically heal it.
 
 ## Links
 

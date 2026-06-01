@@ -3,7 +3,7 @@ title: Node/Hades = Poseidon
 page_type: activation
 slug: node-hades-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - Hades
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Hades`
-- Source page: `150`
 #### Witte Entry
 
 Wisdom of the antiquity. Secret or occult society. To be connected through forbidden ideological conceptions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Wisdom of the antiquity. Secret or occult society. To be connected through forbidden ideological conceptions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Relationships with an old culture, insightful connections of the past, lack of spiritual encounters, spiritual hardship in a Y bond, dangerous spiritual contacts, sorrow through truth in a bond, and lack of cultural connections
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Hades = Poseidon`: Wisdom of the antiquity. Secret or occult society. To be connected through forbidden ideological conceptions.
+- Practical focus: wisdom of the antiquity; also secret or occult society.
 
 ## Links
 
@@ -61,3 +56,5 @@ Wisdom of the antiquity. Secret or occult society. To be connected through forbi
 - [Hades](../factors/hades.md)
 - [Poseidon](../factors/poseidon.md)
 - [Node/Hades](../axes/node-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

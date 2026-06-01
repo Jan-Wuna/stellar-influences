@@ -3,7 +3,7 @@ title: Venus Saturn Apollon
 page_type: triad_hub
 slug: venus-saturn-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Saturn
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Saturn Apollon`
 - Astronomicon triad-set: `Q W ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Saturn/Apollon = Venus](../activations/saturn-apollon-equals-venus.md)
-  Source page `228`
 - [Venus/Apollon = Saturn](../activations/venus-apollon-equals-saturn.md)
-  Source page `186`
 - [Venus/Saturn = Apollon](../activations/venus-saturn-equals-apollon.md)
-  Source page `178`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Saturn/Apollon = Venus`: page `228`
-- `Venus/Apollon = Saturn`: page `186`
-- `Venus/Saturn = Apollon`: page `178`
+- `Saturn/Apollon = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `228`
+- `Saturn/Apollon = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `362`
+- `Venus/Apollon = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `186`
+- `Venus/Apollon = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `291`
+- `Venus/Saturn = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `178`
+- `Venus/Saturn = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `275`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Venus/Apollon = Saturn`: interrupted art activity, for a short time.
+- `Venus/Saturn = Apollon`: friendship with teachers or educators.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Saturn](../factors/saturn.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

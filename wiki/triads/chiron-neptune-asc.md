@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Chiron Neptune Asc`
 - Astronomicon triad-set: `Chiron Y Asc`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Chiron/Neptune = Asc`: John, page `97`
 - `Neptune/Asc = Chiron`: John, page `112`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Asc = Neptune`: intuitive healing, porous identity, and spiritual receptivity that can soften self-definition. Main caution: confusion or over-permeability when boundaries dissolve faster than healing can stabilize.
+- `Chiron/Neptune = Asc`: quiet therapeutic presence, intuitive identity, and a way of simply being that softens confusion and calls others back to themselves. Main caution: over-porosity or turning subtle influence into self-sacrifice.
+- `Neptune/Asc = Chiron`: To help others to heal by intuitively making them aware of other and deeper levels of their personality, so that their identity is not so tightly or narrowly focused.
 
 ## Links
 

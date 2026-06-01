@@ -3,7 +3,7 @@ title: Sun/Admetos = Kronos
 page_type: activation
 slug: sun-admetos-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Kronos
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Admetos`
-- Source page: `116`
 #### Witte Entry
 
 To own property. Oppression through government or superiors. Death of a high personage.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To own property. Oppression through government or superiors. Death of a high personage.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Renown of a solid person, especially bewildered person, limitation of personal authorship, solid state man, large rotating body, grilnd personal boss, self conscious personal resistance, superiority through corporal perseverance ljl blocked freedom of man, limitation of personal success, success through personal perseverance, strengthened personal knowledge, and personal success through grinding
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Admetos = Kronos`: to own property and oppression through government or superiors.
+- Practical expression: renown of a solid person, especially bewildered person, limitation of personal authorship, solid state man, and large rotating body.
 
 ## Links
 
@@ -61,3 +56,5 @@ To own property. Oppression through government or superiors. Death of a high per
 - [Admetos](../factors/admetos.md)
 - [Kronos](../factors/kronos.md)
 - [Sun/Admetos](../axes/sun-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

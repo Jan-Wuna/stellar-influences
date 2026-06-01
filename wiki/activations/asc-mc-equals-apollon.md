@@ -3,10 +3,10 @@ title: Asc/MC = Apollon
 page_type: activation
 slug: asc-mc-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Asc
+  - MC
   - Apollon
 normalized_formula: Asc/MC = Apollon
 axis: Asc/MC
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - MC
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Asc`
-- Source page: `58`
 #### Witte Entry
 
 Professional success with others. Dealings with many people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Professional success with others. Dealings with many people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+My success in the environment, my successful partner, my environmental knowledge, my knowledge of the partner, my experiences with others, my partner experiences, my environmental experience, and minute of experience on site
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/MC = Apollon`: commercial or social enlargement, productive collaboration, and visibility that increases as one's role touches broader audiences or larger systems. Main caution: diffusion: breadth helps here, but overextension can thin out focus or scatter the personality across too many commitments.
 
 ## Links
 
@@ -61,3 +55,5 @@ Professional success with others. Dealings with many people.
 - [MC](../factors/mc.md)
 - [Apollon](../factors/apollon.md)
 - [Asc/MC](../axes/asc-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

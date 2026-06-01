@@ -33,30 +33,14 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Saturn/Uranus midpoint`
-- Source page: `88`
-- Activator: `Chiron`
-
 #### Sandbach Entry
 
 Your vibration helps others to overcoming their fear of being themselves, and can even help them to see the spiritual significance of that which they uniquely have to offer. You also help others to realize their own unique insights into spirituality.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Uranus = Chiron` helps others face the fear of being themselves and recognize the spiritual value of their uniqueness. It can awaken original insight without losing seriousness; the caution is not to push individuation faster than the person can safely integrate it.
 
 ## Links
 

@@ -3,7 +3,7 @@ title: Vernal Point/Kronos = Uranus
 page_type: activation
 slug: vernal-point-kronos-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Uranus
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Kronos`
-- Source page: `51`
 #### Witte Entry
 
 Extensive excitement or tension. Sudden events in ruling circles. Technical establishments.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Extensive excitement or tension. Sudden events in ruling circles. Technical establishments.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special public event, dominance of technology in public, new authorship in public life, excitement of the public Hierarchic, public unrest in the state, state reforms in public, and state events in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Kronos = Uranus`: extensive excitement or tension, sudden events in ruling circles, and technical establishments.
+- Practical expression: special public event, dominance of technology in public, new authorship in public life, excitement of the public Hierarchic, and public unrest in the state.
 
 ## Links
 
@@ -61,3 +56,5 @@ Extensive excitement or tension. Sudden events in ruling circles. Technical esta
 - [Kronos](../factors/kronos.md)
 - [Uranus](../factors/uranus.md)
 - [Vernal Point/Kronos](../axes/vernal-point-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

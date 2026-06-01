@@ -3,7 +3,7 @@ title: Neptune/Cupido = Apollon
 page_type: activation
 slug: neptune-cupido-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Cupido
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Cupido`
-- Source page: `247`
 #### Witte Entry
 
 Breaking-up of many families. Dissolution of large associations. Housing shortage for many. The expansion of a secret society or secret agency.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Breaking-up of many families. Dissolution of large associations. Housing shortage for many. The expansion of a secret society or secret agency.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dissolution of a successful community, common knowledge of the future, metaphysical knowledge of a community, weak trade community, weak economic community, uncertainty of a successful community, and knowledge pre exchange community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Cupido = Apollon`: Breaking-up of many families. Dissolution of large associations. Housing shortage for many. The expansion of a secret society or secret agency.
+- Practical focus: expands dissolution across families, associations, and housing, turning private instability into broader social breakdown or the growth of secretive collective structures.
+- Practical expression: dissolution of a successful community, common knowledge of the future, metaphysical knowledge of a community, weak trade community, and weak economic community.
 
 ## Links
 
@@ -61,3 +57,5 @@ Breaking-up of many families. Dissolution of large associations. Housing shortag
 - [Cupido](../factors/cupido.md)
 - [Apollon](../factors/apollon.md)
 - [Neptune/Cupido](../axes/neptune-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

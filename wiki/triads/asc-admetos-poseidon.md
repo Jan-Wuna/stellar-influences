@@ -3,7 +3,7 @@ title: Asc Admetos Poseidon
 page_type: triad_hub
 slug: asc-admetos-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Admetos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Asc Admetos Poseidon`
 - Astronomicon triad-set: `Asc ¦ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Admetos/Poseidon = Asc](../activations/admetos-poseidon-equals-asc.md)
-  Source page `312`
 - [Asc/Admetos = Poseidon](../activations/asc-admetos-equals-poseidon.md)
-  Source page `96`
 - [Asc/Poseidon = Admetos](../activations/asc-poseidon-equals-admetos.md)
-  Source page `98`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Admetos/Poseidon = Asc`: page `312`
-- `Asc/Admetos = Poseidon`: page `96`
-- `Asc/Poseidon = Admetos`: page `98`
+- `Admetos/Poseidon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `312`
+- `Admetos/Poseidon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `476`
+- `Asc/Admetos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `96`
+- `Asc/Admetos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `133`
+- `Asc/Poseidon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `98`
+- `Asc/Poseidon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `137`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Admetos/Poseidon = Asc`: a cultivated presence, contact with educated circles, and the shaping of others through training, refinement, or example.
+- `Asc/Admetos = Poseidon`: a fixed environment in which others feel mentally below the native and seek guidance or teaching.
+- `Asc/Poseidon = Admetos`: going with others to the bottom of a matter and pursuing shared inquiry with seriousness, patience, and depth.
 
 ## Links
 
 - [Asc](../factors/asc.md)
 - [Admetos](../factors/admetos.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

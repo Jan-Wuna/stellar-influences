@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Mars + Mars`
-- Source page: `191`
 #### Witte Entry
 
 Specialism. Special work. The sinking trend of the market. The decrease of work. To throttle. Suppression. Terror. Rawness, crudeness. Rocks, fragments, debris, to wreck. The decrease of labor and activity. Narrowing of the field of activity. End of an action. Grave hindrances in the activity. Oppression to the point of immobility. Oppression. To work in wreckage and ruins. Very cold.
 
-## Comparative Schema
-
-- core meaning: Specialism. Special work. The sinking trend of the market. The decrease of work. To throttle. Suppression. Terror. Rawness, crudeness. Rocks, fragments, debris, to wreck. The decrease of labor and activity. Narrowing of the field of activity. End of an action. Grave hindrances in the activity. Oppression to the point of immobility. Oppression. To work in wreckage and ruins. Very cold.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Mars = Admetos` compresses raw action into suppression, narrowing, stoppage, and heavy hindrance.
+- Chart expression: special or reduced work, the end or throttling of activity, oppressive immobility, wreckage, ruins, debris, and harsh conditions where force becomes blocked, crude, or forced into constricted channels.
 
 ## Links
 

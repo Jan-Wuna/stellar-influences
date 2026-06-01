@@ -3,7 +3,7 @@ title: Mercury/Mars = Poseidon
 page_type: activation
 slug: mercury-mars-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Mars
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Mars
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Mars`
-- Source page: `160`
 #### Witte Entry
 
 Hasty and overly-hurried action so that one can be criticized morally. Subjectivity in telling the truth.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Hasty and overly-hurried action so that one can be criticized morally. Subjectivity in telling the truth.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Processing of cultural reports, language work on the truth, clear description of an activity, clear working language, cultural work of the media, cultural actions of the youth, and opinions on intellectual work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Mars = Poseidon` moralizes the axis while exposing rushed truth-telling to criticism.
+- Chart expression: hurried action that invites ethical judgment, and to speaking truth too subjectively or impatiently to remain above reproach.
 
 ## Links
 
@@ -61,3 +56,5 @@ Hasty and overly-hurried action so that one can be criticized morally. Subjectiv
 - [Mars](../factors/mars.md)
 - [Poseidon](../factors/poseidon.md)
 - [Mercury/Mars](../axes/mercury-mars.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

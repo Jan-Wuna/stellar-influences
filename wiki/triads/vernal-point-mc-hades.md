@@ -3,7 +3,7 @@ title: Vernal Point MC Hades
 page_type: triad_hub
 slug: vernal-point-mc-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point MC Hades`
 - Astronomicon triad-set: `VP MC ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Hades = Vernal Point](../activations/mc-hades-equals-vernal-point.md)
-  Source page `71`
 - [Vernal Point/Hades = MC](../activations/vernal-point-hades-equals-mc.md)
-  Source page `49`
 - [Vernal Point/MC = Hades](../activations/vernal-point-mc-equals-hades.md)
-  Source page `35`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Hades = Vernal Point`: page `71`
-- `Vernal Point/Hades = MC`: page `49`
-- `Vernal Point/MC = Hades`: page `35`
+- `MC/Hades = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `71`
+- `MC/Hades = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `86`
+- `Vernal Point/Hades = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `49`
+- `Vernal Point/Hades = MC`: Udo Rudolph - ABC for Planetary Pictures, page `46`
+- `Vernal Point/MC = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `35`
+- `Vernal Point/MC = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `19`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Hades = Vernal Point`: externalizes the axis into grief over the general state of the world.
+- `Vernal Point/Hades = MC`: This formula emphasizes to be influenced, personally or in ones own profession, by general poverty or sad things and a service oriented profession.
+- `Vernal Point/MC = Hades`: This formula emphasizes to share misfortune with others, to experience hard times, and sympathy.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [MC](../factors/mc.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

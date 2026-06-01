@@ -3,7 +3,7 @@ title: Sun Moon Apollon
 page_type: triad_hub
 slug: sun-moon-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Moon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Moon Apollon`
 - Astronomicon triad-set: `S R ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Apollon = Sun](../activations/moon-apollon-equals-sun.md)
-  Source page `134`
 - [Sun/Apollon = Moon](../activations/sun-apollon-equals-moon.md)
-  Source page `115`
 - [Sun/Moon = Apollon](../activations/sun-moon-equals-apollon.md)
-  Source page `101`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Apollon = Sun`: page `134`
-- `Sun/Apollon = Moon`: page `115`
-- `Sun/Moon = Apollon`: page `101`
+- `Moon/Apollon = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `134`
+- `Moon/Apollon = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `200`
+- `Sun/Apollon = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `115`
+- `Sun/Apollon = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `166`
+- `Sun/Moon = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `101`
+- `Sun/Moon = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `139`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Apollon = Sun`: The man who strives for freedom of action. The daily one and the same. Daily and hourly encounter many people.
+- `Sun/Apollon = Moon`: This formula emphasizes successful in ordinary life and popular.
+- `Sun/Moon = Apollon`: This formula emphasizes success in ordinary life and broad popularity.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Moon](../factors/moon.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

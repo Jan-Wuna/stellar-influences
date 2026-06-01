@@ -3,10 +3,10 @@ title: Jupiter/Asc = Zeus
 page_type: activation
 slug: jupiter-asc-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Jupiter
+  - Asc
   - Zeus
 normalized_formula: Jupiter/Asc = Zeus
 axis: Jupiter/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Asc
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Jupiter`
-- Source page: `86`
 #### Witte Entry
 
 Fatherhood. To advance through patronage in one’s own work.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Fatherhood. To advance through patronage in one’s own work.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful efforts of a place, successful partner delivery, financial goals of a place, design of partner law, place of money production, legal efforts of a place, creative joy at the place, and procreation success with the partner
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Asc = Zeus`: opportunity arriving through sponsorship, leadership, or directed help. It can show favorable backing that pushes one's efforts forward.
 
 ## Links
 
@@ -61,3 +55,5 @@ Fatherhood. To advance through patronage in one’s own work.
 - [Asc](../factors/asc.md)
 - [Zeus](../factors/zeus.md)
 - [Jupiter/Asc](../axes/jupiter-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -44,8 +44,6 @@ updated_at: 2026-04-21
 ## Identity
 
 - Axis: `Asc/Asc`
-- Source heading: `Asc + Asc`
-- Source page: `78`
 
 ## Source Entries
 
@@ -54,15 +52,6 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 Acquaintances and connections. The near surroundings. The place. Relatives and close friends. The outer appearance. The influence of others on ones own life and lifestyle. The immediate vicinity.
-
-## Comparative Schema
-
-- core meaning: Acquaintances and connections. The near surroundings. The place. Relatives and close friends. The outer appearance. The influence of others on ones own life and lifestyle. The immediate vicinity.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
@@ -88,13 +77,11 @@ Acquaintances and connections. The near surroundings. The place. Relatives and c
 - [Asc/Asc = Vulcanus](../activations/asc-asc-equals-vulcanus.md)
 - [Asc/Asc = Poseidon](../activations/asc-asc-equals-poseidon.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Asc` is the pure doubling of the Ascendant principle: immediate environment, acquaintances, near surroundings, appearance, local ties, and the direct influence of other people on personal life and lifestyle.
+- Chart expression: the close social field itself: relatives, neighbors, companions, daily contact, bodily presence in place, and the quality of one's immediate vicinity. Liabilities: overidentification with outer circumstance, social reactivity, and a life that becomes too determined by the moods, pressures, or conditions of the near environment.
 
 ## Links
 

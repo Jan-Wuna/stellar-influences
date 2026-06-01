@@ -3,7 +3,7 @@ title: Neptune/Apollon = Vulcanus
 page_type: activation
 slug: neptune-apollon-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Apollon
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Apollon`
-- Source page: `251`
 #### Witte Entry
 
 To experience a great disappointment.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To experience a great disappointment.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+expansion of water power, influential knowledge in metaphysics, successful influence through intuition, successful air power, uncertainty through increase of force, spread of strong uncertainty, and feign knowledge and power
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Apollon = Vulcanus`: To experience a great disappointment.
+- Practical focus: intensifies `Neptune/Apollon` into overpowering disappointment and the heavy emotional force of disillusionment. It shows broad illusion collapsing with impact, making the fall from hope to reality especially strong and memorable.
+- Practical expression: expansion of water power, influential knowledge in metaphysics, successful influence through intuition, successful air power, and uncertainty through increase of force.
 
 ## Links
 
@@ -61,3 +57,5 @@ To experience a great disappointment.
 - [Apollon](../factors/apollon.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Neptune/Apollon](../axes/neptune-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Vernal Point/Mars = Venus
 page_type: activation
 slug: vernal-point-mars-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Mars
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Venus
   - Mars
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Mars`
-- Source page: `42`
 #### Witte Entry
 
 Close acquaintances. Relatives on the father's side. Deeds born out of love.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Close acquaintances. Relatives on the father's side. Deeds born out of love.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Work joy in public, peace activity in public, peace will in public, artistic activity for the public, reduction work in public, and preference for public activity
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Mars = Venus`: close acquaintances, relatives on the father's side, and deeds born out of love.
+- Practical expression: work joy in public, peace activity in public, peace will in public, artistic activity for the public, and reduction work in public.
 
 ## Links
 
@@ -61,3 +56,5 @@ Close acquaintances. Relatives on the father's side. Deeds born out of love.
 - [Mars](../factors/mars.md)
 - [Venus](../factors/venus.md)
 - [Vernal Point/Mars](../axes/vernal-point-mars.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

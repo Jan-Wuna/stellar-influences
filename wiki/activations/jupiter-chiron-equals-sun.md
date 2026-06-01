@@ -33,30 +33,14 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Jupiter/Chiron midpoint`
-- Source page: `79`
-- Activator: `Sun`
-
 #### Sandbach Entry
 
 One’s vitality and sense of meaning and purpose in life is powered by an optimism based on attunement to one’s spiritual self. The whole purpose of one’s life centers around opening up to higher forces and allowing them to flow through your every action.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Chiron = Sun`: vitality and meaning powered by optimism aligned with the spiritual self, with life centered on letting higher forces flow through every action.
 
 ## Links
 

@@ -3,10 +3,10 @@ title: Asc/MC = Kronos
 page_type: activation
 slug: asc-mc-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Asc
+  - MC
   - Kronos
 normalized_formula: Asc/MC = Kronos
 axis: Asc/MC
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - MC
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Asc`
-- Source page: `58`
 #### Witte Entry
 
 To be bossy. Self-confident towards a close contact in the near surroundings.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be bossy. Self-confident towards a close contact in the near surroundings.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special minute at the place, my reputation in the environment, my self esteem partner, my self esteem in the environment, my authority in the environment, my partner's emotional authority, Y orrang my partner, my boss at the place, and my self esteem at the place
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/MC = Kronos`: leadership in one's immediate field, formal influence over associates, and a personality that projects command as part of its public role. Main caution: hauteur: confidence helps here, but it can harden into bossiness, distance, or the assumption of superiority.
 
 ## Links
 
@@ -61,3 +55,5 @@ To be bossy. Self-confident towards a close contact in the near surroundings.
 - [MC](../factors/mc.md)
 - [Kronos](../factors/kronos.md)
 - [Asc/MC](../axes/asc-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

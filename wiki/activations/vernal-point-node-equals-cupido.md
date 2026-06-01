@@ -3,7 +3,7 @@ title: Vernal Point/Node = Cupido
 page_type: activation
 slug: vernal-point-node-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Node
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Node
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Node`
-- Source page: `39`
 #### Witte Entry
 
 Associations through the arts or family. To join with others in public.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Associations through the arts or family. To join with others in public.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Relationships with public communities, shared encounters in public, shared connections with the public, artistic connections in public life, and mediating public connections
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Node = Cupido`: associations through the arts or family and to join with others in public.
+- Practical expression: shared encounters in public, shared connections with the public, artistic connections in public life, and mediating public connections.
 
 ## Links
 
@@ -61,3 +56,5 @@ Associations through the arts or family. To join with others in public.
 - [Node](../factors/node.md)
 - [Cupido](../factors/cupido.md)
 - [Vernal Point/Node](../axes/vernal-point-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Sun Jupiter Kronos
 page_type: triad_hub
 slug: sun-jupiter-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Jupiter
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Jupiter Kronos`
 - Astronomicon triad-set: `S V ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Kronos = Sun](../activations/jupiter-kronos-equals-sun.md)
-  Source page `214`
 - [Sun/Jupiter = Kronos](../activations/sun-jupiter-equals-kronos.md)
-  Source page `106`
 - [Sun/Kronos = Jupiter](../activations/sun-kronos-equals-jupiter.md)
-  Source page `114`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Kronos = Sun`: page `214`
-- `Sun/Jupiter = Kronos`: page `106`
-- `Sun/Kronos = Jupiter`: page `114`
+- `Jupiter/Kronos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `214`
+- `Jupiter/Kronos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `338`
+- `Sun/Jupiter = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `106`
+- `Sun/Jupiter = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `149`
+- `Sun/Kronos = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `114`
+- `Sun/Kronos = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `164`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Kronos = Sun`: the successful leader, a high personage, and the man who is happy in his leadership role.
+- `Sun/Jupiter = Kronos`: This formula emphasizes great happiness and success through superiors.
+- `Sun/Kronos = Jupiter`: This formula emphasizes happiness through independence and successful leadership.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Jupiter](../factors/jupiter.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

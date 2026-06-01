@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Chiron Neptune Pluto`
 - Astronomicon triad-set: `Chiron Y Z`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Chiron/Pluto = Neptune`: John, page `99`
 - `Neptune/Pluto = Chiron`: John, page `110`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Neptune = Pluto`: transformative intuition, inescapable subtle knowing, and healing through facing what deeper perception insists upon. Main caution: compulsion, obsession, or being ruled by intuition without enough testing.
+- `Chiron/Pluto = Neptune`: visionary healing, transformative imaginative life, and depth reached through moving beyond extreme confusion. Main caution: drowning in fantasy or assuming all intensity is spiritual truth.
+- `Neptune/Pluto = Chiron`: A person who’s energy helps others to experience subtler levels of reality, and open their consciousness to other planes of being. They also help others to rekindle their ideals and to uplift their minds and hearts to higher levels.
 
 ## Links
 

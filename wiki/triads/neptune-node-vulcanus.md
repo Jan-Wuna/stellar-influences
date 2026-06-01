@@ -3,7 +3,7 @@ title: Neptune Node Vulcanus
 page_type: triad_hub
 slug: neptune-node-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Neptune Node Vulcanus`
 - Astronomicon triad-set: `Y g §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Neptune/Node = Vulcanus](../activations/neptune-node-equals-vulcanus.md)
-  Source page `147`
 - [Neptune/Vulcanus = Node](../activations/neptune-vulcanus-equals-node.md)
-  Source page `253`
 - [Node/Vulcanus = Neptune](../activations/node-vulcanus-equals-neptune.md)
-  Source page `155`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Neptune/Node = Vulcanus`: page `147`
-- `Neptune/Vulcanus = Node`: page `253`
-- `Node/Vulcanus = Neptune`: page `155`
+- `Neptune/Node = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `147`
+- `Neptune/Node = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `221`
+- `Neptune/Vulcanus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `253`
+- `Neptune/Vulcanus = Node`: Udo Rudolph - ABC for Planetary Pictures, page `404`
+- `Node/Vulcanus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `155`
+- `Node/Vulcanus = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `237`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Neptune/Node = Vulcanus`: This activation intensifies uncertain ties into grave disappointment, where existing connections break down with force and produce weighty consequences.
+- `Neptune/Vulcanus = Node`: Connections with others are used tactically for deception, emphasizing calculated maneuvers, successful misleading, or strategic manipulation.
+- `Node/Vulcanus = Neptune`: Difficult to be caught through application of force. Connected with confused power. Tainted mighty connections. Dissolution of mighty connections.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [Node](../factors/node.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

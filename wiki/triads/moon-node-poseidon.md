@@ -3,7 +3,7 @@ title: Moon Node Poseidon
 page_type: triad_hub
 slug: moon-node-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Node Poseidon`
 - Astronomicon triad-set: `R g ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Node = Poseidon](../activations/moon-node-equals-poseidon.md)
-  Source page `121`
 - [Moon/Poseidon = Node](../activations/moon-poseidon-equals-node.md)
-  Source page `138`
 - [Node/Poseidon = Moon](../activations/node-poseidon-equals-moon.md)
-  Source page `156`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Node = Poseidon`: page `121`
-- `Moon/Poseidon = Node`: page `138`
-- `Node/Poseidon = Moon`: page `156`
+- `Moon/Node = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `121`
+- `Moon/Node = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `175`
+- `Moon/Poseidon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `138`
+- `Moon/Poseidon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `206`
+- `Node/Poseidon = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `156`
+- `Node/Poseidon = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `238`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Node = Poseidon`: This activation spiritualizes `Moon/Node` by rooting community in shared ideals, guiding concepts, or a founding vision. It points to emotional or social alliances formed around meaning, conscience, or higher thought rather than mere convenience.
+- `Moon/Poseidon = Node`: To be in contact with receptive people.
+- `Node/Poseidon = Moon`: To be connected with average people of the same mental attitude.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Node](../factors/node.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

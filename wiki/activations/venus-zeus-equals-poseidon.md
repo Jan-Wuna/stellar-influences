@@ -3,7 +3,7 @@ title: Venus/Zeus = Poseidon
 page_type: activation
 slug: venus-zeus-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Zeus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Zeus`
-- Source page: `184`
 #### Witte Entry
 
 The spiritual or mental power. To proclaim new philosophical or ideas of a worldview.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The spiritual or mental power. To proclaim new philosophical or ideas of a worldview.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Efforts for peace and culture, beginning clarity about love, leading in arts and culture, leading peace idea, artistic culture design, love for spiritual guidance, beauty of a creative spirit, and creative spiritual arts
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Zeus = Poseidon`: the spiritual or mental power.
+- Practical expression: efforts for peace, culture, beginning clarity about love, leading in arts, and leading peace idea.
 
 ## Links
 
@@ -61,3 +56,5 @@ The spiritual or mental power. To proclaim new philosophical or ideas of a world
 - [Zeus](../factors/zeus.md)
 - [Poseidon](../factors/poseidon.md)
 - [Venus/Zeus](../axes/venus-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

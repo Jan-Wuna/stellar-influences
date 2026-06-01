@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Node + Node`
-- Source page: `140`
 #### Witte Entry
 
 To elect. To select. To join together with others for creative accomplishment. Union for procreation. Union of fire. Work in blast furnaces. Procreation. Strive for a connection. Connections in matters of stoves, fire, firearms or machines. To form a relationship for creative accomplishment. Impelled by curiosity for connection.
 
-## Comparative Schema
-
-- core meaning: To elect. To select. To join together with others for creative accomplishment. Union for procreation. Union of fire. Work in blast furnaces. Procreation. Strive for a connection. Connections in matters of stoves, fire, firearms or machines. To form a relationship for creative accomplishment. Impelled by curiosity for connection.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Node = Zeus`: To elect. To select. To join together with others for creative accomplishment. Union for procreation. Union of fire. Work in blast furnaces. Procreation. Strive for a connection. Connections in matters of stoves, fire, firearms or machines. To form a relationship for creative accomplishment. Impelled by curiosity for connection.
+- Practical focus: to elect; also to select.
 
 ## Links
 

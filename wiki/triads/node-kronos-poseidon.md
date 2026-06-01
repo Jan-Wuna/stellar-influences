@@ -3,7 +3,7 @@ title: Node Kronos Poseidon
 page_type: triad_hub
 slug: node-kronos-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Kronos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Node Kronos Poseidon`
 - Astronomicon triad-set: `g ¤ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Kronos/Poseidon = Node](../activations/kronos-poseidon-equals-node.md)
-  Source page `302`
 - [Node/Kronos = Poseidon](../activations/node-kronos-equals-poseidon.md)
-  Source page `152`
 - [Node/Poseidon = Kronos](../activations/node-poseidon-equals-kronos.md)
-  Source page `156`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Kronos/Poseidon = Node`: page `302`
-- `Node/Kronos = Poseidon`: page `152`
-- `Node/Poseidon = Kronos`: page `156`
+- `Kronos/Poseidon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `302`
+- `Kronos/Poseidon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `466`
+- `Node/Kronos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `152`
+- `Node/Kronos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `231`
+- `Node/Poseidon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `156`
+- `Node/Poseidon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `239`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Kronos/Poseidon = Node`: cultural or intellectual groups, connection through shared mental attitude, and associations formed for common study or higher endeavor.
+- `Node/Kronos = Poseidon`: Connection through great mental accomplishment. Connections with intellectually leading people.
+- `Node/Poseidon = Kronos`: Connections with mentally, superior people. To let others influence oneself.
 
 ## Links
 
 - [Node](../factors/node.md)
 - [Kronos](../factors/kronos.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Vernal Point/Asc = Uranus
 page_type: activation
 slug: vernal-point-asc-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Asc
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Uranus
   - Asc
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Asc`
-- Source page: `36`
 #### Witte Entry
 
 Sudden event with several people. Manufacturing plants. Time passes quickly.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sudden event with several people. Manufacturing plants. Time passes quickly.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Public event Environment, new public partners, nervous public partners Life, public environment reforms, tension in the public environment, technology in a public place, and unrest in a public place
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Asc = Uranus`: sudden event with several people, manufacturing plants, and time passes quickly.
+- Practical expression: public event Environment, new public partners, nervous public partners Life, public environment reforms, and tension in the public environment.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sudden event with several people. Manufacturing plants. Time passes quickly.
 - [Asc](../factors/asc.md)
 - [Uranus](../factors/uranus.md)
 - [Vernal Point/Asc](../axes/vernal-point-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

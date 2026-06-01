@@ -3,7 +3,7 @@ title: Saturn/Apollon = Poseidon
 page_type: activation
 slug: saturn-apollon-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Apollon
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Apollon`
-- Source page: `228`
 #### Witte Entry
 
 Instructional or educational method. To be educational through instruction. To be the educator or the student. ^^^
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Instructional or educational method. To be educational through instruction. To be the educator or the student. ^^^
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Old culture knowledge, success through ideas in old age, successful concentration on truth, clarity about scientific tasks, concentrated spiritual knowledge, cultural tasks expand, mature spiritual knowledge, and loss of spiritual freedom
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Apollon = Poseidon`: instructional or educational method, to be educational through instruction, to be the educator or the student.
+- Practical expression: old culture knowledge, success through ideas in old age, successful concentration on truth, clarity about scientific tasks, and concentrated spiritual knowledge.
 
 ## Links
 
@@ -61,3 +56,5 @@ Instructional or educational method. To be educational through instruction. To b
 - [Apollon](../factors/apollon.md)
 - [Poseidon](../factors/poseidon.md)
 - [Saturn/Apollon](../axes/saturn-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

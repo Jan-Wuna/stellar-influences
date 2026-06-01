@@ -3,7 +3,7 @@ title: Venus/Saturn = Poseidon
 page_type: activation
 slug: venus-saturn-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Saturn
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Saturn
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Saturn`
-- Source page: `178`
 #### Witte Entry
 
 Disturbed harmony in dealing with wisdom. Passing harmony or disturbed harmony among educators or between educators and students.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Disturbed harmony in dealing with wisdom. Passing harmony or disturbed harmony among educators or between educators and students.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Tasks in the arts and culture, joy in the most important insights, recognition of peace tasks, patience and courage in love, spiritual harmony in old age, dead peace idea, lost love for truth, problematic artificial idea, and maturing harmony and clarity
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Saturn = Poseidon`: disturbed harmony in dealing with wisdom.
+- Practical expression: tasks in the arts, culture, oy in the most important insights, recognition of peace tasks, and patience.
 
 ## Links
 
@@ -61,3 +56,5 @@ Disturbed harmony in dealing with wisdom. Passing harmony or disturbed harmony a
 - [Saturn](../factors/saturn.md)
 - [Poseidon](../factors/poseidon.md)
 - [Venus/Saturn](../axes/venus-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

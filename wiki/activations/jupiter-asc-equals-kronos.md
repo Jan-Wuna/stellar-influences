@@ -3,10 +3,10 @@ title: Jupiter/Asc = Kronos
 page_type: activation
 slug: jupiter-asc-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Jupiter
+  - Asc
   - Kronos
 normalized_formula: Jupiter/Asc = Kronos
 axis: Jupiter/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Asc
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Jupiter`
-- Source page: `86`
 #### Witte Entry
 
 Harmonious relations with the father, with the boss or with the state.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Harmonious relations with the father, with the boss or with the state.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special partner pleasure, success with other states, successful independence of the partner, financial office at the place, money of the state for the environment, great luck of the partner, place for state funds, place of law of the state, and advantages for others by the state
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Asc = Kronos`: fortune flowing through superiors and institutions. It can show favor, protection, or smooth relations with established power.
 
 ## Links
 
@@ -61,3 +55,5 @@ Harmonious relations with the father, with the boss or with the state.
 - [Asc](../factors/asc.md)
 - [Kronos](../factors/kronos.md)
 - [Jupiter/Asc](../axes/jupiter-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

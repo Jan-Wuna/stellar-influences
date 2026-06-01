@@ -3,7 +3,7 @@ title: Uranus/Apollon = MC
 page_type: activation
 slug: uranus-apollon-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - MC
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Apollon`
-- Source page: `240`
 #### Witte Entry
 
 To cause tenseness of many. To be under tension with many. To look for coming experiences with great interest and tenseness. Interest in new things. To suddenly gain experiences. To be an astrologer.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To cause tenseness of many. To be under tension with many. To look for coming experiences with great interest and tenseness. Interest in new things. To suddenly gain experiences. To be an astrologer.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful psychic impulses, great psychic superiority, my new knowledge, my sudden success, my sudden freedom, my technical experience, my increasing arousal, ncucs knowledge of the soul, and increasing mental tensions
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Apollon = MC`: To cause tenseness of many. To be under tension with many. To look for coming experiences with great interest and tenseness. Interest in new things. To suddenly gain experiences. To be an astrologer.
+- Practical expression: successful psychic impulses, great psychic superiority, my new knowledge, my sudden success, and my sudden freedom.
 
 ## Links
 
@@ -61,3 +56,5 @@ To cause tenseness of many. To be under tension with many. To look for coming ex
 - [Apollon](../factors/apollon.md)
 - [MC](../factors/mc.md)
 - [Uranus/Apollon](../axes/uranus-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

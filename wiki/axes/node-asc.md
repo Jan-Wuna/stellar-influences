@@ -58,11 +58,12 @@ aliases:
   - Asc/Node
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -75,17 +76,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Dragon's Head/Ascendant`
-- Source page: `300`
-
 #### Pair Summary
 
 Acquaintances. To establish connections. To keep in touch. Contact with the closer environment. Limits set by the environment. The mediator, broker or an agent. Being connected to one place. Connected locations. Links to the surroundings.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Dragon's Head/Ascendant`
-- Source page: `300`
+#### ABC Pair Summary
+
+Local meetings, relations with others, local contacts, partners, partner exchanges, connections in the space, connections in the nearer environment, and placement place
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -109,9 +110,6 @@ One's family, colleagues and associates, fellowship.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Node/Ascendant midpoint`
-- Source page: `118`
-
 #### Principle
 
 The ability to let go of one’s ties and attachments with the past and to then allow the identity to re-form in a way more in alignment with one’s true, spiritual self. This combination is an index of the extent to which one’s connections with others affect one’s sense of who one is.
@@ -122,17 +120,11 @@ The letting go of past identities and the forming of a new one which will serve 
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Nodes/Ascendant`
-- Source page: `213`
-
 #### Pair Delineation
 
 Connections of a personal nature, such as wth family or relatives. Groups that one is involved with on a daily basis, in which the association is close but not quite as intimate, as, say, a husband and wfe. Connections involving some group identity.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `NODE/ASCENDANT`
-- Source page: `355`
 
 #### Basic Ideas
 
@@ -161,15 +153,6 @@ The overall soundness of psychological health; support from friends or groups; h
 
 - [Michael Munkasey - Node/Asc Concepts](../derived/munkasey-node-asc-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Node/Asc = Admetos](../activations/node-asc-equals-admetos.md)
@@ -194,20 +177,18 @@ The overall soundness of psychological health; support from friends or groups; h
 - [Node/Asc = Vulcanus](../activations/node-asc-equals-vulcanus.md)
 - [Node/Asc = Zeus](../activations/node-asc-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Asc` is the axis of personal relationship, close social environment, and identity shaped through day-to-day contact with others. It combines alliance, fellowship, and shared interest with personality, approach, and the immediate field of human interaction.
+- Chart expression: teamwork, social conscience, family and colleague ties, mediation, and the ability to maintain a recognizable self within close association. Liabilities: estrangement, environmental friction, overdependence on group approval, and difficulty separating personal identity from the pressures or expectations of one's immediate circle.
 
 ## Links
 
 - [Node](../factors/node.md)
 - [Asc](../factors/asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)

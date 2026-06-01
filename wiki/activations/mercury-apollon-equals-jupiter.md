@@ -3,7 +3,7 @@ title: Mercury/Apollon = Jupiter
 page_type: activation
 slug: mercury-apollon-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Jupiter
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Apollon`
-- Source page: `170`
 #### Witte Entry
 
 Happy conversation with many. Successful or good results of scientific researches.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Happy conversation with many. Successful or good results of scientific researches.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Talking about a lot of money, success through media freedom, favorable legal language, joy over financial news, FOlle of legal opinions, language about legal science, much joy in youth, and scientific success reports
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Apollon = Jupiter` brightens the axis into happy exchange and successful research.
+- Chart expression: fruitful conversation, encouraging intellectual contact, and good outcomes from scientific thinking, study, or broad inquiry.
 
 ## Links
 
@@ -61,3 +56,5 @@ Happy conversation with many. Successful or good results of scientific researche
 - [Apollon](../factors/apollon.md)
 - [Jupiter](../factors/jupiter.md)
 - [Mercury/Apollon](../axes/mercury-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Neptune/Admetos = Uranus
 page_type: activation
 slug: neptune-admetos-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Neptune
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Admetos`
-- Source page: `252`
 #### Witte Entry
 
 Sudden glaring transformations of living conditions or forms of being.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sudden glaring transformations of living conditions or forms of being.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Excitement and exchange over restrictions, dynamic deepening in metaphysics, cycle dynamics of water, nervousness due to gritty exchange, sudden blockade resolution, creeping restlessness due to depression, and technical air blockade
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Admetos = Uranus`: Sudden glaring transformations of living conditions or forms of being.
+- Practical focus: electrifies `Neptune/Admetos` into sudden, glaring transformation. It breaks slow deprivation open through abrupt change, showing living conditions or forms of existence disrupted in a way that is sharp, destabilizing, and unmistakable.
+- Practical expression: excitement, exchange over restrictions, dynamic deepening in metaphysics, cycle dynamics of water, and nervousness due to gritty exchange.
 
 ## Links
 
@@ -61,3 +57,5 @@ Sudden glaring transformations of living conditions or forms of being.
 - [Admetos](../factors/admetos.md)
 - [Uranus](../factors/uranus.md)
 - [Neptune/Admetos](../axes/neptune-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

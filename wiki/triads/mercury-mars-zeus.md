@@ -3,7 +3,7 @@ title: Mercury Mars Zeus
 page_type: triad_hub
 slug: mercury-mars-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Mars
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Mars Zeus`
 - Astronomicon triad-set: `T U £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Zeus = Mercury](../activations/mars-zeus-equals-mercury.md)
-  Source page `199`
 - [Mercury/Mars = Zeus](../activations/mercury-mars-equals-zeus.md)
-  Source page `160`
 - [Mercury/Zeus = Mars](../activations/mercury-zeus-equals-mars.md)
-  Source page `168`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Zeus = Mercury`: page `199`
-- `Mercury/Mars = Zeus`: page `160`
-- `Mercury/Zeus = Mars`: page `168`
+- `Mars/Zeus = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `199`
+- `Mars/Zeus = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `312`
+- `Mercury/Mars = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `160`
+- `Mercury/Mars = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `243`
+- `Mercury/Zeus = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `168`
+- `Mercury/Zeus = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `258`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Zeus = Mercury`: makes the axis mental, communicative, and technically articulate.
+- `Mercury/Mars = Zeus`: directs the axis into exact formulation and authoritative aggression.
+- `Mercury/Zeus = Mars`: Creative thoughts are realized. Mechanical equipment. Penal laws or lawsuits.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Mars](../factors/mars.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

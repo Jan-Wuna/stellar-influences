@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Pluto`
-- Source page: `223`
 #### Witte Entry
 
 Slow separation favored by good fortune. A developing separation ending in a fortunate decision. Luck through divorce.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Saturn/Pluto`
-- Source page: `254`
-- Entry: `0896`
+#### ABC Entry
+
+Development of legal problems, successful development in old age, successful development through separation, successful pain transformation, money exchange tasks, staggered money development, change through money losses, and growing financial losses
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Plain and simple, excessive modesty, inclination to sacrifice oneself for others
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Saturn/Pluto midpoint`
-- Source page: `91`
-- Activator: `Jupiter`
-
 #### Sandbach Entry
 
 One is enthusiastic about transcending one’s limits. Growth can meet with intense restrictions which one learns much from. An optimism that is intensely spiritual and which maintains itself even in the face of drastic hardships.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Portends a favorable outcome for the use of large expenditures of resources or energies; influences those who have leadership and power to dispense; opinions about how to reclaim the use of waste products for other activities.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Pluto = Jupiter`: institutional influence, far-reaching endurance, and the capacity to convert pressure into authority or leverage. Main caution: hard ambition: growth can become domineering, moralized, or indifferent to humane limits.
 
 ## Links
 
@@ -84,7 +76,8 @@ One is enthusiastic about transcending one’s limits. Growth can meet with inte
 - [Pluto](../factors/pluto.md)
 - [Jupiter](../factors/jupiter.md)
 - [Saturn/Pluto](../axes/saturn-pluto.md)
-- [Jupiter Saturn Pluto](../triads/jupiter-saturn-pluto.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

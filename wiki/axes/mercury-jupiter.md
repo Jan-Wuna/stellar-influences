@@ -58,12 +58,13 @@ aliases:
   - Jupiter/Mercury
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -76,26 +77,23 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Jupiter`
-- Source page: `161`
-
 #### Pair Summary
 
 Cheerful mood. Liking to speak. Fluent speech. Talent for speech. Talkativeness. Joyful thinking or speech. Positive dialogues, thoughts or news. The legal mind. Financial reports. Legal correspondence. Thoughts or news about money.
 
-### Michelle Falis - Planet Combinations: Astrological Brainstorms
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Mercury/Jupiter`
-- Source page: `37`
+#### ABC Pair Summary
+
+Movement joy, successful thinking, thoughts of money, happy youth, good news, young C liick, media success, right speech, right thinking, writing good, and traffic right
+
+### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
 #### Falis Entry
 
 Big ideas. Too much talking, not enough action. Arrogant opinions. Open-minded. Broad minded. Expansive thinking. Speculating. The philosophical mind. Gener alizing. Lumping everything together. Glossing over the particulars. Getting the gist of it. Motivational speakers. Keynote speakers. Epic stories and tales. Full of hot air. Blowhards. Laughing it off. Missing the details. Exaggerating. Wanting to talk about meaningful subjects. Wanting more education. Talking about morality. Thinking about moral issues. Contemplating ethics. Speaking with conscience. Meaningful messages. Believing in your own thoughts. Having faith in your opin ions. Confident verbal expression. Confident written expression. Mental confi dence. Confidence in communication in general. Cheerleaders. Contemplating reli gion and faith. People who ponder, contemplate and mull. Looking forward. Think ing about the future. Hope and optimism. Seeing the big picture. Thinking ahead. Premonitions. Foresight. Prolific writers and authors. Publishers. Lecturers. Sermon givers. Preachers. Teachers and professors. Garrulous. Blowing your opinion out of proportion. A self-important way of communicating. Bloated ideas. Thinking highly of your own opinions. Talking a lot. Conveying information. Having faith in your ideas. Distor tion of an idea through over-emphasis. Making a big deal out of something in significant. Beating a dead horse. Students of life. Mind expansion. Making your self laugh. Cracking yourself up. The ability to brush off negative thinking. Affir mations. "I think I can, I think I can." Positive thinking. Getting away with saying ridiculous things. Latching onto one idea and expanding it beyond recognition. Pollyanna. Becoming blind to the things you don't want to hear or see. Misinterpretation through not gathering all the facts. Misinterpretation through focusing only on the parts that you want to focus on. Inflated sense of the importance of your own thoughts. Interest in archetypes. Wanting to know what things mean. Getting beyond mere accumulation of facts to find meaning. Positive sibling relationships. One sibling looms large over the other. A little knowledge is a dangerous thing.
 
 ### Charles Carter - The Astrological Aspects
-
-- Source heading: `ASPECTS OF MERCURY & JUPITER`
-- Source page: `35`
 
 #### Harmonious Aspects
 
@@ -148,9 +146,6 @@ There is often a distinct tendency to neglect worldly matters for art, religion,
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mercury/Jupiter midpoint`
-- Source page: `44`
-
 #### Principle
 
 The ability to synthesize ideas. Enthusiastic communication. Excessive thinking. Enthusiasm for many ideas. Saying too much. Philosophical thinking. Having too much on one’s mind makes one absent minded.
@@ -161,17 +156,11 @@ The collection and coordination of information. The generous sharing of thoughts
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Mercury/Jupiter`
-- Source page: `205`
-
 #### Pair Delineation
 
 The ability to make judgments based on maximum understanding. Love of negotiations and business. Judgment conditioned by ideals of fairness and justice, although sometimes lacking in precision and accuracy of thought.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `MERCURY/JUPITER`
-- Source page: `155`
 
 #### Basic Ideas
 
@@ -200,15 +189,6 @@ Excessive fat in the blood; an inability to absorb sugars in the blood; weakness
 
 - [Michael Munkasey - Mercury/Jupiter Concepts](../derived/munkasey-mercury-jupiter-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Mercury/Jupiter = Admetos](../activations/mercury-jupiter-equals-admetos.md)
@@ -233,20 +213,18 @@ Excessive fat in the blood; an inability to absorb sugars in the blood; weakness
 - [Mercury/Jupiter = Vulcanus](../activations/mercury-jupiter-equals-vulcanus.md)
 - [Mercury/Jupiter = Zeus](../activations/mercury-jupiter-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Jupiter` is the axis of expansive thought, synthesis, teaching, judgment, and persuasive communication. It combines language, learning, trade, and analysis with philosophy, law, optimism, breadth, and the search for meaning.
+- Chart expression: big-picture thinking, education, writing, lecturing, negotiation, cheerful or generous speech, and the ability to connect facts into a broader principle or vision. Liabilities: exaggeration, glibness, overtalking, carelessness with detail, inflated opinions, and conclusions that outrun evidence or precision.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Jupiter](../factors/jupiter.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

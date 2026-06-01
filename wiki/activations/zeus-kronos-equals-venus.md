@@ -3,7 +3,7 @@ title: Zeus/Kronos = Venus
 page_type: activation
 slug: zeus-kronos-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Zeus
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Kronos`
-- Source page: `289`
 #### Witte Entry
 
 The capabilities of the brain. Great mental creations and projects. Able to lead and command.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The capabilities of the brain. Great mental creations and projects. Able to lead and command.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful state art, special achievements through beauty, peace efforts leading, leading artist authority, groll artistic creativity, and benevolent leadership of the boss
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Kronos = Venus`: The capabilities of the brain. Great mental creations and projects. Able to lead and command.
+- Practical expression: effortful state art, special achievements through beauty, peace efforts leading, and leading artist authority.
 
 ## Links
 
@@ -61,3 +56,5 @@ The capabilities of the brain. Great mental creations and projects. Able to lead
 - [Kronos](../factors/kronos.md)
 - [Venus](../factors/venus.md)
 - [Zeus/Kronos](../axes/zeus-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

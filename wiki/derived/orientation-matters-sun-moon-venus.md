@@ -48,6 +48,10 @@ Show why a triad hub is structural only by comparing the three distinct Witte or
 - The three formulas are complementary but not interchangeable.
 - This triad is a clean demonstration of why the repo keeps activation identity oriented while keeping triad hubs unordered and structural.
 
+## Derived Synthesis
+
+- This note shows that identical triad membership does not license interpretive merging. In Hamburg-style work, meaning remains anchored to the activated factor, so structural grouping can support navigation while doctrinal content must stay orientation-specific.
+
 ## Open Questions
 
 - Additional derived articles could use other fully populated Witte triads to test whether this same orientation logic remains equally sharp outside relationship-themed formulas.

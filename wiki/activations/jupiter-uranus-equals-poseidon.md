@@ -3,7 +3,7 @@ title: Jupiter/Uranus = Poseidon
 page_type: activation
 slug: jupiter-uranus-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Uranus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Uranus`
-- Source page: `208`
 #### Witte Entry
 
 Good fortune on mental or spiritual plane, i.e. through intelligence, reason, wisdom, the way you view the world.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Good fortune on mental or spiritual plane, i.e. through intelligence, reason, wisdom, the way you view the world.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful culture impulses, joy over new insights, joy over technical ideas, new money culture, new legal clarity, spiritual success impulses, dynamic right culture, tensions over truth of money, and strong right impulses
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Uranus = Poseidon`: sudden openings that come from insight and clear understanding. It favors inspired thought, philosophical freedom, and the luck of seeing correctly.
 
 ## Links
 
@@ -61,3 +55,5 @@ Good fortune on mental or spiritual plane, i.e. through intelligence, reason, wi
 - [Uranus](../factors/uranus.md)
 - [Poseidon](../factors/poseidon.md)
 - [Jupiter/Uranus](../axes/jupiter-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

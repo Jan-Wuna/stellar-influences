@@ -3,7 +3,7 @@ title: Moon Node Hades
 page_type: triad_hub
 slug: moon-node-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Node Hades`
 - Astronomicon triad-set: `R g ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Hades = Node](../activations/moon-hades-equals-node.md)
-  Source page `131`
 - [Moon/Node = Hades](../activations/moon-node-equals-hades.md)
-  Source page `121`
 - [Node/Hades = Moon](../activations/node-hades-equals-moon.md)
-  Source page `150`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Hades = Node`: page `131`
-- `Moon/Node = Hades`: page `121`
-- `Node/Hades = Moon`: page `150`
+- `Moon/Hades = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `131`
+- `Moon/Hades = Node`: Udo Rudolph - ABC for Planetary Pictures, page `194`
+- `Moon/Node = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `121`
+- `Moon/Node = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `175`
+- `Node/Hades = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `150`
+- `Node/Hades = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `226`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Hades = Node`: Prospect of becoming a widow. Connections which cause worries. Connection to old women.
+- `Moon/Node = Hades`: This activation degrades `Moon/Node` into poor connection, relational rejection, and emotionally unsatisfying association. It can show difficult female bonds, social inferiority, or belonging marked by neglect, shame, or exclusion.
+- `Node/Hades = Moon`: Women with bad company. To be disgusted with the public conditions. To be slandered in public. To be exposed to such things.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Node](../factors/node.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

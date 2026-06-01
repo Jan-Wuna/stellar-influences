@@ -3,7 +3,7 @@ title: Jupiter/Admetos = Neptune
 page_type: activation
 slug: jupiter-admetos-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Neptune
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Admetos`
-- Source page: `216`
 #### Witte Entry
 
 Wasted money. Wrong investment. Lost investment capital.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Wasted money. Wrong investment. Lost investment capital.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exchangeable right blockade, successful deepening in metaphysics, consolidation of success by finesse, happiness in deep water, Greek legal insecurity, creeping money constraint, uncertainty by blocked money, deepening in frcmdes right restricted money development, development money block, and successful development
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Admetos = Neptune`: the narrowing of fortune through confusion, misjudgment, or leakages of value. Main caution: believing stability exists when the money is actually draining away.
 
 ## Links
 
@@ -61,3 +55,5 @@ Wasted money. Wrong investment. Lost investment capital.
 - [Admetos](../factors/admetos.md)
 - [Neptune](../factors/neptune.md)
 - [Jupiter/Admetos](../axes/jupiter-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

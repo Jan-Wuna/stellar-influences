@@ -3,7 +3,7 @@ title: Pluto/Vulcanus = Sun
 page_type: activation
 slug: pluto-vulcanus-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Pluto
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Vulcanus`
-- Source page: `263`
 #### Witte Entry
 
 Days which bring mighty changes. Life reformer. The man whose body has an unusual capacity to regenerate, who changes to new ways or different ways to nourish the body. The reformer of life.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Days which bring mighty changes. Life reformer. The man whose body has an unusual capacity to regenerate, who changes to new ways or different ways to nourish the body. The reformer of life.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Development of cine's influence centre, developing body force, personal power development, changes in persijn)ic influence, growing body force, growing energy centre, growing personal influence, and changing power influence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Vulcanus = Sun`: days which bring mighty changes; Life reformer.
+- Practical expression: developing body force, personal power development, changes in persijn)ic influence, and growing body force.
 
 ## Links
 
@@ -61,3 +56,5 @@ Days which bring mighty changes. Life reformer. The man whose body has an unusua
 - [Vulcanus](../factors/vulcanus.md)
 - [Sun](../factors/sun.md)
 - [Pluto/Vulcanus](../axes/pluto-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

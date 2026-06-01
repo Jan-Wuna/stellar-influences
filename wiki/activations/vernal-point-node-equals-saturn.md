@@ -3,7 +3,7 @@ title: Vernal Point/Node = Saturn
 page_type: activation
 slug: vernal-point-node-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Node
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Saturn
   - Node
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Node`
-- Source page: `39`
 #### Witte Entry
 
 General separation. Restrictions on public connections.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: General separation. Restrictions on public connections.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Burdening public relations, distanced relations with the public, inhibitions with the public Meeting, concentration in contacts with the public, links with the public in old age, and communication with the public Tasks
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Node = Saturn`: general separation and restrictions on public connections.
+- Practical expression: burdening public relations, distanced relations with the public, inhibitions with the public Meeting, concentration in contacts with the public, and links with the public in old age.
 
 ## Links
 
@@ -61,3 +56,5 @@ General separation. Restrictions on public connections.
 - [Node](../factors/node.md)
 - [Saturn](../factors/saturn.md)
 - [Vernal Point/Node](../axes/vernal-point-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

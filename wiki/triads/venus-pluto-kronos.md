@@ -3,7 +3,7 @@ title: Venus Pluto Kronos
 page_type: triad_hub
 slug: venus-pluto-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Pluto Kronos`
 - Astronomicon triad-set: `Q Z ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Pluto/Kronos = Venus](../activations/pluto-kronos-equals-venus.md)
-  Source page `260`
 - [Venus/Kronos = Pluto](../activations/venus-kronos-equals-pluto.md)
-  Source page `185`
 - [Venus/Pluto = Kronos](../activations/venus-pluto-equals-kronos.md)
-  Source page `181`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Pluto/Kronos = Venus`: page `260`
-- `Venus/Kronos = Pluto`: page `185`
-- `Venus/Pluto = Kronos`: page `181`
+- `Pluto/Kronos = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `260`
+- `Pluto/Kronos = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `414`
+- `Venus/Kronos = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `185`
+- `Venus/Kronos = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `289`
+- `Venus/Pluto = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `181`
+- `Venus/Pluto = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `281`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Pluto/Kronos = Venus`: This activation emphasizes pleasant advancement; Relationships or values support rising status or capability.
+- `Venus/Kronos = Pluto`: growing benevolence of the boss, chief, government or superiors.
+- `Venus/Pluto = Kronos`: the master, the superior, the employer (boss), the authority wink (connive) at someone.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Pluto](../factors/pluto.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

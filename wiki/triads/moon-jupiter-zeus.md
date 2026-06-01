@@ -3,7 +3,7 @@ title: Moon Jupiter Zeus
 page_type: triad_hub
 slug: moon-jupiter-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Jupiter
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Jupiter Zeus`
 - Astronomicon triad-set: `R V £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Zeus = Moon](../activations/jupiter-zeus-equals-moon.md)
-  Source page `213`
 - [Moon/Jupiter = Zeus](../activations/moon-jupiter-equals-zeus.md)
-  Source page `125`
 - [Moon/Zeus = Jupiter](../activations/moon-zeus-equals-jupiter.md)
-  Source page `132`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Zeus = Moon`: page `213`
-- `Moon/Jupiter = Zeus`: page `125`
-- `Moon/Zeus = Jupiter`: page `132`
+- `Jupiter/Zeus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `213`
+- `Jupiter/Zeus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `336`
+- `Moon/Jupiter = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `125`
+- `Moon/Jupiter = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `183`
+- `Moon/Zeus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `132`
+- `Moon/Zeus = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `196`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Zeus = Moon`: the procreative woman and people who feel happy in their work or nourished by what they produce.
+- `Moon/Jupiter = Zeus`: This activation turns `Moon/Jupiter` toward creative generation, fertility, and joyful production. It favors happiness in making, forming, or bringing life forward, whether through motherhood, artistic output, or other acts of warm purposeful creation that make abundance feel active and alive.
+- `Moon/Zeus = Jupiter`: Cheerful disposition. Happy hours of creation. Fortune or happiness through creative achievement. Light. Bonfire.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Jupiter](../factors/jupiter.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

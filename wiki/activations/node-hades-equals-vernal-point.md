@@ -3,7 +3,7 @@ title: Node/Hades = Vernal Point
 page_type: activation
 slug: node-hades-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Node
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Hades`
-- Source page: `150`
 #### Witte Entry
 
 To be connected with unpleasant affairs. Gangs of thieves.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be connected with unpleasant affairs. Gangs of thieves.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+encounter with the distress of the world, encounter with public criminality, dangerous contacts in public, criminal connections in public, deficient relations to public life, and hidden relationships in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Hades = Vernal Point`: To be connected with unpleasant affairs. Gangs of thieves.
+- Practical focus: to be connected with unpleasant affairs; also gangs of thieves.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be connected with unpleasant affairs. Gangs of thieves.
 - [Hades](../factors/hades.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Node/Hades](../axes/node-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

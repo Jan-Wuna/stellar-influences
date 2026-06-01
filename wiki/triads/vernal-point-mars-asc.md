@@ -3,7 +3,7 @@ title: Vernal Point Mars Asc
 page_type: triad_hub
 slug: vernal-point-mars-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Mars
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Mars Asc`
 - Astronomicon triad-set: `VP U Asc`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Asc = Vernal Point](../activations/mars-asc-equals-vernal-point.md)
-  Source page `85`
 - [Vernal Point/Asc = Mars](../activations/vernal-point-asc-equals-mars.md)
-  Source page `36`
 - [Vernal Point/Mars = Asc](../activations/vernal-point-mars-equals-asc.md)
-  Source page `42`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Asc = Vernal Point`: page `85`
-- `Vernal Point/Asc = Mars`: page `36`
-- `Vernal Point/Mars = Asc`: page `42`
+- `Mars/Asc = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `85`
+- `Mars/Asc = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `110`
+- `Vernal Point/Asc = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `36`
+- `Vernal Point/Asc = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `20`
+- `Vernal Point/Mars = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `42`
+- `Vernal Point/Mars = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `32`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Asc = Vernal Point`: makes the Mars/Asc axis public and collective, so one is impressed by, drawn into, or identified with the deeds and conflicts of people in general.
+- `Vernal Point/Asc = Mars`: This formula emphasizes to do something with others, work places, workshops, and training camps.
+- `Vernal Point/Mars = Asc`: This formula emphasizes the acts of other people, acts toward other people, and violence of others.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Mars](../factors/mars.md)
 - [Asc](../factors/asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

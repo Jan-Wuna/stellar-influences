@@ -3,7 +3,7 @@ title: Venus MC Poseidon
 page_type: triad_hub
 slug: venus-mc-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus MC Poseidon`
 - Astronomicon triad-set: `Q MC ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Poseidon = Venus](../activations/mc-poseidon-equals-venus.md)
-  Source page `77`
 - [Venus/MC = Poseidon](../activations/venus-mc-equals-poseidon.md)
-  Source page `63`
 - [Venus/Poseidon = MC](../activations/venus-poseidon-equals-mc.md)
-  Source page `189`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Poseidon = Venus`: page `77`
-- `Venus/MC = Poseidon`: page `63`
-- `Venus/Poseidon = MC`: page `189`
+- `MC/Poseidon = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `77`
+- `MC/Poseidon = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `98`
+- `Venus/MC = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `63`
+- `Venus/MC = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `71`
+- `Venus/Poseidon = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `189`
+- `Venus/Poseidon = MC`: Udo Rudolph - ABC for Planetary Pictures, page `296`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Poseidon = Venus`: sweetens the axis through love of beauty, freedom, and refined ideals.
+- `Venus/MC = Poseidon`: to revere and idolize something.
+- `Venus/Poseidon = MC`: to be faithful.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [MC](../factors/mc.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

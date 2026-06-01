@@ -3,10 +3,10 @@ title: Mars/MC = Admetos
 page_type: activation
 slug: mars-mc-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Mars
+  - MC
   - Admetos
 normalized_formula: Mars/MC = Admetos
 axis: Mars/MC
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - MC
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Mars`
-- Source page: `64`
 #### Witte Entry
 
 A limited sphere of work. Actions meet with grave resistance. Condemned to inactivity. Operating in or with debris or ruins.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A limited sphere of work. Actions meet with grave resistance. Condemned to inactivity. Operating in or with debris or ruins.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Restricted psychic activity, strengthening of my will, I work with perseverance, I delve into work, my work is restricted, my work with primordial material, my depressive impulses, my actions are blocked, and deep soul work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/MC = Admetos` compresses public and vocational action into limitation, resistance, and enforced inactivity.
+- Chart expression: a narrowed field of work, grave obstacles to accomplishment, and labor carried out in ruins, debris, or other constricted and unpromising conditions.
 
 ## Links
 
@@ -61,3 +56,5 @@ A limited sphere of work. Actions meet with grave resistance. Condemned to inact
 - [MC](../factors/mc.md)
 - [Admetos](../factors/admetos.md)
 - [Mars/MC](../axes/mars-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

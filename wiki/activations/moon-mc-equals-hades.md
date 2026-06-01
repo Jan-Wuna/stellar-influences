@@ -3,10 +3,10 @@ title: Moon/MC = Hades
 page_type: activation
 slug: moon-mc-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Moon
+  - MC
   - Hades
 normalized_formula: Moon/MC = Hades
 axis: Moon/MC
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - MC
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Moon`
-- Source page: `60`
 #### Witte Entry
 
 Vileness of women. A low mentality. Trouble with women.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Vileness of women. A low mentality. Trouble with women.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Woman in peril, melancholy deficiency of the soul, feelings from my past, I renounce melancholy, my melancholy melancholy, my sorrow with the woman, my wife is criminal, my criminal melancholy, and my hidden melancholy
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/MC = Hades`: Vileness of women. A low mentality. Trouble with women.
+- Practical focus: degrades `Moon/MC` into troubled feeling, low mental tone, and painful entanglement with difficult women or unhealthy emotional environments. It can show a life direction burdened by humiliation, emotional coarseness, or private distress that leaks into the public self.
+- Practical expression: woman in peril, melancholy deficiency of the soul, feelings from my past, i renounce melancholy, and my melancholy melancholy.
 
 ## Links
 
@@ -61,3 +57,5 @@ Vileness of women. A low mentality. Trouble with women.
 - [MC](../factors/mc.md)
 - [Hades](../factors/hades.md)
 - [Moon/MC](../axes/moon-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

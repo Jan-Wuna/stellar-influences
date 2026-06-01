@@ -3,7 +3,7 @@ title: Kronos/Apollon = Sun
 page_type: activation
 slug: kronos-apollon-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Kronos
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Kronos + Apollon`
-- Source page: `299`
 #### Witte Entry
 
 The man who is an authority through his knowledge, through his experience or through his ability. Days devoted to science, days which bring important understanding, discovery or experiences.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The man who is an authority through his knowledge, through his experience or through his ability. Days devoted to science, days which bring important understanding, discovery or experiences.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dominance of personal freedom, success of a self indigenous man, success day for the state, great body for, personal prestige through knowledge, personal trade experiences, important experiences of a man, and Center for State Science
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Apollon = Sun`: a person who becomes authoritative through knowledge, ability, or experience, and days devoted to important understanding, discovery, or insight.
+- Chart expression: visible mastery, dignified expertise, and personal authority earned through real accomplishment.
 
 ## Links
 
@@ -61,3 +56,5 @@ The man who is an authority through his knowledge, through his experience or thr
 - [Apollon](../factors/apollon.md)
 - [Sun](../factors/sun.md)
 - [Kronos/Apollon](../axes/kronos-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

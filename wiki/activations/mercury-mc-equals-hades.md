@@ -3,10 +3,10 @@ title: Mercury/MC = Hades
 page_type: activation
 slug: mercury-mc-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Mercury
+  - MC
   - Hades
 normalized_formula: Mercury/MC = Hades
 axis: Mercury/MC
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - MC
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Mercury`
-- Source page: `62`
 #### Witte Entry
 
 The moment of being in touch with information about the evil, atrocity or history. One owns thoughts or writings about junk, waste, diseases or history.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The moment of being in touch with information about the evil, atrocity or history. One owns thoughts or writings about junk, waste, diseases or history.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+My criminality in youth, my thinking is deficient, I have bad thoughts, I at the disabled in speaking, I write about the past, I think about deprivation, I describe the need, poor soul language, and mental danger of youth
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/MC = Hades` darkens the axis through contact with atrocity, waste, disease, and history.
+- Chart expression: being mentally occupied with evil, decay, illness, junk, or the past, and to personal thinking or writing turning toward what is grim, degraded, or historically burdened.
 
 ## Links
 
@@ -61,3 +56,5 @@ The moment of being in touch with information about the evil, atrocity or histor
 - [MC](../factors/mc.md)
 - [Hades](../factors/hades.md)
 - [Mercury/MC](../axes/mercury-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

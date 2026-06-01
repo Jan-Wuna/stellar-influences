@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Apollon + Apollon`
-- Source page: `304`
 #### Witte Entry
 
 High flight of thought. Scientific thinking. Many talks. Much speaking. Knowledge of languages. Scientific languages. Business talks. Thoughts concentrated on commerce and earnings.
 
-## Comparative Schema
-
-- core meaning: High flight of thought. Scientific thinking. Many talks. Much speaking. Knowledge of languages. Scientific languages. Business talks. Thoughts concentrated on commerce and earnings.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Apollon = Mercury`: expansive thinking, multilingual or technical fluency, commerce-minded speech, and intellectual reach that links knowledge with earnings or exchange. Main caution: mental overextension: the mind may range so broadly that precision, focus, or depth starts to thin out.
 
 ## Links
 

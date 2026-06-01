@@ -3,7 +3,7 @@ title: Node/Zeus = Mars
 page_type: activation
 slug: node-zeus-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Node
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Zeus`
-- Source page: `151`
 #### Witte Entry
 
 To incite to action. Spoof. To perform something together. To play tricks. To be singled out or chosen for a work. To have to do something.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To incite to action. Spoof. To perform something together. To play tricks. To be singled out or chosen for a work. To have to do something.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful work mediation, work in connection with fire, convey work performance, creative impulses in relationships, creative action in one connection, procreation action in one connection, and purposeful work mediation
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Zeus = Mars` turns shared purpose, fire, or coordinated intent into action: inciting others, doing work together, or being selected for a task.
+- Main caution: joint action can slip into provocation, tricks, or pressure to act before motives are clean.
 
 ## Links
 
@@ -61,3 +56,5 @@ To incite to action. Spoof. To perform something together. To play tricks. To be
 - [Zeus](../factors/zeus.md)
 - [Mars](../factors/mars.md)
 - [Node/Zeus](../axes/node-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

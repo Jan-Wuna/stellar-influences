@@ -3,21 +3,22 @@ title: Cupido
 page_type: factor
 slug: cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
 aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Factor: Cupido
 - Astronomicon token: `¡`
-- Source factor chapter page: `29`
+- Canonical page type: comparative factor page grounded in standalone source entries.
 
 ## Source Entries
 
@@ -27,19 +28,18 @@ updated_at: 2026-04-21
 
 Family. Sociability. Societies. Associations. Collections. Art. Marriage. The group. Public limited company. Community efforts.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Family. Sociability. Societies. Associations. Collections. Art. Marriage. The group. Public limited company. Community efforts.
-- psychology: no separate source-native subdivision is present in the standalone factor chapter.
-- body/health: no separate source-native subdivision is present in the standalone factor chapter.
-- social/relationship: no separate source-native subdivision is present in the standalone factor chapter.
-- events/manifestations: browse related axis and activation pages for explicit formulas involving `Cupido`.
-- conflicts/notes: this page preserves the standalone factor chapter as sourced doctrine from Witte.
+#### ABC Keyword Entry
 
+Community, the whole, together, artist, and synthesis
 
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-
+- `Cupido` is the factor of community, family, marriage, association, art, synthesis, and the forms through which people become part of a shared whole.
+- Chart expression: domestic and communal cohesion, partnership as belonging, clubs, companies, aesthetic circles, collective effort, and the wish to create or preserve meaningful bonds.
+- Its liabilities are clannishness, conformity, social dependency, collective pressure, empty association, and belonging to the group at the expense of individuality, honesty, or living feeling.
 
 ## Related Axes
 
@@ -66,15 +66,7 @@ Family. Sociability. Societies. Associations. Collections. Art. Marriage. The gr
 - [Venus/Cupido](../axes/venus-cupido.md)
 - [Vernal Point/Cupido](../axes/vernal-point-cupido.md)
 
-## Related Activations
-
-- Generated activation pages involving `Cupido`: `693`.
-- Browse [Index](../index.md) or the `wiki/activations/` folder for the full set.
-
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-
-## Open Questions
-
-
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

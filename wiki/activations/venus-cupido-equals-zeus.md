@@ -3,7 +3,7 @@ title: Venus/Cupido = Zeus
 page_type: activation
 slug: venus-cupido-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Cupido
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Cupido`
-- Source page: `182`
 #### Witte Entry
 
 Conclusion of a marriage, of a sex relationship. Marital happiness through the blessing of children.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Conclusion of a marriage, of a sex relationship. Marital happiness through the blessing of children.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Efforts of a peace community, fiery love community, common preference for achievements, harmonious performance community, creative arts community, achievements of a harmonious community, and witnessing love community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Cupido = Zeus`: conclusion of a marriage, of a sex relationship.
+- Practical expression: efforts of a peace community, fiery love community, common preference for achievements, harmonious performance community, and creative arts community.
 
 ## Links
 
@@ -61,3 +56,5 @@ Conclusion of a marriage, of a sex relationship. Marital happiness through the b
 - [Cupido](../factors/cupido.md)
 - [Zeus](../factors/zeus.md)
 - [Venus/Cupido](../axes/venus-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

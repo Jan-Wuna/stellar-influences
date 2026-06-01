@@ -3,7 +3,7 @@ title: Saturn/Admetos = Zeus
 page_type: activation
 slug: saturn-admetos-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Zeus
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Admetos`
-- Source page: `229`
 #### Witte Entry
 
 Cannot start anything because of present obstacles. At the beginning to face almost insurmountable difficulties.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Cannot start anything because of present obstacles. At the beginning to face almost insurmountable difficulties.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Restricting efforts in old age, deepening task design, starting with the most depressed, starting circulatory stress, strengthening of movement problems, loss of movement due to depression, and serious fire losses
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Admetos = Zeus`: cannot start anything because of present obstacles, at the beginning to face almost insurmountable difficulties.
+- Practical expression: restricting efforts in old age, deepening task design, starting with the most depressed, starting circulatory stress, and strengthening of movement problems.
 
 ## Links
 
@@ -61,3 +56,5 @@ Cannot start anything because of present obstacles. At the beginning to face alm
 - [Admetos](../factors/admetos.md)
 - [Zeus](../factors/zeus.md)
 - [Saturn/Admetos](../axes/saturn-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

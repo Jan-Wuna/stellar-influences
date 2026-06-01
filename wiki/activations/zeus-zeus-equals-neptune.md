@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Zeus + Zeus`
-- Source page: `287`
 #### Witte Entry
 
 Bequeathing. Perseverance. Oppression. Anxiety, anguish. Obstacles and hindrances in activirv in work Tn sens rate frnm nr intermnt activities L hindrances in activity in work. To separate from or interrupt activities. Losses while producing. Breakdown of machines. Losses by fire in establishments. 1 rocesses without result. To separate from one’s work, or to separate from accomplishments. Hindered activity. To bring about separations.
 
-## Comparative Schema
-
-- core meaning: Bequeathing. Perseverance. Oppression. Anxiety, anguish. Obstacles and hindrances in activirv in work Tn sens rate frnm nr intermnt activities L hindrances in activity in work. To separate from or interrupt activities. Losses while producing. Breakdown of machines. Losses by fire in establishments. 1 rocesses without result. To separate from one’s work, or to separate from accomplishments. Hindered activity. To bring about separations.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Zeus = Neptune`: Bequeathing. Perseverance. Oppression. Anxiety, anguish. Obstacles and hindrances in activirv in work Tn sens rate frnm nr intermnt activities L hindrances in activity in work. To separate from or interrupt activities. Losses while producing. Breakdown of machines. Losses by fire in establishments. 1 rocesses without result. To separate from one’s work, or to separate from accomplishments. Hindered activity. To bring about separations.
 
 ## Links
 

@@ -3,7 +3,7 @@ title: Moon/Saturn = Admetos
 page_type: activation
 slug: moon-saturn-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Saturn
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Saturn
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Saturn`
-- Source page: `126`
 #### Witte Entry
 
 Death of old women. Temporarily dilemma. Country people in need. Short or few evening hours.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Death of old women. Temporarily dilemma. Country people in need. Short or few evening hours.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Depressions of an old woman, grim patience of a woman, problems of a people by restrictions, pain of a woman, disturbances by blocked refugees, separation from a depressed woman, and deepening the life of a woman
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Saturn = Admetos`: Death of old women. Temporarily dilemma. Country people in need. Short or few evening hours.
+- Practical focus: constricts `Moon/Saturn` into short-lived relief, temporary dilemma, and hardship that settles into a narrow evening or end-of-cycle mood. It points to emotional burden condensed into a brief but heavy phase of need, loss, or constriction.
+- Practical expression: depressions of an old woman, grim patience of a woman, problems of a people by restrictions, pain of a woman, and disturbances by blocked refugees.
 
 ## Links
 
@@ -61,3 +57,5 @@ Death of old women. Temporarily dilemma. Country people in need. Short or few ev
 - [Saturn](../factors/saturn.md)
 - [Admetos](../factors/admetos.md)
 - [Moon/Saturn](../axes/moon-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

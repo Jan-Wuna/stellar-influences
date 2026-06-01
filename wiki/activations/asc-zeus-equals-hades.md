@@ -3,7 +3,7 @@ title: Asc/Zeus = Hades
 page_type: activation
 slug: asc-zeus-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - Hades
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Zeus`
-- Source page: `93`
 #### Witte Entry
 
 Spiteful or vulgar deeds of others. Damage through fire by other persons.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Spiteful or vulgar deeds of others. Damage through fire by other persons.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful environmental service, difficult environmental creativity, fire danger _in the environment, criminal environmental goals, poor location design, adverse partner destined, hidden location guided, renunciation of efforts for the environment, and targets of others serve
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Zeus = Hades`: dirty conflict, sabotage, and environments where work or pressure takes an ugly, damaging turn. Main caution: harm through malice, negligence, or degraded conduct.
 
 ## Links
 
@@ -61,3 +55,5 @@ Spiteful or vulgar deeds of others. Damage through fire by other persons.
 - [Zeus](../factors/zeus.md)
 - [Hades](../factors/hades.md)
 - [Asc/Zeus](../axes/asc-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

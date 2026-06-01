@@ -3,7 +3,7 @@ title: Saturn/Poseidon = Jupiter
 page_type: activation
 slug: saturn-poseidon-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Saturn
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Poseidon`
-- Source page: `231`
 #### Witte Entry
 
 Good behavior. To appeal as the teacher to the good senses and instincts of the students. Good example. High rating. Transferred to a higher grade. Successes of an educator or in the field of education.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Good behavior. To appeal as the teacher to the good senses and instincts of the students. Good example. High rating. Transferred to a higher grade. Successes of an educator or in the field of education.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Incriminating clarity through right, success through patience and reason, joy in spiritual tasks, mental happiness in old age, hard right truth, problems of right culture, loss rich money culture, and benefits through spiritual maturity
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Poseidon = Jupiter`: good behavior, to appeal as the teacher to the good senses and instincts of the students, good example.
+- Practical expression: incriminating clarity through right, success through patience, reason, oy in spiritual tasks, and mental happiness in old age.
 
 ## Links
 
@@ -61,3 +56,5 @@ Good behavior. To appeal as the teacher to the good senses and instincts of the 
 - [Poseidon](../factors/poseidon.md)
 - [Jupiter](../factors/jupiter.md)
 - [Saturn/Poseidon](../axes/saturn-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

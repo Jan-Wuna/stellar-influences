@@ -3,7 +3,7 @@ title: Mars MC Kronos
 page_type: triad_hub
 slug: mars-mc-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars MC Kronos`
 - Astronomicon triad-set: `U MC ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Kronos = Mars](../activations/mc-kronos-equals-mars.md)
-  Source page `73`
 - [Mars/Kronos = MC](../activations/mars-kronos-equals-mc.md)
-  Source page `200`
 - [Mars/MC = Kronos](../activations/mars-mc-equals-kronos.md)
-  Source page `64`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Kronos = Mars`: page `73`
-- `Mars/Kronos = MC`: page `200`
-- `Mars/MC = Kronos`: page `64`
+- `MC/Kronos = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `73`
+- `MC/Kronos = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `90`
+- `Mars/Kronos = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `200`
+- `Mars/Kronos = MC`: Udo Rudolph - ABC for Planetary Pictures, page `314`
+- `Mars/MC = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `64`
+- `Mars/MC = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `73`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Kronos = Mars`: energizes the axis into decisive, self-judged action and executive force.
+- `Mars/Kronos = MC`: internalizes the axis as ambition, self-assertion, and the drive to act independently from a position of command.
+- `Mars/MC = Kronos`: elevates public action into honorable command, executive force, and official authority.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [MC](../factors/mc.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

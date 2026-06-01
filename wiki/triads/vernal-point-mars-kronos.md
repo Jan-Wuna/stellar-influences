@@ -3,7 +3,7 @@ title: Vernal Point Mars Kronos
 page_type: triad_hub
 slug: vernal-point-mars-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Mars
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Mars Kronos`
 - Astronomicon triad-set: `VP U ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Kronos = Vernal Point](../activations/mars-kronos-equals-vernal-point.md)
-  Source page `200`
 - [Vernal Point/Kronos = Mars](../activations/vernal-point-kronos-equals-mars.md)
-  Source page `51`
 - [Vernal Point/Mars = Kronos](../activations/vernal-point-mars-equals-kronos.md)
-  Source page `42`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Kronos = Vernal Point`: page `200`
-- `Vernal Point/Kronos = Mars`: page `51`
-- `Vernal Point/Mars = Kronos`: page `42`
+- `Mars/Kronos = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `200`
+- `Mars/Kronos = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `314`
+- `Vernal Point/Kronos = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `51`
+- `Vernal Point/Kronos = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `50`
+- `Vernal Point/Mars = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `42`
+- `Vernal Point/Mars = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `33`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Kronos = Vernal Point`: makes executive authority publicly visible and collectively operative.
+- `Vernal Point/Kronos = Mars`: This formula emphasizes leadership, great deeds of leading persons or the state, great deeds in general, and mining and metallurgical industry.
+- `Vernal Point/Mars = Kronos`: This formula emphasizes the parent's authority and governmental actions.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Mars](../factors/mars.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

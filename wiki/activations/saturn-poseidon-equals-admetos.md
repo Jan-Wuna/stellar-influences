@@ -3,7 +3,7 @@ title: Saturn/Poseidon = Admetos
 page_type: activation
 slug: saturn-poseidon-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Admetos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Poseidon`
-- Source page: `231`
 #### Witte Entry
 
 End of training or education.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: End of training or education.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+the separation, consolidation of spiritual maturity, fundamental cultural tasks, clarity through fundamental concentration, deepening in spiritual tasks, and deepening in cultural problems
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Poseidon = Admetos`: end of training or education.
+- Practical expression: the separation, consolidation of spiritual maturity, fundamental cultural tasks, clarity through fundamental concentration, and deepening in spiritual tasks.
 
 ## Links
 
@@ -61,3 +56,5 @@ End of training or education.
 - [Poseidon](../factors/poseidon.md)
 - [Admetos](../factors/admetos.md)
 - [Saturn/Poseidon](../axes/saturn-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

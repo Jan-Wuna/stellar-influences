@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Saturn`
-- Source page: `145`
 #### Witte Entry
 
 2 Divorce which requires a long time. Slow cooling off of connections or unions. Development of a serious relationship.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Saturn/Dragon's Head`
-- Source page: `257`
-- Entry: `0911`
+#### ABC Entry
+
+Development through encounters in old age, development of a first degree of integration, the smooth development of an encounter, changes in an old relationship, growing problems in a connection, and change in a straitened connection
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Tendency to sacrifice oneself for others, suffering from others. Suffering share
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Saturn/Node midpoint`
-- Source page: `92`
-- Activator: `Pluto`
-
 #### Sandbach Entry
 
 An extreme fear of letting go of the past. Intensive, even stifling restrictions encountered in one’s connections with others. Relentless resistance to taking in new experiences.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Incidents which push you beyond self help and into plights which require you to rely on others; obsession with helping yourself when others are available to help you too; help extended but with conditions attached.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Node = Pluto`: enduring collective strength, strategic partnership, and the ability to hold together under extreme pressure. Main caution: coercion: social ties can become fear-based, manipulative, or difficult to humanize once control takes over.
 
 ## Links
 
@@ -84,7 +76,8 @@ An extreme fear of letting go of the past. Intensive, even stifling restrictions
 - [Node](../factors/node.md)
 - [Pluto](../factors/pluto.md)
 - [Saturn/Node](../axes/saturn-node.md)
-- [Saturn Pluto Node](../triads/saturn-pluto-node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

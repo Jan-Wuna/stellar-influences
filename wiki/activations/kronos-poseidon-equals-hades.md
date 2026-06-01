@@ -3,7 +3,7 @@ title: Kronos/Poseidon = Hades
 page_type: activation
 slug: kronos-poseidon-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Hades
   - Kronos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Kronos + Poseidon`
-- Source page: `303`
 #### Witte Entry
 
 The educational, spiritual or cultural attitude of base people. Low kind of cultural endeavor. Cultures of the past.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The educational, spiritual or cultural attitude of base people. Low kind of cultural endeavor. Cultures of the past.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special intellectual deficiency, knowledge of criminal authority, lack of spiritual independence, great cultural crime, cultural state of the past, deficient culture of a state, lack of truth in the state, and important spiritual mystery
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Poseidon = Hades`: base cultural attitude, low-grade spiritual or educational endeavor, and engagement with cultures of the past.
+- Chart expression: decayed ideology, degraded teaching, or serious study of old, difficult, or neglected cultural material.
 
 ## Links
 
@@ -61,3 +56,5 @@ The educational, spiritual or cultural attitude of base people. Low kind of cult
 - [Poseidon](../factors/poseidon.md)
 - [Hades](../factors/hades.md)
 - [Kronos/Poseidon](../axes/kronos-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

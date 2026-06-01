@@ -3,10 +3,10 @@ title: Uranus/MC = Zeus
 page_type: activation
 slug: uranus-mc-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Uranus
+  - MC
   - Zeus
 normalized_formula: Uranus/MC = Zeus
 axis: Uranus/MC
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - MC
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Uranus`
-- Source page: `67`
 #### Witte Entry
 
 To be surprised by one’s own decisions. To have and pursue a direction or goal unerringly. To reach one’s goal. Decidedly self-willed. To enjoy fires. To set a fire.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be surprised by one’s own decisions. To have and pursue a direction or goal unerringly. To reach one’s goal. Decidedly self-willed. To enjoy fires. To set a fire.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Beginning of emotional tensions, dynamic creative soul, my strenuous rhythm us, my dynamic goal, my technical achievements, minute of exciting efforts, and creating emotional impulses
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/MC = Zeus`: To be surprised by one’s own decisions. To have and pursue a direction or goal unerringly. To reach one’s goal. Decidedly self-willed. To enjoy fires. To set a fire.
+- Practical expression: beginning of emotional tensions, dynamic creative soul, my strenuous rhythm us, my dynamic goal, and my technical achievements.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be surprised by one’s own decisions. To have and pursue a direction or goal
 - [MC](../factors/mc.md)
 - [Zeus](../factors/zeus.md)
 - [Uranus/MC](../axes/uranus-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

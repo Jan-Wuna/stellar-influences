@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Neptune + Neptune`
-- Source page: `245`
 #### Witte Entry
 
 Secrecies. Changes which are not noticed externally. Sneaking, unnoticeable transformation. Changes only recognized in the future. Developments below the radar screen. Sneaking crisis. Hidden alteration. An uncertain turnaround.
 
-## Comparative Schema
-
-- core meaning: Secrecies. Changes which are not noticed externally. Sneaking, unnoticeable transformation. Changes only recognized in the future. Developments below the radar screen. Sneaking crisis. Hidden alteration. An uncertain turnaround.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Neptune = Pluto`: Secrecies. Changes which are not noticed externally. Sneaking, unnoticeable transformation. Changes only recognized in the future. Developments below the radar screen. Sneaking crisis. Hidden alteration. An uncertain turnaround.
+- Practical focus: transforms pure uncertainty through hidden and barely visible change, showing slow crisis, unseen alteration, and turning points recognized only after they have already taken hold.
 
 ## Links
 

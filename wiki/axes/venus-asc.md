@@ -58,11 +58,12 @@ aliases:
   - Asc/Venus
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -75,17 +76,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus/Ascendant`
-- Source page: `195`
-
 #### Pair Summary
 
 Lovable acquaintances. To be treated well by others. Others who long for the native. Personal love connections and love unions. To show evidence of love. Nice appearance. Peace in the immediate vicinity. Harmonious relations to the place. Harmonious surroundings. Peaceful place.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Venus/Ascendant`
-- Source page: `195`
+#### ABC Pair Summary
+
+Harmony with others, joy in the place, peaceful world, artist as partner, love partner, place of peace, place of the artist, beautiful place, beauty of the other, and preference for the partner
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -109,9 +110,6 @@ Members of the female sex within the environment, such as the mother or wife.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Venus/Ascendant midpoint`
-- Source page: `65`
-
 #### Principle
 
 A person with a loving, easy-going personality. The ability to share with others and to put them at ease. Contentment with oneself - which negatively might ex press as laziness and selfishness.
@@ -122,17 +120,11 @@ Learning to love oneself and to project that love into the world.
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Venus/Ascendant`
-- Source page: `207`
-
 #### Pair Delineation
 
 The ability to project attractiveness, to charm others. Getting love from others. The ability to bring about close love relationships. The ability to bring about compromise and harmony in the environment.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `VENUS/ASCENDANT`
-- Source page: `215`
 
 #### Basic Ideas
 
@@ -161,15 +153,6 @@ Your ability to feel comfortable with the image you project to others; your psyc
 
 - [Michael Munkasey - Venus/Asc Concepts](../derived/munkasey-venus-asc-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Venus/Asc = Admetos](../activations/venus-asc-equals-admetos.md)
@@ -194,20 +177,18 @@ Your ability to feel comfortable with the image you project to others; your psyc
 - [Venus/Asc = Vulcanus](../activations/venus-asc-equals-vulcanus.md)
 - [Venus/Asc = Zeus](../activations/venus-asc-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Asc` is the axis of charm, attractiveness, and the wish to create harmony through one's personal manner and immediate surroundings. It combines affection, beauty, pleasure, and sociability with appearance, personality, close contact, and the local environment.
+- Chart expression: grace, rapport, artistic or aesthetic self-presentation, and the ability to soothe, please, or attract others personally. Liabilities: vanity, people-pleasing, indulgence, wastefulness, jealousy, and disappointment when the hoped-for affection or appreciation is not returned.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Asc](../factors/asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)

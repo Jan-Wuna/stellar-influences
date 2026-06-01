@@ -3,7 +3,7 @@ title: Vernal Point/Vulcanus = Apollon
 page_type: activation
 slug: vernal-point-vulcanus-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Apollon
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Vulcanus`
-- Source page: `54`
 #### Witte Entry
 
 Wholesale merchants. Power of trade and commerce. Great expansion or success. Far reaching power and influence. Powerful through the use of science.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Wholesale merchants. Power of trade and commerce. Great expansion or success. Far reaching power and influence. Powerful through the use of science.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Broadening the public Violence, freedom of violence in the public, power of science in the public Life, public Trade power, strong public success, and increasing public influence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Vulcanus = Apollon`: wholesale merchants, power of trade and commerce, great expansion or success, far reaching power and influence, and powerful through the use of science.
+- Practical expression: broadening the public Violence, freedom of violence in the public, power of science in the public Life, public Trade power, and strong public success.
 
 ## Links
 
@@ -61,3 +56,5 @@ Wholesale merchants. Power of trade and commerce. Great expansion or success. Fa
 - [Vulcanus](../factors/vulcanus.md)
 - [Apollon](../factors/apollon.md)
 - [Vernal Point/Vulcanus](../axes/vernal-point-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

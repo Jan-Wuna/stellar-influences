@@ -3,7 +3,7 @@ title: Sun/Zeus = Neptune
 page_type: activation
 slug: sun-zeus-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Neptune
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Zeus`
-- Source page: `113`
 #### Witte Entry
 
 Denial of procreation. Incompetent leader. Fraudulent leader. Leading into unexplored fields or territories. Fire departments.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Denial of procreation. Incompetent leader. Fraudulent leader. Leading into unexplored fields or territories. Fire departments.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Fire water for the man, achievements of a man in the Lull, practical objectives in metaphysics, personal efforts in the water, sensitivity of a creative person, start of a man in the air, and procreation weakness of a man
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Zeus = Neptune`: creative imagination and fiery inspiration.
+- Practical expression: fire water for the man, achievements of a man in the Lull, practical objectives in metaphysics, personal efforts in the water, and sensitivity of a creative person.
 
 ## Links
 
@@ -61,3 +56,5 @@ Denial of procreation. Incompetent leader. Fraudulent leader. Leading into unexp
 - [Zeus](../factors/zeus.md)
 - [Neptune](../factors/neptune.md)
 - [Sun/Zeus](../axes/sun-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

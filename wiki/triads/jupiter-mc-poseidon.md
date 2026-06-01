@@ -3,7 +3,7 @@ title: Jupiter MC Poseidon
 page_type: triad_hub
 slug: jupiter-mc-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter MC Poseidon`
 - Astronomicon triad-set: `V MC ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/MC = Poseidon](../activations/jupiter-mc-equals-poseidon.md)
-  Source page `65`
 - [Jupiter/Poseidon = MC](../activations/jupiter-poseidon-equals-mc.md)
-  Source page `218`
 - [MC/Poseidon = Jupiter](../activations/mc-poseidon-equals-jupiter.md)
-  Source page `77`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/MC = Poseidon`: page `65`
-- `Jupiter/Poseidon = MC`: page `218`
-- `MC/Poseidon = Jupiter`: page `77`
+- `Jupiter/MC = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `65`
+- `Jupiter/MC = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `75`
+- `Jupiter/Poseidon = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `218`
+- `Jupiter/Poseidon = MC`: Udo Rudolph - ABC for Planetary Pictures, page `346`
+- `MC/Poseidon = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `77`
+- `MC/Poseidon = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `98`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/MC = Poseidon`: mental happiness and good luck through a sensible, intelligent attitude.
+- `Jupiter/Poseidon = MC`: wisdom, intelligence, listening to conscience and reason, and the ability to judge right from wrong.
+- `MC/Poseidon = Jupiter`: blesses the axis with fortunate mentality and longing for wisdom.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [MC](../factors/mc.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

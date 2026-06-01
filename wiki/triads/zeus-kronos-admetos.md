@@ -3,7 +3,7 @@ title: Zeus Kronos Admetos
 page_type: triad_hub
 slug: zeus-kronos-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Kronos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Zeus Kronos Admetos`
 - Astronomicon triad-set: `£ ¤ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Kronos/Admetos = Zeus](../activations/kronos-admetos-equals-zeus.md)
-  Source page `300`
 - [Zeus/Admetos = Kronos](../activations/zeus-admetos-equals-kronos.md)
-  Source page `294`
 - [Zeus/Kronos = Admetos](../activations/zeus-kronos-equals-admetos.md)
-  Source page `290`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Kronos/Admetos = Zeus`: page `300`
-- `Zeus/Admetos = Kronos`: page `294`
-- `Zeus/Kronos = Admetos`: page `290`
+- `Kronos/Admetos = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `300`
+- `Kronos/Admetos = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `463`
+- `Zeus/Admetos = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `294`
+- `Zeus/Admetos = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `455`
+- `Zeus/Kronos = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `290`
+- `Zeus/Kronos = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `451`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Kronos/Admetos = Zeus`: a difficult beginning for a large undertaking within narrow bounds, a special order, or a commission tied to exceptional conditions such as war.
+- `Zeus/Admetos = Kronos`: To start something great. Changed conditions brought on by the government.
+- `Zeus/Kronos = Admetos`: Great creation on a limited scope. Competition among a few. To get a special commission. To be outstanding through special accomplishments. To appear as an odd character through ones behavior,.
 
 ## Links
 
 - [Zeus](../factors/zeus.md)
 - [Kronos](../factors/kronos.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

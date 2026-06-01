@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Kronos + Kronos`
-- Source page: `297`
 #### Witte Entry
 
 To be independent or outstanding in profession. To direct and accomplish something. Authority. Feeling of self-confident or grandeur. The own authority, greatness and skills. To fill an official position. An independent attitude. To reject the average. Authority bestowed by the state. An outstanding moment (minute).
 
-## Comparative Schema
-
-- core meaning: To be independent or outstanding in profession. To direct and accomplish something. Authority. Feeling of self-confident or grandeur. The own authority, greatness and skills. To fill an official position. An independent attitude. To reject the average. Authority bestowed by the state. An outstanding moment (minute).
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Kronos = MC`: independence in profession, official position, self-confidence in greatness, and an attitude that rejects the average in favor of recognized authority.
+- Chart expression: public stature, command of one's role, and a life direction shaped by rank, skill, and formal recognition.
 
 ## Links
 

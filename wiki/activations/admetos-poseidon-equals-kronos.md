@@ -3,7 +3,7 @@ title: Admetos/Poseidon = Kronos
 page_type: activation
 slug: admetos-poseidon-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Admetos
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Kronos
   - Admetos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Admetos + Poseidon`
-- Source page: `312`
 #### Witte Entry
 
 To be subjected to a special education or training. Specially gifted as trainer or teacher.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be subjected to a special education or training. Specially gifted as trainer or teacher.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special spiritual depth, blocked culture in the state, firmness through spiritual hierarchy, mental blockade by the state, underlining the spiritual authorship, deepening into the spiritual hierarchy, and deepening important insights
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Admetos/Poseidon = Kronos`: gifted teaching, specialized formation, and disciplined cultivation under recognized authority. Main caution: rarefied superiority: education can become hierarchical, severe, or detached from ordinary human development.
 
 ## Links
 
@@ -61,3 +55,5 @@ To be subjected to a special education or training. Specially gifted as trainer 
 - [Poseidon](../factors/poseidon.md)
 - [Kronos](../factors/kronos.md)
 - [Admetos/Poseidon](../axes/admetos-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

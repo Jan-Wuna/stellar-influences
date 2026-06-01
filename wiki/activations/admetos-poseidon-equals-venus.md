@@ -3,7 +3,7 @@ title: Admetos/Poseidon = Venus
 page_type: activation
 slug: admetos-poseidon-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Admetos
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Admetos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Admetos + Poseidon`
-- Source page: `312`
 #### Witte Entry
 
 Harmonious education. Balance of soul, mind and body. Harmony as essence of everything. The harmony of fine material things.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Harmonious education. Balance of soul, mind and body. Harmony as essence of everything. The harmony of fine material things.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Inflation of love through truth, deepening of peace knowledge, spiritual deepening of peace, profound clarity in love, profound love for truth, deep spiritual harmony, preference for spiritual deepening, and deepening in the arts and culture
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Admetos/Poseidon = Venus`: graceful formation, cultured feeling, and the harmonizing effect of true education on values and sensibility. Main caution: polished fragility: cultivation can become decorative, overly idealized, or disconnected from tougher realities.
 
 ## Links
 
@@ -61,3 +55,5 @@ Harmonious education. Balance of soul, mind and body. Harmony as essence of ever
 - [Poseidon](../factors/poseidon.md)
 - [Venus](../factors/venus.md)
 - [Admetos/Poseidon](../axes/admetos-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

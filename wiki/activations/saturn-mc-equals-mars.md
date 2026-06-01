@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Saturn`
-- Source page: `66`
 #### Witte Entry
 
 To work slowly. Not being able to work properly. To terminate or interrupt work. Sorrows brought on by one’s own actions. Suffering at work.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Saturn/Medium Coeli`
-- Source page: `263`
-- Entry: `0931`
+#### ABC Entry
+
+Work of a mature soul, patient soul work, my work tasks, my serious work, my patience at work, my hard work, my concentration on work, my problems at work, and loss of my work
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Lack of initiative and enterprise, tendency to be docile or to give in. Feeling 
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Saturn/Midheaven midpoint`
-- Source page: `95`
-- Activator: `Mars`
-
 #### Sandbach Entry
 
 To act in a careful and high-minded fashion. Working to gradually advance one self in one’s profession. To hold one’s actions in alignment with high ethical standards.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Increased personal effort and energy put into growing and developing self as a person; adds to the struggles and intensity of the battles you face; courage and stamina for coping with life’s various tests; a drive to succeed at work.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/MC = Mars`: tenacity, disciplined effort, and the ability to persist when outer life is demanding and unforgiving. Main caution: frustrated ambition: suppressed anger or excessive strain can turn work into bitterness, exhaustion, or open conflict.
 
 ## Links
 
@@ -84,7 +76,8 @@ To act in a careful and high-minded fashion. Working to gradually advance one se
 - [MC](../factors/mc.md)
 - [Mars](../factors/mars.md)
 - [Saturn/MC](../axes/saturn-mc.md)
-- [Mars Saturn MC](../triads/mars-saturn-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

@@ -33,30 +33,14 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mars/Chiron midpoint`
-- Source page: `69`
-- Activator: `Midheaven`
-
 #### Sandbach Entry
 
 One’s mission in this life is simply to do what needs to be done, and to base this on deeply listening to one’s spiritual self and then acting on its guidance.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Chiron = MC`: purposeful action, spiritually guided work, and a public role built around confronting what is wrong so it can be corrected. The caution is turning mission into compulsion or carrying too much responsibility for fixing everything.
 
 ## Links
 

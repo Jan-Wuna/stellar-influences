@@ -3,7 +3,7 @@ title: Neptune Kronos Apollon
 page_type: triad_hub
 slug: neptune-kronos-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Kronos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Neptune Kronos Apollon`
 - Astronomicon triad-set: `Y ¤ ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Kronos/Apollon = Neptune](../activations/kronos-apollon-equals-neptune.md)
-  Source page `299`
 - [Neptune/Apollon = Kronos](../activations/neptune-apollon-equals-kronos.md)
-  Source page `251`
 - [Neptune/Kronos = Apollon](../activations/neptune-kronos-equals-apollon.md)
-  Source page `250`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Kronos/Apollon = Neptune`: page `299`
-- `Neptune/Apollon = Kronos`: page `251`
-- `Neptune/Kronos = Apollon`: page `250`
+- `Kronos/Apollon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `299`
+- `Kronos/Apollon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `461`
+- `Neptune/Apollon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `251`
+- `Neptune/Apollon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `401`
+- `Neptune/Kronos = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `250`
+- `Neptune/Kronos = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `399`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Kronos/Apollon = Neptune`: the searcher, science moving into unknown fields, poorly defined expansion, and uncertainty in economic life.
+- `Neptune/Apollon = Kronos`: This activation elevates `Neptune/Apollon` through diplomatic deception, high-level failure, and authority in hidden or occult matters. It shows large uncertainty or fraud operating from above, where leadership and prestige meet illusion, secrecy, or esoteric command.
+- `Neptune/Kronos = Apollon`: This activation enlarges leadership failure into a collective experience, showing many people deceived by management and the broad spread of mistrust around those in charge.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [Kronos](../factors/kronos.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

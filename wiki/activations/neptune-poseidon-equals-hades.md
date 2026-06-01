@@ -3,7 +3,7 @@ title: Neptune/Poseidon = Hades
 page_type: activation
 slug: neptune-poseidon-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Hades
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Poseidon`
-- Source page: `254`
 #### Witte Entry
 
 False concept of the world caused by stupidity or stubbornness.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: False concept of the world caused by stupidity or stubbornness.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Disadvantage by mental weakness, danger by renunciation of Yemunft, lack of clear water, grief by truth vement, unclear ideas from the past, hidden metaphysical truth, and refinement of culture from the past
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Poseidon = Hades`: False concept of the world caused by stupidity or stubbornness.
+- Practical focus: darkens the axis into distorted worldview through dullness or stubbornness, where fine or spiritual perception is dragged into error by mental rigidity.
+- Practical expression: disadvantage by mental weakness, danger by renunciation of Yemunft, lack of clear water, grief by truth vement, and unclear ideas from the past.
 
 ## Links
 
@@ -61,3 +57,5 @@ False concept of the world caused by stupidity or stubbornness.
 - [Poseidon](../factors/poseidon.md)
 - [Hades](../factors/hades.md)
 - [Neptune/Poseidon](../axes/neptune-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Node Zeus Vulcanus
 page_type: triad_hub
 slug: node-zeus-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Zeus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Node Zeus Vulcanus`
 - Astronomicon triad-set: `g £ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Node/Vulcanus = Zeus](../activations/node-vulcanus-equals-zeus.md)
-  Source page `155`
 - [Node/Zeus = Vulcanus](../activations/node-zeus-equals-vulcanus.md)
-  Source page `151`
 - [Zeus/Vulcanus = Node](../activations/zeus-vulcanus-equals-node.md)
-  Source page `295`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Node/Vulcanus = Zeus`: page `155`
-- `Node/Zeus = Vulcanus`: page `151`
-- `Zeus/Vulcanus = Node`: page `295`
+- `Node/Vulcanus = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `155`
+- `Node/Vulcanus = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `237`
+- `Node/Zeus = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `151`
+- `Node/Zeus = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `229`
+- `Zeus/Vulcanus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `295`
+- `Zeus/Vulcanus = Node`: Udo Rudolph - ABC for Planetary Pictures, page `456`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Node/Vulcanus = Zeus`: Leading in a mighty connection. To be under the pressure or compulsion of a powerful organization. Threats.
+- `Node/Zeus = Vulcanus`: Several make a mighty effort. Great efforts together with others.
+- `Zeus/Vulcanus = Node`: To be exposed to the effects of great strength or power. To be connected with military things, machines, arms, or other implements.
 
 ## Links
 
 - [Node](../factors/node.md)
 - [Zeus](../factors/zeus.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,10 +3,10 @@ title: Saturn/Node = Zeus
 page_type: activation
 slug: saturn-node-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Saturn
+  - Node
   - Zeus
 normalized_formula: Saturn/Node = Zeus
 axis: Saturn/Node
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Node
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Saturn`
-- Source page: `145`
 #### Witte Entry
 
 To take leave from the parents or from the husband. Forced separation.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To take leave from the parents or from the husband. Forced separation.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Efforts in a patient connection, beginning of an ester connection, problematic procreation connection, mature achievements of a connection, separation of a creative connection, and lossful goal striving in a relationship
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Node = Zeus`: to take leave from the parents or from the husband, forced separation.
+- Practical expression: efforts in a patient connection, beginning of an ester connection, problematic procreation connection, mature achievements of a connection, and separation of a creative connection.
 
 ## Links
 
@@ -61,3 +56,5 @@ To take leave from the parents or from the husband. Forced separation.
 - [Node](../factors/node.md)
 - [Zeus](../factors/zeus.md)
 - [Saturn/Node](../axes/saturn-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

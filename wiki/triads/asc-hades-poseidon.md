@@ -3,7 +3,7 @@ title: Asc Hades Poseidon
 page_type: triad_hub
 slug: asc-hades-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Asc Hades Poseidon`
 - Astronomicon triad-set: `Asc ¢ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Hades = Poseidon](../activations/asc-hades-equals-poseidon.md)
-  Source page `92`
 - [Asc/Poseidon = Hades](../activations/asc-poseidon-equals-hades.md)
-  Source page `98`
 - [Hades/Poseidon = Asc](../activations/hades-poseidon-equals-asc.md)
-  Source page `286`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Hades = Poseidon`: page `92`
-- `Asc/Poseidon = Hades`: page `98`
-- `Hades/Poseidon = Asc`: page `286`
+- `Asc/Hades = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `92`
+- `Asc/Hades = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `125`
+- `Asc/Poseidon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `98`
+- `Asc/Poseidon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `137`
+- `Hades/Poseidon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `286`
+- `Hades/Poseidon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `448`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Hades = Poseidon`: a neighborhood or company with poor mental, educational, or spiritual quality.
+- `Asc/Poseidon = Hades`: contact with mediocre, confused, or spiritually unrefined people that drags down the ideal tone of the environment.
+- `Hades/Poseidon = Asc`: living inwardly in ways the environment does not understand, seeming incomprehensible, and being mentally isolated from others.
 
 ## Links
 
 - [Asc](../factors/asc.md)
 - [Hades](../factors/hades.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Sun/Node = Hades
 page_type: activation
 slug: sun-node-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Node
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Node
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Node`
-- Source page: `102`
 #### Witte Entry
 
 Physically disgusting and repulsive connections. To be taken ill. Relationships with rabble. To be threatened with imprisonment.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Physically disgusting and repulsive connections. To be taken ill. Relationships with rabble. To be threatened with imprisonment.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Old personal connections, difficult body contact, criminal human ties, adverse corporal relationships, personal relationships with Y, hidden human ties, and renunciation of personal relationships
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Node = Hades`: poor associations or suffering through connections.
+- Practical expression: old personal connections, difficult body contact, criminal human ties, adverse corporal relationships, and personal relationships with Y.
 
 ## Links
 
@@ -61,3 +56,5 @@ Physically disgusting and repulsive connections. To be taken ill. Relationships 
 - [Node](../factors/node.md)
 - [Hades](../factors/hades.md)
 - [Sun/Node](../axes/sun-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

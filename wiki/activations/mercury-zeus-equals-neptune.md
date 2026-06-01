@@ -3,7 +3,7 @@ title: Mercury/Zeus = Neptune
 page_type: activation
 slug: mercury-zeus-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Neptune
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Zeus`
-- Source page: `168`
 #### Witte Entry
 
 Secret agreements. Secret laws. Destructive or fruidess requests. Unable to command. Commands without effect.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Secret agreements. Secret laws. Destructive or fruidess requests. Unable to command. Commands without effect.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Talks about the achievements of water, creative language about metaphysics, creative thoughts about the future, weak thought performance, weak performance in youth, insecurity at the beginning of speech, the future of youth The development of a fiery language, the creative development of young people, and the thinking of learning
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Zeus = Neptune`: Secret agreements. Secret laws. Destructive or fruidess requests. Unable to command. Commands without effect.
+- Practical expression: talks about the achievements of water, creative language about metaphysics, creative thoughts about the future, weak thought performance, and weak performance in youth.
 
 ## Links
 
@@ -61,3 +56,5 @@ Secret agreements. Secret laws. Destructive or fruidess requests. Unable to comm
 - [Zeus](../factors/zeus.md)
 - [Neptune](../factors/neptune.md)
 - [Mercury/Zeus](../axes/mercury-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

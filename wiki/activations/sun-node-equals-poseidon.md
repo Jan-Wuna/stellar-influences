@@ -3,7 +3,7 @@ title: Sun/Node = Poseidon
 page_type: activation
 slug: sun-node-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Node
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Node
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Node`
-- Source page: `102`
 #### Witte Entry
 
 Intellectual connections or unions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Intellectual connections or unions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Relationships with people who are faithful, spiritual personal connections, clear connection to man, personal cultural connections, day of knowledge in a relationship, connection to a person who is insightful, and connections to a spiritual center
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Node = Poseidon`: spiritual association and truthful or idealistic bonds.
+- Practical expression: relationships with people who are faithful, spiritual personal connections, clear connection to man, personal cultural connections, and day of knowledge in a relationship.
 
 ## Links
 
@@ -61,3 +56,5 @@ Intellectual connections or unions.
 - [Node](../factors/node.md)
 - [Poseidon](../factors/poseidon.md)
 - [Sun/Node](../axes/sun-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

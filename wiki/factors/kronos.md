@@ -3,21 +3,22 @@ title: Kronos
 page_type: factor
 slug: kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
 aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Factor: Kronos
 - Astronomicon token: `¤`
-- Source factor chapter page: `29`
+- Canonical page type: comparative factor page grounded in standalone source entries.
 
 ## Source Entries
 
@@ -27,19 +28,18 @@ updated_at: 2026-04-21
 
 Above average. Independence. The executive power. Authority. State. Ruler. Chief. Important person. Head of the family. Manager. The independent. Personal independence. Masterful in a skill. Others are superior to the native.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Above average. Independence. The executive power. Authority. State. Ruler. Chief. Important person. Head of the family. Manager. The independent. Personal independence. Masterful in a skill. Others are superior to the native.
-- psychology: no separate source-native subdivision is present in the standalone factor chapter.
-- body/health: no separate source-native subdivision is present in the standalone factor chapter.
-- social/relationship: no separate source-native subdivision is present in the standalone factor chapter.
-- events/manifestations: browse related axis and activation pages for explicit formulas involving `Kronos`.
-- conflicts/notes: this page preserves the standalone factor chapter as sourced doctrine from Witte.
+#### ABC Keyword Entry
 
+Reputation, authority, GroBe, Hierarchic, Steering, State, Behorde, Chef, Dominance, Superiority, Priority, and Important
 
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-
+- `Kronos` is the factor of authority, reputation, rank, hierarchy, command, state power, and the formal structures that place someone above, in charge, or under the rule of superiors.
+- Chart expression: elevated position, mastery, official standing, priority, importance, self-esteem, and the capacity to govern, steer, or embody high status.
+- Its liabilities are authoritarianism, pride of rank, domination, rigid hierarchy, and dependence on permission or recognition from those above.
 
 ## Related Axes
 
@@ -66,15 +66,7 @@ Above average. Independence. The executive power. Authority. State. Ruler. Chief
 - [Vernal Point/Kronos](../axes/vernal-point-kronos.md)
 - [Zeus/Kronos](../axes/zeus-kronos.md)
 
-## Related Activations
-
-- Generated activation pages involving `Kronos`: `693`.
-- Browse [Index](../index.md) or the `wiki/activations/` folder for the full set.
-
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-
-## Open Questions
-
-
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

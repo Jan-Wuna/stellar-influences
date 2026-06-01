@@ -3,7 +3,7 @@ title: Vernal Point/Cupido = Neptune
 page_type: activation
 slug: vernal-point-cupido-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Neptune
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Cupido`
-- Source page: `48`
 #### Witte Entry
 
 Collapse of a corporation. Fraudulent banks or other institutions. Suppressed organizations.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Collapse of a corporation. Fraudulent banks or other institutions. Suppressed organizations.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+dissolution of public communities, foreign communities in public, shared public life by the water, shared future in public, weak public community, and uncertain community in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Cupido = Neptune`: collapse of a corporation, fraudulent banks or other institutions, and suppressed organizations.
+- Practical expression: shared public life by the water, shared future in public, weak public community, and uncertain community in public.
 
 ## Links
 
@@ -61,3 +56,5 @@ Collapse of a corporation. Fraudulent banks or other institutions. Suppressed or
 - [Cupido](../factors/cupido.md)
 - [Neptune](../factors/neptune.md)
 - [Vernal Point/Cupido](../axes/vernal-point-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

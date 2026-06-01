@@ -3,7 +3,7 @@ title: Uranus/Apollon = Vernal Point
 page_type: activation
 slug: uranus-apollon-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Uranus
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Apollon`
-- Source page: `240`
 #### Witte Entry
 
 The generality, in expectation of coming things, waits with tenseness for the decisions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The generality, in expectation of coming things, waits with tenseness for the decisions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Tension--expansion in the public sphere, technical successes in the public sphere, new knowledge for the general public, sudden experiences in the public life, unrest in the public trade, and economic recovery in the public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Apollon = Vernal Point`: The generality, in expectation of coming things, waits with tenseness for the decisions.
+- Practical expression: tension--expansion in the public sphere, technical successes in the public sphere, new knowledge for the general public, sudden experiences in the public life, and unrest in the public trade.
 
 ## Links
 
@@ -61,3 +56,5 @@ The generality, in expectation of coming things, waits with tenseness for the de
 - [Apollon](../factors/apollon.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Uranus/Apollon](../axes/uranus-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Moon/Hades = Mars
 page_type: activation
 slug: moon-hades-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Mars
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Hades`
-- Source page: `131`
 #### Witte Entry
 
 Active, poor, common woman. Activity full of worry and care.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Active, poor, common woman. Activity full of worry and care.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Work of an old woman, work service of a woman, dangerous activities of a people, GemOts Kummer in creating, secret actions of a woman, impulses of a woman from the past, criminal women's work, and a woman's renunciation of work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Hades = Mars`: Active, poor, common woman. Activity full of worry and care.
+- Practical expression: work of an old woman, work service of a woman, dangerous activities of a people, GemOts Kummer in creating, and secret actions of a woman.
 
 ## Links
 
@@ -61,3 +56,5 @@ Active, poor, common woman. Activity full of worry and care.
 - [Hades](../factors/hades.md)
 - [Mars](../factors/mars.md)
 - [Moon/Hades](../axes/moon-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

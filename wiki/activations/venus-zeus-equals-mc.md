@@ -3,7 +3,7 @@ title: Venus/Zeus = MC
 page_type: activation
 slug: venus-zeus-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - MC
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Zeus`
-- Source page: `184`
 #### Witte Entry
 
 Personal creation with devotion. The progenitor. The carrier of seed, the sower.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Personal creation with devotion. The progenitor. The carrier of seed, the sower.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+I strive for harmony, joy of a beautiful soul, my love fire, my joy of fire, my final goals, my achievements in the arts, and soul harrnonia aspire to
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Zeus = MC`: personal creation with devotion.
+- Practical expression: i strive for harmony, oy of a beautiful soul, my love fire, my joy of fire, and my final goals.
 
 ## Links
 
@@ -61,3 +56,5 @@ Personal creation with devotion. The progenitor. The carrier of seed, the sower.
 - [Zeus](../factors/zeus.md)
 - [MC](../factors/mc.md)
 - [Venus/Zeus](../axes/venus-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

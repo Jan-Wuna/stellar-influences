@@ -3,7 +3,7 @@ title: Vernal Point Mars Jupiter
 page_type: triad_hub
 slug: vernal-point-mars-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Mars
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Mars Jupiter`
 - Astronomicon triad-set: `VP U V`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Jupiter = Vernal Point](../activations/mars-jupiter-equals-vernal-point.md)
-  Source page `192`
 - [Vernal Point/Jupiter = Mars](../activations/vernal-point-jupiter-equals-mars.md)
-  Source page `43`
 - [Vernal Point/Mars = Jupiter](../activations/vernal-point-mars-equals-jupiter.md)
-  Source page `42`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Jupiter = Vernal Point`: page `192`
-- `Vernal Point/Jupiter = Mars`: page `43`
-- `Vernal Point/Mars = Jupiter`: page `42`
+- `Mars/Jupiter = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `192`
+- `Mars/Jupiter = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `298`
+- `Vernal Point/Jupiter = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `43`
+- `Vernal Point/Jupiter = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `34`
+- `Vernal Point/Mars = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `42`
+- `Vernal Point/Mars = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `32`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Jupiter = Vernal Point`: makes productive action broadly manifest, fruitful, and generally satisfying in the shared world.
+- `Vernal Point/Jupiter = Mars`: This formula emphasizes births, fruits, love-happiness of or with men, and successful acts.
+- `Vernal Point/Mars = Jupiter`: This formula emphasizes fortunate actions or deeds.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Mars](../factors/mars.md)
 - [Jupiter](../factors/jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

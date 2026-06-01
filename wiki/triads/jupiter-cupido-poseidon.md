@@ -3,7 +3,7 @@ title: Jupiter Cupido Poseidon
 page_type: triad_hub
 slug: jupiter-cupido-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Cupido Poseidon`
 - Astronomicon triad-set: `V ¡ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Poseidon = Jupiter](../activations/cupido-poseidon-equals-jupiter.md)
-  Source page `274`
 - [Jupiter/Cupido = Poseidon](../activations/jupiter-cupido-equals-poseidon.md)
-  Source page `211`
 - [Jupiter/Poseidon = Cupido](../activations/jupiter-poseidon-equals-cupido.md)
-  Source page `218`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Poseidon = Jupiter`: page `274`
-- `Jupiter/Cupido = Poseidon`: page `211`
-- `Jupiter/Poseidon = Cupido`: page `218`
+- `Cupido/Poseidon = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `274`
+- `Cupido/Poseidon = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `436`
+- `Jupiter/Cupido = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `211`
+- `Jupiter/Cupido = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `333`
+- `Jupiter/Poseidon = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `218`
+- `Jupiter/Poseidon = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `347`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Poseidon = Jupiter`: feeling well inside a spiritual, cultural, or philosophical group and gaining luck or success through it.
+- `Jupiter/Cupido = Poseidon`: familiar association with people of the same mental attitude, belief, or world concept.
+- `Jupiter/Poseidon = Cupido`: relations and associations with intelligent and reasonable people.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Cupido](../factors/cupido.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

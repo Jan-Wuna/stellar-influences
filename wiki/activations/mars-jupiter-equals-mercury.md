@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Jupiter`
-- Source page: `192`
 #### Witte Entry
 
 Thoughts of betrothal. The will to create something. Successful talks and speeches. Successful orator.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Mars/Jupiter`
-- Source page: `202`
-- Entry: `0689`
+#### ABC Entry
+
+Work law in language, working with youth law, successful language activity, successful work meeting, financial activity for youth, thoughts about work and money, good youth work, legal reports work, and beneficial thought work
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ A wealth of plans, organizing talent, prudence and circumspection, far-sightedne
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mars/Jupiter midpoint`
-- Source page: `67`
-- Activator: `Mercury`
-
 #### Sandbach Entry
 
 One says too much when one speaks. The ability to successfully argue with people, often in a way that causes both people to learn and to feel good about the ex change. Too many conflicting ideas in one’s mind. One who is assertive about getting the information one needs.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Efforts into more direct means of communicating; an energetic and enthusiastic speaker on subjects of foreign trade or religion; irritation with the way others present information; expressions or discourses on competitive sports.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Jupiter = Mercury`: persuasive speech, strategic organizing, fortunate negotiations, and the ability to think and act with momentum at the same time. Main caution: excess in expression: optimism and force can turn into overpromising, talking too much, or pushing ideas faster than they can be tested.
 
 ## Links
 
@@ -84,7 +76,8 @@ One says too much when one speaks. The ability to successfully argue with people
 - [Jupiter](../factors/jupiter.md)
 - [Mercury](../factors/mercury.md)
 - [Mars/Jupiter](../axes/mars-jupiter.md)
-- [Mercury Mars Jupiter](../triads/mercury-mars-jupiter.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

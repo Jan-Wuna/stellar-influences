@@ -3,7 +3,7 @@ title: Saturn Node Vulcanus
 page_type: triad_hub
 slug: saturn-node-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Node
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Node Vulcanus`
 - Astronomicon triad-set: `W g §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Node/Vulcanus = Saturn](../activations/node-vulcanus-equals-saturn.md)
-  Source page `155`
 - [Saturn/Node = Vulcanus](../activations/saturn-node-equals-vulcanus.md)
-  Source page `145`
 - [Saturn/Vulcanus = Node](../activations/saturn-vulcanus-equals-node.md)
-  Source page `230`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Node/Vulcanus = Saturn`: page `155`
-- `Saturn/Node = Vulcanus`: page `145`
-- `Saturn/Vulcanus = Node`: page `230`
+- `Node/Vulcanus = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `155`
+- `Node/Vulcanus = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `237`
+- `Saturn/Node = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `145`
+- `Saturn/Node = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `217`
+- `Saturn/Vulcanus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `230`
+- `Saturn/Vulcanus = Node`: Udo Rudolph - ABC for Planetary Pictures, page `366`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Node/Vulcanus = Saturn`: To be forced. To submit to force. Separation of a stable connection.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Node](../factors/node.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

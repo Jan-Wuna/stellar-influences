@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Cupido + Cupido`
-- Source page: `266`
 #### Witte Entry
 
 To be avoided or avoid others. Dissolution of an association. Solitude. Lonely places. Hermitage. To become a hermit. Monasticism. Monastery. End of being together with others.
 
-## Comparative Schema
-
-- core meaning: To be avoided or avoid others. Dissolution of an association. Solitude. Lonely places. Hermitage. To become a hermit. Monasticism. Monastery. End of being together with others.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Cupido = Admetos`: togetherness cooling into isolation, communal life ending, or a partnership or group becoming closed, remote, or deliberately withdrawn. Main caution: accepting loneliness as the final form of bond.
 
 ## Links
 

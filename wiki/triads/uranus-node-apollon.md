@@ -3,7 +3,7 @@ title: Uranus Node Apollon
 page_type: triad_hub
 slug: uranus-node-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Node
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Node Apollon`
 - Astronomicon triad-set: `X g ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Node/Apollon = Uranus](../activations/node-apollon-equals-uranus.md)
-  Source page `153`
 - [Uranus/Apollon = Node](../activations/uranus-apollon-equals-node.md)
-  Source page `240`
 - [Uranus/Node = Apollon](../activations/uranus-node-equals-apollon.md)
-  Source page `146`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Node/Apollon = Uranus`: page `153`
-- `Uranus/Apollon = Node`: page `240`
-- `Uranus/Node = Apollon`: page `146`
+- `Node/Apollon = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `153`
+- `Node/Apollon = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `233`
+- `Uranus/Apollon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `240`
+- `Uranus/Apollon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `382`
+- `Uranus/Node = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `146`
+- `Uranus/Node = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `219`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Node/Apollon = Uranus`: Sudden expansion of the freedom or of the sphere of activity. Connected suddenly with scientists and economists. Connections through scientific predictions.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Node](../factors/node.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

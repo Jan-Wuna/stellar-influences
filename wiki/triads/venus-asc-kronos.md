@@ -3,7 +3,7 @@ title: Venus Asc Kronos
 page_type: triad_hub
 slug: venus-asc-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Asc Kronos`
 - Astronomicon triad-set: `Q Asc ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Kronos = Venus](../activations/asc-kronos-equals-venus.md)
-  Source page `94`
 - [Venus/Asc = Kronos](../activations/venus-asc-equals-kronos.md)
-  Source page `84`
 - [Venus/Kronos = Asc](../activations/venus-kronos-equals-asc.md)
-  Source page `185`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Kronos = Venus`: page `94`
-- `Venus/Asc = Kronos`: page `84`
-- `Venus/Kronos = Asc`: page `185`
+- `Asc/Kronos = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `94`
+- `Asc/Kronos = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `128`
+- `Venus/Asc = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `84`
+- `Venus/Asc = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `109`
+- `Venus/Kronos = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `185`
+- `Venus/Kronos = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `288`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Kronos = Venus`: being liked as an official or employee and enjoying ease through hierarchical approval.
+- `Venus/Asc = Kronos`: to be desired as husband, as head of the family.
+- `Venus/Kronos = Asc`: acquaintances with charitable people.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Asc](../factors/asc.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

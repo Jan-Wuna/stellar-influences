@@ -3,7 +3,7 @@ title: Mars/Apollon = Kronos
 page_type: activation
 slug: mars-apollon-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Kronos
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Apollon`
-- Source page: `201`
 #### Witte Entry
 
 Independent work in science and commerce. Leading activity in science and trade.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Independent work in science and commerce. Leading activity in science and trade.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Expansion of self employed work, special impulses of science, successful work of the state, success will of the authorities, self employed scientific work, self confidence through economic success, and primary scientific activity
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Apollon = Kronos`: independent and leading activity in science, commerce, or trade and command over productive systems.
+- Chart expression: managerial initiative, authoritative work, and top-level coordination of broad enterprise.
 
 ## Links
 
@@ -61,3 +56,5 @@ Independent work in science and commerce. Leading activity in science and trade.
 - [Apollon](../factors/apollon.md)
 - [Kronos](../factors/kronos.md)
 - [Mars/Apollon](../axes/mars-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

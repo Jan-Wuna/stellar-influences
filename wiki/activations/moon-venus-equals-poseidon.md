@@ -3,7 +3,7 @@ title: Moon/Venus = Poseidon
 page_type: activation
 slug: moon-venus-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Venus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Venus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Venus`
-- Source page: `123`
 #### Witte Entry
 
 Refined love-feeling. Spiritual or platonic love of a woman. The hour of female insights.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Refined love-feeling. Spiritual or platonic love of a woman. The hour of female insights.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Knowledge joy of a woman, peace and culture of a people, harmony through clear feelings of culture feelings of a people, lovable spiritualized woman, love of a woman for ' truth, hour of spiritual harmony, and spiritualized women love
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Venus = Poseidon`: Refined love-feeling. Spiritual or platonic love of a woman. The hour of female insights.
+- Practical focus: spiritualizes `Moon/Venus` into refined feeling, platonic love, and subtle feminine insight. It favors affection expressed as delicacy, purity, or higher perception rather than raw possession or appetite.
+- Practical expression: knowledge joy of a woman, peace, culture of a people, harmony through clear feelings of culture feelings of a people, and lovable spiritualized woman.
 
 ## Links
 
@@ -61,3 +57,5 @@ Refined love-feeling. Spiritual or platonic love of a woman. The hour of female 
 - [Venus](../factors/venus.md)
 - [Poseidon](../factors/poseidon.md)
 - [Moon/Venus](../axes/moon-venus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

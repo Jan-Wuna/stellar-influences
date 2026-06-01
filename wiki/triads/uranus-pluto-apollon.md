@@ -3,7 +3,7 @@ title: Uranus Pluto Apollon
 page_type: triad_hub
 slug: uranus-pluto-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Pluto
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Pluto Apollon`
 - Astronomicon triad-set: `X Z ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Pluto/Apollon = Uranus](../activations/pluto-apollon-equals-uranus.md)
-  Source page `261`
 - [Uranus/Apollon = Pluto](../activations/uranus-apollon-equals-pluto.md)
-  Source page `240`
 - [Uranus/Pluto = Apollon](../activations/uranus-pluto-equals-apollon.md)
-  Source page `235`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Pluto/Apollon = Uranus`: page `261`
-- `Uranus/Apollon = Pluto`: page `240`
-- `Uranus/Pluto = Apollon`: page `235`
+- `Pluto/Apollon = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `261`
+- `Pluto/Apollon = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `417`
+- `Uranus/Apollon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `240`
+- `Uranus/Apollon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `383`
+- `Uranus/Pluto = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `235`
+- `Uranus/Pluto = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `373`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Pluto/Apollon = Uranus`: This activation emphasizes sudden change of the situation, or development with incisive consequences for the future.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Pluto](../factors/pluto.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

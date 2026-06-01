@@ -3,7 +3,7 @@ title: Moon/Pluto = Poseidon
 page_type: activation
 slug: moon-pluto-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Pluto
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Pluto`
-- Source page: `129`
 #### Witte Entry
 
 Change of mental attitude. Events caused by fast changes or mutations.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Change of mental attitude. Events caused by fast changes or mutations.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Development of a cultured woman, development of truth by a woman, mental development of woman, development of clarity of life, mental changes in the people, change of people's culture, and growing knowledge of a woman
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Pluto = Poseidon`: Change of mental attitude. Events caused by fast changes or mutations.
+- Practical focus: spiritualizes `Moon/Pluto` through rapid shifts in worldview, inner meaning, or mental attitude. It favors transformation at the level of perception and interpretation, making emotional change arrive through insight, realization, or altered consciousness.
+- Practical expression: development of a cultured woman, development of truth by a woman, mental development of woman, development of clarity of life, and mental changes in the people.
 
 ## Links
 
@@ -61,3 +57,5 @@ Change of mental attitude. Events caused by fast changes or mutations.
 - [Pluto](../factors/pluto.md)
 - [Poseidon](../factors/poseidon.md)
 - [Moon/Pluto](../axes/moon-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

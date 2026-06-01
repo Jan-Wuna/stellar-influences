@@ -3,7 +3,7 @@ title: Sun/Uranus = Kronos
 page_type: activation
 slug: sun-uranus-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Uranus
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Uranus`
-- Source page: `108`
 #### Witte Entry
 
 Sudden events taking place for the husband. Great excitement. Excitement through the father, superiors or authorities. To become a dictator.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sudden events taking place for the husband. Great excitement. Excitement through the father, superiors or authorities. To become a dictator.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special body tensions, dynamic man of the state, new head of personnel, leading man of technology, great tension center, personal excitement about the state, day of state refonnes, and important body rhythm
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Uranus = Kronos`: sudden authority and unexpected command.
+- Practical expression: special body tensions, dynamic man of the state, new head of personnel, leading man of technology, and great tension center.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sudden events taking place for the husband. Great excitement. Excitement through
 - [Uranus](../factors/uranus.md)
 - [Kronos](../factors/kronos.md)
 - [Sun/Uranus](../axes/sun-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

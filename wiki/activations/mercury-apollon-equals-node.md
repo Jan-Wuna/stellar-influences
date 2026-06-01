@@ -3,7 +3,7 @@ title: Mercury/Apollon = Node
 page_type: activation
 slug: mercury-apollon-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Node
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Apollon`
-- Source page: `170`
 #### Witte Entry
 
 Association with or among scientists. To unite in mental freedom. Able to speak free and openly.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Association with or among scientists. To unite in mental freedom. Able to speak free and openly.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Think of successful connections, learn 1-landels language, success through media connections, successful links to youth, successful traffic connections, contacts between youth and science, and increasing news connections
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Apollon = Node` socializes the axis into open mental fellowship and association with scientists.
+- Chart expression: joining others in free thought, speaking openly, and participating in communities built around ideas, research, or shared intellectual freedom.
 
 ## Links
 
@@ -61,3 +56,5 @@ Association with or among scientists. To unite in mental freedom. Able to speak 
 - [Apollon](../factors/apollon.md)
 - [Node](../factors/node.md)
 - [Mercury/Apollon](../axes/mercury-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Cupido/Kronos = Uranus
 page_type: activation
 slug: cupido-kronos-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Cupido
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Kronos`
-- Source page: `269`
 #### Witte Entry
 
 To be married. To find oneself suddenly in distinguished society. Great musicians and technicians. Sudden artistic product. An event of allied nations.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be married. To find oneself suddenly in distinguished society. Great musicians and technicians. Sudden artistic product. An event of allied nations.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Authorization of a technical community, special Rhythm us art, leadership of a rhythmic community, new reputation of a community, state reform community, unrest in a Fährungs-community, and important reforms for the community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Kronos = Uranus`: formal status, elite access, or institutional union arriving unexpectedly and changing one's social field quickly. Main caution: instability inside rank or prestige gained too suddenly to integrate well.
 
 ## Links
 
@@ -61,3 +55,5 @@ To be married. To find oneself suddenly in distinguished society. Great musician
 - [Kronos](../factors/kronos.md)
 - [Uranus](../factors/uranus.md)
 - [Cupido/Kronos](../axes/cupido-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

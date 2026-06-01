@@ -3,7 +3,7 @@ title: Vernal Point/Moon = Zeus
 page_type: activation
 slug: vernal-point-moon-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Moon
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Moon
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Moon`
-- Source page: `38`
 #### Witte Entry
 
 Expectant mother. Arming or rearming people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Expectant mother. Arming or rearming people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Fiery feelings in the public, driving woman in the public life, achievements of a people in the public, creative woman in the public life, goals of the milts of the world, and goals of a people in the public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Moon = Zeus`: expectant mother and arming or rearming people.
+- Practical expression: fiery feelings in the public, driving woman in the public life, achievements of a people in the public, creative woman in the public life, and goals of the milts of the world.
 
 ## Links
 
@@ -61,3 +56,5 @@ Expectant mother. Arming or rearming people.
 - [Moon](../factors/moon.md)
 - [Zeus](../factors/zeus.md)
 - [Vernal Point/Moon](../axes/vernal-point-moon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

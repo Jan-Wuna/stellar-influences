@@ -3,7 +3,7 @@ title: Neptune/Vulcanus = Asc
 page_type: activation
 slug: neptune-vulcanus-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Asc
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Vulcanus`
-- Source page: `253`
 #### Witte Entry
 
 To experience through others a great deception or disappointment. To be deprived through others of influence and power.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To experience through others a great deception or disappointment. To be deprived through others of influence and power.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+disappointing influence of the partner, subtle energies in the environment, negation of force by the partner, tremendous deception in the partner, place of power in the water, weak strength of the partner, strong intuition of the partner, and water power at a place
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Vulcanus = Asc`: To experience through others a great deception or disappointment. To be deprived through others of influence and power.
+- Practical focus: personalizes hidden pressure through others, often as disappointment, depletion, or loss of influence. It can show being undermined by external forces or feeling one's power and presence weakened through deceptive relationships.
+- Practical expression: disappointing influence of the partner, subtle energies in the environment, negation of force by the partner, tremendous deception in the partner, and place of power in the water.
 
 ## Links
 
@@ -61,3 +57,5 @@ To experience through others a great deception or disappointment. To be deprived
 - [Vulcanus](../factors/vulcanus.md)
 - [Asc](../factors/asc.md)
 - [Neptune/Vulcanus](../axes/neptune-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

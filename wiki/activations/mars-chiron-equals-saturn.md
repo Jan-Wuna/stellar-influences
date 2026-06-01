@@ -33,30 +33,14 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mars/Chiron midpoint`
-- Source page: `69`
-- Activator: `Saturn`
-
 #### Sandbach Entry
 
 The need to heal conflicts but potential difficulty in doing so, due to fear. The need to heal one’s fear of being assertive so that one can then create clear and effec tive boundaries.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Chiron = Saturn`: fear-based restraint, difficult healing work, and growth through learning how to act without collapsing into anxiety. Its constructive outcome is clear boundaries; its shadow is hesitation that prolongs the very conflict one wants to resolve.
 
 ## Links
 

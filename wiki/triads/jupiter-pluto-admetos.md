@@ -3,7 +3,7 @@ title: Jupiter Pluto Admetos
 page_type: triad_hub
 slug: jupiter-pluto-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Pluto Admetos`
 - Astronomicon triad-set: `V Z ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Admetos = Pluto](../activations/jupiter-admetos-equals-pluto.md)
-  Source page `216`
 - [Jupiter/Pluto = Admetos](../activations/jupiter-pluto-equals-admetos.md)
-  Source page `210`
 - [Pluto/Admetos = Jupiter](../activations/pluto-admetos-equals-jupiter.md)
-  Source page `262`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Admetos = Pluto`: page `216`
-- `Jupiter/Pluto = Admetos`: page `210`
-- `Pluto/Admetos = Jupiter`: page `262`
+- `Jupiter/Admetos = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `216`
+- `Jupiter/Admetos = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `343`
+- `Jupiter/Pluto = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `210`
+- `Jupiter/Pluto = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `331`
+- `Pluto/Admetos = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `262`
+- `Pluto/Admetos = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `418`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Admetos = Pluto`: the beginning of a deep fortunate transformation.
+- `Jupiter/Pluto = Admetos`: remaining calm in spite of fortunate change, or even ignoring or denying those changes.
+- `Pluto/Admetos = Jupiter`: This activation emphasizes the fortunate change of destiny; (Caution: Make sure that the natal Pluto is not found in negative pictures).
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Pluto](../factors/pluto.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

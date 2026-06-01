@@ -3,7 +3,7 @@ title: Zeus Admetos Poseidon
 page_type: triad_hub
 slug: zeus-admetos-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Admetos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Zeus Admetos Poseidon`
 - Astronomicon triad-set: `£ ¦ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Admetos/Poseidon = Zeus](../activations/admetos-poseidon-equals-zeus.md)
-  Source page `312`
 - [Zeus/Admetos = Poseidon](../activations/zeus-admetos-equals-poseidon.md)
-  Source page `294`
 - [Zeus/Poseidon = Admetos](../activations/zeus-poseidon-equals-admetos.md)
-  Source page `296`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Admetos/Poseidon = Zeus`: page `312`
-- `Zeus/Admetos = Poseidon`: page `294`
-- `Zeus/Poseidon = Admetos`: page `296`
+- `Admetos/Poseidon = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `312`
+- `Admetos/Poseidon = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `477`
+- `Zeus/Admetos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `294`
+- `Zeus/Admetos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `455`
+- `Zeus/Poseidon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `296`
+- `Zeus/Poseidon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `459`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Admetos/Poseidon = Zeus`: enforced training, examinations, and the active shaping of skill through challenge, discipline, and specialized instruction.
+- `Zeus/Admetos = Poseidon`: To start something new in intellectual respect. To demonstrate ones abilities and development in a test. To meet with changed conditions in the intellectual and ideological respect.
+- `Zeus/Poseidon = Admetos`: A creative mind that can see very deeply. To be noticed in a small circle right at the start for accomplishment.
 
 ## Links
 
 - [Zeus](../factors/zeus.md)
 - [Admetos](../factors/admetos.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

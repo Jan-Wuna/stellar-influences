@@ -3,7 +3,7 @@ title: Jupiter Pluto Kronos
 page_type: triad_hub
 slug: jupiter-pluto-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Pluto Kronos`
 - Astronomicon triad-set: `V Z ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Kronos = Pluto](../activations/jupiter-kronos-equals-pluto.md)
-  Source page `214`
 - [Jupiter/Pluto = Kronos](../activations/jupiter-pluto-equals-kronos.md)
-  Source page `210`
 - [Pluto/Kronos = Jupiter](../activations/pluto-kronos-equals-jupiter.md)
-  Source page `260`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Kronos = Pluto`: page `214`
-- `Jupiter/Pluto = Kronos`: page `210`
-- `Pluto/Kronos = Jupiter`: page `260`
+- `Jupiter/Kronos = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `214`
+- `Jupiter/Kronos = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `339`
+- `Jupiter/Pluto = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `210`
+- `Jupiter/Pluto = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `331`
+- `Pluto/Kronos = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `260`
+- `Pluto/Kronos = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `414`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Kronos = Pluto`: a great fortune on the way, mastery through repeated practice, and significant shifts in high finance.
+- `Jupiter/Pluto = Kronos`: fortunate development of abilities, successful examinations, positive change in government or leadership, and the successful completion of apprenticeship.
+- `Pluto/Kronos = Jupiter`: This activation emphasizes successful advancement; Growth in status, authority or capability.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Pluto](../factors/pluto.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

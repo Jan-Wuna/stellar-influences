@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Moon + Moon`
-- Source page: `119`
 #### Witte Entry
 
 Faith. Happy hours. The fortunate (happy) woman. The fortunate nation. Happiness of female persons. Contented woman or nation. Luck in public life. National justice and jurisdiction.
 
-## Comparative Schema
-
-- core meaning: Faith. Happy hours. The fortunate (happy) woman. The fortunate nation. Happiness of female persons. Contented woman or nation. Luck in public life. National justice and jurisdiction.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Moon = Jupiter`: Faith. Happy hours. The fortunate (happy) woman. The fortunate nation. Happiness of female persons. Contented woman or nation. Luck in public life. National justice and jurisdiction.
+- Practical focus: enlarges `Moon/Moon` through faith, happiness, and public or feminine good fortune. It points to contentment, fortunate women, lucky public life, and collective justice, so emotion becomes more trusting, generous, and supported by a sense that life can be benevolent.
 
 ## Links
 

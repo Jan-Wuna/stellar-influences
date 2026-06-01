@@ -3,7 +3,7 @@ title: Mercury/Mars = Vulcanus
 page_type: activation
 slug: mercury-mars-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Mars
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Mars
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Mars`
-- Source page: `160`
 #### Witte Entry
 
 Hasty and fast action, to conceive something fast. A penetrating voice heard loud and clear. Impressive speeches.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Hasty and fast action, to conceive something fast. A penetrating voice heard loud and clear. Impressive speeches.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influence of thought activity, influential youth work, powerful thought work, activating thought energies, youth violence actions, news about violence actions, strengthening written work, and activating word violence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Mars = Vulcanus` strengthens the axis into penetrating speech and rapid decisive force.
+- Chart expression: thinking quickly, acting fast, and using a voice or message with enough force to cut through clearly and make a strong impression.
 
 ## Links
 
@@ -61,3 +56,5 @@ Hasty and fast action, to conceive something fast. A penetrating voice heard lou
 - [Mars](../factors/mars.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Mercury/Mars](../axes/mercury-mars.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

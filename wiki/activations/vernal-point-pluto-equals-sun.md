@@ -3,7 +3,7 @@ title: Vernal Point/Pluto = Sun
 page_type: activation
 slug: vernal-point-pluto-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Sun
   - Pluto
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Pluto`
-- Source page: `47`
 #### Witte Entry
 
 The physical condition of the living body. Food intake of the body. Appetite. Digestion.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The physical condition of the living body. Food intake of the body. Appetite. Digestion.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+People who change the public, people who develop in the public life, man's development in the public, public development center, personal developments in the public, and day of change in the public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Pluto = Sun`: the physical condition of the living body, food intake of the body, appetite, and digestion.
+- Practical expression: people who change the public, people who develop in the public life, man's development in the public, public development center, and personal developments in the public.
 
 ## Links
 
@@ -61,3 +56,5 @@ The physical condition of the living body. Food intake of the body. Appetite. Di
 - [Pluto](../factors/pluto.md)
 - [Sun](../factors/sun.md)
 - [Vernal Point/Pluto](../axes/vernal-point-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

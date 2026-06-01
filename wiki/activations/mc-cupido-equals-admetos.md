@@ -3,7 +3,7 @@ title: MC/Cupido = Admetos
 page_type: activation
 slug: mc-cupido-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Cupido
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Cupido`
-- Source page: `70`
 #### Witte Entry
 
 Ones wishes in family or community are denied. To be avoided.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Ones wishes in family or community are denied. To be avoided.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Common Soul Blockade, I strengthen the community, I condense to synthesis, my resistance in the community, my depressions in the community, my limitations in the community, and my strengthening by the arts
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Cupido = Admetos` narrows the axis through denied belonging and frustrated communal wishes.
+- Chart expression: exclusion, social avoidance, and a life direction in which family or group aspirations are compressed, blocked, or left unfulfilled.
 
 ## Links
 
@@ -61,3 +56,5 @@ Ones wishes in family or community are denied. To be avoided.
 - [Cupido](../factors/cupido.md)
 - [Admetos](../factors/admetos.md)
 - [MC/Cupido](../axes/mc-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Mars Node Poseidon
 page_type: triad_hub
 slug: mars-node-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Node Poseidon`
 - Astronomicon triad-set: `U g ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Node = Poseidon](../activations/mars-node-equals-poseidon.md)
-  Source page `143`
 - [Mars/Poseidon = Node](../activations/mars-poseidon-equals-node.md)
-  Source page `204`
 - [Node/Poseidon = Mars](../activations/node-poseidon-equals-mars.md)
-  Source page `156`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Node = Poseidon`: page `143`
-- `Mars/Poseidon = Node`: page `204`
-- `Node/Poseidon = Mars`: page `156`
+- `Mars/Node = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `143`
+- `Mars/Node = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `213`
+- `Mars/Poseidon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `204`
+- `Mars/Poseidon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `322`
+- `Node/Poseidon = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `156`
+- `Node/Poseidon = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `238`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Node = Poseidon`: aligns common action around shared moral, spiritual, or ideological purpose.
+- `Mars/Poseidon = Node`: socializes the axis through connections built on ethics, ideas, and intellectual work.
+- `Node/Poseidon = Mars`: Connections gained through one’s own mental accomplishments.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Node](../factors/node.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

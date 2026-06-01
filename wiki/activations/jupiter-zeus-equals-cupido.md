@@ -3,7 +3,7 @@ title: Jupiter/Zeus = Cupido
 page_type: activation
 slug: jupiter-zeus-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Cupido
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Zeus`
-- Source page: `213`
 #### Witte Entry
 
 Successful activities of a community. Lucky establishment of a firm. The fortunate beginning in a new firm. Artistic activity.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Successful activities of a community. Lucky establishment of a firm. The fortunate beginning in a new firm. Artistic activity.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Efforts of a legal community, success of a creative community, success of a community, joint benefits through effort, happiness through the pursuit of a community, and achievements of a legal community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Zeus = Cupido`: successful collective activity, a lucky start in a company, and productive creation strengthened by belonging and shared purpose.
+- Chart expression: prosperous group work, artistic organization, and fortunate institutional beginnings.
 
 ## Links
 
@@ -61,3 +56,5 @@ Successful activities of a community. Lucky establishment of a firm. The fortuna
 - [Zeus](../factors/zeus.md)
 - [Cupido](../factors/cupido.md)
 - [Jupiter/Zeus](../axes/jupiter-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

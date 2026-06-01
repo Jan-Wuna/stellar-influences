@@ -3,7 +3,7 @@ title: Moon/Cupido = Node
 page_type: activation
 slug: moon-cupido-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Node
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Cupido`
-- Source page: `130`
 #### Witte Entry
 
 Connections leading to betrothal. Hours of leisure in company of others. Social connections with women or groups of people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Connections leading to betrothal. Hours of leisure in company of others. Social connections with women or groups of people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Meeting of the common forces, common forces connection, GemOts relations to the arts, contacts to women community, hour of a common union, connections to the people whole, and connections to the arts of the people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Cupido = Node`: Connections leading to betrothal. Hours of leisure in company of others. Social connections with women or groups of people.
+- Practical expression: meeting of the common forces, common forces connection, GemOts relations to the arts, contacts to women community, and hour of a common union.
 
 ## Links
 
@@ -61,3 +56,5 @@ Connections leading to betrothal. Hours of leisure in company of others. Social 
 - [Cupido](../factors/cupido.md)
 - [Node](../factors/node.md)
 - [Moon/Cupido](../axes/moon-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

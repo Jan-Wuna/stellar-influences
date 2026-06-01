@@ -3,7 +3,7 @@ title: Cupido/Hades = MC
 page_type: activation
 slug: cupido-hades-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Cupido
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Hades`
-- Source page: `267`
 #### Witte Entry
 
 Egoist. Individualist. To be part of a tragedy.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Egoist. Individualist. To be part of a tragedy.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+gctahrdcte Schele in of a community, I have the Community, my service in the Community, my disadvantage by the Community, spiritual community from the past, and mental distress of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Hades = MC`: a life direction marked by social heaviness, self-protective individualism, or a sense of belonging to misfortune. Main caution: building identity around grievance, exclusion, or tragedy.
 
 ## Links
 
@@ -61,3 +55,5 @@ Egoist. Individualist. To be part of a tragedy.
 - [Hades](../factors/hades.md)
 - [MC](../factors/mc.md)
 - [Cupido/Hades](../axes/cupido-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Mars/Poseidon = Saturn
 page_type: activation
 slug: mars-poseidon-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Saturn
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Poseidon`
-- Source page: `204`
 #### Witte Entry
 
 Obstacles in path of moral behavior or mental activity. Education interrupted. Unsuccessful in bringing up.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Obstacles in path of moral behavior or mental activity. Education interrupted. Unsuccessful in bringing up.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+serious mental activity, patient cultural work, hard mental work, more clearly concentrated will, concentrated mental work, creating problems through truth, loss of culture creating, and intense interruption of work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Poseidon = Saturn` obstructs moral action and interrupts mental or educational development.
+- Chart expression: barriers to ethical conduct, blocked or incomplete education, and difficulties in upbringing or in carrying higher principles into lived action.
 
 ## Links
 
@@ -61,3 +56,5 @@ Obstacles in path of moral behavior or mental activity. Education interrupted. U
 - [Poseidon](../factors/poseidon.md)
 - [Saturn](../factors/saturn.md)
 - [Mars/Poseidon](../axes/mars-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

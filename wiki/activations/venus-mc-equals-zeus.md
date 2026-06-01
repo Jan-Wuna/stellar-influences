@@ -3,10 +3,10 @@ title: Venus/MC = Zeus
 page_type: activation
 slug: venus-mc-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Venus
+  - MC
   - Zeus
 normalized_formula: Venus/MC = Zeus
 axis: Venus/MC
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - MC
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Venus`
-- Source page: `63`
 #### Witte Entry
 
 Wishing to be desired. The sower. To wish for progeny.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Wishing to be desired. The sower. To wish for progeny.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Beginning soul en harmony, I create love, I create goals, inner peace through performance, my fiery love, my harmonious movement, my creative wife, my love efforts, my creative arts, and my performance pleasure
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/MC = Zeus`: wishing to be desired.
+- Practical expression: beginning soul en harmony, i create love, i create goals, inner peace through performance, and my fiery love.
 
 ## Links
 
@@ -61,3 +56,5 @@ Wishing to be desired. The sower. To wish for progeny.
 - [MC](../factors/mc.md)
 - [Zeus](../factors/zeus.md)
 - [Venus/MC](../axes/venus-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

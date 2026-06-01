@@ -3,7 +3,7 @@ title: MC/Admetos = Venus
 page_type: activation
 slug: mc-admetos-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - MC
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Admetos`
-- Source page: `75`
 #### Witte Entry
 
 To be steadfast in one’s sympathies.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be steadfast in one’s sympathies.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+End of my love, I strengthen the harmony, my perseverance in love, my grild love, my artistic perseverance, my depression in love, my deepening into the artificial, my fondness for primordial substances, mental blockade through love, and deep psychic love
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Admetos = Venus` softens the axis only enough to make affections steady and durable.
+- Chart expression: fixed sympathies, faithful liking, and attachments that remain constant, serious, and resistant to change.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be steadfast in one’s sympathies.
 - [Admetos](../factors/admetos.md)
 - [Venus](../factors/venus.md)
 - [MC/Admetos](../axes/mc-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

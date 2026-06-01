@@ -3,7 +3,7 @@ title: Uranus/Neptune = Admetos
 page_type: activation
 slug: uranus-neptune-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Neptune
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Neptune`
-- Source page: `234`
 #### Witte Entry
 
 Prospecting for hidden earth treasures. To drill for them. Revolution on a small scale. Suppression of a revolt.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Prospecting for hidden earth treasures. To drill for them. Revolution on a small scale. Suppression of a revolt.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Restricted technical fine tuning, grim water technique, sudden blockage by water, technique in deep water, technical air y gasket, surprising release of a barrier, and lowering of subtle impulses
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Neptune = Admetos`: Prospecting for hidden earth treasures. To drill for them. Revolution on a small scale. Suppression of a revolt.
+- Practical expression: restricted technical fine tuning, grim water technique, sudden blockage by water, technique in deep water, and technical air y gasket.
 
 ## Links
 
@@ -61,3 +56,5 @@ Prospecting for hidden earth treasures. To drill for them. Revolution on a small
 - [Neptune](../factors/neptune.md)
 - [Admetos](../factors/admetos.md)
 - [Uranus/Neptune](../axes/uranus-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

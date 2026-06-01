@@ -3,7 +3,7 @@ title: Asc/Kronos = Poseidon
 page_type: activation
 slug: asc-kronos-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - Kronos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Kronos`
-- Source page: `94`
 #### Witte Entry
 
 As an official or employee dealing with intellectual or spiritual things
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: As an official or employee dealing with intellectual or spiritual things
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Other spiritual ienkens, prestigious cultural place, special spiritual place, spiritual hierarchy in the place, great clarity of the partner, state cultural place, strong guidance of the partner, and priority of the partner through insight
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Kronos = Poseidon`: administrative or subordinate roles tied to ideas, culture, or higher knowledge. Main caution: doctrinal obedience: thought and spirit may become subordinate to institution rather than genuinely free.
 
 ## Links
 
@@ -61,3 +55,5 @@ As an official or employee dealing with intellectual or spiritual things
 - [Kronos](../factors/kronos.md)
 - [Poseidon](../factors/poseidon.md)
 - [Asc/Kronos](../axes/asc-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

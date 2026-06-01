@@ -3,7 +3,7 @@ title: Node/Kronos = Saturn
 page_type: activation
 slug: node-kronos-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Node
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Kronos`
-- Source page: `152`
 #### Witte Entry
 
 Loss of position. Discharge from custody. Hindrances by the power of the state. To be under arrest. To receive notice.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Loss of position. Discharge from custody. Hindrances by the power of the state. To be under arrest. To receive notice.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Loss of reputation in a connection, special tasks in a connection, distanced relationship to the boss, concentration on the special in a relationship, problematic connection to the state, and loss of self confidence in a connection
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Kronos = Saturn`: Loss of position. Discharge from custody. Hindrances by the power of the state. To be under arrest. To receive notice.
+- Practical focus: loss of position; also discharge from custody.
+- In difficult expression, it can mark hindrances by the power of the state.
 
 ## Links
 
@@ -61,3 +57,5 @@ Loss of position. Discharge from custody. Hindrances by the power of the state. 
 - [Kronos](../factors/kronos.md)
 - [Saturn](../factors/saturn.md)
 - [Node/Kronos](../axes/node-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

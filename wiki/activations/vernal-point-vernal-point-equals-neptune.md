@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Vernal Point + Vernal Point`
-- Source page: `33`
 #### Witte Entry
 
 Daydreams. Disappointments. General poisonings. Blood poisoning. Deception, negation, confusion or dissolutions in the general public. Uncertainties of the general public. Uncertainties in general. Air or water of the world public.
 
-## Comparative Schema
-
-- core meaning: Daydreams. Disappointments. General poisonings. Blood poisoning. Deception, negation, confusion or dissolutions in the general public. Uncertainties of the general public. Uncertainties in general. Air or water of the world public.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Vernal Point = Neptune`: daydreams, disappointments, general poisonings, blood poisoning, and deception, negation, confusion or dissolutions in the general public.
 
 ## Links
 

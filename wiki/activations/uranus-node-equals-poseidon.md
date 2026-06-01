@@ -3,10 +3,10 @@ title: Uranus/Node = Poseidon
 page_type: activation
 slug: uranus-node-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Uranus
+  - Node
   - Poseidon
 normalized_formula: Uranus/Node = Poseidon
 axis: Uranus/Node
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Node
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Uranus`
-- Source page: `146`
 #### Witte Entry
 
 Connections through common mental efforts. Connections through common search for truth and understanding. Wanting to clear up something together with others.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Connections through common mental efforts. Connections through common search for truth and understanding. Wanting to clear up something together with others.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dynamics of a spirited relationship, spiritual reference connections, clear impulses in a connection, cultural events negate, new cultural connections, connections between mind and technology, and unrest through truth in a connection
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Node = Poseidon`: Connections through common mental efforts. Connections through common search for truth and understanding. Wanting to clear up something together with others.
+- Practical expression: dynamics of a spirited relationship, spiritual reference connections, clear impulses in a connection, cultural events negate, and new cultural connections.
 
 ## Links
 
@@ -61,3 +56,5 @@ Connections through common mental efforts. Connections through common search for
 - [Node](../factors/node.md)
 - [Poseidon](../factors/poseidon.md)
 - [Uranus/Node](../axes/uranus-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

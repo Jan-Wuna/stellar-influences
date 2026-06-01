@@ -3,10 +3,10 @@ title: Neptune/MC = Vernal Point
 page_type: activation
 slug: neptune-mc-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Neptune
+  - MC
   - Vernal Point
 normalized_formula: Neptune/MC = Vernal Point
 axis: Neptune/MC
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Neptune
   - MC
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Neptune`
-- Source page: `68`
 #### Witte Entry
 
 To arouse false notions. To deceive (defraud) many people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To arouse false notions. To deceive (defraud) many people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+My uncertainty in public, my premonitions for the public, my intuition in public life, my sensitivity in public, my deceptions in public life, and psychic weakness in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/MC = Vernal Point`: To arouse false notions. To deceive (defraud) many people.
+- Practical focus: externalizes false ideas into the public sphere, where many people are drawn into mistaken notions, fraud, or collective misperception.
+- Practical expression: my uncertainty in public, my premonitions for the public, my intuition in public life, my sensitivity in public, and my deceptions in public life.
 
 ## Links
 
@@ -61,3 +57,5 @@ To arouse false notions. To deceive (defraud) many people.
 - [MC](../factors/mc.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Neptune/MC](../axes/neptune-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

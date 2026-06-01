@@ -3,10 +3,10 @@ title: Moon/MC = Kronos
 page_type: activation
 slug: moon-mc-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Moon
+  - MC
   - Kronos
 normalized_formula: Moon/MC = Kronos
 axis: Moon/MC
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - MC
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Moon`
-- Source page: `60`
 #### Witte Entry
 
 One who possesses good mental qualities. Magnanimity. Generosity.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: One who possesses good mental qualities. Magnanimity. Generosity.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+The speciality of the female psyche, I feel self evident, my great people, my people have prestige, my wife owns authoritat, my great alms, my self esteemed wife, my priority alms, and a woman's spiritual grove
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/MC = Kronos`: One who possesses good mental qualities. Magnanimity. Generosity.
+- Practical focus: elevates `Moon/MC` through nobility of mind, generosity, and higher personal stature. It points to emotional selfhood supported by dignity and good judgment, making the person's public bearing more magnanimous, principled, and capable of guiding others from a larger view.
+- Practical expression: the speciality of the female psyche, i feel self evident, my great people, and my people have prestige.
 
 ## Links
 
@@ -61,3 +57,5 @@ One who possesses good mental qualities. Magnanimity. Generosity.
 - [MC](../factors/mc.md)
 - [Kronos](../factors/kronos.md)
 - [Moon/MC](../axes/moon-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

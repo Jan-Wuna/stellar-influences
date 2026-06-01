@@ -3,7 +3,7 @@ title: Mercury/Jupiter = Vulcanus
 page_type: activation
 slug: mercury-jupiter-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Jupiter
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Jupiter
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Jupiter`
-- Source page: `161`
 #### Witte Entry
 
 Constructive optimistic thinking. Huge financial transactions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Constructive optimistic thinking. Huge financial transactions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Energy through happy thinking, influential legal language, successful power of thinking, joy of youth in violence, joy over word violence, news about law and violence, and talk about the influence of money
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Jupiter = Vulcanus` strengthens the axis into forceful constructive optimism and large-scale transactions.
+- Chart expression: powerful positive thinking, confidence that can build materially, and expansive judgment applied to major financial or practical undertakings.
 
 ## Links
 
@@ -61,3 +56,5 @@ Constructive optimistic thinking. Huge financial transactions.
 - [Jupiter](../factors/jupiter.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Mercury/Jupiter](../axes/mercury-jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

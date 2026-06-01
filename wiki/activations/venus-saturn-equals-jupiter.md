@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Saturn`
-- Source page: `178`
 #### Witte Entry
 
 Happy for moments. Happiness of love with consequent separation.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Venus/Saturn`
-- Source page: `182`
-- Entry: `0607`
+#### ABC Entry
+
+Blicking old love, success in artistic tasks, success storing through love, peace success through patience, storene love happiness, happiness and harmony in old age, harmony storing through money, and concentration onright peace
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Preference for solitude, happiness in solitude. Desire to separate anew from ano
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Venus/Saturn midpoint`
-- Source page: `57`
-- Activator: `Jupiter`
-
 #### Sandbach Entry
 
 One takes a positive attitude toward the limitations encountered in life, and in general can be happy with simplicity and austerity. The desire to expand the depth of one’s relationships
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Increased enjoyment of the more modest pleasures of life; makes a simple life style more complicated and demanding; support and approval from areas or people which you may not have anticipated.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Saturn = Jupiter`: steady generosity, realistic optimism, and durable gains in love or finances built through patience and good judgment. Main caution: enjoyment can be moralized, delayed, or narrowed by fear, duty, or scarcity thinking.
 
 ## Links
 
@@ -84,7 +76,8 @@ One takes a positive attitude toward the limitations encountered in life, and in
 - [Saturn](../factors/saturn.md)
 - [Jupiter](../factors/jupiter.md)
 - [Venus/Saturn](../axes/venus-saturn.md)
-- [Venus Jupiter Saturn](../triads/venus-jupiter-saturn.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

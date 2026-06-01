@@ -3,7 +3,7 @@ title: Asc Hades Admetos
 page_type: triad_hub
 slug: asc-hades-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Asc Hades Admetos`
 - Astronomicon triad-set: `Asc ¢ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Admetos = Hades](../activations/asc-admetos-equals-hades.md)
-  Source page `96`
 - [Asc/Hades = Admetos](../activations/asc-hades-equals-admetos.md)
-  Source page `92`
 - [Hades/Admetos = Asc](../activations/hades-admetos-equals-asc.md)
-  Source page `284`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Admetos = Hades`: page `96`
-- `Asc/Hades = Admetos`: page `92`
-- `Hades/Admetos = Asc`: page `284`
+- `Asc/Admetos = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `96`
+- `Asc/Admetos = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `133`
+- `Asc/Hades = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `92`
+- `Asc/Hades = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `125`
+- `Hades/Admetos = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `284`
+- `Hades/Admetos = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `444`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Admetos = Hades`: a burdensome residence or environment in which weakness, ruin, or inferiority produces decay and unhappiness.
+- `Asc/Hades = Admetos`: a disagreeable environment that stays poor, burdened, or consistently weighed down by suffering people or places.
+- `Hades/Admetos = Asc`: connection with needy people and direct experience of cold, want, or harsh environmental pressure.
 
 ## Links
 
 - [Asc](../factors/asc.md)
 - [Hades](../factors/hades.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

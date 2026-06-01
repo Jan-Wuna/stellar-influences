@@ -3,7 +3,7 @@ title: Hades/Zeus = Vernal Point
 page_type: activation
 slug: hades-zeus-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Hades
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Zeus`
-- Source page: `277`
 #### Witte Entry
 
 Destructive fire for many. Malice, dirty tricks. Strike. Lock-outs. Lack of coal. Industry in general. General outbreaks of hate.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Destructive fire for many. Malice, dirty tricks. Strike. Lock-outs. Lack of coal. Industry in general. General outbreaks of hate.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+F.: our crime in the C) public, public service, lack of leadership in life, dangerous fire in public, lack of performance in public life, and lack of financial resources in public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Zeus = Vernal Point`: social life being marked by industrial disruption, public hostility, and mass destructive conditions. It can show the general climate becoming combustible.
 
 ## Links
 
@@ -61,3 +55,5 @@ Destructive fire for many. Malice, dirty tricks. Strike. Lock-outs. Lack of coal
 - [Zeus](../factors/zeus.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Hades/Zeus](../axes/hades-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

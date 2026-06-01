@@ -3,7 +3,7 @@ title: Node/Cupido = Kronos
 page_type: activation
 slug: node-cupido-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - Cupido
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Cupido`
-- Source page: `149`
 #### Witte Entry
 
 To go to the marriage official. Distinguished social connection. To mix socially with high minded persons or superiors.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To go to the marriage official. Distinguished social connection. To mix socially with high minded persons or superiors.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special links with the authorities, relations with self defense communities, dominance of an artist community, common ties with the state, links with a leading community, and important links with the whole
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Cupido = Kronos`: To go to the marriage official. Distinguished social connection. To mix socially with high minded persons or superiors.
+- Practical focus: to go to the marriage official; also distinguished social connection.
 
 ## Links
 
@@ -61,3 +56,5 @@ To go to the marriage official. Distinguished social connection. To mix socially
 - [Cupido](../factors/cupido.md)
 - [Kronos](../factors/kronos.md)
 - [Node/Cupido](../axes/node-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

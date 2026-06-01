@@ -3,7 +3,7 @@ title: Hades Kronos Apollon
 page_type: triad_hub
 slug: hades-kronos-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Kronos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Hades Kronos Apollon`
 - Astronomicon triad-set: `¢ ¤ ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Apollon = Kronos](../activations/hades-apollon-equals-kronos.md)
-  Source page `281`
 - [Hades/Kronos = Apollon](../activations/hades-kronos-equals-apollon.md)
-  Source page `279`
 - [Kronos/Apollon = Hades](../activations/kronos-apollon-equals-hades.md)
-  Source page `299`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Apollon = Kronos`: page `281`
-- `Hades/Kronos = Apollon`: page `279`
-- `Kronos/Apollon = Hades`: page `299`
+- `Hades/Apollon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `281`
+- `Hades/Apollon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `443`
+- `Hades/Kronos = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `279`
+- `Hades/Kronos = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `441`
+- `Kronos/Apollon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `299`
+- `Kronos/Apollon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `461`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Apollon = Kronos`: mass hardship caused by governmental incompetence and, on the other side, authority in history, magic, or occult science.
+- `Hades/Kronos = Apollon`: large-scale meanness, broad corruption, and the public detection of great lack or rot in government.
+- `Kronos/Apollon = Hades`: large-scale poverty or villainy, but also celebrity in antiquarian, historical, or old sciences.
 
 ## Links
 
 - [Hades](../factors/hades.md)
 - [Kronos](../factors/kronos.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

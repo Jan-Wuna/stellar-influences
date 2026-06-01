@@ -3,10 +3,10 @@ title: Mars/Node = Vernal Point
 page_type: activation
 slug: mars-node-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Mars
+  - Node
   - Vernal Point
 normalized_formula: Mars/Node = Vernal Point
 axis: Mars/Node
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Mars
   - Node
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Mars`
-- Source page: `143`
 #### Witte Entry
 
 Work-communities in general. Sexual unions in general.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Work-communities in general. Sexual unions in general.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+(i) to provide information and communication services to the public, to meet the public, to make contacts with the public, and to provide contacts with the public and to promote the public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Node = Vernal Point` makes cooperation and sexual or work-based union broadly visible and general.
+- Chart expression: work communities and sexual unions as public or widely shared human realities, emphasizing collective participation in active bonds.
 
 ## Links
 
@@ -61,3 +56,5 @@ Work-communities in general. Sexual unions in general.
 - [Node](../factors/node.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Mars/Node](../axes/mars-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

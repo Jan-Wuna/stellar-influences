@@ -3,21 +3,22 @@ title: Poseidon
 page_type: factor
 slug: poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Poseidon
 aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Factor: Poseidon
 - Astronomicon token: `¨`
-- Source factor chapter page: `29`
+- Canonical page type: comparative factor page grounded in standalone source entries.
 
 ## Source Entries
 
@@ -27,19 +28,18 @@ updated_at: 2026-04-21
 
 Mental power. Idea. Cognition. Understanding. Education. Deep thinking. Culture. Worldview. Water masses. Floods.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mental power. Idea. Cognition. Understanding. Education. Deep thinking. Culture. Worldview. Water masses. Floods.
-- psychology: no separate source-native subdivision is present in the standalone factor chapter.
-- body/health: no separate source-native subdivision is present in the standalone factor chapter.
-- social/relationship: no separate source-native subdivision is present in the standalone factor chapter.
-- events/manifestations: browse related axis and activation pages for explicit formulas involving `Poseidon`.
-- conflicts/notes: this page preserves the standalone factor chapter as sourced doctrine from Witte.
+#### ABC Keyword Entry
 
+Insight, Reason, Clarity, Truth, Wisdom, Knowledge, Mind, Enlightenment, Idea, and Culture
 
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-
+- `Poseidon` is the factor of insight, reason, clarity, truth, wisdom, knowledge, mind, enlightenment, idea, culture, and cultivated worldview.
+- Chart expression: education, deep thinking, refined cognition, spiritual or philosophical clarity, and the shaping power of ideas; Witte also gives large water masses and floods as concrete manifestations.
+- Its liabilities are abstraction without embodiment, cultured idealism that does not meet matter, and certainty that becomes detached from lived conditions.
 
 ## Related Axes
 
@@ -66,15 +66,7 @@ Mental power. Idea. Cognition. Understanding. Education. Deep thinking. Culture.
 - [Vulcanus/Poseidon](../axes/vulcanus-poseidon.md)
 - [Zeus/Poseidon](../axes/zeus-poseidon.md)
 
-## Related Activations
-
-- Generated activation pages involving `Poseidon`: `693`.
-- Browse [Index](../index.md) or the `wiki/activations/` folder for the full set.
-
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-
-## Open Questions
-
-
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

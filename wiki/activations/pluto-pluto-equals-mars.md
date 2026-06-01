@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Pluto + Pluto`
-- Source page: `255`
 #### Witte Entry
 
 Organizing. Planning. Plans. Duplicate, to copy, to repeat, to multiply. To lead, to supervise or to perform several activities at the same time. To divide, to split, to branch off. To work alternately at different tasks. To do different kinds of work. To work on schedule. Transformation and change in the activity in ones work and in the working conditions. Actively bring about change.
 
-## Comparative Schema
-
-- core meaning: Organizing. Planning. Plans. Duplicate, to copy, to repeat, to multiply. To lead, to supervise or to perform several activities at the same time. To divide, to split, to branch off. To work alternately at different tasks. To do different kinds of work. To work on schedule. Transformation and change in the activity in ones work and in the working conditions. Actively bring about change.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Pluto = Mars`: organizing; Planning; Plans; Duplicate, to copy, to repeat, to multiply; To lead, to supervise or to perform several activities at the same time.
 
 ## Links
 

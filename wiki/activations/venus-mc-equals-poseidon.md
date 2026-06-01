@@ -3,10 +3,10 @@ title: Venus/MC = Poseidon
 page_type: activation
 slug: venus-mc-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Venus
+  - MC
   - Poseidon
 normalized_formula: Venus/MC = Poseidon
 axis: Venus/MC
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - MC
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Venus`
-- Source page: `63`
 #### Witte Entry
 
 To revere and idolize something. Strong spiritual inclinations. Love which turns away from the worldly. Moment of calming of the ocean. -----------
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To revere and idolize something. Strong spiritual inclinations. Love which turns away from the worldly. Moment of calming of the ocean. -----------
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+My joy of knowledge, my love of the spiritual principle, my artistic ideas, I love the truth, inner harmony and clarity, harmonious spirit soul, my true love, my artist is cultural property, and true soul peace
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/MC = Poseidon`: to revere and idolize something.
+- Practical expression: my joy of knowledge, my love of the spiritual principle, my artistic ideas, i love the truth, and inner harmony.
 
 ## Links
 
@@ -61,3 +56,5 @@ To revere and idolize something. Strong spiritual inclinations. Love which turns
 - [MC](../factors/mc.md)
 - [Poseidon](../factors/poseidon.md)
 - [Venus/MC](../axes/venus-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

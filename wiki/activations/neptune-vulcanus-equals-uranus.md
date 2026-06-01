@@ -3,7 +3,7 @@ title: Neptune/Vulcanus = Uranus
 page_type: activation
 slug: neptune-vulcanus-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Neptune
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Vulcanus`
-- Source page: `253`
 #### Witte Entry
 
 To be suddenly suspended. To lose one’s freedom. To lose one’s liberty to act.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be suddenly suspended. To lose one’s freedom. To lose one’s liberty to act.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influenced future technology, energy emelting by air, subtle energy impulses, new energies by metaphysics, sudden insecurity by violence, rhythmic water force, strong unrest of water, and refinement of technical energy
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Vulcanus = Uranus`: To be suddenly suspended. To lose one’s freedom. To lose one’s liberty to act.
+- Freedom of action is abruptly cut off, indicating sudden suspension, enforced restraint, or a sharp loss of independence.
+- Practical expression: influenced future technology, energy emelting by air, subtle energy impulses, new energies by metaphysics, and sudden insecurity by violence.
 
 ## Links
 
@@ -61,3 +57,5 @@ To be suddenly suspended. To lose one’s freedom. To lose one’s liberty to ac
 - [Vulcanus](../factors/vulcanus.md)
 - [Uranus](../factors/uranus.md)
 - [Neptune/Vulcanus](../axes/neptune-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Node/Poseidon = Neptune
 page_type: activation
 slug: node-poseidon-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Node
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Poseidon`
-- Source page: `156`
 #### Witte Entry
 
 Relations to high minded people. Dissolution of present relations.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Relations to high minded people. Dissolution of present relations.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+disappointment in a spiritual connection, sensitivity in a spiritual relationship, ideal connection in the air, mediating clear water, cultural contacts for the future, and spiritual development in a connection
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Poseidon = Neptune`: Relations to high minded people. Dissolution of present relations.
+- Practical focus: relations to high minded people; also dissolution of present relations.
 
 ## Links
 
@@ -61,3 +56,5 @@ Relations to high minded people. Dissolution of present relations.
 - [Poseidon](../factors/poseidon.md)
 - [Neptune](../factors/neptune.md)
 - [Node/Poseidon](../axes/node-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

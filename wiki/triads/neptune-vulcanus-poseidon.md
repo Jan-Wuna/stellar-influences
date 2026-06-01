@@ -3,7 +3,7 @@ title: Neptune Vulcanus Poseidon
 page_type: triad_hub
 slug: neptune-vulcanus-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Vulcanus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Neptune Vulcanus Poseidon`
 - Astronomicon triad-set: `Y § ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Neptune/Poseidon = Vulcanus](../activations/neptune-poseidon-equals-vulcanus.md)
-  Source page `254`
 - [Neptune/Vulcanus = Poseidon](../activations/neptune-vulcanus-equals-poseidon.md)
-  Source page `253`
 - [Vulcanus/Poseidon = Neptune](../activations/vulcanus-poseidon-equals-neptune.md)
-  Source page `315`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Neptune/Poseidon = Vulcanus`: page `254`
-- `Neptune/Vulcanus = Poseidon`: page `253`
-- `Vulcanus/Poseidon = Neptune`: page `315`
+- `Neptune/Poseidon = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `254`
+- `Neptune/Poseidon = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `407`
+- `Neptune/Vulcanus = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `253`
+- `Neptune/Vulcanus = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `405`
+- `Vulcanus/Poseidon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `315`
+- `Vulcanus/Poseidon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `479`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Neptune/Poseidon = Vulcanus`: This activation intensifies spiritual or occult orientation into concentrated force. It can manifest as mighty delusion, overpowering belief, or major accomplishment in subtle, visionary, or esoteric pursuits.
+- `Neptune/Vulcanus = Poseidon`: Misrepresentation is intellectualized here, showing deception carried through false facts, distorted truth, or deliberately misleading narratives.
+- `Vulcanus/Poseidon = Neptune`: Degradation. Without respect or esteem. Disrespect or threat to prestige and honor. Degradation of respect and dignity.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

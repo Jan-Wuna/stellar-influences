@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Saturn Node`
 - Astronomicon triad-set: `Q W g`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,19 +40,27 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Saturn/Node = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `145`
+- `Saturn/Node = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `216`
 - `Saturn/Node = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `257`
 - `Saturn/Node = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `92`
+- `Saturn/Node = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `296`
 - `Venus/Node = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `142`
+- `Venus/Node = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `211`
 - `Venus/Node = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `193`
 - `Venus/Node = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `63`
+- `Venus/Node = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `212`
 - `Venus/Saturn = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `178`
+- `Venus/Saturn = Node`: Udo Rudolph - ABC for Planetary Pictures, page `274`
 - `Venus/Saturn = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `183`
 - `Venus/Saturn = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `57`
+- `Venus/Saturn = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `196`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Saturn/Node = Venus`: loyal but restrained attachment, with bonds shaped by seriousness, fidelity, and the wish to preserve relationship through steadiness rather than ease.
+- `Venus/Node = Saturn`: enduring but sober connection, with friendship and love shaped by duty, patience, and bonds that strengthen under pressure rather than ease.
+- `Venus/Saturn = Node`: restrained affection, serious love, and value tested through time, duty, and limitation made contractual, serious, and fate-tested.
 
 ## Links
 
@@ -59,5 +68,7 @@ updated_at: 2026-04-22
 - [Saturn](../factors/saturn.md)
 - [Node](../factors/node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

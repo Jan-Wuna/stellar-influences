@@ -10,16 +10,18 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Factor: Moon
 - Astronomicon token: `R`
-- Canonical page type: comparative factor page grounded in standalone source chapters.
+- Canonical page type: comparative factor page grounded in standalone source entries.
 
 ## Source Entries
 
@@ -29,10 +31,13 @@ updated_at: 2026-04-22
 
 Female persons. The people. The public. The hour. Changeable things. Function of the brain, the emotional state, the glands, the secretions and liquids of the body.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `The Moon`
-- Source page: `48`
+#### ABC Keyword Entry
+
+Woman, mother, feeling, emotional nature, hour, the people, and moving fluids
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -67,9 +72,6 @@ Mother, wife, family, nation, hereditary qualities or traits as a whole.
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `The Moon`
-- Source page: `56`
-
 #### Hand Factor Entry
 
 Along ^vith the Sun and Ascendant, it is agreed that the Moon is one of the centers of the chart. But when one reads astrological descriptions of the Moon, the core meaning is hard to grasp. Surface manifestations are given, but the central idea remains elusive. The Moon represents two basic archetypes. First, it is the archetype of the medium or container in which an energy may become manifest. It is also the archetype of the matrix, source, or origin of all things. Fundamentally, as we shall show, these two archetypes are really one. The glyph (the character by which a symbol is represented) of the Moon is a bowl on edge, facing either left or right (depending on whether one represents the Moon as waxing or waning). The glyph is obviously derived from the crescent-shaped form the Moon takes between the third quarter and the new moon, or the new moon and the first quarter. The bowl shape also suggests a container, which gives form to, limits, and helps define whatever it contains. This idea is central to an understanding of the Moon, but we must understand "container" in an expanded sense. We refer to the principle of containment, the idea of providing a surrounding, a location, a place, or an environment—a set of circumstances in which something may take place.
@@ -84,23 +86,104 @@ govern a larger portion of our activity than rational thought does, and they are
 
 To conclude this description of the Moon's symbolism, there is an important point to be made. We have already said that astrologers have seemed not to understand the Moon as well as the Sun, and not to accord it quite the same importance. This is due to something within our culture that has manifested as sexism, but which is in reality much deeper. Our culture has lost touch with the power of yin. We strive to go out into the world, to grab it by the throat, and thus to master it. We do not understand the way of waiting and of learning to fit in to become a part of the whole. The only role we completely respect is that of masteiy: of the universe, of nature, of circumstances, or of ourselves. The Moon represents the energy of an alternative path, that of becoming a part of, of belonging, of creative submission to that which we will gain nothing by mastering. It is not enough that the female sex gain political equality with the male if the yin principle does not also gain equality with the yang. Man as well as woman is yin, and both are yang. As long as we act as if the yin is not an equal principle, we face life as half-beings, incomplete and out of touch with nature. Through the study of astrological symbols it is possible to gain some appreciation of what being whole means.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native factor entries are preserved side by side above.
-- psychology: source-specific psychological and doctrinal emphases remain attached to their own source blocks instead of being flattened.
-- body/health: bodily wording remains inside each contributing source block when present.
-- social/relationship: interpersonal implications remain attached to each source's own phrasing.
-- events/manifestations: sign-position or chapter-level extensions remain attached to the source entry that states them.
-- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
+#### Basic Ideas
 
-## Contradictions and Framework Notes
+- Attitudes
+- Behavior
+- Caring
+- Collections
+- Compliance
+- Concern
+- Domesticity
+- Emotions
+- Fecundity
+- Feelings
+- Females
+- Fickleness
+- Harmony
+- Hesitation
+- Home
+- Imagination
+- Instinct
+- Instinctive Behavior
+- Intuition
+- Maternity
+- Melancholy
+- Nurturing
+- Obedience
+- Premonitions
+- Receptivity
+- Responses
+- Rhythm
+- Sentiments
+- Suspicions
+- Sympathy
+- Uncertainty
+- Vulnerability
+- Waywardness
 
-- Source differences on this factor page are preserved as framework emphasis rather than forced contradiction.
-- This page keeps the contributing source chapters side by side instead of treating one as a gloss on the other.
+#### In Your Relationships
 
+- Comfort, Needs for
+- Emotional State
+- Emotions
+- Mothering, Attitudes of
+- Partner, Intuition to
+- Romance
+
+#### With Body or Mind
+
+- Acid/Alkaline Balance
+- Body Fluids, Pressure of
+- Emotions
+- Eyesight
+- Female Organs
+- Fertility
+- Fungus Infections
+- Glandular System
+- Health, Condition of
+- Lymphatic System
+- Operations, Medical
+- Stomach
+- Subconscious
+- Ulcers
+- Water Levels
+
+#### In Politics or Business
+
+- Agriculture, Food
+- Concerns, Causes for
+- Crowds
+- Daily Routine
+- Desires
+- Family
+- Females
+- Home, Housing
+- Ideas, Popularity of
+- Ideologies
+- Land
+- Masses, The
+- Oceans, Lakes, etc.
+- Opinions
+- People
+- Population
+- Production
+- Real Estate
+- Styles
+- Symbols
+- Tradition
+- Water, Bodies of
+- Women, In General
+- Women, Attitude To
+
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon` is the factor of feeling, emotional nature, receptivity, memory, motherhood, the people, and the moving fluids through which life is received and made bodily or emotionally real.
+- Chart expression: instinct, habit, family, home, belonging, public mood, hourly fluctuation, and the unconscious response patterns that support or condition life.
+- Its liabilities are moodiness, dependency, overimpressionability, emotional reflex, clinging to comfort or the past, and fluctuation so strong that conscious direction is weakened.
 
 ## Related Axes
 
@@ -128,17 +211,10 @@ To conclude this description of the Moon's symbolism, there is an important poin
 - [Sun/Moon](../axes/sun-moon.md)
 - [Vernal Point/Moon](../axes/vernal-point-moon.md)
 
-## Related Activations
-
-- Generated activation pages involving `Moon`: `729`.
-- Browse [Index](../index.md) or the `wiki/activations/` folder for the full set.
-
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
-
-## Open Questions
-
-- None recorded yet.
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

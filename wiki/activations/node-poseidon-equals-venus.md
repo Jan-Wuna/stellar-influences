@@ -3,7 +3,7 @@ title: Node/Poseidon = Venus
 page_type: activation
 slug: node-poseidon-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Node
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Poseidon`
-- Source page: `156`
 #### Witte Entry
 
 Spiritually harmonious connections. Tied to people of the same religion.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Spiritually harmonious connections. Tied to people of the same religion.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Joy of cultural connections, spiritual beauty of a connection, harmonious culture mediation, ideal love relationship, artistic ideas combining, cultured spiritual connection, spiritualized love relationship, and impoverished peace mediation
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Poseidon = Venus`: Spiritually harmonious connections. Tied to people of the same religion.
+- Practical focus: spiritually harmonious connections; also tied to people of the same religion.
 
 ## Links
 
@@ -61,3 +56,5 @@ Spiritually harmonious connections. Tied to people of the same religion.
 - [Poseidon](../factors/poseidon.md)
 - [Venus](../factors/venus.md)
 - [Node/Poseidon](../axes/node-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

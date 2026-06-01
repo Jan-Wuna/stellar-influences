@@ -3,7 +3,7 @@ title: Uranus/Zeus = Poseidon
 page_type: activation
 slug: uranus-zeus-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Zeus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Zeus`
-- Source page: `238`
 #### Witte Entry
 
 To recognize a mental force. Creative impulses in the fields of knowledge.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To recognize a mental force. Creative impulses in the fields of knowledge.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Starting restlessness through honesty, dynamic spiritual filtration, spiritual leadership impulses, spiritual technical filtration, new mental direction, shaping new ideas, sudden testimony to truth, rhythmic cultural design, and technical cultural achievements
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Zeus = Poseidon`: To recognize a mental force. Creative impulses in the fields of knowledge.
+- Practical expression: starting restlessness through honesty, dynamic spiritual filtration, spiritual leadership impulses, spiritual technical filtration, and new mental direction.
 
 ## Links
 
@@ -61,3 +56,5 @@ To recognize a mental force. Creative impulses in the fields of knowledge.
 - [Zeus](../factors/zeus.md)
 - [Poseidon](../factors/poseidon.md)
 - [Uranus/Zeus](../axes/uranus-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

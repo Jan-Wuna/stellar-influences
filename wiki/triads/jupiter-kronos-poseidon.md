@@ -3,7 +3,7 @@ title: Jupiter Kronos Poseidon
 page_type: triad_hub
 slug: jupiter-kronos-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Kronos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Kronos Poseidon`
 - Astronomicon triad-set: `V ¤ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Kronos = Poseidon](../activations/jupiter-kronos-equals-poseidon.md)
-  Source page `214`
 - [Jupiter/Poseidon = Kronos](../activations/jupiter-poseidon-equals-kronos.md)
-  Source page `218`
 - [Kronos/Poseidon = Jupiter](../activations/kronos-poseidon-equals-jupiter.md)
-  Source page `302`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Kronos = Poseidon`: page `214`
-- `Jupiter/Poseidon = Kronos`: page `218`
-- `Kronos/Poseidon = Jupiter`: page `302`
+- `Jupiter/Kronos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `214`
+- `Jupiter/Kronos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `339`
+- `Jupiter/Poseidon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `218`
+- `Jupiter/Poseidon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `347`
+- `Kronos/Poseidon = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `302`
+- `Kronos/Poseidon = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `466`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Kronos = Poseidon`: happiness and good luck through the intelligence of superiors, chiefs, or government.
+- `Jupiter/Poseidon = Kronos`: right and successful leadership through sound judgment, the intelligent superior, and judicious government.
+- `Kronos/Poseidon = Jupiter`: happiness through agreement with superiors or institutions in cultural, spiritual, or high-minded matters.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Kronos](../factors/kronos.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

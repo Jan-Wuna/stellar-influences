@@ -3,7 +3,7 @@ title: Cupido/Vulcanus = Admetos
 page_type: activation
 slug: cupido-vulcanus-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Cupido
   - Admetos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Vulcanus`
-- Source page: `273`
 #### Witte Entry
 
 To go to the bottom of things, to the source of things. To be alone (single) at a mighty artistic creation and fighting against heavy resistance, under pressure.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To go to the bottom of things, to the source of things. To be alone (single) at a mighty artistic creation and fighting against heavy resistance, under pressure.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Perseverance and energy of a community, blocked violence community, common power limitation, resistance to violence communities, and power consolidation in of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Vulcanus = Admetos`: great communal or artistic force being forced inward into lonely persistence and hard resistance. Main caution: isolation turning power into grim endurance without living support.
 
 ## Links
 
@@ -61,3 +55,5 @@ To go to the bottom of things, to the source of things. To be alone (single) at 
 - [Vulcanus](../factors/vulcanus.md)
 - [Admetos](../factors/admetos.md)
 - [Cupido/Vulcanus](../axes/cupido-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

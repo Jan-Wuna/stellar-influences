@@ -3,7 +3,7 @@ title: Vernal Point/Saturn = Neptune
 page_type: activation
 slug: vernal-point-saturn-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Saturn
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Saturn
   - Neptune
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Saturn`
-- Source page: `44`
 #### Witte Entry
 
 Separation through sickness. Suspected infection. Quarantine. To end a state. To reject something definitively.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Separation through sickness. Suspected infection. Quarantine. To end a state. To reject something definitively.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dissolution of problems in public life, serious weakness in public, air burdens in public life, public water problems, public tasks of the future, and insecurity through public losses
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Saturn = Neptune`: separation through sickness, suspected infection, quarantine, to end a state, and to reject something definitively.
+- Practical expression: dissolution of problems in public life, serious weakness in public, air burdens in public life, public water problems, and public tasks of the future.
 
 ## Links
 
@@ -61,3 +56,5 @@ Separation through sickness. Suspected infection. Quarantine. To end a state. To
 - [Saturn](../factors/saturn.md)
 - [Neptune](../factors/neptune.md)
 - [Vernal Point/Saturn](../axes/vernal-point-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

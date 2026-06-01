@@ -3,7 +3,7 @@ title: Sun Hades Vulcanus
 page_type: triad_hub
 slug: sun-hades-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Hades Vulcanus`
 - Astronomicon triad-set: `S ¢ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Vulcanus = Sun](../activations/hades-vulcanus-equals-sun.md)
-  Source page `285`
 - [Sun/Hades = Vulcanus](../activations/sun-hades-equals-vulcanus.md)
-  Source page `112`
 - [Sun/Vulcanus = Hades](../activations/sun-vulcanus-equals-hades.md)
-  Source page `117`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Vulcanus = Sun`: page `285`
-- `Sun/Hades = Vulcanus`: page `112`
-- `Sun/Vulcanus = Hades`: page `117`
+- `Hades/Vulcanus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `285`
+- `Hades/Vulcanus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `446`
+- `Sun/Hades = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `112`
+- `Sun/Hades = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `161`
+- `Sun/Vulcanus = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `117`
+- `Sun/Vulcanus = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `171`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Vulcanus = Sun`: implication in filthy matters through others and shared exposure to great danger.
+- `Sun/Hades = Vulcanus`: This formula emphasizes a powerful disease and strong suffering.
+- `Sun/Vulcanus = Hades`: This formula emphasizes powerful disease, intense strain, or concentrated suffering.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Hades](../factors/hades.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

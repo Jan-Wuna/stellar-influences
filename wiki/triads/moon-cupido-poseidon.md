@@ -3,7 +3,7 @@ title: Moon Cupido Poseidon
 page_type: triad_hub
 slug: moon-cupido-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Cupido Poseidon`
 - Astronomicon triad-set: `R ¡ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Poseidon = Moon](../activations/cupido-poseidon-equals-moon.md)
-  Source page `274`
 - [Moon/Cupido = Poseidon](../activations/moon-cupido-equals-poseidon.md)
-  Source page `130`
 - [Moon/Poseidon = Cupido](../activations/moon-poseidon-equals-cupido.md)
-  Source page `138`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Poseidon = Moon`: page `274`
-- `Moon/Cupido = Poseidon`: page `130`
-- `Moon/Poseidon = Cupido`: page `138`
+- `Cupido/Poseidon = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `274`
+- `Cupido/Poseidon = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `436`
+- `Moon/Cupido = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `130`
+- `Moon/Cupido = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `193`
+- `Moon/Poseidon = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `138`
+- `Moon/Poseidon = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `207`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Poseidon = Moon`: occupying the mind spiritually during relaxation and encountering women or people who represent a worldview.
+- `Moon/Cupido = Poseidon`: Leisure hours devoted to spiritual enjoyment. To stay in company with people who ideologically favor the higher and finer qualities of the mind.
+- `Moon/Poseidon = Cupido`: Spiritual community. To be a member of a spiritual community. The audience.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Cupido](../factors/cupido.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Node/Cupido = Saturn
 page_type: activation
 slug: node-cupido-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Node
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Cupido`
-- Source page: `149`
 #### Witte Entry
 
 Dissolution of a betrothal. Breach of promise to marry. Loss in the family. Separation of a familiar or social connection.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Dissolution of a betrothal. Breach of promise to marry. Loss in the family. Separation of a familiar or social connection.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Contaminating of a community, patient encounter in of a community, concentration on the connection with the whole, problematic relations with the community, separation of connections in of a community, and connection with the serious artist
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Cupido = Saturn`: Dissolution of a betrothal. Breach of promise to marry. Loss in the family. Separation of a familiar or social connection.
+- Practical focus: dissolution of a betrothal; also breach of promise to marry.
 
 ## Links
 
@@ -61,3 +56,5 @@ Dissolution of a betrothal. Breach of promise to marry. Loss in the family. Sepa
 - [Cupido](../factors/cupido.md)
 - [Saturn](../factors/saturn.md)
 - [Node/Cupido](../axes/node-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

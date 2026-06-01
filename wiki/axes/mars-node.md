@@ -58,11 +58,12 @@ aliases:
   - Node/Mars
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -75,17 +76,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars/Dragon's Head`
-- Source page: `216`
-
 #### Pair Summary
 
 Working community. Concerted action. Betrothal. Sexual union. Erotic unions. Common action. Connected through work or activities. Joint activities.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Mars/Dragon's Head`
-- Source page: `216`
+#### ABC Pair Summary
+
+A work Trefften, work mediation, relationships aktivieren, Kontaktwant, wirdkraftige relationships, Verbindungs Impulse, and mediation activity
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -109,9 +110,6 @@ Associations of people working together to a common end or purpose.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mars/Node midpoint`
-- Source page: `74`
-
 #### Principle
 
 To do things with other people and/or with group. Forming connections with people with whom one ends up having conflicts. To evolve in this lifetime a greater effectiveness in doing things, as well as releasing anger and hostility so that one is freer to act. To need to find new ways of doing things and to overcome old, worn-out and ul timately inefficient ways of doing things.
@@ -122,17 +120,11 @@ The taking of initiative to bring needed changes into one’s life, and to evolv
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Mars/Nodes`
-- Source page: `208`
-
 #### Pair Delineation
 
 Involvement with workers in a common activity, either cooperative or conflicting. Involvement in sports.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `MARS/NODE`
-- Source page: `243`
 
 #### Basic Ideas
 
@@ -161,15 +153,6 @@ Tears and rips of the muscles or ligaments which hold any body tubes, like the i
 
 - [Michael Munkasey - Mars/Node Concepts](../derived/munkasey-mars-node-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Mars/Node = Admetos](../activations/mars-node-equals-admetos.md)
@@ -194,20 +177,18 @@ Tears and rips of the muscles or ligaments which hold any body tubes, like the i
 - [Mars/Node = Vulcanus](../activations/mars-node-equals-vulcanus.md)
 - [Mars/Node = Zeus](../activations/mars-node-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Node` is the axis of active collaboration, shared effort, and bonds formed through work, struggle, sex, or common action. It combines drive, competition, and physical initiative with association, alliance, and the need to do things with other people.
+- Chart expression: teamwork, comradeship, productive group action, social activism, and relationships energized by mutual effort or strong physical attraction. Liabilities: conflict within associations, sexualized or combative entanglements, impatience with group process, and partnerships that become battlegrounds over will, pace, or control.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Node](../factors/node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)

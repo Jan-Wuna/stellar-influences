@@ -3,7 +3,7 @@ title: Saturn Apollon Poseidon
 page_type: triad_hub
 slug: saturn-apollon-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Apollon
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Apollon Poseidon`
 - Astronomicon triad-set: `W ¥ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Apollon/Poseidon = Saturn](../activations/apollon-poseidon-equals-saturn.md)
-  Source page `308`
 - [Saturn/Apollon = Poseidon](../activations/saturn-apollon-equals-poseidon.md)
-  Source page `228`
 - [Saturn/Poseidon = Apollon](../activations/saturn-poseidon-equals-apollon.md)
-  Source page `231`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Apollon/Poseidon = Saturn`: page `308`
-- `Saturn/Apollon = Poseidon`: page `228`
-- `Saturn/Poseidon = Apollon`: page `231`
+- `Apollon/Poseidon = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `308`
+- `Apollon/Poseidon = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `473`
+- `Saturn/Apollon = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `228`
+- `Saturn/Apollon = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `363`
+- `Saturn/Poseidon = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `231`
+- `Saturn/Poseidon = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `369`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Apollon/Poseidon = Saturn`: a bond of similar formation or teaching, but also the possibility of separation from comrades and companions.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Apollon](../factors/apollon.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Pluto/Hades = Apollon
 page_type: activation
 slug: pluto-hades-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Hades
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Hades`
-- Source page: `258`
 #### Witte Entry
 
 An evil development which starts very small, grows and grows bigger.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: An evil development which starts very small, grows and grows bigger.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful developments from the past, poor development of knowledge, adverse changes in trade, extensive changes in old age, vie! changes under deprivation, and changes through experiences from the past
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Hades = Apollon`: an evil development which starts very small, grows and grows bigger.
+- Practical expression: successful developments from the past, poor development of knowledge, adverse changes in trade, extensive changes in old age, and vie! changes under deprivation.
 
 ## Links
 
@@ -61,3 +56,5 @@ An evil development which starts very small, grows and grows bigger.
 - [Hades](../factors/hades.md)
 - [Apollon](../factors/apollon.md)
 - [Pluto/Hades](../axes/pluto-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

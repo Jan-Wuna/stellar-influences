@@ -3,7 +3,7 @@ title: Saturn Asc Kronos
 page_type: triad_hub
 slug: saturn-asc-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Asc
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Asc Kronos`
 - Astronomicon triad-set: `W Asc ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Kronos = Saturn](../activations/asc-kronos-equals-saturn.md)
-  Source page `94`
 - [Saturn/Asc = Kronos](../activations/saturn-asc-equals-kronos.md)
-  Source page `87`
 - [Saturn/Kronos = Asc](../activations/saturn-kronos-equals-asc.md)
-  Source page `227`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Kronos = Saturn`: page `94`
-- `Saturn/Asc = Kronos`: page `87`
-- `Saturn/Kronos = Asc`: page `227`
+- `Asc/Kronos = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `94`
+- `Asc/Kronos = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `129`
+- `Saturn/Asc = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `87`
+- `Saturn/Asc = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `115`
+- `Saturn/Kronos = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `227`
+- `Saturn/Kronos = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `360`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Kronos = Saturn`: severe service conditions, blocked advancement, and changes in employment marked by cold authority.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Asc](../factors/asc.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

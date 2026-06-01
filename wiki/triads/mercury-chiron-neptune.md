@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Mercury Chiron Neptune`
 - Astronomicon triad-set: `T Chiron Y`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Mercury/Chiron = Neptune`: John, page `46`
 - `Mercury/Neptune = Chiron`: John, page `49`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Neptune = Mercury`: therapeutic communication, gentle insight, and words that help dissolve fear or haze. Main caution: vagueness or assuming implication is enough where clear language is needed.
+- `Mercury/Chiron = Neptune` diffuses the axis into imagination, subtle intuition, and quiet repair of rifts.
+- `Mercury/Neptune = Chiron` heals confusion by opening the mind to clear intuition.
 
 ## Links
 

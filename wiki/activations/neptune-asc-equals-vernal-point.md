@@ -3,10 +3,10 @@ title: Neptune/Asc = Vernal Point
 page_type: activation
 slug: neptune-asc-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Neptune
+  - Asc
   - Vernal Point
 normalized_formula: Neptune/Asc = Vernal Point
 axis: Neptune/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Neptune
   - Asc
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Neptune`
-- Source page: `89`
 #### Witte Entry
 
 Being involved in fraud. To be deceived by the general public at the door or upon the open street.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Being involved in fraud. To be deceived by the general public at the door or upon the open street.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Disappointed public environment, sensitive partner in public life, subtle public environment, public life of a foreign place, weak partner in public life, uncertain public environment, and water in the public environment
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Asc = Vernal Point`: Being involved in fraud. To be deceived by the general public at the door or upon the open street.
+- Practical focus: externalizes fraud into everyday contact, making deception part of the public atmosphere and exposing one to misleading or compromised encounters in open social life.
+- Practical expression: disappointed public environment, sensitive partner in public life, subtle public environment, public life of a foreign place, and weak partner in public life.
 
 ## Links
 
@@ -61,3 +57,5 @@ Being involved in fraud. To be deceived by the general public at the door or upo
 - [Asc](../factors/asc.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Neptune/Asc](../axes/neptune-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

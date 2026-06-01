@@ -3,7 +3,7 @@ title: Saturn/Zeus = Pluto
 page_type: activation
 slug: saturn-zeus-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Pluto
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Zeus`
-- Source page: `226`
 #### Witte Entry
 
 Slow development in activities, slow increase in accomplishments.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Slow development in activities, slow increase in accomplishments.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Community, fire losses of a community, fighting problems in of a community, patient efforts of a community, and common
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Zeus = Pluto`: slow development in activities, slow increase in accomplishments.
+- Practical expression: community, fire losses of a community, fighting problems in a community, patient efforts of a community, and common.
 
 ## Links
 
@@ -61,3 +56,5 @@ Slow development in activities, slow increase in accomplishments.
 - [Zeus](../factors/zeus.md)
 - [Pluto](../factors/pluto.md)
 - [Saturn/Zeus](../axes/saturn-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

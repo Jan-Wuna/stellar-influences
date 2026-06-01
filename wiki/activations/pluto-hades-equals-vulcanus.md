@@ -3,7 +3,7 @@ title: Pluto/Hades = Vulcanus
 page_type: activation
 slug: pluto-hades-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Hades
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Hades`
-- Source page: `258`
 #### Witte Entry
 
 A misfortune rarely comes along. Everything goes wrong. Going down at a rapid pace, in giant strides. Mighty deterioration of the situation.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A misfortune rarely comes along. Everything goes wrong. Going down at a rapid pace, in giant strides. Mighty deterioration of the situation.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influenced developments from the past, difficult change of power, dangerous development of power, huge changes under deprivation, adverse powerChanges, and growing criminal influence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Hades = Vulcanus`: powerful destructive change; A worsening situation gains force.
+- Practical expression: influenced developments from the past, difficult change of power, dangerous development of power, huge changes under deprivation, and adverse powerChanges.
 
 ## Links
 
@@ -61,3 +56,5 @@ A misfortune rarely comes along. Everything goes wrong. Going down at a rapid pa
 - [Hades](../factors/hades.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Pluto/Hades](../axes/pluto-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

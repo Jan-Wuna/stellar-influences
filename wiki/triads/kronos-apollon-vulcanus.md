@@ -3,7 +3,7 @@ title: Kronos Apollon Vulcanus
 page_type: triad_hub
 slug: kronos-apollon-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Apollon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Kronos Apollon Vulcanus`
 - Astronomicon triad-set: `¤ ¥ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Apollon/Vulcanus = Kronos](../activations/apollon-vulcanus-equals-kronos.md)
-  Source page `307`
 - [Kronos/Apollon = Vulcanus](../activations/kronos-apollon-equals-vulcanus.md)
-  Source page `299`
 - [Kronos/Vulcanus = Apollon](../activations/kronos-vulcanus-equals-apollon.md)
-  Source page `301`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Apollon/Vulcanus = Kronos`: page `307`
-- `Kronos/Apollon = Vulcanus`: page `299`
-- `Kronos/Vulcanus = Apollon`: page `301`
+- `Apollon/Vulcanus = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `307`
+- `Apollon/Vulcanus = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `471`
+- `Kronos/Apollon = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `299`
+- `Kronos/Apollon = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `461`
+- `Kronos/Vulcanus = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `301`
+- `Kronos/Vulcanus = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `465`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Apollon/Vulcanus = Kronos`: unusual success through outstanding ability, with power and prosperity rising to a distinguished level.
+- `Kronos/Apollon = Vulcanus`: the mighty recognized leader in science, commerce, or trade and great scientific success backed by power and impact.
+- `Kronos/Vulcanus = Apollon`: mighty authority over many, large peaceful state effort, and the reach of a great power acting through broad institutions or collective systems.
 
 ## Links
 
 - [Kronos](../factors/kronos.md)
 - [Apollon](../factors/apollon.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Mars Cupido Vulcanus
 page_type: triad_hub
 slug: mars-cupido-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Cupido Vulcanus`
 - Astronomicon triad-set: `U ¡ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Vulcanus = Mars](../activations/cupido-vulcanus-equals-mars.md)
-  Source page `273`
 - [Mars/Cupido = Vulcanus](../activations/mars-cupido-equals-vulcanus.md)
-  Source page `197`
 - [Mars/Vulcanus = Cupido](../activations/mars-vulcanus-equals-cupido.md)
-  Source page `203`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Vulcanus = Mars`: page `273`
-- `Mars/Cupido = Vulcanus`: page `197`
-- `Mars/Vulcanus = Cupido`: page `203`
+- `Cupido/Vulcanus = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `273`
+- `Cupido/Vulcanus = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `434`
+- `Mars/Cupido = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `197`
+- `Mars/Cupido = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `309`
+- `Mars/Vulcanus = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `203`
+- `Mars/Vulcanus = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `321`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Vulcanus = Mars`: mass weddings, proof of great artistic ability through action, work on a major creation, and communal power on display.
+- `Mars/Cupido = Vulcanus`: intensifies Mars/Cupido into powerful collective influence and potent cooperative effort.
+- `Mars/Vulcanus = Cupido`: pours exceptional force into family, community, art, and organization-building.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Cupido](../factors/cupido.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

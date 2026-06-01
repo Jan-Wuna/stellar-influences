@@ -3,7 +3,7 @@ title: Mercury Venus Hades
 page_type: triad_hub
 slug: mercury-venus-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Venus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Venus Hades`
 - Astronomicon triad-set: `T Q ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Hades = Venus](../activations/mercury-hades-equals-venus.md)
-  Source page `167`
 - [Mercury/Venus = Hades](../activations/mercury-venus-equals-hades.md)
-  Source page `159`
 - [Venus/Hades = Mercury](../activations/venus-hades-equals-mercury.md)
-  Source page `183`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Hades = Venus`: page `167`
-- `Mercury/Venus = Hades`: page `159`
-- `Venus/Hades = Mercury`: page `183`
+- `Mercury/Hades = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `167`
+- `Mercury/Hades = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `256`
+- `Mercury/Venus = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `159`
+- `Mercury/Venus = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `241`
+- `Venus/Hades = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `183`
+- `Venus/Hades = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `284`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Hades = Venus`: degrades the axis in love, taste, and social reputation.
+- `Mercury/Venus = Hades`: Acquaintance with vulgar things or base men. Bad manners. Rudeness. Unethical artistic occupation. Immoral performances. Preference for riches of the earth.
+- `Venus/Hades = Mercury`: to have one’s thoughts concentrated upon the service one is doing.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Venus](../factors/venus.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

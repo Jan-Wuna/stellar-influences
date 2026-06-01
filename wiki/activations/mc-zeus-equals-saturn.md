@@ -3,7 +3,7 @@ title: MC/Zeus = Saturn
 page_type: activation
 slug: mc-zeus-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - MC
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Zeus`
-- Source page: `72`
 #### Witte Entry
 
 Activities combined with hindrances, sorrows, money losses. Losses from inventions. Thefts to patents (infringements).
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Activities combined with hindrances, sorrows, money losses. Losses from inventions. Thefts to patents (infringements).
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+I create problems, I shape intensely, inner fire through perseverance, my goal is patience, my creativity in old age, my concentration on accomplishments, my procreation maturity, mature soul carriage, and pain of a fiery soul
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Zeus = Saturn` obstructs the axis with hindrances, sorrow, and costly frustration.
+- Chart expression: blocked work, invention burdened by losses or deprivation, and effort that must endure delay, discouragement, or financial damage before anything can hold.
 
 ## Links
 
@@ -61,3 +56,5 @@ Activities combined with hindrances, sorrows, money losses. Losses from inventio
 - [Zeus](../factors/zeus.md)
 - [Saturn](../factors/saturn.md)
 - [MC/Zeus](../axes/mc-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

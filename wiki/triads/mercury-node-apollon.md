@@ -3,7 +3,7 @@ title: Mercury Node Apollon
 page_type: triad_hub
 slug: mercury-node-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Node Apollon`
 - Astronomicon triad-set: `T g ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Apollon = Node](../activations/mercury-apollon-equals-node.md)
-  Source page `170`
 - [Mercury/Node = Apollon](../activations/mercury-node-equals-apollon.md)
-  Source page `141`
 - [Node/Apollon = Mercury](../activations/node-apollon-equals-mercury.md)
-  Source page `153`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Apollon = Node`: page `170`
-- `Mercury/Node = Apollon`: page `141`
-- `Node/Apollon = Mercury`: page `153`
+- `Mercury/Apollon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `170`
+- `Mercury/Apollon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `262`
+- `Mercury/Node = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `141`
+- `Mercury/Node = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `209`
+- `Node/Apollon = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `153`
+- `Node/Apollon = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `232`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Apollon = Node`: socializes the axis into open mental fellowship and association with scientists.
+- `Mercury/Node = Apollon`: expands the axis into wide exchange with scientists, commerce, and industry.
+- `Node/Apollon = Mercury`: To think of freedom. Free or far reaching thinking. Trade connections.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Node](../factors/node.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

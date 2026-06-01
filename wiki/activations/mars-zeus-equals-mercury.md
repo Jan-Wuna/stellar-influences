@@ -3,7 +3,7 @@ title: Mars/Zeus = Mercury
 page_type: activation
 slug: mars-zeus-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Mars
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Zeus`
-- Source page: `199`
 #### Witte Entry
 
 Energetic and creative thinking. Messages about military activities, rocket ignition, shooting or conflagrations.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Energetic and creative thinking. Messages about military activities, rocket ignition, shooting or conflagrations.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exhaustive work with the youth, work design for the youth, work objectives discuss, reports on work performance, fiery speech activity, thoughts on procreationacts, opinions on filthy work, and activity in youth welfare
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Zeus = Mercury` makes the axis mental, communicative, and technically articulate.
+- Chart expression: inventive thinking, active planning, and messages, calculations, or reports tied to conflict, machinery, ignition, or decisive operations.
 
 ## Links
 
@@ -61,3 +56,5 @@ Energetic and creative thinking. Messages about military activities, rocket igni
 - [Zeus](../factors/zeus.md)
 - [Mercury](../factors/mercury.md)
 - [Mars/Zeus](../axes/mars-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

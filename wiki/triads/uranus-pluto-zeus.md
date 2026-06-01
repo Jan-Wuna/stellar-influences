@@ -3,7 +3,7 @@ title: Uranus Pluto Zeus
 page_type: triad_hub
 slug: uranus-pluto-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Pluto
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Pluto Zeus`
 - Astronomicon triad-set: `X Z £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Pluto/Zeus = Uranus](../activations/pluto-zeus-equals-uranus.md)
-  Source page `259`
 - [Uranus/Pluto = Zeus](../activations/uranus-pluto-equals-zeus.md)
-  Source page `235`
 - [Uranus/Zeus = Pluto](../activations/uranus-zeus-equals-pluto.md)
-  Source page `238`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Pluto/Zeus = Uranus`: page `259`
-- `Uranus/Pluto = Zeus`: page `235`
-- `Uranus/Zeus = Pluto`: page `238`
+- `Pluto/Zeus = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `259`
+- `Pluto/Zeus = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `413`
+- `Uranus/Pluto = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `235`
+- `Uranus/Pluto = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `373`
+- `Uranus/Zeus = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `238`
+- `Uranus/Zeus = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `379`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Pluto/Zeus = Uranus`: This activation emphasizes the inner necessity for duty; To suddenly accept a duty by inner impulse and wholeheartedly perform it.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Pluto](../factors/pluto.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

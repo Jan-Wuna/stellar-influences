@@ -3,7 +3,7 @@ title: Vernal Point/Sun = Kronos
 page_type: activation
 slug: vernal-point-sun-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Sun
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Sun
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Sun`
-- Source page: `37`
 #### Witte Entry
 
 Physical capabilities. The leader of the people. Independence day. The mental (intellectual) leader.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Physical capabilities. The leader of the people. Independence day. The mental (intellectual) leader.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Authoritats person for the public, special person of the public life, public authorities center, self andige man in public life, state center for the public, and important people in public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Sun = Kronos`: physical capabilities, the leader of the people, independence day, and the mental (intellectual) leader.
+- Practical expression: special person of the public life, public authorities center, and state center for the public.
 
 ## Links
 
@@ -61,3 +56,5 @@ Physical capabilities. The leader of the people. Independence day. The mental (i
 - [Sun](../factors/sun.md)
 - [Kronos](../factors/kronos.md)
 - [Vernal Point/Sun](../axes/vernal-point-sun.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

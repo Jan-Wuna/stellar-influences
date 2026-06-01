@@ -3,7 +3,7 @@ title: Neptune/Kronos = Hades
 page_type: activation
 slug: neptune-kronos-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Hades
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Kronos`
-- Source page: `250`
 #### Witte Entry
 
 A firm or a leader ruined by misfortune. Catastrophe in the government.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A firm or a leader ruined by misfortune. Catastrophe in the government.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special expectations from the past, special danger in the water, great deprivations for the future, great unknown danger, great water shortage, disadvantages by a weak state, weak state servant, and hidden future relief
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Kronos = Hades`: A firm or a leader ruined by misfortune. Catastrophe in the government.
+- Practical focus: darkens authority into open ruin, bringing misfortune and catastrophe to firms, leaders, or governments already weakened by deception or failed control.
+- Practical expression: special expectations from the past, special danger in the water, great deprivations for the future, great unknown danger, and great water shortage.
 
 ## Links
 
@@ -61,3 +57,5 @@ A firm or a leader ruined by misfortune. Catastrophe in the government.
 - [Kronos](../factors/kronos.md)
 - [Hades](../factors/hades.md)
 - [Neptune/Kronos](../axes/neptune-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Saturn/Uranus = Vulcanus
 page_type: activation
 slug: saturn-uranus-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Uranus
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Uranus`
-- Source page: `221`
 #### Witte Entry
 
 To abandon one’s freedom, to betake oneself surprisingly to a dependent state. Captivity, captured and held in confinement.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To abandon one’s freedom, to betake oneself surprisingly to a dependent state. Captivity, captured and held in confinement.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Tasks of energy technology, violently stort rhythm, sudden loss of power, sudden losses by violence, tensions by power concentration, strong excitement by losses, stoppage of technology, and surprising separation from power
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Uranus = Vulcanus`: to abandon one’s freedom, to betake oneself surprisingly to a dependent state.
+- Practical expression: tasks of energy technology, sudden loss of power, sudden losses by violence, and tensions by power concentration.
 
 ## Links
 
@@ -61,3 +56,5 @@ To abandon one’s freedom, to betake oneself surprisingly to a dependent state.
 - [Uranus](../factors/uranus.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Saturn/Uranus](../axes/saturn-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Mars Node Kronos
 page_type: triad_hub
 slug: mars-node-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Node Kronos`
 - Astronomicon triad-set: `U g ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Kronos = Node](../activations/mars-kronos-equals-node.md)
-  Source page `200`
 - [Mars/Node = Kronos](../activations/mars-node-equals-kronos.md)
-  Source page `143`
 - [Node/Kronos = Mars](../activations/node-kronos-equals-mars.md)
-  Source page `152`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Kronos = Node`: page `200`
-- `Mars/Node = Kronos`: page `143`
-- `Node/Kronos = Mars`: page `152`
+- `Mars/Kronos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `200`
+- `Mars/Kronos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `314`
+- `Mars/Node = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `143`
+- `Mars/Node = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `213`
+- `Node/Kronos = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `152`
+- `Node/Kronos = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `230`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Kronos = Node`: socializes the axis through contact with independent people, officials, and institutional support.
+- `Mars/Node = Kronos`: elevates shared action toward large undertakings, authority, and paternal or ancestral lines of force.
+- `Node/Kronos = Mars`: Ones own activity results in contacts with the authorities. To be taken into custody. To be arrested.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Node](../factors/node.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

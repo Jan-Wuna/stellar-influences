@@ -3,7 +3,7 @@ title: Moon/Jupiter = Apollon
 page_type: activation
 slug: moon-jupiter-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Jupiter
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Jupiter
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Jupiter`
-- Source page: `125`
 #### Witte Entry
 
 The happy hours for many. Many happy women. Spreading of good fortune.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The happy hours for many. Many happy women. Spreading of good fortune.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Extension of a happy people, woman with vie! money, money trade in people, trade rights of a people, legal success of a woman, legal knowledge of a woman, state finance of a people, economic money of a woman, and increasing happiness's feeling
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Jupiter = Apollon`: The happy hours for many. Many happy women. Spreading of good fortune.
+- Practical focus: expands `Moon/Jupiter` outward into shared joy, public blessing, and emotional abundance that reaches many people. It points to good feeling that spreads through groups, families, or wider communities, so private contentment becomes generosity, popularity, or collective uplift.
+- Practical expression: extension of a happy people, woman with vie! money, money trade in people, trade rights of a people, and legal success of a woman.
 
 ## Links
 
@@ -61,3 +57,5 @@ The happy hours for many. Many happy women. Spreading of good fortune.
 - [Jupiter](../factors/jupiter.md)
 - [Apollon](../factors/apollon.md)
 - [Moon/Jupiter](../axes/moon-jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

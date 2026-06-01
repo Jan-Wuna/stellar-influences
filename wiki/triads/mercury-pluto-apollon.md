@@ -3,7 +3,7 @@ title: Mercury Pluto Apollon
 page_type: triad_hub
 slug: mercury-pluto-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Pluto Apollon`
 - Astronomicon triad-set: `T Z ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Apollon = Pluto](../activations/mercury-apollon-equals-pluto.md)
-  Source page `170`
 - [Mercury/Pluto = Apollon](../activations/mercury-pluto-equals-apollon.md)
-  Source page `165`
 - [Pluto/Apollon = Mercury](../activations/pluto-apollon-equals-mercury.md)
-  Source page `261`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Apollon = Pluto`: page `170`
-- `Mercury/Pluto = Apollon`: page `165`
-- `Pluto/Apollon = Mercury`: page `261`
+- `Mercury/Apollon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `170`
+- `Mercury/Apollon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `263`
+- `Mercury/Pluto = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `165`
+- `Mercury/Pluto = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `253`
+- `Pluto/Apollon = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `261`
+- `Pluto/Apollon = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `416`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Apollon = Pluto`: transforms the axis through mass discussion and changed views.
+- `Mercury/Pluto = Apollon`: To have to think of many things. Many change their minds.
+- `Pluto/Apollon = Mercury`: This activation emphasizes thoughts, opinions or debates about transformations and changes; To be under the influence of a great change.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Pluto](../factors/pluto.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

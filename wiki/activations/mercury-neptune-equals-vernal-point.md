@@ -3,7 +3,7 @@ title: Mercury/Neptune = Vernal Point
 page_type: activation
 slug: mercury-neptune-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Mercury
   - Neptune
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Neptune`
-- Source page: `164`
 #### Witte Entry
 
 Receptivity, uncertainty, or nonsense in general.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Receptivity, uncertainty, or nonsense in general.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Fn.:mde Languages in the public life, language about water in the public, public air traffic, unclear opinions in the public, future of youth in the public life, and future language in the public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Neptune = Vernal Point` externalizes the axis as general receptivity, uncertainty, or nonsense.
+- Chart expression: the public spread of porous feeling, unclear perception, and messages that can just as easily become receptive insight as drift into confusion or empty talk.
 
 ## Links
 
@@ -61,3 +56,5 @@ Receptivity, uncertainty, or nonsense in general.
 - [Neptune](../factors/neptune.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Mercury/Neptune](../axes/mercury-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

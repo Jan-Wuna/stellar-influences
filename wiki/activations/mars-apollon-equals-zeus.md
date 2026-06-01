@@ -3,7 +3,7 @@ title: Mars/Apollon = Zeus
 page_type: activation
 slug: mars-apollon-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Zeus
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Apollon`
-- Source page: `201`
 #### Witte Entry
 
 Scientific creations. Technicians. Technical products.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Scientific creations. Technicians. Technical products.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Efforted scientific activity, successful procreation activity, leading business activity, filthy work in the economy, creative scientific work, extensive work performances, increased will performances, and determined peace work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Apollon = Zeus`: scientific inventions, technicians, and the making of technical products.
+- Chart expression: engineering, applied science, and productive creation that turns active knowledge into tangible output.
 
 ## Links
 
@@ -61,3 +56,5 @@ Scientific creations. Technicians. Technical products.
 - [Apollon](../factors/apollon.md)
 - [Zeus](../factors/zeus.md)
 - [Mars/Apollon](../axes/mars-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

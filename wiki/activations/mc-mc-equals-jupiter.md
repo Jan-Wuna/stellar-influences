@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `MC + MC`
-- Source page: `56`
 #### Witte Entry
 
 Blissful feelings. To be positive of one’s own direction in life. An optimist. To be well-wishing and benevolent. Harmless, good natured or contented. To feel ^aPPy* Reach one s own goals with luck and success. The own attitude to money. Moment of happiness.
 
-## Comparative Schema
-
-- core meaning: Blissful feelings. To be positive of one’s own direction in life. An optimist. To be well-wishing and benevolent. Harmless, good natured or contented. To feel ^aPPy* Reach one s own goals with luck and success. The own attitude to money. Moment of happiness.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/MC = Jupiter` blesses the axis with optimism, benevolence, and success in life direction.
+- Chart expression: happy feelings, confidence in one's path, contentment, generosity, and a self that reaches its aims through good fortune, goodwill, and success.
 
 ## Links
 

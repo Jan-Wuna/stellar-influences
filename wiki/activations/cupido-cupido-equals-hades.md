@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Cupido + Cupido`
-- Source page: `266`
 #### Witte Entry
 
 Paupers. Marriage in poverty. Low and vile company. Egoism. Individualism. Poor societies or associations. Unfortunate firms. Sad environment. Storage of supply. To stock. To hoard. Collection of antiques. Museums. Socially low surroundings. Coarse art. Unsuccessful art. Poor family. Sad social circumstances. Dirty, lowbrow art, and bad art productions.
 
-## Comparative Schema
-
-- core meaning: Paupers. Marriage in poverty. Low and vile company. Egoism. Individualism. Poor societies or associations. Unfortunate firms. Sad environment. Storage of supply. To stock. To hoard. Collection of antiques. Museums. Socially low surroundings. Coarse art. Unsuccessful art. Poor family. Sad social circumstances. Dirty, lowbrow art, and bad art productions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Cupido = Hades`: marriage or association under strain, shame, want, decay, or unhappy surroundings. Main caution: settling into degraded conditions and mistaking endurance for health.
 
 ## Links
 

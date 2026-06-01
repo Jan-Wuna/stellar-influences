@@ -3,7 +3,7 @@ title: Moon/Hades = Pluto
 page_type: activation
 slug: moon-hades-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Pluto
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Hades`
-- Source page: `131`
 #### Witte Entry
 
 P Sterility of the wife. Paralyzed by fear. Failing people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: P Sterility of the wife. Paralyzed by fear. Failing people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Developments from the past of a people, dangerous development for cine woman, development of felony deficiency, criminal developments in cinem people, renunciation of a woman for change, growing need of a people, and change of a serving woman
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Hades = Pluto`: P Sterility of the wife. Paralyzed by fear. Failing people.
+- Practical expression: developments from the past of a people, development of felony deficiency, and renunciation of a woman for change.
 
 ## Links
 
@@ -61,3 +56,5 @@ P Sterility of the wife. Paralyzed by fear. Failing people.
 - [Hades](../factors/hades.md)
 - [Pluto](../factors/pluto.md)
 - [Moon/Hades](../axes/moon-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,10 +3,10 @@ title: Mercury/MC = Vulcanus
 page_type: activation
 slug: mercury-mc-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Mercury
+  - MC
   - Vulcanus
 normalized_formula: Mercury/MC = Vulcanus
 axis: Mercury/MC
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - MC
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Mercury`
-- Source page: `62`
 #### Witte Entry
 
 ^c° l^ corriPrehension. A quick mind. An abundance of ideas. One’s own power of thought. To make strong comments.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: ^c° l^ corriPrehension. A quick mind. An abundance of ideas. One’s own power of thought. To make strong comments.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influence of animated thoughts, influence of my thoughts, I write about violence, I think of violence, powerful language of the soul, my energetic speaking, my thought energy, my thoughts are strong, and my strength in youth
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/MC = Vulcanus` strengthens the axis into quick comprehension and forceful commentary.
+- Chart expression: a fast mind, abundance of ideas, strong thought-power, and the ability to make emphatic observations that carry unusual mental force.
 
 ## Links
 
@@ -61,3 +56,5 @@ updated_at: 2026-04-21
 - [MC](../factors/mc.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Mercury/MC](../axes/mercury-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

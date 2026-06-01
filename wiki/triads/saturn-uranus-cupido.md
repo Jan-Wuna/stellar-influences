@@ -3,7 +3,7 @@ title: Saturn Uranus Cupido
 page_type: triad_hub
 slug: saturn-uranus-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Uranus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Uranus Cupido`
 - Astronomicon triad-set: `W X ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Saturn/Cupido = Uranus](../activations/saturn-cupido-equals-uranus.md)
-  Source page `224`
 - [Saturn/Uranus = Cupido](../activations/saturn-uranus-equals-cupido.md)
-  Source page `221`
 - [Uranus/Cupido = Saturn](../activations/uranus-cupido-equals-saturn.md)
-  Source page `236`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Saturn/Cupido = Uranus`: page `224`
-- `Saturn/Uranus = Cupido`: page `221`
-- `Uranus/Cupido = Saturn`: page `236`
+- `Saturn/Cupido = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `224`
+- `Saturn/Cupido = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `355`
+- `Saturn/Uranus = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `221`
+- `Saturn/Uranus = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `349`
+- `Uranus/Cupido = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `236`
+- `Uranus/Cupido = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `375`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Saturn/Cupido = Uranus`: to part suddenly from a community, to be suddenly connected with a community, but for the time being only.
+- `Saturn/Uranus = Cupido`: quick termination of matrimony, suspension of clubs and associations.
+- `Uranus/Cupido = Saturn`: Suddenly separated marriage or union.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Uranus](../factors/uranus.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Cupido/Kronos = Venus
 page_type: activation
 slug: cupido-kronos-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Cupido
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Kronos`
-- Source page: `269`
 #### Witte Entry
 
 A great sense for beauty. To harmonize and agree with great artists or leading people. Pleasant social intercourse in distinguished circles. Legally permitted love. Great artistic talent.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A great sense for beauty. To harmonize and agree with great artists or leading people. Pleasant social intercourse in distinguished circles. Legally permitted love. Great artistic talent.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special beauty of the artist, dominance of joy in of a community, joint artistic direction, common preference for the artist, harmony in a state community, artistic authorship for of a community, and important peace community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Kronos = Venus`: high communal life becoming graceful, refined, and relationally smooth, often through art, beauty, and socially accepted love. Main caution: elegance masking dependency on approval or rank.
 
 ## Links
 
@@ -61,3 +55,5 @@ A great sense for beauty. To harmonize and agree with great artists or leading p
 - [Kronos](../factors/kronos.md)
 - [Venus](../factors/venus.md)
 - [Cupido/Kronos](../axes/cupido-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Neptune Cupido Poseidon
 page_type: triad_hub
 slug: neptune-cupido-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Neptune Cupido Poseidon`
 - Astronomicon triad-set: `Y ¡ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Poseidon = Neptune](../activations/cupido-poseidon-equals-neptune.md)
-  Source page `274`
 - [Neptune/Cupido = Poseidon](../activations/neptune-cupido-equals-poseidon.md)
-  Source page `247`
 - [Neptune/Poseidon = Cupido](../activations/neptune-poseidon-equals-cupido.md)
-  Source page `254`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Poseidon = Neptune`: page `274`
-- `Neptune/Cupido = Poseidon`: page `247`
-- `Neptune/Poseidon = Cupido`: page `254`
+- `Cupido/Poseidon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `274`
+- `Cupido/Poseidon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `437`
+- `Neptune/Cupido = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `247`
+- `Neptune/Cupido = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `393`
+- `Neptune/Poseidon = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `254`
+- `Neptune/Poseidon = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `407`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Poseidon = Neptune`: visible breakdown inside a spiritual or cultural group and the exposure of false teaching.
+- `Neptune/Cupido = Poseidon`: This activation spiritualizes or ideologizes communal dissolution, showing entertainment, cultural, political, or esoteric groups that lose coherence, fail in purpose, or dissolve under unclear ideals.
+- `Neptune/Poseidon = Cupido`: This activation communalizes spiritualized mentality through refined or occult associations, artistic gathering, and shared aesthetic or metaphysical interests.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [Cupido](../factors/cupido.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

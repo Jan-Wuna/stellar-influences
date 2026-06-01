@@ -3,7 +3,7 @@ title: Vernal Point/Apollon = Hades
 page_type: activation
 slug: vernal-point-apollon-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Hades
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Apollon`
-- Source page: `52`
 #### Witte Entry
 
 Widespread deficiencies. Dealers in junk or waste. The science of history.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Widespread deficiencies. Dealers in junk or waste. The science of history.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+expansion of public service, endangered freedom in public life, secret trade in public, public experiences from the past, hidden knowledge in public life, and economic criminality in public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Apollon = Hades`: widespread deficiencies, dealers in junk or waste, and the science of history.
+- Practical expression: expansion of public service, endangered freedom in public life, secret trade in public, public experiences from the past, and hidden knowledge in public life.
 
 ## Links
 
@@ -61,3 +56,5 @@ Widespread deficiencies. Dealers in junk or waste. The science of history.
 - [Apollon](../factors/apollon.md)
 - [Hades](../factors/hades.md)
 - [Vernal Point/Apollon](../axes/vernal-point-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

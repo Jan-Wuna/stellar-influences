@@ -3,7 +3,7 @@ title: Neptune Kronos Poseidon
 page_type: triad_hub
 slug: neptune-kronos-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Kronos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Neptune Kronos Poseidon`
 - Astronomicon triad-set: `Y ¤ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Kronos/Poseidon = Neptune](../activations/kronos-poseidon-equals-neptune.md)
-  Source page `302`
 - [Neptune/Kronos = Poseidon](../activations/neptune-kronos-equals-poseidon.md)
-  Source page `250`
 - [Neptune/Poseidon = Kronos](../activations/neptune-poseidon-equals-kronos.md)
-  Source page `254`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Kronos/Poseidon = Neptune`: page `302`
-- `Neptune/Kronos = Poseidon`: page `250`
-- `Neptune/Poseidon = Kronos`: page `254`
+- `Kronos/Poseidon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `302`
+- `Kronos/Poseidon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `467`
+- `Neptune/Kronos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `250`
+- `Neptune/Kronos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `399`
+- `Neptune/Poseidon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `254`
+- `Neptune/Poseidon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `407`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Kronos/Poseidon = Neptune`: following mistaken spiritual or intellectual belief, where truth and error stand dangerously close together.
+- `Neptune/Kronos = Poseidon`: This activation spiritualizes authority through refined ideals and mental elevation, yet also shows refusal of intellectual leadership or failure to sustain it in practice.
+- `Neptune/Poseidon = Kronos`: This activation elevates spiritualized uncertainty into grand pretension, where one projects great importance or higher insight without sufficient reality behind the appearance.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [Kronos](../factors/kronos.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

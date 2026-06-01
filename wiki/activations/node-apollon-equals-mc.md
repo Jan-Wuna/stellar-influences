@@ -3,7 +3,7 @@ title: Node/Apollon = MC
 page_type: activation
 slug: node-apollon-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - MC
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Apollon`
-- Source page: `153`
 #### Witte Entry
 
 To feel free. Mental and emotional experience with many. To be connected with many in science or business.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To feel free. Mental and emotional experience with many. To be connected with many in science or business.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Achievement of a secondary education, my close links, my contact experiences, my connections to the I findcl, my connections to the knowledge, my psychic experiences in a connection, my communication of my contacts, and the transfer of my knowledge
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Apollon = MC`: To feel free. Mental and emotional experience with many. To be connected with many in science or business.
+- Practical focus: to feel free; also mental and emotional experience with many.
 
 ## Links
 
@@ -61,3 +56,5 @@ To feel free. Mental and emotional experience with many. To be connected with ma
 - [Apollon](../factors/apollon.md)
 - [MC](../factors/mc.md)
 - [Node/Apollon](../axes/node-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: MC/Poseidon = Zeus
 page_type: activation
 slug: mc-poseidon-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Zeus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Poseidon`
-- Source page: `77`
 #### Witte Entry
 
 To enforce mentally. To mentally prove or compel something. To affirm (testify) the truth. To demonstrate something.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To enforce mentally. To mentally prove or compel something. To affirm (testify) the truth. To demonstrate something.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+My spiritual goal, my vemilnftige aspiration, my efforts for psychic clarity, my spiritual guidance, my cultural design, my creative ideas, my truth witnessing, achievements of soul and spirit, and striving for clarity of soul
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Poseidon = Zeus` directs the axis toward mental enforcement, proof, and demonstration of truth.
+- Chart expression: using ideas actively, compelling or testifying to truth, and turning thought into purposeful assertion, demonstration, or intellectual command.
 
 ## Links
 
@@ -61,3 +56,5 @@ To enforce mentally. To mentally prove or compel something. To affirm (testify) 
 - [Poseidon](../factors/poseidon.md)
 - [Zeus](../factors/zeus.md)
 - [MC/Poseidon](../axes/mc-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

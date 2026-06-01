@@ -3,7 +3,7 @@ title: Mars/Pluto = Apollon
 page_type: activation
 slug: mars-pluto-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Pluto
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Pluto`
-- Source page: `196`
 #### Witte Entry
 
 Elaborate plans. Planning of scientific work.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Elaborate plans. Planning of scientific work.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Expansion of development work, successful development of work, successful development activity, vie! changes in work, growing numbers of jobs, developing scientific activity, and increasing work development
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Pluto = Apollon` expands planning into elaborate, large-scale, scientific, or highly organized work.
+- Chart expression: extensive designs, scientific planning, and transformative effort spread across broad, structured, or technically complex enterprises.
 
 ## Links
 
@@ -61,3 +56,5 @@ Elaborate plans. Planning of scientific work.
 - [Pluto](../factors/pluto.md)
 - [Apollon](../factors/apollon.md)
 - [Mars/Pluto](../axes/mars-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

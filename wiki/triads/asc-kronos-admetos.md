@@ -3,7 +3,7 @@ title: Asc Kronos Admetos
 page_type: triad_hub
 slug: asc-kronos-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Kronos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Asc Kronos Admetos`
 - Astronomicon triad-set: `Asc ¤ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Admetos = Kronos](../activations/asc-admetos-equals-kronos.md)
-  Source page `96`
 - [Asc/Kronos = Admetos](../activations/asc-kronos-equals-admetos.md)
-  Source page `94`
 - [Kronos/Admetos = Asc](../activations/kronos-admetos-equals-asc.md)
-  Source page `300`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Admetos = Kronos`: page `96`
-- `Asc/Kronos = Admetos`: page `94`
-- `Kronos/Admetos = Asc`: page `300`
+- `Asc/Admetos = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `96`
+- `Asc/Admetos = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `133`
+- `Asc/Kronos = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `94`
+- `Asc/Kronos = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `129`
+- `Kronos/Admetos = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `300`
+- `Kronos/Admetos = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `462`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Admetos = Kronos`: a fixed place of power, capital, or seat of rule, along with pressure from superiors and resistance to authority.
+- `Asc/Kronos = Admetos`: an oppressive official environment, troublesome subordinates, and the risk of discharge or exclusion by authority.
+- `Kronos/Admetos = Asc`: being noticed for oddness or peculiarity, self-seclusion, contact with unusual people, or shared life with others who are equally set apart.
 
 ## Links
 
 - [Asc](../factors/asc.md)
 - [Kronos](../factors/kronos.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

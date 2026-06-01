@@ -58,13 +58,14 @@ aliases:
   - Jupiter/Moon
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -77,17 +78,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Jupiter`
-- Source page: `125`
-
 #### Pair Summary
 
 Faith. Happy hours. The fortunate (happy) woman. The fortunate nation. Happiness of female persons. Contented woman or nation. Luck in public life. National justice and jurisdiction.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Moon/Jupiter`
-- Source page: `122`
+#### ABC Pair Summary
+
+Successful woman, successful people, financial woman, women's rights, a feeling of happiness, happy woman, happy hour, a mother's happiness, the rights of the people, a feeling for justice, and the joy of the people
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -111,17 +112,11 @@ Successful, generous or happy women, a cheerful nation and people, successful en
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
-- Source heading: `Moon/Jupiter`
-- Source page: `25`
-
 #### Falis Entry
 
 Big emotions. Expansive emotional states. Out of proportion reactions and re sponses. Making mountains out of molehills. Self-righteous feelings. Feelings that are out of proportion to experiences. Big emotional experiences. Soaring emotions. Emotional highs. Feeling good. Feeling like traveling. Feeling lucky. Emotional gambles. Feeling nourished by travel. The need for knowledge. Feeling nourished by religion. Feeling nourished by education. Philosophizing feelings. Gaining emo tional distance. Your need for laughter. Your ability to lighten up. Feeling opti mistic. Feeling hopeful. Having faith. Lacking subtlety in emotional expression. Emotionally overwhelming. Feeling over whelmed by feelings. Feelings loom large. Moods are expansive • highs and lows are big and vast. Broad range of emotional expression. Feeling superior. Emotional resiliency. The ability to bounce back. Whether or not you feel optimistic about the future. Natural philosopher. Natural preacher. Innate code of ethics. Innate sense of justice. Religious feelings. Having a personal moral code. Religious habits. A habit of praying. Feeling like doing the right thing. Self-indulgent. Having an indulgent mother. Needing a lot of affection. Needing a lot of care. Indulging moods. Indulging feelings. Eating too much. Naturally opti mistic. Instinct for growth. Instinct to expand. Need for freedom. Excessively moody. An overwhelming mother. A mother who needs her freedom. Too much fe male influence. Overly receptive. Overly reliant on instinctive responses. Big Mama. Big baby. Too sensitive. Overly defensive. Overly protective. Overly reactive. Overly comfort-conscious. Protective instincts. Remembering the overall expe• rience rather than the details. Inflated need to protect and be protected. Whether or not your mother protected you. How protected you feel in your home. Feeling satisfied by indulging the big questions. Instinct for philosophy. Buoyant emotions. Ebullient joy. A natural goofball. Enjoying comedy. Feeling satisfied by scholarly pursuits. Feeling happy among people of other cultures • or not. Sloppy habits. Not caring about the details. Natural enthusiasm. Optimistic women. Women with huge mood swings. An overwhelming emotional environment. The in stinct to do well. The instinct to be generous. Protective, nurturing instincts. Moral behavior. Scholarly habits. Wanting to grow. Feeling the need to be something more. Feeling that there is always more. Insatiable appetite for knowledge and understanding. Your capacity for blind faith. Altruistic feelings. Whether or not you feel that you can create your own luck.
 
 ### Charles Carter - The Astrological Aspects
-
-- Source heading: `ASPECTS OF THE MOON & JUPITER`
-- Source page: `25`
 
 #### Harmonious Aspects
 
@@ -171,9 +166,6 @@ It often leads to enforced and more or less unpleasant residence in foreign coun
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Moon/Jupiter midpoint`
-- Source page: `29`
-
 #### Principle
 
 A wealth and richness of feeling. The tendency to go to emotional excesses. To be accepting of all emotions. A willingness to share feelings and the encouraging of others to share theirs. The emotional need to connect with one’s spiritual self. Feeling overwhelmed by too many impressions and/or vulnerable to too many things.
@@ -184,17 +176,11 @@ Accepting and learning from all one’s emotions. Reaching out to others on a fe
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Moon/Jupiter`
-- Source page: `203`
-
 #### Pair Delineation
 
 Feelings of protection, warmth, and nurture. Generosity. In a man's chart, positive emotional relations with women. Emotions operating on a religious or spiritual plane. Expression of emotions as a positive flow 7 reaching out to others.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `MOON/JUPITER`
-- Source page: `115`
 
 #### Basic Ideas
 
@@ -223,15 +209,6 @@ Fluid retention; increased sensitivity to drugs or allergens; raises fertility c
 
 - [Michael Munkasey - Moon/Jupiter Concepts](../derived/munkasey-moon-jupiter-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Moon/Jupiter = Admetos](../activations/moon-jupiter-equals-admetos.md)
@@ -256,20 +233,18 @@ Fluid retention; increased sensitivity to drugs or allergens; raises fertility c
 - [Moon/Jupiter = Vulcanus](../activations/moon-jupiter-equals-vulcanus.md)
 - [Moon/Jupiter = Zeus](../activations/moon-jupiter-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Jupiter` is the axis of expansive feeling, emotional generosity, kindness, protection, faith, and the need to experience life as warm, meaningful, and hopeful. It enlarges the Moon's feeling-nature through optimism, belief, social conscience, and the wish to nourish broadly.
+- Chart expression: benevolence, popularity, good humor, hospitality, emotional resilience, family or social abundance, and feeling supported by life. Its excess side is equally important: overreaction, indulgence, sentimentality, waste, overprotection, and moods that become too large to hold proportionately.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Jupiter](../factors/jupiter.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)

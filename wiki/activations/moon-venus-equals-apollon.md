@@ -3,7 +3,7 @@ title: Moon/Venus = Apollon
 page_type: activation
 slug: moon-venus-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Venus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Venus
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Venus`
-- Source page: `123`
 #### Witte Entry
 
 Faithful womans love. The love of many women. Peace and friendship among nations.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Faithful womans love. The love of many women. Peace and friendship among nations.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Expansion of love for women, expansion of harmony feeling, success of a gentle woman, successful people art, peace success of a people, artificial experience of a woman, experience love feelings, hour of love freedom, and increasing love of a woman
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Venus = Apollon`: Faithful womans love. The love of many women. Peace and friendship among nations.
+- Practical focus: expands `Moon/Venus` into faithful affection, widespread female love, and larger social fields of peace or friendship. It suggests emotional and relational harmony growing outward from the personal to the collective.
+- Practical expression: expansion of love for women, expansion of harmony feeling, success of a gentle woman, successful people art, and peace success of a people.
 
 ## Links
 
@@ -61,3 +57,5 @@ Faithful womans love. The love of many women. Peace and friendship among nations
 - [Venus](../factors/venus.md)
 - [Apollon](../factors/apollon.md)
 - [Moon/Venus](../axes/moon-venus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

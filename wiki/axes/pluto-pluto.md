@@ -45,8 +45,6 @@ updated_at: 2026-04-21
 
 - Axis: `Pluto/Pluto`
 - Astronomicon axis: `Z/Z`
-- Source heading: `Pluto + Pluto`
-- Source page: `255`
 
 ## Source Entries
 
@@ -55,15 +53,6 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 Development. Transformation. Turnaround. Change. Growth. Division. Reshaping Upheaval. Metamorphosis. Change from within. Immediate past.
-
-## Comparative Schema
-
-- core meaning: Development. Transformation. Turnaround. Change. Growth. Division. Reshaping Upheaval. Metamorphosis. Change from within. Immediate past.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
@@ -89,13 +78,11 @@ Development. Transformation. Turnaround. Change. Growth. Division. Reshaping Uph
 - [Pluto/Pluto = Vulcanus](../activations/pluto-pluto-equals-vulcanus.md)
 - [Pluto/Pluto = Poseidon](../activations/pluto-pluto-equals-poseidon.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- This axis emphasizes development; Transformation; Turnaround; Change; Growth; Division; Reshaping Upheaval; Metamorphosis; Change from within; Immediate past.
+- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
 
 ## Links
 

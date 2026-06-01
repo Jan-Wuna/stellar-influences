@@ -3,7 +3,7 @@ title: Moon/Zeus = Hades
 page_type: activation
 slug: moon-zeus-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Hades
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Zeus`
-- Source page: `132`
 #### Witte Entry
 
 People working in the industry. To incite to misdeeds. Reproduction under evil or bad circumstances.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: People working in the industry. To incite to misdeeds. Reproduction under evil or bad circumstances.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Efforts of an old woman, falsification disadvantages for women, criminal leadership of a people, criminal women's goals, inadequate leadership of a people, hidden achievements of a woman, people filder in need, and determined women in the past
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Zeus = Hades`: People working in the industry. To incite to misdeeds. Reproduction under evil or bad circumstances.
+- Practical expression: efforts of an old woman, falsification disadvantages for women, criminal leadership of a people, criminal women's goals, and inadequate leadership of a people.
 
 ## Links
 
@@ -61,3 +56,5 @@ People working in the industry. To incite to misdeeds. Reproduction under evil o
 - [Zeus](../factors/zeus.md)
 - [Hades](../factors/hades.md)
 - [Moon/Zeus](../axes/moon-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

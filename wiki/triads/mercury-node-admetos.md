@@ -3,7 +3,7 @@ title: Mercury Node Admetos
 page_type: triad_hub
 slug: mercury-node-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Node Admetos`
 - Astronomicon triad-set: `T g ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Admetos = Node](../activations/mercury-admetos-equals-node.md)
-  Source page `171`
 - [Mercury/Node = Admetos](../activations/mercury-node-equals-admetos.md)
-  Source page `141`
 - [Node/Admetos = Mercury](../activations/node-admetos-equals-mercury.md)
-  Source page `154`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Admetos = Node`: page `171`
-- `Mercury/Node = Admetos`: page `141`
-- `Node/Admetos = Mercury`: page `154`
+- `Mercury/Admetos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `171`
+- `Mercury/Admetos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `264`
+- `Mercury/Node = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `141`
+- `Mercury/Node = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `209`
+- `Node/Admetos = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `154`
+- `Node/Admetos = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `234`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Admetos = Node`: socializes the axis under limits, shared transport, and restricted thought.
+- `Mercury/Node = Admetos`: narrows the axis into sad thought and definite severance of mental ties.
+- `Node/Admetos = Mercury`: Little thinking. Declining to think. Turning the thoughts away. Mentally sad. Limited consciousness.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Node](../factors/node.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

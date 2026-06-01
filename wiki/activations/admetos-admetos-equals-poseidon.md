@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Admetos + Admetos`
-- Source page: `310`
 #### Witte Entry
 
 Culture. Education. Mental depth. Fine, subtle material. The atom. Radiation. Vibration. Dematerialization. Spirit and matter. The two sides of the same entity.
 
-## Comparative Schema
-
-- core meaning: Culture. Education. Mental depth. Fine, subtle material. The atom. Radiation. Vibration. Dematerialization. Spirit and matter. The two sides of the same entity.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Admetos/Admetos = Poseidon`: profound study, subtle perception, and awareness of very fine or essential levels of substance and meaning. Main caution: abstract withdrawal: thought can become so refined, remote, or dematerialized that it loses warmth, movement, and ordinary human proportion.
 
 ## Links
 

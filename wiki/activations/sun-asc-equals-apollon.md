@@ -3,10 +3,10 @@ title: Sun/Asc = Apollon
 page_type: activation
 slug: sun-asc-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Sun
+  - Asc
   - Apollon
 normalized_formula: Sun/Asc = Apollon
 axis: Sun/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Asc
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Sun`
-- Source page: `80`
 #### Witte Entry
 
 Many acquaintances are formed in the field of science or commerce. To meet many people. Social gatherings with dignitaries and successful people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Many acquaintances are formed in the field of science or commerce. To meet many people. Social gatherings with dignitaries and successful people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Expansion of a local center, experienced personal partner, success people in the environment, trade centre in the place, man made trade partner, personal partner success, personal environmental experiences, and many people in the environment
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Asc = Apollon`: a person of great ideas and a happy connection.
+- Practical expression: expansion of a local center, experienced personal partner, success people in the environment, trade centre in the place, and man made trade partner.
 
 ## Links
 
@@ -61,3 +56,5 @@ Many acquaintances are formed in the field of science or commerce. To meet many 
 - [Asc](../factors/asc.md)
 - [Apollon](../factors/apollon.md)
 - [Sun/Asc](../axes/sun-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Sun/Cupido = Mercury
 page_type: activation
 slug: sun-cupido-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Mercury
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Cupido`
-- Source page: `111`
 #### Witte Entry
 
 Thoughts of marriage. News of a marriage. Thoughts about art. Honeymoon trips. A person with an exclusive interest in local club life.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Thoughts of marriage. News of a marriage. Thoughts about art. Honeymoon trips. A person with an exclusive interest in local club life.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Common language among men, community of young people, common corporal movement, opinions of a men's community, people transport community, personal language art, and centre of a media community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Cupido = Mercury`: speech in a family and one of the family.
+- Practical expression: common language among men, community of young people, common corporal movement, opinions of a men's community, and people transport community.
 
 ## Links
 
@@ -61,3 +56,5 @@ Thoughts of marriage. News of a marriage. Thoughts about art. Honeymoon trips. A
 - [Cupido](../factors/cupido.md)
 - [Mercury](../factors/mercury.md)
 - [Sun/Cupido](../axes/sun-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

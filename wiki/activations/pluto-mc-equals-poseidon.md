@@ -3,10 +3,10 @@ title: Pluto/MC = Poseidon
 page_type: activation
 slug: pluto-mc-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Pluto
+  - MC
   - Poseidon
 normalized_formula: Pluto/MC = Poseidon
 axis: Pluto/MC
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - MC
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Pluto`
-- Source page: `69`
 #### Witte Entry
 
 Perceptive change. The turning from materialism to spiritualism. -----------
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Perceptive change. The turning from materialism to spiritualism. -----------
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Development of my ideas, development of spirit and soul, realization of a psychic change, understanding of the soul, developing my spiritual development, developing my cultural development, soul culture, and psychic development through truth
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/MC = Poseidon`: personal development changes one’s worldview, education or spiritual outlook.
+- Practical expression: development of my ideas, development of spirit, soul, realization of a psychic change, and understanding of the soul.
 
 ## Links
 
@@ -61,3 +56,5 @@ Perceptive change. The turning from materialism to spiritualism. -----------
 - [MC](../factors/mc.md)
 - [Poseidon](../factors/poseidon.md)
 - [Pluto/MC](../axes/pluto-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

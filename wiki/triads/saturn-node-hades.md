@@ -3,7 +3,7 @@ title: Saturn Node Hades
 page_type: triad_hub
 slug: saturn-node-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Node
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Node Hades`
 - Astronomicon triad-set: `W g ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Node/Hades = Saturn](../activations/node-hades-equals-saturn.md)
-  Source page `150`
 - [Saturn/Hades = Node](../activations/saturn-hades-equals-node.md)
-  Source page `225`
 - [Saturn/Node = Hades](../activations/saturn-node-equals-hades.md)
-  Source page `145`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Node/Hades = Saturn`: page `150`
-- `Saturn/Hades = Node`: page `225`
-- `Saturn/Node = Hades`: page `145`
+- `Node/Hades = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `150`
+- `Node/Hades = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `227`
+- `Saturn/Hades = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `225`
+- `Saturn/Hades = Node`: Udo Rudolph - ABC for Planetary Pictures, page `356`
+- `Saturn/Node = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `145`
+- `Saturn/Node = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `217`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Node/Hades = Saturn`: To be tied to hostile people. Loss by theft or through poor company.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Node](../factors/node.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

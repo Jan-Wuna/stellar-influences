@@ -3,7 +3,7 @@ title: Mercury Jupiter Admetos
 page_type: triad_hub
 slug: mercury-jupiter-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Jupiter
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Jupiter Admetos`
 - Astronomicon triad-set: `T V ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Admetos = Mercury](../activations/jupiter-admetos-equals-mercury.md)
-  Source page `216`
 - [Mercury/Admetos = Jupiter](../activations/mercury-admetos-equals-jupiter.md)
-  Source page `171`
 - [Mercury/Jupiter = Admetos](../activations/mercury-jupiter-equals-admetos.md)
-  Source page `161`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Admetos = Mercury`: page `216`
-- `Mercury/Admetos = Jupiter`: page `171`
-- `Mercury/Jupiter = Admetos`: page `161`
+- `Jupiter/Admetos = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `216`
+- `Jupiter/Admetos = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `342`
+- `Mercury/Admetos = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `171`
+- `Mercury/Admetos = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `264`
+- `Mercury/Jupiter = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `161`
+- `Mercury/Jupiter = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `245`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Admetos = Mercury`: profound thinking and conversation about limited finances or constrained resources.
+- `Mercury/Admetos = Jupiter`: lifts the axis into successful and fortunate concentration.
+- `Mercury/Jupiter = Admetos`: narrows the axis into quiet goodwill and concentrated reflection.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Jupiter](../factors/jupiter.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

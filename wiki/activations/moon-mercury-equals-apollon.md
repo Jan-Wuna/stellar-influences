@@ -3,7 +3,7 @@ title: Moon/Mercury = Apollon
 page_type: activation
 slug: moon-mercury-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Mercury
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Mercury
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Mercury`
-- Source page: `122`
 #### Witte Entry
 
 Meeting of youth. Convention of youth of different nations. Thoughts about the expansion of people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Meeting of youth. Convention of youth of different nations. Thoughts about the expansion of people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Reports on women's freedom, mobile experienced woman, success of a young woman, successful women's language, successful youth of a people, vie! speaking woman, and increasing language about children
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Mercury = Apollon`: Meeting of youth. Convention of youth of different nations. Thoughts about the expansion of people.
+- Practical focus: broadens `Moon/Mercury` into shared discussion, collective thought, and a wider social or cultural field for feeling and ideas. It points to youth gatherings, cross-group exchange, and thought directed toward expansion, making emotional intelligence more outgoing, networked, and socially mobile.
+- Practical expression: reports on women's freedom, mobile experienced woman, success of a young woman, successful women's language, and successful youth of a people.
 
 ## Links
 
@@ -61,3 +57,5 @@ Meeting of youth. Convention of youth of different nations. Thoughts about the e
 - [Mercury](../factors/mercury.md)
 - [Apollon](../factors/apollon.md)
 - [Moon/Mercury](../axes/moon-mercury.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Vernal Point Saturn Zeus
 page_type: triad_hub
 slug: vernal-point-saturn-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Saturn
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Saturn Zeus`
 - Astronomicon triad-set: `VP W £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Saturn/Zeus = Vernal Point](../activations/saturn-zeus-equals-vernal-point.md)
-  Source page `226`
 - [Vernal Point/Saturn = Zeus](../activations/vernal-point-saturn-equals-zeus.md)
-  Source page `44`
 - [Vernal Point/Zeus = Saturn](../activations/vernal-point-zeus-equals-saturn.md)
-  Source page `50`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Saturn/Zeus = Vernal Point`: page `226`
-- `Vernal Point/Saturn = Zeus`: page `44`
-- `Vernal Point/Zeus = Saturn`: page `50`
+- `Saturn/Zeus = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `226`
+- `Saturn/Zeus = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `358`
+- `Vernal Point/Saturn = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `44`
+- `Vernal Point/Saturn = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `37`
+- `Vernal Point/Zeus = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `50`
+- `Vernal Point/Zeus = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `49`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Vernal Point/Saturn = Zeus`: This formula emphasizes estate or home lost by fire and to work under heavy restrictions and disagreeableness.
+- `Vernal Point/Zeus = Saturn`: This formula emphasizes activity accompanied by great losses and losses by fire.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Saturn](../factors/saturn.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

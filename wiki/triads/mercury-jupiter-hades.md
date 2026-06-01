@@ -3,7 +3,7 @@ title: Mercury Jupiter Hades
 page_type: triad_hub
 slug: mercury-jupiter-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Jupiter
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Jupiter Hades`
 - Astronomicon triad-set: `T V ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Hades = Mercury](../activations/jupiter-hades-equals-mercury.md)
-  Source page `212`
 - [Mercury/Hades = Jupiter](../activations/mercury-hades-equals-jupiter.md)
-  Source page `167`
 - [Mercury/Jupiter = Hades](../activations/mercury-jupiter-equals-hades.md)
-  Source page `161`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Hades = Mercury`: page `212`
-- `Mercury/Hades = Jupiter`: page `167`
-- `Mercury/Jupiter = Hades`: page `161`
+- `Jupiter/Hades = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `212`
+- `Jupiter/Hades = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `334`
+- `Mercury/Hades = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `167`
+- `Mercury/Hades = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `256`
+- `Mercury/Jupiter = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `161`
+- `Mercury/Jupiter = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `245`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Hades = Mercury`: indecent remarks, dirty stories, obscene jokes, vulgar talkativeness, and empty or low-minded chatter.
+- `Mercury/Hades = Jupiter`: entangles the axis with loss, nostalgia, and morally tainted gain.
+- `Mercury/Jupiter = Hades`: lowers the axis into coarse humor, shabby bargaining, and excitement about the ugly side of life.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Jupiter](../factors/jupiter.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

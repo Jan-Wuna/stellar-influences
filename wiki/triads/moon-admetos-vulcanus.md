@@ -3,7 +3,7 @@ title: Moon Admetos Vulcanus
 page_type: triad_hub
 slug: moon-admetos-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Admetos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Admetos Vulcanus`
 - Astronomicon triad-set: `R ¦ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Admetos/Vulcanus = Moon](../activations/admetos-vulcanus-equals-moon.md)
-  Source page `311`
 - [Moon/Admetos = Vulcanus](../activations/moon-admetos-equals-vulcanus.md)
-  Source page `135`
 - [Moon/Vulcanus = Admetos](../activations/moon-vulcanus-equals-admetos.md)
-  Source page `137`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Admetos/Vulcanus = Moon`: page `311`
-- `Moon/Admetos = Vulcanus`: page `135`
-- `Moon/Vulcanus = Admetos`: page `137`
+- `Admetos/Vulcanus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `311`
+- `Admetos/Vulcanus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `474`
+- `Moon/Admetos = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `135`
+- `Moon/Admetos = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `203`
+- `Moon/Vulcanus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `137`
+- `Moon/Vulcanus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `205`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Admetos/Vulcanus = Moon`: women, groups, or the people being hard hit by fate and forced into difficult endurance.
+- `Moon/Admetos = Vulcanus`: Violent effort to relieve crowded conditions. To rise up against the disfavor of fate.
+- `Moon/Vulcanus = Admetos`: To cause a sensation in a small way or in a small circle. Grave hindrances and obstacles through persons of public power. To be completely without influence.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Admetos](../factors/admetos.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

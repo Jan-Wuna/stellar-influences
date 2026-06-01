@@ -3,7 +3,7 @@ title: Moon Node Cupido
 page_type: triad_hub
 slug: moon-node-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Node Cupido`
 - Astronomicon triad-set: `R g ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Cupido = Node](../activations/moon-cupido-equals-node.md)
-  Source page `130`
 - [Moon/Node = Cupido](../activations/moon-node-equals-cupido.md)
-  Source page `121`
 - [Node/Cupido = Moon](../activations/node-cupido-equals-moon.md)
-  Source page `149`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Cupido = Node`: page `130`
-- `Moon/Node = Cupido`: page `121`
-- `Node/Cupido = Moon`: page `149`
+- `Moon/Cupido = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `130`
+- `Moon/Cupido = Node`: Udo Rudolph - ABC for Planetary Pictures, page `192`
+- `Moon/Node = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `121`
+- `Moon/Node = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `175`
+- `Node/Cupido = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `149`
+- `Node/Cupido = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `224`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Cupido = Node`: Connections leading to betrothal. Hours of leisure in company of others. Social connections with women or groups of people.
+- `Moon/Node = Cupido`: This activation socializes `Moon/Node` through union, marriage, and emotionally affiliative bonding. It points to connection with women taking on formal or relational shape, where attachment naturally moves toward partnership, family pattern, or social ritual.
+- `Node/Cupido = Moon`: Acquaintance with the future wife. Mental or emotional ties. Mass-meetings.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Node](../factors/node.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

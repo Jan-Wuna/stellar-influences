@@ -3,7 +3,7 @@ title: Venus/Jupiter = Vulcanus
 page_type: activation
 slug: venus-jupiter-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Jupiter
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Jupiter
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Jupiter`
-- Source page: `177`
 #### Witte Entry
 
 Great longing for happiness. Great optimism.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great longing for happiness. Great optimism.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influential financial desires, successful peace power, successful art influence, harmonizing influence of money, peaceful right power, enormous artistic success, powerful love happiness, and advantage through the power of beauty
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Jupiter = Vulcanus`: great longing for happiness.
+- Practical expression: influential financial desires, successful peace power, successful art influence, harmonizing influence of money, and peaceful right power.
 
 ## Links
 
@@ -61,3 +56,5 @@ Great longing for happiness. Great optimism.
 - [Jupiter](../factors/jupiter.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Venus/Jupiter](../axes/venus-jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

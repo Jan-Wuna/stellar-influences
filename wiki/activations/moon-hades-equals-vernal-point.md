@@ -3,7 +3,7 @@ title: Moon/Hades = Vernal Point
 page_type: activation
 slug: moon-hades-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Moon
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Hades`
-- Source page: `131`
 #### Witte Entry
 
 Poor women. Poor populace. Prisoners.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Poor women. Poor populace. Prisoners.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+deprivations of a people in public, endangered women in public, emotional deficiency in public, criminal woman in public life, public distress of a people, and tradition of a people in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Hades = Vernal Point`: Poor women. Poor populace. Prisoners.
+- Practical expression: deprivations of a people in public, endangered women in public, emotional deficiency in public, criminal woman in public life, and public distress of a people.
 
 ## Links
 
@@ -61,3 +56,5 @@ Poor women. Poor populace. Prisoners.
 - [Hades](../factors/hades.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Moon/Hades](../axes/moon-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

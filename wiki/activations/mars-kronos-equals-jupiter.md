@@ -3,7 +3,7 @@ title: Mars/Kronos = Jupiter
 page_type: activation
 slug: mars-kronos-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Jupiter
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Kronos`
-- Source page: `200`
 #### Witte Entry
 
 Giver of money. Advantages through the government. Money through lawsuits. Security police.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Giver of money. Advantages through the government. Money through lawsuits. Security police.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Work of the financial office, work pleasure of the hierarchy, special financial activity, successful state activity, money through self employed work, good work of the state, state legal actions, and important labour law
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Kronos = Jupiter` links executive power with advantage, money, legal gain, and protected status.
+- Chart expression: benefits through government, income tied to lawsuits or official channels, and force used in the service of security, protection, or sanctioned success.
 
 ## Links
 
@@ -61,3 +56,5 @@ Giver of money. Advantages through the government. Money through lawsuits. Secur
 - [Kronos](../factors/kronos.md)
 - [Jupiter](../factors/jupiter.md)
 - [Mars/Kronos](../axes/mars-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Venus Cupido Vulcanus
 page_type: triad_hub
 slug: venus-cupido-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Cupido Vulcanus`
 - Astronomicon triad-set: `Q ¡ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Vulcanus = Venus](../activations/cupido-vulcanus-equals-venus.md)
-  Source page `273`
 - [Venus/Cupido = Vulcanus](../activations/venus-cupido-equals-vulcanus.md)
-  Source page `182`
 - [Venus/Vulcanus = Cupido](../activations/venus-vulcanus-equals-cupido.md)
-  Source page `188`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Vulcanus = Venus`: page `273`
-- `Venus/Cupido = Vulcanus`: page `182`
-- `Venus/Vulcanus = Cupido`: page `188`
+- `Cupido/Vulcanus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `273`
+- `Cupido/Vulcanus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `434`
+- `Venus/Cupido = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `182`
+- `Venus/Cupido = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `283`
+- `Venus/Vulcanus = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `188`
+- `Venus/Vulcanus = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `295`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Vulcanus = Venus`: a union kept intact by powerful harmony and art objects of exceptional beauty.
+- `Venus/Cupido = Vulcanus`: mighty longing for harmony with others, or for marital happiness.
+- `Venus/Vulcanus = Cupido`: to push something forward with fervor.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Cupido](../factors/cupido.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

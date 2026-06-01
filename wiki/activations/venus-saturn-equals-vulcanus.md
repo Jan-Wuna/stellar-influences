@@ -3,7 +3,7 @@ title: Venus/Saturn = Vulcanus
 page_type: activation
 slug: venus-saturn-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Saturn
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Saturn
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Saturn`
-- Source page: `178`
 #### Witte Entry
 
 Disharmonies in an otherwise great love.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Disharmonies in an otherwise great love.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Impaired love power, stored peace power, enormous artistic tasks, harmonizing influence through seriousness, concentration of powers love, love influence in separation, powerful peace problems, and maturity influence of the arts
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Saturn = Vulcanus`: disharmonies in an otherwise great love.
+- Practical expression: impaired love power, stored peace power, enormous artistic tasks, harmonizing influence through seriousness, and concentration of powers love.
 
 ## Links
 
@@ -61,3 +56,5 @@ Disharmonies in an otherwise great love.
 - [Saturn](../factors/saturn.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Venus/Saturn](../axes/venus-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Uranus/Zeus = Sun
 page_type: activation
 slug: uranus-zeus-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Uranus
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Zeus`
-- Source page: `238`
 #### Witte Entry
 
 The violent person. Days of great accomplishment. The man who concentrates and directs his thoughts and energies. Sudden strong explosions on the day.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The violent person. Days of great accomplishment. The man who concentrates and directs his thoughts and energies. Sudden strong explosions on the day.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Fiery impulses of a man, design pulses of a man, personal movement pulses, personal new beginning, personal procreation event, restless movement center, technical performance center, and surprising corporal effort
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Zeus = Sun`: The violent person. Days of great accomplishment. The man who concentrates and directs his thoughts and energies. Sudden strong explosions on the day.
+- Practical expression: fiery impulses of a man, design pulses of a man, personal movement pulses, personal new beginning, and personal procreation event.
 
 ## Links
 
@@ -61,3 +56,5 @@ The violent person. Days of great accomplishment. The man who concentrates and d
 - [Zeus](../factors/zeus.md)
 - [Sun](../factors/sun.md)
 - [Uranus/Zeus](../axes/uranus-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

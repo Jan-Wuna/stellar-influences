@@ -3,7 +3,7 @@ title: Moon/Hades = Jupiter
 page_type: activation
 slug: moon-hades-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Jupiter
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Hades`
-- Source page: `131`
 #### Witte Entry
 
 Happy widowhood. The merry widow. Food or money worries. Earning money in a base, immoral way. Hour of great wastage.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Happy widowhood. The merry widow. Food or money worries. Earning money in a base, immoral way. Hour of great wastage.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Financial crime in a people, financial disadvantages of a woman, joy and sorrow of a people, Glock by woman from the past, lack of legal feeling, legal disadvantages for a people, advantage of a people in need, and satisfied woman in service
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Hades = Jupiter`: Happy widowhood. The merry widow. Food or money worries. Earning money in a base, immoral way. Hour of great wastage.
+- Practical expression: financial crime in a people, financial disadvantages of a woman, sorrow of a people, Glock by woman from the past, and lack of legal feeling.
 
 ## Links
 
@@ -61,3 +56,5 @@ Happy widowhood. The merry widow. Food or money worries. Earning money in a base
 - [Hades](../factors/hades.md)
 - [Jupiter](../factors/jupiter.md)
 - [Moon/Hades](../axes/moon-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

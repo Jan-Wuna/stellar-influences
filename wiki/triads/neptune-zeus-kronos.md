@@ -3,7 +3,7 @@ title: Neptune Zeus Kronos
 page_type: triad_hub
 slug: neptune-zeus-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Zeus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Neptune Zeus Kronos`
 - Astronomicon triad-set: `Y £ ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Neptune/Kronos = Zeus](../activations/neptune-kronos-equals-zeus.md)
-  Source page `250`
 - [Neptune/Zeus = Kronos](../activations/neptune-zeus-equals-kronos.md)
-  Source page `249`
 - [Zeus/Kronos = Neptune](../activations/zeus-kronos-equals-neptune.md)
-  Source page `289`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Neptune/Kronos = Zeus`: page `250`
-- `Neptune/Zeus = Kronos`: page `249`
-- `Zeus/Kronos = Neptune`: page `289`
+- `Neptune/Kronos = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `250`
+- `Neptune/Kronos = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `399`
+- `Neptune/Zeus = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `249`
+- `Neptune/Zeus = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `397`
+- `Zeus/Kronos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `289`
+- `Zeus/Kronos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `451`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Neptune/Kronos = Zeus`: This activation militarizes compromised authority, showing governmental ambition expressed through war, air power, or armament that ultimately returns negative results to those directing it.
+- `Neptune/Zeus = Kronos`: High-level directives or political initiatives are forceful but ineffective, linking authority with unsuccessful campaigns or organized gas-related operations.
+- `Zeus/Kronos = Neptune`: Large technical products. To act suddenly, by surprise. Coup de main. War preparations. War suddenly breaks out. The start of a big destructive fire. Firedamp explosion. Big gas explosion. To extinguish a conflagration with water. Defeats. Defeated war leaders. A lost battle.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [Zeus](../factors/zeus.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -53,9 +53,6 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mars/Chiron midpoint`
-- Source page: `69`
-
 #### Principle
 
 Assertively reaching out to those who need help and healing, often doing this in subtle, indirect ways that can be quite effective. Working to build a new world order. Ability to transform destructive energies into constructive ones, as well as to apply de structive energies where they are most needed to clear the way for something higher. Ability to get to the heart of a conflict and hence resolve it or direct it along positive lines, rather than arguing in circles. Having the confidence to not hold back when one senses what one needs to do. Ability to act on impulse without having to have a mental or logical justification to do so.
@@ -63,15 +60,6 @@ Assertively reaching out to those who need help and healing, often doing this in
 #### Process
 
 The growth of one’s ability to engage in conflict in the most lifesupporting way possible. The power of seeing into the roots of conflict so that it can be healed deeply and profoundly at its root level. To be able to take initiative based on the guid ance of spiritual forces.
-
-## Comparative Schema
-
-- core meaning: source-native pair entries are preserved side by side above.
-- psychology: Sandbach contributes an explicit `Principle` and `Process` layer, while other sources retain their own native structure and vocabulary.
-- body/health: bodily or vitality implications remain embedded inside each source entry when present.
-- social/relationship: interpersonal implications remain attached to the source-native wording above instead of being flattened into one paraphrase.
-- events/manifestations: see the source entries above and the orientation-specific activation pages linked below.
-- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
 
 ## Related Activations
 
@@ -88,14 +76,11 @@ The growth of one’s ability to engage in conflict in the most lifesupporting w
 - [Mars/Chiron = Uranus](../activations/mars-chiron-equals-uranus.md)
 - [Mars/Chiron = Venus](../activations/mars-chiron-equals-venus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices and framework emphases rather than flattened into one interpretation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Chiron`: active healing: confronting conflict directly, cutting through destructive patterns, and using assertiveness in a way that restores life rather than merely winning struggle.
+- Chart expression: the ability to sense what must be done, act from deep or spiritual guidance, and get to the core of a conflict so it can be resolved rather than endlessly repeated. It favors constructive courage, transformative pressure, and purposeful use of sharp or even destructive energy when clearing the way for something healthier. Its shadow is acting too impulsively, justifying conflict as healing, or trusting instinct without enough grounding.
 
 ## Links
 

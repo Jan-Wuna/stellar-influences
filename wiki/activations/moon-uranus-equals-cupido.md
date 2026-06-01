@@ -3,7 +3,7 @@ title: Moon/Uranus = Cupido
 page_type: activation
 slug: moon-uranus-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Uranus
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Uranus`
-- Source page: `127`
 #### Witte Entry
 
 A woman pressing marriage. Exciting events and hours while attending parties, socials, club meetings, and so on. Eccentric art.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A woman pressing marriage. Exciting events and hours while attending parties, socials, club meetings, and so on. Eccentric art.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Agitated people community, eventful hour for of a community, excited women's community, women's reform for the community, new community life, impulses of a women's community, and unrest in a people's community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Uranus = Cupido`: A woman pressing marriage. Exciting events and hours while attending parties, socials, club meetings, and so on. Eccentric art.
+- Practical focus: socializes `Moon/Uranus` through eccentric gatherings, excited parties, and relationship pressure that feels unconventional or urgent. It suggests emotional electricity entering art, clubs, or marriage dynamics in vivid and socially disruptive ways.
+- Practical expression: agitated people community, eventful hour for a community, excited women's community, women's reform for the community, and new community life.
 
 ## Links
 
@@ -61,3 +57,5 @@ A woman pressing marriage. Exciting events and hours while attending parties, so
 - [Uranus](../factors/uranus.md)
 - [Cupido](../factors/cupido.md)
 - [Moon/Uranus](../axes/moon-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

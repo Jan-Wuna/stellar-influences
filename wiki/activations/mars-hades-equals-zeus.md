@@ -3,7 +3,7 @@ title: Mars/Hades = Zeus
 page_type: activation
 slug: mars-hades-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Hades
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Hades`
-- Source page: `198`
 #### Witte Entry
 
 End of the procreative ability. To be a soldier. Military service. War service. Death caused by machines, by auto, firearms (murder). Burned to death.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: End of the procreative ability. To be a soldier. Military service. War service. Death caused by machines, by auto, firearms (murder). Burned to death.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Disappointment by strenuous work, working on fire crime, handling of dangerous work, dangerous goals of work, secret procreation Will, lack of creative actions, and creative work service
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Hades = Zeus`: harsh directed effort in martial or industrial settings, where damage, burning, weaponry, and fatal machinery become the concrete outcome of degraded action.
 
 ## Links
 
@@ -61,3 +55,5 @@ End of the procreative ability. To be a soldier. Military service. War service. 
 - [Hades](../factors/hades.md)
 - [Zeus](../factors/zeus.md)
 - [Mars/Hades](../axes/mars-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Cupido/Apollon = Zeus
 page_type: activation
 slug: cupido-apollon-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Cupido
   - Zeus
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Apollon`
-- Source page: `270`
 #### Witte Entry
 
 Family increase. Family-day, convention of the family. Artistic or scientific creations. To be with many in an arms carrying organization.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Family increase. Family-day, convention of the family. Artistic or scientific creations. To be with many in an arms carrying organization.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Old knowledge of a community, efforts of a trade community, successful development of a community, successful artistic achievements, successful generation community, freedom objectives of a community, and establishment of an economic community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Apollon = Zeus`: growth through directed creative work and large organized purpose. Main caution: collectivized purpose becoming too martial, programmatic, or agenda-driven.
 
 ## Links
 
@@ -61,3 +55,5 @@ Family increase. Family-day, convention of the family. Artistic or scientific cr
 - [Apollon](../factors/apollon.md)
 - [Zeus](../factors/zeus.md)
 - [Cupido/Apollon](../axes/cupido-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

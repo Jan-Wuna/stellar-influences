@@ -3,7 +3,7 @@ title: Mars/Zeus = Asc
 page_type: activation
 slug: mars-zeus-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Asc
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Zeus`
-- Source page: `199`
 #### Witte Entry
 
 Energetic action of others, or against others. Acquaintance with soldiers, officers, machinists, or technicians. To be threatened by quick firing weapons. Conflicts.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Energetic action of others, or against others. Acquaintance with soldiers, officers, machinists, or technicians. To be threatened by quick firing weapons. Conflicts.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Others design the work, more strenuous work place, work services at the place, fire at the place work, leading activity at one place, leadership activities of others, creative partner actions, environmental arbcit start, and will of local transportation
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Zeus = Asc` brings the axis into direct contact with other people through conflict, technicians, soldiers, or threats.
+- Chart expression: confrontational encounters, active or martial surroundings, and exposure to forceful, mechanical, or weapon-linked people and situations.
 
 ## Links
 
@@ -61,3 +56,5 @@ Energetic action of others, or against others. Acquaintance with soldiers, offic
 - [Zeus](../factors/zeus.md)
 - [Asc](../factors/asc.md)
 - [Mars/Zeus](../axes/mars-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

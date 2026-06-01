@@ -3,7 +3,7 @@ title: Cupido/Vulcanus = Sun
 page_type: activation
 slug: cupido-vulcanus-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Cupido
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Vulcanus`
-- Source page: `273`
 #### Witte Entry
 
 To be a member of a powerful community. Days of mighty artistic creation. The man who has great influence through his art.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be a member of a powerful community. Days of mighty artistic creation. The man who has great influence through his art.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influential community centre, common body force, powerful male community, artificial body force, power of a person community, power centre of a community, and strength of the human community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Vulcanus = Sun`: identity being openly tied to forceful association and major creative output. Main caution: fusing selfhood too fully with communal power or artistic potency.
 
 ## Links
 
@@ -61,3 +55,5 @@ To be a member of a powerful community. Days of mighty artistic creation. The ma
 - [Vulcanus](../factors/vulcanus.md)
 - [Sun](../factors/sun.md)
 - [Cupido/Vulcanus](../axes/cupido-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Hades + Hades`
-- Source page: `276`
 #### Witte Entry
 
 Relaxation. Recreation. Vacation. Idleness and vice. No pursuing of one’s aim, lack of purposeful behavior. Prevented to act, paralyzed (in respect to action), compelled to be inactive. Cramp (to restrain or confine the action of, as with a cramp). Vileness, mean trick. Industry. Lack of coal. Strike. Lock-out. Destructive fire. Grave viciousness. Burns. War atrocities. Outbreak of hate. Burning hate. To cause a disaster. Incendiary. Coal fire.
 
-## Comparative Schema
-
-- core meaning: Relaxation. Recreation. Vacation. Idleness and vice. No pursuing of one’s aim, lack of purposeful behavior. Prevented to act, paralyzed (in respect to action), compelled to be inactive. Cramp (to restrain or confine the action of, as with a cramp). Vileness, mean trick. Industry. Lack of coal. Strike. Lock-out. Destructive fire. Grave viciousness. Burns. War atrocities. Outbreak of hate. Burning hate. To cause a disaster. Incendiary. Coal fire.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Hades = Zeus`: effort, fire, or intention being warped by decay and poverty. It can show frustrated enterprise, destructive anger, or attempts to force action inside a condition too depleted, corrupt, or damaged to respond cleanly.
 
 ## Links
 

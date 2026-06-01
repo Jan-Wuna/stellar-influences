@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Apollon + Apollon`
-- Source page: `305`
 #### Witte Entry
 
 Main formula for the knowing one and the expert. Height and width. Scientific celebrity with decorations and titles. Leading scientist. Great expansion. Outstanding science, experiences, understanding. Exceptional knowledge.
 
-## Comparative Schema
-
-- core meaning: Main formula for the knowing one and the expert. Height and width. Scientific celebrity with decorations and titles. Leading scientist. Great expansion. Outstanding science, experiences, understanding. Exceptional knowledge.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Apollon = Kronos`: expert status, prestigious recognition, outstanding understanding, and the broad reach of authoritative intelligence. Main caution: elevated distance: superiority, title, or scale can separate the native from ordinary human proportion or practical grounding.
 
 ## Links
 

@@ -3,10 +3,10 @@ title: Sun/MC = Vulcanus
 page_type: activation
 slug: sun-mc-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Sun
+  - MC
   - Vulcanus
 normalized_formula: Sun/MC = Vulcanus
 axis: Sun/MC
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - MC
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Sun`
-- Source page: `59`
 #### Witte Entry
 
 Union of the powers of body and soul.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Union of the powers of body and soul.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+influence of my man, influence of body and soul, energy of my man, power of the human body, power of my man, my bodily influence, my bodily power, personal psychic influence, and psychic strength of the man
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/MC = Vulcanus`: forceful direction and strong worldly impact.
+- Practical expression: influence of my man, influence of body, soul, energy of my man, and power of the human body.
 
 ## Links
 
@@ -61,3 +56,5 @@ Union of the powers of body and soul.
 - [MC](../factors/mc.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Sun/MC](../axes/sun-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

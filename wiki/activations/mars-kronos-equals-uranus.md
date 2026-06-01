@@ -3,7 +3,7 @@ title: Mars/Kronos = Uranus
 page_type: activation
 slug: mars-kronos-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Uranus
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Kronos`
-- Source page: `200`
 #### Witte Entry
 
 Suddenly interfering power of the state. Suppression of uproar.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Suddenly interfering power of the state. Suppression of uproar.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exciting activity of the state, particularly strenuous work, dominating rhythmic impulses, dynamic will of the authorities, self standing work rhythm, and state reform activity
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Kronos = Uranus` makes official force sudden, disruptive, and sharply interventionist.
+- Chart expression: abrupt use of state power, emergency suppression, and rapid interference by authorities in order to stop disorder or uproar.
 
 ## Links
 
@@ -61,3 +56,5 @@ Suddenly interfering power of the state. Suppression of uproar.
 - [Kronos](../factors/kronos.md)
 - [Uranus](../factors/uranus.md)
 - [Mars/Kronos](../axes/mars-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

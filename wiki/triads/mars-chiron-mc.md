@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Mars Chiron MC`
 - Astronomicon triad-set: `U Chiron MC`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Mars/Chiron = MC`: John, page `69`
 - `Mars/MC = Chiron`: John, page `77`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/MC = Mars`: purposeful healing action and a vocation that does not only receive guidance but enacts it. Main caution: mistaking urgency for true spiritual instruction.
+- `Mars/Chiron = MC`: purposeful action, spiritually guided work, and a public role built around confronting what is wrong so it can be corrected. The caution is turning mission into compulsion or carrying too much responsibility for fixing everything.
+- `Mars/MC = Chiron` channels action and vocation into spiritually aligned assertion and constructive conflict with authority.
 
 ## Links
 

@@ -3,7 +3,7 @@ title: Uranus/Pluto = Zeus
 page_type: activation
 slug: uranus-pluto-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Pluto
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Pluto`
-- Source page: `235`
 #### Witte Entry
 
 Jerking changes with grave consequences. Changes which inevitably bring other changes.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Jerking changes with grave consequences. Changes which inevitably bring other changes.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+sudden filtration change, surprising goals unfold exciting changes in the state, special exciting developments, great technical developments, restless developments in the state, state reform development, and growing
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Pluto = Zeus`: Jerking changes with grave consequences. Changes which inevitably bring other changes.
+- Practical expression: sudden filtration change, surprising goals unfold exciting changes in the state, special exciting developments, great technical developments, and restless developments in the state.
 
 ## Links
 
@@ -61,3 +56,5 @@ Jerking changes with grave consequences. Changes which inevitably bring other ch
 - [Pluto](../factors/pluto.md)
 - [Zeus](../factors/zeus.md)
 - [Uranus/Pluto](../axes/uranus-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

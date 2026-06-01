@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Venus + Venus`
-- Source page: `174`
 #### Witte Entry
 
 Harmony. A peaceful day. Personal attraction. Magnetism. Beautiful body. The loving man. The time of love. The body’s capacity for love. (In the solar cycle: a peaceful period.)
 
-## Comparative Schema
-
-- core meaning: Harmony. A peaceful day. Personal attraction. Magnetism. Beautiful body. The loving man. The time of love. The body’s capacity for love. (In the solar cycle: a peaceful period.)
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Venus = Sun`: harmony.
 
 ## Links
 

@@ -3,7 +3,7 @@ title: Neptune/Pluto = Apollon
 page_type: activation
 slug: neptune-pluto-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Pluto
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Pluto`
-- Source page: `246`
 #### Witte Entry
 
 Secret scientific research. Unnoticeable transformations and changes in science. Sneaking changes for many.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Secret scientific research. Unnoticeable transformations and changes in science. Sneaking changes for many.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful air change, developing metaphysical knowledge, weak trade development, changes due to water quantities, vie! Developing intuition, developing knowledge in the near future, developing increasingly fine tuning, and pre exchange increasing development
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Pluto = Apollon`: Secret scientific research. Unnoticeable transformations and changes in science. Sneaking changes for many.
+- Practical focus: enlarges subtle transformation through secret research and collective systems, showing scientific or social changes that spread quietly before becoming widely apparent.
+- Practical expression: successful air change, developing metaphysical knowledge, weak trade development, changes due to water quantities, and vie! Developing intuition.
 
 ## Links
 
@@ -61,3 +57,5 @@ Secret scientific research. Unnoticeable transformations and changes in science.
 - [Pluto](../factors/pluto.md)
 - [Apollon](../factors/apollon.md)
 - [Neptune/Pluto](../axes/neptune-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

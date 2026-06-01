@@ -3,7 +3,7 @@ title: Neptune MC Hades
 page_type: triad_hub
 slug: neptune-mc-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Neptune MC Hades`
 - Astronomicon triad-set: `Y MC ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Hades = Neptune](../activations/mc-hades-equals-neptune.md)
-  Source page `71`
 - [Neptune/Hades = MC](../activations/neptune-hades-equals-mc.md)
-  Source page `248`
 - [Neptune/MC = Hades](../activations/neptune-mc-equals-hades.md)
-  Source page `68`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Hades = Neptune`: page `71`
-- `Neptune/Hades = MC`: page `248`
-- `Neptune/MC = Hades`: page `68`
+- `MC/Hades = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `71`
+- `MC/Hades = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `87`
+- `Neptune/Hades = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `248`
+- `Neptune/Hades = MC`: Udo Rudolph - ABC for Planetary Pictures, page `394`
+- `Neptune/MC = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `68`
+- `Neptune/MC = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `81`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Hades = Neptune`: dissolves the axis through falsehood, deceit, and failing hope.
+- `Neptune/Hades = MC`: This activation internalizes grave deception and danger as a condition one lives out directly, showing exposure to drowning, suffocation, seafaring risk, or an identity shaped by perilous decline.
+- `Neptune/MC = Hades`: This activation darkens uncertain self-direction into disgust, moral decline, drowning, or losses through deception, showing the axis pulled toward harmful and degrading outcomes.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [MC](../factors/mc.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Vernal Point MC Apollon
 page_type: triad_hub
 slug: vernal-point-mc-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point MC Apollon`
 - Astronomicon triad-set: `VP MC ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Apollon = Vernal Point](../activations/mc-apollon-equals-vernal-point.md)
-  Source page `74`
 - [Vernal Point/Apollon = MC](../activations/vernal-point-apollon-equals-mc.md)
-  Source page `52`
 - [Vernal Point/MC = Apollon](../activations/vernal-point-mc-equals-apollon.md)
-  Source page `35`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Apollon = Vernal Point`: page `74`
-- `Vernal Point/Apollon = MC`: page `52`
-- `Vernal Point/MC = Apollon`: page `35`
+- `MC/Apollon = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `74`
+- `MC/Apollon = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `92`
+- `Vernal Point/Apollon = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `52`
+- `Vernal Point/Apollon = MC`: Udo Rudolph - ABC for Planetary Pictures, page `52`
+- `Vernal Point/MC = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `35`
+- `Vernal Point/MC = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `19`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Apollon = Vernal Point`: externalizes the axis into many meetings, rich experience, and visible scientific life.
+- `Vernal Point/Apollon = MC`: This formula emphasizes to possess a broad mental horizon, a wholesale merchant, one who longs for distant places, and the scientist.
+- `Vernal Point/MC = Apollon`: This formula emphasizes life’s experiences (external), aspiring, the will to expand, and ones general attitude to religions.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [MC](../factors/mc.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

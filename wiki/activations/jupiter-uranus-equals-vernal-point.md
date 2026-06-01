@@ -3,7 +3,7 @@ title: Jupiter/Uranus = Vernal Point
 page_type: activation
 slug: jupiter-uranus-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Jupiter
   - Uranus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Uranus`
-- Source page: `208`
 #### Witte Entry
 
 Fortunate circumstances. Stroke of good luck for several people. Lottery.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Fortunate circumstances. Stroke of good luck for several people. Lottery.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+excitement about public money, success impulses in public, financial event in public, joyful event in public life, new law in public, and advantages through technology in public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Uranus = Vernal Point`: sudden beneficial change becoming socially visible and widely felt. It favors public lucky breaks, shared openings, and collective surprise in fortune.
 
 ## Links
 
@@ -61,3 +55,5 @@ Fortunate circumstances. Stroke of good luck for several people. Lottery.
 - [Uranus](../factors/uranus.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Jupiter/Uranus](../axes/jupiter-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

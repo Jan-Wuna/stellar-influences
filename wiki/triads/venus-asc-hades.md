@@ -3,7 +3,7 @@ title: Venus Asc Hades
 page_type: triad_hub
 slug: venus-asc-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Asc Hades`
 - Astronomicon triad-set: `Q Asc ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Hades = Venus](../activations/asc-hades-equals-venus.md)
-  Source page `92`
 - [Venus/Asc = Hades](../activations/venus-asc-equals-hades.md)
-  Source page `84`
 - [Venus/Hades = Asc](../activations/venus-hades-equals-asc.md)
-  Source page `183`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Hades = Venus`: page `92`
-- `Venus/Asc = Hades`: page `84`
-- `Venus/Hades = Asc`: page `183`
+- `Asc/Hades = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `92`
+- `Asc/Hades = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `124`
+- `Venus/Asc = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `84`
+- `Venus/Asc = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `109`
+- `Venus/Hades = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `183`
+- `Venus/Hades = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `284`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Hades = Venus`: relational involvement with low conditions, slum life, or love tied to poor taste and damaged social realities.
+- `Venus/Asc = Hades`: difficulties or restrictions in love or other pleasant connections.
+- `Venus/Hades = Asc`: deal with people with vulgar manners.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Asc](../factors/asc.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

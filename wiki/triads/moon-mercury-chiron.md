@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Moon Mercury Chiron`
 - Astronomicon triad-set: `R T Chiron`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Moon/Chiron = Mercury`: John, page `32`
 - `Moon/Mercury = Chiron`: John, page `25`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Chiron = Moon` gives the axis instinctive timing and emotionally healing words.
+- `Moon/Chiron = Mercury`: Thinking and communicating that are infused with healing emotional energy and which can nurture others at deep levels in profound transformational ways.
+- `Moon/Mercury = Chiron`: Your energy helps other people to talk about and think about their feelings, and to be more connected to their emotions. You naturally induce a freer and warmer flow of interchange with others.
 
 ## Links
 

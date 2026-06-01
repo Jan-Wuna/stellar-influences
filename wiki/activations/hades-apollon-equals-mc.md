@@ -3,7 +3,7 @@ title: Hades/Apollon = MC
 page_type: activation
 slug: hades-apollon-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Hades
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Apollon`
-- Source page: `280`
 #### Witte Entry
 
 To come through bad experience to knowledge. To be under the influence and impression of great poverty. To know the past. To be a historian. Knowledge of a secret doctrine.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To come through bad experience to knowledge. To be under the influence and impression of great poverty. To know the past. To be a historian. Knowledge of a secret doctrine.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+my success through deprivation, my secret knowledge, my lack of knowledge, my experience of criminality, my dangerous experiences, my dangerous freedom, and increasing of the speleous heart
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Apollon = MC`: identity and life direction being shaped by difficult experience and the need to understand hidden or historical causes. Main caution: constructing the self entirely around bleak knowledge or burdened memory.
 
 ## Links
 
@@ -61,3 +55,5 @@ To come through bad experience to knowledge. To be under the influence and impre
 - [Apollon](../factors/apollon.md)
 - [MC](../factors/mc.md)
 - [Hades/Apollon](../axes/hades-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

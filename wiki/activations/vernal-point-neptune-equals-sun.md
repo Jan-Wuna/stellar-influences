@@ -3,7 +3,7 @@ title: Vernal Point/Neptune = Sun
 page_type: activation
 slug: vernal-point-neptune-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Sun
   - Neptune
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Neptune`
-- Source page: `46`
 #### Witte Entry
 
 Sensitivity of the body. Damage to the body through general illusions or poisoning. Diseases of the blood. Not equal to demands.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sensitivity of the body. Damage to the body through general illusions or poisoning. Diseases of the blood. Not equal to demands.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Sensitive people in public, foreign people in public life, corporal weak in public, public water center, personal insecurity in public, and sensitive men in public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Neptune = Sun`: sensitivity of the body, damage to the body through general illusions or poisoning, diseases of the blood, and not equal to demands.
+- Practical expression: sensitive people in public, foreign people in public life, corporal weak in public, public water center, and personal insecurity in public.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sensitivity of the body. Damage to the body through general illusions or poisoni
 - [Neptune](../factors/neptune.md)
 - [Sun](../factors/sun.md)
 - [Vernal Point/Neptune](../axes/vernal-point-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

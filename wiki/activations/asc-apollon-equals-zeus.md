@@ -3,7 +3,7 @@ title: Asc/Apollon = Zeus
 page_type: activation
 slug: asc-apollon-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - Zeus
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Apollon`
-- Source page: `95`
 #### Witte Entry
 
 Things or objects that come from a distance into our near environment. To deal with military of technical matters. Gun shop. Customers with technical interest.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Things or objects that come from a distance into our near environment. To deal with military of technical matters. Gun shop. Customers with technical interest.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful partner efforts, successful environmental design, fire expansion on site, driving environmental knowledge, creative knowledge on site, increased environmental goals, procreation success with the partner, and increasing local efforts
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Apollon = Zeus`: specialized trade, technical customers, and an outward field energized by directed practical purpose. Main caution: instrumentalization of the network: the widened environment may become too focused on utility, technique, or hard-edged objectives.
 
 ## Links
 
@@ -61,3 +55,5 @@ Things or objects that come from a distance into our near environment. To deal w
 - [Apollon](../factors/apollon.md)
 - [Zeus](../factors/zeus.md)
 - [Asc/Apollon](../axes/asc-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

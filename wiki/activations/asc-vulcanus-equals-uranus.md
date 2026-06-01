@@ -3,7 +3,7 @@ title: Asc/Vulcanus = Uranus
 page_type: activation
 slug: asc-vulcanus-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Asc
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Vulcanus`
-- Source page: `97`
 #### Witte Entry
 
 Others become suddenly engaged in close fights, come to blows, act suddenly, explosively, abruptly.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Others become suddenly engaged in close fights, come to blows, act suddenly, explosively, abruptly.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Arousal by rape of the environment, dynamic crash of the place, influence of the partner event, power reform in the place, new administration in the place, sudden influence on the part of the partner, strong nervousness of the partner, technical energy in the place, and technical power for the environment
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Vulcanus = Uranus`: volatile surroundings, sudden clashes, and powerful people acting unpredictably or explosively. Main caution: accidents, ruptures, or violence that breaks out too fast to contain.
 
 ## Links
 
@@ -61,3 +55,5 @@ Others become suddenly engaged in close fights, come to blows, act suddenly, exp
 - [Vulcanus](../factors/vulcanus.md)
 - [Uranus](../factors/uranus.md)
 - [Asc/Vulcanus](../axes/asc-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

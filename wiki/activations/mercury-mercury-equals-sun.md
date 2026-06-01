@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Mercury + Mercury`
-- Source page: `157`
 #### Witte Entry
 
 A body in motion. Young body. The head. The nerves. Consciousness. Thoughts in general. Youth. The thinking faculty. The mobility of the body. News of the day.
 
-## Comparative Schema
-
-- core meaning: A body in motion. Young body. The head. The nerves. Consciousness. Thoughts in general. Youth. The thinking faculty. The mobility of the body. News of the day.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Mercury = Sun` embodies the axis in consciousness, nerves, youth, and daily mental motion.
+- Chart expression: the thinking faculty itself becoming visible in the body and day-to-day life, with youthfulness, awareness, nervous sensitivity, and the news of the day taking center stage.
 
 ## Links
 

@@ -3,7 +3,7 @@ title: Hades Zeus Poseidon
 page_type: triad_hub
 slug: hades-zeus-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Zeus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Hades Zeus Poseidon`
 - Astronomicon triad-set: `¢ £ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Poseidon = Zeus](../activations/hades-poseidon-equals-zeus.md)
-  Source page `286`
 - [Hades/Zeus = Poseidon](../activations/hades-zeus-equals-poseidon.md)
-  Source page `278`
 - [Zeus/Poseidon = Hades](../activations/zeus-poseidon-equals-hades.md)
-  Source page `296`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Poseidon = Zeus`: page `286`
-- `Hades/Zeus = Poseidon`: page `278`
-- `Zeus/Poseidon = Hades`: page `296`
+- `Hades/Poseidon = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `286`
+- `Hades/Poseidon = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `449`
+- `Hades/Zeus = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `278`
+- `Hades/Zeus = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `439`
+- `Zeus/Poseidon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `296`
+- `Zeus/Poseidon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `459`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Poseidon = Zeus`: becoming the object of hate and spite because of separation or isolation.
+- `Hades/Zeus = Poseidon`: lack of intellectual effort, mental indifference, and hate carried as an ideology or worldview.
+- `Zeus/Poseidon = Hades`: Mental attitude or behavior of a society or a family. To hold or to take the leadership in some field of art. Creative mental accomplishment in the field of art. Ugly mental attitude and behavior. Miserable disposition. Lack of character. Poor report card.
 
 ## Links
 
 - [Hades](../factors/hades.md)
 - [Zeus](../factors/zeus.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

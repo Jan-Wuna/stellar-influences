@@ -3,7 +3,7 @@ title: Saturn/Uranus = Poseidon
 page_type: activation
 slug: saturn-uranus-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Uranus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Uranus`
-- Source page: `221`
 #### Witte Entry
 
 Sudden shattering of confidence and faith. Sudden separation from an opinion, conviction or concept of life.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sudden shattering of confidence and faith. Sudden separation from an opinion, conviction or concept of life.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Serious cultural events, mental maturity impulses, concentration on clear technology, new mature ideas, sudden problems with truth, surprising pain due to truth, useful technical tasks, and surprising mental problems
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Uranus = Poseidon`: sudden shattering of confidence and faith, sudden separation from an opinion, conviction or concept of life.
+- Practical expression: serious cultural events, mental maturity impulses, concentration on clear technology, new mature ideas, and sudden problems with truth.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sudden shattering of confidence and faith. Sudden separation from an opinion, co
 - [Uranus](../factors/uranus.md)
 - [Poseidon](../factors/poseidon.md)
 - [Saturn/Uranus](../axes/saturn-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

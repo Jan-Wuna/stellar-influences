@@ -3,7 +3,7 @@ title: Node/Vulcanus = Vernal Point
 page_type: activation
 slug: node-vulcanus-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Node
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Vulcanus`
-- Source page: `155`
 #### Witte Entry
 
 General powerful connections. Strongly connected with public. To cause excitement in public.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: General powerful connections. Strongly connected with public. To cause excitement in public.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+encounter with violence in public, mediation of energy for the public, strong connection to the public, influence through public encounters, influential connections in public, and connection with public power
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Vulcanus = Vernal Point`: General powerful connections. Strongly connected with public. To cause excitement in public.
+- Practical focus: general powerful connections; also strongly connected with public.
 
 ## Links
 
@@ -61,3 +56,5 @@ General powerful connections. Strongly connected with public. To cause excitemen
 - [Vulcanus](../factors/vulcanus.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Node/Vulcanus](../axes/node-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

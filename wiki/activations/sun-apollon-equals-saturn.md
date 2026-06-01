@@ -3,7 +3,7 @@ title: Sun/Apollon = Saturn
 page_type: activation
 slug: sun-apollon-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Saturn
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Apollon`
-- Source page: `115`
 #### Witte Entry
 
 Success in educational matters. Modest success in later part of life. Hindrance, decrease of success.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Success in educational matters. Modest success in later part of life. Hindrance, decrease of success.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Success through personal perseverance, successful person in old age, personal freedom loss, personal focus on knowledge, multiplication of a man's tasks, loss of vie! Money, and increasing personal problems
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Apollon = Saturn`: hard work on a large scale and successful in all labor.
+- Practical expression: success through personal perseverance, successful person in old age, personal freedom loss, personal focus on knowledge, and multiplication of a man's tasks.
 
 ## Links
 
@@ -61,3 +56,5 @@ Success in educational matters. Modest success in later part of life. Hindrance,
 - [Apollon](../factors/apollon.md)
 - [Saturn](../factors/saturn.md)
 - [Sun/Apollon](../axes/sun-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

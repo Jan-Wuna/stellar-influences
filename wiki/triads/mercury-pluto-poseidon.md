@@ -3,7 +3,7 @@ title: Mercury Pluto Poseidon
 page_type: triad_hub
 slug: mercury-pluto-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Pluto Poseidon`
 - Astronomicon triad-set: `T Z ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Pluto = Poseidon](../activations/mercury-pluto-equals-poseidon.md)
-  Source page `165`
 - [Mercury/Poseidon = Pluto](../activations/mercury-poseidon-equals-pluto.md)
-  Source page `173`
 - [Pluto/Poseidon = Mercury](../activations/pluto-poseidon-equals-mercury.md)
-  Source page `264`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Pluto = Poseidon`: page `165`
-- `Mercury/Poseidon = Pluto`: page `173`
-- `Pluto/Poseidon = Mercury`: page `264`
+- `Mercury/Pluto = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `165`
+- `Mercury/Pluto = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `253`
+- `Mercury/Poseidon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `173`
+- `Mercury/Poseidon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `269`
+- `Pluto/Poseidon = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `264`
+- `Pluto/Poseidon = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `422`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Pluto = Poseidon`: Development of deep, mental or spiritualized thinking. To develop ideas.
+- `Mercury/Poseidon = Pluto`: To talk about ideas in community. A society held together through an idea.
+- `Pluto/Poseidon = Mercury`: This activation emphasizes thoughts, opinions an conversations about changes and transformations in philosophical matters; To effect changes in such things though dialogue.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Pluto](../factors/pluto.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

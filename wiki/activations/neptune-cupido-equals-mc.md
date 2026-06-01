@@ -3,7 +3,7 @@ title: Neptune/Cupido = MC
 page_type: activation
 slug: neptune-cupido-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - MC
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Cupido`
-- Source page: `247`
 #### Witte Entry
 
 Grief through marriage. To be part of dissolution of a union.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Grief through marriage. To be part of dissolution of a union.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dissolving my community, Feelings of a soul community, I at the exchanged by the community, I at the insecure in the community, my subtle community, my artificial in the water, and my future in the community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Cupido = MC`: Grief through marriage. To be part of dissolution of a union.
+- Practical focus: internalizes the breaking of union as grief and identity-level sorrow, marking participation in the ending of marriage, family cohesion, or shared belonging.
+- Practical expression: dissolving my community, feelings of a soul community, i at the exchanged by the community, i at the insecure in the community, and my subtle community.
 
 ## Links
 
@@ -61,3 +57,5 @@ Grief through marriage. To be part of dissolution of a union.
 - [Cupido](../factors/cupido.md)
 - [MC](../factors/mc.md)
 - [Neptune/Cupido](../axes/neptune-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

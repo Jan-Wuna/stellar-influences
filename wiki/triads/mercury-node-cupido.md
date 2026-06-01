@@ -3,7 +3,7 @@ title: Mercury Node Cupido
 page_type: triad_hub
 slug: mercury-node-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Node Cupido`
 - Astronomicon triad-set: `T g ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Cupido = Node](../activations/mercury-cupido-equals-node.md)
-  Source page `166`
 - [Mercury/Node = Cupido](../activations/mercury-node-equals-cupido.md)
-  Source page `141`
 - [Node/Cupido = Mercury](../activations/node-cupido-equals-mercury.md)
-  Source page `149`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Cupido = Node`: page `166`
-- `Mercury/Node = Cupido`: page `141`
-- `Node/Cupido = Mercury`: page `149`
+- `Mercury/Cupido = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `166`
+- `Mercury/Cupido = Node`: Udo Rudolph - ABC for Planetary Pictures, page `254`
+- `Mercury/Node = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `141`
+- `Mercury/Node = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `209`
+- `Node/Cupido = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `149`
+- `Node/Cupido = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `224`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Cupido = Node`: socializes the axis through communities, agencies, and shared artistic ideas.
+- `Mercury/Node = Cupido`: socializes the axis through courtship, associates, entertainment, and art.
+- `Node/Cupido = Mercury`: A marriage proposal. A letter of invitation.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Node](../factors/node.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

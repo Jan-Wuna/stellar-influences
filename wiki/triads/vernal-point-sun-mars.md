@@ -3,7 +3,7 @@ title: Vernal Point Sun Mars
 page_type: triad_hub
 slug: vernal-point-sun-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Sun
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Sun Mars`
 - Astronomicon triad-set: `VP S U`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Sun/Mars = Vernal Point](../activations/sun-mars-equals-vernal-point.md)
-  Source page `105`
 - [Vernal Point/Mars = Sun](../activations/vernal-point-mars-equals-sun.md)
-  Source page `42`
 - [Vernal Point/Sun = Mars](../activations/vernal-point-sun-equals-mars.md)
-  Source page `37`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Sun/Mars = Vernal Point`: page `105`
-- `Vernal Point/Mars = Sun`: page `42`
-- `Vernal Point/Sun = Mars`: page `37`
+- `Sun/Mars = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `105`
+- `Sun/Mars = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `146`
+- `Vernal Point/Mars = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `42`
+- `Vernal Point/Mars = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `32`
+- `Vernal Point/Sun = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `37`
+- `Vernal Point/Sun = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `22`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Sun/Mars = Vernal Point`: This formula emphasizes activity in the environment and force meeting circumstance directly.
+- `Vernal Point/Mars = Sun`: This formula emphasizes a day of public work, special work, the man's activities or his labors, and a fight or battle action.
+- `Vernal Point/Sun = Mars`: This formula emphasizes time of the body’s maximum strength, acting bodies, and active people.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Sun](../factors/sun.md)
 - [Mars](../factors/mars.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

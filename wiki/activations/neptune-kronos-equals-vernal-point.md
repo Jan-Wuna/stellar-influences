@@ -3,7 +3,7 @@ title: Neptune/Kronos = Vernal Point
 page_type: activation
 slug: neptune-kronos-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Neptune
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Kronos`
-- Source page: `250`
 #### Witte Entry
 
 The general public lives under the wrong impression about the administration. Incompetence in ruling circles.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The general public lives under the wrong impression about the administration. Incompetence in ruling circles.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special expectations in the C)public sphere, great sensitivity for the public Life, large exchanges for the public, weak public authoritations, unrecognized hierarchic in the public life, and future oriented discussion for the public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Kronos = Vernal Point`: The general public lives under the wrong impression about the administration. Incompetence in ruling circles.
+- Practical focus: externalizes failed leadership into the public sphere, where the wider community lives under false impressions about administration and senses incompetence in ruling circles.
+- Practical expression: special expectations in the C)public sphere, great sensitivity for the public Life, large exchanges for the public, and unrecognized hierarchic in the public life.
 
 ## Links
 
@@ -61,3 +57,5 @@ The general public lives under the wrong impression about the administration. In
 - [Kronos](../factors/kronos.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Neptune/Kronos](../axes/neptune-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

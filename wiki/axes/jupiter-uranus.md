@@ -58,13 +58,14 @@ aliases:
   - Uranus/Jupiter
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -77,17 +78,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Uranus`
-- Source page: `208`
-
 #### Pair Summary
 
 Material success. Sudden luck. Sudden misfortune, if Jupiter posited in poor pictures. Sudden strokes of good luck. Fortunate events. Happy surprises. Success in technology. Money though technology. Electronic money. Digital currency. New money. Monetary reform.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Jupiter/Uranus`
-- Source page: `228`
+#### ABC Pair Summary
+
+Success••hnpupe, Vinanz Reform, joy in rhythm, joyous event, g:1:; ObcitT!"-chung, sudden edoig, new law, legal reform, tension through money, and advantage through technology
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -111,17 +112,11 @@ Organizers, inventors. Adventurers and fortune-hunters.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
-- Source heading: `Jupiter/Uranus`
-- Source page: `67`
-
 #### Falis Entry
 
 Expanding the influence of technology. Envisioning the future. Technological philosophies. Technology is a religious experience. Visions of the future. Beliefs about the future. Believing in the future. Believing in progress. Wondering what the future will bring. Looking forward. Self-indulgent rebellions. Self-indulgent eccen tricity. Self-indulgent weirdness. Exaggerating everything that makes you different. Finding meaning in technology. Finding meaning in progress and advancement. Progress versus meaning. What is the meaning of progress? Does progress cause life to lose meaning? Does technology give more meaning to life, or less? What are the ethics of technology and progress? Philosophies of rebellion. Experimental education. Overzealous reformers. Religious fringe. Experimenting with your faith. Experimental religions. Sudden glimpses of God (or deity of choice}. Direct connection to God. Anti-religious. Atheists. Rebelling against reli gion and faith. Religious rebellions. Rebelling against accepted moral codes. Find ing meaning in the opposite direction of God and faith. Extremely philosophical. Extremely religious. Religion versus technology. Big and shiny. Luck through pursuing technological advances. Luck through taking the less trav eled route. Luck through going your own way. Luck through breaking from tradi tion. Lack of sentimentality for the past. Intelligence and depth. Willing to take big, unpredictable risks. Total detachment from convention. An enormous need for freedom from restriction. Luck through wresting yourself from the past. Sudden luck. Lucky breaks. Breaking free. Getting your big break. Open to the unexpected. Open to trying something different. Having confidence in your uniqueness. Having confidence that you are special. Being conceited about the ways that you are dif ferent. Getting to the truth. Deep interest in finding out what the truth is. Deep interest in the occult. Hugely unpredictable. Frantic. Restless. Truly crazy. Bounc ing off the walls. Out of control. Swinging to extremes. Expanded feelings of not fit ting in. Nerds. Geeks. Social outsiders. The fringe.
 
 ### Charles Carter - The Astrological Aspects
-
-- Source heading: `ASPECTS OF JUPITER & URANUS`
-- Source page: `62`
 
 #### Harmonious Aspects
 
@@ -157,9 +152,6 @@ In ordinary life it is likely to make the native too independent, outspoken and 
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Jupiter/Uranus midpoint`
-- Source page: `80`
-
 #### Principle
 
 Unbridled enthusiasm. One’s own unique (and often inspired) understanding. Sudden and unexpected good luck. To be excessively rebellious, sometimes just for the sake of being opposed to something. To be independently enthusiastic about one’s own unique interests. To blow something completely out of proportion or to have an ex treme reaction to something. Encouraging others to be more free.
@@ -170,17 +162,11 @@ The freeing up of one’s ability to learn and to grow. The ability to learn on 
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Jupiter/Uranus`
-- Source page: `209`
-
 #### Pair Delineation
 
 The urge to break free of restraint, the drive for freedom. The need or desire for sudden changes of fortune, hence associated with sudden luck, either bad or good. Difficulties with restraints imposed by the law or other authorities.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `JUPITER/URANUS`
-- Source page: `259`
 
 #### Basic Ideas
 
@@ -209,15 +195,6 @@ Abnormalities in the body caused by an excess of fat in the blood; upsets to you
 
 - [Michael Munkasey - Jupiter/Uranus Concepts](../derived/munkasey-jupiter-uranus-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Jupiter/Uranus = Admetos](../activations/jupiter-uranus-equals-admetos.md)
@@ -242,20 +219,18 @@ Abnormalities in the body caused by an excess of fat in the blood; upsets to you
 - [Jupiter/Uranus = Vulcanus](../activations/jupiter-uranus-equals-vulcanus.md)
 - [Jupiter/Uranus = Zeus](../activations/jupiter-uranus-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Uranus` is the axis of liberated growth, sudden opportunity, unconventional vision, reform, and fortunate breakthroughs. It joins enthusiasm, meaning, and expansion with freedom, surprise, originality, and the refusal to stay inside stale limits.
+- Chart expression: inspired ideas, lucky breaks, inventive or technical promise, intellectual independence, progressive convictions, and the ability to seize unexpected openings. Its volatility is part of the picture: restlessness, exaggeration, impulsive rebellion, tactless independence, and a tendency to provoke disruption in the name of truth, reform, or personal freedom.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Uranus](../factors/uranus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)

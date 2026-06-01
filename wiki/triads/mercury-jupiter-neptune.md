@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Jupiter Neptune`
 - Astronomicon triad-set: `T V Y`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,18 +40,26 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Jupiter/Neptune = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `209`
+- `Jupiter/Neptune = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `328`
 - `Jupiter/Neptune = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `232`
 - `Jupiter/Neptune = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `81`
+- `Jupiter/Neptune = Mercury`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `264`
 - `Mercury/Jupiter = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `161`
+- `Mercury/Jupiter = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `245`
 - `Mercury/Jupiter = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `44`
+- `Mercury/Jupiter = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `156`
 - `Mercury/Neptune = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `164`
+- `Mercury/Neptune = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `250`
 - `Mercury/Neptune = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `161`
 - `Mercury/Neptune = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `49`
+- `Mercury/Neptune = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `168`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Neptune = Mercury`: imaginative thought, inspired or sympathetic speech, and a mind drawn to possibilities, visions, and intangible meanings.
+- `Mercury/Jupiter = Neptune`: expansive imagination, with communication shaped by spirituality, dream, symbolism, and the hope of a larger redemptive pattern.
+- `Mercury/Neptune = Jupiter`: visionary communication, with imagination shaped by faith, philosophy, and the search for a larger pattern.
 
 ## Links
 
@@ -58,5 +67,7 @@ updated_at: 2026-04-22
 - [Jupiter](../factors/jupiter.md)
 - [Neptune](../factors/neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

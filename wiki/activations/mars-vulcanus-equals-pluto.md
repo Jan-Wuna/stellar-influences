@@ -3,7 +3,7 @@ title: Mars/Vulcanus = Pluto
 page_type: activation
 slug: mars-vulcanus-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Pluto
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Vulcanus`
-- Source page: `203`
 #### Witte Entry
 
 To develop great strength or plans. To bring about a change through the use of powerful energies.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To develop great strength or plans. To bring about a change through the use of powerful energies.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Work, activity in the energy transformation, increasing enc cess in activity, increasing influence of work, increasing violence activities, and will power
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Vulcanus = Pluto` uses great force for development, transformation, and large strategic changes.
+- Chart expression: building great strength or plans and to bringing about major change by applying concentrated, transformative energy.
 
 ## Links
 
@@ -61,3 +56,5 @@ To develop great strength or plans. To bring about a change through the use of p
 - [Vulcanus](../factors/vulcanus.md)
 - [Pluto](../factors/pluto.md)
 - [Mars/Vulcanus](../axes/mars-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

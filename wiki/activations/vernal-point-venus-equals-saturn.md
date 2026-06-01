@@ -3,7 +3,7 @@ title: Vernal Point/Venus = Saturn
 page_type: activation
 slug: vernal-point-venus-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Venus
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Venus
   - Saturn
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Venus`
-- Source page: `41`
 #### Witte Entry
 
 The end of mating time. Love’s parting.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The end of mating time. Love’s parting.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Joy in the public in old age, peace tasks in public, peace burdens in public, local public harmony, local beauty of the world, public peace cancellations, and preference for public surrenders
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Venus = Saturn`: the end of mating time and love’s parting.
+- Practical expression: oy in the public in old age, peace tasks in public, peace burdens in public, local public harmony, and local beauty of the world.
 
 ## Links
 
@@ -61,3 +56,5 @@ The end of mating time. Love’s parting.
 - [Venus](../factors/venus.md)
 - [Saturn](../factors/saturn.md)
 - [Vernal Point/Venus](../axes/vernal-point-venus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

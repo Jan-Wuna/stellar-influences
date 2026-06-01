@@ -3,7 +3,7 @@ title: Vernal Point Pluto MC
 page_type: triad_hub
 slug: vernal-point-pluto-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Pluto MC`
 - Astronomicon triad-set: `VP Z MC`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Pluto/MC = Vernal Point](../activations/pluto-mc-equals-vernal-point.md)
-  Source page `69`
 - [Vernal Point/MC = Pluto](../activations/vernal-point-mc-equals-pluto.md)
-  Source page `35`
 - [Vernal Point/Pluto = MC](../activations/vernal-point-pluto-equals-mc.md)
-  Source page `47`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Pluto/MC = Vernal Point`: page `69`
-- `Vernal Point/MC = Pluto`: page `35`
-- `Vernal Point/Pluto = MC`: page `47`
+- `Pluto/MC = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `69`
+- `Pluto/MC = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `82`
+- `Vernal Point/MC = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `35`
+- `Vernal Point/MC = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `19`
+- `Vernal Point/Pluto = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `47`
+- `Vernal Point/Pluto = MC`: Udo Rudolph - ABC for Planetary Pictures, page `42`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Pluto/MC = Vernal Point`: This activation emphasizes the native experiences general transformation and must reorient personally.
+- `Vernal Point/MC = Pluto`: This formula emphasizes the development of one’s own attitude toward the world in general.
+- `Vernal Point/Pluto = MC`: This formula emphasizes one’s own goals are influenced by general developments.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Pluto](../factors/pluto.md)
 - [MC](../factors/mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

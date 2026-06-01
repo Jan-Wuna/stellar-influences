@@ -3,7 +3,7 @@ title: Saturn/Pluto = Zeus
 page_type: activation
 slug: saturn-pluto-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Pluto
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Pluto`
-- Source page: `223`
 #### Witte Entry
 
 One’s accomplishments increased only by difficulty and slowly.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: One’s accomplishments increased only by difficulty and slowly.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful development in old age, beginning pain development, serious efforts to develop creative tasks development, problematic movement change, developing mature achievements, shocks at the beginning of a development, and growing fire losses
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Pluto = Zeus`: one’s accomplishments increased only by difficulty and slowly.
+- Practical expression: effortful development in old age, beginning pain development, serious efforts to develop creative tasks development, problematic movement change, and developing mature achievements.
 
 ## Links
 
@@ -61,3 +56,5 @@ One’s accomplishments increased only by difficulty and slowly.
 - [Pluto](../factors/pluto.md)
 - [Zeus](../factors/zeus.md)
 - [Saturn/Pluto](../axes/saturn-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

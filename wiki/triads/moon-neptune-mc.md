@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Neptune MC`
 - Astronomicon triad-set: `R Y MC`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,19 +40,27 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Moon/MC = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `60`
+- `Moon/MC = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `65`
 - `Moon/MC = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `143`
 - `Moon/MC = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `40`
+- `Moon/MC = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `144`
 - `Moon/Neptune = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `128`
+- `Moon/Neptune = MC`: Udo Rudolph - ABC for Planetary Pictures, page `188`
 - `Moon/Neptune = MC`: Reinhold Ebertin - The Combination of Stellar Influences, page `133`
 - `Moon/Neptune = MC`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `34`
+- `Moon/Neptune = MC`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `128`
 - `Neptune/MC = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `68`
+- `Neptune/MC = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `80`
 - `Neptune/MC = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `290`
 - `Neptune/MC = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `113`
+- `Neptune/MC = Moon`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `340`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/MC = Neptune`: a soulful but elusive outer role, with direction shaped by compassion, imagination, and emotional atmospheres that are hard to define cleanly.
+- `Moon/Neptune = MC`: a soulful but elusive public path, with outer role shaped by compassion, imagination, sacrifice, and subtle emotional attunement.
+- `Neptune/MC = Moon`: a highly impressionable life direction, with vocation shaped by moods, need for belonging, care, and the search for emotional or spiritual shelter in one's public role.
 
 ## Links
 
@@ -59,5 +68,7 @@ updated_at: 2026-04-22
 - [Neptune](../factors/neptune.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

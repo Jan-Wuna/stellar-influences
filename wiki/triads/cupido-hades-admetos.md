@@ -3,7 +3,7 @@ title: Cupido Hades Admetos
 page_type: triad_hub
 slug: cupido-hades-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Cupido Hades Admetos`
 - Astronomicon triad-set: `¡ ¢ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Admetos = Hades](../activations/cupido-admetos-equals-hades.md)
-  Source page `271`
 - [Cupido/Hades = Admetos](../activations/cupido-hades-equals-admetos.md)
-  Source page `267`
 - [Hades/Admetos = Cupido](../activations/hades-admetos-equals-cupido.md)
-  Source page `284`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Admetos = Hades`: page `271`
-- `Cupido/Hades = Admetos`: page `267`
-- `Hades/Admetos = Cupido`: page `284`
+- `Cupido/Admetos = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `271`
+- `Cupido/Admetos = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `433`
+- `Cupido/Hades = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `267`
+- `Cupido/Hades = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `425`
+- `Hades/Admetos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `284`
+- `Hades/Admetos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `445`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Admetos = Hades`: wretched partnership, miserable marriage, or sticking together in grave circumstances despite deterioration.
+- `Cupido/Hades = Admetos`: public spirit under adverse conditions, being avoided or proscribed, and standing together under sorrowful circumstances.
+- `Hades/Admetos = Cupido`: a small association under lack, meanness or discord in partnerships, and a shrinking membership base.
 
 ## Links
 
 - [Cupido](../factors/cupido.md)
 - [Hades](../factors/hades.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

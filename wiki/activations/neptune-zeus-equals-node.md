@@ -3,7 +3,7 @@ title: Neptune/Zeus = Node
 page_type: activation
 slug: neptune-zeus-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Node
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Zeus`
-- Source page: `249`
 #### Witte Entry
 
 Spontaneous union with consequent separation.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Spontaneous union with consequent separation.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful connections in the water, beginning dissolving of a connection, weakness in a relationship, intuitive design of a connection, creative connection to metaphysics, and connection with fire water
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Zeus = Node`: Spontaneous union with consequent separation.
+- Associations form suddenly but do not hold, pointing to abrupt unions whose momentum quickly turns toward separation.
+- Practical expression: effortful connections in the water, beginning dissolving of a connection, weakness in a relationship, intuitive design of a connection, and creative connection to metaphysics.
 
 ## Links
 
@@ -61,3 +57,5 @@ Spontaneous union with consequent separation.
 - [Zeus](../factors/zeus.md)
 - [Node](../factors/node.md)
 - [Neptune/Zeus](../axes/neptune-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

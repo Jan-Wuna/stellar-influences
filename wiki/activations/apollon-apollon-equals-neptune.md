@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Apollon + Apollon`
-- Source page: `305`
 #### Witte Entry
 
 Embezzlement. Great corruption. Deception on a large scale. Dissolution on a large scale. Chemistry. Science of the future. Occult science. Masses of air, gas or water. The deception of many. Large deception, frauds.
 
-## Comparative Schema
-
-- core meaning: Embezzlement. Great corruption. Deception on a large scale. Dissolution on a large scale. Chemistry. Science of the future. Occult science. Masses of air, gas or water. The deception of many. Large deception, frauds.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Apollon = Neptune`: collective deception, large dissolving forces, future-oriented or occult sciences, and situations where scale hides what is really happening. Main caution: corruption by vagueness: what grows large may do so through confusion, leakage, fantasy, or deliberate fraud.
 
 ## Links
 

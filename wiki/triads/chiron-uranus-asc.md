@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Chiron Uranus Asc`
 - Astronomicon triad-set: `Chiron X Asc`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Chiron/Uranus = Asc`: John, page `96`
 - `Uranus/Asc = Chiron`: John, page `107`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Asc = Uranus`: unconventional healing of identity, creative experimentation, and the ability to wear and remove identities more freely. Main caution: instability or constant reinvention without deeper integration.
+- `Chiron/Uranus = Asc`: liberating presence, healing through unpredictable immediacy, and identity expressed as freedom. Main caution: mistaking inconsistency for authenticity or freedom.
+- `Uranus/Asc = Chiron` has no source-bearing activation paragraph currently ingested on this page; treat it as an orientation placeholder rather than interpretive doctrine.
 
 ## Links
 

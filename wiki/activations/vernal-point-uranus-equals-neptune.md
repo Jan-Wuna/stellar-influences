@@ -3,7 +3,7 @@ title: Vernal Point/Uranus = Neptune
 page_type: activation
 slug: vernal-point-uranus-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Uranus
   - Neptune
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Uranus`
-- Source page: `45`
 #### Witte Entry
 
 From here to the beyond. To make connection with the dead. To die.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: From here to the beyond. To make connection with the dead. To die.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Agitated and disappointed public, public air technology, surprising deception of the public, unrest over public waters, insecurity through public reforms, water technology in public, impulses for the future for the public, dynamic changes in public, and reform developments in public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Uranus = Neptune`: from here to the beyond, to make connection with the dead, and to die.
+- Practical expression: agitated, disappointed public, public air technology, surprising deception of the public, and unrest over public waters.
 
 ## Links
 
@@ -61,3 +56,5 @@ From here to the beyond. To make connection with the dead. To die.
 - [Uranus](../factors/uranus.md)
 - [Neptune](../factors/neptune.md)
 - [Vernal Point/Uranus](../axes/vernal-point-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Venus/Poseidon = Apollon
 page_type: activation
 slug: venus-poseidon-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Apollon
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Poseidon`
-- Source page: `189`
 #### Witte Entry
 
 Friends, adherents or fellow-believers in religion and world conception.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Friends, adherents or fellow-believers in religion and world conception.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Expansion of spiritual harmony, expansion of peace culture, knowledge of arts and culture, clarity through peace science, successful love of the spirit, love of spiritual freedom, success through spiritual arts, and growing joy of knowledge
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Poseidon = Apollon`: friends, adherents or fellow-believers in religion and world conception.
+- Practical expression: expansion of spiritual harmony, expansion of peace culture, knowledge of arts, culture, and clarity through peace science.
 
 ## Links
 
@@ -61,3 +56,5 @@ Friends, adherents or fellow-believers in religion and world conception.
 - [Poseidon](../factors/poseidon.md)
 - [Apollon](../factors/apollon.md)
 - [Venus/Poseidon](../axes/venus-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

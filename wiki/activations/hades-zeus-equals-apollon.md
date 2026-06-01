@@ -3,7 +3,7 @@ title: Hades/Zeus = Apollon
 page_type: activation
 slug: hades-zeus-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Hades
   - Zeus
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Zeus`
-- Source page: `278`
 #### Witte Entry
 
 Spreading of a hateful and ugly way of thinking. Common hate of many. Expansion of an industry. Increase of coal production.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Spreading of a hateful and ugly way of thinking. Common hate of many. Expansion of an industry. Increase of coal production.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Experienced Filing Service, Filing Service in Trade, FD Experiences of the Past, Dangerous Fire Extension, Hidden Filing of Science, Hidden Knowledge of Filing, Knowledge lack of FD, and Increasing Fire Criminality
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Zeus = Apollon`: destructive or degraded will moving through larger systems. It can show hatred becoming collective and the industrial field growing alongside the very forces that can corrupt it.
 
 ## Links
 
@@ -61,3 +55,5 @@ Spreading of a hateful and ugly way of thinking. Common hate of many. Expansion 
 - [Zeus](../factors/zeus.md)
 - [Apollon](../factors/apollon.md)
 - [Hades/Zeus](../axes/hades-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

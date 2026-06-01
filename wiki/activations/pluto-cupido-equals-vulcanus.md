@@ -3,7 +3,7 @@ title: Pluto/Cupido = Vulcanus
 page_type: activation
 slug: pluto-cupido-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Cupido
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Cupido`
-- Source page: `257`
 #### Witte Entry
 
 Great increase in families and communities. For a nation or a country it signifies increase of the population and land or territory. The social surroundings experience a drastic change.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great increase in families and communities. For a nation or a country it signifies increase of the population and land or territory. The social surroundings experience a drastic change.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+influential developmental community, energy transformation for the community, community of energy transformation, forceful developments in the community, changes of power in of a community, and strength of a shared development
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Cupido = Vulcanus`: great increase in families and communities; For a nation or a country it signifies increase of the population and land or territory.
+- Practical expression: influential developmental community, energy transformation for the community, community of energy transformation, forceful developments in the community, and changes of power in a community.
 
 ## Links
 
@@ -61,3 +56,5 @@ Great increase in families and communities. For a nation or a country it signifi
 - [Cupido](../factors/cupido.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Pluto/Cupido](../axes/pluto-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

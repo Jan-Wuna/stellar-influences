@@ -3,7 +3,7 @@ title: Kronos/Apollon = MC
 page_type: activation
 slug: kronos-apollon-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Kronos
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Kronos + Apollon`
-- Source page: `299`
 #### Witte Entry
 
 Great knowledge and ability or to have or to gain great experience. To be an authority for many.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great knowledge and ability or to have or to gain great experience. To be an authority for many.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Awareness, experience of a great soul, my special success, my self evident knowledge, my successes in the state, my freedom as boss, my great experiences, my increasing bliss, and my independence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Apollon = MC`: great knowledge, large experience, and becoming an authority for many people.
+- Chart expression: a life direction shaped by recognized mastery, institutional credibility, and broad public competence.
 
 ## Links
 
@@ -61,3 +56,5 @@ Great knowledge and ability or to have or to gain great experience. To be an aut
 - [Apollon](../factors/apollon.md)
 - [MC](../factors/mc.md)
 - [Kronos/Apollon](../axes/kronos-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

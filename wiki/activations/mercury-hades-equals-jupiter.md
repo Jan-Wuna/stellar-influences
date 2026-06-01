@@ -3,7 +3,7 @@ title: Mercury/Hades = Jupiter
 page_type: activation
 slug: mercury-hades-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Jupiter
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Hades`
-- Source page: `167`
 #### Witte Entry
 
 Good fortune gone. To love to think of the past. To be deceived in money matters. To be influenced to buy second hand or old things. To feel at home in mixed society. To enrich oneself by stolen goods.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Good fortune gone. To love to think of the past. To be deceived in money matters. To be influenced to buy second hand or old things. To feel at home in mixed society. To enrich oneself by stolen goods.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Reports on financial crime, financial emergency call, joy over writings from the past, money shortage of youth, lack of speech pleasure, lack of right thinking, legal talk in need, and satisfied thoughts in old age
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Hades = Jupiter` entangles the axis with loss, nostalgia, and morally tainted gain.
+- Chart expression: fortune spoiled or deceived away, attachment to the past, money matters involving old or second-hand things, and prosperity sought in questionable company or through compromised means.
 
 ## Links
 
@@ -61,3 +56,5 @@ Good fortune gone. To love to think of the past. To be deceived in money matters
 - [Hades](../factors/hades.md)
 - [Jupiter](../factors/jupiter.md)
 - [Mercury/Hades](../axes/mercury-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

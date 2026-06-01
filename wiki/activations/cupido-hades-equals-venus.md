@@ -3,7 +3,7 @@ title: Cupido/Hades = Venus
 page_type: activation
 slug: cupido-hades-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Cupido
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Hades`
-- Source page: `267`
 #### Witte Entry
 
 Miserable love associations. Prostitution. Poor housing. Compelled to be satisfied with anything.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Miserable love associations. Prostitution. Poor housing. Compelled to be satisfied with anything.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Common love secret, harmony deficiency in of a community, criminal arts community, criminal love community, love service for of a community, preference for old arts, and affection for a disadvantaged community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Hades = Venus`: relationship life narrowed by need, compromise, and low conditions, with desire adapting itself to scarcity. Main caution: mistaking degraded attachment for love or grace.
 
 ## Links
 
@@ -61,3 +55,5 @@ Miserable love associations. Prostitution. Poor housing. Compelled to be satisfi
 - [Hades](../factors/hades.md)
 - [Venus](../factors/venus.md)
 - [Cupido/Hades](../axes/cupido-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

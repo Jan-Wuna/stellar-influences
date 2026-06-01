@@ -33,30 +33,14 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mars/Chiron midpoint`
-- Source page: `69`
-- Activator: `Sun`
-
 #### Sandbach Entry
 
 One is inspired by the Spiritual Light to act, and needs to not repress those impulses when felt. The ability to bring to light the real and true nature of conflicts and what they have to teach us.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Chiron = Sun`: clear-hearted courage, conscious healing initiative, and the ability to bring hidden tensions into the light so they can teach and transform. The caution is repressing those guiding impulses until they return as sharper conflict.
 
 ## Links
 

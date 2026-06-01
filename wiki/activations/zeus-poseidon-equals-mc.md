@@ -3,7 +3,7 @@ title: Zeus/Poseidon = MC
 page_type: activation
 slug: zeus-poseidon-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Zeus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Poseidon`
-- Source page: `296`
 #### Witte Entry
 
 To firmly stand by one’s conviction, To lead mentally. To take over the mental leadership. To be under a mental compulsion. To know ways and means of getting out. To convince and to be able to prove.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To firmly stand by one’s conviction, To lead mentally. To take over the mental leadership. To be under a mental compulsion. To know ways and means of getting out. To convince and to be able to prove.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+animated culture configuration, refined creative spirit, fiery spirit soul, my spiritual goal, my clear goals, my cultural achievements, my truth proclaiming, and creative spirit soul
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Poseidon = MC`: To firmly stand by one’s conviction, To lead mentally. To take over the mental leadership. To be under a mental compulsion. To know ways and means of getting out. To convince and to be able to prove.
+- Practical expression: animated culture configuration, refined creative spirit, fiery spirit soul, my spiritual goal, and my clear goals.
 
 ## Links
 
@@ -61,3 +56,5 @@ To firmly stand by one’s conviction, To lead mentally. To take over the mental
 - [Poseidon](../factors/poseidon.md)
 - [MC](../factors/mc.md)
 - [Zeus/Poseidon](../axes/zeus-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

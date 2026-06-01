@@ -28,30 +28,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Asc + Asc`
-- Source page: `78`
 #### Witte Entry
 
 Ones relationship, position or attitude towards others. To join with others for a common objective. The social and vocational relations in the closer surroundings. Others influence one’s own emotions. In this minute at this place.
 
-## Comparative Schema
-
-- core meaning: Ones relationship, position or attitude towards others. To join with others for a common objective. The social and vocational relations in the closer surroundings. Others influence one’s own emotions. In this minute at this place.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Asc = MC`: self-placement within the immediate social field, joint aims with others, and emotional responsiveness to nearby people and place. Main caution: overidentification with local context: the native's mood or role may become too shaped by immediate surroundings.
 
 ## Links
 

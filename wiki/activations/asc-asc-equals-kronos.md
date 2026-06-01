@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Asc + Asc`
-- Source page: `79`
 #### Witte Entry
 
 Things which come to the native from above. Workman. Employee. Official. Others are superiors. The influence of the state on the environment. Officials in the near. To come in touch with employees, officials or authorities. Things upon which one is dependent. Orders emanating from the authorities. Extraordinary place.
 
-## Comparative Schema
-
-- core meaning: Things which come to the native from above. Workman. Employee. Official. Others are superiors. The influence of the state on the environment. Officials in the near. To come in touch with employees, officials or authorities. Things upon which one is dependent. Orders emanating from the authorities. Extraordinary place.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Asc = Kronos`: administrative surroundings, contact with officials, and a near field shaped by rank and governance. Main caution: hierarchical pressure: the immediate environment may become defined by authority, subordination, and dependence.
 
 ## Links
 

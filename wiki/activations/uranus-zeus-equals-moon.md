@@ -3,7 +3,7 @@ title: Uranus/Zeus = Moon
 page_type: activation
 slug: uranus-zeus-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Uranus
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Zeus`
-- Source page: `238`
 #### Witte Entry
 
 Persons who obey an order, listen to a command, who are eager and ready. Furies. Sudden strong explosion for the hour. Nation in arms.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Persons who obey an order, listen to a command, who are eager and ready. Furies. Sudden strong explosion for the hour. Nation in arms.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Excited movement of a people, dynamic people's leadership, fiery impulses of a woman, powerful creative impulses, re design of a people, new women's goals, creative feelings impulses, and technical achievements of a people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Zeus = Moon`: Persons who obey an order, listen to a command, who are eager and ready. Furies. Sudden strong explosion for the hour. Nation in arms.
+- Practical expression: excited movement of a people, dynamic people's leadership, fiery impulses of a woman, powerful creative impulses, and re design of a people.
 
 ## Links
 
@@ -61,3 +56,5 @@ Persons who obey an order, listen to a command, who are eager and ready. Furies.
 - [Zeus](../factors/zeus.md)
 - [Moon](../factors/moon.md)
 - [Uranus/Zeus](../axes/uranus-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

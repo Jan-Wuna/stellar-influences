@@ -3,7 +3,7 @@ title: Mercury Neptune Apollon
 page_type: triad_hub
 slug: mercury-neptune-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Neptune
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Neptune Apollon`
 - Astronomicon triad-set: `T Y ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Apollon = Neptune](../activations/mercury-apollon-equals-neptune.md)
-  Source page `170`
 - [Mercury/Neptune = Apollon](../activations/mercury-neptune-equals-apollon.md)
-  Source page `164`
 - [Neptune/Apollon = Mercury](../activations/neptune-apollon-equals-mercury.md)
-  Source page `251`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Apollon = Neptune`: page `170`
-- `Mercury/Neptune = Apollon`: page `164`
-- `Neptune/Apollon = Mercury`: page `251`
+- `Mercury/Apollon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `170`
+- `Mercury/Apollon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `263`
+- `Mercury/Neptune = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `164`
+- `Mercury/Neptune = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `251`
+- `Neptune/Apollon = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `251`
+- `Neptune/Apollon = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `400`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Apollon = Neptune`: makes the axis intuitive but also vulnerable to disappointment.
+- `Mercury/Neptune = Apollon`: expands the axis into highly sensitive intuitive science.
+- `Neptune/Apollon = Mercury`: This activation interprets `Neptune/Apollon` through mistaken thought, misleading speech, and the attempt to unmask error. It makes big uncertainty cognitive, so the axis works through conversations, explanations, theories, and the tension between confusion and correction.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Neptune](../factors/neptune.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Saturn/Neptune = Poseidon
 page_type: activation
 slug: saturn-neptune-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Neptune
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Neptune`
-- Source page: `222`
 #### Witte Entry
 
 Psychic-mental influence upon bad habits and illness. Psychology. Mental disorder.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Psychic-mental influence upon bad habits and illness. Psychology. Mental disorder.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Interchangeable cultural losses, fine tuning mature spirit, fine tuning through mental maturity, concentration on future prosperity, clear tasks for the future, concentration on new ideas, and recognition of air problems
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Neptune = Poseidon`: psychic-mental influence upon bad habits and illness, psychology, mental disorder.
+- Practical expression: interchangeable cultural losses, fine tuning mature spirit, fine tuning through mental maturity, concentration on future prosperity, and clear tasks for the future.
 
 ## Links
 
@@ -61,3 +56,5 @@ Psychic-mental influence upon bad habits and illness. Psychology. Mental disorde
 - [Neptune](../factors/neptune.md)
 - [Poseidon](../factors/poseidon.md)
 - [Saturn/Neptune](../axes/saturn-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

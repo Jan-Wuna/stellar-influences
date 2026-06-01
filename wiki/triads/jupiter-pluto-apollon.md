@@ -3,7 +3,7 @@ title: Jupiter Pluto Apollon
 page_type: triad_hub
 slug: jupiter-pluto-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Pluto Apollon`
 - Astronomicon triad-set: `V Z ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Apollon = Pluto](../activations/jupiter-apollon-equals-pluto.md)
-  Source page `215`
 - [Jupiter/Pluto = Apollon](../activations/jupiter-pluto-equals-apollon.md)
-  Source page `210`
 - [Pluto/Apollon = Jupiter](../activations/pluto-apollon-equals-jupiter.md)
-  Source page `261`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Apollon = Pluto`: page `215`
-- `Jupiter/Pluto = Apollon`: page `210`
-- `Pluto/Apollon = Jupiter`: page `261`
+- `Jupiter/Apollon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `215`
+- `Jupiter/Apollon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `341`
+- `Jupiter/Pluto = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `210`
+- `Jupiter/Pluto = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `331`
+- `Pluto/Apollon = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `261`
+- `Pluto/Apollon = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `416`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Apollon = Pluto`: major money transactions, large sums changing hands, and circulation itself becoming a dominant factor.
+- `Jupiter/Pluto = Apollon`: agreeable change for many people and fortunate development in trade or science.
+- `Pluto/Apollon = Jupiter`: This activation emphasizes an event with pleasant consequences; A gain happening but once.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Pluto](../factors/pluto.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

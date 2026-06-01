@@ -3,7 +3,7 @@ title: Vernal Point Hades Vulcanus
 page_type: triad_hub
 slug: vernal-point-hades-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Hades Vulcanus`
 - Astronomicon triad-set: `VP ¢ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Vulcanus = Vernal Point](../activations/hades-vulcanus-equals-vernal-point.md)
-  Source page `285`
 - [Vernal Point/Hades = Vulcanus](../activations/vernal-point-hades-equals-vulcanus.md)
-  Source page `49`
 - [Vernal Point/Vulcanus = Hades](../activations/vernal-point-vulcanus-equals-hades.md)
-  Source page `54`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Vulcanus = Vernal Point`: page `285`
-- `Vernal Point/Hades = Vulcanus`: page `49`
-- `Vernal Point/Vulcanus = Hades`: page `54`
+- `Hades/Vulcanus = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `285`
+- `Hades/Vulcanus = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `446`
+- `Vernal Point/Hades = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `49`
+- `Vernal Point/Hades = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `47`
+- `Vernal Point/Vulcanus = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `54`
+- `Vernal Point/Vulcanus = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `57`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Vulcanus = Vernal Point`: general dependence, suppression, vice, dirt, ugly behavior, uncultured force, and terrible violence in public life.
+- `Vernal Point/Hades = Vulcanus`: This formula emphasizes ugliness, dangerous plagues, and capital crimes.
+- `Vernal Point/Vulcanus = Hades`: This formula emphasizes powerful meanness, lowness and vulgarity, the lack of energy, and dead volcano.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Hades](../factors/hades.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Sun Asc Poseidon
 page_type: triad_hub
 slug: sun-asc-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Asc Poseidon`
 - Astronomicon triad-set: `S Asc ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Poseidon = Sun](../activations/asc-poseidon-equals-sun.md)
-  Source page `98`
 - [Sun/Asc = Poseidon](../activations/sun-asc-equals-poseidon.md)
-  Source page `80`
 - [Sun/Poseidon = Asc](../activations/sun-poseidon-equals-asc.md)
-  Source page `118`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Poseidon = Sun`: page `98`
-- `Sun/Asc = Poseidon`: page `80`
-- `Sun/Poseidon = Asc`: page `118`
+- `Asc/Poseidon = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `98`
+- `Asc/Poseidon = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `136`
+- `Sun/Asc = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `80`
+- `Sun/Asc = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `101`
+- `Sun/Poseidon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `118`
+- `Sun/Poseidon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `172`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Poseidon = Sun`: association with mentally awake people and being instructed, awakened, or illuminated through them.
+- `Sun/Asc = Poseidon`: This formula emphasizes being with spiritual persons and honesty with oneself.
+- `Sun/Poseidon = Asc`: This formula emphasizes association with spiritual persons and honesty in personal contact.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Asc](../factors/asc.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

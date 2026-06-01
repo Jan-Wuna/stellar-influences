@@ -3,7 +3,7 @@ title: Node Apollon Poseidon
 page_type: triad_hub
 slug: node-apollon-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Apollon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Node Apollon Poseidon`
 - Astronomicon triad-set: `g ¥ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Apollon/Poseidon = Node](../activations/apollon-poseidon-equals-node.md)
-  Source page `308`
 - [Node/Apollon = Poseidon](../activations/node-apollon-equals-poseidon.md)
-  Source page `153`
 - [Node/Poseidon = Apollon](../activations/node-poseidon-equals-apollon.md)
-  Source page `156`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Apollon/Poseidon = Node`: page `308`
-- `Node/Apollon = Poseidon`: page `153`
-- `Node/Poseidon = Apollon`: page `156`
+- `Apollon/Poseidon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `308`
+- `Apollon/Poseidon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `472`
+- `Node/Apollon = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `153`
+- `Node/Apollon = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `233`
+- `Node/Poseidon = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `156`
+- `Node/Poseidon = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `239`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Apollon/Poseidon = Node`: being linked with comrades, colleagues, fellow sufferers, or other congenial people by real bonds and shared outlook.
+- `Node/Apollon = Poseidon`: The feeling of freedom among ones equals. To be connected with many through similar world concept or same philosophy or views.
+- `Node/Poseidon = Apollon`: To be mentally connected with many. Connections which occur on account of similar views in relation to world affairs or science.
 
 ## Links
 
 - [Node](../factors/node.md)
 - [Apollon](../factors/apollon.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

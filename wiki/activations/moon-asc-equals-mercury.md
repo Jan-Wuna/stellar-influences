@@ -19,8 +19,10 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -34,38 +36,26 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Moon`
-- Source page: `81`
 #### Witte Entry
 
 Correspondence or conversation with female persons. Professional conversations with many people.
 
-### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Planets activating the Moon/Ascendant midpoint`
-- Source page: `39`
-- Activator: `Mercury`
+#### ABC Entry
 
-#### Sandbach Entry
+Other young women, women of other people, fabled 'partner language, young people as partners, young mother in the environment, opinions of women on the environment, local transport of the hour, environment of a young mother, and female youth in the village
 
-- No extractable activation entry text is available in the current PDF text for this expected Sandbach orientation.
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-## Comparative Schema
+#### Munkasey Entry
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Thinking about how you can protect and nurture others; needs for educating yourself about the psychology of caring; a better understand the motives of people who offer you support in life, or to whom you offer support.
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Asc = Mercury`: intuitive communication, relational attentiveness, and the ability to articulate mood and impression fluidly. Main caution: nervous subjectivity: talking from feeling can blur perspective and make reaction faster than reflection.
 
 ## Links
 
@@ -73,6 +63,7 @@ Correspondence or conversation with female persons. Professional conversations w
 - [Asc](../factors/asc.md)
 - [Mercury](../factors/mercury.md)
 - [Moon/Asc](../axes/moon-asc.md)
-- [Moon Mercury Asc](../triads/moon-mercury-asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

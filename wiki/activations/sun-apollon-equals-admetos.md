@@ -3,7 +3,7 @@ title: Sun/Apollon = Admetos
 page_type: activation
 slug: sun-apollon-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Apollon
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Apollon`
-- Source page: `115`
 #### Witte Entry
 
 Can or must renounce success, glory and honor. Destined to be unsuccessful.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Can or must renounce success, glory and honor. Destined to be unsuccessful.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked trade center, human depression experiences, constrained success of man, strengthening of personal freedom, grild personal experiences, and deepening personal knowledge
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Apollon = Admetos`: successful in practical work and careful in active work.
+- Practical expression: blocked trade center, human depression experiences, constrained success of man, strengthening of personal freedom, and deepening personal knowledge.
 
 ## Links
 
@@ -61,3 +56,5 @@ Can or must renounce success, glory and honor. Destined to be unsuccessful.
 - [Apollon](../factors/apollon.md)
 - [Admetos](../factors/admetos.md)
 - [Sun/Apollon](../axes/sun-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

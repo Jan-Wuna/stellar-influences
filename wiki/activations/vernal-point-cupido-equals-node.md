@@ -3,7 +3,7 @@ title: Vernal Point/Cupido = Node
 page_type: activation
 slug: vernal-point-cupido-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Node
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Cupido`
-- Source page: `48`
 #### Witte Entry
 
 Social connections. A Participant. The merger of a corporation. A trust.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Social connections. A Participant. The merger of a corporation. A trust.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Relations with art communities, common encounters in the public life, common relations in the public, contact community in the public life, and links in the public community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Cupido = Node`: social connections, a Participant, the merger of a corporation, and a trust.
+- Practical expression: common encounters in the public life, common relations in the public, contact community in the public life, and links in the public community.
 
 ## Links
 
@@ -61,3 +56,5 @@ Social connections. A Participant. The merger of a corporation. A trust.
 - [Cupido](../factors/cupido.md)
 - [Node](../factors/node.md)
 - [Vernal Point/Cupido](../axes/vernal-point-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

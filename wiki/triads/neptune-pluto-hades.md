@@ -3,7 +3,7 @@ title: Neptune Pluto Hades
 page_type: triad_hub
 slug: neptune-pluto-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Neptune Pluto Hades`
 - Astronomicon triad-set: `Y Z ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Neptune/Hades = Pluto](../activations/neptune-hades-equals-pluto.md)
-  Source page `248`
 - [Neptune/Pluto = Hades](../activations/neptune-pluto-equals-hades.md)
-  Source page `246`
 - [Pluto/Hades = Neptune](../activations/pluto-hades-equals-neptune.md)
-  Source page `258`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Neptune/Hades = Pluto`: page `248`
-- `Neptune/Pluto = Hades`: page `246`
-- `Pluto/Hades = Neptune`: page `258`
+- `Neptune/Hades = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `248`
+- `Neptune/Hades = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `395`
+- `Neptune/Pluto = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `246`
+- `Neptune/Pluto = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `391`
+- `Pluto/Hades = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `258`
+- `Pluto/Hades = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `411`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Neptune/Hades = Pluto`: This activation exposes the beginning of rot and the consequences of errors noticed too late, showing decay crossing the threshold from concealed weakness into irreversible transformation.
+- `Neptune/Pluto = Hades`: This activation darkens subtle transformation into epidemic illness and covert treachery, where hidden processes turn harmful and operate behind one’s back.
+- `Pluto/Hades = Neptune`: This activation emphasizes changes that lead into uncertainty; A creeping deterioration; Crisis that works below the surface.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [Pluto](../factors/pluto.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

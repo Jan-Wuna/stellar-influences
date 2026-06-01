@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Saturn Node`
 - Astronomicon triad-set: `T W g`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,19 +40,27 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Mercury/Node = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `141`
+- `Mercury/Node = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `209`
 - `Mercury/Node = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `167`
 - `Mercury/Node = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `51`
+- `Mercury/Node = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `176`
 - `Mercury/Saturn = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `162`
+- `Mercury/Saturn = Node`: Udo Rudolph - ABC for Planetary Pictures, page `246`
 - `Mercury/Saturn = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `156`
 - `Mercury/Saturn = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `45`
+- `Mercury/Saturn = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `160`
 - `Saturn/Node = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `145`
+- `Saturn/Node = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `216`
 - `Saturn/Node = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `257`
 - `Saturn/Node = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `92`
+- `Saturn/Node = Mercury`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `296`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Node = Saturn`: structured intellectual connection, with alliances shaped by contracts, responsibility, careful speech, and the need to make shared plans durable.
+- `Mercury/Saturn = Node`: serious connection, with relationships built through responsibility, thoughtful communication, and mentally cautious cooperation.
+- `Saturn/Node = Mercury`: formal communication, with relationships shaped by careful speech, negotiated duty, and thought that weighs the consequences of connection.
 
 ## Links
 
@@ -59,5 +68,7 @@ updated_at: 2026-04-22
 - [Saturn](../factors/saturn.md)
 - [Node](../factors/node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

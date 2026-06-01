@@ -3,7 +3,7 @@ title: Sun Mars Apollon
 page_type: triad_hub
 slug: sun-mars-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Mars
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Mars Apollon`
 - Astronomicon triad-set: `S U ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Apollon = Sun](../activations/mars-apollon-equals-sun.md)
-  Source page `201`
 - [Sun/Apollon = Mars](../activations/sun-apollon-equals-mars.md)
-  Source page `115`
 - [Sun/Mars = Apollon](../activations/sun-mars-equals-apollon.md)
-  Source page `105`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Apollon = Sun`: page `201`
-- `Sun/Apollon = Mars`: page `115`
-- `Sun/Mars = Apollon`: page `105`
+- `Mars/Apollon = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `201`
+- `Mars/Apollon = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `316`
+- `Sun/Apollon = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `115`
+- `Sun/Apollon = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `166`
+- `Sun/Mars = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `105`
+- `Sun/Mars = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `147`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Apollon = Sun`: the merchant or scientist whose daily activity is extensive, cheerful, and effective, widening the field of work and accomplishing much.
+- `Sun/Apollon = Mars`: This formula emphasizes successful in active pursuits or successful fighting and action.
+- `Sun/Mars = Apollon`: This formula emphasizes success through active effort and large-scale work.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Mars](../factors/mars.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

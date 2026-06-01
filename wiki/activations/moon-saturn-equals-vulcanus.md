@@ -3,7 +3,7 @@ title: Moon/Saturn = Vulcanus
 page_type: activation
 slug: moon-saturn-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Saturn
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Saturn
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Saturn`
-- Source page: `126`
 #### Witte Entry
 
 Very inhibited in the public. Men on guard duty. People in a state of alertness. The high point of the day is in the evening.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Very inhibited in the public. Men on guard duty. People in a state of alertness. The high point of the day is in the evening.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influential old woman, patience influence of a woman, violently separating woman, violent separation from woman, problematic influence of a woman, enormous problems of a people, painful violence against woman, and strong militia load
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Saturn = Vulcanus`: Very inhibited in the public. Men on guard duty. People in a state of alertness. The high point of the day is in the evening.
+- Practical focus: intensifies `Moon/Saturn` into public inhibition, vigilance, and compressed strength held under restraint. It points to guarded feeling, alert populations, and powerful tension that cannot fully relax, making seriousness feel militarized or watchful.
+- Practical expression: influential old woman, patience influence of a woman, violently separating woman, violent separation from woman, and problematic influence of a woman.
 
 ## Links
 
@@ -61,3 +57,5 @@ Very inhibited in the public. Men on guard duty. People in a state of alertness.
 - [Saturn](../factors/saturn.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Moon/Saturn](../axes/moon-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

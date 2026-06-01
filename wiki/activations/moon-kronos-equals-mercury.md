@@ -3,7 +3,7 @@ title: Moon/Kronos = Mercury
 page_type: activation
 slug: moon-kronos-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Mercury
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Kronos`
-- Source page: `133`
 #### Witte Entry
 
 Independent thinking. Decrees. Official style in writing. Autocratic.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Independent thinking. Decrees. Official style in writing. Autocratic.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special language feeling, woman as media boss, language with respected women, youth future of a people, news about the authority of a people, self conscious young woman, priority of the youth of a people, and important words of a woman
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Kronos = Mercury`: Independent thinking. Decrees. Official style in writing. Autocratic.
+- Practical expression: special language feeling, woman as media boss, language with respected women, youth future of a people, and news about the authority of a people.
 
 ## Links
 
@@ -61,3 +56,5 @@ Independent thinking. Decrees. Official style in writing. Autocratic.
 - [Kronos](../factors/kronos.md)
 - [Mercury](../factors/mercury.md)
 - [Moon/Kronos](../axes/moon-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

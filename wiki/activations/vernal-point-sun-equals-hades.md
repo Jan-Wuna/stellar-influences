@@ -3,7 +3,7 @@ title: Vernal Point/Sun = Hades
 page_type: activation
 slug: vernal-point-sun-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Sun
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Sun
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Sun`
-- Source page: `37`
 #### Witte Entry
 
 Frailties of the body. Sickness. Deficiency. Poverty. Unemployment.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Frailties of the body. Sickness. Deficiency. Poverty. Unemployment.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Man's Endangered World, Criminal Persons in Public, Nightcilc by People of Public Life, People of Public Life of the Past, Personal Danger in Public, and Personal Lack in Public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Sun = Hades`: frailties of the body, sickness, deficiency, poverty, and unemployment.
+- Practical expression: man's Endangered World, criminal Persons in Public, nightcilc by People of Public Life, people of Public Life of the Past, and personal Danger in Public.
 
 ## Links
 
@@ -61,3 +56,5 @@ Frailties of the body. Sickness. Deficiency. Poverty. Unemployment.
 - [Sun](../factors/sun.md)
 - [Hades](../factors/hades.md)
 - [Vernal Point/Sun](../axes/vernal-point-sun.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

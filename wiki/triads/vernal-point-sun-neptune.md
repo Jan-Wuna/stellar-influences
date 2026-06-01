@@ -3,7 +3,7 @@ title: Vernal Point Sun Neptune
 page_type: triad_hub
 slug: vernal-point-sun-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Sun
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Sun Neptune`
 - Astronomicon triad-set: `VP S Y`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Sun/Neptune = Vernal Point](../activations/sun-neptune-equals-vernal-point.md)
-  Source page `109`
 - [Vernal Point/Neptune = Sun](../activations/vernal-point-neptune-equals-sun.md)
-  Source page `46`
 - [Vernal Point/Sun = Neptune](../activations/vernal-point-sun-equals-neptune.md)
-  Source page `37`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Sun/Neptune = Vernal Point`: page `109`
-- `Vernal Point/Neptune = Sun`: page `46`
-- `Vernal Point/Sun = Neptune`: page `37`
+- `Sun/Neptune = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `109`
+- `Sun/Neptune = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `154`
+- `Vernal Point/Neptune = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `46`
+- `Vernal Point/Neptune = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `40`
+- `Vernal Point/Sun = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `37`
+- `Vernal Point/Sun = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `23`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Sun/Neptune = Vernal Point`: This formula emphasizes confusion or spiritual atmosphere in the environment.
+- `Vernal Point/Neptune = Sun`: This formula emphasizes sensitivity of the body, damage to the body through general illusions or poisoning, diseases of the blood, and not equal to demands.
+- `Vernal Point/Sun = Neptune`: This formula emphasizes frail and delicate bodies, hindered in activity, many deceive themselves or are deceived, physical breakdown, and negative pole of the body.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Sun](../factors/sun.md)
 - [Neptune](../factors/neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

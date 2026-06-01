@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Hades + Hades`
-- Source page: `275`
 #### Witte Entry
 
 Fatigue. Weariness. Atrocity, vulgar acts. To cause damages. Base services. Male servant. Slave labor. Murder. Homicide. Unusual death. Serious sickness. Faulty or bad actions. Working in solitude. Working in poverty. Preparation for recycling. Working under difficult conditions. Working in outflow channels. Dealing with old things, historical things, waste or refuse. To serve. A serious act. Evil deed. Lack of activity.
 
-## Comparative Schema
-
-- core meaning: Fatigue. Weariness. Atrocity, vulgar acts. To cause damages. Base services. Male servant. Slave labor. Murder. Homicide. Unusual death. Serious sickness. Faulty or bad actions. Working in solitude. Working in poverty. Preparation for recycling. Working under difficult conditions. Working in outflow channels. Dealing with old things, historical things, waste or refuse. To serve. A serious act. Evil deed. Lack of activity.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Hades = Mars`: the Hades condition becoming active and harmful. It can show slave-like work, violence, refuse handling, or severe acts committed under pressure, fatigue, poverty, or moral degradation.
 
 ## Links
 

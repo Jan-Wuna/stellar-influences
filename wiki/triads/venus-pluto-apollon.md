@@ -3,7 +3,7 @@ title: Venus Pluto Apollon
 page_type: triad_hub
 slug: venus-pluto-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Pluto Apollon`
 - Astronomicon triad-set: `Q Z ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Pluto/Apollon = Venus](../activations/pluto-apollon-equals-venus.md)
-  Source page `261`
 - [Venus/Apollon = Pluto](../activations/venus-apollon-equals-pluto.md)
-  Source page `186`
 - [Venus/Pluto = Apollon](../activations/venus-pluto-equals-apollon.md)
-  Source page `181`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Pluto/Apollon = Venus`: page `261`
-- `Venus/Apollon = Pluto`: page `186`
-- `Venus/Pluto = Apollon`: page `181`
+- `Pluto/Apollon = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `261`
+- `Pluto/Apollon = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `416`
+- `Venus/Apollon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `186`
+- `Venus/Apollon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `291`
+- `Venus/Pluto = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `181`
+- `Venus/Pluto = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `281`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Pluto/Apollon = Venus`: This activation emphasizes the beginning of a love; Many expect a pleasant change.
+- `Venus/Apollon = Pluto`: pleasant development for many.
+- `Venus/Pluto = Apollon`: the pleasant development of many.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Pluto](../factors/pluto.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

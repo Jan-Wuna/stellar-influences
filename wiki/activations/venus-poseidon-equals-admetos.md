@@ -3,7 +3,7 @@ title: Venus/Poseidon = Admetos
 page_type: activation
 slug: venus-poseidon-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Admetos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Poseidon`
-- Source page: `189`
 #### Witte Entry
 
 Atheist or deep religious contemplation. To reject matters of faith. Anti- religious. Dislike and antipathy of a particular religion or philosophy of life.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Atheist or deep religious contemplation. To reject matters of faith. Anti- religious. Dislike and antipathy of a particular religion or philosophy of life.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+enduring love for the spirit, limited cultural pleasure, restricted communication in love, strengthening of spiritual peace, mentally restricted artificiality, profound clarity in love, deep love for truth, and deepening of spiritual peace
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Poseidon = Admetos`: atheist or deep religious contemplation.
+- Practical expression: enduring love for the spirit, limited cultural pleasure, restricted communication in love, strengthening of spiritual peace, and mentally restricted artificiality.
 
 ## Links
 
@@ -61,3 +56,5 @@ Atheist or deep religious contemplation. To reject matters of faith. Anti- relig
 - [Poseidon](../factors/poseidon.md)
 - [Admetos](../factors/admetos.md)
 - [Venus/Poseidon](../axes/venus-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

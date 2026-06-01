@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Moon`
-- Source page: `60`
 #### Witte Entry
 
 A fortunate state of mind. A good-natured person. Happy hours with women. Births. Phlegmatic person (in a positive sense).
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Moon/Medium Coeli`
-- Source page: `143`
-- Entry: `0451`
+#### ABC Entry
+
+My wife's money, I'm happy as a woman, I have rights as a woman, my Glinck's oath, my successful wife, my wife's happy, happiness through female psyche, the dignity of a soul, the rights of my people, and the emotional joy of women
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ A rich and deep soul life, optimism and confidence, the joy of hope or expectati
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Moon/Midheaven midpoint`
-- Source page: `40`
-- Activator: `Jupiter`
-
 #### Sandbach Entry
 
 A wealth of exalted feeling. Enthusiasm for nurturing others equates with one’s mission in life. To generously play the role of mother to other people. The encouraging of other people to be more overt about their feelings.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Opportunities which come your way which allow you to develop and be the person you want, as opposed to how your family feels you should grow; excessive maternal influence during your formative years; mother’s ideas.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/MC = Jupiter`: popularity, nurturing leadership, and success through creating hope, protection, or emotional abundance for others. Main caution: excess in public feeling: confidence and care can become inflated, indulgent, or too reliant on praise.
 
 ## Links
 
@@ -84,7 +76,8 @@ A wealth of exalted feeling. Enthusiasm for nurturing others equates with one’
 - [MC](../factors/mc.md)
 - [Jupiter](../factors/jupiter.md)
 - [Moon/MC](../axes/moon-mc.md)
-- [Moon Jupiter MC](../triads/moon-jupiter-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

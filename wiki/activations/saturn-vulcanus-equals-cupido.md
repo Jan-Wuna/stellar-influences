@@ -3,7 +3,7 @@ title: Saturn/Vulcanus = Cupido
 page_type: activation
 slug: saturn-vulcanus-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Cupido
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Vulcanus`
-- Source page: `230`
 #### Witte Entry
 
 Connection with people who feel themselves hindered, imprisoned or oppressed. To be considerably impaired through family or community.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Connection with people who feel themselves hindered, imprisoned or oppressed. To be considerably impaired through family or community.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Perseverance of a powerful community, loss of influence in of a community, energy and perseverance in of a community, common energy problems, enormous common tasks, hard and violence of a community, and loss of power of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Vulcanus = Cupido`: connection with people who feel themselves hindered, imprisoned or oppressed.
+- Practical expression: perseverance of a powerful community, loss of influence in a community, energy, perseverance in a community, and common energy problems.
 
 ## Links
 
@@ -61,3 +56,5 @@ Connection with people who feel themselves hindered, imprisoned or oppressed. To
 - [Vulcanus](../factors/vulcanus.md)
 - [Cupido](../factors/cupido.md)
 - [Saturn/Vulcanus](../axes/saturn-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

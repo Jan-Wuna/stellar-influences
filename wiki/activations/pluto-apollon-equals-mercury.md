@@ -3,7 +3,7 @@ title: Pluto/Apollon = Mercury
 page_type: activation
 slug: pluto-apollon-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Pluto
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Apollon`
-- Source page: `261`
 #### Witte Entry
 
 Thoughts, opinions or debates about transformations and changes. To be under the influence of a great change.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Thoughts, opinions or debates about transformations and changes. To be under the influence of a great change.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful development of young people, successful traffic developments, language about expansion of development, news about successful changes, extensive changes in traffic, and changes in trade traffic
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Apollon = Mercury`: thoughts, opinions or debates about transformations and changes; To be under the influence of a great change.
+- Practical expression: successful development of young people, successful traffic developments, language about expansion of development, news about successful changes, and extensive changes in traffic.
 
 ## Links
 
@@ -61,3 +56,5 @@ Thoughts, opinions or debates about transformations and changes. To be under the
 - [Apollon](../factors/apollon.md)
 - [Mercury](../factors/mercury.md)
 - [Pluto/Apollon](../axes/pluto-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

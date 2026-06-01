@@ -3,7 +3,7 @@ title: Neptune/Zeus = Asc
 page_type: activation
 slug: neptune-zeus-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Asc
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Zeus`
-- Source page: `249`
 #### Witte Entry
 
 Unsuccessful activities with others. To be forced to mix with people who are show-offs (pompous person, braggart). Scalded by others.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Unsuccessful activities with others. To be forced to mix with people who are show-offs (pompous person, braggart). Scalded by others.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Part ners' weakness, exchangeable services of the other, one place's weakness, critical finesse of the partner, partner strife after refinement, unclear location transport, partner's weakness of the partner, and future goals of a place
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Zeus = Asc`: Unsuccessful activities with others. To be forced to mix with people who are show-offs (pompous person, braggart). Scalded by others.
+- Encounters with others are strained by futile effort, boastfulness, or overheated conditions, making joint activity unsuccessful and abrasive.
+- Practical expression: part ners' weakness, exchangeable services of the other, one place's weakness, critical finesse of the partner, and partner strife after refinement.
 
 ## Links
 
@@ -61,3 +57,5 @@ Unsuccessful activities with others. To be forced to mix with people who are sho
 - [Zeus](../factors/zeus.md)
 - [Asc](../factors/asc.md)
 - [Neptune/Zeus](../axes/neptune-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Saturn/Kronos = Hades
 page_type: activation
 slug: saturn-kronos-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Hades
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Kronos`
-- Source page: `227`
 #### Witte Entry
 
 Collapse of independent establishments. To suffer enmities, vile acts or mean deeds from leading and powerful persons or from the authority.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Collapse of independent establishments. To suffer enmities, vile acts or mean deeds from leading and powerful persons or from the authority.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Disadvantages due to loss of reputation, special patience in need, great disadvantage due to pain, concentration on a special danger, loss of need due to great Y, losses due to criminal authority, and important tasks from the past
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Kronos = Hades`: collapse of independent establishments.
+- Practical expression: disadvantages due to loss of reputation, special patience in need, great disadvantage due to pain, concentration on a special danger, and loss of need due to great Y.
 
 ## Links
 
@@ -61,3 +56,5 @@ Collapse of independent establishments. To suffer enmities, vile acts or mean de
 - [Kronos](../factors/kronos.md)
 - [Hades](../factors/hades.md)
 - [Saturn/Kronos](../axes/saturn-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

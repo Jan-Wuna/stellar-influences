@@ -3,7 +3,7 @@ title: Moon/Node = Apollon
 page_type: activation
 slug: moon-node-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Node
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Node
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Node`
-- Source page: `121`
 #### Witte Entry
 
 spread women’s association. Expansion of a people’s society. National assembly.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: spread women’s association. Expansion of a people’s society. National assembly.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Extensive connections in the people, successful mother relationship, successful people relationships, freedom of thought in relationships, trade relationships in people, connected with many women, and mediation of women in business and trade
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Node = Apollon`: Spread women’s association. Expansion of a people’s society. National assembly.
+- Practical focus: expands `Moon/Node` into wider social reach, larger assemblies, and growth of communal feeling. It favors women's groups, national gatherings, and emotionally shared connection spread across broader collective networks.
+- Practical expression: extensive connections in the people, successful mother relationship, successful people relationships, freedom of thought in relationships, and trade relationships in people.
 
 ## Links
 
@@ -61,3 +57,5 @@ spread women’s association. Expansion of a people’s society. National assemb
 - [Node](../factors/node.md)
 - [Apollon](../factors/apollon.md)
 - [Moon/Node](../axes/moon-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

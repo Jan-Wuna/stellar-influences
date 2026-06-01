@@ -3,7 +3,7 @@ title: Venus/Neptune = Poseidon
 page_type: activation
 slug: venus-neptune-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Neptune
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Neptune`
-- Source page: `180`
 #### Witte Entry
 
 Supersensitive, delicate. Dissolution of a harmony by influences which one is unable to control. Sensitive to radiation. Dowser.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Supersensitive, delicate. Dissolution of a harmony by influences which one is unable to control. Sensitive to radiation. Dowser.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Artificial idea of the future, harmony and clarity through metaphysics, foreign artificial and culture, love of clear water, weak love of truth, unclear peace ideas, uncertain cultural peace, refinement of peace culture, and refined spiritual artificiality
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Neptune = Poseidon`: supersensitive, delicate.
+- Practical expression: artificial idea of the future, harmony, clarity through metaphysics, foreign artificial, and culture.
 
 ## Links
 
@@ -61,3 +56,5 @@ Supersensitive, delicate. Dissolution of a harmony by influences which one is un
 - [Neptune](../factors/neptune.md)
 - [Poseidon](../factors/poseidon.md)
 - [Venus/Neptune](../axes/venus-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

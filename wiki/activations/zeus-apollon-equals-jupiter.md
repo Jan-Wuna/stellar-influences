@@ -3,7 +3,7 @@ title: Zeus/Apollon = Jupiter
 page_type: activation
 slug: zeus-apollon-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Zeus
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Apollon`
-- Source page: `291`
 #### Witte Entry
 
 Happiness and success through learning, studying and searching. Luck and success in the arts and works of peace like science, commerce, trades or industry.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Happiness and success through learning, studying and searching. Luck and success in the arts and works of peace like science, commerce, trades or industry.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Efforts in law science, experienced legal support, successful financial efforts, successful legal services, joy of procreation success, leading money trading, and creative legal knowledge
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Apollon = Jupiter`: Happiness and success through learning, studying and searching. Luck and success in the arts and works of peace like science, commerce, trades or industry.
+- Practical expression: efforts in law science, experienced legal support, successful financial efforts, successful legal services, and joy of procreation success.
 
 ## Links
 
@@ -61,3 +56,5 @@ Happiness and success through learning, studying and searching. Luck and success
 - [Apollon](../factors/apollon.md)
 - [Jupiter](../factors/jupiter.md)
 - [Zeus/Apollon](../axes/zeus-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

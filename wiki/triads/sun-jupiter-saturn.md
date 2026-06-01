@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Jupiter Saturn`
 - Astronomicon triad-set: `S V W`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,19 +40,27 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Jupiter/Saturn = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `207`
+- `Jupiter/Saturn = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `324`
 - `Jupiter/Saturn = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `226`
 - `Jupiter/Saturn = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `78`
+- `Jupiter/Saturn = Sun`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `256`
 - `Sun/Jupiter = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `106`
+- `Sun/Jupiter = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `149`
 - `Sun/Jupiter = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `90`
 - `Sun/Jupiter = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `12`
+- `Sun/Jupiter = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `72`
 - `Sun/Saturn = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `107`
+- `Sun/Saturn = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `150`
 - `Sun/Saturn = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `93`
 - `Sun/Saturn = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `14`
+- `Sun/Saturn = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `76`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Saturn = Sun`: disciplined vitality, steady pursuit of long-range aims, and self-definition through endurance, experience, and constructive solitude.
+- `Sun/Jupiter = Saturn`: sober leadership, measured growth, and success that must prove itself through patience, responsibility, and sustained effort.
+- `Sun/Saturn = Jupiter`: advancement through discipline, confidence that grows slowly under pressure, and the ability to convert restraint into authority, prudence, or durable achievement.
 
 ## Links
 
@@ -59,5 +68,7 @@ updated_at: 2026-04-22
 - [Jupiter](../factors/jupiter.md)
 - [Saturn](../factors/saturn.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

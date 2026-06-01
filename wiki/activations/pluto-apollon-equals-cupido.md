@@ -3,7 +3,7 @@ title: Pluto/Apollon = Cupido
 page_type: activation
 slug: pluto-apollon-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Cupido
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Apollon`
-- Source page: `261`
 #### Witte Entry
 
 Deep reaching large transformation in a community or family. New orders or rules of living with others, first measure to this end. Events which concern a newly established partnership or family. Family books, family history. Birth registration. Nominal list. Muster roll.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Deep reaching large transformation in a community or family. New orders or rules of living with others, first measure to this end. Events which concern a newly established partnership or family. Family books, family history. Birth registration. Nominal list. Muster roll.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Extension of joint development, development of a knowledge community, successful joint development, freedom development of a community, growing joint success, and growing trade community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Apollon = Cupido`: deep reaching large transformation in a community or family; New orders or rules of living with others, first measure to this end.
+- Practical expression: extension of joint development, development of a knowledge community, successful joint development, freedom development of a community, and growing joint success.
 
 ## Links
 
@@ -61,3 +56,5 @@ Deep reaching large transformation in a community or family. New orders or rules
 - [Apollon](../factors/apollon.md)
 - [Cupido](../factors/cupido.md)
 - [Pluto/Apollon](../axes/pluto-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

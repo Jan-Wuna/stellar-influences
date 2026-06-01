@@ -53,9 +53,6 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Chiron/Neptune midpoint`
-- Source page: `97`
-
 #### Principle
 
 A subtle sensing of the presence of helping intelligences, and ability to tap into them for guidance. Seeing beyond others’ negativity, shortcomings and weak nesses into the perfection of their soul, and through doing so increasing its ability to manifest. Ability to transmit love to others in a subtle, hidden, or indirect way. Helping other to recognize other realms of reality. Being a refining and uplifting influence wher ever one goes. Tuning others into magic and beauty. Chiron/Neptune will create life situations that help one to overcome unrealistic ideal ism, addictions, and fantasies that may be retarding one’s spiritual growth. It can help one to use one’s imagination as an instrument for healing.
@@ -63,15 +60,6 @@ A subtle sensing of the presence of helping intelligences, and ability to tap in
 #### Process
 
 The clearing of the imagination of fears and the aligning of it with spiritual forces. The growth of one’s ability to accept and trust spiritual messages, and to be able to receive them by attentive attunement to their wavelength.
-
-## Comparative Schema
-
-- core meaning: source-native pair entries are preserved side by side above.
-- psychology: Sandbach contributes an explicit `Principle` and `Process` layer, while other sources retain their own native structure and vocabulary.
-- body/health: bodily or vitality implications remain embedded inside each source entry when present.
-- social/relationship: interpersonal implications remain attached to the source-native wording above instead of being flattened into one paraphrase.
-- events/manifestations: see the source entries above and the orientation-specific activation pages linked below.
-- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
 
 ## Related Activations
 
@@ -88,14 +76,11 @@ The clearing of the imagination of fears and the aligning of it with spiritual f
 - [Chiron/Neptune = Uranus](../activations/chiron-neptune-equals-uranus.md)
 - [Chiron/Neptune = Venus](../activations/chiron-neptune-equals-venus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices and framework emphases rather than flattened into one interpretation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Chiron/Neptune`: subtle healing through imagination, intuition, and refined perception: sensing helpful intelligences, seeing through others' shortcomings into soul-level potential, and using inspired feeling as an instrument of uplift and repair.
+- Chart expression: a hidden or indirect healing influence, to magic and beauty as real therapeutic forces, and to growth that comes from clearing fear, fantasy, addiction, and unrealistic idealization out of the imagination. Liabilities: spiritual projection, escapism, over-idealizing other people, and confusing subtle receptivity with truth before it has been tested.
 
 ## Links
 

@@ -3,7 +3,7 @@ title: Cupido/Apollon = Venus
 page_type: activation
 slug: cupido-apollon-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Cupido
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Apollon`
-- Source page: `270`
 #### Witte Entry
 
 Harmonious union with many. Friendship and familiar harmony through art or science. Art of singing. Vocal art.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Harmonious union with many. Friendship and familiar harmony through art or science. Art of singing. Vocal art.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Success through peace in the community, freedom and peace in of a community, joy over joint success, reverence peace in the community, shared knowledge, harmonious expansion of a community, and preference for artificial science
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Apollon = Venus`: attractive group culture, affectionate sociability, and beauty or art as the glue of association. Main caution: pleasantness masking lack of deeper rigor or commitment.
 
 ## Links
 
@@ -61,3 +55,5 @@ Harmonious union with many. Friendship and familiar harmony through art or scien
 - [Apollon](../factors/apollon.md)
 - [Venus](../factors/venus.md)
 - [Cupido/Apollon](../axes/cupido-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

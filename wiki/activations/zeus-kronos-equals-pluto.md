@@ -3,7 +3,7 @@ title: Zeus/Kronos = Pluto
 page_type: activation
 slug: zeus-kronos-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Zeus
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Kronos`
-- Source page: `289`
 #### Witte Entry
 
 The beginning and the development of an expanded work. On the way to great accomplishment. Expansion of a great war.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The beginning and the development of an expanded work. On the way to great accomplishment. Expansion of a great war.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Developing large scale achievements, self evident strife in development, altering the reputation of leadership, increasing achievements of authority, and important goals of evolution
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Kronos = Pluto`: The beginning and the development of an expanded work. On the way to great accomplishment. Expansion of a great war.
+- Practical expression: developing large scale achievements, self evident strife in development, altering the reputation of leadership, increasing achievements of authority, and important goals of evolution.
 
 ## Links
 
@@ -61,3 +56,5 @@ The beginning and the development of an expanded work. On the way to great accom
 - [Kronos](../factors/kronos.md)
 - [Pluto](../factors/pluto.md)
 - [Zeus/Kronos](../axes/zeus-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

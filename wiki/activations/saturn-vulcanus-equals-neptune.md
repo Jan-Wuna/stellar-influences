@@ -3,7 +3,7 @@ title: Saturn/Vulcanus = Neptune
 page_type: activation
 slug: saturn-vulcanus-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Neptune
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Vulcanus`
-- Source page: `230`
 #### Witte Entry
 
 To be imprisoned or dependent, not seeing the termination. To be imprisoned or dependent indefinitely.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be imprisoned or dependent, not seeing the termination. To be imprisoned or dependent indefinitely.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Energy problems with air and water, huge future tasks, concentration on subtle influences, unknown energy problems, sloppy power loss, weak force in old age, uncertainty due to energy loss, and losses by W asscr violence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Vulcanus = Neptune`: to be imprisoned or dependent, not seeing the termination, to be imprisoned or dependent indefinitely.
+- Practical expression: energy problems with air, water, huge future tasks, concentration on subtle influences, and unknown energy problems.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be imprisoned or dependent, not seeing the termination. To be imprisoned or d
 - [Vulcanus](../factors/vulcanus.md)
 - [Neptune](../factors/neptune.md)
 - [Saturn/Vulcanus](../axes/saturn-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

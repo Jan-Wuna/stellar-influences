@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Mars Node`
 - Astronomicon triad-set: `R U g`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,19 +40,27 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Mars/Node = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `143`
+- `Mars/Node = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `212`
 - `Mars/Node = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `217`
 - `Mars/Node = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `74`
+- `Mars/Node = Moon`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `244`
 - `Moon/Mars = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `124`
+- `Moon/Mars = Node`: Udo Rudolph - ABC for Planetary Pictures, page `180`
 - `Moon/Mars = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `121`
 - `Moon/Mars = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `28`
+- `Moon/Mars = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `112`
 - `Moon/Node = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `121`
+- `Moon/Node = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `174`
 - `Moon/Node = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `137`
 - `Moon/Node = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `37`
+- `Moon/Node = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `136`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Node = Moon`: active emotional contact with others, group ties formed through feeling or care, and sensitivity to how one is received when acting within a relationship or community.
+- `Moon/Mars = Node`: charged relationship, with belonging shaped by conflict, teamwork under pressure, and instinctive responsiveness to others.
+- `Moon/Node = Mars`: charged relationship, with ties shaped by instinctive defense, shared struggle, and quick emotional engagement with others.
 
 ## Links
 
@@ -59,5 +68,7 @@ updated_at: 2026-04-22
 - [Mars](../factors/mars.md)
 - [Node](../factors/node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

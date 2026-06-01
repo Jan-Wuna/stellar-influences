@@ -3,7 +3,7 @@ title: Sun/Admetos = Mercury
 page_type: activation
 slug: sun-admetos-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Mercury
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Admetos`
-- Source page: `116`
 #### Witte Entry
 
 Depressed thinking. The mind and thoughts are busy with the soil.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Depressed thinking. The mind and thoughts are busy with the soil.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+berripped young people, movement of the earth body, restricted corperhche movement, strengthened young man, and submission of personal opinion
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Admetos = Mercury`: depressed thinking and the mind and thoughts are busy with the soil.
+- Practical expression: berripped young people, movement of the earth body, restricted corperhche movement, strengthened young man, and submission of personal opinion.
 
 ## Links
 
@@ -61,3 +56,5 @@ Depressed thinking. The mind and thoughts are busy with the soil.
 - [Admetos](../factors/admetos.md)
 - [Mercury](../factors/mercury.md)
 - [Sun/Admetos](../axes/sun-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

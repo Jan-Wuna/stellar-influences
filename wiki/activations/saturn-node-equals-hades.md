@@ -3,10 +3,10 @@ title: Saturn/Node = Hades
 page_type: activation
 slug: saturn-node-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Saturn
+  - Node
   - Hades
 normalized_formula: Saturn/Node = Hades
 axis: Saturn/Node
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Node
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Saturn`
-- Source page: `145`
 #### Witte Entry
 
 To be separated by sickness, To retire. Separation through enmity or unpleasant fatal blow.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be separated by sickness, To retire. Separation through enmity or unpleasant fatal blow.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Burden of criminal connection, lack of patience in a relationship, dangerous tasks in a connection, problems due to poor connection, disadvantages due to lossy connection, and problems due to a connection from the past
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Node = Hades`: to be separated by sickness, to retire, separation through enmity or unpleasant fatal blow.
+- Practical expression: burden of criminal connection, lack of patience in a relationship, dangerous tasks in a connection, problems due to poor connection, and disadvantages due to lossy connection.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be separated by sickness, To retire. Separation through enmity or unpleasant 
 - [Node](../factors/node.md)
 - [Hades](../factors/hades.md)
 - [Saturn/Node](../axes/saturn-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

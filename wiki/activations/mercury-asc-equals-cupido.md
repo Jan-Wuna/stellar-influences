@@ -3,10 +3,10 @@ title: Mercury/Asc = Cupido
 page_type: activation
 slug: mercury-asc-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Mercury
+  - Asc
   - Cupido
 normalized_formula: Mercury/Asc = Cupido
 axis: Mercury/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Asc
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Mercury`
-- Source page: `83`
 #### Witte Entry
 
 Intentions of marriage. Domestic themes of conversation or conversations at home. Talks about marriage, social conditions or associations.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Intentions of marriage. Domestic themes of conversation or conversations at home. Talks about marriage, social conditions or associations.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Community on the spot mobility, Community language of others, intellectual partnerCommunity, young partners in the community, media arts on the spot, others on common language, and environmental language of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Asc = Cupido` domesticates and socializes the Mercury/Asc axis through marriage, home, and association.
+- Chart expression: conversations about marriage, family, household life, and communal conditions, with social belonging and domestic themes becoming a major topic of exchange.
 
 ## Links
 
@@ -61,3 +56,5 @@ Intentions of marriage. Domestic themes of conversation or conversations at home
 - [Asc](../factors/asc.md)
 - [Cupido](../factors/cupido.md)
 - [Mercury/Asc](../axes/mercury-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

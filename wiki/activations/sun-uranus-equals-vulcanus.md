@@ -3,7 +3,7 @@ title: Sun/Uranus = Vulcanus
 page_type: activation
 slug: sun-uranus-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Uranus
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Uranus`
-- Source page: `108`
 #### Witte Entry
 
 Suddenly great physical effort. Overworking the body. Overstrain.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Suddenly great physical effort. Overworking the body. Overstrain.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Excitements about violence a day, dynamic influence of a person, energy refees for man, powerful body stresses, nervousness in a power center, new body force, strong personal restlessness, and technical energy center
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Uranus = Vulcanus`: explosive force and powerful disruption.
+- Practical expression: excitements about violence a day, dynamic influence of a person, energy refees for man, powerful body stresses, and nervousness in a power center.
 
 ## Links
 
@@ -61,3 +56,5 @@ Suddenly great physical effort. Overworking the body. Overstrain.
 - [Uranus](../factors/uranus.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Sun/Uranus](../axes/sun-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Sun Cupido Admetos
 page_type: triad_hub
 slug: sun-cupido-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Cupido Admetos`
 - Astronomicon triad-set: `S ¡ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Admetos = Sun](../activations/cupido-admetos-equals-sun.md)
-  Source page `271`
 - [Sun/Admetos = Cupido](../activations/sun-admetos-equals-cupido.md)
-  Source page `116`
 - [Sun/Cupido = Admetos](../activations/sun-cupido-equals-admetos.md)
-  Source page `111`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Admetos = Sun`: page `271`
-- `Sun/Admetos = Cupido`: page `116`
-- `Sun/Cupido = Admetos`: page `111`
+- `Cupido/Admetos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `271`
+- `Cupido/Admetos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `432`
+- `Sun/Admetos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `116`
+- `Sun/Admetos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `169`
+- `Sun/Cupido = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `111`
+- `Sun/Cupido = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `159`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Admetos = Sun`: directly experiencing the dissolution of family, partnership, or community and being personally involved in that end.
+- `Sun/Admetos = Cupido`: This formula emphasizes to refuse physical connections with other people and the litde exclusive community.
+- `Sun/Cupido = Admetos`: This formula emphasizes the unmarried man and bachelor.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Cupido](../factors/cupido.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

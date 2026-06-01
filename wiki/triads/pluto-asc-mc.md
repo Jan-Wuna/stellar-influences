@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Pluto Asc MC`
 - Astronomicon triad-set: `Z Asc MC`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,19 +40,27 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Asc/MC = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `58`
+- `Asc/MC = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `61`
 - `Asc/MC = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `308`
 - `Asc/MC = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `121`
+- `Asc/MC = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `364`
 - `Pluto/Asc = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `90`
+- `Pluto/Asc = MC`: Udo Rudolph - ABC for Planetary Pictures, page `120`
 - `Pluto/Asc = MC`: Reinhold Ebertin - The Combination of Stellar Influences, page `296`
 - `Pluto/Asc = MC`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `116`
+- `Pluto/Asc = MC`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `348`
 - `Pluto/MC = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `69`
+- `Pluto/MC = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `82`
 - `Pluto/MC = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `299`
 - `Pluto/MC = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `117`
+- `Pluto/MC = Asc`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `352`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/MC = Pluto`: powerful personality impact, compelling professional or relational change, and intense pressure for deep redefinition of the self in its environment.
+- `Pluto/Asc = MC`: a personal presence that strongly affects destiny, with self-presentation, close encounters, and environmental pressure directly shaping vocation and reputation.
+- `Pluto/MC = Asc`: a visibly intense life path, with vocation, status, and deep ambition strongly shaping how the person appears, behaves, and affects the immediate environment.
 
 ## Links
 
@@ -59,5 +68,7 @@ updated_at: 2026-04-22
 - [Asc](../factors/asc.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

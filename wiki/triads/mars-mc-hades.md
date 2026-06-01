@@ -3,7 +3,7 @@ title: Mars MC Hades
 page_type: triad_hub
 slug: mars-mc-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars MC Hades`
 - Astronomicon triad-set: `U MC ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Hades = Mars](../activations/mc-hades-equals-mars.md)
-  Source page `71`
 - [Mars/Hades = MC](../activations/mars-hades-equals-mc.md)
-  Source page `198`
 - [Mars/MC = Hades](../activations/mars-mc-equals-hades.md)
-  Source page `64`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Hades = Mars`: page `71`
-- `Mars/Hades = MC`: page `198`
-- `Mars/MC = Hades`: page `64`
+- `MC/Hades = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `71`
+- `MC/Hades = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `86`
+- `Mars/Hades = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `198`
+- `Mars/Hades = MC`: Udo Rudolph - ABC for Planetary Pictures, page `310`
+- `Mars/MC = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `64`
+- `Mars/MC = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `73`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Hades = Mars`: turns the axis toward damage through one's own actions and dark initiative.
+- `Mars/Hades = MC`: suffering from low acts, becoming embittered or revenge-minded, and being drawn toward ugly deeds that rebound.
+- `Mars/MC = Hades`: drags vocational action into crude, criminal, or degrading channels.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [MC](../factors/mc.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

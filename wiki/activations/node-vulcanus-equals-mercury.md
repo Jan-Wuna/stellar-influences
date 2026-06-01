@@ -3,7 +3,7 @@ title: Node/Vulcanus = Mercury
 page_type: activation
 slug: node-vulcanus-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Node
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Vulcanus`
-- Source page: `155`
 #### Witte Entry
 
 Written complaints. Indignant, enraged in speech and writing.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Written complaints. Indignant, enraged in speech and writing.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influential media reports, thought force in relationships, violence meetings of youth, encountering voice violence, powerful thinking in connections, power violence through media, news about violence in connections, and strong youth connections
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Vulcanus = Mercury`: Written complaints. Indignant, enraged in speech and writing.
+- Practical focus: written complaints; also indignant, enraged in speech and writing.
 
 ## Links
 
@@ -61,3 +56,5 @@ Written complaints. Indignant, enraged in speech and writing.
 - [Vulcanus](../factors/vulcanus.md)
 - [Mercury](../factors/mercury.md)
 - [Node/Vulcanus](../axes/node-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Vernal Point/Mars = Kronos
 page_type: activation
 slug: vernal-point-mars-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Mars
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Mars
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Mars`
-- Source page: `42`
 #### Witte Entry
 
 The parent's authority. Governmental actions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The parent's authority. Governmental actions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Public authority work, dominant public activity, government hand boys in public, creating for the state and the public, self governing public work, and priority public work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Mars = Kronos`: the parent's authority and governmental actions.
+- Practical expression: public authority work, dominant public activity, government hand boys in public, creating for the state, and the public.
 
 ## Links
 
@@ -61,3 +56,5 @@ The parent's authority. Governmental actions.
 - [Mars](../factors/mars.md)
 - [Kronos](../factors/kronos.md)
 - [Vernal Point/Mars](../axes/vernal-point-mars.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

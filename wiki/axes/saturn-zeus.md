@@ -3,7 +3,7 @@ title: Saturn/Zeus
 page_type: axis
 slug: saturn-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Zeus
@@ -11,26 +11,26 @@ normalized_axis: Saturn/Zeus
 factor_a: Saturn
 factor_b: Zeus
 related_activations:
-  - Saturn/Zeus = Vernal Point
-  - Saturn/Zeus = MC
+  - Saturn/Zeus = Admetos
+  - Saturn/Zeus = Apollon
   - Saturn/Zeus = Asc
-  - Saturn/Zeus = Sun
-  - Saturn/Zeus = Moon
-  - Saturn/Zeus = Node
-  - Saturn/Zeus = Mercury
-  - Saturn/Zeus = Venus
-  - Saturn/Zeus = Mars
-  - Saturn/Zeus = Jupiter
-  - Saturn/Zeus = Uranus
-  - Saturn/Zeus = Neptune
-  - Saturn/Zeus = Pluto
   - Saturn/Zeus = Cupido
   - Saturn/Zeus = Hades
+  - Saturn/Zeus = Jupiter
   - Saturn/Zeus = Kronos
-  - Saturn/Zeus = Apollon
-  - Saturn/Zeus = Admetos
-  - Saturn/Zeus = Vulcanus
+  - Saturn/Zeus = Mars
+  - Saturn/Zeus = MC
+  - Saturn/Zeus = Mercury
+  - Saturn/Zeus = Moon
+  - Saturn/Zeus = Neptune
+  - Saturn/Zeus = Node
+  - Saturn/Zeus = Pluto
   - Saturn/Zeus = Poseidon
+  - Saturn/Zeus = Sun
+  - Saturn/Zeus = Uranus
+  - Saturn/Zeus = Venus
+  - Saturn/Zeus = Vernal Point
+  - Saturn/Zeus = Vulcanus
 related_triad_hubs:
   - Jupiter Saturn Zeus
   - Mars Saturn Zeus
@@ -56,15 +56,15 @@ aliases:
   - Zeus/Saturn
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Axis: `Saturn/Zeus`
 - Astronomicon axis: `W/£`
-- Source heading: `Saturn + Zeus`
-- Source page: `226`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
@@ -74,48 +74,44 @@ updated_at: 2026-04-21
 
 Bequeathing. Perseverance. Oppression. Anxiety, anguish. Obstacles and hindrances in activity in work. To separate from or interrupt activities. Losses while producing. Breakdown of machines. Losses by fire in establishments. Processes without result. To separate from one’s work, or to separate from accomplishments. Hindered activity. To bring about separations.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Bequeathing. Perseverance. Oppression. Anxiety, anguish. Obstacles and hindrances in activity in work. To separate from or interrupt activities. Losses while producing. Breakdown of machines. Losses by fire in establishments. Processes without result. To separate from one’s work, or to separate from accomplishments. Hindered activity. To bring about separations.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+#### ABC Pair Summary
+
+Initial difficulties, efforts in old age, task design, beginning shocks, serious aspiration, fire losses, leadership problems, concentration impairment, performance problems, and problematic circulation
 
 ## Related Activations
 
-- [Saturn/Zeus = Vernal Point](../activations/saturn-zeus-equals-vernal-point.md)
-- [Saturn/Zeus = MC](../activations/saturn-zeus-equals-mc.md)
+- [Saturn/Zeus = Admetos](../activations/saturn-zeus-equals-admetos.md)
+- [Saturn/Zeus = Apollon](../activations/saturn-zeus-equals-apollon.md)
 - [Saturn/Zeus = Asc](../activations/saturn-zeus-equals-asc.md)
-- [Saturn/Zeus = Sun](../activations/saturn-zeus-equals-sun.md)
-- [Saturn/Zeus = Moon](../activations/saturn-zeus-equals-moon.md)
-- [Saturn/Zeus = Node](../activations/saturn-zeus-equals-node.md)
-- [Saturn/Zeus = Mercury](../activations/saturn-zeus-equals-mercury.md)
-- [Saturn/Zeus = Venus](../activations/saturn-zeus-equals-venus.md)
-- [Saturn/Zeus = Mars](../activations/saturn-zeus-equals-mars.md)
-- [Saturn/Zeus = Jupiter](../activations/saturn-zeus-equals-jupiter.md)
-- [Saturn/Zeus = Uranus](../activations/saturn-zeus-equals-uranus.md)
-- [Saturn/Zeus = Neptune](../activations/saturn-zeus-equals-neptune.md)
-- [Saturn/Zeus = Pluto](../activations/saturn-zeus-equals-pluto.md)
 - [Saturn/Zeus = Cupido](../activations/saturn-zeus-equals-cupido.md)
 - [Saturn/Zeus = Hades](../activations/saturn-zeus-equals-hades.md)
+- [Saturn/Zeus = Jupiter](../activations/saturn-zeus-equals-jupiter.md)
 - [Saturn/Zeus = Kronos](../activations/saturn-zeus-equals-kronos.md)
-- [Saturn/Zeus = Apollon](../activations/saturn-zeus-equals-apollon.md)
-- [Saturn/Zeus = Admetos](../activations/saturn-zeus-equals-admetos.md)
-- [Saturn/Zeus = Vulcanus](../activations/saturn-zeus-equals-vulcanus.md)
+- [Saturn/Zeus = Mars](../activations/saturn-zeus-equals-mars.md)
+- [Saturn/Zeus = MC](../activations/saturn-zeus-equals-mc.md)
+- [Saturn/Zeus = Mercury](../activations/saturn-zeus-equals-mercury.md)
+- [Saturn/Zeus = Moon](../activations/saturn-zeus-equals-moon.md)
+- [Saturn/Zeus = Neptune](../activations/saturn-zeus-equals-neptune.md)
+- [Saturn/Zeus = Node](../activations/saturn-zeus-equals-node.md)
+- [Saturn/Zeus = Pluto](../activations/saturn-zeus-equals-pluto.md)
 - [Saturn/Zeus = Poseidon](../activations/saturn-zeus-equals-poseidon.md)
+- [Saturn/Zeus = Sun](../activations/saturn-zeus-equals-sun.md)
+- [Saturn/Zeus = Uranus](../activations/saturn-zeus-equals-uranus.md)
+- [Saturn/Zeus = Venus](../activations/saturn-zeus-equals-venus.md)
+- [Saturn/Zeus = Vernal Point](../activations/saturn-zeus-equals-vernal-point.md)
+- [Saturn/Zeus = Vulcanus](../activations/saturn-zeus-equals-vulcanus.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- This axis centers on bequeathing, perseverance, oppression, with the source repeatedly stressing Saturnian pressure, delay, or inhibition through this pair.
+- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Zeus](../factors/zeus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

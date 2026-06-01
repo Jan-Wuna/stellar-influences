@@ -3,7 +3,7 @@ title: Vernal Point/Node = Zeus
 page_type: activation
 slug: vernal-point-node-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Node
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Node
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Node`
-- Source page: `39`
 #### Witte Entry
 
 General procreation. Swarming. To join together for production.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: General procreation. Swarming. To join together for production.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Relations with the public leadership, creative links in the public life, public communication, creative links in the public, connection with fire in the public life, and connection to leading in the public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Node = Zeus`: general procreation, swarming, and to join together for production.
+- Practical expression: relations with the public leadership, creative links in the public life, public communication, creative links in the public, and connection with fire in the public life.
 
 ## Links
 
@@ -61,3 +56,5 @@ General procreation. Swarming. To join together for production.
 - [Node](../factors/node.md)
 - [Zeus](../factors/zeus.md)
 - [Vernal Point/Node](../axes/vernal-point-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

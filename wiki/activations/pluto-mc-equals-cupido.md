@@ -3,10 +3,10 @@ title: Pluto/MC = Cupido
 page_type: activation
 slug: pluto-mc-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Pluto
+  - MC
   - Cupido
 normalized_formula: Pluto/MC = Cupido
 axis: Pluto/MC
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - MC
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Pluto`
-- Source page: `69`
 #### Witte Entry
 
 Concerning ancestors and children. To pick up the thread. Continuing the old traditions. Hereditary transmission. The development of community sense or artistic talent.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Concerning ancestors and children. To pick up the thread. Continuing the old traditions. Hereditary transmission. The development of community sense or artistic talent.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Development of a soul community, common soul development, I old age the community, my development in the community, my development to the whole, my evolution as a whole, and psychic transformation in of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/MC = Cupido`: the native is drawn into family, group or community transformation.
+- Practical expression: development of a soul community, common soul development, i old age the community, my development in the community, and my development to the whole.
 
 ## Links
 
@@ -61,3 +56,5 @@ Concerning ancestors and children. To pick up the thread. Continuing the old tra
 - [MC](../factors/mc.md)
 - [Cupido](../factors/cupido.md)
 - [Pluto/MC](../axes/pluto-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

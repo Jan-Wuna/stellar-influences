@@ -3,7 +3,7 @@ title: Sun/Saturn = Cupido
 page_type: activation
 slug: sun-saturn-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Saturn
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Saturn
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Saturn`
-- Source page: `107`
 #### Witte Entry
 
 The surviving husband. Obstacles to living together. To leave a company or a family. The divorced man.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The surviving husband. Obstacles to living together. To leave a company or a family. The divorced man.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+patient human community, disturbed human community, concentration of a man on the community, personal tasks in the community, maturing human community, and difficulties in the community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Saturn = Cupido`: separated family life and solitary or withdrawn belonging.
+- Practical expression: patient human community, disturbed human community, concentration of a man on the community, personal tasks in the community, and maturing human community.
 
 ## Links
 
@@ -61,3 +56,5 @@ The surviving husband. Obstacles to living together. To leave a company or a fam
 - [Saturn](../factors/saturn.md)
 - [Cupido](../factors/cupido.md)
 - [Sun/Saturn](../axes/sun-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

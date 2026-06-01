@@ -3,7 +3,7 @@ title: Venus/Vulcanus = Admetos
 page_type: activation
 slug: venus-vulcanus-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Admetos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Vulcanus`
-- Source page: `188`
 #### Witte Entry
 
 To be attractive to many. Great urge for science.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be attractive to many. Great urge for science.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Persistent power of love, depression through violent love, strengthening of peacepower, gritty artificial influence, powerful limitations in love, strong limitation of the artist, preference for continued influence, and resistance to love violence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Vulcanus = Admetos`: to be attractive to many.
+- Practical expression: persistent power of love, depression through violent love, strengthening of peacepower, gritty artificial influence, and powerful limitations in love.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be attractive to many. Great urge for science.
 - [Vulcanus](../factors/vulcanus.md)
 - [Admetos](../factors/admetos.md)
 - [Venus/Vulcanus](../axes/venus-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

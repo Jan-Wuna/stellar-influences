@@ -3,7 +3,7 @@ title: Hades Apollon Admetos
 page_type: triad_hub
 slug: hades-apollon-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Apollon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Hades Apollon Admetos`
 - Astronomicon triad-set: `¢ ¥ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Apollon/Admetos = Hades](../activations/apollon-admetos-equals-hades.md)
-  Source page `306`
 - [Hades/Admetos = Apollon](../activations/hades-admetos-equals-apollon.md)
-  Source page `282`
 - [Hades/Apollon = Admetos](../activations/hades-apollon-equals-admetos.md)
-  Source page `281`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Apollon/Admetos = Hades`: page `306`
-- `Hades/Admetos = Apollon`: page `282`
-- `Hades/Apollon = Admetos`: page `281`
+- `Apollon/Admetos = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `306`
+- `Apollon/Admetos = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `469`
+- `Hades/Admetos = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `282`
+- `Hades/Admetos = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `445`
+- `Hades/Apollon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `281`
+- `Hades/Apollon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `443`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Apollon/Admetos = Hades`: dissatisfaction born of need, with peace and contentment eroded by privation, worry, or painful deficiency.
+- `Hades/Admetos = Apollon`: hardship spreading among many, economic downturn, and knowledge or revelation drawn from old, historical, or deeply burdened material.
+- `Hades/Apollon = Admetos`: poverty and need affecting a small number directly and belonging to those reduced conditions oneself.
 
 ## Links
 
 - [Hades](../factors/hades.md)
 - [Apollon](../factors/apollon.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

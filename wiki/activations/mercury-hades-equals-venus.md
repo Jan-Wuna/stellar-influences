@@ -3,7 +3,7 @@ title: Mercury/Hades = Venus
 page_type: activation
 slug: mercury-hades-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Venus
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Hades`
-- Source page: `167`
 #### Witte Entry
 
 Sad thoughts of love. Weakness of the sexual nerves. Acquaintances who cause slander and bad reputation. Art in the dives. Dirty jokes.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sad thoughts of love. Weakness of the sexual nerves. Acquaintances who cause slander and bad reputation. Art in the dives. Dirty jokes.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dangered peace speech, secret love thoughts, loving thoughts of the past, hearty love crime, dirty love thoughts, secret youth love, traffic news service, and fondness of old languages
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Hades = Venus` degrades the axis in love, taste, and social reputation.
+- Chart expression: sorrow in love, sexual nervous weakness, acquaintances who damage reputation through gossip, and art or humor expressed through low settings, dirty jokes, or debased taste.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sad thoughts of love. Weakness of the sexual nerves. Acquaintances who cause sla
 - [Hades](../factors/hades.md)
 - [Venus](../factors/venus.md)
 - [Mercury/Hades](../axes/mercury-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

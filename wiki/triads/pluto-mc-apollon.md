@@ -3,7 +3,7 @@ title: Pluto MC Apollon
 page_type: triad_hub
 slug: pluto-mc-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Pluto MC Apollon`
 - Astronomicon triad-set: `Z MC ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Apollon = Pluto](../activations/mc-apollon-equals-pluto.md)
-  Source page `74`
 - [Pluto/Apollon = MC](../activations/pluto-apollon-equals-mc.md)
-  Source page `261`
 - [Pluto/MC = Apollon](../activations/pluto-mc-equals-apollon.md)
-  Source page `69`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Apollon = Pluto`: page `74`
-- `Pluto/Apollon = MC`: page `261`
-- `Pluto/MC = Apollon`: page `69`
+- `MC/Apollon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `74`
+- `MC/Apollon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `93`
+- `Pluto/Apollon = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `261`
+- `Pluto/Apollon = MC`: Udo Rudolph - ABC for Planetary Pictures, page `416`
+- `Pluto/MC = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `69`
+- `Pluto/MC = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `83`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Apollon = Pluto`: deepens the axis through correct evaluation and developing scientific ability.
+- `Pluto/Apollon = MC`: This activation emphasizes the personal ability to develop; To collect experiences; To move in a new direction of development; To start something new.
+- `Pluto/MC = Apollon`: This activation emphasizes personal development widens; Growth opens a broader path or sphere of activity.
 
 ## Links
 
 - [Pluto](../factors/pluto.md)
 - [MC](../factors/mc.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Pluto`
-- Source page: `165`
 #### Witte Entry
 
 To come to the conclusion that separation is compulsory.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Mercury/Pluto`
-- Source page: `164`
-- Entry: `0536`
+#### ABC Entry
+
+To discuss development tasks, to develop concentration of thoughts, to develop slow traffic development, to develop problematic opinion change, to develop separation thoughts, to talk about pain developments, and to increase traffic load
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Quarrelsome nature, nagging character. Irritability, skepticism. Nervous irritat
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mercury/Pluto midpoint`
-- Source page: `50`
-- Activator: `Saturn`
-
 #### Sandbach Entry
 
 A need to be sensitive to the ideas of others rather than solely focused on one’s own. Negative reactions encountered when one tries to impress one’s ideas on others.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Disappointment when releasing information which you feel is secret; delays in your plans to exert control over knowledge; added efficiency to your ruthlessness in pursuing sources of data or rumors.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Pluto = Saturn`: research stamina, mental toughness, and the capacity to persist with difficult truths. Main caution: severe compression: insight can become grim, distrustful, or too closed to release or adapt.
 
 ## Links
 
@@ -84,7 +76,8 @@ A need to be sensitive to the ideas of others rather than solely focused on one�
 - [Pluto](../factors/pluto.md)
 - [Saturn](../factors/saturn.md)
 - [Mercury/Pluto](../axes/mercury-pluto.md)
-- [Mercury Saturn Pluto](../triads/mercury-saturn-pluto.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

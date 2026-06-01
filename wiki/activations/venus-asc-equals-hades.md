@@ -3,10 +3,10 @@ title: Venus/Asc = Hades
 page_type: activation
 slug: venus-asc-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Venus
+  - Asc
   - Hades
 normalized_formula: Venus/Asc = Hades
 axis: Venus/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Asc
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Venus`
-- Source page: `84`
 #### Witte Entry
 
 Difficulties or restrictions in love or other pleasant connections. To be the object of mercenary or illicit love. Servants and people socially below the native show their affection.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Difficulties or restrictions in love or other pleasant connections. To be the object of mercenary or illicit love. Servants and people socially below the native show their affection.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Danger for the harmony in the environment, harmony deficiency with others, artist from places of the past, krim inelle partner love, love deficiency in the place, love partner from the past, hidden love to the other, and renunciation of partner love
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Asc = Hades`: difficulties or restrictions in love or other pleasant connections.
+- Practical expression: danger for the harmony in the environment, harmony deficiency with others, artist from places of the past, krim inelle partner love, and love deficiency in the place.
 
 ## Links
 
@@ -61,3 +56,5 @@ Difficulties or restrictions in love or other pleasant connections. To be the ob
 - [Asc](../factors/asc.md)
 - [Hades](../factors/hades.md)
 - [Venus/Asc](../axes/venus-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

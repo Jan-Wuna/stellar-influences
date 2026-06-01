@@ -3,7 +3,7 @@ title: Vernal Point/Asc = Apollon
 page_type: activation
 slug: vernal-point-asc-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Asc
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Asc
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Asc`
-- Source page: `36`
 #### Witte Entry
 
 Many meetings. Many customers. Many people. A crowd. Distant places. Much frequented places.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Many meetings. Many customers. Many people. A crowd. Distant places. Much frequented places.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Expansion of trade in public, expansion of a public place, freedom for others in public, trade partners in public, partner experiences in public life, and environmental success in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Asc = Apollon`: many meetings, many customers, many people, a crowd, and distant places.
+- Practical expression: expansion of trade in public, expansion of a public place, freedom for others in public, trade partners in public, and partner experiences in public life.
 
 ## Links
 
@@ -61,3 +56,5 @@ Many meetings. Many customers. Many people. A crowd. Distant places. Much freque
 - [Asc](../factors/asc.md)
 - [Apollon](../factors/apollon.md)
 - [Vernal Point/Asc](../axes/vernal-point-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

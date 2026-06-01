@@ -3,7 +3,7 @@ title: Jupiter/Hades = Sun
 page_type: activation
 slug: jupiter-hades-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Jupiter
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Hades`
-- Source page: `212`
 #### Witte Entry
 
 Daily worries. A man with worries. To be or to become poor. Persons with lung trouble.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Daily worries. A man with worries. To be or to become poor. Persons with lung trouble.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Erfc)lgs deficiency of man, successful center of the past, danger for people with money, Crimea inalitat in the financial center, disadvantages for a financial center, personal success by deprivation, and personal joy from the past
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Hades = Sun`: identity and life force being overshadowed by hardship. It can show constant concern about lack, personal discouragement, and the body carrying the imprint of sustained strain.
 
 ## Links
 
@@ -61,3 +55,5 @@ Daily worries. A man with worries. To be or to become poor. Persons with lung tr
 - [Hades](../factors/hades.md)
 - [Sun](../factors/sun.md)
 - [Jupiter/Hades](../axes/jupiter-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

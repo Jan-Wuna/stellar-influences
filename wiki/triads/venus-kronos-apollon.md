@@ -3,7 +3,7 @@ title: Venus Kronos Apollon
 page_type: triad_hub
 slug: venus-kronos-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Kronos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Kronos Apollon`
 - Astronomicon triad-set: `Q ¤ ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Kronos/Apollon = Venus](../activations/kronos-apollon-equals-venus.md)
-  Source page `299`
 - [Venus/Apollon = Kronos](../activations/venus-apollon-equals-kronos.md)
-  Source page `186`
 - [Venus/Kronos = Apollon](../activations/venus-kronos-equals-apollon.md)
-  Source page `185`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Kronos/Apollon = Venus`: page `299`
-- `Venus/Apollon = Kronos`: page `186`
-- `Venus/Kronos = Apollon`: page `185`
+- `Kronos/Apollon = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `299`
+- `Kronos/Apollon = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `460`
+- `Venus/Apollon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `186`
+- `Venus/Apollon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `291`
+- `Venus/Kronos = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `185`
+- `Venus/Kronos = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `289`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Kronos/Apollon = Venus`: expanded friendships through scientists, peacemaking, willingness to help, and state-ratified or officially approved appointments.
+- `Venus/Apollon = Kronos`: friendship with superiors and with people working in the government.
+- `Venus/Kronos = Apollon`: many special favors.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Kronos](../factors/kronos.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

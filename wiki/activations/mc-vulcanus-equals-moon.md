@@ -3,7 +3,7 @@ title: MC/Vulcanus = Moon
 page_type: activation
 slug: mc-vulcanus-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - MC
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Vulcanus`
-- Source page: `76`
 #### Witte Entry
 
 To strongly influence women and the public. To make a great stir. Executive powers.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To strongly influence women and the public. To make a great stir. Executive powers.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Energy of my woman, influence of my woman, power of my woman, my emotional influence, powerful people, my influence as a woman, my energetic woman, my power as a woman, my strong feelings, my strong hour, and strong soul of the people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Vulcanus = Moon` emotionalizes the axis through strong influence over women and the public.
+- Chart expression: making a major public impression, stirring emotional reaction, and expressing power through collective feeling, popular response, or executive presence.
 
 ## Links
 
@@ -61,3 +56,5 @@ To strongly influence women and the public. To make a great stir. Executive powe
 - [Vulcanus](../factors/vulcanus.md)
 - [Moon](../factors/moon.md)
 - [MC/Vulcanus](../axes/mc-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

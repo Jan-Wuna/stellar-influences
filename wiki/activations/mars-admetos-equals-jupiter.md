@@ -3,7 +3,7 @@ title: Mars/Admetos = Jupiter
 page_type: activation
 slug: mars-admetos-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Jupiter
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Admetos`
-- Source page: `202`
 #### Witte Entry
 
 Fortunate work accomplished in a small circle. Joy through decreasing one’s work.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Fortunate work accomplished in a small circle. Joy through decreasing one’s work.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exhaustive success actions, limitation by legal activity, blocked work joy, restricted right to work, restriction of financial activity, joy by working with earth, gross financial activity, and deepening into labour law
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Admetos = Jupiter`: fortunate work in a small circle and satisfaction or ease gained by reducing the scale of one's labor.
+- Chart expression: finding benefit in simplification, with luck arising from limitation rather than expansion.
 
 ## Links
 
@@ -61,3 +56,5 @@ Fortunate work accomplished in a small circle. Joy through decreasing one’s wo
 - [Admetos](../factors/admetos.md)
 - [Jupiter](../factors/jupiter.md)
 - [Mars/Admetos](../axes/mars-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

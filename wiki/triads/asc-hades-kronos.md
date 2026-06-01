@@ -3,7 +3,7 @@ title: Asc Hades Kronos
 page_type: triad_hub
 slug: asc-hades-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Asc Hades Kronos`
 - Astronomicon triad-set: `Asc ¢ ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Hades = Kronos](../activations/asc-hades-equals-kronos.md)
-  Source page `92`
 - [Asc/Kronos = Hades](../activations/asc-kronos-equals-hades.md)
-  Source page `94`
 - [Hades/Kronos = Asc](../activations/hades-kronos-equals-asc.md)
-  Source page `279`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Hades = Kronos`: page `92`
-- `Asc/Kronos = Hades`: page `94`
-- `Hades/Kronos = Asc`: page `279`
+- `Asc/Hades = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `92`
+- `Asc/Hades = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `125`
+- `Asc/Kronos = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `94`
+- `Asc/Kronos = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `129`
+- `Hades/Kronos = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `279`
+- `Hades/Kronos = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `440`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Hades = Kronos`: major loss or harm in the environment, including injury to authorities, institutions, or independent people through bad associations.
+- `Asc/Kronos = Hades`: loss of employment, degradation through authority, and punitive institutional conditions.
+- `Hades/Kronos = Asc`: serious misfortune and direct damage to the native through the meanness, abuse, or malice of others in stronger positions.
 
 ## Links
 
 - [Asc](../factors/asc.md)
 - [Hades](../factors/hades.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

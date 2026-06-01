@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Moon Chiron MC`
 - Astronomicon triad-set: `R Chiron MC`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Moon/Chiron = MC`: John, page `32`
 - `Moon/MC = Chiron`: John, page `40`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/MC = Moon`: nurturing vocation, healing parenting, and a public role that makes others feel meaningful and capable. Main caution: over-identifying with being needed by everyone.
+- `Moon/Chiron = MC`: One’s path in this lifetime has to do with bringing the warmth of nurturing and love to others in a very pure form, and creating a sense of security wherever one goes.
+- `Moon/MC = Chiron`: Your energy helps others to be more receptive and impressionable to mes sages and impulses coming from the spiritual realms. You also help them to get in touch with how they feel about their place in life and what type of life work would be truly emotionally fulfilling for them.
 
 ## Links
 

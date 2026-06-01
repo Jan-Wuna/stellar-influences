@@ -3,7 +3,7 @@ title: Mars/Vulcanus = Admetos
 page_type: activation
 slug: mars-vulcanus-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Admetos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Vulcanus`
-- Source page: `203`
 #### Witte Entry
 
 To stop or finish a mighty activity. Great energies used up. Fatigue. End of fight. Armistice.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To stop or finish a mighty activity. Great energies used up. Fatigue. End of fight. Armistice.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked labor force, depressive will influence, restricted will force, curtailment of violence actions, powerful strike activity, tremendous under drimming activity, tremendous deepening of work, and processing raw material energies
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Vulcanus = Admetos` brings immense force to a halt, exhaustion, or a hard stop in struggle.
+- Chart expression: the end of a fight, armistice, fatigue after heavy expenditure, and situations where great energies are used up or forcibly brought to rest.
 
 ## Links
 
@@ -61,3 +56,5 @@ To stop or finish a mighty activity. Great energies used up. Fatigue. End of fig
 - [Vulcanus](../factors/vulcanus.md)
 - [Admetos](../factors/admetos.md)
 - [Mars/Vulcanus](../axes/mars-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

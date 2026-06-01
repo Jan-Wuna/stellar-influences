@@ -3,7 +3,7 @@ title: Sun/Mercury = Poseidon
 page_type: activation
 slug: sun-mercury-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Mercury
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Mercury
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Mercury`
-- Source page: `103`
 #### Witte Entry
 
 Spiritual and mental matters in youth. To concentrate on ideas and writings. Mental thinking and writing.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Spiritual and mental matters in youth. To concentrate on ideas and writings. Mental thinking and writing.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Insightful young man, spiritual youth center, spiritual personal language, talk about body and mind, talk about personal insights, clear body language, strong personal opinion, and truth about young people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Mercury = Poseidon`: truthful or spiritual thinking and inspired communication.
+- Practical expression: insightful young man, spiritual youth center, spiritual personal language, talk about body, and mind.
 
 ## Links
 
@@ -61,3 +56,5 @@ Spiritual and mental matters in youth. To concentrate on ideas and writings. Men
 - [Mercury](../factors/mercury.md)
 - [Poseidon](../factors/poseidon.md)
 - [Sun/Mercury](../axes/sun-mercury.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

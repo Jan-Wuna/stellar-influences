@@ -3,7 +3,7 @@ title: Mars/Hades = Poseidon
 page_type: activation
 slug: mars-hades-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Hades
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Hades`
-- Source page: `198`
 #### Witte Entry
 
 The moral behavior of lowbrow people. Services which demand little mental ability.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The moral behavior of lowbrow people. Services which demand little mental ability.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Clear impulses from the past, cultural work service, cultural creations in secret, defective cultural work, disadvantages by producing the truth, lack of mental power, hidden spiritual work, and working on the truth of the past
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Hades = Poseidon`: degraded thought, shallow standards, and work or duty carried on without refinement, conscience, or intellectual lift.
 
 ## Links
 
@@ -61,3 +55,5 @@ The moral behavior of lowbrow people. Services which demand little mental abilit
 - [Hades](../factors/hades.md)
 - [Poseidon](../factors/poseidon.md)
 - [Mars/Hades](../axes/mars-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

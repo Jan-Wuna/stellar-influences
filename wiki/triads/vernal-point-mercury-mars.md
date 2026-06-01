@@ -3,7 +3,7 @@ title: Vernal Point Mercury Mars
 page_type: triad_hub
 slug: vernal-point-mercury-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Mercury
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Mercury Mars`
 - Astronomicon triad-set: `VP T U`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Mars = Vernal Point](../activations/mercury-mars-equals-vernal-point.md)
-  Source page `160`
 - [Vernal Point/Mars = Mercury](../activations/vernal-point-mars-equals-mercury.md)
-  Source page `42`
 - [Vernal Point/Mercury = Mars](../activations/vernal-point-mercury-equals-mars.md)
-  Source page `40`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Mars = Vernal Point`: page `160`
-- `Vernal Point/Mars = Mercury`: page `42`
-- `Vernal Point/Mercury = Mars`: page `40`
+- `Mercury/Mars = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `160`
+- `Mercury/Mars = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `242`
+- `Vernal Point/Mars = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `42`
+- `Vernal Point/Mars = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `32`
+- `Vernal Point/Mercury = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `40`
+- `Vernal Point/Mercury = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `28`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Mars = Vernal Point`: projects the axis outward as direct speech and fast execution.
+- `Vernal Point/Mars = Mercury`: This formula emphasizes thinking, the power of thought, energetic action, and to create.
+- `Vernal Point/Mercury = Mars`: This formula emphasizes general excitement, quarrels in public, and masses in action.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Mercury](../factors/mercury.md)
 - [Mars](../factors/mars.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

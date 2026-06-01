@@ -3,7 +3,7 @@ title: Saturn/Neptune = Apollon
 page_type: activation
 slug: saturn-neptune-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Neptune
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Neptune`
-- Source page: `222`
 #### Witte Entry
 
 Subversive deeds. Unclean methods. Cunning acts behind someone’s back. Chronic sickness of the masses.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Subversive deeds. Unclean methods. Cunning acts behind someone’s back. Chronic sickness of the masses.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Extensive insecurity due to pain, successful intuition in old age, busy knowledge of metaphysics, concentration on unknown knowledge, problematic success expectations, and creeping losses in trade
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Neptune = Apollon`: subversive deeds, unclean methods, cunning acts behind someone’s back.
+- Practical expression: extensive insecurity due to pain, successful intuition in old age, busy knowledge of metaphysics, concentration on unknown knowledge, and problematic success expectations.
 
 ## Links
 
@@ -61,3 +56,5 @@ Subversive deeds. Unclean methods. Cunning acts behind someone’s back. Chronic
 - [Neptune](../factors/neptune.md)
 - [Apollon](../factors/apollon.md)
 - [Saturn/Neptune](../axes/saturn-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

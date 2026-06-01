@@ -3,10 +3,10 @@ title: Pluto/Node = Hades
 page_type: activation
 slug: pluto-node-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Pluto
+  - Node
   - Hades
 normalized_formula: Pluto/Node = Hades
 axis: Pluto/Node
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Node
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Pluto`
-- Source page: `148`
 #### Witte Entry
 
 New connections, which prove to be an absolute failure, untenable.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: New connections, which prove to be an absolute failure, untenable.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Development of links from the past, development of a dangerous link, poor development in a relationship, changes in a secret link, growing criminal links, and changing contacts in need
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Node = Hades`: harmful or deteriorating relationships; Contact with others worsens conditions.
+- Practical expression: development of links from the past, development of a dangerous link, poor development in a relationship, changes in a secret link, and growing criminal links.
 
 ## Links
 
@@ -61,3 +56,5 @@ New connections, which prove to be an absolute failure, untenable.
 - [Node](../factors/node.md)
 - [Hades](../factors/hades.md)
 - [Pluto/Node](../axes/pluto-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

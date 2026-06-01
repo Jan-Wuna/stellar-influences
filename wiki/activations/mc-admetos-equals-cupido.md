@@ -3,7 +3,7 @@ title: MC/Admetos = Cupido
 page_type: activation
 slug: mc-admetos-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Cupido
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Admetos`
-- Source page: `75`
 #### Witte Entry
 
 Wanting to be alone. To reject to be with others.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Wanting to be alone. To reject to be with others.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+I at the stabilizing the community, my support in the community, my consolidated cycle, my limitations in the community, my artistic perseverance, and my psychic support in of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Admetos = Cupido` socializes the axis through chosen isolation and withdrawal from companionship.
+- Chart expression: a solitary domestic or group stance, preference for being alone, and a life pattern that resists joining or remaining with others.
 
 ## Links
 
@@ -61,3 +56,5 @@ Wanting to be alone. To reject to be with others.
 - [Admetos](../factors/admetos.md)
 - [Cupido](../factors/cupido.md)
 - [MC/Admetos](../axes/mc-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Moon/Apollon = Cupido
 page_type: activation
 slug: moon-apollon-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Cupido
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Apollon`
-- Source page: `134`
 #### Witte Entry
 
 Many hours devoted to art, leisure, relaxation. Common, peaceful competition of the nations. Olympic games.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Many hours devoted to art, leisure, relaxation. Common, peaceful competition of the nations. Olympic games.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Experiences of a community, successful women's community, common knowledge of women, many women in of a community, economy of a people community, and scientific women's community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Apollon = Cupido`: Many hours devoted to art, leisure, relaxation. Common, peaceful competition of the nations. Olympic games.
+- Practical expression: experiences of a community, successful women's community, common knowledge of women, many women in a community, and economy of a people community.
 
 ## Links
 
@@ -61,3 +56,5 @@ Many hours devoted to art, leisure, relaxation. Common, peaceful competition of 
 - [Apollon](../factors/apollon.md)
 - [Cupido](../factors/cupido.md)
 - [Moon/Apollon](../axes/moon-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

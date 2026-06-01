@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Venus Uranus`
 - Astronomicon triad-set: `T Q X`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,19 +40,27 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Mercury/Uranus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `163`
+- `Mercury/Uranus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `248`
 - `Mercury/Uranus = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `158`
 - `Mercury/Uranus = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `47`
+- `Mercury/Uranus = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `164`
 - `Mercury/Venus = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `159`
+- `Mercury/Venus = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `241`
 - `Mercury/Venus = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `146`
 - `Mercury/Venus = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `41`
+- `Mercury/Venus = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `148`
 - `Venus/Uranus = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `179`
+- `Venus/Uranus = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `276`
 - `Venus/Uranus = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `185`
 - `Venus/Uranus = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `60`
+- `Venus/Uranus = Mercury`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `200`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Uranus = Venus`: witty magnetism, with clever speech, social spontaneity, and inventive style shaping connection and liking.
+- `Mercury/Venus = Uranus`: playful originality, with wit, charm, and relational intelligence expressed through unusual style and quick social improvisation.
+- `Venus/Uranus = Mercury`: electric attraction, unconventional love, and liberating value shifts made witty, surprising, and mentally quick.
 
 ## Links
 
@@ -59,5 +68,7 @@ updated_at: 2026-04-22
 - [Venus](../factors/venus.md)
 - [Uranus](../factors/uranus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

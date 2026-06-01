@@ -3,10 +3,10 @@ title: Pluto/Node = Apollon
 page_type: activation
 slug: pluto-node-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Pluto
+  - Node
   - Apollon
 normalized_formula: Pluto/Node = Apollon
 axis: Pluto/Node
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Node
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Pluto`
-- Source page: `148`
 #### Witte Entry
 
 New connections with many, with scientists, commerce, trade or industry. Many changing connections.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: New connections with many, with scientists, commerce, trade or industry. Many changing connections.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Expansion of a trade connection, successful development of Y bonded, growing links to the economy, changing success in a relationship, knowledge development bonded in Y, and increasing changes in connections
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Node = Apollon`: connections broaden development; New relationships open a wider field of growth or consequence.
+- Practical expression: expansion of a trade connection, successful development of Y bonded, growing links to the economy, changing success in a relationship, and knowledge development bonded in Y.
 
 ## Links
 
@@ -61,3 +56,5 @@ New connections with many, with scientists, commerce, trade or industry. Many ch
 - [Node](../factors/node.md)
 - [Apollon](../factors/apollon.md)
 - [Pluto/Node](../axes/pluto-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

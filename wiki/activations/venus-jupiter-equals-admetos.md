@@ -3,7 +3,7 @@ title: Venus/Jupiter = Admetos
 page_type: activation
 slug: venus-jupiter-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Jupiter
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Jupiter
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Jupiter`
-- Source page: `177`
 #### Witte Entry
 
 To have a few good friends. Luck through a few or with a few.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To have a few good friends. Luck through a few or with a few.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Excluding preference for right, limitation of financial desires, existing advantages through peace, blocked peace success, restricted love happiness, success by deepening harmony, strengthening the right to peace, and joy in the money circle
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Jupiter = Admetos`: to have a few good friends.
+- Practical expression: excluding preference for right, limitation of financial desires, existing advantages through peace, blocked peace success, and restricted love happiness.
 
 ## Links
 
@@ -61,3 +56,5 @@ To have a few good friends. Luck through a few or with a few.
 - [Jupiter](../factors/jupiter.md)
 - [Admetos](../factors/admetos.md)
 - [Venus/Jupiter](../axes/venus-jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

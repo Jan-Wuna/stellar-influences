@@ -3,7 +3,7 @@ title: Mars/Zeus = Uranus
 page_type: activation
 slug: mars-zeus-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Uranus
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Zeus`
-- Source page: `199`
 #### Witte Entry
 
 Sudden energetic action, which cannot be stopped. Fast assault. Quick-firing weapons. Ignition. Inventive creative work.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sudden energetic action, which cannot be stopped. Fast assault. Quick-firing weapons. Ignition. Inventive creative work.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful leadership activity, exciting fire activity, creative work rhythm, new work goals, start reform activity, technical performance will, surprising performance by action force, and determined technical trade
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Zeus = Uranus` electrifies the axis into unstoppable, sudden, inventive action.
+- Chart expression: ignition, assault, rapid execution, and breakthrough technical force that erupts quickly and is hard to contain.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sudden energetic action, which cannot be stopped. Fast assault. Quick-firing wea
 - [Zeus](../factors/zeus.md)
 - [Uranus](../factors/uranus.md)
 - [Mars/Zeus](../axes/mars-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

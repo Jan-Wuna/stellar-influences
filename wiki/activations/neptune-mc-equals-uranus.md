@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Neptune`
-- Source page: `68`
 #### Witte Entry
 
 Unconsciousness. Unconscious matters related to the beyond. To be the cause of sudden events. Aggravations caused through deceit, falsehood or dishonesty. To create confusion. To cause chaos (wreak havoc).
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Neptune/Medium Coeli`
-- Source page: `290`
-- Entry: `1042`
+#### ABC Entry
+
+My voice for the technique, my restless breath, my nervousness in the water, my new future, my sudden ideologies, my surprising weak, mcinc restlessness in the air, new psychic exchanges, and sudden psychic weakness
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Emotional irritability, occasional lack of clarity and certainty, desire 65 Uran
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Neptune/Midheaven midpoint`
-- Source page: `113`
-- Activator: `Uranus`
-
 #### Sandbach Entry
 
 A genius for take an intuitive and subtle approach to one’s career. Unexpected confusion arising in one’s work. The ability to be very creative and ingenious about manifesting one's ideals through one’s work.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Sudden and unexpected insights about possible goals or plans for future use of your time and resources; adds to the resistance you receive for unpopular ideas which have little basis in reality; rewards from studying astrology.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/MC = Uranus`: inspired reform, artistic or spiritual innovation, and the ability to redirect one's public life through flashes of insight. Main caution: erratic ambition: purpose can become ungrounded, scandalous, or too unsettled to mature coherently.
 
 ## Links
 
@@ -84,7 +76,8 @@ A genius for take an intuitive and subtle approach to one’s career. Unexpected
 - [MC](../factors/mc.md)
 - [Uranus](../factors/uranus.md)
 - [Neptune/MC](../axes/neptune-mc.md)
-- [Uranus Neptune MC](../triads/uranus-neptune-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

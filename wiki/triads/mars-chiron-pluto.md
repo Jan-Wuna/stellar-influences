@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Mars Chiron Pluto`
 - Astronomicon triad-set: `U Chiron Z`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Mars/Chiron = Pluto`: John, page `69`
 - `Mars/Pluto = Chiron`: John, page `73`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Pluto = Mars`: transformative initiative, healing through courageous action, and stress when intense impulses are suppressed. Main caution: forcing action before it is integrated or turning inner pressure into aggression.
+- `Mars/Chiron = Pluto`: root-level reform, fierce spiritual urgency, and life transformation that begins when one finally does what one already knows must be done. The caution is operating under such pressure that conflict becomes obsessive or coercive.
+- `Mars/Pluto = Chiron` helps others intensify action until it becomes breakthrough, transformation, and constructive destruction.
 
 ## Links
 

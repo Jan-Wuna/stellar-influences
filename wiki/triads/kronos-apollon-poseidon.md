@@ -3,7 +3,7 @@ title: Kronos Apollon Poseidon
 page_type: triad_hub
 slug: kronos-apollon-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Apollon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Kronos Apollon Poseidon`
 - Astronomicon triad-set: `¤ ¥ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Apollon/Poseidon = Kronos](../activations/apollon-poseidon-equals-kronos.md)
-  Source page `308`
 - [Kronos/Apollon = Poseidon](../activations/kronos-apollon-equals-poseidon.md)
-  Source page `299`
 - [Kronos/Poseidon = Apollon](../activations/kronos-poseidon-equals-apollon.md)
-  Source page `303`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Apollon/Poseidon = Kronos`: page `308`
-- `Kronos/Apollon = Poseidon`: page `299`
-- `Kronos/Poseidon = Apollon`: page `303`
+- `Apollon/Poseidon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `308`
+- `Apollon/Poseidon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `473`
+- `Kronos/Apollon = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `299`
+- `Kronos/Apollon = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `461`
+- `Kronos/Poseidon = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `303`
+- `Kronos/Poseidon = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `467`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Apollon/Poseidon = Kronos`: the respected intellectual or cultured figure who stands out among other refined or thoughtful people.
+- `Kronos/Apollon = Poseidon`: recognized authority among people of the same scientific or ideological view and great scientific perceptions.
+- `Kronos/Poseidon = Apollon`: the sage for many, broad enlightenment, widespread culture, and large-scale diffusion of knowledge and wisdom.
 
 ## Links
 
 - [Kronos](../factors/kronos.md)
 - [Apollon](../factors/apollon.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

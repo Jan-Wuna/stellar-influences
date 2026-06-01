@@ -3,7 +3,7 @@ title: Hades/Apollon = Vulcanus
 page_type: activation
 slug: hades-apollon-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Hades
   - Apollon
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Apollon`
-- Source page: `281`
 #### Witte Entry
 
 Massive spreading of poverty and need. Mighty misery. Great destruction. Greatest success in trading with scrap or in the science of history. Great success in secret science or magic.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Massive spreading of poverty and need. Mighty misery. Great destruction. Greatest success in trading with scrap or in the science of history. Great success in secret science or magic.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Success through non violence, dangerous experience of violence, violence threatens freedom, secret power expansion, criminal power of science, grief through violence, power through secret knowledge, and hidden trade power
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Apollon = Vulcanus`: the bleak field becoming forceful and far-reaching, whether as destruction, intensified poverty, or potent command of hidden and historical knowledge. Main caution: power amplifying the misery instead of only the insight.
 
 ## Links
 
@@ -61,3 +55,5 @@ Massive spreading of poverty and need. Mighty misery. Great destruction. Greates
 - [Apollon](../factors/apollon.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Hades/Apollon](../axes/hades-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

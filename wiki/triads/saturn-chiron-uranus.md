@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Saturn Chiron Uranus`
 - Astronomicon triad-set: `W Chiron X`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Saturn/Chiron = Uranus`: John, page `87`
 - `Saturn/Uranus = Chiron`: John, page `88`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Uranus = Saturn`: healing through disruption of rigid patterns and to slow freedom gained by confronting limitation. Main caution: resisting the very surprises that are trying to free one.
+- `Saturn/Chiron = Uranus` gives flashes of insight into the purpose of restriction and a gift for organizing life in a spiritually revealing way. It can make blocked patterns suddenly intelligible; the caution is disruptive certainty or brilliance that is not grounded in practical care.
+- `Saturn/Uranus = Chiron` helps others face the fear of being themselves and recognize the spiritual value of their uniqueness. It can awaken original insight without losing seriousness; the caution is not to push individuation faster than the person can safely integrate it.
 
 ## Links
 

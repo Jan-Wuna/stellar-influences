@@ -3,7 +3,7 @@ title: Pluto/Zeus = Sun
 page_type: activation
 slug: pluto-zeus-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Pluto
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Zeus`
-- Source page: `259`
 #### Witte Entry
 
 Daily obligations. The man who increases, or is asked to increase physical efforts.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Daily obligations. The man who increases, or is asked to increase physical efforts.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful personal changes, man's change in performance, personal creative development, man's change in direction, changes in the movement center, growing corporal benefits, and change of a filthy person
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Zeus = Sun`: daily obligations; The man who increases, or is asked to increase physical efforts.
+- Practical expression: effortful personal changes, man's change in performance, personal creative development, man's change in direction, and changes in the movement center.
 
 ## Links
 
@@ -61,3 +56,5 @@ Daily obligations. The man who increases, or is asked to increase physical effor
 - [Zeus](../factors/zeus.md)
 - [Sun](../factors/sun.md)
 - [Pluto/Zeus](../axes/pluto-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

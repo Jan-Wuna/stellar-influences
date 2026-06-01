@@ -3,7 +3,7 @@ title: Jupiter Pluto Hades
 page_type: triad_hub
 slug: jupiter-pluto-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Pluto Hades`
 - Astronomicon triad-set: `V Z ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Hades = Pluto](../activations/jupiter-hades-equals-pluto.md)
-  Source page `212`
 - [Jupiter/Pluto = Hades](../activations/jupiter-pluto-equals-hades.md)
-  Source page `210`
 - [Pluto/Hades = Jupiter](../activations/pluto-hades-equals-jupiter.md)
-  Source page `258`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Hades = Pluto`: page `212`
-- `Jupiter/Pluto = Hades`: page `210`
-- `Pluto/Hades = Jupiter`: page `258`
+- `Jupiter/Hades = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `212`
+- `Jupiter/Hades = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `335`
+- `Jupiter/Pluto = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `210`
+- `Jupiter/Pluto = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `331`
+- `Pluto/Hades = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `258`
+- `Pluto/Hades = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `410`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Hades = Pluto`: the need to practice moderation and live thriftily.
+- `Jupiter/Pluto = Hades`: fortunate development denied by want.
+- `Pluto/Hades = Jupiter`: This activation emphasizes fictitious luck; Evil things are palliated; Decline of fortune and welfare.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Pluto](../factors/pluto.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

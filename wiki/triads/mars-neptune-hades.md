@@ -3,7 +3,7 @@ title: Mars Neptune Hades
 page_type: triad_hub
 slug: mars-neptune-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Neptune
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Neptune Hades`
 - Astronomicon triad-set: `U Y ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Hades = Neptune](../activations/mars-hades-equals-neptune.md)
-  Source page `198`
 - [Mars/Neptune = Hades](../activations/mars-neptune-equals-hades.md)
-  Source page `195`
 - [Neptune/Hades = Mars](../activations/neptune-hades-equals-mars.md)
-  Source page `248`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Hades = Neptune`: page `198`
-- `Mars/Neptune = Hades`: page `195`
-- `Neptune/Hades = Mars`: page `248`
+- `Mars/Hades = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `198`
+- `Mars/Hades = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `311`
+- `Mars/Neptune = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `195`
+- `Mars/Neptune = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `305`
+- `Neptune/Hades = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `248`
+- `Neptune/Hades = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `394`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Hades = Neptune`: loss through deception, covert attack, and severe danger from toxic or watery means.
+- `Mars/Neptune = Hades`: deepens harmful confusion into vicious contact, atrocity, and ruinous suffering.
+- `Neptune/Hades = Mars`: This activation directs hidden decline into futile effort, conflict, and destructive struggle, especially where water, vessels, or war turn action toward loss rather than accomplishment.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Neptune](../factors/neptune.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

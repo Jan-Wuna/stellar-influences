@@ -3,7 +3,7 @@ title: Vernal Point Mars Neptune
 page_type: triad_hub
 slug: vernal-point-mars-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Mars
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Mars Neptune`
 - Astronomicon triad-set: `VP U Y`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Neptune = Vernal Point](../activations/mars-neptune-equals-vernal-point.md)
-  Source page `195`
 - [Vernal Point/Mars = Neptune](../activations/vernal-point-mars-equals-neptune.md)
-  Source page `42`
 - [Vernal Point/Neptune = Mars](../activations/vernal-point-neptune-equals-mars.md)
-  Source page `46`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Neptune = Vernal Point`: page `195`
-- `Vernal Point/Mars = Neptune`: page `42`
-- `Vernal Point/Neptune = Mars`: page `46`
+- `Mars/Neptune = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `195`
+- `Mars/Neptune = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `304`
+- `Vernal Point/Mars = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `42`
+- `Vernal Point/Mars = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `33`
+- `Vernal Point/Neptune = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `46`
+- `Vernal Point/Neptune = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `40`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Neptune = Vernal Point`: makes infection, destruction, and dissolution collective or publicly visible.
+- `Vernal Point/Mars = Neptune`: This formula emphasizes poisoning, wasted efforts, and unsatisfactory work.
+- `Vernal Point/Neptune = Mars`: This formula emphasizes disturbance in a sex union and infections.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Mars](../factors/mars.md)
 - [Neptune](../factors/neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -58,13 +58,14 @@ aliases:
   - Uranus/Mars
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -77,17 +78,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Uranus`
-- Source page: `194`
-
 #### Pair Summary
 
 Sudden event. Exciting action. Energetic act. Fighting. Wounds. Bloody injury. Surgical procedure. Over impulsive or sudden action. Surprising action. Unexpected or new work. Impulsive movements or action. Actions in the field of technology or mathematics.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Mars/Uranus`
-- Source page: `207`
+#### ABC Pair Summary
+
+Work rhythm, eventful actions, new work, nervous actions, sudden action, reform activity, rhythmic impulses, exciting activity, technical work, over surprise actions, and will dynamics
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -111,17 +112,11 @@ Violent people, fighters for freedom, revolutionaries.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
-- Source heading: `Mars/Uranus`
-- Source page: `59`
-
 #### Falis Entry
 
 Disruptive force. Sporadic action. Eccentric actions. Klutzes. Independent actions. Independent force. Rebellious actions. Rebellious energy. Controversial assertions. The courage to act independently. The courage to do your own thing. Shocking anger. Shocking violence. Unpredictable angry outbursts. Reckless. Irresponsible. Accident prone. Unconventional desires. Daredevils. Thrill seekers. Extreme sports. Obnoxious behavior. Spastic. Quick actions. Instant action. Instant force. Sudden actions. Emergency workers. Crazy energy. Exciting energy. Sexual excitement. Needing exciting sex. Needing physical excitement. Needing to feel electric attraction. Electric energy. Electric sexuality. Nervous energy. Jittery. Technical ability. Unpredictable actions. Contrari ness. Doing the opposite of whatever it is you're supposed to be doing, even if it's not in your own best interest. Doing the opposite because following orders is intol erable. Having the courage to go your own way. Asserting your individuality. Fight ing the status quo. Extreme selfishness. Acting without approval. Leading the rebel lion. Fighting on behalf of the underdog. Actions that provoke others. Fighting for independence. The ability to act outside of what society expects. Acting like a weirdo. Bizarre behavior. Restless. Fidgety. Inability to sit still. Easily bored. Need ing new and exciting experiences constantly. Refusing to submit to authority figures. Refusing to do anything that you don't want to do. Insubordinate. Punk. The ability to make quick decisions. No hesi tation. Decisive. Feeling sexually excited by computers and technology. Getting a hard on for technology. Independent to the point of being unable to cooperate. Ornery. Eccentrics. Actively breaking the rules. Demanding personal freedom. Willful ac tions. Self-willed. Inability to let another's opinions influence what you choose to do. Genius energy. Genius in action. Technological leader. Staying at the front of technological advances. Fringe activities. Counter-culture. Competitive in techno logical fields. Extreme competitions. Unusual competitions. Competing for indi vidual freedom. The impulse to do the opposite. The impulse to resist attachments and commitments. Original actions. Exciting adventures. Unfeeling actions. Acting like you don't care. Aloof. Abrupt movements. Humanitarian actions. Acting on be half of the group. Maintaining your individuality within a group. Refusing to merge with others. Inventive leadership. Acting on intuition. Acting on sudden insights. Suddenly knowing exactly what to do, and then doing it. Active reform. Unusual exercise. High energy exercise programs. Advanced equipment. Callousness. Re belling without a cause. Separatist tendencies. DIY (Do It Yourself).
 
 ### Charles Carter - The Astrological Aspects
-
-- Source heading: `ASPECTS OF MARS & URANUS`
-- Source page: `56`
 
 #### Harmonious Aspects
 
@@ -169,9 +164,6 @@ There is often a disposition to take risks, and to overwork.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mars/Uranus midpoint`
-- Source page: `71`
-
 #### Principle
 
 Sudden and unexpected actions. To find one’s own independent and unique way of doing things. To be assertively rebellious. Accidents, which are a manifestation of pent-up energy that need to be released. To be impulsive in one’s actions, and/or to act erratically. Inspired action.
@@ -182,17 +174,11 @@ Active experimentation. The breaking out of old forms and patterns and the creat
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Mars/Uranus`
-- Source page: `208`
-
 #### Pair Delineation
 
 Rebellion, non-conformity, difficulties with authority, the drive for absolute independence. Fighting for freedom. Extreme personal eccentricity. Sudden physical actions often leading to accidents. Often associated with surgery.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `MARS/URANUS`
-- Source page: `231`
 
 #### Basic Ideas
 
@@ -221,15 +207,6 @@ Muscle spasms; rapidly fluctuating energy levels; deafness from exposure to nois
 
 - [Michael Munkasey - Mars/Uranus Concepts](../derived/munkasey-mars-uranus-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Mars/Uranus = Admetos](../activations/mars-uranus-equals-admetos.md)
@@ -254,20 +231,18 @@ Muscle spasms; rapidly fluctuating energy levels; deafness from exposure to nois
 - [Mars/Uranus = Vulcanus](../activations/mars-uranus-equals-vulcanus.md)
 - [Mars/Uranus = Zeus](../activations/mars-uranus-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Uranus` is the axis of explosive initiative, rebellion, sudden force, decisive rupture, and action that insists on freedom. It combines courage, aggression, and kinetic drive with unpredictability, independence, nervous tension, and the urge to break from restraint.
+- Chart expression: daring, quick action, technical or inventive force, radical self-assertion, emergency response, and the power to move fast when something must change immediately. Liabilities: equally clear: accidents, injuries, impulsiveness, combative defiance, volatile anger, overstrain, and action so abrupt that it destabilizes the situation or the body.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Uranus](../factors/uranus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)

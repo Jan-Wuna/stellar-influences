@@ -3,7 +3,7 @@ title: Moon/Admetos = Vulcanus
 page_type: activation
 slug: moon-admetos-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Admetos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Admetos`
-- Source page: `135`
 #### Witte Entry
 
 Violent effort to relieve crowded conditions. To rise up against the disfavor of fate.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Violent effort to relieve crowded conditions. To rise up against the disfavor of fate.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+enduring violence in the people, restriction of the influence of women, blocked power of a people, influence by the depth of the chair, violent suppression of a woman, power strengthening of a woman, energy of a depressed woman, and strong depression of a woman
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Admetos = Vulcanus`: Violent effort to relieve crowded conditions. To rise up against the disfavor of fate.
+- Practical expression: enduring violence in the people, restriction of the influence of women, blocked power of a people, influence by the depth of the chair, and violent suppression of a woman.
 
 ## Links
 
@@ -61,3 +56,5 @@ Violent effort to relieve crowded conditions. To rise up against the disfavor of
 - [Admetos](../factors/admetos.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Moon/Admetos](../axes/moon-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

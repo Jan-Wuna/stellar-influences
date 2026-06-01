@@ -3,7 +3,7 @@ title: Moon Neptune Kronos
 page_type: triad_hub
 slug: moon-neptune-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Neptune
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Neptune Kronos`
 - Astronomicon triad-set: `R Y ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Kronos = Neptune](../activations/moon-kronos-equals-neptune.md)
-  Source page `133`
 - [Moon/Neptune = Kronos](../activations/moon-neptune-equals-kronos.md)
-  Source page `128`
 - [Neptune/Kronos = Moon](../activations/neptune-kronos-equals-moon.md)
-  Source page `250`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Kronos = Neptune`: page `133`
-- `Moon/Neptune = Kronos`: page `128`
-- `Neptune/Kronos = Moon`: page `250`
+- `Moon/Kronos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `133`
+- `Moon/Kronos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `199`
+- `Moon/Neptune = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `128`
+- `Moon/Neptune = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `189`
+- `Neptune/Kronos = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `250`
+- `Neptune/Kronos = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `398`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Kronos = Neptune`: Independent women unfit as managers. Leading women cause intrigues, failures. Officials and boards interfere in vain.
+- `Moon/Neptune = Kronos`: This activation elevates `Moon/Neptune` through protected sensitivity, regulated rest, and heightened night awareness. It suggests a refined receptivity under formal shelter or control, so delicate feeling is given structure, supervision, or institutional containment.
+- `Neptune/Kronos = Moon`: This activation emotionalizes high but unstable leadership, mixing accomplishment through sensitivity with insincere opinion, deceptive feeling, and public or atmospheric elevation that can drift toward illusion.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Neptune](../factors/neptune.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

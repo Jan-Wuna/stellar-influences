@@ -3,7 +3,7 @@ title: Mercury Hades Kronos
 page_type: triad_hub
 slug: mercury-hades-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Hades Kronos`
 - Astronomicon triad-set: `T ¢ ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Kronos = Mercury](../activations/hades-kronos-equals-mercury.md)
-  Source page `279`
 - [Mercury/Hades = Kronos](../activations/mercury-hades-equals-kronos.md)
-  Source page `167`
 - [Mercury/Kronos = Hades](../activations/mercury-kronos-equals-hades.md)
-  Source page `169`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Kronos = Mercury`: page `279`
-- `Mercury/Hades = Kronos`: page `167`
-- `Mercury/Kronos = Hades`: page `169`
+- `Hades/Kronos = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `279`
+- `Hades/Kronos = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `440`
+- `Mercury/Hades = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `167`
+- `Mercury/Hades = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `257`
+- `Mercury/Kronos = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `169`
+- `Mercury/Kronos = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `261`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Kronos = Mercury`: writing about misery and poverty, thinking about major mean acts, or acting as an intellectual organizer within crime.
+- `Mercury/Hades = Kronos`: directs the axis upward as slander aimed at authority.
+- `Mercury/Kronos = Hades`: darkens the axis with antique power, decayed states, and high-order fraud.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Hades](../factors/hades.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

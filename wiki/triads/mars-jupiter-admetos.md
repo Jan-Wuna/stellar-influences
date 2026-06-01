@@ -3,7 +3,7 @@ title: Mars Jupiter Admetos
 page_type: triad_hub
 slug: mars-jupiter-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Jupiter
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Jupiter Admetos`
 - Astronomicon triad-set: `U V ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Admetos = Mars](../activations/jupiter-admetos-equals-mars.md)
-  Source page `216`
 - [Mars/Admetos = Jupiter](../activations/mars-admetos-equals-jupiter.md)
-  Source page `202`
 - [Mars/Jupiter = Admetos](../activations/mars-jupiter-equals-admetos.md)
-  Source page `192`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Admetos = Mars`: page `216`
-- `Mars/Admetos = Jupiter`: page `202`
-- `Mars/Jupiter = Admetos`: page `192`
+- `Jupiter/Admetos = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `216`
+- `Jupiter/Admetos = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `342`
+- `Mars/Admetos = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `202`
+- `Mars/Admetos = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `318`
+- `Mars/Jupiter = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `192`
+- `Mars/Jupiter = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `299`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Admetos = Mars`: successful activity in a special sphere and strong practical effort.
+- `Mars/Admetos = Jupiter`: fortunate work in a small circle and satisfaction or ease gained by reducing the scale of one's labor.
+- `Mars/Jupiter = Admetos`: compresses the Mars/Jupiter axis of fortunate action and productive effort into interruption, diminished yield, or blocked fruition.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Jupiter](../factors/jupiter.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

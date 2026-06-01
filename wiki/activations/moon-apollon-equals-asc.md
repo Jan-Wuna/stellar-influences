@@ -3,7 +3,7 @@ title: Moon/Apollon = Asc
 page_type: activation
 slug: moon-apollon-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Asc
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Apollon`
-- Source page: `134`
 #### Witte Entry
 
 To spend many hours together with many people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To spend many hours together with many people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Success of other people, successful woman as a partner, freedom of enterprise in the environment, trade with other people, many women in the vicinity, experience of feelings with the partner, knowledge of feelings in the environment, and hour of success with the partner
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Apollon = Asc`: To spend many hours together with many people.
+- Practical expression: success of other people, successful woman as a partner, freedom of enterprise in the environment, trade with other people, and many women in the vicinity.
 
 ## Links
 
@@ -61,3 +56,5 @@ To spend many hours together with many people.
 - [Apollon](../factors/apollon.md)
 - [Asc](../factors/asc.md)
 - [Moon/Apollon](../axes/moon-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

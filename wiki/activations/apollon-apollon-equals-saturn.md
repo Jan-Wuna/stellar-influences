@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Apollon + Apollon`
-- Source page: `305`
 #### Witte Entry
 
 The system. Method. Education. Teacher. Student. Many separate or depart. Separation from many. Teaching procedures. Scientific teaching. Training. Success through patience. Loss of freedom. Problems of science. Serious science. Trade restriction. Limits of expansion.
 
-## Comparative Schema
-
-- core meaning: The system. Method. Education. Teacher. Student. Many separate or depart. Separation from many. Teaching procedures. Scientific teaching. Training. Success through patience. Loss of freedom. Problems of science. Serious science. Trade restriction. Limits of expansion.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Apollon = Saturn`: training, procedure, serious science, and success gained through order, endurance, and accepted constraint. Main caution: contraction inside growth: the same structure that educates and stabilizes can also restrict trade, separate people, or narrow possibility.
 
 ## Links
 

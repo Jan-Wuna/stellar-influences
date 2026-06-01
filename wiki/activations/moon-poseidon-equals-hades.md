@@ -3,7 +3,7 @@ title: Moon/Poseidon = Hades
 page_type: activation
 slug: moon-poseidon-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Hades
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Poseidon`
-- Source page: `138`
 #### Witte Entry
 
 Insensible of finer, high spiritual things. Lack of empathy. Men who are unable to perceive or conceive spiritual things.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Insensible of finer, high spiritual things. Lack of empathy. Men who are unable to perceive or conceive spiritual things.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+An old woman's insight, an insight into a woman's secret, a cultural shortage of his people, the deprivation of a poor woman, a woman's criminal ideas, the hour of a dangerous truth, a people's past culture, and hiding true virtues
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Poseidon = Hades`: Insensible of finer, high spiritual things. Lack of empathy. Men who are unable to perceive or conceive spiritual things.
+- Practical expression: an old woman's insight, an insight into a woman's secret, a cultural shortage of his people, the deprivation of a poor woman, and a woman's criminal ideas.
 
 ## Links
 
@@ -61,3 +56,5 @@ Insensible of finer, high spiritual things. Lack of empathy. Men who are unable 
 - [Poseidon](../factors/poseidon.md)
 - [Hades](../factors/hades.md)
 - [Moon/Poseidon](../axes/moon-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

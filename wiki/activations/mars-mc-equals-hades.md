@@ -3,10 +3,10 @@ title: Mars/MC = Hades
 page_type: activation
 slug: mars-mc-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Mars
+  - MC
   - Hades
 normalized_formula: Mars/MC = Hades
 axis: Mars/MC
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - MC
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Mars`
-- Source page: `64`
 #### Witte Entry
 
 To do things in a nasty way. Leader of a gang of criminals. A murderer. Activity of an expert in the field of waste management.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To do things in a nasty way. Leader of a gang of criminals. A murderer. Activity of an expert in the field of waste management.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+I have sorrow at work, I do not work, my work service, my work secret, my work is dangerous, my dangerous work, my work is criminal, and my past work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/MC = Hades` drags vocational action into crude, criminal, or degrading channels.
+- Chart expression: nasty methods, destructive leadership, criminal activity, or work tied to waste, refuse, and the dirtiest or most degraded side of practical life.
 
 ## Links
 
@@ -61,3 +56,5 @@ To do things in a nasty way. Leader of a gang of criminals. A murderer. Activity
 - [MC](../factors/mc.md)
 - [Hades](../factors/hades.md)
 - [Mars/MC](../axes/mars-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

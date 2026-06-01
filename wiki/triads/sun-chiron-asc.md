@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Sun Chiron Asc`
 - Astronomicon triad-set: `S Chiron Asc`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Sun/Asc = Chiron`: John, page `23`
 - `Sun/Chiron = Asc`: John, page `15`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Asc = Sun`: ego healing, stronger identity through spiritual alignment, and a clearer awareness of what self-healing requires. Main caution: using will or agenda to protect the very identity that needs to open.
+- `Sun/Asc = Chiron`: learning to intuitively perceive and use the hidden depths within one's environment and seeing in outer reality the hidden purpose within everything.
+- `Sun/Chiron = Asc`: learning to intuitively see through the surface layers of one's environment and immediately perceiving the deeper meaning in what surrounds one.
 
 ## Links
 

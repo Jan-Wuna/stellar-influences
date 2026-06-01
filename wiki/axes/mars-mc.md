@@ -58,11 +58,12 @@ aliases:
   - MC/Mars
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -75,17 +76,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars/Medium Coeli`
-- Source page: `222`
-
 #### Pair Summary
 
 Making arrangements. Giving orders. Ones own action. A agitated mind. Self-will. To feel energy. To pull oneself together. The urge to be active. Minute of action. Personal goals at work. Psychically active.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Mars/Medium Coeli`
-- Source page: `222`
+#### ABC Pair Summary
+
+Action--meirmte, animated work, I work, I want, impulses of the soul, my creation, my wine, my actions, my action power, soul work, psychic impulses, and action power of the soul
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -109,9 +110,6 @@ Organizers, people in leading positions, leading personalities.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mars/Midheaven midpoint`
-- Source page: `77`
-
 #### Principle
 
 To align one’s actions with one’s Higher Self and spiritual principles. To take action based on the dictated of Spirit. To work hard at one’s career, and to create secu rity for oneself. Conflicts with one’s employer and with authority figures.
@@ -122,17 +120,11 @@ Active union with guiding spiritual forces. To assert oneself in the world. To b
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Mars/Midheaven`
-- Source page: `208`
-
 #### Pair Delineation
 
 To assert oneself or one's objectives. "I act." One's own actions. To display great personal energy. The awareness of and assertion of one's own individuality with respect to others.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `MARS/MIDHEAVEN`
-- Source page: `251`
 
 #### Basic Ideas
 
@@ -161,15 +153,6 @@ Emphasizes your personal maturity and the energy you place into becoming psychol
 
 - [Michael Munkasey - Mars/MC Concepts](../derived/munkasey-mars-mc-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Mars/MC = Admetos](../activations/mars-mc-equals-admetos.md)
@@ -194,20 +177,18 @@ Emphasizes your personal maturity and the energy you place into becoming psychol
 - [Mars/MC = Vulcanus](../activations/mars-mc-equals-vulcanus.md)
 - [Mars/MC = Zeus](../activations/mars-mc-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/MC` is the axis of purposeful action, ambition, decisive self-assertion, and the drive to shape one's life through effort and command. It combines initiative, heat, courage, and competition with vocation, status, self-direction, and public effectiveness.
+- Chart expression: leadership, independence, organizing ability, career drive, and the capacity to advance through resolute action rather than hesitation. Liabilities: impulsive decisions, combative authority, quarrels over direction, and public or professional damage caused by acting too fast or too aggressively.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)

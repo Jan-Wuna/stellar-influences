@@ -3,7 +3,7 @@ title: Jupiter Apollon Poseidon
 page_type: triad_hub
 slug: jupiter-apollon-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Apollon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Apollon Poseidon`
 - Astronomicon triad-set: `V ¥ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Apollon/Poseidon = Jupiter](../activations/apollon-poseidon-equals-jupiter.md)
-  Source page `308`
 - [Jupiter/Apollon = Poseidon](../activations/jupiter-apollon-equals-poseidon.md)
-  Source page `215`
 - [Jupiter/Poseidon = Apollon](../activations/jupiter-poseidon-equals-apollon.md)
-  Source page `218`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Apollon/Poseidon = Jupiter`: page `308`
-- `Jupiter/Apollon = Poseidon`: page `215`
-- `Jupiter/Poseidon = Apollon`: page `218`
+- `Apollon/Poseidon = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `308`
+- `Apollon/Poseidon = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `472`
+- `Jupiter/Apollon = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `215`
+- `Jupiter/Apollon = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `341`
+- `Jupiter/Poseidon = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `218`
+- `Jupiter/Poseidon = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `347`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Apollon/Poseidon = Jupiter`: fortunate fellowship among people who share the same mental and emotional disposition.
+- `Jupiter/Apollon = Poseidon`: prosperity through mental exchange with similarly minded people.
+- `Jupiter/Poseidon = Apollon`: many people sharing the same sound opinion or judgment, and many being sensible.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Apollon](../factors/apollon.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

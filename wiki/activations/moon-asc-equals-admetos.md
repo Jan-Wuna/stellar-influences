@@ -3,10 +3,10 @@ title: Moon/Asc = Admetos
 page_type: activation
 slug: moon-asc-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Moon
+  - Asc
   - Admetos
 normalized_formula: Moon/Asc = Admetos
 axis: Moon/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Asc
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Moon`
-- Source page: `81`
 #### Witte Entry
 
 Grave hindrances and resistances in public. Deaths among the resident population.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Grave hindrances and resistances in public. Deaths among the resident population.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Other people are depressed, blocked women's skills, narrowing by women as partners, melt depression of the partner, Greek women as partners, congestion in the hour at the place, environmental resistance by women, and controlled partner skills
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Asc = Admetos`: compression, grief, and public heaviness. It often shows a person whose emotional presentation meets resistance, who is pulled into burdened local conditions, or whose immediate environment becomes marked by loss, blockage, or the weight of collective hardship.
+- Practical expression: other people are depressed, blocked women's skills, and narrowing by women as partners.
 
 ## Links
 
@@ -61,3 +56,5 @@ Grave hindrances and resistances in public. Deaths among the resident population
 - [Asc](../factors/asc.md)
 - [Admetos](../factors/admetos.md)
 - [Moon/Asc](../axes/moon-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

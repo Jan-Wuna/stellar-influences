@@ -3,7 +3,7 @@ title: Pluto/Apollon = MC
 page_type: activation
 slug: pluto-apollon-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - MC
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Apollon`
-- Source page: `261`
 #### Witte Entry
 
 The personal ability to develop. To collect experiences. To move in a new direction of development. To start something new. To develop a new science. To experience large changes.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The personal ability to develop. To collect experiences. To move in a new direction of development. To start something new. To develop a new science. To experience large changes.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+I develop knowledge, my clerical change, my development in trade, my transfonnation successes, my extensive alterations, and my growing success
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Apollon = MC`: the personal ability to develop; To collect experiences; To move in a new direction of development; To start something new.
+- Practical expression: i develop knowledge, my clerical change, my development in trade, my transfonnation successes, and my extensive alterations.
 
 ## Links
 
@@ -61,3 +56,5 @@ The personal ability to develop. To collect experiences. To move in a new direct
 - [Apollon](../factors/apollon.md)
 - [MC](../factors/mc.md)
 - [Pluto/Apollon](../axes/pluto-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

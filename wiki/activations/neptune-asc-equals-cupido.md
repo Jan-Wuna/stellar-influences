@@ -3,10 +3,10 @@ title: Neptune/Asc = Cupido
 page_type: activation
 slug: neptune-asc-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Neptune
+  - Asc
   - Cupido
 normalized_formula: Neptune/Asc = Cupido
 axis: Neptune/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Asc
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Neptune`
-- Source page: `89`
 #### Witte Entry
 
 To be united in unhappy marriage. To wish to quit a union. Secrecies in the home. To be deceived about the true conditions in the home.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be united in unhappy marriage. To wish to quit a union. Secrecies in the home. To be deceived about the true conditions in the home.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dissolution of a common environment, exchange of partner community, fine artists as partners, together with others in the air, common environment on the water, weak local community, and unsafe partner for the community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Asc = Cupido`: To be united in unhappy marriage. To wish to quit a union. Secrecies in the home. To be deceived about the true conditions in the home.
+- Practical focus: moves deception into marriage, home, and intimate belonging, showing unhappy unions, secrecy in domestic life, or disillusionment about the true state of close bonds.
+- Practical expression: dissolution of a common environment, exchange of partner community, fine artists as partners, together with others in the air, and common environment on the water.
 
 ## Links
 
@@ -61,3 +57,5 @@ To be united in unhappy marriage. To wish to quit a union. Secrecies in the home
 - [Asc](../factors/asc.md)
 - [Cupido](../factors/cupido.md)
 - [Neptune/Asc](../axes/neptune-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

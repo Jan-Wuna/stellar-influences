@@ -3,10 +3,10 @@ title: Moon/Asc = Vernal Point
 page_type: activation
 slug: moon-asc-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Moon
+  - Asc
   - Vernal Point
 normalized_formula: Moon/Asc = Vernal Point
 axis: Moon/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Moon
   - Asc
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Moon`
-- Source page: `81`
 #### Witte Entry
 
 Acquaintances with women in public. Meeting with women of one’s acquaintance. To be known by many people. To appear in the public.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Acquaintances with women in public. Meeting with women of one’s acquaintance. To be known by many people. To appear in the public.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Other people in the world, and women in the public sphere, women as partners in the public sphere, mitters in the human environment, hours at the place in the world, and from CJEMPLOYMENT to CJEMPLOYMENT
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Asc = Vernal Point`: Acquaintances with women in public. Meeting with women of one’s acquaintance. To be known by many people. To appear in the public.
+- Practical focus: externalizes `Moon/Asc` into visibility, recognition, and ordinary public contact. It points to being known by many people, encountering women in open or social settings, and having emotional identity become easier to notice, circulate, and register in the immediate world.
+- Practical expression: other people in the world, women in the public sphere, women as partners in the public sphere, mitters in the human environment, and hours at the place in the world.
 
 ## Links
 
@@ -61,3 +57,5 @@ Acquaintances with women in public. Meeting with women of one’s acquaintance. 
 - [Asc](../factors/asc.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Moon/Asc](../axes/moon-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

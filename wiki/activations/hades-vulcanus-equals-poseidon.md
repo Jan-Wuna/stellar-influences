@@ -3,7 +3,7 @@ title: Hades/Vulcanus = Poseidon
 page_type: activation
 slug: hades-vulcanus-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Hades
   - Vulcanus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Vulcanus`
-- Source page: `285`
 #### Witte Entry
 
 has been weakened through great losses or that is in constant danger. Gang of criminals. " Meanness, malignancy and evil deeds born out of hate or a weak will. Gigantic crimes and evil deeds or meanness. Heavy oppression and suppression by governments and ruling powers. Spread and extended wickedness and evil deeds. Failure in industry commerce and trade. Success in history sciences. Wickedness and evil acts in a limited scope. . To have a guilty conscience. To be depressed through ruling Meditation on the past. .
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: has been weakened through great losses or that is in constant danger. Gang of criminals. " Meanness, malignancy and evil deeds born out of hate or a weak will. Gigantic crimes and evil deeds or meanness. Heavy oppression and suppression by governments and ruling powers. Spread and extended wickedness and evil deeds. Failure in industry commerce and trade. Success in history sciences. Wickedness and evil acts in a limited scope. . To have a guilty conscience. To be depressed through ruling Meditation on the past. .
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+influence of past cultures, influence of hidden truths, spiritual strength through privation, spiritual power of the past, spiritual energy deficiency, hidden force of an idea, reasonable renunciation of force, and renunciation of ideas of force
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Vulcanus = Poseidon`: force and wickedness becoming mentally or morally explicit. It can show reflection on evil, consciousness of guilt, ideological heaviness, and thought shaped by danger, loss, and oppressive history.
 
 ## Links
 
@@ -61,3 +55,5 @@ has been weakened through great losses or that is in constant danger. Gang of cr
 - [Vulcanus](../factors/vulcanus.md)
 - [Poseidon](../factors/poseidon.md)
 - [Hades/Vulcanus](../axes/hades-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

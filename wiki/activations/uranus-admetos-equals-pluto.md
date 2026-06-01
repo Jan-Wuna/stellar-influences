@@ -3,7 +3,7 @@ title: Uranus/Admetos = Pluto
 page_type: activation
 slug: uranus-admetos-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Pluto
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Admetos`
-- Source page: `241`
 #### Witte Entry
 
 The beginning of a development which finally leads to clarity and a clear cut solution. Sudden drastic change.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The beginning of a development which finally leads to clarity and a clear cut solution. Sudden drastic change.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Unsettling circulatory change, dynamic circulatory development, circulatory development, end of exciting change, consolidation of new development, fundamental reform development, and deepening of new developments
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Admetos = Pluto`: The beginning of a development which finally leads to clarity and a clear cut solution. Sudden drastic change.
+- Practical expression: unsettling circulatory change, dynamic circulatory development, circulatory development, end of exciting change, and consolidation of new development.
 
 ## Links
 
@@ -61,3 +56,5 @@ The beginning of a development which finally leads to clarity and a clear cut so
 - [Admetos](../factors/admetos.md)
 - [Pluto](../factors/pluto.md)
 - [Uranus/Admetos](../axes/uranus-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

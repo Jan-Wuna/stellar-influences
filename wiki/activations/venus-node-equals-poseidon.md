@@ -3,10 +3,10 @@ title: Venus/Node = Poseidon
 page_type: activation
 slug: venus-node-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Venus
+  - Node
   - Poseidon
 normalized_formula: Venus/Node = Poseidon
 axis: Venus/Node
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Node
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Venus`
-- Source page: `142`
 #### Witte Entry
 
 Mental or spiritual kind of connection or ties.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mental or spiritual kind of connection or ties.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Findings from the harmony of a connection, peaceful spiritual connection, harmonious cultural connections, clarity in a relationship of love, connection to truth through love, and connection between artist and culture
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Node = Poseidon`: mental or spiritual kind of connection or ties.
+- Practical expression: findings from the harmony of a connection, peaceful spiritual connection, harmonious cultural connections, clarity in a relationship of love, and connection to truth through love.
 
 ## Links
 
@@ -61,3 +56,5 @@ Mental or spiritual kind of connection or ties.
 - [Node](../factors/node.md)
 - [Poseidon](../factors/poseidon.md)
 - [Venus/Node](../axes/venus-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

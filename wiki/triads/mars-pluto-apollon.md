@@ -3,7 +3,7 @@ title: Mars Pluto Apollon
 page_type: triad_hub
 slug: mars-pluto-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Pluto Apollon`
 - Astronomicon triad-set: `U Z ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Apollon = Pluto](../activations/mars-apollon-equals-pluto.md)
-  Source page `201`
 - [Mars/Pluto = Apollon](../activations/mars-pluto-equals-apollon.md)
-  Source page `196`
 - [Pluto/Apollon = Mars](../activations/pluto-apollon-equals-mars.md)
-  Source page `261`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Apollon = Pluto`: page `201`
-- `Mars/Pluto = Apollon`: page `196`
-- `Pluto/Apollon = Mars`: page `261`
+- `Mars/Apollon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `201`
+- `Mars/Apollon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `317`
+- `Mars/Pluto = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `196`
+- `Mars/Pluto = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `307`
+- `Pluto/Apollon = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `261`
+- `Pluto/Apollon = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `416`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Apollon = Pluto`: planned beginnings in industrial or scientific fields and rising or falling market trends that signal deeper transformation.
+- `Mars/Pluto = Apollon`: expands planning into elaborate, large-scale, scientific, or highly organized work.
+- `Pluto/Apollon = Mars`: This activation emphasizes far reaching change in activity; Activity for transformation of trade or science.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Pluto](../factors/pluto.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

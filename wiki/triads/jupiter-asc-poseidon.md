@@ -3,7 +3,7 @@ title: Jupiter Asc Poseidon
 page_type: triad_hub
 slug: jupiter-asc-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Asc Poseidon`
 - Astronomicon triad-set: `V Asc ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Poseidon = Jupiter](../activations/asc-poseidon-equals-jupiter.md)
-  Source page `98`
 - [Jupiter/Asc = Poseidon](../activations/jupiter-asc-equals-poseidon.md)
-  Source page `86`
 - [Jupiter/Poseidon = Asc](../activations/jupiter-poseidon-equals-asc.md)
-  Source page `218`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Poseidon = Jupiter`: page `98`
-- `Jupiter/Asc = Poseidon`: page `86`
-- `Jupiter/Poseidon = Asc`: page `218`
+- `Asc/Poseidon = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `98`
+- `Asc/Poseidon = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `136`
+- `Jupiter/Asc = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `86`
+- `Jupiter/Asc = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `113`
+- `Jupiter/Poseidon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `218`
+- `Jupiter/Poseidon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `346`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Poseidon = Jupiter`: friends or associates receiving advice, insight, and understanding from the native.
+- `Jupiter/Asc = Poseidon`: being in the presence of reasonable, thoughtful, and measured people.
+- `Jupiter/Poseidon = Asc`: contact with reasonable and intelligent people, respect for the rights of others, and being treated fairly by others.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Asc](../factors/asc.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

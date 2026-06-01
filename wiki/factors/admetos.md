@@ -3,21 +3,22 @@ title: Admetos
 page_type: factor
 slug: admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Admetos
 aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Factor: Admetos
 - Astronomicon token: `¦`
-- Source factor chapter page: `29`
+- Canonical page type: comparative factor page grounded in standalone source entries.
 
 ## Source Entries
 
@@ -27,19 +28,18 @@ updated_at: 2026-04-21
 
 Greatest hindrance, inhibition, separation, death or standstill. First origin. Primary material. Raw material. Rotation. Circulation. Reduction. Compression. Contraction. Raw materials cycle. Aggregation state.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Greatest hindrance, inhibition, separation, death or standstill. First origin. Primary material. Raw material. Rotation. Circulation. Reduction. Compression. Contraction. Raw materials cycle. Aggregation state.
-- psychology: no separate source-native subdivision is present in the standalone factor chapter.
-- body/health: no separate source-native subdivision is present in the standalone factor chapter.
-- social/relationship: no separate source-native subdivision is present in the standalone factor chapter.
-- events/manifestations: browse related axis and activation pages for explicit formulas involving `Admetos`.
-- conflicts/notes: this page preserves the standalone factor chapter as sourced doctrine from Witte.
+#### ABC Keyword Entry
 
+Resistance, standstill, strike, congestion, blockade, containment, suppression, depression, end, consolidation, gravity, and stabilization
 
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-
+- `Admetos` is the factor of resistance, standstill, compression, containment, and primary material. It signifies what is slowed, blocked, consolidated, pressed downward, or returned toward origin and raw substance.
+- Chart expression: endurance, gravity, foundations, bottlenecks, suppression, deepening, cycles of materialization, and the slow processes by which things harden, shrink, condense, or persist under pressure.
+- Its liabilities are paralysis, stagnation, congestion, scarcity, depression, oppressive limits, and conditions so compressed or delayed that movement nearly ceases.
 
 ## Related Axes
 
@@ -66,15 +66,7 @@ Greatest hindrance, inhibition, separation, death or standstill. First origin. P
 - [Vernal Point/Admetos](../axes/vernal-point-admetos.md)
 - [Zeus/Admetos](../axes/zeus-admetos.md)
 
-## Related Activations
-
-- Generated activation pages involving `Admetos`: `693`.
-- Browse [Index](../index.md) or the `wiki/activations/` folder for the full set.
-
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-
-## Open Questions
-
-
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

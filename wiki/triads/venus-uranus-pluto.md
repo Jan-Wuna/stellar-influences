@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Uranus Pluto`
 - Astronomicon triad-set: `Q X Z`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,19 +40,27 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Uranus/Pluto = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `235`
+- `Uranus/Pluto = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `372`
 - `Uranus/Pluto = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `269`
 - `Uranus/Pluto = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `105`
+- `Uranus/Pluto = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `312`
 - `Venus/Pluto = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `181`
+- `Venus/Pluto = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `281`
 - `Venus/Pluto = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `191`
 - `Venus/Pluto = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `62`
+- `Venus/Pluto = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `208`
 - `Venus/Uranus = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `179`
+- `Venus/Uranus = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `277`
 - `Venus/Uranus = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `185`
 - `Venus/Uranus = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `60`
+- `Venus/Uranus = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `200`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Uranus/Pluto = Venus`: disruptive desire, with love, aesthetics, and social bonds shaped by sudden transformation, intensity, and the need to break old relational patterns.
+- `Venus/Pluto = Uranus`: compelling attraction, transformative love, and deep value intensity made volatile, irresistible, and unstable.
+- `Venus/Uranus = Pluto`: electric attraction, unconventional love, and liberating value shifts made extreme, breakthrough-driven, and impossible to keep mild.
 
 ## Links
 
@@ -59,5 +68,7 @@ updated_at: 2026-04-22
 - [Uranus](../factors/uranus.md)
 - [Pluto](../factors/pluto.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

@@ -3,7 +3,7 @@ title: Mercury/Saturn = Kronos
 page_type: activation
 slug: mercury-saturn-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Saturn
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Saturn
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Saturn`
-- Source page: `162`
 #### Witte Entry
 
 A journey caused by the authorities, or a great journey. Pensioned.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A journey caused by the authorities, or a great journey. Pensioned.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Especially problematic language, special tasks to discuss, large losses to describe, concentration on the thoughts of the boss, concentration on the importance of youth, priority media tasks, and about losses of the state speak
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Saturn = Kronos`: A journey caused by the authorities, or a great journey. Pensioned.
+- Practical expression: especially problematic language, special tasks to discuss, large losses to describe, concentration on the thoughts of the boss, and concentration on the importance of youth.
 
 ## Links
 
@@ -61,3 +56,5 @@ A journey caused by the authorities, or a great journey. Pensioned.
 - [Saturn](../factors/saturn.md)
 - [Kronos](../factors/kronos.md)
 - [Mercury/Saturn](../axes/mercury-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

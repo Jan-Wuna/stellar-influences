@@ -3,7 +3,7 @@ title: Uranus/Hades = Apollon
 page_type: activation
 slug: uranus-hades-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Hades
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Hades`
-- Source page: `237`
 #### Witte Entry
 
 Many are vile. To suffer vile acts with many. Discoveries in historical science. Astrology which is sold at fairs in dime and quarter magazines. Pseudo science.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Many are vile. To suffer vile acts with many. Discoveries in historical science. Astrology which is sold at fairs in dime and quarter magazines. Pseudo science.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful impulses from the past, trade in technical secrets, new secret knowledge, new knowledge about the past, sudden expansion of need, extensive technical deficiency, increased risk of experiencing depression due to sudden lack, consolidation by surprise renunciation, and grief
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Hades = Apollon`: Many are vile. To suffer vile acts with many. Discoveries in historical science. Astrology which is sold at fairs in dime and quarter magazines. Pseudo science.
+- Practical expression: successful impulses from the past, trade in technical secrets, new secret knowledge, new knowledge about the past, and sudden expansion of need.
 
 ## Links
 
@@ -61,3 +56,5 @@ Many are vile. To suffer vile acts with many. Discoveries in historical science.
 - [Hades](../factors/hades.md)
 - [Apollon](../factors/apollon.md)
 - [Uranus/Hades](../axes/uranus-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

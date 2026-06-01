@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Venus Chiron Pluto`
 - Astronomicon triad-set: `Q Chiron Z`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Venus/Chiron = Pluto`: John, page `58`
 - `Venus/Pluto = Chiron`: John, page `62`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Pluto = Venus`: intense relational healing, to desire as a path of transformation, and to value choices that profoundly reshape life. Main caution: compulsive attachment or confusing intensity with true value.
+- `Venus/Chiron = Pluto`: a burning desire to find true love.
+- `Venus/Pluto = Chiron`: one's vibration helps others to attune to the tremendous power of love, and to let go of their fear of it.
 
 ## Links
 

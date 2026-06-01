@@ -3,7 +3,7 @@ title: Vernal Point/Sun = Saturn
 page_type: activation
 slug: vernal-point-sun-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Sun
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Sun
   - Saturn
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Sun`
-- Source page: `37`
 #### Witte Entry
 
 Physical sickness. Physical separations. Sorrow, losses or grief for several. Later years of life.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Physical sickness. Physical separations. Sorrow, losses or grief for several. Later years of life.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Old man in public, serious people in public life, human toughness in public, personal problems in public life, personal lossc in public life, and difficulties in the world of man
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Sun = Saturn`: physical sickness, physical separations, sorrow, losses or grief for several, and later years of life.
+- Practical expression: old man in public, serious people in public life, human toughness in public, personal problems in public life, and personal lossc in public life.
 
 ## Links
 
@@ -61,3 +56,5 @@ Physical sickness. Physical separations. Sorrow, losses or grief for several. La
 - [Sun](../factors/sun.md)
 - [Saturn](../factors/saturn.md)
 - [Vernal Point/Sun](../axes/vernal-point-sun.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

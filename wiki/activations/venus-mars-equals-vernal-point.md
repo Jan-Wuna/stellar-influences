@@ -3,7 +3,7 @@ title: Venus/Mars = Vernal Point
 page_type: activation
 slug: venus-mars-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Mars
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Venus
   - Mars
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Mars`
-- Source page: `176`
 #### Witte Entry
 
 A free (liberal) concept (or idea) of sexual love. Intimate friends. Blood relatives.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A free (liberal) concept (or idea) of sexual love. Intimate friends. Blood relatives.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+joy in work in public life, peace work in public, harmonious efforts in public, public artistic activity, public will for peace, and beautification work in public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Mars = Vernal Point`: a free (liberal) concept (or idea) of sexual love.
+- Practical expression: oy in work in public life, peace work in public, harmonious efforts in public, public artistic activity, and public will for peace.
 
 ## Links
 
@@ -61,3 +56,5 @@ A free (liberal) concept (or idea) of sexual love. Intimate friends. Blood relat
 - [Mars](../factors/mars.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Venus/Mars](../axes/venus-mars.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

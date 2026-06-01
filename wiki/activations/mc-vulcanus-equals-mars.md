@@ -3,7 +3,7 @@ title: MC/Vulcanus = Mars
 page_type: activation
 slug: mc-vulcanus-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - MC
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Vulcanus`
-- Source page: `76`
 #### Witte Entry
 
 An intense urge for action. Activity based on one’s own strong expectations (willpower).
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: An intense urge for action. Activity based on one’s own strong expectations (willpower).
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Imitating psychic energy, influence of my activity, influential soul work, actions of a strong soul, my work energy, my powerful activity, my will power, psychic violence activity, and strong impulses of the soul
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Vulcanus = Mars` energizes the axis into intense willpower and urgent action.
+- Chart expression: a powerful urge to act, forceful initiative, and selfhood driven by concentrated expectation, aggressive effort, and unstoppable personal energy.
 
 ## Links
 
@@ -61,3 +56,5 @@ An intense urge for action. Activity based on one’s own strong expectations (w
 - [Vulcanus](../factors/vulcanus.md)
 - [Mars](../factors/mars.md)
 - [MC/Vulcanus](../axes/mc-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

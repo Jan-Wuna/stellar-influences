@@ -3,7 +3,7 @@ title: Pluto/Cupido = Vernal Point
 page_type: activation
 slug: pluto-cupido-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Pluto
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Cupido`
-- Source page: `257`
 #### Witte Entry
 
 The evolving structure of human society. General social transformations.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The evolving structure of human society. General social transformations.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Developments on the whole in the C)public, joint changes in the 6publications, artistic development in the () public sphere, Community change, and interrelated changes in the public sphere
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Cupido = Vernal Point`: the evolving structure of human society; General social transformations.
+- Practical expression: developments on the whole in the C)public, joint changes in the 6publications, artistic development in the () public sphere, community change, and interrelated changes in the public sphere.
 
 ## Links
 
@@ -61,3 +56,5 @@ The evolving structure of human society. General social transformations.
 - [Cupido](../factors/cupido.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Pluto/Cupido](../axes/pluto-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

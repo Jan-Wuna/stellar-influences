@@ -3,7 +3,7 @@ title: Jupiter/Poseidon = Asc
 page_type: activation
 slug: jupiter-poseidon-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Asc
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Poseidon`
-- Source page: `218`
 #### Witte Entry
 
 To deal with reasonable and intelligent people. The rights of others. Treated fair by others.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To deal with reasonable and intelligent people. The rights of others. Treated fair by others.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful local culture, successful environmental idea, successful cultural partner, successful cultural location, financial ideas of others, joy over spiritual partners, money for environmental culture, and law and reason at the place
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Poseidon = Asc`: a social field shaped by decency, intelligent company, and fair exchange. It favors relationships where justice and reason are immediately felt.
 
 ## Links
 
@@ -61,3 +55,5 @@ To deal with reasonable and intelligent people. The rights of others. Treated fa
 - [Poseidon](../factors/poseidon.md)
 - [Asc](../factors/asc.md)
 - [Jupiter/Poseidon](../axes/jupiter-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

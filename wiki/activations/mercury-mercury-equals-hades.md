@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Mercury + Mercury`
-- Source page: `158`
 #### Witte Entry
 
 To err or make mistakes. To be silent with shame. To be sad or laconic. Hidden thoughts. Ugly thinking. Stupid, malicious, drastic way of expression. Old plans, information or conversations. Old movements. The worried mind. Negative dialogues. Bad or sad news.
 
-## Comparative Schema
-
-- core meaning: To err or make mistakes. To be silent with shame. To be sad or laconic. Hidden thoughts. Ugly thinking. Stupid, malicious, drastic way of expression. Old plans, information or conversations. Old movements. The worried mind. Negative dialogues. Bad or sad news.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Mercury = Hades` darkens the axis through error, shame, hidden thought, and sad news.
+- Chart expression: mistaken or ugly thinking, malicious expression, worried dialogues, old conversations, and a mental field weighed down by decay, secrecy, or painful information.
 
 ## Links
 

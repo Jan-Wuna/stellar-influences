@@ -3,7 +3,7 @@ title: Saturn/Admetos = Hades
 page_type: activation
 slug: saturn-admetos-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Hades
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Admetos`
-- Source page: `229`
 #### Witte Entry
 
 Sad destiny, poverty and misery. To get into a grave dilemma through enmity, lack and hostile actions. To face a dead end street, with no way out.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sad destiny, poverty and misery. To get into a grave dilemma through enmity, lack and hostile actions. To face a dead end street, with no way out.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Discontinuations and restrictions in old age, dangerous problems densification, serious concentration on the past, criminal discrimination in old age, lack of patience and clarity, disadvantages due to circulatory disorders, and need for serious depression
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Admetos = Hades`: sad destiny, poverty and misery, to get into a grave dilemma through enmity, lack and hostile actions.
+- Practical expression: discontinuations, restrictions in old age, dangerous problems densification, serious concentration on the past, and criminal discrimination in old age.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sad destiny, poverty and misery. To get into a grave dilemma through enmity, lac
 - [Admetos](../factors/admetos.md)
 - [Hades](../factors/hades.md)
 - [Saturn/Admetos](../axes/saturn-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

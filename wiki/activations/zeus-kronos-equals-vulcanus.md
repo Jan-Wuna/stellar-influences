@@ -3,7 +3,7 @@ title: Zeus/Kronos = Vulcanus
 page_type: activation
 slug: zeus-kronos-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Zeus
   - Kronos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Kronos`
-- Source page: `290`
 #### Witte Entry
 
 The use of much violent force. Blind force. Tremendous powers are engaged. The outbreak of a great war. Great powers locked in battle.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The use of much violent force. Blind force. Tremendous powers are engaged. The outbreak of a great war. Great powers locked in battle.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special energy production, dominant filtration force, one flinch power hierarchy, tremendous state achievements, great fire violence, great power efforts, power goals leading, state leadership power, and important energy performance
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Kronos = Vulcanus`: The use of much violent force. Blind force. Tremendous powers are engaged. The outbreak of a great war. Great powers locked in battle.
+- Practical expression: special energy production, dominant filtration force, one flinch power hierarchy, tremendous state achievements, and great fire violence.
 
 ## Links
 
@@ -61,3 +56,5 @@ The use of much violent force. Blind force. Tremendous powers are engaged. The o
 - [Kronos](../factors/kronos.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Zeus/Kronos](../axes/zeus-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

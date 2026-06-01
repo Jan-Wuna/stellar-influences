@@ -3,7 +3,7 @@ title: Mercury/Venus = Cupido
 page_type: activation
 slug: mercury-venus-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Venus
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Venus
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Venus`
-- Source page: `159`
 #### Witte Entry
 
 New acquaintances through social, family relations or through art work. Social manners. Master of ceremonies. Virtuoso in playing solos (violin etc.).
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: New acquaintances through social, family relations or through art work. Social manners. Master of ceremonies. Virtuoso in playing solos (violin etc.).
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Reports of a peace community, mobile artist community, intellectual artist community, young love community, media artist community, common language about love, and common artist description
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Venus = Cupido`: New acquaintances through social, family relations or through art work. Social manners. Master of ceremonies. Virtuoso in playing solos (violin etc.).
+- Practical expression: reports of a peace community, mobile artist community, intellectual artist community, young love community, and media artist community.
 
 ## Links
 
@@ -61,3 +56,5 @@ New acquaintances through social, family relations or through art work. Social m
 - [Venus](../factors/venus.md)
 - [Cupido](../factors/cupido.md)
 - [Mercury/Venus](../axes/mercury-venus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

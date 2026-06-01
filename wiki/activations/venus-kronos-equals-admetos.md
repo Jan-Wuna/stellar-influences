@@ -3,7 +3,7 @@ title: Venus/Kronos = Admetos
 page_type: activation
 slug: venus-kronos-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Kronos
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Kronos`
-- Source page: `185`
 #### Witte Entry
 
 Special treatments or exceptional favors are refused, are not granted or accepted.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Special treatments or exceptional favors are refused, are not granted or accepted.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked state peace, restricted sympathy of the state, the end of freedom in love, the end of a great love, the consolidation of harmony in the state, strengthened authority in the arts, great harmony deepening, and deepening of love for the hierarchy
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Kronos = Admetos`: special treatments or exceptional favors are refused, are not granted or accepted.
+- Practical expression: blocked state peace, restricted sympathy of the state, the end of freedom in love, the end of a great love, and the consolidation of harmony in the state.
 
 ## Links
 
@@ -61,3 +56,5 @@ Special treatments or exceptional favors are refused, are not granted or accepte
 - [Kronos](../factors/kronos.md)
 - [Admetos](../factors/admetos.md)
 - [Venus/Kronos](../axes/venus-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

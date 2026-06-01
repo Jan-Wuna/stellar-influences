@@ -3,7 +3,7 @@ title: Uranus/Apollon = Saturn
 page_type: activation
 slug: uranus-apollon-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Uranus
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Apollon`
-- Source page: `240`
 #### Witte Entry
 
 To be depressed and pessimistic through being disappointed. Expectations, hopes and wishes must be throttled. Disappointments, buried hopes. Failures in predicting events.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be depressed and pessimistic through being disappointed. Expectations, hopes and wishes must be throttled. Disappointments, buried hopes. Failures in predicting events.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Focus on new knowledge, nervousness due to fatal losses, sudden tasksVeneration, sudden pain experiences, problematic freedom impulses, disturbances and unrest in trade, surprising loss of freedom, and increasing technical problems
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Apollon = Saturn`: To be depressed and pessimistic through being disappointed. Expectations, hopes and wishes must be throttled. Disappointments, buried hopes. Failures in predicting events.
+- Practical expression: focus on new knowledge, nervousness due to fatal losses, sudden tasksVeneration, sudden pain experiences, and problematic freedom impulses.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be depressed and pessimistic through being disappointed. Expectations, hopes 
 - [Apollon](../factors/apollon.md)
 - [Saturn](../factors/saturn.md)
 - [Uranus/Apollon](../axes/uranus-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

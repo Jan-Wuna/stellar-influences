@@ -3,7 +3,7 @@ title: Uranus Vulcanus Poseidon
 page_type: triad_hub
 slug: uranus-vulcanus-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Vulcanus
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Vulcanus Poseidon`
 - Astronomicon triad-set: `X § ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Uranus/Poseidon = Vulcanus](../activations/uranus-poseidon-equals-vulcanus.md)
-  Source page `243`
 - [Uranus/Vulcanus = Poseidon](../activations/uranus-vulcanus-equals-poseidon.md)
-  Source page `242`
 - [Vulcanus/Poseidon = Uranus](../activations/vulcanus-poseidon-equals-uranus.md)
-  Source page `315`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Uranus/Poseidon = Vulcanus`: page `243`
-- `Uranus/Vulcanus = Poseidon`: page `242`
-- `Vulcanus/Poseidon = Uranus`: page `315`
+- `Uranus/Poseidon = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `243`
+- `Uranus/Poseidon = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `389`
+- `Uranus/Vulcanus = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `242`
+- `Uranus/Vulcanus = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `387`
+- `Vulcanus/Poseidon = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `315`
+- `Vulcanus/Poseidon = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `479`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Vulcanus/Poseidon = Uranus`: ij) To exercise a surprising mental influence. Suddenly come to dignity, honor or esteem.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Vernal Point/Mercury = Node
 page_type: activation
 slug: vernal-point-mercury-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Mercury
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Mercury
   - Node
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Mercury`
-- Source page: `40`
 #### Witte Entry
 
 General association of ideas. Communication contacts in general.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: General association of ideas. Communication contacts in general.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Relations with the public Media, language about Relations with the public Life, youth relations with the public, contacts with the youth in the public Life, public Contact language, and public relations
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Mercury = Node`: general association of ideas and communication contacts in general.
+- Practical expression: relations with the public Media, language about Relations with the public Life, youth relations with the public, contacts with the youth in the public Life, and public Contact language.
 
 ## Links
 
@@ -61,3 +56,5 @@ General association of ideas. Communication contacts in general.
 - [Mercury](../factors/mercury.md)
 - [Node](../factors/node.md)
 - [Vernal Point/Mercury](../axes/vernal-point-mercury.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

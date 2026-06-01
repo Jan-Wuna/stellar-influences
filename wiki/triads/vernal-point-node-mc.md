@@ -3,7 +3,7 @@ title: Vernal Point Node MC
 page_type: triad_hub
 slug: vernal-point-node-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Node MC`
 - Astronomicon triad-set: `VP g MC`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Node/MC = Vernal Point](../activations/node-mc-equals-vernal-point.md)
-  Source page `61`
 - [Vernal Point/MC = Node](../activations/vernal-point-mc-equals-node.md)
-  Source page `35`
 - [Vernal Point/Node = MC](../activations/vernal-point-node-equals-mc.md)
-  Source page `39`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Node/MC = Vernal Point`: page `61`
-- `Vernal Point/MC = Node`: page `35`
-- `Vernal Point/Node = MC`: page `39`
+- `Node/MC = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `61`
+- `Node/MC = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `66`
+- `Vernal Point/MC = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `35`
+- `Vernal Point/MC = Node`: Udo Rudolph - ABC for Planetary Pictures, page `18`
+- `Vernal Point/Node = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `39`
+- `Vernal Point/Node = MC`: Udo Rudolph - ABC for Planetary Pictures, page `26`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Node/MC = Vernal Point`: Mental connections with many. Personal relationships in public life or to the world in general.
+- `Vernal Point/MC = Node`: This formula emphasizes to be associated professionally with others in public and to have many connections and to get them easily.
+- `Vernal Point/Node = MC`: This formula emphasizes personal contact with many people.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Node](../factors/node.md)
 - [MC](../factors/mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

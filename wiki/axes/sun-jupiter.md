@@ -58,13 +58,14 @@ aliases:
   - Jupiter/Sun
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -77,17 +78,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Jupiter`
-- Source page: `106`
-
 #### Pair Summary
 
 Physical happiness. The fortunate man. The cheerful man. The rich or wealthy man. The well-being of the body. Good health. A tendency to be overweight. Corpulence. Day of fortune. Pay day.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Sun/Jupiter`
-- Source page: `89`
+#### ABC Pair Summary
+
+Successful person, successful day, financial man, pleasure of man, money center, glycious man, human joy, personal advantages, personal rights, rights person, rights center, and satisfied man
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -111,17 +112,11 @@ Health, joy, recognition. Psychologica/ Correspondence + Good health, good moraÅ
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
-- Source heading: `Sun/Jupiter`
-- Source page: `10`
-
 #### Falis Entry
 
 Believing in you. Having faith that everything will work out. Optimists. Oppor tunists. Self-indulgent. Glutton for attention. Glutton for self-expression. Shining through your generosity. Shining through your beliefs. Shining through your ap petite for learning. Creativity overboard. Fat friars. Broad range of self-expression. Loud laughers. Self-development through education. Self-development through travel. Identifying with a certain philosophy or set of beliefs. Having your identity bound up with your religion. Preachers. Religious zealots. Overly enthusiastic about your own projects, creative pursuits and self-expression. Out of proportion view of your importance. Out of proportion need to be seen and acknowledged. Having an inflated sense of how much your contribution matters in any situation. Extravagant. Self-important. Stretching your personal limits. Too big for your britches. Supreme confidence. Out of proportion confidence. Being full of yourself. Outshining everyone else. Not letting anyone else shine when you are around. Dad was overwhelming and overbearing. Dad seemed to loom larger than life. Dad cast a huge shadow. Dad left big shoes to fill. Dad was an enormously generous and slap happy kind of person. Dad was a preacher, teacher or traveler. Dad was in volved in law or philosophy. Dad had a tendency to lecture. Dad was a teacher or professor. Dad was a gambler. Feeling at one with Lady Luck. Recognizing when opportunity is knocking. Identi fying with gamblers and risk-takers. Expecting to win the lottery any day now. Wait ing for your lucky break. Getting involved in get rich quick schemes. Liking to take shortcuts. Opportunities fall into your lap. Taking your good fortune for granted. Expecting everything to go your way. Identifying with people who fly by the seat of their pants. Identifying with people who seem larger than life. Having the sense that you can accomplish anything. The world is your oyster. Needing to look before you leap. Tending to rely on things working out rather than putting in the effort to make them work out. Good-humored. Light-hearted. Buoyant sense of self. The ability not to take life too seriously. Easygoing sense of self. Generous will. Philan thropists. A prosperous attitude. Assuming an attitude of abundance. Positive affir mations. Affirming your role and path in life. Self-assured. Finding joy in being alive. Radiantly full self-expression. Embracing life to the fullest. Exploring every thing that life has to offer. Strong need to protect anything you see as an extension of yourself. Protecting your identity. Believing in justice. Knowing that things will get better. An enormous sense of loy alty. Long-winded, blustery, preachy, lecturing types. Consumed with finding mean ing in life and fascinated with the meaning of life. Philosophers. Philosopher clowns. Comedians. Intuitive people. Being able to grasp the big picture. Having vision and having the confidence to realize your vision. The ability to banish self doubt. The ability to triumph over life circumstances. Being above pettiness. Living life with gusto. Not having time for trivial details. Wanting to get to the good part. Teachers. Philosophers. Guides. Gurus. Wise Ones. Sages. Conduits for higher consciousness. Consciousness expanders. "Trip" takers. Adventurers and explor ers. You can never have too much of a good thing. Living a life of excess. Living large. Fat Cats. Having a big heart.
 
 ### Charles Carter - The Astrological Aspects
-
-- Source heading: `ASPECTS OF THE SUN AND JUPITER`
-- Source page: `12`
 
 #### Harmonious Aspects
 
@@ -173,9 +168,6 @@ The effects on the health are chiefly due to imprudence and excess in diet and t
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Sun/Jupiter midpoint`
-- Source page: `12`
-
 #### Principle
 
 Optimism concerning the reaching of goals. Vibrant enthusiasm with a meaningful focus. Self-confidence which leads to success. Having too many agendas. Either being arrogantly self-confident or seeming that way. Seeming egotism as a cover for feelings of worthlessness. This combination often causes residual jealousy coming from other people.
@@ -186,17 +178,11 @@ The continual integration of new material and ideas into oneâ€™s overall vision 
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Sun/Jupiter`
-- Source page: `201`
-
 #### Pair Delineation
 
 The will to grow, expand, and experience as much of the universe as possible. Physical well-being and health. Openness and liberality, but also possibly profligacy. May express itself on the spiritual as well as the material plane.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `SUN/JUPITER`
-- Source page: `71`
 
 #### Basic Ideas
 
@@ -225,15 +211,6 @@ Your personal vitality and vigor; excessive cholesterol deposits in the heart ar
 
 - [Michael Munkasey - Sun/Jupiter Concepts](../derived/munkasey-sun-jupiter-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Sun/Jupiter = Admetos](../activations/sun-jupiter-equals-admetos.md)
@@ -258,20 +235,18 @@ Your personal vitality and vigor; excessive cholesterol deposits in the heart ar
 - [Sun/Jupiter = Vulcanus](../activations/sun-jupiter-equals-vulcanus.md)
 - [Sun/Jupiter = Zeus](../activations/sun-jupiter-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Jupiter` is the axis of confident growth, recognition, vitality, success, and the urge to enlarge life through faith, meaning, opportunity, and achievement. It combines self-expression with optimism, generosity, status, and the will to rise.
+- Chart expression: a naturally affirmative life-current: enthusiasm, leadership, creative confidence, prosperity-mindedness, social or professional advancement, and the sense that life should open outward. When distorted, the same pattern can become arrogance, grandiosity, waste, imprudence, or dependence on luck and applause.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Jupiter](../factors/jupiter.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)

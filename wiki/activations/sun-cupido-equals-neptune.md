@@ -3,7 +3,7 @@ title: Sun/Cupido = Neptune
 page_type: activation
 slug: sun-cupido-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Neptune
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Cupido`
-- Source page: `111`
 #### Witte Entry
 
 Unfortunate condition in married life. The deceived man. Dissolution of communities. Mediumistic artist. Many people without shelter.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Unfortunate condition in married life. The deceived man. Dissolution of communities. Mediumistic artist. Many people without shelter.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+disappointed human community, shared refinement of the body, personal sensitivity in the community, weak community of persons, uncertainty in of a community of men, and center of a community at the water
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Cupido = Neptune`: anti-social tendencies or anti-social family circles and a person who is not attached to any family.
+- Practical expression: disappointed human community, shared refinement of the body, personal sensitivity in the community, weak community of persons, and uncertainty in a community of men.
 
 ## Links
 
@@ -61,3 +56,5 @@ Unfortunate condition in married life. The deceived man. Dissolution of communit
 - [Cupido](../factors/cupido.md)
 - [Neptune](../factors/neptune.md)
 - [Sun/Cupido](../axes/sun-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

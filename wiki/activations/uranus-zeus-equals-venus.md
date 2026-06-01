@@ -3,7 +3,7 @@ title: Uranus/Zeus = Venus
 page_type: activation
 slug: uranus-zeus-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Uranus
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Zeus`
-- Source page: `238`
 #### Witte Entry
 
 Procreation of a girl. To be in harmony with the natural forces. To harmonize and direct the forces of nature.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Procreation of a girl. To be in harmony with the natural forces. To harmonize and direct the forces of nature.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exciting peace efforts, joyful surprises, harmonious design pulses, new peace goal, new artificial direction, rhythmic artificial design, creative artificial impulses, and surprising love fire
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Zeus = Venus`: Procreation of a girl. To be in harmony with the natural forces. To harmonize and direct the forces of nature.
+- Practical expression: exciting peace efforts, oyful surprises, harmonious design pulses, new peace goal, and new artificial direction.
 
 ## Links
 
@@ -61,3 +56,5 @@ Procreation of a girl. To be in harmony with the natural forces. To harmonize an
 - [Zeus](../factors/zeus.md)
 - [Venus](../factors/venus.md)
 - [Uranus/Zeus](../axes/uranus-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

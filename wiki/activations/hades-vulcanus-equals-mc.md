@@ -3,7 +3,7 @@ title: Hades/Vulcanus = MC
 page_type: activation
 slug: hades-vulcanus-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Hades
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Vulcanus`
-- Source page: `285`
 #### Witte Entry
 
 Feeling of dependence. To be dependent on natural forces.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Feeling of dependence. To be dependent on natural forces.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+My influence, my energy, my general influence, my lack of strength, my lack of power, the power of the soul, my enormous night work, the history of the past, and the sufferings of violence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Vulcanus = MC`: vocation or destiny under pressure. It can show a life shaped by submission to heavy circumstances, natural force, or large impersonal powers.
 
 ## Links
 
@@ -61,3 +55,5 @@ Feeling of dependence. To be dependent on natural forces.
 - [Vulcanus](../factors/vulcanus.md)
 - [MC](../factors/mc.md)
 - [Hades/Vulcanus](../axes/hades-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Mercury Venus Vulcanus
 page_type: triad_hub
 slug: mercury-venus-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Venus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Venus Vulcanus`
 - Astronomicon triad-set: `T Q §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Venus = Vulcanus](../activations/mercury-venus-equals-vulcanus.md)
-  Source page `159`
 - [Mercury/Vulcanus = Venus](../activations/mercury-vulcanus-equals-venus.md)
-  Source page `172`
 - [Venus/Vulcanus = Mercury](../activations/venus-vulcanus-equals-mercury.md)
-  Source page `188`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Venus = Vulcanus`: page `159`
-- `Mercury/Vulcanus = Venus`: page `172`
-- `Venus/Vulcanus = Mercury`: page `188`
+- `Mercury/Venus = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `159`
+- `Mercury/Venus = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `241`
+- `Mercury/Vulcanus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `172`
+- `Mercury/Vulcanus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `266`
+- `Venus/Vulcanus = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `188`
+- `Venus/Vulcanus = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `294`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Venus = Vulcanus`: New fast friends, well received. Favored by friends. Polite greeting.
+- `Mercury/Vulcanus = Venus`: New acquaintances through powerful thoughts. New acquaintances who become important. To think intensively of new acquaintances.
+- `Venus/Vulcanus = Mercury`: mighty longing for exchange of thoughts with friends and acquaintances.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Venus](../factors/venus.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

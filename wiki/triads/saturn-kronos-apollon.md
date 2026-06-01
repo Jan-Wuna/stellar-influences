@@ -3,7 +3,7 @@ title: Saturn Kronos Apollon
 page_type: triad_hub
 slug: saturn-kronos-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Kronos
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Kronos Apollon`
 - Astronomicon triad-set: `W ¤ ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Kronos/Apollon = Saturn](../activations/kronos-apollon-equals-saturn.md)
-  Source page `299`
 - [Saturn/Apollon = Kronos](../activations/saturn-apollon-equals-kronos.md)
-  Source page `228`
 - [Saturn/Kronos = Apollon](../activations/saturn-kronos-equals-apollon.md)
-  Source page `227`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Kronos/Apollon = Saturn`: page `299`
-- `Saturn/Apollon = Kronos`: page `228`
-- `Saturn/Kronos = Apollon`: page `227`
+- `Kronos/Apollon = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `299`
+- `Kronos/Apollon = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `461`
+- `Saturn/Apollon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `228`
+- `Saturn/Apollon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `363`
+- `Saturn/Kronos = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `227`
+- `Saturn/Kronos = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `361`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Kronos/Apollon = Saturn`: mastery of method, but also stoppage in science or commerce and a broad, long-lasting hindrance to economic life.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Kronos](../factors/kronos.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Vernal Point Sun Apollon
 page_type: triad_hub
 slug: vernal-point-sun-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Sun
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Sun Apollon`
 - Astronomicon triad-set: `VP S ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Sun/Apollon = Vernal Point](../activations/sun-apollon-equals-vernal-point.md)
-  Source page `115`
 - [Vernal Point/Apollon = Sun](../activations/vernal-point-apollon-equals-sun.md)
-  Source page `52`
 - [Vernal Point/Sun = Apollon](../activations/vernal-point-sun-equals-apollon.md)
-  Source page `37`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Sun/Apollon = Vernal Point`: page `115`
-- `Vernal Point/Apollon = Sun`: page `52`
-- `Vernal Point/Sun = Apollon`: page `37`
+- `Sun/Apollon = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `115`
+- `Sun/Apollon = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `166`
+- `Vernal Point/Apollon = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `52`
+- `Vernal Point/Apollon = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `52`
+- `Vernal Point/Sun = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `37`
+- `Vernal Point/Sun = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `23`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Sun/Apollon = Vernal Point`: This formula emphasizes success in the environment and success in all contingent local or temporary conditions.
+- `Vernal Point/Apollon = Sun`: This formula emphasizes one who is successful and to hold an honorary position.
+- `Vernal Point/Sun = Apollon`: This formula emphasizes recognition, honors, dignities and general religious days.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Sun](../factors/sun.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

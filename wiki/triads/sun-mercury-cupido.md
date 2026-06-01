@@ -3,7 +3,7 @@ title: Sun Mercury Cupido
 page_type: triad_hub
 slug: sun-mercury-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Mercury
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Mercury Cupido`
 - Astronomicon triad-set: `S T ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Cupido = Sun](../activations/mercury-cupido-equals-sun.md)
-  Source page `166`
 - [Sun/Cupido = Mercury](../activations/sun-cupido-equals-mercury.md)
-  Source page `111`
 - [Sun/Mercury = Cupido](../activations/sun-mercury-equals-cupido.md)
-  Source page `103`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Cupido = Sun`: page `166`
-- `Sun/Cupido = Mercury`: page `111`
-- `Sun/Mercury = Cupido`: page `103`
+- `Mercury/Cupido = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `166`
+- `Mercury/Cupido = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `254`
+- `Sun/Cupido = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `111`
+- `Sun/Cupido = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `158`
+- `Sun/Mercury = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `103`
+- `Sun/Mercury = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `143`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Cupido = Sun`: embodies the axis in professional artistry and visible beauty.
+- `Sun/Cupido = Mercury`: This formula emphasizes speech in a family and one of the family.
+- `Sun/Mercury = Cupido`: This formula emphasizes family speech and identity expressed through one's circle.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Mercury](../factors/mercury.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

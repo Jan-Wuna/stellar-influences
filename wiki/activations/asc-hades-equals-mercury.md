@@ -3,7 +3,7 @@ title: Asc/Hades = Mercury
 page_type: activation
 slug: asc-hades-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Asc
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Hades`
-- Source page: `92`
 #### Witte Entry
 
 To speak about evil things. To plot mean acts with others. To receive bad news.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To speak about evil things. To plot mean acts with others. To receive bad news.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Disadvantaged youth in the field, reports on environmental hazards, thoughts on past environment, talk about environmental pollution, youth crime in the environment, talk about partner deficiency, and hidden thoughts of the partner
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Hades = Mercury`: harsh reports, low conversation, and a local mental field occupied by unpleasant content. Main caution: mental contamination: repeated contact with degraded speech or news can normalize cynicism, suspicion, or petty malice.
 
 ## Links
 
@@ -61,3 +55,5 @@ To speak about evil things. To plot mean acts with others. To receive bad news.
 - [Hades](../factors/hades.md)
 - [Mercury](../factors/mercury.md)
 - [Asc/Hades](../axes/asc-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

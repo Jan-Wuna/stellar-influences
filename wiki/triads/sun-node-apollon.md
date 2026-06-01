@@ -3,7 +3,7 @@ title: Sun Node Apollon
 page_type: triad_hub
 slug: sun-node-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Node Apollon`
 - Astronomicon triad-set: `S g ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Node/Apollon = Sun](../activations/node-apollon-equals-sun.md)
-  Source page `153`
 - [Sun/Apollon = Node](../activations/sun-apollon-equals-node.md)
-  Source page `115`
 - [Sun/Node = Apollon](../activations/sun-node-equals-apollon.md)
-  Source page `102`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Node/Apollon = Sun`: page `153`
-- `Sun/Apollon = Node`: page `115`
-- `Sun/Node = Apollon`: page `102`
+- `Node/Apollon = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `153`
+- `Node/Apollon = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `232`
+- `Sun/Apollon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `115`
+- `Sun/Apollon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `166`
+- `Sun/Node = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `102`
+- `Sun/Node = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `141`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Node/Apollon = Sun`: Connected with many, especially women, in public through economy or science.
+- `Sun/Apollon = Node`: This formula emphasizes success in unions and successful meeting.
+- `Sun/Node = Apollon`: This formula emphasizes successful unions and broad helpful associations.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Node](../factors/node.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

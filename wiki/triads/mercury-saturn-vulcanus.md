@@ -3,7 +3,7 @@ title: Mercury Saturn Vulcanus
 page_type: triad_hub
 slug: mercury-saturn-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Saturn
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Saturn Vulcanus`
 - Astronomicon triad-set: `T W §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Saturn = Vulcanus](../activations/mercury-saturn-equals-vulcanus.md)
-  Source page `162`
 - [Mercury/Vulcanus = Saturn](../activations/mercury-vulcanus-equals-saturn.md)
-  Source page `172`
 - [Saturn/Vulcanus = Mercury](../activations/saturn-vulcanus-equals-mercury.md)
-  Source page `230`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Saturn = Vulcanus`: page `162`
-- `Mercury/Vulcanus = Saturn`: page `172`
-- `Saturn/Vulcanus = Mercury`: page `230`
+- `Mercury/Saturn = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `162`
+- `Mercury/Saturn = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `247`
+- `Mercury/Vulcanus = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `172`
+- `Mercury/Vulcanus = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `267`
+- `Saturn/Vulcanus = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `230`
+- `Saturn/Vulcanus = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `366`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Saturn = Vulcanus`: Fast and long distance travelling. Every effort, strained thinking.
+- `Mercury/Vulcanus = Saturn`: One is only concerned with thoughts of travel and separation. To guard travellers, to protect them.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Saturn](../factors/saturn.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

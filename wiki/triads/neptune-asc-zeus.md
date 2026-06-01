@@ -3,7 +3,7 @@ title: Neptune Asc Zeus
 page_type: triad_hub
 slug: neptune-asc-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Neptune Asc Zeus`
 - Astronomicon triad-set: `Y Asc £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Zeus = Neptune](../activations/asc-zeus-equals-neptune.md)
-  Source page `93`
 - [Neptune/Asc = Zeus](../activations/neptune-asc-equals-zeus.md)
-  Source page `89`
 - [Neptune/Zeus = Asc](../activations/neptune-zeus-equals-asc.md)
-  Source page `249`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Zeus = Neptune`: page `93`
-- `Neptune/Asc = Zeus`: page `89`
-- `Neptune/Zeus = Asc`: page `249`
+- `Asc/Zeus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `93`
+- `Asc/Zeus = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `127`
+- `Neptune/Asc = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `89`
+- `Neptune/Asc = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `119`
+- `Neptune/Zeus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `249`
+- `Neptune/Zeus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `396`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Zeus = Neptune`: being stirred without successful outcome and, in relationship contexts, frustrated generative promise.
+- `Neptune/Asc = Zeus`: This activation provokes conflict around uncertain identity and leadership, showing futile attempts by others to seize control or harmful contact that strikes suddenly and forcefully.
+- `Neptune/Zeus = Asc`: Encounters with others are strained by futile effort, boastfulness, or overheated conditions, making joint activity unsuccessful and abrasive.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [Asc](../factors/asc.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

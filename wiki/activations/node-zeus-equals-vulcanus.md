@@ -3,7 +3,7 @@ title: Node/Zeus = Vulcanus
 page_type: activation
 slug: node-zeus-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - Zeus
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Zeus`
-- Source page: `151`
 #### Witte Entry
 
 Several make a mighty effort. Great efforts together with others.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Several make a mighty effort. Great efforts together with others.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influential connection to guidance, tremendous efforts in a connection, in connection with fiery energies, powerful procreation connection, powerful achievements through a connection, and binding influence of a guidance
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Zeus = Vulcanus`: Several make a mighty effort. Great efforts together with others.
+- Practical focus: several make a mighty effort; also great efforts together with others.
 
 ## Links
 
@@ -61,3 +56,5 @@ Several make a mighty effort. Great efforts together with others.
 - [Zeus](../factors/zeus.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Node/Zeus](../axes/node-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

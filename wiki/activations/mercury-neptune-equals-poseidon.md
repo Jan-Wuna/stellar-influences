@@ -3,7 +3,7 @@ title: Mercury/Neptune = Poseidon
 page_type: activation
 slug: mercury-neptune-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Neptune
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Neptune`
-- Source page: `164`
 #### Witte Entry
 
 High minded intuition. To search into ideas intuitively.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: High minded intuition. To search into ideas intuitively.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Reports on metaphysical truths, foreign cultural reports, foreign language culture, intellectual youth culture, intellectual language about metaphysics, clarity through intuitive thinking, the need for a future youth, and refined media culture
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Neptune = Poseidon` spiritualizes the axis into high-minded intuition and idea-search.
+- Chart expression: intuitively seeking out ideas, perceiving subtle truths, and letting elevated or spiritual mentality guide the movement of thought.
 
 ## Links
 
@@ -61,3 +56,5 @@ High minded intuition. To search into ideas intuitively.
 - [Neptune](../factors/neptune.md)
 - [Poseidon](../factors/poseidon.md)
 - [Mercury/Neptune](../axes/mercury-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

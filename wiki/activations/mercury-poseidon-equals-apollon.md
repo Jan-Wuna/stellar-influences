@@ -3,7 +3,7 @@ title: Mercury/Poseidon = Apollon
 page_type: activation
 slug: mercury-poseidon-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Apollon
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Poseidon`
-- Source page: `173`
 #### Witte Entry
 
 To come into contact with others who have the same ideas.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To come into contact with others who have the same ideas.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful spiritual language, experiences of the youth with the truth, knowledge enlargement by the youth, language about the science of the spirit, cultural success in the youth, extensive knowledge of the youth, and increasing clarity of thought
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Poseidon = Apollon`: To come into contact with others who have the same ideas.
+- Practical expression: successful spiritual language, experiences of the youth with the truth, knowledge enlargement by the youth, language about the science of the spirit, and cultural success in the youth.
 
 ## Links
 
@@ -61,3 +56,5 @@ To come into contact with others who have the same ideas.
 - [Poseidon](../factors/poseidon.md)
 - [Apollon](../factors/apollon.md)
 - [Mercury/Poseidon](../axes/mercury-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

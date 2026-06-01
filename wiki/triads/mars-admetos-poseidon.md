@@ -3,7 +3,7 @@ title: Mars Admetos Poseidon
 page_type: triad_hub
 slug: mars-admetos-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Admetos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Admetos Poseidon`
 - Astronomicon triad-set: `U ¦ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Admetos/Poseidon = Mars](../activations/admetos-poseidon-equals-mars.md)
-  Source page `312`
 - [Mars/Admetos = Poseidon](../activations/mars-admetos-equals-poseidon.md)
-  Source page `202`
 - [Mars/Poseidon = Admetos](../activations/mars-poseidon-equals-admetos.md)
-  Source page `204`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Admetos/Poseidon = Mars`: page `312`
-- `Mars/Admetos = Poseidon`: page `202`
-- `Mars/Poseidon = Admetos`: page `204`
+- `Admetos/Poseidon = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `312`
+- `Admetos/Poseidon = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `476`
+- `Mars/Admetos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `202`
+- `Mars/Admetos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `319`
+- `Mars/Poseidon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `204`
+- `Mars/Poseidon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `323`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Admetos/Poseidon = Mars`: active coursework, disciplined participation, and work directed toward education or formation in a focused setting.
+- `Mars/Admetos = Poseidon`: special cultural or educational work, but also mental submission and suppression of spiritual liberty.
+- `Mars/Poseidon = Admetos`: narrows moral or intellectual action into exclusivity, select circles, and concentrated teaching.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Admetos](../factors/admetos.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

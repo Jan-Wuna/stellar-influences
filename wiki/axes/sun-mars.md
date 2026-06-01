@@ -58,13 +58,14 @@ aliases:
   - Mars/Sun
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -77,17 +78,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Mars`
-- Source page: `105`
-
 #### Pair Summary
 
 The man. The husband. The active man. The soldier. The action of the living body. Work with physical strength. The working day. Men at work. Daily action. Handyman. Energy level of the body. (In the solar cycle: period concerning to work.)
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Sun/Mars`
-- Source page: `86`
+#### ABC Pair Summary
+
+Work man, work centre, acting people, corporal work, human creation, personal activity, personal will, day of work, and effective man
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -111,17 +112,11 @@ Fighter, soldier, surgeon, sculptor. lntellectual fighter. Probable Manifestatio
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
-- Source heading: `Sun/Mars`
-- Source page: `8`
-
 #### Falis Entry
 
 Self-assertive. Self-directed. Vital force. Primal force. An action-oriented person. Doers. Physical vitality. Sexual vitality. Acting in your own self-interest. Self centered action. The ability to challenge yourself Self-propelled. Self-motivated. Initiators. Creative action. Challenging yourself to reach your creative potential. Challenging yourself to be all that you can be. Beating yourself up when you lose. Competitive people. People who know how to assert themselves to get what they want. People who know what they want. Directors. People who tell other people what to do. Leaders. Managers. Coaches. Trainers. Rough, gruff, abrasive people. Antagonists. People who are spurred to achieve more when they are challenged or when they have worthy competitors. People who want to be where the action is. People who won't back down from a fight. Heads of companies. Entrepreneurs. People who challenge themselves to be the best at what they do. Fighting against, or simply rejecting, other people's efforts to get you to do what they want you to do. People, who refuse to do what they are told, yet have no problem telling other people what to do. The desire to be your own boss. Inability to listen to authority or be put in an inferior position. Asserting your rights. What's my next objective? What will I conquer next? What else can I be the best at? Who else can I beat? The need to take your shot when the time is right. The need to prove who you are in the moment. Going for it, with no hesitation, proving who you are. Not letting opportu nities to assert who you are - your individuality - pass you by. Being brave enough to show who you are. Being brave enough to prove yourself. Possibility for violence. Experiencing violence at the hands of men. Experiencing men as base and primal, lacking in refinement. Having a natural affinity for typi cally "masculine" pursuits. Identifying with men. Identifying with typically "mascu line" interests. Tomboys. Self-made men and women. Fighting against authority. Fighting against you. Inner tension caused by fighting against your own best inter ests. Depression when there are no worthy opponents and nothing worth fighting for. Depression through not reaching your potential. Depression through not tak ing opportunities. "I could have been a contender. I could have been somebody." Depression through boredom. Needing goals and challenges to reach your full potential. Needing goals and challenges to feel vital and alive. Seizing the moment. Setting the bar higher and higher. Having a direction. Having aim. Directing your energy toward something. Having things to do. Physical activity as a way to get in touch with your core self Needing outlets for aggression and hostile tendencies. Needing activities to funnel your competitive spirit into. Identifying with cham pions, fighters, heroes and heroines, and people who generally kick ass.
 
 ### Charles Carter - The Astrological Aspects
-
-- Source heading: `ASPECTS OF THE SUN AND MARS`
-- Source page: `10`
 
 #### Pair Overview
 
@@ -173,9 +168,6 @@ As an example of the above statement take King Georg V. with Sun in aspect to Ma
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Sun/Mars midpoint`
-- Source page: `11`
-
 #### Principle
 
 Purposeful assertiveness. The ability to gear one’s actions toward longrange considerations. The ability to take on meaningful battles. Too much effort depletes vi tality. Driving oneself.
@@ -186,17 +178,11 @@ The process of actively dismantling the neqative eqo so that the spiritual self 
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Sun/Mars`
-- Source page: `201`
-
 #### Pair Delineation
 
 The will, vitality, energy (particularly for self-expression), the masculine side of the self, personal aggressiveness and self-assertion. The ability to act and take the initiative. Particularly in a woman's chart this point may symbolize one's expectations about males. This can also be a point of conflict with males.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `SUN/MARS`
-- Source page: `67`
 
 #### Basic Ideas
 
@@ -225,15 +211,6 @@ Muscular development of the body; the inner strength you have to overcome infect
 
 - [Michael Munkasey - Sun/Mars Concepts](../derived/munkasey-sun-mars-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Sun/Mars = Admetos](../activations/sun-mars-equals-admetos.md)
@@ -258,20 +235,18 @@ Muscular development of the body; the inner strength you have to overcome infect
 - [Sun/Mars = Vulcanus](../activations/sun-mars-equals-vulcanus.md)
 - [Sun/Mars = Zeus](../activations/sun-mars-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Mars` is the axis of assertive vitality, courage, initiative, and forceful self-expression. It combines identity, will, and visibility with action, competition, heat, and the urge to press forward decisively.
+- Chart expression: leadership drive, frankness, enterprise, physical or competitive energy, and the need to act on conviction without delay. Liabilities: haste, quarrels, irritability, reckless force, domineering behavior, and overstrain when willpower becomes combative or cannot tolerate restraint.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Mars](../factors/mars.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)

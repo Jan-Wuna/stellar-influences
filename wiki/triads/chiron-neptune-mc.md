@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Chiron Neptune MC`
 - Astronomicon triad-set: `Chiron Y MC`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Chiron/Neptune = MC`: John, page `97`
 - `Neptune/MC = Chiron`: John, page `113`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/MC = Neptune`: compassionate vision, intuitive guidance, and vocation shaped by idealistic healing of collective wounds. Main caution: vagueness or idealization when insight is not grounded.
+- `Chiron/Neptune = MC`: therapeutic or visionary vocation and to purpose shaped by illumination of hidden suffering. Main caution: career drift, savior fantasy, or identifying vocation only with inspiration and not with discipline.
+- `Neptune/MC = Chiron`: Your energy naturally and spontaneously helps others to be more intuitive about what they need for their own spiritual development, and to perceive at subtler levels their spiritual place in the world.
 
 ## Links
 

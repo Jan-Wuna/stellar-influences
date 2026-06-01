@@ -3,7 +3,7 @@ title: Kronos/Poseidon = Admetos
 page_type: activation
 slug: kronos-poseidon-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Kronos
   - Admetos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Kronos + Poseidon`
-- Source page: `303`
 #### Witte Entry
 
 Highly spiritual and cultural endeavors intended for a few only. The spiritual and cultural elite.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Highly spiritual and cultural endeavors intended for a few only. The spiritual and cultural elite.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special submission of truth, limitation of an important idea, consolidation of the culture of a state, consolidated spiritual authorship, great spiritual blockade, grilning hierarchy of the spirit, self glorious spiritual origination, and important spiritual deepening
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Poseidon = Admetos`: highly spiritual or cultural work meant for only a few and the formation of a true intellectual or cultural elite.
+- Chart expression: concentrated wisdom, protected esoteric work, and elite educational or spiritual effort rather than mass dissemination.
 
 ## Links
 
@@ -61,3 +56,5 @@ Highly spiritual and cultural endeavors intended for a few only. The spiritual a
 - [Poseidon](../factors/poseidon.md)
 - [Admetos](../factors/admetos.md)
 - [Kronos/Poseidon](../axes/kronos-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

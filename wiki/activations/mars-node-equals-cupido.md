@@ -3,10 +3,10 @@ title: Mars/Node = Cupido
 page_type: activation
 slug: mars-node-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Mars
+  - Node
   - Cupido
 normalized_formula: Mars/Node = Cupido
 axis: Mars/Node
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Node
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Mars`
-- Source page: `143`
 #### Witte Entry
 
 To plan mutual union. To enter into matrimony.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To plan mutual union. To enter into matrimony.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Meeting in a working community, meetings on an action community, joint work meetings, cooperation in a partnership, contacts in a working community, and community creating links
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Node = Cupido` directs shared action toward formal union, marriage, and intentional partnership.
+- Chart expression: planning mutual union, entering matrimony, and using coordinated effort to build committed relational or communal bonds.
 
 ## Links
 
@@ -61,3 +56,5 @@ To plan mutual union. To enter into matrimony.
 - [Node](../factors/node.md)
 - [Cupido](../factors/cupido.md)
 - [Mars/Node](../axes/mars-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

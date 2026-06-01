@@ -3,7 +3,7 @@ title: Moon/Mars = Cupido
 page_type: activation
 slug: moon-mars-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Mars
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Mars
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Mars`
-- Source page: `124`
 #### Witte Entry
 
 Works in common. Hours of work in a community. Art workers (female). To keep house together. The natural (free or common law) marriage.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Works in common. Hours of work in a community. Art workers (female). To keep house together. The natural (free or common law) marriage.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Community of action of a people, hours of work of a community, collective action, common will of a people, community of action of women, artistic women's work, and will of a people community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Mars = Cupido`: Works in common. Hours of work in a community. Art workers (female). To keep house together. The natural (free or common law) marriage.
+- Practical focus: socializes `Moon/Mars` through shared work, cooperative domestic life, and communal effort. It favors keeping house together, working in groups, and channeling instinctive energy into family, art, or partnership structures where action is coordinated rather than solitary.
+- Practical expression: community of action of a people, hours of work of a community, collective action, common will of a people, and community of action of women.
 
 ## Links
 
@@ -61,3 +57,5 @@ Works in common. Hours of work in a community. Art workers (female). To keep hou
 - [Mars](../factors/mars.md)
 - [Cupido](../factors/cupido.md)
 - [Moon/Mars](../axes/moon-mars.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

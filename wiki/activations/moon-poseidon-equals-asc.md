@@ -3,7 +3,7 @@ title: Moon/Poseidon = Asc
 page_type: activation
 slug: moon-poseidon-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Asc
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Poseidon`
-- Source page: `138`
 #### Witte Entry
 
 To influence others mentally. Relations to people who are susceptible to mental and spiritual things.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To influence others mentally. Relations to people who are susceptible to mental and spiritual things.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Insightful woman in the near, full insight of the partner, clear skills of the partner, cultivated women in the place, culture of other folk, hour of truth for the environment, environmental culture of a people, and poor woman as partner
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Poseidon = Asc`: To influence others mentally. Relations to people who are susceptible to mental and spiritual things.
+- Practical expression: insightful woman in the near, full insight of the partner, clear skills of the partner, cultivated women in the place, and culture of other folk.
 
 ## Links
 
@@ -61,3 +56,5 @@ To influence others mentally. Relations to people who are susceptible to mental 
 - [Poseidon](../factors/poseidon.md)
 - [Asc](../factors/asc.md)
 - [Moon/Poseidon](../axes/moon-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

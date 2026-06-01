@@ -3,7 +3,7 @@ title: Vernal Point/Mars = Sun
 page_type: activation
 slug: vernal-point-mars-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Mars
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Sun
   - Mars
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Mars`
-- Source page: `42`
 #### Witte Entry
 
 A day of public work. Special work. The man's activities or his labors. A fight or battle action.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A day of public work. Special work. The man's activities or his labors. A fight or battle action.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Work man in public, manly people in public, personal creation for the public, creating people in public life, day of work in public, and center for public work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Mars = Sun`: a day of public work, special work, the man's activities or his labors, and a fight or battle action.
+- Practical expression: work man in public, manly people in public, personal creation for the public, creating people in public life, and day of work in public.
 
 ## Links
 
@@ -61,3 +56,5 @@ A day of public work. Special work. The man's activities or his labors. A fight 
 - [Mars](../factors/mars.md)
 - [Sun](../factors/sun.md)
 - [Vernal Point/Mars](../axes/vernal-point-mars.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Vernal Point Sun Asc
 page_type: triad_hub
 slug: vernal-point-sun-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Sun
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Sun Asc`
 - Astronomicon triad-set: `VP S Asc`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Sun/Asc = Vernal Point](../activations/sun-asc-equals-vernal-point.md)
-  Source page `80`
 - [Vernal Point/Asc = Sun](../activations/vernal-point-asc-equals-sun.md)
-  Source page `36`
 - [Vernal Point/Sun = Asc](../activations/vernal-point-sun-equals-asc.md)
-  Source page `37`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Sun/Asc = Vernal Point`: page `80`
-- `Vernal Point/Asc = Sun`: page `36`
-- `Vernal Point/Sun = Asc`: page `37`
+- `Sun/Asc = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `80`
+- `Sun/Asc = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `100`
+- `Vernal Point/Asc = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `36`
+- `Vernal Point/Asc = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `20`
+- `Vernal Point/Sun = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `37`
+- `Vernal Point/Sun = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `22`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Sun/Asc = Vernal Point`: This formula emphasizes the person in the environment and the presence of a person.
+- `Vernal Point/Asc = Sun`: This formula emphasizes places and countries with which we become familiar and where we are welcome.
+- `Vernal Point/Sun = Asc`: This formula emphasizes bodily contact with other people, or in the place, personally connected with others in public, and many acquaintances through or while taking care of daily chores.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Sun](../factors/sun.md)
 - [Asc](../factors/asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

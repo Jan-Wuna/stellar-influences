@@ -3,7 +3,7 @@ title: Neptune/Cupido = Moon
 page_type: activation
 slug: neptune-cupido-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Neptune
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Cupido`
-- Source page: `247`
 #### Witte Entry
 
 Unfortunate (unhappy) wife. Unhappy populace.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Unfortunate (unhappy) wife. Unhappy populace.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+In a women's community, women's community in the air, women's community in the water, women's weakness in of a community, weak people's community, weak women in of a community, and insecure people's community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Cupido = Moon`: Unfortunate (unhappy) wife. Unhappy populace.
+- Practical focus: emotionalizes communal disappointment, showing unhappiness in wife, family, or populace and casting a collective mood of sorrow, discontent, or domestic strain.
+- Practical expression: in a women's community, women's community in the air, women's community in the water, women's weakness in a community, and weak people's community.
 
 ## Links
 
@@ -61,3 +57,5 @@ Unfortunate (unhappy) wife. Unhappy populace.
 - [Cupido](../factors/cupido.md)
 - [Moon](../factors/moon.md)
 - [Neptune/Cupido](../axes/neptune-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

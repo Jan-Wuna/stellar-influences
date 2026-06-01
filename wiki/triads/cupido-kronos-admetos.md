@@ -3,7 +3,7 @@ title: Cupido Kronos Admetos
 page_type: triad_hub
 slug: cupido-kronos-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Kronos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Cupido Kronos Admetos`
 - Astronomicon triad-set: `¡ ¤ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Admetos = Kronos](../activations/cupido-admetos-equals-kronos.md)
-  Source page `272`
 - [Cupido/Kronos = Admetos](../activations/cupido-kronos-equals-admetos.md)
-  Source page `269`
 - [Kronos/Admetos = Cupido](../activations/kronos-admetos-equals-cupido.md)
-  Source page `300`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Admetos = Kronos`: page `272`
-- `Cupido/Kronos = Admetos`: page `269`
-- `Kronos/Admetos = Cupido`: page `300`
+- `Cupido/Admetos = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `272`
+- `Cupido/Admetos = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `433`
+- `Cupido/Kronos = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `269`
+- `Cupido/Kronos = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `429`
+- `Kronos/Admetos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `300`
+- `Kronos/Admetos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `463`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Admetos = Kronos`: association broken up by authorities, treaties or constitutional forms dissolved, or official obstacles imposed on a corporation's end.
+- `Cupido/Kronos = Admetos`: stiff or clumsy behavior leading to social banishment, self-exclusion from distinguished groups, and making oneself impossible in formal communal settings.
+- `Kronos/Admetos = Cupido`: an exclusive place in a group, unusual artistic work, or a special social or familial role that sets one apart.
 
 ## Links
 
 - [Cupido](../factors/cupido.md)
 - [Kronos](../factors/kronos.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

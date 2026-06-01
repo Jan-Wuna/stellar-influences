@@ -3,7 +3,7 @@ title: Uranus/Admetos = Apollon
 page_type: activation
 slug: uranus-admetos-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Apollon
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Admetos`
-- Source page: `241`
 #### Witte Entry
 
 The satisfaction over the end of a matter, which kept the native under severe tension. To feel relaxed.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The satisfaction over the end of a matter, which kept the native under severe tension. To feel relaxed.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Restricted trade impulses, success through new knowledge, consolidation of technical knowledge, fundamental knowledge emulation, new knowledge of the primordial material, Surprising depression experiences, and deepening in new knowledge
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Admetos = Apollon`: The satisfaction over the end of a matter, which kept the native under severe tension. To feel relaxed.
+- Practical expression: restricted trade impulses, success through new knowledge, consolidation of technical knowledge, fundamental knowledge emulation, and new knowledge of the primordial material.
 
 ## Links
 
@@ -61,3 +56,5 @@ The satisfaction over the end of a matter, which kept the native under severe te
 - [Admetos](../factors/admetos.md)
 - [Apollon](../factors/apollon.md)
 - [Uranus/Admetos](../axes/uranus-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

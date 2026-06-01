@@ -3,7 +3,7 @@ title: Moon/Saturn = Vernal Point
 page_type: activation
 slug: moon-saturn-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Saturn
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Moon
   - Saturn
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Saturn`
-- Source page: `126`
 #### Witte Entry
 
 Laboring people (classes), suffering, suppressed populace. Losses in the populace. General happenings in the evening hours.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Laboring people (classes), suffering, suppressed populace. Losses in the populace. General happenings in the evening hours.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Old woman in the public sector, patience of a people in the public sphere, public service termination of the public sector, and public service termination of the public service contract
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Saturn = Vernal Point`: Laboring people (classes), suffering, suppressed populace. Losses in the populace. General happenings in the evening hours.
+- Practical focus: externalizes `Moon/Saturn` into the suffering public, laboring classes, and general losses carried by a population. It shows emotional deprivation or endurance becoming social fact, especially in the collective tone of endings, work, or late hours.
+- Practical expression: old woman in the public sector, patience of a people in the public sphere, public service termination of the public sector, and public service termination of the public service contract.
 
 ## Links
 
@@ -61,3 +57,5 @@ Laboring people (classes), suffering, suppressed populace. Losses in the populac
 - [Saturn](../factors/saturn.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Moon/Saturn](../axes/moon-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

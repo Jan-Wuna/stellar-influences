@@ -3,7 +3,7 @@ title: Pluto/Hades = Vernal Point
 page_type: activation
 slug: pluto-hades-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Pluto
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Hades`
-- Source page: `258`
 #### Witte Entry
 
 Symptoms of deterioration and decadence. General decline. General break down.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Symptoms of deterioration and decadence. General decline. General break down.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dangerous developments in the public life, adverse changes to the public, major changes in the public life, changes in the public from the past, and increasing criminality in the public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Hades = Vernal Point`: general decline; Conditions in the wider environment worsen.
+- Practical expression: dangerous developments in the public life, adverse changes to the public, major changes in the public life, changes in the public from the past, and increasing criminality in the public.
 
 ## Links
 
@@ -61,3 +56,5 @@ Symptoms of deterioration and decadence. General decline. General break down.
 - [Hades](../factors/hades.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Pluto/Hades](../axes/pluto-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

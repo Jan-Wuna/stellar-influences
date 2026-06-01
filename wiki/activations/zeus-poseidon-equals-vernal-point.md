@@ -3,7 +3,7 @@ title: Zeus/Poseidon = Vernal Point
 page_type: activation
 slug: zeus-poseidon-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Zeus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Poseidon`
-- Source page: `296`
 #### Witte Entry
 
 Mental disposition. To be under a general mental leadership. To be mentally influenced and impressed by others. The generality must witness something, must prove something or must show its conviction.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mental disposition. To be under a general mental leadership. To be mentally influenced and impressed by others. The generality must witness something, must prove something or must show its conviction.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+insight of public leadership, spiritual striving toward goals in public, clear goals in public life, cultural formation in public, public attestation of truth, and creative reason in public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Poseidon = Vernal Point`: Mental disposition. To be under a general mental leadership. To be mentally influenced and impressed by others. The generality must witness something, must prove something or must show its conviction.
+- Practical expression: insight of public leadership, spiritual striving toward goals in public, clear goals in public life, cultural formation in public, and public attestation of truth.
 
 ## Links
 
@@ -61,3 +56,5 @@ Mental disposition. To be under a general mental leadership. To be mentally infl
 - [Poseidon](../factors/poseidon.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Zeus/Poseidon](../axes/zeus-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

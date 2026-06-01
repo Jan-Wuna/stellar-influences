@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Hades + Hades`
-- Source page: `275`
 #### Witte Entry
 
 To have secrets. Ill humored. Bereavement. Grief. To do without. To be easily offended. Grief through deficiencies causes the feeling of inferiority. Business losses. Pursued by misfortune. Poor profession or wrong goals of life. Profession in waste management. Misguided emotions. Inclined toward serving others. Historian. The attitude towards the past. A bad moment (minute).
 
-## Comparative Schema
-
-- core meaning: To have secrets. Ill humored. Bereavement. Grief. To do without. To be easily offended. Grief through deficiencies causes the feeling of inferiority. Business losses. Pursued by misfortune. Poor profession or wrong goals of life. Profession in waste management. Misguided emotions. Inclined toward serving others. Historian. The attitude towards the past. A bad moment (minute).
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Hades = MC`: a calling shaped by sorrow, low conditions, or difficult history. It can show work in waste management, history, or preservation of old things, but also a life path burdened by loss, shame, and poor worldly position.
 
 ## Links
 

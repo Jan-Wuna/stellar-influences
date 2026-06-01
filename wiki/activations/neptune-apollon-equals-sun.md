@@ -3,7 +3,7 @@ title: Neptune/Apollon = Sun
 page_type: activation
 slug: neptune-apollon-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Neptune
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Apollon`
-- Source page: `251`
 #### Witte Entry
 
 The man who labors under a great illusion concerning his future or who is in uncertainty about it. The man who is involved in embezzlements, or matters of corruption. Favorable days for metaphysics.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The man who labors under a great illusion concerning his future or who is in uncertainty about it. The man who is involved in embezzlements, or matters of corruption. Favorable days for metaphysics.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful mental intuition, human knowledge stamping, metaphysical knowledge of a man, personal dissemination of metaphysics, personal future knowledge, uncertain personal freedom, and center for future knowledge
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Apollon = Sun`: The man who labors under a great illusion concerning his future or who is in uncertainty about it. The man who is involved in embezzlements, or matters of corruption. Favorable days for metaphysics.
+- Practical focus: personalizes `Neptune/Apollon` through one's future vision, moral exposure, and role inside larger systems of illusion or corruption. It can show a person pulled between metaphysical promise and compromised reality, living under uncertainty while seeking meaning.
+- Practical expression: successful mental intuition, human knowledge stamping, metaphysical knowledge of a man, personal dissemination of metaphysics, and personal future knowledge.
 
 ## Links
 
@@ -61,3 +57,5 @@ The man who labors under a great illusion concerning his future or who is in unc
 - [Apollon](../factors/apollon.md)
 - [Sun](../factors/sun.md)
 - [Neptune/Apollon](../axes/neptune-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

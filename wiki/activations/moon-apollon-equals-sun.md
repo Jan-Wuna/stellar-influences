@@ -3,7 +3,7 @@ title: Moon/Apollon = Sun
 page_type: activation
 slug: moon-apollon-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Moon
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Apollon`
-- Source page: `134`
 #### Witte Entry
 
 The man who strives for freedom of action. The daily one and the same. Daily and hourly encounter many people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The man who strives for freedom of action. The daily one and the same. Daily and hourly encounter many people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Experiences between woman and man, experiences of woman with man, success hour of a man, successful woman of a man, feelings Knowledge of a man, commercial center of a people, many women of a man, and knowledge of man about the woman
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Apollon = Sun`: The man who strives for freedom of action. The daily one and the same. Daily and hourly encounter many people.
+- Practical expression: experiences between woman, experiences of woman with man, success hour of a man, successful woman of a man, and feelings Knowledge of a man.
 
 ## Links
 
@@ -61,3 +56,5 @@ The man who strives for freedom of action. The daily one and the same. Daily and
 - [Apollon](../factors/apollon.md)
 - [Sun](../factors/sun.md)
 - [Moon/Apollon](../axes/moon-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

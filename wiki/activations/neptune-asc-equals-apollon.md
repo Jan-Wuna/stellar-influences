@@ -3,10 +3,10 @@ title: Neptune/Asc = Apollon
 page_type: activation
 slug: neptune-asc-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Neptune
+  - Asc
   - Apollon
 normalized_formula: Neptune/Asc = Apollon
 axis: Neptune/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Asc
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Neptune`
-- Source page: `89`
 #### Witte Entry
 
 To be deceived many times. To gain ample experience through fraud and tricks. Duped by a gimmick. Uncertain, unstable behavior of the counterpart in trade, commerce or science.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be deceived many times. To gain ample experience through fraud and tricks. Duped by a gimmick. Uncertain, unstable behavior of the counterpart in trade, commerce or science.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Extension of the subtle environment, experiences in a foreign place, success in an uncertain environment, success with others in the water, successful trade with water, plenty of water in the vicinity, and increasing fine feeling of the environment
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Asc = Apollon`: To be deceived many times. To gain ample experience through fraud and tricks. Duped by a gimmick. Uncertain, unstable behavior of the counterpart in trade, commerce or science.
+- Practical focus: broadens interpersonal deception into repeated patterns, teaching through multiple disappointments, gimmicks, and unstable dealings in trade, study, or exchange.
+- Practical expression: extension of the subtle environment, experiences in a foreign place, success in an uncertain environment, success with others in the water, and successful trade with water.
 
 ## Links
 
@@ -61,3 +57,5 @@ To be deceived many times. To gain ample experience through fraud and tricks. Du
 - [Asc](../factors/asc.md)
 - [Apollon](../factors/apollon.md)
 - [Neptune/Asc](../axes/neptune-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

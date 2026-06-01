@@ -3,7 +3,7 @@ title: Mars Asc Hades
 page_type: triad_hub
 slug: mars-asc-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Asc Hades`
 - Astronomicon triad-set: `U Asc ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Hades = Mars](../activations/asc-hades-equals-mars.md)
-  Source page `92`
 - [Mars/Asc = Hades](../activations/mars-asc-equals-hades.md)
-  Source page `85`
 - [Mars/Hades = Asc](../activations/mars-hades-equals-asc.md)
-  Source page `198`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Hades = Mars`: page `92`
-- `Mars/Asc = Hades`: page `85`
-- `Mars/Hades = Asc`: page `198`
+- `Asc/Hades = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `92`
+- `Asc/Hades = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `124`
+- `Mars/Asc = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `85`
+- `Mars/Asc = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `111`
+- `Mars/Hades = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `198`
+- `Mars/Hades = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `310`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Hades = Mars`: a depressed environment full of ineffective deeds, danger from others, and the need to respond actively to harm or mishap.
+- `Mars/Asc = Hades`: drags the Mars/Asc axis into degrading conflict, mistakes, theft, danger, and the burden of dealing with other people's wrong actions.
+- `Mars/Hades = Asc`: having to deal with others' damage, correct their messes, and live close to danger, including murderous intent.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Asc](../factors/asc.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

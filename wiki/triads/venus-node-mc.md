@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Node MC`
 - Astronomicon triad-set: `Q g MC`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,19 +40,27 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Node/MC = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `61`
+- `Node/MC = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `66`
 - `Node/MC = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `304`
 - `Node/MC = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `120`
+- `Node/MC = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `360`
 - `Venus/MC = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `63`
+- `Venus/MC = Node`: Udo Rudolph - ABC for Planetary Pictures, page `70`
 - `Venus/MC = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `200`
 - `Venus/MC = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `66`
+- `Venus/MC = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `220`
 - `Venus/Node = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `142`
+- `Venus/Node = MC`: Udo Rudolph - ABC for Planetary Pictures, page `210`
 - `Venus/Node = MC`: Reinhold Ebertin - The Combination of Stellar Influences, page `194`
 - `Venus/Node = MC`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `63`
+- `Venus/Node = MC`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `212`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Node/MC = Venus`: a public path shaped by pleasant alliances, with vocation and status supported by diplomacy, likability, and the ability to create cooperative shared aims.
+- `Venus/MC = Node`: cooperative vocation, with status and direction advanced by friendship, partnership, diplomacy, and the ability to attract goodwill socially.
+- `Venus/Node = MC`: social grace in the outer life, with career and direction advanced through cooperation, diplomacy, artistic value, or supportive alliances.
 
 ## Links
 
@@ -59,5 +68,7 @@ updated_at: 2026-04-22
 - [Node](../factors/node.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

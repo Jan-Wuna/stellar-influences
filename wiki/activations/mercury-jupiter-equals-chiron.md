@@ -33,30 +33,15 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mercury/Jupiter midpoint`
-- Source page: `44`
-- Activator: `Chiron`
-
 #### Sandbach Entry
 
 To intuitively communicate in an uplifting expansive manner which imbues others with greater faith and optimism. This often happens in a hidden or subtle fash ion. Healing through the synthesizing and harmonizing of ideas.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Jupiter = Chiron` heals the axis through subtle, uplifting communication.
+- Chart expression: encouraging ideas conveyed intuitively or indirectly, speech that restores faith and optimism, and healing that comes through harmonizing and synthesizing different perspectives.
 
 ## Links
 

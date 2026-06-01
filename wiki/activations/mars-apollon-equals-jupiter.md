@@ -3,7 +3,7 @@ title: Mars/Apollon = Jupiter
 page_type: activation
 slug: mars-apollon-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Jupiter
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Apollon`
-- Source page: `201`
 #### Witte Entry
 
 Luck or success in trade, commerce, industry and or science. Income from activity in profession, trade and science.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Luck or success in trade, commerce, industry and or science. Income from activity in profession, trade and science.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Work in law science, work with lots of money, experience in labour law, successful financial work, financial actions, joy over work success, scientific success mitigations, and increasing will freedom
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Apollon = Jupiter`: success in commerce, industry, science, and profession, with action directly generating gain.
+- Chart expression: prosperous enterprise, professional growth, and income through active participation in broad markets or knowledge fields.
 
 ## Links
 
@@ -61,3 +56,5 @@ Luck or success in trade, commerce, industry and or science. Income from activit
 - [Apollon](../factors/apollon.md)
 - [Jupiter](../factors/jupiter.md)
 - [Mars/Apollon](../axes/mars-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

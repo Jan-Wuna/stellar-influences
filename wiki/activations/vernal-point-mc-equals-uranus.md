@@ -3,7 +3,7 @@ title: Vernal Point/MC = Uranus
 page_type: activation
 slug: vernal-point-mc-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - MC
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Uranus
   - MC
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + MC`
-- Source page: `35`
 #### Witte Entry
 
 To experience something with others. To show oneself eccentric. To be a revolutionary. Excitement in public. To be an environmental engineer.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To experience something with others. To show oneself eccentric. To be a revolutionary. Excitement in public. To be an environmental engineer.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Immediate rhythm in the public sphere, my forms in the public sphere, life in the public sphere, minute of publication in public sphere, public sphere, and mental impulses in the public sphere
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/MC = Uranus`: to experience something with others, to show oneself eccentric, to be a revolutionary, excitement in public, and to be an environmental engineer.
+- Practical expression: immediate rhythm in the public sphere, my forms in the public sphere, life in the public sphere, minute of publication in public sphere, and public sphere.
 
 ## Links
 
@@ -61,3 +56,5 @@ To experience something with others. To show oneself eccentric. To be a revoluti
 - [MC](../factors/mc.md)
 - [Uranus](../factors/uranus.md)
 - [Vernal Point/MC](../axes/vernal-point-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

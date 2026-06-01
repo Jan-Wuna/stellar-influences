@@ -3,10 +3,10 @@ title: Node/Asc = Admetos
 page_type: activation
 slug: node-asc-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Node
+  - Asc
   - Admetos
 normalized_formula: Node/Asc = Admetos
 axis: Node/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - Asc
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Node`
-- Source page: `82`
 #### Witte Entry
 
 Hindrances and obstacles through acquaintances. A small circle of acquaintances which always remains the same.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Hindrances and obstacles through acquaintances. A small circle of acquaintances which always remains the same.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked environmental connections, restricted local connections, consolidation of the connection to the partner, general contacts at the site, under drunk partner in a connection, connected with a traffic jam at the site, and resistance in a partner connection
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Asc = Admetos`: Hindrances and obstacles through acquaintances. A small circle of acquaintances which always remains the same.
+- Practical focus: a small circle of acquaintances which always remains the same.
+- In difficult expression, it can mark hindrances and obstacles through acquaintances.
 
 ## Links
 
@@ -61,3 +57,5 @@ Hindrances and obstacles through acquaintances. A small circle of acquaintances 
 - [Asc](../factors/asc.md)
 - [Admetos](../factors/admetos.md)
 - [Node/Asc](../axes/node-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Vernal Point Node Vulcanus
 page_type: triad_hub
 slug: vernal-point-node-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Node Vulcanus`
 - Astronomicon triad-set: `VP g §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Node/Vulcanus = Vernal Point](../activations/node-vulcanus-equals-vernal-point.md)
-  Source page `155`
 - [Vernal Point/Node = Vulcanus](../activations/vernal-point-node-equals-vulcanus.md)
-  Source page `39`
 - [Vernal Point/Vulcanus = Node](../activations/vernal-point-vulcanus-equals-node.md)
-  Source page `54`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Node/Vulcanus = Vernal Point`: page `155`
-- `Vernal Point/Node = Vulcanus`: page `39`
-- `Vernal Point/Vulcanus = Node`: page `54`
+- `Node/Vulcanus = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `155`
+- `Node/Vulcanus = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `236`
+- `Vernal Point/Node = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `39`
+- `Vernal Point/Node = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `27`
+- `Vernal Point/Vulcanus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `54`
+- `Vernal Point/Vulcanus = Node`: Udo Rudolph - ABC for Planetary Pictures, page `56`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Node/Vulcanus = Vernal Point`: General powerful connections. Strongly connected with public. To cause excitement in public.
+- `Vernal Point/Node = Vulcanus`: This formula emphasizes influential connections and a mighty connections between many people.
+- `Vernal Point/Vulcanus = Node`: This formula emphasizes influential connections in general and associated with violent acts or actions.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Node](../factors/node.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

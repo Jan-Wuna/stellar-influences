@@ -3,7 +3,7 @@ title: Mars/Hades = Saturn
 page_type: activation
 slug: mars-hades-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Saturn
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Hades`
-- Source page: `198`
 #### Witte Entry
 
 Activities conducted at a loss. Work without pay. Death by murder or suicide, or by crushing.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Activities conducted at a loss. Work without pay. Death by murder or suicide, or by crushing.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Burdening work in need, difficult work problems, difficult separation actions, danger in hard actions, grief due to loss of work, problems due to work shortage, painful work service, and losses due to criminal acts
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Hades = Saturn`: exhausting effort with little return, severe blockage, and a grim field where action narrows toward fatality rather than recovery.
 
 ## Links
 
@@ -61,3 +55,5 @@ Activities conducted at a loss. Work without pay. Death by murder or suicide, or
 - [Hades](../factors/hades.md)
 - [Saturn](../factors/saturn.md)
 - [Mars/Hades](../axes/mars-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

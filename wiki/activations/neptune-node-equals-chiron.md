@@ -29,34 +29,10 @@ updated_at: 2026-04-21
 - Axis page: [Neptune/Node](../axes/neptune-node.md)
 - Triad hub: [Chiron Neptune Node](../triads/chiron-neptune-node.md)
 
-## Source Entries
-
-### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
-
-- Source heading: `Planets activating the Neptune/Node midpoint`
-- Source page: `111`
-- Activator: `Chiron`
-
-#### Sandbach Entry
-
-- No extractable activation entry text is available in the current PDF text for this expected Sandbach orientation.
-
-## Comparative Schema
-
-- core meaning: no extractable activation entry text is currently available from the Sandbach PDF for this expected orientation.
-- psychology: no source-backed Sandbach wording is available to classify without inventing doctrine.
-- body/health: no source-backed Sandbach wording is available to classify without inventing doctrine.
-- social/relationship: no source-backed Sandbach wording is available to classify without inventing doctrine.
-- events/manifestations: this structural placeholder marks a canonically expected orientation whose Sandbach entry is not extractable from the current PDF text.
-- conflicts/notes: this structural placeholder preserves the canonical orientation slot without inventing doctrine.
-
-## Contradictions
-
-- No source-backed activation text is currently extractable for this Sandbach orientation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Node = Chiron` has no source-bearing activation paragraph currently ingested on this page; treat it as an orientation placeholder rather than interpretive doctrine.
 
 ## Links
 

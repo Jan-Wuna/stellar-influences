@@ -3,7 +3,7 @@ title: Jupiter/Cupido = Node
 page_type: activation
 slug: jupiter-cupido-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Node
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Cupido`
-- Source page: `211`
 #### Witte Entry
 
 To close an acquaintance that leads to happy marriage. Connections with good corporations. Contact with associations in judicial or financial matters.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To close an acquaintance that leads to happy marriage. Connections with good corporations. Contact with associations in judicial or financial matters.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful Community relations, successful links with the arts, joy over joint meetings, joint money contacts, legal relations of a community, and links with the financial community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Cupido = Node`: communal happiness forming through networks and introductions. It favors beneficial acquaintances that open the way to partnership, institutional support, or prosperous group involvement.
 
 ## Links
 
@@ -61,3 +55,5 @@ To close an acquaintance that leads to happy marriage. Connections with good cor
 - [Cupido](../factors/cupido.md)
 - [Node](../factors/node.md)
 - [Jupiter/Cupido](../axes/jupiter-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Venus Node Vulcanus
 page_type: triad_hub
 slug: venus-node-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Node Vulcanus`
 - Astronomicon triad-set: `Q g §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Node/Vulcanus = Venus](../activations/node-vulcanus-equals-venus.md)
-  Source page `155`
 - [Venus/Node = Vulcanus](../activations/venus-node-equals-vulcanus.md)
-  Source page `142`
 - [Venus/Vulcanus = Node](../activations/venus-vulcanus-equals-node.md)
-  Source page `188`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Node/Vulcanus = Venus`: page `155`
-- `Venus/Node = Vulcanus`: page `142`
-- `Venus/Vulcanus = Node`: page `188`
+- `Node/Vulcanus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `155`
+- `Node/Vulcanus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `236`
+- `Venus/Node = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `142`
+- `Venus/Node = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `211`
+- `Venus/Vulcanus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `188`
+- `Venus/Vulcanus = Node`: Udo Rudolph - ABC for Planetary Pictures, page `294`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Node/Vulcanus = Venus`: To do favors, charitable also.
+- `Venus/Node = Vulcanus`: longing for harmony with a soul equally attuned.
+- `Venus/Vulcanus = Node`: a union resulting from or caused by a great longing or passion.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Node](../factors/node.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

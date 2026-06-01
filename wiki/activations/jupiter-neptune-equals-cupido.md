@@ -3,7 +3,7 @@ title: Jupiter/Neptune = Cupido
 page_type: activation
 slug: jupiter-neptune-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Neptune
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Neptune`
-- Source page: `209`
 #### Witte Entry
 
 Contented married life in poor circumstances. Feeling of happiness or imagined happiness of associates.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Contented married life in poor circumstances. Feeling of happiness or imagined happiness of associates.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful development of metaphysics, exchange of results, pleasure of developments in the air, uncertainty due to changes in the environment, anticipated change in water, uncertain development of success, and growing money weakness
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Neptune = Cupido`: idealism seeking shelter in family or community even when material life is weak. It can show warm togetherness, but also group happiness that depends partly on fantasy or emotional projection.
 
 ## Links
 
@@ -61,3 +55,5 @@ Contented married life in poor circumstances. Feeling of happiness or imagined h
 - [Neptune](../factors/neptune.md)
 - [Cupido](../factors/cupido.md)
 - [Jupiter/Neptune](../axes/jupiter-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

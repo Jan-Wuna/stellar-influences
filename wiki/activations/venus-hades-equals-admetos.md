@@ -3,7 +3,7 @@ title: Venus/Hades = Admetos
 page_type: activation
 slug: venus-hades-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Hades
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Hades`
-- Source page: `183`
 #### Witte Entry
 
 Lack of servants. None or very few fellow workmen or colleagues.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Lack of servants. None or very few fellow workmen or colleagues.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked love service, depression due to lack of love, limitations due to hidden love, restricted peace service, solid harmony in old age, grilndlicher V insists on love, deepening into old kiss, and subordinate love service
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Hades = Admetos`: lack of servants.
+- Practical expression: blocked love service, depression due to lack of love, limitations due to hidden love, restricted peace service, and solid harmony in old age.
 
 ## Links
 
@@ -61,3 +56,5 @@ Lack of servants. None or very few fellow workmen or colleagues.
 - [Hades](../factors/hades.md)
 - [Admetos](../factors/admetos.md)
 - [Venus/Hades](../axes/venus-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

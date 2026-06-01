@@ -3,7 +3,7 @@ title: Saturn/Cupido = Jupiter
 page_type: activation
 slug: saturn-cupido-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Saturn
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Cupido`
-- Source page: `224`
 #### Witte Entry
 
 To refuse to join, which proves later to have been very fortunate. To luckily quit one organization to join another. Divorce associated with good fortune.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To refuse to join, which proves later to have been very fortunate. To luckily quit one organization to join another. Divorce associated with good fortune.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Tasks of a financial community, success by separation from of a community, success by common tasks, successful concentration on the whole, financial losses of a community, and difficulties by a legal community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Cupido = Jupiter`: to refuse to join, which proves later to have been very fortunate.
+- Practical expression: tasks of a financial community, success by separation from of a community, success by common tasks, successful concentration on the whole, and financial losses of a community.
 
 ## Links
 
@@ -61,3 +56,5 @@ To refuse to join, which proves later to have been very fortunate. To luckily qu
 - [Cupido](../factors/cupido.md)
 - [Jupiter](../factors/jupiter.md)
 - [Saturn/Cupido](../axes/saturn-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Mars/Saturn = Zeus
 page_type: activation
 slug: mars-saturn-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Saturn
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Saturn
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Saturn`
-- Source page: `193`
 #### Witte Entry
 
 Quarrels and grave enmities which in most cases are never forgotten. Death through fire-arms, fire, assassination.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Quarrels and grave enmities which in most cases are never forgotten. Death through fire-arms, fire, assassination.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful patience work, designing work tasks, work achievements in old age, beginning trade losses, serious procreation will, patient training activity, concentration on performance work, and creative concentration on work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Saturn = Zeus` weaponizes hostility so that enmity becomes lasting, violent, and hard to extinguish.
+- Chart expression: bitter quarrels, grave hostilities never forgotten, and death through firearms, fire, assassination, or other directed destructive force.
 
 ## Links
 
@@ -61,3 +56,5 @@ Quarrels and grave enmities which in most cases are never forgotten. Death throu
 - [Saturn](../factors/saturn.md)
 - [Zeus](../factors/zeus.md)
 - [Mars/Saturn](../axes/mars-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

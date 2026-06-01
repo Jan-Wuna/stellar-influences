@@ -3,7 +3,7 @@ title: Vernal Point Uranus Vulcanus
 page_type: triad_hub
 slug: vernal-point-uranus-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Uranus
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Uranus Vulcanus`
 - Astronomicon triad-set: `VP X §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Uranus/Vulcanus = Vernal Point](../activations/uranus-vulcanus-equals-vernal-point.md)
-  Source page `242`
 - [Vernal Point/Uranus = Vulcanus](../activations/vernal-point-uranus-equals-vulcanus.md)
-  Source page `45`
 - [Vernal Point/Vulcanus = Uranus](../activations/vernal-point-vulcanus-equals-uranus.md)
-  Source page `54`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Uranus/Vulcanus = Vernal Point`: page `242`
-- `Vernal Point/Uranus = Vulcanus`: page `45`
-- `Vernal Point/Vulcanus = Uranus`: page `54`
+- `Uranus/Vulcanus = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `242`
+- `Uranus/Vulcanus = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `386`
+- `Vernal Point/Uranus = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `45`
+- `Vernal Point/Uranus = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `39`
+- `Vernal Point/Vulcanus = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `54`
+- `Vernal Point/Vulcanus = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `57`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Vernal Point/Uranus = Vulcanus`: This formula emphasizes suddenly appearing force and electrical energies.
+- `Vernal Point/Vulcanus = Uranus`: This formula emphasizes a suddenly appearing force, explosive power, and combustion in a motor.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Uranus](../factors/uranus.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

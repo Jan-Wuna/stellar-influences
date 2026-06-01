@@ -3,7 +3,7 @@ title: Vernal Point/Zeus = Admetos
 page_type: activation
 slug: vernal-point-zeus-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Zeus
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Zeus`
-- Source page: `50`
 #### Witte Entry
 
 A difficult problem is attacked. Eruption of the earth. Earthquake.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A difficult problem is attacked. Eruption of the earth. Earthquake.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Endurance of the public Fauding, blocked public Fauding, Fire limitation in the public, grim efforts in public life, strengthening public goals, public performance restriction, and stabilization of the public Fauding
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Zeus = Admetos`: a difficult problem is attacked, eruption of the earth, and earthquake.
+- Practical expression: endurance of the public Fauding, blocked public Fauding, fire limitation in the public, grim efforts in public life, and strengthening public goals.
 
 ## Links
 
@@ -61,3 +56,5 @@ A difficult problem is attacked. Eruption of the earth. Earthquake.
 - [Zeus](../factors/zeus.md)
 - [Admetos](../factors/admetos.md)
 - [Vernal Point/Zeus](../axes/vernal-point-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Apollon/Admetos = Poseidon
 page_type: activation
 slug: apollon-admetos-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Apollon
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Apollon
   - Admetos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Apollon + Admetos`
-- Source page: `306`
 #### Witte Entry
 
 To feel safe at home through outlook on life. Contentment through being in high minded company, with people of similar destiny and outlook on life.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To feel safe at home through outlook on life. Contentment through being in high minded company, with people of similar destiny and outlook on life.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked mind science, restricted spiritual freedom, successful spiritual origination, grim spiritual experiences, cultural success through perseverance, strengthening of success by Yemunft, procreation of spiritual knowledge, and deepening truth knowledge
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Admetos = Poseidon`: inward security through worldview and peace among people of similar outlook or destiny. Main caution: serene enclosure: elevated company and ideas can become a comfort zone that narrows living contact with the wider world.
 
 ## Links
 
@@ -61,3 +55,5 @@ To feel safe at home through outlook on life. Contentment through being in high 
 - [Admetos](../factors/admetos.md)
 - [Poseidon](../factors/poseidon.md)
 - [Apollon/Admetos](../axes/apollon-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

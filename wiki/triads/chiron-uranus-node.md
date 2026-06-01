@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Chiron Uranus Node`
 - Astronomicon triad-set: `Chiron X g`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Chiron/Uranus = Node`: John, page `96`
 - `Uranus/Node = Chiron`: John, page `106`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Node = Uranus`: unconventional connection, startling openings, and freedom in evolutionary process. Main caution: instability or mistaking novelty for depth.
+- `Chiron/Uranus = Node`: liberating connection, belonging through authenticity, and healing of isolation through right company. Main caution: seeking difference for identity's sake rather than for genuine truth.
+- `Uranus/Node = Chiron`: Your vibration helps others to free themselves from the past as well as to see the past in a new way. You also help others to be more open when they connect with others, and to seek connections that fulfill their own unique needs.
 
 ## Links
 

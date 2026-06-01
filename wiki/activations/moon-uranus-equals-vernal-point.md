@@ -3,7 +3,7 @@ title: Moon/Uranus = Vernal Point
 page_type: activation
 slug: moon-uranus-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Moon
   - Uranus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Uranus`
-- Source page: `127`
 #### Witte Entry
 
 General tension (excitement). Eventful hours. To be surprised. Uproar, rebellion of the people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: General tension (excitement). Eventful hours. To be surprised. Uproar, rebellion of the people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+excited women in public, eventful hours in public life, excited emotional natures in public, women's reform in public, women's impulses in public life, and restless people in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Uranus = Vernal Point`: General tension (excitement). Eventful hours. To be surprised. Uproar, rebellion of the people.
+- Practical focus: externalizes `Moon/Uranus` into general surprise, public rebellion, and eventful collective hours. It shows emotional tension becoming visible in the common field, where unrest is shared, public, and hard to ignore.
+- Practical expression: excited women in public, eventful hours in public life, excited emotional natures in public, women's reform in public, and women's impulses in public life.
 
 ## Links
 
@@ -61,3 +57,5 @@ General tension (excitement). Eventful hours. To be surprised. Uproar, rebellion
 - [Uranus](../factors/uranus.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Moon/Uranus](../axes/moon-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

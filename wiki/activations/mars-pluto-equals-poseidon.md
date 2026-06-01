@@ -3,7 +3,7 @@ title: Mars/Pluto = Poseidon
 page_type: activation
 slug: mars-pluto-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Pluto
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Pluto`
-- Source page: `196`
 #### Witte Entry
 
 Mental planning. Mental preliminary work. Mental efforts which are a moral obligation and that one is compelled to perform.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mental planning. Mental preliminary work. Mental efforts which are a moral obligation and that one is compelled to perform.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Creating the development of truth, developing cognition activity, developing clear evolutionary impulses, developing spiritual force, developing an idea, developing spiritual development work, developing cultural work, and changing labors
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Pluto = Poseidon` gives planning a mental, moral, and intellectually obligatory character.
+- Chart expression: conceptual groundwork, moral or intellectual duty in planning, and sustained mental effort compelled by principle or higher responsibility.
 
 ## Links
 
@@ -61,3 +56,5 @@ Mental planning. Mental preliminary work. Mental efforts which are a moral oblig
 - [Pluto](../factors/pluto.md)
 - [Poseidon](../factors/poseidon.md)
 - [Mars/Pluto](../axes/mars-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Moon/Zeus = MC
 page_type: activation
 slug: moon-zeus-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - MC
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Zeus`
-- Source page: `132`
 #### Witte Entry
 
 Fiery disposition of the mind. Creative talent. Disciplined behavior. To utilize the time for creative work. Moment of conception.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Fiery disposition of the mind. Creative talent. Disciplined behavior. To utilize the time for creative work. Moment of conception.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+efforts of my ensouled woman, ensouled leadership of a people, leadership of my woman, achievements of my woman, leadership of my people, my creative emotional nature, my fiery woman, creative soul of the woman, and goals of my woman
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Zeus = MC`: Fiery disposition of the mind. Creative talent. Disciplined behavior. To utilize the time for creative work. Moment of conception.
+- Practical expression: efforts of my ensouled woman, ensouled leadership of a people, leadership of my woman, achievements of my woman, and leadership of my people.
 
 ## Links
 
@@ -61,3 +56,5 @@ Fiery disposition of the mind. Creative talent. Disciplined behavior. To utilize
 - [Zeus](../factors/zeus.md)
 - [MC](../factors/mc.md)
 - [Moon/Zeus](../axes/moon-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

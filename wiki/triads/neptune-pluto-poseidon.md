@@ -3,7 +3,7 @@ title: Neptune Pluto Poseidon
 page_type: triad_hub
 slug: neptune-pluto-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Neptune Pluto Poseidon`
 - Astronomicon triad-set: `Y Z ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Neptune/Pluto = Poseidon](../activations/neptune-pluto-equals-poseidon.md)
-  Source page `246`
 - [Neptune/Poseidon = Pluto](../activations/neptune-poseidon-equals-pluto.md)
-  Source page `254`
 - [Pluto/Poseidon = Neptune](../activations/pluto-poseidon-equals-neptune.md)
-  Source page `264`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Neptune/Pluto = Poseidon`: page `246`
-- `Neptune/Poseidon = Pluto`: page `254`
-- `Pluto/Poseidon = Neptune`: page `264`
+- `Neptune/Pluto = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `246`
+- `Neptune/Pluto = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `391`
+- `Neptune/Poseidon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `254`
+- `Neptune/Poseidon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `407`
+- `Pluto/Poseidon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `264`
+- `Pluto/Poseidon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `423`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Neptune/Pluto = Poseidon`: This activation spiritualizes deep Neptunian-Plutonian change into quiet inner development, secret wisdom, and subtle ideological influence. It shows transformation working below the threshold of ordinary awareness, especially through suggestion, receptivity, and hidden shifts in worldview.
+- `Neptune/Poseidon = Pluto`: This activation transforms subtle belief through crisis, correction, and worldview reversal. It can mark a reforming or missionary impulse in which truth is pursued through error, disillusionment, and deep changes in conviction.
+- `Pluto/Poseidon = Neptune`: This activation emphasizes the slow unnoticeable beginning of a highly mental transformation or development; Creations of the imagination.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [Pluto](../factors/pluto.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Venus Mars`
 - Astronomicon triad-set: `R Q U`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,19 +40,27 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Moon/Mars = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `124`
+- `Moon/Mars = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `180`
 - `Moon/Mars = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `120`
 - `Moon/Mars = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `28`
+- `Moon/Mars = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `112`
 - `Moon/Venus = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `123`
+- `Moon/Venus = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `178`
 - `Moon/Venus = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `117`
 - `Moon/Venus = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `27`
+- `Moon/Venus = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `108`
 - `Venus/Mars = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `176`
+- `Venus/Mars = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `270`
 - `Venus/Mars = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `176`
 - `Venus/Mars = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `55`
+- `Venus/Mars = Moon`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `188`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Mars = Venus`: passionate warmth, with emotional force shaped by attraction, desire for closeness, and the impulse to protect or pursue what feels loved and pleasing.
+- `Moon/Venus = Mars`: channels the tender, receptive love of the Moon/Venus axis through Mars, turning affection into desire, pursuit, and active protectiveness. It points to emotional warmth that wants to act, defend, and seek closeness in immediate, embodied ways.
+- `Venus/Mars = Moon`: passionate emotionality, with attraction and desire shaped by mood, attachment, nurture, and the instinctive need to merge feeling with action.
 
 ## Links
 
@@ -59,5 +68,7 @@ updated_at: 2026-04-22
 - [Venus](../factors/venus.md)
 - [Mars](../factors/mars.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

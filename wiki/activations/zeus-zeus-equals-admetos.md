@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Zeus + Zeus`
-- Source page: `288`
 #### Witte Entry
 
 Great and energetic activities. Energetic leadership. To assert oneself at all costs. The machine industry. Conflagrations. Warfare. Armament. The great commander-in-chief. To put oneself in the right light. To play the overlord. To lord it over others. Tremendous activity. Intervention of the authorities. Fire protection. Governmental fire insurance. Achieving a goal through competence.
 
-## Comparative Schema
-
-- core meaning: Great and energetic activities. Energetic leadership. To assert oneself at all costs. The machine industry. Conflagrations. Warfare. Armament. The great commander-in-chief. To put oneself in the right light. To play the overlord. To lord it over others. Tremendous activity. Intervention of the authorities. Fire protection. Governmental fire insurance. Achieving a goal through competence.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Zeus = Admetos`: Great and energetic activities. Energetic leadership. To assert oneself at all costs. The machine industry. Conflagrations. Warfare. Armament. The great commander-in-chief. To put oneself in the right light. To play the overlord. To lord it over others. Tremendous activity. Intervention of the authorities. Fire protection. Governmental fire insurance. Achieving a goal through competence.
 
 ## Links
 

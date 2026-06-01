@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Vulcanus + Vulcanus`
-- Source page: `313`
 #### Witte Entry
 
 Great effort. Exercise. Mighty activity. Great power. Acts of violence. Mechanical energies. Unleash power. Energetic forces in action. Muscular strength. Working in the field of high energies.
 
-## Comparative Schema
-
-- core meaning: Great effort. Exercise. Mighty activity. Great power. Acts of violence. Mechanical energies. Unleash power. Energetic forces in action. Muscular strength. Working in the field of high energies.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vulcanus/Vulcanus = Mars`: Great effort. Exercise. Mighty activity. Great power. Acts of violence. Mechanical energies. Unleash power. Energetic forces in action. Muscular strength. Working in the field of high energies.
 
 ## Links
 

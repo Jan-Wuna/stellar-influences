@@ -3,7 +3,7 @@ title: Pluto/Hades = Mars
 page_type: activation
 slug: pluto-hades-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Pluto
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Hades`
-- Source page: `258`
 #### Witte Entry
 
 Corrupt and degenerate and devilish plans and manipulations.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Corrupt and degenerate and devilish plans and manipulations.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dangerous developmental impulses, poor developmental work, adverse change in work, adverse changes in work, abandoning developmental activity, developing power in old age, and growing criminal activity
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Hades = Mars`: bad aspects of work or activity; Work which gets nowhere; Fruitless activity; Work under bad conditions.
+- Practical expression: dangerous developmental impulses, poor developmental work, adverse change in work, adverse changes in work, and abandoning developmental activity.
 
 ## Links
 
@@ -61,3 +56,5 @@ Corrupt and degenerate and devilish plans and manipulations.
 - [Hades](../factors/hades.md)
 - [Mars](../factors/mars.md)
 - [Pluto/Hades](../axes/pluto-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

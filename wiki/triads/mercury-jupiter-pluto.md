@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Jupiter Pluto`
 - Astronomicon triad-set: `T V Z`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,18 +40,26 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Jupiter/Pluto = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `210`
+- `Jupiter/Pluto = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `330`
 - `Jupiter/Pluto = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `235`
 - `Jupiter/Pluto = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `82`
+- `Jupiter/Pluto = Mercury`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `268`
 - `Mercury/Jupiter = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `161`
+- `Mercury/Jupiter = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `245`
 - `Mercury/Jupiter = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `44`
+- `Mercury/Jupiter = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `156`
 - `Mercury/Pluto = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `165`
+- `Mercury/Pluto = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `252`
 - `Mercury/Pluto = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `164`
 - `Mercury/Pluto = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `50`
+- `Mercury/Pluto = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `172`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Pluto = Mercury`: persuasive big-picture thinking, deep strategic analysis, and communication aimed at influencing systems, groups, or collective opinion.
+- `Mercury/Jupiter = Pluto`: expansive intelligence under pressure, with communication shaped by depth, influence, and the will to move systems or beliefs decisively.
+- `Mercury/Pluto = Jupiter`: far-reaching intelligence, with research, insight, and persuasive power used to shape beliefs, opportunities, or large decisions.
 
 ## Links
 
@@ -58,5 +67,7 @@ updated_at: 2026-04-22
 - [Jupiter](../factors/jupiter.md)
 - [Pluto](../factors/pluto.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

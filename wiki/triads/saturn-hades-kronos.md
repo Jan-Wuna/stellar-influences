@@ -3,7 +3,7 @@ title: Saturn Hades Kronos
 page_type: triad_hub
 slug: saturn-hades-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Hades
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Hades Kronos`
 - Astronomicon triad-set: `W ¢ ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Kronos = Saturn](../activations/hades-kronos-equals-saturn.md)
-  Source page `279`
 - [Saturn/Hades = Kronos](../activations/saturn-hades-equals-kronos.md)
-  Source page `225`
 - [Saturn/Kronos = Hades](../activations/saturn-kronos-equals-hades.md)
-  Source page `227`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Kronos = Saturn`: page `279`
-- `Saturn/Hades = Kronos`: page `225`
-- `Saturn/Kronos = Hades`: page `227`
+- `Hades/Kronos = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `279`
+- `Hades/Kronos = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `441`
+- `Saturn/Hades = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `225`
+- `Saturn/Hades = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `357`
+- `Saturn/Kronos = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `227`
+- `Saturn/Kronos = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `361`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Kronos = Saturn`: losses from government mismanagement, broken promises from authority, and being deserted by the structures meant to protect.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Hades](../factors/hades.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

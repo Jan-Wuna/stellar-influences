@@ -3,10 +3,10 @@ title: Mercury/Node = Poseidon
 page_type: activation
 slug: mercury-node-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Mercury
+  - Node
   - Poseidon
 normalized_formula: Mercury/Node = Poseidon
 axis: Mercury/Node
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Node
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Mercury`
-- Source page: `141`
 #### Witte Entry
 
 Communion of ideas. Conversations and correspondence about mental or spiritual matters.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Communion of ideas. Conversations and correspondence about mental or spiritual matters.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Insightful youth connections, thought bindlings through ideas, mental connections in youth, clarity through news communication, cultural relations of the media, cultural meetings of the youth, and useful language in connections
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Node = Poseidon` spiritualizes the axis into communion of ideas.
+- Chart expression: conversations and correspondence about mental, spiritual, or philosophical matters, with communication becoming a means of shared illumination.
 
 ## Links
 
@@ -61,3 +56,5 @@ Communion of ideas. Conversations and correspondence about mental or spiritual m
 - [Node](../factors/node.md)
 - [Poseidon](../factors/poseidon.md)
 - [Mercury/Node](../axes/mercury-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

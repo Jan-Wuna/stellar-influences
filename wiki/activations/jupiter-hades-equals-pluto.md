@@ -3,7 +3,7 @@ title: Jupiter/Hades = Pluto
 page_type: activation
 slug: jupiter-hades-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Pluto
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Hades`
-- Source page: `212`
 #### Witte Entry
 
 To practice moderation. One has to live thriftily.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To practice moderation. One has to live thriftily.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful development from the past, difficult Rcchts development, developing joy in old age, developing pleasure in serving, dangerous money development, favorable development despite danger, and growing financial crime
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Hades = Pluto`: scarcity becoming transformative through pressure. It can show deliberate austerity, strategic thrift, and survival through strong control over expenditure.
 
 ## Links
 
@@ -61,3 +55,5 @@ To practice moderation. One has to live thriftily.
 - [Hades](../factors/hades.md)
 - [Pluto](../factors/pluto.md)
 - [Jupiter/Hades](../axes/jupiter-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

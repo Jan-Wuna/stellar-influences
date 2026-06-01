@@ -3,7 +3,7 @@ title: Vernal Point/Saturn = Poseidon
 page_type: activation
 slug: vernal-point-saturn-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Saturn
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Saturn
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Saturn`
-- Source page: `44`
 #### Witte Entry
 
 Public education. Educator.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Public education. Educator.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Distorted reason in public, idea loss in public life, clear public tasks, concentration on truth in public, culture problems in public, and problems with truth in public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Saturn = Poseidon`: public education and educator.
+- Practical expression: distorted reason in public, idea loss in public life, clear public tasks, concentration on truth in public, and culture problems in public.
 
 ## Links
 
@@ -61,3 +56,5 @@ Public education. Educator.
 - [Saturn](../factors/saturn.md)
 - [Poseidon](../factors/poseidon.md)
 - [Vernal Point/Saturn](../axes/vernal-point-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

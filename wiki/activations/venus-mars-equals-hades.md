@@ -3,7 +3,7 @@ title: Venus/Mars = Hades
 page_type: activation
 slug: venus-mars-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Mars
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Mars
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Mars`
-- Source page: `176`
 #### Witte Entry
 
 Illicit intercourse. Misfortune and unpleasantness with or through intimate acquaintances or relatives. Intemperance, gluttony.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Illicit intercourse. Misfortune and unpleasantness with or through intimate acquaintances or relatives. Intemperance, gluttony.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dangerous love activity, dangerous peace compensation, artificial act from the past, love impulses are spared, criminal work of a community, lack of love wills, disadvantages of love activity, and lack of harmony will
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Mars = Hades`: illicit intercourse.
+- Practical expression: dangerous love activity, dangerous peace compensation, artificial act from the past, love impulses are spared, and criminal work of a community.
 
 ## Links
 
@@ -61,3 +56,5 @@ Illicit intercourse. Misfortune and unpleasantness with or through intimate acqu
 - [Mars](../factors/mars.md)
 - [Hades](../factors/hades.md)
 - [Venus/Mars](../axes/venus-mars.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

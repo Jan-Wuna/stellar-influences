@@ -3,7 +3,7 @@ title: Neptune/Admetos = Mars
 page_type: activation
 slug: neptune-admetos-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Neptune
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Admetos`
-- Source page: `252`
 #### Witte Entry
 
 To work for changes and improvements, for better living conditions. Changes of conditions in relation to work. To work under changed conditions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To work for changes and improvements, for better living conditions. Changes of conditions in relation to work. To work under changed conditions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Actions to autlose blockades, work in deep water, work on the water circuit, unravelling of a work strike, limited work in the air, replacement by restricting work, treating circulatory weakness, and resistance to foreign work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Admetos = Mars`: To work for changes and improvements, for better living conditions. Changes of conditions in relation to work. To work under changed conditions.
+- Practical focus: `Neptune/Admetos` is energized through work undertaken to improve difficult conditions. It makes adaptation active and labor-based, turning decay or shortage into something that can be met through effort, reorganization, and practical struggle.
+- Practical expression: actions to autlose blockades, work in deep water, work on the water circuit, unravelling of a work strike, and limited work in the air.
 
 ## Links
 
@@ -61,3 +57,5 @@ To work for changes and improvements, for better living conditions. Changes of c
 - [Admetos](../factors/admetos.md)
 - [Mars](../factors/mars.md)
 - [Neptune/Admetos](../axes/neptune-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

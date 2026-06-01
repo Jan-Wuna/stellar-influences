@@ -3,7 +3,7 @@ title: MC/Cupido = Hades
 page_type: activation
 slug: mc-cupido-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Cupido
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Cupido`
-- Source page: `70`
 #### Witte Entry
 
 To collect old things or art objects. The own sense of art is directed towards antiquity. To gather or hoard supplies. A liking for vulgar company, music or arts.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To collect old things or art objects. The own sense of art is directed towards antiquity. To gather or hoard supplies. A liking for vulgar company, music or arts.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Inward distress of a community, I have in the community, my fellowship in the community, my sorrow in the community, my pleasure from the past, disadvantages of a soul community, and mental distress in of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Cupido = Hades` lowers the axis into antique taste, hoarding, and degraded or vulgar company.
+- Chart expression: communal or artistic life drawn toward old things, stored supplies, antiquity, or inferior circles, with group taste taking on a coarse or decayed quality.
 
 ## Links
 
@@ -61,3 +56,5 @@ To collect old things or art objects. The own sense of art is directed towards a
 - [Cupido](../factors/cupido.md)
 - [Hades](../factors/hades.md)
 - [MC/Cupido](../axes/mc-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

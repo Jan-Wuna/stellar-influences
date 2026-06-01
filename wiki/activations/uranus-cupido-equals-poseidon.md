@@ -3,7 +3,7 @@ title: Uranus/Cupido = Poseidon
 page_type: activation
 slug: uranus-cupido-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Cupido
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Cupido`
-- Source page: `236`
 #### Witte Entry
 
 Founding, establishing or entering an association which pursues its goal in philosophy, propaganda or culture.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Founding, establishing or entering an association which pursues its goal in philosophy, propaganda or culture.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dynamic cultural community, spiritual emancipation of a community, common cultural event, clarity in a spiritual community, new spiritual skill, Surprising truth for of a community, and powerful impulses to the whole
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Cupido = Poseidon`: Founding, establishing or entering an association which pursues its goal in philosophy, propaganda or culture.
+- Practical expression: dynamic cultural community, spiritual emancipation of a community, common cultural event, clarity in a spiritual community, and new spiritual skill.
 
 ## Links
 
@@ -61,3 +56,5 @@ Founding, establishing or entering an association which pursues its goal in phil
 - [Cupido](../factors/cupido.md)
 - [Poseidon](../factors/poseidon.md)
 - [Uranus/Cupido](../axes/uranus-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

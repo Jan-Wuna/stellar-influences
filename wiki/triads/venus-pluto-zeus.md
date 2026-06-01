@@ -3,7 +3,7 @@ title: Venus Pluto Zeus
 page_type: triad_hub
 slug: venus-pluto-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Pluto Zeus`
 - Astronomicon triad-set: `Q Z £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Pluto/Zeus = Venus](../activations/pluto-zeus-equals-venus.md)
-  Source page `259`
 - [Venus/Pluto = Zeus](../activations/venus-pluto-equals-zeus.md)
-  Source page `181`
 - [Venus/Zeus = Pluto](../activations/venus-zeus-equals-pluto.md)
-  Source page `184`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Pluto/Zeus = Venus`: page `259`
-- `Venus/Pluto = Zeus`: page `181`
-- `Venus/Zeus = Pluto`: page `184`
+- `Pluto/Zeus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `259`
+- `Pluto/Zeus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `412`
+- `Venus/Pluto = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `181`
+- `Venus/Pluto = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `281`
+- `Venus/Zeus = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `184`
+- `Venus/Zeus = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `287`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Pluto/Zeus = Venus`: This activation emphasizes marital duties; Duties of a mother; The pleasant duty; Female housework.
+- `Venus/Pluto = Zeus`: good progress of current matters.
+- `Venus/Zeus = Pluto`: increased activities.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Pluto](../factors/pluto.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

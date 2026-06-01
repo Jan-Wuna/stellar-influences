@@ -3,7 +3,7 @@ title: Jupiter/Poseidon = Neptune
 page_type: activation
 slug: jupiter-poseidon-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Neptune
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Poseidon`
-- Source page: `218`
 #### Witte Entry
 
 Delicacy for right and justice. A mind that is enough developed to sense the higher things. To have a sentiment for or to forefeel the metaphysical truth.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Delicacy for right and justice. A mind that is enough developed to sense the higher things. To have a sentiment for or to forefeel the metaphysical truth.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exchange of law and reason, successful ideas in the air, successful right idea, foreign right culture, joy over clear water, spiritual happiness through metaphysics, weak cultural success, and advantage through clear air
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Poseidon = Neptune`: judgment becoming intuitive and spiritually sensitive without losing its ethical center. It favors refined conscience and subtle perception of truth.
 
 ## Links
 
@@ -61,3 +55,5 @@ Delicacy for right and justice. A mind that is enough developed to sense the hig
 - [Poseidon](../factors/poseidon.md)
 - [Neptune](../factors/neptune.md)
 - [Jupiter/Poseidon](../axes/jupiter-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

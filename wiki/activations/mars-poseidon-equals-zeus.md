@@ -3,7 +3,7 @@ title: Mars/Poseidon = Zeus
 page_type: activation
 slug: mars-poseidon-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Zeus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Poseidon`
-- Source page: `204`
 #### Witte Entry
 
 Other people make up your mind or you make up their mind. Leading in an ideological battle, to put through a conviction, a belief or a moral idea. To impress through one’s example or as a model.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Other people make up your mind or you make up their mind. Leading in an ideological battle, to put through a conviction, a belief or a moral idea. To impress through one’s example or as a model.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful mental activity, fiery mental activity, leading mental activity, spiritual leadership work, clear procreation will, creating clarity through creativity, cultural work performance, cultural leadership work, and creative culture creation
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Poseidon = Zeus` weaponizes conviction so that ideas are imposed, defended, and fought for.
+- Chart expression: influencing minds, leading ideological battles, pushing belief or moral vision through force of example or persuasion, and using directed will in the service of conviction.
 
 ## Links
 
@@ -61,3 +56,5 @@ Other people make up your mind or you make up their mind. Leading in an ideologi
 - [Poseidon](../factors/poseidon.md)
 - [Zeus](../factors/zeus.md)
 - [Mars/Poseidon](../axes/mars-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Moon/Zeus = Vulcanus
 page_type: activation
 slug: moon-zeus-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Zeus
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Zeus`
-- Source page: `132`
 #### Witte Entry
 
 Every minute taken up. To exert oneself under expenditure of all one’s force. Record accomplishment.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Every minute taken up. To exert oneself under expenditure of all one’s force. Record accomplishment.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Women's leadership influence, women's benevolence, women's tremendous efforts, a woman's power strife, the influence of a creative gemtite, energetic women's leadership, the power of a leading woman, powerful people's Ftihrer, and the strength of a felicitous people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Zeus = Vulcanus`: Every minute taken up. To exert oneself under expenditure of all one’s force. Record accomplishment.
+- Practical expression: women's leadership influence, women's benevolence, women's tremendous efforts, a woman's power strife, and the influence of a creative gemtite.
 
 ## Links
 
@@ -61,3 +56,5 @@ Every minute taken up. To exert oneself under expenditure of all one’s force. 
 - [Zeus](../factors/zeus.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Moon/Zeus](../axes/moon-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

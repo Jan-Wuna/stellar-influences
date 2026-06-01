@@ -3,7 +3,7 @@ title: Saturn Pluto Poseidon
 page_type: triad_hub
 slug: saturn-pluto-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Pluto
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Pluto Poseidon`
 - Astronomicon triad-set: `W Z ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Pluto/Poseidon = Saturn](../activations/pluto-poseidon-equals-saturn.md)
-  Source page `264`
 - [Saturn/Pluto = Poseidon](../activations/saturn-pluto-equals-poseidon.md)
-  Source page `223`
 - [Saturn/Poseidon = Pluto](../activations/saturn-poseidon-equals-pluto.md)
-  Source page `231`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Pluto/Poseidon = Saturn`: page `264`
-- `Saturn/Pluto = Poseidon`: page `223`
-- `Saturn/Poseidon = Pluto`: page `231`
+- `Pluto/Poseidon = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `264`
+- `Pluto/Poseidon = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `423`
+- `Saturn/Pluto = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `223`
+- `Saturn/Pluto = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `353`
+- `Saturn/Poseidon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `231`
+- `Saturn/Poseidon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `369`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Pluto/Poseidon = Saturn`: This activation emphasizes termination of an education; To interrupt the mental growth; Not able to keep up the pace in mental development with others.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Pluto](../factors/pluto.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

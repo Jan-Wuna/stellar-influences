@@ -3,7 +3,7 @@ title: Pluto/Vulcanus = Jupiter
 page_type: activation
 slug: pluto-vulcanus-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Pluto
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Vulcanus`
-- Source page: `263`
 #### Witte Entry
 
 To experience a great pleasant change.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To experience a great pleasant change.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful force development, successful power change, developing financial force, joy over growing influence, power development of money, beneficial power change, beneficial energy developments, growing financial force, and growing legal influence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Vulcanus = Jupiter`: to experience a great pleasant change.
+- Practical expression: successful force development, successful power change, developing financial force, and power development of money.
 
 ## Links
 
@@ -61,3 +56,5 @@ To experience a great pleasant change.
 - [Vulcanus](../factors/vulcanus.md)
 - [Jupiter](../factors/jupiter.md)
 - [Pluto/Vulcanus](../axes/pluto-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

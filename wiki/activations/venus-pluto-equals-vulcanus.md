@@ -3,7 +3,7 @@ title: Venus/Pluto = Vulcanus
 page_type: activation
 slug: venus-pluto-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Pluto
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Pluto`
-- Source page: `181`
 #### Witte Entry
 
 To be very struck with an occurrence or experience. Great sympathy. Mighty longing for love. A powerful affection leads to politeness and consideration.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be very struck with an occurrence or experience. Great sympathy. Mighty longing for love. A powerful affection leads to politeness and consideration.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+unfolding of love power, peaceful power development, developing harmonious force, power change desire, preference for filr energy transfonnation, transfonnation of loveEnergy, growing artificial influence, growing peace power, and growing love power
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Pluto = Vulcanus`: to be very struck with an occurrence or experience.
+- Practical expression: unfolding of love power, peaceful power development, developing harmonious force, and power change desire.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be very struck with an occurrence or experience. Great sympathy. Mighty longi
 - [Pluto](../factors/pluto.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Venus/Pluto](../axes/venus-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

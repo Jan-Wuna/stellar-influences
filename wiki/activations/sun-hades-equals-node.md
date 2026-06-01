@@ -3,7 +3,7 @@ title: Sun/Hades = Node
 page_type: activation
 slug: sun-hades-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Node
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Hades`
-- Source page: `112`
 #### Witte Entry
 
 Sorrowful, dubious connections. Pursued by misfortune. Acquaintance with criminals.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sorrowful, dubious connections. Pursued by misfortune. Acquaintance with criminals.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Meeting with service personnel, relations with criminal persons, associated with people in need, disadvantages in a personal connection, connections of a person to the past, and hidden connection to a man
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Hades = Node`: sickness in connection or unions and poor associations.
+- Practical expression: meeting with service personnel, relations with criminal persons, associated with people in need, disadvantages in a personal connection, and connections of a person to the past.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sorrowful, dubious connections. Pursued by misfortune. Acquaintance with crimina
 - [Hades](../factors/hades.md)
 - [Node](../factors/node.md)
 - [Sun/Hades](../axes/sun-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Mars/Saturn = Cupido
 page_type: activation
 slug: mars-saturn-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Saturn
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Saturn
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Saturn`
-- Source page: `193`
 #### Witte Entry
 
 Quarrel in a community. Interruption or an end of activities. Separation of married life, divorce. Death in the family. Death in the company of others.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Quarrel in a community. Interruption or an end of activities. Separation of married life, divorce. Death in the family. Death in the company of others.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+serious work community, disturbed trade community, shared work problems, shared activity in old age, painful activity of a community, cooperation involving loss, and separating actions of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Saturn = Cupido` brings strain and severance into communal, marital, or family life.
+- Chart expression: quarrels in groups, interruptions or endings of shared activity, divorce, death in the family, or separation experienced within close communal bonds.
 
 ## Links
 
@@ -61,3 +56,5 @@ Quarrel in a community. Interruption or an end of activities. Separation of marr
 - [Saturn](../factors/saturn.md)
 - [Cupido](../factors/cupido.md)
 - [Mars/Saturn](../axes/mars-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

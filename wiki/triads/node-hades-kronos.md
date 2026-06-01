@@ -3,7 +3,7 @@ title: Node Hades Kronos
 page_type: triad_hub
 slug: node-hades-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Node Hades Kronos`
 - Astronomicon triad-set: `g ¢ ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Kronos = Node](../activations/hades-kronos-equals-node.md)
-  Source page `279`
 - [Node/Hades = Kronos](../activations/node-hades-equals-kronos.md)
-  Source page `150`
 - [Node/Kronos = Hades](../activations/node-kronos-equals-hades.md)
-  Source page `152`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Kronos = Node`: page `279`
-- `Node/Hades = Kronos`: page `150`
-- `Node/Kronos = Hades`: page `152`
+- `Hades/Kronos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `279`
+- `Hades/Kronos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `440`
+- `Node/Hades = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `150`
+- `Node/Hades = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `227`
+- `Node/Kronos = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `152`
+- `Node/Kronos = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `231`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Kronos = Node`: witnessing or joining great crime, involvement in doubtful matters, espionage, being hired into dubious work, or contact with criminal investigation.
+- `Node/Hades = Kronos`: To make common cause with criminals or to avail oneself of criminal assistance. To partake in a conspiracy or plot.
+- `Node/Kronos = Hades`: Deplorable conditions in leading circles. Corruption. Sorrow or loss through connection with authorities. Connection with authorities on account of shameful actions, crimes.
 
 ## Links
 
 - [Node](../factors/node.md)
 - [Hades](../factors/hades.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

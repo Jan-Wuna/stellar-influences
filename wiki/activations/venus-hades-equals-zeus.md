@@ -3,7 +3,7 @@ title: Venus/Hades = Zeus
 page_type: activation
 slug: venus-hades-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Hades
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Hades`
-- Source page: `183`
 #### Witte Entry
 
 To enforce service or to be forced to serve. Births illegitimate or under severe circumstances.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To enforce service or to be forced to serve. Births illegitimate or under severe circumstances.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dangerous preference for fire, harmonious service, poor peace efforts, creative old arts, achievements from a harmonious past, renunciation of love witnesses, and preference for dangerous objectives
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Hades = Zeus`: to enforce service or to be forced to serve.
+- Practical expression: dangerous preference for fire, harmonious service, poor peace efforts, creative old arts, and achievements from a harmonious past.
 
 ## Links
 
@@ -61,3 +56,5 @@ To enforce service or to be forced to serve. Births illegitimate or under severe
 - [Hades](../factors/hades.md)
 - [Zeus](../factors/zeus.md)
 - [Venus/Hades](../axes/venus-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Mercury/Admetos = Mars
 page_type: activation
 slug: mercury-admetos-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Mars
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Admetos`
-- Source page: `171`
 #### Witte Entry
 
 To combat one’s own ungainliness. Being startled out of a resting state. From resting state into activity.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To combat one’s own ungainliness. Being startled out of a resting state. From resting state into activity.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Consolidation of youth work, blocked work in youth, restricted movementWork, restricted youth work, grilndliche work in the traffic, grilndliche media Aktiv, reports about work Streik, and Aktion in the Verkehrs Stau
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Admetos = Mars` jolts the axis out of stillness into effort and struggle.
+- Chart expression: fighting one's own inertia, being forced from rest into action, and concentrated thought that becomes active only after pressure, irritation, or abrupt provocation.
 
 ## Links
 
@@ -61,3 +56,5 @@ To combat one’s own ungainliness. Being startled out of a resting state. From 
 - [Admetos](../factors/admetos.md)
 - [Mars](../factors/mars.md)
 - [Mercury/Admetos](../axes/mercury-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

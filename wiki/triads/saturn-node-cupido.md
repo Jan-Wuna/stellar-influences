@@ -3,7 +3,7 @@ title: Saturn Node Cupido
 page_type: triad_hub
 slug: saturn-node-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Node
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Node Cupido`
 - Astronomicon triad-set: `W g ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Node/Cupido = Saturn](../activations/node-cupido-equals-saturn.md)
-  Source page `149`
 - [Saturn/Cupido = Node](../activations/saturn-cupido-equals-node.md)
-  Source page `224`
 - [Saturn/Node = Cupido](../activations/saturn-node-equals-cupido.md)
-  Source page `145`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Node/Cupido = Saturn`: page `149`
-- `Saturn/Cupido = Node`: page `224`
-- `Saturn/Node = Cupido`: page `145`
+- `Node/Cupido = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `149`
+- `Node/Cupido = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `225`
+- `Saturn/Cupido = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `224`
+- `Saturn/Cupido = Node`: Udo Rudolph - ABC for Planetary Pictures, page `354`
+- `Saturn/Node = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `145`
+- `Saturn/Node = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `217`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Node/Cupido = Saturn`: Dissolution of a betrothal. Breach of promise to marry. Loss in the family. Separation of a familiar or social connection.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Node](../factors/node.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

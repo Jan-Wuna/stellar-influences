@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Mercury Asc`
 - Astronomicon triad-set: `R T Asc`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,18 +40,26 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Mercury/Asc = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `83`
+- `Mercury/Asc = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `106`
 - `Mercury/Asc = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `170`
 - `Mercury/Asc = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `52`
+- `Mercury/Asc = Moon`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `180`
 - `Moon/Asc = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `81`
+- `Moon/Asc = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `102`
 - `Moon/Asc = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `39`
+- `Moon/Asc = Mercury`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `140`
 - `Moon/Mercury = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `122`
+- `Moon/Mercury = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `176`
 - `Moon/Mercury = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `115`
 - `Moon/Mercury = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `25`
+- `Moon/Mercury = Asc`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `104`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Asc = Moon`: emotionally colored conversation, instinctive social perception, and the search for personal contact or reassurance through talking things through.
+- `Moon/Asc = Mercury`: expressive feeling, with personality shaped by responsive speech, emotional thought, and quick exchange with the immediate environment.
+- `Moon/Mercury = Asc`: a responsive, expressive presence, with feeling and thought meeting directly in manner, speech, and moment-to-moment interaction.
 
 ## Links
 
@@ -58,5 +67,7 @@ updated_at: 2026-04-22
 - [Mercury](../factors/mercury.md)
 - [Asc](../factors/asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

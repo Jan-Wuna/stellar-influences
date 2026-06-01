@@ -3,7 +3,7 @@ title: Cupido/Poseidon = Admetos
 page_type: activation
 slug: cupido-poseidon-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Cupido
   - Admetos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Poseidon`
-- Source page: `274`
 #### Witte Entry
 
 Knowledge through the faith. To quit a spiritual faith. To stay outside of the faith. No inclinations to join, disadvantages and oppression tnrough it.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Knowledge through the faith. To quit a spiritual faith. To stay outside of the faith. No inclinations to join, disadvantages and oppression tnrough it.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Community of culture, consolidation of a spiritual community, community of spirit, common deepening of the truth, shared ideas of a community, and deepening of the arts and culture
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Poseidon = Admetos`: spiritual or ideological belonging becoming restrictive, estranging, or closed off, whether by deliberate withdrawal or by exclusion from the group. Main caution: mistaking isolation for purity or accepting oppression as doctrine.
 
 ## Links
 
@@ -61,3 +55,5 @@ Knowledge through the faith. To quit a spiritual faith. To stay outside of the f
 - [Poseidon](../factors/poseidon.md)
 - [Admetos](../factors/admetos.md)
 - [Cupido/Poseidon](../axes/cupido-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

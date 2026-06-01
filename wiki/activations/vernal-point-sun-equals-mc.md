@@ -3,7 +3,7 @@ title: Vernal Point/Sun = MC
 page_type: activation
 slug: vernal-point-sun-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Sun
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Sun
   - MC
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Sun`
-- Source page: `37`
 #### Witte Entry
 
 Bodily contact with the general public, or in the moment. Personal connection with things and matters: of the daily life or at a moment.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Bodily contact with the general public, or in the moment. Personal connection with things and matters: of the daily life or at a moment.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+My husband's world, my person's public life, and my center's public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Sun = MC`: bodily contact with the general public, or in the moment and personal connection with things and matters: of the daily life or at a moment.
+- Practical expression: my husband's world, my person's public life, and my center's public life.
 
 ## Links
 
@@ -61,3 +56,5 @@ Bodily contact with the general public, or in the moment. Personal connection wi
 - [Sun](../factors/sun.md)
 - [MC](../factors/mc.md)
 - [Vernal Point/Sun](../axes/vernal-point-sun.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

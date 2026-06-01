@@ -19,8 +19,10 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -34,38 +36,32 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Jupiter`
-- Source page: `161`
 #### Witte Entry
 
 Imaginative, fluent orator. To try to dissuade. To speculate. To speak incessantly, not to permit an interruption.
 
-### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Planets activating the Mercury/Jupiter midpoint`
-- Source page: `44`
-- Activator: `Neptune`
+#### ABC Entry
+
+Exchangeable financial language, success through foreign languages, successful youth in the air or in the water, talk about water money, news about gutc air, weak finances for traffic, and uncertainty about traffic law
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
 Too much thinking can cause confusion. A clever and expansive imagination. Oneâ€™s idealism causes one to reach out to a wealth of ideas. One feels an obligation to be generous in the spreading of useful information.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Too much faith placed in theories which are still confusing or poorly explained; erroneous thinking or knowledge which persists or which is resurrected; theories on the parapsychological or mystical side of life.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Jupiter = Neptune`: inspired teaching, mythic or poetic language, and the ability to move others through belief and vision. Main caution: inflated vagueness: thought can become grand, ungrounded, or too willing to substitute idealism for evidence.
 
 ## Links
 
@@ -73,6 +69,7 @@ Too much thinking can cause confusion. A clever and expansive imagination. Oneâ€
 - [Jupiter](../factors/jupiter.md)
 - [Neptune](../factors/neptune.md)
 - [Mercury/Jupiter](../axes/mercury-jupiter.md)
-- [Mercury Jupiter Neptune](../triads/mercury-jupiter-neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

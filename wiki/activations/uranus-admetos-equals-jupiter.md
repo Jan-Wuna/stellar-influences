@@ -3,7 +3,7 @@ title: Uranus/Admetos = Jupiter
 page_type: activation
 slug: uranus-admetos-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Uranus
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Admetos`
-- Source page: `241`
 #### Witte Entry
 
 Sudden material damages. Losses of valuable things through inattention or through indifference. Excitement and restlessness through these losses.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sudden material damages. Losses of valuable things through inattention or through indifference. Excitement and restlessness through these losses.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Excitement over money blockade, depression over legal event, successful circulatory renewal, profound success of technology, sudden constraint on success, sudden right constraint, Surprising financial event, and suppressed joyful arousal
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Admetos = Jupiter`: Sudden material damages. Losses of valuable things through inattention or through indifference. Excitement and restlessness through these losses.
+- Practical expression: excitement over money blockade, depression over legal event, successful circulatory renewal, profound success of technology, and sudden constraint on success.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sudden material damages. Losses of valuable things through inattention or throug
 - [Admetos](../factors/admetos.md)
 - [Jupiter](../factors/jupiter.md)
 - [Uranus/Admetos](../axes/uranus-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

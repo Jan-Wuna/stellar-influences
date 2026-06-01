@@ -3,7 +3,7 @@ title: Saturn Pluto Cupido
 page_type: triad_hub
 slug: saturn-pluto-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Pluto
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Pluto Cupido`
 - Astronomicon triad-set: `W Z ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Pluto/Cupido = Saturn](../activations/pluto-cupido-equals-saturn.md)
-  Source page `257`
 - [Saturn/Cupido = Pluto](../activations/saturn-cupido-equals-pluto.md)
-  Source page `224`
 - [Saturn/Pluto = Cupido](../activations/saturn-pluto-equals-cupido.md)
-  Source page `223`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Pluto/Cupido = Saturn`: page `257`
-- `Saturn/Cupido = Pluto`: page `224`
-- `Saturn/Pluto = Cupido`: page `223`
+- `Pluto/Cupido = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `257`
+- `Pluto/Cupido = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `409`
+- `Saturn/Cupido = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `224`
+- `Saturn/Cupido = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `355`
+- `Saturn/Pluto = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `223`
+- `Saturn/Pluto = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `353`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Pluto/Cupido = Saturn`: This activation emphasizes parting from the family through marriage, divorce, moving or death; Leaving the civil service or a corporation.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Pluto](../factors/pluto.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

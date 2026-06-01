@@ -3,7 +3,7 @@ title: Moon Saturn Kronos
 page_type: triad_hub
 slug: moon-saturn-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Saturn
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Saturn Kronos`
 - Astronomicon triad-set: `R W ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Kronos = Saturn](../activations/moon-kronos-equals-saturn.md)
-  Source page `133`
 - [Moon/Saturn = Kronos](../activations/moon-saturn-equals-kronos.md)
-  Source page `126`
 - [Saturn/Kronos = Moon](../activations/saturn-kronos-equals-moon.md)
-  Source page `227`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Kronos = Saturn`: page `133`
-- `Moon/Saturn = Kronos`: page `126`
-- `Saturn/Kronos = Moon`: page `227`
+- `Moon/Kronos = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `133`
+- `Moon/Kronos = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `199`
+- `Moon/Saturn = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `126`
+- `Moon/Saturn = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `185`
+- `Saturn/Kronos = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `227`
+- `Saturn/Kronos = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `360`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Kronos = Saturn`: Hindrances through officials or leading women, losses therefrom. Hindrances through officials, commissions or boards.
+- `Moon/Saturn = Kronos`: This activation elevates `Moon/Saturn` through law, administration, and structured authority acting on separation or resistance. It suggests emotional restraint formalized by institutions, where grief, divorce, or burden is managed through rank, office, or official oversight.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Saturn](../factors/saturn.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

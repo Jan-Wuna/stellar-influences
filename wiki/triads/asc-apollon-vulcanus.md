@@ -3,7 +3,7 @@ title: Asc Apollon Vulcanus
 page_type: triad_hub
 slug: asc-apollon-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Apollon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Asc Apollon Vulcanus`
 - Astronomicon triad-set: `Asc ¥ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Apollon/Vulcanus = Asc](../activations/apollon-vulcanus-equals-asc.md)
-  Source page `307`
 - [Asc/Apollon = Vulcanus](../activations/asc-apollon-equals-vulcanus.md)
-  Source page `95`
 - [Asc/Vulcanus = Apollon](../activations/asc-vulcanus-equals-apollon.md)
-  Source page `97`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Apollon/Vulcanus = Asc`: page `307`
-- `Asc/Apollon = Vulcanus`: page `95`
-- `Asc/Vulcanus = Apollon`: page `97`
+- `Apollon/Vulcanus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `307`
+- `Apollon/Vulcanus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `470`
+- `Asc/Apollon = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `95`
+- `Asc/Apollon = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `131`
+- `Asc/Vulcanus = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `97`
+- `Asc/Vulcanus = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `135`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Apollon/Vulcanus = Asc`: success through others, contact with powerful or prosperous people, and a personal field marked by influence and effective reach.
+- `Asc/Apollon = Vulcanus`: business success, expansive merchandise flow, and an outward field driven by power and rapid movement.
+- `Asc/Vulcanus = Apollon`: achieving major success or advantage through the support of powerful others.
 
 ## Links
 
 - [Asc](../factors/asc.md)
 - [Apollon](../factors/apollon.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

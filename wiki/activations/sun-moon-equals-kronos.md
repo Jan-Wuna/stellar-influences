@@ -3,7 +3,7 @@ title: Sun/Moon = Kronos
 page_type: activation
 slug: sun-moon-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Moon
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Moon
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Moon`
-- Source page: `101`
 #### Witte Entry
 
 A time of great events for the native. Marriage before the registrar. To marry someone of the same social standing. To appear as a leader daily and hourly. To make arrangement.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A time of great events for the native. Marriage before the registrar. To marry someone of the same social standing. To appear as a leader daily and hourly. To make arrangement.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Respected wife of the man, especially fabled person, woman in the center of the state, corporal dominance of the woman, personal authority of the woman, self pity between woman and man, and important people of a Y olkes
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Moon = Kronos`: rank or authority in the ordinary sphere and elevated personal standing.
+- Practical expression: respected wife of the man, especially fabled person, woman in the center of the state, corporal dominance of the woman, and personal authority of the woman.
 
 ## Links
 
@@ -61,3 +56,5 @@ A time of great events for the native. Marriage before the registrar. To marry s
 - [Moon](../factors/moon.md)
 - [Kronos](../factors/kronos.md)
 - [Sun/Moon](../axes/sun-moon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

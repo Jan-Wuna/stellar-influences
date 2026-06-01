@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Saturn Chiron Node`
 - Astronomicon triad-set: `W Chiron g`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Saturn/Chiron = Node`: John, page `87`
 - `Saturn/Node = Chiron`: John, page `92`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Node = Saturn`: slow karmic healing, disciplined connection, and the need to keep working at bonds that matter. Main caution: taking frustration as proof that connection is impossible.
+- `Saturn/Chiron = Node` makes relationship networks a place where limits, fears, and restrictions become visible enough to heal. It favors sober, purposeful connections; the caution is forming bonds around deficiency, correction, or shared fear rather than mutual growth.
+- `Saturn/Node = Chiron` gives depth and inevitability to connections, especially where people fear letting go of the past or entering new contact. It can heal relational caution; the caution is that bonds may become heavy if they keep circling the past instead of opening the next step.
 
 ## Links
 

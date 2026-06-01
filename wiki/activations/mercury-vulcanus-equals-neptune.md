@@ -3,7 +3,7 @@ title: Mercury/Vulcanus = Neptune
 page_type: activation
 slug: mercury-vulcanus-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Neptune
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Vulcanus`
-- Source page: `172`
 #### Witte Entry
 
 Great intuition. Great ability for sympathetic understanding. Mighty thoughts for the future. Great entanglement or confusion. Illusion and deception.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great intuition. Great ability for sympathetic understanding. Mighty thoughts for the future. Great entanglement or confusion. Illusion and deception.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Reports on water energy, influence of thinking on the future, foreign thought power, language about air influence, language about unknown forcec, power through foreign languages, powerful air movement, insecure youth through violence Energic word exchange, language about power change, and violence development in the Ju-
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Vulcanus = Neptune`: Great intuition. Great ability for sympathetic understanding. Mighty thoughts for the future. Great entanglement or confusion. Illusion and deception.
+- Practical expression: reports on water energy, influence of thinking on the future, foreign thought power, language about air influence, and language about unknown forcec.
 
 ## Links
 
@@ -61,3 +56,5 @@ Great intuition. Great ability for sympathetic understanding. Mighty thoughts fo
 - [Vulcanus](../factors/vulcanus.md)
 - [Neptune](../factors/neptune.md)
 - [Mercury/Vulcanus](../axes/mercury-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

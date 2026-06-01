@@ -33,30 +33,14 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Saturn/Chiron midpoint`
-- Source page: `87`
-- Activator: `Node`
-
 #### Sandbach Entry
 
 Seeking out connections with others who help you to be more aware of your limitations, fears and restrictions so that they can be healed.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Chiron = Node` makes relationship networks a place where limits, fears, and restrictions become visible enough to heal. It favors sober, purposeful connections; the caution is forming bonds around deficiency, correction, or shared fear rather than mutual growth.
 
 ## Links
 

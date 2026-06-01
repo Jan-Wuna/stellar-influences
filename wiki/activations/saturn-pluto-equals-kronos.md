@@ -3,7 +3,7 @@ title: Saturn/Pluto = Kronos
 page_type: activation
 slug: saturn-pluto-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Pluto
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Pluto`
-- Source page: `223`
 #### Witte Entry
 
 Personal experience through losses. You learn from your mistakes.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Personal experience through losses. You learn from your mistakes.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Development of reputation and maturity, development of seriousness and self confidence, patient development to authoritarianity, large scale pain development, problematic changes in the state, alteration of tasks through self sufficiency, and growing state losses
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Pluto = Kronos`: personal experience through losses, one learn from one's mistakes.
+- Practical expression: development of reputation, maturity, development of seriousness, self confidence, and patient development to authoritarianity.
 
 ## Links
 
@@ -61,3 +56,5 @@ Personal experience through losses. You learn from your mistakes.
 - [Pluto](../factors/pluto.md)
 - [Kronos](../factors/kronos.md)
 - [Saturn/Pluto](../axes/saturn-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

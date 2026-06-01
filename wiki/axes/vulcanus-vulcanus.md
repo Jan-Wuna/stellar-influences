@@ -45,8 +45,6 @@ updated_at: 2026-04-21
 
 - Axis: `Vulcanus/Vulcanus`
 - Astronomicon axis: `§/§`
-- Source heading: `Vulcanus + Vulcanus`
-- Source page: `313`
 
 ## Source Entries
 
@@ -55,15 +53,6 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 Greatest strength. Force. Might. Energy. Power. Supreme Violence.
-
-## Comparative Schema
-
-- core meaning: Greatest strength. Force. Might. Energy. Power. Supreme Violence.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
@@ -89,13 +78,11 @@ Greatest strength. Force. Might. Energy. Power. Supreme Violence.
 - [Vulcanus/Vulcanus = Admetos](../activations/vulcanus-vulcanus-equals-admetos.md)
 - [Vulcanus/Vulcanus = Poseidon](../activations/vulcanus-vulcanus-equals-poseidon.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- This axis intensifies Vulcanus into raw concentrated power, stressing sheer force, energy, and might with little mitigation, so its expression tends toward overwhelming strength or violence.
+- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
 
 ## Links
 

@@ -3,7 +3,7 @@ title: Mars Jupiter Zeus
 page_type: triad_hub
 slug: mars-jupiter-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Jupiter
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Jupiter Zeus`
 - Astronomicon triad-set: `U V £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Zeus = Mars](../activations/jupiter-zeus-equals-mars.md)
-  Source page `213`
 - [Mars/Jupiter = Zeus](../activations/mars-jupiter-equals-zeus.md)
-  Source page `192`
 - [Mars/Zeus = Jupiter](../activations/mars-zeus-equals-jupiter.md)
-  Source page `199`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Zeus = Mars`: page `213`
-- `Mars/Jupiter = Zeus`: page `192`
-- `Mars/Zeus = Jupiter`: page `199`
+- `Jupiter/Zeus = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `213`
+- `Jupiter/Zeus = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `336`
+- `Mars/Jupiter = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `192`
+- `Mars/Jupiter = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `299`
+- `Mars/Zeus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `199`
+- `Mars/Zeus = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `312`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Zeus = Mars`: luck through hard work, productive effort, and procreative or sexual action with real consequences.
+- `Mars/Jupiter = Zeus`: turns successful action into directed enforcement, purposeful initiative, and results gained through confident use of one's abilities.
+- `Mars/Zeus = Jupiter`: gives directed action success, accuracy, and fruitful accomplishment.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Jupiter](../factors/jupiter.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

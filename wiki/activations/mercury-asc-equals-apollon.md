@@ -3,10 +3,10 @@ title: Mercury/Asc = Apollon
 page_type: activation
 slug: mercury-asc-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Mercury
+  - Asc
   - Apollon
 normalized_formula: Mercury/Asc = Apollon
 axis: Mercury/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Asc
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Mercury`
-- Source page: `83`
 #### Witte Entry
 
 Scientific or business talks, arguments, actions, deals.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Scientific or business talks, arguments, actions, deals.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Freedom of youth at the place, thoughts of the partner, thoughts about expansion in the environment, success language at the place, language experience of the partner, youth as partner of science, and scientific partner description
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Asc = Apollon` widens the Mercury/Asc axis into scientific, commercial, and transactional conversation.
+- Chart expression: business talk, negotiated action, and an outward style that readily moves into deals, arguments, trade, and broad intellectual exchange.
 
 ## Links
 
@@ -61,3 +56,5 @@ Scientific or business talks, arguments, actions, deals.
 - [Asc](../factors/asc.md)
 - [Apollon](../factors/apollon.md)
 - [Mercury/Asc](../axes/mercury-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

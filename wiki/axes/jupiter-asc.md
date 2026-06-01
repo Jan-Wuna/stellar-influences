@@ -58,11 +58,12 @@ aliases:
   - Asc/Jupiter
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -75,17 +76,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter/Ascendant`
-- Source page: `240`
-
 #### Pair Summary
 
 Luck with other people or other people’s luck (fortune). To experience good deeds form others. Prospering surroundings. Wealthy friends or companions. Fortunate acquaintances. Happy relations to the surroundings.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Jupiter/Ascendant`
-- Source page: `240`
+#### ABC Pair Summary
+
+Others are in advantage, success on the spot, successful partners, financials of the partner, money--place, gliickliche environment, place of joy, partner pleasure, advantage by others, and satisfaction with others
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -109,9 +110,6 @@ Generous or wealthy people in the environment.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Jupiter/Ascendant midpoint`
-- Source page: `85`
-
 #### Principle
 
 To have an enthusiastic, open, and generous style. To do everything which much gusto and enthusiasm. One’s identity expresses much optimism. The desire and ability to learn about oneself and to grow in terms of how one defines oneself.
@@ -122,17 +120,11 @@ The growth of one’s confidence and the progressive integration of more and mor
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Jupiter/Ascendant`
-- Source page: `209`
-
 #### Pair Delineation
 
 Close relationships that help one, fortunate relationships, relationships that permit growth and expansion on many levels. Negatively, arrogance in relationships, or attracting those who are arrogant. The ability to make a favorable impression in close contact with others.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `JUPITER/ASCENDANT`
-- Source page: `275`
 
 #### Basic Ideas
 
@@ -161,15 +153,6 @@ Acid accumulations from an excessive social life; the tendency to add too much b
 
 - [Michael Munkasey - Jupiter/Asc Concepts](../derived/munkasey-jupiter-asc-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Jupiter/Asc = Admetos](../activations/jupiter-asc-equals-admetos.md)
@@ -194,20 +177,18 @@ Acid accumulations from an excessive social life; the tendency to add too much b
 - [Jupiter/Asc = Vulcanus](../activations/jupiter-asc-equals-vulcanus.md)
 - [Jupiter/Asc = Zeus](../activations/jupiter-asc-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Asc` is the axis of social optimism, generous self-presentation, favorable first contact, and growth through other people. It describes an open, buoyant style that tends to attract goodwill, opportunity, and supportive associations.
+- Chart expression: a pleasant manner, confidence in relationships, the ability to make a good impression, and environments that feel expansive or fortunate. Its shadow is overstatement: boasting, self-importance, naive trust, reading others too generously, or expecting social ease without enough discrimination.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Asc](../factors/asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)

@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Sun + Sun`
-- Source page: `99`
 #### Witte Entry
 
 Old age. Old man. Tire serious man. Personal and physical hindrances and difficulties. Physical separations. To take leave. Susceptibility to disease and debility. The old body or object. The teacher. A day with hindrances and difficulties. (In the solar cycle: period of depression.)
 
-## Comparative Schema
-
-- core meaning: Old age. Old man. Tire serious man. Personal and physical hindrances and difficulties. Physical separations. To take leave. Susceptibility to disease and debility. The old body or object. The teacher. A day with hindrances and difficulties. (In the solar cycle: period of depression.)
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Sun = Saturn`: identity under burden, restraint, or seriousness.
 
 ## Links
 

@@ -3,10 +3,10 @@ title: Pluto/Asc = Hades
 page_type: activation
 slug: pluto-asc-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Pluto
+  - Asc
   - Hades
 normalized_formula: Pluto/Asc = Hades
 axis: Pluto/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Asc
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Pluto`
-- Source page: `90`
 #### Witte Entry
 
 Deficiency prevents change of location. Degradation of the local situations. Insufficient changes of others.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Deficiency prevents change of location. Degradation of the local situations. Insufficient changes of others.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Difficult change of location, dangerous environmental development, criminal developments in the environment, grief caused by partner change, environmental changes caused by deprivation, hidden environmental development, renunciation of partner change, and growing environmental crime
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Asc = Hades`: deficiency prevents change of location; Degradation of the local situations; Insufficient changes of others.
+- Practical expression: difficult change of location, dangerous environmental development, criminal developments in the environment, grief caused by partner change, and environmental changes caused by deprivation.
 
 ## Links
 
@@ -61,3 +56,5 @@ Deficiency prevents change of location. Degradation of the local situations. Ins
 - [Asc](../factors/asc.md)
 - [Hades](../factors/hades.md)
 - [Pluto/Asc](../axes/pluto-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

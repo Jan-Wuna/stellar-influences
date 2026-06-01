@@ -3,7 +3,7 @@ title: Venus/Neptune = Kronos
 page_type: activation
 slug: venus-neptune-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Neptune
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Neptune`
-- Source page: `180`
 #### Witte Entry
 
 Sanitariums for blood ailment or for hysterical females. Falsehood or insincere affection of leading people or representatives of the government.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sanitariums for blood ailment or for hysterical females. Falsehood or insincere affection of leading people or representatives of the government.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Joy and self awareness through metaphysics, the state's peace expectation, weak authority through love, great fondness for water, secret love for the boss, artistic superiority through intuition, and independent metaphysical artist
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Neptune = Kronos`: sanitariums for blood ailment or for hysterical females.
+- Practical expression: self awareness through metaphysics, the state's peace expectation, weak authority through love, great fondness for water, and secret love for the boss.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sanitariums for blood ailment or for hysterical females. Falsehood or insincere 
 - [Neptune](../factors/neptune.md)
 - [Kronos](../factors/kronos.md)
 - [Venus/Neptune](../axes/venus-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

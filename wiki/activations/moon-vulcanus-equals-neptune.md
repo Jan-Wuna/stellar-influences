@@ -3,7 +3,7 @@ title: Moon/Vulcanus = Neptune
 page_type: activation
 slug: moon-vulcanus-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Neptune
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Vulcanus`
-- Source page: `136`
 #### Witte Entry
 
 To cause sensation suddenly. Sudden appearing of superiors. To deal with representatives of technique. To have suddenly to do with armed people, with soldiers. To be impressed with soldier like behavior. Fine sense, scent and great sensitivity. To be noticed for weakness, want and unfitness. To withdraw from public influence, at the same time not resisting public influence. To deal with confused and hypocritical representatives of public power. Gas-poisoning.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To cause sensation suddenly. Sudden appearing of superiors. To deal with representatives of technique. To have suddenly to do with armed people, with soldiers. To be impressed with soldier like behavior. Fine sense, scent and great sensitivity. To be noticed for weakness, want and unfitness. To withdraw from public influence, at the same time not resisting public influence. To deal with confused and hypocritical representatives of public power. Gas-poisoning.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+dissolution of the power of a woman, sensitivity of an influential woman, foreign violence against a people, power of a foreign woman, powerful disappointment of a woman, strong intuitions of a woman, deceptive emotional influences, and insecurity through violence against women
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Vulcanus = Neptune`: To cause sensation suddenly. Sudden appearing of superiors. To deal with representatives of technique. To have suddenly to do with armed people, with soldiers. To be impressed with soldier like behavior. Fine sense, scent and great sensitivity. To be noticed for weakness, want and unfitness. To withdraw from public influence.
+- Practical expression: dissolution of the power of a woman, sensitivity of an influential woman, foreign violence against a people, power of a foreign woman, and powerful disappointment of a woman.
 
 ## Links
 
@@ -61,3 +56,5 @@ To cause sensation suddenly. Sudden appearing of superiors. To deal with represe
 - [Vulcanus](../factors/vulcanus.md)
 - [Neptune](../factors/neptune.md)
 - [Moon/Vulcanus](../axes/moon-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

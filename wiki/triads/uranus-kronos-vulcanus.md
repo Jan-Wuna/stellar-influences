@@ -3,7 +3,7 @@ title: Uranus Kronos Vulcanus
 page_type: triad_hub
 slug: uranus-kronos-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Kronos
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Kronos Vulcanus`
 - Astronomicon triad-set: `X ¤ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Kronos/Vulcanus = Uranus](../activations/kronos-vulcanus-equals-uranus.md)
-  Source page `301`
 - [Uranus/Kronos = Vulcanus](../activations/uranus-kronos-equals-vulcanus.md)
-  Source page `239`
 - [Uranus/Vulcanus = Kronos](../activations/uranus-vulcanus-equals-kronos.md)
-  Source page `242`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Kronos/Vulcanus = Uranus`: page `301`
-- `Uranus/Kronos = Vulcanus`: page `239`
-- `Uranus/Vulcanus = Kronos`: page `242`
+- `Kronos/Vulcanus = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `301`
+- `Kronos/Vulcanus = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `465`
+- `Uranus/Kronos = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `239`
+- `Uranus/Kronos = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `381`
+- `Uranus/Vulcanus = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `242`
+- `Uranus/Vulcanus = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `387`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Kronos/Vulcanus = Uranus`: efficient bureaucracy, surprising state action, and the abrupt appearance of great power or interference from above.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Kronos](../factors/kronos.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,10 +3,10 @@ title: Moon/MC = Vulcanus
 page_type: activation
 slug: moon-mc-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Moon
+  - MC
   - Vulcanus
 normalized_formula: Moon/MC = Vulcanus
 axis: Moon/MC
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - MC
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Moon`
-- Source page: `60`
 #### Witte Entry
 
 The power of the mind. One who is powerfully influenced by women. Strong personal connections with the public. Influenced by the public.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The power of the mind. One who is powerfully influenced by women. Strong personal connections with the public. Influenced by the public.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Energy of an emotional soul, emotional influence on the soul, I at the a strong woman, power of the soul in the hour, my feeling of strength, my people are powerful, my woman is energetic, my strong feelings, psychic energy of a woman, and psychic influence of the woman
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/MC = Vulcanus`: The power of the mind. One who is powerfully influenced by women. Strong personal connections with the public. Influenced by the public.
+- Practical focus: intensifies `Moon/MC` with mental force, strong public ties, and emotionally consequential influence. It can show someone whose inner life is powerfully affected by women or the public, making the personal mind and feeling nature unusually forceful, impactful, and difficult to separate from collective pressures.
+- Practical expression: energy of an emotional soul, emotional influence on the soul, i at the a strong woman, power of the soul in the hour, and my feeling of strength.
 
 ## Links
 
@@ -61,3 +57,5 @@ The power of the mind. One who is powerfully influenced by women. Strong persona
 - [MC](../factors/mc.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Moon/MC](../axes/moon-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

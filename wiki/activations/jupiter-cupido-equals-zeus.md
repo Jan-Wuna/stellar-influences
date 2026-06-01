@@ -3,7 +3,7 @@ title: Jupiter/Cupido = Zeus
 page_type: activation
 slug: jupiter-cupido-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Cupido
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Cupido`
-- Source page: `211`
 #### Witte Entry
 
 Happy family blessed with children. Successful activity in the family or community. Success in good firms. Military service in a good regiment.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Happy family blessed with children. Successful activity in the family or community. Success in good firms. Military service in a good regiment.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Starting success for of a community, successful art design, successful community, successful performance community, joint success, legal services for the community, and beneficial joint start
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Cupido = Zeus`: communal happiness becoming productive, purposeful, and generative. It favors households and associations that grow through shared effort, initiative, and coordinated action.
 
 ## Links
 
@@ -61,3 +55,5 @@ Happy family blessed with children. Successful activity in the family or communi
 - [Cupido](../factors/cupido.md)
 - [Zeus](../factors/zeus.md)
 - [Jupiter/Cupido](../axes/jupiter-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

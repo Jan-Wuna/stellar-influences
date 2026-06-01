@@ -3,7 +3,7 @@ title: Node Hades Vulcanus
 page_type: triad_hub
 slug: node-hades-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Node Hades Vulcanus`
 - Astronomicon triad-set: `g ¢ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Vulcanus = Node](../activations/hades-vulcanus-equals-node.md)
-  Source page `285`
 - [Node/Hades = Vulcanus](../activations/node-hades-equals-vulcanus.md)
-  Source page `150`
 - [Node/Vulcanus = Hades](../activations/node-vulcanus-equals-hades.md)
-  Source page `155`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Vulcanus = Node`: page `285`
-- `Node/Hades = Vulcanus`: page `150`
-- `Node/Vulcanus = Hades`: page `155`
+- `Hades/Vulcanus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `285`
+- `Hades/Vulcanus = Node`: Udo Rudolph - ABC for Planetary Pictures, page `446`
+- `Node/Hades = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `150`
+- `Node/Hades = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `227`
+- `Node/Vulcanus = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `155`
+- `Node/Vulcanus = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `237`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Vulcanus = Node`: weakened or sick people, brutal and uncultured company, loss of courage, and association with those inclined toward violence.
+- `Node/Hades = Vulcanus`: Through ugly things tied together. Dangerous gang of criminals.
+- `Node/Vulcanus = Hades`: Vile acts by mighty persons.
 
 ## Links
 
 - [Node](../factors/node.md)
 - [Hades](../factors/hades.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

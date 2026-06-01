@@ -3,7 +3,7 @@ title: Neptune/Zeus = Vulcanus
 page_type: activation
 slug: neptune-zeus-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Zeus
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Zeus`
-- Source page: `249`
 #### Witte Entry
 
 Mighty but useless and wasted efforts.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mighty but useless and wasted efforts.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Starting resolution of violence, influence of fire water, influence of future goals, exchange of energy performance, power of an unknown leadership, power weakness of leadership, strong by striving for refinement, and water against fire violence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Zeus = Vulcanus`: Mighty but useless and wasted efforts.
+- Great force is expended to little purpose, emphasizing strong but squandered effort and power that fails to secure useful results.
+- Practical expression: starting resolution of violence, influence of fire water, influence of future goals, exchange of energy performance, and power of an unknown leadership.
 
 ## Links
 
@@ -61,3 +57,5 @@ Mighty but useless and wasted efforts.
 - [Zeus](../factors/zeus.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Neptune/Zeus](../axes/neptune-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

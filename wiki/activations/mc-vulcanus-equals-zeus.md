@@ -3,7 +3,7 @@ title: MC/Vulcanus = Zeus
 page_type: activation
 slug: mc-vulcanus-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Zeus
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Vulcanus`
-- Source page: `76`
 #### Witte Entry
 
 Controlling abundant energies. To supervise machines.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Controlling abundant energies. To supervise machines.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Generation of psychic energy, fire of a strong soul, my leadership influence, my power goal, my energy achievements, my fiery energy, my leadership strengths, my creative power, my strong efforts, and creative soul power
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Vulcanus = Zeus` directs the axis toward controlled powerful energies and machinery.
+- Chart expression: supervising engines, directing abundant force, and using strength purposefully in technical, industrial, or energetic systems.
 
 ## Links
 
@@ -61,3 +56,5 @@ Controlling abundant energies. To supervise machines.
 - [Vulcanus](../factors/vulcanus.md)
 - [Zeus](../factors/zeus.md)
 - [MC/Vulcanus](../axes/mc-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

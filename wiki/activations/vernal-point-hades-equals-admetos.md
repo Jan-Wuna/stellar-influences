@@ -3,7 +3,7 @@ title: Vernal Point/Hades = Admetos
 page_type: activation
 slug: vernal-point-hades-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Hades
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Hades`
-- Source page: `49`
 #### Witte Entry
 
 Lack of raw material. Junk materials and waste.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Lack of raw material. Junk materials and waste.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Limitations and deprivations in the public sphere, difficult public circulation, dangerous strike in the public sphere, grim lack in the public life, public deepening in the past, and lowering criminality in the public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Hades = Admetos`: lack of raw material and junk materials and waste.
+- Practical expression: limitations, deprivations in the public sphere, difficult public circulation, dangerous strike in the public sphere, and grim lack in the public life.
 
 ## Links
 
@@ -61,3 +56,5 @@ Lack of raw material. Junk materials and waste.
 - [Hades](../factors/hades.md)
 - [Admetos](../factors/admetos.md)
 - [Vernal Point/Hades](../axes/vernal-point-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

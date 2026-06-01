@@ -3,7 +3,7 @@ title: Node Zeus Kronos
 page_type: triad_hub
 slug: node-zeus-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Zeus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Node Zeus Kronos`
 - Astronomicon triad-set: `g £ ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Node/Kronos = Zeus](../activations/node-kronos-equals-zeus.md)
-  Source page `152`
 - [Node/Zeus = Kronos](../activations/node-zeus-equals-kronos.md)
-  Source page `151`
 - [Zeus/Kronos = Node](../activations/zeus-kronos-equals-node.md)
-  Source page `289`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Node/Kronos = Zeus`: page `152`
-- `Node/Zeus = Kronos`: page `151`
-- `Zeus/Kronos = Node`: page `289`
+- `Node/Kronos = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `152`
+- `Node/Kronos = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `231`
+- `Node/Zeus = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `151`
+- `Node/Zeus = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `229`
+- `Zeus/Kronos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `289`
+- `Zeus/Kronos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `450`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Node/Kronos = Zeus`: Decision of authorities. The verdict. To be sentenced.
+- `Node/Zeus = Kronos`: To meet in order to produce something great. The machine-master.
+- `Zeus/Kronos = Node`: People who create order among themselves. People willing to take orders. Military personnel. A nation efficient in warfare. Warring women.
 
 ## Links
 
 - [Node](../factors/node.md)
 - [Zeus](../factors/zeus.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

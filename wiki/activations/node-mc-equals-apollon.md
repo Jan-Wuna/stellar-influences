@@ -3,10 +3,10 @@ title: Node/MC = Apollon
 page_type: activation
 slug: node-mc-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Node
+  - MC
   - Apollon
 normalized_formula: Node/MC = Apollon
 axis: Node/MC
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - MC
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Node`
-- Source page: `61`
 #### Witte Entry
 
 Far reaching connections. The free choice of personal connections. Personal relationships to scientists, commerce, trade or religion.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Far reaching connections. The free choice of personal connections. Personal relationships to scientists, commerce, trade or religion.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Extension of my connections, successful soul contacts, my experiences in connections, my trade connections, my connections to science, contacts to experienced souls, and spiritual experiences in V bonded
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/MC = Apollon`: Far reaching connections. The free choice of personal connections. Personal relationships to scientists, commerce, trade or religion.
+- Practical focus: far reaching connections; also the free choice of personal connections.
 
 ## Links
 
@@ -61,3 +56,5 @@ Far reaching connections. The free choice of personal connections. Personal rela
 - [MC](../factors/mc.md)
 - [Apollon](../factors/apollon.md)
 - [Node/MC](../axes/node-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

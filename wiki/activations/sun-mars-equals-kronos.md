@@ -3,7 +3,7 @@ title: Sun/Mars = Kronos
 page_type: activation
 slug: sun-mars-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Mars
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Mars
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Mars`
-- Source page: `105`
 #### Witte Entry
 
 Leading man in the activity. Family head. Foreman. Professional soldier.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Leading man in the activity. Family head. Foreman. Professional soldier.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Particularly active man, acts of an authoritat person, acting persons of the state, self employed man, self employed person, state work centre, and superior acts of a man
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Mars = Kronos`: leadership in action and forceful command.
+- Practical expression: particularly active man, acting persons of the state, self employed man, and self employed person.
 
 ## Links
 
@@ -61,3 +56,5 @@ Leading man in the activity. Family head. Foreman. Professional soldier.
 - [Mars](../factors/mars.md)
 - [Kronos](../factors/kronos.md)
 - [Sun/Mars](../axes/sun-mars.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

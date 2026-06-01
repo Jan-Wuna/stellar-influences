@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Cupido + Cupido`
-- Source page: `266`
 #### Witte Entry
 
 (J) Sudden marriage. Sudden wedding. Sudden event in the family. Wedding celebrations. Surprises, unexpected events in married life, partnership. To be united or reunited with the family by surprise. Unforeseen event during the wedding. Sudden innovations in art. Associations, groups or companies in the fields of innovation, technology or energy.
 
-## Comparative Schema
-
-- core meaning: (J) Sudden marriage. Sudden wedding. Sudden event in the family. Wedding celebrations. Surprises, unexpected events in married life, partnership. To be united or reunited with the family by surprise. Unforeseen event during the wedding. Sudden innovations in art. Associations, groups or companies in the fields of innovation, technology or energy.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Cupido = Neptune`: communal bonds altered by unforeseen developments, celebrations, reunions, or disruptive novelty. Main caution: instability: important ties can change faster than people can orient to them.
 
 ## Links
 

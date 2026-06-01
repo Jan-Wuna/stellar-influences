@@ -3,7 +3,7 @@ title: Uranus Node Hades
 page_type: triad_hub
 slug: uranus-node-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Node
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Node Hades`
 - Astronomicon triad-set: `X g ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Node/Hades = Uranus](../activations/node-hades-equals-uranus.md)
-  Source page `150`
 - [Uranus/Hades = Node](../activations/uranus-hades-equals-node.md)
-  Source page `237`
 - [Uranus/Node = Hades](../activations/uranus-node-equals-hades.md)
-  Source page `146`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Node/Hades = Uranus`: page `150`
-- `Uranus/Hades = Node`: page `237`
-- `Uranus/Node = Hades`: page `146`
+- `Node/Hades = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `150`
+- `Node/Hades = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `227`
+- `Uranus/Hades = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `237`
+- `Uranus/Hades = Node`: Udo Rudolph - ABC for Planetary Pictures, page `376`
+- `Uranus/Node = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `146`
+- `Uranus/Node = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `219`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Node/Hades = Uranus`: Suddenly connected with evil things. To be present at accidents or murder.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Node](../factors/node.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

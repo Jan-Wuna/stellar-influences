@@ -3,7 +3,7 @@ title: Mars/Admetos = Cupido
 page_type: activation
 slug: mars-admetos-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Cupido
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Admetos`
-- Source page: `202`
 #### Witte Entry
 
 Broken marriages. Special work in a small community. Cooperative work in a small circle. Unsuccessful cooperative work. Bankruptcies of firms.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Broken marriages. Special work in a small community. Cooperative work in a small circle. Unsuccessful cooperative work. Bankruptcies of firms.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Community of labour, blocked Community Arbcit, blocked Community of wills, restricted Community of labour, large Community of action, firm common will, common work on the earth, and joint deepening of work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Admetos = Cupido`: broken marriages, special work in a limited group, and cooperative effort that may fail, narrow, or collapse into bankruptcy.
+- Chart expression: tightly bounded teamwork, but it also warns that shared structures can become brittle, depressed, or financially unsound.
 
 ## Links
 
@@ -61,3 +56,5 @@ Broken marriages. Special work in a small community. Cooperative work in a small
 - [Admetos](../factors/admetos.md)
 - [Cupido](../factors/cupido.md)
 - [Mars/Admetos](../axes/mars-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

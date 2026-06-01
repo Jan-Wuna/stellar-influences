@@ -3,7 +3,7 @@ title: Saturn/Zeus = Poseidon
 page_type: activation
 slug: saturn-zeus-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Zeus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Zeus`
-- Source page: `226`
 #### Witte Entry
 
 Hindrance, interruptions, or measures of force (coercion) in matters of education. Tan
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Hindrance, interruptions, or measures of force (coercion) in matters of education. Tan
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Ideas, concentration on spiritual fire, and shaping cultural tasks
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Zeus = Poseidon`: hindrance, interruptions, or measures of force (coercion) in matters of education, tan.
+- Practical expression: ideas, concentration on spiritual fire, and shaping cultural tasks.
 
 ## Links
 
@@ -61,3 +56,5 @@ Hindrance, interruptions, or measures of force (coercion) in matters of educatio
 - [Zeus](../factors/zeus.md)
 - [Poseidon](../factors/poseidon.md)
 - [Saturn/Zeus](../axes/saturn-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

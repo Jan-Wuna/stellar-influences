@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Chiron Pluto Asc`
 - Astronomicon triad-set: `Chiron Z Asc`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Chiron/Pluto = Asc`: John, page `99`
 - `Pluto/Asc = Chiron`: John, page `116`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Asc = Pluto`: profound identity tension, compulsive self-protection, and transformative healing pressure. Main caution: trying to control the very identity structure that needs to be surrendered.
+- `Chiron/Pluto = Asc`: identity healing under pressure, magnetic transformative presence, and growth that demands relinquishing old self-definitions. Main caution: identifying with intensity itself or clinging to identity wounds because they feel powerful.
+- `Pluto/Asc = Chiron` channels Pluto/Asc intensity through Chiron, so encounters with the native can draw out buried self-images and help others release personality traits that have outlived their purpose. The caution is not to force transformation through intensity alone; the healing comes when the other person can recognize and relinquish the old pattern.
 
 ## Links
 

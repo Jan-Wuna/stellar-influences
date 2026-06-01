@@ -3,7 +3,7 @@ title: Uranus/Admetos = Cupido
 page_type: activation
 slug: uranus-admetos-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Cupido
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Admetos`
-- Source page: `241`
 #### Witte Entry
 
 Sudden break-off with a community, club or family. To be shunned by an association. To be suddenly alone or lonesome.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sudden break-off with a community, club or family. To be shunned by an association. To be suddenly alone or lonesome.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Consolidation by common rhythm, common technical experience, fundamental reforms for the Community, suddenly depressed Community, tensions in of a community through restrictions, and surprising stabilization of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Admetos = Cupido`: Sudden break-off with a community, club or family. To be shunned by an association. To be suddenly alone or lonesome.
+- Practical expression: consolidation by common rhythm, common technical experience, fundamental reforms for the Community, suddenly depressed Community, and tensions in a community through restrictions.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sudden break-off with a community, club or family. To be shunned by an associati
 - [Admetos](../factors/admetos.md)
 - [Cupido](../factors/cupido.md)
 - [Uranus/Admetos](../axes/uranus-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

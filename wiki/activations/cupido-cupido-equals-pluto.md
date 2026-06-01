@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Cupido + Cupido`
-- Source page: `266`
 #### Witte Entry
 
 Unfortunate parents. Dissonance in the family or in associations. Shortage in housing. Grief in marriage or in societies. The process of dissolution in a marriage or partnership. Art dwindling or dying away. E Changes in the family like betrothal, wedding, birth, death. Tradition. Changes in the human society, human partnership. To clear up something in common with others. Development of art. Growing club. Ancestors and descendants.
 
-## Comparative Schema
-
-- core meaning: Unfortunate parents. Dissonance in the family or in associations. Shortage in housing. Grief in marriage or in societies. The process of dissolution in a marriage or partnership. Art dwindling or dying away. E Changes in the family like betrothal, wedding, birth, death. Tradition. Changes in the human society, human partnership. To clear up something in common with others. Development of art. Growing club. Ancestors and descendants.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Cupido = Pluto`: communal bonds passing through endings, weddings, births, deaths, and structural change that clears the way for a new form. Main caution: slow breakdown or grief before regeneration becomes visible.
 
 ## Links
 

@@ -3,7 +3,7 @@ title: MC/Cupido = Mars
 page_type: activation
 slug: mc-cupido-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - MC
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Cupido`
-- Source page: `70`
 #### Witte Entry
 
 Intending to marry. Working together with others. Belonging to a military union. Works of art.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Intending to marry. Working together with others. Belonging to a military union. Works of art.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Work community, the inner world of common work, my work for the community, my work community, my efforts for the arts, my synthesis activity, and the psychic impulses of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Cupido = Mars` energizes the axis into marriage intention, collaborative work, and active group effort.
+- Chart expression: joining with others for action, working in unions or organized bodies, and channeling communal life into purposeful production or artistic creation.
 
 ## Links
 
@@ -61,3 +56,5 @@ Intending to marry. Working together with others. Belonging to a military union.
 - [Cupido](../factors/cupido.md)
 - [Mars](../factors/mars.md)
 - [MC/Cupido](../axes/mc-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Hades/Zeus = Admetos
 page_type: activation
 slug: hades-zeus-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Hades
   - Zeus
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Zeus`
-- Source page: `278`
 #### Witte Entry
 
 Trying to find recreation together with few. Small groups fighting each other. Coal mines. Deep seated hate. Irreconcilable hate. Hate among a few.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Trying to find recreation together with few. Small groups fighting each other. Coal mines. Deep seated hate. Irreconcilable hate. Hate among a few.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful Y deepening into the hidden, deprivation through limited performance, strengthening through hidden filtration, ending FGG service, mysterious performance limitation, and resistance to fire criminality
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Zeus = Admetos`: blocked or hateful force becoming concentrated, enclosed, and hard to resolve. It can show narrow but stubborn conflict and old enmity that does not loosen.
 
 ## Links
 
@@ -61,3 +55,5 @@ Trying to find recreation together with few. Small groups fighting each other. C
 - [Zeus](../factors/zeus.md)
 - [Admetos](../factors/admetos.md)
 - [Hades/Zeus](../axes/hades-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

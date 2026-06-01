@@ -3,7 +3,7 @@ title: Mercury Venus Apollon
 page_type: triad_hub
 slug: mercury-venus-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Venus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Venus Apollon`
 - Astronomicon triad-set: `T Q ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Apollon = Venus](../activations/mercury-apollon-equals-venus.md)
-  Source page `170`
 - [Mercury/Venus = Apollon](../activations/mercury-venus-equals-apollon.md)
-  Source page `159`
 - [Venus/Apollon = Mercury](../activations/venus-apollon-equals-mercury.md)
-  Source page `186`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Apollon = Venus`: page `170`
-- `Mercury/Venus = Apollon`: page `159`
-- `Venus/Apollon = Mercury`: page `186`
+- `Mercury/Apollon = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `170`
+- `Mercury/Apollon = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `262`
+- `Mercury/Venus = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `159`
+- `Mercury/Venus = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `241`
+- `Venus/Apollon = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `186`
+- `Venus/Apollon = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `290`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Apollon = Venus`: softens the axis into friendly conversation, language study, and agreeable debate.
+- `Mercury/Venus = Apollon`: Many new relations, very popular, sure and good manners.
+- `Venus/Apollon = Mercury`: to be known to many, to speak to many, to be acquainted with many.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Venus](../factors/venus.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

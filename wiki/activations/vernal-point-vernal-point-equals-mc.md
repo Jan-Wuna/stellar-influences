@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Vernal Point + Vernal Point`
-- Source page: `33`
 #### Witte Entry
 
 The relationship, the emotional or the mental attitude, of the native toward the world in general. The “I” as embodied on the earth. Particularities of the time (moment) for several in one place.
 
-## Comparative Schema
-
-- core meaning: The relationship, the emotional or the mental attitude, of the native toward the world in general. The “I” as embodied on the earth. Particularities of the time (moment) for several in one place.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Vernal Point = MC`: the relationship, the emotional or the mental attitude, of the native toward the world in general, the “I” as embodied on the earth, and particularities of the time (moment) for several in one place.
 
 ## Links
 

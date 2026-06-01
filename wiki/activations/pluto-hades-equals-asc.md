@@ -3,7 +3,7 @@ title: Pluto/Hades = Asc
 page_type: activation
 slug: pluto-hades-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Asc
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Hades`
-- Source page: `258`
 #### Witte Entry
 
 Others withdraw from an association because of inability. Dealing with people who cannot cope with the appearing difficulties, who fail in the struggle for life.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Others withdraw from an association because of inability. Dealing with people who cannot cope with the appearing difficulties, who fail in the struggle for life.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Developments from the past of a place, difficult environmental development, poor partner development, adverse changes in the place, change of partner in old age, hidden change of partner bcim, and renunciation of local changes
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Hades = Asc`: others withdraw from an association because of inability.
+- Practical expression: developments from the past of a place, difficult environmental development, poor partner development, adverse changes in the place, and change of partner in old age.
 
 ## Links
 
@@ -61,3 +56,5 @@ Others withdraw from an association because of inability. Dealing with people wh
 - [Hades](../factors/hades.md)
 - [Asc](../factors/asc.md)
 - [Pluto/Hades](../axes/pluto-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

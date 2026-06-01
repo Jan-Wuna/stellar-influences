@@ -3,7 +3,7 @@ title: Mercury/Zeus = Admetos
 page_type: activation
 slug: mercury-zeus-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Zeus
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Zeus`
-- Source page: `168`
 #### Witte Entry
 
 Thoughts about a hard beginning. Orders for few.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Thoughts about a hard beginning. Orders for few.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful thought deepening, blockade by fire message, blocked youthful fire, depression by performance thinking, consolidation of creative thoughts, and talk about beginning limitations
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Zeus = Admetos`: Thoughts about a hard beginning. Orders for few.
+- Practical expression: effortful thought deepening, blockade by fire message, blocked youthful fire, depression by performance thinking, and consolidation of creative thoughts.
 
 ## Links
 
@@ -61,3 +56,5 @@ Thoughts about a hard beginning. Orders for few.
 - [Zeus](../factors/zeus.md)
 - [Admetos](../factors/admetos.md)
 - [Mercury/Zeus](../axes/mercury-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

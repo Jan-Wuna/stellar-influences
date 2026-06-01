@@ -3,7 +3,7 @@ title: Vernal Point Pluto Kronos
 page_type: triad_hub
 slug: vernal-point-pluto-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Pluto Kronos`
 - Astronomicon triad-set: `VP Z ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Pluto/Kronos = Vernal Point](../activations/pluto-kronos-equals-vernal-point.md)
-  Source page `260`
 - [Vernal Point/Kronos = Pluto](../activations/vernal-point-kronos-equals-pluto.md)
-  Source page `51`
 - [Vernal Point/Pluto = Kronos](../activations/vernal-point-pluto-equals-kronos.md)
-  Source page `47`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Pluto/Kronos = Vernal Point`: page `260`
-- `Vernal Point/Kronos = Pluto`: page `51`
-- `Vernal Point/Pluto = Kronos`: page `47`
+- `Pluto/Kronos = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `260`
+- `Pluto/Kronos = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `414`
+- `Vernal Point/Kronos = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `51`
+- `Vernal Point/Kronos = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `51`
+- `Vernal Point/Pluto = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `47`
+- `Vernal Point/Pluto = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `43`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Pluto/Kronos = Vernal Point`: This activation emphasizes a general rise in demands, rank or recognized capability.
+- `Vernal Point/Kronos = Pluto`: This formula emphasizes to develop eminent skills, mastery, and great transformations in the public.
+- `Vernal Point/Pluto = Kronos`: This formula emphasizes general rise and changes in the government.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Pluto](../factors/pluto.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -58,13 +58,14 @@ aliases:
   - Neptune/Jupiter
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -77,17 +78,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Neptune`
-- Source page: `209`
-
 #### Pair Summary
 
 Lucky mood. Easily acquired money. Shortage of money. Money losses. Easily made money. Imagined happiness. Uncertain possession. Speculations. Financial transactions. The future life.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Jupiter/Neptune`
-- Source page: `231`
+#### ABC Pair Summary
+
+financial weakness, foreign money, foreign reverence, joy in the air, money weakness, glticks expectations, legal uncertainty, water law, and future happiness
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -111,17 +112,11 @@ Visionaries, dreamers, mystics, hypocrites, speculators.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
-- Source heading: `Jupiter/Neptune`
-- Source page: `68`
-
 #### Falis Entry
 
 The possibilities are endless. Enthusiastic about the possibilities. Enthusiastic about your dreams. Enthusiastic about helping people. Dreaming the big dream. Hopeful - beyond reason. All-embracing. All-encompassing. Expansive fluid states. Giving to the arts. Protecting the weak. Wealth and fortune through oil. Luck through water. Underwater exploration. The deep sea. Oil spills. An abundance of glamour. An abundant imagination. The far reaching influence of your imagination. The far reaching influence of your dreams. Wealth, seemingly from out of nowhere. Wealth through fine arts. Protecting the fine arts. Endless optimism. Meaning and spirituality entwined. Wisdom and dreaming entwined. Big dreamers. Big liars. Mass deception. Forgetful. In a big fog. Overly sympathetic. Overly compassionate. A sucker. Very weak. Too ethereal. No end. Too impressionable. Too gullible. Exaggerated pity. Overly absorbent of atmospheric influences. Wisdom through surrender. Wisdom gained from humility and compassion. Sensitivity to deeper meaning, beliefs and ideals. The expansion of psychic abilities. Expanded spiritual states. Feeling over whelmed by sensitivity. Extending out too far. Feeling that you have to help every one - even if you hurt yourself. Not knowing when to cut off the flow of empathy. Easily taken advantage of. Easily duped. Overwhelmed by drugs and alcohol. An enormous need for escape and withdrawal. Bringing your fantasies out into the world. Turning your life over to something greater. Imaginary epics. Epic fantasies. Epic works of art. Epic movies. Epic music. Enor mous creations. Imagination overload. Unrealistic risks. Risks completely divorced from reality. Overwhelming fantasies. Drowning in feelings of overwhelm. Drown ing in your own ideals. Hopes and dreams that are so big they can never be ful filled in reality. Let down by reality. Wanting to protect the fantasy. Needing ways to fit your big fantasy into your life. Exaggerated imagination. Overwhelming visions. Leaping into the unknown. Fools. Enthusiastic about art, film, music, dance and poetry. Surrendering to the creative muse. Finding meaning through dance, music, poetry, film and art. Growth through imagination. Expanding horizons through fan tasy. Really spaced-out. Totally ungrounded. Vague on the details. Delusional aspirations. Film theory. Dance theory. Spiritual philosophers. Ideas and theories about ghosts, spirits and the paranormal. Always feeling that there is something more. Dissatisfaction with what is. A really "out there" sense of humor.
 
 ### Charles Carter - The Astrological Aspects
-
-- Source heading: `ASPECTS OF JUPITER & NEPTUNE`
-- Source page: `63`
 
 #### Harmonious Aspects
 
@@ -179,9 +174,6 @@ Probably owing to its liability to carelessness and inexactness it is sometimes 
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Jupiter/Neptune midpoint`
-- Source page: `81`
-
 #### Principle
 
 Richness of imagination. Copious idealism. To help others abundantly and generously. To be unworried and/or unconcerned about material things, and hence the possibility of being wasteful. A person who is easily duped or taken advantage of. An excess of dreaming or fantasizing causes trouble. Enthusiasm over possibilities.
@@ -192,17 +184,11 @@ The growth of one’s ability to be sympathetic and caring toward other people. 
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Jupiter/Neptune`
-- Source page: `209`
-
 #### Pair Delineation
 
 Optimistic dreams and speculations, the tendency to gamble or take other risks. Idealism, concern with mystical and spiritual issues. Idealistic humanitarianism, the desire to work for the greater good with little thought of personal gain.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `JUPITER/NEPTUNE`
-- Source page: `263`
 
 #### Basic Ideas
 
@@ -231,15 +217,6 @@ Fatty deposits in body caused by stress or weakness; not enough exercise or body
 
 - [Michael Munkasey - Jupiter/Neptune Concepts](../derived/munkasey-jupiter-neptune-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Jupiter/Neptune = Admetos](../activations/jupiter-neptune-equals-admetos.md)
@@ -264,20 +241,18 @@ Fatty deposits in body caused by stress or weakness; not enough exercise or body
 - [Jupiter/Neptune = Vulcanus](../activations/jupiter-neptune-equals-vulcanus.md)
 - [Jupiter/Neptune = Zeus](../activations/jupiter-neptune-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Neptune` is the axis of idealism, compassion, expansive imagination, spiritual or artistic longing, and hope that reaches beyond ordinary limits. It combines generosity, faith, and possibility with sensitivity, fantasy, mysticism, and the urge to redeem or uplift.
+- Chart expression: humanitarian feeling, rich vision, artistic or devotional inspiration, and the desire to help, forgive, dream, or believe in something larger than material life. Its main liability is lack of realism: gullibility, speculation, self-deception, waste, scandal, blurred judgment, or chasing a beautiful possibility that cannot hold in concrete reality.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Neptune](../factors/neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)

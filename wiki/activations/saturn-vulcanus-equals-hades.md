@@ -3,7 +3,7 @@ title: Saturn/Vulcanus = Hades
 page_type: activation
 slug: saturn-vulcanus-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Hades
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Vulcanus`
-- Source page: `230`
 #### Witte Entry
 
 To be wronged and hindered by lack and other sad circumstances. To get into great danger through enemies. Sickness while imprisoned.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be wronged and hindered by lack and other sad circumstances. To get into great danger through enemies. Sickness while imprisoned.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dangerous energy problems, huge problems from the past, grief caused by violent disturbances, powerful concentration on hidden things, need by concentrated violence, problems caused by energy deficiency, and losses caused by criminal violence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Vulcanus = Hades`: to be wronged and hindered by lack and other sad circumstances, to get into great danger through enemies.
+- Practical expression: dangerous energy problems, huge problems from the past, grief caused by violent disturbances, powerful concentration on hidden things, and need by concentrated violence.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be wronged and hindered by lack and other sad circumstances. To get into grea
 - [Vulcanus](../factors/vulcanus.md)
 - [Hades](../factors/hades.md)
 - [Saturn/Vulcanus](../axes/saturn-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

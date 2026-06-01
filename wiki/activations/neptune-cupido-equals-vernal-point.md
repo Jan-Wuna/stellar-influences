@@ -3,7 +3,7 @@ title: Neptune/Cupido = Vernal Point
 page_type: activation
 slug: neptune-cupido-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Neptune
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Cupido`
-- Source page: `247`
 #### Witte Entry
 
 Dissolution of a family. General dissatisfaction with marital or communal institutions. Dissolution of a community with many. To move away.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Dissolution of a family. General dissatisfaction with marital or communal institutions. Dissolution of a community with many. To move away.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+The formation of an official community, the common future in the public life, the divine water art, the weak of a community in the public life, the insecure community in the public, and the future of a community in the public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Cupido = Vernal Point`: Dissolution of a family. General dissatisfaction with marital or communal institutions. Dissolution of a community with many. To move away.
+- Practical focus: externalizes family and communal dissatisfaction, making dissolution visible at the collective level through moves, withdrawals, and loss of confidence in shared institutions.
+- Practical expression: the formation of an official community, the common future in the public life, the divine water art, the weak of a community in the public life, and the insecure community in the public.
 
 ## Links
 
@@ -61,3 +57,5 @@ Dissolution of a family. General dissatisfaction with marital or communal instit
 - [Cupido](../factors/cupido.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Neptune/Cupido](../axes/neptune-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

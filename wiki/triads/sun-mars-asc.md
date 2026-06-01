@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Mars Asc`
 - Astronomicon triad-set: `S U Asc`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,19 +40,27 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Mars/Asc = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `85`
+- `Mars/Asc = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `110`
 - `Mars/Asc = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `220`
 - `Mars/Asc = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `75`
+- `Mars/Asc = Sun`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `248`
 - `Sun/Asc = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `80`
+- `Sun/Asc = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `100`
 - `Sun/Asc = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `108`
 - `Sun/Asc = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `23`
+- `Sun/Asc = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `96`
 - `Sun/Mars = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `105`
+- `Sun/Mars = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `146`
 - `Sun/Mars = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `88`
 - `Sun/Mars = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `11`
+- `Sun/Mars = Asc`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `68`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Asc = Sun`: forceful self-projection, strong self-confidence in action, and a tendency to define oneself through work, competition, and visible accomplishment.
+- `Sun/Asc = Mars`: forceful self-projection, courage in close encounters, and the urge to push identity outward through decisive behavior.
+- `Sun/Mars = Asc`: a forcefully confident presence, identity built around meaningful action, and relationships approached through effort, challenge, and active engagement.
 
 ## Links
 
@@ -59,5 +68,7 @@ updated_at: 2026-04-22
 - [Mars](../factors/mars.md)
 - [Asc](../factors/asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

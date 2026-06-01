@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Mars`
-- Source page: `85`
 #### Witte Entry
 
 Through actions of others to be separated from something. To suffer losses. To participate in funeral rites.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Mars/Ascendant`
-- Source page: `220`
-- Entry: `0764`
+#### ABC Entry
+
+Work tasks for the partner, best work partner, patient partner at work, restricted local activities, concentrated work for the environment, partner problems at work, lossful actions of other, and lossful environmental work
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Inhibited person, inability to develop and express one's potential capabilities 
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mars/Ascendant midpoint`
-- Source page: `75`
-- Activator: `Saturn`
-
 #### Sandbach Entry
 
 A fear of coming across as aggressive, and so a carefulness in asserting the self. One come’s across as being serious about what one does.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Helps you directly meet any immoderate haste; a decreased ability to express yourself gracefully thru movement or motion; the dramatic exposure of an arrogant or superior attitude; emphasizes planning and preparation.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Asc = Saturn`: serious effort, careful assertion, endurance under pressure, and learning to use force with discipline rather than impulse. Main caution: frustration: held-back anger can harden into defeatism, chronic disputes, or sorrow tied to conflict and missed expression.
 
 ## Links
 
@@ -84,7 +76,8 @@ A fear of coming across as aggressive, and so a carefulness in asserting the sel
 - [Asc](../factors/asc.md)
 - [Saturn](../factors/saturn.md)
 - [Mars/Asc](../axes/mars-asc.md)
-- [Mars Saturn Asc](../triads/mars-saturn-asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

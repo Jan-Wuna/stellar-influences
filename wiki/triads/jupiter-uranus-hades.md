@@ -3,7 +3,7 @@ title: Jupiter Uranus Hades
 page_type: triad_hub
 slug: jupiter-uranus-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Uranus
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Uranus Hades`
 - Astronomicon triad-set: `V X ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Hades = Uranus](../activations/jupiter-hades-equals-uranus.md)
-  Source page `212`
 - [Jupiter/Uranus = Hades](../activations/jupiter-uranus-equals-hades.md)
-  Source page `208`
 - [Uranus/Hades = Jupiter](../activations/uranus-hades-equals-jupiter.md)
-  Source page `237`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Hades = Uranus`: page `212`
-- `Jupiter/Uranus = Hades`: page `208`
-- `Uranus/Hades = Jupiter`: page `237`
+- `Jupiter/Hades = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `212`
+- `Jupiter/Hades = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `335`
+- `Jupiter/Uranus = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `208`
+- `Jupiter/Uranus = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `327`
+- `Uranus/Hades = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `237`
+- `Uranus/Hades = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `376`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Hades = Uranus`: abrupt shortage of money, sudden money losses, strike, or lockout.
+- `Jupiter/Uranus = Hades`: luck through found things or earth treasures, and good fortune in or through dubious activity.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Uranus](../factors/uranus.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

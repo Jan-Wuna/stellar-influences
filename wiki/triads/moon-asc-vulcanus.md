@@ -3,7 +3,7 @@ title: Moon Asc Vulcanus
 page_type: triad_hub
 slug: moon-asc-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Asc Vulcanus`
 - Astronomicon triad-set: `R Asc §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Vulcanus = Moon](../activations/asc-vulcanus-equals-moon.md)
-  Source page `97`
 - [Moon/Asc = Vulcanus](../activations/moon-asc-equals-vulcanus.md)
-  Source page `81`
 - [Moon/Vulcanus = Asc](../activations/moon-vulcanus-equals-asc.md)
-  Source page `136`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Vulcanus = Moon`: page `97`
-- `Moon/Asc = Vulcanus`: page `81`
-- `Moon/Vulcanus = Asc`: page `136`
+- `Asc/Vulcanus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `97`
+- `Asc/Vulcanus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `134`
+- `Moon/Asc = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `81`
+- `Moon/Asc = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `103`
+- `Moon/Vulcanus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `136`
+- `Moon/Vulcanus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `204`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Vulcanus = Moon`: women or public figures bringing strong influence, pressure, or even violence into the environment.
+- `Moon/Asc = Vulcanus`: This activation intensifies `Moon/Asc` with force, pressure, and mass influence. Emotional presence becomes strongly affected by the public and nearby environment, often through powerful women, executive circles, or concentrated collective energy that makes private feeling socially consequential.
+- `Moon/Vulcanus = Asc`: The native is the cause of a great surprise to the public. To deal with people of public influence, and be impressed by them. There is a powerful mutual influence and interest between the public and the native.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Asc](../factors/asc.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

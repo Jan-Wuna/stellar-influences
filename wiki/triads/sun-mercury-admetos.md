@@ -3,7 +3,7 @@ title: Sun Mercury Admetos
 page_type: triad_hub
 slug: sun-mercury-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Mercury
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Mercury Admetos`
 - Astronomicon triad-set: `S T ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Admetos = Sun](../activations/mercury-admetos-equals-sun.md)
-  Source page `171`
 - [Sun/Admetos = Mercury](../activations/sun-admetos-equals-mercury.md)
-  Source page `116`
 - [Sun/Mercury = Admetos](../activations/sun-mercury-equals-admetos.md)
-  Source page `103`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Admetos = Sun`: page `171`
-- `Sun/Admetos = Mercury`: page `116`
-- `Sun/Mercury = Admetos`: page `103`
+- `Mercury/Admetos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `171`
+- `Mercury/Admetos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `264`
+- `Sun/Admetos = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `116`
+- `Sun/Admetos = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `168`
+- `Sun/Mercury = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `103`
+- `Sun/Mercury = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `143`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Admetos = Sun`: embodies the axis in bodily stillness, low motion, and office-like routine.
+- `Sun/Admetos = Mercury`: This formula emphasizes depressed thinking and the mind and thoughts are busy with the soil.
+- `Sun/Mercury = Admetos`: This formula emphasizes depressed thinking and practical thought tied to the ground or the concrete.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Mercury](../factors/mercury.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

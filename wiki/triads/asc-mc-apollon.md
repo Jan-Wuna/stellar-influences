@@ -3,7 +3,7 @@ title: Asc MC Apollon
 page_type: triad_hub
 slug: asc-mc-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Asc MC Apollon`
 - Astronomicon triad-set: `Asc MC ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Apollon = MC](../activations/asc-apollon-equals-mc.md)
-  Source page `95`
 - [Asc/MC = Apollon](../activations/asc-mc-equals-apollon.md)
-  Source page `58`
 - [MC/Apollon = Asc](../activations/mc-apollon-equals-asc.md)
-  Source page `74`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Apollon = MC`: page `95`
-- `Asc/MC = Apollon`: page `58`
-- `MC/Apollon = Asc`: page `74`
+- `Asc/Apollon = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `95`
+- `Asc/Apollon = MC`: Udo Rudolph - ABC for Planetary Pictures, page `130`
+- `Asc/MC = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `58`
+- `Asc/MC = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `61`
+- `MC/Apollon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `74`
+- `MC/Apollon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `92`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Apollon = MC`: being known in the local field, especially as a customer, personality, or participant in scientific or professional circles.
+- `Asc/MC = Apollon`: professional success through networks, wide dealings with others, and a life path that grows by reach, circulation, and contact with many people.
+- `MC/Apollon = Asc`: brings the axis into contact with many people, customers, and social observation.
 
 ## Links
 
 - [Asc](../factors/asc.md)
 - [MC](../factors/mc.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

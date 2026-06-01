@@ -3,7 +3,7 @@ title: Cupido/Hades = Sun
 page_type: activation
 slug: cupido-hades-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Cupido
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Hades`
-- Source page: `267`
 #### Witte Entry
 
 Poor husband. The man who very much feels his dependence through poverty. Itinerant artist. To make a living by roaming around.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Poor husband. The man who very much feels his dependence through poverty. Itinerant artist. To make a living by roaming around.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Old art, disadvantaged person community, dangerous people of a community, dangerous man community, lack of a person community, persons with a common past, and centre of a criminal community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Hades = Sun`: identity shaped by deprivation, social dependence, or the need to keep moving in order to live. Main caution: letting hardship define the whole sense of self.
 
 ## Links
 
@@ -61,3 +55,5 @@ Poor husband. The man who very much feels his dependence through poverty. Itiner
 - [Hades](../factors/hades.md)
 - [Sun](../factors/sun.md)
 - [Cupido/Hades](../axes/cupido-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Zeus/Vulcanus = Poseidon
 page_type: activation
 slug: zeus-vulcanus-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Zeus
   - Vulcanus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Vulcanus`
-- Source page: `295`
 #### Witte Entry
 
 Potent intellectual or spiritual work, great creations of this kind. Conclusive. : EN eae evidence. Demonstrated mental faculties. Impressive proofs. Powerful. _- She ee documents. 24 Re es aries
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Potent intellectual or spiritual work, great creations of this kind. Conclusive. : EN eae evidence. Demonstrated mental faculties. Impressive proofs. Powerful. _- She ee documents. 24 Re es aries
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influenced spiritual leadership, influential cultural achievements, insightful leadership power, fiery spiritual energy, spiritual leadership power, intellectual design power, tremendous cultural effort, creative culture power, and power of power as creative power
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Vulcanus = Poseidon`: Potent intellectual or spiritual work, great creations of this kind. Conclusive. : EN eae evidence. Demonstrated mental faculties. Impressive proofs. Powerful. _- She ee documents. 24 Re es aries.
+- Practical expression: influenced spiritual leadership, influential cultural achievements, insightful leadership power, fiery spiritual energy, and spiritual leadership power.
 
 ## Links
 
@@ -61,3 +56,5 @@ Potent intellectual or spiritual work, great creations of this kind. Conclusive.
 - [Vulcanus](../factors/vulcanus.md)
 - [Poseidon](../factors/poseidon.md)
 - [Zeus/Vulcanus](../axes/zeus-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

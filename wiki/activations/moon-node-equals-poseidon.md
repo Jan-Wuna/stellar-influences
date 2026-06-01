@@ -3,7 +3,7 @@ title: Moon/Node = Poseidon
 page_type: activation
 slug: moon-node-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Node
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Node
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Node`
-- Source page: `121`
 #### Witte Entry
 
 The idea or the spirit out of which is founded or established a women’s or people’s association.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The idea or the spirit out of which is founded or established a women’s or people’s association.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Findings about the connection to women, spirited women's connections, culture connections of the people, connected with the most powerful women, hour of truth in a connection, connection to spiritualized women, and old fashioned connection through ideas
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Node = Poseidon`: The idea or the spirit out of which is founded or established a women’s or people’s association.
+- Practical focus: spiritualizes `Moon/Node` by rooting community in shared ideals, guiding concepts, or a founding vision. It points to emotional or social alliances formed around meaning, conscience, or higher thought rather than mere convenience.
+- Practical expression: findings about the connection to women, spirited women's connections, culture connections of the people, connected with the most powerful women, and hour of truth in a connection.
 
 ## Links
 
@@ -61,3 +57,5 @@ The idea or the spirit out of which is founded or established a women’s or peo
 - [Node](../factors/node.md)
 - [Poseidon](../factors/poseidon.md)
 - [Moon/Node](../axes/moon-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

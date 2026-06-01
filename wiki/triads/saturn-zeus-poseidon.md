@@ -3,7 +3,7 @@ title: Saturn Zeus Poseidon
 page_type: triad_hub
 slug: saturn-zeus-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Zeus
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Zeus Poseidon`
 - Astronomicon triad-set: `W £ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Saturn/Poseidon = Zeus](../activations/saturn-poseidon-equals-zeus.md)
-  Source page `231`
 - [Saturn/Zeus = Poseidon](../activations/saturn-zeus-equals-poseidon.md)
-  Source page `226`
 - [Zeus/Poseidon = Saturn](../activations/zeus-poseidon-equals-saturn.md)
-  Source page `296`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Saturn/Poseidon = Zeus`: page `231`
-- `Saturn/Zeus = Poseidon`: page `226`
-- `Zeus/Poseidon = Saturn`: page `296`
+- `Saturn/Poseidon = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `231`
+- `Saturn/Poseidon = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `369`
+- `Saturn/Zeus = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `226`
+- `Saturn/Zeus = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `359`
+- `Zeus/Poseidon = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `296`
+- `Zeus/Poseidon = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `459`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Zeus/Poseidon = Saturn`: Passing interruption in schooling or training. To take over or to give to others, for a short time, the leadership in educational matters.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Zeus](../factors/zeus.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

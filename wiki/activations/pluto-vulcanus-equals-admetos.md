@@ -3,7 +3,7 @@ title: Pluto/Vulcanus = Admetos
 page_type: activation
 slug: pluto-vulcanus-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Admetos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Vulcanus`
-- Source page: `263`
 #### Witte Entry
 
 The breakdown of a mighty development. Transformation or change caused by too great a resistance.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The breakdown of a mighty development. Transformation or change caused by too great a resistance.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Develop perseverance and energy, blockage against violence development, blocked power change, restricted power development, strength and strength develop, basic energy development, and alterations through depressive influence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Vulcanus = Admetos`: the breakdown of a mighty development; Transformation or change caused by too great a resistance.
+- Practical expression: develop perseverance, energy, blockage against violence development, blocked power change, and restricted power development.
 
 ## Links
 
@@ -61,3 +56,5 @@ The breakdown of a mighty development. Transformation or change caused by too gr
 - [Vulcanus](../factors/vulcanus.md)
 - [Admetos](../factors/admetos.md)
 - [Pluto/Vulcanus](../axes/pluto-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

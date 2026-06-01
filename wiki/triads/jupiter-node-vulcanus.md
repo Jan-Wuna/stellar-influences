@@ -3,7 +3,7 @@ title: Jupiter Node Vulcanus
 page_type: triad_hub
 slug: jupiter-node-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Node Vulcanus`
 - Astronomicon triad-set: `V g §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Node = Vulcanus](../activations/jupiter-node-equals-vulcanus.md)
-  Source page `144`
 - [Jupiter/Vulcanus = Node](../activations/jupiter-vulcanus-equals-node.md)
-  Source page `217`
 - [Node/Vulcanus = Jupiter](../activations/node-vulcanus-equals-jupiter.md)
-  Source page `155`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Node = Vulcanus`: page `144`
-- `Jupiter/Vulcanus = Node`: page `217`
-- `Node/Vulcanus = Jupiter`: page `155`
+- `Jupiter/Node = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `144`
+- `Jupiter/Node = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `215`
+- `Jupiter/Vulcanus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `217`
+- `Jupiter/Vulcanus = Node`: Udo Rudolph - ABC for Planetary Pictures, page `344`
+- `Node/Vulcanus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `155`
+- `Node/Vulcanus = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `236`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Node = Vulcanus`: might and influence gained through beneficial connections.
+- `Jupiter/Vulcanus = Node`: connection with trustworthy people, alliances that carry strength, and social support that reinforces confidence and gain.
+- `Node/Vulcanus = Jupiter`: Happily tied to influential persons.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Node](../factors/node.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Moon/Admetos = Kronos
 page_type: activation
 slug: moon-admetos-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Kronos
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Admetos`
-- Source page: `135`
 #### Witte Entry
 
 Offices. Red tape. Bureaucracy. Narrow minded bureaucratic attitude. A crowded great nation. A great nation without political influence. A great nation that has lost its independence and lives in the past.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Offices. Red tape. Bureaucracy. Narrow minded bureaucratic attitude. A crowded great nation. A great nation without political influence. A great nation that has lost its independence and lives in the past.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special feelings depth, blocked authority of a people, depressions of a respected woman, depressed authority of a people, restricted ethnic hierarchy, strengthening of the self gloriousness of a woman, and priority of a grtind woman
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Admetos = Kronos`: Offices. Red tape. Bureaucracy. Narrow minded bureaucratic attitude. A crowded great nation. A great nation without political influence. A great nation that has lost its independence and lives in the past.
+- Practical expression: special feelings depth, blocked authority of a people, depressions of a respected woman, depressed authority of a people, and restricted ethnic hierarchy.
 
 ## Links
 
@@ -61,3 +56,5 @@ Offices. Red tape. Bureaucracy. Narrow minded bureaucratic attitude. A crowded g
 - [Admetos](../factors/admetos.md)
 - [Kronos](../factors/kronos.md)
 - [Moon/Admetos](../axes/moon-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

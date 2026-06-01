@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Neptune`
-- Source page: `195`
 #### Witte Entry
 
 Heavy disturbance of the glandular system. Infection of the woman. Atrophy of the brain. Abnormal disposition of persons.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Mars/Neptune`
-- Source page: `211`
-- Entry: `0724`
+#### ABC Entry
+
+Actions of a weak woman, active woman in the air, active people on the water, mis action of a woman, women's work on or with water, intuitive feelings, unknown feeling impulses, and a woman's will weakness
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Feelings of inferiority, sensitivity, nervous weakness. Weak, sick or moody wome
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mars/Neptune midpoint`
-- Source page: `72`
-- Activator: `Moon`
-
 #### Sandbach Entry
 
 Insecurities leading to confused or ineffective actions. To be vulnerable to psy chic attack. Negative moods manifest as agitating confusion.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Adds apprehension to struggles you have with deceptive or misleading activities; fosters subtle contention or belligerence in romantic situations involving other people; generates a fluctuating anger toward visions.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Neptune = Moon`: nervous reactivity, susceptibility to atmosphere, and feeling-level confusion that easily spreads into everyday functioning and close relations. Main caution: emotional collapse into passivity, infection, or chaotic reactions when mood and stress overwhelm steady action.
 
 ## Links
 
@@ -84,7 +76,8 @@ Insecurities leading to confused or ineffective actions. To be vulnerable to psy
 - [Neptune](../factors/neptune.md)
 - [Moon](../factors/moon.md)
 - [Mars/Neptune](../axes/mars-neptune.md)
-- [Moon Mars Neptune](../triads/moon-mars-neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

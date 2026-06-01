@@ -3,7 +3,7 @@ title: Sun/Admetos = Neptune
 page_type: activation
 slug: sun-admetos-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Neptune
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Admetos`
-- Source page: `116`
 #### Witte Entry
 
 To come from confusion to clarity. The neglected or abandoned estate or soil. Wear and tear. Decay. Decomposition of the dead body.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To come from confusion to clarity. The neglected or abandoned estate or soil. Wear and tear. Decay. Decomposition of the dead body.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+depressed and disappointed person, bodily endurance in water, person in deep water, personal weakness through depressions, personal deepening in metaphysics, heavy body in the air, and uncertainty through personal restriction
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Admetos = Neptune`: secrets about a house or a room and hidden or occult things in the earth.
+- Practical expression: depressed, disappointed person, bodily endurance in water, person in deep water, and personal weakness through depressions.
 
 ## Links
 
@@ -61,3 +56,5 @@ To come from confusion to clarity. The neglected or abandoned estate or soil. We
 - [Admetos](../factors/admetos.md)
 - [Neptune](../factors/neptune.md)
 - [Sun/Admetos](../axes/sun-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

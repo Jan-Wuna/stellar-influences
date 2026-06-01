@@ -3,7 +3,7 @@ title: Vernal Point/Mercury = Kronos
 page_type: activation
 slug: vernal-point-mercury-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Mercury
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Mercury
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Mercury`
-- Source page: `40`
 #### Witte Entry
 
 High-minded and noble way of thinking. The government in public opinion. International legal discussions or decrees.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: High-minded and noble way of thinking. The government in public opinion. International legal discussions or decrees.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+View of youth in public, Talk about the state in public, Media dominance in public Life, Public News of the state, and Important opinions in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Mercury = Kronos`: high-minded and noble way of thinking, the government in public opinion, and international legal discussions or decrees.
+- Practical expression: view of youth in public, talk about the state in public, media dominance in public Life, public News of the state, and important opinions in public.
 
 ## Links
 
@@ -61,3 +56,5 @@ High-minded and noble way of thinking. The government in public opinion. Interna
 - [Mercury](../factors/mercury.md)
 - [Kronos](../factors/kronos.md)
 - [Vernal Point/Mercury](../axes/vernal-point-mercury.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

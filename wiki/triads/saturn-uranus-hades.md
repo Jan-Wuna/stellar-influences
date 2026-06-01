@@ -3,7 +3,7 @@ title: Saturn Uranus Hades
 page_type: triad_hub
 slug: saturn-uranus-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Uranus
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Uranus Hades`
 - Astronomicon triad-set: `W X ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Saturn/Hades = Uranus](../activations/saturn-hades-equals-uranus.md)
-  Source page `225`
 - [Saturn/Uranus = Hades](../activations/saturn-uranus-equals-hades.md)
-  Source page `221`
 - [Uranus/Hades = Saturn](../activations/uranus-hades-equals-saturn.md)
-  Source page `237`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Saturn/Hades = Uranus`: page `225`
-- `Saturn/Uranus = Hades`: page `221`
-- `Uranus/Hades = Saturn`: page `237`
+- `Saturn/Hades = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `225`
+- `Saturn/Hades = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `357`
+- `Saturn/Uranus = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `221`
+- `Saturn/Uranus = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `349`
+- `Uranus/Hades = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `237`
+- `Uranus/Hades = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `377`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Saturn/Hades = Uranus`: brings sudden disturbance into the Saturn/Hades field: surprising money losses and, in severe contexts, sudden death after serious illness.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Uranus](../factors/uranus.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

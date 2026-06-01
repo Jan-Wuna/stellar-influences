@@ -3,7 +3,7 @@ title: Node/Apollon = Uranus
 page_type: activation
 slug: node-apollon-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Node
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Apollon`
-- Source page: `153`
 #### Witte Entry
 
 Sudden expansion of the freedom or of the sphere of activity. Connected suddenly with scientists and economists. Connections through scientific predictions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sudden expansion of the freedom or of the sphere of activity. Connected suddenly with scientists and economists. Connections through scientific predictions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+expansion of tensions in a connection, dynamic business relationships, new trade connections, sudden experience in a connection, connection to technical science, and increasing reform in connections
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Apollon = Uranus`: Sudden expansion of the freedom or of the sphere of activity. Connected suddenly with scientists and economists. Connections through scientific predictions.
+- Practical focus: sudden expansion of the freedom or of the sphere of activity; also connected suddenly with scientists and economists.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sudden expansion of the freedom or of the sphere of activity. Connected suddenly
 - [Apollon](../factors/apollon.md)
 - [Uranus](../factors/uranus.md)
 - [Node/Apollon](../axes/node-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

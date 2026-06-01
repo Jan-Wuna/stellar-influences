@@ -3,7 +3,7 @@ title: Moon/Saturn = Zeus
 page_type: activation
 slug: moon-saturn-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Saturn
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Saturn
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Saturn`
-- Source page: `126`
 #### Witte Entry
 
 To be separated from the husband. Surviving wife with children. Disturbingly active.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be separated from the husband. Surviving wife with children. Disturbingly active.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exhaustive efforts of a woman, fire damage for a people, patient women's support, concentrated achievements of a people, creative woman in old age, organization of evening hours, performance problems of a woman, and separation stress of women
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Saturn = Zeus`: To be separated from the husband. Surviving wife with children. Disturbingly active.
+- Practical focus: `Moon/Saturn` is energized through separation that still demands action, duty, or continued production. It can show bereaved or separated women carrying on with force, making emotional burden active, restless, and difficult to set down.
+- Practical expression: exhaustive efforts of a woman, fire damage for a people, patient women's support, concentrated achievements of a people, and creative woman in old age.
 
 ## Links
 
@@ -61,3 +57,5 @@ To be separated from the husband. Surviving wife with children. Disturbingly act
 - [Saturn](../factors/saturn.md)
 - [Zeus](../factors/zeus.md)
 - [Moon/Saturn](../axes/moon-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

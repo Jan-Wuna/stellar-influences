@@ -3,7 +3,7 @@ title: Mars/Saturn = Vulcanus
 page_type: activation
 slug: mars-saturn-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Saturn
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Saturn
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Saturn`
-- Source page: `193`
 #### Witte Entry
 
 Conflicts about competence. Death in captivity or prison.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Conflicts about competence. Death in captivity or prison.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influenced activity in old age, staggered energy pulses, concentrated will starches, power concentration, powerful work problems, pain caused by violence acts, strong trade losses, declining influence in creation, and loss of will energy
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Saturn = Vulcanus` hardens conflict over power, competence, and confinement.
+- Chart expression: intense disputes over capability or authority, and in severe cases to death or destruction under captivity, prison, or extreme enforced restraint.
 
 ## Links
 
@@ -61,3 +56,5 @@ Conflicts about competence. Death in captivity or prison.
 - [Saturn](../factors/saturn.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Mars/Saturn](../axes/mars-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

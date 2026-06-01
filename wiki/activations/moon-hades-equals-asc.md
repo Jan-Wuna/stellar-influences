@@ -3,7 +3,7 @@ title: Moon/Hades = Asc
 page_type: activation
 slug: moon-hades-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Asc
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Hades`
-- Source page: `131`
 #### Witte Entry
 
 Connection with worried, depressed persons. Acquaintance with prostitutes, or with bad women. Worries caused by others, or which one causes others.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Connection with worried, depressed persons. Acquaintance with prostitutes, or with bad women. Worries caused by others, or which one causes others.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+old woman at the place, other peoples in distress, emotional sorrow with the partner, danger for women in the environment, emotional deficiency of the partner, lacking feeling for the environment, hour of danger for the environment, past of other peoples, and polluted environment of a people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Hades = Asc`: Connection with worried, depressed persons. Acquaintance with prostitutes, or with bad women. Worries caused by others, or which one causes others.
+- Practical expression: old woman at the place, other peoples in distress, emotional sorrow with the partner, danger for women in the environment, and emotional deficiency of the partner.
 
 ## Links
 
@@ -61,3 +56,5 @@ Connection with worried, depressed persons. Acquaintance with prostitutes, or wi
 - [Hades](../factors/hades.md)
 - [Asc](../factors/asc.md)
 - [Moon/Hades](../axes/moon-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

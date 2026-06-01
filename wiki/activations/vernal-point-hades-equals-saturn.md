@@ -3,7 +3,7 @@ title: Vernal Point/Hades = Saturn
 page_type: activation
 slug: vernal-point-hades-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Saturn
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Hades`
-- Source page: `49`
 #### Witte Entry
 
 Poor pitied humans. Refugees. Strangers. Decay. Unidentifiable after death. Putrefaction. Falling into oblivion.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Poor pitied humans. Refugees. Strangers. Decay. Unidentifiable after death. Putrefaction. Falling into oblivion.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Public tasks Service, burdensome lack of public life, adverse public problems, hidden public losses Life, public losses Crime, and losses by polluted public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Hades = Saturn`: poor pitied humans, refugees, strangers, decay, and unidentifiable after death.
+- Practical expression: public tasks Service, burdensome lack of public life, adverse public problems, hidden public losses Life, and public losses Crime.
 
 ## Links
 
@@ -61,3 +56,5 @@ Poor pitied humans. Refugees. Strangers. Decay. Unidentifiable after death. Putr
 - [Hades](../factors/hades.md)
 - [Saturn](../factors/saturn.md)
 - [Vernal Point/Hades](../axes/vernal-point-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

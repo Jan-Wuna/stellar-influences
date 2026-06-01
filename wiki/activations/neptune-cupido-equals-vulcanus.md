@@ -3,7 +3,7 @@ title: Neptune/Cupido = Vulcanus
 page_type: activation
 slug: neptune-cupido-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Cupido
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Cupido`
-- Source page: `247`
 #### Witte Entry
 
 Families, associations or societies are dissolved or separated by force.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Families, associations or societies are dissolved or separated by force.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Resolution of a community of violence, all the power of water, influence of metaphysics in the community, energy weakness of a community, joint violence vein, violent dissolution of a community, and weak of a strong community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Cupido = Vulcanus`: Families, associations or societies are dissolved or separated by force.
+- Practical focus: intensifies group and family breakup through force, showing separation imposed with pressure, compulsion, or overpowering circumstances rather than gradual drifting apart.
+- Practical expression: resolution of a community of violence, all the power of water, influence of metaphysics in the community, energy weakness of a community, and joint violence vein.
 
 ## Links
 
@@ -61,3 +57,5 @@ Families, associations or societies are dissolved or separated by force.
 - [Cupido](../factors/cupido.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Neptune/Cupido](../axes/neptune-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

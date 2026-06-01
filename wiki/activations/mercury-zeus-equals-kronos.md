@@ -3,7 +3,7 @@ title: Mercury/Zeus = Kronos
 page_type: activation
 slug: mercury-zeus-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Zeus
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Zeus`
-- Source page: `168`
 #### Witte Entry
 
 Great creative thoughts. By supreme order. Public prosecutor.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great creative thoughts. By supreme order. Public prosecutor.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Authoritat in the youth education, reports on state goals, special achievements of the youth, leading opinion in the state, language about special efforts, opinions about goals of the state, and important talk with the boss
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Zeus = Kronos`: Great creative thoughts. By supreme order. Public prosecutor.
+- Practical expression: reports on state goals, special achievements of the youth, leading opinion in the state, and language about special efforts.
 
 ## Links
 
@@ -61,3 +56,5 @@ Great creative thoughts. By supreme order. Public prosecutor.
 - [Zeus](../factors/zeus.md)
 - [Kronos](../factors/kronos.md)
 - [Mercury/Zeus](../axes/mercury-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

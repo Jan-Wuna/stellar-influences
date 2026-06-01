@@ -3,7 +3,7 @@ title: Jupiter/Zeus = Mars
 page_type: activation
 slug: jupiter-zeus-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Jupiter
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Zeus`
-- Source page: `213`
 #### Witte Entry
 
 Luck through energetic working. Happy procreation. Sexual intercourse with consequences.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Luck through energetic working. Happy procreation. Sexual intercourse with consequences.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful work effort, leadership in finance, pleasure in creative work, leading legal work, performance pleasure at work, will of financial work, and will to create law
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Zeus = Mars`: luck through hard work, productive effort, and procreative or sexual action with real consequences.
+- Chart expression: decisive labor, forceful initiative, and active creation that quickly becomes concrete.
 
 ## Links
 
@@ -61,3 +56,5 @@ Luck through energetic working. Happy procreation. Sexual intercourse with conse
 - [Zeus](../factors/zeus.md)
 - [Mars](../factors/mars.md)
 - [Jupiter/Zeus](../axes/jupiter-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

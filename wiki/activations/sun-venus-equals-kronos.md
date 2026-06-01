@@ -3,7 +3,7 @@ title: Sun/Venus = Kronos
 page_type: activation
 slug: sun-venus-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Venus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Venus
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Venus`
-- Source page: `104`
 #### Witte Entry
 
 Perfect lover. A Womanizer. Exceptional physical charisma.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Perfect lover. A Womanizer. Exceptional physical charisma.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Awesome man's reputation, special human affection, state peace centre, great personal love, self conscious peaceful man, self confidence of a wicked man, and superiority of a man through harmony
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Venus = Kronos`: love linked with status, authority, or refined dignity.
+- Practical expression: awesome man's reputation, special human affection, state peace centre, great personal love, and self conscious peaceful man.
 
 ## Links
 
@@ -61,3 +56,5 @@ Perfect lover. A Womanizer. Exceptional physical charisma.
 - [Venus](../factors/venus.md)
 - [Kronos](../factors/kronos.md)
 - [Sun/Venus](../axes/sun-venus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

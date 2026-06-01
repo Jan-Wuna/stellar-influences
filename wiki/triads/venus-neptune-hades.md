@@ -3,7 +3,7 @@ title: Venus Neptune Hades
 page_type: triad_hub
 slug: venus-neptune-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Neptune
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Neptune Hades`
 - Astronomicon triad-set: `Q Y ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Neptune/Hades = Venus](../activations/neptune-hades-equals-venus.md)
-  Source page `248`
 - [Venus/Hades = Neptune](../activations/venus-hades-equals-neptune.md)
-  Source page `183`
 - [Venus/Neptune = Hades](../activations/venus-neptune-equals-hades.md)
-  Source page `180`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Neptune/Hades = Venus`: page `248`
-- `Venus/Hades = Neptune`: page `183`
-- `Venus/Neptune = Hades`: page `180`
+- `Neptune/Hades = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `248`
+- `Neptune/Hades = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `394`
+- `Venus/Hades = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `183`
+- `Venus/Hades = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `285`
+- `Venus/Neptune = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `180`
+- `Venus/Neptune = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `279`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Neptune/Hades = Venus`: This activation moves hidden corruption into attraction and affection, showing deceptive love, mean-spirited feeling, and a pull toward environments whose beauty is tied to watery melancholy.
+- `Venus/Hades = Neptune`: unreliable servants.
+- `Venus/Neptune = Hades`: chronic love’s sorrow.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Neptune](../factors/neptune.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

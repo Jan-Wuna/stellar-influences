@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Sun + Sun`
-- Source page: `99`
 #### Witte Entry
 
 Personal relationships. Physical relations to other people. To meet or make acquaintances. Personal salutation or greetings. To make acquaintances. To meet acquaintances. Body awareness for the immediate surroundings. The quality of the day (or year) at this location.
 
-## Comparative Schema
-
-- core meaning: Personal relationships. Physical relations to other people. To meet or make acquaintances. Personal salutation or greetings. To make acquaintances. To meet acquaintances. Body awareness for the immediate surroundings. The quality of the day (or year) at this location.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Sun = Asc`: the person strongly present and identity expressed directly in appearance or environment.
 
 ## Links
 

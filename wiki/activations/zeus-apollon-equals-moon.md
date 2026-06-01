@@ -3,7 +3,7 @@ title: Zeus/Apollon = Moon
 page_type: activation
 slug: zeus-apollon-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Zeus
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Apollon`
-- Source page: `291`
 #### Witte Entry
 
 Persons with practical experience. To demonstrate practice in public. Armed people, whose units are well trained and under efficient leadership, whose abilities are practically tested.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Persons with practical experience. To demonstrate practice in public. Armed people, whose units are well trained and under efficient leadership, whose abilities are practically tested.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful women's leadership, successful women's achievements, fiery fief experiences, freedom goals of a people, leadership experiences of a woman, commercial achievements of a people, trade goals of a people, and creative fief knowledge
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Apollon = Moon`: Persons with practical experience. To demonstrate practice in public. Armed people, whose units are well trained and under efficient leadership, whose abilities are practically tested.
+- Practical expression: successful women's leadership, successful women's achievements, fiery fief experiences, freedom goals of a people, and leadership experiences of a woman.
 
 ## Links
 
@@ -61,3 +56,5 @@ Persons with practical experience. To demonstrate practice in public. Armed peop
 - [Apollon](../factors/apollon.md)
 - [Moon](../factors/moon.md)
 - [Zeus/Apollon](../axes/zeus-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

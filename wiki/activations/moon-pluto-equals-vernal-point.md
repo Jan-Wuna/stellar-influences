@@ -3,7 +3,7 @@ title: Moon/Pluto = Vernal Point
 page_type: activation
 slug: moon-pluto-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Moon
   - Pluto
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Pluto`
-- Source page: `129`
 #### Witte Entry
 
 Hourly changes of the general situation. Changes in the public or among people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Hourly changes of the general situation. Changes in the public or among people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+· The development of women in public life, the execution of a people in public life, changes in public life, changes in public life by women, and change in public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Pluto = Vernal Point`: Hourly changes of the general situation. Changes in the public or among people.
+- Practical focus: externalizes `Moon/Pluto` into public and general conditions that change quickly. It emphasizes collective flux, hourly shifts, and unstable social atmosphere, making emotional transformation visible in the wider environment rather than only within the private psyche.
+- Practical expression: · The development of women in public life, the execution of a people in public life, changes in public life, changes in public life by women, and change in public life.
 
 ## Links
 
@@ -61,3 +57,5 @@ Hourly changes of the general situation. Changes in the public or among people.
 - [Pluto](../factors/pluto.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Moon/Pluto](../axes/moon-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

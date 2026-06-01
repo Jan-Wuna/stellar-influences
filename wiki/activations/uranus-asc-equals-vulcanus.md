@@ -3,10 +3,10 @@ title: Uranus/Asc = Vulcanus
 page_type: activation
 slug: uranus-asc-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Uranus
+  - Asc
   - Vulcanus
 normalized_formula: Uranus/Asc = Vulcanus
 axis: Uranus/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Asc
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Uranus`
-- Source page: `88`
 #### Witte Entry
 
 Intensified excitement, through other people, in the home or at a certain location.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Intensified excitement, through other people, in the home or at a certain location.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Unsettling environmental impact, energy of a dynamic partner, local violence event, technical environmental energy, local power stresses, new partner influence, strongly excited partner, and strong tensions in the environment
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Asc = Vulcanus`: Intensified excitement, through other people, in the home or at a certain location.
+- Practical expression: unsettling environmental impact, energy of a dynamic partner, local violence event, technical environmental energy, and local power stresses.
 
 ## Links
 
@@ -61,3 +56,5 @@ Intensified excitement, through other people, in the home or at a certain locati
 - [Asc](../factors/asc.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Uranus/Asc](../axes/uranus-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

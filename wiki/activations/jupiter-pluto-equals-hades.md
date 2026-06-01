@@ -3,7 +3,7 @@ title: Jupiter/Pluto = Hades
 page_type: activation
 slug: jupiter-pluto-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Pluto
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Pluto`
-- Source page: `210`
 #### Witte Entry
 
 A fortunate development is denied through want.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A fortunate development is denied through want.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful changes from the past, dangerous legal development, happiness in a dangerous development, grief in a gltifical development, poor legal development, criminal money transaction, and advantage through growth waiver
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Pluto = Hades`: real growth potential being obstructed by scarcity, damage, or degraded conditions. It favors persistence under pressure, but warns that want can delay or choke otherwise positive transformation.
 
 ## Links
 
@@ -61,3 +55,5 @@ A fortunate development is denied through want.
 - [Pluto](../factors/pluto.md)
 - [Hades](../factors/hades.md)
 - [Jupiter/Pluto](../axes/jupiter-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

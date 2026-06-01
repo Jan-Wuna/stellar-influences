@@ -3,7 +3,7 @@ title: Mercury/Zeus = Cupido
 page_type: activation
 slug: mercury-zeus-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Cupido
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Zeus`
-- Source page: `168`
 #### Witte Entry
 
 Marriage laws. An ordered marriage. Registry office. Wanting to carry through a plan joindy. Creative thoughts in art.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Marriage laws. An ordered marriage. Registry office. Wanting to carry through a plan joindy. Creative thoughts in art.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Efforts of the media community, reports of a performance community, leading media arts, joint youth training, describing common objectives, common objectives of youth, young leadership community, and creative language in of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Zeus = Cupido`: Marriage laws. An ordered marriage. Registry office. Wanting to carry through a plan joindy. Creative thoughts in art.
+- Practical expression: efforts of the media community, reports of a performance community, leading media arts, joint youth training, and describing common objectives.
 
 ## Links
 
@@ -61,3 +56,5 @@ Marriage laws. An ordered marriage. Registry office. Wanting to carry through a 
 - [Zeus](../factors/zeus.md)
 - [Cupido](../factors/cupido.md)
 - [Mercury/Zeus](../axes/mercury-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

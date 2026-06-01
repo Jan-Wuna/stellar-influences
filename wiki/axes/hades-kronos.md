@@ -3,7 +3,7 @@ title: Hades/Kronos
 page_type: axis
 slug: hades-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Kronos
@@ -11,26 +11,26 @@ normalized_axis: Hades/Kronos
 factor_a: Hades
 factor_b: Kronos
 related_activations:
-  - Hades/Kronos = Vernal Point
-  - Hades/Kronos = MC
-  - Hades/Kronos = Asc
-  - Hades/Kronos = Sun
-  - Hades/Kronos = Moon
-  - Hades/Kronos = Node
-  - Hades/Kronos = Mercury
-  - Hades/Kronos = Venus
-  - Hades/Kronos = Mars
-  - Hades/Kronos = Jupiter
-  - Hades/Kronos = Saturn
-  - Hades/Kronos = Uranus
-  - Hades/Kronos = Neptune
-  - Hades/Kronos = Pluto
-  - Hades/Kronos = Cupido
-  - Hades/Kronos = Zeus
-  - Hades/Kronos = Apollon
   - Hades/Kronos = Admetos
-  - Hades/Kronos = Vulcanus
+  - Hades/Kronos = Apollon
+  - Hades/Kronos = Asc
+  - Hades/Kronos = Cupido
+  - Hades/Kronos = Jupiter
+  - Hades/Kronos = Mars
+  - Hades/Kronos = MC
+  - Hades/Kronos = Mercury
+  - Hades/Kronos = Moon
+  - Hades/Kronos = Neptune
+  - Hades/Kronos = Node
+  - Hades/Kronos = Pluto
   - Hades/Kronos = Poseidon
+  - Hades/Kronos = Saturn
+  - Hades/Kronos = Sun
+  - Hades/Kronos = Uranus
+  - Hades/Kronos = Venus
+  - Hades/Kronos = Vernal Point
+  - Hades/Kronos = Vulcanus
+  - Hades/Kronos = Zeus
 related_triad_hubs:
   - Asc Hades Kronos
   - Cupido Hades Kronos
@@ -56,15 +56,15 @@ aliases:
   - Kronos/Hades
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Axis: `Hades/Kronos`
 - Astronomicon axis: `¢/¤`
-- Source heading: `Hades + Kronos`
-- Source page: `279`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
@@ -74,48 +74,44 @@ updated_at: 2026-04-21
 
 Great baseness and meanness, poverty or want. Poor government. Plain clothes police. The criminal on a large scale. Organized crime. Detective force. Criminal police. To be obliged to give up independence. Death and ruin in ruling circles.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great baseness and meanness, poverty or want. Poor government. Plain clothes police. The criminal on a large scale. Organized crime. Detective force. Criminal police. To be obliged to give up independence. Death and ruin in ruling circles.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+#### ABC Pair Summary
+
+Poor state, lack of autodtats, special disadvantages, dominance of the past, directed Crimea inalitat, great need, great Ceheimnis, criminal authority, state service, and state ceheimnis
 
 ## Related Activations
 
-- [Hades/Kronos = Vernal Point](../activations/hades-kronos-equals-vernal-point.md)
-- [Hades/Kronos = MC](../activations/hades-kronos-equals-mc.md)
-- [Hades/Kronos = Asc](../activations/hades-kronos-equals-asc.md)
-- [Hades/Kronos = Sun](../activations/hades-kronos-equals-sun.md)
-- [Hades/Kronos = Moon](../activations/hades-kronos-equals-moon.md)
-- [Hades/Kronos = Node](../activations/hades-kronos-equals-node.md)
-- [Hades/Kronos = Mercury](../activations/hades-kronos-equals-mercury.md)
-- [Hades/Kronos = Venus](../activations/hades-kronos-equals-venus.md)
-- [Hades/Kronos = Mars](../activations/hades-kronos-equals-mars.md)
-- [Hades/Kronos = Jupiter](../activations/hades-kronos-equals-jupiter.md)
-- [Hades/Kronos = Saturn](../activations/hades-kronos-equals-saturn.md)
-- [Hades/Kronos = Uranus](../activations/hades-kronos-equals-uranus.md)
-- [Hades/Kronos = Neptune](../activations/hades-kronos-equals-neptune.md)
-- [Hades/Kronos = Pluto](../activations/hades-kronos-equals-pluto.md)
-- [Hades/Kronos = Cupido](../activations/hades-kronos-equals-cupido.md)
-- [Hades/Kronos = Zeus](../activations/hades-kronos-equals-zeus.md)
-- [Hades/Kronos = Apollon](../activations/hades-kronos-equals-apollon.md)
 - [Hades/Kronos = Admetos](../activations/hades-kronos-equals-admetos.md)
-- [Hades/Kronos = Vulcanus](../activations/hades-kronos-equals-vulcanus.md)
+- [Hades/Kronos = Apollon](../activations/hades-kronos-equals-apollon.md)
+- [Hades/Kronos = Asc](../activations/hades-kronos-equals-asc.md)
+- [Hades/Kronos = Cupido](../activations/hades-kronos-equals-cupido.md)
+- [Hades/Kronos = Jupiter](../activations/hades-kronos-equals-jupiter.md)
+- [Hades/Kronos = Mars](../activations/hades-kronos-equals-mars.md)
+- [Hades/Kronos = MC](../activations/hades-kronos-equals-mc.md)
+- [Hades/Kronos = Mercury](../activations/hades-kronos-equals-mercury.md)
+- [Hades/Kronos = Moon](../activations/hades-kronos-equals-moon.md)
+- [Hades/Kronos = Neptune](../activations/hades-kronos-equals-neptune.md)
+- [Hades/Kronos = Node](../activations/hades-kronos-equals-node.md)
+- [Hades/Kronos = Pluto](../activations/hades-kronos-equals-pluto.md)
 - [Hades/Kronos = Poseidon](../activations/hades-kronos-equals-poseidon.md)
+- [Hades/Kronos = Saturn](../activations/hades-kronos-equals-saturn.md)
+- [Hades/Kronos = Sun](../activations/hades-kronos-equals-sun.md)
+- [Hades/Kronos = Uranus](../activations/hades-kronos-equals-uranus.md)
+- [Hades/Kronos = Venus](../activations/hades-kronos-equals-venus.md)
+- [Hades/Kronos = Vernal Point](../activations/hades-kronos-equals-vernal-point.md)
+- [Hades/Kronos = Vulcanus](../activations/hades-kronos-equals-vulcanus.md)
+- [Hades/Kronos = Zeus](../activations/hades-kronos-equals-zeus.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Kronos`: corruption and baseness in high places: poor government, organized crime, criminal police, official meanness, loss of independence under bad authority, and ruin or death in ruling circles.
+- Chart expression: degradation backed by status or power. It can describe corrupt leadership, detective or police involvement, state or elite criminality, and systems where rank magnifies misery instead of correcting it. Liabilities: official betrayal, coercive misrule, high-level scandal, and the normalization of meanness under respectable or commanding forms.
 
 ## Links
 
 - [Hades](../factors/hades.md)
 - [Kronos](../factors/kronos.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

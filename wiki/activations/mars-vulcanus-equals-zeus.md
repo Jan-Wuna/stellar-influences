@@ -3,7 +3,7 @@ title: Mars/Vulcanus = Zeus
 page_type: activation
 slug: mars-vulcanus-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Zeus
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Vulcanus`
-- Source page: `203`
 #### Witte Entry
 
 Directed or fixed mechanical energies. Controlled mechanical energies. Management and supervision of mechanical energies.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Directed or fixed mechanical energies. Controlled mechanical energies. Management and supervision of mechanical energies.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful work power, tremendous work performances, creative power acts, power will of filtration, creative work energy, strong filtration work, strong procreation impulses, and activity of filtration power
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Vulcanus = Zeus` directs great power into controlled mechanical or technical application.
+- Chart expression: fixed and managed mechanical energies, supervision of powerful technical forces, and disciplined command over engines, machinery, or industrial power systems.
 
 ## Links
 
@@ -61,3 +56,5 @@ Directed or fixed mechanical energies. Controlled mechanical energies. Managemen
 - [Vulcanus](../factors/vulcanus.md)
 - [Zeus](../factors/zeus.md)
 - [Mars/Vulcanus](../axes/mars-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -33,30 +33,14 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Sun/Venus midpoint`
-- Source page: `10`
-- Activator: `Chiron`
-
 #### Sandbach Entry
 
 To experience deeper and deeper meaning in love. To free the ego up to feel greater love. To tune people into the beauty that is everywhere and to induce them to open up to the vitality and meaning inherent in it. One often finds beauty and meaning in things that others would not normally deem important or attractive
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Venus = Chiron`: valuing what is spiritually essential and finding love or harmony through deeper meaning rather than surface preference.
 
 ## Links
 

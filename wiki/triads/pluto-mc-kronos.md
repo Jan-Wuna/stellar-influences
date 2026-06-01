@@ -3,7 +3,7 @@ title: Pluto MC Kronos
 page_type: triad_hub
 slug: pluto-mc-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Pluto MC Kronos`
 - Astronomicon triad-set: `Z MC ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Kronos = Pluto](../activations/mc-kronos-equals-pluto.md)
-  Source page `73`
 - [Pluto/Kronos = MC](../activations/pluto-kronos-equals-mc.md)
-  Source page `260`
 - [Pluto/MC = Kronos](../activations/pluto-mc-equals-kronos.md)
-  Source page `69`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Kronos = Pluto`: page `73`
-- `Pluto/Kronos = MC`: page `260`
-- `Pluto/MC = Kronos`: page `69`
+- `MC/Kronos = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `73`
+- `MC/Kronos = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `91`
+- `Pluto/Kronos = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `260`
+- `Pluto/Kronos = MC`: Udo Rudolph - ABC for Planetary Pictures, page `414`
+- `Pluto/MC = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `69`
+- `Pluto/MC = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `83`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Kronos = Pluto`: deepens the axis through the desire to dominate and develop mastery.
+- `Pluto/Kronos = MC`: This activation emphasizes personal development toward authority; The native grows into greater responsibility or rank.
+- `Pluto/MC = Kronos`: This activation emphasizes the native grows into authority, higher demands or tested capability.
 
 ## Links
 
 - [Pluto](../factors/pluto.md)
 - [MC](../factors/mc.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

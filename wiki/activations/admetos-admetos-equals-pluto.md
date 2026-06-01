@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Admetos + Admetos`
-- Source page: `310`
 #### Witte Entry
 
 The foundation. To go into the depth. To return to the basic origin. Basic changes. Deeply rooted growths (development). Roots. Radical transformations. Deep reaching transformation. Change from the bottom up. From raw material to finished products. From the beginning to the end. The beginning of the end.
 
-## Comparative Schema
-
-- core meaning: The foundation. To go into the depth. To return to the basic origin. Basic changes. Deeply rooted growths (development). Roots. Radical transformations. Deep reaching transformation. Change from the bottom up. From raw material to finished products. From the beginning to the end. The beginning of the end.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Admetos/Admetos = Pluto`: profound restructuring, root work, and developmental processes that begin in the deepest layer and move toward completion. Main caution: totalizing change: endings become severe, and transformation can feel fated, inescapable, or destructive before it rebuilds.
 
 ## Links
 

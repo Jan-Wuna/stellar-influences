@@ -3,7 +3,7 @@ title: Uranus Cupido Admetos
 page_type: triad_hub
 slug: uranus-cupido-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Cupido
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Cupido Admetos`
 - Astronomicon triad-set: `X ¡ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Admetos = Uranus](../activations/cupido-admetos-equals-uranus.md)
-  Source page `271`
 - [Uranus/Admetos = Cupido](../activations/uranus-admetos-equals-cupido.md)
-  Source page `241`
 - [Uranus/Cupido = Admetos](../activations/uranus-cupido-equals-admetos.md)
-  Source page `236`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Admetos = Uranus`: page `271`
-- `Uranus/Admetos = Cupido`: page `241`
-- `Uranus/Cupido = Admetos`: page `236`
+- `Cupido/Admetos = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `271`
+- `Cupido/Admetos = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `433`
+- `Uranus/Admetos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `241`
+- `Uranus/Admetos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `385`
+- `Uranus/Cupido = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `236`
+- `Uranus/Cupido = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `375`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Admetos = Uranus`: surprisingly sudden dissolution, grave disturbance in married life, or sudden collective opposition against the native.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Cupido](../factors/cupido.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Node/Cupido = MC
 page_type: activation
 slug: node-cupido-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - MC
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Cupido`
-- Source page: `149`
 #### Witte Entry
 
 To enter into a betrothal. To marry. The influence of familiar or social connections upon the native. Sense for society and art.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To enter into a betrothal. To marry. The influence of familiar or social connections upon the native. Sense for society and art.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+My attachment to the community, my connection to the whole, my connections to the arts, scelic minds, spiritual contacts in of a community, connection to a speleen community, and connected with the soul of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Cupido = MC`: To enter into a betrothal. To marry. The influence of familiar or social connections upon the native. Sense for society and art.
+- Practical focus: to enter into a betrothal; also to marry.
 
 ## Links
 
@@ -61,3 +56,5 @@ To enter into a betrothal. To marry. The influence of familiar or social connect
 - [Cupido](../factors/cupido.md)
 - [MC](../factors/mc.md)
 - [Node/Cupido](../axes/node-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

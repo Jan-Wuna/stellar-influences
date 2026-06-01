@@ -3,7 +3,7 @@ title: Venus/Admetos = Pluto
 page_type: activation
 slug: venus-admetos-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Pluto
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Admetos`
-- Source page: `187`
 #### Witte Entry
 
 Change through a deep love.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Change through a deep love.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Constricted community of peace, end of a harmonious community, consolidation of the female principle in the community, consolidation of a community by artificial means, consolidation of a community of love, and common love for profoundness
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Admetos = Pluto`: change through a deep love.
+- Practical expression: constricted community of peace, end of a harmonious community, consolidation of the female principle in the community, consolidation of a community by artificial means, and consolidation of a community of love.
 
 ## Links
 
@@ -61,3 +56,5 @@ Change through a deep love.
 - [Admetos](../factors/admetos.md)
 - [Pluto](../factors/pluto.md)
 - [Venus/Admetos](../axes/venus-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

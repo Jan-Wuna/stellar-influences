@@ -58,11 +58,12 @@ aliases:
   - MC/Moon
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -75,17 +76,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon/Medium Coeli`
-- Source page: `142`
-
 #### Pair Summary
 
 The psychological influence of women. One’s own mind. The own attitude towards females, a people or to the public. The state of the mind and soul. Personal relations with females and to the public. Emotional hour. Emotions in a people. The start of an hour. The feeling or attitude of being a woman.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Moon/Medium Coeli`
-- Source page: `142`
+#### ABC Pair Summary
+
+fictitious minute, felicitous soul, emotional and soul, I as a woman, my wife, my mother, my feelings, mother soul, people soul, and female psyche
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -109,9 +110,6 @@ The female sex, people with feeling and sentiment.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Moon/Midheaven midpoint`
-- Source page: `40`
-
 #### Principle
 
 The highest attainment possible for one’s emotions, meaning the achieve ment of clarity of feeling and instinct, as well as development of the ability to effectively care for and nurture others, and to play the part of a loving parent. The ability to be re ceptive and impressionable to spiritual forces and influences.
@@ -122,17 +120,11 @@ Development of the ability to be open to guidance by spiritual forces and to mai
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Moon/Midheaven`
-- Source page: `204`
-
 #### Pair Delineation
 
 One's own feelings and attitudes, especially those conditioned most by early experience, family, and heredity. One's relationship with the past, and its effects on one's destiny and life direction. Probably also contributes to the experience of one's own mother.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `MOON/MIDHEAVEN`
-- Source page: `143`
 
 #### Basic Ideas
 
@@ -161,15 +153,6 @@ Family genetic patterns which make you crave or be sensitive to certain drugs; h
 
 - [Michael Munkasey - Moon/MC Concepts](../derived/munkasey-moon-mc-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Moon/MC = Admetos](../activations/moon-mc-equals-admetos.md)
@@ -194,20 +177,18 @@ Family genetic patterns which make you crave or be sensitive to certain drugs; h
 - [Moon/MC = Vulcanus](../activations/moon-mc-equals-vulcanus.md)
 - [Moon/MC = Zeus](../activations/moon-mc-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/MC` is the axis of soul expression, emotional vocation, and life direction shaped by feeling, family imprint, and receptivity. It combines mood, memory, nurture, and instinct with purpose, reputation, self-direction, and the way one lives out inner needs in the world.
+- Chart expression: sensitivity, care, strong inner life, emotional attunement to purpose, and a path strongly influenced by maternal, domestic, or public feeling currents. Liabilities: wavering goals, mood-driven decisions, dependence on approval or protection, and a life course that shifts repeatedly because the emotional base remains unstable or unresolved.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)

@@ -3,7 +3,7 @@ title: Mars/Admetos = Poseidon
 page_type: activation
 slug: mars-admetos-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Admetos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Admetos`
-- Source page: `202`
 #### Witte Entry
 
 Culture or education in a special field. Mental submission. Mental suppression. Suppression of spiritual liberty.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Culture or education in a special field. Mental submission. Mental suppression. Suppression of spiritual liberty.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Perseverance in spiritual activity, blocked cultural work, restricted reason actions, strengthening spiritual impulses, spiritual work with primordial material, clarity through grtindical work, deepening in spiritual work, and creating truth through grtindlichkeit
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Admetos = Poseidon`: special cultural or educational work, but also mental submission and suppression of spiritual liberty.
+- Chart expression: concentrated study in a narrow field, while warning that ideology or education can become instruments of mental constriction.
 
 ## Links
 
@@ -61,3 +56,5 @@ Culture or education in a special field. Mental submission. Mental suppression. 
 - [Admetos](../factors/admetos.md)
 - [Poseidon](../factors/poseidon.md)
 - [Mars/Admetos](../axes/mars-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

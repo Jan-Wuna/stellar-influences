@@ -3,7 +3,7 @@ title: Moon/Pluto = Zeus
 page_type: activation
 slug: moon-pluto-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Pluto
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Pluto`
-- Source page: `129`
 #### Witte Entry
 
 To enter new service. Something new. New obligations. Increased production.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To enter new service. Something new. New obligations. Increased production.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Beginning of ailment development, development with a strenuous woman, achievement developing woman, creative transformation of a woman, multiplication of a people by procreation, growing achievements of a people, and transformation of woman by procreation
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Pluto = Zeus`: To enter new service. Something new. New obligations. Increased production.
+- Practical focus: `Moon/Pluto` is energized through new duties, fresh production, and change that immediately demands action. It favors entering new service or taking on new obligations, so transformation becomes practical, mobilizing, and oriented toward making something happen.
+- Practical expression: beginning of ailment development, development with a strenuous woman, achievement developing woman, creative transformation of a woman, and multiplication of a people by procreation.
 
 ## Links
 
@@ -61,3 +57,5 @@ To enter new service. Something new. New obligations. Increased production.
 - [Pluto](../factors/pluto.md)
 - [Zeus](../factors/zeus.md)
 - [Moon/Pluto](../axes/moon-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

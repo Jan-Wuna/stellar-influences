@@ -3,10 +3,10 @@ title: Moon/MC = Vernal Point
 page_type: activation
 slug: moon-mc-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Moon
+  - MC
   - Vernal Point
 normalized_formula: Moon/MC = Vernal Point
 axis: Moon/MC
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Moon
   - MC
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Moon`
-- Source page: `60`
 #### Witte Entry
 
 To be influenced by the female persons. The mental attitude toward the world in
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be influenced by the female persons. The mental attitude toward the world in
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+-( hours in the public, women's soul in the public, I as a woman in the public life, my life in the public, my people in the world, my wife in the public life, and people's soul in the open
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/MC = Vernal Point`: To be influenced by the female persons. The mental attitude toward the world in.
+- Practical focus: externalizes `Moon/MC` through public emotional influence and a life stance strongly affected by women or the surrounding world. Even with the source text truncated, the pattern clearly points to feeling and worldview becoming more visible, socially conditioned, and engaged with the collective field.
+- Practical expression: hours in the public, women's soul in the public, i as a woman in the public life, my life in the public, and my people in the world.
 
 ## Links
 
@@ -61,3 +57,5 @@ To be influenced by the female persons. The mental attitude toward the world in
 - [MC](../factors/mc.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Moon/MC](../axes/moon-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Vernal Point Saturn Uranus
 page_type: triad_hub
 slug: vernal-point-saturn-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Saturn
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Saturn Uranus`
 - Astronomicon triad-set: `VP W X`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Saturn/Uranus = Vernal Point](../activations/saturn-uranus-equals-vernal-point.md)
-  Source page `221`
 - [Vernal Point/Saturn = Uranus](../activations/vernal-point-saturn-equals-uranus.md)
-  Source page `44`
 - [Vernal Point/Uranus = Saturn](../activations/vernal-point-uranus-equals-saturn.md)
-  Source page `45`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Saturn/Uranus = Vernal Point`: page `221`
-- `Vernal Point/Saturn = Uranus`: page `44`
-- `Vernal Point/Uranus = Saturn`: page `45`
+- `Saturn/Uranus = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `221`
+- `Saturn/Uranus = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `348`
+- `Vernal Point/Saturn = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `44`
+- `Vernal Point/Saturn = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `37`
+- `Vernal Point/Uranus = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `45`
+- `Vernal Point/Uranus = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `39`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Vernal Point/Saturn = Uranus`: brings sudden Saturn-Uranus separation into direct worldly contact: abrupt parting from another person, and in severe contexts sudden death.
+- `Vernal Point/Uranus = Saturn`: This formula emphasizes sudden events connected with separation and sudden restrictions of the public.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Saturn](../factors/saturn.md)
 - [Uranus](../factors/uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

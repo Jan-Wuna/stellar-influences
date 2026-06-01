@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Jupiter`
-- Source page: `106`
 #### Witte Entry
 
 The bridegroom. A fortunate and happy husband. Lucky day for women or the people. The contented population. Fortunes through females or the public. At the right moment.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Sun/Jupiter`
-- Source page: `90`
-- Entry: `0231`
+#### ABC Entry
+
+Successful day for a people, woman as a legal person, woman in the money center, gllick between woman and man, gllicks feeling of the man, with the woman satisfied man, with the man satisfied woman, and personal happiness of the woman
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ A healthy soul in a healthy body, harmonious expression of feeling. A happy hour
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Sun/Jupiter midpoint`
-- Source page: `12`
-- Activator: `Moon`
-
 #### Sandbach Entry
 
 The emotional need to have big goals, and/or to be an important person. The emotional need for a meaningful and uplifting philosophy of life. To feel secure when one has many and/or large goals. To be very emotionally affected by one’s success or lack of it. If one is overly egocentric it can have a deleterious effect on one’s emotional connection to others. The ability to nurture and support the self-confidence and self- worth of others.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+An interest in people; heightens needs to address the motives of others; added needs for approval from women or mother figures; trying different approaches rather than relying on one proven method to find well being.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Jupiter = Moon`: friendliness, good spirits, and the ability to create comfort, encouragement, or abundance for others. Main caution: emotional excess: complacency, indulgence, or reliance on good feeling can weaken discipline.
 
 ## Links
 
@@ -84,7 +76,8 @@ The emotional need to have big goals, and/or to be an important person. The emot
 - [Jupiter](../factors/jupiter.md)
 - [Moon](../factors/moon.md)
 - [Sun/Jupiter](../axes/sun-jupiter.md)
-- [Sun Moon Jupiter](../triads/sun-moon-jupiter.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

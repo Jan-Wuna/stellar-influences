@@ -3,7 +3,7 @@ title: Moon Pluto Vulcanus
 page_type: triad_hub
 slug: moon-pluto-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Pluto Vulcanus`
 - Astronomicon triad-set: `R Z §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Pluto = Vulcanus](../activations/moon-pluto-equals-vulcanus.md)
-  Source page `129`
 - [Moon/Vulcanus = Pluto](../activations/moon-vulcanus-equals-pluto.md)
-  Source page `137`
 - [Pluto/Vulcanus = Moon](../activations/pluto-vulcanus-equals-moon.md)
-  Source page `263`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Pluto = Vulcanus`: page `129`
-- `Moon/Vulcanus = Pluto`: page `137`
-- `Pluto/Vulcanus = Moon`: page `263`
+- `Moon/Pluto = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `129`
+- `Moon/Pluto = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `191`
+- `Moon/Vulcanus = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `137`
+- `Moon/Vulcanus = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `205`
+- `Pluto/Vulcanus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `263`
+- `Pluto/Vulcanus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `420`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Pluto = Vulcanus`: This activation intensifies `Moon/Pluto` into powerful collective upheaval and forceful transformation. It points to strong changes in public life, executive structures, or mass feeling, where emotional mutation carries weight, pressure, and large-scale consequence.
+- `Moon/Vulcanus = Pluto`: Forceful events are developing. Development is stormy and noisy. Changes among representatives of the public power start to show. Others are prepared to take over power. Great changes in a nation relating to power and might.
+- `Pluto/Vulcanus = Moon`: This activation emphasizes a people changes its entity; Great changes in the general public conditions.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Pluto](../factors/pluto.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

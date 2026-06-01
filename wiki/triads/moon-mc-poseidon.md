@@ -3,7 +3,7 @@ title: Moon MC Poseidon
 page_type: triad_hub
 slug: moon-mc-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon MC Poseidon`
 - Astronomicon triad-set: `R MC ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Poseidon = Moon](../activations/mc-poseidon-equals-moon.md)
-  Source page `77`
 - [Moon/MC = Poseidon](../activations/moon-mc-equals-poseidon.md)
-  Source page `60`
 - [Moon/Poseidon = MC](../activations/moon-poseidon-equals-mc.md)
-  Source page `138`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Poseidon = Moon`: page `77`
-- `Moon/MC = Poseidon`: page `60`
-- `Moon/Poseidon = MC`: page `138`
+- `MC/Poseidon = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `77`
+- `MC/Poseidon = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `98`
+- `Moon/MC = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `60`
+- `Moon/MC = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `65`
+- `Moon/Poseidon = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `138`
+- `Moon/Poseidon = MC`: Udo Rudolph - ABC for Planetary Pictures, page `206`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Poseidon = Moon`: emotionalizes the axis through high sensitivity and broad perception.
+- `Moon/MC = Poseidon`: This activation spiritualizes `Moon/MC` into intuitive mentality, mediumship, and finely tuned inner perception. It favors a life direction shaped by subtle impressions and higher thought, so emotional identity becomes more transparent to inspiration, symbolism, and unseen guidance.
+- `Moon/Poseidon = MC`: Mentally prepared. Susceptible to spiritual things. To be influenced by spiritualized people.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [MC](../factors/mc.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

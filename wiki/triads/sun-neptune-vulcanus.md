@@ -3,7 +3,7 @@ title: Sun Neptune Vulcanus
 page_type: triad_hub
 slug: sun-neptune-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Neptune
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Neptune Vulcanus`
 - Astronomicon triad-set: `S Y §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Neptune/Vulcanus = Sun](../activations/neptune-vulcanus-equals-sun.md)
-  Source page `253`
 - [Sun/Neptune = Vulcanus](../activations/sun-neptune-equals-vulcanus.md)
-  Source page `109`
 - [Sun/Vulcanus = Neptune](../activations/sun-vulcanus-equals-neptune.md)
-  Source page `117`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Neptune/Vulcanus = Sun`: page `253`
-- `Sun/Neptune = Vulcanus`: page `109`
-- `Sun/Vulcanus = Neptune`: page `117`
+- `Neptune/Vulcanus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `253`
+- `Neptune/Vulcanus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `404`
+- `Sun/Neptune = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `109`
+- `Sun/Neptune = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `155`
+- `Sun/Vulcanus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `117`
+- `Sun/Vulcanus = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `171`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Neptune/Vulcanus = Sun`: The core vitality is portrayed as physically and emotionally weakened, with strength, morale, or the ability to rally oneself markedly diminished.
+- `Sun/Neptune = Vulcanus`: This formula emphasizes forceful inspiration and powerful spiritual or imaginative pressure.
+- `Sun/Vulcanus = Neptune`: This formula emphasizes a sensual man or person and suffering of the body.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Neptune](../factors/neptune.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

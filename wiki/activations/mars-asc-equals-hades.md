@@ -3,10 +3,10 @@ title: Mars/Asc = Hades
 page_type: activation
 slug: mars-asc-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Mars
+  - Asc
   - Hades
 normalized_formula: Mars/Asc = Hades
 axis: Mars/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Asc
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Mars`
-- Source page: `85`
 #### Witte Entry
 
 Obstacles because of the deeds of others. To be the victim of theft. The wrong actions of others. To adjust the mistakes of others. To be in danger of losing one’s life. Participating in robberies.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Obstacles because of the deeds of others. To be the victim of theft. The wrong actions of others. To adjust the mistakes of others. To be in danger of losing one’s life. Participating in robberies.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Work service for the environment, lack of work in the place, grief through actions of others, secret activity in the environment, dangerous work in the place, criminal environmental activity, defective work in the environment, and partner impulses from the past
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Asc = Hades` drags the Mars/Asc axis into degrading conflict, mistakes, theft, danger, and the burden of dealing with other people's wrong actions.
+- Chart expression: being harmed, used, endangered, or dirtied by others' deeds, with the fighting spirit forced into damage control, survival, or participation in troubling environments.
 
 ## Links
 
@@ -61,3 +56,5 @@ Obstacles because of the deeds of others. To be the victim of theft. The wrong a
 - [Asc](../factors/asc.md)
 - [Hades](../factors/hades.md)
 - [Mars/Asc](../axes/mars-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

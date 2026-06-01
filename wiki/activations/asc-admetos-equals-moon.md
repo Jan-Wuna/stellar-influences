@@ -3,7 +3,7 @@ title: Asc/Admetos = Moon
 page_type: activation
 slug: asc-admetos-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Asc
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Admetos`
-- Source page: `96`
 #### Witte Entry
 
 To come into the public through superiority. The settled populace. Country people. The domicile. The territory of a nation.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To come into the public through superiority. The settled populace. Country people. The domicile. The territory of a nation.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked women's environment, strengthening the partner's feelings, limiting other women's gritty partners, congestion in the hour at the place, deep partner's feelings, and a people's environment blockade
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Admetos = Moon`: homeland identity, public place-belonging, and collective life organized around fixed territory or residence. Main caution: provincial enclosure: belonging to a settled social body can narrow perspective and reinforce rank or local inferiority patterns.
 
 ## Links
 
@@ -61,3 +55,5 @@ To come into the public through superiority. The settled populace. Country peopl
 - [Admetos](../factors/admetos.md)
 - [Moon](../factors/moon.md)
 - [Asc/Admetos](../axes/asc-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

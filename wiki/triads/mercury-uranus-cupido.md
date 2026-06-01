@@ -3,7 +3,7 @@ title: Mercury Uranus Cupido
 page_type: triad_hub
 slug: mercury-uranus-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Uranus
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Uranus Cupido`
 - Astronomicon triad-set: `T X ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Cupido = Uranus](../activations/mercury-cupido-equals-uranus.md)
-  Source page `166`
 - [Mercury/Uranus = Cupido](../activations/mercury-uranus-equals-cupido.md)
-  Source page `163`
 - [Uranus/Cupido = Mercury](../activations/uranus-cupido-equals-mercury.md)
-  Source page `236`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Cupido = Uranus`: page `166`
-- `Mercury/Uranus = Cupido`: page `163`
-- `Uranus/Cupido = Mercury`: page `236`
+- `Mercury/Cupido = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `166`
+- `Mercury/Cupido = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `255`
+- `Mercury/Uranus = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `163`
+- `Mercury/Uranus = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `249`
+- `Uranus/Cupido = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `236`
+- `Uranus/Cupido = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `374`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Cupido = Uranus`: electrifies the axis with sudden inspiration and new artistic language.
+- `Mercury/Uranus = Cupido`: Wedding telegrams. Sudden artistic train of thoughts. Technical arts. Dramatic art.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Uranus](../factors/uranus.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

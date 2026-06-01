@@ -3,7 +3,7 @@ title: Pluto/Admetos = Hades
 page_type: activation
 slug: pluto-admetos-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Hades
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Admetos`
-- Source page: `262`
 #### Witte Entry
 
 Bad things, sorrow and sadness are on the way. An evil change of the existing conditions. After a far reaching crisis an existing decadence predominates and leads to final ruin.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Bad things, sorrow and sadness are on the way. An evil change of the existing conditions. After a far reaching crisis an existing decadence predominates and leads to final ruin.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Limitation of criminal development, difficult development due to depression, serious development from the past, poor circulatory development, adverse changes due to depression, and growing resistance to criminality
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Admetos = Hades`: bad things, sorrow and sadness are on the way; An evil change of the existing conditions.
+- Practical expression: limitation of criminal development, difficult development due to depression, serious development from the past, poor circulatory development, and adverse changes due to depression.
 
 ## Links
 
@@ -61,3 +56,5 @@ Bad things, sorrow and sadness are on the way. An evil change of the existing co
 - [Admetos](../factors/admetos.md)
 - [Hades](../factors/hades.md)
 - [Pluto/Admetos](../axes/pluto-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

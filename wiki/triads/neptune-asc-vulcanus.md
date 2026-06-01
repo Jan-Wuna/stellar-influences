@@ -3,7 +3,7 @@ title: Neptune Asc Vulcanus
 page_type: triad_hub
 slug: neptune-asc-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Neptune Asc Vulcanus`
 - Astronomicon triad-set: `Y Asc §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Vulcanus = Neptune](../activations/asc-vulcanus-equals-neptune.md)
-  Source page `97`
 - [Neptune/Asc = Vulcanus](../activations/neptune-asc-equals-vulcanus.md)
-  Source page `89`
 - [Neptune/Vulcanus = Asc](../activations/neptune-vulcanus-equals-asc.md)
-  Source page `253`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Vulcanus = Neptune`: page `97`
-- `Neptune/Asc = Vulcanus`: page `89`
-- `Neptune/Vulcanus = Asc`: page `253`
+- `Asc/Vulcanus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `97`
+- `Asc/Vulcanus = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `135`
+- `Neptune/Asc = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `89`
+- `Neptune/Asc = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `119`
+- `Neptune/Vulcanus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `253`
+- `Neptune/Vulcanus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `404`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Vulcanus = Neptune`: others exhausting themselves, failing in trial of strength, or being forced into a hard lesson.
+- `Neptune/Asc = Vulcanus`: This activation intensifies deception through others into overwhelming disappointment, where hidden motives or false appearances carry unusual force and leave a heavy emotional impact.
+- `Neptune/Vulcanus = Asc`: This activation personalizes hidden pressure through others, often as disappointment, depletion, or loss of influence. It can show being undermined by external forces or feeling one's power and presence weakened through deceptive relationships.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [Asc](../factors/asc.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

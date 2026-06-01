@@ -3,7 +3,7 @@ title: Pluto/Vulcanus = Hades
 page_type: activation
 slug: pluto-vulcanus-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Hades
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Vulcanus`
-- Source page: `263`
 #### Witte Entry
 
 Great increase of evil things. The situation is getting worse. Increased dangers.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great increase of evil things. The situation is getting worse. Increased dangers.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dangerous power developments, adverse energy development, grief caused by violent changes, deficient force development, changes caused by criminal violence, growing force in danger, and growing power in secret
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Vulcanus = Hades`: great increase of evil things; The situation is getting worse; Increased dangers.
+- Practical expression: dangerous power developments, adverse energy development, grief caused by violent changes, deficient force development, and changes caused by criminal violence.
 
 ## Links
 
@@ -61,3 +56,5 @@ Great increase of evil things. The situation is getting worse. Increased dangers
 - [Vulcanus](../factors/vulcanus.md)
 - [Hades](../factors/hades.md)
 - [Pluto/Vulcanus](../axes/pluto-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

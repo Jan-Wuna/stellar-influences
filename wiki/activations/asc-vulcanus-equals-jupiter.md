@@ -3,7 +3,7 @@ title: Asc/Vulcanus = Jupiter
 page_type: activation
 slug: asc-vulcanus-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Asc
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Vulcanus`
-- Source page: `97`
 #### Witte Entry
 
 Others use all their power for the best of the native. To be infected by optimism of others.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Others use all their power for the best of the native. To be infected by optimism of others.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful environmental power, successful partner influence, financial power of the partner, joy over strength of the partner, joy over partner influence, right power in the place, right violence for the environment, and advantage through space energy
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Vulcanus = Jupiter`: protection, encouragement from strong people, and environments where power helps rather than crushes. Main caution: overconfidence or assuming support will always be there.
 
 ## Links
 
@@ -61,3 +55,5 @@ Others use all their power for the best of the native. To be infected by optimis
 - [Vulcanus](../factors/vulcanus.md)
 - [Jupiter](../factors/jupiter.md)
 - [Asc/Vulcanus](../axes/asc-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

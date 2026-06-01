@@ -3,10 +3,10 @@ title: Moon/MC = Zeus
 page_type: activation
 slug: moon-mc-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Moon
+  - MC
   - Zeus
 normalized_formula: Moon/MC = Zeus
 axis: Moon/MC
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - MC
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Moon`
-- Source page: `60`
 #### Witte Entry
 
 A fiery emotional life. Creative active brain. To be stimulated by women into creative activity.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A fiery emotional life. Creative active brain. To be stimulated by women into creative activity.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+The perpetuation of my people, I produce My wife's achievements, My people's achievements, My efforts as a woman, My fiery works, My creations as a woman, My creative wife, and Se'elian achievements of the woman
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/MC = Zeus`: A fiery emotional life. Creative active brain. To be stimulated by women into creative activity.
+- Practical focus: ignites `Moon/MC` into creative passion, emotional heat, and mentally active productivity. It favors a life path energized by desire, inspiration, or encouragement from women, so feeling becomes a spark for making, initiating, and turning inner fire into outward expression.
+- Practical expression: the perpetuation of my people, i produce My wife's achievements, my people's achievements, my efforts as a woman, and my fiery works.
 
 ## Links
 
@@ -61,3 +57,5 @@ A fiery emotional life. Creative active brain. To be stimulated by women into cr
 - [MC](../factors/mc.md)
 - [Zeus](../factors/zeus.md)
 - [Moon/MC](../axes/moon-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

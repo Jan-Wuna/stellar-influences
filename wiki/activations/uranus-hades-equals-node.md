@@ -3,7 +3,7 @@ title: Uranus/Hades = Node
 page_type: activation
 slug: uranus-hades-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Node
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Hades`
-- Source page: `237`
 #### Witte Entry
 
 To be suddenly connected with ugly and cunning treachery or a surprisingly setting in need and distress. Connections with murder affairs.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be suddenly connected with ugly and cunning treachery or a surprisingly setting in need and distress. Connections with murder affairs.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dangerous events in a connection, disadvantages due to technical connections, sudden distress in a connection, sudden abandonment of a connection, surprising connection with the past, and hidden tension in a relationship
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Hades = Node`: To be suddenly connected with ugly and cunning treachery or a surprisingly setting in need and distress. Connections with murder affairs.
+- Practical expression: dangerous events in a connection, disadvantages due to technical connections, sudden distress in a connection, sudden abandonment of a connection, and surprising connection with the past.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be suddenly connected with ugly and cunning treachery or a surprisingly setti
 - [Hades](../factors/hades.md)
 - [Node](../factors/node.md)
 - [Uranus/Hades](../axes/uranus-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

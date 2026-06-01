@@ -3,7 +3,7 @@ title: Neptune/Poseidon = MC
 page_type: activation
 slug: neptune-poseidon-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - MC
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Poseidon`
-- Source page: `254`
 #### Witte Entry
 
 To look into the mirror, to regard the reflected image, knowledge of oneself. Introspection. To be under the influence of a wrong view of life. To be considered a follower of the wrong faith.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To look into the mirror, to regard the reflected image, knowledge of oneself. Introspection. To be under the influence of a wrong view of life. To be considered a follower of the wrong faith.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Enlivened Zukuntl's visions, my spirit in strangers, my knowledge of water, my great future, my unknown ideas, my clarity through intuition, my mind is weak, refined soul culture, and refinement of my insights
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Poseidon = MC`: To look into the mirror, to regard the reflected image, knowledge of oneself. Introspection. To be under the influence of a wrong view of life. To be considered a follower of the wrong faith.
+- Practical focus: internalizes the axis through introspection and self-reflection, but ties self-knowledge to the risk of adopting a misleading philosophy or being seen as aligned with it.
+- Practical expression: enlivened Zukuntl's visions, my spirit in strangers, my knowledge of water, my great future, and my unknown ideas.
 
 ## Links
 
@@ -61,3 +57,5 @@ To look into the mirror, to regard the reflected image, knowledge of oneself. In
 - [Poseidon](../factors/poseidon.md)
 - [MC](../factors/mc.md)
 - [Neptune/Poseidon](../axes/neptune-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

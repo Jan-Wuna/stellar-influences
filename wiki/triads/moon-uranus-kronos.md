@@ -3,7 +3,7 @@ title: Moon Uranus Kronos
 page_type: triad_hub
 slug: moon-uranus-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Uranus
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Uranus Kronos`
 - Astronomicon triad-set: `R X ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Kronos = Uranus](../activations/moon-kronos-equals-uranus.md)
-  Source page `133`
 - [Moon/Uranus = Kronos](../activations/moon-uranus-equals-kronos.md)
-  Source page `127`
 - [Uranus/Kronos = Moon](../activations/uranus-kronos-equals-moon.md)
-  Source page `239`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Kronos = Uranus`: page `133`
-- `Moon/Uranus = Kronos`: page `127`
-- `Uranus/Kronos = Moon`: page `239`
+- `Moon/Kronos = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `133`
+- `Moon/Kronos = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `199`
+- `Moon/Uranus = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `127`
+- `Moon/Uranus = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `187`
+- `Uranus/Kronos = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `239`
+- `Uranus/Kronos = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `380`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Kronos = Uranus`: Leading women act suddenly. Officials or boards interfere surprisingly.
+- `Moon/Uranus = Kronos`: This activation elevates `Moon/Uranus` through commanding disruption and authority-driven excitation. It favors leaders, high-impact events, and public arousal stirred from above, making instability more directive, organized, and politically consequential.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Uranus](../factors/uranus.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

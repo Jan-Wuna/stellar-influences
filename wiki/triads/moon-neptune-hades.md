@@ -3,7 +3,7 @@ title: Moon Neptune Hades
 page_type: triad_hub
 slug: moon-neptune-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Neptune
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Neptune Hades`
 - Astronomicon triad-set: `R Y ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Hades = Neptune](../activations/moon-hades-equals-neptune.md)
-  Source page `131`
 - [Moon/Neptune = Hades](../activations/moon-neptune-equals-hades.md)
-  Source page `128`
 - [Neptune/Hades = Moon](../activations/neptune-hades-equals-moon.md)
-  Source page `248`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Hades = Neptune`: page `131`
-- `Moon/Neptune = Hades`: page `128`
-- `Neptune/Hades = Moon`: page `248`
+- `Moon/Hades = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `131`
+- `Moon/Hades = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `195`
+- `Moon/Neptune = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `128`
+- `Moon/Neptune = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `189`
+- `Neptune/Hades = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `248`
+- `Neptune/Hades = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `394`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Hades = Neptune`: Poor abandoned wife. Widow. Worries for the future, not seeing a way out. To be in low water, without resources.
+- `Moon/Neptune = Hades`: This activation degrades `Moon/Neptune` into insomnia, bad dreams, and emotionally morbid nocturnal states. It shows the receptive imagination turned against ease, making rest, psychic openness, and inner softness vulnerable to disturbance, fear, or unhealthy fixation.
+- `Neptune/Hades = Moon`: This activation emotionalizes hidden decline through women, the public, or bodily fluids, bringing unpleasantness, clouded perception, and vulnerable collective or domestic conditions to the foreground.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Neptune](../factors/neptune.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

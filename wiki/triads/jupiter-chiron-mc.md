@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Jupiter Chiron MC`
 - Astronomicon triad-set: `V Chiron MC`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Jupiter/Chiron = MC`: John, page `79`
 - `Jupiter/MC = Chiron`: John, page `86`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/MC = Jupiter`: expansive healing leadership, moral or spiritual encouragement, and vocation that widens possibility. Main caution: turning calling into mission inflation or preaching.
+- `Jupiter/Chiron = MC`: career and calling as vehicles for hope. It favors work that inspires, reconciles, and gives others a reason to continue.
+- `Jupiter/MC = Chiron` has no source-bearing activation paragraph currently ingested on this page; treat it as an orientation placeholder rather than interpretive doctrine.
 
 ## Links
 

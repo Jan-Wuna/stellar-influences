@@ -3,7 +3,7 @@ title: Sun/Vulcanus = Venus
 page_type: activation
 slug: sun-vulcanus-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Venus
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Vulcanus`
-- Source page: `117`
 #### Witte Entry
 
 Strong desire for physical love. To feel oneself strongly attracted by the other sex. Delicacy. Flair.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Strong desire for physical love. To feel oneself strongly attracted by the other sex. Delicacy. Flair.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influential art centre, love for a strong man, love influence of the carper, body force Iieben, power of human love, personal peace influence, and shanty powerful body
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Vulcanus = Venus`: Strong desire for physical love. To feel oneself strongly attracted by the other sex. Delicacy. Flair.
+- Practical focus: concentrates force into attraction, desire, and sensual magnetism. It emphasizes powerful erotic pull, strong relational appetite, and a refined flair that gives intensity a graceful or alluring form.
+- Practical expression: influential art centre, love for a strong man, love influence of the carper, body force Iieben, and power of human love.
 
 ## Links
 
@@ -61,3 +57,5 @@ Strong desire for physical love. To feel oneself strongly attracted by the other
 - [Vulcanus](../factors/vulcanus.md)
 - [Venus](../factors/venus.md)
 - [Sun/Vulcanus](../axes/sun-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

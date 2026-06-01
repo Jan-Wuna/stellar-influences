@@ -33,30 +33,14 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Chiron/Node midpoint`
-- Source page: `100`
-- Activator: `Midheaven`
-
 #### Sandbach Entry
 
 One’s life purpose involves fostering spiritual connectedness between people. Healing one’s attachment to the past is a key to being able to fulfill one’s life purpose.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Chiron/Node = MC`: vocation through relational healing, guidance, and helping people reconnect to deeper belonging. Main caution: trying to fulfill purpose without doing the past-clearing that purpose requires.
 
 ## Links
 

@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Cupido + Cupido`
-- Source page: `266`
 #### Witte Entry
 
 Foundation of a corporation. Foundation of a new society. Marriage. Artistic creation. Military organization. Artistic activity. Appearance of a new art form. Matrimonial agent. Creator in art.
 
-## Comparative Schema
-
-- core meaning: Foundation of a corporation. Foundation of a new society. Marriage. Artistic creation. Military organization. Artistic activity. Appearance of a new art form. Matrimonial agent. Creator in art.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Cupido = Zeus`: communities and partnerships being deliberately started, mobilized, or creatively built around a common aim. Main caution: driving formation too aggressively or treating relationship as a project rather than a living bond.
 
 ## Links
 

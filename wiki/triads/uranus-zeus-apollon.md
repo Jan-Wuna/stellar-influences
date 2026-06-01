@@ -3,7 +3,7 @@ title: Uranus Zeus Apollon
 page_type: triad_hub
 slug: uranus-zeus-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Zeus
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Zeus Apollon`
 - Astronomicon triad-set: `X £ ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Uranus/Apollon = Zeus](../activations/uranus-apollon-equals-zeus.md)
-  Source page `240`
 - [Uranus/Zeus = Apollon](../activations/uranus-zeus-equals-apollon.md)
-  Source page `238`
 - [Zeus/Apollon = Uranus](../activations/zeus-apollon-equals-uranus.md)
-  Source page `291`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Uranus/Apollon = Zeus`: page `240`
-- `Uranus/Zeus = Apollon`: page `238`
-- `Zeus/Apollon = Uranus`: page `291`
+- `Uranus/Apollon = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `240`
+- `Uranus/Apollon = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `383`
+- `Uranus/Zeus = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `238`
+- `Uranus/Zeus = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `379`
+- `Zeus/Apollon = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `291`
+- `Zeus/Apollon = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `453`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Zeus/Apollon = Uranus`: Quickly consummated business deals. Talent for construction. To be suddenly tied to technical matters or things. To study and search technical problems. Technical designs. Engineering drawings.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Zeus](../factors/zeus.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

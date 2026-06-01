@@ -52,9 +52,6 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Chiron/Ascendant midpoint`
-- Source page: `101`
-
 #### Principle
 
 The need to realize that one is able to connect with spirit guides, nature spirits and angels, and to be a freely mutating and transforming agent of healing. The compelling urge to allow one’s self-confidence to spontaneously arise from one’s spiri tual self rather than be rooted in materialistic, passing or ephemeral things. The need to let go of the limiting projections and definitions that others impose on oneself.
@@ -62,15 +59,6 @@ The need to realize that one is able to connect with spirit guides, nature spiri
 #### Process
 
 The ability to realize the power of the moment, to unite with it, and to channel spiritual energies into the now.
-
-## Comparative Schema
-
-- core meaning: source-native pair entries are preserved side by side above.
-- psychology: Sandbach contributes an explicit `Principle` and `Process` layer, while other sources retain their own native structure and vocabulary.
-- body/health: bodily or vitality implications remain embedded inside each source entry when present.
-- social/relationship: interpersonal implications remain attached to the source-native wording above instead of being flattened into one paraphrase.
-- events/manifestations: see the source entries above and the orientation-specific activation pages linked below.
-- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
 
 ## Related Activations
 
@@ -87,14 +75,11 @@ The ability to realize the power of the moment, to unite with it, and to channel
 - [Chiron/Asc = Uranus](../activations/chiron-asc-equals-uranus.md)
 - [Chiron/Asc = Venus](../activations/chiron-asc-equals-venus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices and framework emphases rather than flattened into one interpretation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Chiron/Asc`: identity healing: learning to let confidence arise from spiritual alignment rather than from transient worldly labels, and becoming a more transparent channel for healing presence.
+- Chart expression: the urge to shed projections imposed by others, to loosen rigid self-concepts, and to allow the moment itself to become a site of healing and spiritual attunement. Liabilities: clinging to wounded identity, seeking confidence through external validation, or treating spiritual identity as another fixed mask rather than as a living process.
 
 ## Links
 

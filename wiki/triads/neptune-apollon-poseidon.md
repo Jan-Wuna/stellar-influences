@@ -3,7 +3,7 @@ title: Neptune Apollon Poseidon
 page_type: triad_hub
 slug: neptune-apollon-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Apollon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Neptune Apollon Poseidon`
 - Astronomicon triad-set: `Y ¥ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Apollon/Poseidon = Neptune](../activations/apollon-poseidon-equals-neptune.md)
-  Source page `308`
 - [Neptune/Apollon = Poseidon](../activations/neptune-apollon-equals-poseidon.md)
-  Source page `251`
 - [Neptune/Poseidon = Apollon](../activations/neptune-poseidon-equals-apollon.md)
-  Source page `254`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Apollon/Poseidon = Neptune`: page `308`
-- `Neptune/Apollon = Poseidon`: page `251`
-- `Neptune/Poseidon = Apollon`: page `254`
+- `Apollon/Poseidon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `308`
+- `Apollon/Poseidon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `473`
+- `Neptune/Apollon = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `251`
+- `Neptune/Apollon = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `401`
+- `Neptune/Poseidon = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `254`
+- `Neptune/Poseidon = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `407`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Apollon/Poseidon = Neptune`: the breakdown of like-minded community because the shared ideal is no longer truthful, clear, or mutually understood.
+- `Neptune/Apollon = Poseidon`: This activation spiritualizes `Neptune/Apollon` through failure of mutual understanding in elevated, occult, or highly intellectual matters. It suggests large ideas or subtle truths becoming difficult to share clearly, leaving aspiration and comprehension out of step.
+- `Neptune/Poseidon = Apollon`: This activation enlarges the axis into collective insincerity and shared false worldview, showing many people concealing what they believe while drifting into mistaken ideas together.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [Apollon](../factors/apollon.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,10 +3,10 @@ title: Neptune/Asc = Hades
 page_type: activation
 slug: neptune-asc-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Neptune
+  - Asc
   - Hades
 normalized_formula: Neptune/Asc = Hades
 axis: Neptune/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Asc
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Neptune`
-- Source page: `89`
 #### Witte Entry
 
 To be the cause of a drowning. To get into danger through others. To sustain damages.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be the cause of a drowning. To get into danger through others. To sustain damages.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exchange and grief by the partner. Fine tuning of the partner in need, dangerous subtle environment, dangerous weakness of the partner, air shortage in the place, disadvantages in the foreign place, and dirty water in the environment
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Asc = Hades`: To be the cause of a drowning. To get into danger through others. To sustain damages.
+- Practical focus: darkens uncertain contact through others into danger, damage, or degrading consequences, where misplaced trust or confused involvement leads into harmful conditions.
+- Practical expression: exchange, grief by the partner. Fine tuning of the partner in need, dangerous subtle environment, dangerous weakness of the partner, and air shortage in the place.
 
 ## Links
 
@@ -61,3 +57,5 @@ To be the cause of a drowning. To get into danger through others. To sustain dam
 - [Asc](../factors/asc.md)
 - [Hades](../factors/hades.md)
 - [Neptune/Asc](../axes/neptune-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

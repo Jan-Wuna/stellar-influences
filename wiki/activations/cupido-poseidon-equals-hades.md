@@ -3,7 +3,7 @@ title: Cupido/Poseidon = Hades
 page_type: activation
 slug: cupido-poseidon-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Cupido
   - Hades
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Poseidon`
-- Source page: `274`
 #### Witte Entry
 
 Deterioration of sects. Associations which represent a certain philosophy of life or an ideology, on the stupidity and ignorance of their members. Spreading of erroneous beliefs or superstition.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Deterioration of sects. Associations which represent a certain philosophy of life or an ideology, on the stupidity and ignorance of their members. Spreading of erroneous beliefs or superstition.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Common clarity from the past, joint renunciation of a community, mentally endangered community, lack of ideas of a community, criminality of a spiritual community, culture of a traditional community, and artist and culture of the past
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Poseidon = Hades`: communal ideals becoming corrupted, hollow, or backward, with ideology sinking below the standards it claims. Main caution: collective credulity and degraded belief dressed up as higher truth.
 
 ## Links
 
@@ -61,3 +55,5 @@ Deterioration of sects. Associations which represent a certain philosophy of lif
 - [Poseidon](../factors/poseidon.md)
 - [Hades](../factors/hades.md)
 - [Cupido/Poseidon](../axes/cupido-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

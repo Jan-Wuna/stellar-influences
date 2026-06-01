@@ -3,7 +3,7 @@ title: Moon Zeus Vulcanus
 page_type: triad_hub
 slug: moon-zeus-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Zeus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Zeus Vulcanus`
 - Astronomicon triad-set: `R £ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Vulcanus = Zeus](../activations/moon-vulcanus-equals-zeus.md)
-  Source page `137`
 - [Moon/Zeus = Vulcanus](../activations/moon-zeus-equals-vulcanus.md)
-  Source page `132`
 - [Zeus/Vulcanus = Moon](../activations/zeus-vulcanus-equals-moon.md)
-  Source page `295`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Vulcanus = Zeus`: page `137`
-- `Moon/Zeus = Vulcanus`: page `132`
-- `Zeus/Vulcanus = Moon`: page `295`
+- `Moon/Vulcanus = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `137`
+- `Moon/Vulcanus = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `205`
+- `Moon/Zeus = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `132`
+- `Moon/Zeus = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `197`
+- `Zeus/Vulcanus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `295`
+- `Zeus/Vulcanus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `456`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Vulcanus = Zeus`: Events of importance prescribed by natural law. Starding creations, accomplishments and deeds. Great help by the representatives of public power.
+- `Moon/Zeus = Vulcanus`: Every minute taken up. To exert oneself under expenditure of all one’s force. Record accomplishment.
+- `Zeus/Vulcanus = Moon`: Persons, the public, a people or women who concentrate all their efforts in one direction.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Zeus](../factors/zeus.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

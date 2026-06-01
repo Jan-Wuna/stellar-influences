@@ -3,7 +3,7 @@ title: Sun Mercury Kronos
 page_type: triad_hub
 slug: sun-mercury-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Mercury
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Mercury Kronos`
 - Astronomicon triad-set: `S T ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Kronos = Sun](../activations/mercury-kronos-equals-sun.md)
-  Source page `169`
 - [Sun/Kronos = Mercury](../activations/sun-kronos-equals-mercury.md)
-  Source page `114`
 - [Sun/Mercury = Kronos](../activations/sun-mercury-equals-kronos.md)
-  Source page `103`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Kronos = Sun`: page `169`
-- `Sun/Kronos = Mercury`: page `114`
-- `Sun/Mercury = Kronos`: page `103`
+- `Mercury/Kronos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `169`
+- `Mercury/Kronos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `260`
+- `Sun/Kronos = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `114`
+- `Sun/Kronos = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `164`
+- `Sun/Mercury = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `103`
+- `Sun/Mercury = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `143`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Kronos = Sun`: embodies the axis as governing intelligence and ennobled personal authority.
+- `Sun/Kronos = Mercury`: This formula emphasizes the independent thinker and a superior mind.
+- `Sun/Mercury = Kronos`: This formula emphasizes superior thinking and intellectual authority.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Mercury](../factors/mercury.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

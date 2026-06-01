@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Venus`
-- Source page: `123`
 #### Witte Entry
 
 Woman’s love for the man. The man who is favored by women. The mother. Daily repeating harmonious hours. A feminine man.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Moon/Venus`
-- Source page: `117`
-- Entry: `0339`
+#### ABC Entry
+
+Joy of the woman over the man, joy of the man over the woman, love between man and woman, love fellow of the man, personal harmony feeling, personal skill of a woman, beauty of the woman body, day and hour of love, and center of the people art
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,21 @@ Marital love, protective care of the family, graceftil, appreciation of artistic
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Moon/Venus midpoint`
-- Source page: `27`
-- Activator: `Sun`
-
 #### Sandbach Entry
 
 An awareness of feelings exchanged in relationships and a desire to perceive their meaning and purpose. One feels it is important to take care of the person one is relat ing to. One is vitalized by the sharing of feelings in relationships.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+The importance you place on considering others and their needs; the confidence with which you are able to show caring and nurturing to others; the respect you gain from others when you show care and concern.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Venus = Sun` channels the tender, receptive love of the Moon/Venus axis through the Sun, making affection more vital, visible, intentional, and identity-forming. It points to relational warmth that wants to express itself openly and to care that becomes central to purpose or selfhood.
+- Chart expression: the conscious expression of love: protective family feeling, vitality through emotional exchange, appreciation of beauty in living form, and a solar need to give shape, meaning, and presence to affection.
 
 ## Links
 
@@ -84,7 +77,8 @@ An awareness of feelings exchanged in relationships and a desire to perceive the
 - [Venus](../factors/venus.md)
 - [Sun](../factors/sun.md)
 - [Moon/Venus](../axes/moon-venus.md)
-- [Sun Moon Venus](../triads/sun-moon-venus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

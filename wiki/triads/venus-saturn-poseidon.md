@@ -3,7 +3,7 @@ title: Venus Saturn Poseidon
 page_type: triad_hub
 slug: venus-saturn-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Saturn
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Saturn Poseidon`
 - Astronomicon triad-set: `Q W ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Saturn/Poseidon = Venus](../activations/saturn-poseidon-equals-venus.md)
-  Source page `231`
 - [Venus/Poseidon = Saturn](../activations/venus-poseidon-equals-saturn.md)
-  Source page `189`
 - [Venus/Saturn = Poseidon](../activations/venus-saturn-equals-poseidon.md)
-  Source page `178`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Saturn/Poseidon = Venus`: page `231`
-- `Venus/Poseidon = Saturn`: page `189`
-- `Venus/Saturn = Poseidon`: page `178`
+- `Saturn/Poseidon = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `231`
+- `Saturn/Poseidon = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `368`
+- `Venus/Poseidon = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `189`
+- `Venus/Poseidon = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `297`
+- `Venus/Saturn = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `178`
+- `Venus/Saturn = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `275`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Venus/Poseidon = Saturn`: to be hindered, wronged, separated or persecuted because of faith, religion or world conception.
+- `Venus/Saturn = Poseidon`: disturbed harmony in dealing with wisdom.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Saturn](../factors/saturn.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

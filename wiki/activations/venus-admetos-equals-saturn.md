@@ -3,7 +3,7 @@ title: Venus/Admetos = Saturn
 page_type: activation
 slug: venus-admetos-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Saturn
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Admetos`
-- Source page: `187`
 #### Witte Entry
 
 To be in a position to separate unburdened from somebody. To be able to resign, to renounce.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be in a position to separate unburdened from somebody. To be able to resign, to renounce.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dcpressions through pain in love, firmness through grunds of duty, grunds of affection in old age, harmonious deepening in old age, painful suppression of wunschen, deepening in old arts, deepening in peace problems ct Blocked peace impulses, depressingcs art, dynamic deepening in the arts, new deep affection, suddenly blocked joy, and tension through cingcrecktc love
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Admetos = Saturn`: to be in a position to separate unburdened from somebody.
+- Practical expression: dcpressions through pain in love, harmonious deepening in old age, and deepening in old arts.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be in a position to separate unburdened from somebody. To be able to resign, 
 - [Admetos](../factors/admetos.md)
 - [Saturn](../factors/saturn.md)
 - [Venus/Admetos](../axes/venus-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

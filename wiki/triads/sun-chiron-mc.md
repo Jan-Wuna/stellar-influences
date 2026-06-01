@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Sun Chiron MC`
 - Astronomicon triad-set: `S Chiron MC`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Sun/Chiron = MC`: John, page `15`
 - `Sun/MC = Chiron`: John, page `24`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/MC = Sun`: vocation as a place where ego must be purified into service. Main caution: making status or self-importance the goal instead of light-bearing purpose.
+- `Sun/Chiron = MC`: seeing one's worldly path as part of a deeper spiritual purpose and aligning public direction with inner meaning.
+- `Sun/MC = Chiron`: a life direction shaped by deeper meaning and a public path that serves healing or spiritual purpose.
 
 ## Links
 

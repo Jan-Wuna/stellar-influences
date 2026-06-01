@@ -3,7 +3,7 @@ title: Sun Node Vulcanus
 page_type: triad_hub
 slug: sun-node-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Node Vulcanus`
 - Astronomicon triad-set: `S g §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Node/Vulcanus = Sun](../activations/node-vulcanus-equals-sun.md)
-  Source page `155`
 - [Sun/Node = Vulcanus](../activations/sun-node-equals-vulcanus.md)
-  Source page `102`
 - [Sun/Vulcanus = Node](../activations/sun-vulcanus-equals-node.md)
-  Source page `117`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Node/Vulcanus = Sun`: page `155`
-- `Sun/Node = Vulcanus`: page `102`
-- `Sun/Vulcanus = Node`: page `117`
+- `Node/Vulcanus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `155`
+- `Node/Vulcanus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `236`
+- `Sun/Node = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `102`
+- `Sun/Node = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `141`
+- `Sun/Vulcanus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `117`
+- `Sun/Vulcanus = Node`: Udo Rudolph - ABC for Planetary Pictures, page `170`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Node/Vulcanus = Sun`: To be eager. To exert great powerful influence by personal appearance or participation.
+- `Sun/Node = Vulcanus`: This formula emphasizes forceful bonds and strong mutual involvement.
+- `Sun/Vulcanus = Node`: This formula emphasizes forceful connections and strong mutual ties.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Node](../factors/node.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

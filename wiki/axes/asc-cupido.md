@@ -3,7 +3,7 @@ title: Asc/Cupido
 page_type: axis
 slug: asc-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Cupido
@@ -11,26 +11,26 @@ normalized_axis: Asc/Cupido
 factor_a: Asc
 factor_b: Cupido
 related_activations:
-  - Asc/Cupido = Vernal Point
-  - Asc/Cupido = MC
-  - Asc/Cupido = Sun
-  - Asc/Cupido = Moon
-  - Asc/Cupido = Node
-  - Asc/Cupido = Mercury
-  - Asc/Cupido = Venus
-  - Asc/Cupido = Mars
-  - Asc/Cupido = Jupiter
-  - Asc/Cupido = Saturn
-  - Asc/Cupido = Uranus
-  - Asc/Cupido = Neptune
-  - Asc/Cupido = Pluto
-  - Asc/Cupido = Hades
-  - Asc/Cupido = Zeus
-  - Asc/Cupido = Kronos
-  - Asc/Cupido = Apollon
   - Asc/Cupido = Admetos
-  - Asc/Cupido = Vulcanus
+  - Asc/Cupido = Apollon
+  - Asc/Cupido = Hades
+  - Asc/Cupido = Jupiter
+  - Asc/Cupido = Kronos
+  - Asc/Cupido = Mars
+  - Asc/Cupido = MC
+  - Asc/Cupido = Mercury
+  - Asc/Cupido = Moon
+  - Asc/Cupido = Neptune
+  - Asc/Cupido = Node
+  - Asc/Cupido = Pluto
   - Asc/Cupido = Poseidon
+  - Asc/Cupido = Saturn
+  - Asc/Cupido = Sun
+  - Asc/Cupido = Uranus
+  - Asc/Cupido = Venus
+  - Asc/Cupido = Vernal Point
+  - Asc/Cupido = Vulcanus
+  - Asc/Cupido = Zeus
 related_triad_hubs:
   - Asc Cupido Admetos
   - Asc Cupido Apollon
@@ -56,15 +56,15 @@ aliases:
   - Cupido/Asc
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Axis: `Asc/Cupido`
 - Astronomicon axis: `Asc/¡`
-- Source heading: `Asc + Cupido`
-- Source page: `91`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
@@ -74,48 +74,44 @@ updated_at: 2026-04-21
 
 The parental home. Family following. The apartment. The home. Houses. Dwellings. Social connections. Other people are united. Business partnership. Acquaintance with artists. Common endeavors. Family ties. The conditions that are present where one resides. Relations with group members. The outer appearance of the family, association or group.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The parental home. Family following. The apartment. The home. Houses. Dwellings. Social connections. Other people are united. Business partnership. Acquaintance with artists. Common endeavors. Family ties. The conditions that are present where one resides. Relations with group members. The outer appearance of the family, association or group.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+#### ABC Pair Summary
+
+Other Communities, Common Environment, Community Place, art Place, Artistic Assets, Local Community, partner Community, SpaceArt, Environment Community, and Environmental Synthesis
 
 ## Related Activations
 
-- [Asc/Cupido = Vernal Point](../activations/asc-cupido-equals-vernal-point.md)
-- [Asc/Cupido = MC](../activations/asc-cupido-equals-mc.md)
-- [Asc/Cupido = Sun](../activations/asc-cupido-equals-sun.md)
-- [Asc/Cupido = Moon](../activations/asc-cupido-equals-moon.md)
-- [Asc/Cupido = Node](../activations/asc-cupido-equals-node.md)
-- [Asc/Cupido = Mercury](../activations/asc-cupido-equals-mercury.md)
-- [Asc/Cupido = Venus](../activations/asc-cupido-equals-venus.md)
-- [Asc/Cupido = Mars](../activations/asc-cupido-equals-mars.md)
-- [Asc/Cupido = Jupiter](../activations/asc-cupido-equals-jupiter.md)
-- [Asc/Cupido = Saturn](../activations/asc-cupido-equals-saturn.md)
-- [Asc/Cupido = Uranus](../activations/asc-cupido-equals-uranus.md)
-- [Asc/Cupido = Neptune](../activations/asc-cupido-equals-neptune.md)
-- [Asc/Cupido = Pluto](../activations/asc-cupido-equals-pluto.md)
-- [Asc/Cupido = Hades](../activations/asc-cupido-equals-hades.md)
-- [Asc/Cupido = Zeus](../activations/asc-cupido-equals-zeus.md)
-- [Asc/Cupido = Kronos](../activations/asc-cupido-equals-kronos.md)
-- [Asc/Cupido = Apollon](../activations/asc-cupido-equals-apollon.md)
 - [Asc/Cupido = Admetos](../activations/asc-cupido-equals-admetos.md)
-- [Asc/Cupido = Vulcanus](../activations/asc-cupido-equals-vulcanus.md)
+- [Asc/Cupido = Apollon](../activations/asc-cupido-equals-apollon.md)
+- [Asc/Cupido = Hades](../activations/asc-cupido-equals-hades.md)
+- [Asc/Cupido = Jupiter](../activations/asc-cupido-equals-jupiter.md)
+- [Asc/Cupido = Kronos](../activations/asc-cupido-equals-kronos.md)
+- [Asc/Cupido = Mars](../activations/asc-cupido-equals-mars.md)
+- [Asc/Cupido = MC](../activations/asc-cupido-equals-mc.md)
+- [Asc/Cupido = Mercury](../activations/asc-cupido-equals-mercury.md)
+- [Asc/Cupido = Moon](../activations/asc-cupido-equals-moon.md)
+- [Asc/Cupido = Neptune](../activations/asc-cupido-equals-neptune.md)
+- [Asc/Cupido = Node](../activations/asc-cupido-equals-node.md)
+- [Asc/Cupido = Pluto](../activations/asc-cupido-equals-pluto.md)
 - [Asc/Cupido = Poseidon](../activations/asc-cupido-equals-poseidon.md)
+- [Asc/Cupido = Saturn](../activations/asc-cupido-equals-saturn.md)
+- [Asc/Cupido = Sun](../activations/asc-cupido-equals-sun.md)
+- [Asc/Cupido = Uranus](../activations/asc-cupido-equals-uranus.md)
+- [Asc/Cupido = Venus](../activations/asc-cupido-equals-venus.md)
+- [Asc/Cupido = Vernal Point](../activations/asc-cupido-equals-vernal-point.md)
+- [Asc/Cupido = Vulcanus](../activations/asc-cupido-equals-vulcanus.md)
+- [Asc/Cupido = Zeus](../activations/asc-cupido-equals-zeus.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Cupido`: the lived social unit around the native: home, apartment, family following, shared residence, business partnership, group ties, and the visible form of one's domestic or communal world.
+- Chart expression: belonging through household, association, neighborhood, and common endeavor, including the outer conditions of where one lives and with whom one is socially or familially joined. Liabilities: enclosure by group identity, dependency on domestic or partnership conditions, and a life overly shaped by the expectations, appearance, or cohesion of the immediate social unit.
 
 ## Links
 
 - [Asc](../factors/asc.md)
 - [Cupido](../factors/cupido.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Jupiter Apollon Vulcanus
 page_type: triad_hub
 slug: jupiter-apollon-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Apollon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Apollon Vulcanus`
 - Astronomicon triad-set: `V ¥ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Apollon/Vulcanus = Jupiter](../activations/apollon-vulcanus-equals-jupiter.md)
-  Source page `307`
 - [Jupiter/Apollon = Vulcanus](../activations/jupiter-apollon-equals-vulcanus.md)
-  Source page `215`
 - [Jupiter/Vulcanus = Apollon](../activations/jupiter-vulcanus-equals-apollon.md)
-  Source page `217`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Apollon/Vulcanus = Jupiter`: page `307`
-- `Jupiter/Apollon = Vulcanus`: page `215`
-- `Jupiter/Vulcanus = Apollon`: page `217`
+- `Apollon/Vulcanus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `307`
+- `Apollon/Vulcanus = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `470`
+- `Jupiter/Apollon = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `215`
+- `Jupiter/Apollon = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `341`
+- `Jupiter/Vulcanus = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `217`
+- `Jupiter/Vulcanus = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `345`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Apollon/Vulcanus = Jupiter`: great prosperity, wealth, and success supported by both scale and power.
+- `Jupiter/Apollon = Vulcanus`: great increase of property and mighty income.
+- `Jupiter/Vulcanus = Apollon`: powerful luck expressed through money flow, accumulation, and widening financial reach.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Apollon](../factors/apollon.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Moon/Poseidon = MC
 page_type: activation
 slug: moon-poseidon-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - MC
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Poseidon`
-- Source page: `138`
 #### Witte Entry
 
 Mentally prepared. Susceptible to spiritual things. To be influenced by spiritualized people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mentally prepared. Susceptible to spiritual things. To be influenced by spiritualized people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Beseded culture cines people, Gcist soul of the woman, Idea of my wife, clear gestures of the soul, rn;::in the form of culture, my spirited wife, my poor wife, my clear feelings, the hour of my knowledge, and the truth of my people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Poseidon = MC`: Mentally prepared. Susceptible to spiritual things. To be influenced by spiritualized people.
+- Practical expression: Gcist soul of the woman, Idea of my wife, clear gestures of the soul, and rn;::in the form of culture.
 
 ## Links
 
@@ -61,3 +56,5 @@ Mentally prepared. Susceptible to spiritual things. To be influenced by spiritua
 - [Poseidon](../factors/poseidon.md)
 - [MC](../factors/mc.md)
 - [Moon/Poseidon](../axes/moon-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

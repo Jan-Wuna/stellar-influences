@@ -3,7 +3,7 @@ title: Vernal Point Uranus Hades
 page_type: triad_hub
 slug: vernal-point-uranus-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Uranus
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Uranus Hades`
 - Astronomicon triad-set: `VP X ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Uranus/Hades = Vernal Point](../activations/uranus-hades-equals-vernal-point.md)
-  Source page `237`
 - [Vernal Point/Hades = Uranus](../activations/vernal-point-hades-equals-uranus.md)
-  Source page `49`
 - [Vernal Point/Uranus = Hades](../activations/vernal-point-uranus-equals-hades.md)
-  Source page `45`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Uranus/Hades = Vernal Point`: page `237`
-- `Vernal Point/Hades = Uranus`: page `49`
-- `Vernal Point/Uranus = Hades`: page `45`
+- `Uranus/Hades = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `237`
+- `Uranus/Hades = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `376`
+- `Vernal Point/Hades = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `49`
+- `Vernal Point/Hades = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `47`
+- `Vernal Point/Uranus = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `45`
+- `Vernal Point/Uranus = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `39`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Vernal Point/Hades = Uranus`: This formula emphasizes negligence resulting in loss of life.
+- `Vernal Point/Uranus = Hades`: This formula emphasizes sorrow through a sudden event, serious accidents, attack, and murders.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Uranus](../factors/uranus.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

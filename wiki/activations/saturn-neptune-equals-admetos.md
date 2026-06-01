@@ -3,7 +3,7 @@ title: Saturn/Neptune = Admetos
 page_type: activation
 slug: saturn-neptune-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Neptune
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Neptune`
-- Source page: `222`
 #### Witte Entry
 
 Prevented to unfold. To be always in a mess. A chronic disease which leads to death.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Prevented to unfold. To be always in a mess. A chronic disease which leads to death.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Perseverance and patience in the water, depression due to concentration weakness, limitations and insecurity due to pain, Greek concentration on the future, problematic air circulation, and losses in deep water
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Neptune = Admetos`: prevented to unfold, to be always in a mess, a chronic disease which leads to death.
+- Practical expression: perseverance, patience in the water, depression due to concentration weakness, limitations, and insecurity due to pain.
 
 ## Links
 
@@ -61,3 +56,5 @@ Prevented to unfold. To be always in a mess. A chronic disease which leads to de
 - [Neptune](../factors/neptune.md)
 - [Admetos](../factors/admetos.md)
 - [Saturn/Neptune](../axes/saturn-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

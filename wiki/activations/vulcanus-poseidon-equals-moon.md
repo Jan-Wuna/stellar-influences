@@ -3,7 +3,7 @@ title: Vulcanus/Poseidon = Moon
 page_type: activation
 slug: vulcanus-poseidon-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vulcanus
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Vulcanus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vulcanus + Poseidon`
-- Source page: `315`
 #### Witte Entry
 
 A people with self-confidence and pride. To have a national sense of honor. The dignity of a people. The same delineation goes for women and the public in general.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A people with self-confidence and pride. To have a national sense of honor. The dignity of a people. The same delineation goes for women and the public in general.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influenced idea of a woman, mental violence against a people, spiritual power of a people, mental influence of women, clarity about influence, power of true virtues, powerful culture people, and impoverished influence of women
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vulcanus/Poseidon = Moon`: A people with self-confidence and pride. To have a national sense of honor. The dignity of a people. The same delineation goes for women and the public in general.
+- Practical expression: influenced idea of a woman, mental violence against a people, spiritual power of a people, mental influence of women, and clarity about influence.
 
 ## Links
 
@@ -61,3 +56,5 @@ A people with self-confidence and pride. To have a national sense of honor. The 
 - [Poseidon](../factors/poseidon.md)
 - [Moon](../factors/moon.md)
 - [Vulcanus/Poseidon](../axes/vulcanus-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

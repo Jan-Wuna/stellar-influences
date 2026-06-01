@@ -3,7 +3,7 @@ title: Vernal Point/Mercury = Neptune
 page_type: activation
 slug: vernal-point-mercury-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Mercury
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Mercury
   - Neptune
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Mercury`
-- Source page: `40`
 #### Witte Entry
 
 Confusion in general. Ideas floating in the air which are mostly unrealizable. General bewilderment. Talks, opinions, news which creates more confusion.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Confusion in general. Ideas floating in the air which are mostly unrealizable. General bewilderment. Talks, opinions, news which creates more confusion.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Disappointed youth in public life, foreign languages in public, public air traffic, public water reports, insecure youth in public life, and insecurity through public media
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Mercury = Neptune`: confusion in general, ideas floating in the air which are mostly unrealizable, general bewilderment, and talks, opinions, news which creates more confusion.
+- Practical expression: disappointed youth in public life, foreign languages in public, public air traffic, public water reports, and insecure youth in public life.
 
 ## Links
 
@@ -61,3 +56,5 @@ Confusion in general. Ideas floating in the air which are mostly unrealizable. G
 - [Mercury](../factors/mercury.md)
 - [Neptune](../factors/neptune.md)
 - [Vernal Point/Mercury](../axes/vernal-point-mercury.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

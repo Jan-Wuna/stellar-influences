@@ -3,10 +3,10 @@ title: Asc/MC = Poseidon
 page_type: activation
 slug: asc-mc-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Asc
+  - MC
   - Poseidon
 normalized_formula: Asc/MC = Poseidon
 axis: Asc/MC
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - MC
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Asc`
-- Source page: `58`
 #### Witte Entry
 
 One owns intellectual agreement with others.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: One owns intellectual agreement with others.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Inspired spirited environment, spirit soul of the partner, my insight into the environment, my cultivated environment, minute of truth in the place, spiritual clarity of the partner, spiritualized soul partner, and truth between me and the partner
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/MC = Poseidon`: a life path shaped by clarity, common outlook, teaching, counseling, or relationships built on mental and moral consonance rather than sheer utility. Main caution: abstraction: agreement in ideals can be real here, but it may drift away from practical realities if not grounded.
 
 ## Links
 
@@ -61,3 +55,5 @@ One owns intellectual agreement with others.
 - [MC](../factors/mc.md)
 - [Poseidon](../factors/poseidon.md)
 - [Asc/MC](../axes/asc-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

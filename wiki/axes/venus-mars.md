@@ -58,13 +58,14 @@ aliases:
   - Mars/Venus
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -77,17 +78,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Mars`
-- Source page: `176`
-
 #### Pair Summary
 
 The blood-relationship. Intimate friendship. Sex love. To act with devotion, out of love for the cause. To become intimate. Sex activity. Joy of action. Acting like a maternal female. Passionate activity. Kinship.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Venus/Mars`
-- Source page: `175`
+#### ABC Pair Summary
+
+Work joy, peace work, harmonious activity, impulses of joy, arts creatures, love acts, manly things in women, beauty of work, living things in men, desire arbcit, and like to work
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -111,17 +112,11 @@ People in love, sex unions.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
-- Source heading: `Venus/Mars`
-- Source page: `43`
-
 #### Falis Entry
 
 The planet of love meets the planet of desire. Harmony or conflict between inner masculine and feminine forces. Inability to reconcile masculine and feminine forces within. Action and attraction, clash or blending. Angry with women. Overly compromising with men. Angry at having to be in a relationship. Conflicts between needing social interaction and the desire to do what you want when you want. At tracting what you want. Sexual frustration. Frustration or ease in relationships (de pending on the aspect). Aggressive flirts. Conflicts Actively flirtatious. Conflicts about whether to be the ag gressor or the pursued. Aggressive attractiveness. Angry love. Passive-aggressive. Acting for peace. Harmonizing actions. Harmonizing forces. Aggressive relation ships. Assertive in relationships. Selfish in relationships. Inability to have a harmo nious relationship. Using manipulation to get what you want. Acting on desire. Using charm to get what you want. Sexually self-assertive. The drive to get what you want. Gender issues. Hot. Ardent. The courage to love. The courage to persevere in relationships. The courage to go after what you want. Sexual magnetism. Sexually attractive. Attractive force. Animal sensuality. The desires of the base instincts. Conflicts between want ing a relationship and wanting sex. Conflicts between wanting a relationship and desiring the thrill of the chase. Conflict or harmony between the coarse aspects of the personality and the refined aspects of the personality. Sexual refinement. Valu ing physical force. Feeling attracted to physically forceful people. Feeling attracted to aggressive people. Forcing your aesthetic. Forcing your personal taste. Conflict or harmony between social urges and selfish drives. Competitive in love. Compet itive in social situations. Competitive in relationships. Knowing what you want and taking the initiative to get it. Taking the initiative in relationships. Taking the initiative in social situations. Leading the relationship. Taking the lead in negotiations. The first to try to a new style. Being at the leading edge of style. Showing the way in art, fashion, beauty or style. A creative leader. A social pioneer. An artistic pioneer. A pioneer in money and finance. The drive for wealth. The drive for comfort. The drive for sensual pleasure. Irritable in relation ships. Irritable with social demands. Physical grace. Graceful movement. A perfect blend of masculine and feminine. Forceful yet tactful. Assertive yet cooperative. Driven yet peaceful. Conflicts between getting along and getting what you want. Problems compro mising. Stimulating relationships. Physically symmetrical. Sexual charm. Sexual balance. Cohesive energy. Putting energy into relationships. Putting energy into creativity. Putting energy into the way you look. Putting effort into your appearance. Putting energy into being attractive. Angry about beauty. Competing in artistic competitions. Beauty competitions. Looking for the next conquest. Impatient in so cial situations. Impatient in relationships. Assertive in creative pursuits. Assertive in social situations. Assertive in securing funds.
 
 ### Charles Carter - The Astrological Aspects
-
-- Source heading: `ASPECTS OF VENUS & MARS`
-- Source page: `42`
 
 #### Pair Overview
 
@@ -181,9 +176,6 @@ The health may be affected through worry, strain, and lack of interior tranquili
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Venus/Mars midpoint`
-- Source page: `55`
-
 #### Principle
 
 Efficiency (Marc Edmund Jones). The ability to get things done. A love of asserting oneself. To be aggressive and assertive in romance. A warm and passionate love nature.
@@ -194,17 +186,11 @@ Learning how to more and more effectively show love and align all of one’s act
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Venus/Mars`
-- Source page: `206`
-
 #### Pair Delineation
 
 Passion, sexual energy, love between the sexes. The physical aspect of sexuality. Creative energy, artistic work To seek self-satisfaction in love. The balance between the need for relationship and individual self-expression and will.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `VENUS/MARS`
-- Source page: `187`
 
 #### Basic Ideas
 
@@ -233,15 +219,6 @@ Sexual pleasure; haste in sexual release; relaxing your muscles; the muscle tone
 
 - [Michael Munkasey - Venus/Mars Concepts](../derived/munkasey-venus-mars-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Venus/Mars = Admetos](../activations/venus-mars-equals-admetos.md)
@@ -266,20 +243,18 @@ Sexual pleasure; haste in sexual release; relaxing your muscles; the muscle tone
 - [Venus/Mars = Vulcanus](../activations/venus-mars-equals-vulcanus.md)
 - [Venus/Mars = Zeus](../activations/venus-mars-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Mars` is the axis of passionate attraction, active desire, creative heat, and the union of charm with pursuit. It combines affection, beauty, sociability, and receptivity with initiative, sexuality, competition, and the drive to go after what one wants.
+- Chart expression: magnetism, erotic vitality, artistic force, romantic initiative, and the ability to turn feeling into action or attraction into conquest. Liabilities: jealousy, impatience, irritability, relationship conflict, crude sensuality, and the use of charm, sexuality, or desire in ways that inflame dissatisfaction rather than create harmony.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Mars](../factors/mars.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)

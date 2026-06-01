@@ -3,7 +3,7 @@ title: Jupiter Cupido Kronos
 page_type: triad_hub
 slug: jupiter-cupido-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Cupido Kronos`
 - Astronomicon triad-set: `V ¡ ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Kronos = Jupiter](../activations/cupido-kronos-equals-jupiter.md)
-  Source page `269`
 - [Jupiter/Cupido = Kronos](../activations/jupiter-cupido-equals-kronos.md)
-  Source page `211`
 - [Jupiter/Kronos = Cupido](../activations/jupiter-kronos-equals-cupido.md)
-  Source page `214`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Kronos = Jupiter`: page `269`
-- `Jupiter/Cupido = Kronos`: page `211`
-- `Jupiter/Kronos = Cupido`: page `214`
+- `Cupido/Kronos = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `269`
+- `Cupido/Kronos = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `428`
+- `Jupiter/Cupido = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `211`
+- `Jupiter/Cupido = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `333`
+- `Jupiter/Kronos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `214`
+- `Jupiter/Kronos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `339`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Kronos = Jupiter`: good leadership in a large community, marriage license, cultured company, official signing, and financial or state-backed order.
+- `Jupiter/Cupido = Kronos`: large family gatherings, leading artists, pleasant ties with distinguished people, and leadership in a well-regarded firm or cultural sphere.
+- `Jupiter/Kronos = Cupido`: mastery in art and organizations handling exceptional sums of money, such as pension funds, the stock market, or state banks.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Cupido](../factors/cupido.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Vernal Point/Admetos = Hades
 page_type: activation
 slug: vernal-point-admetos-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Hades
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Admetos`
-- Source page: `53`
 #### Witte Entry
 
 The beginning or the end of a disagreeable situation. Gaining new raw materials from junk or from coal. Gaining raw materials from the earth.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The beginning or the end of a disagreeable situation. Gaining new raw materials from junk or from coal. Gaining raw materials from the earth.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Limitations and deprivations in the public sphere, criminal repression in the public sphere, past grief in the public sphere Life, disadvantages in the public sphere, and hidden resistance in the public sphere
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Admetos = Hades`: the beginning or the end of a disagreeable situation, gaining new raw materials from junk or from coal, and gaining raw materials from the earth.
+- Practical expression: limitations, deprivations in the public sphere, criminal repression in the public sphere, past grief in the public sphere Life, and disadvantages in the public sphere.
 
 ## Links
 
@@ -61,3 +56,5 @@ The beginning or the end of a disagreeable situation. Gaining new raw materials 
 - [Admetos](../factors/admetos.md)
 - [Hades](../factors/hades.md)
 - [Vernal Point/Admetos](../axes/vernal-point-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

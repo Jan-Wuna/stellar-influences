@@ -3,7 +3,7 @@ title: Moon MC Kronos
 page_type: triad_hub
 slug: moon-mc-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon MC Kronos`
 - Astronomicon triad-set: `R MC ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Kronos = Moon](../activations/mc-kronos-equals-moon.md)
-  Source page `73`
 - [Moon/Kronos = MC](../activations/moon-kronos-equals-mc.md)
-  Source page `133`
 - [Moon/MC = Kronos](../activations/moon-mc-equals-kronos.md)
-  Source page `60`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Kronos = Moon`: page `73`
-- `Moon/Kronos = MC`: page `133`
-- `Moon/MC = Kronos`: page `60`
+- `MC/Kronos = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `73`
+- `MC/Kronos = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `90`
+- `Moon/Kronos = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `133`
+- `Moon/Kronos = MC`: Udo Rudolph - ABC for Planetary Pictures, page `198`
+- `Moon/MC = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `60`
+- `Moon/MC = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `65`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Kronos = Moon`: emotionalizes the axis through public office and managerial responsibility.
+- `Moon/Kronos = MC`: Nobility of soul. Mental influence by independent women. To belong to the leading people. Civil servants.
+- `Moon/MC = Kronos`: This activation elevates `Moon/MC` through nobility of mind, generosity, and higher personal stature. It points to emotional selfhood supported by dignity and good judgment, making the person's public bearing more magnanimous, principled, and capable of guiding others from a larger view.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [MC](../factors/mc.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

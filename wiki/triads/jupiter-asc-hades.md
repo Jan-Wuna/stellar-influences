@@ -3,7 +3,7 @@ title: Jupiter Asc Hades
 page_type: triad_hub
 slug: jupiter-asc-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Asc Hades`
 - Astronomicon triad-set: `V Asc ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Hades = Jupiter](../activations/asc-hades-equals-jupiter.md)
-  Source page `92`
 - [Jupiter/Asc = Hades](../activations/jupiter-asc-equals-hades.md)
-  Source page `86`
 - [Jupiter/Hades = Asc](../activations/jupiter-hades-equals-asc.md)
-  Source page `212`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Hades = Jupiter`: page `92`
-- `Jupiter/Asc = Hades`: page `86`
-- `Jupiter/Hades = Asc`: page `212`
+- `Asc/Hades = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `92`
+- `Asc/Hades = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `124`
+- `Jupiter/Asc = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `86`
+- `Jupiter/Asc = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `113`
+- `Jupiter/Hades = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `212`
+- `Jupiter/Hades = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `334`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Hades = Jupiter`: contact with those in need, especially financially, alongside helpful or friendly physicians and some relief within harsh conditions.
+- `Jupiter/Asc = Hades`: friendly relations in difficult or marginal circumstances, especially with single women, alongside money losses.
+- `Jupiter/Hades = Asc`: being impoverished by other people or having others become the cause of reduced income.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Asc](../factors/asc.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

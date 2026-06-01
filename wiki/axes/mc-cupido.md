@@ -3,7 +3,7 @@ title: MC/Cupido
 page_type: axis
 slug: mc-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Cupido
@@ -11,26 +11,26 @@ normalized_axis: MC/Cupido
 factor_a: MC
 factor_b: Cupido
 related_activations:
-  - MC/Cupido = Vernal Point
-  - MC/Cupido = Asc
-  - MC/Cupido = Sun
-  - MC/Cupido = Moon
-  - MC/Cupido = Node
-  - MC/Cupido = Mercury
-  - MC/Cupido = Venus
-  - MC/Cupido = Mars
-  - MC/Cupido = Jupiter
-  - MC/Cupido = Saturn
-  - MC/Cupido = Uranus
-  - MC/Cupido = Neptune
-  - MC/Cupido = Pluto
-  - MC/Cupido = Hades
-  - MC/Cupido = Zeus
-  - MC/Cupido = Kronos
-  - MC/Cupido = Apollon
   - MC/Cupido = Admetos
-  - MC/Cupido = Vulcanus
+  - MC/Cupido = Apollon
+  - MC/Cupido = Asc
+  - MC/Cupido = Hades
+  - MC/Cupido = Jupiter
+  - MC/Cupido = Kronos
+  - MC/Cupido = Mars
+  - MC/Cupido = Mercury
+  - MC/Cupido = Moon
+  - MC/Cupido = Neptune
+  - MC/Cupido = Node
+  - MC/Cupido = Pluto
   - MC/Cupido = Poseidon
+  - MC/Cupido = Saturn
+  - MC/Cupido = Sun
+  - MC/Cupido = Uranus
+  - MC/Cupido = Venus
+  - MC/Cupido = Vernal Point
+  - MC/Cupido = Vulcanus
+  - MC/Cupido = Zeus
 related_triad_hubs:
   - Asc MC Cupido
   - Jupiter MC Cupido
@@ -56,15 +56,15 @@ aliases:
   - Cupido/MC
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Axis: `MC/Cupido`
 - Astronomicon axis: `MC/¡`
-- Source heading: `MC + Cupido`
-- Source page: `70`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
@@ -74,48 +74,44 @@ updated_at: 2026-04-21
 
 Family and community minded. Enjoying art. Artistic taste. One’s attitude toward the community, the family and the arts.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Family and community minded. Enjoying art. Artistic taste. One’s attitude toward the community, the family and the arts.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+#### ABC Pair Summary
+
+Holy Community, Holy Spirit, I in communion, inner communion, my communion, my pleasure, my synthesis, and spiritual communion
 
 ## Related Activations
 
-- [MC/Cupido = Vernal Point](../activations/mc-cupido-equals-vernal-point.md)
-- [MC/Cupido = Asc](../activations/mc-cupido-equals-asc.md)
-- [MC/Cupido = Sun](../activations/mc-cupido-equals-sun.md)
-- [MC/Cupido = Moon](../activations/mc-cupido-equals-moon.md)
-- [MC/Cupido = Node](../activations/mc-cupido-equals-node.md)
-- [MC/Cupido = Mercury](../activations/mc-cupido-equals-mercury.md)
-- [MC/Cupido = Venus](../activations/mc-cupido-equals-venus.md)
-- [MC/Cupido = Mars](../activations/mc-cupido-equals-mars.md)
-- [MC/Cupido = Jupiter](../activations/mc-cupido-equals-jupiter.md)
-- [MC/Cupido = Saturn](../activations/mc-cupido-equals-saturn.md)
-- [MC/Cupido = Uranus](../activations/mc-cupido-equals-uranus.md)
-- [MC/Cupido = Neptune](../activations/mc-cupido-equals-neptune.md)
-- [MC/Cupido = Pluto](../activations/mc-cupido-equals-pluto.md)
-- [MC/Cupido = Hades](../activations/mc-cupido-equals-hades.md)
-- [MC/Cupido = Zeus](../activations/mc-cupido-equals-zeus.md)
-- [MC/Cupido = Kronos](../activations/mc-cupido-equals-kronos.md)
-- [MC/Cupido = Apollon](../activations/mc-cupido-equals-apollon.md)
 - [MC/Cupido = Admetos](../activations/mc-cupido-equals-admetos.md)
-- [MC/Cupido = Vulcanus](../activations/mc-cupido-equals-vulcanus.md)
+- [MC/Cupido = Apollon](../activations/mc-cupido-equals-apollon.md)
+- [MC/Cupido = Asc](../activations/mc-cupido-equals-asc.md)
+- [MC/Cupido = Hades](../activations/mc-cupido-equals-hades.md)
+- [MC/Cupido = Jupiter](../activations/mc-cupido-equals-jupiter.md)
+- [MC/Cupido = Kronos](../activations/mc-cupido-equals-kronos.md)
+- [MC/Cupido = Mars](../activations/mc-cupido-equals-mars.md)
+- [MC/Cupido = Mercury](../activations/mc-cupido-equals-mercury.md)
+- [MC/Cupido = Moon](../activations/mc-cupido-equals-moon.md)
+- [MC/Cupido = Neptune](../activations/mc-cupido-equals-neptune.md)
+- [MC/Cupido = Node](../activations/mc-cupido-equals-node.md)
+- [MC/Cupido = Pluto](../activations/mc-cupido-equals-pluto.md)
 - [MC/Cupido = Poseidon](../activations/mc-cupido-equals-poseidon.md)
+- [MC/Cupido = Saturn](../activations/mc-cupido-equals-saturn.md)
+- [MC/Cupido = Sun](../activations/mc-cupido-equals-sun.md)
+- [MC/Cupido = Uranus](../activations/mc-cupido-equals-uranus.md)
+- [MC/Cupido = Venus](../activations/mc-cupido-equals-venus.md)
+- [MC/Cupido = Vernal Point](../activations/mc-cupido-equals-vernal-point.md)
+- [MC/Cupido = Vulcanus](../activations/mc-cupido-equals-vulcanus.md)
+- [MC/Cupido = Zeus](../activations/mc-cupido-equals-zeus.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Cupido` is the axis of community-minded selfhood, family feeling, artistic taste, and the way the soul or life direction relates to groups, marriage, and shared culture.
+- Chart expression: belonging, aesthetic orientation, family and social loyalty, and a public or personal role shaped through association, art, partnership, or communal participation.
 
 ## Links
 
 - [MC](../factors/mc.md)
 - [Cupido](../factors/cupido.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

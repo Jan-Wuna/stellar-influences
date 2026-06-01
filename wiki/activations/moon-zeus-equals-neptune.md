@@ -3,7 +3,7 @@ title: Moon/Zeus = Neptune
 page_type: activation
 slug: moon-zeus-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Neptune
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Zeus`
-- Source page: `132`
 #### Witte Entry
 
 Efforts wrongly directed. Fiery, fantastic ideas. Delusions. Inflammable liquids. Uncertainties about female procreation.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Efforts wrongly directed. Fiery, fantastic ideas. Delusions. Inflammable liquids. Uncertainties about female procreation.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Imagination of a creative woman, replacement of the Volkc by the Flockung, Fcingctuhl cine's creative Gcmilt, achievements of a woman in the water, weakness of a people, and uncertainty of a Y olke by the Flockung
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Zeus = Neptune`: Efforts wrongly directed. Fiery, fantastic ideas. Delusions. Inflammable liquids. Uncertainties about female procreation.
+- Practical expression: imagination of a creative woman, replacement of the Volkc by the Flockung, achievements of a woman in the water, and weakness of a people.
 
 ## Links
 
@@ -61,3 +56,5 @@ Efforts wrongly directed. Fiery, fantastic ideas. Delusions. Inflammable liquids
 - [Zeus](../factors/zeus.md)
 - [Neptune](../factors/neptune.md)
 - [Moon/Zeus](../axes/moon-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

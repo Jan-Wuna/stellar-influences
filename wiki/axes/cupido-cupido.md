@@ -45,8 +45,6 @@ updated_at: 2026-04-21
 
 - Axis: `Cupido/Cupido`
 - Astronomicon axis: `¡/¡`
-- Source heading: `Cupido + Cupido`
-- Source page: `265`
 
 ## Source Entries
 
@@ -55,15 +53,6 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 Family. Sociability. Societies. Associations. Collections. Art. Marriage. The group. Public limited company. Community efforts.
-
-## Comparative Schema
-
-- core meaning: Family. Sociability. Societies. Associations. Collections. Art. Marriage. The group. Public limited company. Community efforts.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
@@ -89,13 +78,11 @@ Family. Sociability. Societies. Associations. Collections. Art. Marriage. The gr
 - [Cupido/Cupido = Vulcanus](../activations/cupido-cupido-equals-vulcanus.md)
 - [Cupido/Cupido = Poseidon](../activations/cupido-cupido-equals-poseidon.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Cupido` is the pure doubling of the Cupido principle: family, marriage, association, art, group belonging, and communal effort intensified into the group-unit itself.
+- Chart expression: family systems, partnership as institution, clubs, companies, artistic circles, and the social fabric that binds people into a collective. Liabilities: clannishness, conformity, social insularity, and identity becoming overbound to family or group expectations.
 
 ## Links
 

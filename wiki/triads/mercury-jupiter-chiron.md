@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Mercury Jupiter Chiron`
 - Astronomicon triad-set: `T V Chiron`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Mercury/Chiron = Jupiter`: John, page `46`
 - `Mercury/Jupiter = Chiron`: John, page `44`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Chiron = Mercury`: words that restore courage and widen perspective. It can show teaching, counseling, or conversation that genuinely heals.
+- `Mercury/Chiron = Jupiter` expands the axis through enthusiasm, growth, and wider healing dialogue.
+- `Mercury/Jupiter = Chiron` heals the axis through subtle, uplifting communication.
 
 ## Links
 

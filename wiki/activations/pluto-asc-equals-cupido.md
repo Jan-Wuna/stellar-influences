@@ -3,10 +3,10 @@ title: Pluto/Asc = Cupido
 page_type: activation
 slug: pluto-asc-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Pluto
+  - Asc
   - Cupido
 normalized_formula: Pluto/Asc = Cupido
 axis: Pluto/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Asc
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Pluto`
-- Source page: `90`
 #### Witte Entry
 
 Changes in or of the home. Change in the social relations.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Changes in or of the home. Change in the social relations.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Development of a local community, shared change of place, shared partner change, artistic development on the spot, partner development in the community, change of the environment through of a community, and growing environmental community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Asc = Cupido`: changes in or of the home; Change in the social relations.
+- Practical expression: development of a local community, shared change of place, shared partner change, artistic development on the spot, and partner development in the community.
 
 ## Links
 
@@ -61,3 +56,5 @@ Changes in or of the home. Change in the social relations.
 - [Asc](../factors/asc.md)
 - [Cupido](../factors/cupido.md)
 - [Pluto/Asc](../axes/pluto-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

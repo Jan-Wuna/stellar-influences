@@ -3,7 +3,7 @@ title: Venus Saturn Hades
 page_type: triad_hub
 slug: venus-saturn-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Saturn
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Saturn Hades`
 - Astronomicon triad-set: `Q W ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Saturn/Hades = Venus](../activations/saturn-hades-equals-venus.md)
-  Source page `225`
 - [Venus/Hades = Saturn](../activations/venus-hades-equals-saturn.md)
-  Source page `183`
 - [Venus/Saturn = Hades](../activations/venus-saturn-equals-hades.md)
-  Source page `178`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Saturn/Hades = Venus`: page `225`
-- `Venus/Hades = Saturn`: page `183`
-- `Venus/Saturn = Hades`: page `178`
+- `Saturn/Hades = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `225`
+- `Saturn/Hades = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `356`
+- `Venus/Hades = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `183`
+- `Venus/Hades = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `285`
+- `Venus/Saturn = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `178`
+- `Venus/Saturn = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `275`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Venus/Hades = Saturn`: shirking.
+- `Venus/Saturn = Hades`: to be impoverished.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Saturn](../factors/saturn.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

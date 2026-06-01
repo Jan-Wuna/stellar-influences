@@ -3,7 +3,7 @@ title: Vernal Point/Neptune = Zeus
 page_type: activation
 slug: vernal-point-neptune-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Neptune
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Neptune`
-- Source page: `46`
 #### Witte Entry
 
 Restriction in activity through malice and hatefulness. Disruptions in the railroad business or machine establishments. To derange or mess up.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Restriction in activity through malice and hatefulness. Disruptions in the railroad business or machine establishments. To derange or mess up.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exchange of Public Filing, Fine Filing in Public Life, Flocking Weakness in Public, Public Services in Air or Water, Public Future Targets, and Unmistakable Targets for the Public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Neptune = Zeus`: restriction in activity through malice and hatefulness, disruptions in the railroad business or machine establishments, and to derange or mess up.
+- Practical expression: exchange of Public Filing, fine Filing in Public Life, flocking Weakness in Public, public Services in Air or Water, and public Future Targets.
 
 ## Links
 
@@ -61,3 +56,5 @@ Restriction in activity through malice and hatefulness. Disruptions in the railr
 - [Neptune](../factors/neptune.md)
 - [Zeus](../factors/zeus.md)
 - [Vernal Point/Neptune](../axes/vernal-point-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

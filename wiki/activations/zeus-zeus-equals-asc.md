@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Zeus + Zeus`
-- Source page: `287`
 #### Witte Entry
 
 Others are near. Things or matters which are in the immediate environment of the native. To work with others, being together with others. To be under the pressure by others. Working activities in a manufacturing plant. To have something to do with fire or machines. To be the object of disputes. To be threatened. Creating with others.
 
-## Comparative Schema
-
-- core meaning: Others are near. Things or matters which are in the immediate environment of the native. To work with others, being together with others. To be under the pressure by others. Working activities in a manufacturing plant. To have something to do with fire or machines. To be the object of disputes. To be threatened. Creating with others.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Zeus = Asc`: Others are near. Things or matters which are in the immediate environment of the native. To work with others, being together with others. To be under the pressure by others. Working activities in a manufacturing plant. To have something to do with fire or machines. To be the object of disputes. To be threatened. Creating with others.
 
 ## Links
 

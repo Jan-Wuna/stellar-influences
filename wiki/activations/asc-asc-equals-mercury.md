@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Asc + Asc`
-- Source page: `78`
 #### Witte Entry
 
 Talks, conversations and correspondence. To be the theme of conversation with others. Other people think of the native. News from other people. News about the closer environment. Exchange of ideas with acquaintances.
 
-## Comparative Schema
-
-- core meaning: Talks, conversations and correspondence. To be the theme of conversation with others. Other people think of the native. News from other people. News about the closer environment. Exchange of ideas with acquaintances.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Asc = Mercury`: constant conversation, messages from others, and a near field shaped by mental traffic and social commentary. Main caution: overcirculation of talk: the environment can become noisy, gossip-prone, or mentally scattered.
 
 ## Links
 

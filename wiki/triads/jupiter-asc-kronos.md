@@ -3,7 +3,7 @@ title: Jupiter Asc Kronos
 page_type: triad_hub
 slug: jupiter-asc-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Asc Kronos`
 - Astronomicon triad-set: `V Asc ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Kronos = Jupiter](../activations/asc-kronos-equals-jupiter.md)
-  Source page `94`
 - [Jupiter/Asc = Kronos](../activations/jupiter-asc-equals-kronos.md)
-  Source page `86`
 - [Jupiter/Kronos = Asc](../activations/jupiter-kronos-equals-asc.md)
-  Source page `214`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Kronos = Jupiter`: page `94`
-- `Jupiter/Asc = Kronos`: page `86`
-- `Jupiter/Kronos = Asc`: page `214`
+- `Asc/Kronos = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `94`
+- `Asc/Kronos = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `128`
+- `Jupiter/Asc = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `86`
+- `Jupiter/Asc = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `113`
+- `Jupiter/Kronos = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `214`
+- `Jupiter/Kronos = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `338`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Kronos = Jupiter`: a respectable administrative role involving money, custody, or dependable official handling.
+- `Jupiter/Asc = Kronos`: harmonious relations with the father, the boss, or the state.
+- `Jupiter/Kronos = Asc`: social intercourse with leading persons.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Asc](../factors/asc.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Moon Hades Vulcanus
 page_type: triad_hub
 slug: moon-hades-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Hades Vulcanus`
 - Astronomicon triad-set: `R ¢ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Vulcanus = Moon](../activations/hades-vulcanus-equals-moon.md)
-  Source page `285`
 - [Moon/Hades = Vulcanus](../activations/moon-hades-equals-vulcanus.md)
-  Source page `131`
 - [Moon/Vulcanus = Hades](../activations/moon-vulcanus-equals-hades.md)
-  Source page `137`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Vulcanus = Moon`: page `285`
-- `Moon/Hades = Vulcanus`: page `131`
-- `Moon/Vulcanus = Hades`: page `137`
+- `Hades/Vulcanus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `285`
+- `Hades/Vulcanus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `446`
+- `Moon/Hades = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `131`
+- `Moon/Hades = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `195`
+- `Moon/Vulcanus = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `137`
+- `Moon/Vulcanus = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `205`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Vulcanus = Moon`: physical dirt or infestation, internal weakening, obstructed days, and compulsion into dependent living.
+- `Moon/Hades = Vulcanus`: Deplorable conditions in public or in the populace. Gang of criminals. Endangered because of criminal gangs.
+- `Moon/Vulcanus = Hades`: Abominable, vile deeds. Great disgust and loathe. Great events with great damage and people killed. Shabbiness and baseness of the representatives of public power.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Hades](../factors/hades.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

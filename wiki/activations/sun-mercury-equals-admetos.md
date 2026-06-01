@@ -3,7 +3,7 @@ title: Sun/Mercury = Admetos
 page_type: activation
 slug: sun-mercury-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Mercury
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Mercury
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Mercury`
-- Source page: `103`
 #### Witte Entry
 
 To change from motion into a state of rest. The resting body. To die in youth. Consciousness focused on specific things.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To change from motion into a state of rest. The resting body. To die in youth. Consciousness focused on specific things.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Excluding personal language, depressing young people, restricted personsTransport, restrained young people, grilning personal language, deep thoughts of a person, and subordinated personal opinion
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Mercury = Admetos`: depressed thinking and practical thought tied to the ground or the concrete.
+- Practical expression: excluding personal language, depressing young people, restricted personsTransport, and restrained young people.
 
 ## Links
 
@@ -61,3 +56,5 @@ To change from motion into a state of rest. The resting body. To die in youth. C
 - [Mercury](../factors/mercury.md)
 - [Admetos](../factors/admetos.md)
 - [Sun/Mercury](../axes/sun-mercury.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Mercury Chiron Asc`
 - Astronomicon triad-set: `T Chiron Asc`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Mercury/Asc = Chiron`: John, page `52`
 - `Mercury/Chiron = Asc`: John, page `46`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Asc = Mercury`: therapeutic language, spiritually intelligent communication, and identity healing carried through words. Main caution: relying on tone or insight without also facing the deeper identity work behind it.
+- `Mercury/Asc = Chiron` makes the Mercury/Asc axis healing in tone and corrective in effect.
+- `Mercury/Chiron = Asc` personalizes the axis into a presence that itself communicates healing.
 
 ## Links
 

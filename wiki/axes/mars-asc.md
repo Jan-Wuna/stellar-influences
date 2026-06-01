@@ -58,11 +58,12 @@ aliases:
   - Asc/Mars
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -75,17 +76,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars/Ascendant`
-- Source page: `219`
-
 #### Pair Summary
 
 Actions and deeds of others or with others. Excitement. Arguments with others. To be handled energetically, leading eventually to violence. Fights. Strife. Co-worker. To be made angry by others. Excitement or action in the immediate surroundings. Actions and deeds of others. Others are in activity. Place of work. Working environment.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Mars/Ascendant`
-- Source page: `219`
+#### ABC Pair Summary
+
+On site work, activities of the partner, work in the vicinity, work place, actions of others, local impulses, partner actions, partner Will, and environmental activities
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -109,9 +110,6 @@ Colleagues and coworkers. Bullies and ruffians.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mars/Ascendant midpoint`
-- Source page: `75`
-
 #### Principle
 
 An assertive personality. To create an identity for oneself. To identify with being one who acts, builds, constructs, or destroys. A strong sexual identity. To destroy one’s identity. To strongly identify with what one does and what one produces.
@@ -122,17 +120,11 @@ The realization of both the constructive and destructive powers of one’s perso
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Mars/Ascendant`
-- Source page: `208`
-
 #### Pair Delineation
 
 Competition with others, conflicts, the ability to withstand opposition in one's environment. To stand up to others.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `MARS/ASCENDANT`
-- Source page: `247`
 
 #### Basic Ideas
 
@@ -161,15 +153,6 @@ Pressure or heat within the ocular fluids; elevated blood pressure caused by you
 
 - [Michael Munkasey - Mars/Asc Concepts](../derived/munkasey-mars-asc-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Mars/Asc = Admetos](../activations/mars-asc-equals-admetos.md)
@@ -194,20 +177,18 @@ Pressure or heat within the ocular fluids; elevated blood pressure caused by you
 - [Mars/Asc = Vulcanus](../activations/mars-asc-equals-vulcanus.md)
 - [Mars/Asc = Zeus](../activations/mars-asc-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Asc` is the axis of assertive presence, environmental friction, and the active projection of will into immediate life. It combines drive, conflict, courage, and bodily energy with identity, approach, and the way one meets other people and circumstances.
+- Chart expression: competitiveness, a fighting spirit, directness, leadership in teamwork, and the tendency to define oneself through action and resistance. Liabilities: quarrels, impatience, bullying, accident-proneness, and a style so forceful that it turns contact with others into ongoing confrontation.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Asc](../factors/asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)

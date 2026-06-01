@@ -3,7 +3,7 @@ title: Apollon/Vulcanus = Node
 page_type: activation
 slug: apollon-vulcanus-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Apollon
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - Apollon
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Apollon + Vulcanus`
-- Source page: `307`
 #### Witte Entry
 
 Success through connections. To be right and well connected.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Success through connections. To be right and well connected.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Individual scientific contacts, connected with energy quantities, connection to energy trade, expansion of power connections, strong success in contacts, a lot of power through connections, and increases in violence in connections
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Vulcanus = Node`: powerful contacts, prosperous associations, and networks that materially improve reach and results. Main caution: opportunistic dependency: connection itself may become a power instrument rather than a reciprocal human bond.
 
 ## Links
 
@@ -61,3 +55,5 @@ Success through connections. To be right and well connected.
 - [Vulcanus](../factors/vulcanus.md)
 - [Node](../factors/node.md)
 - [Apollon/Vulcanus](../axes/apollon-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

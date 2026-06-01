@@ -3,7 +3,7 @@ title: Neptune/Poseidon = Admetos
 page_type: activation
 slug: neptune-poseidon-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Admetos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Poseidon`
-- Source page: `254`
 #### Witte Entry
 
 Deep penetration in highly spiritual things. Collapse of false ideas. Refined mental education.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Deep penetration in highly spiritual things. Collapse of false ideas. Refined mental education.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked water culture, depression through exchange of truth, limitation of the spiritual future, consolidation of metaphysical truths, fundamental cultural refinement, clarity about subtle matter, and sensitization through spiritual deepening
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Poseidon = Admetos`: Deep penetration in highly spiritual things. Collapse of false ideas. Refined mental education.
+- Practical focus: compresses subtle spiritual perception into deep penetration and refined discipline, breaking false ideas down through concentrated education and inward clarification.
+- Practical expression: blocked water culture, depression through exchange of truth, limitation of the spiritual future, consolidation of metaphysical truths, and fundamental cultural refinement.
 
 ## Links
 
@@ -61,3 +57,5 @@ Deep penetration in highly spiritual things. Collapse of false ideas. Refined me
 - [Poseidon](../factors/poseidon.md)
 - [Admetos](../factors/admetos.md)
 - [Neptune/Poseidon](../axes/neptune-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

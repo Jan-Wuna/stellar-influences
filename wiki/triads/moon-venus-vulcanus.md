@@ -3,7 +3,7 @@ title: Moon Venus Vulcanus
 page_type: triad_hub
 slug: moon-venus-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Venus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Venus Vulcanus`
 - Astronomicon triad-set: `R Q §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Venus = Vulcanus](../activations/moon-venus-equals-vulcanus.md)
-  Source page `123`
 - [Moon/Vulcanus = Venus](../activations/moon-vulcanus-equals-venus.md)
-  Source page `136`
 - [Venus/Vulcanus = Moon](../activations/venus-vulcanus-equals-moon.md)
-  Source page `188`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Venus = Vulcanus`: page `123`
-- `Moon/Vulcanus = Venus`: page `136`
-- `Venus/Vulcanus = Moon`: page `188`
+- `Moon/Venus = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `123`
+- `Moon/Venus = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `179`
+- `Moon/Vulcanus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `136`
+- `Moon/Vulcanus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `204`
+- `Venus/Vulcanus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `188`
+- `Venus/Vulcanus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `294`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Venus = Vulcanus`: affection and receptivity gain force, visibility, and emotional pressure; love becomes harder to ignore, whether through passion, public attention, or a compelling feminine presence.
+- `Moon/Vulcanus = Venus`: mental force, public influence, and collective feeling are drawn into attraction, harmony, and desire, often through influential women, persuasive conversation, or emotionally charged public opinion.
+- `Venus/Vulcanus = Moon`: powerful affection is received through the Moon, emphasizing passionate feeling, the wife or woman, and public or feminine response; the caution is emotional overpressure.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Venus](../factors/venus.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

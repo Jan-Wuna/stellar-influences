@@ -3,7 +3,7 @@ title: Mercury Mars Poseidon
 page_type: triad_hub
 slug: mercury-mars-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Mars
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Mars Poseidon`
 - Astronomicon triad-set: `T U ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Poseidon = Mercury](../activations/mars-poseidon-equals-mercury.md)
-  Source page `204`
 - [Mercury/Mars = Poseidon](../activations/mercury-mars-equals-poseidon.md)
-  Source page `160`
 - [Mercury/Poseidon = Mars](../activations/mercury-poseidon-equals-mars.md)
-  Source page `173`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Poseidon = Mercury`: page `204`
-- `Mercury/Mars = Poseidon`: page `160`
-- `Mercury/Poseidon = Mars`: page `173`
+- `Mars/Poseidon = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `204`
+- `Mars/Poseidon = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `322`
+- `Mercury/Mars = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `160`
+- `Mercury/Mars = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `243`
+- `Mercury/Poseidon = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `173`
+- `Mercury/Poseidon = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `268`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Poseidon = Mercury`: verbalizes ethics into debate, ideas, truth-claims, and disputes over meaning or value.
+- `Mercury/Mars = Poseidon`: moralizes the axis while exposing rushed truth-telling to criticism.
+- `Mercury/Poseidon = Mars`: Quarrels over moral matters. Enraged over moral behavior. To swim in an ocean. Happy over ideas, over ideals. Happy conversations regarding these things.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Mars](../factors/mars.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

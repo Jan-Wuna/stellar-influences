@@ -33,30 +33,14 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Chiron/Pluto midpoint`
-- Source page: `99`
-- Activator: `Venus`
-
 #### Sandbach Entry
 
 To be intensely and compulsively drawn to certain things which you need to embrace, for doing so will help you to connect to those energies which will optimize your evolution. Love expressed as a potent and transforming therapeutic force.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Chiron/Pluto = Venus`: intense relational healing, to desire as a path of transformation, and to value choices that profoundly reshape life. Main caution: compulsive attachment or confusing intensity with true value.
 
 ## Links
 

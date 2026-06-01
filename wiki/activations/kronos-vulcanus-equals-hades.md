@@ -3,7 +3,7 @@ title: Kronos/Vulcanus = Hades
 page_type: activation
 slug: kronos-vulcanus-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Hades
   - Kronos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Kronos + Vulcanus`
-- Source page: `301`
 #### Witte Entry
 
 The power ofthe state does not stop short of anything. Great mjusticeMUse y great powers, great misery and misfortune. Great murder caused by war
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The power ofthe state does not stop short of anything. Great mjusticeMUse y great powers, great misery and misfortune. Great murder caused by war
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special influence of the past, danger of great violence, dangerous power superiority, great power by renunciation, grief by state power, lack of state power, hidden influence of hierarchy, and superior criminal violence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Vulcanus = Hades`: misery caused by great powers, war-borne killing, and a state force that does not stop at cruelty or degradation.
+- Main caution: merciless government action, destructive power politics, and concentrated authority used in disastrous or inhuman ways.
 
 ## Links
 
@@ -61,3 +56,5 @@ The power ofthe state does not stop short of anything. Great mjusticeMUse y grea
 - [Vulcanus](../factors/vulcanus.md)
 - [Hades](../factors/hades.md)
 - [Kronos/Vulcanus](../axes/kronos-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Moon`
-- Source page: `101`
 #### Witte Entry
 
 A friendship of love. A marriage of love. Husband and wife in harmony. Peaceful hours.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Sun/Moon`
-- Source page: `78`
-- Entry: `0184`
+#### ABC Entry
+
+Joy in the day in the hour, harmony of body flies, artificial center of people, love between woman and man, shame of the woman body, love flies of man, personal love of woman, day and hour of love, and affection for the mother of man
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,21 @@ Harmonious coordination between spiritual and emotional as well as masculine and
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Sun/Moon midpoint`
-- Source page: `6`
-- Activator: `Venus`
-
 #### Sandbach Entry
 
 To feel a full and complete love when one loves. To be around beauty feeds one energy. One needs to be appreciated as well as to appreciate if a health and vitality are to be maintained. Good relationships and fulfilling romance make one feel happy and complete in body and soul.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Developing your skills in or appreciation for the fine arts or music; increased gratitude for the efforts of others; admiration from others for your talents; helps you become more calm and relaxation in your personal life.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Moon = Venus`: love, attraction, appreciation, and relational ease as the factor that completes or sweetens the life-balance between the two luminaries.
+- This is the clearest harmony-oriented relationship expression in the triad: mutual affection, marriage or partnership based on love, artistic sympathy, and a sense that vitality improves through concord, beauty, and being both appreciated and appreciative.
 
 ## Links
 
@@ -84,7 +77,8 @@ To feel a full and complete love when one loves. To be around beauty feeds one e
 - [Moon](../factors/moon.md)
 - [Venus](../factors/venus.md)
 - [Sun/Moon](../axes/sun-moon.md)
-- [Sun Moon Venus](../triads/sun-moon-venus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

@@ -3,7 +3,7 @@ title: Saturn Cupido Admetos
 page_type: triad_hub
 slug: saturn-cupido-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Cupido
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Cupido Admetos`
 - Astronomicon triad-set: `W ¡ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Admetos = Saturn](../activations/cupido-admetos-equals-saturn.md)
-  Source page `271`
 - [Saturn/Admetos = Cupido](../activations/saturn-admetos-equals-cupido.md)
-  Source page `229`
 - [Saturn/Cupido = Admetos](../activations/saturn-cupido-equals-admetos.md)
-  Source page `224`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Admetos = Saturn`: page `271`
-- `Saturn/Admetos = Cupido`: page `229`
-- `Saturn/Cupido = Admetos`: page `224`
+- `Cupido/Admetos = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `271`
+- `Cupido/Admetos = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `433`
+- `Saturn/Admetos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `229`
+- `Saturn/Admetos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `365`
+- `Saturn/Cupido = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `224`
+- `Saturn/Cupido = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `355`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Admetos = Saturn`: family rejection, partnership in a tight spot, or final separation from community.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Cupido](../factors/cupido.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

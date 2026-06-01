@@ -3,7 +3,7 @@ title: Mars/Zeus = Sun
 page_type: activation
 slug: mars-zeus-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Mars
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Zeus`
-- Source page: `199`
 #### Witte Entry
 
 Energetic work on the day. The man who works goal-oriented. The machinist. Injuries by torch flame or by firearms.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Energetic work on the day. The man who works goal-oriented. The machinist. Injuries by torch flame or by firearms.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful corporal work, personalizing work, leading work center, man's leadership will, creative personal activity, corporal work performance, personal work performance, and personal leadership work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Zeus = Sun` embodies the axis in a man of active, goal-directed work.
+- Chart expression: a purposeful male figure, technical labor, and daily action centered on making, operating, or firing things into effect, with attendant risk of burns or weapons injury.
 
 ## Links
 
@@ -61,3 +56,5 @@ Energetic work on the day. The man who works goal-oriented. The machinist. Injur
 - [Zeus](../factors/zeus.md)
 - [Sun](../factors/sun.md)
 - [Mars/Zeus](../axes/mars-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

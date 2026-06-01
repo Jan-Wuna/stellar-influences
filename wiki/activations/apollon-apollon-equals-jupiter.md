@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Apollon + Apollon`
-- Source page: `304`
 #### Witte Entry
 
 Fortune, success, honors. Much fortune and happy experiences. Good luck. Success in science. Money through science, trades or law. Capital. High finance. Multitude of money. The amount of money in circulation. Successful growth or expansion. Luck and happiness for many. Economic increase. Luck and success of enterprises.
 
-## Comparative Schema
-
-- core meaning: Fortune, success, honors. Much fortune and happy experiences. Good luck. Success in science. Money through science, trades or law. Capital. High finance. Multitude of money. The amount of money in circulation. Successful growth or expansion. Luck and happiness for many. Economic increase. Luck and success of enterprises.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Apollon = Jupiter`: capital, economic rise, successful enterprises, and the happy enlargement of trade, science, law, or influence. Main caution: inflated optimism: success can become excessive, overleveraged, or too confident in perpetual increase.
 
 ## Links
 

@@ -3,7 +3,7 @@ title: Uranus/Zeus
 page_type: axis
 slug: uranus-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Zeus
@@ -11,26 +11,26 @@ normalized_axis: Uranus/Zeus
 factor_a: Uranus
 factor_b: Zeus
 related_activations:
-  - Uranus/Zeus = Vernal Point
-  - Uranus/Zeus = MC
+  - Uranus/Zeus = Admetos
+  - Uranus/Zeus = Apollon
   - Uranus/Zeus = Asc
-  - Uranus/Zeus = Sun
-  - Uranus/Zeus = Moon
-  - Uranus/Zeus = Node
-  - Uranus/Zeus = Mercury
-  - Uranus/Zeus = Venus
-  - Uranus/Zeus = Mars
-  - Uranus/Zeus = Jupiter
-  - Uranus/Zeus = Saturn
-  - Uranus/Zeus = Neptune
-  - Uranus/Zeus = Pluto
   - Uranus/Zeus = Cupido
   - Uranus/Zeus = Hades
+  - Uranus/Zeus = Jupiter
   - Uranus/Zeus = Kronos
-  - Uranus/Zeus = Apollon
-  - Uranus/Zeus = Admetos
-  - Uranus/Zeus = Vulcanus
+  - Uranus/Zeus = Mars
+  - Uranus/Zeus = MC
+  - Uranus/Zeus = Mercury
+  - Uranus/Zeus = Moon
+  - Uranus/Zeus = Neptune
+  - Uranus/Zeus = Node
+  - Uranus/Zeus = Pluto
   - Uranus/Zeus = Poseidon
+  - Uranus/Zeus = Saturn
+  - Uranus/Zeus = Sun
+  - Uranus/Zeus = Venus
+  - Uranus/Zeus = Vernal Point
+  - Uranus/Zeus = Vulcanus
 related_triad_hubs:
   - Jupiter Uranus Zeus
   - Mars Uranus Zeus
@@ -56,15 +56,15 @@ aliases:
   - Zeus/Uranus
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Axis: `Uranus/Zeus`
 - Astronomicon axis: `X/£`
-- Source heading: `Uranus + Zeus`
-- Source page: `238`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
@@ -74,48 +74,44 @@ updated_at: 2026-04-21
 
 The will. Sudden fire. Discharge of firearms. To fire, to splinter. Fire explosion. Bolt of lightning. Sudden outbreak of war. Electric motor. Dynamo. Fatherhood. Explosions. Danger from fire. Controlled forces. Laws of nature. Sudden acts which cannot be suppressed. To explode, to ignite. Surprising events happening by natural force.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The will. Sudden fire. Discharge of firearms. To fire, to splinter. Fire explosion. Bolt of lightning. Sudden outbreak of war. Electric motor. Dynamo. Fatherhood. Explosions. Danger from fire. Controlled forces. Laws of nature. Sudden acts which cannot be suppressed. To explode, to ignite. Surprising events happening by natural force.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+#### ABC Pair Summary
+
+ReginnemJe Restlessness, dynamic filhnmg, nervous guidance, new beginning, plotdiches fire, reform struts, rhythmic design, slippery impulses, technical achievements, and procreation event
 
 ## Related Activations
 
-- [Uranus/Zeus = Vernal Point](../activations/uranus-zeus-equals-vernal-point.md)
-- [Uranus/Zeus = MC](../activations/uranus-zeus-equals-mc.md)
+- [Uranus/Zeus = Admetos](../activations/uranus-zeus-equals-admetos.md)
+- [Uranus/Zeus = Apollon](../activations/uranus-zeus-equals-apollon.md)
 - [Uranus/Zeus = Asc](../activations/uranus-zeus-equals-asc.md)
-- [Uranus/Zeus = Sun](../activations/uranus-zeus-equals-sun.md)
-- [Uranus/Zeus = Moon](../activations/uranus-zeus-equals-moon.md)
-- [Uranus/Zeus = Node](../activations/uranus-zeus-equals-node.md)
-- [Uranus/Zeus = Mercury](../activations/uranus-zeus-equals-mercury.md)
-- [Uranus/Zeus = Venus](../activations/uranus-zeus-equals-venus.md)
-- [Uranus/Zeus = Mars](../activations/uranus-zeus-equals-mars.md)
-- [Uranus/Zeus = Jupiter](../activations/uranus-zeus-equals-jupiter.md)
-- [Uranus/Zeus = Saturn](../activations/uranus-zeus-equals-saturn.md)
-- [Uranus/Zeus = Neptune](../activations/uranus-zeus-equals-neptune.md)
-- [Uranus/Zeus = Pluto](../activations/uranus-zeus-equals-pluto.md)
 - [Uranus/Zeus = Cupido](../activations/uranus-zeus-equals-cupido.md)
 - [Uranus/Zeus = Hades](../activations/uranus-zeus-equals-hades.md)
+- [Uranus/Zeus = Jupiter](../activations/uranus-zeus-equals-jupiter.md)
 - [Uranus/Zeus = Kronos](../activations/uranus-zeus-equals-kronos.md)
-- [Uranus/Zeus = Apollon](../activations/uranus-zeus-equals-apollon.md)
-- [Uranus/Zeus = Admetos](../activations/uranus-zeus-equals-admetos.md)
-- [Uranus/Zeus = Vulcanus](../activations/uranus-zeus-equals-vulcanus.md)
+- [Uranus/Zeus = Mars](../activations/uranus-zeus-equals-mars.md)
+- [Uranus/Zeus = MC](../activations/uranus-zeus-equals-mc.md)
+- [Uranus/Zeus = Mercury](../activations/uranus-zeus-equals-mercury.md)
+- [Uranus/Zeus = Moon](../activations/uranus-zeus-equals-moon.md)
+- [Uranus/Zeus = Neptune](../activations/uranus-zeus-equals-neptune.md)
+- [Uranus/Zeus = Node](../activations/uranus-zeus-equals-node.md)
+- [Uranus/Zeus = Pluto](../activations/uranus-zeus-equals-pluto.md)
 - [Uranus/Zeus = Poseidon](../activations/uranus-zeus-equals-poseidon.md)
+- [Uranus/Zeus = Saturn](../activations/uranus-zeus-equals-saturn.md)
+- [Uranus/Zeus = Sun](../activations/uranus-zeus-equals-sun.md)
+- [Uranus/Zeus = Venus](../activations/uranus-zeus-equals-venus.md)
+- [Uranus/Zeus = Vernal Point](../activations/uranus-zeus-equals-vernal-point.md)
+- [Uranus/Zeus = Vulcanus](../activations/uranus-zeus-equals-vulcanus.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- This axis consistently points to the will. Sudden fire. Discharge of firearms. To fire, to splinter. Fire explosion. Bolt of lightning. Sudden outbreak of war. Electric motor. Dynamo. Fatherhood. Explosions. Danger from fire. Controlled forces. Laws of nature. Sudden acts which cannot be suppressed. To explode, to ignite. Surprising events happening by natural force.
+- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Zeus](../factors/zeus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

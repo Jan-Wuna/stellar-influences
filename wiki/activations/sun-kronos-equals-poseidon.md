@@ -3,7 +3,7 @@ title: Sun/Kronos = Poseidon
 page_type: activation
 slug: sun-kronos-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Kronos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Kronos`
-- Source page: `114`
 #### Witte Entry
 
 Capabilities in the mental plane. To be a spiritual leader. Nobility of the soul. Mental culture. Outstanding personality with high intellectual skills and insights.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Capabilities in the mental plane. To be a spiritual leader. Nobility of the soul. Mental culture. Outstanding personality with high intellectual skills and insights.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special knowledge of a man, mind dominates the body, great spiritual personality, great cultural center, human superiority through truth, self conscious culture man, and center of a spiritual hierarchy
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Kronos = Poseidon`: spiritual leadership and truth from a superior position.
+- Practical expression: special knowledge of a man, mind dominates the body, great spiritual personality, great cultural center, and human superiority through truth.
 
 ## Links
 
@@ -61,3 +56,5 @@ Capabilities in the mental plane. To be a spiritual leader. Nobility of the soul
 - [Kronos](../factors/kronos.md)
 - [Poseidon](../factors/poseidon.md)
 - [Sun/Kronos](../axes/sun-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

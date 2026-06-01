@@ -3,7 +3,7 @@ title: Moon Apollon Admetos
 page_type: triad_hub
 slug: moon-apollon-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Apollon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Apollon Admetos`
 - Astronomicon triad-set: `R ¥ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Apollon/Admetos = Moon](../activations/apollon-admetos-equals-moon.md)
-  Source page `306`
 - [Moon/Admetos = Apollon](../activations/moon-admetos-equals-apollon.md)
-  Source page `135`
 - [Moon/Apollon = Admetos](../activations/moon-apollon-equals-admetos.md)
-  Source page `134`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Apollon/Admetos = Moon`: page `306`
-- `Moon/Admetos = Apollon`: page `135`
-- `Moon/Apollon = Admetos`: page `134`
+- `Apollon/Admetos = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `306`
+- `Apollon/Admetos = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `468`
+- `Moon/Admetos = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `135`
+- `Moon/Admetos = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `203`
+- `Moon/Apollon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `134`
+- `Moon/Apollon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `201`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Apollon/Admetos = Moon`: emotional contentment, public calm, and people resting in a state of saturation or peaceful sufficiency.
+- `Moon/Admetos = Apollon`: Narrow conditions. To be content with circumstances. A people content with little space.
+- `Moon/Apollon = Admetos`: Many hours in contentment. To feel depressed or limited by the public. The masses of people see their goals attained.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Apollon](../factors/apollon.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

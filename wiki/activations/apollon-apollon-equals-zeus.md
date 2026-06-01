@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Apollon + Apollon`
-- Source page: `305`
 #### Witte Entry
 
 To do research. To experiment. To learn, to study, to collect experience. Natural science. Creative art and science. Modern science. Trials. Practical research. Trade with machines.
 
-## Comparative Schema
-
-- core meaning: To do research. To experiment. To learn, to study, to collect experience. Natural science. Creative art and science. Modern science. Trials. Practical research. Trade with machines.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Apollon = Zeus`: experimentation, modern science, applied intelligence, and growth through creative initiative and technical work. Main caution: proliferating projects: the urge to explore and produce can generate more trials, schemes, or enterprises than can be completed well.
 
 ## Links
 

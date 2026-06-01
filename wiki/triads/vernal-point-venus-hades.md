@@ -3,7 +3,7 @@ title: Vernal Point Venus Hades
 page_type: triad_hub
 slug: vernal-point-venus-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Venus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Venus Hades`
 - Astronomicon triad-set: `VP Q ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Venus/Hades = Vernal Point](../activations/venus-hades-equals-vernal-point.md)
-  Source page `183`
 - [Vernal Point/Hades = Venus](../activations/vernal-point-hades-equals-venus.md)
-  Source page `49`
 - [Vernal Point/Venus = Hades](../activations/vernal-point-venus-equals-hades.md)
-  Source page `41`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Venus/Hades = Vernal Point`: page `183`
-- `Vernal Point/Hades = Venus`: page `49`
-- `Vernal Point/Venus = Hades`: page `41`
+- `Venus/Hades = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `183`
+- `Venus/Hades = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `284`
+- `Vernal Point/Hades = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `49`
+- `Vernal Point/Hades = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `46`
+- `Vernal Point/Venus = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `41`
+- `Vernal Point/Venus = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `31`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Venus/Hades = Vernal Point`: general service relations.
+- `Vernal Point/Hades = Venus`: This formula emphasizes sad events for females and vulgar love in general.
+- `Vernal Point/Venus = Hades`: This formula emphasizes general immorality.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Venus](../factors/venus.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

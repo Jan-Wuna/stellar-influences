@@ -3,7 +3,7 @@ title: Vernal Point Moon Zeus
 page_type: triad_hub
 slug: vernal-point-moon-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Moon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Moon Zeus`
 - Astronomicon triad-set: `VP R £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Zeus = Vernal Point](../activations/moon-zeus-equals-vernal-point.md)
-  Source page `132`
 - [Vernal Point/Moon = Zeus](../activations/vernal-point-moon-equals-zeus.md)
-  Source page `38`
 - [Vernal Point/Zeus = Moon](../activations/vernal-point-zeus-equals-moon.md)
-  Source page `50`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Zeus = Vernal Point`: page `132`
-- `Vernal Point/Moon = Zeus`: page `38`
-- `Vernal Point/Zeus = Moon`: page `50`
+- `Moon/Zeus = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `132`
+- `Moon/Zeus = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `196`
+- `Vernal Point/Moon = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `38`
+- `Vernal Point/Moon = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `25`
+- `Vernal Point/Zeus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `50`
+- `Vernal Point/Zeus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `48`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Zeus = Vernal Point`: Inflammability. Spontaneous combustion. General discipline and order. Attendants of machines driven by fire.
+- `Vernal Point/Moon = Zeus`: This formula emphasizes expectant mother and arming or rearming people.
+- `Vernal Point/Zeus = Moon`: This formula emphasizes females who are eager to accomplish great feats.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Moon](../factors/moon.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

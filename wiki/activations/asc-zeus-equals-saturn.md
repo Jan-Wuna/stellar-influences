@@ -3,7 +3,7 @@ title: Asc/Zeus = Saturn
 page_type: activation
 slug: asc-zeus-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Asc
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Zeus`
-- Source page: `93`
 #### Witte Entry
 
 Hindrances, obstacles forced upon us by others. Other people enforce a discharge (job). Discharged from the army. Losses by fire or machinery.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Hindrances, obstacles forced upon us by others. Other people enforce a discharge (job). Discharged from the army. Losses by fire or machinery.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful duties at the site, emstc targets of others, fire losses in the environment, patient environmental stress, concentrated local transportation, problematic environmental targets, shocks in partner transportation, and lossy local design
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Zeus = Saturn`: blocked work, forced endings, and environments where productive pressure turns into denial, dismissal, or material loss. Main caution: hardship, unemployment, or destructive mechanical failure.
 
 ## Links
 
@@ -61,3 +55,5 @@ Hindrances, obstacles forced upon us by others. Other people enforce a discharge
 - [Zeus](../factors/zeus.md)
 - [Saturn](../factors/saturn.md)
 - [Asc/Zeus](../axes/asc-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

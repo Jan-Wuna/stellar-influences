@@ -3,10 +3,10 @@ title: Neptune/MC = Hades
 page_type: activation
 slug: neptune-mc-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Neptune
+  - MC
   - Hades
 normalized_formula: Neptune/MC = Hades
 axis: Neptune/MC
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - MC
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Neptune`
-- Source page: `68`
 #### Witte Entry
 
 To drown. To feel disgusted with deception. To sustain losses through lies, lack of clarity or deception. To lead an evil life.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To drown. To feel disgusted with deception. To sustain losses through lies, lack of clarity or deception. To lead an evil life.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dangerous psychic weakness, my service in the air, my hope for danger, my lack of intuition, my renunciation of metaphysics, my poor breathing, my weakness for the old, my hidden insecurity, and disadvantage by the mentally weak
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/MC = Hades`: To drown. To feel disgusted with deception. To sustain losses through lies, lack of clarity or deception. To lead an evil life.
+- Practical focus: darkens uncertain self-direction into disgust, moral decline, drowning, or losses through deception, showing the axis pulled toward harmful and degrading outcomes.
+- Practical expression: dangerous psychic weakness, my service in the air, my hope for danger, my lack of intuition, and my renunciation of metaphysics.
 
 ## Links
 
@@ -61,3 +57,5 @@ To drown. To feel disgusted with deception. To sustain losses through lies, lack
 - [MC](../factors/mc.md)
 - [Hades](../factors/hades.md)
 - [Neptune/MC](../axes/neptune-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

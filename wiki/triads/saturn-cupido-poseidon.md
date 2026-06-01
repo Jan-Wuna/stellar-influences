@@ -3,7 +3,7 @@ title: Saturn Cupido Poseidon
 page_type: triad_hub
 slug: saturn-cupido-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Cupido
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Cupido Poseidon`
 - Astronomicon triad-set: `W ¡ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Poseidon = Saturn](../activations/cupido-poseidon-equals-saturn.md)
-  Source page `274`
 - [Saturn/Cupido = Poseidon](../activations/saturn-cupido-equals-poseidon.md)
-  Source page `224`
 - [Saturn/Poseidon = Cupido](../activations/saturn-poseidon-equals-cupido.md)
-  Source page `231`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Poseidon = Saturn`: page `274`
-- `Saturn/Cupido = Poseidon`: page `224`
-- `Saturn/Poseidon = Cupido`: page `231`
+- `Cupido/Poseidon = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `274`
+- `Cupido/Poseidon = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `437`
+- `Saturn/Cupido = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `224`
+- `Saturn/Cupido = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `355`
+- `Saturn/Poseidon = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `231`
+- `Saturn/Poseidon = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `369`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Poseidon = Saturn`: difficulty caused by a spiritual sect, separation from one, or education through philosophical institutes that also impose discipline.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Cupido](../factors/cupido.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

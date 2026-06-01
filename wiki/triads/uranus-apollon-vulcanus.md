@@ -3,7 +3,7 @@ title: Uranus Apollon Vulcanus
 page_type: triad_hub
 slug: uranus-apollon-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Apollon
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Apollon Vulcanus`
 - Astronomicon triad-set: `X ¥ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Apollon/Vulcanus = Uranus](../activations/apollon-vulcanus-equals-uranus.md)
-  Source page `307`
 - [Uranus/Apollon = Vulcanus](../activations/uranus-apollon-equals-vulcanus.md)
-  Source page `240`
 - [Uranus/Vulcanus = Apollon](../activations/uranus-vulcanus-equals-apollon.md)
-  Source page `242`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Apollon/Vulcanus = Uranus`: page `307`
-- `Uranus/Apollon = Vulcanus`: page `240`
-- `Uranus/Vulcanus = Apollon`: page `242`
+- `Apollon/Vulcanus = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `307`
+- `Apollon/Vulcanus = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `471`
+- `Uranus/Apollon = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `240`
+- `Uranus/Apollon = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `383`
+- `Uranus/Vulcanus = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `242`
+- `Uranus/Vulcanus = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `387`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Apollon/Vulcanus = Uranus`: high-voltage hope, abrupt opportunity, and success that may arrive quickly but not hold.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Apollon](../factors/apollon.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

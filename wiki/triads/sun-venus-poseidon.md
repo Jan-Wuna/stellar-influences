@@ -3,7 +3,7 @@ title: Sun Venus Poseidon
 page_type: triad_hub
 slug: sun-venus-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Venus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Venus Poseidon`
 - Astronomicon triad-set: `S Q ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Sun/Poseidon = Venus](../activations/sun-poseidon-equals-venus.md)
-  Source page `118`
 - [Sun/Venus = Poseidon](../activations/sun-venus-equals-poseidon.md)
-  Source page `104`
 - [Venus/Poseidon = Sun](../activations/venus-poseidon-equals-sun.md)
-  Source page `189`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Sun/Poseidon = Venus`: page `118`
-- `Sun/Venus = Poseidon`: page `104`
-- `Venus/Poseidon = Sun`: page `189`
+- `Sun/Poseidon = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `118`
+- `Sun/Poseidon = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `172`
+- `Sun/Venus = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `104`
+- `Sun/Venus = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `145`
+- `Venus/Poseidon = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `189`
+- `Venus/Poseidon = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `296`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Sun/Poseidon = Venus`: This formula emphasizes harmony with spiritual values and love of truth or peace.
+- `Sun/Venus = Poseidon`: This formula emphasizes peace, ideal love, and harmony guided by truth or spiritual values.
+- `Venus/Poseidon = Sun`: the believing or faithful man.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Venus](../factors/venus.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

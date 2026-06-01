@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Asc + Asc`
-- Source page: `78`
 #### Witte Entry
 
 Acquaintances with female persons. The people of the closer surroundings. To be brought into public by others. Female acquaintances. Women in the environment. Quality of the hour at this place.
 
-## Comparative Schema
-
-- core meaning: Acquaintances with female persons. The people of the closer surroundings. To be brought into public by others. Female acquaintances. Women in the environment. Quality of the hour at this place.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Asc = Moon`: public exposure through others, local populace, and emotional responsiveness in the near field. Main caution: fluctuating social climate: nearby relationships may become too reactive, changeable, or dependent on public mood.
 
 ## Links
 

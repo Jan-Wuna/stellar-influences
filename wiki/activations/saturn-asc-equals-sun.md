@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Saturn`
-- Source page: `87`
 #### Witte Entry
 
 To shake hands. Physical farewells. Alienations.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Saturn/Ascendant`
-- Source page: `260`
-- Entry: `0915`
+#### ABC Entry
+
+Old local center, serious personal partner, patience with other people, disturbed local center, personal inhibitions at a place, personal separation from a place, problematic people in the environment, and environmental tasks of the person
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ A keen awareness of the lack in freedom of movement, a strong desire to go one's
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Saturn/Ascendant midpoint`
-- Source page: `94`
-- Activator: `Sun`
-
 #### Sandbach Entry
 
 One prides oneself on being a serious, dependable person. One works toward oneâ€™s goals by playing a serious, dependable role in life. One is vitalized by having deep, spiritual relationships.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Increased need for approval; developing your personality so that you appear friendly, but reserved; your need to dominate others is increased, as is your need for identification with the real you; effective business practices.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Asc = Sun`: mature bearing, disciplined self-definition, and the strength to carry pressure without outward theatrics. Main caution: rigid self-protection: pride in endurance can make spontaneity difficult and reinforce loneliness or overcontrol.
 
 ## Links
 
@@ -84,7 +76,8 @@ One prides oneself on being a serious, dependable person. One works toward oneâ€
 - [Asc](../factors/asc.md)
 - [Sun](../factors/sun.md)
 - [Saturn/Asc](../axes/saturn-asc.md)
-- [Sun Saturn Asc](../triads/sun-saturn-asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

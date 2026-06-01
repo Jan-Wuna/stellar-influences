@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Mars + Mars`
-- Source page: `190`
 #### Witte Entry
 
 Labor, the forces of nature. Injuries. Nature’s power in a general sense. Work and activity in public life. Working energy. Energy in general. The world of labor. To show courage.
 
-## Comparative Schema
-
-- core meaning: Labor, the forces of nature. Injuries. Nature’s power in a general sense. Work and activity in public life. Working energy. Energy in general. The world of labor. To show courage.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Mars = Vernal Point` makes pure labor and force publicly visible and broadly operative in the world.
+- Chart expression: working energy in general, courage, injuries, the powers of nature, and public life shaped by labor, activity, and the direct expenditure of force.
 
 ## Links
 

@@ -3,7 +3,7 @@ title: Asc/Kronos
 page_type: axis
 slug: asc-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Kronos
@@ -11,26 +11,26 @@ normalized_axis: Asc/Kronos
 factor_a: Asc
 factor_b: Kronos
 related_activations:
-  - Asc/Kronos = Vernal Point
-  - Asc/Kronos = MC
-  - Asc/Kronos = Sun
-  - Asc/Kronos = Moon
-  - Asc/Kronos = Node
-  - Asc/Kronos = Mercury
-  - Asc/Kronos = Venus
-  - Asc/Kronos = Mars
-  - Asc/Kronos = Jupiter
-  - Asc/Kronos = Saturn
-  - Asc/Kronos = Uranus
-  - Asc/Kronos = Neptune
-  - Asc/Kronos = Pluto
+  - Asc/Kronos = Admetos
+  - Asc/Kronos = Apollon
   - Asc/Kronos = Cupido
   - Asc/Kronos = Hades
-  - Asc/Kronos = Zeus
-  - Asc/Kronos = Apollon
-  - Asc/Kronos = Admetos
-  - Asc/Kronos = Vulcanus
+  - Asc/Kronos = Jupiter
+  - Asc/Kronos = Mars
+  - Asc/Kronos = MC
+  - Asc/Kronos = Mercury
+  - Asc/Kronos = Moon
+  - Asc/Kronos = Neptune
+  - Asc/Kronos = Node
+  - Asc/Kronos = Pluto
   - Asc/Kronos = Poseidon
+  - Asc/Kronos = Saturn
+  - Asc/Kronos = Sun
+  - Asc/Kronos = Uranus
+  - Asc/Kronos = Venus
+  - Asc/Kronos = Vernal Point
+  - Asc/Kronos = Vulcanus
+  - Asc/Kronos = Zeus
 related_triad_hubs:
   - Asc Cupido Kronos
   - Asc Hades Kronos
@@ -56,15 +56,15 @@ aliases:
   - Kronos/Asc
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Axis: `Asc/Kronos`
 - Astronomicon axis: `Asc/¤`
-- Source heading: `Asc + Kronos`
-- Source page: `94`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
@@ -74,48 +74,44 @@ updated_at: 2026-04-21
 
 Things which come to the native from above. Workman. Employee. Official. Others are superiors. The influence of the state on the environment. Officials in the near. To come in touch with employees, officials or authorities. Things upon which one is dependent. Orders emanating from the authorities. Extraordinary place.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Things which come to the native from above. Workman. Employee. Official. Others are superiors. The influence of the state on the environment. Officials in the near. To come in touch with employees, officials or authorities. Things upon which one is dependent. Orders emanating from the authorities. Extraordinary place.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+#### ABC Pair Summary
+
+Others direct, reputable partner, local authority, large town, large environment, local authority::hie, self employed partner, state seat, iiberlegener partner, IJmwelt--Lenlrnng, priority of the partner, and important place
 
 ## Related Activations
 
-- [Asc/Kronos = Vernal Point](../activations/asc-kronos-equals-vernal-point.md)
-- [Asc/Kronos = MC](../activations/asc-kronos-equals-mc.md)
-- [Asc/Kronos = Sun](../activations/asc-kronos-equals-sun.md)
-- [Asc/Kronos = Moon](../activations/asc-kronos-equals-moon.md)
-- [Asc/Kronos = Node](../activations/asc-kronos-equals-node.md)
-- [Asc/Kronos = Mercury](../activations/asc-kronos-equals-mercury.md)
-- [Asc/Kronos = Venus](../activations/asc-kronos-equals-venus.md)
-- [Asc/Kronos = Mars](../activations/asc-kronos-equals-mars.md)
-- [Asc/Kronos = Jupiter](../activations/asc-kronos-equals-jupiter.md)
-- [Asc/Kronos = Saturn](../activations/asc-kronos-equals-saturn.md)
-- [Asc/Kronos = Uranus](../activations/asc-kronos-equals-uranus.md)
-- [Asc/Kronos = Neptune](../activations/asc-kronos-equals-neptune.md)
-- [Asc/Kronos = Pluto](../activations/asc-kronos-equals-pluto.md)
+- [Asc/Kronos = Admetos](../activations/asc-kronos-equals-admetos.md)
+- [Asc/Kronos = Apollon](../activations/asc-kronos-equals-apollon.md)
 - [Asc/Kronos = Cupido](../activations/asc-kronos-equals-cupido.md)
 - [Asc/Kronos = Hades](../activations/asc-kronos-equals-hades.md)
-- [Asc/Kronos = Zeus](../activations/asc-kronos-equals-zeus.md)
-- [Asc/Kronos = Apollon](../activations/asc-kronos-equals-apollon.md)
-- [Asc/Kronos = Admetos](../activations/asc-kronos-equals-admetos.md)
-- [Asc/Kronos = Vulcanus](../activations/asc-kronos-equals-vulcanus.md)
+- [Asc/Kronos = Jupiter](../activations/asc-kronos-equals-jupiter.md)
+- [Asc/Kronos = Mars](../activations/asc-kronos-equals-mars.md)
+- [Asc/Kronos = MC](../activations/asc-kronos-equals-mc.md)
+- [Asc/Kronos = Mercury](../activations/asc-kronos-equals-mercury.md)
+- [Asc/Kronos = Moon](../activations/asc-kronos-equals-moon.md)
+- [Asc/Kronos = Neptune](../activations/asc-kronos-equals-neptune.md)
+- [Asc/Kronos = Node](../activations/asc-kronos-equals-node.md)
+- [Asc/Kronos = Pluto](../activations/asc-kronos-equals-pluto.md)
 - [Asc/Kronos = Poseidon](../activations/asc-kronos-equals-poseidon.md)
+- [Asc/Kronos = Saturn](../activations/asc-kronos-equals-saturn.md)
+- [Asc/Kronos = Sun](../activations/asc-kronos-equals-sun.md)
+- [Asc/Kronos = Uranus](../activations/asc-kronos-equals-uranus.md)
+- [Asc/Kronos = Venus](../activations/asc-kronos-equals-venus.md)
+- [Asc/Kronos = Vernal Point](../activations/asc-kronos-equals-vernal-point.md)
+- [Asc/Kronos = Vulcanus](../activations/asc-kronos-equals-vulcanus.md)
+- [Asc/Kronos = Zeus](../activations/asc-kronos-equals-zeus.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Kronos`: an environment shaped by hierarchy: officials nearby, orders from above, dependence on institutions or bosses, and a life lived in relation to superiors, offices, and elevated structures.
+- Chart expression: employment, official service, subordination, bureaucracy, rank, extraordinary or state-marked places, and the direct influence of authority on daily life and surroundings. Liabilities: servility, dependence, suppression of personal autonomy, excessive deference to command, and the strain of living under people or institutions that stand above the native.
 
 ## Links
 
 - [Asc](../factors/asc.md)
 - [Kronos](../factors/kronos.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

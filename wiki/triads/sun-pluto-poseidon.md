@@ -3,7 +3,7 @@ title: Sun Pluto Poseidon
 page_type: triad_hub
 slug: sun-pluto-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Pluto Poseidon`
 - Astronomicon triad-set: `S Z ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Pluto/Poseidon = Sun](../activations/pluto-poseidon-equals-sun.md)
-  Source page `264`
 - [Sun/Pluto = Poseidon](../activations/sun-pluto-equals-poseidon.md)
-  Source page `110`
 - [Sun/Poseidon = Pluto](../activations/sun-poseidon-equals-pluto.md)
-  Source page `118`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Pluto/Poseidon = Sun`: page `264`
-- `Sun/Pluto = Poseidon`: page `110`
-- `Sun/Poseidon = Pluto`: page `118`
+- `Pluto/Poseidon = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `264`
+- `Pluto/Poseidon = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `422`
+- `Sun/Pluto = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `110`
+- `Sun/Pluto = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `157`
+- `Sun/Poseidon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `118`
+- `Sun/Poseidon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `173`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Pluto/Poseidon = Sun`: This activation emphasizes days very favorable for mental development.
+- `Sun/Pluto = Poseidon`: This formula emphasizes revelatory change and truth emerging through transformation.
+- `Sun/Poseidon = Pluto`: This formula emphasizes revelatory change and truth surfacing through transformation.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Pluto](../factors/pluto.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Kronos/Apollon = Saturn
 page_type: activation
 slug: kronos-apollon-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Kronos
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Kronos + Apollon`
-- Source page: `299`
 #### Witte Entry
 
 Master of method. Stoppage in science or commerce. A general and extended great hindrance of long duration, especially for the economic life.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Master of method. Stoppage in science or commerce. A general and extended great hindrance of long duration, especially for the economic life.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special tasks of science, special concentration success, dominance through maturity and experience, success through self governing in old age, great trade losses, great concentration on knowledge, and important problems of science
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Apollon = Saturn`: mastery of method, but also stoppage in science or commerce and a broad, long-lasting hindrance to economic life.
+- Chart expression: rigor and formal structure, yet it can also mark prolonged blockage, institutional slowdown, or burdensome constraints on knowledge and trade.
 
 ## Links
 
@@ -61,3 +56,5 @@ Master of method. Stoppage in science or commerce. A general and extended great 
 - [Apollon](../factors/apollon.md)
 - [Saturn](../factors/saturn.md)
 - [Kronos/Apollon](../axes/kronos-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

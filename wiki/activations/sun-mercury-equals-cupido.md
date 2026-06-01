@@ -3,7 +3,7 @@ title: Sun/Mercury = Cupido
 page_type: activation
 slug: sun-mercury-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Mercury
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Mercury
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Mercury`
-- Source page: `103`
 #### Witte Entry
 
 Thoughts about art, community or marriage. An early marriage. Correspondence between marriage partners. Young male relatives, or ones in-laws.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Thoughts about art, community or marriage. An early marriage. Correspondence between marriage partners. Young male relatives, or ones in-laws.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+mobile community of persons, shared body language, community for bodily movement, community of young people, conversations in of a community center, male conversation community, and community of personal traffic
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Mercury = Cupido`: family speech and identity expressed through one's circle.
+- Practical expression: mobile community of persons, shared body language, community for bodily movement, community of young people, and conversations in a community center.
 
 ## Links
 
@@ -61,3 +56,5 @@ Thoughts about art, community or marriage. An early marriage. Correspondence bet
 - [Mercury](../factors/mercury.md)
 - [Cupido](../factors/cupido.md)
 - [Sun/Mercury](../axes/sun-mercury.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Vernal Point/Pluto = Moon
 page_type: activation
 slug: vernal-point-pluto-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Moon
   - Pluto
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Pluto`
-- Source page: `47`
 #### Witte Entry
 
 General changes in the environment that affect the public or females.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: General changes in the environment that affect the public or females.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Women's development in the public life, Gemilts change in the public, Women change the world, Public development of a people, Hour of change in the public, and Growing feeling for the public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Pluto = Moon`: general changes in the environment that affect the public or females.
+- Practical expression: women's development in the public life, gemilts change in the public, women change the world, public development of a people, and hour of change in the public.
 
 ## Links
 
@@ -61,3 +56,5 @@ General changes in the environment that affect the public or females.
 - [Pluto](../factors/pluto.md)
 - [Moon](../factors/moon.md)
 - [Vernal Point/Pluto](../axes/vernal-point-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

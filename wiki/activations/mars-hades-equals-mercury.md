@@ -3,7 +3,7 @@ title: Mars/Hades = Mercury
 page_type: activation
 slug: mars-hades-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Mars
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Hades`
-- Source page: `198`
 #### Witte Entry
 
 Impediment in one’s speech. To run across, to meet, forbidden stupidity. Abusive words. To think of activities causing losses or damages. Criminal thoughts. Thoughts of murder. To think of suicide.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Impediment in one’s speech. To run across, to meet, forbidden stupidity. Abusive words. To think of activities causing losses or damages. Criminal thoughts. Thoughts of murder. To think of suicide.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dangerous work in transport, dangerous actions of young people, dangerous thought work, lack of work for young people, news about criminal activity, harmful work reports, and talk about dirty work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Hades = Mercury`: corrupted communication, obsessive harmful ideas, and thought patterns that dwell on injury, crime, or ruin instead of repair.
 
 ## Links
 
@@ -61,3 +55,5 @@ Impediment in one’s speech. To run across, to meet, forbidden stupidity. Abusi
 - [Hades](../factors/hades.md)
 - [Mercury](../factors/mercury.md)
 - [Mars/Hades](../axes/mars-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

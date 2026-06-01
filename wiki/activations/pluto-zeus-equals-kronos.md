@@ -3,7 +3,7 @@ title: Pluto/Zeus = Kronos
 page_type: activation
 slug: pluto-zeus-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Zeus
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Zeus`
-- Source page: `259`
 #### Witte Entry
 
 Best performance record. To be forced to accomplish the maximum. The boss or the chief or the government demanding the impossible thing, the unrealizable.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Best performance record. To be forced to accomplish the maximum. The boss or the chief or the government demanding the impossible thing, the unrealizable.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Start of an important development, develop special achievements, develop filthy authority, change of leadership in the state, develop self determined goals, initiate state development efforts, increase reputation through performance, and start important development
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Zeus = Kronos`: best performance record; To be forced to accomplish the maximum; The boss or the chief or the government demanding the impossible thing, the unrealizable.
+- Practical expression: start of an important development, develop special achievements, develop filthy authority, change of leadership in the state, and develop self determined goals.
 
 ## Links
 
@@ -61,3 +56,5 @@ Best performance record. To be forced to accomplish the maximum. The boss or the
 - [Zeus](../factors/zeus.md)
 - [Kronos](../factors/kronos.md)
 - [Pluto/Zeus](../axes/pluto-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Jupiter Node Kronos
 page_type: triad_hub
 slug: jupiter-node-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Node Kronos`
 - Astronomicon triad-set: `V g ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Kronos = Node](../activations/jupiter-kronos-equals-node.md)
-  Source page `214`
 - [Jupiter/Node = Kronos](../activations/jupiter-node-equals-kronos.md)
-  Source page `144`
 - [Node/Kronos = Jupiter](../activations/node-kronos-equals-jupiter.md)
-  Source page `152`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Kronos = Node`: page `214`
-- `Jupiter/Node = Kronos`: page `144`
-- `Node/Kronos = Jupiter`: page `152`
+- `Jupiter/Kronos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `214`
+- `Jupiter/Kronos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `338`
+- `Jupiter/Node = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `144`
+- `Jupiter/Node = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `215`
+- `Node/Kronos = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `152`
+- `Node/Kronos = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `230`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Kronos = Node`: contact with leading persons or with people who experience great luck.
+- `Jupiter/Node = Kronos`: good relations with the father or chief, protective connection, and acquaintance with a future husband.
+- `Node/Kronos = Jupiter`: Court action. Good connections with authorities. Reward. To receive money.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Node](../factors/node.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

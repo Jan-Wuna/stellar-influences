@@ -3,7 +3,7 @@ title: Kronos/Admetos = Asc
 page_type: activation
 slug: kronos-admetos-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - Kronos
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Kronos + Admetos`
-- Source page: `300`
 #### Witte Entry
 
 To be noted through one’s odd character. To seclude oneself from others or to be secluded. Acquaintance with odd persons. Also to lead a secluded odd life together with others.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be noted through one’s odd character. To seclude oneself from others or to be secluded. Acquaintance with odd persons. Also to lead a secluded odd life together with others.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special partner permanence, blocked self governance in the environment, end of self governance in the place, consolidated partner authority, great depressions of the partner, great superiority of the other, state environmental restrictions, and superior resistance of others
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Admetos = Asc`: being noticed for oddness or peculiarity, self-seclusion, contact with unusual people, or shared life with others who are equally set apart.
+- Chart expression: marked difference in demeanor and environment, with the native either withdrawing from the ordinary or being treated as separate from it.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be noted through one’s odd character. To seclude oneself from others or to 
 - [Admetos](../factors/admetos.md)
 - [Asc](../factors/asc.md)
 - [Kronos/Admetos](../axes/kronos-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

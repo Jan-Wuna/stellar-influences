@@ -3,7 +3,7 @@ title: Mars/Saturn = Kronos
 page_type: activation
 slug: mars-saturn-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Saturn
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Saturn
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Saturn`
-- Source page: `193`
 #### Witte Entry
 
 Quarrel with superiors, the chief or the government. Death of higher-ups or ancestors, for example the father.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Quarrel with superiors, the chief or the government. Death of higher-ups or ancestors, for example the father.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Appreciation through hard work, particularly slow activity, concentrated action of an authorship, problematic work of the state, will for self governing in old age, separation activity of the state, and losses by state actions
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Saturn = Kronos` turns struggle and blockage into conflict with authority and the fall of superiors.
+- Chart expression: quarrels with bosses, chiefs, or government, and in harder cases to the death of higher-ups, rulers, or authoritative family figures such as the father.
 
 ## Links
 
@@ -61,3 +56,5 @@ Quarrel with superiors, the chief or the government. Death of higher-ups or ance
 - [Saturn](../factors/saturn.md)
 - [Kronos](../factors/kronos.md)
 - [Mars/Saturn](../axes/mars-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Sun Zeus Kronos
 page_type: triad_hub
 slug: sun-zeus-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Zeus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Zeus Kronos`
 - Astronomicon triad-set: `S £ ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Sun/Kronos = Zeus](../activations/sun-kronos-equals-zeus.md)
-  Source page `114`
 - [Sun/Zeus = Kronos](../activations/sun-zeus-equals-kronos.md)
-  Source page `113`
 - [Zeus/Kronos = Sun](../activations/zeus-kronos-equals-sun.md)
-  Source page `289`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Sun/Kronos = Zeus`: page `114`
-- `Sun/Zeus = Kronos`: page `113`
-- `Zeus/Kronos = Sun`: page `289`
+- `Sun/Kronos = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `114`
+- `Sun/Kronos = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `165`
+- `Sun/Zeus = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `113`
+- `Sun/Zeus = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `163`
+- `Zeus/Kronos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `289`
+- `Zeus/Kronos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `450`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Sun/Kronos = Zeus`: This formula emphasizes forceful leadership and creative command.
+- `Sun/Zeus = Kronos`: This formula emphasizes forceful leadership and creative command.
+- `Zeus/Kronos = Sun`: A fighter by nature. The man who demands and inclines to aggressive action. War chief. Commanding Officer.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Zeus](../factors/zeus.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

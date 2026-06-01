@@ -45,8 +45,6 @@ updated_at: 2026-04-21
 
 - Axis: `Mars/Mars`
 - Astronomicon axis: `U/U`
-- Source heading: `Mars + Mars`
-- Source page: `190`
 
 ## Source Entries
 
@@ -55,15 +53,6 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 Activity. Action. To act. Impulse. The Will. Decision. Work. Employment. Energy. Execute. Resolve. Impulsiveness. Passion. Inflammation. Male persons. Accomplishment (mechanical kind). Occupation.
-
-## Comparative Schema
-
-- core meaning: Activity. Action. To act. Impulse. The Will. Decision. Work. Employment. Energy. Execute. Resolve. Impulsiveness. Passion. Inflammation. Male persons. Accomplishment (mechanical kind). Occupation.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
@@ -89,13 +78,11 @@ Activity. Action. To act. Impulse. The Will. Decision. Work. Employment. Energy.
 - [Mars/Mars = Vulcanus](../activations/mars-mars-equals-vulcanus.md)
 - [Mars/Mars = Poseidon](../activations/mars-mars-equals-poseidon.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Mars` is the pure axis of action, will, effort, decision, passion, labor, and direct expenditure of energy.
+- Chart expression: concentrated drive and execution: the urge to act, work, fight, build, decide, and push events forward. It is raw Mars intensified, so its gifts are force and accomplishment, while its risks are impulsiveness, inflammation, conflict, and over-heated action.
 
 ## Links
 

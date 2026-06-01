@@ -58,11 +58,12 @@ aliases:
   - Node/Jupiter
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -75,17 +76,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter/Dragon's Head`
-- Source page: `237`
-
 #### Pair Summary
 
 Fortunate union. Fortunate connections. Fortunate contacts. Financial relationship. Successful connections. Relations to matters of money or justice.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Jupiter/Dragon's Head`
-- Source page: `237`
+#### ABC Pair Summary
+
+Relations with the Community, successful relations, financial relations, joyful encounters, money mediation, happiness in bonds, legal relations, mediation, and favourable relations
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -109,9 +110,6 @@ The flow of force in the living organism.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Jupiter/Node midpoint`
-- Source page: `84`
-
 #### Principle
 
 The desire to seek out connections through which one may grow and expand. A generous and expansive way of connecting with people. To make many connections with others. The ability to compensate for difficulties or limitations en countered when connecting with other people. Mutual benefit resulting from one’s connections.
@@ -122,17 +120,11 @@ The gaining of perspective on the past through deepening one’s understand ing 
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Jupiter/Nodes`
-- Source page: `209`
-
 #### Pair Delineation
 
 Coming together with others for mutual growth and benefit or for the study of religious or philosophical subjects. The ability to make fortunate connections with others or to meet those that can be of assistance; the ability to make a good impression.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `JUPITER/NODE`
-- Source page: `271`
 
 #### Basic Ideas
 
@@ -161,15 +153,6 @@ Expansion in the joints or connecting tissue; swelling of the joints; stretching
 
 - [Michael Munkasey - Jupiter/Node Concepts](../derived/munkasey-jupiter-node-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Jupiter/Node = Admetos](../activations/jupiter-node-equals-admetos.md)
@@ -194,20 +177,18 @@ Expansion in the joints or connecting tissue; swelling of the joints; stretching
 - [Jupiter/Node = Vulcanus](../activations/jupiter-node-equals-vulcanus.md)
 - [Jupiter/Node = Zeus](../activations/jupiter-node-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Node` is the axis of fortunate associations, mutual benefit, fellowship, and growth through alliance. It combines goodwill, opportunity, ethics, and abundance with connection, cooperation, and the formation of supportive ties.
+- Chart expression: sociability, tact, helpful contacts, beneficial networks, and partnerships that widen opportunity, happiness, or understanding for both sides. Liabilities: opportunism, inflated assumptions about friendships or influence, self-interest disguised as fellowship, and poor judgment about which alliances are truly beneficial.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Node](../factors/node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)

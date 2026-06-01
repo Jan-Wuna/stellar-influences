@@ -3,7 +3,7 @@ title: Node/Admetos = Mars
 page_type: activation
 slug: node-admetos-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Node
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Admetos`
-- Source page: `154`
 #### Witte Entry
 
 To work together with few. Small working community. Working alone. To reject a working community or to be rejected by a joint-stock company. Connected by fighting for freedom.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To work together with few. Small working community. Working alone. To reject a working community or to be rejected by a joint-stock company. Connected by fighting for freedom.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Excluding the creation in a relationship, blocked actions in a connection, depressive impulses in a connection, restricted work mediation, general mediation activity, and subordinate mediation activity
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Admetos = Mars`: To work together with few. Small working community. Working alone. To reject a working community or to be rejected by a joint-stock company. Connected by fighting for freedom.
+- Practical focus: small working community; also working alone.
+- In difficult expression, it can mark to work together with few.
 
 ## Links
 
@@ -61,3 +57,5 @@ To work together with few. Small working community. Working alone. To reject a w
 - [Admetos](../factors/admetos.md)
 - [Mars](../factors/mars.md)
 - [Node/Admetos](../axes/node-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

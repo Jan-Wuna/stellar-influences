@@ -3,7 +3,7 @@ title: Asc/Vulcanus = Saturn
 page_type: activation
 slug: asc-vulcanus-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Asc
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Vulcanus`
-- Source page: `97`
 #### Witte Entry
 
 Others are in dire need, are restrained or restrain the native or meet with powerful resistance.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Others are in dire need, are restrained or restrain the native or meet with powerful resistance.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exhausting partner energy, enormous environmental damage, concentrated energy of space, power problems in the place, place for patience and strength, problcmatic partner influence, strong concentration on the partner, and pain due to violence in the place
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Vulcanus = Saturn`: blocked force, grim environments, and pressure that meets denial, want, or immovable resistance. Main caution: oppression, frustration, or prolonged hardship.
 
 ## Links
 
@@ -61,3 +55,5 @@ Others are in dire need, are restrained or restrain the native or meet with powe
 - [Vulcanus](../factors/vulcanus.md)
 - [Saturn](../factors/saturn.md)
 - [Asc/Vulcanus](../axes/asc-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Apollon/Vulcanus = Pluto
 page_type: activation
 slug: apollon-vulcanus-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Apollon
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Apollon
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Apollon + Vulcanus`
-- Source page: `307`
 #### Witte Entry
 
 E Preparation for a great success. To be prepared for a prosperous development.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: E Preparation for a great success. To be prepared for a prosperous development.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+develop influential knowledge, successful development of energy, develop fullness of power, extensive unfolding of energy, increased unfolding of force, growing expansion of force, growing success of power, and unfold much influence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Vulcanus = Pluto`: gathering force before a breakthrough, strategic buildup, and growth that becomes more powerful as it unfolds. Main caution: escalating momentum: preparation may turn into a pressure cycle that becomes difficult to moderate once unleashed.
 
 ## Links
 
@@ -61,3 +55,5 @@ E Preparation for a great success. To be prepared for a prosperous development.
 - [Vulcanus](../factors/vulcanus.md)
 - [Pluto](../factors/pluto.md)
 - [Apollon/Vulcanus](../axes/apollon-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

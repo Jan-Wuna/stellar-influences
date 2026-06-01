@@ -3,7 +3,7 @@ title: Zeus/Admetos = MC
 page_type: activation
 slug: zeus-admetos-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Zeus
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Admetos`
-- Source page: `293`
 #### Witte Entry
 
 Ready to start, willingness to begin, ability to proceed. To give something shape, image and expression. To feel a new task as a burden.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Ready to start, willingness to begin, ability to proceed. To give something shape, image and expression. To feel a new task as a burden.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Bcginncndc scclical subordination, limitation of my goals, restricted mental creativity, solid mental movement, my creative cycle, my heavy start, my exhausting efforts, and my beginning depressions
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Admetos = MC`: Ready to start, willingness to begin, ability to proceed. To give something shape, image and expression. To feel a new task as a burden.
+- Practical expression: bcginncndc scclical subordination, limitation of my goals, restricted mental creativity, solid mental movement, and my creative cycle.
 
 ## Links
 
@@ -61,3 +56,5 @@ Ready to start, willingness to begin, ability to proceed. To give something shap
 - [Admetos](../factors/admetos.md)
 - [MC](../factors/mc.md)
 - [Zeus/Admetos](../axes/zeus-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

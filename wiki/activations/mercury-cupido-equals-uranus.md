@@ -3,7 +3,7 @@ title: Mercury/Cupido = Uranus
 page_type: activation
 slug: mercury-cupido-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Uranus
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Cupido`
-- Source page: `166`
 #### Witte Entry
 
 Sudden artistic inspiration. Revolutionary new artistic thoughts, inspiration. A coiner of words.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sudden artistic inspiration. Revolutionary new artistic thoughts, inspiration. A coiner of words.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+excitement about a youth community, reports of a technical community, dynamic thoughts of a community, excited conversations in the community, shared youth reform, and innovations in media communities
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Cupido = Uranus` electrifies the axis with sudden inspiration and new artistic language.
+- Chart expression: revolutionary artistic ideas, abrupt creative insight, and the invention of fresh forms of expression, including new words, styles, or social-artistic concepts.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sudden artistic inspiration. Revolutionary new artistic thoughts, inspiration. A
 - [Cupido](../factors/cupido.md)
 - [Uranus](../factors/uranus.md)
 - [Mercury/Cupido](../axes/mercury-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

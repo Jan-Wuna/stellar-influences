@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Kronos + Kronos`
-- Source page: `297`
 #### Witte Entry
 
 Things which come to the native from above. Workman. Employee. Official. Others are superiors. The influence of the state on the environment. Officials in the near. To come in touch with employees, officials or authorities. Things upon which one is dependent. Orders emanating from the authorities. Extraordinary place.
 
-## Comparative Schema
-
-- core meaning: Things which come to the native from above. Workman. Employee. Official. Others are superiors. The influence of the state on the environment. Officials in the near. To come in touch with employees, officials or authorities. Things upon which one is dependent. Orders emanating from the authorities. Extraordinary place.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Kronos = Asc`: contact with officials, orders from above, dependence on superiors, and surroundings shaped by government, hierarchy, or extraordinary place.
+- Chart expression: visible authority in everyday life, but it can also indicate being under orders or living within structures one does not control.
 
 ## Links
 

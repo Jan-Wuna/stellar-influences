@@ -3,7 +3,7 @@ title: MC/Zeus = Uranus
 page_type: activation
 slug: mc-zeus-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - MC
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Zeus`
-- Source page: `72`
 #### Witte Entry
 
 Suddenly wanting to be creatively active. Sudden urge for great deeds. To force one’s will on someone. Personal creative ability for innovation.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Suddenly wanting to be creatively active. Sudden urge for great deeds. To force one’s will on someone. Personal creative ability for innovation.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Beginning of psychic tensions, excited fiery soul, I start suddenly, I create nervousness, my leadership impulses, my new goals, my reform efforts, my rhythmic achievements, and my technical efforts
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Zeus = Uranus` electrifies the axis with sudden initiative, innovation, and forceful will.
+- Chart expression: abrupt creative activation, a restless urge for major deeds, and the tendency to drive new ideas through with disruptive, inventive intensity.
 
 ## Links
 
@@ -61,3 +56,5 @@ Suddenly wanting to be creatively active. Sudden urge for great deeds. To force 
 - [Zeus](../factors/zeus.md)
 - [Uranus](../factors/uranus.md)
 - [MC/Zeus](../axes/mc-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

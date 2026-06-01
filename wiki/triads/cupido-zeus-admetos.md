@@ -3,7 +3,7 @@ title: Cupido Zeus Admetos
 page_type: triad_hub
 slug: cupido-zeus-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Zeus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Cupido Zeus Admetos`
 - Astronomicon triad-set: `¡ £ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Admetos = Zeus](../activations/cupido-admetos-equals-zeus.md)
-  Source page `271`
 - [Cupido/Zeus = Admetos](../activations/cupido-zeus-equals-admetos.md)
-  Source page `268`
 - [Zeus/Admetos = Cupido](../activations/zeus-admetos-equals-cupido.md)
-  Source page `293`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Admetos = Zeus`: page `271`
-- `Cupido/Zeus = Admetos`: page `268`
-- `Zeus/Admetos = Cupido`: page `293`
+- `Cupido/Admetos = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `271`
+- `Cupido/Admetos = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `433`
+- `Cupido/Zeus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `268`
+- `Cupido/Zeus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `427`
+- `Zeus/Admetos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `293`
+- `Zeus/Admetos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `455`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Admetos = Zeus`: tackling a problem, delay in a newly established firm, or the start of a major artistic creation under obstruction.
+- `Cupido/Zeus = Admetos`: concerted effort meeting grave obstacles and the difficult start of a young firm or new organization.
+- `Zeus/Admetos = Cupido`: Changes of conditions in the family as well as socially; Changes in the general social forms or manners.
 
 ## Links
 
 - [Cupido](../factors/cupido.md)
 - [Zeus](../factors/zeus.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

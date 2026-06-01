@@ -3,7 +3,7 @@ title: Mercury/Zeus = Hades
 page_type: activation
 slug: mercury-zeus-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Hades
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Zeus`
-- Source page: `168`
 #### Witte Entry
 
 Vile demands or requests. Orders and rules born out of villainy or baseness. Instigation to robbery, murder or theft.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Vile demands or requests. Orders and rules born out of villainy or baseness. Instigation to robbery, murder or theft.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful talk about past, efforts in old language, fire emergency call, criminal efforts of youth, poor performance thinking, media services through deprivation, and determined secret language
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Zeus = Hades`: Vile demands or requests. Orders and rules born out of villainy or baseness. Instigation to robbery, murder or theft.
+- Practical expression: effortful talk about past, efforts in old language, fire emergency call, criminal efforts of youth, and poor performance thinking.
 
 ## Links
 
@@ -61,3 +56,5 @@ Vile demands or requests. Orders and rules born out of villainy or baseness. Ins
 - [Zeus](../factors/zeus.md)
 - [Hades](../factors/hades.md)
 - [Mercury/Zeus](../axes/mercury-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

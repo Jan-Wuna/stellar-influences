@@ -3,7 +3,7 @@ title: Mars Jupiter Apollon
 page_type: triad_hub
 slug: mars-jupiter-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Jupiter
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Jupiter Apollon`
 - Astronomicon triad-set: `U V ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Apollon = Mars](../activations/jupiter-apollon-equals-mars.md)
-  Source page `215`
 - [Mars/Apollon = Jupiter](../activations/mars-apollon-equals-jupiter.md)
-  Source page `201`
 - [Mars/Jupiter = Apollon](../activations/mars-jupiter-equals-apollon.md)
-  Source page `192`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Apollon = Mars`: page `215`
-- `Mars/Apollon = Jupiter`: page `201`
-- `Mars/Jupiter = Apollon`: page `192`
+- `Jupiter/Apollon = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `215`
+- `Jupiter/Apollon = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `340`
+- `Mars/Apollon = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `201`
+- `Mars/Apollon = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `316`
+- `Mars/Jupiter = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `192`
+- `Mars/Jupiter = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `299`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Apollon = Mars`: successful activity in commerce or science and income through interest or energetic enterprise.
+- `Mars/Apollon = Jupiter`: success in commerce, industry, science, and profession, with action directly generating gain.
+- `Mars/Jupiter = Apollon`: multiplies active opportunity into abundance, productivity, and broad success.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Jupiter](../factors/jupiter.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

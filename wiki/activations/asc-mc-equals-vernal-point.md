@@ -3,10 +3,10 @@ title: Asc/MC = Vernal Point
 page_type: activation
 slug: asc-mc-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Asc
+  - MC
   - Vernal Point
 normalized_formula: Asc/MC = Vernal Point
 axis: Asc/MC
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Asc
   - MC
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Asc`
-- Source page: `58`
 #### Witte Entry
 
 A professional or mental connection with the general public. One’s relationship to others in public life.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A professional or mental connection with the general public. One’s relationship to others in public life.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Other and I in the public sphere, public sphere Environment, my public sphere Life, my environment is the public sphere, my environment in the public sphere, minute on the 011th in the public sphere, and scelen partner for the public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/MC = Vernal Point`: public-facing work, general-interest relevance, and relationships that are shaped as much by collective exposure as by private exchange. Main caution: over-public living: wider connection can enlarge influence, but it can also make identity too dependent on public response or visibility.
 
 ## Links
 
@@ -61,3 +55,5 @@ A professional or mental connection with the general public. One’s relationshi
 - [MC](../factors/mc.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Asc/MC](../axes/asc-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

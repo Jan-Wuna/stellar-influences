@@ -3,7 +3,7 @@ title: Moon/Saturn = Hades
 page_type: activation
 slug: moon-saturn-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Saturn
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Saturn
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Saturn`
-- Source page: `126`
 #### Witte Entry
 
 Severe sickness of an elderly female. Saddening obstacles and difficulties. A nation under foreign rule.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Severe sickness of an elderly female. Saddening obstacles and difficulties. A nation under foreign rule.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Criminally burdened people, grief of an old woman, with deprivations matured woman, patient service of a woman, danger to an old woman, disadvantages caused by loss of life, poverty of a people by loss, and problems of a criminal woman
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Saturn = Hades`: Severe sickness of an elderly female. Saddening obstacles and difficulties. A nation under foreign rule.
+- Practical focus: degrades `Moon/Saturn` into severe affliction, sorrow, and oppressive collective circumstance. It points to emotional restriction burdened further by illness, foreign domination, or prolonged obstacle, making heaviness harsher and more defeating.
+- Practical expression: criminally burdened people, grief of an old woman, with deprivations matured woman, patient service of a woman, and danger to an old woman.
 
 ## Links
 
@@ -61,3 +57,5 @@ Severe sickness of an elderly female. Saddening obstacles and difficulties. A na
 - [Saturn](../factors/saturn.md)
 - [Hades](../factors/hades.md)
 - [Moon/Saturn](../axes/moon-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

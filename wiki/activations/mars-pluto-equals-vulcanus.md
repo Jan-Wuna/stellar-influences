@@ -3,7 +3,7 @@ title: Mars/Pluto = Vulcanus
 page_type: activation
 slug: mars-pluto-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Pluto
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Pluto`
-- Source page: `196`
 #### Witte Entry
 
 Great plans, on a large scale. Plans for distant future. To bring about plans which demand great changes.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great plans, on a large scale. Plans for distant future. To bring about plans which demand great changes.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Developing work energy, influence!3 Rich efforts for change, development of will and power, creating power change, strengthening of development work, changing through powerful actions, growing violence actions, and unfolding will strongness
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Pluto = Vulcanus` magnifies planning into large-scale, long-range, force-demanding change.
+- Chart expression: great plans for the distant future and transformative projects that require major power, endurance, or structural upheaval to realize.
 
 ## Links
 
@@ -61,3 +56,5 @@ Great plans, on a large scale. Plans for distant future. To bring about plans wh
 - [Pluto](../factors/pluto.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Mars/Pluto](../axes/mars-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Vernal Point/Saturn = Admetos
 page_type: activation
 slug: vernal-point-saturn-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Saturn
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Saturn
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Saturn`
-- Source page: `44`
 #### Witte Entry
 
 To be urged into a corner. General restriction and curbing. Obstruction and standstill.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be urged into a corner. General restriction and curbing. Obstruction and standstill.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Incrimination in the public, depression problems in the public life, restriction of the public stress, engpaB problems in the public, grim losses in the public, and circulatory disruptions in the public sphere
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Saturn = Admetos`: to be urged into a corner, general restriction and curbing, and obstruction and standstill.
+- Practical expression: incrimination in the public, depression problems in the public life, restriction of the public stress, engpaB problems in the public, and grim losses in the public.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be urged into a corner. General restriction and curbing. Obstruction and stan
 - [Saturn](../factors/saturn.md)
 - [Admetos](../factors/admetos.md)
 - [Vernal Point/Saturn](../axes/vernal-point-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

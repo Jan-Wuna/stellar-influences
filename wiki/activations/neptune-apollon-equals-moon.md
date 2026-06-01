@@ -3,7 +3,7 @@ title: Neptune/Apollon = Moon
 page_type: activation
 slug: neptune-apollon-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Neptune
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Apollon`
-- Source page: `251`
 #### Witte Entry
 
 To be deceived by female persons, to experience disappointments with them. The public or persons who feel themselves deceived.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be deceived by female persons, to experience disappointments with them. The public or persons who feel themselves deceived.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Spread of uncertainty in the people, intuitional experiences of a woman, metaphysical feeling knowledge, exchange of skills knowledge, insecure freedom for a people, spread of metaphysics in the people, and future knowledge of a people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Apollon = Moon`: To be deceived by female persons, to experience disappointments with them. The public or persons who feel themselves deceived.
+- Practical focus: collectivizes `Neptune/Apollon` by making women, groups, or the public feel deceived or disappointed. It shows broad illusion registering emotionally in the social body, where false hope or unkept promise becomes a shared mood.
+- Practical expression: spread of uncertainty in the people, intuitional experiences of a woman, metaphysical feeling knowledge, exchange of skills knowledge, and insecure freedom for a people.
 
 ## Links
 
@@ -61,3 +57,5 @@ To be deceived by female persons, to experience disappointments with them. The p
 - [Apollon](../factors/apollon.md)
 - [Moon](../factors/moon.md)
 - [Neptune/Apollon](../axes/neptune-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

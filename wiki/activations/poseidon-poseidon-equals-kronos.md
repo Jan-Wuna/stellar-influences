@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Poseidon + Poseidon`
-- Source page: `317`
 #### Witte Entry
 
 The one who is near God. The great revelation. The sage. High-minded and intellectual greatness. High standard of mentality. Greatness of mind. Culture. Mental giant. Superior genius. Moral behavior. Department of culture. Department of education. Bureau of Educational and Cultural Affairs.
 
-## Comparative Schema
-
-- core meaning: The one who is near God. The great revelation. The sage. High-minded and intellectual greatness. High standard of mentality. Greatness of mind. Culture. Mental giant. Superior genius. Moral behavior. Department of culture. Department of education. Bureau of Educational and Cultural Affairs.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Poseidon/Poseidon = Kronos`: The one who is near God. The great revelation. The sage. High-minded and intellectual greatness. High standard of mentality. Greatness of mind. Culture. Mental giant. Superior genius. Moral behavior. Department of culture. Department of education. Bureau of Educational and Cultural Affairs.
 
 ## Links
 

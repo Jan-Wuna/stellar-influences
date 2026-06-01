@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Moon Venus Chiron`
 - Astronomicon triad-set: `R Q Chiron`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Moon/Venus = Chiron`: John, page `27`
 - `Venus/Chiron = Moon`: John, page `58`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Chiron = Venus`: One relates to others in an emotionally healing way. When one relates emotions flow in cleansing fashion.
+- `Moon/Venus = Chiron`: Your energy helps others to tap into the love surrounding them in the moment, and to love their own past, even the most difficult parts of it. You also have the effect of helping them to be more vulnerable and open in relating.
+- `Venus/Chiron = Moon`: the ability to feel love everywhere and in everything and to contact an underly ing sense of peace and fulfillment even in the midst of the most difficult of emotions.
 
 ## Links
 

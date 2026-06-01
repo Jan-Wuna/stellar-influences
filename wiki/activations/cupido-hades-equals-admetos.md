@@ -3,7 +3,7 @@ title: Cupido/Hades = Admetos
 page_type: activation
 slug: cupido-hades-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Cupido
   - Hades
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Hades`
-- Source page: `267`
 #### Witte Entry
 
 Grand public spirit under adverse conditions. To be avoided by others, proscribed. Raw material from used material. To stand together under sorrowfill conditions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Grand public spirit under adverse conditions. To be avoided by others, proscribed. Raw material from used material. To stand together under sorrowfill conditions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Experiences of a past community, consolidation of a community through deprivation, dangerous depression in of a community, joint deepening of the past, and disadvantages in of a community through restrictions
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Hades = Admetos`: groups bound by hardship, exclusion, or long-lasting deprivation, sometimes finding solidarity only because conditions are so bleak. Main caution: making suffering itself the basis of belonging.
 
 ## Links
 
@@ -61,3 +55,5 @@ Grand public spirit under adverse conditions. To be avoided by others, proscribe
 - [Hades](../factors/hades.md)
 - [Admetos](../factors/admetos.md)
 - [Cupido/Hades](../axes/cupido-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

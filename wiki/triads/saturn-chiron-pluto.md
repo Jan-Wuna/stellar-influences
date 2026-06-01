@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Saturn Chiron Pluto`
 - Astronomicon triad-set: `W Chiron Z`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Saturn/Chiron = Pluto`: John, page `87`
 - `Saturn/Pluto = Chiron`: John, page `91`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Pluto = Saturn`: slow transformative healing and a deep test of courage around spiritual responsibility. Main caution: allowing fear or inadequacy to delay a change that insists on happening.
+- `Saturn/Chiron = Pluto` intensifies the need to understand why limitation and fear must be endured. It can transform life through profound recognition and release of fear; the caution is fixation on suffering, control, or the wound itself.
+- `Saturn/Pluto = Chiron` carries a message that even severe limits and deep fears can be transformed. It can support the transmutation of very negative emotion; the caution is to avoid coercive redemption narratives or pushing people through material that needs time and containment.
 
 ## Links
 

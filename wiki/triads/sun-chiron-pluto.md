@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Sun Chiron Pluto`
 - Astronomicon triad-set: `S Chiron Z`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Sun/Chiron = Pluto`: John, page `15`
 - `Sun/Pluto = Chiron`: John, page `20`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Pluto = Sun`: relentless search for what matters and identity purified by transformative healing purpose. Main caution: turning that seriousness into egoic intensity or self-importance.
+- `Sun/Chiron = Pluto`: profound transformation through discovering deeper purpose and exposing what is spiritually essential beneath outer forms.
+- `Sun/Pluto = Chiron`: deep transformation through discovering life purpose and exposing what is spiritually essential beneath appearances.
 
 ## Links
 

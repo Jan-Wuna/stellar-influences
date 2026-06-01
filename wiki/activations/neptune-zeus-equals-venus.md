@@ -3,7 +3,7 @@ title: Neptune/Zeus = Venus
 page_type: activation
 slug: neptune-zeus-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Neptune
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Zeus`
-- Source page: `249`
 #### Witte Entry
 
 The beginning of dissolution and destruction of progeny. Made unhappy through love without consequences. Sterilization of a woman.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The beginning of dissolution and destruction of progeny. Made unhappy through love without consequences. Sterilization of a woman.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Beginning unravelling of a love, subtle love shaping, fine customs of artistic achievement, 'fire water' muted, joy by striving for refinement, secret love efforts, unclear objective in love, and preference for fiery fluids
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Zeus = Venus`: The beginning of dissolution and destruction of progeny. Made unhappy through love without consequences. Sterilization of a woman.
+- Pleasure, love, or fertility is touched by dissolution and loss, pointing to unhappy affection, broken continuation, or damage to reproduction.
+- Practical expression: beginning unravelling of a love, subtle love shaping, fine customs of artistic achievement, fire water' muted, and oy by striving for refinement.
 
 ## Links
 
@@ -61,3 +57,5 @@ The beginning of dissolution and destruction of progeny. Made unhappy through lo
 - [Zeus](../factors/zeus.md)
 - [Venus](../factors/venus.md)
 - [Neptune/Zeus](../axes/neptune-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Venus/Uranus = Hades
 page_type: activation
 slug: venus-uranus-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Uranus
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Uranus`
-- Source page: `179`
 #### Witte Entry
 
 Manifestation of base sensuality. Perversities. Surprisingly being connected with persons of lower kind. Harmony with servants.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Manifestation of base sensuality. Perversities. Surprisingly being connected with persons of lower kind. Harmony with servants.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dangerous love experience, artificial impulses from the past, sudden danger to peace, lack of tension in love, disadvantages due to new love, sudden loveCummer, exciting love service, and restlessness due to criminal desires
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Uranus = Hades`: manifestation of base sensuality.
+- Practical expression: dangerous love experience, artificial impulses from the past, sudden danger to peace, lack of tension in love, and disadvantages due to new love.
 
 ## Links
 
@@ -61,3 +56,5 @@ Manifestation of base sensuality. Perversities. Surprisingly being connected wit
 - [Uranus](../factors/uranus.md)
 - [Hades](../factors/hades.md)
 - [Venus/Uranus](../axes/venus-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

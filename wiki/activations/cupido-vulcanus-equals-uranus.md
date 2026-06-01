@@ -3,7 +3,7 @@ title: Cupido/Vulcanus = Uranus
 page_type: activation
 slug: cupido-vulcanus-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Cupido
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Vulcanus`
-- Source page: `273`
 #### Witte Entry
 
 Trial of strength by a community. To find oneself suddenly in a great society. Objects of art or organizations created by superhuman efforts in a short time.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Trial of strength by a community. To find oneself suddenly in a great society. Objects of art or organizations created by superhuman efforts in a short time.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influence of a reform community, single event, common energy reform, power of a technical community, technical energy for the community, surprising violence against the community, and unrest by the community of violence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Vulcanus = Uranus`: communal power arriving explosively, often through extraordinary exertion or sudden alignment. Main caution: instability and burnout inside rapid displays of force.
 
 ## Links
 
@@ -61,3 +55,5 @@ Trial of strength by a community. To find oneself suddenly in a great society. O
 - [Vulcanus](../factors/vulcanus.md)
 - [Uranus](../factors/uranus.md)
 - [Cupido/Vulcanus](../axes/cupido-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

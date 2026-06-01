@@ -58,13 +58,14 @@ aliases:
   - Uranus/Moon
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -77,17 +78,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Uranus`
-- Source page: `127`
-
 #### Pair Summary
 
 Awake. Rouse. Excite. Vibrating motion. Interest. Attention. Restlessness of the body and the mind. Womens ambition. Energetic woman. Hour of tension. Eventful hour. Uproar of the populace. Excitement. Nervousness of female persons. Uproars caused by women. Excited persons and people.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Moon/Uranus`
-- Source page: `128`
+#### ABC Pair Summary
+
+Eventful hour, excited woman, excited gemtite, fiihls impulses, impulses of woman, ncue woman, nervous woman, reform woman, hour rhythm, iisurrapid woman, tjnruhe in the people, and people reform
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -111,17 +112,11 @@ Restless, nervous or ambitious women, female reformists.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
-- Source heading: `Moon/Uranus`
-- Source page: `28`
-
 #### Falis Entry
 
 Unusual attachments. Unusual friends. Feeling comfortable with nonconformists. Feeling nurtured by astrology. Wanting to live in the future. Instinctively rebellious. Shocking responses. Unpredictable responses. Unpredictable emotions. An erratic emotional life. Unstable emotional life. Emotionally extreme. Extreme responses. Feeling chaotic. Feeling like a revolutionary. Feeling rebellious. Wanting to break free from family ties. Wanting to break free from family conditioning. Wanting to break free from ingrained habits. Wanting to be liberated from domestic life. Free dom from family. Freedom from country. Rebelling against the country. Sudden intuition. Emotional independence. Unusual home life. Liking strange and unusual things. Living in a futuristic house. Feeling at home with technology. Feeling like a geek. Feeling like an outcast. Bizarre eating habits. Bizarre habit patterns. Bizarre ways of showing you care. Inconsistent emotions. Needing space and freedom. Coldness. Needing room to breathe. Feeling that fam ily life is claustrophobic. Breaking free from mom. Having an independent mother. An unpredictable, erratic, or inconsistent mother. Getting along with independent, strong-willed, unusual women. Liking liberated, rebellious, unpredictable women. The Liberated Woman. Inability to completely conform. Feeling supported by tech nology. Feeling supported by astrology. Astrology groups. Feeling comfortable with chaos. Feeling comfortable with eccentricity. Feeling happy with weirdoes. Strange feelings. Unusual intuitions. Sudden emotional out bursts. Emotionally distant. Aloof. Kooky habits. Liking bizarre food. Shocking eat ing habits. Abnormal emotional responses. Abnormal eating habits. Abnormal habits. Abnormal mother. Deviant behavior. Cool emotions. Emotionally detached. Inconsistent feelings for people. Inconsistent eating habits. Strange cuisine. Emo tionally stubborn. Emotionally fixed. Cool relationships with family members. Feel ing emotionally supported by groups - or not. Changing feelings. Keeping everyone at arm's length. Avoiding deeper emotions. Avoiding deeper relationships. Avoid ing emotional bonding. Avoiding family. Disruptive behavior. Naturally original. Naturally unique. A natural eccentric. A natural nonconformist. Naturally peculiar. Peculiar behavior. Feeling happier going off the beaten path. Avoiding the predictable. Avoiding routine. Avoiding clingy relationships. Steering clear of motherly types. Choosing not to have a family. Choosing independence over family. Having a hard time reconciling warm, caring emotions with the need to be free of constraints. Difficulty demonstrating affection. Preferring to be free and alone rather than with someone and trapped. Crankiness. Occasionally feeling the need to break free from everyone and everything. Feelings of anarchy. Emo tional alienation. Alienated from your own feelings and emotional life. Comfortable living on the fringe.
 
 ### Charles Carter - The Astrological Aspects
-
-- Source heading: `ASPECTS OF THE MOON & URANUS`
-- Source page: `29`
 
 #### Harmonious Aspects
 
@@ -159,9 +154,6 @@ Though there is generally one interest above all others in the life, it seems th
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Moon/Uranus midpoint`
-- Source page: `33`
-
 #### Principle
 
 Sudden changes of feeling, occurring because of the person needing to clear the emotional body. Odd, unusual, strange emotional states and/or unexpected reac tions to experiences. The ability to perceive things that others do not perceive. Upsets with one’s security. One finds security through freedom. The emotional need for inde pendence and to be able to pursue one’s own unique goals.
@@ -172,17 +164,11 @@ The ability to perceive one’s own independent emotions as being separate from 
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Moon/Uranus`
-- Source page: `203`
-
 #### Pair Delineation
 
 Emotional need for freedom. Need for unusual emotional experiences. Sudden actions dictated by feeling, outbursts of emotion. Disruptions of old patterns of living, breaks with the past, disruptions in nurture.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `MOON/URANUS`
-- Source page: `123`
 
 #### Basic Ideas
 
@@ -211,15 +197,6 @@ Stomach spasms; extremes of eyesight (good or bad); changes in the body’s acid
 
 - [Michael Munkasey - Moon/Uranus Concepts](../derived/munkasey-moon-uranus-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Moon/Uranus = Admetos](../activations/moon-uranus-equals-admetos.md)
@@ -244,20 +221,18 @@ Stomach spasms; extremes of eyesight (good or bad); changes in the body’s acid
 - [Moon/Uranus = Vulcanus](../activations/moon-uranus-equals-vulcanus.md)
 - [Moon/Uranus = Zeus](../activations/moon-uranus-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Uranus` is the axis of emotional freedom, restlessness, unconventional nurture, and sudden changes in habit or attachment. It combines feeling, memory, and domestic pattern with independence, surprise, tension, intuition, and the urge to break from emotional confinement.
+- Chart expression: originality in private life, quick instinctive insight, nonconformity, reformist feeling, and the need for space inside relationships, family, and routine. Liabilities: instability, emotional detachment, erratic responses, nervous strain, disrupted security, and difficulty sustaining steady warmth when freedom and closeness feel incompatible.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Uranus](../factors/uranus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)

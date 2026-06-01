@@ -3,7 +3,7 @@ title: Neptune/Zeus = Mercury
 page_type: activation
 slug: neptune-zeus-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Neptune
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Zeus`
-- Source page: `249`
 #### Witte Entry
 
 Spontaneous execution of peculiar ideas. To think of secret or concealed weapons.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Spontaneous execution of peculiar ideas. To think of secret or concealed weapons.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful future language, reports on performance in the water, design of the water traffic, news about performance weakness, weak media performance, talk about future goals, and procreation weakness in speech
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Zeus = Mercury`: Spontaneous execution of peculiar ideas. To think of secret or concealed weapons.
+- The mind moves quickly toward unusual or covert ideas, favoring spontaneous schemes, secret planning, or thought centered on concealed means.
+- Practical expression: effortful future language, reports on performance in the water, design of the water traffic, news about performance weakness, and weak media performance.
 
 ## Links
 
@@ -61,3 +57,5 @@ Spontaneous execution of peculiar ideas. To think of secret or concealed weapons
 - [Zeus](../factors/zeus.md)
 - [Mercury](../factors/mercury.md)
 - [Neptune/Zeus](../axes/neptune-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

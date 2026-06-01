@@ -3,7 +3,7 @@ title: Vernal Point/Jupiter = Asc
 page_type: activation
 slug: vernal-point-jupiter-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Jupiter
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Jupiter
   - Asc
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Jupiter`
-- Source page: `43`
 #### Witte Entry
 
 Being fortunate with other persons.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Being fortunate with other persons.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Success with others in the frequentity, joy in the public environment, money place in the public, happiness with a partner in the public life, public funds for the environment, public place right, and environmental success in the public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Jupiter = Asc`: being fortunate with other persons.
+- Practical expression: success with others in the frequentity, oy in the public environment, money place in the public, happiness with a partner in the public life, and public funds for the environment.
 
 ## Links
 
@@ -61,3 +56,5 @@ Being fortunate with other persons.
 - [Jupiter](../factors/jupiter.md)
 - [Asc](../factors/asc.md)
 - [Vernal Point/Jupiter](../axes/vernal-point-jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

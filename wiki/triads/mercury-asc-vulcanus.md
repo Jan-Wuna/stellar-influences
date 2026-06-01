@@ -3,7 +3,7 @@ title: Mercury Asc Vulcanus
 page_type: triad_hub
 slug: mercury-asc-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Asc Vulcanus`
 - Astronomicon triad-set: `T Asc §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Vulcanus = Mercury](../activations/asc-vulcanus-equals-mercury.md)
-  Source page `97`
 - [Mercury/Asc = Vulcanus](../activations/mercury-asc-equals-vulcanus.md)
-  Source page `83`
 - [Mercury/Vulcanus = Asc](../activations/mercury-vulcanus-equals-asc.md)
-  Source page `172`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Vulcanus = Mercury`: page `97`
-- `Mercury/Asc = Vulcanus`: page `83`
-- `Mercury/Vulcanus = Asc`: page `172`
+- `Asc/Vulcanus = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `97`
+- `Asc/Vulcanus = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `134`
+- `Mercury/Asc = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `83`
+- `Mercury/Asc = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `107`
+- `Mercury/Vulcanus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `172`
+- `Mercury/Vulcanus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `266`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Vulcanus = Mercury`: others being superior in thought and exerting strong pressure on opinion, speech, and mental freedom.
+- `Mercury/Asc = Vulcanus`: intensifies the Mercury/Asc axis into pressured, forceful business communication.
+- `Mercury/Vulcanus = Asc`: To be with people who are much on the move.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Asc](../factors/asc.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

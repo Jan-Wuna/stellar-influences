@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Sun + Sun`
-- Source page: `99`
 #### Witte Entry
 
 Man and woman (husband and wife). Marriage, parents, friendships, partnerships of male and female. The day and the hour. The course of the day. The attitude of a man towards a woman and vice versa. Physical relations to female persons. The body of a female. The course of the day.
 
-## Comparative Schema
-
-- core meaning: Man and woman (husband and wife). Marriage, parents, friendships, partnerships of male and female. The day and the hour. The course of the day. The attitude of a man towards a woman and vice versa. Physical relations to female persons. The body of a female. The course of the day.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Sun = Moon`: embodied identity and the self reflected in ordinary life and feeling.
 
 ## Links
 

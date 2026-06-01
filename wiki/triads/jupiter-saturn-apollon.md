@@ -3,7 +3,7 @@ title: Jupiter Saturn Apollon
 page_type: triad_hub
 slug: jupiter-saturn-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Saturn
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Saturn Apollon`
 - Astronomicon triad-set: `V W ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Apollon = Saturn](../activations/jupiter-apollon-equals-saturn.md)
-  Source page `215`
 - [Jupiter/Saturn = Apollon](../activations/jupiter-saturn-equals-apollon.md)
-  Source page `207`
 - [Saturn/Apollon = Jupiter](../activations/saturn-apollon-equals-jupiter.md)
-  Source page `228`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Apollon = Saturn`: page `215`
-- `Jupiter/Saturn = Apollon`: page `207`
-- `Saturn/Apollon = Jupiter`: page `228`
+- `Jupiter/Apollon = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `215`
+- `Jupiter/Apollon = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `341`
+- `Jupiter/Saturn = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `207`
+- `Jupiter/Saturn = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `325`
+- `Saturn/Apollon = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `228`
+- `Saturn/Apollon = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `362`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Apollon = Saturn`: success through methodical educational work and through things that move or sell slowly.
+- `Jupiter/Saturn = Apollon`: happy separation for many and the building of commercial or scientific institutions.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Saturn](../factors/saturn.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

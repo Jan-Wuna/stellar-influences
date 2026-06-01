@@ -10,16 +10,18 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Factor: Venus
 - Astronomicon token: `Q`
-- Canonical page type: comparative factor page grounded in standalone source chapters.
+- Canonical page type: comparative factor page grounded in standalone source entries.
 
 ## Source Entries
 
@@ -29,10 +31,13 @@ updated_at: 2026-04-22
 
 Love, harmony, peace, beauty, fine art, music, pleasure, sensual pleasure, taste, amenities. Good will. Help. Inclination. Desire. Feeling. Female persons. Maternal, caring women.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Venus`
-- Source page: `53`
+#### ABC Keyword Entry
+
+joy, peace, harmony, affection, love, preference, benevolence, arts, beauty, feminine principle, and wishes
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -56,30 +61,102 @@ A young girl or maiden, sweetheart or mistress, people who are connected with ce
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Venus`
-- Source page: `67`
-
 #### Hand Factor Entry
 
 In the universe there are two kinds of force that bring things together. One is coercive, trying to bring elements together regardless of their individual natures or inclinations. Such a force, working from without, does not express the natures of the elements themselves. It creates a conflict when the intrinsic natures of the elements involved resist the energy of coercion from without. The external force must be maintained, or the elements forced together will break apart and try to resume the free expression of what they are. Depending on conditions, such a coercive force may be represented by various combinations of
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native factor entries are preserved side by side above.
-- psychology: source-specific psychological and doctrinal emphases remain attached to their own source blocks instead of being flattened.
-- body/health: bodily wording remains inside each contributing source block when present.
-- social/relationship: interpersonal implications remain attached to each source's own phrasing.
-- events/manifestations: sign-position or chapter-level extensions remain attached to the source entry that states them.
-- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
+#### Basic Ideas
 
-## Contradictions and Framework Notes
+- Admiration
+- Adornment
+- Affection
+- Affinity
+- Allure
+- Appeasement
+- Attachment
+- Attraction
+- Beauty
+- Charisma
+- Charm
+- Compliments
+- Composure
+- Contentment
+- Cooperation
+- Courtesy
+- Dance
+- Delight
+- Elegance
+- Flavors
+- Flirtation
+- Gain
+- Grace
+- Gratification
+- Jealousy
+- Joy
+- Loveliness
+- Luxury
+- Persuasion
+- Sensations
+- Sensuality
+- Smiles
+- Values
 
-- Source differences on this factor page are preserved as framework emphasis rather than forced contradiction.
-- This page keeps the contributing source chapters side by side instead of treating one as a gloss on the other.
+#### In Your Relationships
 
+- Appreciation
+- Attraction
+- Enjoyment
+- Flirtation
+- Gratification
+- Love
+- Pleasure
+- Sensuality
+- Touching
+
+#### With Body or Mind
+
+- Blood Supply
+- Blood, Diseases of
+- Copper
+- Kidneys
+- Larynx
+- Muscle Toning
+- Relax, Ability to
+- Taste, Sense of
+- Throat
+- Thyroid
+- Tonsils
+- Veins
+
+#### In Politics or Business
+
+- Art
+- Beauty
+- Biology
+- Culture
+- Diplomacy
+- Economics
+- Economy
+- Fashion
+- Metals
+- Music
+- Peace
+- Plant Kingdom, The
+- Plants
+- Scenery
+- Social Trends
+- Society
+- Values
+- Wealth
+
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus` is the factor of joy, peace, harmony, affection, love, preference, beauty, art, and the force that joins things by liking, agreement, and enjoyment rather than coercion.
+- Chart expression: relationship, sensuality, social grace, benevolence, taste, diplomacy, value, comfort, wishes, and the feminine principle as a mode of attraction and receptivity.
+- Its liabilities are indulgence, vanity, sentimentality, vice, weak boundaries in pleasure, empty charm, and distorted values when comfort, approval, or desire overrides clarity and proportion.
 
 ## Related Axes
 
@@ -107,17 +184,10 @@ In the universe there are two kinds of force that bring things together. One is 
 - [Venus/Zeus](../axes/venus-zeus.md)
 - [Vernal Point/Venus](../axes/vernal-point-venus.md)
 
-## Related Activations
-
-- Generated activation pages involving `Venus`: `729`.
-- Browse [Index](../index.md) or the `wiki/activations/` folder for the full set.
-
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
-
-## Open Questions
-
-- None recorded yet.
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

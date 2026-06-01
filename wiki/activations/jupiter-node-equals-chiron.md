@@ -33,30 +33,14 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Jupiter/Node midpoint`
-- Source page: `84`
-- Activator: `Chiron`
-
 #### Sandbach Entry
 
 Your energy helps other people to enter more wholeheartedly, richly and fully into connections. You also can give them a lot of hope for the possibility of growth and confidence in taking in new experiences.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Node = Chiron`: fellowship becoming restorative and developmental. It favors bonds that help others open up, trust life more deeply, and grow through contact rather than retreat from it.
 
 ## Links
 

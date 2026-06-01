@@ -3,10 +3,10 @@ title: Mars/Node = Poseidon
 page_type: activation
 slug: mars-node-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Mars
+  - Node
   - Poseidon
 normalized_formula: Mars/Node = Poseidon
 axis: Mars/Node
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Node
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Mars`
-- Source page: `143`
 #### Witte Entry
 
 Common activity based on similar moral or ideological inclinations.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Common activity based on similar moral or ideological inclinations.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Creating work culture, learning about contact work, activating mental connections, creating clarity in a relationship, creating cultural connections, activity in truth mediation, and mediation of cultural work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Node = Poseidon` aligns common action around shared moral, spiritual, or ideological purpose.
+- Chart expression: cooperative work grounded in common convictions, with people acting together because they are joined by the same ethical or worldview commitments.
 
 ## Links
 
@@ -61,3 +56,5 @@ Common activity based on similar moral or ideological inclinations.
 - [Node](../factors/node.md)
 - [Poseidon](../factors/poseidon.md)
 - [Mars/Node](../axes/mars-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

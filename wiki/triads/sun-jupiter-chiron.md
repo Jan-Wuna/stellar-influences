@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Sun Jupiter Chiron`
 - Astronomicon triad-set: `S V Chiron`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Sun/Chiron = Jupiter`: John, page `15`
 - `Sun/Jupiter = Chiron`: John, page `12`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Chiron = Sun`: vitality and meaning powered by optimism aligned with the spiritual self, with life centered on letting higher forces flow through every action.
+- `Sun/Chiron = Jupiter`: to embrace life's purpose with optimism and faith and finding expansive meaning in personal evolution.
+- `Sun/Jupiter = Chiron`: understanding personal growth as a healing process and finding spiritual meaning in expansion, faith, and optimism.
 
 ## Links
 

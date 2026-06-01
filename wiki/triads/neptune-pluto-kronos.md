@@ -3,7 +3,7 @@ title: Neptune Pluto Kronos
 page_type: triad_hub
 slug: neptune-pluto-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Neptune Pluto Kronos`
 - Astronomicon triad-set: `Y Z ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Neptune/Kronos = Pluto](../activations/neptune-kronos-equals-pluto.md)
-  Source page `250`
 - [Neptune/Pluto = Kronos](../activations/neptune-pluto-equals-kronos.md)
-  Source page `246`
 - [Pluto/Kronos = Neptune](../activations/pluto-kronos-equals-neptune.md)
-  Source page `260`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Neptune/Kronos = Pluto`: page `250`
-- `Neptune/Pluto = Kronos`: page `246`
-- `Pluto/Kronos = Neptune`: page `260`
+- `Neptune/Kronos = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `250`
+- `Neptune/Kronos = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `399`
+- `Neptune/Pluto = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `246`
+- `Neptune/Pluto = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `391`
+- `Pluto/Kronos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `260`
+- `Pluto/Kronos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `415`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Neptune/Kronos = Pluto`: This activation transforms hidden authority into behind-the-scenes influence, sharpening political and diplomatic skill while exposing or publicizing incompetence in leadership.
+- `Neptune/Pluto = Kronos`: This activation elevates hidden transformation into the sphere of authority, showing abilities developing quietly and slow changes taking shape in relation to bosses, superiors, or institutions.
+- `Pluto/Kronos = Neptune`: This activation emphasizes uncertain or hidden shifts in authority; Advancement develops below the surface.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [Pluto](../factors/pluto.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

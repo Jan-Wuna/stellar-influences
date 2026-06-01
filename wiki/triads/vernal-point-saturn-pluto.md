@@ -3,7 +3,7 @@ title: Vernal Point Saturn Pluto
 page_type: triad_hub
 slug: vernal-point-saturn-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Saturn
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Saturn Pluto`
 - Astronomicon triad-set: `VP W Z`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Saturn/Pluto = Vernal Point](../activations/saturn-pluto-equals-vernal-point.md)
-  Source page `223`
 - [Vernal Point/Pluto = Saturn](../activations/vernal-point-pluto-equals-saturn.md)
-  Source page `47`
 - [Vernal Point/Saturn = Pluto](../activations/vernal-point-saturn-equals-pluto.md)
-  Source page `44`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Saturn/Pluto = Vernal Point`: page `223`
-- `Vernal Point/Pluto = Saturn`: page `47`
-- `Vernal Point/Saturn = Pluto`: page `44`
+- `Saturn/Pluto = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `223`
+- `Saturn/Pluto = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `352`
+- `Vernal Point/Pluto = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `47`
+- `Vernal Point/Pluto = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `43`
+- `Vernal Point/Saturn = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `44`
+- `Vernal Point/Saturn = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `37`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Vernal Point/Pluto = Saturn`: This formula emphasizes the development is slowed-up, hindered or retarded.
+- `Vernal Point/Saturn = Pluto`: This formula emphasizes matters come to a standstill, slow, hindered developments, and beginning of a separation.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Saturn](../factors/saturn.md)
 - [Pluto](../factors/pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

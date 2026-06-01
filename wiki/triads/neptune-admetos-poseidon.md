@@ -3,7 +3,7 @@ title: Neptune Admetos Poseidon
 page_type: triad_hub
 slug: neptune-admetos-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Admetos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Neptune Admetos Poseidon`
 - Astronomicon triad-set: `Y ¦ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Admetos/Poseidon = Neptune](../activations/admetos-poseidon-equals-neptune.md)
-  Source page `312`
 - [Neptune/Admetos = Poseidon](../activations/neptune-admetos-equals-poseidon.md)
-  Source page `252`
 - [Neptune/Poseidon = Admetos](../activations/neptune-poseidon-equals-admetos.md)
-  Source page `254`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Admetos/Poseidon = Neptune`: page `312`
-- `Neptune/Admetos = Poseidon`: page `252`
-- `Neptune/Poseidon = Admetos`: page `254`
+- `Admetos/Poseidon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `312`
+- `Admetos/Poseidon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `477`
+- `Neptune/Admetos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `252`
+- `Neptune/Admetos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `403`
+- `Neptune/Poseidon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `254`
+- `Neptune/Poseidon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `407`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Admetos/Poseidon = Neptune`: education or training that evaporates, fails to take root, or produces no real result.
+- `Neptune/Admetos = Poseidon`: This activation spiritualizes `Neptune/Admetos` through changes in one's inner or ideological concept of existence. It moves deprivation or hardening into the realm of meaning, where altered conditions force a revised philosophy of life.
+- `Neptune/Poseidon = Admetos`: This activation compresses subtle spiritual perception into deep penetration and refined discipline, breaking false ideas down through concentrated education and inward clarification.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [Admetos](../factors/admetos.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

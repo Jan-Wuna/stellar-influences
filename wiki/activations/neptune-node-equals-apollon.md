@@ -3,10 +3,10 @@ title: Neptune/Node = Apollon
 page_type: activation
 slug: neptune-node-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Neptune
+  - Node
   - Apollon
 normalized_formula: Neptune/Node = Apollon
 axis: Neptune/Node
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Node
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Neptune`
-- Source page: `147`
 #### Witte Entry
 
 Dissolution of union with many.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Dissolution of union with many.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Autlosung of trade relations, successful connection to metaphysics, creeping expansion of a community, uncertain success in relationships, connection to the knowledge of metaphysics, and increasing links to trade
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Node = Apollon`: Dissolution of union with many.
+- Practical focus: enlarges dissolution across wider circles, turning uncertain alliance into the breaking apart of unions involving many people at once.
+- Practical expression: autlosung of trade relations, successful connection to metaphysics, creeping expansion of a community, uncertain success in relationships, and connection to the knowledge of metaphysics.
 
 ## Links
 
@@ -61,3 +57,5 @@ Dissolution of union with many.
 - [Node](../factors/node.md)
 - [Apollon](../factors/apollon.md)
 - [Neptune/Node](../axes/neptune-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

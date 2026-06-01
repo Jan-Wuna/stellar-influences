@@ -3,7 +3,7 @@ title: Pluto Node Cupido
 page_type: triad_hub
 slug: pluto-node-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Pluto Node Cupido`
 - Astronomicon triad-set: `Z g ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Node/Cupido = Pluto](../activations/node-cupido-equals-pluto.md)
-  Source page `149`
 - [Pluto/Cupido = Node](../activations/pluto-cupido-equals-node.md)
-  Source page `257`
 - [Pluto/Node = Cupido](../activations/pluto-node-equals-cupido.md)
-  Source page `148`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Node/Cupido = Pluto`: page `149`
-- `Pluto/Cupido = Node`: page `257`
-- `Pluto/Node = Cupido`: page `148`
+- `Node/Cupido = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `149`
+- `Node/Cupido = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `225`
+- `Pluto/Cupido = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `257`
+- `Pluto/Cupido = Node`: Udo Rudolph - ABC for Planetary Pictures, page `408`
+- `Pluto/Node = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `148`
+- `Pluto/Node = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `223`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Node/Cupido = Pluto`: P Previous connections are started all over. Newly arising community. Assembly of a corporation. Inauguration (opening) of parliament.
+- `Pluto/Cupido = Node`: This activation emphasizes to be connected with changed conditions of being.
+- `Pluto/Node = Cupido`: This activation emphasizes new ties form around family, community or social restructuring.
 
 ## Links
 
 - [Pluto](../factors/pluto.md)
 - [Node](../factors/node.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

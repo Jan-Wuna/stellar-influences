@@ -3,7 +3,7 @@ title: Venus/Jupiter = Apollon
 page_type: activation
 slug: venus-jupiter-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Jupiter
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Jupiter
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Jupiter`
-- Source page: `177`
 #### Witte Entry
 
 Many good friends and fortune through them. Luck and happiness through and with many.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Many good friends and fortune through them. Luck and happiness through and with many.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Success in arts and science, successful expansion of peace, successful artificial knowledge, joy over legal success, love happiness experienced, unlimited love for money, lots of money through love, preference for money trading, and increasing financial desire
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Jupiter = Apollon`: many good friends and fortune through them.
+- Practical expression: success in arts, science, successful expansion of peace, and successful artificial knowledge.
 
 ## Links
 
@@ -61,3 +56,5 @@ Many good friends and fortune through them. Luck and happiness through and with 
 - [Jupiter](../factors/jupiter.md)
 - [Apollon](../factors/apollon.md)
 - [Venus/Jupiter](../axes/venus-jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

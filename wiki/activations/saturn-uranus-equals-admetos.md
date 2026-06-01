@@ -3,7 +3,7 @@ title: Saturn/Uranus = Admetos
 page_type: activation
 slug: saturn-uranus-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Uranus
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Uranus`
-- Source page: `221`
 #### Witte Entry
 
 To get into or out of a tight spot by surprise. Sudden separation of a few.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To get into or out of a tight spot by surprise. Sudden separation of a few.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Serious restlessness due to blockage, blocked circulatory rhythm, grim patience in tension, new losses due to restriction, sudden depression, tension in old age due to underdriickness, and iisurpating pain underdriickness
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Uranus = Admetos`: to get into or out of a tight spot by surprise, sudden separation of a few.
+- Practical expression: serious restlessness due to blockage, blocked circulatory rhythm, grim patience in tension, new losses due to restriction, and sudden depression.
 
 ## Links
 
@@ -61,3 +56,5 @@ To get into or out of a tight spot by surprise. Sudden separation of a few.
 - [Uranus](../factors/uranus.md)
 - [Admetos](../factors/admetos.md)
 - [Saturn/Uranus](../axes/saturn-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

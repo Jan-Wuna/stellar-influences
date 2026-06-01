@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Neptune + Neptune`
-- Source page: `244`
 #### Witte Entry
 
 Rapture. Sensitive, renouncing, false or unhappy love. Deceptive hopes. Hidden and secret feelings, sensations or sentiments. Wrong sex instinct. Renouncing love. Misfortune in love. Untrue love. Abnormality. Secret love. Disappointment in love. To be deceived in one’s affections.
 
-## Comparative Schema
-
-- core meaning: Rapture. Sensitive, renouncing, false or unhappy love. Deceptive hopes. Hidden and secret feelings, sensations or sentiments. Wrong sex instinct. Renouncing love. Misfortune in love. Untrue love. Abnormality. Secret love. Disappointment in love. To be deceived in one’s affections.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Neptune = Venus`: Rapture. Sensitive, renouncing, false or unhappy love. Deceptive hopes. Hidden and secret feelings, sensations or sentiments. Wrong sex instinct. Renouncing love. Misfortune in love. Untrue love. Abnormality. Secret love. Disappointment in love. To be deceived in one’s affections.
+- Practical focus: moves doubled Neptune into love and desire, showing secret or renouncing affection, disappointed hopes, and emotional bonds colored by rapture, falseness, or misread longing.
 
 ## Links
 

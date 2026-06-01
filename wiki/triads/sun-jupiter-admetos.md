@@ -3,7 +3,7 @@ title: Sun Jupiter Admetos
 page_type: triad_hub
 slug: sun-jupiter-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Jupiter
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Jupiter Admetos`
 - Astronomicon triad-set: `S V ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Admetos = Sun](../activations/jupiter-admetos-equals-sun.md)
-  Source page `216`
 - [Sun/Admetos = Jupiter](../activations/sun-admetos-equals-jupiter.md)
-  Source page `116`
 - [Sun/Jupiter = Admetos](../activations/sun-jupiter-equals-admetos.md)
-  Source page `106`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Admetos = Sun`: page `216`
-- `Sun/Admetos = Jupiter`: page `116`
-- `Sun/Jupiter = Admetos`: page `106`
+- `Jupiter/Admetos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `216`
+- `Jupiter/Admetos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `342`
+- `Sun/Admetos = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `116`
+- `Sun/Admetos = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `168`
+- `Sun/Jupiter = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `106`
+- `Sun/Jupiter = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `149`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Admetos = Sun`: tranquil, proportioned days, often supported by pension, annuity, private income, or old-age security.
+- `Sun/Admetos = Jupiter`: This formula emphasizes to be lucky or fortunate in the country.
+- `Sun/Jupiter = Admetos`: This formula emphasizes good fortune in the house or with property and inheritance.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Jupiter](../factors/jupiter.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

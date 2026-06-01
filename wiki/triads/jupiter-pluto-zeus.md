@@ -3,7 +3,7 @@ title: Jupiter Pluto Zeus
 page_type: triad_hub
 slug: jupiter-pluto-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Pluto Zeus`
 - Astronomicon triad-set: `V Z £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Pluto = Zeus](../activations/jupiter-pluto-equals-zeus.md)
-  Source page `210`
 - [Jupiter/Zeus = Pluto](../activations/jupiter-zeus-equals-pluto.md)
-  Source page `213`
 - [Pluto/Zeus = Jupiter](../activations/pluto-zeus-equals-jupiter.md)
-  Source page `259`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Pluto = Zeus`: page `210`
-- `Jupiter/Zeus = Pluto`: page `213`
-- `Pluto/Zeus = Jupiter`: page `259`
+- `Jupiter/Pluto = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `210`
+- `Jupiter/Pluto = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `331`
+- `Jupiter/Zeus = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `213`
+- `Jupiter/Zeus = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `337`
+- `Pluto/Zeus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `259`
+- `Pluto/Zeus = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `412`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Pluto = Zeus`: good circumstances continuing to improve and the creation or expansion of charitable activity.
+- `Jupiter/Zeus = Pluto`: successful development, an increase of output or effect, and deep satisfaction in work that gains momentum and strength.
+- `Pluto/Zeus = Jupiter`: This activation emphasizes gladly accepted duties; Satisfaction out of performance of duty.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Pluto](../factors/pluto.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

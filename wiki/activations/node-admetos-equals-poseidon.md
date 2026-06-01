@@ -3,7 +3,7 @@ title: Node/Admetos = Poseidon
 page_type: activation
 slug: node-admetos-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - Admetos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Admetos`
-- Source page: `154`
 #### Witte Entry
 
 To be in mental or spiritual harmony with a few. Cultural work in a small circle. During education to be subjected to severe restrictions and limitations.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be in mental or spiritual harmony with a few. Cultural work in a small circle. During education to be subjected to severe restrictions and limitations.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exhaustive cultural veneration, restricted communication, development through spiritual encounters, mental blockade in a V bonding, deepening of spiritual contacts, deepening of cultural V bonding, and limiting freedom in a union
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Admetos = Poseidon`: To be in mental or spiritual harmony with a few. Cultural work in a small circle. During education to be subjected to severe restrictions and limitations.
+- Practical focus: cultural work in a small circle; also during education to be subjected to severe restrictions and limitations.
+- In difficult expression, it can mark to be in mental or spiritual harmony with a few.
 
 ## Links
 
@@ -61,3 +57,5 @@ To be in mental or spiritual harmony with a few. Cultural work in a small circle
 - [Admetos](../factors/admetos.md)
 - [Poseidon](../factors/poseidon.md)
 - [Node/Admetos](../axes/node-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

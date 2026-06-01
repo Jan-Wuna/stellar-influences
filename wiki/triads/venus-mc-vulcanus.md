@@ -3,7 +3,7 @@ title: Venus MC Vulcanus
 page_type: triad_hub
 slug: venus-mc-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus MC Vulcanus`
 - Astronomicon triad-set: `Q MC §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Vulcanus = Venus](../activations/mc-vulcanus-equals-venus.md)
-  Source page `76`
 - [Venus/MC = Vulcanus](../activations/venus-mc-equals-vulcanus.md)
-  Source page `63`
 - [Venus/Vulcanus = MC](../activations/venus-vulcanus-equals-mc.md)
-  Source page `188`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Vulcanus = Venus`: page `76`
-- `Venus/MC = Vulcanus`: page `63`
-- `Venus/Vulcanus = MC`: page `188`
+- `MC/Vulcanus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `76`
+- `MC/Vulcanus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `96`
+- `Venus/MC = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `63`
+- `Venus/MC = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `71`
+- `Venus/Vulcanus = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `188`
+- `Venus/Vulcanus = MC`: Udo Rudolph - ABC for Planetary Pictures, page `294`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Vulcanus = Venus`: softens the axis into intense passion in love.
+- `Venus/MC = Vulcanus`: one’s own love increases to passion.
+- `Venus/Vulcanus = MC`: a passionate disposition.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [MC](../factors/mc.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

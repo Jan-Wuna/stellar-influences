@@ -3,7 +3,7 @@ title: Sun/Jupiter = Kronos
 page_type: activation
 slug: sun-jupiter-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Jupiter
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Jupiter
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Jupiter`
-- Source page: `106`
 #### Witte Entry
 
 Ruling through wealth. A good reigning sovereign. Higher officials. The contented famer. A fortune through authorities or lottery.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Ruling through wealth. A good reigning sovereign. Higher officials. The contented famer. A fortune through authorities or lottery.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Authoritat person of law, successful state man, successful authoritat person, person of state finances, personal advantages through self governing, self governing right person, state money center, and center of state law
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Jupiter = Kronos`: great happiness and success through superiors.
+- Practical expression: successful state man, person of state finances, and personal advantages through self governing.
 
 ## Links
 
@@ -61,3 +56,5 @@ Ruling through wealth. A good reigning sovereign. Higher officials. The contente
 - [Jupiter](../factors/jupiter.md)
 - [Kronos](../factors/kronos.md)
 - [Sun/Jupiter](../axes/sun-jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

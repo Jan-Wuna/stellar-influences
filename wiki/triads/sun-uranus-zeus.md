@@ -3,7 +3,7 @@ title: Sun Uranus Zeus
 page_type: triad_hub
 slug: sun-uranus-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Uranus
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Uranus Zeus`
 - Astronomicon triad-set: `S X £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Sun/Uranus = Zeus](../activations/sun-uranus-equals-zeus.md)
-  Source page `108`
 - [Sun/Zeus = Uranus](../activations/sun-zeus-equals-uranus.md)
-  Source page `113`
 - [Uranus/Zeus = Sun](../activations/uranus-zeus-equals-sun.md)
-  Source page `238`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Sun/Uranus = Zeus`: page `108`
-- `Sun/Zeus = Uranus`: page `113`
-- `Uranus/Zeus = Sun`: page `238`
+- `Sun/Uranus = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `108`
+- `Sun/Uranus = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `153`
+- `Sun/Zeus = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `113`
+- `Sun/Zeus = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `163`
+- `Uranus/Zeus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `238`
+- `Uranus/Zeus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `378`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Sun/Uranus = Zeus`: This formula emphasizes sudden creative force and abrupt active expression.
+- `Sun/Zeus = Uranus`: This formula emphasizes sudden creative force and abrupt active expression.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Uranus](../factors/uranus.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

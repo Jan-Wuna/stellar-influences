@@ -58,13 +58,14 @@ aliases:
   - Mercury/Moon
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -77,17 +78,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Mercury`
-- Source page: `122`
-
 #### Pair Summary
 
 Motion of the brain. Thinking capacity. The memory. The imaginative power. Superficial thinking. The young generation. Young girl. Young woman. Several hours. Office hours. Vehicles. Shifted hour. Lively and changeable train of thoughts. The general opinion in relation to the hour and female persons.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Moon/Mercury`
-- Source page: `113`
+#### ABC Pair Summary
+
+Adaptable woman, women's conversations, emotional thinking, movement of the feelings, the youth of a people, young woman, the woman's opinion, opinion about women, news for the people, hour of the media, language of the people, and public opinion
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -111,17 +112,11 @@ Young girls, intellectually or mentally active women, an authoress.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
-- Source heading: `Moon/Mercury`
-- Source page: `20`
-
 #### Falis Entry
 
 Thinking with your heart. Logical emotions. Emotional conversations. Com partmentalizing feelings. A retentive memory. Conversations with women. Sensi tive communication. Emotional communication. Having reasons for feelings. Heartfelt letters. Putting feelings in words. Instinct to communicate. Chatterbox. Gossip. Leaving Post-it notes with sweet nothings written on them. Quick emo tions. Feeling the need to be on the move. Feeling with the mind. Irrational mind. Thoughts based on feelings. Being compelled to speak by unconscious forces. Being unable to speak if feeling threatened. Changing thoughts. Changing your mind a lot. Speaking habits. Being able to tell what people are thinking or feeling by the way they move. Communicating your feelings through movement. Needing to find an appropriate communication channel for your emotions. Writing to get feelings off your chest. Getting feelings out on paper. Keeping a diary. Writing with feeling. Speaking with emotion. Heartfelt words. Emotionally charged language. Inability to separate feeling from thought. Stuck in thought patterns. Rationalizing your emo tions. Habitual talking without reason. Needing to keep everyone updated on how you're feeling. Emoticons. Quick defenses. Quick reactions. Quick emotions. Fleet ing emotions. Fleeting moods. Fleeting thoughts. Talking as a security blanket. Talking about comfortable topics. Everyday chit chat and how you feel about it. Feeling secure with your communication skills - or not. Finding security in logic. Making connections between feelings. Making connec tions with women. A communicative mother - or not. Superficial feelings. Needing mental stimulation to feel happy. Needing books, papers, journals and diaries to feel happy. Needing to communicate feelings. Needing to feel safe enough to communicate feelings. Scattered emotions. Scattered thoughts. Quick-change point of view. Emotional learning. Learning by feeling. Nurturing through educa tion. Nourishing your intellect. Feeding your brain. Feeling nourished by reading. Feeling nourished by writing. Feeling nourished through relationships with sib lings. Sharing feelings with siblings. Feeling safe to communicate with siblings. Clever habits. Sly inclinations. Deceptive communication. Mentally receptive. Com municating to people's feelings rather than to their minds. Feeling someone's thoughts. Loving wit and cleverness. Emotional skills - whether you have them or not. Loving to make mental connections. Your emotional intelligence quotient. Your emotions impact your ability to communicate - for better or worse. Copying other people's emotional states. Naming feelings. Naming behaviors. Putting names to the past. Talking about the past. Talking about your mother. Early school experiences and the feelings they bring up. Emotional ties to siblings. Your mother's relationship to your siblings. Restlessness. Changing body positions frequently. Fidgety. Quick metabolism. Changeable appetite. Eating habits that change with your mood. Eating on the go. Eat and run. Fast food. Eating little bits of food. Not wanting to be tied down emo tionally. Needing space to breathe emotionally. Curious about emotions, moods and feelings. A way of sensing information. Unconsciously picking up on infor mation- facts and data. Feeling emotionally tied to certain names. Having an emo tional response upon hearing certain words. Words that evoke feelings. The need for information. The need to learn. Associating words with feelings. Synaethesia.
 
 ### Charles Carter - The Astrological Aspects
-
-- Source heading: `ASPECTS OF THE MOON & MERCURY`
-- Source page: `20`
 
 #### Harmonious Aspects
 
@@ -173,9 +168,6 @@ The influence of the Moon on Mercury may lead to the mind being stamped with fam
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Moon/Mercury midpoint`
-- Source page: `25`
-
 #### Principle
 
 The communication of feelings. Subjective thinking and communicating, or thinking colored by feeling. The ability to open up and be vulnerable when sharing one’s thoughts. Thoughts that are not objective, and which shift and change according to one’s moods.
@@ -186,9 +178,6 @@ The development of a rapport with one’s own emotional self so that one may cle
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Moon/Mercury`
-- Source page: `202`
-
 #### Pair Delineation
 
 Thought and communication influenced by
@@ -196,9 +185,6 @@ Thought and communication influenced by
 feelings and emotions. Non-rational thought. The communication of one's feelings to others. Sensing the moods and feelings of others. Changeable thinking. A point that would be useful for public speaking and understanding the public temperament.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `MOON/MERCURY`
-- Source page: `103`
 
 #### Basic Ideas
 
@@ -227,15 +213,6 @@ Glandular conditions which begin with nervous dysfunctioning; deeply rooted fear
 
 - [Michael Munkasey - Moon/Mercury Concepts](../derived/munkasey-moon-mercury-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Moon/Mercury = Admetos](../activations/moon-mercury-equals-admetos.md)
@@ -260,20 +237,18 @@ Glandular conditions which begin with nervous dysfunctioning; deeply rooted fear
 - [Moon/Mercury = Vulcanus](../activations/moon-mercury-equals-vulcanus.md)
 - [Moon/Mercury = Zeus](../activations/moon-mercury-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Mercury` is the axis of feeling-thinking, emotional communication, memory, adaptability, and the translation of inner states into words, stories, habits, and everyday exchange. It joins sensitivity and responsiveness with language, perception, and the movement of mind.
+- Chart expression: rapport, quick responsiveness, public sensitivity, verbalized feeling, intuitive intelligence, and the ability to read moods and communicate in a human, immediate way. Its difficulties are equally clear: changeable judgment, gossip, emotional reasoning, nervous reactivity, and thoughts that shift with mood rather than with stable objectivity.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Mercury](../factors/mercury.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)

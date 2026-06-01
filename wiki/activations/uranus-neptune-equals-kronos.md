@@ -3,7 +3,7 @@ title: Uranus/Neptune = Kronos
 page_type: activation
 slug: uranus-neptune-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Neptune
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Neptune`
-- Source page: `234`
 #### Witte Entry
 
 Gifted clairvoyant. Leading persons do not know what they want. Probate courts. Human losses of the government. Death among the authorities.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Gifted clairvoyant. Leading persons do not know what they want. Probate courts. Human losses of the government. Death among the authorities.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special metaphysical experience, particularly restless water, great tension in the air, great technical fine tuning, steering by subtle impulses, creeping unrest in the state, state water technology, and important metaphysical experience
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Neptune = Kronos`: Gifted clairvoyant. Leading persons do not know what they want. Probate courts. Human losses of the government. Death among the authorities.
+- Practical expression: special metaphysical experience, particularly restless water, great tension in the air, great technical fine tuning, and steering by subtle impulses.
 
 ## Links
 
@@ -61,3 +56,5 @@ Gifted clairvoyant. Leading persons do not know what they want. Probate courts. 
 - [Neptune](../factors/neptune.md)
 - [Kronos](../factors/kronos.md)
 - [Uranus/Neptune](../axes/uranus-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

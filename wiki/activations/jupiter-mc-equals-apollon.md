@@ -3,10 +3,10 @@ title: Jupiter/MC = Apollon
 page_type: activation
 slug: jupiter-mc-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Jupiter
+  - MC
   - Apollon
 normalized_formula: Jupiter/MC = Apollon
 axis: Jupiter/MC
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - MC
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Jupiter`
-- Source page: `65`
 #### Witte Entry
 
 Luck or money through science or commerce. Happy expansion.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Luck or money through science or commerce. Happy expansion.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Extension of my joy, I spread joy, my success with money, my success knowing, my money proliferation, my fortune in trade, my much money, my increasing happiness, soul joy experience, and multiplication of soul peace experience
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/MC = Apollon`: public success growing through enterprise, learning, and larger networks. It favors outward development and prosperity that multiplies opportunities.
 
 ## Links
 
@@ -61,3 +55,5 @@ Luck or money through science or commerce. Happy expansion.
 - [MC](../factors/mc.md)
 - [Apollon](../factors/apollon.md)
 - [Jupiter/MC](../axes/jupiter-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

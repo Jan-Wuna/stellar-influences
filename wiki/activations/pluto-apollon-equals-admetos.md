@@ -3,7 +3,7 @@ title: Pluto/Apollon = Admetos
 page_type: activation
 slug: pluto-apollon-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Apollon
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Apollon`
-- Source page: `261`
 #### Witte Entry
 
 Stagnation of development in a small circle. To be satisfied about it. Radical change for a few.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Stagnation of development in a small circle. To be satisfied about it. Radical change for a few.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked trade developments, developing success through perseverance, Griindliche WissensEntwicklung, Deepening in scientific developments, and growing knowledge consolidation
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Apollon = Admetos`: stagnation of development in a small circle; To be satisfied about it; Radical change for a few.
+- Practical expression: blocked trade developments, developing success through perseverance, griindliche WissensEntwicklung, deepening in scientific developments, and growing knowledge consolidation.
 
 ## Links
 
@@ -61,3 +56,5 @@ Stagnation of development in a small circle. To be satisfied about it. Radical c
 - [Apollon](../factors/apollon.md)
 - [Admetos](../factors/admetos.md)
 - [Pluto/Apollon](../axes/pluto-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Moon/Zeus = Mars
 page_type: activation
 slug: moon-zeus-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Mars
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Zeus`
-- Source page: `132`
 #### Witte Entry
 
 Women acting with a goal in mind. To realize a creative thought. To be at hand quickly. Fire outbreak.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Women acting with a goal in mind. To realize a creative thought. To be at hand quickly. Fire outbreak.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Work performances of the woman, fiery feelings of a woman, peace objectives of a woman, leadership impulses of the woman, actions of the leading people, creative feelings impulses, creative women work, and will efforts of a people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Zeus = Mars`: Women acting with a goal in mind. To realize a creative thought. To be at hand quickly. Fire outbreak.
+- Practical expression: work performances of the woman, fiery feelings of a woman, peace objectives of a woman, leadership impulses of the woman, and actions of the leading people.
 
 ## Links
 
@@ -61,3 +56,5 @@ Women acting with a goal in mind. To realize a creative thought. To be at hand q
 - [Zeus](../factors/zeus.md)
 - [Mars](../factors/mars.md)
 - [Moon/Zeus](../axes/moon-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Moon/Mercury = Vernal Point
 page_type: activation
 slug: moon-mercury-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Mercury
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Moon
   - Mercury
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Mercury`
-- Source page: `122`
 #### Witte Entry
 
 Young persons. Young women. The thinking populace. Memory for general things. The thinking nation. General travelling connections.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Young persons. Young women. The thinking populace. Memory for general things. The thinking nation. General travelling connections.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+women's conversations in public, youth of a people in public, opinion of the woman in public, opinions about women in public life, hour of the public media, and opinion of the people in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Mercury = Vernal Point`: Young persons. Young women. The thinking populace. Memory for general things. The thinking nation. General travelling connections.
+- Practical focus: externalizes `Moon/Mercury` into the thinking public, general memory, and ordinary social exchange. It points to emotional intelligence that circulates widely through travel, public discourse, or group mentality, making feeling and thought more collective, visible, and broadly connected.
+- Practical expression: women's conversations in public, youth of a people in public, opinion of the woman in public, opinions about women in public life, and hour of the public media.
 
 ## Links
 
@@ -61,3 +57,5 @@ Young persons. Young women. The thinking populace. Memory for general things. Th
 - [Mercury](../factors/mercury.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Moon/Mercury](../axes/moon-mercury.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

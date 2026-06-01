@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `MC + MC`
-- Source page: `56`
 #### Witte Entry
 
 To have a mind to do something. Personal tension. To be excited. Vibrations. One inclined to sudden decisions. An explosive manner. To show ambitions. Impatient. The moment (minute) of tenseness.
 
-## Comparative Schema
-
-- core meaning: To have a mind to do something. Personal tension. To be excited. Vibrations. One inclined to sudden decisions. An explosive manner. To show ambitions. Impatient. The moment (minute) of tenseness.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/MC = Uranus` electrifies the axis through tension, impatience, and sudden decision.
+- Chart expression: a highly excited and ambitious self, explosive readiness to act, and an inner life marked by vibration, abrupt movement, and restless individuality.
 
 ## Links
 

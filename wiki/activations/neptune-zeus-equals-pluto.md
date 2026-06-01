@@ -3,7 +3,7 @@ title: Neptune/Zeus = Pluto
 page_type: activation
 slug: neptune-zeus-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Pluto
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Zeus`
-- Source page: `249`
 #### Witte Entry
 
 Increased accomplishments which are not noticeable on the surface. To work quiedy, in solitude. To perform one’s duties quiedy. To develop concealed weapons.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Increased accomplishments which are not noticeable on the surface. To work quiedy, in solitude. To perform one’s duties quiedy. To develop concealed weapons.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Interchangeable performance development, evolution through unknown movement, intuitive movement of time, creative development, development of future objectives, growing performance in the water, and growing striving for refinement
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Zeus = Pluto`: Increased accomplishments which are not noticeable on the surface. To work quiedy, in solitude. To perform one’s duties quiedy. To develop concealed weapons.
+- Work and accomplishment proceed quietly but effectively beneath the surface, with hidden development, solitary execution, or covert buildup of force.
+- Practical expression: interchangeable performance development, evolution through unknown movement, intuitive movement of time, creative development, and development of future objectives.
 
 ## Links
 
@@ -61,3 +57,5 @@ Increased accomplishments which are not noticeable on the surface. To work quied
 - [Zeus](../factors/zeus.md)
 - [Pluto](../factors/pluto.md)
 - [Neptune/Zeus](../axes/neptune-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

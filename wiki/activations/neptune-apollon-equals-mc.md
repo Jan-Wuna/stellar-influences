@@ -3,7 +3,7 @@ title: Neptune/Apollon = MC
 page_type: activation
 slug: neptune-apollon-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - MC
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Apollon`
-- Source page: `251`
 #### Witte Entry
 
 To embezzle. To be under a grand illusion or great deception. To be uncertain with many about the future. To look or go into the future with fear. To scientifically reveal the future.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To embezzle. To be under a grand illusion or great deception. To be uncertain with many about the future. To look or go into the future with fear. To scientifically reveal the future.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+In my knowledge of the future, my successful intuition, my successful breathing, my insecure freedom, my pre exchanged knowledge, my understanding of the future, and my growing refinement of the soul
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Apollon = MC`: To embezzle. To be under a grand illusion or great deception. To be uncertain with many about the future. To look or go into the future with fear. To scientifically reveal the future.
+- Practical focus: personalizes `Neptune/Apollon` as grand illusion, fear about the future, or the urge to reveal future patterns scientifically. It turns large-scale deception and possibility into a life-direction issue, where the self becomes entangled with both false promise and prophetic inquiry.
+- Practical expression: in my knowledge of the future, my successful intuition, my successful breathing, my insecure freedom, and my pre exchanged knowledge.
 
 ## Links
 
@@ -61,3 +57,5 @@ To embezzle. To be under a grand illusion or great deception. To be uncertain wi
 - [Apollon](../factors/apollon.md)
 - [MC](../factors/mc.md)
 - [Neptune/Apollon](../axes/neptune-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

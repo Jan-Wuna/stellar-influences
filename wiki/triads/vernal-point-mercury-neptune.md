@@ -3,7 +3,7 @@ title: Vernal Point Mercury Neptune
 page_type: triad_hub
 slug: vernal-point-mercury-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Mercury
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Mercury Neptune`
 - Astronomicon triad-set: `VP T Y`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Neptune = Vernal Point](../activations/mercury-neptune-equals-vernal-point.md)
-  Source page `164`
 - [Vernal Point/Mercury = Neptune](../activations/vernal-point-mercury-equals-neptune.md)
-  Source page `40`
 - [Vernal Point/Neptune = Mercury](../activations/vernal-point-neptune-equals-mercury.md)
-  Source page `46`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Neptune = Vernal Point`: page `164`
-- `Vernal Point/Mercury = Neptune`: page `40`
-- `Vernal Point/Neptune = Mercury`: page `46`
+- `Mercury/Neptune = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `164`
+- `Mercury/Neptune = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `250`
+- `Vernal Point/Mercury = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `40`
+- `Vernal Point/Mercury = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `29`
+- `Vernal Point/Neptune = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `46`
+- `Vernal Point/Neptune = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `40`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Neptune = Vernal Point`: externalizes the axis as general receptivity, uncertainty, or nonsense.
+- `Vernal Point/Mercury = Neptune`: This formula emphasizes confusion in general, ideas floating in the air which are mostly unrealizable, general bewilderment, and talks, opinions, news which creates more confusion.
+- `Vernal Point/Neptune = Mercury`: This formula emphasizes thoughts, uncertainties.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Mercury](../factors/mercury.md)
 - [Neptune](../factors/neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

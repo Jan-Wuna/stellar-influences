@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Moon Chiron Pluto`
 - Astronomicon triad-set: `R Chiron Z`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Moon/Chiron = Pluto`: John, page `32`
 - `Moon/Pluto = Chiron`: John, page `36`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Pluto = Moon`: healing through surrender to deep feeling and emotional transformation. Main caution: being overwhelmed by feeling or dramatizing intensity instead of allowing it to change one.
+- `Moon/Chiron = Pluto`: The ability to create profound transformations through allowing emotional energy to flow freely. The irresistible urge to allow all that has been repressed in the subcon scious to come forth.
+- `Moon/Pluto = Chiron`: One’s energy helps others to get in touch with intense feelings, and to experi ence emotional transformation. You automatically stir up energies latent in the subcon scious of others and which need to be released.
 
 ## Links
 

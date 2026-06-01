@@ -3,10 +3,10 @@ title: Venus/Asc = Vulcanus
 page_type: activation
 slug: venus-asc-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Venus
+  - Asc
   - Vulcanus
 normalized_formula: Venus/Asc = Vulcanus
 axis: Venus/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Asc
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Venus`
-- Source page: `84`
 #### Witte Entry
 
 To be greatly loved by others. “Tell me with whom you associate and I’ll tell you who you are”.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be greatly loved by others. “Tell me with whom you associate and I’ll tell you who you are”.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influential partner love, influential art of a place, peaceful influence of the environment, harmonious energies on the spot, harmonious influence of the environment, power of the partner's joy, love force on the spot, and love power of the partner
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Asc = Vulcanus`: to be greatly loved by others.
+- Practical expression: influential partner love, influential art of a place, peaceful influence of the environment, harmonious energies on the spot, and harmonious influence of the environment.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be greatly loved by others. “Tell me with whom you associate and I’ll tel
 - [Asc](../factors/asc.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Venus/Asc](../axes/venus-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -44,8 +44,6 @@ updated_at: 2026-04-21
 ## Identity
 
 - Axis: `MC/MC`
-- Source heading: `MC + MC`
-- Source page: `56`
 
 ## Source Entries
 
@@ -54,15 +52,6 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 The personality of the native. The soul. The ego. Emotional experiences and qualities. Personal expectations. Psychological influence. Efforts towards the peak of life. The attitude in public, profession and vocation. The minute. The moment.
-
-## Comparative Schema
-
-- core meaning: The personality of the native. The soul. The ego. Emotional experiences and qualities. Personal expectations. Psychological influence. Efforts towards the peak of life. The attitude in public, profession and vocation. The minute. The moment.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
@@ -88,13 +77,11 @@ The personality of the native. The soul. The ego. Emotional experiences and qual
 - [MC/MC = Vulcanus](../activations/mc-mc-equals-vulcanus.md)
 - [MC/MC = Poseidon](../activations/mc-mc-equals-poseidon.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/MC` is the axis of pure selfhood, soul, ego, inner attitude, vocation, and the personal life direction experienced from the inside.
+- Chart expression: the core personality, emotional and psychological orientation, one's own expectations and aims, and the moment-by-moment shaping of identity, profession, and public attitude from the center of the self.
 
 ## Links
 

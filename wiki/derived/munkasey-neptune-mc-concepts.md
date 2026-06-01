@@ -6,7 +6,7 @@ status: source_grounded
 framework_scope: modern_astrology
 source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-06
 ---
 
 ## Purpose

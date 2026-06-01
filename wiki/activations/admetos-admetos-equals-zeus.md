@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Admetos + Admetos`
-- Source page: `310`
 #### Witte Entry
 
 First beginning, the act of originating, genesis. All beginning is difficult. To form, to work on, to shape, to form raw materials. Tragedy. Lava, igneous rock. To tackle a problem. Struggling activity. To battle all the way through. Interior of the earth. Raw materials from mines, ore. To process or refining raw materials.
 
-## Comparative Schema
-
-- core meaning: First beginning, the act of originating, genesis. All beginning is difficult. To form, to work on, to shape, to form raw materials. Tragedy. Lava, igneous rock. To tackle a problem. Struggling activity. To battle all the way through. Interior of the earth. Raw materials from mines, ore. To process or refining raw materials.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Admetos/Admetos = Zeus`: forging, shaping, and battling through resistance until something usable is formed. Main caution: harsh genesis: tragedy, exhausting struggle, or starting conditions so resistant that every act of formation feels like a fight against dense inert matter.
 
 ## Links
 

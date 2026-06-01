@@ -3,7 +3,7 @@ title: Venus Node Poseidon
 page_type: triad_hub
 slug: venus-node-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Node Poseidon`
 - Astronomicon triad-set: `Q g ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Node/Poseidon = Venus](../activations/node-poseidon-equals-venus.md)
-  Source page `156`
 - [Venus/Node = Poseidon](../activations/venus-node-equals-poseidon.md)
-  Source page `142`
 - [Venus/Poseidon = Node](../activations/venus-poseidon-equals-node.md)
-  Source page `189`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Node/Poseidon = Venus`: page `156`
-- `Venus/Node = Poseidon`: page `142`
-- `Venus/Poseidon = Node`: page `189`
+- `Node/Poseidon = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `156`
+- `Node/Poseidon = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `238`
+- `Venus/Node = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `142`
+- `Venus/Node = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `211`
+- `Venus/Poseidon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `189`
+- `Venus/Poseidon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `296`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Node/Poseidon = Venus`: Spiritually harmonious connections. Tied to people of the same religion.
+- `Venus/Node = Poseidon`: mental or spiritual kind of connection or ties.
+- `Venus/Poseidon = Node`: to be connected with matters of belief, philosophy, religion.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Node](../factors/node.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

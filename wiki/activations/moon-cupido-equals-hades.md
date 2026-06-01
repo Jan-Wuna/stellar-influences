@@ -3,7 +3,7 @@ title: Moon/Cupido = Hades
 page_type: activation
 slug: moon-cupido-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Cupido
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Cupido`
-- Source page: `130`
 #### Witte Entry
 
 Poor betrothal. Sad bridal party. Sad leisure hours. No hours of leisure because of grief. Sick wife.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Poor betrothal. Sad bridal party. Sad leisure hours. No hours of leisure because of grief. Sick wife.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Disappointment of the Nine People's Community, common past of a people, criminal communities in the people, poor community feeling, disadvantages for women in the community, and hour of community service
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Cupido = Hades`: Poor betrothal. Sad bridal party. Sad leisure hours. No hours of leisure because of grief. Sick wife.
+- Practical expression: disappointment of the Nine People's Community, common past of a people, criminal communities in the people, poor community feeling, and disadvantages for women in the community.
 
 ## Links
 
@@ -61,3 +56,5 @@ Poor betrothal. Sad bridal party. Sad leisure hours. No hours of leisure because
 - [Cupido](../factors/cupido.md)
 - [Hades](../factors/hades.md)
 - [Moon/Cupido](../axes/moon-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Pluto MC`
 - Astronomicon triad-set: `V Z MC`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,19 +40,27 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Jupiter/MC = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `65`
+- `Jupiter/MC = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `75`
 - `Jupiter/MC = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `245`
 - `Jupiter/MC = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `86`
+- `Jupiter/MC = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `280`
 - `Jupiter/Pluto = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `210`
+- `Jupiter/Pluto = MC`: Udo Rudolph - ABC for Planetary Pictures, page `330`
 - `Jupiter/Pluto = MC`: Reinhold Ebertin - The Combination of Stellar Influences, page `236`
 - `Jupiter/Pluto = MC`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `82`
+- `Jupiter/Pluto = MC`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `268`
 - `Pluto/MC = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `69`
+- `Pluto/MC = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `82`
 - `Pluto/MC = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `298`
 - `Pluto/MC = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `117`
+- `Pluto/MC = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `352`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/MC = Pluto`: extraordinary ambition, major gain, and the forceful drive to transform status, achievement, or influence on a larger scale.
+- `Jupiter/Pluto = MC`: powerful ambition, promotion, mastery, and the drive to reshape one's standing through sustained effort and large-scale achievement.
+- `Pluto/MC = Jupiter`: large-scale ambition, with vocational transformation and public power amplified into broad influence, high stakes, and the desire to shape systems or beliefs.
 
 ## Links
 
@@ -59,5 +68,7 @@ updated_at: 2026-04-22
 - [Pluto](../factors/pluto.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

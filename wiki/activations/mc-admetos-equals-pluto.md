@@ -3,7 +3,7 @@ title: MC/Admetos = Pluto
 page_type: activation
 slug: mc-admetos-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - MC
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Admetos`
-- Source page: `75`
 #### Witte Entry
 
 To keep going in the same direction of development. To remain on course.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To keep going in the same direction of development. To remain on course.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+I at the blocking changes, I at the stabilizing developments, my development through perseverance, my profound changes, my circulation development, my psychic depth, my growing firmness, and changes through mental depression
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Admetos = Pluto` deepens the axis into relentless continuation and unwavering developmental direction.
+- Chart expression: staying the course, enduring transformation without deviation, and a life process that advances through persistence rather than speed or flexibility.
 
 ## Links
 
@@ -61,3 +56,5 @@ To keep going in the same direction of development. To remain on course.
 - [Admetos](../factors/admetos.md)
 - [Pluto](../factors/pluto.md)
 - [MC/Admetos](../axes/mc-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

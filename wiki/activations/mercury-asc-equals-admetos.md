@@ -3,10 +3,10 @@ title: Mercury/Asc = Admetos
 page_type: activation
 slug: mercury-asc-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Mercury
+  - Asc
   - Admetos
 normalized_formula: Mercury/Asc = Admetos
 axis: Mercury/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Asc
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Mercury`
-- Source page: `83`
 #### Witte Entry
 
 Serious and deep talks. To say very litde, to save words, to be taciturn.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Serious and deep talks. To say very litde, to save words, to be taciturn.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+enduring Language of the partner, blocked language partners, blocked youth in the place, blocked thinking of other, depressed youth in the environment, thought depth of the partner, basic description of the partner, and cycle of thoughts in the place
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Asc = Admetos` deepens and compresses the Mercury/Asc axis into serious, sparse, and weighty exchange.
+- Chart expression: deep talks, guarded speech, and a taciturn or economical way of communicating in which every word is measured and little is said casually.
 
 ## Links
 
@@ -61,3 +56,5 @@ Serious and deep talks. To say very litde, to save words, to be taciturn.
 - [Asc](../factors/asc.md)
 - [Admetos](../factors/admetos.md)
 - [Mercury/Asc](../axes/mercury-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

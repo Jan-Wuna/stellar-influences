@@ -3,7 +3,7 @@ title: Jupiter Node Cupido
 page_type: triad_hub
 slug: jupiter-node-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Node Cupido`
 - Astronomicon triad-set: `V g ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Cupido = Node](../activations/jupiter-cupido-equals-node.md)
-  Source page `211`
 - [Jupiter/Node = Cupido](../activations/jupiter-node-equals-cupido.md)
-  Source page `144`
 - [Node/Cupido = Jupiter](../activations/node-cupido-equals-jupiter.md)
-  Source page `149`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Cupido = Node`: page `211`
-- `Jupiter/Node = Cupido`: page `144`
-- `Node/Cupido = Jupiter`: page `149`
+- `Jupiter/Cupido = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `211`
+- `Jupiter/Cupido = Node`: Udo Rudolph - ABC for Planetary Pictures, page `332`
+- `Jupiter/Node = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `144`
+- `Jupiter/Node = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `215`
+- `Node/Cupido = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `149`
+- `Node/Cupido = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `224`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Cupido = Node`: meeting someone who leads to happy marriage, connecting with good corporations, and making helpful contacts in legal or financial associations.
+- `Jupiter/Node = Cupido`: a good connection leading to marriage, financial relationships within a family or group, and successful contacts among families or associations.
+- `Node/Cupido = Jupiter`: Jolly wedding. Hilarity in social company. Fortunate social connection.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Node](../factors/node.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

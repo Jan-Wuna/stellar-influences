@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Uranus Neptune`
 - Astronomicon triad-set: `R X Y`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,19 +40,27 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Moon/Neptune = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `128`
+- `Moon/Neptune = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `189`
 - `Moon/Neptune = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `132`
 - `Moon/Neptune = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `34`
+- `Moon/Neptune = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `128`
 - `Moon/Uranus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `127`
+- `Moon/Uranus = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `187`
 - `Moon/Uranus = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `129`
 - `Moon/Uranus = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `33`
+- `Moon/Uranus = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `124`
 - `Uranus/Neptune = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `234`
+- `Uranus/Neptune = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `370`
 - `Uranus/Neptune = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `266`
 - `Uranus/Neptune = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `104`
+- `Uranus/Neptune = Moon`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `308`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Neptune = Uranus`: a sensitive but changeable inner climate, with feeling shaped by sudden impressions, psychic charge, and imaginative disruption.
+- `Moon/Uranus = Neptune`: a highly sensitive but changeable inner climate, with feeling shaped by psychic impression, longing, and irregular boundaries.
+- `Uranus/Neptune = Moon`: emotionally visionary but unstable sensitivity, with mood shaped by subtle unrest, unusual intuition, and porous response to atmosphere.
 
 ## Links
 
@@ -59,5 +68,7 @@ updated_at: 2026-04-22
 - [Uranus](../factors/uranus.md)
 - [Neptune](../factors/neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

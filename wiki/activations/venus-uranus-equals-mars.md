@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Uranus`
-- Source page: `179`
 #### Witte Entry
 
 Passionate sensuality, refined however. Sudden new acquaintances that become intimate.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Venus/Uranus`
-- Source page: `185`
-- Entry: `0618`
+#### ABC Entry
+
+Excitement through artistic work, creating new peace, sudden harmonyActs, exciting love actions, harmonizing tensions in work, wanting love experiences, and preference for rhythmic work
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ A great measure of excitability in love, quick response to the stimuli of the se
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Venus/Uranus midpoint`
-- Source page: `60`
-- Activator: `Mars`
-
 #### Sandbach Entry
 
 One is passionate in expressing one’s love in an open, uninhibited fashion. One suddenly acts on feelings of love. To be aggressive or even militant about expressing one’s own independent values.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Effort and energy placed into novel or unique forms of appreciation and/or satisfaction; sexual love tested in an odd or extra-ordinary manner; an emotionless way of throwing yourself into weird forms or art or enjoyment.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Uranus = Mars`: romantic daring, erotic experimentation, and the ability to act boldly on attraction, creativity, or the need for freedom. Main caution: desire can become rash, combative, or inconsistent, producing hot-cold pursuit and abrupt conflict.
 
 ## Links
 
@@ -84,7 +76,8 @@ One is passionate in expressing one’s love in an open, uninhibited fashion. On
 - [Uranus](../factors/uranus.md)
 - [Mars](../factors/mars.md)
 - [Venus/Uranus](../axes/venus-uranus.md)
-- [Venus Mars Uranus](../triads/venus-mars-uranus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

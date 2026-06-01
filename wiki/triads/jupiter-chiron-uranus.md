@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Jupiter Chiron Uranus`
 - Astronomicon triad-set: `V Chiron X`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Jupiter/Chiron = Uranus`: John, page `79`
 - `Jupiter/Uranus = Chiron`: John, page `80`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Uranus = Jupiter`: liberating encouragement, upbeat awakening, and healing through cheerful expansion beyond old limits. Main caution: scattering energy through constant excitement or novelty.
+- `Jupiter/Chiron = Uranus`: breakthrough healing through revelation. It can show unusual but liberating insight that reorganizes how people understand life.
+- `Jupiter/Uranus = Chiron`: breakthrough freedom becoming therapeutically contagious. It favors liberating contact, joyful release, and the healing value of encouraging individuality.
 
 ## Links
 

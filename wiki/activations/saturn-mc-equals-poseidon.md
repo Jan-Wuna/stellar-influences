@@ -3,10 +3,10 @@ title: Saturn/MC = Poseidon
 page_type: activation
 slug: saturn-mc-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Saturn
+  - MC
   - Poseidon
 normalized_formula: Saturn/MC = Poseidon
 axis: Saturn/MC
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - MC
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Saturn`
-- Source page: `66`
 #### Witte Entry
 
 To be an educator. To cause hindrances on the mental plane.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be an educator. To cause hindrances on the mental plane.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Findings about soul and spirit, clarity of an old soul, concentration on the life element, my spiritual tasks, my concentration on the mind, mature spirit soul, disturbances between soul and spirit, and separation from the life element
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/MC = Poseidon`: to be an educator, to cause hindrances on the mental plane.
+- Practical expression: findings about soul, spirit, clarity of an old soul, concentration on the life element, and my spiritual tasks.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be an educator. To cause hindrances on the mental plane.
 - [MC](../factors/mc.md)
 - [Poseidon](../factors/poseidon.md)
 - [Saturn/MC](../axes/saturn-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

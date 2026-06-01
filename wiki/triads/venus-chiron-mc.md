@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Venus Chiron MC`
 - Astronomicon triad-set: `Q Chiron MC`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Venus/Chiron = MC`: John, page `58`
 - `Venus/MC = Chiron`: John, page `66`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/MC = Venus`: vocation through relationship healing, gentle empowerment, and affectionate spiritual influence. Main caution: confusing healing love with rescuing or over-giving.
+- `Venus/Chiron = MC`: helping others to see the true value of all that is around them is central to one’s life mission.
+- `Venus/MC = Chiron`: one's vibration helps others to experience the most exalted and spiritual aspect of the beauty of everything around them.
 
 ## Links
 

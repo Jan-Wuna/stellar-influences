@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Apollon + Apollon`
-- Source page: `304`
 #### Witte Entry
 
 Business, trade or scientific connections. Union (connection) with many. Common freedom or peace. Wide reaching connections (in social, trade or political structures). Trading relationships. Extensive contacts. Many or wide spread connection points.
 
-## Comparative Schema
-
-- core meaning: Business, trade or scientific connections. Union (connection) with many. Common freedom or peace. Wide reaching connections (in social, trade or political structures). Trading relationships. Extensive contacts. Many or wide spread connection points.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Apollon = Node`: broad alliances, business relationships, common freedom, and connection points that multiply influence or circulation. Main caution: network inflation: scale of contact may outrun trust, cohesion, or the capacity to sustain every tie meaningfully.
 
 ## Links
 

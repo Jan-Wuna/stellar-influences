@@ -3,7 +3,7 @@ title: Moon/Neptune = Apollon
 page_type: activation
 slug: moon-neptune-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Neptune
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Neptune`
-- Source page: `128`
 #### Witte Entry
 
 The many hours of the night. Extended rest during the night. To have many hours for relaxation. Disappointed or deceived populace.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The many hours of the night. Extended rest during the night. To have many hours for relaxation. Disappointed or deceived populace.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Expansion of metaphysics in the people, experiences of a fine feeling woman, a feeling of future knowledge, metaphysical knowledge for the woman, refinement by Gefuhls Knowledge, future success of women, and future knowledge for the people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Neptune = Apollon`: The many hours of the night. Extended rest during the night. To have many hours for relaxation. Disappointed or deceived populace.
+- Practical focus: expands `Moon/Neptune` into longer night cycles, more diffuse relaxation, and emotional atmosphere spread across a wider collective field. It can bring spacious retreat and receptivity, but also broad disappointment, deception, or confused public feeling.
+- Practical expression: expansion of metaphysics in the people, experiences of a fine feeling woman, a feeling of future knowledge, metaphysical knowledge for the woman, and refinement by Gefuhls Knowledge.
 
 ## Links
 
@@ -61,3 +57,5 @@ The many hours of the night. Extended rest during the night. To have many hours 
 - [Neptune](../factors/neptune.md)
 - [Apollon](../factors/apollon.md)
 - [Moon/Neptune](../axes/moon-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

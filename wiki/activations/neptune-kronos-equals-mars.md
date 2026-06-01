@@ -3,7 +3,7 @@ title: Neptune/Kronos = Mars
 page_type: activation
 slug: neptune-kronos-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Neptune
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Kronos`
-- Source page: `250`
 #### Witte Entry
 
 Great deeds without success. Fruitless attacks. Accidents in aeronautics. Breakage.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great deeds without success. Fruitless attacks. Accidents in aeronautics. Breakage.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special actions expect, especially subtle action, large exchange at work, actions for future steering, production of air holiness, state work on/in/with water, activity of the air horde, and important work in the air
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Kronos = Mars`: Great deeds without success. Fruitless attacks. Accidents in aeronautics. Breakage.
+- Practical focus: drives compromised authority into futile execution, where impressive effort, attack, or technical motion fails to land successfully and instead ends in breakage or accident.
+- Practical expression: special actions expect, especially subtle action, large exchange at work, actions for future steering, and production of air holiness.
 
 ## Links
 
@@ -61,3 +57,5 @@ Great deeds without success. Fruitless attacks. Accidents in aeronautics. Breaka
 - [Kronos](../factors/kronos.md)
 - [Mars](../factors/mars.md)
 - [Neptune/Kronos](../axes/neptune-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

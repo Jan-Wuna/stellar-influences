@@ -3,7 +3,7 @@ title: Venus/Cupido
 page_type: axis
 slug: venus-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Cupido
@@ -11,26 +11,26 @@ normalized_axis: Venus/Cupido
 factor_a: Venus
 factor_b: Cupido
 related_activations:
-  - Venus/Cupido = Vernal Point
-  - Venus/Cupido = MC
-  - Venus/Cupido = Asc
-  - Venus/Cupido = Sun
-  - Venus/Cupido = Moon
-  - Venus/Cupido = Node
-  - Venus/Cupido = Mercury
-  - Venus/Cupido = Mars
-  - Venus/Cupido = Jupiter
-  - Venus/Cupido = Saturn
-  - Venus/Cupido = Uranus
-  - Venus/Cupido = Neptune
-  - Venus/Cupido = Pluto
-  - Venus/Cupido = Hades
-  - Venus/Cupido = Zeus
-  - Venus/Cupido = Kronos
-  - Venus/Cupido = Apollon
   - Venus/Cupido = Admetos
-  - Venus/Cupido = Vulcanus
+  - Venus/Cupido = Apollon
+  - Venus/Cupido = Asc
+  - Venus/Cupido = Hades
+  - Venus/Cupido = Jupiter
+  - Venus/Cupido = Kronos
+  - Venus/Cupido = Mars
+  - Venus/Cupido = MC
+  - Venus/Cupido = Mercury
+  - Venus/Cupido = Moon
+  - Venus/Cupido = Neptune
+  - Venus/Cupido = Node
+  - Venus/Cupido = Pluto
   - Venus/Cupido = Poseidon
+  - Venus/Cupido = Saturn
+  - Venus/Cupido = Sun
+  - Venus/Cupido = Uranus
+  - Venus/Cupido = Vernal Point
+  - Venus/Cupido = Vulcanus
+  - Venus/Cupido = Zeus
 related_triad_hubs:
   - Mercury Venus Cupido
   - Moon Venus Cupido
@@ -56,15 +56,15 @@ aliases:
   - Cupido/Venus
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Axis: `Venus/Cupido`
 - Astronomicon axis: `Q/¡`
-- Source heading: `Venus + Cupido`
-- Source page: `182`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
@@ -74,48 +74,44 @@ updated_at: 2026-04-21
 
 Marital happiness. Pleasant company. Peaceful society or association. Love marriage. Things we are pleased with. Pleasant social activities. Beautiful art creations. Artistic beauties. Beauty. Artist associations.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Marital happiness. Pleasant company. Peaceful society or association. Love marriage. Things we are pleased with. Pleasant social activities. Beautiful art creations. Artistic beauties. Beauty. Artist associations.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+#### ABC Pair Summary
+
+Peace Art, common joy, common desires, harmonious canzes, love art, Liehes community, beauty of the arts, and preference for the whole
 
 ## Related Activations
 
-- [Venus/Cupido = Vernal Point](../activations/venus-cupido-equals-vernal-point.md)
-- [Venus/Cupido = MC](../activations/venus-cupido-equals-mc.md)
-- [Venus/Cupido = Asc](../activations/venus-cupido-equals-asc.md)
-- [Venus/Cupido = Sun](../activations/venus-cupido-equals-sun.md)
-- [Venus/Cupido = Moon](../activations/venus-cupido-equals-moon.md)
-- [Venus/Cupido = Node](../activations/venus-cupido-equals-node.md)
-- [Venus/Cupido = Mercury](../activations/venus-cupido-equals-mercury.md)
-- [Venus/Cupido = Mars](../activations/venus-cupido-equals-mars.md)
-- [Venus/Cupido = Jupiter](../activations/venus-cupido-equals-jupiter.md)
-- [Venus/Cupido = Saturn](../activations/venus-cupido-equals-saturn.md)
-- [Venus/Cupido = Uranus](../activations/venus-cupido-equals-uranus.md)
-- [Venus/Cupido = Neptune](../activations/venus-cupido-equals-neptune.md)
-- [Venus/Cupido = Pluto](../activations/venus-cupido-equals-pluto.md)
-- [Venus/Cupido = Hades](../activations/venus-cupido-equals-hades.md)
-- [Venus/Cupido = Zeus](../activations/venus-cupido-equals-zeus.md)
-- [Venus/Cupido = Kronos](../activations/venus-cupido-equals-kronos.md)
-- [Venus/Cupido = Apollon](../activations/venus-cupido-equals-apollon.md)
 - [Venus/Cupido = Admetos](../activations/venus-cupido-equals-admetos.md)
-- [Venus/Cupido = Vulcanus](../activations/venus-cupido-equals-vulcanus.md)
+- [Venus/Cupido = Apollon](../activations/venus-cupido-equals-apollon.md)
+- [Venus/Cupido = Asc](../activations/venus-cupido-equals-asc.md)
+- [Venus/Cupido = Hades](../activations/venus-cupido-equals-hades.md)
+- [Venus/Cupido = Jupiter](../activations/venus-cupido-equals-jupiter.md)
+- [Venus/Cupido = Kronos](../activations/venus-cupido-equals-kronos.md)
+- [Venus/Cupido = Mars](../activations/venus-cupido-equals-mars.md)
+- [Venus/Cupido = MC](../activations/venus-cupido-equals-mc.md)
+- [Venus/Cupido = Mercury](../activations/venus-cupido-equals-mercury.md)
+- [Venus/Cupido = Moon](../activations/venus-cupido-equals-moon.md)
+- [Venus/Cupido = Neptune](../activations/venus-cupido-equals-neptune.md)
+- [Venus/Cupido = Node](../activations/venus-cupido-equals-node.md)
+- [Venus/Cupido = Pluto](../activations/venus-cupido-equals-pluto.md)
 - [Venus/Cupido = Poseidon](../activations/venus-cupido-equals-poseidon.md)
+- [Venus/Cupido = Saturn](../activations/venus-cupido-equals-saturn.md)
+- [Venus/Cupido = Sun](../activations/venus-cupido-equals-sun.md)
+- [Venus/Cupido = Uranus](../activations/venus-cupido-equals-uranus.md)
+- [Venus/Cupido = Vernal Point](../activations/venus-cupido-equals-vernal-point.md)
+- [Venus/Cupido = Vulcanus](../activations/venus-cupido-equals-vulcanus.md)
+- [Venus/Cupido = Zeus](../activations/venus-cupido-equals-zeus.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Cupido`: marital happiness.
+- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Cupido](../factors/cupido.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

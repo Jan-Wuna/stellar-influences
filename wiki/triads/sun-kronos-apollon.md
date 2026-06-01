@@ -3,7 +3,7 @@ title: Sun Kronos Apollon
 page_type: triad_hub
 slug: sun-kronos-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Kronos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Kronos Apollon`
 - Astronomicon triad-set: `S ¤ ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Kronos/Apollon = Sun](../activations/kronos-apollon-equals-sun.md)
-  Source page `299`
 - [Sun/Apollon = Kronos](../activations/sun-apollon-equals-kronos.md)
-  Source page `115`
 - [Sun/Kronos = Apollon](../activations/sun-kronos-equals-apollon.md)
-  Source page `114`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Kronos/Apollon = Sun`: page `299`
-- `Sun/Apollon = Kronos`: page `115`
-- `Sun/Kronos = Apollon`: page `114`
+- `Kronos/Apollon = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `299`
+- `Kronos/Apollon = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `460`
+- `Sun/Apollon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `115`
+- `Sun/Apollon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `167`
+- `Sun/Kronos = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `114`
+- `Sun/Kronos = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `165`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Kronos/Apollon = Sun`: a person who becomes authoritative through knowledge, ability, or experience, and days devoted to important understanding, discovery, or insight.
+- `Sun/Apollon = Kronos`: This formula emphasizes successful in government or in official circles and high dignities.
+- `Sun/Kronos = Apollon`: This formula emphasizes prominent personality and success through authority.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Kronos](../factors/kronos.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

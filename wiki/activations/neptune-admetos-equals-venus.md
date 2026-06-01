@@ -3,7 +3,7 @@ title: Neptune/Admetos = Venus
 page_type: activation
 slug: neptune-admetos-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Neptune
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Admetos`
-- Source page: `252`
 #### Witte Entry
 
 Change of living conditions for women.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Change of living conditions for women.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Perseverance of joy in the water, loss of a blockade by love, consolidation of harmony by fine feeling, consolidation of unsafe love, profound love exchange, deepening of a preference for metaphysics, and preference for deep water
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Admetos = Venus`: Change of living conditions for women.
+- Practical focus: socializes `Neptune/Admetos` through altered conditions specifically affecting women, affection, or relational life. It suggests the axis expressing through changes in comfort, care, or the lived circumstances of feminine experience.
+- Practical expression: perseverance of joy in the water, loss of a blockade by love, consolidation of harmony by fine feeling, consolidation of unsafe love, and profound love exchange.
 
 ## Links
 
@@ -61,3 +57,5 @@ Change of living conditions for women.
 - [Admetos](../factors/admetos.md)
 - [Venus](../factors/venus.md)
 - [Neptune/Admetos](../axes/neptune-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

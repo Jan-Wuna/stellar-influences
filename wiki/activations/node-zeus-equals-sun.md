@@ -3,7 +3,7 @@ title: Node/Zeus = Sun
 page_type: activation
 slug: node-zeus-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Node
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Zeus`
-- Source page: `151`
 #### Witte Entry
 
 To be a producer or procreator. Coming into personal contact with fire. To be commissioned with or to carry out a special task. To be a member of an outfit that blows things up with dynamite.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be a producer or procreator. Coming into personal contact with fire. To be commissioned with or to carry out a special task. To be a member of an outfit that blows things up with dynamite.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Animating relationship with man, creative encounters among men, relationships through personal achievements, connections of a man with fire, and determined personal connections
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Zeus = Sun`: To be a producer or procreator. Coming into personal contact with fire. To be commissioned with or to carry out a special task. To be a member of an outfit that blows things up with dynamite.
+- Practical focus: to be a producer or procreator; also coming into personal contact with fire.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be a producer or procreator. Coming into personal contact with fire. To be co
 - [Zeus](../factors/zeus.md)
 - [Sun](../factors/sun.md)
 - [Node/Zeus](../axes/node-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Vernal Point/Mars = Saturn
 page_type: activation
 slug: vernal-point-mars-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Mars
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Mars
   - Saturn
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Mars`
-- Source page: `42`
 #### Witte Entry
 
 Hindrances or stoppage of work. The beginning of toilsome work. Acts of separation. Death while performing work.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Hindrances or stoppage of work. The beginning of toilsome work. Acts of separation. Death while performing work.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+burdensome creation for the public, stortc public work, stort public will, impeding impulses from the public, separation actions in the public, and lossful public activity
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Mars = Saturn`: hindrances or stoppage of work, the beginning of toilsome work, acts of separation, and death while performing work.
+- Practical expression: burdensome creation for the public, stortc public work, stort public will, impeding impulses from the public, and separation actions in the public.
 
 ## Links
 
@@ -61,3 +56,5 @@ Hindrances or stoppage of work. The beginning of toilsome work. Acts of separati
 - [Mars](../factors/mars.md)
 - [Saturn](../factors/saturn.md)
 - [Vernal Point/Mars](../axes/vernal-point-mars.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

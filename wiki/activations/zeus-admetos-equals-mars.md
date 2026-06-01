@@ -3,7 +3,7 @@ title: Zeus/Admetos = Mars
 page_type: activation
 slug: zeus-admetos-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Zeus
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Admetos`
-- Source page: `293`
 #### Witte Entry
 
 start all over again to revolt against a hated force. To begin anew on a limited scope. To provide for more room, air and light through energetic action.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: start all over again to revolt against a hated force. To begin anew on a limited scope. To provide for more room, air and light through energetic action.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful exhausting efforts, work circuit design, beginning of basic work, blocked training activity, restricted work performance, grild will efforts, deepening in creative work, and resistance activities against the movement
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Admetos = Mars`: start all over again to revolt against a hated force. To begin anew on a limited scope. To provide for more room, air and light through energetic action.
+- Practical expression: effortful exhausting efforts, work circuit design, beginning of basic work, blocked training activity, and restricted work performance.
 
 ## Links
 
@@ -61,3 +56,5 @@ start all over again to revolt against a hated force. To begin anew on a limited
 - [Admetos](../factors/admetos.md)
 - [Mars](../factors/mars.md)
 - [Zeus/Admetos](../axes/zeus-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

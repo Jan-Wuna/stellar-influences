@@ -3,7 +3,7 @@ title: Sun Jupiter Cupido
 page_type: triad_hub
 slug: sun-jupiter-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Jupiter
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Jupiter Cupido`
 - Astronomicon triad-set: `S V ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Cupido = Sun](../activations/jupiter-cupido-equals-sun.md)
-  Source page `211`
 - [Sun/Cupido = Jupiter](../activations/sun-cupido-equals-jupiter.md)
-  Source page `111`
 - [Sun/Jupiter = Cupido](../activations/sun-jupiter-equals-cupido.md)
-  Source page `106`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Cupido = Sun`: page `211`
-- `Sun/Cupido = Jupiter`: page `111`
-- `Sun/Jupiter = Cupido`: page `106`
+- `Jupiter/Cupido = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `211`
+- `Jupiter/Cupido = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `332`
+- `Sun/Cupido = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `111`
+- `Sun/Cupido = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `158`
+- `Sun/Jupiter = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `106`
+- `Sun/Jupiter = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `149`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Cupido = Sun`: daily happiness in the family, fortunate associates, successful artists or companies, and personal fulfillment through one's own art or communal success.
+- `Sun/Cupido = Jupiter`: This formula emphasizes happy family life and festive occasions with others.
+- `Sun/Jupiter = Cupido`: This formula emphasizes family happiness and festive community.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Jupiter](../factors/jupiter.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

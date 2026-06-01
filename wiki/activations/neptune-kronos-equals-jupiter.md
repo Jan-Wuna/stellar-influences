@@ -3,7 +3,7 @@ title: Neptune/Kronos = Jupiter
 page_type: activation
 slug: neptune-kronos-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Neptune
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Kronos`
-- Source page: `250`
 #### Witte Entry
 
 To earn money easily and to spend it again. Great extravagance. Shrinking of property or holdings. Inflation.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To earn money easily and to spend it again. Great extravagance. Shrinking of property or holdings. Inflation.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special financial expectations, success through special fine tuning, successful air quality, financial weakness of the state, great legal uncertainty, good future steering, weak financial hierarchy, and advantageous subtle steering
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Kronos = Jupiter`: To earn money easily and to spend it again. Great extravagance. Shrinking of property or holdings. Inflation.
+- Practical focus: expands compromised management into easy gain and rapid loss, showing extravagance, inflation, and the shrinking of holdings under poorly bounded authority.
+- Practical expression: special financial expectations, success through special fine tuning, successful air quality, financial weakness of the state, and great legal uncertainty.
 
 ## Links
 
@@ -61,3 +57,5 @@ To earn money easily and to spend it again. Great extravagance. Shrinking of pro
 - [Kronos](../factors/kronos.md)
 - [Jupiter](../factors/jupiter.md)
 - [Neptune/Kronos](../axes/neptune-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

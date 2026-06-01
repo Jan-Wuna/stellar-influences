@@ -19,10 +19,12 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - don-mcbroom-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -36,17 +38,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Moon`
-- Source page: `101`
 #### Witte Entry
 
 The train of thoughts during the hours of the day. Intimate conversations. Friendship or thoughts of marriage. Interesting days and hours. Young friendships.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Sun/Moon`
-- Source page: `78`
-- Entry: `0183`
+#### ABC Entry
+
+A young man's body, a language of carnal life, a language between man and woman, a young female body, a woman's body language, people's opinions, a language of human feelings, and words from personal feelings
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -54,39 +56,26 @@ One's attitude and thoughts in relation to the male and female principles, thoug
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Sun/Moon midpoint`
-- Source page: `6`
-- Activator: `Mercury`
-
 #### Sandbach Entry
 
 Ability to balance feeling with thinking when communicating. To communicate with a rich aliveness and vitality. When one is able to think and communicate effectively one tends to feel balanced and energized. One’s finds meaning in life through gathering information and using it in contexts where it can be appreciated. Difficulties communi cating can upset one’s balance and deplete one’s vitality.
 
 ### Don McBroom - Midpoints
 
-- Source heading: `Mercury at the Sun/Moon Midpoint`
-- Source page: `60`
-
 #### McBroom Entry
 
 We expect that thoughts, ideas, and communication will be involved as the central unifying focus for the individual, and in his interactions with others.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Using your education and reasoning to progress thru life; absorbing the various lessons of life; increases your search for opportunities; applying your knowledge to the different situations you meet in life.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Moon = Mercury`: lively communication, mental rapport, contemplation of union, and the ability to coordinate thought with vitality and feeling. Main caution: that imbalance in communication can unsettle the whole axis, turning nervous thought or poor dialogue into relational and emotional disequilibrium.
 
 ## Links
 
@@ -94,8 +83,9 @@ We expect that thoughts, ideas, and communication will be involved as the centra
 - [Moon](../factors/moon.md)
 - [Mercury](../factors/mercury.md)
 - [Sun/Moon](../axes/sun-moon.md)
-- [Sun Moon Mercury](../triads/sun-moon-mercury.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Don McBroom - Midpoints](../sources/don-mcbroom-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

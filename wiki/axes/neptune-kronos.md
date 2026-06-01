@@ -3,7 +3,7 @@ title: Neptune/Kronos
 page_type: axis
 slug: neptune-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Kronos
@@ -11,26 +11,26 @@ normalized_axis: Neptune/Kronos
 factor_a: Neptune
 factor_b: Kronos
 related_activations:
-  - Neptune/Kronos = Vernal Point
-  - Neptune/Kronos = MC
+  - Neptune/Kronos = Admetos
+  - Neptune/Kronos = Apollon
   - Neptune/Kronos = Asc
-  - Neptune/Kronos = Sun
-  - Neptune/Kronos = Moon
-  - Neptune/Kronos = Node
-  - Neptune/Kronos = Mercury
-  - Neptune/Kronos = Venus
-  - Neptune/Kronos = Mars
-  - Neptune/Kronos = Jupiter
-  - Neptune/Kronos = Saturn
-  - Neptune/Kronos = Uranus
-  - Neptune/Kronos = Pluto
   - Neptune/Kronos = Cupido
   - Neptune/Kronos = Hades
-  - Neptune/Kronos = Zeus
-  - Neptune/Kronos = Apollon
-  - Neptune/Kronos = Admetos
-  - Neptune/Kronos = Vulcanus
+  - Neptune/Kronos = Jupiter
+  - Neptune/Kronos = Mars
+  - Neptune/Kronos = MC
+  - Neptune/Kronos = Mercury
+  - Neptune/Kronos = Moon
+  - Neptune/Kronos = Node
+  - Neptune/Kronos = Pluto
   - Neptune/Kronos = Poseidon
+  - Neptune/Kronos = Saturn
+  - Neptune/Kronos = Sun
+  - Neptune/Kronos = Uranus
+  - Neptune/Kronos = Venus
+  - Neptune/Kronos = Vernal Point
+  - Neptune/Kronos = Vulcanus
+  - Neptune/Kronos = Zeus
 related_triad_hubs:
   - Jupiter Neptune Kronos
   - Mars Neptune Kronos
@@ -56,15 +56,15 @@ aliases:
   - Kronos/Neptune
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Axis: `Neptune/Kronos`
 - Astronomicon axis: `Y/¤`
-- Source heading: `Neptune + Kronos`
-- Source page: `250`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
@@ -74,48 +74,44 @@ updated_at: 2026-04-21
 
 Diplomacy. The great diplomat. Master of deception. Incompetent management. The great uncertainty. Unlimited uncertainty. Vaporized air. Misfortune to one’s superiors. Misfortune to the father. Confusion of the boss or the authorities. Annulment of decrees.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Diplomacy. The great diplomat. Master of deception. Incompetent management. The great uncertainty. Unlimited uncertainty. Vaporized air. Misfortune to one’s superiors. Misfortune to the father. Confusion of the boss or the authorities. Annulment of decrees.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+#### ABC Pair Summary
+
+special expectations, special finesse, the great uncared for, subtle authoritarianity, great exchange, air highness, weak state, unknown Hierarchic, and future steering
 
 ## Related Activations
 
-- [Neptune/Kronos = Vernal Point](../activations/neptune-kronos-equals-vernal-point.md)
-- [Neptune/Kronos = MC](../activations/neptune-kronos-equals-mc.md)
+- [Neptune/Kronos = Admetos](../activations/neptune-kronos-equals-admetos.md)
+- [Neptune/Kronos = Apollon](../activations/neptune-kronos-equals-apollon.md)
 - [Neptune/Kronos = Asc](../activations/neptune-kronos-equals-asc.md)
-- [Neptune/Kronos = Sun](../activations/neptune-kronos-equals-sun.md)
-- [Neptune/Kronos = Moon](../activations/neptune-kronos-equals-moon.md)
-- [Neptune/Kronos = Node](../activations/neptune-kronos-equals-node.md)
-- [Neptune/Kronos = Mercury](../activations/neptune-kronos-equals-mercury.md)
-- [Neptune/Kronos = Venus](../activations/neptune-kronos-equals-venus.md)
-- [Neptune/Kronos = Mars](../activations/neptune-kronos-equals-mars.md)
-- [Neptune/Kronos = Jupiter](../activations/neptune-kronos-equals-jupiter.md)
-- [Neptune/Kronos = Saturn](../activations/neptune-kronos-equals-saturn.md)
-- [Neptune/Kronos = Uranus](../activations/neptune-kronos-equals-uranus.md)
-- [Neptune/Kronos = Pluto](../activations/neptune-kronos-equals-pluto.md)
 - [Neptune/Kronos = Cupido](../activations/neptune-kronos-equals-cupido.md)
 - [Neptune/Kronos = Hades](../activations/neptune-kronos-equals-hades.md)
-- [Neptune/Kronos = Zeus](../activations/neptune-kronos-equals-zeus.md)
-- [Neptune/Kronos = Apollon](../activations/neptune-kronos-equals-apollon.md)
-- [Neptune/Kronos = Admetos](../activations/neptune-kronos-equals-admetos.md)
-- [Neptune/Kronos = Vulcanus](../activations/neptune-kronos-equals-vulcanus.md)
+- [Neptune/Kronos = Jupiter](../activations/neptune-kronos-equals-jupiter.md)
+- [Neptune/Kronos = Mars](../activations/neptune-kronos-equals-mars.md)
+- [Neptune/Kronos = MC](../activations/neptune-kronos-equals-mc.md)
+- [Neptune/Kronos = Mercury](../activations/neptune-kronos-equals-mercury.md)
+- [Neptune/Kronos = Moon](../activations/neptune-kronos-equals-moon.md)
+- [Neptune/Kronos = Node](../activations/neptune-kronos-equals-node.md)
+- [Neptune/Kronos = Pluto](../activations/neptune-kronos-equals-pluto.md)
 - [Neptune/Kronos = Poseidon](../activations/neptune-kronos-equals-poseidon.md)
+- [Neptune/Kronos = Saturn](../activations/neptune-kronos-equals-saturn.md)
+- [Neptune/Kronos = Sun](../activations/neptune-kronos-equals-sun.md)
+- [Neptune/Kronos = Uranus](../activations/neptune-kronos-equals-uranus.md)
+- [Neptune/Kronos = Venus](../activations/neptune-kronos-equals-venus.md)
+- [Neptune/Kronos = Vernal Point](../activations/neptune-kronos-equals-vernal-point.md)
+- [Neptune/Kronos = Vulcanus](../activations/neptune-kronos-equals-vulcanus.md)
+- [Neptune/Kronos = Zeus](../activations/neptune-kronos-equals-zeus.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- This axis describes authority under Neptunian uncertainty, where leadership, law, expertise, or high status can become idealized, undermined, deceptive, or poorly enforced. It often shows diplomacy and subtle influence mixed with confusion in command, compromised regulation, or misjudgment in elevated roles.
+- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [Kronos](../factors/kronos.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

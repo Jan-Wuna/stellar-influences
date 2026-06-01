@@ -58,13 +58,14 @@ aliases:
   - Jupiter/Mars
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -77,17 +78,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Jupiter`
-- Source page: `192`
-
 #### Pair Summary
 
 Joyous happenings. Betrothal. Fortunate deed. To create something. To produce. Successful propagation. Pregnancy. Generation. Children. Fruits. Lucky deed. Joy of work. Fortunate accomplishments. Much to do. Work or activity for justice or money.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Mars/Jupiter`
-- Source page: `201`
+#### ABC Pair Summary
+
+Work with money, work joy, work right, success acts, money trade, financial actions, good work, good will, right action, will success, and happiness through/in activity
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -111,17 +112,11 @@ A person successful in an enterprise (e.g., a manufacturer or the managing direc
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
-- Source heading: `Mars/Jupiter`
-- Source page: `55`
-
 #### Falis Entry
 
 Righteous action. Out of proportion anger. Out of proportion competitive drive. Running over the competition. Bulldozing the competition. Physical comedians. Rough housing. Foolhardiness. Crude behavior. Rude behavior. Enthusiasm. Fight ing for beliefs. Fighting against religion. Religious zealots. Fighting on behalf of religion. Active faith. Putting energy into philosophy. Putting energy into religion. Overzealous. Fanatic. Too much anger. Energy overload. Burning out. Overactive. Hyperactive. Hope in battle. Faith in combat. Acting on a feeling of being right. Self-righteous action. Arrogance. Acting on the need for expansion. Expanded vision that affects the ability to act, positively or negatively. Beliefs and philosophies that affect the ability to act, positively or negatively. The ability to fuse belief with action. Believing in what you do. Tendency to act impulsively. Enthusiasm for dangerous activities. Leaping into dangerous situations. Forthright assertions. Blunt assertions. Joyful action. Happy go lucky. Goofy energy. Optimistic energy. Faith that things will work out. Believing in your ability to get things done. Acting on what you know to be true. Willingness to try anything once. Using force that is disproportionate to the situation. Jumping to action when opportunity knocks. The ability to act on lucky breaks. Taking advantage of op portunities. Making your own luck. Winning streaks. Gamblers. Ethical action. Putting energy into finding meaning. Putting energy into spreading your moral standpoint. Putting energy into spreading your philosophy. Missionaries. Belief that things can improve. Enthusiasm for competition. Enjoyment of competition. Belief in a direct approach. No beating around the bush. Faith in taking the initiative. Enormous drive. Huge amplification of the natal Mars placement. The way that belief in yourself affects your ability to take action. Too much Mars. Wise force. Understanding the meaning of force. The philosophy of force. Assertive philosophies. Martial arts philoso phies. Believing in physical strength. Might makes right. Desire for truth. Passion for truth. Passion for deeper meaning. Passion for knowledge. The physical pursuit of knowledge. Active explorers. Courageous journeys. Anger surrounding higher education. Anger surrounding foreign travel and culture. Anger surrounding religion and belief systems. Acting with conscience. Acting in the name of a higher power. Desire for the good life. Doing what is necessary to have a life of ease. Desire for opulence. Taking the easy route. Having the courage of your convictions. Expecting that things will go according to plan. Philanthropy. Altruism. Having the faith that you can push forward through apparent setbacks. Tremendous capacity for self-assertion. Understanding how to act independently. Making your own way. Feeling self-assured in your ability to accomplish what you set out to do. Keeping heart. Leaping before you look.
 
 ### Charles Carter - The Astrological Aspects
-
-- Source heading: `ASPECTS OF MARS & JUPITER`
-- Source page: `52`
 
 #### Harmonious Aspects
 
@@ -171,9 +166,6 @@ The effects on the health are likely to be through overstrain, over-excitement, 
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mars/Jupiter midpoint`
-- Source page: `67`
-
 #### Principle
 
 Enthusiastic action, which often imbues what one does with the possibility of success. To be confident in one’s ability to effectively assert oneself which could be because one really does have competence in what one is trying to do, or which could result in failure due to over-estimation of one’s energy and abilities, or mis-estimation of circumstances. To over-do something. To go too far. To engage in destructive excess. A fine ability for negotiating.
@@ -184,17 +176,11 @@ To actively and assertively reach out to others in generous and exuberant fashio
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Mars/Jupiter`
-- Source page: `207`
-
 #### Pair Delineation
 
 Fortunate action, action leading to growth. Luck arising from a good sense of timing. Physical and athletic prowess. Creative actions leading to an increase in opportunity. Often associated with births and marriages.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `MARS/JUPITER`
-- Source page: `223`
 
 #### Basic Ideas
 
@@ -223,15 +209,6 @@ Strength of limb; gross motor control; improving muscle tone; hypo-adrenalism; a
 
 - [Michael Munkasey - Mars/Jupiter Concepts](../derived/munkasey-mars-jupiter-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Mars/Jupiter = Admetos](../activations/mars-jupiter-equals-admetos.md)
@@ -256,20 +233,18 @@ Strength of limb; gross motor control; improving muscle tone; hypo-adrenalism; a
 - [Mars/Jupiter = Vulcanus](../activations/mars-jupiter-equals-vulcanus.md)
 - [Mars/Jupiter = Zeus](../activations/mars-jupiter-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Jupiter` is the axis of vigorous enterprise, courageous initiative, fortunate action, and belief translated into effort. It combines drive, competitiveness, and physical or creative force with optimism, conviction, and the expectation of success.
+- Chart expression: action that wants to expand: bold decisions, productive effort, athletic or entrepreneurial confidence, the courage of one's convictions, and the ability to turn motion into opportunity. When imbalanced, it becomes overreach, rash judgment, fanaticism, waste, self-righteous conflict, or destructive excess.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Jupiter](../factors/jupiter.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)

@@ -3,7 +3,7 @@ title: Mars/Neptune = Zeus
 page_type: activation
 slug: mars-neptune-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Neptune
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Neptune`
-- Source page: `195`
 #### Witte Entry
 
 Explosive gas. Damage through exploding gases. Destruction by fire. Inherited blood diseases or impotency.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Explosive gas. Damage through exploding gases. Destruction by fire. Inherited blood diseases or impotency.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Effortful work in the air, exchangeable handling work, processing fire with water, intuitive power pulses, metaphysics as a work direction, creative work on/in/with water, weak work performance, and unclear work design
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Neptune = Zeus` turns confused or weakened force explosive, fiery, and technically dangerous.
+- Chart expression: gas explosions, fire damage, destructive combustion, and inherited bodily weakness or blood-related affliction that expresses through loss of potency or destructive discharge.
 
 ## Links
 
@@ -61,3 +56,5 @@ Explosive gas. Damage through exploding gases. Destruction by fire. Inherited bl
 - [Neptune](../factors/neptune.md)
 - [Zeus](../factors/zeus.md)
 - [Mars/Neptune](../axes/mars-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

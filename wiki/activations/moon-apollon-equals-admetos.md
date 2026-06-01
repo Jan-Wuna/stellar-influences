@@ -3,7 +3,7 @@ title: Moon/Apollon = Admetos
 page_type: activation
 slug: moon-apollon-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Apollon
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Apollon`
-- Source page: `134`
 #### Witte Entry
 
 Many hours in contentment. To feel depressed or limited by the public. The masses of people see their goals attained.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Many hours in contentment. To feel depressed or limited by the public. The masses of people see their goals attained.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+endurance of a successful woman, expansion of an emotional depression, blocked economy of a people, success through the thoroughness of a woman, trade blockade for a people, business restrictions for the people, and condensation of emotional knowledge
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Apollon = Admetos`: Many hours in contentment. To feel depressed or limited by the public. The masses of people see their goals attained.
+- Practical expression: endurance of a successful woman, expansion of an emotional depression, blocked economy of a people, success through the thoroughness of a woman, and trade blockade for a people.
 
 ## Links
 
@@ -61,3 +56,5 @@ Many hours in contentment. To feel depressed or limited by the public. The masse
 - [Apollon](../factors/apollon.md)
 - [Admetos](../factors/admetos.md)
 - [Moon/Apollon](../axes/moon-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

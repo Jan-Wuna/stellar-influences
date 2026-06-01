@@ -3,7 +3,7 @@ title: Mercury Neptune Cupido
 page_type: triad_hub
 slug: mercury-neptune-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Neptune
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Neptune Cupido`
 - Astronomicon triad-set: `T Y ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Cupido = Neptune](../activations/mercury-cupido-equals-neptune.md)
-  Source page `166`
 - [Mercury/Neptune = Cupido](../activations/mercury-neptune-equals-cupido.md)
-  Source page `164`
 - [Neptune/Cupido = Mercury](../activations/neptune-cupido-equals-mercury.md)
-  Source page `247`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Cupido = Neptune`: page `166`
-- `Mercury/Neptune = Cupido`: page `164`
-- `Neptune/Cupido = Mercury`: page `247`
+- `Mercury/Cupido = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `166`
+- `Mercury/Cupido = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `255`
+- `Mercury/Neptune = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `164`
+- `Mercury/Neptune = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `251`
+- `Neptune/Cupido = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `247`
+- `Neptune/Cupido = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `392`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Cupido = Neptune`: diffuses the axis into unrealized plans and imaginative artistic fiction.
+- `Mercury/Neptune = Cupido`: socializes the axis through sad family thoughts and deceptive relationship patterns.
+- `Neptune/Cupido = Mercury`: This activation gives unhappy union a mental and verbal form through infidelity, broken promises, and persistent thoughts of leaving, separating, or grieving communal and domestic dissolution.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Neptune](../factors/neptune.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

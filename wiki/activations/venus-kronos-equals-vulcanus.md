@@ -3,7 +3,7 @@ title: Venus/Kronos = Vulcanus
 page_type: activation
 slug: venus-kronos-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Kronos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Kronos`
-- Source page: `185`
 #### Witte Entry
 
 Mighty exceptional privileges. Preferential treatment. Most-favored nation clause.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mighty exceptional privileges. Preferential treatment. Most-favored nation clause.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+One of the state prefer, one sided peace authority, joy over the unity of the hierarchy, great power of love, love for the strong state, power joy of the state, powerful artistic power, and state peace power
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Kronos = Vulcanus`: mighty exceptional privileges.
+- Practical expression: one sided peace authority, great power of love, and love for the strong state.
 
 ## Links
 
@@ -61,3 +56,5 @@ Mighty exceptional privileges. Preferential treatment. Most-favored nation claus
 - [Kronos](../factors/kronos.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Venus/Kronos](../axes/venus-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Venus/Kronos = MC
 page_type: activation
 slug: venus-kronos-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - MC
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Kronos`
-- Source page: `185`
 #### Witte Entry
 
 Take part in charitable activities. Charitably disposed. Receive benefits.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Take part in charitable activities. Charitably disposed. Receive benefits.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+IJominanz the soul Fricdens, great soul harmony, Harmony is important to me, I love the self andigkcit, my special preference, my artistic reputation, my love for hierarchy, my desire for the state, and my preference for the arts
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Kronos = MC`: take part in charitable activities.
+- Practical expression: iJominanz the soul Fricdens, great soul harmony, harmony is important to me, and my special preference.
 
 ## Links
 
@@ -61,3 +56,5 @@ Take part in charitable activities. Charitably disposed. Receive benefits.
 - [Kronos](../factors/kronos.md)
 - [MC](../factors/mc.md)
 - [Venus/Kronos](../axes/venus-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

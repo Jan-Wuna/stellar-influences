@@ -3,7 +3,7 @@ title: Cupido Zeus Vulcanus
 page_type: triad_hub
 slug: cupido-zeus-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Zeus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Cupido Zeus Vulcanus`
 - Astronomicon triad-set: `¡ £ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Vulcanus = Zeus](../activations/cupido-vulcanus-equals-zeus.md)
-  Source page `273`
 - [Cupido/Zeus = Vulcanus](../activations/cupido-zeus-equals-vulcanus.md)
-  Source page `268`
 - [Zeus/Vulcanus = Cupido](../activations/zeus-vulcanus-equals-cupido.md)
-  Source page `295`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Vulcanus = Zeus`: page `273`
-- `Cupido/Zeus = Vulcanus`: page `268`
-- `Zeus/Vulcanus = Cupido`: page `295`
+- `Cupido/Vulcanus = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `273`
+- `Cupido/Vulcanus = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `435`
+- `Cupido/Zeus = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `268`
+- `Cupido/Zeus = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `427`
+- `Zeus/Vulcanus = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `295`
+- `Zeus/Vulcanus = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `457`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Vulcanus = Zeus`: unions of great families through marriage, communities focusing their power on one point, and people who achieve things in their own strong way.
+- `Cupido/Zeus = Vulcanus`: the opportunity to unfold ability and force freely and to achieve great artistic accomplishment.
+- `Zeus/Vulcanus = Cupido`: Mighty efforts of a community. To manage and direct the forces of a company or a community. To appear as the leader. Great artistic creations.
 
 ## Links
 
 - [Cupido](../factors/cupido.md)
 - [Zeus](../factors/zeus.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

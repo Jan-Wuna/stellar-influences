@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Mars Chiron Uranus`
 - Astronomicon triad-set: `U Chiron X`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Mars/Chiron = Uranus`: John, page `69`
 - `Mars/Uranus = Chiron`: John, page `71`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Uranus = Mars`: healing through bold improvisation and courageous responsiveness. Main caution: impulsiveness or abandoning useful structure too quickly.
+- `Mars/Chiron = Uranus`: unique methods, inspired independence, and a refusal to resolve conflict by old formulas that no longer fit. The caution is restlessness or rebellion that breaks structure faster than it can integrate new guidance.
+- `Mars/Uranus = Chiron` encourages people to act more independently, intuitively, and in their own unexpected way.
 
 ## Links
 

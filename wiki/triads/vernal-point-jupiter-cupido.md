@@ -3,7 +3,7 @@ title: Vernal Point Jupiter Cupido
 page_type: triad_hub
 slug: vernal-point-jupiter-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Jupiter
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Jupiter Cupido`
 - Astronomicon triad-set: `VP V ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Cupido = Vernal Point](../activations/jupiter-cupido-equals-vernal-point.md)
-  Source page `211`
 - [Vernal Point/Cupido = Jupiter](../activations/vernal-point-cupido-equals-jupiter.md)
-  Source page `48`
 - [Vernal Point/Jupiter = Cupido](../activations/vernal-point-jupiter-equals-cupido.md)
-  Source page `43`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Cupido = Vernal Point`: page `211`
-- `Vernal Point/Cupido = Jupiter`: page `48`
-- `Vernal Point/Jupiter = Cupido`: page `43`
+- `Jupiter/Cupido = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `211`
+- `Jupiter/Cupido = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `332`
+- `Vernal Point/Cupido = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `48`
+- `Vernal Point/Cupido = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `44`
+- `Vernal Point/Jupiter = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `43`
+- `Vernal Point/Jupiter = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `35`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Cupido = Vernal Point`: being happily related to the public and belonging to a contented artistic or communal body.
+- `Vernal Point/Cupido = Jupiter`: This formula emphasizes banks and financial institutions.
+- `Vernal Point/Jupiter = Cupido`: This formula emphasizes happiness in married life.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Jupiter](../factors/jupiter.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

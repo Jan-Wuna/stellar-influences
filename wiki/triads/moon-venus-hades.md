@@ -3,7 +3,7 @@ title: Moon Venus Hades
 page_type: triad_hub
 slug: moon-venus-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Venus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Venus Hades`
 - Astronomicon triad-set: `R Q ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Hades = Venus](../activations/moon-hades-equals-venus.md)
-  Source page `131`
 - [Moon/Venus = Hades](../activations/moon-venus-equals-hades.md)
-  Source page `123`
 - [Venus/Hades = Moon](../activations/venus-hades-equals-moon.md)
-  Source page `183`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Hades = Venus`: page `131`
-- `Moon/Venus = Hades`: page `123`
-- `Venus/Hades = Moon`: page `183`
+- `Moon/Hades = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `131`
+- `Moon/Hades = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `194`
+- `Moon/Venus = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `123`
+- `Moon/Venus = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `179`
+- `Venus/Hades = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `183`
+- `Venus/Hades = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `284`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Hades = Venus`: A loving poor woman. Street-walker. Venal love. Worries caused by love.
+- `Moon/Venus = Hades`: This activation degrades `Moon/Venus` into maternal abandonment, reproductive loss, and painful rupture in the field of care and affection. It shows love and fertility meeting sorrow, deprivation, or traumatic severance.
+- `Venus/Hades = Moon`: submissive persons.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Venus](../factors/venus.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

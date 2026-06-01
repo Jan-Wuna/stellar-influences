@@ -3,7 +3,7 @@ title: Jupiter/Poseidon = Apollon
 page_type: activation
 slug: jupiter-poseidon-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Apollon
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Poseidon`
-- Source page: `218`
 #### Witte Entry
 
 Many have the same opinion or judgement. Many are sensible.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Many have the same opinion or judgement. Many are sensible.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special legal success, experience in cultural law, successful intellectual knowledge, successful cultural dissemination, trade in financial ideas, kl ares legal knowledge, awareness of money fanfare, knowledge of law and truth, and increase of law and clarity
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Poseidon = Apollon`: wisdom becoming collective and scalable. It favors broad agreement rooted in reason, successful education of many, and good sense spreading through networks or communities.
 
 ## Links
 
@@ -61,3 +55,5 @@ Many have the same opinion or judgement. Many are sensible.
 - [Poseidon](../factors/poseidon.md)
 - [Apollon](../factors/apollon.md)
 - [Jupiter/Poseidon](../axes/jupiter-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

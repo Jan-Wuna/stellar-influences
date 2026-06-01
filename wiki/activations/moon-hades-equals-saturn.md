@@ -3,7 +3,7 @@ title: Moon/Hades = Saturn
 page_type: activation
 slug: moon-hades-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Saturn
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Hades`
-- Source page: `131`
 #### Witte Entry
 
 Hostility. Worries through enmities. Separation. Loss. Disappearance of vile things. Operative cut in the womb.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Hostility. Worries through enmities. Separation. Loss. Disappearance of vile things. Operative cut in the womb.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Tasks from the past of a people, burdened woman by the past, woman matured by grief, patience and renunciation of a woman, feelings Kummer in old age, hard of an old woman, inhibitions by Gef'Lihl's deficiency, and grief and pain of a woman
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Hades = Saturn`: Hostility. Worries through enmities. Separation. Loss. Disappearance of vile things. Operative cut in the womb.
+- Practical expression: tasks from the past of a people, burdened woman by the past, woman matured by grief, patience, and renunciation of a woman.
 
 ## Links
 
@@ -61,3 +56,5 @@ Hostility. Worries through enmities. Separation. Loss. Disappearance of vile thi
 - [Hades](../factors/hades.md)
 - [Saturn](../factors/saturn.md)
 - [Moon/Hades](../axes/moon-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

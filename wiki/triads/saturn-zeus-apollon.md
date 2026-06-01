@@ -3,7 +3,7 @@ title: Saturn Zeus Apollon
 page_type: triad_hub
 slug: saturn-zeus-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Zeus
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Zeus Apollon`
 - Astronomicon triad-set: `W £ ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Saturn/Apollon = Zeus](../activations/saturn-apollon-equals-zeus.md)
-  Source page `228`
 - [Saturn/Zeus = Apollon](../activations/saturn-zeus-equals-apollon.md)
-  Source page `226`
 - [Zeus/Apollon = Saturn](../activations/zeus-apollon-equals-saturn.md)
-  Source page `291`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Saturn/Apollon = Zeus`: page `228`
-- `Saturn/Zeus = Apollon`: page `226`
-- `Zeus/Apollon = Saturn`: page `291`
+- `Saturn/Apollon = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `228`
+- `Saturn/Apollon = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `363`
+- `Saturn/Zeus = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `226`
+- `Saturn/Zeus = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `359`
+- `Zeus/Apollon = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `291`
+- `Zeus/Apollon = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `453`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Zeus/Apollon = Saturn`: Slow mentality. Hindrances in learning, studying or research. Losses in trade, commerce or industry. Severed commercial connections. Business liquidation.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Zeus](../factors/zeus.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

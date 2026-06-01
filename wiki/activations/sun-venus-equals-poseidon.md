@@ -3,7 +3,7 @@ title: Sun/Venus = Poseidon
 page_type: activation
 slug: sun-venus-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Venus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Venus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Venus`
-- Source page: `104`
 #### Witte Entry
 
 Idealistic love. The body which turns from earthly love. The deep thinker for beautiful, peaceful or harmony. The spiritual man.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Idealistic love. The body which turns from earthly love. The deep thinker for beautiful, peaceful or harmony. The spiritual man.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Insight of a peaceful person, harmony and clarity of a person, artistic I dee of a man, personal love awareness, shame of body and mind, preference for body culture, and center for peace and culture
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Venus = Poseidon`: peace, ideal love, and harmony guided by truth or spiritual values.
+- Practical expression: insight of a peaceful person, harmony, clarity of a person, artistic I dee of a man, and personal love awareness.
 
 ## Links
 
@@ -61,3 +56,5 @@ Idealistic love. The body which turns from earthly love. The deep thinker for be
 - [Venus](../factors/venus.md)
 - [Poseidon](../factors/poseidon.md)
 - [Sun/Venus](../axes/sun-venus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

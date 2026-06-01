@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Mercury + Mercury`
-- Source page: `157`
 #### Witte Entry
 
 Nerves. Practical thinking. Logic. Good mathematician. Revolutionary thoughts. Original. Rhythm. Telegrams. New information. Sudden inspiration. Surprising mails. Sudden news or information. Excited way of speaking. Technological mindset. The main axis for astrologers, astronomers, technicians or mathematicians.
 
-## Comparative Schema
-
-- core meaning: Nerves. Practical thinking. Logic. Good mathematician. Revolutionary thoughts. Original. Rhythm. Telegrams. New information. Sudden inspiration. Surprising mails. Sudden news or information. Excited way of speaking. Technological mindset. The main axis for astrologers, astronomers, technicians or mathematicians.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Mercury = Uranus` electrifies the axis into practical brilliance, sudden news, and technical mind.
+- Chart expression: original or revolutionary thinking, mathematics and technology, surprising messages, sudden inspiration, and a nervous system tuned for fast insight and innovation.
 
 ## Links
 

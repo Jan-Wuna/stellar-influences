@@ -3,10 +3,10 @@ title: Mercury/Asc = Kronos
 page_type: activation
 slug: mercury-asc-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Mercury
+  - Asc
   - Kronos
 normalized_formula: Mercury/Asc = Kronos
 axis: Mercury/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Asc
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Mercury`
-- Source page: `83`
 #### Witte Entry
 
 The native enjoys high regard by others. To converse about great or important matters. To give advice to others.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The native enjoys high regard by others. To converse about great or important matters. To give advice to others.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Authoritative thinking of the partner, special language with other, young partner of the boss, great thought for a place, self evident partner description, self governingness of the youth in the place, state as media partner, and priority language about the environment
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Asc = Kronos` elevates the Mercury/Asc axis into respected speech, important topics, and advisory influence.
+- Chart expression: being held in high regard for what one says, discussing consequential matters, and using communication to guide, counsel, or lend authority to others.
 
 ## Links
 
@@ -61,3 +56,5 @@ The native enjoys high regard by others. To converse about great or important ma
 - [Asc](../factors/asc.md)
 - [Kronos](../factors/kronos.md)
 - [Mercury/Asc](../axes/mercury-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

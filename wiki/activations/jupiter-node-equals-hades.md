@@ -3,10 +3,10 @@ title: Jupiter/Node = Hades
 page_type: activation
 slug: jupiter-node-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Jupiter
+  - Node
   - Hades
 normalized_formula: Jupiter/Node = Hades
 axis: Jupiter/Node
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Node
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Jupiter`
-- Source page: `144`
 #### Witte Entry
 
 Good relations to single women or persons of socially lower levels.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Good relations to single women or persons of socially lower levels.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful relationships in need, successful traditional connections, dangerous financial connection, money deficiency in a connection, with financial disadvantages avoided, and criminal financial connection
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Node = Hades`: helpful connection arising across social difference or in conditions that are less polished or privileged. It favors fellowship where dignity and kindness matter more than status.
 
 ## Links
 
@@ -61,3 +55,5 @@ Good relations to single women or persons of socially lower levels.
 - [Node](../factors/node.md)
 - [Hades](../factors/hades.md)
 - [Jupiter/Node](../axes/jupiter-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

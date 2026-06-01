@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `MC + MC`
-- Source page: `57`
 #### Witte Entry
 
 The mental horizon. One’s own life experiences. To be a scientist, merchant or trader. To be peaceful. To be open minded. To possess psychic wealth. Generous disposition. To be magnanimous. Glory and success for the native. A successful moment (minute).
 
-## Comparative Schema
-
-- core meaning: The mental horizon. One’s own life experiences. To be a scientist, merchant or trader. To be peaceful. To be open minded. To possess psychic wealth. Generous disposition. To be magnanimous. Glory and success for the native. A successful moment (minute).
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/MC = Apollon` widens the axis into broad experience, mental wealth, and success through science or trade.
+- Chart expression: an open and generous self-image, a wide personal horizon, and an identity that grows through knowledge, commerce, peace, and expansive life experience.
 
 ## Links
 

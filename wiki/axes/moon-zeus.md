@@ -3,7 +3,7 @@ title: Moon/Zeus
 page_type: axis
 slug: moon-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Zeus
@@ -11,26 +11,26 @@ normalized_axis: Moon/Zeus
 factor_a: Moon
 factor_b: Zeus
 related_activations:
-  - Moon/Zeus = Vernal Point
-  - Moon/Zeus = MC
+  - Moon/Zeus = Admetos
+  - Moon/Zeus = Apollon
   - Moon/Zeus = Asc
-  - Moon/Zeus = Sun
-  - Moon/Zeus = Node
-  - Moon/Zeus = Mercury
-  - Moon/Zeus = Venus
-  - Moon/Zeus = Mars
-  - Moon/Zeus = Jupiter
-  - Moon/Zeus = Saturn
-  - Moon/Zeus = Uranus
-  - Moon/Zeus = Neptune
-  - Moon/Zeus = Pluto
   - Moon/Zeus = Cupido
   - Moon/Zeus = Hades
+  - Moon/Zeus = Jupiter
   - Moon/Zeus = Kronos
-  - Moon/Zeus = Apollon
-  - Moon/Zeus = Admetos
-  - Moon/Zeus = Vulcanus
+  - Moon/Zeus = Mars
+  - Moon/Zeus = MC
+  - Moon/Zeus = Mercury
+  - Moon/Zeus = Neptune
+  - Moon/Zeus = Node
+  - Moon/Zeus = Pluto
   - Moon/Zeus = Poseidon
+  - Moon/Zeus = Saturn
+  - Moon/Zeus = Sun
+  - Moon/Zeus = Uranus
+  - Moon/Zeus = Venus
+  - Moon/Zeus = Vernal Point
+  - Moon/Zeus = Vulcanus
 related_triad_hubs:
   - Moon Asc Zeus
   - Moon Cupido Zeus
@@ -56,15 +56,15 @@ aliases:
   - Zeus/Moon
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Axis: `Moon/Zeus`
 - Astronomicon axis: `R/£`
-- Source heading: `Moon + Zeus`
-- Source page: `132`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
@@ -74,48 +74,46 @@ updated_at: 2026-04-21
 
 A creative mind. The hours of creative work. Discipline. Hot blooded woman. The martial nation. A woman who has children. Procreative faculty of female person. Institutions of general benefit created by the state. Inflammable. A people lined up.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A creative mind. The hours of creative work. Discipline. Hot blooded woman. The martial nation. A woman who has children. Procreative faculty of female person. Institutions of general benefit created by the state. Inflammable. A people lined up.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+#### ABC Pair Summary
+
+Effortful hour, strenuous woman, fiery woman, fiery creatures, leading woman, women's zide, leading people, pregnant woman, creative woman, achievements of one woman, creative gemiite, and people carts
 
 ## Related Activations
 
-- [Moon/Zeus = Vernal Point](../activations/moon-zeus-equals-vernal-point.md)
-- [Moon/Zeus = MC](../activations/moon-zeus-equals-mc.md)
+- [Moon/Zeus = Admetos](../activations/moon-zeus-equals-admetos.md)
+- [Moon/Zeus = Apollon](../activations/moon-zeus-equals-apollon.md)
 - [Moon/Zeus = Asc](../activations/moon-zeus-equals-asc.md)
-- [Moon/Zeus = Sun](../activations/moon-zeus-equals-sun.md)
-- [Moon/Zeus = Node](../activations/moon-zeus-equals-node.md)
-- [Moon/Zeus = Mercury](../activations/moon-zeus-equals-mercury.md)
-- [Moon/Zeus = Venus](../activations/moon-zeus-equals-venus.md)
-- [Moon/Zeus = Mars](../activations/moon-zeus-equals-mars.md)
-- [Moon/Zeus = Jupiter](../activations/moon-zeus-equals-jupiter.md)
-- [Moon/Zeus = Saturn](../activations/moon-zeus-equals-saturn.md)
-- [Moon/Zeus = Uranus](../activations/moon-zeus-equals-uranus.md)
-- [Moon/Zeus = Neptune](../activations/moon-zeus-equals-neptune.md)
-- [Moon/Zeus = Pluto](../activations/moon-zeus-equals-pluto.md)
 - [Moon/Zeus = Cupido](../activations/moon-zeus-equals-cupido.md)
 - [Moon/Zeus = Hades](../activations/moon-zeus-equals-hades.md)
+- [Moon/Zeus = Jupiter](../activations/moon-zeus-equals-jupiter.md)
 - [Moon/Zeus = Kronos](../activations/moon-zeus-equals-kronos.md)
-- [Moon/Zeus = Apollon](../activations/moon-zeus-equals-apollon.md)
-- [Moon/Zeus = Admetos](../activations/moon-zeus-equals-admetos.md)
-- [Moon/Zeus = Vulcanus](../activations/moon-zeus-equals-vulcanus.md)
+- [Moon/Zeus = Mars](../activations/moon-zeus-equals-mars.md)
+- [Moon/Zeus = MC](../activations/moon-zeus-equals-mc.md)
+- [Moon/Zeus = Mercury](../activations/moon-zeus-equals-mercury.md)
+- [Moon/Zeus = Neptune](../activations/moon-zeus-equals-neptune.md)
+- [Moon/Zeus = Node](../activations/moon-zeus-equals-node.md)
+- [Moon/Zeus = Pluto](../activations/moon-zeus-equals-pluto.md)
 - [Moon/Zeus = Poseidon](../activations/moon-zeus-equals-poseidon.md)
+- [Moon/Zeus = Saturn](../activations/moon-zeus-equals-saturn.md)
+- [Moon/Zeus = Sun](../activations/moon-zeus-equals-sun.md)
+- [Moon/Zeus = Uranus](../activations/moon-zeus-equals-uranus.md)
+- [Moon/Zeus = Venus](../activations/moon-zeus-equals-venus.md)
+- [Moon/Zeus = Vernal Point](../activations/moon-zeus-equals-vernal-point.md)
+- [Moon/Zeus = Vulcanus](../activations/moon-zeus-equals-vulcanus.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Zeus` is the axis of creative mind, disciplined productive hours, fiery women or peoples, pregnancy and procreative faculty, and collective life lined up for action.
+- Constructively it supports creative women, leading or striving people, disciplined work, public institutions of benefit, and emotional fire directed toward achievement.
+- The liability is inflammability, strenuous overheat, martial mobilization, or feeling driven by command rather than natural rhythm.
+- Activations show whether this creative fire becomes work, leadership, birth or production, conflict, public organization, or a pressured schedule.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Zeus](../factors/zeus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

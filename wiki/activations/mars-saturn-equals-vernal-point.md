@@ -3,7 +3,7 @@ title: Mars/Saturn = Vernal Point
 page_type: activation
 slug: mars-saturn-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Saturn
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Mars
   - Saturn
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Saturn`
-- Source page: `193`
 #### Witte Entry
 
 General periodic working. General interruption of work. General sickness, separation, death.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: General periodic working. General interruption of work. General sickness, separation, death.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+(i) (ii) (iii) (iii) (iv) (iv) (iv) (v) (v) (v) (v) (v) (v) (v) (v)) (v) (v) (v) (v) (v) (v)) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v)) (v) (v) (v) (v) (v) (v) (v) (v) (v)) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v)) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Saturn = Vernal Point` makes work stoppage, sickness, separation, and death collective or generally visible.
+- Chart expression: widespread interruption of labor, general conditions of illness or severance, and a public atmosphere marked by stoppage, loss, or mortality.
 
 ## Links
 
@@ -61,3 +56,5 @@ General periodic working. General interruption of work. General sickness, separa
 - [Saturn](../factors/saturn.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Mars/Saturn](../axes/mars-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

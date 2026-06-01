@@ -3,10 +3,10 @@ title: Node/MC = Vernal Point
 page_type: activation
 slug: node-mc-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Node
+  - MC
   - Vernal Point
 normalized_formula: Node/MC = Vernal Point
 axis: Node/MC
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Node
   - MC
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Node`
-- Source page: `61`
 #### Witte Entry
 
 Mental connections with many. Personal relationships in public life or to the world in general.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mental connections with many. Personal relationships in public life or to the world in general.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+(i) communication between the public and the public; (ii) communication between the public and the public; (iii) communication between the public and the public; (iv) communication between the public and the public; (v) communication between the public and the public; (v) communication between the public and the public; (v) communication between the public and the public; (v) communication between the public and the public; (v) communication between the public and the public; (v) communication between the public and the public; (v) communication between the public and the public; (v) communication between the public and the public; (v) communication between the public and the public; (v) communication between the public and the public; (v) communication between the public and the public; (v) communication between the public and the public; (v) communication between the public and the public; (v) communication between the public and the public; (v) communication between the public and the public; (v) communication between the public and the public; (v) communication between the public and the public and the public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/MC = Vernal Point`: Mental connections with many. Personal relationships in public life or to the world in general.
+- Practical focus: mental connections with many; also personal relationships in public life or to the world in general.
 
 ## Links
 
@@ -61,3 +56,5 @@ Mental connections with many. Personal relationships in public life or to the wo
 - [MC](../factors/mc.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Node/MC](../axes/node-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

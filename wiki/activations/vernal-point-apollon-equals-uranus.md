@@ -3,7 +3,7 @@ title: Vernal Point/Apollon = Uranus
 page_type: activation
 slug: vernal-point-apollon-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Uranus
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Apollon`
-- Source page: `52`
 #### Witte Entry
 
 Sudden expansion. Extended reforms. A public event that causes mass excitement. New branches of science. Revolution in science.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sudden expansion. Extended reforms. A public event that causes mass excitement. New branches of science. Revolution in science.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dynamic world economy, successful public event, new knowledge for the public, public tension expectation. public technical success, technological success in the public, and increasing public awareness
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Apollon = Uranus`: sudden expansion, extended reforms, a public event that causes mass excitement, new branches of science, and revolution in science.
+- Practical expression: dynamic world economy, successful public event, new knowledge for the public, public tension expectation. public technical success, and technological success in the public.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sudden expansion. Extended reforms. A public event that causes mass excitement. 
 - [Apollon](../factors/apollon.md)
 - [Uranus](../factors/uranus.md)
 - [Vernal Point/Apollon](../axes/vernal-point-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

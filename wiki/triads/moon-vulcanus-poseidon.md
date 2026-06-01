@@ -3,7 +3,7 @@ title: Moon Vulcanus Poseidon
 page_type: triad_hub
 slug: moon-vulcanus-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Vulcanus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Vulcanus Poseidon`
 - Astronomicon triad-set: `R § ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Poseidon = Vulcanus](../activations/moon-poseidon-equals-vulcanus.md)
-  Source page `138`
 - [Moon/Vulcanus = Poseidon](../activations/moon-vulcanus-equals-poseidon.md)
-  Source page `137`
 - [Vulcanus/Poseidon = Moon](../activations/vulcanus-poseidon-equals-moon.md)
-  Source page `315`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Poseidon = Vulcanus`: page `138`
-- `Moon/Vulcanus = Poseidon`: page `137`
-- `Vulcanus/Poseidon = Moon`: page `315`
+- `Moon/Poseidon = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `138`
+- `Moon/Poseidon = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `207`
+- `Moon/Vulcanus = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `137`
+- `Moon/Vulcanus = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `205`
+- `Vulcanus/Poseidon = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `315`
+- `Vulcanus/Poseidon = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `478`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Poseidon = Vulcanus`: Great sensitivity for men and things.
+- `Moon/Vulcanus = Poseidon`: Mentally or spiritually interested women, superiors or public. To surprise others with one’s own presentation, behavior or world conception.
+- `Vulcanus/Poseidon = Moon`: A people with self-confidence and pride. To have a national sense of honor. The dignity of a people. The same delineation goes for women and the public in general.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

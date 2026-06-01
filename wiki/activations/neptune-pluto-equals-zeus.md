@@ -3,7 +3,7 @@ title: Neptune/Pluto = Zeus
 page_type: activation
 slug: neptune-pluto-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Pluto
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Pluto`
-- Source page: `246`
 #### Witte Entry
 
 Secret orders. To keep one’s activities in secret. Secret arming. Secret arms, concealed weapons. To practice secretly.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Secret orders. To keep one’s activities in secret. Secret arming. Secret arms, concealed weapons. To practice secretly.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Start of a creeping change, creative future development, aspire to air change, weak performance development, uncertain procreation development, different future design, growing performance expectations, and change of weak movement
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Pluto = Zeus`: Secret orders. To keep one’s activities in secret. Secret arming. Secret arms, concealed weapons. To practice secretly.
+- Practical focus: hidden transformation is directed into secret action, covert practice, or concealed armament, showing energies and intentions deliberately kept out of public view.
+- Practical expression: start of a creeping change, creative future development, aspire to air change, weak performance development, and uncertain procreation development.
 
 ## Links
 
@@ -61,3 +57,5 @@ Secret orders. To keep one’s activities in secret. Secret arming. Secret arms,
 - [Pluto](../factors/pluto.md)
 - [Zeus](../factors/zeus.md)
 - [Neptune/Pluto](../axes/neptune-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

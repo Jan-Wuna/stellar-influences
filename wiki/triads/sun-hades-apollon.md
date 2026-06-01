@@ -3,7 +3,7 @@ title: Sun Hades Apollon
 page_type: triad_hub
 slug: sun-hades-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Hades Apollon`
 - Astronomicon triad-set: `S ¢ ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Apollon = Sun](../activations/hades-apollon-equals-sun.md)
-  Source page `280`
 - [Sun/Apollon = Hades](../activations/sun-apollon-equals-hades.md)
-  Source page `115`
 - [Sun/Hades = Apollon](../activations/sun-hades-equals-apollon.md)
-  Source page `112`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Apollon = Sun`: page `280`
-- `Sun/Apollon = Hades`: page `115`
-- `Sun/Hades = Apollon`: page `112`
+- `Hades/Apollon = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `280`
+- `Hades/Apollon = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `442`
+- `Sun/Apollon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `115`
+- `Sun/Apollon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `167`
+- `Sun/Hades = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `112`
+- `Sun/Hades = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `161`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Apollon = Sun`: the person who handles rags, garbage, history, or knowledge of what has already been left behind.
+- `Sun/Apollon = Hades`: This formula emphasizes successful investigator or explorer and research expert.
+- `Sun/Hades = Apollon`: This formula emphasizes epidemics and mass sickness.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Hades](../factors/hades.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

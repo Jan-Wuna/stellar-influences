@@ -3,7 +3,7 @@ title: Venus Cupido Admetos
 page_type: triad_hub
 slug: venus-cupido-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Cupido Admetos`
 - Astronomicon triad-set: `Q ¡ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Admetos = Venus](../activations/cupido-admetos-equals-venus.md)
-  Source page `271`
 - [Venus/Admetos = Cupido](../activations/venus-admetos-equals-cupido.md)
-  Source page `187`
 - [Venus/Cupido = Admetos](../activations/venus-cupido-equals-admetos.md)
-  Source page `182`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Admetos = Venus`: page `271`
-- `Venus/Admetos = Cupido`: page `187`
-- `Venus/Cupido = Admetos`: page `182`
+- `Cupido/Admetos = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `271`
+- `Cupido/Admetos = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `432`
+- `Venus/Admetos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `187`
+- `Venus/Admetos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `293`
+- `Venus/Cupido = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `182`
+- `Venus/Cupido = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `283`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Admetos = Venus`: love without duration, denied partnership efforts, and cool or negative response from others.
+- `Venus/Admetos = Cupido`: contentment in a small family circle.
+- `Venus/Cupido = Admetos`: death of the wife in loneliness.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Cupido](../factors/cupido.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

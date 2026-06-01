@@ -3,7 +3,7 @@ title: Pluto Apollon Admetos
 page_type: triad_hub
 slug: pluto-apollon-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Apollon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Pluto Apollon Admetos`
 - Astronomicon triad-set: `Z ¥ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Apollon/Admetos = Pluto](../activations/apollon-admetos-equals-pluto.md)
-  Source page `306`
 - [Pluto/Admetos = Apollon](../activations/pluto-admetos-equals-apollon.md)
-  Source page `262`
 - [Pluto/Apollon = Admetos](../activations/pluto-apollon-equals-admetos.md)
-  Source page `261`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Apollon/Admetos = Pluto`: page `306`
-- `Pluto/Admetos = Apollon`: page `262`
-- `Pluto/Apollon = Admetos`: page `261`
+- `Apollon/Admetos = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `306`
+- `Apollon/Admetos = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `469`
+- `Pluto/Admetos = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `262`
+- `Pluto/Admetos = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `419`
+- `Pluto/Apollon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `261`
+- `Pluto/Apollon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `417`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Apollon/Admetos = Pluto`: a development that begins well and proceeds along a satisfying, favorable line once it is underway.
+- `Pluto/Admetos = Apollon`: This activation emphasizes the change that brings happiness, contentment and is satisfactory.
+- `Pluto/Apollon = Admetos`: This activation emphasizes stagnation of development in a small circle; To be satisfied about it; Radical change for a few.
 
 ## Links
 
 - [Pluto](../factors/pluto.md)
 - [Apollon](../factors/apollon.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Jupiter`
-- Source page: `65`
 #### Witte Entry
 
 Objects that trigger a feeling of happiness. Physical well-being. The day of happy feelings.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Jupiter/Medium Coeli`
-- Source page: `244`
-- Entry: `0855`
+#### ABC Entry
+
+Joy of a celebrated person, my successful husband, my corporal happiness, my personal right, my personal finances, my personal joy, my husband's money, his spiritual joy in the day, and a person's mental condition
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Healthy physique, striving happily for the attainment of a particular aim or obj
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Jupiter/Midheaven midpoint`
-- Source page: `86`
-- Activator: `Sun`
-
 #### Sandbach Entry
 
 The person places a lot of importance on either growing spiritually and following his dharma, or is intent on rising to a position of authority in the world. Of course, these may both be happening at the same time. One becomes noticed by those in power, or those who have authority. One who has big longrange goals.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Added confidence built within self as you cope and adjust to different circumstances; building moral principles within self as you mature; emphasizing the role of ethics or personal scruples as you develop in life.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/MC = Sun`: recognition, healthy confidence, pleasant circumstances, and a life path strengthened by optimism and meaningful objectives. Main caution: status inflation: the pursuit of importance can become too identified with being seen as fortunate, accomplished, or superior.
 
 ## Links
 
@@ -84,7 +76,8 @@ The person places a lot of importance on either growing spiritually and followin
 - [MC](../factors/mc.md)
 - [Sun](../factors/sun.md)
 - [Jupiter/MC](../axes/jupiter-mc.md)
-- [Sun Jupiter MC](../triads/sun-jupiter-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

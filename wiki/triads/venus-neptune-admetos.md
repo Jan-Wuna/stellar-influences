@@ -3,7 +3,7 @@ title: Venus Neptune Admetos
 page_type: triad_hub
 slug: venus-neptune-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Neptune
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Neptune Admetos`
 - Astronomicon triad-set: `Q Y ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Neptune/Admetos = Venus](../activations/neptune-admetos-equals-venus.md)
-  Source page `252`
 - [Venus/Admetos = Neptune](../activations/venus-admetos-equals-neptune.md)
-  Source page `187`
 - [Venus/Neptune = Admetos](../activations/venus-neptune-equals-admetos.md)
-  Source page `180`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Neptune/Admetos = Venus`: page `252`
-- `Venus/Admetos = Neptune`: page `187`
-- `Venus/Neptune = Admetos`: page `180`
+- `Neptune/Admetos = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `252`
+- `Neptune/Admetos = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `402`
+- `Venus/Admetos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `187`
+- `Venus/Admetos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `293`
+- `Venus/Neptune = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `180`
+- `Venus/Neptune = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `279`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Neptune/Admetos = Venus`: This activation socializes `Neptune/Admetos` through altered conditions specifically affecting women, affection, or relational life. It suggests the axis expressing through changes in comfort, care, or the lived circumstances of feminine experience.
+- `Venus/Admetos = Neptune`: dissolution of a deep love.
+- `Venus/Neptune = Admetos`: completely cold in matters of love.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Neptune](../factors/neptune.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Mercury Chiron MC`
 - Astronomicon triad-set: `T Chiron MC`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Mercury/Chiron = MC`: John, page `46`
 - `Mercury/MC = Chiron`: John, page `53`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/MC = Mercury`: teaching, counseling, or guiding words as part of life purpose. Main caution: losing sincerity or reducing healing authority to rhetoric.
+- `Mercury/Chiron = MC` makes the axis vocational and public in its healing purpose.
+- `Mercury/MC = Chiron` spiritualizes the axis so communication becomes a channel for higher alignment.
 
 ## Links
 

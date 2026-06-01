@@ -3,7 +3,7 @@ title: Moon/Vulcanus = Mercury
 page_type: activation
 slug: moon-vulcanus-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Mercury
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Vulcanus`
-- Source page: `136`
 #### Witte Entry
 
 The connections cause public interest. To be in contact with people of public interest. To be partner in public influence. To be connected with powerful people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The connections cause public interest. To be in contact with people of public interest. To be partner in public influence. To be connected with powerful people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influence of a young woman, thought power of a woman, speech about the power of women, violence against female youth, power of the media in the people, power fleeces of the youth, opinion influencing of the people, and news about violence in the people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Vulcanus = Mercury`: The connections cause public interest. To be in contact with people of public interest. To be partner in public influence. To be connected with powerful people.
+- Practical expression: influence of a young woman, thought power of a woman, speech about the power of women, violence against female youth, and power of the media in the people.
 
 ## Links
 
@@ -61,3 +56,5 @@ The connections cause public interest. To be in contact with people of public in
 - [Vulcanus](../factors/vulcanus.md)
 - [Mercury](../factors/mercury.md)
 - [Moon/Vulcanus](../axes/moon-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

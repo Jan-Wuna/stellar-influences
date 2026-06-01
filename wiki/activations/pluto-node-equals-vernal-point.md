@@ -3,10 +3,10 @@ title: Pluto/Node = Vernal Point
 page_type: activation
 slug: pluto-node-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Pluto
+  - Node
   - Vernal Point
 normalized_formula: Pluto/Node = Vernal Point
 axis: Pluto/Node
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Pluto
   - Node
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Pluto`
-- Source page: `148`
 #### Witte Entry
 
 General changes in connections. Changes of connections in the general public.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: General changes in connections. Changes of connections in the general public.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+development in public connections, developing contacts in public, changes in the connections of public life, growing connections in public life, and changeable bonds in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Node = Vernal Point`: general conditions change through new contacts, alliances or social links.
+- Practical expression: development in public connections, developing contacts in public, changes in the connections of public life, growing connections in public life, and changeable bonds in public.
 
 ## Links
 
@@ -61,3 +56,5 @@ General changes in connections. Changes of connections in the general public.
 - [Node](../factors/node.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Pluto/Node](../axes/pluto-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

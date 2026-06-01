@@ -3,7 +3,7 @@ title: Uranus/Neptune = Zeus
 page_type: activation
 slug: uranus-neptune-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Neptune
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Neptune`
-- Source page: `234`
 #### Witte Entry
 
 To die through fire or automobile. Gas explosion. A revolution which develops successfully.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To die through fire or automobile. Gas explosion. A revolution which develops successfully.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Fiery subtle impulses, creativeness in air technology, new objectives for the future, sudden fire through gas, technical performance in water, surprising performance weakness, refined technical performance, and shaping future technology
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Neptune = Zeus`: To die through fire or automobile. Gas explosion. A revolution which develops successfully.
+- Practical expression: fiery subtle impulses, creativeness in air technology, new objectives for the future, sudden fire through gas, and technical performance in water.
 
 ## Links
 
@@ -61,3 +56,5 @@ To die through fire or automobile. Gas explosion. A revolution which develops su
 - [Neptune](../factors/neptune.md)
 - [Zeus](../factors/zeus.md)
 - [Uranus/Neptune](../axes/uranus-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

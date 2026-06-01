@@ -3,7 +3,7 @@ title: Sun Venus Admetos
 page_type: triad_hub
 slug: sun-venus-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Venus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Venus Admetos`
 - Astronomicon triad-set: `S Q ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Sun/Admetos = Venus](../activations/sun-admetos-equals-venus.md)
-  Source page `116`
 - [Sun/Venus = Admetos](../activations/sun-venus-equals-admetos.md)
-  Source page `104`
 - [Venus/Admetos = Sun](../activations/venus-admetos-equals-sun.md)
-  Source page `187`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Sun/Admetos = Venus`: page `116`
-- `Sun/Venus = Admetos`: page `104`
-- `Venus/Admetos = Sun`: page `187`
+- `Sun/Admetos = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `116`
+- `Sun/Admetos = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `168`
+- `Sun/Venus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `104`
+- `Sun/Venus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `145`
+- `Venus/Admetos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `187`
+- `Venus/Admetos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `292`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Sun/Admetos = Venus`: This formula emphasizes the difficult release from pain and bodily crampings.
+- `Sun/Venus = Admetos`: This formula emphasizes difficult release from pain and constriction in affection or comfort.
+- `Venus/Admetos = Sun`: to remain in rest, able to wait.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Venus](../factors/venus.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

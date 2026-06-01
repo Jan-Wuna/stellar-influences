@@ -3,7 +3,7 @@ title: Sun Jupiter Hades
 page_type: triad_hub
 slug: sun-jupiter-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Jupiter
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Jupiter Hades`
 - Astronomicon triad-set: `S V ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/Hades = Sun](../activations/jupiter-hades-equals-sun.md)
-  Source page `212`
 - [Sun/Hades = Jupiter](../activations/sun-hades-equals-jupiter.md)
-  Source page `112`
 - [Sun/Jupiter = Hades](../activations/sun-jupiter-equals-hades.md)
-  Source page `106`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/Hades = Sun`: page `212`
-- `Sun/Hades = Jupiter`: page `112`
-- `Sun/Jupiter = Hades`: page `106`
+- `Jupiter/Hades = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `212`
+- `Jupiter/Hades = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `334`
+- `Sun/Hades = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `112`
+- `Sun/Hades = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `160`
+- `Sun/Jupiter = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `106`
+- `Sun/Jupiter = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `149`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Hades = Sun`: daily cares, a man burdened by worry, poverty or becoming poor, and in the source also a bodily note of lung trouble.
+- `Sun/Hades = Jupiter`: This formula emphasizes action of the lungs or of the liver and egotist.
+- `Sun/Jupiter = Hades`: This formula emphasizes good fortune despite adversity and success in difficult conditions.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Jupiter](../factors/jupiter.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

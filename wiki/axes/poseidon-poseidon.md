@@ -45,8 +45,6 @@ updated_at: 2026-04-21
 
 - Axis: `Poseidon/Poseidon`
 - Astronomicon axis: `¨/¨`
-- Source heading: `Poseidon + Poseidon`
-- Source page: `316`
 
 ## Source Entries
 
@@ -55,15 +53,6 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 Mental power. Spirit. Idea. Cognition. Understanding. Education. Deep thinking. Culture. Worldview. Water masses. Floods.
-
-## Comparative Schema
-
-- core meaning: Mental power. Spirit. Idea. Cognition. Understanding. Education. Deep thinking. Culture. Worldview. Water masses. Floods.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
@@ -89,13 +78,11 @@ Mental power. Spirit. Idea. Cognition. Understanding. Education. Deep thinking. 
 - [Poseidon/Poseidon = Admetos](../activations/poseidon-poseidon-equals-admetos.md)
 - [Poseidon/Poseidon = Vulcanus](../activations/poseidon-poseidon-equals-vulcanus.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- This axis concentrates Poseidon into pure mentation: ideas, understanding, education, and worldview become the dominant field, with spiritual or cultural cognition emphasized more than relational or bodily themes.
+- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
 
 ## Links
 

@@ -3,7 +3,7 @@ title: Jupiter MC Vulcanus
 page_type: triad_hub
 slug: jupiter-mc-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter MC Vulcanus`
 - Astronomicon triad-set: `V MC §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/MC = Vulcanus](../activations/jupiter-mc-equals-vulcanus.md)
-  Source page `65`
 - [Jupiter/Vulcanus = MC](../activations/jupiter-vulcanus-equals-mc.md)
-  Source page `217`
 - [MC/Vulcanus = Jupiter](../activations/mc-vulcanus-equals-jupiter.md)
-  Source page `76`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/MC = Vulcanus`: page `65`
-- `Jupiter/Vulcanus = MC`: page `217`
-- `MC/Vulcanus = Jupiter`: page `76`
+- `Jupiter/MC = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `65`
+- `Jupiter/MC = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `75`
+- `Jupiter/Vulcanus = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `217`
+- `Jupiter/Vulcanus = MC`: Udo Rudolph - ABC for Planetary Pictures, page `344`
+- `MC/Vulcanus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `76`
+- `MC/Vulcanus = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `96`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/MC = Vulcanus`: great optimism.
+- `Jupiter/Vulcanus = MC`: an optimistic life direction, trusted reputation, and success that supports one's status or calling.
+- `MC/Vulcanus = Jupiter`: blesses the axis with success and optimism through personal power.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [MC](../factors/mc.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

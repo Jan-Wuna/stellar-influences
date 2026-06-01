@@ -3,7 +3,7 @@ title: Mercury Kronos Admetos
 page_type: triad_hub
 slug: mercury-kronos-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Kronos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Kronos Admetos`
 - Astronomicon triad-set: `T ¤ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Kronos/Admetos = Mercury](../activations/kronos-admetos-equals-mercury.md)
-  Source page `300`
 - [Mercury/Admetos = Kronos](../activations/mercury-admetos-equals-kronos.md)
-  Source page `171`
 - [Mercury/Kronos = Admetos](../activations/mercury-kronos-equals-admetos.md)
-  Source page `169`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Kronos/Admetos = Mercury`: page `300`
-- `Mercury/Admetos = Kronos`: page `171`
-- `Mercury/Kronos = Admetos`: page `169`
+- `Kronos/Admetos = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `300`
+- `Kronos/Admetos = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `462`
+- `Mercury/Admetos = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `171`
+- `Mercury/Admetos = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `265`
+- `Mercury/Kronos = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `169`
+- `Mercury/Kronos = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `261`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Kronos/Admetos = Mercury`: original, odd, or striking thought, a mind occupied with uncommon ideas, and thinking that develops away from the normal track.
+- `Mercury/Admetos = Kronos`: strengthens the axis into high-level concentration and long preparation.
+- `Mercury/Kronos = Admetos`: grounds the axis in deep theory and ideas grasped by only a few.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Kronos](../factors/kronos.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

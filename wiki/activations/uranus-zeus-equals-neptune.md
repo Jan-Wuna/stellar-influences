@@ -3,7 +3,7 @@ title: Uranus/Zeus = Neptune
 page_type: activation
 slug: uranus-zeus-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Neptune
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Zeus`
-- Source page: `238`
 #### Witte Entry
 
 Thunderstorms. Unprotected exposure to the uproar of the elements. Sudden storms at sea.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Thunderstorms. Unprotected exposure to the uproar of the elements. Sudden storms at sea.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Efforts in water technology, intuitive technical design, sudden replacement by the movement, creative impulses by metaphysics, stresses by fire water (alcohol), technical performance in the air, unsafe new beginning of a new development, beginning of a restless change, and dynamic performance
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Zeus = Neptune`: Thunderstorms. Unprotected exposure to the uproar of the elements. Sudden storms at sea.
+- Practical expression: efforts in water technology, intuitive technical design, sudden replacement by the movement, creative impulses by metaphysics, and stresses by fire water (alcohol).
 
 ## Links
 
@@ -61,3 +56,5 @@ Thunderstorms. Unprotected exposure to the uproar of the elements. Sudden storms
 - [Zeus](../factors/zeus.md)
 - [Neptune](../factors/neptune.md)
 - [Uranus/Zeus](../axes/uranus-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

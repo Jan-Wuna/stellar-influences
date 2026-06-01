@@ -3,7 +3,7 @@ title: Neptune/Cupido = Kronos
 page_type: activation
 slug: neptune-cupido-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Cupido
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Cupido`
-- Source page: `247`
 #### Witte Entry
 
 Marriage or family separated by authorities. Associations dissolved by the state. Leadership discord causes dissolution of associations.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Marriage or family separated by authorities. Associations dissolved by the state. Leadership discord causes dissolution of associations.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dissolution of a state community, special skills in the water, common future, self sufficiency in the air, common community in the water, insecure state community, and refined self confidence in of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Cupido = Kronos`: Marriage or family separated by authorities. Associations dissolved by the state. Leadership discord causes dissolution of associations.
+- Practical focus: elevates dissolution into the sphere of law and authority, showing families or associations broken apart by official intervention, state power, or leadership conflict.
+- Practical expression: dissolution of a state community, special skills in the water, common future, self-sufficiency in the air, and common community in the water.
 
 ## Links
 
@@ -61,3 +57,5 @@ Marriage or family separated by authorities. Associations dissolved by the state
 - [Cupido](../factors/cupido.md)
 - [Kronos](../factors/kronos.md)
 - [Neptune/Cupido](../axes/neptune-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Vernal Point Uranus MC
 page_type: triad_hub
 slug: vernal-point-uranus-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Uranus
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Uranus MC`
 - Astronomicon triad-set: `VP X MC`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Uranus/MC = Vernal Point](../activations/uranus-mc-equals-vernal-point.md)
-  Source page `67`
 - [Vernal Point/MC = Uranus](../activations/vernal-point-mc-equals-uranus.md)
-  Source page `35`
 - [Vernal Point/Uranus = MC](../activations/vernal-point-uranus-equals-mc.md)
-  Source page `45`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Uranus/MC = Vernal Point`: page `67`
-- `Vernal Point/MC = Uranus`: page `35`
-- `Vernal Point/Uranus = MC`: page `45`
+- `Uranus/MC = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `67`
+- `Uranus/MC = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `78`
+- `Vernal Point/MC = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `35`
+- `Vernal Point/MC = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `19`
+- `Vernal Point/Uranus = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `45`
+- `Vernal Point/Uranus = MC`: Udo Rudolph - ABC for Planetary Pictures, page `38`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Vernal Point/MC = Uranus`: This formula emphasizes to experience something with others, to show oneself eccentric, to be a revolutionary, excitement in public, and to be an environmental engineer.
+- `Vernal Point/Uranus = MC`: This formula emphasizes to experience something suddenly and to be surprised.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Uranus](../factors/uranus.md)
 - [MC](../factors/mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

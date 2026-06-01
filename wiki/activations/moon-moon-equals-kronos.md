@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Moon + Moon`
-- Source page: `120`
 #### Witte Entry
 
 Greatness of mind. Noble minded. Independent minded. Landlady. Housewife. Independent woman. A leading or great nation. Relations to authorities. Female administrator. Office Hours. Rank, grade. Authority hours. Connection of female persons with the authorities. Female government employees. Female wardens, officials, authorities or high personage. The leading or great people.
 
-## Comparative Schema
-
-- core meaning: Greatness of mind. Noble minded. Independent minded. Landlady. Housewife. Independent woman. A leading or great nation. Relations to authorities. Female administrator. Office Hours. Rank, grade. Authority hours. Connection of female persons with the authorities. Female government employees. Female wardens, officials, authorities or high personage. The leading or great people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Moon = Kronos`: Greatness of mind. Noble minded. Independent minded.
+- Practical focus: elevates `Moon/Moon` through dignity, rank, and female authority. It suggests noble feeling, independent women, administrative roles, and a people or household linked to office and governance, so lunar life becomes more self-possessed, stately, and socially authoritative.
 
 ## Links
 

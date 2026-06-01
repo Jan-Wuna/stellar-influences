@@ -3,7 +3,7 @@ title: Sun/Mercury = Hades
 page_type: activation
 slug: sun-mercury-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Mercury
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Mercury
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Mercury`
-- Source page: `103`
 #### Witte Entry
 
 Sickness in youth. Children’s diseases. Dirty thoughts and actions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sickness in youth. Children’s diseases. Dirty thoughts and actions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Service to young people, dangerous personal youth, dangerous thoughts of a person, secret body language, criminal young people, lack of personal traffic, poor language of a man, and lack of personal language
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Mercury = Hades`: unpleasant or burdened thoughts and difficult communication.
+- Practical expression: service to young people, dangerous personal youth, dangerous thoughts of a person, secret body language, and criminal young people.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sickness in youth. Children’s diseases. Dirty thoughts and actions.
 - [Mercury](../factors/mercury.md)
 - [Hades](../factors/hades.md)
 - [Sun/Mercury](../axes/sun-mercury.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Mars Pluto Vulcanus
 page_type: triad_hub
 slug: mars-pluto-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Pluto Vulcanus`
 - Astronomicon triad-set: `U Z §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Pluto = Vulcanus](../activations/mars-pluto-equals-vulcanus.md)
-  Source page `196`
 - [Mars/Vulcanus = Pluto](../activations/mars-vulcanus-equals-pluto.md)
-  Source page `203`
 - [Pluto/Vulcanus = Mars](../activations/pluto-vulcanus-equals-mars.md)
-  Source page `263`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Pluto = Vulcanus`: page `196`
-- `Mars/Vulcanus = Pluto`: page `203`
-- `Pluto/Vulcanus = Mars`: page `263`
+- `Mars/Pluto = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `196`
+- `Mars/Pluto = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `307`
+- `Mars/Vulcanus = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `203`
+- `Mars/Vulcanus = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `321`
+- `Pluto/Vulcanus = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `263`
+- `Pluto/Vulcanus = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `420`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Pluto = Vulcanus`: magnifies planning into large-scale, long-range, force-demanding change.
+- `Mars/Vulcanus = Pluto`: uses great force for development, transformation, and large strategic changes.
+- `Pluto/Vulcanus = Mars`: This activation emphasizes a great change in activity.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Pluto](../factors/pluto.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

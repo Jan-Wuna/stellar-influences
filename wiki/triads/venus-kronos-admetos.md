@@ -3,7 +3,7 @@ title: Venus Kronos Admetos
 page_type: triad_hub
 slug: venus-kronos-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Kronos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Kronos Admetos`
 - Astronomicon triad-set: `Q ¤ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Kronos/Admetos = Venus](../activations/kronos-admetos-equals-venus.md)
-  Source page `300`
 - [Venus/Admetos = Kronos](../activations/venus-admetos-equals-kronos.md)
-  Source page `187`
 - [Venus/Kronos = Admetos](../activations/venus-kronos-equals-admetos.md)
-  Source page `185`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Kronos/Admetos = Venus`: page `300`
-- `Venus/Admetos = Kronos`: page `187`
-- `Venus/Kronos = Admetos`: page `185`
+- `Kronos/Admetos = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `300`
+- `Kronos/Admetos = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `462`
+- `Venus/Admetos = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `187`
+- `Venus/Admetos = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `293`
+- `Venus/Kronos = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `185`
+- `Venus/Kronos = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `289`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Kronos/Admetos = Venus`: contentment with a secluded life or quiet satisfaction in an exclusive position apart from others.
+- `Venus/Admetos = Kronos`: great concentration.
+- `Venus/Kronos = Admetos`: special treatments or exceptional favors are refused, are not granted or accepted.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Kronos](../factors/kronos.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,10 +3,10 @@ title: Node/Asc = Cupido
 page_type: activation
 slug: node-asc-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Node
+  - Asc
   - Cupido
 normalized_formula: Node/Asc = Cupido
 axis: Node/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - Asc
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Node`
-- Source page: `82`
 #### Witte Entry
 
 Connections with artists, with people who are in the same house, with the family, with clubs, unions etc.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Connections with artists, with people who are in the same house, with the family, with clubs, unions etc.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Community relations and Community relations with the environment
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Asc = Cupido`: Connections with artists, with people who are in the same house, with the family, with clubs, unions etc.
+- Practical focus: connections with artists, with people who are in the same house, with the family, with clubs, unions etc.
 
 ## Links
 
@@ -61,3 +56,5 @@ Connections with artists, with people who are in the same house, with the family
 - [Asc](../factors/asc.md)
 - [Cupido](../factors/cupido.md)
 - [Node/Asc](../axes/node-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

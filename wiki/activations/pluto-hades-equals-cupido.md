@@ -3,7 +3,7 @@ title: Pluto/Hades = Cupido
 page_type: activation
 slug: pluto-hades-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Cupido
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Hades`
-- Source page: `258`
 #### Witte Entry
 
 Incapable of marriage. Marriages and partnerships of short duration. Marriage prevented through poverty and shortage. Decrease of members in clubs.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Incapable of marriage. Marriages and partnerships of short duration. Marriage prevented through poverty and shortage. Decrease of members in clubs.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Developments from a common past, common dangerous development, common change in old age, secret change in of a community, poor common development, and adverse change in of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Hades = Cupido`: incapable of marriage; Marriages and partnerships of short duration; Marriage prevented through poverty and shortage; Decrease of members in clubs.
+- Practical expression: developments from a common past, common dangerous development, common change in old age, secret change in a community, and poor common development.
 
 ## Links
 
@@ -61,3 +56,5 @@ Incapable of marriage. Marriages and partnerships of short duration. Marriage pr
 - [Hades](../factors/hades.md)
 - [Cupido](../factors/cupido.md)
 - [Pluto/Hades](../axes/pluto-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

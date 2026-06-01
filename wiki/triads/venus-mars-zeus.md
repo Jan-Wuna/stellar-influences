@@ -3,7 +3,7 @@ title: Venus Mars Zeus
 page_type: triad_hub
 slug: venus-mars-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Mars
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Mars Zeus`
 - Astronomicon triad-set: `Q U £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Zeus = Venus](../activations/mars-zeus-equals-venus.md)
-  Source page `199`
 - [Venus/Mars = Zeus](../activations/venus-mars-equals-zeus.md)
-  Source page `176`
 - [Venus/Zeus = Mars](../activations/venus-zeus-equals-mars.md)
-  Source page `184`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Zeus = Venus`: page `199`
-- `Venus/Mars = Zeus`: page `176`
-- `Venus/Zeus = Mars`: page `184`
+- `Mars/Zeus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `199`
+- `Mars/Zeus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `312`
+- `Venus/Mars = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `176`
+- `Venus/Mars = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `271`
+- `Venus/Zeus = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `184`
+- `Venus/Zeus = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `286`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Zeus = Venus`: softens the axis through intimacy, care, and sensuality while keeping a martial or technical undertone.
+- `Venus/Mars = Zeus`: procreative coition in marital life.
+- `Venus/Zeus = Mars`: close harmonious cooperation.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Mars](../factors/mars.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Vernal Point Pluto Poseidon
 page_type: triad_hub
 slug: vernal-point-pluto-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Pluto Poseidon`
 - Astronomicon triad-set: `VP Z ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Pluto/Poseidon = Vernal Point](../activations/pluto-poseidon-equals-vernal-point.md)
-  Source page `264`
 - [Vernal Point/Pluto = Poseidon](../activations/vernal-point-pluto-equals-poseidon.md)
-  Source page `47`
 - [Vernal Point/Poseidon = Pluto](../activations/vernal-point-poseidon-equals-pluto.md)
-  Source page `55`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Pluto/Poseidon = Vernal Point`: page `264`
-- `Vernal Point/Pluto = Poseidon`: page `47`
-- `Vernal Point/Poseidon = Pluto`: page `55`
+- `Pluto/Poseidon = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `264`
+- `Pluto/Poseidon = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `422`
+- `Vernal Point/Pluto = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `47`
+- `Vernal Point/Pluto = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `43`
+- `Vernal Point/Poseidon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `55`
+- `Vernal Point/Poseidon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `59`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Pluto/Poseidon = Vernal Point`: This activation emphasizes general transformations of world concept.
+- `Vernal Point/Pluto = Poseidon`: This formula emphasizes developing new ideas and general mental transformations or developments.
+- `Vernal Point/Poseidon = Pluto`: This formula emphasizes the general mental or spiritual development and transformation in the world.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Pluto](../factors/pluto.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

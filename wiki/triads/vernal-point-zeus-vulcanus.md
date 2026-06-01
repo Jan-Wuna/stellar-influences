@@ -3,7 +3,7 @@ title: Vernal Point Zeus Vulcanus
 page_type: triad_hub
 slug: vernal-point-zeus-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Zeus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Zeus Vulcanus`
 - Astronomicon triad-set: `VP £ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Vernal Point/Vulcanus = Zeus](../activations/vernal-point-vulcanus-equals-zeus.md)
-  Source page `54`
 - [Vernal Point/Zeus = Vulcanus](../activations/vernal-point-zeus-equals-vulcanus.md)
-  Source page `50`
 - [Zeus/Vulcanus = Vernal Point](../activations/zeus-vulcanus-equals-vernal-point.md)
-  Source page `295`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Vernal Point/Vulcanus = Zeus`: page `54`
-- `Vernal Point/Zeus = Vulcanus`: page `50`
-- `Zeus/Vulcanus = Vernal Point`: page `295`
+- `Vernal Point/Vulcanus = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `54`
+- `Vernal Point/Vulcanus = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `57`
+- `Vernal Point/Zeus = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `50`
+- `Vernal Point/Zeus = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `49`
+- `Zeus/Vulcanus = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `295`
+- `Zeus/Vulcanus = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `456`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Vernal Point/Vulcanus = Zeus`: This formula emphasizes immense creations, directed forces, and tremendous fire.
+- `Vernal Point/Zeus = Vulcanus`: This formula emphasizes great natural forces or machine forces and to utilize natural forces.
+- `Zeus/Vulcanus = Vernal Point`: Great urge to create or accomplish something, in general.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Zeus](../factors/zeus.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

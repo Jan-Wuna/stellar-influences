@@ -3,7 +3,7 @@ title: Moon/Pluto = Admetos
 page_type: activation
 slug: moon-pluto-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Pluto
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Pluto`
-- Source page: `129`
 #### Witte Entry
 
 Aversion to continuous changes. Stabilization of general conditions. Slow transition to stability.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Aversion to continuous changes. Stabilization of general conditions. Slow transition to stability.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked development of a woman, narrowed development of a woman, restrictive change of women, grim development of a woman, cycle development of women, hour of depression change, and deep Gemtits changes
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Pluto = Admetos`: Aversion to continuous changes. Stabilization of general conditions. Slow transition to stability.
+- Practical focus: constricts `Moon/Pluto` into slowed transition, resistance to upheaval, and the gradual hardening of changing conditions into something fixed. It favors stabilization after flux, but often through emotional reluctance, fatigue, or a wish to stop further mutation.
+- Practical expression: blocked development of a woman, narrowed development of a woman, restrictive change of women, grim development of a woman, and cycle development of women.
 
 ## Links
 
@@ -61,3 +57,5 @@ Aversion to continuous changes. Stabilization of general conditions. Slow transi
 - [Pluto](../factors/pluto.md)
 - [Admetos](../factors/admetos.md)
 - [Moon/Pluto](../axes/moon-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

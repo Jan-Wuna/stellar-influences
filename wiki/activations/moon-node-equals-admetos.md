@@ -3,7 +3,7 @@ title: Moon/Node = Admetos
 page_type: activation
 slug: moon-node-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Node
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Node
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Node`
-- Source page: `121`
 #### Witte Entry
 
 Suppression or the end of women’s associations. The end of a people’s community.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Suppression or the end of women’s associations. The end of a people’s community.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+blockade in emotional relationships, depressions of a woman in a connection, restriction of the connection to the mother, restricted connection to women, firmly connected with the woman, thorough connection to the mother, and deepening of contacts with the woman
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Node = Admetos`: Suppression or the end of women’s associations. The end of a people’s community.
+- Practical focus: constricts `Moon/Node` into suppressed association, shrinking community, and emotional belonging cut off or brought to an end. It points to bonds among women or the public being narrowed, stalled, or dissolved under pressure.
+- Practical expression: blockade in emotional relationships, depressions of a woman in a connection, restriction of the connection to the mother, restricted connection to women, and firmly connected with the woman.
 
 ## Links
 
@@ -61,3 +57,5 @@ Suppression or the end of women’s associations. The end of a people’s commun
 - [Node](../factors/node.md)
 - [Admetos](../factors/admetos.md)
 - [Moon/Node](../axes/moon-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

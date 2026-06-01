@@ -3,7 +3,7 @@ title: Asc/Hades = Uranus
 page_type: activation
 slug: asc-hades-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Asc
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Hades`
-- Source page: `92`
 #### Witte Entry
 
 Sudden hatefulness or disagreeableness. Danger of assassination. To lose ones life suddenly, also others loose their life suddenly.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sudden hatefulness or disagreeableness. Danger of assassination. To lose ones life suddenly, also others loose their life suddenly.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+excitements because of a polluted environment, unsettling environmental pollution, dangerous technical place, dangerous environmental nervousness, new environmental dangers, sudden disadvantage to others, reform against environmental criminality, and tension at the traditional place
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Hades = Uranus`: sharp disruption, sudden hostility, and extreme events erupting out of already degraded conditions. Main caution: catastrophic breakage: the near field can turn from merely unpleasant to suddenly destructive with little warning.
 
 ## Links
 
@@ -61,3 +55,5 @@ Sudden hatefulness or disagreeableness. Danger of assassination. To lose ones li
 - [Hades](../factors/hades.md)
 - [Uranus](../factors/uranus.md)
 - [Asc/Hades](../axes/asc-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Venus/Kronos = Sun
 page_type: activation
 slug: venus-kronos-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Venus
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Kronos`
-- Source page: `185`
 #### Witte Entry
 
 Readiness for charitable activities. To receive the Nobel Peace Prize. To receive benevolence from the state or from superiors.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Readiness for charitable activities. To receive the Nobel Peace Prize. To receive benevolence from the state or from superiors.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Especially nice day, the man as authoritat in love, dominance of corporal love, personal harmony with the Hierarchic, state peace center, preference for people of the state, and important person for peace
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Kronos = Sun`: readiness for charitable activities.
+- Practical expression: especially nice day, dominance of corporal love, personal harmony with the Hierarchic, and state peace center.
 
 ## Links
 
@@ -61,3 +56,5 @@ Readiness for charitable activities. To receive the Nobel Peace Prize. To receiv
 - [Kronos](../factors/kronos.md)
 - [Sun](../factors/sun.md)
 - [Venus/Kronos](../axes/venus-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

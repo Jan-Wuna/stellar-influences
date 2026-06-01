@@ -3,7 +3,7 @@ title: Cupido/Vulcanus = Hades
 page_type: activation
 slug: cupido-vulcanus-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Cupido
   - Hades
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Vulcanus`
-- Source page: `273`
 #### Witte Entry
 
 Great misfortune or tragedy in a family. Evil deeds of a mighty association. Great want in artistic accomplishment.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great misfortune or tragedy in a family. Evil deeds of a mighty association. Great want in artistic accomplishment.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Energy shortage of a community. dangerous influence of a community, common power shortage, criminal violence community, artificial influence from the past, strong from a common past, and hidden violence in of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Vulcanus = Hades`: concentrated communal power becoming destructive, tragic, or morally degraded. Main caution: force being used to deepen harm rather than to build anything worthy.
 
 ## Links
 
@@ -61,3 +55,5 @@ Great misfortune or tragedy in a family. Evil deeds of a mighty association. Gre
 - [Vulcanus](../factors/vulcanus.md)
 - [Hades](../factors/hades.md)
 - [Cupido/Vulcanus](../axes/cupido-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

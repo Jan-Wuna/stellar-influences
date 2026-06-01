@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Venus Mars Chiron`
 - Astronomicon triad-set: `Q U Chiron`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Venus/Chiron = Mars`: John, page `58`
 - `Venus/Mars = Chiron`: John, page `55`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Chiron = Venus`: relational repair, conflict used in service of love and growth, and sensitivity to how friction can refine connection. The caution is romanticizing conflict or assuming every wound is automatically advancing the relationship.
+- `Venus/Chiron = Mars`: helping others to work together and to directly confront contacts while yet deeply realizing that different desires and outlooks are all of worth, and that conflict, if seen in its clearest aspect, is always...
+- `Venus/Mars = Chiron`: to have a deep intuition concerning what is not working, in terms of people getting their spiritual needs met, and also to know what will work.
 
 ## Links
 

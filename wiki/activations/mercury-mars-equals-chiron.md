@@ -33,30 +33,15 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mercury/Mars midpoint`
-- Source page: `42`
-- Activator: `Chiron`
-
 #### Sandbach Entry
 
 To be guided spiritually when arguing, and because of this to use the conflict of ideas as a healing device. To say pointed things of a healing nature which carry a po tent impact, often without knowing one is doing so.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Mars = Chiron` heals the axis through argument, sharp truth, and spiritually guided conflict.
+- Chart expression: conflict of ideas used as a healing device, pointed speech with curative impact, and argumentative energy that unexpectedly helps others reconnect with what is whole or true.
 
 ## Links
 

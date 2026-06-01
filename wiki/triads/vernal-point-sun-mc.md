@@ -3,7 +3,7 @@ title: Vernal Point Sun MC
 page_type: triad_hub
 slug: vernal-point-sun-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Sun
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Sun MC`
 - Astronomicon triad-set: `VP S MC`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Sun/MC = Vernal Point](../activations/sun-mc-equals-vernal-point.md)
-  Source page `59`
 - [Vernal Point/MC = Sun](../activations/vernal-point-mc-equals-sun.md)
-  Source page `35`
 - [Vernal Point/Sun = MC](../activations/vernal-point-sun-equals-mc.md)
-  Source page `37`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Sun/MC = Vernal Point`: page `59`
-- `Vernal Point/MC = Sun`: page `35`
-- `Vernal Point/Sun = MC`: page `37`
+- `Sun/MC = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `59`
+- `Sun/MC = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `62`
+- `Vernal Point/MC = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `35`
+- `Vernal Point/MC = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `18`
+- `Vernal Point/Sun = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `37`
+- `Vernal Point/Sun = MC`: Udo Rudolph - ABC for Planetary Pictures, page `22`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Sun/MC = Vernal Point`: This formula emphasizes the person standing out in the immediate environment and circumstance defining direction.
+- `Vernal Point/MC = Sun`: This formula emphasizes the body in public and the behavior.
+- `Vernal Point/Sun = MC`: This formula emphasizes bodily contact with the general public, or in the moment and personal connection with things and matters: of the daily life or at a moment.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Sun](../factors/sun.md)
 - [MC](../factors/mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

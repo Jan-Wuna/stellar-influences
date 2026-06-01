@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Moon Chiron Node`
 - Astronomicon triad-set: `R Chiron g`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Moon/Chiron = Node`: John, page `32`
 - `Moon/Node = Chiron`: John, page `37`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Node = Moon`: relational healing through feeling, memory, and instinctive guidance. Main caution: becoming emotionally bound to the past instead of using feeling to release it.
+- `Moon/Chiron = Node`: When connecting with others one naturally helps them to get in touch with their feelings and to allow them to flow in a cleansing, healing manner.
+- `Moon/Node = Chiron`: Your energy helps others to be aware of the emotional aspects of their connec tion with others, as well as what they need for their own personal emotional growth. You trigger others to work through their feelings, and often do this with no conscious effort to do so.
 
 ## Links
 

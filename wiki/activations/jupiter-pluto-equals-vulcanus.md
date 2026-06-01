@@ -3,7 +3,7 @@ title: Jupiter/Pluto = Vulcanus
 page_type: activation
 slug: jupiter-pluto-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Pluto
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Pluto`
-- Source page: `210`
 #### Witte Entry
 
 Fortunate changes and transformations starting with great force.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Fortunate changes and transformations starting with great force.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influenced money transactions, successful energy development, successful power development, powerful money development, power change through money, changes through right power, beneficial power change, and growing money influence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Pluto = Vulcanus`: reform that does not arrive gently. It favors powerful breakthroughs, decisive renewal, and positive change driven by concentrated force.
 
 ## Links
 
@@ -61,3 +55,5 @@ Fortunate changes and transformations starting with great force.
 - [Pluto](../factors/pluto.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Jupiter/Pluto](../axes/jupiter-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

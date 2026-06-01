@@ -3,7 +3,7 @@ title: Neptune/Admetos = Vulcanus
 page_type: activation
 slug: neptune-admetos-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Admetos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Admetos`
-- Source page: `252`
 #### Witte Entry
 
 Mighty changes of the present forms of living and conditions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mighty changes of the present forms of living and conditions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dissolving of a power blockade, depression through power weakness, curtailment of water force, subtle energy compaction, enormous water depth, violent blokkade resolution, stashed water energy, and grtind power restriction
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Admetos = Vulcanus`: Mighty changes of the present forms of living and conditions.
+- Practical focus: intensifies `Neptune/Admetos` into powerful alteration of existing conditions. It gives force and momentum to a normally slow or deprived axis, making changes in form, livelihood, or material reality larger and harder to resist.
+- Practical expression: dissolving of a power blockade, depression through power weakness, curtailment of water force, subtle energy compaction, and enormous water depth.
 
 ## Links
 
@@ -61,3 +57,5 @@ Mighty changes of the present forms of living and conditions.
 - [Admetos](../factors/admetos.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Neptune/Admetos](../axes/neptune-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

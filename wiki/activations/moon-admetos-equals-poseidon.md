@@ -3,7 +3,7 @@ title: Moon/Admetos = Poseidon
 page_type: activation
 slug: moon-admetos-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Admetos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Admetos`
-- Source page: `135`
 #### Witte Entry
 
 Restriction of mental and spiritual freedom. Mentally enslaved. Spiritual endeavors under exclusion of the public or with only a few people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Restriction of mental and spiritual freedom. Mentally enslaved. Spiritual endeavors under exclusion of the public or with only a few people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Spiritual deepening of a woman, people blocked by ideas, fundamental enlightenment of a woman, clarity through depth, hour of spiritual deepening, deep insight of a woman, subjugated culture of a people, and dignity of a grinned woman
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Admetos = Poseidon`: Restriction of mental and spiritual freedom. Mentally enslaved. Spiritual endeavors under exclusion of the public or with only a few people.
+- Practical expression: spiritual deepening of a woman, people blocked by ideas, fundamental enlightenment of a woman, clarity through depth, and hour of spiritual deepening.
 
 ## Links
 
@@ -61,3 +56,5 @@ Restriction of mental and spiritual freedom. Mentally enslaved. Spiritual endeav
 - [Admetos](../factors/admetos.md)
 - [Poseidon](../factors/poseidon.md)
 - [Moon/Admetos](../axes/moon-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

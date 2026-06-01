@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Saturn Node`
 - Astronomicon triad-set: `U W g`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,19 +40,27 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Mars/Node = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `143`
+- `Mars/Node = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `213`
 - `Mars/Node = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `217`
 - `Mars/Node = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `74`
+- `Mars/Node = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `244`
 - `Mars/Saturn = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `193`
+- `Mars/Saturn = Node`: Udo Rudolph - ABC for Planetary Pictures, page `300`
 - `Mars/Saturn = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `206`
 - `Mars/Saturn = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `68`
+- `Mars/Saturn = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `228`
 - `Saturn/Node = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `145`
+- `Saturn/Node = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `216`
 - `Saturn/Node = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `257`
 - `Saturn/Node = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `92`
+- `Saturn/Node = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `296`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Node = Saturn`: difficulty asserting oneself within groups or partnerships, with associations becoming burdened, cooled, or slowly weakened by fear, reserve, or practical strain.
+- `Mars/Saturn = Node`: connection under strain, where people come together around sickness, fear, frustration, duty, or the need to focus effort carefully.
+- `Saturn/Node = Mars`: strained teamwork, with bonds tested through work, struggle, frustration, or the need to act together under stress.
 
 ## Links
 
@@ -59,5 +68,7 @@ updated_at: 2026-04-22
 - [Saturn](../factors/saturn.md)
 - [Node](../factors/node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

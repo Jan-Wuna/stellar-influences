@@ -3,7 +3,7 @@ title: Sun/Vulcanus = Neptune
 page_type: activation
 slug: sun-vulcanus-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Neptune
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Vulcanus`
-- Source page: `117`
 #### Witte Entry
 
 To be mistaken about the size of physical strength. To lose physical strength.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be mistaken about the size of physical strength. To lose physical strength.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exchange by influential persons, subtle body influence, human energy of the future, personal power weakness, weakness of body power, unknown energy center, refinement of body energy, water administration on the day development of an energy center, corporal force develop, and personal violence cnt-
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Vulcanus = Neptune`: a sensual man or person and suffering of the body.
+- Practical expression: exchange by influential persons, subtle body influence, human energy of the future, personal power weakness, and weakness of body power.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be mistaken about the size of physical strength. To lose physical strength.
 - [Vulcanus](../factors/vulcanus.md)
 - [Neptune](../factors/neptune.md)
 - [Sun/Vulcanus](../axes/sun-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

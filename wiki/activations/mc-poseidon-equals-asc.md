@@ -3,7 +3,7 @@ title: MC/Poseidon = Asc
 page_type: activation
 slug: mc-poseidon-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Asc
   - MC
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Poseidon`
-- Source page: `77`
 #### Witte Entry
 
 To fuse ones ideas with those of others. The own way of thinking and mental attitude gives fulfilment to others. Others that influence my intuitive attitude.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To fuse ones ideas with those of others. The own way of thinking and mental attitude gives fulfilment to others. Others that influence my intuitive attitude.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Bcsceltc culture, transparent partner soul, Gcscelt soul of the partner, my spiritual partner, my culture place, my experiences about the partner, my idea for the environment, my changed environment, and sclisch clearness of the partner
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Poseidon = Asc` brings the axis into relation through shared ideas and mental influence.
+- Chart expression: merging viewpoints with others, fulfilling people through one's ideas, and having an intuitive or intellectual attitude shaped in active contact with the environment.
 
 ## Links
 
@@ -61,3 +56,5 @@ To fuse ones ideas with those of others. The own way of thinking and mental atti
 - [Poseidon](../factors/poseidon.md)
 - [Asc](../factors/asc.md)
 - [MC/Poseidon](../axes/mc-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

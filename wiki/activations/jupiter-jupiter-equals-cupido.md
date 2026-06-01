@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Jupiter + Jupiter`
-- Source page: `205`
 #### Witte Entry
 
 Lucky mood. Easily acquired money. Shortage of money. Money losses. Easily made money. Imagined happiness. Uncertain possession. Speculations. Financial transactions. The future life. Fortunate development, change or transformation. Healthy growth. Currency Exchange. Changes in financial matters. Large fluctuations, Successful turnaround. Changes or transformation in the judicial system. Family happiness. Fortunate or successful partnership. Happy and successful community. Sociability. Art with success. Happy marriage. Happiness in married life. Good luck in associations and in the arts. Money through members of the family. Money through marriage. Money or gains through arts. Associations for justice or money matters. Large non-governmental organization (NGO). Financial services companies. Successful companies.
 
-## Comparative Schema
-
-- core meaning: Lucky mood. Easily acquired money. Shortage of money. Money losses. Easily made money. Imagined happiness. Uncertain possession. Speculations. Financial transactions. The future life. Fortunate development, change or transformation. Healthy growth. Currency Exchange. Changes in financial matters. Large fluctuations, Successful turnaround. Changes or transformation in the judicial system. Family happiness. Fortunate or successful partnership. Happy and successful community. Sociability. Art with success. Happy marriage. Happiness in married life. Good luck in associations and in the arts. Money through members of the family. Money through marriage. Money or gains through arts. Associations for justice or money matters. Large non-governmental organization (NGO). Financial services companies. Successful companies.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Jupiter = Cupido`: prosperity expressing through shared life rather than solitude. It can show happy marriage, flourishing community, and successful companies, but also reminds that easy money, speculation, and uncertain possession can make communal prosperity unstable.
 
 ## Links
 

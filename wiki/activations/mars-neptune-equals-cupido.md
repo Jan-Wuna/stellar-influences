@@ -3,7 +3,7 @@ title: Mars/Neptune = Cupido
 page_type: activation
 slug: mars-neptune-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Neptune
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Neptune`
-- Source page: `195`
 #### Witte Entry
 
 Destruction of family happiness. Dissolved community. A grave misunderstanding in the society. Accident. Divorce.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Destruction of family happiness. Dissolved community. A grave misunderstanding in the society. Accident. Divorce.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Community policy, economic and monetary union, economic union, and economic and monetary
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Neptune = Cupido` dissolves family or communal bonds through confusion, disappointment, and destructive misunderstanding.
+- Chart expression: damage to family happiness, breakup of communities, social misunderstanding, accident, and divorce where shared life cannot hold its form.
 
 ## Links
 
@@ -61,3 +56,5 @@ Destruction of family happiness. Dissolved community. A grave misunderstanding i
 - [Neptune](../factors/neptune.md)
 - [Cupido](../factors/cupido.md)
 - [Mars/Neptune](../axes/mars-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

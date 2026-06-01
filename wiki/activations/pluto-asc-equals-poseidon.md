@@ -3,10 +3,10 @@ title: Pluto/Asc = Poseidon
 page_type: activation
 slug: pluto-asc-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Pluto
+  - Asc
   - Poseidon
 normalized_formula: Pluto/Asc = Poseidon
 axis: Pluto/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Asc
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Pluto`
-- Source page: `90`
 #### Witte Entry
 
 Changes of place for the purpose of intellectual and spiritual development and education. Waves in the surrounding area.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Changes of place for the purpose of intellectual and spiritual development and education. Waves in the surrounding area.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Development of a cultural place, intellectual partner development, development of ideas of the partner, clear changes in the environment, cultural development of the partner, future partner change, development of partner culture, and growing insight of the partner
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Asc = Poseidon`: changes of place for the purpose of intellectual and spiritual development and education; Waves in the surrounding area.
+- Practical expression: development of a cultural place, intellectual partner development, development of ideas of the partner, clear changes in the environment, and cultural development of the partner.
 
 ## Links
 
@@ -61,3 +56,5 @@ Changes of place for the purpose of intellectual and spiritual development and e
 - [Asc](../factors/asc.md)
 - [Poseidon](../factors/poseidon.md)
 - [Pluto/Asc](../axes/pluto-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Neptune/Poseidon = Apollon
 page_type: activation
 slug: neptune-poseidon-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Apollon
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Poseidon`
-- Source page: `254`
 #### Witte Entry
 
 Many who are on an equal plane hide their opinions, they are not sincere. Many have a false concept of the world.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Many who are on an equal plane hide their opinions, they are not sincere. Many have a false concept of the world.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Spreading of unclear ideas, intellectual successes through intuition, clear knowledge of the future, sensitization of science from the mind, dissemination of metaphysical truths, refinement of culture knowledge, and increasing metaphysical knowledge
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Poseidon = Apollon`: Many who are on an equal plane hide their opinions, they are not sincere. Many have a false concept of the world.
+- Practical focus: enlarges the axis into collective insincerity and shared false worldview, showing many people concealing what they believe while drifting into mistaken ideas together.
+- Practical expression: spreading of unclear ideas, intellectual successes through intuition, clear knowledge of the future, sensitization of science from the mind, and dissemination of metaphysical truths.
 
 ## Links
 
@@ -61,3 +57,5 @@ Many who are on an equal plane hide their opinions, they are not sincere. Many h
 - [Poseidon](../factors/poseidon.md)
 - [Apollon](../factors/apollon.md)
 - [Neptune/Poseidon](../axes/neptune-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

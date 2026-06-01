@@ -3,7 +3,7 @@ title: Jupiter/Saturn = Zeus
 page_type: activation
 slug: jupiter-saturn-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Saturn
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Saturn
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Saturn`
-- Source page: `207`
 #### Witte Entry
 
 Taking possession of an inheritance. Interruption of creative activity, completion put off till later. Burning buildings. Provisions for parents in exchange of estate.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Taking possession of an inheritance. Interruption of creative activity, completion put off till later. Burning buildings. Provisions for parents in exchange of estate.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Success through hard leadership, success through concentrated efforts, financial damage through fire, financial services for pain, problematic money generation, generating legal problems, loss of creative joy, and procreation success in old age
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Saturn = Zeus`: effort and ambition being interrupted, redirected, or formalized by material obligations. It favors disciplined management of assets, but warns that creative momentum may be delayed by duty or crisis.
 
 ## Links
 
@@ -61,3 +55,5 @@ Taking possession of an inheritance. Interruption of creative activity, completi
 - [Saturn](../factors/saturn.md)
 - [Zeus](../factors/zeus.md)
 - [Jupiter/Saturn](../axes/jupiter-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

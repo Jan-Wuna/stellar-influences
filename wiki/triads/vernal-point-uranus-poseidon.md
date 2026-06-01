@@ -3,7 +3,7 @@ title: Vernal Point Uranus Poseidon
 page_type: triad_hub
 slug: vernal-point-uranus-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Uranus
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Uranus Poseidon`
 - Astronomicon triad-set: `VP X ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Uranus/Poseidon = Vernal Point](../activations/uranus-poseidon-equals-vernal-point.md)
-  Source page `243`
 - [Vernal Point/Poseidon = Uranus](../activations/vernal-point-poseidon-equals-uranus.md)
-  Source page `55`
 - [Vernal Point/Uranus = Poseidon](../activations/vernal-point-uranus-equals-poseidon.md)
-  Source page `45`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Uranus/Poseidon = Vernal Point`: page `243`
-- `Vernal Point/Poseidon = Uranus`: page `55`
-- `Vernal Point/Uranus = Poseidon`: page `45`
+- `Uranus/Poseidon = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `243`
+- `Uranus/Poseidon = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `388`
+- `Vernal Point/Poseidon = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `55`
+- `Vernal Point/Poseidon = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `59`
+- `Vernal Point/Uranus = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `45`
+- `Vernal Point/Uranus = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `39`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Vernal Point/Poseidon = Uranus`: This formula emphasizes enlightenment, sudden faculty of perception, truth.
+- `Vernal Point/Uranus = Poseidon`: This formula emphasizes sudden appearance of a new idea, propaganda, and inventor for environmental technology.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Uranus](../factors/uranus.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Saturn MC Vulcanus
 page_type: triad_hub
 slug: saturn-mc-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - MC
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn MC Vulcanus`
 - Astronomicon triad-set: `W MC §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Vulcanus = Saturn](../activations/mc-vulcanus-equals-saturn.md)
-  Source page `76`
 - [Saturn/MC = Vulcanus](../activations/saturn-mc-equals-vulcanus.md)
-  Source page `66`
 - [Saturn/Vulcanus = MC](../activations/saturn-vulcanus-equals-mc.md)
-  Source page `230`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Vulcanus = Saturn`: page `76`
-- `Saturn/MC = Vulcanus`: page `66`
-- `Saturn/Vulcanus = MC`: page `230`
+- `MC/Vulcanus = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `76`
+- `MC/Vulcanus = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `97`
+- `Saturn/MC = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `66`
+- `Saturn/MC = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `77`
+- `Saturn/Vulcanus = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `230`
+- `Saturn/Vulcanus = MC`: Udo Rudolph - ABC for Planetary Pictures, page `366`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Vulcanus = Saturn`: hardens the axis into control, guarding, and intervention to slow events down.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [MC](../factors/mc.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

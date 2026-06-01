@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Apollon + Apollon`
-- Source page: `305`
 #### Witte Entry
 
 Multiplying. Expansion or extension of a community. Widespread artistic or scientific association. School classes. Scientific successes. To be in the company of many. Much sociability. Art association. Great expanded society, family etc. An association representing economic interests. Consumers union. A large family. Art and science.
 
-## Comparative Schema
-
-- core meaning: Multiplying. Expansion or extension of a community. Widespread artistic or scientific association. School classes. Scientific successes. To be in the company of many. Much sociability. Art association. Great expanded society, family etc. An association representing economic interests. Consumers union. A large family. Art and science.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Apollon = Cupido`: big groups, professional associations, large families, organized sociability, and the multiplication of cultural or scientific networks. Main caution: collectivized sprawl: the group can grow large without remaining intimate, coherent, or selective.
 
 ## Links
 

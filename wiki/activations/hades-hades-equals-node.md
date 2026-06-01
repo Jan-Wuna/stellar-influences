@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Hades + Hades`
-- Source page: `275`
 #### Witte Entry
 
 A mean act committed jointly. Connections started under difficulties or with reluctance. Unpleasant connections or contacts. Poor connections or associations. Contact with disease, evil, poverty or old affairs.
 
-## Comparative Schema
-
-- core meaning: A mean act committed jointly. Connections started under difficulties or with reluctance. Unpleasant connections or contacts. Poor connections or associations. Contact with disease, evil, poverty or old affairs.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Hades = Node`: bonds formed under difficult or lowering conditions. It can show networks of need, reluctant ties to misery, or shared participation in bleak, unhealthy, or morally compromised environments.
 
 ## Links
 

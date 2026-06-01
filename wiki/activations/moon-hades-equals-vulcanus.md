@@ -3,7 +3,7 @@ title: Moon/Hades = Vulcanus
 page_type: activation
 slug: moon-hades-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Hades
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Hades`
-- Source page: `131`
 #### Witte Entry
 
 Deplorable conditions in public or in the populace. Gang of criminals. Endangered because of criminal gangs.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Deplorable conditions in public or in the populace. Gang of criminals. Endangered because of criminal gangs.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+energy of an old woman, secret power of a woman, tremendous distress of a people, criminal violence against women, powerful sorrow of a woman, deficient emotional influence, hidden power of the woman, and hidden emotional influence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Hades = Vulcanus`: Deplorable conditions in public or in the populace. Gang of criminals. Endangered because of criminal gangs.
+- Practical expression: energy of an old woman, secret power of a woman, tremendous distress of a people, criminal violence against women, and powerful sorrow of a woman.
 
 ## Links
 
@@ -61,3 +56,5 @@ Deplorable conditions in public or in the populace. Gang of criminals. Endangere
 - [Hades](../factors/hades.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Moon/Hades](../axes/moon-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

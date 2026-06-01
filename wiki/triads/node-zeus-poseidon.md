@@ -3,7 +3,7 @@ title: Node Zeus Poseidon
 page_type: triad_hub
 slug: node-zeus-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Zeus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Node Zeus Poseidon`
 - Astronomicon triad-set: `g £ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Node/Poseidon = Zeus](../activations/node-poseidon-equals-zeus.md)
-  Source page `156`
 - [Node/Zeus = Poseidon](../activations/node-zeus-equals-poseidon.md)
-  Source page `151`
 - [Zeus/Poseidon = Node](../activations/zeus-poseidon-equals-node.md)
-  Source page `296`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Node/Poseidon = Zeus`: page `156`
-- `Node/Zeus = Poseidon`: page `151`
-- `Zeus/Poseidon = Node`: page `296`
+- `Node/Poseidon = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `156`
+- `Node/Poseidon = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `239`
+- `Node/Zeus = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `151`
+- `Node/Zeus = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `229`
+- `Zeus/Poseidon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `296`
+- `Zeus/Poseidon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `458`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Node/Poseidon = Zeus`: To hold mental leadership. To be outstanding in mental connections.
+- `Node/Zeus = Poseidon`: Mental creations in common with others.
+- `Zeus/Poseidon = Node`: To have to issue a document. To find the right connection.
 
 ## Links
 
 - [Node](../factors/node.md)
 - [Zeus](../factors/zeus.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

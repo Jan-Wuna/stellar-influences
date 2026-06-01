@@ -3,7 +3,7 @@ title: Asc Kronos Vulcanus
 page_type: triad_hub
 slug: asc-kronos-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Kronos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Asc Kronos Vulcanus`
 - Astronomicon triad-set: `Asc ¤ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Kronos = Vulcanus](../activations/asc-kronos-equals-vulcanus.md)
-  Source page `94`
 - [Asc/Vulcanus = Kronos](../activations/asc-vulcanus-equals-kronos.md)
-  Source page `97`
 - [Kronos/Vulcanus = Asc](../activations/kronos-vulcanus-equals-asc.md)
-  Source page `301`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Kronos = Vulcanus`: page `94`
-- `Asc/Vulcanus = Kronos`: page `97`
-- `Kronos/Vulcanus = Asc`: page `301`
+- `Asc/Kronos = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `94`
+- `Asc/Kronos = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `129`
+- `Asc/Vulcanus = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `97`
+- `Asc/Vulcanus = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `135`
+- `Kronos/Vulcanus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `301`
+- `Kronos/Vulcanus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `464`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Kronos = Vulcanus`: powerful office, commanding administrative ability, and authority backed by real strength.
+- `Asc/Vulcanus = Kronos`: dealing with state force, rank, or superior authority and feeling its weight directly.
+- `Kronos/Vulcanus = Asc`: exposure to great powers, living under force from above, and contact with people who exercise or undergo the pressure of state authority.
 
 ## Links
 
 - [Asc](../factors/asc.md)
 - [Kronos](../factors/kronos.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

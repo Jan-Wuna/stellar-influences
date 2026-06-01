@@ -3,7 +3,7 @@ title: Kronos Admetos Vulcanus
 page_type: triad_hub
 slug: kronos-admetos-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Admetos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Kronos Admetos Vulcanus`
 - Astronomicon triad-set: `¤ ¦ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Admetos/Vulcanus = Kronos](../activations/admetos-vulcanus-equals-kronos.md)
-  Source page `311`
 - [Kronos/Admetos = Vulcanus](../activations/kronos-admetos-equals-vulcanus.md)
-  Source page `300`
 - [Kronos/Vulcanus = Admetos](../activations/kronos-vulcanus-equals-admetos.md)
-  Source page `301`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Admetos/Vulcanus = Kronos`: page `311`
-- `Kronos/Admetos = Vulcanus`: page `300`
-- `Kronos/Vulcanus = Admetos`: page `301`
+- `Admetos/Vulcanus = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `311`
+- `Admetos/Vulcanus = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `475`
+- `Kronos/Admetos = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `300`
+- `Kronos/Admetos = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `463`
+- `Kronos/Vulcanus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `301`
+- `Kronos/Vulcanus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `465`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Admetos/Vulcanus = Kronos`: being noticed through extraordinary, harsh, or peculiar fateful events that set one apart.
+- `Kronos/Admetos = Vulcanus`: making a sensation as an odd character, drawing attention through singularity, and meeting grave obstacles because of that striking difference.
+- `Kronos/Vulcanus = Admetos`: a frozen or obsolete political order, suspended state power, and government force that has become rigid, peculiar, or inert.
 
 ## Links
 
 - [Kronos](../factors/kronos.md)
 - [Admetos](../factors/admetos.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

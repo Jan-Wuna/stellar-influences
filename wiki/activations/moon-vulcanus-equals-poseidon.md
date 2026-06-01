@@ -3,7 +3,7 @@ title: Moon/Vulcanus = Poseidon
 page_type: activation
 slug: moon-vulcanus-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Vulcanus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Vulcanus`
-- Source page: `137`
 #### Witte Entry
 
 Mentally or spiritually interested women, superiors or public. To surprise others with one’s own presentation, behavior or world conception.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mentally or spiritually interested women, superiors or public. To surprise others with one’s own presentation, behavior or world conception.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influenced culture people, spiritual power of a people, mental influence of a woman, enormous enlightenment of a woman, clarity by strength of faith for women, cultural achievement of women, and strong influence of a woman
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Vulcanus = Poseidon`: Mentally or spiritually interested women, superiors or public. To surprise others with one’s own presentation, behavior or world conception.
+- Practical expression: influenced culture people, spiritual power of a people, mental influence of a woman, enormous enlightenment of a woman, and clarity by strength of faith for women.
 
 ## Links
 
@@ -61,3 +56,5 @@ Mentally or spiritually interested women, superiors or public. To surprise other
 - [Vulcanus](../factors/vulcanus.md)
 - [Poseidon](../factors/poseidon.md)
 - [Moon/Vulcanus](../axes/moon-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

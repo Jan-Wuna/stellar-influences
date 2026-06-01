@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Mars Jupiter Chiron`
 - Astronomicon triad-set: `U V Chiron`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Mars/Chiron = Jupiter`: John, page `69`
 - `Mars/Jupiter = Chiron`: John, page `67`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Chiron = Mars`: a courageous healing style. It can show active encouragement that motivates people to move forward rather than collapse.
+- `Mars/Chiron = Jupiter`: spirited intervention, constructive excess, and the ability to turn overreaction into insight and recovery. The caution is moral overconfidence or inflaming a situation under the belief that more intensity will automatically heal it.
+- `Mars/Jupiter = Chiron` channels enthusiastic action into healing encouragement and a more exalted appreciation of life.
 
 ## Links
 

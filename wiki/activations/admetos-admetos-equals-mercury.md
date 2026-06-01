@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Admetos + Admetos`
-- Source page: `309`
 #### Witte Entry
 
 Serious or Limited thinking. Perseverance in thinking. Profound thinker. Profound concentration of thoughts. Thoughts, news or information of death, grief, standstill, hindrance. Pessimist. End of a motion. Negotiations which are a dead issue. Ponderous, slow and sluggish.
 
-## Comparative Schema
-
-- core meaning: Serious or Limited thinking. Perseverance in thinking. Profound thinker. Profound concentration of thoughts. Thoughts, news or information of death, grief, standstill, hindrance. Pessimist. End of a motion. Negotiations which are a dead issue. Ponderous, slow and sluggish.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Admetos/Admetos = Mercury`: deep concentration, persistence of thought, and the capacity to think through difficult or final matters. Main caution: mental standstill: stalled negotiations, gloomy fixation, and communication so heavy or slow that nothing progresses.
 
 ## Links
 

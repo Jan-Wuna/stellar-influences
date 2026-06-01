@@ -3,7 +3,7 @@ title: Venus/Neptune = Zeus
 page_type: activation
 slug: venus-neptune-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Neptune
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Neptune`
-- Source page: `180`
 #### Witte Entry
 
 Inherited blood diseases. A bleeder. The generative capability ends.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Inherited blood diseases. A bleeder. The generative capability ends.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Beginning of an uncertain peace, beginning exchange in love, exchanged love strikes, fiery love expectation, joy through efforts in metaphysics, artistic achievements in the air, creative arts in the water, and creating future witts
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Neptune = Zeus`: inherited blood diseases.
+- Practical expression: beginning of an uncertain peace, beginning exchange in love, exchanged love strikes, fiery love expectation, and oy through efforts in metaphysics.
 
 ## Links
 
@@ -61,3 +56,5 @@ Inherited blood diseases. A bleeder. The generative capability ends.
 - [Neptune](../factors/neptune.md)
 - [Zeus](../factors/zeus.md)
 - [Venus/Neptune](../axes/venus-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

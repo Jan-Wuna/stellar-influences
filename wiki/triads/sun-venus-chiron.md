@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Sun Venus Chiron`
 - Astronomicon triad-set: `S Q Chiron`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Sun/Venus = Chiron`: John, page `10`
 - `Venus/Chiron = Sun`: John, page `58`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Sun/Chiron = Venus`: valuing what is spiritually essential and finding love or harmony through deeper meaning rather than surface attraction.
+- `Sun/Venus = Chiron`: valuing what is spiritually essential and finding love or harmony through deeper meaning rather than surface preference.
+- `Venus/Chiron = Sun`: one’s presence has a centering and calming effect on others.
 
 ## Links
 

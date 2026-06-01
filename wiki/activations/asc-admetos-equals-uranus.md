@@ -3,7 +3,7 @@ title: Asc/Admetos = Uranus
 page_type: activation
 slug: asc-admetos-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Asc
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Admetos`
-- Source page: `96`
 #### Witte Entry
 
 Excitements and quarrels with others because they feel inferior. To quit a place for a while. To be absent for a time. Matters of location cause excitement.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Excitements and quarrels with others because they feel inferior. To quit a place for a while. To be absent for a time. Matters of location cause excitement.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+consolidation of tensions on the spot, thorough environmental reform, sudden blockade on the spot, sudden suppression of the partner, tensions through environmental restrictions, and surprising resistance of the partner
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/Admetos = Uranus`: departures, disruptions of residence, and excitements tied to location or uneasy social comparison. Main caution: unstable withdrawal: the stuck environment can break open abruptly, but only into quarrel, interruption, or temporary escape.
 
 ## Links
 
@@ -61,3 +55,5 @@ Excitements and quarrels with others because they feel inferior. To quit a place
 - [Admetos](../factors/admetos.md)
 - [Uranus](../factors/uranus.md)
 - [Asc/Admetos](../axes/asc-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,10 +3,10 @@ title: Jupiter/Node = Kronos
 page_type: activation
 slug: jupiter-node-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Jupiter
+  - Node
   - Kronos
 normalized_formula: Jupiter/Node = Kronos
 axis: Jupiter/Node
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Node
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Jupiter`
-- Source page: `144`
 #### Witte Entry
 
 Good relations of the father or of the chief. Protection. Acquaintance with the future husband.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Good relations of the father or of the chief. Protection. Acquaintance with the future husband.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special advantages of a connection, relationships with legal authorities, successful links with the authority, financial self reliance in a relationship, state legal enforcement, connection with the financial authority, and important financial entity
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Node = Kronos`: beneficial ties with authorities, patrons, or socially elevated figures. It favors alliance that confers protection, approval, or entry into a more formal life path.
 
 ## Links
 
@@ -61,3 +55,5 @@ Good relations of the father or of the chief. Protection. Acquaintance with the 
 - [Node](../factors/node.md)
 - [Kronos](../factors/kronos.md)
 - [Jupiter/Node](../axes/jupiter-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

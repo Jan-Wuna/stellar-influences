@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Moon Jupiter Chiron`
 - Astronomicon triad-set: `R V Chiron`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Moon/Chiron = Jupiter`: John, page `32`
 - `Moon/Jupiter = Chiron`: John, page `29`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/Chiron = Moon`: generosity and openness with a deeply healing emotional effect, plus an instinct for spontaneously overcoming limits and obstructions.
+- `Moon/Chiron = Jupiter`: An enthusiasm and optimism that nurtures others in a profoundly healing way. A generous way of nurturing others that helps them to overcome emotional blocks and encourages them to be more aligned with their instincts.
+- `Moon/Jupiter = Chiron`: Your energy helps others to get more fully in touch with their feelings and to accept them. You innately encourage others to feel greater security and faith in the workings of the universe.
 
 ## Links
 

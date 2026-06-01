@@ -3,7 +3,7 @@ title: Venus/Jupiter = Zeus
 page_type: activation
 slug: venus-jupiter-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Jupiter
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Jupiter
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Jupiter`
-- Source page: `177`
 #### Witte Entry
 
 Realization of a desire. Lucky attainment of an aim. The wish or will to create happiness. Longing for peace. Longing for family increase.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Realization of a desire. Lucky attainment of an aim. The wish or will to create happiness. Longing for peace. Longing for family increase.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful artistic achievements, successful love witnessing, successful peace strike, fiery love happiness, joy success through harmony, financial desire strike, harmony through right strike, and creative right art
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Jupiter = Zeus`: realization of a desire.
+- Practical expression: successful artistic achievements, successful love witnessing, successful peace strike, fiery love happiness, and oy success through harmony.
 
 ## Links
 
@@ -61,3 +56,5 @@ Realization of a desire. Lucky attainment of an aim. The wish or will to create 
 - [Jupiter](../factors/jupiter.md)
 - [Zeus](../factors/zeus.md)
 - [Venus/Jupiter](../axes/venus-jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

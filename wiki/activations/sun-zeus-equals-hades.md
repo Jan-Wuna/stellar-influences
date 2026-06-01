@@ -3,7 +3,7 @@ title: Sun/Zeus = Hades
 page_type: activation
 slug: sun-zeus-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Hades
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Zeus`
-- Source page: `113`
 #### Witte Entry
 
 Miscarriage. A still-birth. Child-bed sickness. Engagement for something with difficulties. Defeats. To be reported to the police, the one who reports. Bodies destroyed by fire.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Miscarriage. A still-birth. Child-bed sickness. Engagement for something with difficulties. Defeats. To be reported to the police, the one who reports. Bodies destroyed by fire.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Absence of a creative person, fire danger in the day, dangerous day goal, criminal filthy person, lack of personal aim, personal achievements from the past, hidden leadership center, and renunciation of corporal procreation
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Zeus = Hades`: unpleasant activity and destructive fire.
+- Practical expression: absence of a creative person, fire danger in the day, dangerous day goal, criminal filthy person, and lack of personal aim.
 
 ## Links
 
@@ -61,3 +56,5 @@ Miscarriage. A still-birth. Child-bed sickness. Engagement for something with di
 - [Zeus](../factors/zeus.md)
 - [Hades](../factors/hades.md)
 - [Sun/Zeus](../axes/sun-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

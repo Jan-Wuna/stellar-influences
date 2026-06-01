@@ -3,7 +3,7 @@ title: Venus MC Zeus
 page_type: triad_hub
 slug: venus-mc-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus MC Zeus`
 - Astronomicon triad-set: `Q MC £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Zeus = Venus](../activations/mc-zeus-equals-venus.md)
-  Source page `72`
 - [Venus/MC = Zeus](../activations/venus-mc-equals-zeus.md)
-  Source page `63`
 - [Venus/Zeus = MC](../activations/venus-zeus-equals-mc.md)
-  Source page `184`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Zeus = Venus`: page `72`
-- `Venus/MC = Zeus`: page `63`
-- `Venus/Zeus = MC`: page `184`
+- `MC/Zeus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `72`
+- `MC/Zeus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `88`
+- `Venus/MC = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `63`
+- `Venus/MC = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `71`
+- `Venus/Zeus = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `184`
+- `Venus/Zeus = MC`: Udo Rudolph - ABC for Planetary Pictures, page `286`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Zeus = Venus`: softens the axis into beauty, affection, and loving creation.
+- `Venus/MC = Zeus`: wishing to be desired.
+- `Venus/Zeus = MC`: personal creation with devotion.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [MC](../factors/mc.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -11,26 +11,26 @@ normalized_axis: Vernal Point/MC
 factor_a: Vernal Point
 factor_b: MC
 related_activations:
+  - Vernal Point/MC = Admetos
+  - Vernal Point/MC = Apollon
   - Vernal Point/MC = Asc
-  - Vernal Point/MC = Sun
-  - Vernal Point/MC = Moon
-  - Vernal Point/MC = Node
-  - Vernal Point/MC = Mercury
-  - Vernal Point/MC = Venus
-  - Vernal Point/MC = Mars
-  - Vernal Point/MC = Jupiter
-  - Vernal Point/MC = Saturn
-  - Vernal Point/MC = Uranus
-  - Vernal Point/MC = Neptune
-  - Vernal Point/MC = Pluto
   - Vernal Point/MC = Cupido
   - Vernal Point/MC = Hades
-  - Vernal Point/MC = Zeus
+  - Vernal Point/MC = Jupiter
   - Vernal Point/MC = Kronos
-  - Vernal Point/MC = Apollon
-  - Vernal Point/MC = Admetos
-  - Vernal Point/MC = Vulcanus
+  - Vernal Point/MC = Mars
+  - Vernal Point/MC = Mercury
+  - Vernal Point/MC = Moon
+  - Vernal Point/MC = Neptune
+  - Vernal Point/MC = Node
+  - Vernal Point/MC = Pluto
   - Vernal Point/MC = Poseidon
+  - Vernal Point/MC = Saturn
+  - Vernal Point/MC = Sun
+  - Vernal Point/MC = Uranus
+  - Vernal Point/MC = Venus
+  - Vernal Point/MC = Vulcanus
+  - Vernal Point/MC = Zeus
 related_triad_hubs:
   - Vernal Point Asc MC
   - Vernal Point Jupiter MC
@@ -56,8 +56,9 @@ aliases:
   - MC/Vernal Point
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - robert-hand-horoscope-symbols
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -74,10 +75,13 @@ updated_at: 2026-04-22
 
 The relationship, the emotional or the mental attitude, of the native toward the world in general. The I” as embodied on the earth. Particularities of the time (moment) for several in one place.
 
-### Robert Hand - Horoscope Symbols
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Midheaven/Aries`
-- Source page: `214`
+#### ABC Pair Summary
+
+I, in public life, my public, my world, minute in public, soul of the earth, earth inner, the public consciousness, and the self in public
+
+### Robert Hand - Horoscope Symbols
 
 #### Pair Delineation
 
@@ -85,50 +89,39 @@ One's own seeking to get ahead in the larger social world. The ability to achiev
 
 ZODIACAL POSITION
 
-## Comparative Schema
-
-- core meaning: source-native pair entries are preserved side by side above.
-- psychology: source-specific psychological and doctrinal emphases remain attached to their own source blocks instead of being flattened.
-- body/health: source-native biological or bodily wording remains inside each contributing source block when present.
-- social/relationship: interpersonal implications remain attached to each source's own phrasing.
-- events/manifestations: see the source entries above and the orientation-specific activation pages linked below.
-- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
-
 ## Related Activations
 
+- [Vernal Point/MC = Admetos](../activations/vernal-point-mc-equals-admetos.md)
+- [Vernal Point/MC = Apollon](../activations/vernal-point-mc-equals-apollon.md)
 - [Vernal Point/MC = Asc](../activations/vernal-point-mc-equals-asc.md)
-- [Vernal Point/MC = Sun](../activations/vernal-point-mc-equals-sun.md)
-- [Vernal Point/MC = Moon](../activations/vernal-point-mc-equals-moon.md)
-- [Vernal Point/MC = Node](../activations/vernal-point-mc-equals-node.md)
-- [Vernal Point/MC = Mercury](../activations/vernal-point-mc-equals-mercury.md)
-- [Vernal Point/MC = Venus](../activations/vernal-point-mc-equals-venus.md)
-- [Vernal Point/MC = Mars](../activations/vernal-point-mc-equals-mars.md)
-- [Vernal Point/MC = Jupiter](../activations/vernal-point-mc-equals-jupiter.md)
-- [Vernal Point/MC = Saturn](../activations/vernal-point-mc-equals-saturn.md)
-- [Vernal Point/MC = Uranus](../activations/vernal-point-mc-equals-uranus.md)
-- [Vernal Point/MC = Neptune](../activations/vernal-point-mc-equals-neptune.md)
-- [Vernal Point/MC = Pluto](../activations/vernal-point-mc-equals-pluto.md)
 - [Vernal Point/MC = Cupido](../activations/vernal-point-mc-equals-cupido.md)
 - [Vernal Point/MC = Hades](../activations/vernal-point-mc-equals-hades.md)
-- [Vernal Point/MC = Zeus](../activations/vernal-point-mc-equals-zeus.md)
+- [Vernal Point/MC = Jupiter](../activations/vernal-point-mc-equals-jupiter.md)
 - [Vernal Point/MC = Kronos](../activations/vernal-point-mc-equals-kronos.md)
-- [Vernal Point/MC = Apollon](../activations/vernal-point-mc-equals-apollon.md)
-- [Vernal Point/MC = Admetos](../activations/vernal-point-mc-equals-admetos.md)
-- [Vernal Point/MC = Vulcanus](../activations/vernal-point-mc-equals-vulcanus.md)
+- [Vernal Point/MC = Mars](../activations/vernal-point-mc-equals-mars.md)
+- [Vernal Point/MC = Mercury](../activations/vernal-point-mc-equals-mercury.md)
+- [Vernal Point/MC = Moon](../activations/vernal-point-mc-equals-moon.md)
+- [Vernal Point/MC = Neptune](../activations/vernal-point-mc-equals-neptune.md)
+- [Vernal Point/MC = Node](../activations/vernal-point-mc-equals-node.md)
+- [Vernal Point/MC = Pluto](../activations/vernal-point-mc-equals-pluto.md)
 - [Vernal Point/MC = Poseidon](../activations/vernal-point-mc-equals-poseidon.md)
+- [Vernal Point/MC = Saturn](../activations/vernal-point-mc-equals-saturn.md)
+- [Vernal Point/MC = Sun](../activations/vernal-point-mc-equals-sun.md)
+- [Vernal Point/MC = Uranus](../activations/vernal-point-mc-equals-uranus.md)
+- [Vernal Point/MC = Venus](../activations/vernal-point-mc-equals-venus.md)
+- [Vernal Point/MC = Vulcanus](../activations/vernal-point-mc-equals-vulcanus.md)
+- [Vernal Point/MC = Zeus](../activations/vernal-point-mc-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices and framework emphases rather than flattened into one interpretation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/MC` is the axis of public ambition, worldly significance, and the effort to establish oneself meaningfully within the prevailing social order.
+- Chart expression: reputation, achievement, vocation with broad visibility, and the desire to become known or consequential beyond one's private sphere. Liabilities: status hunger, overidentification with recognition, and sacrificing inner direction to public expectations.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)

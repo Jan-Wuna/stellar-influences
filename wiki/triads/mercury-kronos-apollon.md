@@ -3,7 +3,7 @@ title: Mercury Kronos Apollon
 page_type: triad_hub
 slug: mercury-kronos-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Kronos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Kronos Apollon`
 - Astronomicon triad-set: `T ¤ ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Kronos/Apollon = Mercury](../activations/kronos-apollon-equals-mercury.md)
-  Source page `299`
 - [Mercury/Apollon = Kronos](../activations/mercury-apollon-equals-kronos.md)
-  Source page `170`
 - [Mercury/Kronos = Apollon](../activations/mercury-kronos-equals-apollon.md)
-  Source page `169`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Kronos/Apollon = Mercury`: page `299`
-- `Mercury/Apollon = Kronos`: page `170`
-- `Mercury/Kronos = Apollon`: page `169`
+- `Kronos/Apollon = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `299`
+- `Kronos/Apollon = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `460`
+- `Mercury/Apollon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `170`
+- `Mercury/Apollon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `263`
+- `Mercury/Kronos = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `169`
+- `Mercury/Kronos = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `261`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Kronos/Apollon = Mercury`: the thinker, scientifically focused thought, and the spreading of large or important ideas.
+- `Mercury/Apollon = Kronos`: elevates the axis into leading and influential speech in learned settings.
+- `Mercury/Kronos = Apollon`: expands the axis into recognized scientific leadership.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Kronos](../factors/kronos.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

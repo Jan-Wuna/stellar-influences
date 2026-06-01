@@ -3,7 +3,7 @@ title: Moon/Pluto = Cupido
 page_type: activation
 slug: moon-pluto-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Pluto
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Pluto`
-- Source page: `129`
 #### Witte Entry
 
 Passing changes in the family. Visitors.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Passing changes in the family. Visitors.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+development of an emotional community, development of a community of women, shared unfolding of feelings, changes through the art of the people, growth of a people's community, and union of women for a development
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Pluto = Cupido`: Passing changes in the family. Visitors.
+- Practical focus: socializes `Moon/Pluto` through family shifts, transient domestic change, and visitors who alter the emotional atmosphere. It suggests transformation entering the household in passing but noticeable ways, often through kinship or social traffic.
+- Practical expression: development of an emotional community, development of a community of women, shared unfolding of feelings, changes through the art of the people, and growth of a people's community.
 
 ## Links
 
@@ -61,3 +57,5 @@ Passing changes in the family. Visitors.
 - [Pluto](../factors/pluto.md)
 - [Cupido](../factors/cupido.md)
 - [Moon/Pluto](../axes/moon-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Venus/Mars = Vulcanus
 page_type: activation
 slug: venus-mars-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Mars
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Mars
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Mars`
-- Source page: `176`
 #### Witte Entry
 
 Passionate sexual love. Influential relatives or intimate friends.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Passionate sexual love. Influential relatives or intimate friends.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influence of joy in creation, influential artistic activity, peaceful work force, harmonious energies in activity, immense artistic work, powerful love will, manly power in women, strong work joy, and female influence in men
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Mars = Vulcanus`: passionate sexual love.
+- Practical expression: influence of joy in creation, influential artistic activity, peaceful work force, harmonious energies in activity, and immense artistic work.
 
 ## Links
 
@@ -61,3 +56,5 @@ Passionate sexual love. Influential relatives or intimate friends.
 - [Mars](../factors/mars.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Venus/Mars](../axes/venus-mars.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

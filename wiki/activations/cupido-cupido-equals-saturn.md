@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Cupido + Cupido`
-- Source page: `265`
 #### Witte Entry
 
 Family happiness. Fortunate or successful partnership. Happy and successful community. Sociability. Art with success. Happy marriage. Happiness in married life. Good luck in associations and in the arts. Money through members of the family. Money through marriage. Money or gains through arts. Associations for justice or money matters. Large non-governmental organization (NGO). Financial services companies. Successfill companies.
 
-## Comparative Schema
-
-- core meaning: Family happiness. Fortunate or successful partnership. Happy and successful community. Sociability. Art with success. Happy marriage. Happiness in married life. Good luck in associations and in the arts. Money through members of the family. Money through marriage. Money or gains through arts. Associations for justice or money matters. Large non-governmental organization (NGO). Financial services companies. Successfill companies.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Cupido = Saturn`: communal bonds that produce security, money, and visible success when people cooperate well. Main caution: making happiness too dependent on gain, reputation, or institutional success.
 
 ## Links
 

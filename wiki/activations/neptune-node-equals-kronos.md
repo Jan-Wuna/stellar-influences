@@ -3,10 +3,10 @@ title: Neptune/Node = Kronos
 page_type: activation
 slug: neptune-node-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Neptune
+  - Node
   - Kronos
 normalized_formula: Neptune/Node = Kronos
 axis: Neptune/Node
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Node
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Neptune`
-- Source page: `147`
 #### Witte Entry
 
 Bad contact with the state. Through power of the state dissolved unions. The deserted leader.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Bad contact with the state. Through power of the state dissolved unions. The deserted leader.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Autlosung of an important connection, exchangeable connection to the state, expectant relations to authorizations, great fine feeling in one connection, uncertainty in connection to the authority, connection to the water authority, and important air connection
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Node = Kronos`: Bad contact with the state. Through power of the state dissolved unions. The deserted leader.
+- Practical focus: elevates dissolution into the sphere of state power, showing bad official contact, unions broken by authority, or leaders left isolated and unsupported.
+- Practical expression: autlosung of an important connection, exchangeable connection to the state, expectant relations to authorizations, great fine feeling in one connection, and uncertainty in connection to the authority.
 
 ## Links
 
@@ -61,3 +57,5 @@ Bad contact with the state. Through power of the state dissolved unions. The des
 - [Node](../factors/node.md)
 - [Kronos](../factors/kronos.md)
 - [Neptune/Node](../axes/neptune-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

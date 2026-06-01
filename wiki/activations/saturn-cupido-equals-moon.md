@@ -3,7 +3,7 @@ title: Saturn/Cupido = Moon
 page_type: activation
 slug: saturn-cupido-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Saturn
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Cupido`
-- Source page: `224`
 #### Witte Entry
 
 Unsocial family life. The divorced woman. Persons who are divorced from their natural partners, to live in a strange environment.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Unsocial family life. The divorced woman. Persons who are divorced from their natural partners, to live in a strange environment.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Community policy, economic and social cohesion, economic and monetary union, and economic union
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Cupido = Moon`: unsocial family life, the divorced woman.
+- Practical expression: community policy, economic, social cohesion, monetary union, and economic union.
 
 ## Links
 
@@ -61,3 +56,5 @@ Unsocial family life. The divorced woman. Persons who are divorced from their na
 - [Cupido](../factors/cupido.md)
 - [Moon](../factors/moon.md)
 - [Saturn/Cupido](../axes/saturn-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

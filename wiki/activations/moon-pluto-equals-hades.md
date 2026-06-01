@@ -3,7 +3,7 @@ title: Moon/Pluto = Hades
 page_type: activation
 slug: moon-pluto-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Pluto
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Pluto`
-- Source page: `129`
 #### Witte Entry
 
 Sinking of morals. Unclean persons. Deteriorating people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sinking of morals. Unclean persons. Deteriorating people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Development of a people in need, poor development of the household, disadvantages by changing women, need in the people by changes, growth by feelings Kummer, growing women's crime, and changes of a woman by renunciation
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Pluto = Hades`: Sinking of morals. Unclean persons. Deteriorating people.
+- Practical focus: degrades `Moon/Pluto` into moral decline, contamination, or collective deterioration. It shows emotional and public change taking on a downward cast, where corruption, decay, or coarsening becomes the dominant mode of transformation.
+- Practical expression: development of a people in need, poor development of the household, disadvantages by changing women, need in the people by changes, and growth by feelings Kummer.
 
 ## Links
 
@@ -61,3 +57,5 @@ Sinking of morals. Unclean persons. Deteriorating people.
 - [Pluto](../factors/pluto.md)
 - [Hades](../factors/hades.md)
 - [Moon/Pluto](../axes/moon-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

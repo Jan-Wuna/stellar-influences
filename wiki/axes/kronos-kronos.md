@@ -45,8 +45,6 @@ updated_at: 2026-04-21
 
 - Axis: `Kronos/Kronos`
 - Astronomicon axis: `¤/¤`
-- Source heading: `Kronos + Kronos`
-- Source page: `297`
 
 ## Source Entries
 
@@ -55,15 +53,6 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 Above average. Independence. The executive power. Authority. State. Ruler. Chief. Important person. Head of the family. Manager. The independent. Personal independence. Masterful in a skill. Others are superior to the native.
-
-## Comparative Schema
-
-- core meaning: Above average. Independence. The executive power. Authority. State. Ruler. Chief. Important person. Head of the family. Manager. The independent. Personal independence. Masterful in a skill. Others are superior to the native.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
@@ -89,13 +78,11 @@ Above average. Independence. The executive power. Authority. State. Ruler. Chief
 - [Kronos/Kronos = Vulcanus](../activations/kronos-kronos-equals-vulcanus.md)
 - [Kronos/Kronos = Poseidon](../activations/kronos-kronos-equals-poseidon.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Kronos`: pure elevated status: the ruler, the chief, the sovereign function, official mastery, superiority, and the formal structures that place someone above the average and in command.
+- Chart expression: concentrated hierarchy and recognized power. It favors leadership, official standing, noble bearing, governance, large institutions, and command roles, while its liabilities are autocracy, rigid hierarchy, loss through authorities, dependence on official structures, and the pressure of superiority itself.
 
 ## Links
 

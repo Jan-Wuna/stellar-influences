@@ -3,7 +3,7 @@ title: Uranus Hades Apollon
 page_type: triad_hub
 slug: uranus-hades-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Hades
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Hades Apollon`
 - Astronomicon triad-set: `X ¢ ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Apollon = Uranus](../activations/hades-apollon-equals-uranus.md)
-  Source page `280`
 - [Uranus/Apollon = Hades](../activations/uranus-apollon-equals-hades.md)
-  Source page `240`
 - [Uranus/Hades = Apollon](../activations/uranus-hades-equals-apollon.md)
-  Source page `237`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Apollon = Uranus`: page `280`
-- `Uranus/Apollon = Hades`: page `240`
-- `Uranus/Hades = Apollon`: page `237`
+- `Hades/Apollon = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `280`
+- `Hades/Apollon = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `443`
+- `Uranus/Apollon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `240`
+- `Uranus/Apollon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `383`
+- `Uranus/Hades = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `237`
+- `Uranus/Hades = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `377`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Apollon = Uranus`: abrupt mean acts, old sins reacting back, and the past suddenly pressing itself into present awareness, sometimes through ancient astrology or long-past patterns.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Hades](../factors/hades.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

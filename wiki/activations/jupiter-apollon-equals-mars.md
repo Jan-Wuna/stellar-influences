@@ -3,7 +3,7 @@ title: Jupiter/Apollon = Mars
 page_type: activation
 slug: jupiter-apollon-equals-mars
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Jupiter
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Apollon`
-- Source page: `215`
 #### Witte Entry
 
 Successful activities in commerce or science. Interest payments.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Successful activities in commerce or science. Interest payments.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Work in the money trade, successful actions for money, successful legal actions, successful financial activity, activity in law science, effective financial economy, economic success through work, and increasing work pleasure
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Apollon = Mars`: growth that moves because effort is well directed. It can show energetic profitable work and productive commercial initiative.
 
 ## Links
 
@@ -61,3 +55,5 @@ Successful activities in commerce or science. Interest payments.
 - [Apollon](../factors/apollon.md)
 - [Mars](../factors/mars.md)
 - [Jupiter/Apollon](../axes/jupiter-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

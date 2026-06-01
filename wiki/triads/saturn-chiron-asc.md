@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Saturn Chiron Asc`
 - Astronomicon triad-set: `W Chiron Asc`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Saturn/Asc = Chiron`: John, page `94`
 - `Saturn/Chiron = Asc`: John, page `87`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Asc = Saturn`: identity healing through confronting fear, rigidity, and defended self-definition. Main caution: treating caution or separation as safety when they actually preserve the wound.
+- `Saturn/Asc = Chiron` uses the native's presence and way of relating to steady others through inadequacy, fear, or guardedness. It favors deep, serious contact that helps people identify with a more spiritual self; the caution is to avoid making help feel corrective, severe, or judgmental.
+- `Saturn/Chiron = Asc` expresses Saturn/Chiron through the personality and immediate field of contact. The person may radiate a stabilizing, clarifying, and organizing influence that helps others focus; the caution is heaviness or over-responsibility in how that influence is carried.
 
 ## Links
 

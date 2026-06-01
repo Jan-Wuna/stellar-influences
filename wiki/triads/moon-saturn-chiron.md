@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Moon Saturn Chiron`
 - Astronomicon triad-set: `R W Chiron`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Moon/Saturn = Chiron`: John, page `31`
 - `Saturn/Chiron = Moon`: John, page `87`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Chiron = Saturn`: A fear of clearing the emotional body, but one knows at a very deep level that this must be done. Many of the limitations and difficulties in one’s life can be cleared by allowing one’s emotions to flow and by knowing that one is ultimately safe and there fore need not hold on to or store feelings that need to be let go of.
+- `Moon/Saturn = Chiron`: One’s energy helps others to get more in touch with negative feelings, and to understand them more deeply - which helps to release them. One helps others to take their own feelings more seriously and to see the need they have for nurturing.
+- `Saturn/Chiron = Moon` feels limitations, fears, and restrictions instinctively, especially in other people. The healing comes through emotional recognition and containment; the caution is absorbing others' heaviness or becoming responsible for feelings that are not one's own.
 
 ## Links
 

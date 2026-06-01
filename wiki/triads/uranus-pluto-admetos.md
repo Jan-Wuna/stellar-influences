@@ -3,7 +3,7 @@ title: Uranus Pluto Admetos
 page_type: triad_hub
 slug: uranus-pluto-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Pluto
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Pluto Admetos`
 - Astronomicon triad-set: `X Z ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Pluto/Admetos = Uranus](../activations/pluto-admetos-equals-uranus.md)
-  Source page `262`
 - [Uranus/Admetos = Pluto](../activations/uranus-admetos-equals-pluto.md)
-  Source page `241`
 - [Uranus/Pluto = Admetos](../activations/uranus-pluto-equals-admetos.md)
-  Source page `235`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Pluto/Admetos = Uranus`: page `262`
-- `Uranus/Admetos = Pluto`: page `241`
-- `Uranus/Pluto = Admetos`: page `235`
+- `Pluto/Admetos = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `262`
+- `Pluto/Admetos = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `419`
+- `Uranus/Admetos = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `241`
+- `Uranus/Admetos = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `385`
+- `Uranus/Pluto = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `235`
+- `Uranus/Pluto = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `373`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Pluto/Admetos = Uranus`: This activation emphasizes changes in the existing conditions that are brought about through sudden breaks or separations.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Pluto](../factors/pluto.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

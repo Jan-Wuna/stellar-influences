@@ -10,16 +10,18 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Factor: Mars
 - Astronomicon token: `U`
-- Canonical page type: comparative factor page grounded in standalone source chapters.
+- Canonical page type: comparative factor page grounded in standalone source entries.
 
 ## Source Entries
 
@@ -29,10 +31,13 @@ updated_at: 2026-04-22
 
 Activity. Action. To act. Impulse. The Will. Decision. Work. Employment. Energy. Execute. Resolve. Impulsiveness. Passion. Inflammation. Male persons. Accomplishment (mechanical kind). Occupation.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Mars`
-- Source page: `55`
+#### ABC Keyword Entry
+
+Activity, Creation, Force, Work, Action, Production, Aggression, Impulse, Passion, Manlike Principle, and Will
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -67,9 +72,6 @@ Fighters, bearers of arms, athletes, mechanics, technicians, craftsmen, surgeons
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Mars`
-- Source page: `71`
-
 #### Hand Factor Entry
 
 One does not merely exist; one must exist as something or someone in particular. And one must also be able to maintain one's individuality in the face of pressures from the world and other members of society-pressures that threaten to violate one's true nature or even survival itself. Nothing exists in nature without the energy of Mars enabling it to survive. Everything maintains its true nature through Mars energy. Mars energy is extemely individualistic, causing one to emphasize differences rather than similarities. This is one trait that Mars shares with Saturn. In excess, Mars may cause one to attempt to survive by eliminating others who might compete. Thus, one person's Mars may be a threat to another's. This is the source of conflict: the inability of two people's Mars energies to operate in the same space. Excess aggression is nothing more than an overabundance of survival energy, which feels it must control everything nearby. As we shall see, this is not really typical of Mars "when it is functioning in a healthy manner. Like the Sun, Mars is a yang energy that enables one to get things done. But it is only effective when it works for an entity's survival and self-expression. Mars's energy is self-centered, not altruistic, but it can be transmuted to appear selfless. In war, for example, people may be willing to sacrifice themselves for the good of the state. But for this to happen, they must identify their own survival and their need to be whatever they are as a people with the survival of the nation. When the people become aware that a war is being fought solely for the benefit of the rulers, they will not fight with the same kind of selfless energy.
@@ -80,23 +82,104 @@ Although fear and panic are aspects of Mars's energies, they do not represent it
 
 Mars's expression are blocked. As we have already mentioned in connection with. Venus, Mars has a vital role to play in love. Obviously, as the planet of conflict, it does not symbolize love itself. But it is necessary for love: only people who have realized their Mars, who have formed and defined their individuality and learned to maintain it in the face of resistance, can truly love and be loved. Love has a self-expressive quality as much as a quality of merging with another. In fact, in many animals, including human beings, there is a strong connection between sexual behavior and fighting. The intensity of sexual passion is the result simultaneously of the expression of selfish energies (Mars) and an experience of merging (Venus). Keeping the balance between these two energies is one of the difficulties in sexual relationships. Men in particular, who traditionally are more identified with the Mars facet of sexuality, may act selfishly in love relationships, exploiting and using women. Women, on the other hand, who have traditionally been identified with the Venus aspect of sexuality, may demand too little of a relationship and may allow themselves to be exploited. This, too, is changing, as both sexes are becoming increasingly aware of the need to experience both Venus and Mars in sexual expression. This brings us to an important point which has not been made clear in older texts. Neither Venus nor Mars alone is the planet of sexuality. It is the combination of the two that rules sexual passion. And other planets, including Pluto, have lesser roles to play. It is not correct to describe Mars as masculine sexuality and Venus as feminine sexuality, except with respect to veiy primitive notions of sexuality. Ideally, both sexes should manifest both energies. The complete human being will always have a strong Mars balanced by a strong Venus, and will be able to avoid extremes of conflict and passivity.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native factor entries are preserved side by side above.
-- psychology: source-specific psychological and doctrinal emphases remain attached to their own source blocks instead of being flattened.
-- body/health: bodily wording remains inside each contributing source block when present.
-- social/relationship: interpersonal implications remain attached to each source's own phrasing.
-- events/manifestations: sign-position or chapter-level extensions remain attached to the source entry that states them.
-- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
+#### Basic Ideas
 
-## Contradictions and Framework Notes
+- Acceleration
+- Action, Activity
+- Adventures
+- Aggressiveness
+- Agitation
+- Anger
+- Attempts
+- Beginnings
+- Boisterousness
+- Boldness
+- Clamor
+- Commotion
+- Competition
+- Defiance
+- Discord
+- Endeavors
+- Forcefulness
+- Friction
+- Hatred
+- Immediacy
+- Initiative
+- Malice
+- Pursuit
+- Pushing
+- Rashness
+- Sexuality
+- Speed
+- Strength
+- Threats
+- Treachery
+- Unruliness
+- Uproar
+- Virility
 
-- Source differences on this factor page are preserved as framework emphasis rather than forced contradiction.
-- This page keeps the contributing source chapters side by side instead of treating one as a gloss on the other.
+#### In Your Relationships
 
+- Anger
+- Conflicts
+- Energy
+- Fights
+- Noise
+- Sexual Activity
+
+#### With Body or Mind
+
+- Accidents
+- Acute Ailments
+- Adrenal Glands
+- Aggression
+- Anemia
+- Breaks, Rips, Tears
+- Energy Levels
+- Exhaustion
+- Fevers
+- Hatred
+- Hyper-anything
+- Inflammation
+- Madness
+- Male Sex Organs
+- Muscles
+- Rashes
+- Surgery
+- Wounds
+
+#### In Politics or Business
+
+- Acids
+- Animal Kingdom, The
+- Armed Forces
+- Assertion
+- Bombs
+- Business Leaders
+- Energy
+- Explosions
+- Fires
+- Guns
+- Heat
+- Metals
+- Military Rule
+- Military, The
+- Rebellions
+- Strife
+- Threats
+- Violence
+- Warlike Conditions
+- Wars
+- Weaponry
+
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars` is the factor of activity, force, work, action, production, assertion, courage, and the survival impulse that pushes life to act, defend itself, compete, and accomplish.
+- Chart expression: initiative, decisive effort, labor, creation, passion, sexual drive, the masculine principle, and the energy required to maintain individuality under pressure.
+- Its liabilities are aggression, haste, quarrels, fear-driven overreaction, waste of force, brutality, accidents, inflammations, and destructive or domineering behavior when energy is blocked or excessive.
 
 ## Related Axes
 
@@ -124,17 +207,10 @@ Mars's expression are blocked. As we have already mentioned in connection with. 
 - [Venus/Mars](../axes/venus-mars.md)
 - [Vernal Point/Mars](../axes/vernal-point-mars.md)
 
-## Related Activations
-
-- Generated activation pages involving `Mars`: `729`.
-- Browse [Index](../index.md) or the `wiki/activations/` folder for the full set.
-
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
-
-## Open Questions
-
-- None recorded yet.
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

@@ -3,10 +3,10 @@ title: Uranus/Asc = Apollon
 page_type: activation
 slug: uranus-asc-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Uranus
+  - Asc
   - Apollon
 normalized_formula: Uranus/Asc = Apollon
 axis: Uranus/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Asc
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Uranus`
-- Source page: `88`
 #### Witte Entry
 
 Others show great interest for the native. Acquaintances who are interested in astrology. Astrological customers.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Others show great interest for the native. Acquaintances who are interested in astrology. Astrological customers.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Expansion of technology on site, success impulses of the partner, successful environmental technology, trade events with others, place of technical knowledge, tiben ashende partnerExperiences, nurturing the unrest at the site, and scientific environment refonn
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Asc = Apollon`: Others show great interest for the native. Acquaintances who are interested in astrology. Astrological customers.
+- Practical expression: expansion of technology on site, success impulses of the partner, successful environmental technology, trade events with others, and place of technical knowledge.
 
 ## Links
 
@@ -61,3 +56,5 @@ Others show great interest for the native. Acquaintances who are interested in a
 - [Asc](../factors/asc.md)
 - [Apollon](../factors/apollon.md)
 - [Uranus/Asc](../axes/uranus-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

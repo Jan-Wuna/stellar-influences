@@ -3,7 +3,7 @@ title: Kronos/Poseidon = Moon
 page_type: activation
 slug: kronos-poseidon-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Kronos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Kronos + Poseidon`
-- Source page: `302`
 #### Witte Entry
 
 Persons or women who are mentally active and take part in cultural efforts. Representatives of the public education system in spiritual or secular terms. Cultural efforts in the public. Theater, concerts, lectures, courses.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Persons or women who are mentally active and take part in cultural efforts. Representatives of the public education system in spiritual or secular terms. Cultural efforts in the public. Theater, concerts, lectures, courses.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special feeling for truth, dominant knowledge of a woman, spiritual hierarchic of a people, spiritual superiority of a woman, great clarity of a woman, clear command of a people's important cultural reputation, and important truth for a woman
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Poseidon = Moon`: mentally active women or persons, public cultural efforts, and visible educational or artistic institutions such as lectures, concerts, theaters, and courses.
+- Chart expression: public education, collective culture, and emotionally engaged participation in higher-minded pursuits.
 
 ## Links
 
@@ -61,3 +56,5 @@ Persons or women who are mentally active and take part in cultural efforts. Repr
 - [Poseidon](../factors/poseidon.md)
 - [Moon](../factors/moon.md)
 - [Kronos/Poseidon](../axes/kronos-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Neptune/Apollon = Venus
 page_type: activation
 slug: neptune-apollon-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Neptune
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Apollon`
-- Source page: `251`
 #### Witte Entry
 
 Insincere or feigned love and friendship. To be deceived about an affection (sympathy). Dislike turns into affection and vise versa.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Insincere or feigned love and friendship. To be deceived about an affection (sympathy). Dislike turns into affection and vise versa.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exchanged love experiences, joy over freedom in water, harmony through metaphysical knowledge, metaphysical experiences in the arts, uncertainty through lovefreedom, love for metaphysical experiences, and increasing exchange in love
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Apollon = Venus`: Insincere or feigned love and friendship. To be deceived about an affection (sympathy). Dislike turns into affection and vise versa.
+- Practical focus: socializes `Neptune/Apollon` through deceptive affections, feigned friendship, and unstable sympathies. It shows broad illusion entering the field of love and value, where attraction easily shifts or proves less sincere than it first appears.
+- Practical expression: exchanged love experiences, harmony through metaphysical knowledge, metaphysical experiences in the arts, and uncertainty through lovefreedom.
 
 ## Links
 
@@ -61,3 +57,5 @@ Insincere or feigned love and friendship. To be deceived about an affection (sym
 - [Apollon](../factors/apollon.md)
 - [Venus](../factors/venus.md)
 - [Neptune/Apollon](../axes/neptune-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

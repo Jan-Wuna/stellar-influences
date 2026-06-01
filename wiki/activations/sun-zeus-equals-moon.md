@@ -3,7 +3,7 @@ title: Sun/Zeus = Moon
 page_type: activation
 slug: sun-zeus-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Moon
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Zeus`
-- Source page: `113`
 #### Witte Entry
 
 The husband of a woman (procreation). To back women. Inflammable. Burning body. To be sitting on a powder keg (in a figurative sense). Leader of the people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The husband of a woman (procreation). To back women. Inflammable. Burning body. To be sitting on a powder keg (in a figurative sense). Leader of the people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Efforts between woman and man, fiery people of a people, fiery human life, woman's personal goal, women's achievement centre, creative personal life, women's personality, and goal between woman and man
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Zeus = Moon`: creative vitality and a strong drive to act.
+- Practical expression: efforts between woman, fiery people of a people, fiery human life, woman's personal goal, and women's achievement centre.
 
 ## Links
 
@@ -61,3 +56,5 @@ The husband of a woman (procreation). To back women. Inflammable. Burning body. 
 - [Zeus](../factors/zeus.md)
 - [Moon](../factors/moon.md)
 - [Sun/Zeus](../axes/sun-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,10 +3,10 @@ title: Node/MC = Hades
 page_type: activation
 slug: node-mc-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Node
+  - MC
   - Hades
 normalized_formula: Node/MC = Hades
 axis: Node/MC
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - MC
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Node`
-- Source page: `61`
 #### Witte Entry
 
 To be linked with evil things, old or historical matters. To suffer a mental depression in a relationship.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be linked with evil things, old or historical matters. To suffer a mental depression in a relationship.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+My sorrow in connections, my secret contacts, my criminal connections, my connections from the past, my connections in need, disadvantages of a psychic relationship, connection of old souls, and hidden soul en connection
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/MC = Hades`: To be linked with evil things, old or historical matters. To suffer a mental depression in a relationship.
+- Practical focus: to be linked with evil things, old or historical matters; also to suffer a mental depression in a relationship.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be linked with evil things, old or historical matters. To suffer a mental dep
 - [MC](../factors/mc.md)
 - [Hades](../factors/hades.md)
 - [Node/MC](../axes/node-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

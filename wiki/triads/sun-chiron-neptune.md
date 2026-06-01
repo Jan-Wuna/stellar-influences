@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Sun Chiron Neptune`
 - Astronomicon triad-set: `S Chiron Y`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Sun/Chiron = Neptune`: John, page `15`
 - `Sun/Neptune = Chiron`: John, page `18`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Neptune = Sun`: illumination of what will most heal a situation and to identity strengthened by subtle creative service. Main caution: ego investment in being the one who sees the hidden cure.
+- `Sun/Chiron = Neptune`: dissolving superficial ego meanings and opening to deeper spiritual purpose through intuition and surrender.
+- `Sun/Neptune = Chiron`: dissolving superficial identity so deeper meaning can emerge and intuition can reveal hidden purpose.
 
 ## Links
 

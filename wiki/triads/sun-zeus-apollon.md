@@ -3,7 +3,7 @@ title: Sun Zeus Apollon
 page_type: triad_hub
 slug: sun-zeus-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Zeus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Zeus Apollon`
 - Astronomicon triad-set: `S £ ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Sun/Apollon = Zeus](../activations/sun-apollon-equals-zeus.md)
-  Source page `115`
 - [Sun/Zeus = Apollon](../activations/sun-zeus-equals-apollon.md)
-  Source page `113`
 - [Zeus/Apollon = Sun](../activations/zeus-apollon-equals-sun.md)
-  Source page `291`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Sun/Apollon = Zeus`: page `115`
-- `Sun/Zeus = Apollon`: page `113`
-- `Zeus/Apollon = Sun`: page `291`
+- `Sun/Apollon = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `115`
+- `Sun/Apollon = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `167`
+- `Sun/Zeus = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `113`
+- `Sun/Zeus = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `163`
+- `Zeus/Apollon = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `291`
+- `Zeus/Apollon = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `452`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Sun/Apollon = Zeus`: This formula emphasizes successful creativeness and successful in all things.
+- `Sun/Zeus = Apollon`: This formula emphasizes a successful leader and recognition by many.
+- `Zeus/Apollon = Sun`: The man who has practical experience.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Zeus](../factors/zeus.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

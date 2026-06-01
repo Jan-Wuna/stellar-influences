@@ -3,7 +3,7 @@ title: Hades/Zeus = Moon
 page_type: activation
 slug: hades-zeus-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Hades
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Zeus`
-- Source page: `277`
 #### Witte Entry
 
 Women or persons whose conduct is repulsive or hateful. Persons who are hindered in activity: sick Persons. Military hospitals, infirmaries. Sickness of the brain. Industry worker. Female persons injured by burns.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Women or persons whose conduct is repulsive or hateful. Persons who are hindered in activity: sick Persons. Military hospitals, infirmaries. Sickness of the brain. Industry worker. Female persons injured by burns.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+fire feelings hide, dangerous objective of a people, achievements of a Y olk from the past, lack of leading women, hour of fire hazard, female guidance service, and procreation pension of women
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Zeus = Moon`: public or bodily life being marked by harmed activity, disease, and harsh working or medical conditions. It can show the emotional field carrying the residue of injury and hate.
 
 ## Links
 
@@ -61,3 +55,5 @@ Women or persons whose conduct is repulsive or hateful. Persons who are hindered
 - [Zeus](../factors/zeus.md)
 - [Moon](../factors/moon.md)
 - [Hades/Zeus](../axes/hades-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,10 +3,10 @@ title: Moon/Asc = Apollon
 page_type: activation
 slug: moon-asc-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Moon
+  - Asc
   - Apollon
 normalized_formula: Moon/Asc = Apollon
 axis: Moon/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Asc
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Moon`
-- Source page: `81`
 #### Witte Entry
 
 Many female acquaintances. Female customers. Many people in one place. Connected with the public through commerce and science.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Many female acquaintances. Female customers. Many people in one place. Connected with the public through commerce and science.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Expansion of other peoples, special hour at the place, success with other women, successful woman as partner, freedom in the environment of the mother, business women in the place, self conscious woman as partner, many women in the environment, and increasing partner skills
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Asc = Apollon`: Many female acquaintances. Female customers. Many people in one place. Connected with the public through commerce and science.
+- Practical focus: widens `Moon/Asc` into social reach, circulation, and public exchange. It points to emotional rapport with many people, especially through trade, clientele, study, or networked environments, so the person's feeling nature becomes more publicly distributed and commercially or intellectually connected.
+- Practical expression: expansion of other peoples, special hour at the place, success with other women, successful woman as partner, and freedom in the environment of the mother.
 
 ## Links
 
@@ -61,3 +57,5 @@ Many female acquaintances. Female customers. Many people in one place. Connected
 - [Asc](../factors/asc.md)
 - [Apollon](../factors/apollon.md)
 - [Moon/Asc](../axes/moon-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,10 +3,10 @@ title: Moon/Asc = Vulcanus
 page_type: activation
 slug: moon-asc-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Moon
+  - Asc
   - Vulcanus
 normalized_formula: Moon/Asc = Vulcanus
 axis: Moon/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Asc
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Moon`
-- Source page: `81`
 #### Witte Entry
 
 Demonstration of power by female persons. To be powerfully influenced by the public in the near surroundings. To be strongly connected with the public. To be socially with representatives of the executive in one place.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Demonstration of power by female persons. To be powerfully influenced by the public in the near surroundings. To be strongly connected with the public. To be socially with representatives of the executive in one place.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influence of other women, influence of other people, energetic woman as partner, felicitous partner influence, violence against other women, power of the hour in the place, power of a woman in the place, strong women in the environment, and hour of violence in the place
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Asc = Vulcanus`: Demonstration of power by female persons. To be powerfully influenced by the public in the near surroundings. To be strongly connected with the public. To be socially with representatives of the executive in one place.
+- Practical focus: intensifies `Moon/Asc` with force, pressure, and mass influence. Emotional presence becomes strongly affected by the public and nearby environment, often through powerful women, executive circles, or concentrated collective energy that makes private feeling socially consequential.
+- Practical expression: influence of other women, influence of other people, energetic woman as partner, felicitous partner influence, and violence against other women.
 
 ## Links
 
@@ -61,3 +57,5 @@ Demonstration of power by female persons. To be powerfully influenced by the pub
 - [Asc](../factors/asc.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Moon/Asc](../axes/moon-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

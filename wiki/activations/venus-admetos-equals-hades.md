@@ -3,7 +3,7 @@ title: Venus/Admetos = Hades
 page_type: activation
 slug: venus-admetos-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Hades
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Admetos`
-- Source page: `187`
 #### Witte Entry
 
 Unable to true and deep love. Lack of carefulness and cleanness.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Unable to true and deep love. Lack of carefulness and cleanness.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Persistent love efforts, beginning of a deep love, profound peace efforts, profound achievements in the arts, delinquent clincher's achievements, the creation of a art direction, and preference for lasting achievements
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Admetos = Hades`: unable to true and deep love.
+- Practical expression: persistent love efforts, beginning of a deep love, profound peace efforts, profound achievements in the arts, and delinquent clincher's achievements.
 
 ## Links
 
@@ -61,3 +56,5 @@ Unable to true and deep love. Lack of carefulness and cleanness.
 - [Admetos](../factors/admetos.md)
 - [Hades](../factors/hades.md)
 - [Venus/Admetos](../axes/venus-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

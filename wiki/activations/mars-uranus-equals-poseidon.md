@@ -3,7 +3,7 @@ title: Mars/Uranus = Poseidon
 page_type: activation
 slug: mars-uranus-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Uranus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Uranus`
-- Source page: `194`
 #### Witte Entry
 
 Honesty, straightforwardness and truthfulness. Acts which harmonize with morals and truth. Clarity through energetic deeds.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Honesty, straightforwardness and truthfulness. Acts which harmonize with morals and truth. Clarity through energetic deeds.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dynamic mind work, mental work impulses, ideal actions, clear will impulses, new cultural activity, new spiritual impulses, exciting cultural work, spontaneous reason actions, and technical insights
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Uranus = Poseidon` aligns sudden force with truth, honesty, and clear moral action.
+- Chart expression: straightforward and truthful deeds, energetic action that clarifies moral reality, and force used in a way that reveals rather than obscures truth.
 
 ## Links
 
@@ -61,3 +56,5 @@ Honesty, straightforwardness and truthfulness. Acts which harmonize with morals 
 - [Uranus](../factors/uranus.md)
 - [Poseidon](../factors/poseidon.md)
 - [Mars/Uranus](../axes/mars-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Moon Asc Poseidon
 page_type: triad_hub
 slug: moon-asc-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Asc Poseidon`
 - Astronomicon triad-set: `R Asc ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Poseidon = Moon](../activations/asc-poseidon-equals-moon.md)
-  Source page `98`
 - [Moon/Asc = Poseidon](../activations/moon-asc-equals-poseidon.md)
-  Source page `81`
 - [Moon/Poseidon = Asc](../activations/moon-poseidon-equals-asc.md)
-  Source page `138`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Poseidon = Moon`: page `98`
-- `Moon/Asc = Poseidon`: page `81`
-- `Moon/Poseidon = Asc`: page `138`
+- `Asc/Poseidon = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `98`
+- `Asc/Poseidon = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `136`
+- `Moon/Asc = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `81`
+- `Moon/Asc = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `103`
+- `Moon/Poseidon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `138`
+- `Moon/Poseidon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `206`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Poseidon = Moon`: spiritual susceptibility in others and public visibility gained through spiritual or idealized relationships.
+- `Moon/Asc = Poseidon`: This activation spiritualizes `Moon/Asc` and makes emotional presence seem refined, thoughtful, or idealized. It often points to contact with high-minded women, receptivity to subtler mental influences, and a public manner shaped by conscience, inspiration, or elevated sensibility.
+- `Moon/Poseidon = Asc`: To influence others mentally. Relations to people who are susceptible to mental and spiritual things.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Asc](../factors/asc.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

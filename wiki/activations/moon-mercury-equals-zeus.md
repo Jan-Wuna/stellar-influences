@@ -3,7 +3,7 @@ title: Moon/Mercury = Zeus
 page_type: activation
 slug: moon-mercury-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Mercury
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Mercury
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Mercury`
-- Source page: `122`
 #### Witte Entry
 
 Youth or nation under compulsion. To grasp a thought quickly.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Youth or nation under compulsion. To grasp a thought quickly.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Movable creative woman, fiery skills of youth, achievements of the youth of a people, opinion of the woman on procreation, opinions of the people FUhrung, news about womenServices, creative women language, and female youth FUhrung
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Mercury = Zeus`: Youth or nation under compulsion. To grasp a thought quickly.
+- Practical focus: sharpens `Moon/Mercury` through compulsion, quick mental grasp, and pressured youth or collective thought. It can show emotional ideas seized rapidly under stress or urgency, making the mind more reactive, driven, and fast to formulate or execute intent.
+- Practical expression: movable creative woman, fiery skills of youth, achievements of the youth of a people, opinion of the woman on procreation, and opinions of the people FUhrung.
 
 ## Links
 
@@ -61,3 +57,5 @@ Youth or nation under compulsion. To grasp a thought quickly.
 - [Mercury](../factors/mercury.md)
 - [Zeus](../factors/zeus.md)
 - [Moon/Mercury](../axes/moon-mercury.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

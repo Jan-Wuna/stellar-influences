@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Neptune + Neptune`
-- Source page: `245`
 #### Witte Entry
 
 Habit. Things of long duration. Sickness. Treacherous diseases. Chronic ill health. Plague. Chronic conditions. Theft. Losses or separation through deception or fraud. Patience in an uncertain situation. Intuition in old age. Creeping losses. Problems through or with gas, air or water.
 
-## Comparative Schema
-
-- core meaning: Habit. Things of long duration. Sickness. Treacherous diseases. Chronic ill health. Plague. Chronic conditions. Theft. Losses or separation through deception or fraud. Patience in an uncertain situation. Intuition in old age. Creeping losses. Problems through or with gas, air or water.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Neptune = Saturn`: Habit. Things of long duration. Sickness. Treacherous diseases. Chronic ill health. Plague. Chronic conditions. Theft. Losses or separation through deception or fraud. Patience in an uncertain situation. Intuition in old age. Creeping losses. Problems through or with gas, air or water.
+- Practical focus: hardens doubled Neptune into chronic conditions, creeping loss, and long-duration uncertainty, where deception and dissolution persist patiently over time rather than breaking quickly.
 
 ## Links
 

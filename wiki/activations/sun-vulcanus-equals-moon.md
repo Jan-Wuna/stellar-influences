@@ -3,7 +3,7 @@ title: Sun/Vulcanus = Moon
 page_type: activation
 slug: sun-vulcanus-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Moon
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Vulcanus`
-- Source page: `117`
 #### Witte Entry
 
 Well functioning glands. The physical strength of a woman. To demonstrate or apply physical strength in public. Persons with executive power.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Well functioning glands. The physical strength of a woman. To demonstrate or apply physical strength in public. Persons with executive power.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+influence between woman and man, influence of the woman's body, influential hour of the day, emotional influence of the man, power of the man against the woman, power center of a people, personal influence of the woman, and strong man of a woman
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Vulcanus = Moon`: powerful embodiment and concentrated vitality in ordinary life.
+- Practical expression: influence between woman, influence of the woman's body, influential hour of the day, emotional influence of the man, and power of the man against the woman.
 
 ## Links
 
@@ -61,3 +56,5 @@ Well functioning glands. The physical strength of a woman. To demonstrate or app
 - [Vulcanus](../factors/vulcanus.md)
 - [Moon](../factors/moon.md)
 - [Sun/Vulcanus](../axes/sun-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

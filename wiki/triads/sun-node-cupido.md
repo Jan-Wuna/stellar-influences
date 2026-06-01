@@ -3,7 +3,7 @@ title: Sun Node Cupido
 page_type: triad_hub
 slug: sun-node-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Node Cupido`
 - Astronomicon triad-set: `S g ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Node/Cupido = Sun](../activations/node-cupido-equals-sun.md)
-  Source page `149`
 - [Sun/Cupido = Node](../activations/sun-cupido-equals-node.md)
-  Source page `111`
 - [Sun/Node = Cupido](../activations/sun-node-equals-cupido.md)
-  Source page `102`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Node/Cupido = Sun`: page `149`
-- `Sun/Cupido = Node`: page `111`
-- `Sun/Node = Cupido`: page `102`
+- `Node/Cupido = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `149`
+- `Node/Cupido = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `224`
+- `Sun/Cupido = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `111`
+- `Sun/Cupido = Node`: Udo Rudolph - ABC for Planetary Pictures, page `158`
+- `Sun/Node = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `102`
+- `Sun/Node = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `141`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Node/Cupido = Sun`: Marriages. Forms of society. Associations.
+- `Sun/Cupido = Node`: This formula emphasizes a family tie or connection and community.
+- `Sun/Node = Cupido`: This formula emphasizes family ties and close community bonds.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Node](../factors/node.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

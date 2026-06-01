@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Admetos + Admetos`
-- Source page: `309`
 #### Witte Entry
 
 To throttle. Suppression. Terror. Rawness, crudeness. Rocks, fragments, debris, to wreck. The decrease of labor and activity. Narrowing of the field of activity. End of an action. Grave hindrances in the activity. Oppression to the point of immobility. Oppression. To work in wreckage and ruins. Very cold. Rest. Happy in straitened circumstances. Gladly spent money. Gains out of raw materials. To be lucky with raw materials. Expenditures or stoppage of income. Losses. No income. Expenses. Standstill of the currency market.
 
-## Comparative Schema
-
-- core meaning: To throttle. Suppression. Terror. Rawness, crudeness. Rocks, fragments, debris, to wreck. The decrease of labor and activity. Narrowing of the field of activity. End of an action. Grave hindrances in the activity. Oppression to the point of immobility. Oppression. To work in wreckage and ruins. Very cold. Rest. Happy in straitened circumstances. Gladly spent money. Gains out of raw materials. To be lucky with raw materials. Expenditures or stoppage of income. Losses. No income. Expenses. Standstill of the currency market.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Admetos/Admetos = Jupiter`: surviving tight conditions, extracting value from ruins or raw materials, and finding gain even in straitened circumstances. Main caution: throttled growth: oppression, loss of income, stoppage, or material life reduced to harsh endurance and contraction.
 
 ## Links
 

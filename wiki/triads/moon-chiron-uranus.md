@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Moon Chiron Uranus`
 - Astronomicon triad-set: `R Chiron X`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Moon/Chiron = Uranus`: John, page `32`
 - `Moon/Uranus = Chiron`: John, page `33`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Uranus = Moon`: emotional liberation, fresh feeling, and healing through not forcing emotion into old scripts. Main caution: confusing emotional unpredictability with deeper freedom.
+- `Moon/Chiron = Uranus`: When one allow one's originality and uniqueness as an individual to shine forth it has an emotionally cleansing and clearing effect on others, which helps them to re ceive the nurturing from the universe that they need.
+- `Moon/Uranus = Chiron`: Your energy helps others to release pent-up energies in their unconscious and to get more deeply in touch with their instincts. Also, you help them to experience life in a newer, freer way. The ability to free others from insecurities.
 
 ## Links
 

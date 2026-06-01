@@ -3,7 +3,7 @@ title: Venus Zeus Apollon
 page_type: triad_hub
 slug: venus-zeus-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Zeus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Zeus Apollon`
 - Astronomicon triad-set: `Q £ ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Venus/Apollon = Zeus](../activations/venus-apollon-equals-zeus.md)
-  Source page `186`
 - [Venus/Zeus = Apollon](../activations/venus-zeus-equals-apollon.md)
-  Source page `184`
 - [Zeus/Apollon = Venus](../activations/zeus-apollon-equals-venus.md)
-  Source page `291`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Venus/Apollon = Zeus`: page `186`
-- `Venus/Zeus = Apollon`: page `184`
-- `Zeus/Apollon = Venus`: page `291`
+- `Venus/Apollon = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `186`
+- `Venus/Apollon = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `291`
+- `Venus/Zeus = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `184`
+- `Venus/Zeus = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `287`
+- `Zeus/Apollon = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `291`
+- `Zeus/Apollon = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `452`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Venus/Apollon = Zeus`: leader in the fields of art and science.
+- `Venus/Zeus = Apollon`: passive vote.
+- `Zeus/Apollon = Venus`: All peaceful efforts are prosperous. Joy through artistic and scientific activity.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Zeus](../factors/zeus.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

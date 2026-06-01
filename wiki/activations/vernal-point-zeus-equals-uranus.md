@@ -3,7 +3,7 @@ title: Vernal Point/Zeus = Uranus
 page_type: activation
 slug: vernal-point-zeus-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Uranus
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Zeus`
-- Source page: `50`
 #### Witte Entry
 
 & Spontaneous work in general. Manufacturing explosives. Fire spitting craters. Lightening.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: & Spontaneous work in general. Manufacturing explosives. Fire spitting craters. Lightening.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+excitement about public leadership, dynamic creativity in public life, excited public leadership, new efforts in public, public reform event, and technical achievements in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Zeus = Uranus`: & Spontaneous work in general, manufacturing explosives, fire spitting craters, and lightening.
+- Practical expression: excitement about public leadership, dynamic creativity in public life, excited public leadership, new efforts in public, and public reform event.
 
 ## Links
 
@@ -61,3 +56,5 @@ updated_at: 2026-04-21
 - [Zeus](../factors/zeus.md)
 - [Uranus](../factors/uranus.md)
 - [Vernal Point/Zeus](../axes/vernal-point-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

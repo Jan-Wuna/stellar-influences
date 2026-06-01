@@ -3,7 +3,7 @@ title: Mercury Venus Zeus
 page_type: triad_hub
 slug: mercury-venus-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Venus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Venus Zeus`
 - Astronomicon triad-set: `T Q £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Venus = Zeus](../activations/mercury-venus-equals-zeus.md)
-  Source page `159`
 - [Mercury/Zeus = Venus](../activations/mercury-zeus-equals-venus.md)
-  Source page `168`
 - [Venus/Zeus = Mercury](../activations/venus-zeus-equals-mercury.md)
-  Source page `184`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Venus = Zeus`: page `159`
-- `Mercury/Zeus = Venus`: page `168`
-- `Venus/Zeus = Mercury`: page `184`
+- `Mercury/Venus = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `159`
+- `Mercury/Venus = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `241`
+- `Mercury/Zeus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `168`
+- `Mercury/Zeus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `258`
+- `Venus/Zeus = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `184`
+- `Venus/Zeus = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `286`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Venus = Zeus`: Acquaintances by order or work. To be forced to greet the superiors. Incendiary mania. Pyrotechnist. Artist with fireworks.
+- `Mercury/Zeus = Venus`: Well meaning arrangements, dispositions or orders. Decrees about moral matters and customs. Rules about greeting.
+- `Venus/Zeus = Mercury`: acquaintances through working together.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Venus](../factors/venus.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

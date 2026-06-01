@@ -3,7 +3,7 @@ title: Moon Mercury Zeus
 page_type: triad_hub
 slug: moon-mercury-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Mercury
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Mercury Zeus`
 - Astronomicon triad-set: `R T £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Zeus = Moon](../activations/mercury-zeus-equals-moon.md)
-  Source page `168`
 - [Moon/Mercury = Zeus](../activations/moon-mercury-equals-zeus.md)
-  Source page `122`
 - [Moon/Zeus = Mercury](../activations/moon-zeus-equals-mercury.md)
-  Source page `132`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Zeus = Moon`: page `168`
-- `Moon/Mercury = Zeus`: page `122`
-- `Moon/Zeus = Mercury`: page `132`
+- `Mercury/Zeus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `168`
+- `Mercury/Zeus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `258`
+- `Moon/Mercury = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `122`
+- `Moon/Mercury = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `177`
+- `Moon/Zeus = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `132`
+- `Moon/Zeus = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `196`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Zeus = Moon`: Publicity through original thoughts. Edicts for the populace. Women who command. Laws for women. Mustering, recruiting.
+- `Moon/Mercury = Zeus`: This activation sharpens `Moon/Mercury` through compulsion, quick mental grasp, and pressured youth or collective thought. It can show emotional ideas seized rapidly under stress or urgency, making the mind more reactive, driven, and fast to formulate or execute intent.
+- `Moon/Zeus = Mercury`: Live mind. Creative thoughts. Very temperamental. Exchange of information on female conception.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Mercury](../factors/mercury.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

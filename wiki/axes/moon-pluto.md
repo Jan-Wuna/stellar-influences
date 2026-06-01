@@ -58,12 +58,13 @@ aliases:
   - Pluto/Moon
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -76,17 +77,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Pluto`
-- Source page: `129`
-
 #### Pair Summary
 
 Development of the brain and the glands. Cognition. Public changes. Unstable condition of the public. Hourly changes. Changes which come and go fast. Fickleness of female persons. Females or the public in change or transformation. Women, persons or the public who change, who show a different face, who change their character.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Moon/Pluto`
-- Source page: `134`
+#### ABC Pair Summary
+
+The evolution of women, the evolution of a people, the transformation of women, the unfolding of women, the change of courage, the hour of change, the growing people, the change of women, and the changing ways of life
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -110,17 +111,11 @@ People with extreme emotional expression.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
-- Source heading: `Moon/Pluto`
-- Source page: `32`
-
 #### Falis Entry
 
 Emotional undertow. Buried feelings. Burying feelings. Feeling nourished by in tense experiences. Needing to hit rock bottom from time to time in order to have an emotional overhaul. Emotional obsession. Feeling reborn. Survival instincts. Emotionally nourished by the taboo. Taboo feelings. Having feelings that you shouldn't have. Strong feelings about women. A powerfully emotional woman in your life. Powerful emotions. Oppressive emotional life. Brooding. Feelings of jeal ousy. Compulsive eating habits. Obsessive habits. Emotionally compulsive. Emo tional intensity. Mood swings. Emotionally overwhelming. Needing to have power. Plummeting to the depths of emotion. Emotional healing. Emotional depth. Intense women. Powerful women. Healers. The urge for power. Unaware of con trolling behaviors. Needing to be in control. Controlling food intake. Controlled re sponses. Controlled feelings. Passionate feelings. Powerful subconscious drives and longings. Emotional death. Killing off bad habits. An emotionally over whelming mother. Insidious feelings. Insidious habits. The emotional shadow. The female shadow. Enigmatic women. Sorceresses. Intense reactions. Psychological insight. Emotional pressure. Power struggles with women. Power struggles with your mother. A smothering mother. Sexual instincts. Sexual feelings. Hiding feel ings. Hiding habits. Hiding personal needs. A wealth of emotion. Instinct for wealth. Wanting to find buried treasure. Feeding the shadow. Feeding the dark side. Finding comfort in transformation. Finding comfort in intense experience. Finding comfort through sex. Powerful support. Emotional resources. Food re sources. Agonizing emotions. Consuming habits. Needing revenge. Being vindictive. Unrelenting feelings. Hold ing a grudge. Unrelenting support. Unrelenting passion and intensity - for better or worse. Intense feelings about family. Comfortable with overwhelming emotions. Strong likes and dislikes. No emotional middle ground. Extreme feelings of love or hate. Emotionally suffocating. Taking things personally. Never forgetting a trans gression. Emotional cruelty - to yourself or others. Getting enjoyment from de struction. Getting enjoyment from cruelty. Emotional abuse - given or received. Tenacity. The ability to make a comeback. Taking pleasure in the taboo. Taking pleasure in healing experiences. Taking pleasure in psychology. Taking pleasure in deep feelings. Taking pleasure in heavy feelings. Sensing pressure from women. Formidable security needs. Subversive habits. The instinct to transform. Instinctual regeneration.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
-
-- Source heading: `Planets activating the Moon/Pluto midpoint`
-- Source page: `36`
 
 #### Principle
 
@@ -132,17 +127,11 @@ The intensification of feelings as a means of purging and refining them. Confron
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Moon/Pluto`
-- Source page: `203`
-
 #### Pair Delineation
 
 Emotional transformation, powerful feelings, intense desires, emotional fanaticism. Dominance of one's consciousness by unconscious energies. Emotional power struggles. In male charts may be a point indicating difficulty with women. Unconscious manipulation of others or by others.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `MOON/PLUTO`
-- Source page: `131`
 
 #### Basic Ideas
 
@@ -171,15 +160,6 @@ Activities of the endocrine and pituitary glands; pressures in body cavities cau
 
 - [Michael Munkasey - Moon/Pluto Concepts](../derived/munkasey-moon-pluto-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Moon/Pluto = Admetos](../activations/moon-pluto-equals-admetos.md)
@@ -204,20 +184,18 @@ Activities of the endocrine and pituitary glands; pressures in body cavities cau
 - [Moon/Pluto = Vulcanus](../activations/moon-pluto-equals-vulcanus.md)
 - [Moon/Pluto = Zeus](../activations/moon-pluto-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Pluto` is the axis of emotional intensity, instinctive transformation, deep survival feeling, and powerful undercurrents in family or intimate life. It combines mood, habit, nurture, and memory with pressure, compulsion, secrecy, regeneration, and the urge to confront what lies beneath the surface.
+- Chart expression: emotional depth, resilience, catharsis, psychological insight, powerful attachment, and the ability to endure and transform through profound feeling. Liabilities: jealousy, possessiveness, emotional manipulation, eruptions from the unconscious, controlling habits, and crises that arise when safety and power become fused.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Pluto](../factors/pluto.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

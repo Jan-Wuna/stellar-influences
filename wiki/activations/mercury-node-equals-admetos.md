@@ -3,10 +3,10 @@ title: Mercury/Node = Admetos
 page_type: activation
 slug: mercury-node-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Mercury
+  - Node
   - Admetos
 normalized_formula: Mercury/Node = Admetos
 axis: Mercury/Node
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Node
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Mercury`
-- Source page: `141`
 #### Witte Entry
 
 Deep, sad thoughts. Definite severing of connections, of a trend of thoughts. Something that is definitely ended.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Deep, sad thoughts. Definite severing of connections, of a trend of thoughts. Something that is definitely ended.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked traffic connections, depressive voice connection, restricted news connection, consolidation of opinion in connections, thought blockade in a connection, grilndliche media contacts, and deepening of the relationship with youth
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Node = Admetos` narrows the axis into sad thought and definite severance of mental ties.
+- Chart expression: deep or sorrowful thinking, a decided ending of contact or shared mental direction, and the feeling that a connection or exchange has conclusively run its course.
 
 ## Links
 
@@ -61,3 +56,5 @@ Deep, sad thoughts. Definite severing of connections, of a trend of thoughts. So
 - [Node](../factors/node.md)
 - [Admetos](../factors/admetos.md)
 - [Mercury/Node](../axes/mercury-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Hades Vulcanus Poseidon
 page_type: triad_hub
 slug: hades-vulcanus-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Vulcanus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Hades Vulcanus Poseidon`
 - Astronomicon triad-set: `¢ § ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Poseidon = Vulcanus](../activations/hades-poseidon-equals-vulcanus.md)
-  Source page `286`
 - [Hades/Vulcanus = Poseidon](../activations/hades-vulcanus-equals-poseidon.md)
-  Source page `285`
 - [Vulcanus/Poseidon = Hades](../activations/vulcanus-poseidon-equals-hades.md)
-  Source page `315`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Poseidon = Vulcanus`: page `286`
-- `Hades/Vulcanus = Poseidon`: page `285`
-- `Vulcanus/Poseidon = Hades`: page `315`
+- `Hades/Poseidon = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `286`
+- `Hades/Poseidon = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `449`
+- `Hades/Vulcanus = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `285`
+- `Hades/Vulcanus = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `447`
+- `Vulcanus/Poseidon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `315`
+- `Vulcanus/Poseidon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `479`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Poseidon = Vulcanus`: strong consciousness of an exceptional and isolated position, becoming very noted or notorious, and meeting refusal or rejection from that position.
+- `Hades/Vulcanus = Poseidon`: criminal community, hate-born evil, oppressive power, weakened groups under danger, guilty awareness, depression under rule, and meditation on the past.
+- `Vulcanus/Poseidon = Hades`: Lack of self-confidence, pride, honor and dignity. That which is despised, undignified or dishonorable.
 
 ## Links
 
 - [Hades](../factors/hades.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

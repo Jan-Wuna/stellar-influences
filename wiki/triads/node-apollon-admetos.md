@@ -3,7 +3,7 @@ title: Node Apollon Admetos
 page_type: triad_hub
 slug: node-apollon-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Apollon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Node Apollon Admetos`
 - Astronomicon triad-set: `g ¥ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Apollon/Admetos = Node](../activations/apollon-admetos-equals-node.md)
-  Source page `306`
 - [Node/Admetos = Apollon](../activations/node-admetos-equals-apollon.md)
-  Source page `154`
 - [Node/Apollon = Admetos](../activations/node-apollon-equals-admetos.md)
-  Source page `153`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Apollon/Admetos = Node`: page `306`
-- `Node/Admetos = Apollon`: page `154`
-- `Node/Apollon = Admetos`: page `153`
+- `Apollon/Admetos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `306`
+- `Apollon/Admetos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `468`
+- `Node/Admetos = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `154`
+- `Node/Admetos = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `235`
+- `Node/Apollon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `153`
+- `Node/Apollon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `233`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Apollon/Admetos = Node`: satisfaction with existing conditions and relationships that provide exactly what is needed without excess movement.
+- `Node/Admetos = Apollon`: Contentment with a few. From bonds to freedom. Satisfied and contented with one’s own connections.
+- `Node/Apollon = Admetos`: From freedom into lack of freedom. Small exclusive economic or scientific communities. To be content with freedom or lack of freedom.
 
 ## Links
 
 - [Node](../factors/node.md)
 - [Apollon](../factors/apollon.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

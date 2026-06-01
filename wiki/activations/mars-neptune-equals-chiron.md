@@ -33,30 +33,15 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mars/Neptune midpoint`
-- Source page: `72`
-- Activator: `Chiron`
-
 #### Sandbach Entry
 
 Your vibration naturally helps others to align their desire for action with their own intuition, so that their actions become not only more refined and subtle, but more effective. You also help them to deal assertively with the psychic forces at work around them, so that they can align themselves with the positive ones as well as overcome the draining and confusing effects of the negative ones.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Neptune = Chiron` helps confused or draining action realign with intuition and subtle effectiveness.
+- Chart expression: aiding others in bringing desire and effort into harmony with psychic or intuitive truth, so that action becomes more refined, more effective, and less vulnerable to draining or negative influences.
 
 ## Links
 

@@ -3,7 +3,7 @@ title: Sun/Mercury = Vernal Point
 page_type: activation
 slug: sun-mercury-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Mercury
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Sun
   - Mercury
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Mercury`
-- Source page: `103`
 #### Witte Entry
 
 The thinking man in general. Motion on the day. Travelling and wandering.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The thinking man in general. Motion on the day. Travelling and wandering.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+young people in public, body language in public life, public personal traffic, public center of opinion, personal conversations in public, and daytime conversations in public life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Mercury = Vernal Point`: thoughts shaped by the environment and identity expressed through immediate circumstances.
+- Practical expression: young people in public, body language in public life, public personal traffic, public center of opinion, and personal conversations in public.
 
 ## Links
 
@@ -61,3 +56,5 @@ The thinking man in general. Motion on the day. Travelling and wandering.
 - [Mercury](../factors/mercury.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Sun/Mercury](../axes/sun-mercury.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

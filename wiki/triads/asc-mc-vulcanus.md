@@ -3,7 +3,7 @@ title: Asc MC Vulcanus
 page_type: triad_hub
 slug: asc-mc-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Asc MC Vulcanus`
 - Astronomicon triad-set: `Asc MC §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/MC = Vulcanus](../activations/asc-mc-equals-vulcanus.md)
-  Source page `58`
 - [Asc/Vulcanus = MC](../activations/asc-vulcanus-equals-mc.md)
-  Source page `97`
 - [MC/Vulcanus = Asc](../activations/mc-vulcanus-equals-asc.md)
-  Source page `76`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/MC = Vulcanus`: page `58`
-- `Asc/Vulcanus = MC`: page `97`
-- `MC/Vulcanus = Asc`: page `76`
+- `Asc/MC = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `58`
+- `Asc/MC = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `61`
+- `Asc/Vulcanus = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `97`
+- `Asc/Vulcanus = MC`: Udo Rudolph - ABC for Planetary Pictures, page `134`
+- `MC/Vulcanus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `76`
+- `MC/Vulcanus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `96`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/MC = Vulcanus`: power exercised with others, coordinated strength, and a life path marked by joint action, collective pressure, or decisive shared effort.
+- `Asc/Vulcanus = MC`: being heavily drawn upon by others and having one's course shaped by intense external demands.
+- `MC/Vulcanus = Asc`: brings the axis into direct contact by making others feel one's power.
 
 ## Links
 
 - [Asc](../factors/asc.md)
 - [MC](../factors/mc.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

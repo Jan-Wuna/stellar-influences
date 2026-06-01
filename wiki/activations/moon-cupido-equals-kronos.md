@@ -3,7 +3,7 @@ title: Moon/Cupido = Kronos
 page_type: activation
 slug: moon-cupido-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Cupido
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Cupido`
-- Source page: `130`
 #### Witte Entry
 
 Betrothal. Marriage. Social marriage of women. Leisure time devoted to great things. Free time ordered by the state. Authorities influence marriage.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Betrothal. Marriage. Social marriage of women. Leisure time devoted to great things. Free time ordered by the state. Authorities influence marriage.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+special emotional community, special art of a woman, chief of a women's community, dominant women of a community, community of respected women, great feeling of community, and independent community of the people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Cupido = Kronos`: Betrothal. Marriage. Social marriage of women. Leisure time devoted to great things. Free time ordered by the state. Authorities influence marriage.
+- Practical expression: special emotional community, special art of a woman, chief of a women's community, dominant women of a community, and community of respected women.
 
 ## Links
 
@@ -61,3 +56,5 @@ Betrothal. Marriage. Social marriage of women. Leisure time devoted to great thi
 - [Cupido](../factors/cupido.md)
 - [Kronos](../factors/kronos.md)
 - [Moon/Cupido](../axes/moon-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

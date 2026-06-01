@@ -3,7 +3,7 @@ title: MC Admetos Poseidon
 page_type: triad_hub
 slug: mc-admetos-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Admetos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `MC Admetos Poseidon`
 - Astronomicon triad-set: `MC ¦ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Admetos/Poseidon = MC](../activations/admetos-poseidon-equals-mc.md)
-  Source page `312`
 - [MC/Admetos = Poseidon](../activations/mc-admetos-equals-poseidon.md)
-  Source page `75`
 - [MC/Poseidon = Admetos](../activations/mc-poseidon-equals-admetos.md)
-  Source page `77`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Admetos/Poseidon = MC`: page `312`
-- `MC/Admetos = Poseidon`: page `75`
-- `MC/Poseidon = Admetos`: page `77`
+- `Admetos/Poseidon = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `312`
+- `Admetos/Poseidon = MC`: Udo Rudolph - ABC for Planetary Pictures, page `476`
+- `MC/Admetos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `75`
+- `MC/Admetos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `95`
+- `MC/Poseidon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `77`
+- `MC/Poseidon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `99`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Admetos/Poseidon = MC`: personal culture, education, and the shaping of life direction through disciplined refinement and formative influence.
+- `MC/Admetos = Poseidon`: refines the axis through training, depth of mind, and knowledge that can become fixed.
+- `MC/Poseidon = Admetos`: deepens the axis into education, profundity, and return to first causes.
 
 ## Links
 
 - [MC](../factors/mc.md)
 - [Admetos](../factors/admetos.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

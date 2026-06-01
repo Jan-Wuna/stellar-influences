@@ -3,7 +3,7 @@ title: Moon/Uranus = Poseidon
 page_type: activation
 slug: moon-uranus-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Uranus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Uranus`
-- Source page: `127`
 #### Witte Entry
 
 Hours of mental tension. Sudden public propaganda.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Hours of mental tension. Sudden public propaganda.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+spiritual impulses of the woman, cultural reform of a people, new insights about the woman, new ideas of a woman, sudden clarity of the feelings, hour of sudden enlightenment, surprising insight of a woman, and reasonable technique of a people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Uranus = Poseidon`: Hours of mental tension. Sudden public propaganda.
+- Practical focus: spiritualizes `Moon/Uranus` into tense thought, sudden messaging, and ideologically charged public stimulation. It channels nervous excitement into mental or propagandistic forms, where upheaval is carried by ideas as much as events.
+- Practical expression: spiritual impulses of the woman, cultural reform of a people, new insights about the woman, new ideas of a woman, and sudden clarity of the feelings.
 
 ## Links
 
@@ -61,3 +57,5 @@ Hours of mental tension. Sudden public propaganda.
 - [Uranus](../factors/uranus.md)
 - [Poseidon](../factors/poseidon.md)
 - [Moon/Uranus](../axes/moon-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

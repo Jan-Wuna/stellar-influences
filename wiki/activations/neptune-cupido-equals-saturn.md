@@ -3,7 +3,7 @@ title: Neptune/Cupido = Saturn
 page_type: activation
 slug: neptune-cupido-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Neptune
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Cupido`
-- Source page: `247`
 #### Witte Entry
 
 A sickness beclouds a marriage or organization. Separation of a mismarriage. Dissolution of associations. Disagreeableness, unpleasantness and misunderstandings in a community.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A sickness beclouds a marriage or organization. Separation of a mismarriage. Dissolution of associations. Disagreeableness, unpleasantness and misunderstandings in a community.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+serious community with finesse, serious future knowledge, urban community in the water, creeping separation of a community, disturbance of a weak community, disturbances and uncertainty in of a community, and losses by dissolving of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Cupido = Saturn`: A sickness beclouds a marriage or organization. Separation of a mismarriage. Dissolution of associations. Disagreeableness, unpleasantness and misunderstandings in a community.
+- Practical focus: hardens communal and marital instability into sickness, separation, misunderstanding, and prolonged unpleasantness, showing associations that decay under strain rather than recover.
+- Practical expression: serious community with finesse, serious future knowledge, urban community in the water, creeping separation of a community, and disturbance of a weak community.
 
 ## Links
 
@@ -61,3 +57,5 @@ A sickness beclouds a marriage or organization. Separation of a mismarriage. Dis
 - [Cupido](../factors/cupido.md)
 - [Saturn](../factors/saturn.md)
 - [Neptune/Cupido](../axes/neptune-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

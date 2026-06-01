@@ -3,7 +3,7 @@ title: Mars Zeus Kronos
 page_type: triad_hub
 slug: mars-zeus-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Zeus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Zeus Kronos`
 - Astronomicon triad-set: `U £ ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Kronos = Zeus](../activations/mars-kronos-equals-zeus.md)
-  Source page `200`
 - [Mars/Zeus = Kronos](../activations/mars-zeus-equals-kronos.md)
-  Source page `199`
 - [Zeus/Kronos = Mars](../activations/zeus-kronos-equals-mars.md)
-  Source page `289`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Kronos = Zeus`: page `200`
-- `Mars/Zeus = Kronos`: page `199`
-- `Zeus/Kronos = Mars`: page `289`
+- `Mars/Kronos = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `200`
+- `Mars/Kronos = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `315`
+- `Mars/Zeus = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `199`
+- `Mars/Zeus = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `313`
+- `Zeus/Kronos = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `289`
+- `Zeus/Kronos = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `450`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Kronos = Zeus`: directs executive force into military command, strategic initiative, and purposeful assertion.
+- `Mars/Zeus = Kronos`: raises the axis into mastery, command, and officially backed technical leadership.
+- `Zeus/Kronos = Mars`: The creative ability of the womb. Love’s labor. Expansive peaceful work. To experience friendship and affection through great accomplishment. Diplomat. Peaceful military power.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Zeus](../factors/zeus.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

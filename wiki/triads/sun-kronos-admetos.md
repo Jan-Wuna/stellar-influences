@@ -3,7 +3,7 @@ title: Sun Kronos Admetos
 page_type: triad_hub
 slug: sun-kronos-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Kronos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Kronos Admetos`
 - Astronomicon triad-set: `S ¤ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Kronos/Admetos = Sun](../activations/kronos-admetos-equals-sun.md)
-  Source page `300`
 - [Sun/Admetos = Kronos](../activations/sun-admetos-equals-kronos.md)
-  Source page `116`
 - [Sun/Kronos = Admetos](../activations/sun-kronos-equals-admetos.md)
-  Source page `114`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Kronos/Admetos = Sun`: page `300`
-- `Sun/Admetos = Kronos`: page `116`
-- `Sun/Kronos = Admetos`: page `114`
+- `Kronos/Admetos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `300`
+- `Kronos/Admetos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `462`
+- `Sun/Admetos = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `116`
+- `Sun/Admetos = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `169`
+- `Sun/Kronos = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `114`
+- `Sun/Kronos = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `165`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Kronos/Admetos = Sun`: a person who lives as an exception, alone, different through position, and subject to special treatment because of singular status.
+- `Sun/Admetos = Kronos`: This formula emphasizes to own property and oppression through government or superiors.
+- `Sun/Kronos = Admetos`: This formula emphasizes landed proprietor or owner and landowner.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Kronos](../factors/kronos.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

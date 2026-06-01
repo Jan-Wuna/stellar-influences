@@ -3,7 +3,7 @@ title: Uranus/Apollon = Pluto
 page_type: activation
 slug: uranus-apollon-equals-pluto
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Pluto
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Apollon`
-- Source page: `240`
 #### Witte Entry
 
 The beginning of a new development with a very small beginning which grows in a short time into something very large and causes great tension. To be tense over the development of things.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The beginning of a new development with a very small beginning which grows in a short time into something very large and causes great tension. To be tense over the development of things.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+development, evolutionary knowledge development, developing new knowledge, developing technical knowledge, a lot of unrest due to changes, and changes due to new knowledge
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Apollon = Pluto`: The beginning of a new development with a very small beginning which grows in a short time into something very large and causes great tension. To be tense over the development of things.
+- Practical expression: development, evolutionary knowledge development, developing new knowledge, developing technical knowledge, and a lot of unrest due to changes.
 
 ## Links
 
@@ -61,3 +56,5 @@ The beginning of a new development with a very small beginning which grows in a 
 - [Apollon](../factors/apollon.md)
 - [Pluto](../factors/pluto.md)
 - [Uranus/Apollon](../axes/uranus-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

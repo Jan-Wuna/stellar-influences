@@ -3,7 +3,7 @@ title: Sun Apollon Vulcanus
 page_type: triad_hub
 slug: sun-apollon-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Apollon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Apollon Vulcanus`
 - Astronomicon triad-set: `S ¥ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Apollon/Vulcanus = Sun](../activations/apollon-vulcanus-equals-sun.md)
-  Source page `307`
 - [Sun/Apollon = Vulcanus](../activations/sun-apollon-equals-vulcanus.md)
-  Source page `115`
 - [Sun/Vulcanus = Apollon](../activations/sun-vulcanus-equals-apollon.md)
-  Source page `117`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Apollon/Vulcanus = Sun`: page `307`
-- `Sun/Apollon = Vulcanus`: page `115`
-- `Sun/Vulcanus = Apollon`: page `117`
+- `Apollon/Vulcanus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `307`
+- `Apollon/Vulcanus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `470`
+- `Sun/Apollon = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `115`
+- `Sun/Apollon = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `167`
+- `Sun/Vulcanus = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `117`
+- `Sun/Vulcanus = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `171`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Apollon/Vulcanus = Sun`: the successful and influential person whose fortune and power are clearly expressed.
+- `Sun/Apollon = Vulcanus`: This formula emphasizes great strength or power and mastery.
+- `Sun/Vulcanus = Apollon`: This formula emphasizes great strength joined with success and mastery on a large scale.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Apollon](../factors/apollon.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

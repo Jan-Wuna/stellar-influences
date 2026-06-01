@@ -3,7 +3,7 @@ title: Uranus/Neptune = Vulcanus
 page_type: activation
 slug: uranus-neptune-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Neptune
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Neptune`
-- Source page: `234`
 #### Witte Entry
 
 Mighty disappointment, suddenly checkmated. The beginning of a large revolution.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Mighty disappointment, suddenly checkmated. The beginning of a large revolution.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Subtle energy impulses, enormous nervousness due to uncertainty, new energies from the water, sudden water violence, strong subtle impulses, tension through powerweakness, technical air power, surprising power resolution, and water force technology
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Neptune = Vulcanus`: Mighty disappointment, suddenly checkmated. The beginning of a large revolution.
+- Practical expression: subtle energy impulses, enormous nervousness due to uncertainty, new energies from the water, sudden water violence, and strong subtle impulses.
 
 ## Links
 
@@ -61,3 +56,5 @@ Mighty disappointment, suddenly checkmated. The beginning of a large revolution.
 - [Neptune](../factors/neptune.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Uranus/Neptune](../axes/uranus-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

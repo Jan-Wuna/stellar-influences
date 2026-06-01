@@ -58,11 +58,12 @@ aliases:
   - MC/Mercury
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -75,17 +76,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury/Medium Coeli`
-- Source page: `172`
-
 #### Pair Summary
 
 One’s own observation. One’s own thinking. To meditate. Monologues. Self-talks. Flexibility of the soul. Business thoughts. Mental attitude. The mobility of thinking. The faculty of thinking. The minute of news. Individual thoughts. Thoughts or news in profession. Media professionals.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Mercury/Medium Coeli`
-- Source page: `172`
+#### ABC Pair Summary
+
+Description of the soul, soulful thinking, soulful youth, soulful speaking, I think I write, my thoughts, my youth, my opinion, my words, seclen language, psychic movement, and me and the media
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -109,9 +110,6 @@ People expressing their own opinions.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mercury/Midheaven midpoint`
-- Source page: `53`
-
 #### Principle
 
 The attaining of greater powers and abilities of communication. Spiritualized thinking. Communication with authorities and authority figures. Making public one’s ideas. How one’s ideas and thinking interact with one’s career. The need to ultimately figure out things for oneself rather than listening solely to the ideas of other people, no matter how authoritative they are.
@@ -122,17 +120,11 @@ Allowing one’s mind to become increasingly infused with and guided by spiritua
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Mercury/Midheaven`
-- Source page: `206`
-
 #### Pair Delineation
 
 One's own ideas, one's point of view. Planning one's own life direction, thinking about objectives. Knowing or thinking about oneself. Considering one's own individuality.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `MERCURY/MIDHEAVEN`
-- Source page: `183`
 
 #### Basic Ideas
 
@@ -161,15 +153,6 @@ Genetic deficiencies or strengths concerning the lungs, breathing, etc.; a famil
 
 - [Michael Munkasey - Mercury/MC Concepts](../derived/munkasey-mercury-mc-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Mercury/MC = Admetos](../activations/mercury-mc-equals-admetos.md)
@@ -194,20 +177,18 @@ Genetic deficiencies or strengths concerning the lungs, breathing, etc.; a famil
 - [Mercury/MC = Vulcanus](../activations/mercury-mc-equals-vulcanus.md)
 - [Mercury/MC = Zeus](../activations/mercury-mc-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/MC` is the axis of mental self-direction, reflective purpose, and public or vocational expression through ideas. It combines analysis, communication, learning, and mobility of mind with life direction, self-knowledge, planning, and outward role.
+- Chart expression: thoughtfulness about one's path, strategic planning, intellectual vocation, public messaging, and the need to form an individual point of view rather than merely repeating what others think. Liabilities: aimlessness, excessive self-reference, career drift driven by changing ideas, and a life course shaped more by cleverness or abstraction than grounded direction.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)

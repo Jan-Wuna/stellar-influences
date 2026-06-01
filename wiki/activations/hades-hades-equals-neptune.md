@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Hades + Hades`
-- Source page: `276`
 #### Witte Entry
 
 Damages through error. Deception. Lack of lucidity. Decay. Water catastrophes. Dropsy. Lack of air. Lack, scarcity. Grave epidemics. Scarcity of water. Damage caused by water or on water. Drowning. Cloudburst. Tidal waves. Cyclones.
 
-## Comparative Schema
-
-- core meaning: Damages through error. Deception. Lack of lucidity. Decay. Water catastrophes. Dropsy. Lack of air. Lack, scarcity. Grave epidemics. Scarcity of water. Damage caused by water or on water. Drowning. Cloudburst. Tidal waves. Cyclones.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Hades = Neptune`: Hades becoming diffuse, hidden, and difficult to contain. It can show corruption, contamination, lack of clarity, collective sickness, or disaster through water, air shortage, or invisible forms of decline.
 
 ## Links
 

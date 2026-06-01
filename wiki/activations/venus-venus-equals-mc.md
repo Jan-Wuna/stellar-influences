@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Venus + Venus`
-- Source page: `174`
 #### Witte Entry
 
 One’s own personal affections. Love sentiments. One’s wishes and hopes. One’s own personal attraction. To have the power of attraction. To be attractive. To be fond of something. Peaceful minded. Feeling balanced. Sense of attraction. Sympathies.
 
-## Comparative Schema
-
-- core meaning: One’s own personal affections. Love sentiments. One’s wishes and hopes. One’s own personal attraction. To have the power of attraction. To be attractive. To be fond of something. Peaceful minded. Feeling balanced. Sense of attraction. Sympathies.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Venus = MC`: one’s own personal affections.
 
 ## Links
 

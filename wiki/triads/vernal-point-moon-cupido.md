@@ -3,7 +3,7 @@ title: Vernal Point Moon Cupido
 page_type: triad_hub
 slug: vernal-point-moon-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Moon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Moon Cupido`
 - Astronomicon triad-set: `VP R ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Cupido = Vernal Point](../activations/moon-cupido-equals-vernal-point.md)
-  Source page `130`
 - [Vernal Point/Cupido = Moon](../activations/vernal-point-cupido-equals-moon.md)
-  Source page `48`
 - [Vernal Point/Moon = Cupido](../activations/vernal-point-moon-equals-cupido.md)
-  Source page `38`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Cupido = Vernal Point`: page `130`
-- `Vernal Point/Cupido = Moon`: page `48`
-- `Vernal Point/Moon = Cupido`: page `38`
+- `Moon/Cupido = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `130`
+- `Moon/Cupido = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `192`
+- `Vernal Point/Cupido = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `48`
+- `Vernal Point/Cupido = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `44`
+- `Vernal Point/Moon = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `38`
+- `Vernal Point/Moon = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `25`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Cupido = Vernal Point`: Weddings. Women proceeding to marriage. General social gatherings, public halls.
+- `Vernal Point/Cupido = Moon`: This formula emphasizes societies for women, national festivals, and union of nations.
+- `Vernal Point/Moon = Cupido`: This formula emphasizes the bride, the housewife, the female artist, and union of peoples.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Moon](../factors/moon.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

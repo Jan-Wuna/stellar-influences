@@ -3,7 +3,7 @@ title: Venus/Cupido = Moon
 page_type: activation
 slug: venus-cupido-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Venus
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Cupido`
-- Source page: `182`
 #### Witte Entry
 
 Marital happiness of the woman. Pleasant company with others. Arts presented to the public.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Marital happiness of the woman. Pleasant company with others. Arts presented to the public.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+The woman in the love community, common love charity, love community with women, peaceful people community, harmony of a women's community, and women's beauty in the arts
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Cupido = Moon`: marital happiness of the woman.
+- Practical expression: the woman in the love community, common love charity, love community with women, peaceful people community, and harmony of a women's community.
 
 ## Links
 
@@ -61,3 +56,5 @@ Marital happiness of the woman. Pleasant company with others. Arts presented to 
 - [Cupido](../factors/cupido.md)
 - [Moon](../factors/moon.md)
 - [Venus/Cupido](../axes/venus-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -45,8 +45,6 @@ updated_at: 2026-04-21
 
 - Axis: `Neptune/Neptune`
 - Astronomicon axis: `Y/Y`
-- Source heading: `Neptune + Neptune`
-- Source page: `244`
 
 ## Source Entries
 
@@ -55,15 +53,6 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 Deceptions. Losses. Dissolutions. Unclear. Future. The Unknown. Inspiration. Fog. Haze. Poison. Gas. Wind. Denial. Mysticism. Inspiration. Fringe science. Creeping states. Uncertain developments. Liquid. Lie.
-
-## Comparative Schema
-
-- core meaning: Deceptions. Losses. Dissolutions. Unclear. Future. The Unknown. Inspiration. Fog. Haze. Poison. Gas. Wind. Denial. Mysticism. Inspiration. Fringe science. Creeping states. Uncertain developments. Liquid. Lie.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
@@ -89,13 +78,11 @@ Deceptions. Losses. Dissolutions. Unclear. Future. The Unknown. Inspiration. Fog
 - [Neptune/Neptune = Vulcanus](../activations/neptune-neptune-equals-vulcanus.md)
 - [Neptune/Neptune = Poseidon](../activations/neptune-neptune-equals-poseidon.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- This axis describes pure Neptunian conditions intensified: uncertainty, dissolution, inspiration, deception, mysticism, and drifting states without firm boundaries. It often shows fogged perception, future-oriented uncertainty, porous reality-testing, and experiences shaped as much by suggestion, atmosphere, or imagination as by solid fact.
+- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
 
 ## Links
 

@@ -53,9 +53,6 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Venus/Chiron midpoint`
-- Source page: `58`
-
 #### Principle
 
 The ability to appreciate how all situations - even ones we would usually think of as negative — can further ones spiritual growth. Seeing beauty in people, things and situations that others might not recognize as beautiful, and helping others to enjoy that beauty. Being a soothing presence to all those around one, a kind of healing balm, even when one may not be trying to do so. Helping others to be at peace and to enjoy life, as well as to see their own personal beauty and worth. Chiron aspecting Venus helps to heal selfishness by coming to a deep understanding of its root cause, which is fear. Alignment of aesthetics with the highest aspect of spirituality. William Blake had a Chi- ron/Venus conjunction.
@@ -63,15 +60,6 @@ The ability to appreciate how all situations - even ones we would usually think 
 #### Process
 
 Attunement to all forms of beauty and through this bringing the energy of beauty into the world to soothe, uplift and calm others. The channeling of spiritual love into physical reality.
-
-## Comparative Schema
-
-- core meaning: source-native pair entries are preserved side by side above.
-- psychology: Sandbach contributes an explicit `Principle` and `Process` layer, while other sources retain their own native structure and vocabulary.
-- body/health: bodily or vitality implications remain embedded inside each source entry when present.
-- social/relationship: interpersonal implications remain attached to the source-native wording above instead of being flattened into one paraphrase.
-- events/manifestations: see the source entries above and the orientation-specific activation pages linked below.
-- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
 
 ## Related Activations
 
@@ -88,14 +76,11 @@ Attunement to all forms of beauty and through this bringing the energy of beauty
 - [Venus/Chiron = Sun](../activations/venus-chiron-equals-sun.md)
 - [Venus/Chiron = Uranus](../activations/venus-chiron-equals-uranus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices and framework emphases rather than flattened into one interpretation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Chiron`: the ability to appreciate how all situations - even ones we would usually think of as negative — can further ones spiritual growth. Other source material adds attunement to all forms of beauty and through this bringing the energy of beauty into the world to soothe, uplift and calm others.
+- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
 
 ## Links
 

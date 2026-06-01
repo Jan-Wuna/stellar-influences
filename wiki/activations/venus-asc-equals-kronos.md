@@ -3,10 +3,10 @@ title: Venus/Asc = Kronos
 page_type: activation
 slug: venus-asc-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Venus
+  - Asc
   - Kronos
 normalized_formula: Venus/Asc = Kronos
 axis: Venus/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Asc
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Venus`
-- Source page: `84`
 #### Witte Entry
 
 To be desired as husband, as head of the family. To be liked and loved by superiors. To gain advancement through good acquaintances.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be desired as husband, as head of the family. To be liked and loved by superiors. To gain advancement through good acquaintances.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Viewed place of the artist, special harmony in the environment, special love for the place, peaceful partner of the state, great joy at the place, harmony with the hierarchy in the environment, harmonious localization, and self sustaining artist as partner
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Asc = Kronos`: to be desired as husband, as head of the family.
+- Practical expression: viewed place of the artist, special harmony in the environment, special love for the place, peaceful partner of the state, and great joy at the place.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be desired as husband, as head of the family. To be liked and loved by superi
 - [Asc](../factors/asc.md)
 - [Kronos](../factors/kronos.md)
 - [Venus/Asc](../axes/venus-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

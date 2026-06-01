@@ -3,7 +3,7 @@ title: Asc Cupido Admetos
 page_type: triad_hub
 slug: asc-cupido-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Asc Cupido Admetos`
 - Astronomicon triad-set: `Asc ¡ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Admetos = Cupido](../activations/asc-admetos-equals-cupido.md)
-  Source page `96`
 - [Asc/Cupido = Admetos](../activations/asc-cupido-equals-admetos.md)
-  Source page `91`
 - [Cupido/Admetos = Asc](../activations/cupido-admetos-equals-asc.md)
-  Source page `271`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Admetos = Cupido`: page `96`
-- `Asc/Cupido = Admetos`: page `91`
-- `Cupido/Admetos = Asc`: page `271`
+- `Asc/Admetos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `96`
+- `Asc/Admetos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `133`
+- `Asc/Cupido = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `91`
+- `Asc/Cupido = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `123`
+- `Cupido/Admetos = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `271`
+- `Cupido/Admetos = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `432`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Admetos = Cupido`: the home base, family place, or communal setting as a fixed environment in which others may feel secondary, envious, or socially constrained.
+- `Asc/Cupido = Admetos`: a compact family or community, often centered on one house, one household, or a tightly bounded social world.
+- `Cupido/Admetos = Asc`: members of an association drifting apart and withdrawing into separation.
 
 ## Links
 
 - [Asc](../factors/asc.md)
 - [Cupido](../factors/cupido.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Uranus/Zeus = Saturn
 page_type: activation
 slug: uranus-zeus-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Uranus
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Zeus`
-- Source page: `238`
 #### Witte Entry
 
 To obey a force with reluctance. Losses through explosions, also through violence, death through such. Sudden storm. Thunderstorms with damages.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To obey a force with reluctance. Losses through explosions, also through violence, death through such. Sudden storm. Thunderstorms with damages.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Serious reform struggles, gestational creative impulses, concentration on technical achievements, new goals in old age, sudden damage fire, mature technical performance, surprising handling problems, restlessness over lossy handling, and lossy new beginning
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Zeus = Saturn`: To obey a force with reluctance. Losses through explosions, also through violence, death through such. Sudden storm. Thunderstorms with damages.
+- Practical expression: serious reform struggles, gestational creative impulses, concentration on technical achievements, new goals in old age, and sudden damage fire.
 
 ## Links
 
@@ -61,3 +56,5 @@ To obey a force with reluctance. Losses through explosions, also through violenc
 - [Zeus](../factors/zeus.md)
 - [Saturn](../factors/saturn.md)
 - [Uranus/Zeus](../axes/uranus-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Mars Hades Poseidon
 page_type: triad_hub
 slug: mars-hades-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Hades Poseidon`
 - Astronomicon triad-set: `U ¢ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Poseidon = Mars](../activations/hades-poseidon-equals-mars.md)
-  Source page `286`
 - [Mars/Hades = Poseidon](../activations/mars-hades-equals-poseidon.md)
-  Source page `198`
 - [Mars/Poseidon = Hades](../activations/mars-poseidon-equals-hades.md)
-  Source page `204`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Poseidon = Mars`: page `286`
-- `Mars/Hades = Poseidon`: page `198`
-- `Mars/Poseidon = Hades`: page `204`
+- `Hades/Poseidon = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `286`
+- `Hades/Poseidon = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `448`
+- `Mars/Hades = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `198`
+- `Mars/Hades = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `311`
+- `Mars/Poseidon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `204`
+- `Mars/Poseidon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `323`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Poseidon = Mars`: separation caused by one's own actions or moral stance, special treatment, and deliberate or imposed isolation.
+- `Mars/Hades = Poseidon`: poor moral standards and service that demands very little mental or spiritual development.
+- `Mars/Poseidon = Hades`: corrupts intellectual or moral action into base conduct and lack of ethics.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Hades](../factors/hades.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

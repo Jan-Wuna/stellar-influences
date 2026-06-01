@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Moon Chiron Asc`
 - Astronomicon triad-set: `R Chiron Asc`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Moon/Asc = Chiron`: John, page `39`
 - `Moon/Chiron = Asc`: John, page `32`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Asc = Moon`: identity healing through feeling, nurturance, and emotional purification. Main caution: becoming emotionally identified with one's wounds instead of letting them be transformed.
+- `Moon/Asc = Chiron`: Your energy helps others to be more aware of how they feel about themselves and their relationships, and to allow emotional energy to flow more freely when they re late. You help people to see how their feelings conditions their identity.
+- `Moon/Chiron = Asc`: The ability to heal and cleanse negative feelings about the self, and to let go of identifying with one’s insecurities by attuning to a very deep level of spiritual security.
 
 ## Links
 

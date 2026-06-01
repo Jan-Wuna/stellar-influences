@@ -3,7 +3,7 @@ title: Apollon/Admetos = Venus
 page_type: activation
 slug: apollon-admetos-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Apollon
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Apollon
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Apollon + Admetos`
-- Source page: `306`
 #### Witte Entry
 
 Self-sufficient. Satisfaction and rest of mind through being single and alone. To be without feeling for love and affection.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Self-sufficient. Satisfaction and rest of mind through being single and alone. To be without feeling for love and affection.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked peace success, restriction of peaceful expansion, successful consolidation of harmony, consolidation of artificial knowledge, joy over success through perseverance, grilndlich experiences in love, and deepening of artistic success
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Apollon/Admetos = Venus`: contentment in solitude and emotional quiet that does not depend on partnership. Main caution: affective withdrawal: sufficiency may slide into emotional flatness, singleness of necessity, or lack of feeling for love and closeness.
 
 ## Links
 
@@ -61,3 +55,5 @@ Self-sufficient. Satisfaction and rest of mind through being single and alone. T
 - [Admetos](../factors/admetos.md)
 - [Venus](../factors/venus.md)
 - [Apollon/Admetos](../axes/apollon-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

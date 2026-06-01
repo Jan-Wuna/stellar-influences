@@ -3,7 +3,7 @@ title: Vernal Point Jupiter MC
 page_type: triad_hub
 slug: vernal-point-jupiter-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Jupiter
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Jupiter MC`
 - Astronomicon triad-set: `VP V MC`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Jupiter/MC = Vernal Point](../activations/jupiter-mc-equals-vernal-point.md)
-  Source page `65`
 - [Vernal Point/Jupiter = MC](../activations/vernal-point-jupiter-equals-mc.md)
-  Source page `43`
 - [Vernal Point/MC = Jupiter](../activations/vernal-point-mc-equals-jupiter.md)
-  Source page `35`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Jupiter/MC = Vernal Point`: page `65`
-- `Vernal Point/Jupiter = MC`: page `43`
-- `Vernal Point/MC = Jupiter`: page `35`
+- `Jupiter/MC = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `65`
+- `Jupiter/MC = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `74`
+- `Vernal Point/Jupiter = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `43`
+- `Vernal Point/Jupiter = MC`: Udo Rudolph - ABC for Planetary Pictures, page `34`
+- `Vernal Point/MC = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `35`
+- `Vernal Point/MC = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `18`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Jupiter/MC = Vernal Point`: a state of mind that influences the general world and creates general contentment.
+- `Vernal Point/Jupiter = MC`: This formula emphasizes contemplation, one's own feeling of happiness, and to be made happy.
+- `Vernal Point/MC = Jupiter`: This formula emphasizes to be merry with others, benign attitude toward others, to feel lucky, and successful.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Jupiter](../factors/jupiter.md)
 - [MC](../factors/mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

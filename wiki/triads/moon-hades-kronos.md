@@ -3,7 +3,7 @@ title: Moon Hades Kronos
 page_type: triad_hub
 slug: moon-hades-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Hades Kronos`
 - Astronomicon triad-set: `R ¢ ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Kronos = Moon](../activations/hades-kronos-equals-moon.md)
-  Source page `279`
 - [Moon/Hades = Kronos](../activations/moon-hades-equals-kronos.md)
-  Source page `131`
 - [Moon/Kronos = Hades](../activations/moon-kronos-equals-hades.md)
-  Source page `133`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Kronos = Moon`: page `279`
-- `Moon/Hades = Kronos`: page `131`
-- `Moon/Kronos = Hades`: page `133`
+- `Hades/Kronos = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `279`
+- `Hades/Kronos = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `440`
+- `Moon/Hades = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `131`
+- `Moon/Hades = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `195`
+- `Moon/Kronos = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `133`
+- `Moon/Kronos = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `199`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Kronos = Moon`: great misfortune for women or for the people.
+- `Moon/Hades = Kronos`: Great worries or cares. Parent s worries. Made poor through government. Social service for widows and orphans.
+- `Moon/Kronos = Hades`: Grief through independent women or officials. Poor dismissed officials.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Hades](../factors/hades.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

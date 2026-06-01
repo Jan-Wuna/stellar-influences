@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Mercury + Mercury`
-- Source page: `158`
 #### Witte Entry
 
 Intuition. Fantasy. Imagination. Lack of clarity. Expressing uncertainly, confusion or lies. Illogical thinking. Falsehood. Intuitive thinking. To ramble (in speaking). Motion in water or air.
 
-## Comparative Schema
-
-- core meaning: Intuition. Fantasy. Imagination. Lack of clarity. Expressing uncertainly, confusion or lies. Illogical thinking. Falsehood. Intuitive thinking. To ramble (in speaking). Motion in water or air.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Mercury = Neptune` diffuses the axis into intuition, fantasy, and uncertainty.
+- Chart expression: imagination and intuitive thought, but also to confusion, lies, illogic, rambling expression, and ideas that drift away from clarity into dream or ambiguity.
 
 ## Links
 

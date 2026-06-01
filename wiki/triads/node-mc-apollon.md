@@ -3,7 +3,7 @@ title: Node MC Apollon
 page_type: triad_hub
 slug: node-mc-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Node MC Apollon`
 - Astronomicon triad-set: `g MC ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Apollon = Node](../activations/mc-apollon-equals-node.md)
-  Source page `74`
 - [Node/Apollon = MC](../activations/node-apollon-equals-mc.md)
-  Source page `153`
 - [Node/MC = Apollon](../activations/node-mc-equals-apollon.md)
-  Source page `61`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Apollon = Node`: page `74`
-- `Node/Apollon = MC`: page `153`
-- `Node/MC = Apollon`: page `61`
+- `MC/Apollon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `74`
+- `MC/Apollon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `92`
+- `Node/Apollon = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `153`
+- `Node/Apollon = MC`: Udo Rudolph - ABC for Planetary Pictures, page `232`
+- `Node/MC = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `61`
+- `Node/MC = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `67`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Apollon = Node`: joins the axis to large gatherings and intellectually expansive company.
+- `Node/Apollon = MC`: To feel free. Mental and emotional experience with many. To be connected with many in science or business.
+- `Node/MC = Apollon`: Far reaching connections. The free choice of personal connections. Personal relationships to scientists, commerce, trade or religion.
 
 ## Links
 
 - [Node](../factors/node.md)
 - [MC](../factors/mc.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

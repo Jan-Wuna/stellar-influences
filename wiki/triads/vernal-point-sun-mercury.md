@@ -3,7 +3,7 @@ title: Vernal Point Sun Mercury
 page_type: triad_hub
 slug: vernal-point-sun-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Sun
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Sun Mercury`
 - Astronomicon triad-set: `VP S T`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Sun/Mercury = Vernal Point](../activations/sun-mercury-equals-vernal-point.md)
-  Source page `103`
 - [Vernal Point/Mercury = Sun](../activations/vernal-point-mercury-equals-sun.md)
-  Source page `40`
 - [Vernal Point/Sun = Mercury](../activations/vernal-point-sun-equals-mercury.md)
-  Source page `37`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Sun/Mercury = Vernal Point`: page `103`
-- `Vernal Point/Mercury = Sun`: page `40`
-- `Vernal Point/Sun = Mercury`: page `37`
+- `Sun/Mercury = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `103`
+- `Sun/Mercury = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `142`
+- `Vernal Point/Mercury = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `40`
+- `Vernal Point/Mercury = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `28`
+- `Vernal Point/Sun = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `37`
+- `Vernal Point/Sun = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `22`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Sun/Mercury = Vernal Point`: This formula emphasizes thoughts shaped by the environment and identity expressed through immediate circumstances.
+- `Vernal Point/Mercury = Sun`: This formula emphasizes thoughts are focused upon a certain object or matter, focussed thought, topics of conversation, and condition of the nerves.
+- `Vernal Point/Sun = Mercury`: This formula emphasizes young body, relating to youth, to be in motion, thoughts of many people on a day, and body on the move.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Sun](../factors/sun.md)
 - [Mercury](../factors/mercury.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

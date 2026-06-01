@@ -3,10 +3,10 @@ title: Jupiter/Node = Admetos
 page_type: activation
 slug: jupiter-node-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Jupiter
+  - Node
   - Admetos
 normalized_formula: Jupiter/Node = Admetos
 axis: Jupiter/Node
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Node
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Jupiter`
-- Source page: `144`
 #### Witte Entry
 
 The end of a happy union.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The end of a happy union.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Limitation of success in a connection, end of a good connection, success in a relationship by perseverance, consolidation of a relationship by money, firm legal connection, financial limitation in a connection, and happiness in a fixed connection
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Node = Admetos`: beneficial connection reaching a limit, cooling, or being reduced to a smaller bond than before. It can show a good relationship ending without necessarily erasing the value it once carried.
 
 ## Links
 
@@ -61,3 +55,5 @@ The end of a happy union.
 - [Node](../factors/node.md)
 - [Admetos](../factors/admetos.md)
 - [Jupiter/Node](../axes/jupiter-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

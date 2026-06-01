@@ -3,7 +3,7 @@ title: Vernal Point/Poseidon = Venus
 page_type: activation
 slug: vernal-point-poseidon-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Venus
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Poseidon`
-- Source page: `55`
 #### Witte Entry
 
 Peaceful attitude of the general public through knowledge. Spiritual attitude. Referring to philosophy affairs and matters of belief.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Peaceful attitude of the general public through knowledge. Spiritual attitude. Referring to philosophy affairs and matters of belief.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Pleasure about reason in public, Peace culture in public Life, spiritual harmony in public Life, arts and culture in public, beauty of culture in public Life, and preference for public Ideas
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Poseidon = Venus`: peaceful attitude of the general public through knowledge, spiritual attitude, and referring to philosophy affairs and matters of belief.
+- Practical expression: pleasure about reason in public, peace culture in public Life, spiritual harmony in public Life, arts, and culture in public.
 
 ## Links
 
@@ -61,3 +56,5 @@ Peaceful attitude of the general public through knowledge. Spiritual attitude. R
 - [Poseidon](../factors/poseidon.md)
 - [Venus](../factors/venus.md)
 - [Vernal Point/Poseidon](../axes/vernal-point-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

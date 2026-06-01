@@ -3,7 +3,7 @@ title: Vernal Point/Poseidon = Cupido
 page_type: activation
 slug: vernal-point-poseidon-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Cupido
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Poseidon`
-- Source page: `55`
 #### Witte Entry
 
 The refined mental attitude in marriage, community or art. Spiritual communities. Societies based on a common perception of the world.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The refined mental attitude in marriage, community or art. Spiritual communities. Societies based on a common perception of the world.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Community in the public sphere, intellectual synthesis in the public sphere, common culture in the public sphere Life, public sphere art and culture, and world culture community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Poseidon = Cupido`: the refined mental attitude in marriage, community or art, spiritual communities, and societies based on a common perception of the world.
+- Practical expression: community in the public sphere, intellectual synthesis in the public sphere, common culture in the public sphere Life, public sphere art, and culture.
 
 ## Links
 
@@ -61,3 +56,5 @@ The refined mental attitude in marriage, community or art. Spiritual communities
 - [Poseidon](../factors/poseidon.md)
 - [Cupido](../factors/cupido.md)
 - [Vernal Point/Poseidon](../axes/vernal-point-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

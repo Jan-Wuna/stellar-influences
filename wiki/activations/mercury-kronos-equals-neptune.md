@@ -3,7 +3,7 @@ title: Mercury/Kronos = Neptune
 page_type: activation
 slug: mercury-kronos-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Neptune
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Kronos`
-- Source page: `169`
 #### Witte Entry
 
 Rhetoric gift. Slam poet. Unclear relations to the power of the state. Uncertainties about the future mode of acting of the state.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Rhetoric gift. Slam poet. Unclear relations to the power of the state. Uncertainties about the future mode of acting of the state.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special thought weakness, special air movement, dominant Frcmdc Verkchr, thoughts about the future of the state, talk about the importance of the water, weak authority of the boss, insecure young boss, important language about metaphysics development ideas of the state, talk about great changes, and great thoughts
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Kronos = Neptune` softens the axis into rhetorical gift but uncertain state direction.
+- Chart expression: inspired rhetoric or poetic performance, yet also to unclear ties with authority and uncertainty about how the state or higher power will actually proceed.
 
 ## Links
 
@@ -61,3 +56,5 @@ Rhetoric gift. Slam poet. Unclear relations to the power of the state. Uncertain
 - [Kronos](../factors/kronos.md)
 - [Neptune](../factors/neptune.md)
 - [Mercury/Kronos](../axes/mercury-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

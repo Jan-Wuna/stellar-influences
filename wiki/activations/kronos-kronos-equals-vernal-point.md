@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Kronos + Kronos`
-- Source page: `297`
 #### Witte Entry
 
 Great events. Great powers (nations). Governments. Officials, the state or the general authority. The authority of the general public. Major events on Earth.
 
-## Comparative Schema
-
-- core meaning: Great events. Great powers (nations). Governments. Officials, the state or the general authority. The authority of the general public. Major events on Earth.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Kronos = Vernal Point`: great events, great powers or nations, governments, officials, and the authority of the general public on a large scale.
+- Chart expression: major public events, state power made visible, and collective life shaped by large governing structures.
 
 ## Links
 

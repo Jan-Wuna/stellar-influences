@@ -3,7 +3,7 @@ title: Neptune/Cupido = Admetos
 page_type: activation
 slug: neptune-cupido-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Cupido
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Cupido`
-- Source page: `247`
 #### Witte Entry
 
 Loneliness through unhappy marriage. Separated friends. To be deserted. Losses in a partnership. To be defrauded.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Loneliness through unhappy marriage. Separated friends. To be deserted. Losses in a partnership. To be defrauded.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dissolving common depressions, restricting of a community in the air, consolidating a weak community, grilning metaphysical community, insecurity of a community through blockade, and lowering of a foreign community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Cupido = Admetos`: Loneliness through unhappy marriage. Separated friends. To be deserted. Losses in a partnership. To be defrauded.
+- Practical focus: compresses unhappy union into loneliness, separation, and abandonment, showing partnership loss and defrauding that leave communal or marital life narrowed and emotionally vacant.
+- Practical expression: dissolving common depressions, restricting of a community in the air, consolidating a weak community, and insecurity of a community through blockade.
 
 ## Links
 
@@ -61,3 +57,5 @@ Loneliness through unhappy marriage. Separated friends. To be deserted. Losses i
 - [Cupido](../factors/cupido.md)
 - [Admetos](../factors/admetos.md)
 - [Neptune/Cupido](../axes/neptune-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

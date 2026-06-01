@@ -3,7 +3,7 @@ title: Moon Mercury Admetos
 page_type: triad_hub
 slug: moon-mercury-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Mercury
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Mercury Admetos`
 - Astronomicon triad-set: `R T ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Admetos = Moon](../activations/mercury-admetos-equals-moon.md)
-  Source page `171`
 - [Moon/Admetos = Mercury](../activations/moon-admetos-equals-mercury.md)
-  Source page `135`
 - [Moon/Mercury = Admetos](../activations/moon-mercury-equals-admetos.md)
-  Source page `122`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Admetos = Moon`: page `171`
-- `Moon/Admetos = Mercury`: page `135`
-- `Moon/Mercury = Admetos`: page `122`
+- `Mercury/Admetos = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `171`
+- `Mercury/Admetos = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `264`
+- `Moon/Admetos = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `135`
+- `Moon/Admetos = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `202`
+- `Moon/Mercury = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `122`
+- `Moon/Mercury = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `177`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Admetos = Moon`: joins the axis to everyday travel, vehicles, and sedentary patterns of life.
+- `Moon/Admetos = Mercury`: Deeply absorbed in thought. To keep sad thoughts. To feel crowded. To be depressed. Narrow thinking.
+- `Moon/Mercury = Admetos`: This activation constricts `Moon/Mercury` into heavy thought, emotional discouragement, and slowed recall. It often shows feelings that are hard to articulate, a mind weighed down by sorrow or withdrawal, and memory or association that narrows instead of flowing freely.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Mercury](../factors/mercury.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

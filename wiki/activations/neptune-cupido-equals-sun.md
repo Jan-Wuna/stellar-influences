@@ -3,7 +3,7 @@ title: Neptune/Cupido = Sun
 page_type: activation
 slug: neptune-cupido-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Neptune
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Cupido`
-- Source page: `247`
 #### Witte Entry
 
 Unfortunate (unhappy) husband. A day with dissonances in associations.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Unfortunate (unhappy) husband. A day with dissonances in associations.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dissolution of a person community, finely defined of a person community, common future with a man, artificial center at the water, men's community at the Wa'iser, person community in the air, and weak person community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Cupido = Sun`: Unfortunate (unhappy) husband. A day with dissonances in associations.
+- Practical focus: personalizes communal dissonance through the unhappy husband or the individual caught inside strained associations, making relational disharmony central to one’s immediate lived experience.
+- Practical expression: dissolution of a person community, finely defined of a person community, common future with a man, and artificial center at the water.
 
 ## Links
 
@@ -61,3 +57,5 @@ Unfortunate (unhappy) husband. A day with dissonances in associations.
 - [Cupido](../factors/cupido.md)
 - [Sun](../factors/sun.md)
 - [Neptune/Cupido](../axes/neptune-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

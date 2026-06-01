@@ -3,7 +3,7 @@ title: Mercury Cupido Kronos
 page_type: triad_hub
 slug: mercury-cupido-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Cupido Kronos`
 - Astronomicon triad-set: `T ¡ ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Kronos = Mercury](../activations/cupido-kronos-equals-mercury.md)
-  Source page `269`
 - [Mercury/Cupido = Kronos](../activations/mercury-cupido-equals-kronos.md)
-  Source page `166`
 - [Mercury/Kronos = Cupido](../activations/mercury-kronos-equals-cupido.md)
-  Source page `169`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Kronos = Mercury`: page `269`
-- `Mercury/Cupido = Kronos`: page `166`
-- `Mercury/Kronos = Cupido`: page `169`
+- `Cupido/Kronos = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `269`
+- `Cupido/Kronos = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `428`
+- `Mercury/Cupido = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `166`
+- `Mercury/Cupido = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `255`
+- `Mercury/Kronos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `169`
+- `Mercury/Kronos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `261`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Kronos = Mercury`: arranging a wedding, artistic thinking, and joint conversation around great or high-order ideas.
+- `Mercury/Cupido = Kronos`: elevates the axis into mastery, leadership, and distinguished artistic thought.
+- `Mercury/Kronos = Cupido`: turns the axis toward artistic intelligence and refined creation.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Cupido](../factors/cupido.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -58,11 +58,12 @@ aliases:
   - Node/Sun
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -75,17 +76,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun/Dragon's Head`
-- Source page: `104`
-
 #### Pair Summary
 
 A physical union. Connections with the public. To be a witness. A physical fusion. Day of establishment of contact.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Sun/Dragon's Head`
-- Source page: `104`
+#### ABC Pair Summary
+
+Year of encounters, body contact, corporal connection, human bonds, person relations, personal connections, day of connection, connection with the man, and connection to the center
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -109,9 +110,6 @@ Associations between male persons, good fellowship, colleagues.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Sun/Node midpoint`
-- Source page: `21`
-
 #### Principle
 
 Sharing a mutual purpose when one connects with other people. Awareness of the need for growth and progress. Awareness of attachment to the past, and the tendency to be attached to the past because it feeds one’s ego. Entering into new ex periences with a sense of self-confidence.
@@ -122,17 +120,11 @@ The continuous breaking down and building up of the ego that leads eventually to
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Sun/Nodes`
-- Source page: `202`
-
 #### Pair Delineation
 
 The desire to reach out and make contact, to connect with others, or to meet someone (usually male). To form a group. The desire for group activity and teamwork. The experience of group desire and will.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `SUN/NODE`
-- Source page: `91`
 
 #### Basic Ideas
 
@@ -161,15 +153,6 @@ The blood channels or passages around the heart; clogging of these channels with
 
 - [Michael Munkasey - Sun/Node Concepts](../derived/munkasey-sun-node-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Sun/Node = Admetos](../activations/sun-node-equals-admetos.md)
@@ -194,20 +177,18 @@ The blood channels or passages around the heart; clogging of these channels with
 - [Sun/Node = Vulcanus](../activations/sun-node-equals-vulcanus.md)
 - [Sun/Node = Zeus](../activations/sun-node-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Node` is the axis of purposeful connection, fellowship, and the development of identity through contact with other people. It combines vitality, will, visibility, and selfhood with meetings, groups, teamwork, public interaction, and shared experience.
+- Chart expression: meaningful alliances, the desire to connect and participate, recognition through association, and relationships that help shape personal destiny or common purpose. Liabilities: self-centered alliances, arrogant group behavior, strained cooperation, and the breaking of ties when ego needs override mutuality.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Node](../factors/node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)

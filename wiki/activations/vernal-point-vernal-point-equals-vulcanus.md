@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Vernal Point + Vernal Point`
-- Source page: `34`
 #### Witte Entry
 
 Power, might and forces in general. Extraordinary energies in general or on Earth. Energies of the earth body. Violence in the general public.
 
-## Comparative Schema
-
-- core meaning: Power, might and forces in general. Extraordinary energies in general or on Earth. Energies of the earth body. Violence in the general public.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Vernal Point = Vulcanus`: power, might and forces in general, extraordinary energies in general or on Earth, energies of the earth body, and violence in the general public.
 
 ## Links
 

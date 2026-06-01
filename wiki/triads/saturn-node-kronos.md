@@ -3,7 +3,7 @@ title: Saturn Node Kronos
 page_type: triad_hub
 slug: saturn-node-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Node
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Node Kronos`
 - Astronomicon triad-set: `W g ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Node/Kronos = Saturn](../activations/node-kronos-equals-saturn.md)
-  Source page `152`
 - [Saturn/Kronos = Node](../activations/saturn-kronos-equals-node.md)
-  Source page `227`
 - [Saturn/Node = Kronos](../activations/saturn-node-equals-kronos.md)
-  Source page `145`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Node/Kronos = Saturn`: page `152`
-- `Saturn/Kronos = Node`: page `227`
-- `Saturn/Node = Kronos`: page `145`
+- `Node/Kronos = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `152`
+- `Node/Kronos = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `231`
+- `Saturn/Kronos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `227`
+- `Saturn/Kronos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `360`
+- `Saturn/Node = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `145`
+- `Saturn/Node = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `217`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Node/Kronos = Saturn`: Loss of position. Discharge from custody. Hindrances by the power of the state. To be under arrest. To receive notice.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Node](../factors/node.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

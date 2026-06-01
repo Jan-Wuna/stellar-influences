@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Pluto Node Asc`
 - Astronomicon triad-set: `Z g Asc`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,19 +40,27 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Node/Asc = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `82`
+- `Node/Asc = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `105`
 - `Node/Asc = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `302`
 - `Node/Asc = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `118`
+- `Node/Asc = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `356`
 - `Pluto/Asc = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `90`
+- `Pluto/Asc = Node`: Udo Rudolph - ABC for Planetary Pictures, page `120`
 - `Pluto/Asc = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `296`
 - `Pluto/Asc = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `116`
+- `Pluto/Asc = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `348`
 - `Pluto/Node = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `148`
+- `Pluto/Node = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `222`
 - `Pluto/Node = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `293`
 - `Pluto/Node = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `114`
+- `Pluto/Node = Asc`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `344`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Node/Asc = Pluto`: an identity formed in strong relational fields, with close associations carrying transformative force, control issues, or psychologically loaded exchanges.
+- `Pluto/Asc = Node`: an identity forged in intense relationships, with personal boundaries and self-presentation shaped by powerful associations and transformative encounters.
+- `Pluto/Node = Asc`: an identity shaped by consequential associations, with close contact, personal boundaries, and everyday self-presentation strongly influenced by powerful bonds.
 
 ## Links
 
@@ -59,5 +68,7 @@ updated_at: 2026-04-22
 - [Node](../factors/node.md)
 - [Asc](../factors/asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

@@ -3,7 +3,7 @@ title: Sun Kronos Poseidon
 page_type: triad_hub
 slug: sun-kronos-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Kronos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Kronos Poseidon`
 - Astronomicon triad-set: `S ¤ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Kronos/Poseidon = Sun](../activations/kronos-poseidon-equals-sun.md)
-  Source page `302`
 - [Sun/Kronos = Poseidon](../activations/sun-kronos-equals-poseidon.md)
-  Source page `114`
 - [Sun/Poseidon = Kronos](../activations/sun-poseidon-equals-kronos.md)
-  Source page `118`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Kronos/Poseidon = Sun`: page `302`
-- `Sun/Kronos = Poseidon`: page `114`
-- `Sun/Poseidon = Kronos`: page `118`
+- `Kronos/Poseidon = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `302`
+- `Kronos/Poseidon = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `466`
+- `Sun/Kronos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `114`
+- `Sun/Kronos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `165`
+- `Sun/Poseidon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `118`
+- `Sun/Poseidon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `173`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Kronos/Poseidon = Sun`: the cultured and spiritualized person whose mental ability stands well above average and whose life is devoted to higher-minded subjects.
+- `Sun/Kronos = Poseidon`: This formula emphasizes spiritual leadership and truth from a superior position.
+- `Sun/Poseidon = Kronos`: This formula emphasizes truth joined with authority and spiritual leadership.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Kronos](../factors/kronos.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

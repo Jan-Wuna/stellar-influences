@@ -3,7 +3,7 @@ title: Node Hades Apollon
 page_type: triad_hub
 slug: node-hades-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Node Hades Apollon`
 - Astronomicon triad-set: `g ¢ ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Apollon = Node](../activations/hades-apollon-equals-node.md)
-  Source page `280`
 - [Node/Apollon = Hades](../activations/node-apollon-equals-hades.md)
-  Source page `153`
 - [Node/Hades = Apollon](../activations/node-hades-equals-apollon.md)
-  Source page `150`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Apollon = Node`: page `280`
-- `Node/Apollon = Hades`: page `153`
-- `Node/Hades = Apollon`: page `150`
+- `Hades/Apollon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `280`
+- `Hades/Apollon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `442`
+- `Node/Apollon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `153`
+- `Node/Apollon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `233`
+- `Node/Hades = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `150`
+- `Node/Hades = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `227`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Apollon = Node`: economic stoppage, commercial decline, connection with antiquity or history, and association with hidden matters.
+- `Node/Apollon = Hades`: Poor but free. Many people in this situation.
+- `Node/Hades = Apollon`: To be connected with many through evil things. Many vexations, disagreeableness. Society for historical science.
 
 ## Links
 
 - [Node](../factors/node.md)
 - [Hades](../factors/hades.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

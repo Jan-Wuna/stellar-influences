@@ -3,7 +3,7 @@ title: Mars Apollon Vulcanus
 page_type: triad_hub
 slug: mars-apollon-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Apollon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Apollon Vulcanus`
 - Astronomicon triad-set: `U ¥ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Apollon/Vulcanus = Mars](../activations/apollon-vulcanus-equals-mars.md)
-  Source page `307`
 - [Mars/Apollon = Vulcanus](../activations/mars-apollon-equals-vulcanus.md)
-  Source page `201`
 - [Mars/Vulcanus = Apollon](../activations/mars-vulcanus-equals-apollon.md)
-  Source page `203`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Apollon/Vulcanus = Mars`: page `307`
-- `Mars/Apollon = Vulcanus`: page `201`
-- `Mars/Vulcanus = Apollon`: page `203`
+- `Apollon/Vulcanus = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `307`
+- `Apollon/Vulcanus = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `470`
+- `Mars/Apollon = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `201`
+- `Mars/Apollon = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `317`
+- `Mars/Vulcanus = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `203`
+- `Mars/Vulcanus = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `321`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Apollon/Vulcanus = Mars`: forceful achievement, wealth through effort, and success gained by assertive or combative engagement.
+- `Mars/Apollon = Vulcanus`: great effort and major success in commerce, science, or industry, with unusually strong capacity driving large results.
+- `Mars/Vulcanus = Apollon`: extends great force into successful scientific, commercial, or large-scale productive activity.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Apollon](../factors/apollon.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

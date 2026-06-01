@@ -3,7 +3,7 @@ title: Venus/Hades = Neptune
 page_type: activation
 slug: venus-hades-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Neptune
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Hades`
-- Source page: `183`
 #### Witte Entry
 
 Unreliable servants. Uncertain service relation. Dissolution of service relation. Infection through prostitution. Perversions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Unreliable servants. Uncertain service relation. Dissolution of service relation. Infection through prostitution. Perversions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Unravelling of a secret love, a fine feeling of an old love, danger to the inconvenient peace, dangerous preference for unknowns, sorrow through insecurity in love, insecure peace service, preference for metaphysics of the past Degraded harmony development, developing peace service, and dangerous peace development
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Hades = Neptune`: unreliable servants.
+- Practical expression: unravelling of a secret love, a fine feeling of an old love, danger to the inconvenient peace, dangerous preference for unknowns, and sorrow through insecurity in love.
 
 ## Links
 
@@ -61,3 +56,5 @@ Unreliable servants. Uncertain service relation. Dissolution of service relation
 - [Hades](../factors/hades.md)
 - [Neptune](../factors/neptune.md)
 - [Venus/Hades](../axes/venus-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

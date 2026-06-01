@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Mars + Mars`
-- Source page: `191`
 #### Witte Entry
 
 Great effort. Exercise. Mighty activity. Great power. Acts of violence. Mechanical energies. Unleash power. Energetic forces in action. Muscular strength. Working in the field of high energies.
 
-## Comparative Schema
-
-- core meaning: Great effort. Exercise. Mighty activity. Great power. Acts of violence. Mechanical energies. Unleash power. Energetic forces in action. Muscular strength. Working in the field of high energies.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Mars = Vulcanus` magnifies action into great effort, muscular power, violence, and high-intensity energy.
+- Chart expression: exercise, mighty activity, mechanical energies, brute force, violent acts, and work that unleashes exceptional physical or energetic power.
 
 ## Links
 

@@ -58,12 +58,13 @@ aliases:
   - MC/Asc
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - don-mcbroom-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -75,17 +76,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Ascendant/Medium Coeli`
-- Source page: `306`
-
 #### Pair Summary
 
 One’s relationship, position or attitude towards others. To join with others for a common objective. The social and vocational relations in the closer surroundings. Others influence one’s own emotions. In this minute at this place.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Ascendant/Medium Coeli`
-- Source page: `306`
+#### ABC Pair Summary
+
+Other soul, animated place, I at the place, me and others, me and you, my partner, my place, my space, my environment, minute at the place, my relationship to the nearer world, and partner soul
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -109,9 +110,6 @@ Connections between the Asc. and the MC when brought out by progressions or tran
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Ascendant/Midheaven midpoint`
-- Source page: `121`
-
 #### Principle
 
 The ability to integrate greater and greater amounts of wisdom and knowl edge into one’s personality. The ways in which one’s personality either serves and fosters one’s evolution or limits it. The pressure which the Spiritual Light exerts on the personality to induce its growth. The growth of the understanding of the meaning and purpose of all one’s relationships. At worst this combination may manifest as a schism between the real self and the idealized self, rendering progress very difficult. At best the idealized self gradually seeps into the real self, transforming, enlarging and uplifting it. Identification with one’s career.
@@ -122,26 +120,17 @@ The increasing ability to allow one’s identity to be determined, conditioned a
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Ascendant/Midheaven`
-- Source page: `214`
-
 #### Pair Delineation
 
 A very important point in the horoscope, indicating one's personal attitudes concerning others. Points on this axis may exert a general influence on the chart almost as if they were conjunct the Ascendant, Descendant, Midheaven, or Imum Coeli except that the energy is not so strong. The ability to show to others what one really is or what one is really seeking in life.
 
 ### Don McBroom - Midpoints
 
-- Source heading: `The Ascendant/Midheaven Midpoint`
-- Source page: `71`
-
 #### McBroom Entry
 
 The Ascendant/Midheaven midpoint links together our personal identity with our public image to form a symbiotic - and ideally a synergistic - relationship. The more compatible or congruous these two points are, the greater our potential for being "at one" with ourselves. While some people might genuinely thrive on the dramatic contrast of a Jekyll and Hyde relationship between the Ascendant and the Midheaven, it's probably safe to say that most of us would find it preferable to have some substantial common ground between the two. Regardless of their inherent differences, the Ascendant/Midheaven midpoint represents an area of the chart where our personal and public sides can come together and figuratively reach a happy medium. This may involve some give and take between these two powerful angles and require some balance or compromise to acknowledge and appease both.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `ASCENDANT/MIDHEAVEN`
-- Source page: `363`
 
 #### Basic Ideas
 
@@ -170,15 +159,6 @@ Psychological growth experiences; the amount of maturing you do thru your reacti
 
 - [Michael Munkasey - Asc/MC Concepts](../derived/munkasey-asc-mc-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Asc/MC = Admetos](../activations/asc-mc-equals-admetos.md)
@@ -203,20 +183,18 @@ Psychological growth experiences; the amount of maturing you do thru your reacti
 - [Asc/MC = Vulcanus](../activations/asc-mc-equals-vulcanus.md)
 - [Asc/MC = Zeus](../activations/asc-mc-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc/MC` is the core angular axis of personal identity meeting life direction, public role, and relationship stance. It describes how the private self, the lived personality, and the outward course of life are brought into one working whole.
+- Chart expression: a general personality-and-destiny integrator: how one shows oneself to others, how one grows through experience, and how well outer role matches inner orientation. When supported, it gives coherence and maturity; when strained, it can show split between real self and idealized self, or difficulty aligning relationships, status, and personal development.
 
 ## Links
 
 - [Asc](../factors/asc.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)

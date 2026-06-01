@@ -3,10 +3,10 @@ title: Pluto/Node = Zeus
 page_type: activation
 slug: pluto-node-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Pluto
+  - Node
   - Zeus
 normalized_formula: Pluto/Node = Zeus
 axis: Pluto/Node
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Node
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Pluto`
-- Source page: `148`
 #### Witte Entry
 
 To conclude new connections for the increase of one’s accomplishment. One’s increased accomplishments bring new connections.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To conclude new connections for the increase of one’s accomplishment. One’s increased accomplishments bring new connections.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Developing efforts in a connection, beginning of the development of contacts, development of a generation connection, alterations in a creative connection, growing achievements in connections, and changes in a relationship through goal striving
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Node = Zeus`: work, initiative or obligation begins through new connections.
+- Practical expression: developing efforts in a connection, beginning of the development of contacts, development of a generation connection, alterations in a creative connection, and growing achievements in connections.
 
 ## Links
 
@@ -61,3 +56,5 @@ To conclude new connections for the increase of one’s accomplishment. One’s 
 - [Node](../factors/node.md)
 - [Zeus](../factors/zeus.md)
 - [Pluto/Node](../axes/pluto-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

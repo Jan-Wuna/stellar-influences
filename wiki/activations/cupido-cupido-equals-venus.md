@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Cupido + Cupido`
-- Source page: `265`
 #### Witte Entry
 
 Marriage thoughts. Artistic considerations. Speech. Music. Social conversation. To think of the family. Marriage intentions. Artistic taste. Thoughts or opinions about art.
 
-## Comparative Schema
-
-- core meaning: Marriage thoughts. Artistic considerations. Speech. Music. Social conversation. To think of the family. Marriage intentions. Artistic taste. Thoughts or opinions about art.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Cupido = Venus`: communal bonds carried by conversation, taste, intention, and the wish to make relationship life graceful or artistically meaningful. Main caution: remaining at the level of idea, talk, or preference without embodied commitment.
 
 ## Links
 

@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Admetos + Admetos`
-- Source page: `310`
 #### Witte Entry
 
 Scantness. Frugality. Great and deep sadness. Pessimism. Coldness. Aversion. Lack of reliability and firmness. Negligence. To stunt or shrivel. Attrition. Worn out materials. Lack of raw materials. Raw materials from old materials or junk. Prehistoric time. The distant or remote past.
 
-## Comparative Schema
-
-- core meaning: Scantness. Frugality. Great and deep sadness. Pessimism. Coldness. Aversion. Lack of reliability and firmness. Negligence. To stunt or shrivel. Attrition. Worn out materials. Lack of raw materials. Raw materials from old materials or junk. Prehistoric time. The distant or remote past.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Admetos/Admetos = Hades`: frugality, working with remnants, and confronting depletion or ancient sorrow directly. Main caution: life reduced to residue: pessimism, negligence, impoverishment, or fixation on what is broken, obsolete, or too depleted to sustain vitality.
 
 ## Links
 

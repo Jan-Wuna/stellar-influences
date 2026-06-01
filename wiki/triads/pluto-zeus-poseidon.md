@@ -3,7 +3,7 @@ title: Pluto Zeus Poseidon
 page_type: triad_hub
 slug: pluto-zeus-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Zeus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Pluto Zeus Poseidon`
 - Astronomicon triad-set: `Z £ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Pluto/Poseidon = Zeus](../activations/pluto-poseidon-equals-zeus.md)
-  Source page `264`
 - [Pluto/Zeus = Poseidon](../activations/pluto-zeus-equals-poseidon.md)
-  Source page `259`
 - [Zeus/Poseidon = Pluto](../activations/zeus-poseidon-equals-pluto.md)
-  Source page `296`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Pluto/Poseidon = Zeus`: page `264`
-- `Pluto/Zeus = Poseidon`: page `259`
-- `Zeus/Poseidon = Pluto`: page `296`
+- `Pluto/Poseidon = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `264`
+- `Pluto/Poseidon = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `423`
+- `Pluto/Zeus = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `259`
+- `Pluto/Zeus = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `413`
+- `Zeus/Poseidon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `296`
+- `Zeus/Poseidon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `459`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Pluto/Poseidon = Zeus`: This activation emphasizes to be in part leading (by inner conviction) in the development of a new outlook in life.
+- `Pluto/Zeus = Poseidon`: This activation emphasizes to develop a new way to see the world; To show the duties to be derived from such doctrine.
+- `Zeus/Poseidon = Pluto`: To lead from the background or secretly. False witnesses or faked proofs.
 
 ## Links
 
 - [Pluto](../factors/pluto.md)
 - [Zeus](../factors/zeus.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

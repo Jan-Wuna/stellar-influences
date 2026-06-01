@@ -3,7 +3,7 @@ title: Vernal Point Sun Hades
 page_type: triad_hub
 slug: vernal-point-sun-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Sun
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Sun Hades`
 - Astronomicon triad-set: `VP S ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Sun/Hades = Vernal Point](../activations/sun-hades-equals-vernal-point.md)
-  Source page `112`
 - [Vernal Point/Hades = Sun](../activations/vernal-point-hades-equals-sun.md)
-  Source page `49`
 - [Vernal Point/Sun = Hades](../activations/vernal-point-sun-equals-hades.md)
-  Source page `37`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Sun/Hades = Vernal Point`: page `112`
-- `Vernal Point/Hades = Sun`: page `49`
-- `Vernal Point/Sun = Hades`: page `37`
+- `Sun/Hades = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `112`
+- `Sun/Hades = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `160`
+- `Vernal Point/Hades = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `49`
+- `Vernal Point/Hades = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `46`
+- `Vernal Point/Sun = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `37`
+- `Vernal Point/Sun = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `23`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Sun/Hades = Vernal Point`: This formula emphasizes unpleasant surroundings and dirty environment.
+- `Vernal Point/Hades = Sun`: This formula emphasizes to be impoverished because of the general existing conditions, catastrophes, the miner, and connected with miners and coal mines.
+- `Vernal Point/Sun = Hades`: This formula emphasizes frailties of the body, sickness, deficiency, poverty, and unemployment.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Sun](../factors/sun.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

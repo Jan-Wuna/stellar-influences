@@ -3,7 +3,7 @@ title: Mercury Zeus Kronos
 page_type: triad_hub
 slug: mercury-zeus-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Zeus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Zeus Kronos`
 - Astronomicon triad-set: `T £ ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Kronos = Zeus](../activations/mercury-kronos-equals-zeus.md)
-  Source page `169`
 - [Mercury/Zeus = Kronos](../activations/mercury-zeus-equals-kronos.md)
-  Source page `168`
 - [Zeus/Kronos = Mercury](../activations/zeus-kronos-equals-mercury.md)
-  Source page `289`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Kronos = Zeus`: page `169`
-- `Mercury/Zeus = Kronos`: page `168`
-- `Zeus/Kronos = Mercury`: page `289`
+- `Mercury/Kronos = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `169`
+- `Mercury/Kronos = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `261`
+- `Mercury/Zeus = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `168`
+- `Mercury/Zeus = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `259`
+- `Zeus/Kronos = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `289`
+- `Zeus/Kronos = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `450`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Kronos = Zeus`: directs the axis into systematic realization, command, and binding law.
+- `Mercury/Zeus = Kronos`: Great creative thoughts. By supreme order. Public prosecutor.
+- `Zeus/Kronos = Mercury`: To join with others for great deeds. War comrades. Allied nations in war. Associated with productive leading persons.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Zeus](../factors/zeus.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

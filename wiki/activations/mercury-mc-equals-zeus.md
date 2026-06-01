@@ -3,10 +3,10 @@ title: Mercury/MC = Zeus
 page_type: activation
 slug: mercury-mc-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Mercury
+  - MC
   - Zeus
 normalized_formula: Mercury/MC = Zeus
 axis: Mercury/MC
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - MC
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Mercury`
-- Source page: `62`
 #### Witte Entry
 
 Self control. To exercise self-restraint. Forethought.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Self control. To exercise self-restraint. Forethought.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Fiery soul language, I begin to write, I lead my thoughts, I follow the youth, I think creatively, my effort in thinking, my thought direction, my achievements in youth, my linguistic achievement, and my word loops
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/MC = Zeus` directs the axis into self-restraint and planned action.
+- Chart expression: forethought, self-control, and an ability to hold one's mental line long enough to act deliberately instead of impulsively.
 
 ## Links
 
@@ -61,3 +56,5 @@ Self control. To exercise self-restraint. Forethought.
 - [MC](../factors/mc.md)
 - [Zeus](../factors/zeus.md)
 - [Mercury/MC](../axes/mercury-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

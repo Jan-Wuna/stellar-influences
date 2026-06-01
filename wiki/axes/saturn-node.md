@@ -58,11 +58,12 @@ aliases:
   - Node/Saturn
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -75,17 +76,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn/Dragon's Head`
-- Source page: `256`
-
 #### Pair Summary
 
 Breaking off of connections or other relationships. Difficulties in relationships or with contacts. To participate in separations. End of a connection. Long-term and serious connections. Separations.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Saturn/Dragon's Head`
-- Source page: `256`
+#### ABC Pair Summary
+
+Tasks of a relationship, burdensome relationship, attachment to a task, serious connection, disturbed connection, separated connection, problematic connection, connection in old age, and separating connections
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -109,9 +110,6 @@ An association of elderly persons, such as homes for the aged or the needy, e.g.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Saturn/Node midpoint`
-- Source page: `92`
-
 #### Principle
 
 Deep, enduring, and/or spiritual relationships. To have relationships that last a long time. One finds it difficult to enter into new experiences, due either to fear or to being overly tied to the past. One finds one’s connections with others oppressive. A gradual overcoming of the past.
@@ -122,17 +120,11 @@ The overcoming of the fear of change. The identification of the problems and lim
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Saturn/Nodes`
-- Source page: `210`
-
 #### Pair Delineation
 
 Separations, the severing of connections. Connections that involve much restriction or discipline. Unions with older people. The desire to take control of relationships or meetings with others. Fear of matters being out of place or disorganized in connection with others.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `SATURN/NODE`
-- Source page: `295`
 
 #### Basic Ideas
 
@@ -161,15 +153,6 @@ The blockage or constriction of tubes or passageways in the body; blocked or con
 
 - [Michael Munkasey - Saturn/Node Concepts](../derived/munkasey-saturn-node-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Saturn/Node = Admetos](../activations/saturn-node-equals-admetos.md)
@@ -194,20 +177,18 @@ The blockage or constriction of tubes or passageways in the body; blocked or con
 - [Saturn/Node = Vulcanus](../activations/saturn-node-equals-vulcanus.md)
 - [Saturn/Node = Zeus](../activations/saturn-node-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Node` is the axis of difficult but enduring ties, alliances shaped by duty, and associations tested by time, distance, or hardship. It combines restriction, loyalty, endurance, and separation with meetings, fellowship, cooperation, and social bonds.
+- Chart expression: serious contacts, few but consequential relationships, obligations toward others, and partnerships that must prove themselves under pressure. Liabilities: isolation, estrangement, burdensome alliances, grief through others, and the termination of ties when strain outweighs loyalty.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Node](../factors/node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)

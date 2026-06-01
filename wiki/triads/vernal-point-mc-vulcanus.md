@@ -3,7 +3,7 @@ title: Vernal Point MC Vulcanus
 page_type: triad_hub
 slug: vernal-point-mc-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point MC Vulcanus`
 - Astronomicon triad-set: `VP MC §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Vulcanus = Vernal Point](../activations/mc-vulcanus-equals-vernal-point.md)
-  Source page `76`
 - [Vernal Point/MC = Vulcanus](../activations/vernal-point-mc-equals-vulcanus.md)
-  Source page `35`
 - [Vernal Point/Vulcanus = MC](../activations/vernal-point-vulcanus-equals-mc.md)
-  Source page `54`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Vulcanus = Vernal Point`: page `76`
-- `Vernal Point/MC = Vulcanus`: page `35`
-- `Vernal Point/Vulcanus = MC`: page `54`
+- `MC/Vulcanus = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `76`
+- `MC/Vulcanus = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `96`
+- `Vernal Point/MC = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `35`
+- `Vernal Point/MC = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `19`
+- `Vernal Point/Vulcanus = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `54`
+- `Vernal Point/Vulcanus = MC`: Udo Rudolph - ABC for Planetary Pictures, page `56`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Vulcanus = Vernal Point`: externalizes the axis into visible influence over many people.
+- `Vernal Point/MC = Vulcanus`: This formula emphasizes to execute power in general.
+- `Vernal Point/Vulcanus = MC`: This formula emphasizes one’s own authority and power, to deal with forces, and to appear influential or powerful.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [MC](../factors/mc.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

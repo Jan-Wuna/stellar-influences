@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Sun Chiron Uranus`
 - Astronomicon triad-set: `S Chiron X`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Sun/Chiron = Uranus`: John, page `15`
 - `Sun/Uranus = Chiron`: John, page `17`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Uranus = Sun`: awakened purpose, living meaning, and identity shaped by surprise and discovery. Main caution: chasing novelty as meaning instead of discerning what is actually revelatory.
+- `Sun/Chiron = Uranus`: sudden realizations of deeper purpose and breakthroughs that reveal what is spiritually essential.
+- `Sun/Uranus = Chiron`: sudden awakenings to deeper purpose and intuitive breakthroughs that reveal hidden meaning.
 
 ## Links
 

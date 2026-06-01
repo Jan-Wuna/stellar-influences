@@ -3,7 +3,7 @@ title: Sun/Pluto = Hades
 page_type: activation
 slug: sun-pluto-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Pluto
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Pluto`
-- Source page: `110`
 #### Witte Entry
 
 Insufficient physical development. Food of inferior quality. Bad nutrition. Hunger. Wasted food.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Insufficient physical development. Food of inferior quality. Bad nutrition. Hunger. Wasted food.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dangerous personal development, criminal development of a person, man made body development, adverse personnel change, personal deprivations during the day, personal development service, and hidden changes in the body
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Pluto = Hades`: destructive change, decay, or suffering tied to transformation.
+- Practical expression: dangerous personal development, criminal development of a person, man made body development, adverse personnel change, and personal deprivations during the day.
 
 ## Links
 
@@ -61,3 +56,5 @@ Insufficient physical development. Food of inferior quality. Bad nutrition. Hung
 - [Pluto](../factors/pluto.md)
 - [Hades](../factors/hades.md)
 - [Sun/Pluto](../axes/sun-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

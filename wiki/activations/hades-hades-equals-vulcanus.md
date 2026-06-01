@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Hades + Hades`
-- Source page: `276`
 #### Witte Entry
 
 Wickedness. Ugliness. Vices. Grave danger. Mean and brutal acts. Capital crimes. Raw force. Murder. Slavery. Demonic forces. The dark side of the force. Brute force. The power of evil. Criminals.
 
-## Comparative Schema
-
-- core meaning: Wickedness. Ugliness. Vices. Grave danger. Mean and brutal acts. Capital crimes. Raw force. Murder. Slavery. Demonic forces. The dark side of the force. Brute force. The power of evil. Criminals.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Hades = Vulcanus`: degradation becoming violent, coercive, and overwhelming. It can show criminal force, merciless danger, and situations where ugliness is not just present but powerfully imposed.
 
 ## Links
 

@@ -3,7 +3,7 @@ title: Kronos/Poseidon = MC
 page_type: activation
 slug: kronos-poseidon-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Kronos
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Kronos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Kronos + Poseidon`
-- Source page: `302`
 #### Witte Entry
 
 High or independent spiritual, mental or educational attitude. To have a revelation. To strive for wisdom and understanding. Averse to material things.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: High or independent spiritual, mental or educational attitude. To have a revelation. To strive for wisdom and understanding. Averse to material things.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+great psychic insight, my insights about the state, my spiritual hierarchy, my spiritual self gloriousness, my great ideas, my cultural approach, truth is important to me, and spiritual guidance through the mind
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Kronos/Poseidon = MC`: an independent spiritual or educational attitude, striving for revelation and wisdom, and a life path oriented away from crude materialism.
+- Chart expression: vocation through teaching, culture, philosophy, or insight, with public direction shaped by higher mental aims.
 
 ## Links
 
@@ -61,3 +56,5 @@ High or independent spiritual, mental or educational attitude. To have a revelat
 - [Poseidon](../factors/poseidon.md)
 - [MC](../factors/mc.md)
 - [Kronos/Poseidon](../axes/kronos-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

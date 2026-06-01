@@ -3,10 +3,10 @@ title: Mars/Asc = Cupido
 page_type: activation
 slug: mars-asc-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Mars
+  - Asc
   - Cupido
 normalized_formula: Mars/Asc = Cupido
 axis: Mars/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Asc
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Mars`
-- Source page: `85`
 #### Witte Entry
 
 Acting in union with others. The wedding of other people. Cooperation with an artist or of artists. Common action with the neighborhood.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Acting in union with others. The wedding of other people. Cooperation with an artist or of artists. Common action with the neighborhood.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Working with other communities, local community, community work for the environment, joint activities around the partner, actions around of a community, community action, and partnership work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Asc = Cupido` channels assertive presence into union, teamwork, and shared activity with family, partners, artists, or the immediate community.
+- Chart expression: cooperative action, weddings or alliances, neighborhood involvement, and energetic participation in group or artistic efforts rather than isolated struggle.
 
 ## Links
 
@@ -61,3 +56,5 @@ Acting in union with others. The wedding of other people. Cooperation with an ar
 - [Asc](../factors/asc.md)
 - [Cupido](../factors/cupido.md)
 - [Mars/Asc](../axes/mars-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

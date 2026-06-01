@@ -45,8 +45,6 @@ updated_at: 2026-04-21
 
 - Axis: `Venus/Venus`
 - Astronomicon axis: `Q/Q`
-- Source heading: `Venus + Venus`
-- Source page: `174`
 
 ## Source Entries
 
@@ -55,15 +53,6 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 Love, harmony, peace, beauty, fine art, music, pleasure, sensual pleasure, taste, amenities. Good will. Help. Inclination. Desire. Feeling. Female persons. Maternal, caring women.
-
-## Comparative Schema
-
-- core meaning: Love, harmony, peace, beauty, fine art, music, pleasure, sensual pleasure, taste, amenities. Good will. Help. Inclination. Desire. Feeling. Female persons. Maternal, caring women.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
@@ -89,13 +78,11 @@ Love, harmony, peace, beauty, fine art, music, pleasure, sensual pleasure, taste
 - [Venus/Venus = Vulcanus](../activations/venus-venus-equals-vulcanus.md)
 - [Venus/Venus = Poseidon](../activations/venus-venus-equals-poseidon.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Venus`: love, harmony, peace, beauty, fine art, music, pleasure, sensual pleasure, taste, amenities.
+- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
 
 ## Links
 

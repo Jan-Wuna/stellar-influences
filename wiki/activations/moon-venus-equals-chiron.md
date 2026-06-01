@@ -33,30 +33,15 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Moon/Venus midpoint`
-- Source page: `27`
-- Activator: `Chiron`
-
 #### Sandbach Entry
 
 Your energy helps others to tap into the love surrounding them in the moment, and to love their own past, even the most difficult parts of it. You also have the effect of helping them to be more vulnerable and open in relating.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Venus = Chiron`: Your energy helps others to tap into the love surrounding them in the moment, and to love their own past, even the most difficult parts of it. You also have the effect of helping them to be more vulnerable and open in relating.
+- Practical focus: makes `Moon/Venus` healing, vulnerable, and emotionally redemptive. It helps others open to love in the present and soften toward their own past, making affection a path for repair, acceptance, and warmer relating.
 
 ## Links
 

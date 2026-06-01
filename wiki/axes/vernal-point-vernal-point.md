@@ -45,8 +45,6 @@ updated_at: 2026-04-21
 
 - Axis: `Vernal Point/Vernal Point`
 - Astronomicon axis: `VP/VP`
-- Source heading: `Vernal Point + Vernal Point`
-- Source page: `33`
 
 ## Source Entries
 
@@ -55,15 +53,6 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 Concerning the Earth horoscope. Public life. The generality. The world public. The street. The many people we superficially know and have dealings with, without making the acquaintance. Telluric (terrestrial) influences.
-
-## Comparative Schema
-
-- core meaning: Concerning the Earth horoscope. Public life. The generality. The world public. The street. The many people we superficially know and have dealings with, without making the acquaintance. Telluric (terrestrial) influences.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
@@ -89,13 +78,11 @@ Concerning the Earth horoscope. Public life. The generality. The world public. T
 - [Vernal Point/Vernal Point = Vulcanus](../activations/vernal-point-vernal-point-equals-vulcanus.md)
 - [Vernal Point/Vernal Point = Poseidon](../activations/vernal-point-vernal-point-equals-poseidon.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- This axis emphasizes concerning the Earth horoscope, public life, the generality, the world public, and the street.
+- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
 
 ## Links
 

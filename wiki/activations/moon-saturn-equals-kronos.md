@@ -3,7 +3,7 @@ title: Moon/Saturn = Kronos
 page_type: activation
 slug: moon-saturn-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Saturn
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Saturn
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Saturn`
-- Source page: `126`
 #### Witte Entry
 
 Wife separated or divorced by law. Resistances through self-consciousness. Hindrances through administrative authorities. Head mistress of a charitable institution.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Wife separated or divorced by law. Resistances through self-consciousness. Hindrances through administrative authorities. Head mistress of a charitable institution.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Reputation of an old lady, special evening hour, women's problems of the state, great pain of a woman, problems of a respected people, difficulties of a woman with the boss, superiority of a patient woman, and woman separated from the state
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Saturn = Kronos`: Wife separated or divorced by law. Resistances through self-consciousness. Hindrances through administrative authorities. Head mistress of a charitable institution.
+- Practical focus: elevates `Moon/Saturn` through law, administration, and structured authority acting on separation or resistance. It suggests emotional restraint formalized by institutions, where grief, divorce, or burden is managed through rank, office, or official oversight.
+- Practical expression: reputation of an old lady, special evening hour, women's problems of the state, great pain of a woman, and problems of a respected people.
 
 ## Links
 
@@ -61,3 +57,5 @@ Wife separated or divorced by law. Resistances through self-consciousness. Hindr
 - [Saturn](../factors/saturn.md)
 - [Kronos](../factors/kronos.md)
 - [Moon/Saturn](../axes/moon-saturn.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

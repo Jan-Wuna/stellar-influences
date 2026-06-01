@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Mercury`
-- Source page: `62`
 #### Witte Entry
 
 To think about acquaintances. One’s attitude about love and art.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Mercury/Medium Coeli`
-- Source page: `173`
-- Entry: `0569`
+#### ABC Entry
+
+Joy and harmony in youth, thoughts of a loving soul, I love to speak, I think fiendly, loving description of the soul, my harmonic thinking, my youth love, my peace language, and artistic soul language
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ One's own thinking and feeling, contemplating on art and beauty, meditating abou
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mercury/Midheaven midpoint`
-- Source page: `53`
-- Activator: `Venus`
-
 #### Sandbach Entry
 
 To appreciate the ideas of experts, or those with authority. An appreciation of ideas that carry spiritual authority. A love of thinking about worldly things. To appreciate the complexity of ideas..
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Developing a softness to your personality as you mature; a satisfaction about the person you are becoming; helps give self-contentment with your stature and recognition; an added deceitful trend creeps into your aims in life.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/MC = Venus`: refined judgment, artistic or relational vocation, and a life path helped by tact, taste, and thoughtful affection. Main caution: pleasingness over decisiveness: one may linger in contemplation of values or relationships instead of drawing firmer conclusions and acting on them.
 
 ## Links
 
@@ -84,7 +76,8 @@ To appreciate the ideas of experts, or those with authority. An appreciation of 
 - [MC](../factors/mc.md)
 - [Venus](../factors/venus.md)
 - [Mercury/MC](../axes/mercury-mc.md)
-- [Mercury Venus MC](../triads/mercury-venus-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

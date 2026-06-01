@@ -3,7 +3,7 @@ title: Cupido/Admetos = Kronos
 page_type: activation
 slug: cupido-admetos-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Cupido
   - Kronos
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Cupido + Admetos`
-- Source page: `272`
 #### Witte Entry
 
 An association dissolved by the state or the authorities. The state causes obstacles and difficulties during the dissolution of a corporation. Dissolution or breaking up of treaties, of the constitution, or form of government.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: An association dissolved by the state or the authorities. The state causes obstacles and difficulties during the dissolution of a corporation. Dissolution or breaking up of treaties, of the constitution, or form of government.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Reputation of a community through perseverance, blocked state community, depressed authority of a community, consolidation of a self indigenous community, consolidated hierarchy community, and grim superiority of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Cupido/Admetos = Kronos`: dissolution through institutions, state pressure, or higher authority. Main caution: imposed breakup, legal disassembly, or official interference in communal continuity.
 
 ## Links
 
@@ -61,3 +55,5 @@ An association dissolved by the state or the authorities. The state causes obsta
 - [Admetos](../factors/admetos.md)
 - [Kronos](../factors/kronos.md)
 - [Cupido/Admetos](../axes/cupido-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -45,8 +45,6 @@ updated_at: 2026-04-21
 
 - Axis: `Saturn/Saturn`
 - Astronomicon axis: `W/W`
-- Source heading: `Saturn + Saturn`
-- Source page: `219`
 
 ## Source Entries
 
@@ -55,15 +53,6 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 Restriction. Inhibitions. To hinder. Separations. Losses. Difficulties, resistances, delays. Long and lasting effect. Perseverance, persistence, thoroughness, slowness, alienation, loneliness, cold, old age, firmness, hardness, hardening, deposits, displeasure, stinginess, envy.
-
-## Comparative Schema
-
-- core meaning: Restriction. Inhibitions. To hinder. Separations. Losses. Difficulties, resistances, delays. Long and lasting effect. Perseverance, persistence, thoroughness, slowness, alienation, loneliness, cold, old age, firmness, hardness, hardening, deposits, displeasure, stinginess, envy.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
@@ -89,13 +78,11 @@ Restriction. Inhibitions. To hinder. Separations. Losses. Difficulties, resistan
 - [Saturn/Saturn = Vulcanus](../activations/saturn-saturn-equals-vulcanus.md)
 - [Saturn/Saturn = Poseidon](../activations/saturn-saturn-equals-poseidon.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- This axis centers on restriction, inhibitions, to hinder, with the source repeatedly stressing Saturnian pressure, delay, or inhibition through this pair.
+- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
 
 ## Links
 

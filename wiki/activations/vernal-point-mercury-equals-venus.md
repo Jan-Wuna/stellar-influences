@@ -3,7 +3,7 @@ title: Vernal Point/Mercury = Venus
 page_type: activation
 slug: vernal-point-mercury-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Mercury
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Mercury
   - Venus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Mercury`
-- Source page: `40`
 #### Witte Entry
 
 General conception of beauty. Acquaintances in public. Conformity of the public opinion. To adorn oneself. To dress-up.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: General conception of beauty. Acquaintances in public. Conformity of the public opinion. To adorn oneself. To dress-up.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Peace speaking in the public, harmony of youth in the public, harmonious communication in the public, artificial speaking in the public, media art in the public life, and preference for the public opinion
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Mercury = Venus`: general conception of beauty, acquaintances in public, conformity of the public opinion, to adorn oneself, and to dress-up.
+- Practical expression: peace speaking in the public, harmony of youth in the public, harmonious communication in the public, artificial speaking in the public, and media art in the public life.
 
 ## Links
 
@@ -61,3 +56,5 @@ General conception of beauty. Acquaintances in public. Conformity of the public 
 - [Mercury](../factors/mercury.md)
 - [Venus](../factors/venus.md)
 - [Vernal Point/Mercury](../axes/vernal-point-mercury.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

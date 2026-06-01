@@ -3,7 +3,7 @@ title: Pluto/Poseidon = MC
 page_type: activation
 slug: pluto-poseidon-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - MC
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Poseidon`
-- Source page: `264`
 #### Witte Entry
 
 The ability to mentally change and develop. To fit oneself mentally into a different environment. If the native is mentally or spiritually in a higher state of development, this configuration takes him higher and higher. In a state of low development it brings inconsistency in his belief. Fickleness.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The ability to mentally change and develop. To fit oneself mentally into a different environment. If the native is mentally or spiritually in a higher state of development, this configuration takes him higher and higher. In a state of low development it brings inconsistency in his belief. Fickleness.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Development of the spirit schele, knowledgeable development of the soul, inner spiritual transformation, my development to Kiarheit, my spiritual development, my cultural transformation, my growing Ycrnunft, and growing inner clarity
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Poseidon = MC`: the ability to mentally change and develop; To fit oneself mentally into a different environment.
+- Practical expression: knowledgeable development of the soul, inner spiritual transformation, my development to Kiarheit, my spiritual development, and my cultural transformation.
 
 ## Links
 
@@ -61,3 +56,5 @@ The ability to mentally change and develop. To fit oneself mentally into a diffe
 - [Poseidon](../factors/poseidon.md)
 - [MC](../factors/mc.md)
 - [Pluto/Poseidon](../axes/pluto-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

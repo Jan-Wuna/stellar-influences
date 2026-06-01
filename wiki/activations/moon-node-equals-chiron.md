@@ -33,30 +33,15 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Moon/Node midpoint`
-- Source page: `37`
-- Activator: `Chiron`
-
 #### Sandbach Entry
 
 Your energy helps others to be aware of the emotional aspects of their connec tion with others, as well as what they need for their own personal emotional growth. You trigger others to work through their feelings, and often do this with no conscious effort to do so.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Node = Chiron`: Your energy helps others to be aware of the emotional aspects of their connec tion with others, as well as what they need for their own personal emotional growth. You trigger others to work through their feelings, and often do this with no conscious effort to do so.
+- Practical focus: makes `Moon/Node` healing, relationally aware, and emotionally developmental. The person tends to bring others into clearer contact with what they feel inside connection itself, so partnership and group bonds become vehicles for growth and release.
 
 ## Links
 

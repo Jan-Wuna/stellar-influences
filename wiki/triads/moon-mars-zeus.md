@@ -3,7 +3,7 @@ title: Moon Mars Zeus
 page_type: triad_hub
 slug: moon-mars-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Mars
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Mars Zeus`
 - Astronomicon triad-set: `R U £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mars/Zeus = Moon](../activations/mars-zeus-equals-moon.md)
-  Source page `199`
 - [Moon/Mars = Zeus](../activations/moon-mars-equals-zeus.md)
-  Source page `124`
 - [Moon/Zeus = Mars](../activations/moon-zeus-equals-mars.md)
-  Source page `132`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mars/Zeus = Moon`: page `199`
-- `Moon/Mars = Zeus`: page `124`
-- `Moon/Zeus = Mars`: page `132`
+- `Mars/Zeus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `199`
+- `Mars/Zeus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `312`
+- `Moon/Mars = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `124`
+- `Moon/Mars = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `181`
+- `Moon/Zeus = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `132`
+- `Moon/Zeus = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `196`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Zeus = Moon`: emotionalizes the axis into excitement and collective arousal.
+- `Moon/Mars = Zeus`: This activation turns `Moon/Mars` toward generation, construction, and emotionally fueled creation. It can express through fertility, motherhood, military or technical labor, or work that requires deep passion, so instinctive force becomes productive, procreative, and materially formative.
+- `Moon/Zeus = Mars`: Women acting with a goal in mind. To realize a creative thought. To be at hand quickly. Fire outbreak.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Mars](../factors/mars.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

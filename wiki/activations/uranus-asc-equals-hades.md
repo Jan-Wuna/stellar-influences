@@ -3,10 +3,10 @@ title: Uranus/Asc = Hades
 page_type: activation
 slug: uranus-asc-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Uranus
+  - Asc
   - Hades
 normalized_formula: Uranus/Asc = Hades
 axis: Uranus/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Asc
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Uranus`
-- Source page: `88`
 #### Witte Entry
 
 Lowness of others. Danger of assassination. To be accessory to a killing.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Lowness of others. Danger of assassination. To be accessory to a killing.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Excitement about a dirty place, danger at the place by technology, criminal event at the place, defective environmental technology, adverse refutations at the place, sudden grief with the partner, Uben ashing distress in the environment, and hidden unrest at the place
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Asc = Hades`: Lowness of others. Danger of assassination. To be accessory to a killing.
+- Practical expression: excitement about a dirty place, danger at the place by technology, criminal event at the place, defective environmental technology, and adverse refutations at the place.
 
 ## Links
 
@@ -61,3 +56,5 @@ Lowness of others. Danger of assassination. To be accessory to a killing.
 - [Asc](../factors/asc.md)
 - [Hades](../factors/hades.md)
 - [Uranus/Asc](../axes/uranus-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

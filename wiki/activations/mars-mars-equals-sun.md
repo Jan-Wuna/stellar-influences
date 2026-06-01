@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Mars + Mars`
-- Source page: `190`
 #### Witte Entry
 
 The man. The husband. The active man. The soldier. The action of the living body. Work with physical strength. The working day. Men at work. Daily action. Handyman. Energy level of the body. (In the solar cycle: period concerning to work.)
 
-## Comparative Schema
-
-- core meaning: The man. The husband. The active man. The soldier. The action of the living body. Work with physical strength. The working day. Men at work. Daily action. Handyman. Energy level of the body. (In the solar cycle: period concerning to work.)
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Mars = Sun` personalizes doubled Mars as the active male principle, bodily exertion, and daily work.
+- Chart expression: the husband, the soldier, men at work, physical labor, bodily energy, the working day, and identity expressed through direct exertion and useful action.
 
 ## Links
 

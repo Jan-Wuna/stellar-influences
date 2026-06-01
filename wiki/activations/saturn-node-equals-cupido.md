@@ -3,10 +3,10 @@ title: Saturn/Node = Cupido
 page_type: activation
 slug: saturn-node-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Saturn
+  - Node
   - Cupido
 normalized_formula: Saturn/Node = Cupido
 axis: Saturn/Node
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Node
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Saturn`
-- Source page: `145`
 #### Witte Entry
 
 Separation of a marriage or union. Old or permanent connection to an association, to family.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Separation of a marriage or union. Old or permanent connection to an association, to family.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+serious encounters in of a community, common attachment to a task, problems through contacts with of a community, links in a separate community, connection with an old community, and loss of relations with of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Node = Cupido`: separation of a marriage or union, old or permanent connection to an association, to family.
+- Practical expression: serious encounters in a community, common attachment to a task, problems through contacts with a community, links in a separate community, and connection with an old community.
 
 ## Links
 
@@ -61,3 +56,5 @@ Separation of a marriage or union. Old or permanent connection to an association
 - [Node](../factors/node.md)
 - [Cupido](../factors/cupido.md)
 - [Saturn/Node](../axes/saturn-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

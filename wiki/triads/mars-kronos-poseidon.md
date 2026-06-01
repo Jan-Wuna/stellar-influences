@@ -3,7 +3,7 @@ title: Mars Kronos Poseidon
 page_type: triad_hub
 slug: mars-kronos-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Kronos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Kronos Poseidon`
 - Astronomicon triad-set: `U ¤ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Kronos/Poseidon = Mars](../activations/kronos-poseidon-equals-mars.md)
-  Source page `302`
 - [Mars/Kronos = Poseidon](../activations/mars-kronos-equals-poseidon.md)
-  Source page `200`
 - [Mars/Poseidon = Kronos](../activations/mars-poseidon-equals-kronos.md)
-  Source page `204`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Kronos/Poseidon = Mars`: page `302`
-- `Mars/Kronos = Poseidon`: page `200`
-- `Mars/Poseidon = Kronos`: page `204`
+- `Kronos/Poseidon = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `302`
+- `Kronos/Poseidon = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `466`
+- `Mars/Kronos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `200`
+- `Mars/Kronos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `315`
+- `Mars/Poseidon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `204`
+- `Mars/Poseidon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `323`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Kronos/Poseidon = Mars`: strong moral standards, cultural or educational work, and deliberate effort to raise the level of education or culture.
+- `Mars/Kronos = Poseidon`: refines force and authority through intellect, ethics, and high principle.
+- `Mars/Poseidon = Kronos`: elevates mental and moral activity into leadership, prestige, and official doctrine.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Kronos](../factors/kronos.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Uranus/Kronos = Asc
 page_type: activation
 slug: uranus-kronos-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Asc
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Kronos`
-- Source page: `239`
 #### Witte Entry
 
 Great excitement caused by the native. To be detained by the power of the state, or to perish by it.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great excitement caused by the native. To be detained by the power of the state, or to perish by it.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+special technical place, special surprises at a place, great tensions in the environment, nervousness through the dominance of the partner, new self confidence of the partner, state event at a place, and priority of technology in the environment
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Kronos = Asc`: Great excitement caused by the native. To be detained by the power of the state, or to perish by it.
+- Practical expression: special technical place, special surprises at a place, great tensions in the environment, nervousness through the dominance of the partner, and new self confidence of the partner.
 
 ## Links
 
@@ -61,3 +56,5 @@ Great excitement caused by the native. To be detained by the power of the state,
 - [Kronos](../factors/kronos.md)
 - [Asc](../factors/asc.md)
 - [Uranus/Kronos](../axes/uranus-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

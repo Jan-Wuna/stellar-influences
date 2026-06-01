@@ -3,7 +3,7 @@ title: Saturn/Zeus = Neptune
 page_type: activation
 slug: saturn-zeus-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Neptune
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Zeus`
-- Source page: `226`
 #### Witte Entry
 
 Chronic hindrance, the fruits of toll are nil. Damage through burning gas. To be taken sick or to waste away through poison gas.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Chronic hindrance, the fruits of toll are nil. Damage through burning gas. To be taken sick or to waste away through poison gas.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Congenital weakness, unknown problems of movement, loss due to unclear cicl setting Start of a Stor development, beginning of growing stamina, shaping development tasks, developing most striving, patient performance development, and concentrating on waking
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Zeus = Neptune`: chronic hindrance, the fruits of toll are nil, damage through burning gas.
+- Practical expression: congenital weakness, unknown problems of movement, loss due to unclear cicl setting Start of a Stor development, beginning of growing stamina, and shaping development tasks.
 
 ## Links
 
@@ -61,3 +56,5 @@ Chronic hindrance, the fruits of toll are nil. Damage through burning gas. To be
 - [Zeus](../factors/zeus.md)
 - [Neptune](../factors/neptune.md)
 - [Saturn/Zeus](../axes/saturn-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Vernal Point Venus Admetos
 page_type: triad_hub
 slug: vernal-point-venus-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Venus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Venus Admetos`
 - Astronomicon triad-set: `VP Q ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Venus/Admetos = Vernal Point](../activations/venus-admetos-equals-vernal-point.md)
-  Source page `187`
 - [Vernal Point/Admetos = Venus](../activations/vernal-point-admetos-equals-venus.md)
-  Source page `53`
 - [Vernal Point/Venus = Admetos](../activations/vernal-point-venus-equals-admetos.md)
-  Source page `41`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Venus/Admetos = Vernal Point`: page `187`
-- `Vernal Point/Admetos = Venus`: page `53`
-- `Vernal Point/Venus = Admetos`: page `41`
+- `Venus/Admetos = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `187`
+- `Venus/Admetos = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `292`
+- `Vernal Point/Admetos = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `53`
+- `Vernal Point/Admetos = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `54`
+- `Vernal Point/Venus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `41`
+- `Vernal Point/Venus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `31`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Venus/Admetos = Vernal Point`: harmonious community in close circle.
+- `Vernal Point/Admetos = Venus`: This formula emphasizes to be without feelings and insensitive.
+- `Vernal Point/Venus = Admetos`: This formula emphasizes desired solitude and harmony in a close circle.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Venus](../factors/venus.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

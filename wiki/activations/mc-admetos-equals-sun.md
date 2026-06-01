@@ -3,7 +3,7 @@ title: MC/Admetos = Sun
 page_type: activation
 slug: mc-admetos-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - MC
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Admetos`
-- Source page: `75`
 #### Witte Entry
 
 Insensible in respect to the body. To suppress pain. To create a resistant body.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Insensible in respect to the body. To suppress pain. To create a resistant body.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blockage of body and soul, my body is blocked, my body circuit, my daily cycle, my corporal endurance, my personal limitation, mentally bloated man, mental depression of a person, and center for depressed people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Admetos = Sun` embodies the axis through bodily hardening and suppression of pain.
+- Chart expression: physical resistance, insensibility to suffering, and a life force that meets hardship by enduring it and building a tougher, more resilient body.
 
 ## Links
 
@@ -61,3 +56,5 @@ Insensible in respect to the body. To suppress pain. To create a resistant body.
 - [Admetos](../factors/admetos.md)
 - [Sun](../factors/sun.md)
 - [MC/Admetos](../axes/mc-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

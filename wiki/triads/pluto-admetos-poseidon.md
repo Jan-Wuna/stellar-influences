@@ -3,7 +3,7 @@ title: Pluto Admetos Poseidon
 page_type: triad_hub
 slug: pluto-admetos-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Admetos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Pluto Admetos Poseidon`
 - Astronomicon triad-set: `Z ¦ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Admetos/Poseidon = Pluto](../activations/admetos-poseidon-equals-pluto.md)
-  Source page `312`
 - [Pluto/Admetos = Poseidon](../activations/pluto-admetos-equals-poseidon.md)
-  Source page `262`
 - [Pluto/Poseidon = Admetos](../activations/pluto-poseidon-equals-admetos.md)
-  Source page `264`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Admetos/Poseidon = Pluto`: page `312`
-- `Pluto/Admetos = Poseidon`: page `262`
-- `Pluto/Poseidon = Admetos`: page `264`
+- `Admetos/Poseidon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `312`
+- `Admetos/Poseidon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `477`
+- `Pluto/Admetos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `262`
+- `Pluto/Admetos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `419`
+- `Pluto/Poseidon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `264`
+- `Pluto/Poseidon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `423`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Admetos/Poseidon = Pluto`: new methods of education, reform of training, and transformation in how subtle or cultural formation is carried out.
+- `Pluto/Admetos = Poseidon`: brings deep, slow change into the mental and spiritual attitude, altering the concept of the world from the roots.
+- `Pluto/Poseidon = Admetos`: This activation emphasizes to experience a mental and emotional transformation in a small circle.
 
 ## Links
 
 - [Pluto](../factors/pluto.md)
 - [Admetos](../factors/admetos.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

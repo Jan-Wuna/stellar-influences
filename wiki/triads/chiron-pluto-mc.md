@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Chiron Pluto MC`
 - Astronomicon triad-set: `Chiron Z MC`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Chiron/Pluto = MC`: John, page `99`
 - `Pluto/MC = Chiron`: John, page `117`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/MC = Pluto`: vocation as a deep inner pressure and transformative calling. Main caution: forcing purpose through will rather than allowing deeper receptivity.
+- `Chiron/Pluto = MC`: vocation under deep pressure and to a purpose that matures through surrender rather than sheer force. Main caution: mistaking spiritual purpose for another project of willpower.
+- `Pluto/MC = Chiron` brings Chiron into the axis of deep life direction, security, and inner authority. It can help others locate a truer source of stability and become more receptive to spiritual reality; the caution is to support security before pressing for release of old defenses.
 
 ## Links
 

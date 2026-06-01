@@ -33,30 +33,15 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Moon/Mars midpoint`
-- Source page: `28`
-- Activator: `Chiron`
-
 #### Sandbach Entry
 
 Your energy helps other people to act on their instincts, and to clear out destructive feelings, such as anger. You also help them to get more in touch with their passion. Your intense expression of feeling can have a healing effect on the world around you. Instinctual impulses lead to important discoveries and a clearing of energy.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Mars = Chiron`: Your energy helps other people to act on their instincts, and to clear out destructive feelings, such as anger. You also help them to get more in touch with their passion. Your intense expression of feeling can have a healing effect on the world around you. Instinctual impulses lead to important discoveries and a clearing of energy.
+- Practical focus: makes `Moon/Mars` cathartic and healing by helping anger, instinct, and passion move cleanly instead of destructively. The person often stimulates honest action and emotional release in others, so heated feeling becomes a path to discovery, repair, and the clearing of blocked energy.
 
 ## Links
 

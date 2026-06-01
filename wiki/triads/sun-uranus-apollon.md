@@ -3,7 +3,7 @@ title: Sun Uranus Apollon
 page_type: triad_hub
 slug: sun-uranus-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Uranus
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Uranus Apollon`
 - Astronomicon triad-set: `S X ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Sun/Apollon = Uranus](../activations/sun-apollon-equals-uranus.md)
-  Source page `115`
 - [Sun/Uranus = Apollon](../activations/sun-uranus-equals-apollon.md)
-  Source page `108`
 - [Uranus/Apollon = Sun](../activations/uranus-apollon-equals-sun.md)
-  Source page `240`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Sun/Apollon = Uranus`: page `115`
-- `Sun/Uranus = Apollon`: page `108`
-- `Uranus/Apollon = Sun`: page `240`
+- `Sun/Apollon = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `115`
+- `Sun/Apollon = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `167`
+- `Sun/Uranus = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `108`
+- `Sun/Uranus = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `153`
+- `Uranus/Apollon = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `240`
+- `Uranus/Apollon = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `382`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Sun/Apollon = Uranus`: This formula emphasizes sudden, unexpected honors, dignities and success and astrological success.
+- `Sun/Uranus = Apollon`: This formula emphasizes sudden success and expansive breakthroughs.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Uranus](../factors/uranus.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

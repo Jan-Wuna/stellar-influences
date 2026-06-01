@@ -3,10 +3,10 @@ title: Moon/MC = Apollon
 page_type: activation
 slug: moon-mc-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Moon
+  - MC
   - Apollon
 normalized_formula: Moon/MC = Apollon
 axis: Moon/MC
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - MC
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Moon`
-- Source page: `60`
 #### Witte Entry
 
 To be broad-minded and big-hearted. Frank. One’s emotional attitude towards peace.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be broad-minded and big-hearted. Frank. One’s emotional attitude towards peace.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Spreading a woman's skills, my success as a woman, my success with the woman, my skills, my people are successful, my knowledge of the woman, my successful wife, my freedom skills, and knowledge of the female psyche
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/MC = Apollon`: To be broad-minded and big-hearted. Frank. One’s emotional attitude towards peace.
+- Practical focus: broadens `Moon/MC` into generosity, frankness, and a more expansive emotional outlook on life direction. It favors peace-seeking, open-heartedness, and a public identity shaped by tolerance, making personal feeling easier to share in ways that unify rather than divide.
+- Practical expression: spreading a woman's skills, my success as a woman, my success with the woman, my skills, and my people are successful.
 
 ## Links
 
@@ -61,3 +57,5 @@ To be broad-minded and big-hearted. Frank. One’s emotional attitude towards pe
 - [MC](../factors/mc.md)
 - [Apollon](../factors/apollon.md)
 - [Moon/MC](../axes/moon-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

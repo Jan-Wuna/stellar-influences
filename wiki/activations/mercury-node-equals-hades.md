@@ -3,10 +3,10 @@ title: Mercury/Node = Hades
 page_type: activation
 slug: mercury-node-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Mercury
+  - Node
   - Hades
 normalized_formula: Mercury/Node = Hades
 axis: Mercury/Node
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Node
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Mercury`
-- Source page: `141`
 #### Witte Entry
 
 To be tied up with unclean affairs. Correspondence for such reasons.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be tied up with unclean affairs. Correspondence for such reasons.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Hide thoughts in connections, dangerous thoughts connections, thought connections from the past, criminal youth connection, disadvantages in connections by speech, and hidden news relations
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Node = Hades` degrades the axis into unclean ties and compromised correspondence.
+- Chart expression: involvement in dirty affairs, troubling communications, and mental or social links formed around matters that are shabby, hidden, or corrupt.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be tied up with unclean affairs. Correspondence for such reasons.
 - [Node](../factors/node.md)
 - [Hades](../factors/hades.md)
 - [Mercury/Node](../axes/mercury-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

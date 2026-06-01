@@ -3,7 +3,7 @@ title: Cupido Admetos Poseidon
 page_type: triad_hub
 slug: cupido-admetos-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Admetos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Cupido Admetos Poseidon`
 - Astronomicon triad-set: `¡ ¦ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Admetos/Poseidon = Cupido](../activations/admetos-poseidon-equals-cupido.md)
-  Source page `312`
 - [Cupido/Admetos = Poseidon](../activations/cupido-admetos-equals-poseidon.md)
-  Source page `272`
 - [Cupido/Poseidon = Admetos](../activations/cupido-poseidon-equals-admetos.md)
-  Source page `274`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Admetos/Poseidon = Cupido`: page `312`
-- `Cupido/Admetos = Poseidon`: page `272`
-- `Cupido/Poseidon = Admetos`: page `274`
+- `Admetos/Poseidon = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `312`
+- `Admetos/Poseidon = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `477`
+- `Cupido/Admetos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `272`
+- `Cupido/Admetos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `433`
+- `Cupido/Poseidon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `274`
+- `Cupido/Poseidon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `437`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Admetos/Poseidon = Cupido`: a collective educational ethos, private teaching, and group formation around cultural or instructional values.
+- `Cupido/Admetos = Poseidon`: mental, philosophical, or psychic alienation from the group and loneliness arising from not sharing the communal view.
+- `Cupido/Poseidon = Admetos`: knowledge through faith, quitting a spiritual path, staying outside the faith, or suffering disadvantage and oppression in relation to such a community.
 
 ## Links
 
 - [Cupido](../factors/cupido.md)
 - [Admetos](../factors/admetos.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

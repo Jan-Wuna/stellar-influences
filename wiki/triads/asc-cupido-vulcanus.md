@@ -3,7 +3,7 @@ title: Asc Cupido Vulcanus
 page_type: triad_hub
 slug: asc-cupido-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Asc Cupido Vulcanus`
 - Astronomicon triad-set: `Asc ¡ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Cupido = Vulcanus](../activations/asc-cupido-equals-vulcanus.md)
-  Source page `91`
 - [Asc/Vulcanus = Cupido](../activations/asc-vulcanus-equals-cupido.md)
-  Source page `97`
 - [Cupido/Vulcanus = Asc](../activations/cupido-vulcanus-equals-asc.md)
-  Source page `273`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Cupido = Vulcanus`: page `91`
-- `Asc/Vulcanus = Cupido`: page `97`
-- `Cupido/Vulcanus = Asc`: page `273`
+- `Asc/Cupido = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `91`
+- `Asc/Cupido = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `123`
+- `Asc/Vulcanus = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `97`
+- `Asc/Vulcanus = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `135`
+- `Cupido/Vulcanus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `273`
+- `Cupido/Vulcanus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `434`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Cupido = Vulcanus`: a domestic or communal field in which people align strongly and show power through acting in the same direction.
+- `Asc/Vulcanus = Cupido`: allied force, group strength, and cohesive people acting as a unit.
+- `Cupido/Vulcanus = Asc`: others exerting power through their community, esteem for the artistic accomplishments of others, and close company with great artists or strong collaborative creators.
 
 ## Links
 
 - [Asc](../factors/asc.md)
 - [Cupido](../factors/cupido.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

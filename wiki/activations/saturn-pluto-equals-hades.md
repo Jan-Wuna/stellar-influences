@@ -3,7 +3,7 @@ title: Saturn/Pluto = Hades
 page_type: activation
 slug: saturn-pluto-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Pluto
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Pluto`
-- Source page: `223`
 #### Witte Entry
 
 Hindered development through malice or poor conditions. Increasing malice and villainess. Slow adaptation destroyed through enmity and vile actions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Hindered development through malice or poor conditions. Increasing malice and villainess. Slow adaptation destroyed through enmity and vile actions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+serious change due to deprivation, difficult development in old age, dangerous pain development, problematic development from the past, hidden weak problems, maturity development due to hardship, and growing losses due to criminality
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Pluto = Hades`: hindered development through malice or poor conditions, increasing malice and villainess.
+- Practical expression: serious change due to deprivation, difficult development in old age, dangerous pain development, problematic development from the past, and hidden weak problems.
 
 ## Links
 
@@ -61,3 +56,5 @@ Hindered development through malice or poor conditions. Increasing malice and vi
 - [Pluto](../factors/pluto.md)
 - [Hades](../factors/hades.md)
 - [Saturn/Pluto](../axes/saturn-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

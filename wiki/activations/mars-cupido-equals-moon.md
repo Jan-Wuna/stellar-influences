@@ -3,7 +3,7 @@ title: Mars/Cupido = Moon
 page_type: activation
 slug: mars-cupido-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Mars
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Cupido`
-- Source page: `197`
 #### Witte Entry
 
 Joint activity with others in public life. Woman’s marriage. Mother’s remarriage.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Joint activity with others in public life. Woman’s marriage. Mother’s remarriage.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Actions of a women's community, collective impulses, joint action, actions of a people's community, artistic activity of a woman, people' will to community, will community of a people, and working together in the people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Cupido = Moon`: communal or marital action that is felt openly, socially recognized, and bound up with family cycles and public belonging.
 
 ## Links
 
@@ -61,3 +55,5 @@ Joint activity with others in public life. Woman’s marriage. Mother’s remarr
 - [Cupido](../factors/cupido.md)
 - [Moon](../factors/moon.md)
 - [Mars/Cupido](../axes/mars-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

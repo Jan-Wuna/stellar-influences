@@ -3,7 +3,7 @@ title: Mars/Cupido = Vulcanus
 page_type: activation
 slug: mars-cupido-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Cupido
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Cupido`
-- Source page: `197`
 #### Witte Entry
 
 To possess great influence in a study-group or cooperative community. Potent cooperative work. Influence through artistic ability. To marry into a family with great influence.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To possess great influence in a study-group or cooperative community. Potent cooperative work. Influence through artistic ability. To marry into a family with great influence.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influenced labour community, energies of a labour community, joint powerful actions, violence actions of a community, strong labour community, strong will of a community, and will of a community to power
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Cupido = Vulcanus`: forceful group work, strong artistic or communal impact, and marriage or family ties linked to people with real power, leverage, or commanding presence.
 
 ## Links
 
@@ -61,3 +55,5 @@ To possess great influence in a study-group or cooperative community. Potent coo
 - [Cupido](../factors/cupido.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Mars/Cupido](../axes/mars-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

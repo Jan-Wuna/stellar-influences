@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Pluto + Pluto`
-- Source page: `255`
 #### Witte Entry
 
 Other people are changeable. Changes in relation to others. Changes at the place. Moving from residence. Changes in connections with different people. To be transient in a place. Changes of the immediate environment.
 
-## Comparative Schema
-
-- core meaning: Other people are changeable. Changes in relation to others. Changes at the place. Moving from residence. Changes in connections with different people. To be transient in a place. Changes of the immediate environment.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Pluto = Asc`: changes in relation to others; Changes at the place; Moving from residence; Changes in connections with different people.
 
 ## Links
 

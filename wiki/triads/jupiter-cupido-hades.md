@@ -3,7 +3,7 @@ title: Jupiter Cupido Hades
 page_type: triad_hub
 slug: jupiter-cupido-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Cupido Hades`
 - Astronomicon triad-set: `V ¡ ¢`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Hades = Jupiter](../activations/cupido-hades-equals-jupiter.md)
-  Source page `267`
 - [Jupiter/Cupido = Hades](../activations/jupiter-cupido-equals-hades.md)
-  Source page `211`
 - [Jupiter/Hades = Cupido](../activations/jupiter-hades-equals-cupido.md)
-  Source page `212`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Hades = Jupiter`: page `267`
-- `Jupiter/Cupido = Hades`: page `211`
-- `Jupiter/Hades = Cupido`: page `212`
+- `Cupido/Hades = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `267`
+- `Cupido/Hades = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `424`
+- `Jupiter/Cupido = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `211`
+- `Jupiter/Cupido = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `333`
+- `Jupiter/Hades = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `212`
+- `Jupiter/Hades = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `335`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Hades = Jupiter`: decreasing substance, finding happiness in sad surroundings, or getting money through coarse art or an ill-matched union.
+- `Jupiter/Cupido = Hades`: happy married life or partnership that persists despite hardship, sadness, or humbler circumstances.
+- `Jupiter/Hades = Cupido`: poor married life, money losses in a corporation, and art or communal work that is poorly paid.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Cupido](../factors/cupido.md)
 - [Hades](../factors/hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Node Hades Poseidon
 page_type: triad_hub
 slug: node-hades-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Node Hades Poseidon`
 - Astronomicon triad-set: `g ¢ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Poseidon = Node](../activations/hades-poseidon-equals-node.md)
-  Source page `286`
 - [Node/Hades = Poseidon](../activations/node-hades-equals-poseidon.md)
-  Source page `150`
 - [Node/Poseidon = Hades](../activations/node-poseidon-equals-hades.md)
-  Source page `156`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Poseidon = Node`: page `286`
-- `Node/Hades = Poseidon`: page `150`
-- `Node/Poseidon = Hades`: page `156`
+- `Hades/Poseidon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `286`
+- `Hades/Poseidon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `448`
+- `Node/Hades = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `150`
+- `Node/Hades = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `227`
+- `Node/Poseidon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `156`
+- `Node/Poseidon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `239`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Poseidon = Node`: association with odd people and contact with intellectual inadequacy or mental mismatch.
+- `Node/Hades = Poseidon`: Wisdom of the antiquity. Secret or occult society. To be connected through forbidden ideological conceptions.
+- `Node/Poseidon = Hades`: To be tied to others whose mentality is far below that of the native.
 
 ## Links
 
 - [Node](../factors/node.md)
 - [Hades](../factors/hades.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Jupiter/Neptune = Hades
 page_type: activation
 slug: jupiter-neptune-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Neptune
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Neptune`
-- Source page: `209`
 #### Witte Entry
 
 Rough awakening from blissful feeling. Unlucky person. Money acquired through theft or robbery. Losses through speculations.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Rough awakening from blissful feeling. Unlucky person. Money acquired through theft or robbery. Losses through speculations.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+successful community in the air, foreign law for of a community, joy of a community in the water, shared uncertainty about money, shared water law, shared success through sensitivity, and legal uncertainty of a community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Neptune = Hades`: dream and idealism breaking against harsh reality. It warns that speculative hope can collapse into loss or that fortune may be sought through degraded or illicit channels.
 
 ## Links
 
@@ -61,3 +55,5 @@ Rough awakening from blissful feeling. Unlucky person. Money acquired through th
 - [Neptune](../factors/neptune.md)
 - [Hades](../factors/hades.md)
 - [Jupiter/Neptune](../axes/jupiter-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

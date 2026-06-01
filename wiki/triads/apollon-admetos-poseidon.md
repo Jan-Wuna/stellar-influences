@@ -3,7 +3,7 @@ title: Apollon Admetos Poseidon
 page_type: triad_hub
 slug: apollon-admetos-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Apollon
   - Admetos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Apollon Admetos Poseidon`
 - Astronomicon triad-set: `¥ ¦ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Admetos/Poseidon = Apollon](../activations/admetos-poseidon-equals-apollon.md)
-  Source page `312`
 - [Apollon/Admetos = Poseidon](../activations/apollon-admetos-equals-poseidon.md)
-  Source page `306`
 - [Apollon/Poseidon = Admetos](../activations/apollon-poseidon-equals-admetos.md)
-  Source page `308`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Admetos/Poseidon = Apollon`: page `312`
-- `Apollon/Admetos = Poseidon`: page `306`
-- `Apollon/Poseidon = Admetos`: page `308`
+- `Admetos/Poseidon = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `312`
+- `Admetos/Poseidon = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `477`
+- `Apollon/Admetos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `306`
+- `Apollon/Admetos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `469`
+- `Apollon/Poseidon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `308`
+- `Apollon/Poseidon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `473`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Admetos/Poseidon = Apollon`: education and cultivation extended to many, with depth and refinement becoming socially useful and widely shared.
+- `Apollon/Admetos = Poseidon`: safety and contentment found through philosophy, shared ideals, and calm high-minded association.
+- `Apollon/Poseidon = Admetos`: steadfast conviction held within a small circle of like-minded people.
 
 ## Links
 
 - [Apollon](../factors/apollon.md)
 - [Admetos](../factors/admetos.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

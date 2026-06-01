@@ -3,7 +3,7 @@ title: Uranus Neptune Vulcanus
 page_type: triad_hub
 slug: uranus-neptune-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Neptune
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Neptune Vulcanus`
 - Astronomicon triad-set: `X Y §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Neptune/Vulcanus = Uranus](../activations/neptune-vulcanus-equals-uranus.md)
-  Source page `253`
 - [Uranus/Neptune = Vulcanus](../activations/uranus-neptune-equals-vulcanus.md)
-  Source page `234`
 - [Uranus/Vulcanus = Neptune](../activations/uranus-vulcanus-equals-neptune.md)
-  Source page `242`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Neptune/Vulcanus = Uranus`: page `253`
-- `Uranus/Neptune = Vulcanus`: page `234`
-- `Uranus/Vulcanus = Neptune`: page `242`
+- `Neptune/Vulcanus = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `253`
+- `Neptune/Vulcanus = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `405`
+- `Uranus/Neptune = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `234`
+- `Uranus/Neptune = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `371`
+- `Uranus/Vulcanus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `242`
+- `Uranus/Vulcanus = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `387`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Neptune/Vulcanus = Uranus`: Freedom of action is abruptly cut off, indicating sudden suspension, enforced restraint, or a sharp loss of independence.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Neptune](../factors/neptune.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

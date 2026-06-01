@@ -3,7 +3,7 @@ title: Vernal Point Mercury Apollon
 page_type: triad_hub
 slug: vernal-point-mercury-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Mercury
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Mercury Apollon`
 - Astronomicon triad-set: `VP T ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Mercury/Apollon = Vernal Point](../activations/mercury-apollon-equals-vernal-point.md)
-  Source page `170`
 - [Vernal Point/Apollon = Mercury](../activations/vernal-point-apollon-equals-mercury.md)
-  Source page `52`
 - [Vernal Point/Mercury = Apollon](../activations/vernal-point-mercury-equals-apollon.md)
-  Source page `40`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Mercury/Apollon = Vernal Point`: page `170`
-- `Vernal Point/Apollon = Mercury`: page `52`
-- `Vernal Point/Mercury = Apollon`: page `40`
+- `Mercury/Apollon = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `170`
+- `Mercury/Apollon = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `262`
+- `Vernal Point/Apollon = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `52`
+- `Vernal Point/Apollon = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `52`
+- `Vernal Point/Mercury = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `40`
+- `Vernal Point/Mercury = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `29`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mercury/Apollon = Vernal Point`: projects the axis into general circulation and mass-level thought.
+- `Vernal Point/Apollon = Mercury`: This formula emphasizes to talk much, to study different languages, to be a linguist, and to write scientific treatises.
+- `Vernal Point/Mercury = Apollon`: This formula emphasizes scientific thinking, the thinking of the crowds, widely spread or publicized opinions, and general opinions of religion.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Mercury](../factors/mercury.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

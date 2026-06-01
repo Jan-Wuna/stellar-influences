@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Venus Chiron Asc`
 - Astronomicon triad-set: `Q Chiron Asc`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Venus/Asc = Chiron`: John, page `65`
 - `Venus/Chiron = Asc`: John, page `58`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Asc = Venus`: relational healing through self-refinement and to the way self-concept directly affects intimacy. Main caution: expecting love to heal identity without doing the identity work itself.
+- `Venus/Asc = Chiron`: everything one does is with a loving and beautiful style that puts others at ease and opens them to divine love.
+- `Venus/Chiron = Asc`: one’s personality exudes a loving and peaceful aura which creates an at mosphere of harmony and accord around one.
 
 ## Links
 

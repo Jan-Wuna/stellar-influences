@@ -58,10 +58,11 @@ aliases:
   - Asc/Moon
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -74,17 +75,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Planets activating the Moon/Ascendant midpoint`
-- Source page: `39`
-
 #### Pair Summary
 
 Acquaintances with female persons. The people of the closer surroundings. To be brought into public by others. Female acquaintances. Women in the environment. Quality of the hour at this place.
 
-### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Planets activating the Moon/Ascendant midpoint`
-- Source page: `39`
+#### ABC Pair Summary
+
+Other women, other folk, woman as partner, fabled environment, fiihlvoher partner, near the mother, place of the woman, mother of others, hour at the place, and environment of the mother
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Principle
 
@@ -96,17 +97,11 @@ The ability to become more and more aware of all one’s emotions until one no l
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Moon/Ascendant`
-- Source page: `204`
-
 #### Pair Delineation
 
 Close relationships with women, close emotional relationships, close relationships with people whom one has known for a long time. Habits in relationships. Domestic relationships. Expression of emotions to or from others in the immediate environment.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `MOON/ASCENDANT`
-- Source page: `139`
 
 #### Basic Ideas
 
@@ -135,15 +130,6 @@ Sinus sensitivities or infections; emotions held in check due to social or envir
 
 - [Michael Munkasey - Moon/Asc Concepts](../derived/munkasey-moon-asc-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Moon/Asc = Admetos](../activations/moon-asc-equals-admetos.md)
@@ -168,20 +154,18 @@ Sinus sensitivities or infections; emotions held in check due to social or envir
 - [Moon/Asc = Vulcanus](../activations/moon-asc-equals-vulcanus.md)
 - [Moon/Asc = Zeus](../activations/moon-asc-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Asc` is the axis of emotional immediacy, sensitivity to the environment, and relationships shaped by habit, mood, and the need for security. It combines feeling, instinct, receptivity, and fluctuation with personality, close contact, physical presence, and the people nearest at hand.
+- Chart expression: a responsive, caring, and impressionable manner, strong emotional exchange with others, domestic or familiar ties, and intuition sharpened by immediate surroundings. Liabilities: insecurity, moodiness, overidentification with passing feelings, and difficulty maintaining objectivity when reacting to other people.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Asc](../factors/asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Moon + Moon`
-- Source page: `120`
 #### Witte Entry
 
 Development of the brain and the glands. Cognition. Public changes. Unstable condition of the public. Hourly changes. Changes which come and go fast. Fickleness of female persons. Females or the public in change or transformation. Women, persons or the public who change, who show a different face, who change their character.
 
-## Comparative Schema
-
-- core meaning: Development of the brain and the glands. Cognition. Public changes. Unstable condition of the public. Hourly changes. Changes which come and go fast. Fickleness of female persons. Females or the public in change or transformation. Women, persons or the public who change, who show a different face, who change their character.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Moon = Pluto`: Development of the brain and the glands. Cognition. Public changes. Unstable condition of the public. Hourly changes. Changes which come and go fast. Fickleness of female persons. Females or the public in change or transformation. Women, persons or the public who change, who show a different face, who change their character.
+- Practical focus: transforms `Moon/Moon` through rapid change, public instability, and shifting emotional character. It points to feelings, bodies, or publics that mutate quickly, making raw lunar life more developmental, extreme, and difficult to hold in one stable form.
 
 ## Links
 

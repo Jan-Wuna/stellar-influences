@@ -3,10 +3,10 @@ title: Mercury/Node = Kronos
 page_type: activation
 slug: mercury-node-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Mercury
+  - Node
   - Kronos
 normalized_formula: Mercury/Node = Kronos
 axis: Mercury/Node
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Node
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Mercury`
-- Source page: `141`
 #### Witte Entry
 
 Correspondence with the authorities. Correspondence with superiors. Exchange of thoughts with great minds or experts, or talks about their performance.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Correspondence with the authorities. Correspondence with superiors. Exchange of thoughts with great minds or experts, or talks about their performance.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special links with youth, relations between the state and youth, written links with the state, self reliant opinion in relations, important relations with intellectuals, and connection with media hierarchy
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Node = Kronos` elevates the axis into authoritative correspondence and expert exchange.
+- Chart expression: contact with authorities, superiors, or recognized experts, and to conversations shaped by hierarchy, distinction, or respect for high-level performance.
 
 ## Links
 
@@ -61,3 +56,5 @@ Correspondence with the authorities. Correspondence with superiors. Exchange of 
 - [Node](../factors/node.md)
 - [Kronos](../factors/kronos.md)
 - [Mercury/Node](../axes/mercury-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -58,13 +58,14 @@ aliases:
   - Uranus/Sun
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -77,17 +78,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Uranus`
-- Source page: `108`
-
 #### Pair Summary
 
 Tension of the body. Nervousness. Sudden physically exciting events. Apoplexy. Accidents. Condition of the nerves. Accidents of the body. Sudden body reaction. The physical restlessness. Accidents or excitements on the day. (In the solar cycle: a nervous period.)
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Sun/Uranus`
-- Source page: `95`
+#### ABC Pair Summary
+
+Dynamic man, agitated person, corporal tensions, nervous person, new persons, personal excitement, personal rhythm, personal event, tension day, technical center, restless person, and day of reform
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -111,17 +112,11 @@ Innovator, reformer, inventor, technician, rebel.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
-- Source heading: `Sun/Uranus`
-- Source page: `14`
-
 #### Falis Entry
 
 Misfits. Self-willed. Demanding absolute freedom. Not wanting to be tied down. You won't tolerate other people making demands on you. Born rebels. The black sheep of the family. You never completely fit in no matter where you are. Your sense of life purpose changes minute by minute. Your sense of self changes minute by minute. People who have an abundance of nervous energy. You are high strung. You cannot be pinned down. You have to be your own person, free from other people's expectations. Extremely self-centered. Disliking routine. Disliking authority. Independent streak. "The rules don't apply to me." Splitting when things get too emotional or intense. Feeling that you are your own ultimate authority. Self centered tyrants. Experimenters. Curmudgeons. Eccentrics. Bohemians. Grumps. Cranks. Defiant. Malcontents. Too cool for school. Hipsters. You are never quite satisfied. There is always some thing to grumble about. Not knowing how to be anything other than what you are. Lacking artifice. Needing to maintain a sense of independence in every situation or relationship. Knowing where the EXIT door is at all times. Inability to build long lasting attachments to people, places or experiences. Making abrupt fresh starts. Building whole new sets of friends, over and over again. Burning bridges. Keeping people at a distance. Lacking tolerance. Unpredictable ego expression. Extreme egocentricity. Extreme vanity. Extreme view of your own authority. Extremely child ish. Extremely creative and playful. Outrageously pompous. Aloof arrogance. I, Robot. Rebel without a cause. When things aren't going your way, you leave. Exciting people. People who can be the life of the party. Having a magnetic person ality. Learning to accept that you are different. Direct intuition. Having your finger on the pulse of the collective. Sudden self-insight. Unwilling to compromise your integrity. Unwilling to conform. Unwilling to do what is expected of you. Tapping into an experimental sense of play. Tapping into the ability to be uniquely creative. Giving freedom to your inner child to do as it wishes. Offbeat. Marching to a dif ferent drummer. Breaking free of the limitations imposed upon you by life in gen eral. Breaking free from parental expectations. Breaking free from the limitations of the collective. Creating an entirely new role. Instantly knowing whether you do, or do not, fit in. Expressing the way that you are different. Expressing your individ uality. Expressing your uniqueness. Expressing the part of you that is different than everyone else. Putting an emphasis on why you are unique rather than how you fit it. Needing unpredictability to feel alive. Needing freedom to feel in touch with your purpose. Being unconventional is part of your path. Only able to access your true inner self in a sporadic and unpredictable manner. Your true self shines through when you feel free of restraints. Dad was a self-centered tyrant. Dad was unpredictable and unreliable. Dad was prone to egocentric outbursts. Dad was experimental and unique. Dad was uncon ventional and bohemian. Dad was aloof, unapproachable and cold. Dad did not give you warm loving embraces. Dad was rebellious and cranky. Dad was a genius. Dad was a grouch. Sun-Uranus people have the task of fully expressing their individuality as a testimony to the uniqueness and value of every person.- Stephen Arroyo, Astrology, Karma and Transformation
 
 ### Charles Carter - The Astrological Aspects
-
-- Source heading: `ASPECTS OF THE SUN AND URANUS`
-- Source page: `16`
 
 #### Harmonious Aspects
 
@@ -169,9 +164,6 @@ It is not a criminal contact and appears to indicate peril to the emotional natu
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Sun/Uranus midpoint`
-- Source page: `17`
-
 #### Principle
 
 To realize the importance of one’s own individual uniqueness, and to find the self-confidence to express it. The sudden or unusual revealing of unexpected meaning in life, often through inspiration. A change of purpose or direction in life. The ability to see for oneself what is important apart from what other people think.
@@ -182,9 +174,6 @@ The realization of one’s completeness as an original and utterly unique ex pre
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Sun/Uranus`
-- Source page: `201`
-
 #### Pair Delineation
 
 The desire for one's unique self-expression. Rebellion and eccentricity. The desire to become free of limitation and the restrictions of the past. Originality of self-expression. The unconventional
@@ -192,9 +181,6 @@ The desire for one's unique self-expression. Rebellion and eccentricity. The des
 and offbeat.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `SUN/URANUS`
-- Source page: `79`
 
 #### Basic Ideas
 
@@ -223,15 +209,6 @@ Blood pressure abnormalities; bodily reactions to stress; shock or trauma; deafn
 
 - [Michael Munkasey - Sun/Uranus Concepts](../derived/munkasey-sun-uranus-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Sun/Uranus = Admetos](../activations/sun-uranus-equals-admetos.md)
@@ -256,20 +233,18 @@ Blood pressure abnormalities; bodily reactions to stress; shock or trauma; deafn
 - [Sun/Uranus = Vulcanus](../activations/sun-uranus-equals-vulcanus.md)
 - [Sun/Uranus = Zeus](../activations/sun-uranus-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Uranus` is the axis of liberated individuality, originality, reform, and sudden self-assertion. It combines identity, will, and visibility with freedom, disruption, innovation, nervous voltage, and the refusal to live by ordinary patterns.
+- Chart expression: inventive self-expression, independence, unconventional leadership, breakthrough change, and the need to follow an individual path even when it breaks with consensus. Liabilities: instability, self-will, alienation, abrupt reversals, rebelliousness, and strain produced by living in continual tension against limits.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Uranus](../factors/uranus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)

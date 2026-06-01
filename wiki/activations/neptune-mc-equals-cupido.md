@@ -3,10 +3,10 @@ title: Neptune/MC = Cupido
 page_type: activation
 slug: neptune-mc-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Neptune
+  - MC
   - Cupido
 normalized_formula: Neptune/MC = Cupido
 axis: Neptune/MC
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - MC
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Neptune`
-- Source page: `68`
 #### Witte Entry
 
 Jointly to follow the unknown. False pretences. Marriage swindler. Forger in the arts.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Jointly to follow the unknown. False pretences. Marriage swindler. Forger in the arts.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+My exchange of views on the Community, my voice on the whole, my ideas on the whole, my artistic intuition in the water, my sensitivity in the Community, and my insecurity in the Community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/MC = Cupido`: Jointly to follow the unknown. False pretences. Marriage swindler. Forger in the arts.
+- Practical focus: communalizes uncertainty through shared false pretenses, dubious unions, and artistic or social fraud, showing collaboration that follows illusion into deception.
+- Practical expression: my exchange of views on the Community, my voice on the whole, my ideas on the whole, my artistic intuition in the water, and my sensitivity in the Community.
 
 ## Links
 
@@ -61,3 +57,5 @@ Jointly to follow the unknown. False pretences. Marriage swindler. Forger in the
 - [MC](../factors/mc.md)
 - [Cupido](../factors/cupido.md)
 - [Neptune/MC](../axes/neptune-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

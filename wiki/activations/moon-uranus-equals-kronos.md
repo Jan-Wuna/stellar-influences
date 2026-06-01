@@ -3,7 +3,7 @@ title: Moon/Uranus = Kronos
 page_type: activation
 slug: moon-uranus-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Uranus
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Uranus`
-- Source page: `127`
 #### Witte Entry
 
 The woman who knows how to lead and to give orders. Hours of great events. Populace aroused by the authorities.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The woman who knows how to lead and to give orders. Hours of great events. Populace aroused by the authorities.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+especially excited emotional nature, dominance of a nervous woman, great tensions among the people, new self confidence of the woman, state reform for women, hour of a state event, technical superiority of a people, and important emotional impulses
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Uranus = Kronos`: The woman who knows how to lead and to give orders. Hours of great events. Populace aroused by the authorities.
+- Practical focus: elevates `Moon/Uranus` through commanding disruption and authority-driven excitation. It favors leaders, high-impact events, and public arousal stirred from above, making instability more directive, organized, and politically consequential.
+- Practical expression: especially excited emotional nature, dominance of a nervous woman, great tensions among the people, new self confidence of the woman, and state reform for women.
 
 ## Links
 
@@ -61,3 +57,5 @@ The woman who knows how to lead and to give orders. Hours of great events. Popul
 - [Uranus](../factors/uranus.md)
 - [Kronos](../factors/kronos.md)
 - [Moon/Uranus](../axes/moon-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

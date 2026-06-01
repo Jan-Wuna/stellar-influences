@@ -3,7 +3,7 @@ title: Venus Asc Admetos
 page_type: triad_hub
 slug: venus-asc-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Asc Admetos`
 - Astronomicon triad-set: `Q Asc ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Admetos = Venus](../activations/asc-admetos-equals-venus.md)
-  Source page `96`
 - [Venus/Admetos = Asc](../activations/venus-admetos-equals-asc.md)
-  Source page `187`
 - [Venus/Asc = Admetos](../activations/venus-asc-equals-admetos.md)
-  Source page `84`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Admetos = Venus`: page `96`
-- `Venus/Admetos = Asc`: page `187`
-- `Venus/Asc = Admetos`: page `84`
+- `Asc/Admetos = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `96`
+- `Asc/Admetos = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `132`
+- `Venus/Admetos = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `187`
+- `Venus/Admetos = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `292`
+- `Venus/Asc = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `84`
+- `Venus/Asc = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `109`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Admetos = Venus`: comfort in one's surroundings alongside relational imbalance in which others yield or feel below the native.
+- `Venus/Admetos = Asc`: respect and sympathy from a few.
+- `Venus/Asc = Admetos`: harmonious community in a small circle.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Asc](../factors/asc.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

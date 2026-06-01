@@ -3,10 +3,10 @@ title: Sun/Asc = Cupido
 page_type: activation
 slug: sun-asc-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Sun
+  - Asc
   - Cupido
 normalized_formula: Sun/Asc = Cupido
 axis: Sun/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Asc
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Sun`
-- Source page: `80`
 #### Witte Entry
 
 Family celebrations, betrothals and weddings. To strive for sociability. To enjoy and be active in social gatherings with others. Relationships formed with artists, families or club members.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Family celebrations, betrothals and weddings. To strive for sociability. To enjoy and be active in social gatherings with others. Relationships formed with artists, families or club members.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Common personal environment, common local centre, common human environment, man of an environmental community, man of a partner community, human community in the vicinity, and human partner community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Asc = Cupido`: to find company or to establish a family and family ties.
+- Practical expression: common personal environment, common local centre, common human environment, man of an environmental community, and man of a partner community.
 
 ## Links
 
@@ -61,3 +56,5 @@ Family celebrations, betrothals and weddings. To strive for sociability. To enjo
 - [Asc](../factors/asc.md)
 - [Cupido](../factors/cupido.md)
 - [Sun/Asc](../axes/sun-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

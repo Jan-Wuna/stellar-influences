@@ -3,7 +3,7 @@ title: Node/Zeus = Hades
 page_type: activation
 slug: node-zeus-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - Hades
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Zeus`
-- Source page: `151`
 #### Witte Entry
 
 Instigation of trouble by several people. To be impoverished by fire.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Instigation of trouble by several people. To be impoverished by fire.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Doing away with kine procreation connection, connected by pursuits in need, criminal constraints of leadership, lack of effort in a connection, renunciation of kine procreation connection, and determined contacts from the past
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Zeus = Hades`: Instigation of trouble by several people. To be impoverished by fire.
+- Practical focus: instigation of trouble by several people; also to be impoverished by fire.
 
 ## Links
 
@@ -61,3 +56,5 @@ Instigation of trouble by several people. To be impoverished by fire.
 - [Zeus](../factors/zeus.md)
 - [Hades](../factors/hades.md)
 - [Node/Zeus](../axes/node-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

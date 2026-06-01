@@ -3,7 +3,7 @@ title: Neptune Hades Admetos
 page_type: triad_hub
 slug: neptune-hades-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Neptune Hades Admetos`
 - Astronomicon triad-set: `Y ¢ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Admetos = Neptune](../activations/hades-admetos-equals-neptune.md)
-  Source page `282`
 - [Neptune/Admetos = Hades](../activations/neptune-admetos-equals-hades.md)
-  Source page `252`
 - [Neptune/Hades = Admetos](../activations/neptune-hades-equals-admetos.md)
-  Source page `248`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Admetos = Neptune`: page `282`
-- `Neptune/Admetos = Hades`: page `252`
-- `Neptune/Hades = Admetos`: page `248`
+- `Hades/Admetos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `282`
+- `Hades/Admetos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `445`
+- `Neptune/Admetos = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `252`
+- `Neptune/Admetos = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `403`
+- `Neptune/Hades = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `248`
+- `Neptune/Hades = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `395`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Admetos = Neptune`: needed change being delayed or stopped because of lack of clarity, deception, or mistake.
+- `Neptune/Admetos = Hades`: This activation degrades `Neptune/Admetos` into worsening living conditions and a more difficult material or psychic climate. It pushes the axis toward decline, showing depletion no longer merely latent but actively deteriorating.
+- `Neptune/Hades = Admetos`: This activation compresses hidden decline into cold, damp, and deprived conditions, showing decay fixed into harsh material states such as starvation, freezing, or buried and stagnant water.
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [Hades](../factors/hades.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

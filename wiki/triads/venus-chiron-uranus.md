@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Venus Chiron Uranus`
 - Astronomicon triad-set: `Q Chiron X`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Venus/Chiron = Uranus`: John, page `58`
 - `Venus/Uranus = Chiron`: John, page `60`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Uranus = Venus`: love that frees, aesthetics of difference, and healing through appreciative openness to the unexpected. Main caution: idealizing uniqueness without learning how to sustain relationship.
+- `Venus/Chiron = Uranus`: one has an inspired, creative, and unique way of being able to tune others into love and help them to see the beauty and richness of everything around them.
+- `Venus/Uranus = Chiron`: one's vibration helps people to love and appreciate their own uniqueness, to be less judgmental and agenda-oriented about relationships, and to give love and receive love more freely.
 
 ## Links
 

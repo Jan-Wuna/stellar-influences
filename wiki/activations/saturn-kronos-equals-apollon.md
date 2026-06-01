@@ -3,7 +3,7 @@ title: Saturn/Kronos = Apollon
 page_type: activation
 slug: saturn-kronos-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Kronos
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Kronos`
-- Source page: `227`
 #### Witte Entry
 
 To be very methodical and thorough. Expenses for schools or pertaining to education. Expenses of the state or of independent persons for scientific purposes.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be very methodical and thorough. Expenses for schools or pertaining to education. Expenses of the state or of independent persons for scientific purposes.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Loss of reputation, spread of great pain, concentration on special knowledge, extensive tasks of authority, extensive state losses, multiplication of state problems, and important tasks of science
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Kronos = Apollon`: to be very methodical and thorough, expenses for schools or pertaining to education.
+- Practical expression: loss of reputation, spread of great pain, concentration on special knowledge, extensive tasks of authority, and extensive state losses.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be very methodical and thorough. Expenses for schools or pertaining to educat
 - [Kronos](../factors/kronos.md)
 - [Apollon](../factors/apollon.md)
 - [Saturn/Kronos](../axes/saturn-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

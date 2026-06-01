@@ -58,11 +58,12 @@ aliases:
   - MC/Sun
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -75,17 +76,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun/Medium Coeli`
-- Source page: `110`
-
 #### Pair Summary
 
 Body and soul. The appearance of the “I”. The body’s capacity to react to the mind. The interaction between the body and the soul. One’s own living body. One’s life and goals of life. One moment (minute) at the day. Daily cycle.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Sun/Medium Coeli`
-- Source page: `110`
+#### ABC Pair Summary
+
+Ensouled person, self in the day, the inner nature of the person, body and soul, my body, my man, my person, minute of the day, soul of the man, soul body, and center of the soul
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -109,9 +110,6 @@ One's own ego, the body and its soul.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Sun/Midheaven midpoint`
-- Source page: `24`
-
 #### Principle
 
 The relationship between one’s ego and one’s profession or life’s work. To be proud of one’s work and able to do it with confidence. To be conscious of and objective about one’s security. Awareness of one’s spiritual path in this lifetime. A conscious and centered approach to one’s life purpose.
@@ -122,17 +120,11 @@ The development of one’s spiritual self-confidence and ability to play the rol
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Sun/Midheaven`
-- Source page: `202`
-
 #### Pair Delineation
 
 A part of the ego complex. One's drive to find a unique course for one's life, and the awareness of that direction. Often related to one's experience of the father. The sense of individuality.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `SUN/MIDHEAVEN`
-- Source page: `99`
 
 #### Basic Ideas
 
@@ -161,15 +153,6 @@ Psychologically coping with life’s problems; social growth and maturity; becom
 
 - [Michael Munkasey - Sun/MC Concepts](../derived/munkasey-sun-mc-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Sun/MC = Admetos](../activations/sun-mc-equals-admetos.md)
@@ -194,20 +177,18 @@ Psychologically coping with life’s problems; social growth and maturity; becom
 - [Sun/MC = Vulcanus](../activations/sun-mc-equals-vulcanus.md)
 - [Sun/MC = Zeus](../activations/sun-mc-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/MC` is the axis of purpose, self-direction, and the shaping of life around conscious identity and achievement. It combines vitality, ego, will, and central purpose with vocation, status, direction, and the public expression of the self.
+- Chart expression: the need to define one's path, take authorship of destiny, and seek recognition through meaningful activity or personal accomplishment. Liabilities: ego inflation, aimlessness, misdirected ambition, and loss of purpose when the self cannot find a worthy direction.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)

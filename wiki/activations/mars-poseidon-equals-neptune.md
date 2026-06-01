@@ -3,7 +3,7 @@ title: Mars/Poseidon = Neptune
 page_type: activation
 slug: mars-poseidon-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Neptune
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Poseidon`
-- Source page: `204`
 #### Witte Entry
 
 Unsuccessful mental or spiritual activity. Doubtful morals, giving rise to objections. Pretended morals. The moral attitude cannot be seen through.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Unsuccessful mental or spiritual activity. Doubtful morals, giving rise to objections. Pretended morals. The moral attitude cannot be seen through.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Working with clear water, exchangeable efforts for truth, spiritual work in the unknown, ideal future activity, clear intuition impulses, cultural future work, weak will energy, refinement of mental work development of a clear will, mental transformation activity, and ideal development
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Poseidon = Neptune` clouds mental or spiritual effort so that morality becomes doubtful, pretended, or hard to discern.
+- Chart expression: unsuccessful spiritual or intellectual work, dubious ethics, false moral postures, and principles that cannot be clearly seen through.
 
 ## Links
 
@@ -61,3 +56,5 @@ Unsuccessful mental or spiritual activity. Doubtful morals, giving rise to objec
 - [Poseidon](../factors/poseidon.md)
 - [Neptune](../factors/neptune.md)
 - [Mars/Poseidon](../axes/mars-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

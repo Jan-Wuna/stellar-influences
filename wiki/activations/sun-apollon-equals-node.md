@@ -3,7 +3,7 @@ title: Sun/Apollon = Node
 page_type: activation
 slug: sun-apollon-equals-node
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Node
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Apollon`
-- Source page: `115`
 #### Witte Entry
 
 Many and far-reaching connections, with successes through them.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Many and far-reaching connections, with successes through them.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Meeting with people masses, relationships with experienced persons, successful personal relationships, contacts with people of science, personal experiences in relationships, and personal freedom in a relationship
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Apollon = Node`: success in unions and successful meeting.
+- Practical expression: meeting with people masses, relationships with experienced persons, successful personal relationships, contacts with people of science, and personal experiences in relationships.
 
 ## Links
 
@@ -61,3 +56,5 @@ Many and far-reaching connections, with successes through them.
 - [Apollon](../factors/apollon.md)
 - [Node](../factors/node.md)
 - [Sun/Apollon](../axes/sun-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

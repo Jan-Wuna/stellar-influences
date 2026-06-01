@@ -3,7 +3,7 @@ title: Venus/Cupido = MC
 page_type: activation
 slug: venus-cupido-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - MC
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Cupido`
-- Source page: `182`
 #### Witte Entry
 
 To be endowed with much love in married life. To be in harmonious company or society. The love and affection to the native from community.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be endowed with much love in married life. To be in harmonious company or society. The love and affection to the native from community.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+I love the arts, my peaceful community, my association with the arts, gentle animated arts, Scelene harmony in this community, and preference for the community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Cupido = MC`: to be endowed with much love in married life.
+- Practical expression: i love the arts, my peaceful community, my association with the arts, gentle animated arts, and scelene harmony in this community.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be endowed with much love in married life. To be in harmonious company or soc
 - [Cupido](../factors/cupido.md)
 - [MC](../factors/mc.md)
 - [Venus/Cupido](../axes/venus-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

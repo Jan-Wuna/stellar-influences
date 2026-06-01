@@ -3,7 +3,7 @@ title: Sun Moon Zeus
 page_type: triad_hub
 slug: sun-moon-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Moon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Moon Zeus`
 - Astronomicon triad-set: `S R £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Zeus = Sun](../activations/moon-zeus-equals-sun.md)
-  Source page `132`
 - [Sun/Moon = Zeus](../activations/sun-moon-equals-zeus.md)
-  Source page `101`
 - [Sun/Zeus = Moon](../activations/sun-zeus-equals-moon.md)
-  Source page `113`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Zeus = Sun`: page `132`
-- `Sun/Moon = Zeus`: page `101`
-- `Sun/Zeus = Moon`: page `113`
+- `Moon/Zeus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `132`
+- `Moon/Zeus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `196`
+- `Sun/Moon = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `101`
+- `Sun/Moon = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `139`
+- `Sun/Zeus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `113`
+- `Sun/Zeus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `162`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Zeus = Sun`: To master ones body. A sense for discipline and order. The daily repeated working hours. Wanting to assist. Energetic interference. Easily inflammable substance. The hour of the commencement of a fire.
+- `Sun/Moon = Zeus`: This formula emphasizes creative vitality and a strong drive to act.
+- `Sun/Zeus = Moon`: This formula emphasizes creative vitality and a strong drive to act.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Moon](../factors/moon.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Node Asc Cupido
 page_type: triad_hub
 slug: node-asc-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Node Asc Cupido`
 - Astronomicon triad-set: `g Asc ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Cupido = Node](../activations/asc-cupido-equals-node.md)
-  Source page `91`
 - [Node/Asc = Cupido](../activations/node-asc-equals-cupido.md)
-  Source page `82`
 - [Node/Cupido = Asc](../activations/node-cupido-equals-asc.md)
-  Source page `149`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Cupido = Node`: page `91`
-- `Node/Asc = Cupido`: page `82`
-- `Node/Cupido = Asc`: page `149`
+- `Asc/Cupido = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `91`
+- `Asc/Cupido = Node`: Udo Rudolph - ABC for Planetary Pictures, page `121`
+- `Node/Asc = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `82`
+- `Node/Asc = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `105`
+- `Node/Cupido = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `149`
+- `Node/Cupido = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `224`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Cupido = Node`: making acquaintances through relatives, partnerships, or shared domestic and apartment concerns.
+- `Node/Asc = Cupido`: Connections with artists, with people who are in the same house, with the family, with clubs, unions etc.
+- `Node/Cupido = Asc`: Betrothal. To be invited. To live with other people.
 
 ## Links
 
 - [Node](../factors/node.md)
 - [Asc](../factors/asc.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

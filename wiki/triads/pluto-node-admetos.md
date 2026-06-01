@@ -3,7 +3,7 @@ title: Pluto Node Admetos
 page_type: triad_hub
 slug: pluto-node-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Node
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Pluto Node Admetos`
 - Astronomicon triad-set: `Z g ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Node/Admetos = Pluto](../activations/node-admetos-equals-pluto.md)
-  Source page `154`
 - [Pluto/Admetos = Node](../activations/pluto-admetos-equals-node.md)
-  Source page `262`
 - [Pluto/Node = Admetos](../activations/pluto-node-equals-admetos.md)
-  Source page `148`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Node/Admetos = Pluto`: page `154`
-- `Pluto/Admetos = Node`: page `262`
-- `Pluto/Node = Admetos`: page `148`
+- `Node/Admetos = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `154`
+- `Node/Admetos = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `235`
+- `Pluto/Admetos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `262`
+- `Pluto/Admetos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `418`
+- `Pluto/Node = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `148`
+- `Pluto/Node = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `223`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Node/Admetos = Pluto`: P Fundamental transformation in connection with a few. Weakening or strengthening the bonds.
+- `Pluto/Admetos = Node`: This activation emphasizes a radical change in one’s connections; To make new endurable connections.
+- `Pluto/Node = Admetos`: This activation emphasizes relationships change at a deep or durable level; New ties must endure altered conditions.
 
 ## Links
 
 - [Pluto](../factors/pluto.md)
 - [Node](../factors/node.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

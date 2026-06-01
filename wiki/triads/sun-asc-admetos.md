@@ -3,7 +3,7 @@ title: Sun Asc Admetos
 page_type: triad_hub
 slug: sun-asc-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Asc Admetos`
 - Astronomicon triad-set: `S Asc ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Admetos = Sun](../activations/asc-admetos-equals-sun.md)
-  Source page `96`
 - [Sun/Admetos = Asc](../activations/sun-admetos-equals-asc.md)
-  Source page `116`
 - [Sun/Asc = Admetos](../activations/sun-asc-equals-admetos.md)
-  Source page `80`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Admetos = Sun`: page `96`
-- `Sun/Admetos = Asc`: page `116`
-- `Sun/Asc = Admetos`: page `80`
+- `Asc/Admetos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `96`
+- `Asc/Admetos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `132`
+- `Sun/Admetos = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `116`
+- `Sun/Admetos = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `168`
+- `Sun/Asc = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `80`
+- `Sun/Asc = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `101`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Admetos = Sun`: the person rooted to a location or property who stands out from the environment and occupies a distinct position within it.
+- `Sun/Admetos = Asc`: This formula emphasizes to refuse connections with others and no desire for connections.
+- `Sun/Asc = Admetos`: This formula emphasizes one who withdraws into oneself and reserve.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Asc](../factors/asc.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

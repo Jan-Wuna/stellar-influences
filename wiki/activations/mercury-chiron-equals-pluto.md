@@ -33,30 +33,15 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mercury/Chiron midpoint`
-- Source page: `46`
-- Activator: `Pluto`
-
 #### Sandbach Entry
 
 A driving need and urge to heal all breaks in communication and to be under stood and understand on deeper and deeper levels. Transformation which happens through the various aspects of oneself coming into deeper communication with each other.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Chiron = Pluto` intensifies the axis into a deep need to repair every break in understanding.
+- Chart expression: transformative communication, relentless need for deeper mutual understanding, and inner change that occurs as separated parts of the self begin to speak to each other.
 
 ## Links
 

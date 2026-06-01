@@ -3,7 +3,7 @@ title: Moon/Kronos = Saturn
 page_type: activation
 slug: moon-kronos-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Kronos
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Saturn
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Kronos`
-- Source page: `133`
 #### Witte Entry
 
 Hindrances through officials or leading women, losses therefrom. Hindrances through officials, commissions or boards.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Hindrances through officials or leading women, losses therefrom. Hindrances through officials, commissions or boards.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+A woman of old age, tasks of a self defense woman, loss of authority in the people, special problems of poverty, patience of a large people, mature achievements of a woman, damage caused by the authority of a people, and important tasks of the woman
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Kronos = Saturn`: Hindrances through officials or leading women, losses therefrom. Hindrances through officials, commissions or boards.
+- Practical expression: A woman of old age, tasks of a self defense woman, loss of authority in the people, special problems of poverty, and patience of a large people.
 
 ## Links
 
@@ -61,3 +56,5 @@ Hindrances through officials or leading women, losses therefrom. Hindrances thro
 - [Kronos](../factors/kronos.md)
 - [Saturn](../factors/saturn.md)
 - [Moon/Kronos](../axes/moon-kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

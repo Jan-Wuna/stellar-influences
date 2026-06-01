@@ -3,7 +3,7 @@ title: Hades/Vulcanus = Uranus
 page_type: activation
 slug: hades-vulcanus-equals-uranus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Hades
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Hades
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Hades + Vulcanus`
-- Source page: `285`
 #### Witte Entry
 
 To be separated through viciousness and meanness. To be hindered through same. To be under suspicion and spied upon. War services.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be separated through viciousness and meanness. To be hindered through same. To be under suspicion and spied upon. War services.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influential impulses from the past, dangerous power renewal, criminal power reform, grief by iiberra')afflicting administration, unrest by energy mangling, and hidden technical resources
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Hades/Vulcanus = Uranus`: abrupt coercion and conflict. It can show the brutal field breaking relationships, enforcing scrutiny, and turning life toward militarized or punitive conditions.
 
 ## Links
 
@@ -61,3 +55,5 @@ To be separated through viciousness and meanness. To be hindered through same. T
 - [Vulcanus](../factors/vulcanus.md)
 - [Uranus](../factors/uranus.md)
 - [Hades/Vulcanus](../axes/hades-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

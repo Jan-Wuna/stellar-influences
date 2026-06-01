@@ -3,7 +3,7 @@ title: Sun Asc Cupido
 page_type: triad_hub
 slug: sun-asc-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Asc Cupido`
 - Astronomicon triad-set: `S Asc ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Cupido = Sun](../activations/asc-cupido-equals-sun.md)
-  Source page `91`
 - [Sun/Asc = Cupido](../activations/sun-asc-equals-cupido.md)
-  Source page `80`
 - [Sun/Cupido = Asc](../activations/sun-cupido-equals-asc.md)
-  Source page `111`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Cupido = Sun`: page `91`
-- `Sun/Asc = Cupido`: page `80`
-- `Sun/Cupido = Asc`: page `111`
+- `Asc/Cupido = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `91`
+- `Asc/Cupido = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `121`
+- `Sun/Asc = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `80`
+- `Sun/Asc = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `101`
+- `Sun/Cupido = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `111`
+- `Sun/Cupido = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `158`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Cupido = Sun`: being the bridegroom, landlord, tenant, or invited central participant in home- and partnership-centered life.
+- `Sun/Asc = Cupido`: This formula emphasizes to find company or to establish a family and family ties.
+- `Sun/Cupido = Asc`: This formula emphasizes family and many in the environment.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Asc](../factors/asc.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

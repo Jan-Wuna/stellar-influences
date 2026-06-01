@@ -3,7 +3,7 @@ title: Mars/Admetos = Hades
 page_type: activation
 slug: mars-admetos-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Hades
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Admetos`
-- Source page: `202`
 #### Witte Entry
 
 To be humiliated and oppressed in one’s work. Little services of a low kind. Humiliated, abased and wronged through services.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be humiliated and oppressed in one’s work. Little services of a low kind. Humiliated, abased and wronged through services.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Abductions by blocked activity, consolidation by work service, lack by work restrictions, dangerous depression impulses, hidden earth work, deepening in dangerous work, and resistance against criminal acts
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Admetos = Hades`: oppressive work, abasing tasks, and labor performed under degrading or unjust conditions.
+- Chart expression: survival through unpleasant duty, but it strongly warns of oppression, humiliation, and work done in bleak or demeaning circumstances.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be humiliated and oppressed in one’s work. Little services of a low kind. H
 - [Admetos](../factors/admetos.md)
 - [Hades](../factors/hades.md)
 - [Mars/Admetos](../axes/mars-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

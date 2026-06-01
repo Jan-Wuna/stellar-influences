@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Mercury + Mercury`
-- Source page: `158`
 #### Witte Entry
 
 Marriage thoughts. Artistic considerations. Speech. Music. Social conversation. To think of the family. Marriage intentions. Artistic taste. Thoughts or opinions about art.
 
-## Comparative Schema
-
-- core meaning: Marriage thoughts. Artistic considerations. Speech. Music. Social conversation. To think of the family. Marriage intentions. Artistic taste. Thoughts or opinions about art.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Mercury = Cupido` socializes the axis through family, marriage, art, music, and taste.
+- Chart expression: socially shared thought, artistic considerations, speech shaped by family or marriage concerns, and opinions moving toward beauty, rhythm, and communal belonging.
 
 ## Links
 

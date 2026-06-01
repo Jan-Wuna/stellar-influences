@@ -3,10 +3,10 @@ title: Sun/MC = Cupido
 page_type: activation
 slug: sun-mc-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Sun
+  - MC
   - Cupido
 normalized_formula: Sun/MC = Cupido
 axis: Sun/MC
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - MC
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Sun`
-- Source page: `59`
 #### Witte Entry
 
 Physical and psychological well-being in married life, in company with others or in the arts.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Physical and psychological well-being in married life, in company with others or in the arts.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Enlivened human community, community of my husband, body and soul together, my corporal community, my person in the community, personal soul community, and spiritual community with the man
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/MC = Cupido`: domestic focus and family as a central life direction.
+- Practical expression: enlivened human community, community of my husband, body, soul together, and my corporal community.
 
 ## Links
 
@@ -61,3 +56,5 @@ Physical and psychological well-being in married life, in company with others or
 - [MC](../factors/mc.md)
 - [Cupido](../factors/cupido.md)
 - [Sun/MC](../axes/sun-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

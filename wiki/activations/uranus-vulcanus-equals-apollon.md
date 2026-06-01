@@ -3,7 +3,7 @@ title: Uranus/Vulcanus = Apollon
 page_type: activation
 slug: uranus-vulcanus-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Apollon
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Vulcanus`
-- Source page: `242`
 #### Witte Entry
 
 Many are waiting expectantly, they are longing for a change, waiting for a change in existing conditions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Many are waiting expectantly, they are longing for a change, waiting for a change in existing conditions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exciting violence expansion, influence of new knowledge, success through technical energies, powerful tensions in trade, sudden experience of violence, strong knowledge impulses, knowledge of new energies, Surprising power of freedom, and extensive new influence
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Vulcanus = Apollon`: Many are waiting expectantly, they are longing for a change, waiting for a change in existing conditions.
+- Practical expression: exciting violence expansion, influence of new knowledge, success through technical energies, powerful tensions in trade, and sudden experience of violence.
 
 ## Links
 
@@ -61,3 +56,5 @@ Many are waiting expectantly, they are longing for a change, waiting for a chang
 - [Vulcanus](../factors/vulcanus.md)
 - [Apollon](../factors/apollon.md)
 - [Uranus/Vulcanus](../axes/uranus-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

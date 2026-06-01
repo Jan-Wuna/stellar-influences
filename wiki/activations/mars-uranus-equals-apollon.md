@@ -3,7 +3,7 @@ title: Mars/Uranus = Apollon
 page_type: activation
 slug: mars-uranus-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Uranus
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Uranus`
-- Source page: `194`
 #### Witte Entry
 
 Surprising actions of many. Sudden astrological occupation. Many explosions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Surprising actions of many. Sudden astrological occupation. Many explosions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Extension of rhythmic work, work with new knowledge, success through technical work, creating new knowledge, spontaneous expansion of work, surprising work experiences, surprising success in trade, and increased unrest at work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Uranus = Apollon` multiplies shocks and surprises across many people or wide fields of activity.
+- Chart expression: sudden actions involving many, explosive collective events, and unusual large-scale pursuits such as astrological or technical work that arrive with disruptive force.
 
 ## Links
 
@@ -61,3 +56,5 @@ Surprising actions of many. Sudden astrological occupation. Many explosions.
 - [Uranus](../factors/uranus.md)
 - [Apollon](../factors/apollon.md)
 - [Mars/Uranus](../axes/mars-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

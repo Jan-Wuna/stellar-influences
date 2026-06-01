@@ -3,7 +3,7 @@ title: Mars Apollon Admetos
 page_type: triad_hub
 slug: mars-apollon-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Apollon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mars Apollon Admetos`
 - Astronomicon triad-set: `U ¥ ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Apollon/Admetos = Mars](../activations/apollon-admetos-equals-mars.md)
-  Source page `306`
 - [Mars/Admetos = Apollon](../activations/mars-admetos-equals-apollon.md)
-  Source page `202`
 - [Mars/Apollon = Admetos](../activations/mars-apollon-equals-admetos.md)
-  Source page `201`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Apollon/Admetos = Mars`: page `306`
-- `Mars/Admetos = Apollon`: page `202`
-- `Mars/Apollon = Admetos`: page `201`
+- `Apollon/Admetos = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `306`
+- `Apollon/Admetos = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `468`
+- `Mars/Admetos = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `202`
+- `Mars/Admetos = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `319`
+- `Mars/Apollon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `201`
+- `Mars/Apollon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `317`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Apollon/Admetos = Mars`: satisfaction with one's own action and results, with effort resting in completion rather than strain.
+- `Mars/Admetos = Apollon`: scientific specialism and satisfying activity that remains small, technical, or narrowly scoped.
+- `Mars/Apollon = Admetos`: satisfaction in finished business, concluded transactions, and the successful end of scientific or commercial work within a limited circle.
 
 ## Links
 
 - [Mars](../factors/mars.md)
 - [Apollon](../factors/apollon.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

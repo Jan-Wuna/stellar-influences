@@ -3,7 +3,7 @@ title: Uranus/Hades = Mercury
 page_type: activation
 slug: uranus-hades-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Uranus
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Hades`
-- Source page: `237`
 #### Witte Entry
 
 Premonition of death. To have to die an uncommon death. Sudden thoughts of murder. News or information about an old technology.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Premonition of death. To have to die an uncommon death. Sudden thoughts of murder. News or information about an old technology.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Excitement on criminal youth, report on dangerous events, aroused criminal youth, dangerous traffic events, language on sudden distress, language on outdated technology, new youth crime, and tension through writings from the past
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Hades = Mercury`: Premonition of death. To have to die an uncommon death. Sudden thoughts of murder. News or information about an old technology.
+- Practical expression: excitement on criminal youth, report on dangerous events, aroused criminal youth, dangerous traffic events, and language on sudden distress.
 
 ## Links
 
@@ -61,3 +56,5 @@ Premonition of death. To have to die an uncommon death. Sudden thoughts of murde
 - [Hades](../factors/hades.md)
 - [Mercury](../factors/mercury.md)
 - [Uranus/Hades](../axes/uranus-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

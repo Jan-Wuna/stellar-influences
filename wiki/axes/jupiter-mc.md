@@ -56,11 +56,12 @@ aliases:
   - MC/Jupiter
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -73,17 +74,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter/Medium Coeli`
-- Source page: `243`
-
 #### Pair Summary
 
 Blissful feelings. To be positive of one’s own direction in life. An optimist. To be well-wishing and benevolent. Harmless, good natured or contented. To feel happy. Reach one’s own goals with luck and success. The own attitude to money. Moment of happiness.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Jupiter/Medium Coeli`
-- Source page: `243`
+#### ABC Pair Summary
+
+Successful Soul, Cliicks Minute, My Success, My Money, My Cluck, My Right, My Advantage, My Joy, My Giite, My Speed, Soul Joy, and Schelic Satisfaction
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -107,9 +108,6 @@ Successful people.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Jupiter/Midheaven midpoint`
-- Source page: `86`
-
 #### Principle
 
 Enthusiasm for growing spiritually and for learning from elders and those in authority. Success in one’s career. The ability to make the most of one’s place in the world and to take an optimistic attitude toward it. To be overly intent on rising in the world and attaining a high status as a compensation for feelings of lack in other areas.
@@ -120,17 +118,11 @@ The progressive understanding of one’s place in the world and understanding of
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Jupiter/Midheaven`
-- Source page: `209`
-
 #### Pair Delineation
 
 Personal growth, reaching out to attain one's objectives, moving toward one's ends. Gaining personal authority or the respect of others. Personal contentment. Sometimes arrogance.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `JUPITER/MIDHEAVEN`
-- Source page: `279`
 
 #### Basic Ideas
 
@@ -159,15 +151,6 @@ Genetic patterns or abnormalities from gracious living, or from being unable to 
 
 - [Michael Munkasey - Jupiter/MC Concepts](../derived/munkasey-jupiter-mc-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Jupiter/MC = Admetos](../activations/jupiter-mc-equals-admetos.md)
@@ -191,20 +174,18 @@ Genetic patterns or abnormalities from gracious living, or from being unable to 
 - [Jupiter/MC = Vulcanus](../activations/jupiter-mc-equals-vulcanus.md)
 - [Jupiter/MC = Zeus](../activations/jupiter-mc-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/MC` is the axis of optimistic life direction, public growth, success, and the desire to realize a meaningful or honorable place in the world. It combines expansion, wisdom, ethics, and opportunity with vocation, status, self-direction, and the shaping of one's public role.
+- Chart expression: confidence in one's path, generosity, social or professional advancement, respect, and the sense that life should open outward through achievement, learning, or moral purpose. Liabilities: arrogance, over-idealized ambitions, status inflation, and a tendency to drift between philosophies or roles without grounding them in lived reality.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)

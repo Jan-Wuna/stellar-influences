@@ -3,7 +3,7 @@ title: Asc Vulcanus Poseidon
 page_type: triad_hub
 slug: asc-vulcanus-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Vulcanus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Asc Vulcanus Poseidon`
 - Astronomicon triad-set: `Asc § ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Poseidon = Vulcanus](../activations/asc-poseidon-equals-vulcanus.md)
-  Source page `98`
 - [Asc/Vulcanus = Poseidon](../activations/asc-vulcanus-equals-poseidon.md)
-  Source page `97`
 - [Vulcanus/Poseidon = Asc](../activations/vulcanus-poseidon-equals-asc.md)
-  Source page `315`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Poseidon = Vulcanus`: page `98`
-- `Asc/Vulcanus = Poseidon`: page `97`
-- `Vulcanus/Poseidon = Asc`: page `315`
+- `Asc/Poseidon = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `98`
+- `Asc/Poseidon = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `137`
+- `Asc/Vulcanus = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `97`
+- `Asc/Vulcanus = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `135`
+- `Vulcanus/Poseidon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `315`
+- `Vulcanus/Poseidon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `478`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Poseidon = Vulcanus`: intense mental force from another person or the power to subject others to a compelling idea.
+- `Asc/Vulcanus = Poseidon`: being under a powerful subtle influence or encountering large natural forces such as tidal-wave-like pressure.
+- `Vulcanus/Poseidon = Asc`: Mutual mighty mental influences. To impress others or to be impressed.
 
 ## Links
 
 - [Asc](../factors/asc.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -33,30 +33,14 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Uranus/Node midpoint`
-- Source page: `106`
-- Activator: `Chiron`
-
 #### Sandbach Entry
 
 Your vibration helps others to free themselves from the past as well as to see the past in a new way. You also help others to be more open when they connect with others, and to seek connections that fulfill their own unique needs.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Node = Chiron`: Your vibration helps others to free themselves from the past as well as to see the past in a new way. You also help others to be more open when they connect with others, and to seek connections that fulfill their own unique needs.
 
 ## Links
 

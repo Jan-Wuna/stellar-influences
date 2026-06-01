@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Zeus + Zeus`
-- Source page: `287`
 #### Witte Entry
 
 One’ own creative abilities. The thirst for action. The urge to work. Passion for work. The urge to accomplish great feats. Leadership. The want to lead. Being goal-oriented. Consciously controlled energy. The urge to create something. To assert oneself successfully. The moment (minute) of creation or fathering.
 
-## Comparative Schema
-
-- core meaning: One’ own creative abilities. The thirst for action. The urge to work. Passion for work. The urge to accomplish great feats. Leadership. The want to lead. Being goal-oriented. Consciously controlled energy. The urge to create something. To assert oneself successfully. The moment (minute) of creation or fathering.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Zeus = MC`: One’ own creative abilities. The thirst for action. The urge to work. Passion for work. The urge to accomplish great feats. Leadership. The want to lead. Being goal-oriented. Consciously controlled energy. The urge to create something. To assert oneself successfully. The moment (minute) of creation or fathering.
 
 ## Links
 

@@ -3,7 +3,7 @@ title: Node/Vulcanus = Neptune
 page_type: activation
 slug: node-vulcanus-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Node
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Vulcanus`
-- Source page: `155`
 #### Witte Entry
 
 Difficult to be caught through application of force. Connected with confused power. Tainted mighty connections. Dissolution of mighty connections.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Difficult to be caught through application of force. Connected with confused power. Tainted mighty connections. Dissolution of mighty connections.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Encounter with water violence, exchangeable connection to power, force by binding to metaphysics, unknown influence of coking, and bonding with water crall
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Vulcanus = Neptune`: Difficult to be caught through application of force. Connected with confused power. Tainted mighty connections. Dissolution of mighty connections.
+- Practical focus: difficult to be caught through application of force; also connected with confused power.
 
 ## Links
 
@@ -61,3 +56,5 @@ Difficult to be caught through application of force. Connected with confused pow
 - [Vulcanus](../factors/vulcanus.md)
 - [Neptune](../factors/neptune.md)
 - [Node/Vulcanus](../axes/node-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

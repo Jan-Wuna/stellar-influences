@@ -3,7 +3,7 @@ title: Vernal Point MC Poseidon
 page_type: triad_hub
 slug: vernal-point-mc-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point MC Poseidon`
 - Astronomicon triad-set: `VP MC ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Poseidon = Vernal Point](../activations/mc-poseidon-equals-vernal-point.md)
-  Source page `77`
 - [Vernal Point/MC = Poseidon](../activations/vernal-point-mc-equals-poseidon.md)
-  Source page `35`
 - [Vernal Point/Poseidon = MC](../activations/vernal-point-poseidon-equals-mc.md)
-  Source page `55`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Poseidon = Vernal Point`: page `77`
-- `Vernal Point/MC = Poseidon`: page `35`
-- `Vernal Point/Poseidon = MC`: page `55`
+- `MC/Poseidon = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `77`
+- `MC/Poseidon = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `98`
+- `Vernal Point/MC = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `35`
+- `Vernal Point/MC = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `19`
+- `Vernal Point/Poseidon = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `55`
+- `Vernal Point/Poseidon = MC`: Udo Rudolph - ABC for Planetary Pictures, page `58`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Poseidon = Vernal Point`: externalizes the axis through connection to the world by mental interests.
+- `Vernal Point/MC = Poseidon`: This formula emphasizes strive for public education and knowledge about the public.
+- `Vernal Point/Poseidon = MC`: This formula emphasizes personally influenced by the ideas of the current time, to appear spiritualized, the own general knowledge, and the moment of floods.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [MC](../factors/mc.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

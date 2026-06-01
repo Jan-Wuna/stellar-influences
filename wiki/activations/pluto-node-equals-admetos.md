@@ -3,10 +3,10 @@ title: Pluto/Node = Admetos
 page_type: activation
 slug: pluto-node-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Pluto
+  - Node
   - Admetos
 normalized_formula: Pluto/Node = Admetos
 axis: Pluto/Node
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - Node
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Pluto`
-- Source page: `148`
 #### Witte Entry
 
 New connections which are sound and of long duration.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: New connections which are sound and of long duration.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Developing perseverance in of a community, limiting Y change in a relationship, ending the development in a union, grilndlich Y change in of a community, growing drift in a relationship, and ending change in relationships
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Node = Admetos`: relationships change at a deep or durable level; New ties must endure altered conditions.
+- Practical expression: developing perseverance in a community, limiting Y change in a relationship, ending the development in a union, and growing drift in a relationship.
 
 ## Links
 
@@ -61,3 +56,5 @@ New connections which are sound and of long duration.
 - [Node](../factors/node.md)
 - [Admetos](../factors/admetos.md)
 - [Pluto/Node](../axes/pluto-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

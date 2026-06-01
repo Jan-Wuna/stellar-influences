@@ -3,7 +3,7 @@ title: Neptune/Vulcanus = Saturn
 page_type: activation
 slug: neptune-vulcanus-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Neptune
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Vulcanus`
-- Source page: `253`
 #### Witte Entry
 
 To be separated or secluded for a long and indefinite duration. Long prison term. Indefinite captivity.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be separated or secluded for a long and indefinite duration. Long prison term. Indefinite captivity.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+energy loss of the water, concentration on subtle energies, powerful uncertainty in old age, problematic influence of metaphysics, problems through weakness of power, creeping loss of power, painful negation of force, and strong loss of water
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Vulcanus = Saturn`: To be separated or secluded for a long and indefinite duration. Long prison term. Indefinite captivity.
+- Confinement, separation, or seclusion becomes prolonged and hard to resolve, pointing to enduring isolation, imprisonment, or indefinite restriction.
+- Practical expression: energy loss of the water, concentration on subtle energies, powerful uncertainty in old age, problematic influence of metaphysics, and problems through weakness of power.
 
 ## Links
 
@@ -61,3 +57,5 @@ To be separated or secluded for a long and indefinite duration. Long prison term
 - [Vulcanus](../factors/vulcanus.md)
 - [Saturn](../factors/saturn.md)
 - [Neptune/Vulcanus](../axes/neptune-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

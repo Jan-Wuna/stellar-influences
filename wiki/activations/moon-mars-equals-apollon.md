@@ -3,7 +3,7 @@ title: Moon/Mars = Apollon
 page_type: activation
 slug: moon-mars-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Mars
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Mars
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Mars`
-- Source page: `124`
 #### Witte Entry
 
 Procurement of work. Extension of working time, many working hours. Improvement of marriage possibility. Improving. Redecorating or refurbishing the house.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Procurement of work. Extension of working time, many working hours. Improvement of marriage possibility. Improving. Redecorating or refurbishing the house.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Successful people Will, Successful Woman, Freedom Will of a People, Peace Actions of a People, Fleeful Knowledge Impulses, Hour of Work Preparation, Activity of Women in the State, and Increasing people Will
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Mars = Apollon`: Procurement of work. Extension of working time, many working hours. Improvement of marriage possibility. Improving. Redecorating or refurbishing the house.
+- Practical focus: expands `Moon/Mars` through productivity, improvement, and wider application of effort. It points to longer working hours, more opportunities to act, and practical enhancement of marriage or home life, so instinctive drive becomes constructive, restorative, and more broadly useful.
+- Practical expression: successful people Will, successful Woman, freedom Will of a People, peace Actions of a People, and fleeful Knowledge Impulses.
 
 ## Links
 
@@ -61,3 +57,5 @@ Procurement of work. Extension of working time, many working hours. Improvement 
 - [Mars](../factors/mars.md)
 - [Apollon](../factors/apollon.md)
 - [Moon/Mars](../axes/moon-mars.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

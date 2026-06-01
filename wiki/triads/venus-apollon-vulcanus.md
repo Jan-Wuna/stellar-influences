@@ -3,7 +3,7 @@ title: Venus Apollon Vulcanus
 page_type: triad_hub
 slug: venus-apollon-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Apollon
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Apollon Vulcanus`
 - Astronomicon triad-set: `Q ¥ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Apollon/Vulcanus = Venus](../activations/apollon-vulcanus-equals-venus.md)
-  Source page `307`
 - [Venus/Apollon = Vulcanus](../activations/venus-apollon-equals-vulcanus.md)
-  Source page `186`
 - [Venus/Vulcanus = Apollon](../activations/venus-vulcanus-equals-apollon.md)
-  Source page `188`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Apollon/Vulcanus = Venus`: page `307`
-- `Venus/Apollon = Vulcanus`: page `186`
-- `Venus/Vulcanus = Apollon`: page `188`
+- `Apollon/Vulcanus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `307`
+- `Apollon/Vulcanus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `470`
+- `Venus/Apollon = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `186`
+- `Venus/Apollon = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `291`
+- `Venus/Vulcanus = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `188`
+- `Venus/Vulcanus = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `295`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Apollon/Vulcanus = Venus`: great magnetism, strong success in love or friendship, and prosperous pleasure or concord.
+- `Venus/Apollon = Vulcanus`: unquestionably reliable friends.
+- `Venus/Vulcanus = Apollon`: to be favored or preferred by the state or superiors.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Apollon](../factors/apollon.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

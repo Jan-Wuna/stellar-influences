@@ -3,7 +3,7 @@ title: Moon Pluto Cupido
 page_type: triad_hub
 slug: moon-pluto-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Pluto
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Pluto Cupido`
 - Astronomicon triad-set: `R Z ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Cupido = Pluto](../activations/moon-cupido-equals-pluto.md)
-  Source page `130`
 - [Moon/Pluto = Cupido](../activations/moon-pluto-equals-cupido.md)
-  Source page `129`
 - [Pluto/Cupido = Moon](../activations/pluto-cupido-equals-moon.md)
-  Source page `257`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Cupido = Pluto`: page `130`
-- `Moon/Pluto = Cupido`: page `129`
-- `Pluto/Cupido = Moon`: page `257`
+- `Moon/Cupido = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `130`
+- `Moon/Cupido = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `193`
+- `Moon/Pluto = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `129`
+- `Moon/Pluto = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `191`
+- `Pluto/Cupido = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `257`
+- `Pluto/Cupido = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `408`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Cupido = Pluto`: Entertaining hours in company, especially in a society of women.
+- `Moon/Pluto = Cupido`: This activation socializes `Moon/Pluto` through family shifts, transient domestic change, and visitors who alter the emotional atmosphere. It suggests transformation entering the household in passing but noticeable ways, often through kinship or social traffic.
+- `Pluto/Cupido = Moon`: This activation emphasizes passing transformation; A people change its face, it changes the look and the being; Changes in public conditions.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Pluto](../factors/pluto.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

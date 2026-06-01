@@ -3,7 +3,7 @@ title: Venus/Cupido = Apollon
 page_type: activation
 slug: venus-cupido-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Cupido
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Venus + Cupido`
-- Source page: `182`
 #### Witte Entry
 
 Much luck in marriage or society. Harmonious association with many.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Much luck in marriage or society. Harmonious association with many.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Success of a community through harmony, free artist community, common peace success, common arts success, common love experiences, community of arts handlem, and preference for the synthesis of knowledge
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Venus/Cupido = Apollon`: much luck in marriage or society.
+- Practical expression: success of a community through harmony, free artist community, common peace success, common arts success, and common love experiences.
 
 ## Links
 
@@ -61,3 +56,5 @@ Much luck in marriage or society. Harmonious association with many.
 - [Cupido](../factors/cupido.md)
 - [Apollon](../factors/apollon.md)
 - [Venus/Cupido](../axes/venus-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

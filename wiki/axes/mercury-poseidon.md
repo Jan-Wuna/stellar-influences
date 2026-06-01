@@ -3,7 +3,7 @@ title: Mercury/Poseidon
 page_type: axis
 slug: mercury-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Poseidon
@@ -11,26 +11,26 @@ normalized_axis: Mercury/Poseidon
 factor_a: Mercury
 factor_b: Poseidon
 related_activations:
-  - Mercury/Poseidon = Vernal Point
-  - Mercury/Poseidon = MC
+  - Mercury/Poseidon = Admetos
+  - Mercury/Poseidon = Apollon
   - Mercury/Poseidon = Asc
-  - Mercury/Poseidon = Sun
-  - Mercury/Poseidon = Moon
-  - Mercury/Poseidon = Node
-  - Mercury/Poseidon = Venus
-  - Mercury/Poseidon = Mars
-  - Mercury/Poseidon = Jupiter
-  - Mercury/Poseidon = Saturn
-  - Mercury/Poseidon = Uranus
-  - Mercury/Poseidon = Neptune
-  - Mercury/Poseidon = Pluto
   - Mercury/Poseidon = Cupido
   - Mercury/Poseidon = Hades
-  - Mercury/Poseidon = Zeus
+  - Mercury/Poseidon = Jupiter
   - Mercury/Poseidon = Kronos
-  - Mercury/Poseidon = Apollon
-  - Mercury/Poseidon = Admetos
+  - Mercury/Poseidon = Mars
+  - Mercury/Poseidon = MC
+  - Mercury/Poseidon = Moon
+  - Mercury/Poseidon = Neptune
+  - Mercury/Poseidon = Node
+  - Mercury/Poseidon = Pluto
+  - Mercury/Poseidon = Saturn
+  - Mercury/Poseidon = Sun
+  - Mercury/Poseidon = Uranus
+  - Mercury/Poseidon = Venus
+  - Mercury/Poseidon = Vernal Point
   - Mercury/Poseidon = Vulcanus
+  - Mercury/Poseidon = Zeus
 related_triad_hubs:
   - Mercury Admetos Poseidon
   - Mercury Apollon Poseidon
@@ -56,15 +56,15 @@ aliases:
   - Poseidon/Mercury
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Axis: `Mercury/Poseidon`
 - Astronomicon axis: `T/¨`
-- Source heading: `Mercury + Poseidon`
-- Source page: `173`
+- Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
@@ -74,48 +74,46 @@ updated_at: 2026-04-21
 
 Spiritualized thinking. Thoughts. Ideas. Talks about spiritual, intellectual or philosophical matters. Mental insights. Ideals. To propose or present ideas. The elevated mentality. Ocean movements. Movements on the ocean.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Spiritualized thinking. Thoughts. Ideas. Talks about spiritual, intellectual or philosophical matters. Mental insights. Ideals. To propose or present ideas. The elevated mentality. Ocean movements. Movements on the ocean.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
+#### ABC Pair Summary
+
+Findings of youth, intellectual language, discussion of ideas, youth culture, clear thoughts, cultural reports, poor language, sound opinion, meaningful, youth, and true words
 
 ## Related Activations
 
-- [Mercury/Poseidon = Vernal Point](../activations/mercury-poseidon-equals-vernal-point.md)
-- [Mercury/Poseidon = MC](../activations/mercury-poseidon-equals-mc.md)
+- [Mercury/Poseidon = Admetos](../activations/mercury-poseidon-equals-admetos.md)
+- [Mercury/Poseidon = Apollon](../activations/mercury-poseidon-equals-apollon.md)
 - [Mercury/Poseidon = Asc](../activations/mercury-poseidon-equals-asc.md)
-- [Mercury/Poseidon = Sun](../activations/mercury-poseidon-equals-sun.md)
-- [Mercury/Poseidon = Moon](../activations/mercury-poseidon-equals-moon.md)
-- [Mercury/Poseidon = Node](../activations/mercury-poseidon-equals-node.md)
-- [Mercury/Poseidon = Venus](../activations/mercury-poseidon-equals-venus.md)
-- [Mercury/Poseidon = Mars](../activations/mercury-poseidon-equals-mars.md)
-- [Mercury/Poseidon = Jupiter](../activations/mercury-poseidon-equals-jupiter.md)
-- [Mercury/Poseidon = Saturn](../activations/mercury-poseidon-equals-saturn.md)
-- [Mercury/Poseidon = Uranus](../activations/mercury-poseidon-equals-uranus.md)
-- [Mercury/Poseidon = Neptune](../activations/mercury-poseidon-equals-neptune.md)
-- [Mercury/Poseidon = Pluto](../activations/mercury-poseidon-equals-pluto.md)
 - [Mercury/Poseidon = Cupido](../activations/mercury-poseidon-equals-cupido.md)
 - [Mercury/Poseidon = Hades](../activations/mercury-poseidon-equals-hades.md)
-- [Mercury/Poseidon = Zeus](../activations/mercury-poseidon-equals-zeus.md)
+- [Mercury/Poseidon = Jupiter](../activations/mercury-poseidon-equals-jupiter.md)
 - [Mercury/Poseidon = Kronos](../activations/mercury-poseidon-equals-kronos.md)
-- [Mercury/Poseidon = Apollon](../activations/mercury-poseidon-equals-apollon.md)
-- [Mercury/Poseidon = Admetos](../activations/mercury-poseidon-equals-admetos.md)
+- [Mercury/Poseidon = Mars](../activations/mercury-poseidon-equals-mars.md)
+- [Mercury/Poseidon = MC](../activations/mercury-poseidon-equals-mc.md)
+- [Mercury/Poseidon = Moon](../activations/mercury-poseidon-equals-moon.md)
+- [Mercury/Poseidon = Neptune](../activations/mercury-poseidon-equals-neptune.md)
+- [Mercury/Poseidon = Node](../activations/mercury-poseidon-equals-node.md)
+- [Mercury/Poseidon = Pluto](../activations/mercury-poseidon-equals-pluto.md)
+- [Mercury/Poseidon = Saturn](../activations/mercury-poseidon-equals-saturn.md)
+- [Mercury/Poseidon = Sun](../activations/mercury-poseidon-equals-sun.md)
+- [Mercury/Poseidon = Uranus](../activations/mercury-poseidon-equals-uranus.md)
+- [Mercury/Poseidon = Venus](../activations/mercury-poseidon-equals-venus.md)
+- [Mercury/Poseidon = Vernal Point](../activations/mercury-poseidon-equals-vernal-point.md)
 - [Mercury/Poseidon = Vulcanus](../activations/mercury-poseidon-equals-vulcanus.md)
+- [Mercury/Poseidon = Zeus](../activations/mercury-poseidon-equals-zeus.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Poseidon` is the axis of spiritualized thinking, clear ideas, mental insight, and language used to discuss philosophical, intellectual, cultural, or spiritual matters.
+- Constructively it supports meaningful speech, sound opinion, elevated mentality, and the ability to propose or present ideals in words others can use.
+- The shadow is poor language, over-idealized talk, or ideas that remain too abstract, inaccessible, or detached from practical communication.
+- Activations show what happens to the idea-field: Admetos narrows or deepens it, Apollon spreads it, Vulcanus empowers it, Neptune blurs or develops it, and Hades can pull it toward troubled or hidden material.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [Poseidon](../factors/poseidon.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

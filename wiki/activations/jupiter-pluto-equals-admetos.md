@@ -3,7 +3,7 @@ title: Jupiter/Pluto = Admetos
 page_type: activation
 slug: jupiter-pluto-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Jupiter
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Pluto
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Jupiter + Pluto`
-- Source page: `210`
 #### Witte Entry
 
 To remain calm in spite of lucky changes, to ignore them, to deny them.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To remain calm in spite of lucky changes, to ignore them, to deny them.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Limitation in the development of money, end of a slippery development, successful growth through grinningness, successful rotational development, grinning legal development, growing financial limitation, and grinning change through money
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Pluto = Admetos`: big transformation meeting restraint, inertia, or emotional withholding. It can show quiet mastery under pressure, but also resistance to acknowledging beneficial change that is already underway.
 
 ## Links
 
@@ -61,3 +55,5 @@ To remain calm in spite of lucky changes, to ignore them, to deny them.
 - [Pluto](../factors/pluto.md)
 - [Admetos](../factors/admetos.md)
 - [Jupiter/Pluto](../axes/jupiter-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

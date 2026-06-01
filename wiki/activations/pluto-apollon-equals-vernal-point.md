@@ -3,7 +3,7 @@ title: Pluto/Apollon = Vernal Point
 page_type: activation
 slug: pluto-apollon-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Pluto
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Pluto + Apollon`
-- Source page: `261`
 #### Witte Entry
 
 A general transformation or change which starts from small beginnings. A changed attitude towards people in general. To set a precedent. Test case.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A general transformation or change which starts from small beginnings. A changed attitude towards people in general. To set a precedent. Test case.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Development in the public, development of science in the public, growth of the public, and success of the public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/Apollon = Vernal Point`: a general transformation or change which starts from small beginnings; A changed attitude towards people in general; To set a precedent; Test case.
+- Practical expression: development in the public, development of science in the public, growth of the public, and success of the public.
 
 ## Links
 
@@ -61,3 +56,5 @@ A general transformation or change which starts from small beginnings. A changed
 - [Apollon](../factors/apollon.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Pluto/Apollon](../axes/pluto-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

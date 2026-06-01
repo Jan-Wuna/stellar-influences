@@ -3,7 +3,7 @@ title: Cupido Hades Vulcanus
 page_type: triad_hub
 slug: cupido-hades-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Cupido
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Cupido Hades Vulcanus`
 - Astronomicon triad-set: `¡ ¢ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Hades = Vulcanus](../activations/cupido-hades-equals-vulcanus.md)
-  Source page `267`
 - [Cupido/Vulcanus = Hades](../activations/cupido-vulcanus-equals-hades.md)
-  Source page `273`
 - [Hades/Vulcanus = Cupido](../activations/hades-vulcanus-equals-cupido.md)
-  Source page `285`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Hades = Vulcanus`: page `267`
-- `Cupido/Vulcanus = Hades`: page `273`
-- `Hades/Vulcanus = Cupido`: page `285`
+- `Cupido/Hades = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `267`
+- `Cupido/Hades = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `425`
+- `Cupido/Vulcanus = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `273`
+- `Cupido/Vulcanus = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `435`
+- `Hades/Vulcanus = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `285`
+- `Hades/Vulcanus = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `447`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Hades = Vulcanus`: concerted attack against poverty and great obstacles pressing on a community.
+- `Cupido/Vulcanus = Hades`: great misfortune in a family, evil deeds of a mighty association, and severe want or failure in artistic accomplishment.
+- `Hades/Vulcanus = Cupido`: harmful things being set in motion and lasting a long time inside families, circles, or collective structures.
 
 ## Links
 
 - [Cupido](../factors/cupido.md)
 - [Hades](../factors/hades.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

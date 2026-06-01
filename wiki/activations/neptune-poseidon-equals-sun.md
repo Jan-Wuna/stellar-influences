@@ -3,7 +3,7 @@ title: Neptune/Poseidon = Sun
 page_type: activation
 slug: neptune-poseidon-equals-sun
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Neptune
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Poseidon`
-- Source page: `254`
 #### Witte Entry
 
 The spiritualized man. The man who knows himself. The man who follows the wrong faith, who advocates a destructive doctrine, who works for the destruction of existing doctrine or world concept.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: The spiritualized man. The man who knows himself. The man who follows the wrong faith, who advocates a destructive doctrine, who works for the destruction of existing doctrine or world concept.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Mind body of the future, body in clear water, body weakness of a person, personal clarity through intuition, weak reason of a man, refined body culture, refinement of mind and body, and center for truths of metaphysics
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Poseidon = Sun`: The spiritualized man. The man who knows himself. The man who follows the wrong faith, who advocates a destructive doctrine, who works for the destruction of existing doctrine or world concept.
+- Practical focus: personalizes spiritual receptivity and reflective insight, making identity more porous, introspective, and oriented toward psychology, devotion, or refined study. It can mark genuine self-knowledge, but also the danger of embodying false doctrine or sacrificing clarity to an idealized worldview.
+- Practical expression: mind body of the future, body in clear water, body weakness of a person, personal clarity through intuition, and weak reason of a man.
 
 ## Links
 
@@ -61,3 +57,5 @@ The spiritualized man. The man who knows himself. The man who follows the wrong 
 - [Poseidon](../factors/poseidon.md)
 - [Sun](../factors/sun.md)
 - [Neptune/Poseidon](../axes/neptune-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

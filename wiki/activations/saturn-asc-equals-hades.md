@@ -3,10 +3,10 @@ title: Saturn/Asc = Hades
 page_type: activation
 slug: saturn-asc-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Saturn
+  - Asc
   - Hades
 normalized_formula: Saturn/Asc = Hades
 axis: Saturn/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Asc
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Saturn`
-- Source page: `87`
 #### Witte Entry
 
 To be tied to sorrowful people. To be separated by a serious illness. Hostility.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be tied to sorrowful people. To be separated by a serious illness. Hostility.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Age of mysterious place, old historical place, tasks in a dangerous place, deprivation and patience for the environment, serious partner service, difficult environmental tasks, patient abandonment of the partner, and disadvantages of a problematic environment
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Asc = Hades`: to be tied to sorrowful people, to be separated by a serious illness, hostility.
+- Practical expression: age of mysterious place, old historical place, tasks in a dangerous place, deprivation, and patience for the environment.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be tied to sorrowful people. To be separated by a serious illness. Hostility.
 - [Asc](../factors/asc.md)
 - [Hades](../factors/hades.md)
 - [Saturn/Asc](../axes/saturn-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

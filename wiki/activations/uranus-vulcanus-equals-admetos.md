@@ -3,7 +3,7 @@ title: Uranus/Vulcanus = Admetos
 page_type: activation
 slug: uranus-vulcanus-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Admetos
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Vulcanus`
-- Source page: `242`
 #### Witte Entry
 
 Useless battles. Sudden great defeat and suppression. Sudden grave misfortune. Great ruins.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Useless battles. Sudden great defeat and suppression. Sudden grave misfortune. Great ruins.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Depression caused by sudden violence, restrictive influence of technology, grim powerMeuration, powerful tensions caused by blockade, sudden blockade violence, technical energy compression, technical rotation force, and deepening into new energies
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Vulcanus = Admetos`: Useless battles. Sudden great defeat and suppression. Sudden grave misfortune. Great ruins.
+- Practical expression: depression caused by sudden violence, restrictive influence of technology, grim powerMeuration, powerful tensions caused by blockade, and sudden blockade violence.
 
 ## Links
 
@@ -61,3 +56,5 @@ Useless battles. Sudden great defeat and suppression. Sudden grave misfortune. G
 - [Vulcanus](../factors/vulcanus.md)
 - [Admetos](../factors/admetos.md)
 - [Uranus/Vulcanus](../axes/uranus-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

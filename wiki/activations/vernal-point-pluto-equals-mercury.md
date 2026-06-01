@@ -3,7 +3,7 @@ title: Vernal Point/Pluto = Mercury
 page_type: activation
 slug: vernal-point-pluto-equals-mercury
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Pluto
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Mercury
   - Pluto
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Pluto`
-- Source page: `47`
 #### Witte Entry
 
 general transformations in the way of thinking.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: general transformations in the way of thinking.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Development of youth in public life, change of speech in public, media development in public, change of opinion in public life, increase of traffic in public, and change of public thinking
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Pluto = Mercury`: general transformations in the way of thinking.
+- Practical expression: development of youth in public life, change of speech in public, media development in public, change of opinion in public life, and increase of traffic in public.
 
 ## Links
 
@@ -61,3 +56,5 @@ general transformations in the way of thinking.
 - [Pluto](../factors/pluto.md)
 - [Mercury](../factors/mercury.md)
 - [Vernal Point/Pluto](../axes/vernal-point-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

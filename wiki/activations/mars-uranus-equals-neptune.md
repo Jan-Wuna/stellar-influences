@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Uranus`
-- Source page: `194`
 #### Witte Entry
 
 Wasted energy. Energetic action in the wrong direction. Injured by treachery. Fight or accident with death resulting.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Mars/Uranus`
-- Source page: `208`
-- Entry: `0717`
+#### ABC Entry
+
+Working technique for rhythmical impulses, tcnical activity in the air, tcnical future, weak will pulses, inconsistency through ncncvcnt development work, dynamic wills development, and nccvc development work
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Cunning and deceit, a low and mean way of acting, desire to harm others, a perso
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Mars/Uranus midpoint`
-- Source page: `71`
-- Activator: `Neptune`
-
 #### Sandbach Entry
 
 Sudden actions that are confusion or misconstrued. If one is clearly in tune with one’s intuition, one may engage in sudden, inspired actions that even display ge nius or brilliance.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+You may be pushy and impetuous, but you have a dreamy and intuitive side to you which will abandon fights or confrontations when you become bored; you want to push for change but you do not always understand why.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Uranus = Neptune`: abrupt intuitive action, inspired breakthroughs, and the ability to respond creatively to subtle or unclear situations. Main caution: misfired force: sudden action taken under confusion can waste energy, invite treachery, or create chaotic damage.
 
 ## Links
 
@@ -84,7 +76,8 @@ Sudden actions that are confusion or misconstrued. If one is clearly in tune wit
 - [Uranus](../factors/uranus.md)
 - [Neptune](../factors/neptune.md)
 - [Mars/Uranus](../axes/mars-uranus.md)
-- [Mars Uranus Neptune](../triads/mars-uranus-neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

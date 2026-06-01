@@ -3,10 +3,10 @@ title: Mars/Asc = Vernal Point
 page_type: activation
 slug: mars-asc-equals-vernal-point
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Mars
+  - Asc
   - Vernal Point
 normalized_formula: Mars/Asc = Vernal Point
 axis: Mars/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Mars
   - Asc
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Mars`
-- Source page: `85`
 #### Witte Entry
 
 To be impressed by the actions or deeds of other people in general. To participate in fighting.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be impressed by the actions or deeds of other people in general. To participate in fighting.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Others working in public, work in public places, impulses of others in public, public work on the spot, public partner work, environmental work in public, and will of the public on the spot
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Asc = Vernal Point` makes the Mars/Asc axis public and collective, so one is impressed by, drawn into, or identified with the deeds and conflicts of people in general.
+- Chart expression: participation in fighting, strong reaction to public action, and a personal environment charged by general social tension, struggle, or mobilization.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be impressed by the actions or deeds of other people in general. To participa
 - [Asc](../factors/asc.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Mars/Asc](../axes/mars-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

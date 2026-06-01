@@ -58,13 +58,14 @@ aliases:
   - Mars/Moon
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - michelle-falis-planet-combinations-astrological-brainstorms
   - charles-carter-the-astrological-aspects
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -77,17 +78,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Mars`
-- Source page: `124`
-
 #### Pair Summary
 
 Consciousness. The active brain. Working processes in the brain. Acts of volition. The sweetheart. The wife or mistress. The active woman, rhe household. The working time. The working hour. The industrious or efficacious populace. Energetic woman. The labouring class. The working people. The working woman.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Moon/Mars`
-- Source page: `119`
+#### ABC Pair Summary
+
+Hour of work, women's work, actions of feeling, the woman's actions, the masculine principle in the woman, a productive people, hour of drive, feminine drive, and the will of the people
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -111,17 +112,11 @@ The wife, a woman colleague, a woman imbued with fighting spirit, a hard-working
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
-- Source heading: `Moon/Mars`
-- Source page: `23`
-
 #### Falis Entry
 
 Forcefully acting on emotions. Energetic emotional life. Touchy feelings. Defen sive. Standing up for mom. Standing up for women in general. Fighting on behalf of women. Fighting against women. Fighting with mom. Anger toward mom. Feel ing emotionally nourished through activity. Feeling happy when active. Feeling happy with physical exertion. Feeling happy being the leader. Leading women. Being aggressive with women. An aggressive woman. A woman in a man's world. Feeling happy being alone. Feeling happy being independent. Feel good about standing up for yourself. Standing up for people you care for. Changing action pat terns. Acting on feelings. Fluctuating action. Acting on intuition. Acting from a place of inner knowing. Feeling out actions. Emotional aggression. Responding with anger. Responding with force. Abrupt responses. Emotional drive. Driven by hunger. Habitual violence. Domestic violence. Quick responses. Eating quickly. Quick to move-on emotionally. Feeling supported by men. Feeling nurtured by the masculine. Feeling comforted by men. Feeling comfortable with speed. Feeling happy when things are moving fast. Comfortable with violence. Liking an active home. Wanting stimulation at home. Needing stimulation to feel relaxed and safe. Comfortable with competition. Nourished and supported by competition. Needing competition to feel happy. Needing to be competitive. Competitive with mom. Competitive at home. Com peting with women who seem like mother figures. Emotionally brave. Emotionally daring. A habit of taking risks. Unafraid. Sexual habits. Aggressive habits. Asserting how you feel. Recognizing your individual feelings. Fighting for your emotional rights. Fighting to make your feelings known. Actively securing your home and family. Actively defending the country. Steamy emotional life. Getting hot under the collar. You know what you want and you know how to get it. You know how to go after what will make you happy. You assert yourself toward getting your needs met. You assert yourself in getting what will make you happy. Emotionally fierce. Domestic leader. Leading by appealing to emotions. An angry mother. An independent woman. An independent mother. A brave mother. A mother who is a leader. A mother who experienced violence. A mother who is assertive. A mother who is defensive. A violent mother. A sporty mother. Mom is a fitness trainer. Mom is a race car driver. Mom is an athlete. Moody actions. Acting on moods. Domestic warrior. Feeling like a warrior. How you feel about the masculine. How mom nur tured the masculine in her son. Whether a man feels in touch with his masculine side, or estranged from it. How you feel about your masculine role models. How you feel about violence. Feeling like a man. Feminist.
 
 ### Charles Carter - The Astrological Aspects
-
-- Source heading: `ASPECTS OF THE MOON & MARS`
-- Source page: `24`
 
 #### Harmonious Aspects
 
@@ -167,9 +162,6 @@ In the case of women, I think it is unfavourable because of the independence whi
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Moon/Mars midpoint`
-- Source page: `28`
-
 #### Principle
 
 Passion and impulsiveness. The tendency to assert oneself on the spur of the moment and/or to overreact. Fiery feelings. The tendency to be excitable or irritable. Actions based on instinct. Assertive nurturing.
@@ -180,17 +172,11 @@ Refinement of one’s ability to act in the moment and to follow one’s instinc
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Moon/Mars`
-- Source page: `203`
-
 #### Pair Delineation
 
 Anger, emotional upset, emotional self-assertion. Instinctive reactions of aggression or self-defense. To act under the dictates of emotion. Childish aggressiveness.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `MOON/MARS`
-- Source page: `111`
 
 #### Basic Ideas
 
@@ -219,15 +205,6 @@ Glandular secretions which come too quickly; heat buildup in or on the body; ene
 
 - [Michael Munkasey - Moon/Mars Concepts](../derived/munkasey-moon-mars-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Moon/Mars = Admetos](../activations/moon-mars-equals-admetos.md)
@@ -252,20 +229,18 @@ Glandular secretions which come too quickly; heat buildup in or on the body; ene
 - [Moon/Mars = Vulcanus](../activations/moon-mars-equals-vulcanus.md)
 - [Moon/Mars = Zeus](../activations/moon-mars-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Mars` is the axis of reactive passion, instinctive action, emotional courage, and the urge to defend needs immediately. It combines feeling, habit, and nurture with heat, assertion, conflict, and the body's quick response to hunger, pressure, or threat.
+- Chart expression: frank emotional expression, protective force, industriousness, competitive feeling, and the tendency to act from instinct rather than deliberation. Liabilities: irritability, touchiness, quarrels, domestic conflict, rash reactions, and moods that turn quickly into anger, haste, or combativeness.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Mars](../factors/mars.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Michelle Falis - Planet Combinations: Astrological Brainstorms](../sources/michelle-falis-planet-combinations-astrological-brainstorms.md)
 - [Charles Carter - The Astrological Aspects](../sources/charles-carter-the-astrological-aspects.md)

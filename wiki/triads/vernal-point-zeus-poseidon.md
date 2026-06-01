@@ -3,7 +3,7 @@ title: Vernal Point Zeus Poseidon
 page_type: triad_hub
 slug: vernal-point-zeus-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Zeus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Zeus Poseidon`
 - Astronomicon triad-set: `VP £ ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Vernal Point/Poseidon = Zeus](../activations/vernal-point-poseidon-equals-zeus.md)
-  Source page `55`
 - [Vernal Point/Zeus = Poseidon](../activations/vernal-point-zeus-equals-poseidon.md)
-  Source page `50`
 - [Zeus/Poseidon = Vernal Point](../activations/zeus-poseidon-equals-vernal-point.md)
-  Source page `296`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Vernal Point/Poseidon = Zeus`: page `55`
-- `Vernal Point/Zeus = Poseidon`: page `50`
-- `Zeus/Poseidon = Vernal Point`: page `296`
+- `Vernal Point/Poseidon = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `55`
+- `Vernal Point/Poseidon = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `59`
+- `Vernal Point/Zeus = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `50`
+- `Vernal Point/Zeus = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `49`
+- `Zeus/Poseidon = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `296`
+- `Zeus/Poseidon = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `458`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Vernal Point/Poseidon = Zeus`: This formula emphasizes mental activity, mental leadership, proofs, and flash of inspiration.
+- `Vernal Point/Zeus = Poseidon`: This formula emphasizes mind creations in the intellectual or spiritual field, to express logic, and proofs.
+- `Zeus/Poseidon = Vernal Point`: Mental disposition. To be under a general mental leadership. To be mentally influenced and impressed by others. The generality must witness something, must prove something or must show its conviction.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Zeus](../factors/zeus.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

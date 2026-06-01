@@ -3,7 +3,7 @@ title: MC/Zeus = Hades
 page_type: activation
 slug: mc-zeus-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - MC
   - Hades
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Zeus`
-- Source page: `72`
 #### Witte Entry
 
 To wish to help the sick. Sorrow and hindrances at work. To be obliged to fight strong resistance. To work with coals, soot or dirt. To produce lowbrow art.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To wish to help the sick. Sorrow and hindrances at work. To be obliged to fight strong resistance. To work with coals, soot or dirt. To produce lowbrow art.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dangerous inner fire, I begin to serve, I form from the past, my dangerous goals, my strenuous past, my achievements from the past, my hidden efforts, and spiritual leadership service
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `MC/Zeus = Hades` drags the axis into sorrow, hindrance, dirty work, and service under difficult conditions.
+- Chart expression: burdened labor, creativity shaped by hardship or low conditions, and the need to keep working through resistance, illness, grime, or discouraging circumstances.
 
 ## Links
 
@@ -61,3 +56,5 @@ To wish to help the sick. Sorrow and hindrances at work. To be obliged to fight 
 - [Zeus](../factors/zeus.md)
 - [Hades](../factors/hades.md)
 - [MC/Zeus](../axes/mc-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

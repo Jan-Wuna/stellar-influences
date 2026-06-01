@@ -3,7 +3,7 @@ title: Mercury/Jupiter = Apollon
 page_type: activation
 slug: mercury-jupiter-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Jupiter
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Jupiter
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Jupiter`
-- Source page: `161`
 #### Witte Entry
 
 Fortunate entertainment with many. Success through knowledge of languages. Pleasant scientific discussions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Fortunate entertainment with many. Success through knowledge of languages. Pleasant scientific discussions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Reports on legal science, success through right thinking, success messages of science, successful commercial language, successful financial language, successful legal talk, vie! Talk about money, and increasing rights of youth
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Jupiter = Apollon` enlarges the axis into successful exchange with many, especially through language and science.
+- Chart expression: fortunate social conversation, success through linguistic skill, and cheerful intellectual life expressed through broad scientific or cultured discussion.
 
 ## Links
 
@@ -61,3 +56,5 @@ Fortunate entertainment with many. Success through knowledge of languages. Pleas
 - [Jupiter](../factors/jupiter.md)
 - [Apollon](../factors/apollon.md)
 - [Mercury/Jupiter](../axes/mercury-jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

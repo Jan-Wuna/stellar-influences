@@ -3,7 +3,7 @@ title: Moon/Mercury = Kronos
 page_type: activation
 slug: moon-mercury-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Mercury
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Mercury
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Mercury`
-- Source page: `122`
 #### Witte Entry
 
 Discussions, conference and correspondence with magistracy.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Discussions, conference and correspondence with magistracy.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Movable leading woman, youth of a great people, opinion of women on the state, opinion of the people on the authority, self proclaimed young women, important happy thoughts, and superior youth of a people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Mercury = Kronos`: Discussions, conference and correspondence with magistracy.
+- Practical focus: elevates `Moon/Mercury` through formal discourse, official correspondence, and mental contact with authority. It suggests emotional thought that gains structure, recognition, or consequence through institutions, making communication more dignified, administrative, and socially weighty.
+- Practical expression: movable leading woman, youth of a great people, opinion of women on the state, opinion of the people on the authority, and self proclaimed young women.
 
 ## Links
 
@@ -61,3 +57,5 @@ Discussions, conference and correspondence with magistracy.
 - [Mercury](../factors/mercury.md)
 - [Kronos](../factors/kronos.md)
 - [Moon/Mercury](../axes/moon-mercury.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

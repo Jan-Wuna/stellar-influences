@@ -3,7 +3,7 @@ title: Uranus/Hades = Moon
 page_type: activation
 slug: uranus-hades-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Uranus
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Hades`
-- Source page: `237`
 #### Witte Entry
 
 Persons of low class or rank. Mean deeds of women. Grave ending, long agony or assassination of a woman. The hour of the murder. Widespread dying.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Persons of low class or rank. Mean deeds of women. Grave ending, long agony or assassination of a woman. The hour of the murder. Widespread dying.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Disturbed people in need, dangerous events for a people, tension by women lack, sudden lack for a woman, unrest about the need of a people, and outdated technique of a people
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Hades = Moon`: Persons of low class or rank. Mean deeds of women. Grave ending, long agony or assassination of a woman. The hour of the murder. Widespread dying.
+- Practical expression: disturbed people in need, dangerous events for a people, tension by women lack, sudden lack for a woman, and unrest about the need of a people.
 
 ## Links
 
@@ -61,3 +56,5 @@ Persons of low class or rank. Mean deeds of women. Grave ending, long agony or a
 - [Hades](../factors/hades.md)
 - [Moon](../factors/moon.md)
 - [Uranus/Hades](../axes/uranus-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

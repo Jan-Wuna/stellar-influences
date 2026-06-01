@@ -3,7 +3,7 @@ title: Mars/Neptune = Apollon
 page_type: activation
 slug: mars-neptune-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Neptune
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Neptune`
-- Source page: `195`
 #### Witte Entry
 
 Many are under the spell of false hopes. Infection and destruction of many people. Extensive destruction.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Many are under the spell of false hopes. Infection and destruction of many people. Extensive destruction.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Expansion of work on/in or with water, successful work in the air, successful future activity, processing metaphysical knowledge, increased uncertainty at work, increasing activity of water, and increasing metaphysical activity
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Neptune = Apollon` spreads confusion and harm widely across groups, markets, or large populations.
+- Chart expression: many people caught in false hopes, mass infection, broad destruction, and the large-scale diffusion of weakened or misdirected force.
 
 ## Links
 
@@ -61,3 +56,5 @@ Many are under the spell of false hopes. Infection and destruction of many peopl
 - [Neptune](../factors/neptune.md)
 - [Apollon](../factors/apollon.md)
 - [Mars/Neptune](../axes/mars-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

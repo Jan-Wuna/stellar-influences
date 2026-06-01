@@ -3,7 +3,7 @@ title: Mercury/Poseidon = Saturn
 page_type: activation
 slug: mercury-poseidon-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Mercury
   - Saturn
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mercury + Poseidon`
-- Source page: `173`
 #### Witte Entry
 
 To be suddenly taken by an idea. Internal enlightenment. Suddenly experiencing or revolutionary ideas, to be creative thereby.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be suddenly taken by an idea. Internal enlightenment. Suddenly experiencing or revolutionary ideas, to be creative thereby.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Patience in tongues about the truth, speech about spiritual problems, hard truths in the language, clarity through serious words, messages about cultural losses, problematic ideas in youth, and difficulties with the truth in youth
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mercury/Poseidon = Saturn`: To be suddenly taken by an idea. Internal enlightenment. Suddenly experiencing or revolutionary ideas, to be creative thereby.
+- Practical expression: patience in tongues about the truth, speech about spiritual problems, hard truths in the language, clarity through serious words, and messages about cultural losses.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be suddenly taken by an idea. Internal enlightenment. Suddenly experiencing o
 - [Poseidon](../factors/poseidon.md)
 - [Saturn](../factors/saturn.md)
 - [Mercury/Poseidon](../axes/mercury-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

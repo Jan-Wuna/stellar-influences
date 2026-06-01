@@ -3,7 +3,7 @@ title: Zeus/Apollon = Poseidon
 page_type: activation
 slug: zeus-apollon-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Zeus
   - Apollon
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Zeus + Apollon`
-- Source page: `292`
 #### Witte Entry
 
 Learning, studying and research work in the spiritual and mental realm. People of the same caliber are associates. In the economic respect persons are equal. Members of a guild such as craft guild. A party-spirit.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Learning, studying and research work in the spiritual and mental realm. People of the same caliber are associates. In the economic respect persons are equal. Members of a guild such as craft guild. A party-spirit.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Efforts for knowledge and truth, beginning reason success, experiences of a fiery mind, successful creation of a !dee, successful truth sacrifice, knowledge of spiritual fire, and scientific culture performance
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Zeus/Apollon = Poseidon`: Learning, studying and research work in the spiritual and mental realm. People of the same caliber are associates. In the economic respect persons are equal. Members of a guild such as craft guild. A party-spirit.
+- Practical expression: efforts for knowledge, truth, beginning reason success, experiences of a fiery mind, and successful creation of a !dee.
 
 ## Links
 
@@ -61,3 +56,5 @@ Learning, studying and research work in the spiritual and mental realm. People o
 - [Apollon](../factors/apollon.md)
 - [Poseidon](../factors/poseidon.md)
 - [Zeus/Apollon](../axes/zeus-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

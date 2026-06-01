@@ -3,7 +3,7 @@ title: Venus Saturn Vulcanus
 page_type: triad_hub
 slug: venus-saturn-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Saturn
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Saturn Vulcanus`
 - Astronomicon triad-set: `Q W §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Saturn/Vulcanus = Venus](../activations/saturn-vulcanus-equals-venus.md)
-  Source page `230`
 - [Venus/Saturn = Vulcanus](../activations/venus-saturn-equals-vulcanus.md)
-  Source page `178`
 - [Venus/Vulcanus = Saturn](../activations/venus-vulcanus-equals-saturn.md)
-  Source page `188`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Saturn/Vulcanus = Venus`: page `230`
-- `Venus/Saturn = Vulcanus`: page `178`
-- `Venus/Vulcanus = Saturn`: page `188`
+- `Saturn/Vulcanus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `230`
+- `Saturn/Vulcanus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `366`
+- `Venus/Saturn = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `178`
+- `Venus/Saturn = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `275`
+- `Venus/Vulcanus = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `188`
+- `Venus/Vulcanus = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `295`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Venus/Saturn = Vulcanus`: disharmonies in an otherwise great love.
+- `Venus/Vulcanus = Saturn`: the sorrows of parting.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Saturn](../factors/saturn.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

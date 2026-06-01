@@ -3,7 +3,7 @@ title: Moon Saturn Poseidon
 page_type: triad_hub
 slug: moon-saturn-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Saturn
@@ -19,38 +19,40 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Moon Saturn Poseidon`
 - Astronomicon triad-set: `R W ¨`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Moon/Poseidon = Saturn](../activations/moon-poseidon-equals-saturn.md)
-  Source page `138`
 - [Moon/Saturn = Poseidon](../activations/moon-saturn-equals-poseidon.md)
-  Source page `126`
 - [Saturn/Poseidon = Moon](../activations/saturn-poseidon-equals-moon.md)
-  Source page `231`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Moon/Poseidon = Saturn`: page `138`
-- `Moon/Saturn = Poseidon`: page `126`
-- `Saturn/Poseidon = Moon`: page `231`
+- `Moon/Poseidon = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `138`
+- `Moon/Poseidon = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `207`
+- `Moon/Saturn = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `126`
+- `Moon/Saturn = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `185`
+- `Saturn/Poseidon = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `231`
+- `Saturn/Poseidon = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `368`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Moon/Poseidon = Saturn`: Mentally or spiritually no contact, no instinctive ability. To face refusal or misunderstanding mentally or spiritually.
+- `Moon/Saturn = Poseidon`: This activation spiritualizes `Moon/Saturn` through serious study, evening contemplation, and sober mental work. It channels restraint into education and reflective discipline, making emotional heaviness more thoughtful, principled, and inwardly ordered.
 
 ## Links
 
 - [Moon](../factors/moon.md)
 - [Saturn](../factors/saturn.md)
 - [Poseidon](../factors/poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

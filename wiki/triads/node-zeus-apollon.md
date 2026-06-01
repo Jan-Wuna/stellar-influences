@@ -3,7 +3,7 @@ title: Node Zeus Apollon
 page_type: triad_hub
 slug: node-zeus-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Zeus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Node Zeus Apollon`
 - Astronomicon triad-set: `g £ ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Node/Apollon = Zeus](../activations/node-apollon-equals-zeus.md)
-  Source page `153`
 - [Node/Zeus = Apollon](../activations/node-zeus-equals-apollon.md)
-  Source page `151`
 - [Zeus/Apollon = Node](../activations/zeus-apollon-equals-node.md)
-  Source page `291`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Node/Apollon = Zeus`: page `153`
-- `Node/Zeus = Apollon`: page `151`
-- `Zeus/Apollon = Node`: page `291`
+- `Node/Apollon = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `153`
+- `Node/Apollon = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `233`
+- `Node/Zeus = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `151`
+- `Node/Zeus = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `229`
+- `Zeus/Apollon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `291`
+- `Zeus/Apollon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `452`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Node/Apollon = Zeus`: Creation through freedom. Combined activity in domestic economy and science.
+- `Node/Zeus = Apollon`: To work together with many. To carry arms or to know how to handle them.
+- `Zeus/Apollon = Node`: To be jointly trained with arms, machines, apparatus and other technical implements. Joint peaceful activity.
 
 ## Links
 
 - [Node](../factors/node.md)
 - [Zeus](../factors/zeus.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

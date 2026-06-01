@@ -3,7 +3,7 @@ title: Moon/Node = Kronos
 page_type: activation
 slug: moon-node-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Node
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Node
   - Kronos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Node`
-- Source page: `121`
 #### Witte Entry
 
 Union of the woman with the husband. The state sponsored women’s association. Association of housewives. Great nations unite.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Union of the woman with the husband. The state sponsored women’s association. Association of housewives. Great nations unite.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Special GemOts connections, dominance of women in relationships, woman with special contacts, great people association, self conscious relationships of a woman, y orrang the skills in a connection, and union of the woman with the boss
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Node = Kronos`: Union of the woman with the husband. The state sponsored women’s association. Association of housewives. Great nations unite.
+- Practical focus: elevates `Moon/Node` through formal unions, state-backed associations, and socially elevated female or national bonds. It favors connection that carries status, institutional support, or collective dignity, making belonging feel more official and consequential.
+- Practical expression: special GemOts connections, dominance of women in relationships, woman with special contacts, great people association, and self conscious relationships of a woman.
 
 ## Links
 
@@ -61,3 +57,5 @@ Union of the woman with the husband. The state sponsored women’s association. 
 - [Node](../factors/node.md)
 - [Kronos](../factors/kronos.md)
 - [Moon/Node](../axes/moon-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

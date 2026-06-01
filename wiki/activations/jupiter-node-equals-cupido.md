@@ -3,10 +3,10 @@ title: Jupiter/Node = Cupido
 page_type: activation
 slug: jupiter-node-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Jupiter
+  - Node
   - Cupido
 normalized_formula: Jupiter/Node = Cupido
 axis: Jupiter/Node
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Node
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Jupiter`
-- Source page: `144`
 #### Witte Entry
 
 Good connection leading to marriage. Financial relationships of a group or family. Successful contacts of families or groups.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Good connection leading to marriage. Financial relationships of a group or family. Successful contacts of families or groups.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Meeting with a successful community, successful links in of a community, money transfer of a community, financial links of a community, friendly relations with of a community, and connection with a legal community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Node = Cupido`: social luck becoming organized through household, kinship, or communal structure. It favors marriage-minded connection and beneficial shared resources within a group field.
 
 ## Links
 
@@ -61,3 +55,5 @@ Good connection leading to marriage. Financial relationships of a group or famil
 - [Node](../factors/node.md)
 - [Cupido](../factors/cupido.md)
 - [Jupiter/Node](../axes/jupiter-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Uranus Kronos Apollon
 page_type: triad_hub
 slug: uranus-kronos-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Kronos
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Kronos Apollon`
 - Astronomicon triad-set: `X ¤ ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Kronos/Apollon = Uranus](../activations/kronos-apollon-equals-uranus.md)
-  Source page `299`
 - [Uranus/Apollon = Kronos](../activations/uranus-apollon-equals-kronos.md)
-  Source page `240`
 - [Uranus/Kronos = Apollon](../activations/uranus-kronos-equals-apollon.md)
-  Source page `239`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Kronos/Apollon = Uranus`: page `299`
-- `Uranus/Apollon = Kronos`: page `240`
-- `Uranus/Kronos = Apollon`: page `239`
+- `Kronos/Apollon = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `299`
+- `Kronos/Apollon = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `461`
+- `Uranus/Apollon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `240`
+- `Uranus/Apollon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `383`
+- `Uranus/Kronos = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `239`
+- `Uranus/Kronos = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `381`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Kronos/Apollon = Uranus`: abrupt interest in a new field of science, suddenly gained understanding, fast calculation or measurement, and sudden elevation into scientific authority.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Kronos](../factors/kronos.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

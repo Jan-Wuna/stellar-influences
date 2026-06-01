@@ -3,7 +3,7 @@ title: Uranus Pluto Kronos
 page_type: triad_hub
 slug: uranus-pluto-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Pluto
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Pluto Kronos`
 - Astronomicon triad-set: `X Z ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Pluto/Kronos = Uranus](../activations/pluto-kronos-equals-uranus.md)
-  Source page `260`
 - [Uranus/Kronos = Pluto](../activations/uranus-kronos-equals-pluto.md)
-  Source page `239`
 - [Uranus/Pluto = Kronos](../activations/uranus-pluto-equals-kronos.md)
-  Source page `235`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Pluto/Kronos = Uranus`: page `260`
-- `Uranus/Kronos = Pluto`: page `239`
-- `Uranus/Pluto = Kronos`: page `235`
+- `Pluto/Kronos = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `260`
+- `Pluto/Kronos = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `415`
+- `Uranus/Kronos = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `239`
+- `Uranus/Kronos = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `381`
+- `Uranus/Pluto = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `235`
+- `Uranus/Pluto = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `373`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Pluto/Kronos = Uranus`: This activation emphasizes sudden advancement; Authority or capability changes through abrupt turns.
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Pluto](../factors/pluto.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

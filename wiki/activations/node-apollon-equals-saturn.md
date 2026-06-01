@@ -3,7 +3,7 @@ title: Node/Apollon = Saturn
 page_type: activation
 slug: node-apollon-equals-saturn
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Node
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Apollon`
-- Source page: `153`
 #### Witte Entry
 
 Limited freedom. Connected with many through methods and systems. Hindrances and separations in economic and scientific connections.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Limited freedom. Connected with many through methods and systems. Hindrances and separations in economic and scientific connections.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Tasks of a scientific connection, successful link in old age, serious contacts with the economy, pain experience, loss of links with trade, problems in a connection, and increasing separations in connections
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Apollon = Saturn`: Limited freedom. Connected with many through methods and systems. Hindrances and separations in economic and scientific connections.
+- Practical focus: connected with many through methods and systems.
+- In difficult expression, it can mark limited freedom.
 
 ## Links
 
@@ -61,3 +57,5 @@ Limited freedom. Connected with many through methods and systems. Hindrances and
 - [Apollon](../factors/apollon.md)
 - [Saturn](../factors/saturn.md)
 - [Node/Apollon](../axes/node-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

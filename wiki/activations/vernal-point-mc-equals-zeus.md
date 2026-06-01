@@ -3,7 +3,7 @@ title: Vernal Point/MC = Zeus
 page_type: activation
 slug: vernal-point-mc-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - MC
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - MC
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + MC`
-- Source page: `35`
 #### Witte Entry
 
 To stick together (people). Comradeship. To be a leader. The end at which a person aims.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To stick together (people). Comradeship. To be a leader. The end at which a person aims.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Stirred filtration in public, my start in public life, my aim in public, my achievements in public, my public design, and minute of fire in public
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/MC = Zeus`: to stick together (people), comradeship, to be a leader, and the end at which a person aims.
+- Practical expression: stirred filtration in public, my start in public life, my aim in public, my achievements in public, and my public design.
 
 ## Links
 
@@ -61,3 +56,5 @@ To stick together (people). Comradeship. To be a leader. The end at which a pers
 - [MC](../factors/mc.md)
 - [Zeus](../factors/zeus.md)
 - [Vernal Point/MC](../axes/vernal-point-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

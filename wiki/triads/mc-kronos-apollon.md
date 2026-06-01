@@ -3,7 +3,7 @@ title: MC Kronos Apollon
 page_type: triad_hub
 slug: mc-kronos-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - MC
   - Kronos
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `MC Kronos Apollon`
 - Astronomicon triad-set: `MC ¤ ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Kronos/Apollon = MC](../activations/kronos-apollon-equals-mc.md)
-  Source page `299`
 - [MC/Apollon = Kronos](../activations/mc-apollon-equals-kronos.md)
-  Source page `74`
 - [MC/Kronos = Apollon](../activations/mc-kronos-equals-apollon.md)
-  Source page `73`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Kronos/Apollon = MC`: page `299`
-- `MC/Apollon = Kronos`: page `74`
-- `MC/Kronos = Apollon`: page `73`
+- `Kronos/Apollon = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `299`
+- `Kronos/Apollon = MC`: Udo Rudolph - ABC for Planetary Pictures, page `460`
+- `MC/Apollon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `74`
+- `MC/Apollon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `93`
+- `MC/Kronos = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `73`
+- `MC/Kronos = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `91`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Kronos/Apollon = MC`: great knowledge, large experience, and becoming an authority for many people.
+- `MC/Apollon = Kronos`: raises the axis into intellectual authority and high standing.
+- `MC/Kronos = Apollon`: expands the axis into authority over science, commerce, and trade.
 
 ## Links
 
 - [MC](../factors/mc.md)
 - [Kronos](../factors/kronos.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

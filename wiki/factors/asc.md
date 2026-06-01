@@ -10,15 +10,17 @@ aliases:
   - Ascendant
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Factor: Asc
-- Canonical page type: comparative factor page grounded in standalone source chapters.
+- Canonical page type: comparative factor page grounded in standalone source entries.
 
 ## Source Entries
 
@@ -28,10 +30,13 @@ updated_at: 2026-04-22
 
 Acquaintances and connections. The near surroundings. The place. Relatives and close friends. The outer appearance. The influence of others on one’s own life and lifestyle. The immediate vicinity.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `The Ascendant`
-- Source page: `71`
+#### ABC Keyword Entry
+
+Partners; You, Other, Near, Nearer Environment, Place, Space, and Closer Environment
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -66,9 +71,6 @@ The ego in relationship with other people, particularly with persons of the envi
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `The Ascendant and Midheaven`
-- Source page: `102`
-
 #### Hand Factor Entry
 
 The Ascendant and Midheaven were defined in Chapter 2 and will be discussed much more fully in Chapter 12 as markers of a planet's mundane position. I mention them here only in their roles as nodes and as sensitive points that lie along the ecliptic, forming various angular relationships along the ecliptic to other points in the horoscope. The Ascendant and Midheaven are considered the principal ends of
@@ -77,23 +79,89 @@ their respective nodal axes, even though both are exceptions to the rule above a
 
 Traveling at the speed they do, they are in a constantly changing relationship to all the other points in the horoscope, highlighting one group of planets at one time, and then another group a few minutes later. Thus the horoscope of a person born at eight o'clock can be quite different from that of another born the same day at eight-thirty. In Chapters 12 and 15 I will describe in detail how the Ascendant and Midheaven derive their meanings from their position in the mundane cycle. Here, however, it suffices to outline their signification using a few keywords. A key idea for the Ascendant-Descendant axis is "exchange with the environment." Planets in a significant angular relationship to this axis generally manifest in relationships and in a person's interaction with the outside world. The Midheaven-I.C. axis, on the other hand, signifies how one feels inwardly (I.C.) and expresses oneself outwardly (Midheaven), or ■where in life one is coming from and going to. The key idea here is "I, me, mine": this axis has less to do with relationships and more to do with one's sense of oneself. Examples of how the Ascendant and Midheaven -work in combination "with planetary energies can be found in the brief midpoint delineations of pairs of points in Chapter o.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native factor entries are preserved side by side above.
-- psychology: source-specific psychological and doctrinal emphases remain attached to their own source blocks instead of being flattened.
-- body/health: bodily wording remains inside each contributing source block when present.
-- social/relationship: interpersonal implications remain attached to each source's own phrasing.
-- events/manifestations: sign-position or chapter-level extensions remain attached to the source entry that states them.
-- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
+#### Basic Ideas
 
-## Contradictions and Framework Notes
+- Assessment
+- Atmosphere
+- Attention, Focus of
+- Attitudes
+- Awareness
+- Blocking
+- Characteristics
+- Circumstances
+- Cognizance
+- Consciousness
+- Environment, Your
+- Experiences
+- Notions
+- Observations
+- Observances
+- Peculiarities
+- Perceptions
+- Personal Space
+- Points of View
+- Privacy
+- Reality
+- Rejoinders
+- Repression, Mental
+- Responses
+- Self
+- Settings
+- Style, Personal
+- Tone (Attitude)
+- Traits
+- Views
 
-- Source differences on this factor page are preserved as framework emphasis rather than forced contradiction.
-- This page keeps the contributing source chapters side by side instead of treating one as a gloss on the other.
+#### In Your Relationships
 
+- Attention to
+- Attitudes toward
+- Communication
+- Focus Upon
+- Impressions of
+- Inhibitions to
+- Introspection of
+- Motivations for
+- Personal Responses
+- Pretenses toward
+- Treatment of Others
+- Understanding Others
+
+#### With Body or Mind
+
+- Appearance
+- Attitudes toward Life
+- Demeanor
+- Introspection
+- Mannerisms
+- Sensations
+
+#### In Politics or Business
+
+- Atmosphere, The
+- Attitudes
+- Conditions
+- Effects on the World
+- Environment, The
+- Experiences
+- Masquerades
+- Personal Style
+- Portrayals
+- Relations with Others
+- Responses, Formal
+- Settings
+- Views of Others
+- Views, An Individual's
+- Views, Foreign
+
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Asc` is the primary point of contact between the native and the immediate world: body, appearance, instinctive manner, close surroundings, partners, and the near environment.
+- Chart expression: first impressions, direct encounter, the "one" or other person, place and space, and the way outer conditions meet the living personality.
+- Its liabilities are overidentification with circumstance, excessive dependence on others' responses, and confusion between the situational self and the deeper whole of the person.
 
 ## Related Axes
 
@@ -121,17 +189,10 @@ Traveling at the speed they do, they are in a constantly changing relationship t
 - [Venus/Asc](../axes/venus-asc.md)
 - [Vernal Point/Asc](../axes/vernal-point-asc.md)
 
-## Related Activations
-
-- Generated activation pages involving `Asc`: `729`.
-- Browse [Index](../index.md) or the `wiki/activations/` folder for the full set.
-
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
-
-## Open Questions
-
-- None recorded yet.
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

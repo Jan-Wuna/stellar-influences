@@ -3,7 +3,7 @@ title: Moon/Mercury = Vulcanus
 page_type: activation
 slug: moon-mercury-equals-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Mercury
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Mercury
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Mercury`
-- Source page: `122`
 #### Witte Entry
 
 Powerful memory. To think fast. Fast vehicle.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Powerful memory. To think fast. Fast vehicle.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Influence of the youth of a people, influential young woman, speech about women's power, violence news for the people, opinions about women's power, strong feelings movement, and strong popular opinion
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Mercury = Vulcanus`: Powerful memory. To think fast. Fast vehicle.
+- Practical focus: intensifies `Moon/Mercury` with mental speed, strong recall, and forceful cognition. It favors rapid understanding and powerful memory, so emotional thinking becomes more decisive, energetic, and capable of moving quickly from impression to action.
+- Practical expression: influence of the youth of a people, influential young woman, speech about women's power, violence news for the people, and opinions about women's power.
 
 ## Links
 
@@ -61,3 +57,5 @@ Powerful memory. To think fast. Fast vehicle.
 - [Mercury](../factors/mercury.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Moon/Mercury](../axes/moon-mercury.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

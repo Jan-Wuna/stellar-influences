@@ -3,7 +3,7 @@ title: Mars/Uranus = Admetos
 page_type: activation
 slug: mars-uranus-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mars
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Mars
   - Uranus
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Mars + Uranus`
-- Source page: `194`
 #### Witte Entry
 
 Sudden grave or serious suppression. Sudden great enmity.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Sudden grave or serious suppression. Sudden great enmity.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Perseverance in rhythmic work, blocked work rhythm, depression due to restless activity, strengthened dynamic will, tension due to restricted activity, spontaneous reaction to grtindlichkeit, and deepening into new work
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Uranus = Admetos` turns sudden force into grave suppression, hardened hostility, and abrupt blockage.
+- Chart expression: sudden serious repression and to enmity that becomes heavy, extreme, and difficult to release or resolve.
 
 ## Links
 
@@ -61,3 +56,5 @@ Sudden grave or serious suppression. Sudden great enmity.
 - [Uranus](../factors/uranus.md)
 - [Admetos](../factors/admetos.md)
 - [Mars/Uranus](../axes/mars-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

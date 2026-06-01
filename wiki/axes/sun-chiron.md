@@ -53,9 +53,6 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Sun/Chiron midpoint`
-- Source page: `15`
-
 #### Principle
 
 Letting go of all things of lesser importance and focusing on what is most im portant in spiritual terms. Ability to clearly differentiate between what is truly important to oneself in terms of one’s personal evolution and what the world/culture/social milieu deems important. The process of ceasing to base one’s self-worth on outer or superfi cial criteria and to perceive ones importance as a being assisting in world change and the spiritual process of others. Allowing the deeper meanings of things to emerge by not placing the projections of one’s ego on them. One has the ability to assist others in the discovery of their life’s meaning and purpose. Bringing to light those ideas and energies which are exactly what is needed to heal those around one, and often doing this without consciously knowing it.
@@ -63,15 +60,6 @@ Letting go of all things of lesser importance and focusing on what is most im po
 #### Process
 
 The opening up to deeper and more expanded realizations of the meaning and purpose of everything one encounters. The healing of the ego of both oneself and others through clearing away what is meaningless so that the true meaning and pur pose behind reality can be clearly perceived.
-
-## Comparative Schema
-
-- core meaning: source-native pair entries are preserved side by side above.
-- psychology: Sandbach contributes an explicit `Principle` and `Process` layer, while other sources retain their own native structure and vocabulary.
-- body/health: bodily or vitality implications remain embedded inside each source entry when present.
-- social/relationship: interpersonal implications remain attached to the source-native wording above instead of being flattened into one paraphrase.
-- events/manifestations: see the source entries above and the orientation-specific activation pages linked below.
-- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
 
 ## Related Activations
 
@@ -88,14 +76,11 @@ The opening up to deeper and more expanded realizations of the meaning and purpo
 - [Sun/Chiron = Uranus](../activations/sun-chiron-equals-uranus.md)
 - [Sun/Chiron = Venus](../activations/sun-chiron-equals-venus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices and framework emphases rather than flattened into one interpretation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- This axis centers on letting go of lesser concerns, focusing on deeper spiritual importance, and recognizing personal worth through meaning rather than outer measures.
+- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
 
 ## Links
 

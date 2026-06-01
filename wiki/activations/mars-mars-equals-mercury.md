@@ -29,30 +29,15 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Mars + Mars`
-- Source page: `190`
 #### Witte Entry
 
 Energetic thought. Hasty and energetic reaction. Malice. Quarrelsome thoughts and debates. Critics. Criticism. To excite oneself mentally. Argument. Activity of the mind. Power of thought. Clear, sharp thinking. Disputes.
 
-## Comparative Schema
-
-- core meaning: Energetic thought. Hasty and energetic reaction. Malice. Quarrelsome thoughts and debates. Critics. Criticism. To excite oneself mentally. Argument. Activity of the mind. Power of thought. Clear, sharp thinking. Disputes.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Mars/Mars = Mercury` makes thinking sharp, active, quarrelsome, and mentally forceful.
+- Chart expression: argument, criticism, malice, quick reaction, disputes, and energetic thought processes that cut, provoke, decide, and mobilize the mind.
 
 ## Links
 

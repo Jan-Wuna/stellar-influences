@@ -3,7 +3,7 @@ title: Sun Cupido Apollon
 page_type: triad_hub
 slug: sun-cupido-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Cupido Apollon`
 - Astronomicon triad-set: `S ¡ ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Apollon = Sun](../activations/cupido-apollon-equals-sun.md)
-  Source page `270`
 - [Sun/Apollon = Cupido](../activations/sun-apollon-equals-cupido.md)
-  Source page `115`
 - [Sun/Cupido = Apollon](../activations/sun-cupido-equals-apollon.md)
-  Source page `111`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Apollon = Sun`: page `270`
-- `Sun/Apollon = Cupido`: page `115`
-- `Sun/Cupido = Apollon`: page `111`
+- `Cupido/Apollon = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `270`
+- `Cupido/Apollon = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `430`
+- `Sun/Apollon = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `115`
+- `Sun/Apollon = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `167`
+- `Sun/Cupido = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `111`
+- `Sun/Cupido = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `159`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Apollon = Sun`: being part of a great family or widespread community and becoming known as an artist or scientist.
+- `Sun/Apollon = Cupido`: This formula emphasizes successful in associations or organizations and popular.
+- `Sun/Cupido = Apollon`: This formula emphasizes successful with an artist or in art and artist.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Cupido](../factors/cupido.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

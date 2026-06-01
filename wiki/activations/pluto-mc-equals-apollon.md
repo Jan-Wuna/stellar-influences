@@ -3,10 +3,10 @@ title: Pluto/MC = Apollon
 page_type: activation
 slug: pluto-mc-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Pluto
+  - MC
   - Apollon
 normalized_formula: Pluto/MC = Apollon
 axis: Pluto/MC
@@ -15,10 +15,12 @@ triad_set:
   - Pluto
   - MC
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Pluto`
-- Source page: `69`
 #### Witte Entry
 
 Free, uninhibited mental development. Ones own development in professions of trading or sciences.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Free, uninhibited mental development. Ones own development in professions of trading or sciences.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+My development in trade, my successful development, my knowledge development, my knowledge of transformation, soul growth experience, psychic freedom develop, knowledge of the soul develop, and increasing psychic change
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Pluto/MC = Apollon`: personal development widens; Growth opens a broader path or sphere of activity.
+- Practical expression: my development in trade, my successful development, my knowledge development, my knowledge of transformation, and soul growth experience.
 
 ## Links
 
@@ -61,3 +56,5 @@ Free, uninhibited mental development. Ones own development in professions of tra
 - [MC](../factors/mc.md)
 - [Apollon](../factors/apollon.md)
 - [Pluto/MC](../axes/pluto-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

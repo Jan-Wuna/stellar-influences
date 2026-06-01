@@ -3,7 +3,7 @@ title: Moon/Uranus = Admetos
 page_type: activation
 slug: moon-uranus-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Moon
   - Uranus
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Uranus
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Moon + Uranus`
-- Source page: `127`
 #### Witte Entry
 
 Small events. Excitement in a little circle. Small revolts (revolutions), nipped in the bud. Squelching or localizing bigger revolts.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Small events. Excitement in a little circle. Small revolts (revolutions), nipped in the bud. Squelching or localizing bigger revolts.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Blocked dynamics of a woman, eventful hour in traffic jams, excited resistance of a woman, new depressions of a woman, sudden restriction of the GemOt, tensions in an under ridden people, and under dripped Impulse
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Uranus = Admetos`: Small events. Excitement in a little circle. Small revolts (revolutions), nipped in the bud. Squelching or localizing bigger revolts.
+- Practical focus: constricts `Moon/Uranus` into localized disturbance, small-circle upheaval, and revolt contained before it fully grows. It points to emotional or public agitation that is real but compressed, limited, or quickly shut down.
+- Practical expression: blocked dynamics of a woman, eventful hour in traffic jams, excited resistance of a woman, new depressions of a woman, and sudden restriction of the GemOt.
 
 ## Links
 
@@ -61,3 +57,5 @@ Small events. Excitement in a little circle. Small revolts (revolutions), nipped
 - [Uranus](../factors/uranus.md)
 - [Admetos](../factors/admetos.md)
 - [Moon/Uranus](../axes/moon-uranus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

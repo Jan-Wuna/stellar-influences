@@ -3,7 +3,7 @@ title: Saturn MC Apollon
 page_type: triad_hub
 slug: saturn-mc-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - MC
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn MC Apollon`
 - Astronomicon triad-set: `W MC ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Apollon = Saturn](../activations/mc-apollon-equals-saturn.md)
-  Source page `74`
 - [Saturn/Apollon = MC](../activations/saturn-apollon-equals-mc.md)
-  Source page `228`
 - [Saturn/MC = Apollon](../activations/saturn-mc-equals-apollon.md)
-  Source page `66`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Apollon = Saturn`: page `74`
-- `Saturn/Apollon = MC`: page `228`
-- `Saturn/MC = Apollon`: page `66`
+- `MC/Apollon = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `74`
+- `MC/Apollon = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `93`
+- `Saturn/Apollon = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `228`
+- `Saturn/Apollon = MC`: Udo Rudolph - ABC for Planetary Pictures, page `362`
+- `Saturn/MC = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `66`
+- `Saturn/MC = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `77`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Apollon = Saturn`: disciplines the axis through method, education, and structured learning.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [MC](../factors/mc.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Pluto Hades Zeus
 page_type: triad_hub
 slug: pluto-hades-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Pluto
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Pluto Hades Zeus`
 - Astronomicon triad-set: `Z ¢ £`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Hades/Zeus = Pluto](../activations/hades-zeus-equals-pluto.md)
-  Source page `278`
 - [Pluto/Hades = Zeus](../activations/pluto-hades-equals-zeus.md)
-  Source page `258`
 - [Pluto/Zeus = Hades](../activations/pluto-zeus-equals-hades.md)
-  Source page `259`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Hades/Zeus = Pluto`: page `278`
-- `Pluto/Hades = Zeus`: page `258`
-- `Pluto/Zeus = Hades`: page `259`
+- `Hades/Zeus = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `278`
+- `Hades/Zeus = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `439`
+- `Pluto/Hades = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `258`
+- `Pluto/Hades = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `411`
+- `Pluto/Zeus = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `259`
+- `Pluto/Zeus = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `413`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Hades/Zeus = Pluto`: reduction or resumption of duties, growth of idleness and vice, smouldering or growing fire, and either neutralizing or increasing hate.
+- `Pluto/Hades = Zeus`: This activation emphasizes increased effort under bad conditions; Duty distorted by worsening circumstances.
+- `Pluto/Zeus = Hades`: This activation emphasizes to apply in vain for an employment; To be condemned to inactivity; Bad housekeeping or opponent of military service.
 
 ## Links
 
 - [Pluto](../factors/pluto.md)
 - [Hades](../factors/hades.md)
 - [Zeus](../factors/zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

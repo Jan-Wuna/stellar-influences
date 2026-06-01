@@ -3,10 +3,10 @@ title: Jupiter/MC = Cupido
 page_type: activation
 slug: jupiter-mc-equals-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Jupiter
+  - MC
   - Cupido
 normalized_formula: Jupiter/MC = Cupido
 axis: Jupiter/MC
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - MC
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Jupiter`
-- Source page: `65`
 #### Witte Entry
 
 A pleasant feeling in society. Contented with married life. Luck through art.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: A pleasant feeling in society. Contented with married life. Luck through art.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Success Minute of a community, shared soul joy, happiness of an animated community, my successful community, all my joy, all my money, my artistic success, and my right in the community
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/MC = Cupido`: public growth being supported by family harmony, artistic circles, and satisfying companionship. It favors success that feels socially warm rather than solitary.
 
 ## Links
 
@@ -61,3 +55,5 @@ A pleasant feeling in society. Contented with married life. Luck through art.
 - [MC](../factors/mc.md)
 - [Cupido](../factors/cupido.md)
 - [Jupiter/MC](../axes/jupiter-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

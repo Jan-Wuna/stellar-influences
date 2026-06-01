@@ -33,30 +33,15 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Neptune/Midheaven midpoint`
-- Source page: `113`
-- Activator: `Chiron`
-
 #### Sandbach Entry
 
 Your energy naturally and spontaneously helps others to be more intuitive about what they need for their own spiritual development, and to perceive at subtler levels their spiritual place in the world.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/MC = Chiron`: Your energy naturally and spontaneously helps others to be more intuitive about what they need for their own spiritual development, and to perceive at subtler levels their spiritual place in the world.
+- Practical focus: porous vocation and identity becomes a healing influence, helping others sense subtler levels of spiritual purpose and orient themselves more intuitively within the world.
 
 ## Links
 

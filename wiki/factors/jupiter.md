@@ -10,16 +10,18 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Factor: Jupiter
 - Astronomicon token: `V`
-- Canonical page type: comparative factor page grounded in standalone source chapters.
+- Canonical page type: comparative factor page grounded in standalone source entries.
 
 ## Source Entries
 
@@ -29,10 +31,13 @@ updated_at: 2026-04-22
 
 Gaiety. Contentment. Happiness. Good luck. Money. Success. Satisfaction. Beneficial influences. Justice. Plenty. Expansion, abundance, goodwill, kindness.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Jupiter`
-- Source page: `57`
+#### ABC Keyword Entry
+
+G lilck, Success, Advantage, Joy, Satisfaction, GOOD, Money, Finance, Law, and Speed
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -56,9 +61,6 @@ Officials, civil servants, judiciary, ecclesiastical and bank representatives. W
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Jupiter`
-- Source page: `74`
-
 #### Hand Factor Entry
 
 Tradition regards Jupiter as the planet that most signifies success and achievement, good luck, and every conceivable benefit that life can
@@ -69,23 +71,98 @@ people to reincorporate as much of the external world as possible into themselve
 
 experience. Breadth of experience prevents this person from taking narrow-minded positions based on short-term goals at the expense of long-range objectives. Knowing that the selfs own interests are best furthered by farthering those of the greater world of which one is a part and of which one has seen and experienced so much, such a person usually has a strong sense of social consciousness. The other type of Jupiterian personality manifests the lunar side of Jupiter and cannot let go of what is seen and experienced. This person tries to own everything and to become more important than anyone, more grand and more arrogant. This type is never satisfied with anything gotten in life and is always on the move. What is the difference between these two types? I believe it lies in other energies that have to do with the security of the ego. Both types are restless and always on the move, but one is never happy and the other usually is. There is alwaj^s a limit to growth, and that limit is imposed by two factors. One is that eveiy entity has a certain built-in capacity for growth, and when that capacity is exceeded, growth stops. The other factor is that the external world can only support so much growth. There is a limit, for example, to food and resources. Room is also needed for growth because no one entity can grow beyond a certain point without trespassing upon others' rights. Whatever the source, the limit is imposed by the energy of
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native factor entries are preserved side by side above.
-- psychology: source-specific psychological and doctrinal emphases remain attached to their own source blocks instead of being flattened.
-- body/health: bodily wording remains inside each contributing source block when present.
-- social/relationship: interpersonal implications remain attached to each source's own phrasing.
-- events/manifestations: sign-position or chapter-level extensions remain attached to the source entry that states them.
-- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
+#### Basic Ideas
 
-## Contradictions and Framework Notes
+- Abundance
+- Additions
+- Advice
+- Amplification
+- Assumptions
+- Attainment
+- Beliefs
+- Benefit
+- Candor
+- Cheerfulness
+- Compliance
+- Confidence
+- Counsel
+- Doctrine
+- Ease
+- Elaboration
+- Encouragement
+- Enhancement
+- Ethics
+- Expectations
+- Extensions
+- Generosity
+- Judgment
+- Luck
+- Opinion
+- Optimism
+- Persuasion
+- Philosophy
+- Propositions
+- Rewards
+- Sincerity
+- Success
+- Supplements
+- Theory
+- Understanding
+- Wisdom
 
-- Source differences on this factor page are preserved as framework emphasis rather than forced contradiction.
-- This page keeps the contributing source chapters side by side instead of treating one as a gloss on the other.
+#### In Your Relationships
 
+- Activities Together
+- Benefits
+- Dancing
+- Good Feelings
+- Socializing
+- Sports
+
+#### With Body or Mind
+
+- Acid Accumulations
+- Buttocks
+- Carbohydrate Processes
+- Cholesterol
+- Expansion
+- Glandular Systems
+- Hips
+- Jaundice
+- Lecithin
+- Liver
+- Overeating
+- Sciatica
+
+#### In Politics or Business
+
+- Churches
+- Clergy
+- Democrats
+- Expansion
+- Foreign, Anything
+- Foreigners
+- Increase
+- Integration
+- Justice
+- Laws
+- Lawyers
+- Legal Systems
+- Overviews
+- Publishing
+- Religion
+- Religious Leaders
+- Sky, The
+- Well Being, Sense of
+
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter` is the factor of luck, success, advantage, joy, confidence, law, finance, and the urge to enlarge life through growth, integration, and beneficence.
+- Chart expression: opportunity, protection, prosperity, satisfaction, optimism, justice, education, moral aspiration, and timely increase or acceleration.
+- Its liabilities are excess, arrogance, waste, moral inflation, craving for pleasure, and growth that outruns realism, proportion, or discipline.
 
 ## Related Axes
 
@@ -113,17 +190,10 @@ experience. Breadth of experience prevents this person from taking narrow-minded
 - [Venus/Jupiter](../axes/venus-jupiter.md)
 - [Vernal Point/Jupiter](../axes/vernal-point-jupiter.md)
 
-## Related Activations
-
-- Generated activation pages involving `Jupiter`: `729`.
-- Browse [Index](../index.md) or the `wiki/activations/` folder for the full set.
-
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
-
-## Open Questions
-
-- None recorded yet.
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

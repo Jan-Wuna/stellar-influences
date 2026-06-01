@@ -3,7 +3,7 @@ title: Saturn/Zeus = Venus
 page_type: activation
 slug: saturn-zeus-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Saturn
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Zeus`
-- Source page: `226`
 #### Witte Entry
 
 Obstacles in activities caused by love. Devoted activities with temporary interruptions. Forsaken after having been used sexually.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Obstacles in activities caused by love. Devoted activities with temporary interruptions. Forsaken after having been used sexually.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Initial difficulties in love, joy through creativity in old age, peace goals in old age, strenuous harmony, problematic wishes F Uhnder, performance problems in love, and loss of love fire
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Zeus = Venus`: obstacles in activities caused by love, devoted activities with temporary interruptions.
+- Practical expression: initial difficulties in love, oy through creativity in old age, peace goals in old age, strenuous harmony, and problematic wishes F Uhnder.
 
 ## Links
 
@@ -61,3 +56,5 @@ Obstacles in activities caused by love. Devoted activities with temporary interr
 - [Zeus](../factors/zeus.md)
 - [Venus](../factors/venus.md)
 - [Saturn/Zeus](../axes/saturn-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

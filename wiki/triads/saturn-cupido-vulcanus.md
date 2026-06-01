@@ -3,7 +3,7 @@ title: Saturn Cupido Vulcanus
 page_type: triad_hub
 slug: saturn-cupido-vulcanus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Cupido
@@ -19,38 +19,39 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Cupido Vulcanus`
 - Astronomicon triad-set: `W ¡ §`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Cupido/Vulcanus = Saturn](../activations/cupido-vulcanus-equals-saturn.md)
-  Source page `273`
 - [Saturn/Cupido = Vulcanus](../activations/saturn-cupido-equals-vulcanus.md)
-  Source page `224`
 - [Saturn/Vulcanus = Cupido](../activations/saturn-vulcanus-equals-cupido.md)
-  Source page `230`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Cupido/Vulcanus = Saturn`: page `273`
-- `Saturn/Cupido = Vulcanus`: page `224`
-- `Saturn/Vulcanus = Cupido`: page `230`
+- `Cupido/Vulcanus = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `273`
+- `Cupido/Vulcanus = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `435`
+- `Saturn/Cupido = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `224`
+- `Saturn/Cupido = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `355`
+- `Saturn/Vulcanus = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `230`
+- `Saturn/Vulcanus = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `367`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Cupido/Vulcanus = Saturn`: obstacles from a mighty society, interruption of artistic work, and great projects that ripen slowly under heavy hindrance.
 
 ## Links
 
 - [Saturn](../factors/saturn.md)
 - [Cupido](../factors/cupido.md)
 - [Vulcanus](../factors/vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

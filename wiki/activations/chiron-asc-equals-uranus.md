@@ -33,30 +33,14 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Chiron/Ascendant midpoint`
-- Source page: `101`
-- Activator: `Uranus`
-
 #### Sandbach Entry
 
 An experimental approach to allowing spiritual forces to work through one’s identity. This may manifest as role playing, acting, and the putting on and taking off of identities at will. A highly independent and even inspired way of expressing spiritual realities.
 
-## Comparative Schema
-
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
-
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Chiron/Asc = Uranus`: unconventional healing of identity, creative experimentation, and the ability to wear and remove identities more freely. Main caution: instability or constant reinvention without deeper integration.
 
 ## Links
 

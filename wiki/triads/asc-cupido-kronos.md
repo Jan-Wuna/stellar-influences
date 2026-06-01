@@ -3,7 +3,7 @@ title: Asc Cupido Kronos
 page_type: triad_hub
 slug: asc-cupido-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Cupido
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Asc Cupido Kronos`
 - Astronomicon triad-set: `Asc ¡ ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Cupido = Kronos](../activations/asc-cupido-equals-kronos.md)
-  Source page `91`
 - [Asc/Kronos = Cupido](../activations/asc-kronos-equals-cupido.md)
-  Source page `94`
 - [Cupido/Kronos = Asc](../activations/cupido-kronos-equals-asc.md)
-  Source page `269`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Cupido = Kronos`: page `91`
-- `Asc/Kronos = Cupido`: page `94`
-- `Cupido/Kronos = Asc`: page `269`
+- `Asc/Cupido = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `91`
+- `Asc/Cupido = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `123`
+- `Asc/Kronos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `94`
+- `Asc/Kronos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `129`
+- `Cupido/Kronos = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `269`
+- `Cupido/Kronos = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `428`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Cupido = Kronos`: official union, socially sanctioned belonging, and living arrangements shaped by authority or grandeur.
+- `Asc/Kronos = Cupido`: institutional membership, formal community roles, and domestic or artistic work shaped by law or hierarchy.
+- `Cupido/Kronos = Asc`: meeting distinguished persons, connecting with great artists, and taking part in weddings or formal social ceremonies.
 
 ## Links
 
 - [Asc](../factors/asc.md)
 - [Cupido](../factors/cupido.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

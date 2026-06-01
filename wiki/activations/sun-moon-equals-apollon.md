@@ -3,7 +3,7 @@ title: Sun/Moon = Apollon
 page_type: activation
 slug: sun-moon-equals-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Moon
@@ -15,10 +15,12 @@ triad_set:
   - Sun
   - Moon
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Moon`
-- Source page: `101`
 #### Witte Entry
 
 To be successful daily and hourly. To collect many differing experiences. A time for success. Day of glory for a people.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be successful daily and hourly. To collect many differing experiences. A time for success. Day of glory for a people.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Extension of the feelings of the man, experience of the woman with the man, experience of the man with the woman, success between the woman and the man, personal freedom of the woman, many people of a people, and increasing life of the man
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Moon = Apollon`: success in ordinary life and broad popularity.
+- Practical expression: extension of the feelings of the man, experience of the woman with the man, experience of the man with the woman, success between the woman, and the man.
 
 ## Links
 
@@ -61,3 +56,5 @@ To be successful daily and hourly. To collect many differing experiences. A time
 - [Moon](../factors/moon.md)
 - [Apollon](../factors/apollon.md)
 - [Sun/Moon](../axes/sun-moon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

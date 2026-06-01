@@ -3,7 +3,7 @@ title: Saturn/Hades = Jupiter
 page_type: activation
 slug: saturn-hades-equals-jupiter
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Jupiter
   - Saturn
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Hades`
-- Source page: `225`
 #### Witte Entry
 
 Liver troubles. Tuberculosis of the lungs. Shortage of money. Severe money losses. Losses of material or other property. Destruction of valuables through enemies.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Liver troubles. Tuberculosis of the lungs. Shortage of money. Severe money losses. Losses of material or other property. Destruction of valuables through enemies.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Burdening financial crime, joy over dangerous tasks, money losses due to criminality, profit and loss from the past (Karma), grief due to money losses, problematic legal disadvantages, and advantage due to secret tasks
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Hades = Jupiter`: liver troubles, tuberculosis of the lungs, shortage of money.
+- Practical expression: burdening financial crime, money losses due to criminality, profit, and loss from the past (Karma).
 
 ## Links
 
@@ -61,3 +56,5 @@ Liver troubles. Tuberculosis of the lungs. Shortage of money. Severe money losse
 - [Hades](../factors/hades.md)
 - [Jupiter](../factors/jupiter.md)
 - [Saturn/Hades](../axes/saturn-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

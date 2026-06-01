@@ -3,10 +3,10 @@ title: Moon/Asc = Poseidon
 page_type: activation
 slug: moon-asc-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Moon
+  - Asc
   - Poseidon
 normalized_formula: Moon/Asc = Poseidon
 axis: Moon/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Asc
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Moon`
-- Source page: `81`
 #### Witte Entry
 
 Communication with high-minded women. Under influence of the higher and finer qualities of the mind. To appear spiritualized in public.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Communication with high-minded women. Under influence of the higher and finer qualities of the mind. To appear spiritualized in public.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Insight of other women, knowledgeable woman as a partner, filtered insightful partner, spirit of other women, clarity in the environment of the mother, culture of other people, cultural environment of women, hour of knowledge in the place, and truths of other peoples
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Moon/Asc = Poseidon`: Communication with high-minded women. Under influence of the higher and finer qualities of the mind. To appear spiritualized in public.
+- Practical focus: spiritualizes `Moon/Asc` and makes emotional presence seem refined, thoughtful, or idealized. It often points to contact with high-minded women, receptivity to subtler mental influences, and a public manner shaped by conscience, inspiration, or elevated sensibility.
+- Practical expression: insight of other women, knowledgeable woman as a partner, filtered insightful partner, spirit of other women, and clarity in the environment of the mother.
 
 ## Links
 
@@ -61,3 +57,5 @@ Communication with high-minded women. Under influence of the higher and finer qu
 - [Asc](../factors/asc.md)
 - [Poseidon](../factors/poseidon.md)
 - [Moon/Asc](../axes/moon-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

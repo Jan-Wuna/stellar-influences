@@ -3,10 +3,10 @@ title: Neptune/Node = Admetos
 page_type: activation
 slug: neptune-node-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Node
   - Neptune
+  - Node
   - Admetos
 normalized_formula: Neptune/Node = Admetos
 axis: Neptune/Node
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Node
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Node + Neptune`
-- Source page: `147`
 #### Witte Entry
 
 Connecdons or ties that cool off completely. Slow but definite breaking up of connections or unions.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Connecdons or ties that cool off completely. Slow but definite breaking up of connections or unions.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Perseverance of a community in the air, blocked air connection, limiting weakness in a relationship, ending an insecure connection, solid connection to the water, strengthening of an unclear relationship, and deepening of a connection by fine chair
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Node = Admetos`: Connecdons or ties that cool off completely. Slow but definite breaking up of connections or unions.
+- Practical focus: cools uncertain or porous ties into a slow, definite ending, showing relationships and unions that withdraw gradually until separation becomes irreversible.
+- Practical expression: perseverance of a community in the air, blocked air connection, limiting weakness in a relationship, ending an insecure connection, and solid connection to the water.
 
 ## Links
 
@@ -61,3 +57,5 @@ Connecdons or ties that cool off completely. Slow but definite breaking up of co
 - [Node](../factors/node.md)
 - [Admetos](../factors/admetos.md)
 - [Neptune/Node](../axes/neptune-node.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

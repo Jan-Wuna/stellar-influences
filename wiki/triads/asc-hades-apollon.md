@@ -3,7 +3,7 @@ title: Asc Hades Apollon
 page_type: triad_hub
 slug: asc-hades-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Asc
   - Hades
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Asc Hades Apollon`
 - Astronomicon triad-set: `Asc ¢ ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Apollon = Hades](../activations/asc-apollon-equals-hades.md)
-  Source page `95`
 - [Asc/Hades = Apollon](../activations/asc-hades-equals-apollon.md)
-  Source page `92`
 - [Hades/Apollon = Asc](../activations/hades-apollon-equals-asc.md)
-  Source page `280`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Apollon = Hades`: page `95`
-- `Asc/Hades = Apollon`: page `92`
-- `Hades/Apollon = Asc`: page `280`
+- `Asc/Apollon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `95`
+- `Asc/Apollon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `131`
+- `Asc/Hades = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `92`
+- `Asc/Hades = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `125`
+- `Hades/Apollon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `280`
+- `Hades/Apollon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `442`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Apollon = Hades`: bad customers, degraded business, and contact with old, tainted, or difficult material through trade.
+- `Asc/Hades = Apollon`: poverty or nuisance spreading through a broader network, including contact with poor clients, beggars, or old and obscure fields of knowledge.
+- `Hades/Apollon = Asc`: poverty-stricken others, mass misery in one's surroundings, and the environment pressing old or ugly past burdens into awareness.
 
 ## Links
 
 - [Asc](../factors/asc.md)
 - [Hades](../factors/hades.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

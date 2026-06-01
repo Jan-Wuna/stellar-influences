@@ -26,7 +26,6 @@ updated_at: 2026-04-21
 
 - Triad-set: `Mars Chiron Asc`
 - Astronomicon triad-set: `U Chiron Asc`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,10 +39,12 @@ updated_at: 2026-04-21
 - `Mars/Asc = Chiron`: John, page `75`
 - `Mars/Chiron = Asc`: John, page `69`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Chiron/Asc = Mars`: identity wounds showing up in action, initiative, and effectiveness. Main caution: acting from defended self-concept instead of from inner alignment.
+- `Mars/Asc = Chiron` makes the Mars/Asc axis catalytic for identity repair: direct energy and forceful presence help others confront what is damaging in the self and move toward more constructive expression.
+- `Mars/Chiron = Asc`: catalytic presence, healing through contact, and a style that wakes others up to deal with life more directly. The caution is coming on too strongly or assuming everyone can handle that level of activation.
 
 ## Links
 

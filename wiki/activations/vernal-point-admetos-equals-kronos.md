@@ -3,7 +3,7 @@ title: Vernal Point/Admetos = Kronos
 page_type: activation
 slug: vernal-point-admetos-equals-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Admetos
@@ -15,10 +15,12 @@ triad_set:
   - Vernal Point
   - Kronos
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Vernal Point + Admetos`
-- Source page: `53`
 #### Witte Entry
 
 Great cracking, dividing, splitting. An authority for a few people. Deaths or difficulties under ruling persons. Lowness, low ground or a valley.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Great cracking, dividing, splitting. An authority for a few people. Deaths or difficulties under ruling persons. Lowness, low ground or a valley.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Limitation of the public Self governance, public understated by the state, established public image Life, general public Authority, public resistance to the state, and important public restrictions Life
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Admetos = Kronos`: great cracking, dividing, splitting, an authority for a few people, deaths or difficulties under ruling persons, and lowness, low ground or a valley.
+- Practical expression: limitation of the public Self governance, public understated by the state, established public image Life, general public Authority, and public resistance to the state.
 
 ## Links
 
@@ -61,3 +56,5 @@ Great cracking, dividing, splitting. An authority for a few people. Deaths or di
 - [Admetos](../factors/admetos.md)
 - [Kronos](../factors/kronos.md)
 - [Vernal Point/Admetos](../axes/vernal-point-admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

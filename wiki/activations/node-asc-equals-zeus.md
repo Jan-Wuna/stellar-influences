@@ -3,10 +3,10 @@ title: Node/Asc = Zeus
 page_type: activation
 slug: node-asc-equals-zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Node
+  - Asc
   - Zeus
 normalized_formula: Node/Asc = Zeus
 axis: Node/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Node
   - Asc
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Node`
-- Source page: `82`
 #### Witte Entry
 
 Known persons get excited, they deal with or work with fire. Working with others. Connections with creative persons.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Known persons get excited, they deal with or work with fire. Working with others. Connections with creative persons.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Others lead in a connection, encounter with fire in the environment, beginning of a partner relationship, fiery connection to the other, creative relationships in the environment, procreation connection with the partner, and determined partner in a connection
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/Asc = Zeus`: Known persons get excited, they deal with or work with fire. Working with others. Connections with creative persons.
+- Practical focus: known persons get excited, they deal with or work with fire; also working with others.
 
 ## Links
 
@@ -61,3 +56,5 @@ Known persons get excited, they deal with or work with fire. Working with others
 - [Asc](../factors/asc.md)
 - [Zeus](../factors/zeus.md)
 - [Node/Asc](../axes/node-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

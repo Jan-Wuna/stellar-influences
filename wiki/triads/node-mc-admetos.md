@@ -3,7 +3,7 @@ title: Node MC Admetos
 page_type: triad_hub
 slug: node-mc-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Node
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Node MC Admetos`
 - Astronomicon triad-set: `g MC ¦`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Admetos = Node](../activations/mc-admetos-equals-node.md)
-  Source page `75`
 - [Node/Admetos = MC](../activations/node-admetos-equals-mc.md)
-  Source page `154`
 - [Node/MC = Admetos](../activations/node-mc-equals-admetos.md)
-  Source page `61`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Admetos = Node`: page `75`
-- `Node/Admetos = MC`: page `154`
-- `Node/MC = Admetos`: page `61`
+- `MC/Admetos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `75`
+- `MC/Admetos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `94`
+- `Node/Admetos = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `154`
+- `Node/Admetos = MC`: Udo Rudolph - ABC for Planetary Pictures, page `234`
+- `Node/MC = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `61`
+- `Node/MC = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `67`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Admetos = Node`: joins the axis to stable, reliable people and lasting ties.
+- `Node/Admetos = MC`: To feel attracted by oppressed people. Connections with lonely types of people who are avoided or who are ill reputed. To retain only a few connections. Connections which are separated through death. To feel in bonds or to long for freedom. Fetters.
+- `Node/MC = Admetos`: Difficulty to get connections. Sterile relationships. Feeling trapped in connections.
 
 ## Links
 
 - [Node](../factors/node.md)
 - [MC](../factors/mc.md)
 - [Admetos](../factors/admetos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

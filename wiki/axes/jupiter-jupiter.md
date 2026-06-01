@@ -45,8 +45,6 @@ updated_at: 2026-04-21
 
 - Axis: `Jupiter/Jupiter`
 - Astronomicon axis: `V/V`
-- Source heading: `Jupiter + Jupiter`
-- Source page: `205`
 
 ## Source Entries
 
@@ -55,15 +53,6 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 Gaiety. Contentment. Happiness. Good luck. Money. Success. Satisfaction. Beneficial influences. Justice. Plenty. Expansion, abundance, goodwill, kindness.
-
-## Comparative Schema
-
-- core meaning: Gaiety. Contentment. Happiness. Good luck. Money. Success. Satisfaction. Beneficial influences. Justice. Plenty. Expansion, abundance, goodwill, kindness.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
@@ -89,13 +78,11 @@ Gaiety. Contentment. Happiness. Good luck. Money. Success. Satisfaction. Benefic
 - [Jupiter/Jupiter = Vulcanus](../activations/jupiter-jupiter-equals-vulcanus.md)
 - [Jupiter/Jupiter = Poseidon](../activations/jupiter-jupiter-equals-poseidon.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Jupiter/Jupiter`: pure benefic abundance: contentment, success, satisfaction, plenty, beneficial influences, kindness, and confidence that life can grow in a fortunate direction.
+- Chart expression: prosperity operating without mixture from a second planet. It favors optimism, generosity, wellbeing, enrichment, and trust in increase, while also amplifying Jupiter's tendency toward excess, easy confidence, or inflation when growth is not balanced by restraint.
 
 ## Links
 

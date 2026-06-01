@@ -10,16 +10,18 @@ aliases:
   - Lunar Nodes
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Factor: Node
 - Astronomicon token: `g`
-- Canonical page type: comparative factor page grounded in standalone source chapters.
+- Canonical page type: comparative factor page grounded in standalone source entries.
 
 ## Source Entries
 
@@ -29,10 +31,13 @@ updated_at: 2026-04-22
 
 Union. Connections. Junction. Relationships. Contacts. Establishing relations. The common link. A node. Network. Limit, boundary or border relations.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `The Dragon's Head`
-- Source page: `69`
+#### ABC Keyword Entry
+
+Encounters, relationships, ties, connections, veins, communication, meetings, and contacts
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -67,9 +72,6 @@ Meetings, alliances, societies, contacts, blood ties, kindred and related people
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `The Lunar Nodes`
-- Source page: `105`
-
 #### Hand Factor Entry
 
 The lunar nodes are those degrees in the zodiac where the plane of the Moon's orbit crosses the plane of the ecliptic. As with the Ascendant-Descendant, Midheaven-I.C., and Vertex-Anti vertex, the nodes are two ends of an axis 180° apart. The North Node (also called the Dragon's Head or Caput Draconis) is the point at which the Moon crosses the ecliptic heading north, and the South Node (the
@@ -78,23 +80,104 @@ Dragon's Tail or Cauda Draconis), the point where the Moon crosses the ecliptic 
 
 something of the quality of the Sun/Moon midpoint. I have noticed that when the nodes are heightened in the chart there is a greater tendency to go and meet people. I also find that when two people have important connections between major factors in one chart with the North Node in another, the relationship is more constructive than if the connection is with the South Node. I have not been able to validate other ideas about what the nodes mean. The fact that astrologers disagree about them suggests that the nodes are less powerful than factors about which there is more unanimity. But I do not at this time advocate ignoring the nodes. Until recently, astrologers used the mean lunar nodes, which travel backward in the zodiac at a uniform rate. Then in 1975 Digicomp Research Corporation published an ephemeris entitled True Lunar Nodes 1850-2000. This was based on the fact that while the Moon's orbital plane gradually revolves backward in the zodiac, it also wobbles so that the actual lines of intersection move back and forth over the short run. Consequent^, there is disagreement about how to locate the nodes because the mean position differs from the wobbling position by up to at any give time. The American Ephemeris gives positions of both the mean and wobbling nodes. The wobbling nodes are no more "true" than the mean nodes, as they are in their own way just as abstract a concept. They should not be used until research has indicated which, if either, of the two sets of nodes is more valid. The final word has yet to be said, but at this time I am more inclined to use the conventional mean nodes.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native factor entries are preserved side by side above.
-- psychology: source-specific psychological and doctrinal emphases remain attached to their own source blocks instead of being flattened.
-- body/health: bodily wording remains inside each contributing source block when present.
-- social/relationship: interpersonal implications remain attached to each source's own phrasing.
-- events/manifestations: sign-position or chapter-level extensions remain attached to the source entry that states them.
-- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
+#### Basic Ideas
 
-## Contradictions and Framework Notes
+- Acquaintances
+- Acquisitions
+- Affiliations
+- Alliances
+- Annulment
+- Appointments
+- Apportionment
+- Assemblies
+- Associations
+- Cooperation
+- Criticism
+- Discovery
+- Divisions
+- Events
+- Evolution
+- Exchanges
+- Familiarity
+- Fate
+- Group Connections
+- Habit Patterns
+- Interchanges
+- Kinship
+- Life's Aim
+- Meetings
+- Obligations
+- Opportunities
+- Relinquishing
+- Sequences
+- Shows
+- Sources
 
-- Source differences on this factor page are preserved as framework emphasis rather than forced contradiction.
-- This page keeps the contributing source chapters side by side instead of treating one as a gloss on the other.
+#### In Your Relationships
 
+- Attachment
+- Attraction
+- Bonding
+- Connections
+- Divorce
+- Familiarity
+- Finding Others
+- Groupings
+- Karmic Links
+- Marriage
+- Meeting Others
+- Partnerships
+- Relationships
+- Seeking Others
+- Ties to Another
+
+#### With Body or Mind
+
+- Air Passages
+- Arterial Walls
+- Attachments, Any
+- Conduits
+- Diseases, Karmic
+- Ducts, Saliva
+- Ducts, Tear
+- Habit Patterns
+- Intestinal Walls
+- Tubes, Attached
+- Tubes, Internal
+- Vein Walls
+
+#### In Politics or Business
+
+- Allies
+- Backers
+- Bureaucracy
+- Conferences
+- Conventions
+- Demonstrations
+- Episodes
+- Federations
+- Interviews
+- Joint Ventures
+- Kinship
+- Layoffs
+- Meetings
+- Mergers
+- Passageways
+- Pathways
+- Publicity
+- Relatives
+- Supporters
+- Treaties
+- Walls
+
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node` is the factor of encounters, relationships, ties, connections, communication, meetings, and the channels through which lives intersect.
+- Chart expression: association, alliance, networks, cooperation, unions, teamwork, group belonging, blood ties, social participation, and the bonds that make individual life part of a wider relational field.
+- Its liabilities are dependence on belonging, shallow or incompatible association, social friction, conformity, entanglement, and the loss of clear individual direction inside group expectation or borrowed purpose.
 
 ## Related Axes
 
@@ -122,17 +205,10 @@ something of the quality of the Sun/Moon midpoint. I have noticed that when the 
 - [Venus/Node](../axes/venus-node.md)
 - [Vernal Point/Node](../axes/vernal-point-node.md)
 
-## Related Activations
-
-- Generated activation pages involving `Node`: `729`.
-- Browse [Index](../index.md) or the `wiki/activations/` folder for the full set.
-
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
-
-## Open Questions
-
-- None recorded yet.
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

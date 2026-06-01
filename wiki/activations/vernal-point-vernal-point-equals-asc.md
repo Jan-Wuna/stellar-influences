@@ -29,30 +29,14 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
-### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
-
-- Source heading: `Vernal Point + Vernal Point`
-- Source page: `33`
 #### Witte Entry
 
 Meetings. Places. Locations. Acquaintances. The relationship of the location to the wider environment. The surroundings in relation to the world public. The terrestrial influences on a location.
 
-## Comparative Schema
-
-- core meaning: Meetings. Places. Locations. Acquaintances. The relationship of the location to the wider environment. The surroundings in relation to the world public. The terrestrial influences on a location.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
-
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Vernal Point/Vernal Point = Asc`: meetings, places, locations, acquaintances, and the relationship of the location to the wider environment.
 
 ## Links
 

@@ -3,7 +3,7 @@ title: Venus Asc Apollon
 page_type: triad_hub
 slug: venus-asc-apollon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Venus
   - Asc
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Venus Asc Apollon`
 - Astronomicon triad-set: `Q Asc ¥`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Asc/Apollon = Venus](../activations/asc-apollon-equals-venus.md)
-  Source page `95`
 - [Venus/Apollon = Asc](../activations/venus-apollon-equals-asc.md)
-  Source page `186`
 - [Venus/Asc = Apollon](../activations/venus-asc-equals-apollon.md)
-  Source page `84`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Asc/Apollon = Venus`: page `95`
-- `Venus/Apollon = Asc`: page `186`
-- `Venus/Asc = Apollon`: page `84`
+- `Asc/Apollon = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `95`
+- `Asc/Apollon = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `130`
+- `Venus/Apollon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `186`
+- `Venus/Apollon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `290`
+- `Venus/Asc = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `84`
+- `Venus/Asc = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `109`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Asc/Apollon = Venus`: being well received as a customer or contact and enjoying a broad, pleasant atmosphere in the surrounding field.
+- `Venus/Apollon = Asc`: to be around faithful and reliable people.
+- `Venus/Asc = Apollon`: good standing in relationships with friends.
 
 ## Links
 
 - [Venus](../factors/venus.md)
 - [Asc](../factors/asc.md)
 - [Apollon](../factors/apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

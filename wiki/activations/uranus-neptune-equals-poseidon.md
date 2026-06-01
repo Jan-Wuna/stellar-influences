@@ -3,7 +3,7 @@ title: Uranus/Neptune = Poseidon
 page_type: activation
 slug: uranus-neptune-equals-poseidon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Uranus
   - Neptune
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - Neptune
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Uranus + Neptune`
-- Source page: `234`
 #### Witte Entry
 
 To gain insight and clarity in occult connections. To clear occult matters and to demonstrate the connections.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To gain insight and clarity in occult connections. To clear occult matters and to demonstrate the connections.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Fine mental impulses, clear future impulses, clarity through sudden intuition, new water technology, sudden clarity through metaphysics, surprising mental weaknesses, refinement of technical ideas, and water culture and technology
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/Neptune = Poseidon`: To gain insight and clarity in occult connections. To clear occult matters and to demonstrate the connections.
+- Practical expression: fine mental impulses, clear future impulses, clarity through sudden intuition, new water technology, and sudden clarity through metaphysics.
 
 ## Links
 
@@ -61,3 +56,5 @@ To gain insight and clarity in occult connections. To clear occult matters and t
 - [Neptune](../factors/neptune.md)
 - [Poseidon](../factors/poseidon.md)
 - [Uranus/Neptune](../axes/uranus-neptune.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

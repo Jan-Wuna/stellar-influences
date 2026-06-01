@@ -3,10 +3,10 @@ title: Neptune/Asc = Admetos
 page_type: activation
 slug: neptune-asc-equals-admetos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - Asc
   - Neptune
+  - Asc
   - Admetos
 normalized_formula: Neptune/Asc = Admetos
 axis: Neptune/Asc
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Asc
   - Admetos
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Asc + Neptune`
-- Source page: `89`
 #### Witte Entry
 
 To pay much attention not to be deceived or defrauded.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To pay much attention not to be deceived or defrauded.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Depressions of an exchanged partner, limitations in a foreign place, psychic energy of a delicate partner, stabilization of a weak partner, V deepening in a subtle environment, and water blockade on the site
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Asc = Admetos`: To pay much attention not to be deceived or defrauded.
+- Practical focus: compresses relational uncertainty into vigilance and guardedness, showing a need to narrow exposure so deception, fraud, or manipulation cannot easily take hold.
+- Practical expression: depressions of an exchanged partner, limitations in a foreign place, psychic energy of a delicate partner, stabilization of a weak partner, and v deepening in a subtle environment.
 
 ## Links
 
@@ -61,3 +57,5 @@ To pay much attention not to be deceived or defrauded.
 - [Asc](../factors/asc.md)
 - [Admetos](../factors/admetos.md)
 - [Neptune/Asc](../axes/neptune-asc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Neptune/Zeus = MC
 page_type: activation
 slug: neptune-zeus-equals-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Zeus
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - MC
   - Zeus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Zeus`
-- Source page: `249`
 #### Witte Entry
 
 Hot tempered. Pompous person. Moment of an unfortunate conception.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Hot tempered. Pompous person. Moment of an unfortunate conception.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+My efforts in the water, my depleting achievements, my fatigue weakness, my intuitive design, my creative subtlety, my unknown movement, my unknowing soul guidedness, and my future goals
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Zeus = MC`: Hot tempered. Pompous person. Moment of an unfortunate conception.
+- The outward stance is heated, showy, and poorly timed, with temperament and ambition tending toward unfortunate or misdirected emergence.
+- Practical expression: my efforts in the water, my depleting achievements, my fatigue weakness, my intuitive design, and my creative subtlety.
 
 ## Links
 
@@ -61,3 +57,5 @@ Hot tempered. Pompous person. Moment of an unfortunate conception.
 - [Zeus](../factors/zeus.md)
 - [MC](../factors/mc.md)
 - [Neptune/Zeus](../axes/neptune-zeus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

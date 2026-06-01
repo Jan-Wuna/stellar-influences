@@ -3,7 +3,7 @@ title: Neptune/Apollon = Asc
 page_type: activation
 slug: neptune-apollon-equals-asc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Apollon
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Asc
   - Apollon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Apollon`
-- Source page: `251`
 #### Witte Entry
 
 Others try to deceive the native. Detection of deception or embezzlement. To experience embezzlement, money frauds or deception. The truth is brought to light.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Others try to deceive the native. Detection of deception or embezzlement. To experience embezzlement, money frauds or deception. The truth is brought to light.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Others exchange knowledge before, spread of insecurity at the place, freedom in the air space, success by five partners, metaphysical knowledge of others, unsichcreirhcit at the place, and wasscr quantities at the place
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Apollon = Asc`: Others try to deceive the native. Detection of deception or embezzlement. To experience embezzlement, money frauds or deception. The truth is brought to light.
+- Practical focus: externalizes `Neptune/Apollon` through personal encounters with fraud, deception, or its exposure. It makes large or diffuse falsehoods tangible in the immediate environment, often through others, while also allowing concealed truth to surface.
+- Practical expression: others exchange knowledge before, spread of insecurity at the place, freedom in the air space, success by five partners, and metaphysical knowledge of others.
 
 ## Links
 
@@ -61,3 +57,5 @@ Others try to deceive the native. Detection of deception or embezzlement. To exp
 - [Apollon](../factors/apollon.md)
 - [Asc](../factors/asc.md)
 - [Neptune/Apollon](../axes/neptune-apollon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

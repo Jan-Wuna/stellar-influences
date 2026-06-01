@@ -3,10 +3,10 @@ title: Uranus/MC = Hades
 page_type: activation
 slug: uranus-mc-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
-  - MC
   - Uranus
+  - MC
   - Hades
 normalized_formula: Uranus/MC = Hades
 axis: Uranus/MC
@@ -15,10 +15,12 @@ triad_set:
   - Uranus
   - MC
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MC + Uranus`
-- Source page: `67`
 #### Witte Entry
 
 Excitement through ugly notions. To commit misdeeds. To execute plans for murder.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Excitement through ugly notions. To commit misdeeds. To execute plans for murder.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Exciting danger minute, excitement of a quirky soul, dangerous tensions of the psyche, my sudden disadvantage, my surprising renunciation, my troubled past, my hidden tensions, and my renunciation of the technique
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Uranus/MC = Hades`: Excitement through ugly notions. To commit misdeeds. To execute plans for murder.
+- Practical expression: exciting danger minute, excitement of a quirky soul, dangerous tensions of the psyche, my sudden disadvantage, and my surprising renunciation.
 
 ## Links
 
@@ -61,3 +56,5 @@ Excitement through ugly notions. To commit misdeeds. To execute plans for murder
 - [MC](../factors/mc.md)
 - [Hades](../factors/hades.md)
 - [Uranus/MC](../axes/uranus-mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

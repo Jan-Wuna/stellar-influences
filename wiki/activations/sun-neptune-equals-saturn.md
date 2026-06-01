@@ -19,9 +19,11 @@ aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -35,17 +37,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Sun + Neptune`
-- Source page: `109`
 #### Witte Entry
 
 Lingering maladies. A body enfeebled by disease. Blood diseases. Poor states of health. Losses through deceit or weakness.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Sun/Neptune`
-- Source page: `99`
-- Entry: `0272`
+#### ABC Entry
+
+Exchanged old man, storten body in the air, concentration on the personal future, personal weakness due to difficulties, insecurity due to separation from a human being, and creeping body pains
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
@@ -53,30 +55,20 @@ Inhibitions through illness or physical debility, emotional affliction. Illness 
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Sun/Neptune midpoint`
-- Source page: `18`
-- Activator: `Saturn`
-
 #### Sandbach Entry
 
 Being inhibited because one fears being hurt due to one’s sensitivities. Being cautious about revealing one’s sensitivities. Being oppressed by negative psychic energy and the need to learn how to protect oneself from it. Frustration due to having goals that are unrealistic or too idealistic to reach.
 
-## Comparative Schema
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+#### Munkasey Entry
 
-## Contradictions
+Brings discipline to shaping reality thru your dreams; persisting in working toward your ideals and dreams; frustrations in attaining your goals without much long practice and work; the actualization of inner potential.
 
-- No direct contradiction is recorded yet among the ingested source entries on this activation.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Sun/Neptune = Saturn`: guarded vulnerability, the need for psychic protection, and sober confrontation with the limits of fantasy, sacrifice, or unrealistic hope. Main caution: discouragement: illness, depletion, or disappointment can calcify into resignation, fear, and lasting inhibition.
 
 ## Links
 
@@ -84,7 +76,8 @@ Being inhibited because one fears being hurt due to one’s sensitivities. Being
 - [Neptune](../factors/neptune.md)
 - [Saturn](../factors/saturn.md)
 - [Sun/Neptune](../axes/sun-neptune.md)
-- [Sun Saturn Neptune](../triads/sun-saturn-neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

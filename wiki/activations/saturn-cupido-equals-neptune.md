@@ -3,7 +3,7 @@ title: Saturn/Cupido = Neptune
 page_type: activation
 slug: saturn-cupido-equals-neptune
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Saturn
   - Cupido
@@ -15,10 +15,12 @@ triad_set:
   - Saturn
   - Neptune
   - Cupido
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,21 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Saturn + Cupido`
-- Source page: `224`
 #### Witte Entry
 
 Separation or divorce connected with obstacles. To separate for an indefinite time. Uncertainties of a divorce or separation.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Separation or divorce connected with obstacles. To separate for an indefinite time. Uncertainties of a divorce or separation.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+The Community, through its ambiguity, the exchange of joint losses, joint tasks with or on the water, the problems of the dissolving of a community, the creeping problems in of a community, the loss of the exchange of a community, the development of common tasks, the serious development of the arts, the development of the Community's economic and social cohesion, the development of economic and social cohesion, and the development of economic and monetary union
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Saturn/Cupido = Neptune`: separation or divorce connected with obstacles, to separate for an indefinite time.
+- Practical expression: the Community, through its ambiguity, the exchange of joint losses, joint tasks with or on the water, and the problems of the dissolving of a community.
 
 ## Links
 
@@ -61,3 +56,5 @@ Separation or divorce connected with obstacles. To separate for an indefinite ti
 - [Cupido](../factors/cupido.md)
 - [Neptune](../factors/neptune.md)
 - [Saturn/Cupido](../axes/saturn-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

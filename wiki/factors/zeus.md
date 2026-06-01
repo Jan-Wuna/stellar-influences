@@ -3,21 +3,22 @@ title: Zeus
 page_type: factor
 slug: zeus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Zeus
 aliases:
   []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Factor: Zeus
 - Astronomicon token: `£`
-- Source factor chapter page: `29`
+- Canonical page type: comparative factor page grounded in standalone source entries.
 
 ## Source Entries
 
@@ -27,19 +28,18 @@ updated_at: 2026-04-21
 
 Leadership. Creation. Procreation. Goal oriented. Controlled activity. Well planned efforts. Far reaching goals. Ruler. To want to lead or to command. Controlled fire. Controlled energy. Machines. Achievements. Performance.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Leadership. Creation. Procreation. Goal oriented. Controlled activity. Well planned efforts. Far reaching goals. Ruler. To want to lead or to command. Controlled fire. Controlled energy. Machines. Achievements. Performance.
-- psychology: no separate source-native subdivision is present in the standalone factor chapter.
-- body/health: no separate source-native subdivision is present in the standalone factor chapter.
-- social/relationship: no separate source-native subdivision is present in the standalone factor chapter.
-- events/manifestations: browse related axis and activation pages for explicit formulas involving `Zeus`.
-- conflicts/notes: this page preserves the standalone factor chapter as sourced doctrine from Witte.
+#### ABC Keyword Entry
 
+Start, Grundung, Schopfung, Procreation, Generation, Direction, Aspiration, Effort, Design, Creativity, Performance, and Fire
 
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-
+- `Zeus` is the factor of start, founding, creation, procreation, direction, aspiration, effort, design, creativity, performance, fire, and controlled energy.
+- Chart expression: purposeful effort, leadership, planned achievement, machinery, controlled activity, and the capacity to organize force or ambition toward far-reaching aims.
+- Its liabilities are over-command, fixation on objectives, forced productivity, and fire or ambition used without sufficient judgment.
 
 ## Related Axes
 
@@ -66,15 +66,7 @@ Leadership. Creation. Procreation. Goal oriented. Controlled activity. Well plan
 - [Zeus/Vulcanus](../axes/zeus-vulcanus.md)
 - [Zeus/Zeus](../axes/zeus-zeus.md)
 
-## Related Activations
-
-- Generated activation pages involving `Zeus`: `693`.
-- Browse [Index](../index.md) or the `wiki/activations/` folder for the full set.
-
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-
-## Open Questions
-
-
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

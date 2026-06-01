@@ -3,7 +3,7 @@ title: Neptune/Vulcanus = Hades
 page_type: activation
 slug: neptune-vulcanus-equals-hades
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Vulcanus
@@ -15,10 +15,12 @@ triad_set:
   - Neptune
   - Hades
   - Vulcanus
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Vulcanus`
-- Source page: `253`
 #### Witte Entry
 
 To be powerless in the face of misery, worries and lack. To be unable to cope with dangers and bad forces.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be powerless in the face of misery, worries and lack. To be unable to cope with dangers and bad forces.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+dissolution of criminal force, danger through water force, dangerous subtle influence, mysterious dissolution of energy, deficient energy of water, disadvantageous unknown influence, unknown influence from the past, and renunciation of wind power
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Vulcanus = Hades`: To be powerless in the face of misery, worries and lack. To be unable to cope with dangers and bad forces.
+- Practical focus: darkens hidden force into helplessness before burden, decay, or dangerous influences. It can show feeling overmatched by misery, lack, or corrosive conditions that erode confidence and effective response.
+- Practical expression: dissolution of criminal force, danger through water force, dangerous subtle influence, mysterious dissolution of energy, and deficient energy of water.
 
 ## Links
 
@@ -61,3 +57,5 @@ To be powerless in the face of misery, worries and lack. To be unable to cope wi
 - [Vulcanus](../factors/vulcanus.md)
 - [Hades](../factors/hades.md)
 - [Neptune/Vulcanus](../axes/neptune-vulcanus.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

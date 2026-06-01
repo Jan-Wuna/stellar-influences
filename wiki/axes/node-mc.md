@@ -58,11 +58,12 @@ aliases:
   - MC/Node
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-04-22
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -75,17 +76,17 @@ updated_at: 2026-04-22
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Dragon's Head/Medium Coeli`
-- Source page: `303`
-
 #### Pair Summary
 
 Soul mates. One s close personal connections. Contacts in profession. Inner or emotional bonds. The moment (minute) of contact. The moment of connection.
 
-### Reinhold Ebertin - The Combination of Stellar Influences
+### Udo Rudolph - ABC for Planetary Pictures
 
-- Source heading: `Dragon's Head/Medium Coeli`
-- Source page: `303`
+#### ABC Pair Summary
+
+I bind, my relationships, my bonds, my contacts, minute of a bond, soul encounter, soul connection, psychic contacts, psychic connection, and self relief
+
+### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Principle
 
@@ -109,9 +110,6 @@ Associations of people with the same interests. Friends with the same outlook on
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
-- Source heading: `Planets activating the Node/Midheaven midpoint`
-- Source page: `120`
-
 #### Principle
 
 Old ways of relating to and being in the world vs. new ways of doing so. The evolution of one’s link to spiritual energies and of one’s spiritual awareness. Connecting to one’s spiritual self. Negatively this combination may represent the tendency to fall back on limited notions about spirituality, and, out of fear, to seek limited and superfi cial security rather than growth.
@@ -122,17 +120,11 @@ The letting go of old worn-out forms of security and the adopting of new ones. T
 
 ### Robert Hand - Horoscope Symbols
 
-- Source heading: `Nodes/Midheaven`
-- Source page: `213`
-
 #### Pair Delineation
 
 To take the initiative in meeting someone, to establish a connection. Groups or meetings that affect one's life course. The ability to become part of a functioning group of people.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
-
-- Source heading: `NODE/MIDHEAVEN`
-- Source page: `359`
 
 #### Basic Ideas
 
@@ -161,15 +153,6 @@ Psychological coping or adaptation with your roots or origins; encounters with t
 
 - [Michael Munkasey - Node/MC Concepts](../derived/munkasey-node-mc-concepts.md)
 
-## Comparative Schema
-
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
-
 ## Related Activations
 
 - [Node/MC = Admetos](../activations/node-mc-equals-admetos.md)
@@ -194,20 +177,18 @@ Psychological coping or adaptation with your roots or origins; encounters with t
 - [Node/MC = Vulcanus](../activations/node-mc-equals-vulcanus.md)
 - [Node/MC = Zeus](../activations/node-mc-equals-zeus.md)
 
-## Contradictions
-
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Node/MC` is the axis of life-shaping association, shared purpose, and bonds that affect destiny, status, or direction in the world. It combines affiliation, alliance, and mutual interests with vocation, maturity, authority, and the formation of one's public course.
+- Chart expression: meaningful partnerships, group aims, companions who influence development, and the need to grow through associations that align with one's evolving path. Liabilities: inconstancy in shared aims, being led astray by familiar or well-intentioned people, and sacrificing the larger direction of life to shallow belonging or borrowed purpose.
 
 ## Links
 
 - [Node](../factors/node.md)
 - [MC](../factors/mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)

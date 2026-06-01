@@ -45,8 +45,6 @@ updated_at: 2026-04-21
 
 - Axis: `Uranus/Uranus`
 - Astronomicon axis: `X/X`
-- Source heading: `Uranus + Uranus`
-- Source page: `232`
 
 ## Source Entries
 
@@ -55,15 +53,6 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 Suddenness. Surprising, Unexpected. Unforeseen tensions. Events. Excitement. Nervousness. Restlessness. Spontaneity. Eccentric. Jerky expressions. Energy. Electric. Innovations. Technics. Technical or mathematical science and knowledge.
-
-## Comparative Schema
-
-- core meaning: Suddenness. Surprising, Unexpected. Unforeseen tensions. Events. Excitement. Nervousness. Restlessness. Spontaneity. Eccentric. Jerky expressions. Energy. Electric. Innovations. Technics. Technical or mathematical science and knowledge.
-- psychology: no separate source-native subdivision is present on the pair-summary page.
-- body/health: no separate source-native subdivision is present on the pair-summary page.
-- social/relationship: no separate source-native subdivision is present on the pair-summary page.
-- events/manifestations: see the orientation-specific activation entries linked below.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities; orientation-specific meanings remain on distinct activation pages.
 
 ## Related Activations
 
@@ -89,13 +78,11 @@ Suddenness. Surprising, Unexpected. Unforeseen tensions. Events. Excitement. Ner
 - [Uranus/Uranus = Vulcanus](../activations/uranus-uranus-equals-vulcanus.md)
 - [Uranus/Uranus = Poseidon](../activations/uranus-uranus-equals-poseidon.md)
 
-## Contradictions
-
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- This axis consistently points to suddenness. Surprising, Unexpected. Unforeseen tensions. Events. Excitement. Nervousness. Restlessness. Spontaneity. Eccentric. Jerky expressions. Energy. Electric. Innovations. Technics. Technical or mathematical science and knowledge.
+- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
 
 ## Links
 

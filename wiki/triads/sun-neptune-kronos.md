@@ -3,7 +3,7 @@ title: Sun Neptune Kronos
 page_type: triad_hub
 slug: sun-neptune-kronos
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Sun
   - Neptune
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Neptune Kronos`
 - Astronomicon triad-set: `S Y ¤`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Neptune/Kronos = Sun](../activations/neptune-kronos-equals-sun.md)
-  Source page `250`
 - [Sun/Kronos = Neptune](../activations/sun-kronos-equals-neptune.md)
-  Source page `114`
 - [Sun/Neptune = Kronos](../activations/sun-neptune-equals-kronos.md)
-  Source page `109`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Neptune/Kronos = Sun`: page `250`
-- `Sun/Kronos = Neptune`: page `114`
-- `Sun/Neptune = Kronos`: page `109`
+- `Neptune/Kronos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `250`
+- `Neptune/Kronos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `398`
+- `Sun/Kronos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `114`
+- `Sun/Kronos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `165`
+- `Sun/Neptune = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `109`
+- `Sun/Neptune = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `155`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Neptune/Kronos = Sun`: This activation personalizes diplomatic deception and managerial disappointment, showing the self entangled in intrigue, false impressions, or a leadership role that misleads and fails.
+- `Sun/Kronos = Neptune`: This formula emphasizes lack of freedom and the separation of the soul.
+- `Sun/Neptune = Kronos`: This formula emphasizes inspired authority and spiritual or ideal leadership.
 
 ## Links
 
 - [Sun](../factors/sun.md)
 - [Neptune](../factors/neptune.md)
 - [Kronos](../factors/kronos.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

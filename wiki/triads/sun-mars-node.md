@@ -19,16 +19,17 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Sun Mars Node`
 - Astronomicon triad-set: `S U g`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,19 +40,27 @@ updated_at: 2026-04-22
 ## Source Coverage
 
 - `Mars/Node = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `143`
+- `Mars/Node = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `212`
 - `Mars/Node = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `217`
 - `Mars/Node = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `74`
+- `Mars/Node = Sun`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `244`
 - `Sun/Mars = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `105`
+- `Sun/Mars = Node`: Udo Rudolph - ABC for Planetary Pictures, page `146`
 - `Sun/Mars = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `88`
 - `Sun/Mars = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `11`
+- `Sun/Mars = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `68`
 - `Sun/Node = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `102`
+- `Sun/Node = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `140`
 - `Sun/Node = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `105`
 - `Sun/Node = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `21`
+- `Sun/Node = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `92`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Mars/Node = Sun`: a will to unite with others, goals advanced through active contact, and strong identification with comradeship, teamwork, or physical union.
+- `Sun/Mars = Node`: fellowship in work or struggle, joint plans, and alliances formed around common objectives, accomplishment, and active cooperation.
+- `Sun/Node = Mars`: active teamwork, forceful alliances, and contact with others formed around effort, competition, sexuality, or the need to establish oneself within a group.
 
 ## Links
 
@@ -59,5 +68,7 @@ updated_at: 2026-04-22
 - [Mars](../factors/mars.md)
 - [Node](../factors/node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

@@ -3,7 +3,7 @@ title: Admetos/Poseidon = Moon
 page_type: activation
 slug: admetos-poseidon-equals-moon
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Admetos
   - Poseidon
@@ -15,10 +15,12 @@ triad_set:
   - Moon
   - Admetos
   - Poseidon
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,20 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Admetos + Poseidon`
-- Source page: `312`
 #### Witte Entry
 
 To be under a certain influence as a medium or unconsciously, to be induced. A nation or people subjected to the influence of a certain upbringing, education or training. The same is valid for women and the general public.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: To be under a certain influence as a medium or unconsciously, to be induced. A nation or people subjected to the influence of a certain upbringing, education or training. The same is valid for women and the general public.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+A woman's mental limitations, a woman's mental depth, a people's mental integrity, a gritty sense of peace, an hour of spiritual deepening, a deepening of a people's culture, a culture people's submission, and a severe restriction on the lives of women
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Admetos/Poseidon = Moon`: deep impressionability, cultural upbringing, and the slow molding of feeling through environment, teaching, or mediumistic influence. Main caution: passive conditioning: people or groups can absorb influence without awareness or sufficient inner discrimination.
 
 ## Links
 
@@ -61,3 +55,5 @@ To be under a certain influence as a medium or unconsciously, to be induced. A n
 - [Poseidon](../factors/poseidon.md)
 - [Moon](../factors/moon.md)
 - [Admetos/Poseidon](../axes/admetos-poseidon.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

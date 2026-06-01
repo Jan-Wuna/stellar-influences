@@ -3,7 +3,7 @@ title: Vernal Point Venus MC
 page_type: triad_hub
 slug: vernal-point-venus-mc
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Venus
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Venus MC`
 - Astronomicon triad-set: `VP Q MC`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Venus/MC = Vernal Point](../activations/venus-mc-equals-vernal-point.md)
-  Source page `63`
 - [Vernal Point/MC = Venus](../activations/vernal-point-mc-equals-venus.md)
-  Source page `35`
 - [Vernal Point/Venus = MC](../activations/vernal-point-venus-equals-mc.md)
-  Source page `41`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Venus/MC = Vernal Point`: page `63`
-- `Vernal Point/MC = Venus`: page `35`
-- `Vernal Point/Venus = MC`: page `41`
+- `Venus/MC = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `63`
+- `Venus/MC = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `70`
+- `Vernal Point/MC = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `35`
+- `Vernal Point/MC = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `18`
+- `Vernal Point/Venus = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `41`
+- `Vernal Point/Venus = MC`: Udo Rudolph - ABC for Planetary Pictures, page `30`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Venus/MC = Vernal Point`: to be popular.
+- `Vernal Point/MC = Venus`: This formula emphasizes to make-up oneself for others, being liked, and looking attractive to the public.
+- `Vernal Point/Venus = MC`: This formula emphasizes ones power of attraction, the native is beloved, and the personal attitude of love, peace or freedom towards the general public.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Venus](../factors/venus.md)
 - [MC](../factors/mc.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

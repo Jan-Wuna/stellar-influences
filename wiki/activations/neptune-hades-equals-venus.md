@@ -3,7 +3,7 @@ title: Neptune/Hades = Venus
 page_type: activation
 slug: neptune-hades-equals-venus
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Neptune
   - Hades
@@ -15,10 +15,12 @@ triad_set:
   - Venus
   - Neptune
   - Hades
-aliases: []
+aliases:
+  []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
@@ -32,28 +34,22 @@ updated_at: 2026-04-21
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `Neptune + Hades`
-- Source page: `248`
 #### Witte Entry
 
 Deception and meanness in love. Longing for water. To be attracted by surroundings with lots of water.
 
-## Comparative Schema
+### Udo Rudolph - ABC for Planetary Pictures
 
-- core meaning: Deception and meanness in love. Longing for water. To be attracted by surroundings with lots of water.
-- psychology: source-backed meaning retained in the entry above.
-- body/health: no separate body-specific bucket is isolated automatically at ingest time.
-- social/relationship: source-backed meaning retained in the entry above.
-- events/manifestations: source-backed meaning retained in the entry above.
-- conflicts/notes: orientation-specific meaning is preserved on its own page; source `+` headings are normalized as midpoint-axis identities here.
+#### ABC Entry
 
-## Contradictions
+Dissolving of a criminal love, dangerous love exchange, harmony deficiency by weak, grief by love exchange, weakness of a past love, insecurity by secret love, and preference for unknown and hidden things
 
-- None recorded yet for this source-only page.
-
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- None yet beyond source structuring.
+- `Neptune/Hades = Venus`: Deception and meanness in love. Longing for water. To be attracted by surroundings with lots of water.
+- Practical focus: moves hidden corruption into attraction and affection, showing deceptive love, mean-spirited feeling, and a pull toward environments whose beauty is tied to watery melancholy.
+- Practical expression: dissolving of a criminal love, dangerous love exchange, harmony deficiency by weak, grief by love exchange, and weakness of a past love.
 
 ## Links
 
@@ -61,3 +57,5 @@ Deception and meanness in love. Longing for water. To be attracted by surroundin
 - [Hades](../factors/hades.md)
 - [Venus](../factors/venus.md)
 - [Neptune/Hades](../axes/neptune-hades.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

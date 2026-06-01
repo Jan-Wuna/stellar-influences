@@ -3,7 +3,7 @@ title: Vernal Point Sun Cupido
 page_type: triad_hub
 slug: vernal-point-sun-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Vernal Point
   - Sun
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Vernal Point Sun Cupido`
 - Astronomicon triad-set: `VP S ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [Sun/Cupido = Vernal Point](../activations/sun-cupido-equals-vernal-point.md)
-  Source page `111`
 - [Vernal Point/Cupido = Sun](../activations/vernal-point-cupido-equals-sun.md)
-  Source page `48`
 - [Vernal Point/Sun = Cupido](../activations/vernal-point-sun-equals-cupido.md)
-  Source page `37`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `Sun/Cupido = Vernal Point`: page `111`
-- `Vernal Point/Cupido = Sun`: page `48`
-- `Vernal Point/Sun = Cupido`: page `37`
+- `Sun/Cupido = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `111`
+- `Sun/Cupido = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `158`
+- `Vernal Point/Cupido = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `48`
+- `Vernal Point/Cupido = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `44`
+- `Vernal Point/Sun = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `37`
+- `Vernal Point/Sun = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `23`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `Sun/Cupido = Vernal Point`: This formula emphasizes the family in the environment and artist in the environment.
+- `Vernal Point/Cupido = Sun`: This formula emphasizes companions, associates, a welcome guest, and the director of a corporation.
+- `Vernal Point/Sun = Cupido`: This formula emphasizes being married, the body with an artistic disposition, the possessions of a company, and intentional unions.
 
 ## Links
 
 - [Vernal Point](../factors/vernal-point.md)
 - [Sun](../factors/sun.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

@@ -3,7 +3,7 @@ title: Mercury MC Cupido
 page_type: triad_hub
 slug: mercury-mc-cupido
 status: source_ingested
-framework_scope: hamburg_school
+framework_scope: comparative
 factors:
   - Mercury
   - MC
@@ -19,38 +19,41 @@ orientations:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+  - udo-rudolph-abc-fur-planetenbilder
+updated_at: 2026-05-04
 ---
 
 ## Identity
 
 - Triad-set: `Mercury MC Cupido`
 - Astronomicon triad-set: `T MC ¡`
-- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
 - [MC/Cupido = Mercury](../activations/mc-cupido-equals-mercury.md)
-  Source page `70`
 - [Mercury/Cupido = MC](../activations/mercury-cupido-equals-mc.md)
-  Source page `166`
 - [Mercury/MC = Cupido](../activations/mercury-mc-equals-cupido.md)
-  Source page `62`
 
 ## Source Coverage
 
-- Source: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
-- `MC/Cupido = Mercury`: page `70`
-- `Mercury/Cupido = MC`: page `166`
-- `Mercury/MC = Cupido`: page `62`
+- `MC/Cupido = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `70`
+- `MC/Cupido = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `84`
+- `Mercury/Cupido = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `166`
+- `Mercury/Cupido = MC`: Udo Rudolph - ABC for Planetary Pictures, page `254`
+- `Mercury/MC = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `62`
+- `Mercury/MC = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `69`
 
-## Contradictions Across Orientations
+<a id="derived-synthesis"></a>
+## Derived Synthesis
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+- `MC/Cupido = Mercury`: mentalizes the axis into artistic, social, and entertaining thought.
+- `Mercury/Cupido = MC`: internalizes the axis as artistic inspiration and social inclination.
+- `Mercury/MC = Cupido`: domesticates the axis through thoughts of family, society, marriage, and art.
 
 ## Links
 
 - [Mercury](../factors/mercury.md)
 - [MC](../factors/mc.md)
 - [Cupido](../factors/cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)

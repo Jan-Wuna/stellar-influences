@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ The emotional need to attain to ever deeper understanding of the meaning of life
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/PLUTO with Planets and Points`
+- Source page: `88`
+
 #### Munkasey Entry
 
 Determination to effect basic changes to the flow of life’s events; your efforts to bring help to those in need; fluctuations in your attempts to appear strong willed; basic ideas about your involvement with death or destruction.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Pluto = Moon`: profound inner drive, the emotional need to wield influence, and sensitivity to how others react to personal power. Main caution: repression and irritability: emotional life can become brutalized, defensive, or controlling when vulnerability is threatened.
@@ -76,6 +93,7 @@ Determination to effect basic changes to the flow of life’s events; your effor
 - [Pluto](../factors/pluto.md)
 - [Moon](../factors/moon.md)
 - [Sun/Pluto](../axes/sun-pluto.md)
+- [Sun Moon Pluto](../triads/sun-moon-pluto.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

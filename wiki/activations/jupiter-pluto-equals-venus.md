@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To be tremendously enthusiastic when in love and when relating to others. To des
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `JUPITER/PLUTO with Planets and Points`
+- Source page: `268`
+
 #### Munkasey Entry
 
 Adds to your social charm, and the attention you are willing to give to other people you want to impress with your manners and sophistication; pleasure from music and the arts; enjoyment of artistic notoriety at some level.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Jupiter/Pluto = Venus`: strong attractiveness, creative potency, and love or money matters tied to major change or growth. Main caution: indulgence and excess: craving can become wasteful, possessive, or too enamored of what is grand and overpowering.
@@ -76,6 +93,7 @@ Adds to your social charm, and the attention you are willing to give to other pe
 - [Pluto](../factors/pluto.md)
 - [Venus](../factors/venus.md)
 - [Jupiter/Pluto](../axes/jupiter-pluto.md)
+- [Venus Jupiter Pluto](../triads/venus-jupiter-pluto.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

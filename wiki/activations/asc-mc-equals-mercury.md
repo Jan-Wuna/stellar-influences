@@ -24,7 +24,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - don-mcbroom-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -68,11 +68,28 @@ Thoughts, ideas, and communication come naturally. It is easy to talk with peopl
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `ASCENDANT/MIDHEAVEN with Planets and Points`
+- Source page: `364`
+
 #### Munkasey Entry
 
 The thinking or analysis you do about the effects of the daily contacts you have with the people in your life who are meaningful to you; the versatility you show when adapting to the examples of those who influence you.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Asc/MC = Mercury`: important conversations, commercial or intellectual cooperation, refined communication style, and the power of ideas to shape both self-concept and public movement. Main caution: cleverness without growth: overthinking, talking around deeper development, or using mental agility to avoid real change.
@@ -83,6 +100,7 @@ The thinking or analysis you do about the effects of the daily contacts you have
 - [MC](../factors/mc.md)
 - [Mercury](../factors/mercury.md)
 - [Asc/MC](../axes/asc-mc.md)
+- [Mercury Asc MC](../triads/mercury-asc-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

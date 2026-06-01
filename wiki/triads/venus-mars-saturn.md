@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Venus Mars Saturn`
 - Astronomicon triad-set: `Q U W`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mars/Saturn = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `193`
-- `Mars/Saturn = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `300`
-- `Mars/Saturn = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `205`
-- `Mars/Saturn = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `68`
-- `Mars/Saturn = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `228`
-- `Venus/Mars = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `176`
-- `Venus/Mars = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `271`
-- `Venus/Mars = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `176`
-- `Venus/Mars = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `55`
-- `Venus/Mars = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `188`
-- `Venus/Saturn = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `178`
-- `Venus/Saturn = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `274`
-- `Venus/Saturn = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `182`
-- `Venus/Saturn = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `57`
-- `Venus/Saturn = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `196`
+- `Mars/Saturn = Venus`: Michael, page `228`
+- `Venus/Mars = Saturn`: Michael, page `188`
+- `Venus/Saturn = Mars`: Michael, page `196`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mars/Saturn = Venus`: restrained affection, cold or hurt feeling, and desire complicated by fear of conflict, resentment, or the inability to relax into warmth.
-- `Venus/Mars = Saturn`: disciplined desire, with attraction and initiative forced to mature through patience, frustration, and the need to give passion a workable structure.
-- `Venus/Saturn = Mars`: restrained affection, serious love, and value tested through time, duty, and limitation made effortful, disciplined, and tense.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

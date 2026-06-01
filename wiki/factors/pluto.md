@@ -14,7 +14,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -88,6 +88,9 @@ supernatural in the usual sense of the word. It is a study of psychic energies i
 5
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `PLUTO`
+- Source page: `51`
 
 #### Basic Ideas
 
@@ -182,7 +185,21 @@ supernatural in the usual sense of the word. It is a study of psychic energies i
 - Violence
 - Waste Products
 
+## Comparative Schema
+
+- core meaning: source-native factor entries are preserved side by side above.
+- psychology: source-specific psychological and doctrinal emphases remain attached to their own source blocks instead of being flattened.
+- body/health: bodily wording remains inside each contributing source block when present.
+- social/relationship: interpersonal implications remain attached to each source's own phrasing.
+- events/manifestations: source-specific extensions remain attached to the source entry that states them.
+- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
+
+## Contradictions and Framework Notes
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Pluto` is the factor of development, change, evolution, transformation, growth, and the invisible pressure that pushes life past what can no longer remain as it is.
@@ -215,6 +232,10 @@ supernatural in the usual sense of the word. It is a study of psychic energies i
 - [Venus/Pluto](../axes/venus-pluto.md)
 - [Vernal Point/Pluto](../axes/vernal-point-pluto.md)
 
+## Related Activations
+
+- None recorded yet.
+
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
@@ -222,3 +243,7 @@ supernatural in the usual sense of the word. It is a study of psychic energies i
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+
+## Open Questions
+
+- None recorded yet.

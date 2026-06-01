@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ The ability to feel many subtle, hidden, or unspoken connections. Too much going
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `JUPITER/NODE with Planets and Points`
+- Source page: `272`
+
 #### Munkasey Entry
 
 Others see you as more mysterious and mystical than intended; being deceived by the promises or intentions of friends; errors of judgment about the desires or needs of associates; increased needs for religious contacts.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Jupiter/Node = Neptune`: intuitive social sensitivity, spiritualized connection, and the feeling that relationships carry hidden layers or expectations. Main caution: false hope in association: friendship can cool, agreements can blur, and the native may lose clarity about what others actually offer or intend.
@@ -76,6 +93,7 @@ Others see you as more mysterious and mystical than intended; being deceived by 
 - [Node](../factors/node.md)
 - [Neptune](../factors/neptune.md)
 - [Jupiter/Node](../axes/jupiter-node.md)
+- [Jupiter Neptune Node](../triads/jupiter-neptune-node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

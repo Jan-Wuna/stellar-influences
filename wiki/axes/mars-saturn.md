@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MARS/SATURN`
+- Source page: `227`
 
 #### Pair Summary
 
@@ -192,6 +195,9 @@ Disciplined or concentrated energies, hard work, energy focused on narrow object
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MARS/SATURN`
+- Source page: `227`
+
 #### Basic Ideas
 
 This combination of stop and go urges you forward, but then applies the brakes. You exercise restraint and self-control in your use of your force or energy, have great endurance thru your personal strength, and encounter activity which persists. You place much emphasis on your physical abilities, and the throwing of caution to the wind as recklessness prevailing over caution is common. You encounter delays at the start of projects, dilemmas which are not psychologically easy to resolve, hard and rigid reactions from others, and a restlessness with self-discipline. You balance caution vs. action, violence vs. restraint, and come by controlled periods of noisy and energetic outbursts. You find activity which must be repeated monotonously (as in assembly lines), have trouble applying responsibility, and show anger when dealing with frustrations or limiting restrictions. You are a cautious competitor.
@@ -219,6 +225,15 @@ High blood pressure; health problems caused by the blockage of energy or emotion
 
 - [Michael Munkasey - Mars/Saturn Concepts](../derived/munkasey-mars-saturn-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Mars/Saturn = Admetos](../activations/mars-saturn-equals-admetos.md)
@@ -243,7 +258,13 @@ High blood pressure; health problems caused by the blockage of energy or emotion
 - [Mars/Saturn = Vulcanus](../activations/mars-saturn-equals-vulcanus.md)
 - [Mars/Saturn = Zeus](../activations/mars-saturn-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mars/Saturn` is the axis of blocked force, disciplined effort, endurance, and action under pressure. It combines drive and assertion with restraint, delay, hardness, structure, and the reality of obstacles.

@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ One’s ideas may be in conflict with authorities. One’s ideas challenge ac ce
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MARS/MIDHEAVEN with Planets and Points`
+- Source page: `252`
+
 #### Munkasey Entry
 
 Highlights your need to use your innate intelligence and inner gifts to progress in life; helps you realize your spiritual origins and the need to develop your attitudes and efforts to conform to these inner principles.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mars/MC = Mercury`: organizing through words, energetic communication, exciting news tied to work, and the ability to make ideas operational. Main caution: verbal overdrive: orders, opinions, or fast judgments can provoke conflict or push action ahead of clear reflection.
@@ -76,6 +93,7 @@ Highlights your need to use your innate intelligence and inner gifts to progress
 - [MC](../factors/mc.md)
 - [Mercury](../factors/mercury.md)
 - [Mars/MC](../axes/mars-mc.md)
+- [Mercury Mars MC](../triads/mercury-mars-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

@@ -225,9 +225,10 @@ updated_at: {updated_at}
 
 - None recorded yet for this source-only page.
 
+<a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
-- None yet beyond source structuring.
 
 ## Links
 
@@ -313,9 +314,10 @@ updated_at: {updated_at}
 
 - None recorded yet for this source-only page.
 
+<a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
-- None yet beyond source structuring.
 
 ## Links
 

@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ One who is extremely emotionally sensitive and extremely impressionable to subtl
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `NEPTUNE/PLUTO with Planets and Points`
+- Source page: `328`
+
 #### Munkasey Entry
 
 Increases the care you bring to transforming the lives of self or others for their emotional betterment; adds to your need to purchase devices, drugs, or other means to transform your present reality ideas; needs for short escapes.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Neptune/Pluto = Moon`: profound intuition, healing depth, and the capacity to feel collective or ancestral undercurrents strongly. Main caution: psychic overwhelm: the emotional life can become compulsive, flooded, or quietly eroded by invisible pressures.
@@ -76,6 +93,7 @@ Increases the care you bring to transforming the lives of self or others for the
 - [Pluto](../factors/pluto.md)
 - [Moon](../factors/moon.md)
 - [Neptune/Pluto](../axes/neptune-pluto.md)
+- [Moon Neptune Pluto](../triads/moon-neptune-pluto.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

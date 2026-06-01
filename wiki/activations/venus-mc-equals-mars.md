@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ Taking the initiative to spread love and beauty in the world. One asserts onesel
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `VENUS/MIDHEAVEN with Planets and Points`
+- Source page: `220`
+
 #### Munkasey Entry
 
 Further forcefulness to gain a fair share for your efforts; using athletics or exercise as an art form; persistent activity to present self as excelling in life; the role of inner anger vs. acceptance and love as you evolve through life.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Venus/MC = Mars`: creative drive, bold diplomacy, and the ability to pursue recognition through relationship or aesthetic force. Main caution: friction in public charm: attraction and ambition can become competitive, provocative, or too heat-driven for stable harmony.
@@ -76,6 +93,7 @@ Further forcefulness to gain a fair share for your efforts; using athletics or e
 - [MC](../factors/mc.md)
 - [Mars](../factors/mars.md)
 - [Venus/MC](../axes/venus-mc.md)
+- [Venus Mars MC](../triads/venus-mars-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ A person full of surprises. One comes across as unpredictable, and others may fi
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MARS/URANUS with Planets and Points`
+- Source page: `232`
+
 #### Munkasey Entry
 
 You may become verbal or abusive to those who do not share your ways, or who impede progress; you derive enjoyment from agitating or upsetting others around you; presenting an unusual appearance or mannerism.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mars/Uranus = Asc`: personal daring, unconventional behavior, and a tendency to be closely linked with accidents, shocks, or rebellious interactions. Main caution: volatility in contact: others may experience the native as destabilizing, combative, or dangerous when tension is released too fast.
@@ -76,6 +93,7 @@ You may become verbal or abusive to those who do not share your ways, or who imp
 - [Uranus](../factors/uranus.md)
 - [Asc](../factors/asc.md)
 - [Mars/Uranus](../axes/mars-uranus.md)
+- [Mars Uranus Asc](../triads/mars-uranus-asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

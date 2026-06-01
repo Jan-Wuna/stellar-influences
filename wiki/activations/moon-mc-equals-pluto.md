@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ A relentless desire to let go of lesser, petty and negative emotions so that one
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MOON/MIDHEAVEN with Planets and Points`
+- Source page: `144`
+
 #### Munkasey Entry
 
 Extreme and intense pressure to conform to mother’s rules about what you should be in life or how you should grow; drastic measures to ensure your conformity to maternal roles; alteration of self-projection thru such orders.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Moon/MC = Pluto`: profound impact, crisis-tested nurturing or leadership, and the ability to move others deeply through presence and purpose. Main caution: emotional severity in the outer life: public feeling can become controlling, suspicious, or too intense to regulate easily.
@@ -76,6 +93,7 @@ Extreme and intense pressure to conform to mother’s rules about what you shoul
 - [MC](../factors/mc.md)
 - [Pluto](../factors/pluto.md)
 - [Moon/MC](../axes/moon-mc.md)
+- [Moon Pluto MC](../triads/moon-pluto-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

@@ -14,7 +14,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -72,6 +72,9 @@ people to reincorporate as much of the external world as possible into themselve
 experience. Breadth of experience prevents this person from taking narrow-minded positions based on short-term goals at the expense of long-range objectives. Knowing that the selfs own interests are best furthered by farthering those of the greater world of which one is a part and of which one has seen and experienced so much, such a person usually has a strong sense of social consciousness. The other type of Jupiterian personality manifests the lunar side of Jupiter and cannot let go of what is seen and experienced. This person tries to own everything and to become more important than anyone, more grand and more arrogant. This type is never satisfied with anything gotten in life and is always on the move. What is the difference between these two types? I believe it lies in other energies that have to do with the security of the ego. Both types are restless and always on the move, but one is never happy and the other usually is. There is alwaj^s a limit to growth, and that limit is imposed by two factors. One is that eveiy entity has a certain built-in capacity for growth, and when that capacity is exceeded, growth stops. The other factor is that the external world can only support so much growth. There is a limit, for example, to food and resources. Room is also needed for growth because no one entity can grow beyond a certain point without trespassing upon others' rights. Whatever the source, the limit is imposed by the energy of
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `JUPITER`
+- Source page: `47`
 
 #### Basic Ideas
 
@@ -157,7 +160,21 @@ experience. Breadth of experience prevents this person from taking narrow-minded
 - Sky, The
 - Well Being, Sense of
 
+## Comparative Schema
+
+- core meaning: source-native factor entries are preserved side by side above.
+- psychology: source-specific psychological and doctrinal emphases remain attached to their own source blocks instead of being flattened.
+- body/health: bodily wording remains inside each contributing source block when present.
+- social/relationship: interpersonal implications remain attached to each source's own phrasing.
+- events/manifestations: source-specific extensions remain attached to the source entry that states them.
+- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
+
+## Contradictions and Framework Notes
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Jupiter` is the factor of luck, success, advantage, joy, confidence, law, finance, and the urge to enlarge life through growth, integration, and beneficence.
@@ -190,6 +207,10 @@ experience. Breadth of experience prevents this person from taking narrow-minded
 - [Venus/Jupiter](../axes/venus-jupiter.md)
 - [Vernal Point/Jupiter](../axes/vernal-point-jupiter.md)
 
+## Related Activations
+
+- None recorded yet.
+
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
@@ -197,3 +218,7 @@ experience. Breadth of experience prevents this person from taking narrow-minded
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+
+## Open Questions
+
+- None recorded yet.

@@ -63,7 +63,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -75,6 +75,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MARS/MIDHEAVEN`
+- Source page: `251`
 
 #### Pair Summary
 
@@ -126,6 +129,9 @@ To assert oneself or one's objectives. "I act." One's own actions. To display gr
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MARS/MIDHEAVEN`
+- Source page: `251`
+
 #### Basic Ideas
 
 This combination energizes your awareness of the need for personal development and integration as you struggle with the competitive battles of life. You begin to learn that your best personal progress comes by being insistent with your ideas, and responding immediately to all challenges. ‘The best defense is a good offense’ is a lesson which you learn thru this combination. You develop a persistence for pushing your interests, you learn to create energy and power when battling for your principles, and you practice not to be afraid when insisting on your personal rights. You can use this blend to push for personal recognition and to ensure that the security you or your family need is achieved. These themes help you persist with personal growth, teach you how to make the most noise get the most attention, and discover that it is only thru insistence that you achieve the recognition you want.
@@ -153,6 +159,15 @@ Emphasizes your personal maturity and the energy you place into becoming psychol
 
 - [Michael Munkasey - Mars/MC Concepts](../derived/munkasey-mars-mc-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Mars/MC = Admetos](../activations/mars-mc-equals-admetos.md)
@@ -177,7 +192,13 @@ Emphasizes your personal maturity and the energy you place into becoming psychol
 - [Mars/MC = Vulcanus](../activations/mars-mc-equals-vulcanus.md)
 - [Mars/MC = Zeus](../activations/mars-mc-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mars/MC` is the axis of purposeful action, ambition, decisive self-assertion, and the drive to shape one's life through effort and command. It combines initiative, heat, courage, and competition with vocation, status, self-direction, and public effectiveness.

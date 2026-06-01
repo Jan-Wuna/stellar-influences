@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MOON/VENUS`
+- Source page: `107`
 
 #### Pair Summary
 
@@ -172,6 +175,9 @@ Love, feeling happy, the emotional sense of the beautiful. Tender and nurturing 
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MOON/VENUS`
+- Source page: `107`
+
 #### Basic Ideas
 
 This combination mirrors the pleasure and satisfaction you derive from being a sensitive and caring person, and heightens your need for a loving environment. The enjoyment you derive from your imagination, your fluctuating and changing attitudes about being appreciated and loved, and the emotional enjoyment you receive either from people close to you or your daily activities, are represented here. Your ability to arouse people’s emotion thru music or art, the pleasure you derive from caring for or mothering others, and the efforts you put into getting satisfaction and enjoyment from life’s simple acts, also emerge here. These are the two primary female indicators, and as such symbolize all aspects of your feminine nature and expressions, regardless of your physical sex. Your uncertainty about giving or receiving affection, as well as your sensitivity to jealousy, may also appear here.
@@ -199,6 +205,15 @@ Female organs; your sensitivity to taste, smell, touch, etc.; glandular balances
 
 - [Michael Munkasey - Moon/Venus Concepts](../derived/munkasey-moon-venus-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Moon/Venus = Admetos](../activations/moon-venus-equals-admetos.md)
@@ -223,7 +238,13 @@ Female organs; your sensitivity to taste, smell, touch, etc.; glandular balances
 - [Moon/Venus = Vulcanus](../activations/moon-venus-equals-vulcanus.md)
 - [Moon/Venus = Zeus](../activations/moon-venus-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Moon/Venus` is the axis of affectionate feeling, tenderness, receptivity, nurturance, and the emotional experience of beauty, love, and harmony. It describes how comfort, care, and attraction are felt in the body and in relationship.

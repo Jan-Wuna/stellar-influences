@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ Working hard to attain one’s goals. Security which comes from working hard to 
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/MARS with Planets and Points`
+- Source page: `68`
+
 #### Munkasey Entry
 
 The encouragement you receive due to physical or sports performances; the reputation you create as a fierce and unyielding competitor; rules of conduct you follow concerning your physical regimen when competing in life.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Mars = MC`: responsibility embraced with vigor, career drive, and a public style marked by initiative and stamina. Main caution: making conflict part of the mission: work and public role can become too argumentative, combative, or exhausting.
@@ -76,6 +93,7 @@ The encouragement you receive due to physical or sports performances; the reputa
 - [Mars](../factors/mars.md)
 - [MC](../factors/mc.md)
 - [Sun/Mars](../axes/sun-mars.md)
+- [Sun Mars MC](../triads/sun-mars-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

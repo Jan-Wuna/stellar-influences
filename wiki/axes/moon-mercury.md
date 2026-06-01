@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MOON/MERCURY`
+- Source page: `103`
 
 #### Pair Summary
 
@@ -186,6 +189,9 @@ feelings and emotions. Non-rational thought. The communication of one's feelings
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MOON/MERCURY`
+- Source page: `103`
+
 #### Basic Ideas
 
 These planets represent your ability to communicate your emotions effectively and in ways that help others understand your feelings. These planets encourage you to become more aware of the separation between your intellectual or rational reasoning and intuitive or emotional sides. Feelings which originate deep within you, such as fear of the dark, phobias, etc., how calculation and logic vie against your habitual responses and impulses, and the emotions which you add to your speech are also emphasized here. The feelings you show as you speak, your use of intuition as well as logic, reasoning that is swayed by emotional speech, and intelligence which has its roots in emotions also denoted. The speech of the common people, expressions which are popular or trendy, information on the rhythms or patterns of speech, and the history of your language is also mirrored by these planets.
@@ -213,6 +219,15 @@ Glandular conditions which begin with nervous dysfunctioning; deeply rooted fear
 
 - [Michael Munkasey - Moon/Mercury Concepts](../derived/munkasey-moon-mercury-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Moon/Mercury = Admetos](../activations/moon-mercury-equals-admetos.md)
@@ -237,7 +252,13 @@ Glandular conditions which begin with nervous dysfunctioning; deeply rooted fear
 - [Moon/Mercury = Vulcanus](../activations/moon-mercury-equals-vulcanus.md)
 - [Moon/Mercury = Zeus](../activations/moon-mercury-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Moon/Mercury` is the axis of feeling-thinking, emotional communication, memory, adaptability, and the translation of inner states into words, stories, habits, and everyday exchange. It joins sensitivity and responsiveness with language, perception, and the movement of mind.

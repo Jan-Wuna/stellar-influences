@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ One identifies with exalted emotions. One plays the role of nurturing parent in 
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MOON/MIDHEAVEN with Planets and Points`
+- Source page: `144`
+
 #### Munkasey Entry
 
 Personal motivations to be like (or opposite to) mother, and to adopt (or discard) the family values acquired earlier; increases your drive to understand others thru the role models your mother provided you about life.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Moon/MC = Asc`: caring visibility, instinctive rapport, and a life path that is immediately legible in the person's emotional style. Main caution: overidentification with atmosphere: self-presentation can become too dependent on mood, approval, or changing surroundings.
@@ -76,6 +93,7 @@ Personal motivations to be like (or opposite to) mother, and to adopt (or discar
 - [MC](../factors/mc.md)
 - [Asc](../factors/asc.md)
 - [Moon/MC](../axes/moon-mc.md)
+- [Moon Asc MC](../triads/moon-asc-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

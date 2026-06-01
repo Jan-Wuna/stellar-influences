@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ One come’s across as a gentle, loving person. One takes on the role of the emo
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MOON/VENUS with Planets and Points`
+- Source page: `108`
+
 #### Munkasey Entry
 
 Focusing more clearly on the needs of people you meet in your daily encounters; a personal flavor to the way you care for others; your interest in people in general, and their welfare and progress; being around women.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Moon/Venus = Asc` channels the tender, receptive love of the Moon/Venus axis through the Asc, making affection visible in personality, manner, and immediate contact. It points to emotional warmth and softness that shows itself directly in presence, charm, and everyday rapport.
@@ -77,6 +94,7 @@ Focusing more clearly on the needs of people you meet in your daily encounters; 
 - [Venus](../factors/venus.md)
 - [Asc](../factors/asc.md)
 - [Moon/Venus](../axes/moon-venus.md)
+- [Moon Venus Asc](../triads/moon-venus-asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

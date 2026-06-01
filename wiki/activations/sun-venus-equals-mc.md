@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To love the world is one’s life path. To channel beauty in the world is one’
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/VENUS with Planets and Points`
+- Source page: `64`
+
 #### Munkasey Entry
 
 Building your reputation for being competent in artistic fields; adds to the respect others give you in return for your appreciation of their efforts; the maturity you bring when expressing love, caring, or affection to others.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Venus = MC`: graceful vocation, charming leadership, and outer direction strengthened through diplomacy, aesthetics, or relational intelligence. Main caution: image-centered purpose: self-worth and career can become too dependent on admiration or social ease.
@@ -76,6 +93,7 @@ Building your reputation for being competent in artistic fields; adds to the res
 - [Venus](../factors/venus.md)
 - [MC](../factors/mc.md)
 - [Sun/Venus](../axes/sun-venus.md)
+- [Sun Venus MC](../triads/sun-venus-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

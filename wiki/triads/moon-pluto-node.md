@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Moon Pluto Node`
 - Astronomicon triad-set: `R Z g`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Moon/Node = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `121`
-- `Moon/Node = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `175`
-- `Moon/Node = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `137`
-- `Moon/Node = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `37`
-- `Moon/Node = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `136`
-- `Moon/Pluto = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `129`
-- `Moon/Pluto = Node`: Udo Rudolph - ABC for Planetary Pictures, page `190`
-- `Moon/Pluto = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `135`
-- `Moon/Pluto = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `36`
-- `Moon/Pluto = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `132`
-- `Pluto/Node = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `148`
-- `Pluto/Node = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `222`
-- `Pluto/Node = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `293`
-- `Pluto/Node = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `114`
-- `Pluto/Node = Moon`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `344`
+- `Moon/Node = Pluto`: Michael, page `136`
+- `Moon/Pluto = Node`: Michael, page `132`
+- `Pluto/Node = Moon`: Michael, page `344`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Moon/Node = Pluto`: strong instinctive bonding, with relationships shaped by depth, loyalty, pressure, and transformative emotional involvement.
-- `Moon/Pluto = Node`: deep belonging under pressure, with attachment shaped by loyalty, emotional consequence, and transformative group or family ties.
-- `Pluto/Node = Moon`: a strongly binding social field, with family, emotional need, and unconscious attachment shaping consequential associations and group life.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

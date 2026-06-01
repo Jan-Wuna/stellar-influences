@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ Personal power expressed in a refined or subtle manner. Obsessively focus ing on
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/PLUTO with Planets and Points`
+- Source page: `88`
+
 #### Munkasey Entry
 
 Weakens resolve to conquer the world alone; a lessened intensity of purpose in life’s situations; receiving inspiration when you seek answers; increases the devotion you can give; recognizing a spiritual impact on life.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Pluto = Neptune`: the ability to perceive and work beneath the surface, especially where power and ego need healing or reorientation. Main caution: exhaustion: obsessive focus, undermined health, or self-sacrificing power struggles can consume force from within.
@@ -76,6 +93,7 @@ Weakens resolve to conquer the world alone; a lessened intensity of purpose in l
 - [Pluto](../factors/pluto.md)
 - [Neptune](../factors/neptune.md)
 - [Sun/Pluto](../axes/sun-pluto.md)
+- [Sun Neptune Pluto](../triads/sun-neptune-pluto.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

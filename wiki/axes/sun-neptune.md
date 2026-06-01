@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `SUN/NEPTUNE`
+- Source page: `83`
 
 #### Pair Summary
 
@@ -199,6 +202,9 @@ One's sensitivity to subtle forces from without. This may be experienced as weak
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/NEPTUNE`
+- Source page: `83`
+
 #### Basic Ideas
 
 This combination highlights the dreams you have about your ability and determination to present yourself as a competent and effective person. Your idealism molds your motives and purposes. You dream of competence and self-effectiveness. You become deceived by your own concepts of self-importance, and lavishly shower devotion on trivial matters. Your motivations are driven by nebulous goals, and you pull your authority from personal feelings of divinity. You mold your basic power and influence thru your dreams and illusions. You encourage idealism and discourage looking at the reality of life, you deceive others with your motives, bring authenticity to mystical adventures, and confuse your will and reasoning abilities with dreams about by your ability to build an ideal. Responsibility becomes a relatively meaningless concept, and happens to be a topic you like to avoid.
@@ -226,6 +232,15 @@ A weakened bodily constitution; a decrease of willpower; potential drug addictio
 
 - [Michael Munkasey - Sun/Neptune Concepts](../derived/munkasey-sun-neptune-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Sun/Neptune = Admetos](../activations/sun-neptune-equals-admetos.md)
@@ -250,7 +265,13 @@ A weakened bodily constitution; a decrease of willpower; potential drug addictio
 - [Sun/Neptune = Vulcanus](../activations/sun-neptune-equals-vulcanus.md)
 - [Sun/Neptune = Zeus](../activations/sun-neptune-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Neptune` is the axis of inspired identity, idealism, sensitivity, and the urge to dissolve the self into something subtler, higher, or more imaginative. It combines vitality and self-expression with vision, compassion, dream, glamour, and porous boundaries.

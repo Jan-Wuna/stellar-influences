@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Node Asc`
 - Astronomicon triad-set: `X g Asc`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Node/Asc = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `82`
-- `Node/Asc = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `105`
-- `Node/Asc = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `301`
-- `Node/Asc = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `118`
-- `Node/Asc = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `356`
-- `Uranus/Asc = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `88`
-- `Uranus/Asc = Node`: Udo Rudolph - ABC for Planetary Pictures, page `116`
-- `Uranus/Asc = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `276`
-- `Uranus/Asc = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `107`
-- `Uranus/Asc = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `320`
-- `Uranus/Node = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `146`
-- `Uranus/Node = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `218`
-- `Uranus/Node = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `273`
-- `Uranus/Node = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `106`
-- `Uranus/Node = Asc`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `316`
+- `Node/Asc = Uranus`: Michael, page `356`
+- `Uranus/Asc = Node`: Michael, page `320`
+- `Uranus/Node = Asc`: Michael, page `316`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Node/Asc = Uranus`: an unusual or unstable social identity, with close associations shaping the self through surprise, independence, and rapidly changing personal environments.
-- `Uranus/Asc = Node`: unusual friendships, unconventional partnerships, and identity shaped through contacts that awaken freedom or rupture expectation.
-- `Uranus/Node = Asc`: an unusual social presence, with identity shaped by sudden contact, unconventional association, and the power to unsettle or awaken others directly.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

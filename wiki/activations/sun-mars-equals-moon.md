@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ The emotional need to do things on one’s own. Feeling secure when one has a lo
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/MARS with Planets and Points`
+- Source page: `68`
+
 #### Munkasey Entry
 
 Your family’s role in helping you develop a drive to be competitive; timid mannerisms which you reverse by adding to your physical development and personal courage; avoiding confrontation by wavering or indecision.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Mars = Moon`: protective or decisive nurturance, emotional investment in achievement, and instinctive drive toward leadership or marriage-like commitment. Main caution: emotional domination: security needs can become controlling, impatient, or tied to being in charge.
@@ -76,6 +93,7 @@ Your family’s role in helping you develop a drive to be competitive; timid man
 - [Mars](../factors/mars.md)
 - [Moon](../factors/moon.md)
 - [Sun/Mars](../axes/sun-mars.md)
+- [Sun Moon Mars](../triads/sun-moon-mars.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

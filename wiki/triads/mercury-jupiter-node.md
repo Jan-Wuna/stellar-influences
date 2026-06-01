@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Jupiter Node`
 - Astronomicon triad-set: `T V g`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,27 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Jupiter/Node = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `144`
-- `Jupiter/Node = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `214`
-- `Jupiter/Node = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `238`
-- `Jupiter/Node = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `84`
-- `Jupiter/Node = Mercury`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `272`
-- `Mercury/Jupiter = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `161`
-- `Mercury/Jupiter = Node`: Udo Rudolph - ABC for Planetary Pictures, page `244`
-- `Mercury/Jupiter = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `44`
-- `Mercury/Jupiter = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `156`
-- `Mercury/Node = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `141`
-- `Mercury/Node = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `208`
-- `Mercury/Node = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `167`
-- `Mercury/Node = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `51`
-- `Mercury/Node = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `176`
+- `Jupiter/Node = Mercury`: Michael, page `272`
+- `Mercury/Jupiter = Node`: Michael, page `156`
+- `Mercury/Node = Jupiter`: Michael, page `176`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Jupiter/Node = Mercury`: sociable intelligence, shared success through ideas, and the ability to connect, organize, and encourage others by speech, thought, or planning.
-- `Mercury/Jupiter = Node`: broad intellectual connection, with ideas, study, and judgment expressed through sociability, teaching circles, or collaborative purpose.
-- `Mercury/Node = Jupiter`: helpful connection, with groups and relationships shaped by teaching, law, philosophy, or optimistic mental exchange.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

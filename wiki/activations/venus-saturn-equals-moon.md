@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ The emotional yearning for spiritual love, and/or for a deep romantic relation s
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `VENUS/SATURN with Planets and Points`
+- Source page: `196`
+
 #### Munkasey Entry
 
 Your instincts about wanting a simple life vacillate, and you are inconsistent between demanding luxury and seeking solitude; you find your pleasures often feel incomplete; you console those who find little or no love.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Venus/Saturn = Moon`: deep loyalty, dependable care, and the desire for affection that proves itself through time and constancy. Main caution: the heart can close around sadness, fear of rejection, or chronic emotional insufficiency.
@@ -76,6 +93,7 @@ Your instincts about wanting a simple life vacillate, and you are inconsistent b
 - [Saturn](../factors/saturn.md)
 - [Moon](../factors/moon.md)
 - [Venus/Saturn](../axes/venus-saturn.md)
+- [Moon Venus Saturn](../triads/moon-venus-saturn.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

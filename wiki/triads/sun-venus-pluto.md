@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Sun Venus Pluto`
 - Astronomicon triad-set: `S Q Z`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Sun/Pluto = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `110`
-- `Sun/Pluto = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `156`
-- `Sun/Pluto = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `102`
-- `Sun/Pluto = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `20`
-- `Sun/Pluto = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `88`
-- `Sun/Venus = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `104`
-- `Sun/Venus = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `145`
-- `Sun/Venus = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `84`
-- `Sun/Venus = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `10`
-- `Sun/Venus = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `64`
-- `Venus/Pluto = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `181`
-- `Venus/Pluto = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `280`
-- `Venus/Pluto = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `191`
-- `Venus/Pluto = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `62`
-- `Venus/Pluto = Sun`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `208`
+- `Sun/Pluto = Venus`: Michael, page `88`
+- `Sun/Venus = Pluto`: Michael, page `64`
+- `Venus/Pluto = Sun`: Michael, page `208`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Sun/Pluto = Venus`: passionate will in love and art, magnetic desire, and development through relationships that carry strong issues of value, attachment, and control.
-- `Sun/Venus = Pluto`: powerful love and value expression, with selfhood shaped by profound desire, consequence, and emotional or aesthetic force.
-- `Venus/Pluto = Sun`: compelling attraction, transformative love, and deep value intensity made central to selfhood, charisma, and will.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

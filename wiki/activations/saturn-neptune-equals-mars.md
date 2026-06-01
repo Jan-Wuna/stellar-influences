@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ One is capable of acting with subtle caution. Working hard to make one’s ideal
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SATURN/NEPTUNE with Planets and Points`
+- Source page: `288`
+
 #### Munkasey Entry
 
 Accelerates your haste and thus potential neglect of people or situations you encounter; defending practices which you feel are shabby; enlivening drab rituals which rely on ancient fantasies or myths; an old, active, mystic.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Saturn/Neptune = Mars`: difficult labor, sacrificial effort, and courage tested where clean force is unavailable. Main caution: depletion: anger, pressure, or urgency can burn through weak reserves and lead to collapse, sabotage, or wasted struggle.
@@ -76,6 +93,7 @@ Accelerates your haste and thus potential neglect of people or situations you en
 - [Neptune](../factors/neptune.md)
 - [Mars](../factors/mars.md)
 - [Saturn/Neptune](../axes/saturn-neptune.md)
+- [Mars Saturn Neptune](../triads/mars-saturn-neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

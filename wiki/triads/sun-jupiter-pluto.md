@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Sun Jupiter Pluto`
 - Astronomicon triad-set: `S V Z`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Jupiter/Pluto = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `210`
-- `Jupiter/Pluto = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `330`
-- `Jupiter/Pluto = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `235`
-- `Jupiter/Pluto = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `82`
-- `Jupiter/Pluto = Sun`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `268`
-- `Sun/Jupiter = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `106`
-- `Sun/Jupiter = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `149`
-- `Sun/Jupiter = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `90`
-- `Sun/Jupiter = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `12`
-- `Sun/Jupiter = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `72`
-- `Sun/Pluto = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `110`
-- `Sun/Pluto = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `156`
-- `Sun/Pluto = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `102`
-- `Sun/Pluto = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `20`
-- `Sun/Pluto = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `88`
+- `Jupiter/Pluto = Sun`: Michael, page `268`
+- `Sun/Jupiter = Pluto`: Michael, page `72`
+- `Sun/Pluto = Jupiter`: Michael, page `88`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Jupiter/Pluto = Sun`: large ambition, extraordinary force of personality, and the desire to master powerful capacities or stand out through unusual achievement.
-- `Sun/Jupiter = Pluto`: powerful expansion, confidence under pressure, and the capacity to reshape conditions through vision combined with concentrated will.
-- `Sun/Pluto = Jupiter`: disciplined power directed toward gain, advancement, and wider influence, with the will becoming both expansive and relentless.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Saturn MC`
 - Astronomicon triad-set: `T W MC`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mercury/MC = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `62`
-- `Mercury/MC = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `69`
-- `Mercury/MC = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `173`
-- `Mercury/MC = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `53`
-- `Mercury/MC = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `184`
-- `Mercury/Saturn = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `162`
-- `Mercury/Saturn = MC`: Udo Rudolph - ABC for Planetary Pictures, page `246`
-- `Mercury/Saturn = MC`: Reinhold Ebertin - The Combination of Stellar Influences, page `156`
-- `Mercury/Saturn = MC`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `45`
-- `Mercury/Saturn = MC`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `160`
-- `Saturn/MC = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `66`
-- `Saturn/MC = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `76`
-- `Saturn/MC = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `263`
-- `Saturn/MC = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `95`
-- `Saturn/MC = Mercury`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `304`
+- `Mercury/MC = Saturn`: Michael, page `184`
+- `Mercury/Saturn = MC`: Michael, page `160`
+- `Saturn/MC = Mercury`: Michael, page `304`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mercury/MC = Saturn`: slow, deep, and often troubled reflection about one's life path, with thinking turning toward renunciation, doubt, loss, or the need to work things out alone.
-- `Mercury/Saturn = MC`: reliable public intelligence, with method, caution, and administrative or analytical seriousness shaping reputation and vocation.
-- `Saturn/MC = Mercury`: serious career thinking, with plans, judgments, and communications shaped by caution, realism, and the need to define direction carefully.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

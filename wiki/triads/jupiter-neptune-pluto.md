@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Neptune Pluto`
 - Astronomicon triad-set: `V Y Z`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Jupiter/Neptune = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `209`
-- `Jupiter/Neptune = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `329`
-- `Jupiter/Neptune = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `232`
-- `Jupiter/Neptune = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `81`
-- `Jupiter/Neptune = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `264`
-- `Jupiter/Pluto = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `210`
-- `Jupiter/Pluto = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `331`
-- `Jupiter/Pluto = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `235`
-- `Jupiter/Pluto = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `82`
-- `Jupiter/Pluto = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `268`
-- `Neptune/Pluto = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `246`
-- `Neptune/Pluto = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `390`
-- `Neptune/Pluto = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `281`
-- `Neptune/Pluto = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `110`
-- `Neptune/Pluto = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `328`
+- `Jupiter/Neptune = Pluto`: Michael, page `264`
+- `Jupiter/Pluto = Neptune`: Michael, page `268`
+- `Neptune/Pluto = Jupiter`: Michael, page `328`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Jupiter/Neptune = Pluto`: deep amplification of dreams, speculation, or hidden developments, with the potential for profound transformation or equally profound loss when impracticality is pushed too far.
-- `Jupiter/Pluto = Neptune`: grand visionary aspiration, hidden or slowly forming change, and the ability to arouse great enthusiasm, for better or worse, through imaginal force.
-- `Neptune/Pluto = Jupiter`: profound idealism, with spiritual or collective transformation enlarged into vision, doctrine, or far-reaching aspiration.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

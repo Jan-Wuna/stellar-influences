@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Sun Jupiter Neptune`
 - Astronomicon triad-set: `S V Y`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Jupiter/Neptune = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `209`
-- `Jupiter/Neptune = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `328`
-- `Jupiter/Neptune = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `232`
-- `Jupiter/Neptune = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `81`
-- `Jupiter/Neptune = Sun`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `264`
-- `Sun/Jupiter = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `106`
-- `Sun/Jupiter = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `149`
-- `Sun/Jupiter = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `90`
-- `Sun/Jupiter = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `12`
-- `Sun/Jupiter = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `72`
-- `Sun/Neptune = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `109`
-- `Sun/Neptune = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `154`
-- `Sun/Neptune = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `99`
-- `Sun/Neptune = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `18`
-- `Sun/Neptune = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `84`
+- `Jupiter/Neptune = Sun`: Michael, page `264`
+- `Sun/Jupiter = Neptune`: Michael, page `72`
+- `Sun/Neptune = Jupiter`: Michael, page `84`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Jupiter/Neptune = Sun`: life energy fed by vision, faith, and intuitive imagination, but also a tendency to fuel the self through unrealistic hopes or deceptive self-belief.
-- `Sun/Jupiter = Neptune`: spiritual or imaginative optimism, generous ideals, and the hope that life can open through belief, dream, compassion, or subtle guidance.
-- `Sun/Neptune = Jupiter`: idealism supported by faith, enjoyment, or fortunate openings, and a tendency to pursue mystical, compassionate, or visionary aims with enthusiasm.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

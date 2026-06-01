@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `JUPITER/SATURN`
+- Source page: `255`
 
 #### Pair Summary
 
@@ -190,6 +193,9 @@ The balance between one's conservative and liberal sides. Optimism tempered by c
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `JUPITER/SATURN`
+- Source page: `255`
+
 #### Basic Ideas
 
 These planets bring cycles of expansion and contraction within all the varieties of lifestyle and activity which you experience. They represent your personal ambitions, expand your thinking with successful work ideas, or symbolize what you can or can not accomplish with your time and resources. They prompt you to exercise caution or restraint with your opportunities, help you focus your thinking with simple and quiet directness, and open you to accepting guidance about your life. You may find that they lessen your interest in pursuing religious or philosophical ideals, help you state your opinions more cautiously, and bring an increased understanding of how you can progress with your life. You may find a greater number of disappointments or delays, discover a lot of pessimism, and become frustrated when you rely too much on the opinions or promises of others.
@@ -217,6 +223,15 @@ Inflammation of the joints; calcium deposits in the liver or hip joints; fluid o
 
 - [Michael Munkasey - Jupiter/Saturn Concepts](../derived/munkasey-jupiter-saturn-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Jupiter/Saturn = Admetos](../activations/jupiter-saturn-equals-admetos.md)
@@ -241,7 +256,13 @@ Inflammation of the joints; calcium deposits in the liver or hip joints; fluid o
 - [Jupiter/Saturn = Vulcanus](../activations/jupiter-saturn-equals-vulcanus.md)
 - [Jupiter/Saturn = Zeus](../activations/jupiter-saturn-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Jupiter/Saturn` is the axis of disciplined growth, patient expansion, realism, moral judgment, and constructive achievement. It brings Jupiter's breadth and aspiration into Saturn's form, restraint, timing, and responsibility.

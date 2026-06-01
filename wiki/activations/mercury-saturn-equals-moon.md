@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ Mental clarity makes one feel secure, implying that one tends to feel better off
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MERCURY/SATURN with Planets and Points`
+- Source page: `160`
+
 #### Munkasey Entry
 
 Sensitive communications; thinking about your parents; care and discipline applied when releasing information; intuitive feelings about the data you receive in business settings; silent thinking or analysis on female matters.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mercury/Saturn = Moon`: seriousness of mind, reflective depth, and the ability to endure emotionally through mental control. Main caution: brooding heaviness: thought can become anxious, pessimistic, or overly burdened by feeling.
@@ -76,6 +93,7 @@ Sensitive communications; thinking about your parents; care and discipline appli
 - [Saturn](../factors/saturn.md)
 - [Moon](../factors/moon.md)
 - [Mercury/Saturn](../axes/mercury-saturn.md)
+- [Moon Mercury Saturn](../triads/moon-mercury-saturn.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

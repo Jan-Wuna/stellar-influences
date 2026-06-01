@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To love authorities in an idealized fashion. To need someone or some thing to wo
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `VENUS/MIDHEAVEN with Planets and Points`
+- Source page: `220`
+
 #### Munkasey Entry
 
 Avoiding commitment in love; enhanced needs for an artificial means of increasing your beauty; self-delusion in what you are able to learn from loving another; a lack of respect for those who love you, or vice-versa.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Venus/MC = Neptune`: artistic calling, charitable visibility, and outer direction opened by imagination or subtle allure. Main caution: diffuse ambition: public identity can drift into fantasy, image projection, or roles that are beautiful but poorly bounded.
@@ -76,6 +93,7 @@ Avoiding commitment in love; enhanced needs for an artificial means of increasin
 - [MC](../factors/mc.md)
 - [Neptune](../factors/neptune.md)
 - [Venus/MC](../axes/venus-mc.md)
+- [Venus Neptune MC](../triads/venus-neptune-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `VENUS/JUPITER`
+- Source page: `191`
 
 #### Pair Summary
 
@@ -176,6 +179,9 @@ Harmonious love expression, happiness. Artistic or other creative ability. To en
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `VENUS/JUPITER`
+- Source page: `191`
+
 #### Basic Ideas
 
 These planets symbolize showing grace when giving opinions, urge you to gain appreciation for the wisdom you encounter from others, and stimulate you to increase your manners and politeness when dealing with all people whatever the circumstances. Thru these themes you can derive pleasure and delight from opinions, religion, legal matters, ethics, or philosophy, and find joy and harmony in promoting optimism. These combine to increase your finances, bring you satisfaction from using and trying your luck, and in general bring you opportunities and chances which are fortunate. They enhance the softness, femininity, or mildness of your disposition, and bring urges to expand your participation with cultured and sophisticated styles. They can also extend your capacity for envy or jealousy, and present you with temptations which lure you away from work or obligations made.
@@ -203,6 +209,15 @@ The effects of indulgence on your body; accumulations of body fat; wasted muscle
 
 - [Michael Munkasey - Venus/Jupiter Concepts](../derived/munkasey-venus-jupiter-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Venus/Jupiter = Admetos](../activations/venus-jupiter-equals-admetos.md)
@@ -227,7 +242,13 @@ The effects of indulgence on your body; accumulations of body fat; wasted muscle
 - [Venus/Jupiter = Vulcanus](../activations/venus-jupiter-equals-vulcanus.md)
 - [Venus/Jupiter = Zeus](../activations/venus-jupiter-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Venus/Jupiter` is the axis of abundant affection, pleasure, generosity, beauty, and social ease. It combines attraction, art, value, and harmony with growth, optimism, popularity, prosperity, and the desire to enjoy life on a larger scale.

@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To catch people off guard and surprise others as a means of asserting or gaining
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `URANUS/ASCENDANT with Planets and Points`
+- Source page: `320`
+
 #### Munkasey Entry
 
 May lower you in the opinion of others who already think you are too unconventional; extremes and varieties of behavior peculiarities; eliminating habits which others find distasteful; changes which have morbid outcomes.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Uranus/Asc = Pluto`: strong impact, uncompromising authenticity, and the ability to alter the field around oneself quickly and deeply. Main caution: extremity: power struggles, shock tactics, or obsessive independence can isolate or destabilize the person.
@@ -76,6 +93,7 @@ May lower you in the opinion of others who already think you are too unconventio
 - [Asc](../factors/asc.md)
 - [Pluto](../factors/pluto.md)
 - [Uranus/Asc](../axes/uranus-asc.md)
+- [Uranus Pluto Asc](../triads/uranus-pluto-asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

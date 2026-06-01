@@ -64,7 +64,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -76,6 +76,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `NEPTUNE/PLUTO`
+- Source page: `327`
 
 #### Pair Summary
 
@@ -133,6 +136,9 @@ Hidden transformations, or transformations that involve the disappearance of thi
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `NEPTUNE/PLUTO`
+- Source page: `327`
+
 #### Basic Ideas
 
 Looseness and relaxation meet seething and intensity, and these themes may cause you to ignore or neglect the pre-occupation you have had with matters which previously absorbed your interests. They may prompt you to study mysticism or the occult arts for their ability to help you maintain control of self or others. You may find that your need for sexual fulfillment diminishes. You may seek out new themes for your idealism, use drugs which provide artificial stimulation, or revisit your feelings about the nature of reality or your life’s purposes. Your decisions to start projects or matters anew, neglect of your basic passions or desires, or any dramatic change in your intensity to pursue goals can also start here. Feelings of ambiguity about your aims or goals, or inner attitudes toward the necessity for certain forms of reality (like a job, a career, a home, marriage, etc.) may also be confronted.
@@ -160,6 +166,15 @@ Extreme reactions to drugs; weakness in the endocrine gland system; cell formati
 
 - [Michael Munkasey - Neptune/Pluto Concepts](../derived/munkasey-neptune-pluto-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Neptune/Pluto = Admetos](../activations/neptune-pluto-equals-admetos.md)
@@ -184,7 +199,13 @@ Extreme reactions to drugs; weakness in the endocrine gland system; cell formati
 - [Neptune/Pluto = Vulcanus](../activations/neptune-pluto-equals-vulcanus.md)
 - [Neptune/Pluto = Zeus](../activations/neptune-pluto-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Neptune/Pluto` is the axis of deep invisible transformation, collective psychic pressure, and the dissolution and remaking of hidden realities. It combines dream, imagination, mysticism, and diffusion with intensity, regeneration, secrecy, and long-wave evolutionary change.

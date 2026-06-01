@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MERCURY/VENUS`
+- Source page: `147`
 
 #### Pair Summary
 
@@ -157,6 +160,9 @@ The ability to communicate love and affection. Aesthetic thoughts. The ability t
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MERCURY/VENUS`
+- Source page: `147`
+
 #### Basic Ideas
 
 Versatility and shrewdness combine with charm and allure to bring you an appreciation of clever ideas, or methods of verbal or written expression. Your satisfaction and pleasure from learning something new is heightened, you find joy when words or ideas are expressed beautifully, and thoughts about satisfying others are prompted. You may think a lot about relationships, reason yourself out of appeasing another’s interests, and have ideas on clever ways to indulge yourself at another’s expense. Your love for the sound of language is augmented, and notions about how to tease or tempt others arise. Studies on how to use charm and beauty to attract the things you want, research on the role of glamour and allure, and an education about using personal beauty aids is also emphasized. You may feel some forms of nervousness when having to express feelings of affection for another.
@@ -184,6 +190,15 @@ Oxygen levels in the blood; the efficiency of your lungs; food allergies and rea
 
 - [Michael Munkasey - Mercury/Venus Concepts](../derived/munkasey-mercury-venus-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Mercury/Venus = Admetos](../activations/mercury-venus-equals-admetos.md)
@@ -208,7 +223,13 @@ Oxygen levels in the blood; the efficiency of your lungs; food allergies and rea
 - [Mercury/Venus = Vulcanus](../activations/mercury-venus-equals-vulcanus.md)
 - [Mercury/Venus = Zeus](../activations/mercury-venus-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mercury/Venus` is the axis of graceful thought, pleasant speech, aesthetic judgment, diplomacy, and the communication of affection, beauty, and social ease. It combines intellect and language with taste, charm, value, and the wish for harmonious exchange.

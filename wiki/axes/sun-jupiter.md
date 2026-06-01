@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `SUN/JUPITER`
+- Source page: `71`
 
 #### Pair Summary
 
@@ -184,6 +187,9 @@ The will to grow, expand, and experience as much of the universe as possible. Ph
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/JUPITER`
+- Source page: `71`
+
 #### Basic Ideas
 
 This combination focuses on developing the competence and enthusiasm required to win even greater approval for your activities. Thru these themes you begin to build and develop the vitality, influence, and effectiveness you need to succeed in life. The way you encourage others, the support you win from people because of the dominance and competence you build thru your efforts, your confidence while doing your work, and your ability to gather acclaim for your judgment and insight all begin here. Your aspiration to motivate self and others, your personal enthusiasm for life, your need to delve into the philosophy of life and answer its mysteries, and your personal sense that success breeds success, begin here. These planets may also heighten an inner arrogant optimism that you can not fail, present you with lucky breaks, and bring beliefs that you are superior to others.
@@ -211,6 +217,15 @@ Your personal vitality and vigor; excessive cholesterol deposits in the heart ar
 
 - [Michael Munkasey - Sun/Jupiter Concepts](../derived/munkasey-sun-jupiter-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Sun/Jupiter = Admetos](../activations/sun-jupiter-equals-admetos.md)
@@ -235,7 +250,13 @@ Your personal vitality and vigor; excessive cholesterol deposits in the heart ar
 - [Sun/Jupiter = Vulcanus](../activations/sun-jupiter-equals-vulcanus.md)
 - [Sun/Jupiter = Zeus](../activations/sun-jupiter-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Jupiter` is the axis of confident growth, recognition, vitality, success, and the urge to enlarge life through faith, meaning, opportunity, and achievement. It combines self-expression with optimism, generosity, status, and the will to rise.

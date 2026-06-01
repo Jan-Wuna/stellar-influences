@@ -63,7 +63,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -75,6 +75,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `SATURN/MIDHEAVEN`
+- Source page: `303`
 
 #### Pair Summary
 
@@ -126,6 +129,9 @@ One's own uniqueness. To have a strong sense of who one is, to have a precisely 
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SATURN/MIDHEAVEN`
+- Source page: `303`
+
 #### Basic Ideas
 
 A difficult and spartan early life sets the tone for your developing into a person who becomes determined to stand on their own in life. You grow to find that much of your life is spent in taking a realistic look at self and your capabilities and developing and using these so people will notice your accomplishments and contributions. You like to start at levels which place you subordinate to others, but you are willing to work harder than most to surpass all. You find vindication and success only thru much hard work, persistent application of your schooling or learning, and full dedication to self, work, and/or personal interests. The legacy you leave behind you endures, and you spend much time in early middle life trying to find the person you are and what your life’s goals can be. Discipline becomes a close companion from an early age, and you find that you prefer solitude to friendships.
@@ -153,6 +159,15 @@ Seeking psychological counseling to find the person you are or should be; adopti
 
 - [Michael Munkasey - Saturn/MC Concepts](../derived/munkasey-saturn-mc-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Saturn/MC = Admetos](../activations/saturn-mc-equals-admetos.md)
@@ -177,7 +192,13 @@ Seeking psychological counseling to find the person you are or should be; adopti
 - [Saturn/MC = Vulcanus](../activations/saturn-mc-equals-vulcanus.md)
 - [Saturn/MC = Zeus](../activations/saturn-mc-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Saturn/MC` is the axis of burdened vocation, disciplined ambition, and life direction shaped by duty, delay, and endurance. It combines structure, pressure, realism, and persistence with purpose, status, self-definition, and public development.

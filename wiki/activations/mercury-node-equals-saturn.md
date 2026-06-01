@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ Shyness in sharing ideas with others. Feeling limited or inadequate when one att
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MERCURY/NODE with Planets and Points`
+- Source page: `176`
+
 #### Munkasey Entry
 
 Disciplined thoughts on effectively getting your message across to the bulk of the people; the lasting bonds and ties that you have developed thru groups of friends; ties to conservative organizations; fated talks on destiny.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mercury/Node = Saturn`: dependable collaboration, mature dialogue, and networks that function through order, boundaries, and sustained mental effort. Main caution: heavy or transactional relating: communication can become too formal, guarded, or narrowed by fear and duty.
@@ -76,6 +93,7 @@ Disciplined thoughts on effectively getting your message across to the bulk of t
 - [Node](../factors/node.md)
 - [Saturn](../factors/saturn.md)
 - [Mercury/Node](../axes/mercury-node.md)
+- [Mercury Saturn Node](../triads/mercury-saturn-node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

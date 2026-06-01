@@ -14,7 +14,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -83,6 +83,9 @@ Although fear and panic are aspects of Mars's energies, they do not represent it
 Mars's expression are blocked. As we have already mentioned in connection with. Venus, Mars has a vital role to play in love. Obviously, as the planet of conflict, it does not symbolize love itself. But it is necessary for love: only people who have realized their Mars, who have formed and defined their individuality and learned to maintain it in the face of resistance, can truly love and be loved. Love has a self-expressive quality as much as a quality of merging with another. In fact, in many animals, including human beings, there is a strong connection between sexual behavior and fighting. The intensity of sexual passion is the result simultaneously of the expression of selfish energies (Mars) and an experience of merging (Venus). Keeping the balance between these two energies is one of the difficulties in sexual relationships. Men in particular, who traditionally are more identified with the Mars facet of sexuality, may act selfishly in love relationships, exploiting and using women. Women, on the other hand, who have traditionally been identified with the Venus aspect of sexuality, may demand too little of a relationship and may allow themselves to be exploited. This, too, is changing, as both sexes are becoming increasingly aware of the need to experience both Venus and Mars in sexual expression. This brings us to an important point which has not been made clear in older texts. Neither Venus nor Mars alone is the planet of sexuality. It is the combination of the two that rules sexual passion. And other planets, including Pluto, have lesser roles to play. It is not correct to describe Mars as masculine sexuality and Venus as feminine sexuality, except with respect to veiy primitive notions of sexuality. Ideally, both sexes should manifest both energies. The complete human being will always have a strong Mars balanced by a strong Venus, and will be able to avoid extremes of conflict and passivity.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `MARS`
+- Source page: `46`
 
 #### Basic Ideas
 
@@ -174,7 +177,21 @@ Mars's expression are blocked. As we have already mentioned in connection with. 
 - Wars
 - Weaponry
 
+## Comparative Schema
+
+- core meaning: source-native factor entries are preserved side by side above.
+- psychology: source-specific psychological and doctrinal emphases remain attached to their own source blocks instead of being flattened.
+- body/health: bodily wording remains inside each contributing source block when present.
+- social/relationship: interpersonal implications remain attached to each source's own phrasing.
+- events/manifestations: source-specific extensions remain attached to the source entry that states them.
+- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
+
+## Contradictions and Framework Notes
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mars` is the factor of activity, force, work, action, production, assertion, courage, and the survival impulse that pushes life to act, defend itself, compete, and accomplish.
@@ -207,6 +224,10 @@ Mars's expression are blocked. As we have already mentioned in connection with. 
 - [Venus/Mars](../axes/venus-mars.md)
 - [Vernal Point/Mars](../axes/vernal-point-mars.md)
 
+## Related Activations
+
+- None recorded yet.
+
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
@@ -214,3 +235,7 @@ Mars's expression are blocked. As we have already mentioned in connection with. 
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+
+## Open Questions
+
+- None recorded yet.

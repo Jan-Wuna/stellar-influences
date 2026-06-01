@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MOON/SATURN`
+- Source page: `119`
 
 #### Pair Summary
 
@@ -184,6 +187,9 @@ Feelings of loneliness. Feeling cut off or alienated, not caring for or being ca
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MOON/SATURN`
+- Source page: `119`
+
 #### Basic Ideas
 
 The feelings and attitudes you have about your parents, and how they influenced your potential and leanings. Your ability to acquire humility and simplicity, the restraint you show during appearances before the public, and psychological changes which help you use your time resources more effectively, all start here. These planets also concern the restrictions you place on showing your emotions, disappointments you encounter with various forms of protection (personal or material), and your attitudes toward self-discipline. The caution with which you express your emotional feelings, your willingness to follow or use the guidance your parents gave you, the silence you show when your vulnerabilities are exposed, and uncertainties you feel when you meet any restrictions or impediments to making progress in life, are also a basic part of the meaning of these bodies.
@@ -211,6 +217,15 @@ Hypo-acidity conditions in the stomach; fluids collecting in joints; water on th
 
 - [Michael Munkasey - Moon/Saturn Concepts](../derived/munkasey-moon-saturn-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Moon/Saturn = Admetos](../activations/moon-saturn-equals-admetos.md)
@@ -235,7 +250,13 @@ Hypo-acidity conditions in the stomach; fluids collecting in joints; water on th
 - [Moon/Saturn = Vulcanus](../activations/moon-saturn-equals-vulcanus.md)
 - [Moon/Saturn = Zeus](../activations/moon-saturn-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Moon/Saturn` is the axis of emotional restraint, duty, sobriety, and the hard lessons of security, deprivation, and endurance. It combines feeling, habit, and care with caution, structure, loneliness, discipline, and the need to manage vulnerability carefully.

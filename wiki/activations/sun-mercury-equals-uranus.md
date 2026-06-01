@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ An ability to bring to light ideas that others did not see or expect. An usual m
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/MERCURY with Planets and Points`
+- Source page: `60`
+
 #### Munkasey Entry
 
 Reasoning and thinking about informal or novel ways of communicating to others; electro-mechanical devices which enhance communications or store or transmit ideas well; upsetting discussions with others; contrary thoughts.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Mercury = Uranus`: technical or reforming intelligence, surprising ideas, and independence in thought and speech. Main caution: irregularity: thinking can become erratic, overstimulated, or so unconventional that others find it hard to follow or trust.
@@ -76,6 +93,7 @@ Reasoning and thinking about informal or novel ways of communicating to others; 
 - [Mercury](../factors/mercury.md)
 - [Uranus](../factors/uranus.md)
 - [Sun/Mercury](../axes/sun-mercury.md)
+- [Sun Mercury Uranus](../triads/sun-mercury-uranus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

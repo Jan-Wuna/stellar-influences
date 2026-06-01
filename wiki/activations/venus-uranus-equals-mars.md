@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ One is passionate in expressing one’s love in an open, uninhibited fashion. On
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `VENUS/URANUS with Planets and Points`
+- Source page: `200`
+
 #### Munkasey Entry
 
 Effort and energy placed into novel or unique forms of appreciation and/or satisfaction; sexual love tested in an odd or extra-ordinary manner; an emotionless way of throwing yourself into weird forms or art or enjoyment.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Venus/Uranus = Mars`: romantic daring, erotic experimentation, and the ability to act boldly on attraction, creativity, or the need for freedom. Main caution: desire can become rash, combative, or inconsistent, producing hot-cold pursuit and abrupt conflict.
@@ -76,6 +93,7 @@ Effort and energy placed into novel or unique forms of appreciation and/or satis
 - [Uranus](../factors/uranus.md)
 - [Mars](../factors/mars.md)
 - [Venus/Uranus](../axes/venus-uranus.md)
+- [Venus Mars Uranus](../triads/venus-mars-uranus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

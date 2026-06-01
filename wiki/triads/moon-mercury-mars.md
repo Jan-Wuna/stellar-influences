@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Moon Mercury Mars`
 - Astronomicon triad-set: `R T U`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mercury/Mars = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `160`
-- `Mercury/Mars = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `242`
-- `Mercury/Mars = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `149`
-- `Mercury/Mars = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `42`
-- `Mercury/Mars = Moon`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `152`
-- `Moon/Mars = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `124`
-- `Moon/Mars = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `180`
-- `Moon/Mars = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `120`
-- `Moon/Mars = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `28`
-- `Moon/Mars = Mercury`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `112`
-- `Moon/Mercury = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `122`
-- `Moon/Mercury = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `176`
-- `Moon/Mercury = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `114`
-- `Moon/Mercury = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `25`
-- `Moon/Mercury = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `104`
+- `Mercury/Mars = Moon`: Michael, page `152`
+- `Moon/Mars = Mercury`: Michael, page `112`
+- `Moon/Mercury = Mars`: Michael, page `104`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mercury/Mars = Moon`: emotionally charged speech, the urge to clear the air through argument, and quick verbal reactions when hurt, insecure, or stirred up.
-- `Moon/Mars = Mercury`: quick emotional thought, with instinct and feeling expressed through sharp speech, fast reaction, and mentally active self-defense.
-- `Moon/Mercury = Mars`: candid but heated communication, with feeling and mind moving rapidly into argument, defense, or decisive response.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

@@ -63,7 +63,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -75,6 +75,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `SATURN/ASCENDANT`
+- Source page: `299`
 
 #### Pair Summary
 
@@ -126,6 +129,9 @@ To separate from another in a close relationship. Difficulty in forming close re
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SATURN/ASCENDANT`
+- Source page: `299`
+
 #### Basic Ideas
 
 This combination represents an inward focus and brings a preference to shut the world away from view. Finding an inner enjoyment in the silence of your own space, you do not show much interest in the impressions or reactions of others and you prefer to keep your concerns and observations about life to yourself. You find it easy to close yourself off in your inner world, and to exclude the reactions of people around you from your personal space, even when you are in a crowd. You derive satisfaction in this self-imposed mental isolation. You experience the world thru abbreviated views of outer reality, you find your surroundings uninteresting (for the most part), and you restrain your attitudes and interactions with others so that you can remain in your own mental space. You discipline yourself to avoid receiving impressions from others, and are selective in your personal responses.
@@ -153,6 +159,15 @@ Hemorrhoids; arthritis; swollen or painful joints; cataracts; vision problems; t
 
 - [Michael Munkasey - Saturn/Asc Concepts](../derived/munkasey-saturn-asc-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Saturn/Asc = Admetos](../activations/saturn-asc-equals-admetos.md)
@@ -177,7 +192,13 @@ Hemorrhoids; arthritis; swollen or painful joints; cataracts; vision problems; t
 - [Saturn/Asc = Vulcanus](../activations/saturn-asc-equals-vulcanus.md)
 - [Saturn/Asc = Zeus](../activations/saturn-asc-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Saturn/Asc` is the axis of reserve, restraint, and seriousness in the way one presents oneself and meets other people. It combines limit, endurance, duty, and inhibition with personality, physical presence, close surroundings, and one-to-one contact.

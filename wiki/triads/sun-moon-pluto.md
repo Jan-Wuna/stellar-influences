@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Sun Moon Pluto`
 - Astronomicon triad-set: `S R Z`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Moon/Pluto = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `129`
-- `Moon/Pluto = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `190`
-- `Moon/Pluto = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `135`
-- `Moon/Pluto = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `36`
-- `Moon/Pluto = Sun`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `132`
-- `Sun/Moon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `101`
-- `Sun/Moon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `139`
-- `Sun/Moon = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `78`
-- `Sun/Moon = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `6`
-- `Sun/Moon = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `56`
-- `Sun/Pluto = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `110`
-- `Sun/Pluto = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `156`
-- `Sun/Pluto = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `102`
-- `Sun/Pluto = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `20`
-- `Sun/Pluto = Moon`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `88`
+- `Moon/Pluto = Sun`: Michael, page `132`
+- `Sun/Moon = Pluto`: Michael, page `56`
+- `Sun/Pluto = Moon`: Michael, page `88`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Moon/Pluto = Sun`: a deeply charged selfhood, with identity shaped by instinctive depth, emotional force, and the need to survive and transform through feeling.
-- `Sun/Moon = Pluto`: profound relational or inner bonding, with identity and feeling fused through crisis, depth, and the need to confront what lies beneath ordinary balance.
-- `Sun/Pluto = Moon`: strong feeling tied to power, the need to matter deeply, and emotional reactions that can become suppressive, intense, or hard to regulate.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

@@ -63,7 +63,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -75,6 +75,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MOON/MIDHEAVEN`
+- Source page: `143`
 
 #### Pair Summary
 
@@ -126,6 +129,9 @@ One's own feelings and attitudes, especially those conditioned most by early exp
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MOON/MIDHEAVEN`
+- Source page: `143`
+
 #### Basic Ideas
 
 These points denote your capacity to combine qualities such as mothering, caring, sensitivity, support, and sympathy into your overall personal development and behavior. Your uncertainties over how to mature and grow independently, how to gain respectability from others, how to improve your reputation, and what your personal rules of conduct and behavior may be, are mirrored here. When these points are activated you again feel the strong maternal-like influences which originated in your childhood, and from these experiences remember and expect continuing motherly protection and sympathy as life’s cares press you, even after you have reached adulthood. You show a sensitivity toward understanding your life’s purposes, become emotional when having to cope with external stresses, and may be inconsistent with your emphasis in developing internal self-sufficiency.
@@ -153,6 +159,15 @@ Family genetic patterns which make you crave or be sensitive to certain drugs; h
 
 - [Michael Munkasey - Moon/MC Concepts](../derived/munkasey-moon-mc-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Moon/MC = Admetos](../activations/moon-mc-equals-admetos.md)
@@ -177,7 +192,13 @@ Family genetic patterns which make you crave or be sensitive to certain drugs; h
 - [Moon/MC = Vulcanus](../activations/moon-mc-equals-vulcanus.md)
 - [Moon/MC = Zeus](../activations/moon-mc-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Moon/MC` is the axis of soul expression, emotional vocation, and life direction shaped by feeling, family imprint, and receptivity. It combines mood, memory, nurture, and instinct with purpose, reputation, self-direction, and the way one lives out inner needs in the world.

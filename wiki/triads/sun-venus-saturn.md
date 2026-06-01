@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Sun Venus Saturn`
 - Astronomicon triad-set: `S Q W`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Sun/Saturn = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `107`
-- `Sun/Saturn = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `150`
-- `Sun/Saturn = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `93`
-- `Sun/Saturn = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `14`
-- `Sun/Saturn = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `76`
-- `Sun/Venus = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `104`
-- `Sun/Venus = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `145`
-- `Sun/Venus = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `84`
-- `Sun/Venus = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `10`
-- `Sun/Venus = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `64`
-- `Venus/Saturn = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `178`
-- `Venus/Saturn = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `274`
-- `Venus/Saturn = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `182`
-- `Venus/Saturn = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `57`
-- `Venus/Saturn = Sun`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `196`
+- `Sun/Saturn = Venus`: Michael, page `76`
+- `Sun/Venus = Saturn`: Michael, page `64`
+- `Venus/Saturn = Sun`: Michael, page `196`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Sun/Saturn = Venus`: loyal but restrained attachment, dutiful love, and values shaped by caution, thrift, and the need for dependable bonds.
-- `Sun/Venus = Saturn`: guarded but enduring affection, with love and self-expression shaped by patience, commitment, and the need to prove worth over time.
-- `Venus/Saturn = Sun`: restrained affection, serious love, and value tested through time, duty, and limitation made central to character, self-worth, and life direction.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

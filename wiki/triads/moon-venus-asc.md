@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Moon Venus Asc`
 - Astronomicon triad-set: `R Q Asc`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,27 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Moon/Asc = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `81`
-- `Moon/Asc = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `102`
-- `Moon/Asc = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `39`
-- `Moon/Asc = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `140`
-- `Moon/Venus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `123`
-- `Moon/Venus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `178`
-- `Moon/Venus = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `118`
-- `Moon/Venus = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `27`
-- `Moon/Venus = Asc`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `108`
-- `Venus/Asc = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `84`
-- `Venus/Asc = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `108`
-- `Venus/Asc = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `196`
-- `Venus/Asc = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `65`
-- `Venus/Asc = Moon`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `216`
+- `Moon/Asc = Venus`: Michael, page `140`
+- `Moon/Venus = Asc`: Michael, page `108`
+- `Venus/Asc = Moon`: Michael, page `216`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Moon/Asc = Venus`: gentle emotional charm, with personality shaped by tenderness, receptivity, and the wish to create comfort and harmony in close contact.
-- `Moon/Venus = Asc`: channels the tender, receptive love of the Moon/Venus axis through the Asc, making affection visible in personality, manner, and immediate contact. It points to emotional warmth and softness that shows itself directly in presence, charm, and everyday rapport.
-- `Venus/Asc = Moon`: warm, receptive charm, with personal presence shaped by tenderness, comfort, and the wish to create emotional ease in close contact.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

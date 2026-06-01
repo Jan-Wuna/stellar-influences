@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Uranus Asc`
 - Astronomicon triad-set: `V X Asc`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Jupiter/Asc = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `86`
-- `Jupiter/Asc = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `113`
-- `Jupiter/Asc = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `241`
-- `Jupiter/Asc = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `85`
-- `Jupiter/Asc = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `276`
-- `Jupiter/Uranus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `208`
-- `Jupiter/Uranus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `326`
-- `Jupiter/Uranus = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `230`
-- `Jupiter/Uranus = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `80`
-- `Jupiter/Uranus = Asc`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `260`
-- `Uranus/Asc = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `88`
-- `Uranus/Asc = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `116`
-- `Uranus/Asc = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `275`
-- `Uranus/Asc = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `107`
-- `Uranus/Asc = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `320`
+- `Jupiter/Asc = Uranus`: Michael, page `276`
+- `Jupiter/Uranus = Asc`: Michael, page `260`
+- `Uranus/Asc = Jupiter`: Michael, page `320`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Jupiter/Asc = Uranus`: unexpected luck, rapid rearrangement of conditions, and an optimistic openness to new social or personal possibilities.
-- `Jupiter/Uranus = Asc`: an open, independent, and experimental way of meeting life that often attracts happy surprises, useful connections, or a freer environment.
-- `Uranus/Asc = Jupiter`: an expansive unconventional presence, with opportunities opening through independence, originality, and bold self-projection.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

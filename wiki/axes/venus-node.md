@@ -63,7 +63,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -75,6 +75,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `VENUS/NODE`
+- Source page: `211`
 
 #### Pair Summary
 
@@ -126,6 +129,9 @@ Love connections or meetings. Connections or meetings with friends or beautiful 
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `VENUS/NODE`
+- Source page: `211`
+
 #### Basic Ideas
 
 The pleasure and cooperation received from acquaintances made or associations joined is shown here. These themes emphasize the delight experienced in being with people who share similar interests, the satisfaction derived from attracting and finding people who can help you with your interests, and the satisfaction gotten from identifying and correctly following your life’s destiny. Any reimbursements delayed by bureaucratic shufflings, devotion given to groups with matching interests, and indulgence which arises from past habit patterns, also starts here. Affiliations with artistically creative persons, an ability to present yourself as a pacifist at meetings, presentations where recognition or monetary rewards for past activities is received, the use of bribes to acquire close access to others, and resentment over the conduct of meetings are also symbolized by these themes.
@@ -153,6 +159,15 @@ Your ability to relax with friends; associates who help you with your medical pr
 
 - [Michael Munkasey - Venus/Node Concepts](../derived/munkasey-venus-node-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Venus/Node = Admetos](../activations/venus-node-equals-admetos.md)
@@ -177,7 +192,13 @@ Your ability to relax with friends; associates who help you with your medical pr
 - [Venus/Node = Vulcanus](../activations/venus-node-equals-vulcanus.md)
 - [Venus/Node = Zeus](../activations/venus-node-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Venus/Node` is the axis of loving connection, social cooperation, and alliances built on affection, pleasure, beauty, or shared taste. It combines harmony, attraction, friendliness, and value with meetings, friendship, groups, and the bonds that draw people together.

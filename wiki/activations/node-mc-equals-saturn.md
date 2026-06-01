@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ Frustration concerning progress in one’s career and one’s relationship to th
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `NODE/MIDHEAVEN with Planets and Points`
+- Source page: `360`
+
 #### Munkasey Entry
 
 Admiration for those who have upheld principles similar to yours; frustration in not being able to make proper contacts; losing contact with friends who share your ideas and goals; sharing expertise at basic levels with others.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Node/MC = Saturn`: durable partnership, disciplined cooperation, and the ability to build a life direction patiently with others. Main caution: burdened belonging: associations can become restrictive, dutiful without warmth, or too heavy to allow living development.
@@ -76,6 +93,7 @@ Admiration for those who have upheld principles similar to yours; frustration in
 - [MC](../factors/mc.md)
 - [Saturn](../factors/saturn.md)
 - [Node/MC](../axes/node-mc.md)
+- [Saturn Node MC](../triads/saturn-node-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

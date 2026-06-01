@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ A receptiveness to subtle communications. The emotional need to fantasize, and i
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MERCURY/NEPTUNE with Planets and Points`
+- Source page: `168`
+
 #### Munkasey Entry
 
 Increased sensitivity to thoughts or ideas about how the mystical or spiritual realms work; opened receptivity to channeling information from non-physical sources; intuitive thoughts which bring confusion and questions.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mercury/Neptune = Moon`: poetic memory, subtle receptivity, and the ability to sense and verbalize emotional undercurrents delicately. Main caution: mental-emotional blur: mood and suggestion can overtake fact, making thought and communication less stable.
@@ -76,6 +93,7 @@ Increased sensitivity to thoughts or ideas about how the mystical or spiritual r
 - [Neptune](../factors/neptune.md)
 - [Moon](../factors/moon.md)
 - [Mercury/Neptune](../axes/mercury-neptune.md)
+- [Moon Mercury Neptune](../triads/moon-mercury-neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

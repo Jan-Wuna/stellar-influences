@@ -64,7 +64,7 @@ source_pages:
   - robert-hand-horoscope-symbols
   - don-mcbroom-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -75,6 +75,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `ASCENDANT/MIDHEAVEN`
+- Source page: `363`
 
 #### Pair Summary
 
@@ -132,6 +135,9 @@ The Ascendant/Midheaven midpoint links together our personal identity with our p
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `ASCENDANT/MIDHEAVEN`
+- Source page: `363`
+
 #### Basic Ideas
 
 The understanding you bring to interpersonal situations thru the expertise or knowledge you have accumulated during your life, and your perceptions and comprehension about what you must do to become a better person or better your lot in life, are represented here. These themes help you with efforts (education, work, friendships formed, travel, etc.) to enrich your life’s experiences, bring attention for the work you do, and help add to recognition for your endeavors. Your sense of belonging within a community or family environment, the growth of your intellectual capabilities by absorbing the lessons of life, your effort to enrich yourself or expand your lifestyle, and your reflection about situations in life all start here. How you can or cannot relate and grow thru life’s experiences, and the feedback you receive from friends about your personal status and development also start here.
@@ -159,6 +165,15 @@ Psychological growth experiences; the amount of maturing you do thru your reacti
 
 - [Michael Munkasey - Asc/MC Concepts](../derived/munkasey-asc-mc-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Asc/MC = Admetos](../activations/asc-mc-equals-admetos.md)
@@ -183,7 +198,13 @@ Psychological growth experiences; the amount of maturing you do thru your reacti
 - [Asc/MC = Vulcanus](../activations/asc-mc-equals-vulcanus.md)
 - [Asc/MC = Zeus](../activations/asc-mc-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Asc/MC` is the core angular axis of personal identity meeting life direction, public role, and relationship stance. It describes how the private self, the lived personality, and the outward course of life are brought into one working whole.

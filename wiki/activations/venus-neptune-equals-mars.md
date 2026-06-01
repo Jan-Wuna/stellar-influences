@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To assert oneself with a smooth or polished subtlety. A passionate expression of
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `VENUS/NEPTUNE with Planets and Points`
+- Source page: `204`
+
 #### Munkasey Entry
 
 Actively pursuing deceptions and disguises as a way of life; added courage when attempting to evade a situation, or escape from difficult surroundings; heightened irritation with failures; rushed illusions done for gain.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Venus/Neptune = Mars`: inspired artistry, passionate compassion, and the ability to act on subtle emotional or aesthetic impulses. Main caution: confused desire: attraction can become deceptive, escapist, or drawn toward what is exciting precisely because it is unclear.
@@ -76,6 +93,7 @@ Actively pursuing deceptions and disguises as a way of life; added courage when 
 - [Neptune](../factors/neptune.md)
 - [Mars](../factors/mars.md)
 - [Venus/Neptune](../axes/venus-neptune.md)
+- [Venus Mars Neptune](../triads/venus-mars-neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

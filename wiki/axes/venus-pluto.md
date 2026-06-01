@@ -64,7 +64,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -76,6 +76,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `VENUS/PLUTO`
+- Source page: `207`
 
 #### Pair Summary
 
@@ -133,6 +136,9 @@ The power of love to transform, love used as a device for creating transformatio
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `VENUS/PLUTO`
+- Source page: `207`
+
 #### Basic Ideas
 
 The use of financial or personal resources to increase power or prestige, deriving satisfaction from punishing activities, and taking delight with hidden or concealed activities. These themes heighten needs to promise anything so personal power can be augmented. They bring an obsession with beauty and glamour, and symbolize throwing yourself wholeheartedly into passion. They increase awareness of needs to purify or cleanse, allow reversals of rage or jealousy, and heighten pleasure from intense sexual activity. They may bring a compulsive need to act in a civil manner, activate feelings of pleasure from destroying people or things, or hide intense and deep feelings of passion or attachment for another. They may bring extremes of passion or pleasure or urges to contaminate or ruin pretty places (by littering, defacing, etc.), or indicate criminals hiding behind visions of luxury.
@@ -160,6 +166,15 @@ Hyper or hypo-thyroidism; toxins which overwhelm the kidneys; tonsillitis with e
 
 - [Michael Munkasey - Venus/Pluto Concepts](../derived/munkasey-venus-pluto-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Venus/Pluto = Admetos](../activations/venus-pluto-equals-admetos.md)
@@ -184,7 +199,13 @@ Hyper or hypo-thyroidism; toxins which overwhelm the kidneys; tonsillitis with e
 - [Venus/Pluto = Vulcanus](../activations/venus-pluto-equals-vulcanus.md)
 - [Venus/Pluto = Zeus](../activations/venus-pluto-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Venus/Pluto` is the axis of compelling attraction, transformative love, deep desire, and powerful value intensity. It combines affection, beauty, pleasure, and relating with secrecy, obsession, regeneration, pressure, and the urge to merge beyond surface harmony.

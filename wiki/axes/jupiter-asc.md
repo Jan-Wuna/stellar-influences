@@ -63,7 +63,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -75,6 +75,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `JUPITER/ASCENDANT`
+- Source page: `275`
 
 #### Pair Summary
 
@@ -126,6 +129,9 @@ Close relationships that help one, fortunate relationships, relationships that p
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `JUPITER/ASCENDANT`
+- Source page: `275`
+
 #### Basic Ideas
 
 These themes denote an inspiring mannerism, or a cheerful front filled with sincerity which is loved by those you meet. Thru these motifs you may develop your ability to inspire others, make too many assumptions about another’s needs or wants, or devise a lot of arrogant convictions. You may become a sincere and genuine person able to read and manipulate the motivations of others, an optimist who is always ready with a kind word or a generous and hearty greeting, or an pleasing and cordial person. You may develop a knack for meeting others easily and leaving them with warm and sincere feelings about your intentions. You may develop added insight about the motives of others, and learn to read the inner objectives or intentions of the people you meet. You learn to grow beyond immediate limitations through inspiring positive responses in others.
@@ -153,6 +159,15 @@ Acid accumulations from an excessive social life; the tendency to add too much b
 
 - [Michael Munkasey - Jupiter/Asc Concepts](../derived/munkasey-jupiter-asc-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Jupiter/Asc = Admetos](../activations/jupiter-asc-equals-admetos.md)
@@ -177,7 +192,13 @@ Acid accumulations from an excessive social life; the tendency to add too much b
 - [Jupiter/Asc = Vulcanus](../activations/jupiter-asc-equals-vulcanus.md)
 - [Jupiter/Asc = Zeus](../activations/jupiter-asc-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Jupiter/Asc` is the axis of social optimism, generous self-presentation, favorable first contact, and growth through other people. It describes an open, buoyant style that tends to attract goodwill, opportunity, and supportive associations.

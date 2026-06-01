@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ An expansive and enthusiastic sharing of one’s feelings with others. Being gen
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MOON/NODE with Planets and Points`
+- Source page: `136`
+
 #### Munkasey Entry
 
 Meeting others who share a similar philosophical sense about how life works; increases the conviviality and joviality during meetings with others; studies of social theory or social psychology; sales meetings or presentations.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Moon/Node = Jupiter`: helpful networks, nurturing social goodwill, and belonging that grows through abundance and good faith. Main caution: overextended attachment: generosity and emotional loyalty can become too large, indulgent, or insufficiently bounded.
@@ -76,6 +93,7 @@ Meeting others who share a similar philosophical sense about how life works; inc
 - [Node](../factors/node.md)
 - [Jupiter](../factors/jupiter.md)
 - [Moon/Node](../axes/moon-node.md)
+- [Moon Jupiter Node](../triads/moon-jupiter-node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

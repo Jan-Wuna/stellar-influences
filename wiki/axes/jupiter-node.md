@@ -63,7 +63,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -75,6 +75,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `JUPITER/NODE`
+- Source page: `271`
 
 #### Pair Summary
 
@@ -126,6 +129,9 @@ Coming together with others for mutual growth and benefit or for the study of re
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `JUPITER/NODE`
+- Source page: `271`
+
 #### Basic Ideas
 
 Luck in meeting the right kind of people, an ability to expand or increase ties to friends, and a talent for using the resources acquaintances innately have is shown thru these themes. These motifs help you formulate and present ideas well when meeting or conversing with others, help make effective or promising contacts thru groups and associations, and allow you to show a sense of humor and laughter at appropriate times during gatherings. Boasting about friendships which may not exist, assuming closer ties to others than were intended, and exaggeration over who has more influential contacts, are represented within these themes. You find times when errors in judgment prevail, or when you bring the wrong kind of people into your confidence, but your good fortune with contacts persists thru the help of these points, and an ability to use personnel resources wisely continues and is enhanced.
@@ -153,6 +159,15 @@ Expansion in the joints or connecting tissue; swelling of the joints; stretching
 
 - [Michael Munkasey - Jupiter/Node Concepts](../derived/munkasey-jupiter-node-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Jupiter/Node = Admetos](../activations/jupiter-node-equals-admetos.md)
@@ -177,7 +192,13 @@ Expansion in the joints or connecting tissue; swelling of the joints; stretching
 - [Jupiter/Node = Vulcanus](../activations/jupiter-node-equals-vulcanus.md)
 - [Jupiter/Node = Zeus](../activations/jupiter-node-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Jupiter/Node` is the axis of fortunate associations, mutual benefit, fellowship, and growth through alliance. It combines goodwill, opportunity, ethics, and abundance with connection, cooperation, and the formation of supportive ties.

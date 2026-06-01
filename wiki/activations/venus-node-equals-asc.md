@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ A person with a willingness to connect lovingly with others and to share in mutu
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `VENUS/NODE with Planets and Points`
+- Source page: `212`
+
 #### Munkasey Entry
 
 Discussions of your personal beliefs with others; observing the demeanor and convictions of others when meeting with them; the way that you treat others at meetings; the pleasantness with which you greet others.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Venus/Node = Asc`: likability, graceful self-presentation, and supportive connections that form through personal manner and immediate surroundings. Main caution: approval dependence: the wish to be liked can soften boundaries and make self-definition too contingent on response from others.
@@ -76,6 +93,7 @@ Discussions of your personal beliefs with others; observing the demeanor and con
 - [Node](../factors/node.md)
 - [Asc](../factors/asc.md)
 - [Venus/Node](../axes/venus-node.md)
+- [Venus Node Asc](../triads/venus-node-asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

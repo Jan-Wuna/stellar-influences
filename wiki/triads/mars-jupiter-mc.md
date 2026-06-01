@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Mars Jupiter MC`
 - Astronomicon triad-set: `U V MC`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Jupiter/MC = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `65`
-- `Jupiter/MC = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `74`
-- `Jupiter/MC = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `244`
-- `Jupiter/MC = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `86`
-- `Jupiter/MC = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `280`
-- `Mars/Jupiter = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `192`
-- `Mars/Jupiter = MC`: Udo Rudolph - ABC for Planetary Pictures, page `298`
-- `Mars/Jupiter = MC`: Reinhold Ebertin - The Combination of Stellar Influences, page `203`
-- `Mars/Jupiter = MC`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `67`
-- `Mars/Jupiter = MC`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `224`
-- `Mars/MC = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `64`
-- `Mars/MC = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `72`
-- `Mars/MC = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `223`
-- `Mars/MC = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `77`
-- `Mars/MC = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `252`
+- `Jupiter/MC = Mars`: Michael, page `280`
+- `Mars/Jupiter = MC`: Michael, page `224`
+- `Mars/MC = Jupiter`: Michael, page `252`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Jupiter/MC = Mars`: ambition energized by effort, successful cooperation through initiative, and the drive to create one's own good fortune by active pursuit of goals.
-- `Mars/Jupiter = MC`: enterprise with purpose, satisfaction in activity, and a visible life path built through confidence, creative drive, and favorable arrangements.
-- `Mars/MC = Jupiter`: effective leadership, happy activity, and the ability to organize action in ways that produce growth, recognition, or favorable outcomes.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

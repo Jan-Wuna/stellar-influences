@@ -14,7 +14,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -84,6 +84,9 @@ physical illness. Many astrologers even consider the Sun to represent the physic
 As a component of the father archetype, the Sun represents the father's function as a shaper of the particularly the will to be a free, independent source of power and energy in one's own right From what has been said, it should be clear that a weakly placed Sun in a horoscope signifies weak vitality, and in some way an inability to fend for oneself. On the psychological side it may indicate an individual who is too subject to another's ^vill, or who cannot defend and protect what he or she values, at least through direct confrontation. On the physical side, a weak Sun can indicate bodily weakness, a tendency to illnesses and allergies, or simply a lack of muscle strength. A full understanding of the Sun in a horoscope is an important step toward understanding the person.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `SUN`
+- Source page: `42`
 
 #### Basic Ideas
 
@@ -175,7 +178,21 @@ As a component of the father archetype, the Sun represents the father's function
 - Sovereigns
 - Symbolic Leaders
 
+## Comparative Schema
+
+- core meaning: source-native factor entries are preserved side by side above.
+- psychology: source-specific psychological and doctrinal emphases remain attached to their own source blocks instead of being flattened.
+- body/health: bodily wording remains inside each contributing source block when present.
+- social/relationship: interpersonal implications remain attached to each source's own phrasing.
+- events/manifestations: source-specific extensions remain attached to the source entry that states them.
+- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
+
+## Contradictions and Framework Notes
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun` is the factor of body, life, life force, consciousness, selfhood, and the central organizing force that gives living energy coherence and direction.
@@ -208,6 +225,10 @@ As a component of the father archetype, the Sun represents the father's function
 - [Sun/Zeus](../axes/sun-zeus.md)
 - [Vernal Point/Sun](../axes/vernal-point-sun.md)
 
+## Related Activations
+
+- None recorded yet.
+
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
@@ -215,3 +236,7 @@ As a component of the father archetype, the Sun represents the father's function
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+
+## Open Questions
+
+- None recorded yet.

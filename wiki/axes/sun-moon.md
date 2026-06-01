@@ -66,7 +66,7 @@ source_pages:
   - robert-hand-horoscope-symbols
   - don-mcbroom-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -78,6 +78,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `SUN/MOON`
+- Source page: `55`
 
 #### Pair Summary
 
@@ -217,6 +220,9 @@ Sun/Moon midpoint would carry with it tremendous importance as it embellishes an
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/MOON`
+- Source page: `55`
+
 #### Basic Ideas
 
 The Sun and Moon show the direction and focus of your personal awareness. Here is where you show your understanding for others, or life. Your desire to increase your authority, popularity, or sensitivity starts here. These energies show how you develop your vitality for the central themes of your life, your enthusiasm when adapting your daily routines to the needs of others, and the ups and downs you have in your creative flow. Your enjoyment for seeking and gaining public popularity or in being noticed by other people, the sensitivity you bring to your decision making processes, and the impressions you have of your spiritual origins can also start here. These points also emphasize any weakness or awkwardness you feel when you receive honors or recognition, your delight with romantic episodes, and the commitment or importance you give to your soul or spiritual life.
@@ -244,6 +250,15 @@ Chemical, Ph, and mineral balances within the body; sensitivity to drugs; pressu
 
 - [Michael Munkasey - Sun/Moon Concepts](../derived/munkasey-sun-moon-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Sun/Moon = Admetos](../activations/sun-moon-equals-admetos.md)
@@ -268,7 +283,13 @@ Chemical, Ph, and mineral balances within the body; sensitivity to drugs; pressu
 - [Sun/Moon = Vulcanus](../activations/sun-moon-equals-vulcanus.md)
 - [Sun/Moon = Zeus](../activations/sun-moon-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Moon` is the core axis of inner integration: will and feeling, conscious and unconscious life, vitality and responsiveness, and the relational pairing of masculine and feminine principles.

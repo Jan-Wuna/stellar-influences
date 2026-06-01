@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MARS/JUPITER`
+- Source page: `223`
 
 #### Pair Summary
 
@@ -182,6 +185,9 @@ Fortunate action, action leading to growth. Luck arising from a good sense of ti
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MARS/JUPITER`
+- Source page: `223`
+
 #### Basic Ideas
 
 These themes bestow ample supplies of energy or courage at whatever level desired, and urge the wise use of your stamina for all reasons. This pair provides an a lot of drive for activity, or additional power to be called upon when needed. Understanding the competitive nature or side of life is encouraged, or assumptions about using activities or actions may be made. These motifs represent rash misjudgments about present circumstances, or misinterpretation of the amount of insistence or emphasis required to sustain efforts. They bring luck in competitive undertakings, enhance your trust or faith in the use and application of your strength, and increase the sincerity with which you approach life’s struggles. Taking advice from persons considered to be ‘hotheads’, initiating actions against legal judgments, or receiving opinions or advice on your recklessness are indicated.
@@ -209,6 +215,15 @@ Strength of limb; gross motor control; improving muscle tone; hypo-adrenalism; a
 
 - [Michael Munkasey - Mars/Jupiter Concepts](../derived/munkasey-mars-jupiter-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Mars/Jupiter = Admetos](../activations/mars-jupiter-equals-admetos.md)
@@ -233,7 +248,13 @@ Strength of limb; gross motor control; improving muscle tone; hypo-adrenalism; a
 - [Mars/Jupiter = Vulcanus](../activations/mars-jupiter-equals-vulcanus.md)
 - [Mars/Jupiter = Zeus](../activations/mars-jupiter-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mars/Jupiter` is the axis of vigorous enterprise, courageous initiative, fortunate action, and belief translated into effort. It combines drive, competitiveness, and physical or creative force with optimism, conviction, and the expectation of success.

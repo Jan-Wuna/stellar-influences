@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Sun Moon Saturn`
 - Astronomicon triad-set: `S R W`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Moon/Saturn = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `126`
-- `Moon/Saturn = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `184`
-- `Moon/Saturn = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `126`
-- `Moon/Saturn = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `31`
-- `Moon/Saturn = Sun`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `120`
-- `Sun/Moon = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `101`
-- `Sun/Moon = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `139`
-- `Sun/Moon = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `78`
-- `Sun/Moon = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `6`
-- `Sun/Moon = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `56`
-- `Sun/Saturn = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `107`
-- `Sun/Saturn = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `150`
-- `Sun/Saturn = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `93`
-- `Sun/Saturn = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `14`
-- `Sun/Saturn = Moon`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `76`
+- `Moon/Saturn = Sun`: Michael, page `120`
+- `Sun/Moon = Saturn`: Michael, page `56`
+- `Sun/Saturn = Moon`: Michael, page `76`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Moon/Saturn = Sun`: a serious emotional selfhood, with identity shaped by restraint, responsibility, and the need to manage feeling carefully.
-- `Sun/Moon = Saturn`: serious partnership, self-restraint, and the effort to unify identity and feeling under pressure, obligation, or tested commitment.
-- `Sun/Saturn = Moon`: emotional reserve, heaviness, loneliness, and the experience that vitality is tested through sadness, obligation, or depletion.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

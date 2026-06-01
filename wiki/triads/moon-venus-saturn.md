@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Moon Venus Saturn`
 - Astronomicon triad-set: `R Q W`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Moon/Saturn = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `126`
-- `Moon/Saturn = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `184`
-- `Moon/Saturn = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `126`
-- `Moon/Saturn = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `31`
-- `Moon/Saturn = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `120`
-- `Moon/Venus = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `123`
-- `Moon/Venus = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `179`
-- `Moon/Venus = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `117`
-- `Moon/Venus = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `27`
-- `Moon/Venus = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `108`
-- `Venus/Saturn = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `178`
-- `Venus/Saturn = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `274`
-- `Venus/Saturn = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `182`
-- `Venus/Saturn = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `57`
-- `Venus/Saturn = Moon`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `196`
+- `Moon/Saturn = Venus`: Michael, page `120`
+- `Moon/Venus = Saturn`: Michael, page `108`
+- `Venus/Saturn = Moon`: Michael, page `196`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Moon/Saturn = Venus`: restrained tenderness, with attachment shaped by loyalty, caution, and the wish to protect love through steadiness rather than emotional overflow.
-- `Moon/Venus = Saturn`: channels the tender, receptive love of the Moon/Venus axis through Saturn, making affection serious, loyal, and carefully protected. It points to emotional harmony that must endure time, scarcity, or disappointment without losing its form.
-- `Venus/Saturn = Moon`: restrained affection, serious love, and value tested through time, duty, and limitation made inward, protective, and emotionally cautious.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

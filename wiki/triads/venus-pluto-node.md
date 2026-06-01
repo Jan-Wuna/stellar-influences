@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Venus Pluto Node`
 - Astronomicon triad-set: `Q Z g`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Pluto/Node = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `148`
-- `Pluto/Node = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `222`
-- `Pluto/Node = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `293`
-- `Pluto/Node = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `114`
-- `Pluto/Node = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `344`
-- `Venus/Node = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `142`
-- `Venus/Node = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `211`
-- `Venus/Node = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `193`
-- `Venus/Node = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `63`
-- `Venus/Node = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `212`
-- `Venus/Pluto = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `181`
-- `Venus/Pluto = Node`: Udo Rudolph - ABC for Planetary Pictures, page `280`
-- `Venus/Pluto = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `191`
-- `Venus/Pluto = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `62`
-- `Venus/Pluto = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `208`
+- `Pluto/Node = Venus`: Michael, page `344`
+- `Venus/Node = Pluto`: Michael, page `212`
+- `Venus/Pluto = Node`: Michael, page `208`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Pluto/Node = Venus`: an intensely attractive alliance field, with love, friendship, and shared pleasure shaped by powerful bonding, emotional depth, and transformative attachment.
-- `Venus/Node = Pluto`: powerful attraction, with relationships shaped by intensity, loyalty, leverage, or transformative encounters with others.
-- `Venus/Pluto = Node`: compelling attraction, transformative love, and deep value intensity made fated, relational, and socially catalytic.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

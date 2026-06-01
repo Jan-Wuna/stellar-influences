@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ One evolves through allowing oneself to be one’s own unique self and to be fre
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `ASCENDANT/MIDHEAVEN with Planets and Points`
+- Source page: `364`
+
 #### Munkasey Entry
 
 Abrupt changes to your lifestyle or occupational circumstances which force you to reassess what you want out of life and how to attain it; extraordinary and unusual demands upon self from others; infrequent looks at progress.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Asc/MC = Uranus`: excitable individuality, abrupt developments, and growth through novelty, independence, and refusal to remain fixed in stale conditions. Main caution: instability: upsets, scenes, spoiled plans, or erratic responses can fragment the very integration this axis is trying to achieve.
@@ -76,6 +93,7 @@ Abrupt changes to your lifestyle or occupational circumstances which force you t
 - [MC](../factors/mc.md)
 - [Uranus](../factors/uranus.md)
 - [Asc/MC](../axes/asc-mc.md)
+- [Uranus Asc MC](../triads/uranus-asc-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

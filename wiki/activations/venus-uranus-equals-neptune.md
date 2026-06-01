@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ A refined sense of what is unusual or eccentric. To see the unusual and the beau
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `VENUS/URANUS with Planets and Points`
+- Source page: `200`
+
 #### Munkasey Entry
 
 Inspiration is added to innovation by developing new forms of pleasure; deception within new and different forms of art, finance, or music; confusing impersonal responses when demonstrating affection to friends.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Venus/Uranus = Neptune`: inspired art, romantic awakening, and the ability to see beauty in the strange, marginal, or unexpected. Main caution: freedom can blur into vagueness, fantasy, or escapist attachment, making love unstable and hard to trust.
@@ -76,6 +93,7 @@ Inspiration is added to innovation by developing new forms of pleasure; deceptio
 - [Uranus](../factors/uranus.md)
 - [Neptune](../factors/neptune.md)
 - [Venus/Uranus](../axes/venus-uranus.md)
+- [Venus Uranus Neptune](../triads/venus-uranus-neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

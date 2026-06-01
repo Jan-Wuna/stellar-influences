@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To have expansive, broad tastes in the arts. To be very generous in the expres s
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/VENUS with Planets and Points`
+- Source page: `64`
+
 #### Munkasey Entry
 
 An enhanced need to show diplomacy and tact toward others; successful ways of charming others with your basic personality; an emphasis on promises made when in love, expectations of affection, or material gifts.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Venus = Jupiter`: popularity, generous affection, and the expansion of charm through optimism, opportunity, and visible good feeling. Main caution: indulgence: pleasure and approval can become inflated, wasteful, or too readily assumed.
@@ -76,6 +93,7 @@ An enhanced need to show diplomacy and tact toward others; successful ways of ch
 - [Venus](../factors/venus.md)
 - [Jupiter](../factors/jupiter.md)
 - [Sun/Venus](../axes/sun-venus.md)
+- [Sun Venus Jupiter](../triads/sun-venus-jupiter.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

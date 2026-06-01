@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MARS/NEPTUNE`
+- Source page: `235`
 
 #### Pair Summary
 
@@ -180,6 +183,9 @@ Weakness, paralysis, feelings of inferiority or inability to cope. Covert action
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MARS/NEPTUNE`
+- Source page: `235`
+
 #### Basic Ideas
 
 These two very different themes bring you the energy and enthusiasm to continue your devotions while stimulating your inspiration. They bring impulses for continuing with deceptive practices, add to aggravation about confusing situations, or cause you to become very combative and belligerent when faced with neglect. They add degrees of subtlety to your manner of competing, prompt you to overlook that which is important to you, open you to aggression, belligerence, or threats from metaphysical sources, and weaken or shunt aside your physical strength. They prompt haste and urgency to abandon people or things, present you with aggravating illusions, bring impatience over ambiguity, confront you with noisy ghosts, bring situations which propel you toward sanctity or holiness, cause arguments over idealistic principles, and activate or arouse your spirituality.
@@ -207,6 +213,15 @@ Weakens your overall physical stamina; muscle weakness or atrophy; physical cond
 
 - [Michael Munkasey - Mars/Neptune Concepts](../derived/munkasey-mars-neptune-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Mars/Neptune = Admetos](../activations/mars-neptune-equals-admetos.md)
@@ -231,7 +246,13 @@ Weakens your overall physical stamina; muscle weakness or atrophy; physical cond
 - [Mars/Neptune = Vulcanus](../activations/mars-neptune-equals-vulcanus.md)
 - [Mars/Neptune = Zeus](../activations/mars-neptune-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mars/Neptune` is the axis of diffused or idealized action: energy shaped by imagination, sensitivity, devotion, confusion, sacrifice, or hidden motives. It can describe subtle, inspired, compassionate effort, but also weakened will, unclear direction, and action that leaks away into fantasy, avoidance, or deception.

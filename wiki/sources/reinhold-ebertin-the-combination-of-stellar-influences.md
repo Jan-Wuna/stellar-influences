@@ -34,8 +34,6 @@ updated_at: 2026-04-22
 
 - This source contributes standalone factor chapters plus explicit midpoint-axis and orientation-specific activation entries.
 - The live comparative wiki now preserves Ebertin's source-native axis summaries and activation entries on canonical axis and activation pages.
-- Triad hubs remain structural pages; Ebertin triad coverage is derived from the linked orientation-specific activation pages.
-- Canonical wiki identities still preserve orientation-specific activation meanings separately.
 
 ## Factors Covered
 

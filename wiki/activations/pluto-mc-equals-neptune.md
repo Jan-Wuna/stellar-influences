@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ Fantasies about changing the world. The need to tune in to one’s inner intuiti
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `PLUTO/MIDHEAVEN with Planets and Points`
+- Source page: `352`
+
 #### Munkasey Entry
 
 Inwardly sees the need for change on a larger scale; may bring temporary setbacks due to illusions about how to effect some progress; thinking of using dubious practices to increase your reputation or power.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Pluto/MC = Neptune`: occult or spiritual authority, subtle public influence, and the ability to guide change through what is implied rather than plainly stated. Main caution: obscured ambition: career can become scandal-prone, manipulative, or too entangled in illusion and covert power.
@@ -76,6 +93,7 @@ Inwardly sees the need for change on a larger scale; may bring temporary setback
 - [MC](../factors/mc.md)
 - [Neptune](../factors/neptune.md)
 - [Pluto/MC](../axes/pluto-mc.md)
+- [Neptune Pluto MC](../triads/neptune-pluto-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

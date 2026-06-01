@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ The slow attainment of recognition in one’s career. Feeling sensitive about on
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/MIDHEAVEN with Planets and Points`
+- Source page: `100`
+
 #### Munkasey Entry
 
 Working harder than others to ensure that your efforts are better planned and implemented; brings less public recognition but more internal satisfaction and pride about your capabilities; a retraction of prior praise or honors.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/MC = Saturn`: durable ambition, patient development of standing, and the ability to endure hard lessons in order to define a true role. Main caution: discouragement: lack of confidence or discomfort with recognition can cause withdrawal from rightful visibility.
@@ -76,6 +93,7 @@ Working harder than others to ensure that your efforts are better planned and im
 - [MC](../factors/mc.md)
 - [Saturn](../factors/saturn.md)
 - [Sun/MC](../axes/sun-mc.md)
+- [Sun Saturn MC](../triads/sun-saturn-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

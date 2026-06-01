@@ -63,7 +63,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -75,6 +75,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `VENUS/MIDHEAVEN`
+- Source page: `219`
 
 #### Pair Summary
 
@@ -126,6 +129,9 @@ One's own love and happiness in relationships. One's own creativity and love of 
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `VENUS/MIDHEAVEN`
+- Source page: `219`
+
 #### Basic Ideas
 
 This combination represents the appreciation you develop within yourself for the accomplishments and recognition you receive. Also here is your inner sense of gratitude and the feelings of self-worth you have about your choice of career, the positions you earn, your work proficiency, the cooperation you give to or receive from others, and the reimbursement you receive because of your qualifications. These themes also represent the way you integrate and relate to the feminine energies within yourself, and how secure you feel with the feminine side of your nature, regardless of your sex. These motifs depict your ability to mature thru the experiences you gain by understanding love, both giving and receiving, and in the romantic, family, global, and brotherly senses. They denote how you relate to and take advantage of beauty, art, or music in your home, professional, or inner life.
@@ -153,6 +159,15 @@ An inability to develop an appreciation for what others do for you; your ability
 
 - [Michael Munkasey - Venus/MC Concepts](../derived/munkasey-venus-mc-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Venus/MC = Admetos](../activations/venus-mc-equals-admetos.md)
@@ -177,7 +192,13 @@ An inability to develop an appreciation for what others do for you; your ability
 - [Venus/MC = Vulcanus](../activations/venus-mc-equals-vulcanus.md)
 - [Venus/MC = Zeus](../activations/venus-mc-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Venus/MC` is the axis of affectionate life direction, creative vocation, and public identity shaped by love, beauty, peace, and appreciation. It combines harmony, attraction, artistry, and value with purpose, status, self-worth, and the way one wishes to be known.

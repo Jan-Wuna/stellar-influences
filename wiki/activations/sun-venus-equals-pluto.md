@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To love extremism. Going too far in a love relationship. Obsessive love. Finding
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/VENUS with Planets and Points`
+- Source page: `64`
+
 #### Munkasey Entry
 
 Increases the depth of feeling and emotion you put into your expressions of appreciation and gratitude; adds to expectations about the return of pleasure or favors given to others; a sudden ending to love or hostility.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Venus = Pluto`: compelling charm, passionate commitment, and the power to alter life through attraction, beauty, and relational intensity. Main caution: possessive value-expression: attraction and self-worth can become controlling, obsessive, or too pressure-laden.
@@ -76,6 +93,7 @@ Increases the depth of feeling and emotion you put into your expressions of appr
 - [Venus](../factors/venus.md)
 - [Pluto](../factors/pluto.md)
 - [Sun/Venus](../axes/sun-venus.md)
+- [Sun Venus Pluto](../triads/sun-venus-pluto.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

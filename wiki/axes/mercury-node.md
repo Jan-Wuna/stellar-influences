@@ -63,7 +63,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -75,6 +75,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MERCURY/NODE`
+- Source page: `175`
 
 #### Pair Summary
 
@@ -126,6 +129,9 @@ Mental contacts and connections. To establish connections by communication. To m
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MERCURY/NODE`
+- Source page: `175`
+
 #### Basic Ideas
 
 Thoughts on how to meet and communicate with helpful people, or those who think like you, are central to these themes. Creating ideas which attract people to you, and studying and pursuing connections or paths to persons who provide information or fill gaps in your knowledge are indicated. Research which requires help from others, and finding and locating the people you require for specific tasks or for general assistance in meeting goals, is represented by these themes. How you gather information or conduct your investigations, your research on, or observances of, sociological connections among people, quick or versatile reactions to the needs and requirements of others, or, how you evaluate your relationships with others, are also mirrored here. Your nervousness before others, observations about group politics, or fated ties to people you have previously known, are also shown here.
@@ -153,6 +159,15 @@ Assimilation of food unable to get to the body parts needed due to broken or blo
 
 - [Michael Munkasey - Mercury/Node Concepts](../derived/munkasey-mercury-node-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Mercury/Node = Admetos](../activations/mercury-node-equals-admetos.md)
@@ -177,7 +192,13 @@ Assimilation of food unable to get to the body parts needed due to broken or blo
 - [Mercury/Node = Vulcanus](../activations/mercury-node-equals-vulcanus.md)
 - [Mercury/Node = Zeus](../activations/mercury-node-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mercury/Node` is the axis of intellectual connection, shared plans, correspondence, and relationships built through ideas and communication. It combines thinking, speech, information flow, and versatility with association, networking, and the need to exchange perspectives with others.

@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Venus Saturn Node`
 - Astronomicon triad-set: `Q W g`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Saturn/Node = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `145`
-- `Saturn/Node = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `216`
-- `Saturn/Node = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `257`
-- `Saturn/Node = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `92`
-- `Saturn/Node = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `296`
-- `Venus/Node = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `142`
-- `Venus/Node = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `211`
-- `Venus/Node = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `193`
-- `Venus/Node = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `63`
-- `Venus/Node = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `212`
-- `Venus/Saturn = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `178`
-- `Venus/Saturn = Node`: Udo Rudolph - ABC for Planetary Pictures, page `274`
-- `Venus/Saturn = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `183`
-- `Venus/Saturn = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `57`
-- `Venus/Saturn = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `196`
+- `Saturn/Node = Venus`: Michael, page `296`
+- `Venus/Node = Saturn`: Michael, page `212`
+- `Venus/Saturn = Node`: Michael, page `196`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Saturn/Node = Venus`: loyal but restrained attachment, with bonds shaped by seriousness, fidelity, and the wish to preserve relationship through steadiness rather than ease.
-- `Venus/Node = Saturn`: enduring but sober connection, with friendship and love shaped by duty, patience, and bonds that strengthen under pressure rather than ease.
-- `Venus/Saturn = Node`: restrained affection, serious love, and value tested through time, duty, and limitation made contractual, serious, and fate-tested.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

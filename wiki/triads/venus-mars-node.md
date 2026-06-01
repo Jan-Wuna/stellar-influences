@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Venus Mars Node`
 - Astronomicon triad-set: `Q U g`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mars/Node = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `143`
-- `Mars/Node = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `212`
-- `Mars/Node = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `217`
-- `Mars/Node = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `74`
-- `Mars/Node = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `244`
-- `Venus/Mars = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `176`
-- `Venus/Mars = Node`: Udo Rudolph - ABC for Planetary Pictures, page `270`
-- `Venus/Mars = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `176`
-- `Venus/Mars = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `55`
-- `Venus/Mars = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `188`
-- `Venus/Node = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `142`
-- `Venus/Node = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `210`
-- `Venus/Node = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `193`
-- `Venus/Node = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `63`
-- `Venus/Node = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `212`
+- `Mars/Node = Venus`: Michael, page `244`
+- `Venus/Mars = Node`: Michael, page `188`
+- `Venus/Node = Mars`: Michael, page `212`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mars/Node = Venus`: cordial cooperation, passionate union, and the ability to interact with others dynamically while keeping connection smooth or mutually pleasing.
-- `Venus/Mars = Node`: a charged social field, with attraction, desire, and warmth amplified in relationships, groups, and consequential encounters with others.
-- `Venus/Node = Mars`: passionate connection, attraction in social exchange, and alliances driven by chemistry, initiative, or the need to act together.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

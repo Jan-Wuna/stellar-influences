@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Neptune Asc`
 - Astronomicon triad-set: `V Y Asc`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Jupiter/Asc = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `86`
-- `Jupiter/Asc = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `113`
-- `Jupiter/Asc = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `241`
-- `Jupiter/Asc = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `85`
-- `Jupiter/Asc = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `276`
-- `Jupiter/Neptune = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `209`
-- `Jupiter/Neptune = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `328`
-- `Jupiter/Neptune = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `232`
-- `Jupiter/Neptune = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `81`
-- `Jupiter/Neptune = Asc`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `264`
-- `Neptune/Asc = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `89`
-- `Neptune/Asc = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `118`
-- `Neptune/Asc = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `287`
-- `Neptune/Asc = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `112`
-- `Neptune/Asc = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `336`
+- `Jupiter/Asc = Neptune`: Michael, page `276`
+- `Jupiter/Neptune = Asc`: Michael, page `264`
+- `Neptune/Asc = Jupiter`: Michael, page `336`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Jupiter/Asc = Neptune`: hopeful expectation, romanticized or speculative social vision, and intuitive sensing of possibility, but also the risk of disappointment, confusion, and loss through others.
-- `Jupiter/Neptune = Asc`: a soft, caring, hopeful presence that wishes to uplift others, but may also project unrealistic self-images or share in vague hopes with other people.
-- `Neptune/Asc = Jupiter`: a compassionate, idealistic presence, with subtle self-presentation shaped by faith, aspiration, and the urge to share or live by larger ideals.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

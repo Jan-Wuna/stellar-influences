@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Neptune Node`
 - Astronomicon triad-set: `X Y g`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Neptune/Node = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `147`
-- `Neptune/Node = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `221`
-- `Neptune/Node = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `284`
-- `Neptune/Node = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `111`
-- `Neptune/Node = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `332`
-- `Uranus/Neptune = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `234`
-- `Uranus/Neptune = Node`: Udo Rudolph - ABC for Planetary Pictures, page `370`
-- `Uranus/Neptune = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `267`
-- `Uranus/Neptune = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `104`
-- `Uranus/Neptune = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `308`
-- `Uranus/Node = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `146`
-- `Uranus/Node = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `219`
-- `Uranus/Node = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `272`
-- `Uranus/Node = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `106`
-- `Uranus/Node = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `316`
+- `Neptune/Node = Uranus`: Michael, page `332`
+- `Uranus/Neptune = Node`: Michael, page `308`
+- `Uranus/Node = Neptune`: Michael, page `316`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Neptune/Node = Uranus`: strange or nonordinary bonding, with relationships shaped by intuitive shocks, unstable affiliations, and the pull of unconventional spiritual or collective experience.
-- `Uranus/Neptune = Node`: visionary association, with bonds formed around unusual beliefs, artistic sensitivity, spiritual unrest, or reformist longing.
-- `Uranus/Node = Neptune`: unusual collective longing, with alliances formed around dream, cause, atmosphere, or elusive spiritual or artistic affinity.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

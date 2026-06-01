@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ Love causes one to grow in terms of how one relates to the world. A desire for c
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `NODE/MIDHEAVEN with Planets and Points`
+- Source page: `360`
+
 #### Munkasey Entry
 
 Intimacy formed from friendships with those you met thru groups or associations which perform for the arts, music, or sculpture; garden or beautification clubs with those who have interests similar to your own.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Node/MC = Venus`: graceful partnership, attractive public association, and the ability to mature through mutually supportive bonds. Main caution: pleasing in place of purpose: alliances can stay harmonious but shallow, too concerned with approval to hold firm direction.
@@ -76,6 +93,7 @@ Intimacy formed from friendships with those you met thru groups or associations 
 - [MC](../factors/mc.md)
 - [Venus](../factors/venus.md)
 - [Node/MC](../axes/node-mc.md)
+- [Venus Node MC](../triads/venus-node-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

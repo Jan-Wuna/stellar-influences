@@ -36,8 +36,8 @@ updated_at: 2026-04-21
 - Each Sandbach axis chapter also supplies explicit activator meanings for every remaining factor in the source inventory.
 - This ingest adds `Chiron` to the canonical factor inventory because the source treats it as a full participant in axis and activation structures.
 - The source does not provide standalone factor chapters.
-- The extractable PDF text is missing `8` activator labels.
-- Those gaps are preserved as structural placeholder activation pages rather than speculative doctrine.
+- The visible source pages omit `7` expected activator entries after visual repair of one prior extraction gap.
+- Those source-omission slots are preserved as structural activation pages rather than speculative doctrine.
 
 ## Factors Covered
 
@@ -64,10 +64,11 @@ updated_at: 2026-04-21
 ## Activations Covered
 
 - Canonical activation pages updated or created: `1092`.
-- Of these, `8` are structural placeholder pages because the extractable PDF text omits those activator entries.
+- Of these, `7` are source-omission structural pages because the visible source pages omit those activator entries.
 - Canonical triad hubs updated or created: `364`.
 - Browse [Index](../index.md), `wiki/activations/`, and `wiki/triads/` for the full set.
 
 ## Ingestion History
 
 - 2026-04-21: Ingested the Sandbach midpoint compendium, including axis-level `Principle` and `Process` statements plus all extractable explicit activator meanings, and expanded the canonical factor inventory to include `Chiron`.
+- 2026-05-06: Repaired the `Mars/Node = Asc` extraction gap from the visible source page and reclassified the remaining seven Sandbach gaps as verified source omissions.

@@ -63,7 +63,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -75,6 +75,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `VENUS/ASCENDANT`
+- Source page: `215`
 
 #### Pair Summary
 
@@ -126,6 +129,9 @@ The ability to project attractiveness, to charm others. Getting love from others
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `VENUS/ASCENDANT`
+- Source page: `215`
+
 #### Basic Ideas
 
 This combination increases your desire to be appreciated and liked by the other people you meet. When these themes are activated you find a strong desire to tell others what they want to hear and to act in ways that please them. You are motivated to bring pleasure to those you meet and to impress people with your charm and grace. Developing loving attitudes and intentions which go far to give the impression that you are a polite and likeable person is indicated. You center your mind on peace and harmony and spend much time thinking about your appearance, your mannerisms, and what others think of you. However, you do not necessarily have an option to alter any of these matters, and you may prefer to dress poorly or appear sloppy although your ideals lie elsewhere on these subjects. You could easily become jealous when other people seem to make a better impression than you.
@@ -153,6 +159,15 @@ Your ability to feel comfortable with the image you project to others; your psyc
 
 - [Michael Munkasey - Venus/Asc Concepts](../derived/munkasey-venus-asc-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Venus/Asc = Admetos](../activations/venus-asc-equals-admetos.md)
@@ -177,7 +192,13 @@ Your ability to feel comfortable with the image you project to others; your psyc
 - [Venus/Asc = Vulcanus](../activations/venus-asc-equals-vulcanus.md)
 - [Venus/Asc = Zeus](../activations/venus-asc-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Venus/Asc` is the axis of charm, attractiveness, and the wish to create harmony through one's personal manner and immediate surroundings. It combines affection, beauty, pleasure, and sociability with appearance, personality, close contact, and the local environment.

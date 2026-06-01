@@ -32,11 +32,28 @@ updated_at: 2026-05-06
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MARS/ASCENDANT With Itself`
+- Source page: `250`
+
 #### Munkasey Entry
 
 Emphasizes your need to understand others and their reactions to you or life in general; helps highlight the surroundings and settings for events and their circumstances as they occur; urges you to spend time observing life.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mars/Asc = Asc`: Emphasizes one's need to understand others and their reactions to one or life in general; helps highlight the surroundings and settings for events and their circumstances as they occur; urges one to spend time observing life.

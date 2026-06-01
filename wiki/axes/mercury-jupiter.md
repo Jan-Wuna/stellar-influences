@@ -64,7 +64,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -76,6 +76,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MERCURY/JUPITER`
+- Source page: `155`
 
 #### Pair Summary
 
@@ -162,6 +165,9 @@ The ability to make judgments based on maximum understanding. Love of negotiatio
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MERCURY/JUPITER`
+- Source page: `155`
+
 #### Basic Ideas
 
 Needs for thinking and communicating combine with using formal or learned education to show how persuasion in communications, writing, or speaking may be enhanced. These themes suggest that you work to expand your knowledge in areas like business, education, knowledge, travel, opportunities, law, or religion. You may increase your desire to notice and observe events unfamiliar to you, discover enrichment thru new concepts and studies, and add enthusiasm to your discourses. Luck and success with communications in general, encouragement from siblings, and studies in politics or the law, may follow from these themes. They symbolize your ability for the rapid comprehension of situations, bring you an enthusiasm which may cause you to be less than careful with the facts, and may impart a tendency for cheerful thievery or plagiarism to your disposition.
@@ -189,6 +195,15 @@ Excessive fat in the blood; an inability to absorb sugars in the blood; weakness
 
 - [Michael Munkasey - Mercury/Jupiter Concepts](../derived/munkasey-mercury-jupiter-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Mercury/Jupiter = Admetos](../activations/mercury-jupiter-equals-admetos.md)
@@ -213,7 +228,13 @@ Excessive fat in the blood; an inability to absorb sugars in the blood; weakness
 - [Mercury/Jupiter = Vulcanus](../activations/mercury-jupiter-equals-vulcanus.md)
 - [Mercury/Jupiter = Zeus](../activations/mercury-jupiter-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mercury/Jupiter` is the axis of expansive thought, synthesis, teaching, judgment, and persuasive communication. It combines language, learning, trade, and analysis with philosophy, law, optimism, breadth, and the search for meaning.

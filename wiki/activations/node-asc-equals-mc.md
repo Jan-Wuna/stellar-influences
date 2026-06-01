@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ Spiritual development is either enhanced or impeded by how one see’s oneself. 
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `NODE/ASCENDANT with Planets and Points`
+- Source page: `356`
+
 #### Munkasey Entry
 
 Maturing and growing as a person due to the effect your friends have on your life; the personal guarantees and assurances you carry forward for the greater benefit of groups or friends; recognition received for social efforts.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Node/Asc = MC`: socially rooted purpose, recognizable group identity, and the ability to bring close relationships into visible life direction. Main caution: borrowed self-definition: personal direction can become too dependent on group expectation or familiar relational patterns.
@@ -76,6 +93,7 @@ Maturing and growing as a person due to the effect your friends have on your lif
 - [Asc](../factors/asc.md)
 - [MC](../factors/mc.md)
 - [Node/Asc](../axes/node-asc.md)
+- [Node Asc MC](../triads/node-asc-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

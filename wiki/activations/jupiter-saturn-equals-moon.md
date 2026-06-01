@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To blow moral issues out of proportion - that is, to feel strongly like one shou
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `JUPITER/SATURN with Planets and Points`
+- Source page: `256`
+
 #### Munkasey Entry
 
 Planning for cyclical ups and downs; extending influence over business or social activities involving the public; a tendency to overestimate your remaining personal inventory or commodities reserve.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Jupiter/Saturn = Moon`: feelings disciplined by duty, changing relations with women or the public, and the wish to feel safe by being persistent and responsible. Main caution: emotional overburden: moral or practical concerns can be felt too heavily, turning ordinary fluctuation into upset or needless guilt.
@@ -76,6 +93,7 @@ Planning for cyclical ups and downs; extending influence over business or social
 - [Saturn](../factors/saturn.md)
 - [Moon](../factors/moon.md)
 - [Jupiter/Saturn](../axes/jupiter-saturn.md)
+- [Moon Jupiter Saturn](../triads/moon-jupiter-saturn.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

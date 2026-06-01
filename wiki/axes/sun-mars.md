@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `SUN/MARS`
+- Source page: `67`
 
 #### Pair Summary
 
@@ -184,6 +187,9 @@ The will, vitality, energy (particularly for self-expression), the masculine sid
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/MARS`
+- Source page: `67`
+
 #### Basic Ideas
 
 These planets symbolize your regulation and expenditure of physical energy, and also encourage you to compete wholeheartedly in all details of life. They can denote a reckless and impulsive nature, and help depict you as a person who is famous for impatience. Your anger and fighting ability can be remarkable, as can your stamina and endurance. These planets bring confidence when using strength and aggressiveness, but aggravation from authority figures. This is a good pair for indicating determination to perfect your movements, and mastery of your ability to appear convincing to important people. Your capacity to bring theatrics and drama to situations where energy is being expended can become legendary. You are not afraid to defy influential people, or to take risks where experts advise against being rash. A character trait which marks you is the ability to purposely aggravate others.
@@ -211,6 +217,15 @@ Muscular development of the body; the inner strength you have to overcome infect
 
 - [Michael Munkasey - Sun/Mars Concepts](../derived/munkasey-sun-mars-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Sun/Mars = Admetos](../activations/sun-mars-equals-admetos.md)
@@ -235,7 +250,13 @@ Muscular development of the body; the inner strength you have to overcome infect
 - [Sun/Mars = Vulcanus](../activations/sun-mars-equals-vulcanus.md)
 - [Sun/Mars = Zeus](../activations/sun-mars-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Mars` is the axis of assertive vitality, courage, initiative, and forceful self-expression. It combines identity, will, and visibility with action, competition, heat, and the urge to press forward decisively.

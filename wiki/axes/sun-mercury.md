@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `SUN/MERCURY`
+- Source page: `59`
 
 #### Pair Summary
 
@@ -164,6 +167,9 @@ The mental and verbal expression of the will. The desire to communicate, know, a
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/MERCURY`
+- Source page: `59`
+
 #### Basic Ideas
 
 This combination helps enhance your confidence when communicating, whether by speaking or writing. It suggests a special adaptability for coping with all facets of life, and implies a mental cleverness which can respond sharply and clearly with wit to all situations. It brings a capability to think rapidly on your feet in any condition which arises, aids in giving you effective concentration and control over your thinking processes, encourages you to pursue sources of information, and helps you express your thoughts in a more authoritative manner. Information that you receive is likely to be from an authority, and your primary method of thinking and reasoning is effectively and distinctively shown. They help add wit and intelligence to your discussions, and encourage you to reason more effectively and confidently in affairs of life which involve any sort of complex analysis or calculations.
@@ -191,6 +197,15 @@ The vitality of your nervous system; the overall state and efficiency of your lu
 
 - [Michael Munkasey - Sun/Mercury Concepts](../derived/munkasey-sun-mercury-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Sun/Mercury = Admetos](../activations/sun-mercury-equals-admetos.md)
@@ -215,7 +230,13 @@ The vitality of your nervous system; the overall state and efficiency of your lu
 - [Sun/Mercury = Vulcanus](../activations/sun-mercury-equals-vulcanus.md)
 - [Sun/Mercury = Zeus](../activations/sun-mercury-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Mercury` is the axis of conscious thought, articulate self-expression, practical intelligence, and identity fused with mind and speech. It combines will, purpose, and vitality with language, reasoning, information, and the need to say what one means.

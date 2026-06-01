@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Uranus Pluto`
 - Astronomicon triad-set: `T X Z`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mercury/Pluto = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `165`
-- `Mercury/Pluto = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `253`
-- `Mercury/Pluto = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `164`
-- `Mercury/Pluto = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `50`
-- `Mercury/Pluto = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `172`
-- `Mercury/Uranus = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `163`
-- `Mercury/Uranus = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `249`
-- `Mercury/Uranus = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `159`
-- `Mercury/Uranus = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `47`
-- `Mercury/Uranus = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `164`
-- `Uranus/Pluto = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `235`
-- `Uranus/Pluto = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `372`
-- `Uranus/Pluto = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `269`
-- `Uranus/Pluto = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `105`
-- `Uranus/Pluto = Mercury`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `312`
+- `Mercury/Pluto = Uranus`: Michael, page `172`
+- `Mercury/Uranus = Pluto`: Michael, page `164`
+- `Uranus/Pluto = Mercury`: Michael, page `312`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mercury/Pluto = Uranus`: radical penetration, with ideas arriving abruptly, exposing what is hidden, and pushing thought toward decisive change.
-- `Mercury/Uranus = Pluto`: radical perception under strain, with penetrating insight, abrupt exposure, and mentally disruptive power pushing toward deep change.
-- `Uranus/Pluto = Mercury`: radical intelligence, with thought shaped by breakthrough, pressure, and the urge to expose or overturn what no longer works.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Sun Mercury Pluto`
 - Astronomicon triad-set: `S T Z`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mercury/Pluto = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `165`
-- `Mercury/Pluto = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `252`
-- `Mercury/Pluto = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `164`
-- `Mercury/Pluto = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `50`
-- `Mercury/Pluto = Sun`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `172`
-- `Sun/Mercury = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `103`
-- `Sun/Mercury = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `143`
-- `Sun/Mercury = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `82`
-- `Sun/Mercury = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `8`
-- `Sun/Mercury = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `60`
-- `Sun/Pluto = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `110`
-- `Sun/Pluto = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `156`
-- `Sun/Pluto = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `102`
-- `Sun/Pluto = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `20`
-- `Sun/Pluto = Mercury`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `88`
+- `Mercury/Pluto = Sun`: Michael, page `172`
+- `Sun/Mercury = Pluto`: Michael, page `60`
+- `Sun/Pluto = Mercury`: Michael, page `88`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mercury/Pluto = Sun`: powerful self-directed intelligence, with perception, strategy, and persuasive force woven into central purpose and personal authority.
-- `Sun/Mercury = Pluto`: far-reaching mental purpose, suggestive or magnetic speech, and the drive to reshape reality through concentrated ideas and penetrating analysis.
-- `Sun/Pluto = Mercury`: intense, strategic, and controlling thought, with communication used to persuade, organize, and press an objective through resistance.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

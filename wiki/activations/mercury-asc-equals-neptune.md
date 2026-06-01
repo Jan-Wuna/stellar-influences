@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To perceive subtle connections between ideas. To feel a spiritual obligation to 
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MERCURY/ASCENDANT with Planets and Points`
+- Source page: `180`
+
 #### Munkasey Entry
 
 Confusion about the motivations and intentions of others; helps you relate to others thru intuitive senses, and not just thru observing their physical reactions; a laxity or looseness to the way you see or record events.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mercury/Asc = Neptune`: porous boundaries in thought exchange, suggestibility, and the tendency to discuss what is uncertain, hidden, or hard to define. Main caution: slander, confusion, or being misled or misjudged through vague, distorted, or deceptive communication.
@@ -76,6 +93,7 @@ Confusion about the motivations and intentions of others; helps you relate to ot
 - [Asc](../factors/asc.md)
 - [Neptune](../factors/neptune.md)
 - [Mercury/Asc](../axes/mercury-asc.md)
+- [Mercury Neptune Asc](../triads/mercury-neptune-asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

@@ -32,11 +32,28 @@ updated_at: 2026-05-06
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `VENUS/NEPTUNE With Itself`
+- Source page: `206`
+
 #### Munkasey Entry
 
 Indecisiveness about how to dress or present yourself; added needs to relax and escape more from the realities of the physical world; seeing defects in the composition of pretty objects; a shabbiness to physical objects of wealth.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Venus/Neptune = Neptune`: Indecisiveness about how to dress or present oneself; added needs to relax and escape more from the realities of the physical world; seeing defects in the composition of pretty objects; a shabbiness to physical objects of wealth.

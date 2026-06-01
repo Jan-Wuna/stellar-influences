@@ -24,13 +24,14 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - don-mcbroom-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Asc MC`
 - Astronomicon triad-set: `T Asc MC`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -40,29 +41,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Asc/MC = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `58`
-- `Asc/MC = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `60`
-- `Asc/MC = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `307`
-- `Asc/MC = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `121`
-- `Asc/MC = Mercury`: Don McBroom - Midpoints, page `73`
-- `Asc/MC = Mercury`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `364`
-- `Mercury/Asc = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `83`
-- `Mercury/Asc = MC`: Udo Rudolph - ABC for Planetary Pictures, page `106`
-- `Mercury/Asc = MC`: Reinhold Ebertin - The Combination of Stellar Influences, page `171`
-- `Mercury/Asc = MC`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `52`
-- `Mercury/Asc = MC`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `180`
-- `Mercury/MC = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `62`
-- `Mercury/MC = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `68`
-- `Mercury/MC = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `174`
-- `Mercury/MC = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `53`
-- `Mercury/MC = Asc`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `184`
+- `Asc/MC = Mercury`: Michael, page `364`
+- `Mercury/Asc = MC`: Michael, page `180`
+- `Mercury/MC = Asc`: Michael, page `184`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Asc/MC = Mercury`: communication, analysis, exchange of ideas, and adaptive thinking as the factor that helps the personality connect, cooperate, and develop its role in life.
-- `Mercury/Asc = MC`: a person whose conversations, judgments, and interactions with others quickly reveal a personal position, outlook, or public-facing opinion.
-- `Mercury/MC = Asc`: a visibly mental or advisory presence, with personal manner and social contact shaped by a strong need to state, propagate, or embody one's own ideas.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

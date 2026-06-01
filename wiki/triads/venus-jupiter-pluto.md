@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Venus Jupiter Pluto`
 - Astronomicon triad-set: `Q V Z`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Jupiter/Pluto = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `210`
-- `Jupiter/Pluto = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `330`
-- `Jupiter/Pluto = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `235`
-- `Jupiter/Pluto = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `82`
-- `Jupiter/Pluto = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `268`
-- `Venus/Jupiter = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `177`
-- `Venus/Jupiter = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `273`
-- `Venus/Jupiter = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `179`
-- `Venus/Jupiter = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `56`
-- `Venus/Jupiter = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `192`
-- `Venus/Pluto = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `181`
-- `Venus/Pluto = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `280`
-- `Venus/Pluto = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `191`
-- `Venus/Pluto = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `62`
-- `Venus/Pluto = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `208`
+- `Jupiter/Pluto = Venus`: Michael, page `268`
+- `Venus/Jupiter = Pluto`: Michael, page `192`
+- `Venus/Pluto = Jupiter`: Michael, page `208`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Jupiter/Pluto = Venus`: expansive creative power, grand passion, and the desire for relationships, resources, or pleasures that feel large, rich, and transformative.
-- `Venus/Jupiter = Pluto`: powerful attraction and consequential good fortune, with abundance, affection, and social reward shaped by stronger passions and large transformative stakes.
-- `Venus/Pluto = Jupiter`: compelling attraction, transformative love, and deep value intensity made expansive, high-stakes, and difficult to contain.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Neptune Pluto`
 - Astronomicon triad-set: `T Y Z`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mercury/Neptune = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `164`
-- `Mercury/Neptune = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `251`
-- `Mercury/Neptune = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `161`
-- `Mercury/Neptune = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `49`
-- `Mercury/Neptune = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `168`
-- `Mercury/Pluto = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `165`
-- `Mercury/Pluto = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `253`
-- `Mercury/Pluto = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `164`
-- `Mercury/Pluto = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `50`
-- `Mercury/Pluto = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `172`
-- `Neptune/Pluto = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `246`
-- `Neptune/Pluto = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `390`
-- `Neptune/Pluto = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `281`
-- `Neptune/Pluto = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `110`
-- `Neptune/Pluto = Mercury`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `328`
+- `Mercury/Neptune = Pluto`: Michael, page `168`
+- `Mercury/Pluto = Neptune`: Michael, page `172`
+- `Neptune/Pluto = Mercury`: Michael, page `328`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mercury/Neptune = Pluto`: imaginative thought under pressure, with language shaped by secrecy, depth, and transformative undercurrents.
-- `Mercury/Pluto = Neptune`: perceptive but elusive intelligence, with depth of thought mixed with symbolism, secrecy, and hard-to-define mental influence.
-- `Neptune/Pluto = Mercury`: penetrating but elusive intelligence, with thought shaped by hidden motives, symbolic depth, and the urge to read what lies underneath appearances.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

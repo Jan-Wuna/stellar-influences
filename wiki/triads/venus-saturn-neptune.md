@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Venus Saturn Neptune`
 - Astronomicon triad-set: `Q W Y`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Saturn/Neptune = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `222`
-- `Saturn/Neptune = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `350`
-- `Saturn/Neptune = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `250`
-- `Saturn/Neptune = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `90`
-- `Saturn/Neptune = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `288`
-- `Venus/Neptune = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `180`
-- `Venus/Neptune = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `279`
-- `Venus/Neptune = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `188`
-- `Venus/Neptune = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `61`
-- `Venus/Neptune = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `204`
-- `Venus/Saturn = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `178`
-- `Venus/Saturn = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `275`
-- `Venus/Saturn = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `182`
-- `Venus/Saturn = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `57`
-- `Venus/Saturn = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `196`
+- `Saturn/Neptune = Venus`: Michael, page `288`
+- `Venus/Neptune = Saturn`: Michael, page `204`
+- `Venus/Saturn = Neptune`: Michael, page `196`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Saturn/Neptune = Venus`: tender but burdened attachment, with love, pleasure, or finances shaped by sacrifice, disappointment, restraint, or idealized longing.
-- `Venus/Neptune = Saturn`: tender but burdened attachment, with idealism confronted by limits, loyalty, and the need to endure what cannot remain purely beautiful or imagined.
-- `Venus/Saturn = Neptune`: restrained affection, serious love, and value tested through time, duty, and limitation made sacrificial, wistful, and spiritually burdened.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

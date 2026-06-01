@@ -22,7 +22,7 @@ from tools.wiki_pages import load_page
 
 
 UPDATED_AT = "2026-04-21"
-DEFAULT_DERIVED_TEXT = "- None yet beyond source structuring."
+DEFAULT_DERIVED_TEXT = ""
 
 
 def _yaml_list(items: list[str], indent: int = 0) -> str:
@@ -211,6 +211,8 @@ updated_at: {UPDATED_AT}
 
 - No direct contradiction is recorded yet among the ingested source entries on this axis.
 - Differences are preserved as distinct source voices and aspect-family emphases rather than flattened into one wording.
+
+<a id="derived-synthesis"></a>
 
 ## Derived Synthesis
 

@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ The emotional need for strong, stable connections with others - though in neurot
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SATURN/NODE with Planets and Points`
+- Source page: `296`
+
 #### Munkasey Entry
 
 Appreciation for the compassion others bring when you are in need of their assistance; sensitivity to the manner in which others bring or offer help to you; using public assistance to find value in life; ties to female run societies.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Saturn/Node = Moon`: steady caregiving, long-term commitment, and the ability to stay connected under difficult conditions. Main caution: heaviness: sadness, familial burden, or emotional inhibition can make ties feel more dutiful than nourishing.
@@ -76,6 +93,7 @@ Appreciation for the compassion others bring when you are in need of their assis
 - [Node](../factors/node.md)
 - [Moon](../factors/moon.md)
 - [Saturn/Node](../axes/saturn-node.md)
+- [Moon Saturn Node](../triads/moon-saturn-node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

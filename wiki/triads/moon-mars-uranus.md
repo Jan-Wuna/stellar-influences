@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Moon Mars Uranus`
 - Astronomicon triad-set: `R U X`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mars/Uranus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `194`
-- `Mars/Uranus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `302`
-- `Mars/Uranus = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `208`
-- `Mars/Uranus = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `71`
-- `Mars/Uranus = Moon`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `232`
-- `Moon/Mars = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `124`
-- `Moon/Mars = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `181`
-- `Moon/Mars = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `120`
-- `Moon/Mars = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `28`
-- `Moon/Mars = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `112`
-- `Moon/Uranus = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `127`
-- `Moon/Uranus = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `186`
-- `Moon/Uranus = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `129`
-- `Moon/Uranus = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `33`
-- `Moon/Uranus = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `124`
+- `Mars/Uranus = Moon`: Michael, page `232`
+- `Moon/Mars = Uranus`: Michael, page `112`
+- `Moon/Uranus = Mars`: Michael, page `124`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mars/Uranus = Moon`: abrupt feeling-response, powerful instinctive effort, and moods that quickly impel action, creativity, or crisis.
-- `Moon/Mars = Uranus`: highly charged instinctive behavior, with moods and action moving abruptly through excitement, tension, or disruptive change.
-- `Moon/Uranus = Mars`: volatile instinctive energy, with feeling and defense shaped by abruptness, tension, and readiness to break from constraint.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

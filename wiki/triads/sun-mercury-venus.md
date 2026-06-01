@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Sun Mercury Venus`
 - Astronomicon triad-set: `S T Q`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mercury/Venus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `159`
-- `Mercury/Venus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `240`
-- `Mercury/Venus = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `146`
-- `Mercury/Venus = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `41`
-- `Mercury/Venus = Sun`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `148`
-- `Sun/Mercury = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `103`
-- `Sun/Mercury = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `142`
-- `Sun/Mercury = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `81`
-- `Sun/Mercury = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `8`
-- `Sun/Mercury = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `60`
-- `Sun/Venus = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `104`
-- `Sun/Venus = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `144`
-- `Sun/Venus = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `84`
-- `Sun/Venus = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `10`
-- `Sun/Venus = Mercury`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `64`
+- `Mercury/Venus = Sun`: Michael, page `148`
+- `Sun/Mercury = Venus`: Michael, page `60`
+- `Sun/Venus = Mercury`: Michael, page `64`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mercury/Venus = Sun`: graceful self-expression, with charm, social intelligence, and aesthetic judgment woven into personality and conscious aims.
-- `Sun/Mercury = Venus`: smooth, persuasive communication, rational exchange in relationships, and a mentality that enjoys organizing ideas around beauty, affection, or value.
-- `Sun/Venus = Mercury`: articulate charm, with love, value, and self-expression shaped through language, taste, and socially intelligent communication.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

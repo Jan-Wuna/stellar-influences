@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `VENUS/NEPTUNE`
+- Source page: `203`
 
 #### Pair Summary
 
@@ -202,6 +205,9 @@ Love of people vastly better or worse off than oneself, including those who take
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `VENUS/NEPTUNE`
+- Source page: `203`
+
 #### Basic Ideas
 
 These themes denote an appreciation of how dreams and visions can become the prototypes for future reality. You may feel delight in accomplishing a successful deception, gain enjoyment from the subtleness of creating beauty, or derive pleasure from the study and application of mysticism or magic. You may create subtle ways to display your jealousies, gain satisfaction from being evasive or illusive, and feel affection when you receive romantic gestures from another. These motifs may weaken your attempts at being more beautiful or lovely, bring confusion about using makeup or body ornaments, and help create false impressions about the admiration you show to others. You may be tempted to be lazy or indulge in pure sensual gratifications, earn appreciation from being more holy or obedient, delight in wearing creative disguises, or appease your yearnings for total personal freedom.
@@ -229,6 +235,15 @@ Inner reactions to drugs; weakness in the kidneys or bladder; weakened senses in
 
 - [Michael Munkasey - Venus/Neptune Concepts](../derived/munkasey-venus-neptune-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Venus/Neptune = Admetos](../activations/venus-neptune-equals-admetos.md)
@@ -253,7 +268,13 @@ Inner reactions to drugs; weakness in the kidneys or bladder; weakened senses in
 - [Venus/Neptune = Vulcanus](../activations/venus-neptune-equals-vulcanus.md)
 - [Venus/Neptune = Zeus](../activations/venus-neptune-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Venus/Neptune` is the axis of idealized love, refined beauty, romantic imagination, and compassionate longing. It combines affection, art, pleasure, and value with dream, mysticism, glamour, sacrifice, and the urge to transcend ordinary personal desire.

@@ -63,7 +63,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -75,6 +75,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `NODE/ASCENDANT`
+- Source page: `355`
 
 #### Pair Summary
 
@@ -126,6 +129,9 @@ Connections of a personal nature, such as wth family or relatives. Groups that o
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `NODE/ASCENDANT`
+- Source page: `355`
+
 #### Basic Ideas
 
 These motifs focus attention on finding and meeting people who share mutual obligations, impressions, interests, or influences. They prompt you to satisfy your needs for associating with such persons, groups, or societies. Your ability to retain a personal identity in your society, and the familiarity you develop with friends you meet thru groups having mutual interests is also represented. These themes open opportunities for concentrating on meeting the kinds of people you seek to fulfill obligations during the various phases of your life. Your desires to meet in comfortable and familiar surroundings, the personal friendships which evolve from groups which attract you, and the benefits you achieve from associating with people who share a similar life’s purpose with you begin here. Reactions to imposed separations, and the mutual assistance derived from others are also noted here.
@@ -153,6 +159,15 @@ The overall soundness of psychological health; support from friends or groups; h
 
 - [Michael Munkasey - Node/Asc Concepts](../derived/munkasey-node-asc-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Node/Asc = Admetos](../activations/node-asc-equals-admetos.md)
@@ -177,7 +192,13 @@ The overall soundness of psychological health; support from friends or groups; h
 - [Node/Asc = Vulcanus](../activations/node-asc-equals-vulcanus.md)
 - [Node/Asc = Zeus](../activations/node-asc-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Node/Asc` is the axis of personal relationship, close social environment, and identity shaped through day-to-day contact with others. It combines alliance, fellowship, and shared interest with personality, approach, and the immediate field of human interaction.

@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ Pent up energy can create drastic pressure within oneself, with a consequent nee
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MARS/SATURN with Planets and Points`
+- Source page: `228`
+
 #### Munkasey Entry
 
 Extreme measures taken to apply force or might directly to those who are no longer able to defend themselves adequately; an intensification of applying might or energy toward your goals; corrupts respected activities or efforts.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mars/Saturn = Pluto`: massive endurance, stern control of force, and the ability to turn pressure into deep transformation when handled consciously. Main caution: violent discharge: pent-up frustration can erupt as brutality, rupture, or destructive interventions of great consequence.
@@ -76,6 +93,7 @@ Extreme measures taken to apply force or might directly to those who are no long
 - [Saturn](../factors/saturn.md)
 - [Pluto](../factors/pluto.md)
 - [Mars/Saturn](../axes/mars-saturn.md)
+- [Mars Saturn Pluto](../triads/mars-saturn-pluto.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

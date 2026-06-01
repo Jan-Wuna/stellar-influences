@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Venus Neptune Asc`
 - Astronomicon triad-set: `Q Y Asc`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Neptune/Asc = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `89`
-- `Neptune/Asc = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `118`
-- `Neptune/Asc = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `35`
-- `Neptune/Asc = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `112`
-- `Neptune/Asc = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `336`
-- `Venus/Asc = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `84`
-- `Venus/Asc = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `109`
-- `Venus/Asc = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `196`
-- `Venus/Asc = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `65`
-- `Venus/Asc = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `216`
-- `Venus/Neptune = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `180`
-- `Venus/Neptune = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `278`
-- `Venus/Neptune = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `189`
-- `Venus/Neptune = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `61`
-- `Venus/Neptune = Asc`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `204`
+- `Neptune/Asc = Venus`: Michael, page `336`
+- `Venus/Asc = Neptune`: Michael, page `216`
+- `Venus/Neptune = Asc`: Michael, page `204`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Neptune/Asc = Venus`: a gentle, attractive, and idealized presence, with identity shaped by sympathy, glamour, romance, and the wish to meet others through softness and beauty.
-- `Venus/Asc = Neptune`: an alluring but elusive presence, with charm shaped by sensitivity, fantasy, and the ability to evoke dream, sympathy, or romantic projection.
-- `Venus/Neptune = Asc`: a soft, alluring, or elusive presence, with identity expressed through charm, sensitivity, glamour, and a dream-like relational field.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

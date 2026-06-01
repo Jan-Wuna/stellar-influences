@@ -32,11 +32,28 @@ updated_at: 2026-05-06
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SATURN/NEPTUNE With Itself`
+- Source page: `290`
+
 #### Munkasey Entry
 
 Cutting thru confusion and deceptive practices and getting to the heart of matters; prompts you to rely on people who have other than sensory means of obtaining information; adds toleration for performing tedious tasks.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Saturn/Neptune = Saturn`: Cutting thru confusion and deceptive practices and getting to the heart of matters; prompts one to rely on people who have other than sensory means of obtaining information; adds toleration for performing tedious tasks.

@@ -32,11 +32,28 @@ updated_at: 2026-05-06
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `PLUTO/MIDHEAVEN With Itself`
+- Source page: `354`
+
 #### Munkasey Entry
 
 Increased need to be recognized by others in life for who you are or what you can do; helps you to stoop to less than honest means for achieving recognition and help with your ambitions; adds a ruthlessness to your ideas.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Pluto/MC = Pluto`: Increased need to be recognized by others in life for who one is or what one can do; helps one to stoop to less than honest means for achieving recognition and help with one's ambitions; adds a ruthlessness to one's ideas.

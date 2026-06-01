@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ Having inspirations about how one can use a situation for personal expansion, or
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `JUPITER/PLUTO with Planets and Points`
+- Source page: `268`
+
 #### Munkasey Entry
 
 Sudden and unexpected interference to plans for advancing in society; the exceptional and unusual situation blocks your way and upsets you; you rebel against society and seek to start your own clique of influential friends.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Jupiter/Pluto = Uranus`: quick development, inspired expansion, and ability to exploit changing conditions for substantial gain or transformation. Main caution: fanatic acceleration: reform can become too abrupt or destabilizing if intensity outruns judgment.
@@ -76,6 +93,7 @@ Sudden and unexpected interference to plans for advancing in society; the except
 - [Pluto](../factors/pluto.md)
 - [Uranus](../factors/uranus.md)
 - [Jupiter/Pluto](../axes/jupiter-pluto.md)
+- [Jupiter Uranus Pluto](../triads/jupiter-uranus-pluto.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

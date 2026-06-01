@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Uranus Neptune`
 - Astronomicon triad-set: `T X Y`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mercury/Neptune = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `164`
-- `Mercury/Neptune = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `251`
-- `Mercury/Neptune = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `161`
-- `Mercury/Neptune = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `49`
-- `Mercury/Neptune = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `168`
-- `Mercury/Uranus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `163`
-- `Mercury/Uranus = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `249`
-- `Mercury/Uranus = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `159`
-- `Mercury/Uranus = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `47`
-- `Mercury/Uranus = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `164`
-- `Uranus/Neptune = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `234`
-- `Uranus/Neptune = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `370`
-- `Uranus/Neptune = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `266`
-- `Uranus/Neptune = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `104`
-- `Uranus/Neptune = Mercury`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `308`
+- `Mercury/Neptune = Uranus`: Michael, page `168`
+- `Mercury/Uranus = Neptune`: Michael, page `164`
+- `Uranus/Neptune = Mercury`: Michael, page `308`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mercury/Neptune = Uranus`: imaginative intelligence charged by sudden perception, with ideas shaped by revelation, experimentation, and nonordinary mental pathways.
-- `Mercury/Uranus = Neptune`: unusual imagination, with flashes of insight, symbolic intelligence, and irregular inspiration shaping thought and communication.
-- `Uranus/Neptune = Mercury`: unusual perception and imaginative thought, with communication shaped by intuition, symbol, radical insight, and nonlinear understanding.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

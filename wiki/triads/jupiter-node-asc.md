@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Node Asc`
 - Astronomicon triad-set: `V g Asc`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Jupiter/Asc = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `86`
-- `Jupiter/Asc = Node`: Udo Rudolph - ABC for Planetary Pictures, page `112`
-- `Jupiter/Asc = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `242`
-- `Jupiter/Asc = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `85`
-- `Jupiter/Asc = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `276`
-- `Jupiter/Node = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `144`
-- `Jupiter/Node = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `214`
-- `Jupiter/Node = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `238`
-- `Jupiter/Node = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `84`
-- `Jupiter/Node = Asc`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `272`
-- `Node/Asc = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `82`
-- `Node/Asc = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `104`
-- `Node/Asc = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `301`
-- `Node/Asc = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `118`
-- `Node/Asc = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `356`
+- `Jupiter/Asc = Node`: Michael, page `276`
+- `Jupiter/Node = Asc`: Michael, page `272`
+- `Node/Asc = Jupiter`: Michael, page `356`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Jupiter/Asc = Node`: happy association, sociability, encouragement, and the expansion of identity through group contact, meetings, and congenial people.
-- `Jupiter/Node = Asc`: a friendly, encouraging, and growth-oriented social manner that quickly creates goodwill and useful connection.
-- `Node/Asc = Jupiter`: a sociable, encouraging identity, with close relationships and the immediate social field opening through generosity, enthusiasm, and fortunate association.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

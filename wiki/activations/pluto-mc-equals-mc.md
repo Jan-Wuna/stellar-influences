@@ -32,11 +32,28 @@ updated_at: 2026-05-06
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `PLUTO/MIDHEAVEN With Itself`
+- Source page: `354`
+
 #### Munkasey Entry
 
 Overcoming the worst of the obstacles in your way; added persistence to try and finish whatever it is you start; realizing that the end objective is not always as important as preserving personal moral integrity and position.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Pluto/MC = MC`: Overcoming the worst of the obstacles in one's way; added persistence to try and finish whatever it is one start; realizing that the end objective is not always as important as preserving personal moral integrity and position.

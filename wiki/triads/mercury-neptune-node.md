@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Neptune Node`
 - Astronomicon triad-set: `T Y g`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mercury/Neptune = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `164`
-- `Mercury/Neptune = Node`: Udo Rudolph - ABC for Planetary Pictures, page `250`
-- `Mercury/Neptune = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `161`
-- `Mercury/Neptune = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `49`
-- `Mercury/Neptune = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `168`
-- `Mercury/Node = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `141`
-- `Mercury/Node = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `209`
-- `Mercury/Node = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `167`
-- `Mercury/Node = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `51`
-- `Mercury/Node = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `176`
-- `Neptune/Node = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `147`
-- `Neptune/Node = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `220`
-- `Neptune/Node = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `284`
-- `Neptune/Node = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `111`
-- `Neptune/Node = Mercury`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `332`
+- `Mercury/Neptune = Node`: Michael, page `168`
+- `Mercury/Node = Neptune`: Michael, page `176`
+- `Neptune/Node = Mercury`: Michael, page `332`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mercury/Neptune = Node`: imaginative connection, with networks and conversations shaped by empathy, atmosphere, dream, or spiritualized exchange.
-- `Mercury/Node = Neptune`: imaginative connection, with social thinking filtered through compassion, symbolism, or shared emotional currents.
-- `Neptune/Node = Mercury`: subtle exchange, with relationships shaped by intuition, suggestion, sympathetic listening, and conversations that connect through feeling or implication more than hard definition.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

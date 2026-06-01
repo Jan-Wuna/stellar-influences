@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Mars Jupiter Saturn`
 - Astronomicon triad-set: `U V W`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Jupiter/Saturn = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `207`
-- `Jupiter/Saturn = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `324`
-- `Jupiter/Saturn = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `226`
-- `Jupiter/Saturn = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `78`
-- `Jupiter/Saturn = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `256`
-- `Mars/Jupiter = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `192`
-- `Mars/Jupiter = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `299`
-- `Mars/Jupiter = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `202`
-- `Mars/Jupiter = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `67`
-- `Mars/Jupiter = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `224`
-- `Mars/Saturn = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `193`
-- `Mars/Saturn = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `300`
-- `Mars/Saturn = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `205`
-- `Mars/Saturn = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `68`
-- `Mars/Saturn = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `228`
+- `Jupiter/Saturn = Mars`: Michael, page `256`
+- `Mars/Jupiter = Saturn`: Michael, page `224`
+- `Mars/Saturn = Jupiter`: Michael, page `228`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Jupiter/Saturn = Mars`: persistent effort, the will to force change, and disciplined action that can endure until an aim is reached.
-- `Mars/Jupiter = Saturn`: slowed or burdened enterprise, painful decision points, and the need to temper enthusiasm with realism, endurance, and restraint.
-- `Mars/Saturn = Jupiter`: tightly focused action that can complete hard tasks well, especially when problems are anticipated and force is carefully budgeted.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

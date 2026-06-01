@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To need and want independence in a love relationship. To be attracted to the unu
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/VENUS with Planets and Points`
+- Source page: `64`
+
 #### Munkasey Entry
 
 An enhanced need to be enterprising when you show your affectionate side; surprises at how others show their love toward you; desires to upset another thru jealousy or the loss of your love; original ways of loving.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Venus = Uranus`: stimulating affection, progressive taste, and a selfhood refreshed by unusual bonds and creative change. Main caution: unstable attraction: delight in novelty can outrun continuity and make affection vivid but harder to sustain.
@@ -76,6 +93,7 @@ An enhanced need to be enterprising when you show your affectionate side; surpri
 - [Venus](../factors/venus.md)
 - [Uranus](../factors/uranus.md)
 - [Sun/Venus](../axes/sun-venus.md)
+- [Sun Venus Uranus](../triads/sun-venus-uranus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

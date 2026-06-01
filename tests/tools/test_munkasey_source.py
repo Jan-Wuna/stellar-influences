@@ -32,6 +32,30 @@ def test_munkasey_parser_extracts_ordered_concepts_without_examples():
     assert "EVENTS:" not in sun_moon.concepts
 
 
+def test_munkasey_parser_extracts_sun_moon_page_two_activations():
+    blocks = generate_models(SOURCE_PATH)
+    sun_moon = next(block for block in blocks if (block.factor_a, block.factor_b) == ("Sun", "Moon"))
+    assert len(sun_moon.activation_entries) == 11
+
+    mars = next(entry for entry in sun_moon.activation_entries if entry.activated_by == "Mars")
+    assert "Becoming more self-reliant" in mars.text
+
+    mc = next(entry for entry in sun_moon.activation_entries if entry.activated_by == "MC")
+    assert "Choosing deliberate paths for personal development" in mc.text
+
+
+def test_munkasey_parser_extracts_sun_moon_with_itself_entries_without_examples():
+    blocks = generate_models(SOURCE_PATH)
+    sun_moon = next(block for block in blocks if (block.factor_a, block.factor_b) == ("Sun", "Moon"))
+    assert len(sun_moon.with_itself_entries) == 2
+
+    sun_entry = next(entry for entry in sun_moon.with_itself_entries if entry.activated_by == "Sun")
+    assert "Helps you focus on the efforts you put into daily events" in sun_entry.text
+
+    moon_entry = next(entry for entry in sun_moon.with_itself_entries if entry.activated_by == "Moon")
+    assert "Increased needs to express care or bring relief to important people" in moon_entry.text
+
+
 def test_munkasey_parser_extracts_venus_saturn_concepts_page():
     blocks = generate_models(SOURCE_PATH)
     venus_saturn = next(block for block in blocks if (block.factor_a, block.factor_b) == ("Venus", "Saturn"))
@@ -58,3 +82,9 @@ def test_munkasey_parser_never_leaks_page_four_mwa_text_into_concepts():
     assert "WEAK:" not in all_concepts
     assert "EVENTS:" not in all_concepts
     assert "Significant Examples of People and Events" not in all_concepts
+
+
+def test_munkasey_parser_extracts_all_page_two_and_page_four_entries():
+    blocks = generate_models(SOURCE_PATH)
+    assert sum(len(block.activation_entries) for block in blocks) == 858
+    assert sum(len(block.with_itself_entries) for block in blocks) == 156

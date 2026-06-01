@@ -63,7 +63,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -75,6 +75,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `NEPTUNE/MIDHEAVEN`
+- Source page: `339`
 
 #### Pair Summary
 
@@ -126,6 +129,9 @@ Weak or sensitive ego. The feeling of being unable to stand alone. Tendency to b
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `NEPTUNE/MIDHEAVEN`
+- Source page: `339`
+
 #### Basic Ideas
 
 These themes increase your indecision when planning for your life’s direction, and add to inner doubts about the personal progress you are or are not making in life. Thru these motifs it may be easier for you to abandon any self restraint and slip into habits which make it more difficult for you to plan effectively. They also increase your desire to grow apart from your origin or family as you try to define who you are as a person and where you want to go with life. There is a danger of ignoring your need for career qualifications or your education, ambiguity about how to set goals for yourself in life, and a weakness with coping with those experiences of life which you must master to live. However, these points help you enhance your capacity to dream or envision for your future, and increase your ability to see yourself growing and maturing thru a more well rounded sense of god or soul.
@@ -153,6 +159,15 @@ May bring a genetic weakness or body reaction to certain allergens, drugs, alcoh
 
 - [Michael Munkasey - Neptune/MC Concepts](../derived/munkasey-neptune-mc-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Neptune/MC = Admetos](../activations/neptune-mc-equals-admetos.md)
@@ -177,7 +192,13 @@ May bring a genetic weakness or body reaction to certain allergens, drugs, alcoh
 - [Neptune/MC = Vulcanus](../activations/neptune-mc-equals-vulcanus.md)
 - [Neptune/MC = Zeus](../activations/neptune-mc-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Neptune/MC` is the axis of idealistic but uncertain vocation, visionary life direction, and public identity shaped by imagination, sacrifice, or subtle influence. It combines dream, intuition, compassion, and unreality with ambition, status, self-definition, and the search for a role in the world.

@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Saturn Pluto`
 - Astronomicon triad-set: `T W Z`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mercury/Pluto = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `165`
-- `Mercury/Pluto = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `253`
-- `Mercury/Pluto = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `164`
-- `Mercury/Pluto = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `50`
-- `Mercury/Pluto = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `172`
-- `Mercury/Saturn = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `162`
-- `Mercury/Saturn = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `247`
-- `Mercury/Saturn = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `155`
-- `Mercury/Saturn = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `45`
-- `Mercury/Saturn = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `160`
-- `Saturn/Pluto = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `223`
-- `Saturn/Pluto = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `352`
-- `Saturn/Pluto = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `254`
-- `Saturn/Pluto = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `91`
-- `Saturn/Pluto = Mercury`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `292`
+- `Mercury/Pluto = Saturn`: Michael, page `172`
+- `Mercury/Saturn = Pluto`: Michael, page `160`
+- `Saturn/Pluto = Mercury`: Michael, page `292`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mercury/Pluto = Saturn`: controlled intensity, with disciplined thinking, guarded speech, and strategy carried through under pressure and seriousness.
-- `Mercury/Saturn = Pluto`: severe concentration, with disciplined thinking driven into survival, research, and mentally controlled confrontation with difficult realities.
-- `Saturn/Pluto = Mercury`: grave, penetrating judgment, with thought shaped by realism, secrecy, pressure, and the need to understand what lies beneath appearances.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

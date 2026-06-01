@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ Getting things accomplished erratically or sporadically. Waiting for the inspira
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/MARS with Planets and Points`
+- Source page: `68`
+
 #### Munkasey Entry
 
 Toughens your resolution to be a bruising and non-stop competitor; adds to your indifference about the pain and struggle you endure during rigorous activities; unexpected problems or snags in your activities or conditioning.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Mars = Uranus`: technical ingenuity, bold initiative, and rapid adaptation when old methods are too slow. Main caution: instability: premature action, excitement, or sporadic effort can create accidents, reversals, or wasted force.
@@ -76,6 +93,7 @@ Toughens your resolution to be a bruising and non-stop competitor; adds to your 
 - [Mars](../factors/mars.md)
 - [Uranus](../factors/uranus.md)
 - [Sun/Mars](../axes/sun-mars.md)
+- [Sun Mars Uranus](../triads/sun-mars-uranus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

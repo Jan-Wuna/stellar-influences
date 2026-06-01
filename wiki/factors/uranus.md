@@ -14,7 +14,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -68,6 +68,9 @@ Reformers, inventors, technicians. Rebels and revolutionists. Positions in House
 energy that strives to keep the universe flexible by preventing too much order. Uranus represents the random element of mutation that is necessary for creative innovation. Although Uranus is the first of the outer planets that are normally invisible to the naked eye, it can be seen under ideal conditions when in opposition to the Sun. Uranus's position on the periphery of awareness symbolizes the way its energies tend to peep in and out of the world of normal consciousness, and how they often seem to be alien to the concerns of normal consciousness. Its energies operate suddenly and with extreme eccentricity. Whatever it may affect or symbolize takes the form of something unusual, far different from the everyday world. Uranus can therefore be more truly consciousness-expanding than Jupiter. Whereas Jupiter represents expansion into worlds that are at least similar to those with which one is already familiar, Uranus can bring about encounters with totally alien worlds. Along with
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `URANUS`
+- Source page: `49`
 
 #### Basic Ideas
 
@@ -156,7 +159,21 @@ energy that strives to keep the universe flexible by preventing too much order. 
 - Traitors
 - Troublemakers
 
+## Comparative Schema
+
+- core meaning: source-native factor entries are preserved side by side above.
+- psychology: source-specific psychological and doctrinal emphases remain attached to their own source blocks instead of being flattened.
+- body/health: bodily wording remains inside each contributing source block when present.
+- social/relationship: interpersonal implications remain attached to each source's own phrasing.
+- events/manifestations: source-specific extensions remain attached to the source entry that states them.
+- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
+
+## Contradictions and Framework Notes
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Uranus` is the factor of event, dynamics, excitement, tension, surprise, restlessness, impulse, and sudden change that breaks open rigid structures.
@@ -189,6 +206,10 @@ energy that strives to keep the universe flexible by preventing too much order. 
 - [Venus/Uranus](../axes/venus-uranus.md)
 - [Vernal Point/Uranus](../axes/vernal-point-uranus.md)
 
+## Related Activations
+
+- None recorded yet.
+
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
@@ -196,3 +217,7 @@ energy that strives to keep the universe flexible by preventing too much order. 
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+
+## Open Questions
+
+- None recorded yet.

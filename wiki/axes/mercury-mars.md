@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MERCURY/MARS`
+- Source page: `151`
 
 #### Pair Summary
 
@@ -194,6 +197,9 @@ assertion. The determination to act upon one's own ideas. Forceful intellect.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MERCURY/MARS`
+- Source page: `151`
+
 #### Basic Ideas
 
 These planets symbolize thinking or reasoning as you move or work. You may make rapid observations, have clever ideas about how to direct your activities, and receive aggravation from two directions. Here you find anger which arises quickly, an ability to argue a question or point from either side, and observations of agitated or disorderly actions. Enlivening your delivery of any communications, such as your lecturing or writing is also highlighted. You may put activity and motion into all means of expression, talk about your anger or personal internal struggles, encounter a deceptive competitor, or stimulate flows of information. You may hear noises which occur suddenly or loudly, stimulate your mental activity, remember aggravation caused by others, receive loud arguments back in response to carefully thought out or reasoned facts, and encounter a lot of mental pressure to perform.
@@ -221,6 +227,15 @@ Hormone levels which affect your energy levels; convulsions caused by self exhau
 
 - [Michael Munkasey - Mercury/Mars Concepts](../derived/munkasey-mercury-mars-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Mercury/Mars = Admetos](../activations/mercury-mars-equals-admetos.md)
@@ -245,7 +260,13 @@ Hormone levels which affect your energy levels; convulsions caused by self exhau
 - [Mercury/Mars = Vulcanus](../activations/mercury-mars-equals-vulcanus.md)
 - [Mercury/Mars = Zeus](../activations/mercury-mars-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mercury/Mars` is the axis of forceful thought, quick decision, sharp speech, debate, and mentally directed action. It joins intellect and language with initiative, combativeness, enterprise, and the need to move ideas into effect.

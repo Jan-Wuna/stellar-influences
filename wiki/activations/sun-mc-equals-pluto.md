@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ An intense craving to be an important person, and/or to play a meaningful part i
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/MIDHEAVEN with Planets and Points`
+- Source page: `100`
+
 #### Munkasey Entry
 
 Increased opportunities for your personal and social contributions to be recognized more universally; important secrets which help you achieve fame; reduced personal honor even if you are exceptionally honest.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/MC = Pluto`: massive drive, the urge to play a meaningful role in the world, and the capacity to force extraordinary plans into reality. Main caution: compulsion: career, security, or destiny can become dominated by control struggles, tragic turns, or burnout.
@@ -76,6 +93,7 @@ Increased opportunities for your personal and social contributions to be recogni
 - [MC](../factors/mc.md)
 - [Pluto](../factors/pluto.md)
 - [Sun/MC](../axes/sun-mc.md)
+- [Sun Pluto MC](../triads/sun-pluto-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To feel an obligation to educate the world, or uplift it in some other way. To h
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `JUPITER/MIDHEAVEN with Planets and Points`
+- Source page: `280`
+
 #### Munkasey Entry
 
 Illusions and deceptions about your abilities to cope with life’s problems; a lack of progress in expanding your horizons thru study or travel; a need for poetry and music; motivation gained from studying the occult.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Jupiter/MC = Neptune`: philanthropic or spiritual career hopes, intuitive guidance, and the wish to pursue a calling larger than ordinary reality. Main caution: false promise: success may rest on weak footing, hopes may outrun facts, and confusion can blur the difference between true vocation and fantasy.
@@ -76,6 +93,7 @@ Illusions and deceptions about your abilities to cope with life’s problems; a 
 - [MC](../factors/mc.md)
 - [Neptune](../factors/neptune.md)
 - [Jupiter/MC](../axes/jupiter-mc.md)
+- [Jupiter Neptune MC](../triads/jupiter-neptune-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

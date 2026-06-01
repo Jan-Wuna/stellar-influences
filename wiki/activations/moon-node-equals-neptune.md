@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To be sensitive about the emotional energy flowing between oneself and others. T
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MOON/NODE with Planets and Points`
+- Source page: `136`
+
 #### Munkasey Entry
 
 People who give you false or inaccurate advice; lax or loosely structured ties to groups which are inspiring or ideal, but which have little practical advice for you; inefficient use of your connections or ties to others for advice.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Moon/Node = Neptune`: soulful community, empathic connection, and bonds formed around care, dream, or emotional resonance. Main caution: blurred attachment: relationships can become sacrificial, vague, or too difficult to distinguish from projection.
@@ -76,6 +93,7 @@ People who give you false or inaccurate advice; lax or loosely structured ties t
 - [Node](../factors/node.md)
 - [Neptune](../factors/neptune.md)
 - [Moon/Node](../axes/moon-node.md)
+- [Moon Neptune Node](../triads/moon-neptune-node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

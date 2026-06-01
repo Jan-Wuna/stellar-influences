@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ Communication which has an imaginative vitality, or a subtle purposefulness, but
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/NEPTUNE with Planets and Points`
+- Source page: `84`
+
 #### Munkasey Entry
 
 Discussions with others about the occult or magical sides of life; bringing your dreams into reality; fosters a need for self-education and practice in the areas of mysticism, magical practices, ritual ceremonies, and occult ideas.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Neptune = Mercury`: poetic speech, dreamlike reflection, and communication shaped by intuition and subtle perception. Main caution: confusion: false logic, deceptive narratives, or diffuse thinking can weaken both judgment and intelligibility.
@@ -76,6 +93,7 @@ Discussions with others about the occult or magical sides of life; bringing your
 - [Neptune](../factors/neptune.md)
 - [Mercury](../factors/mercury.md)
 - [Sun/Neptune](../axes/sun-neptune.md)
+- [Sun Mercury Neptune](../triads/sun-mercury-neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

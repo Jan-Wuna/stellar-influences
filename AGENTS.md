@@ -55,6 +55,8 @@ This repo is a markdown-first LLM wiki for astrological combinations derived fro
 - `wiki/derived/`
 - `wiki/_templates/`
 - `wiki/index.md`
+- `wiki/query-guide.md`
+- `wiki/query-manifest.json`
 - `wiki/log.md`
 
 ## Ingest Rules
@@ -75,6 +77,17 @@ This repo is a markdown-first LLM wiki for astrological combinations derived fro
 ## Query And Write-Back Rules
 
 - Query the wiki first, not raw sources by default.
+- Start with `wiki/query-guide.md`, then use `wiki/query-manifest.json` to target answer surfaces instead of browsing the full corpus blindly.
+- Retrieval order for answers:
+  - activation pages for explicit formulas
+  - axis pages for shared pair meaning
+  - factor pages for recurring factors
+  - triad hubs only for orientation safety and sibling lookup
+  - source pages, source companions, and research notes only when canonical pages leave a real gap
+- Default answer style is synthesis-first:
+  - merge overlapping motifs into one coherent delineation
+  - elevate repeated factors and repeated themes
+  - do not compare lineages, schools, or source names unless the user asks or a real disagreement materially changes the answer
 - Canonical pages may gain clearly labeled `Derived Synthesis` grounded in existing wiki evidence.
 - Do not insert unsourced doctrine into sourced sections.
 - Do not use aliases to collapse different activation orientations.
@@ -82,5 +95,8 @@ This repo is a markdown-first LLM wiki for astrological combinations derived fro
 ## Maintenance Rules
 
 - `tools/rebuild_index.py` rebuilds `wiki/index.md`.
+- `tools/query_manifest.py` rebuilds `wiki/query-guide.md` and `wiki/query-manifest.json`.
 - `tools/lint_wiki.py` validates frontmatter and orientation-safe identity rules.
+- Canonical `factor`, `axis`, and `activation` pages must keep explicit HTML section anchors for stable external links.
+- Required anchor convention: place `<a id="derived-synthesis"></a>` immediately before `## Derived Synthesis`.
 - Ignore `wiki/_templates/` when treating markdown files as live pages.

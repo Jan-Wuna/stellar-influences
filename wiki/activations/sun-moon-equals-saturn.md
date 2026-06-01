@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ The tendency to conserve one’s energy and to desire fewer and deeper involveme
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/MOON with Planets and Points`
+- Source page: `56`
+
 #### Munkasey Entry
 
 Increased personal discipline and work habits; determination to motivate yourself to work consistently and steadily to achieve results; helps you mold your fate; increases restrictions on your ability to progress in life.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Moon = Saturn`: maturity in relationship, inner endurance, and a life-balance that must be built patiently rather than assumed naturally. Main caution: heaviness: the luminary field can feel burdened, inhibited, or divided by fear, loneliness, or excessive caution.
@@ -76,6 +93,7 @@ Increased personal discipline and work habits; determination to motivate yoursel
 - [Moon](../factors/moon.md)
 - [Saturn](../factors/saturn.md)
 - [Sun/Moon](../axes/sun-moon.md)
+- [Sun Moon Saturn](../triads/sun-moon-saturn.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

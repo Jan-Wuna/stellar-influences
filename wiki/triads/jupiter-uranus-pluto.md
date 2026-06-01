@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Uranus Pluto`
 - Astronomicon triad-set: `V X Z`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Jupiter/Pluto = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `210`
-- `Jupiter/Pluto = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `331`
-- `Jupiter/Pluto = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `235`
-- `Jupiter/Pluto = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `82`
-- `Jupiter/Pluto = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `268`
-- `Jupiter/Uranus = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `208`
-- `Jupiter/Uranus = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `327`
-- `Jupiter/Uranus = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `229`
-- `Jupiter/Uranus = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `80`
-- `Jupiter/Uranus = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `260`
-- `Uranus/Pluto = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `235`
-- `Uranus/Pluto = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `372`
-- `Uranus/Pluto = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `269`
-- `Uranus/Pluto = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `105`
-- `Uranus/Pluto = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `312`
+- `Jupiter/Pluto = Uranus`: Michael, page `268`
+- `Jupiter/Uranus = Pluto`: Michael, page `260`
+- `Uranus/Pluto = Jupiter`: Michael, page `312`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Jupiter/Pluto = Uranus`: rapid reform, genius for evolutionary change, and the chance for strikingly successful experiments or innovations.
-- `Jupiter/Uranus = Pluto`: unusual success, powerful reform, and deep change set in motion by bold vision, inventive force, or a sudden reversal of circumstances.
-- `Uranus/Pluto = Jupiter`: revolutionary growth, with radical change enlarged into doctrine, reform, or large systems that must be broken open and remade.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

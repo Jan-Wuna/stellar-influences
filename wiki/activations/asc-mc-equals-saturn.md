@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ A feeling that there is an unbridgeable rift between who one is versus who one w
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `ASCENDANT/MIDHEAVEN with Planets and Points`
+- Source page: `364`
+
 #### Munkasey Entry
 
 This makes it more difficult for you to recognize the motives and intentions of the people you encounter daily; sensing disappointment from others about the way you have conducted your life; simple plans for self growth.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Asc/MC = Saturn`: seriousness, duty, vocational difficulty, and the need to mature through limits, delay, or loneliness. Main caution: discouragement: depression, inferiority, estrangement, and identification with blockage can harden the split between who one is and who one feels able to become.
@@ -76,6 +93,7 @@ This makes it more difficult for you to recognize the motives and intentions of 
 - [MC](../factors/mc.md)
 - [Saturn](../factors/saturn.md)
 - [Asc/MC](../axes/asc-mc.md)
+- [Saturn Asc MC](../triads/saturn-asc-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

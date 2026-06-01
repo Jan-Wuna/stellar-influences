@@ -64,7 +64,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -76,6 +76,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `SATURN/PLUTO`
+- Source page: `291`
 
 #### Pair Summary
 
@@ -133,6 +136,9 @@ Transformations that have to do with shrinking or hardening. To deal with circum
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SATURN/PLUTO`
+- Source page: `291`
+
 #### Basic Ideas
 
 These themes help you organize and plan any work needed to meet your obligations. Adopting a more realistic attitude toward defining your motives, methods for developing the discipline you need to meet personal goals, and tight or unyielding deadlines which are only met thru much hard work or extreme pressure are also indicated. This combination helps your ability to restrain or discipline extreme desires, correct the effects of past excesses, and then organize a turnaround from old reversals. Your desires to replace past rigid habit patterns with more progressive and needed actions, your determination not to be swayed from your inner goals, and your obligations to employ stealth can also start here. Your emphasis on any continuing depletion of resources, or your ability or failure to adequately provide for conditions of future reversals is also represented here.
@@ -160,6 +166,15 @@ A loss or lessening of sexual desire; a lowering of functions from the pituitary
 
 - [Michael Munkasey - Saturn/Pluto Concepts](../derived/munkasey-saturn-pluto-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Saturn/Pluto = Admetos](../activations/saturn-pluto-equals-admetos.md)
@@ -184,7 +199,13 @@ A loss or lessening of sexual desire; a lowering of functions from the pituitary
 - [Saturn/Pluto = Vulcanus](../activations/saturn-pluto-equals-vulcanus.md)
 - [Saturn/Pluto = Zeus](../activations/saturn-pluto-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Saturn/Pluto` is the axis of relentless pressure, hard restructuring, severe endurance, and transformation through burden, loss, or necessity. It combines limits, duty, fear, and control with intensity, compulsion, destruction, and the demand to strip life down to what can survive.

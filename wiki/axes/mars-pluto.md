@@ -64,7 +64,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -76,6 +76,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MARS/PLUTO`
+- Source page: `239`
 
 #### Pair Summary
 
@@ -133,6 +136,9 @@ Striving, hard work. To contend against difficult odds, often successfully. Brut
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MARS/PLUTO`
+- Source page: `239`
+
 #### Basic Ideas
 
 Heated arguments, the courage to raise suspicions, and aggravation at polluting or contamination practices, are central to these themes. Here you find the energy to purify or change that which is undesirable or imperfect; stimulation to be deceptive, corrupt, or degenerate; and a loosening of your destructive tendencies. These motifs bring endurance and energy for fights or battles, stimulate you to overcome any obstacle, help you control aggression, and put you in situations where you are forced to retaliate or punish others. They increase your sexual passions, bring extremes of irritation or displeasure, and activate your courage to reverse or overthrow that which is corrupt or needs drastic change. They help provoke struggles or battles against evil forces and give you the energy or will to set out after furious disputes to correct that which you feel needs reversal or adjustment despite the opposition.
@@ -160,6 +166,15 @@ An over-productive pituitary gland; active cell regeneration or production; rect
 
 - [Michael Munkasey - Mars/Pluto Concepts](../derived/munkasey-mars-pluto-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Mars/Pluto = Admetos](../activations/mars-pluto-equals-admetos.md)
@@ -184,7 +199,13 @@ An over-productive pituitary gland; active cell regeneration or production; rect
 - [Mars/Pluto = Vulcanus](../activations/mars-pluto-equals-vulcanus.md)
 - [Mars/Pluto = Zeus](../activations/mars-pluto-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mars/Pluto` is the axis of concentrated force, relentless action, survival drive, and transformative struggle. It combines initiative, aggression, sexuality, and physical effort with pressure, compulsion, control, and the urge to destroy what is corrupt or blocking progress.

@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ A balanced way of communicating that blends support and criticism. A very persis
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `JUPITER/SATURN with Planets and Points`
+- Source page: `256`
+
 #### Munkasey Entry
 
 Communicating effectively about planning and organization for all activities; using the media to publicize your ideas and aspirations; information which is contrary to knowledge available in general.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Jupiter/Saturn = Mercury`: patient reasoning, practical philosophy, and a mind that can endure long inquiry without losing its thread. Main caution: mental inconstancy around direction: the desire for change and movement can conflict with the need for stability and long-range coherence.
@@ -76,6 +93,7 @@ Communicating effectively about planning and organization for all activities; us
 - [Saturn](../factors/saturn.md)
 - [Mercury](../factors/mercury.md)
 - [Jupiter/Saturn](../axes/jupiter-saturn.md)
+- [Mercury Jupiter Saturn](../triads/mercury-jupiter-saturn.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

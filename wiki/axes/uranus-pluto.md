@@ -64,7 +64,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -76,6 +76,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `URANUS/PLUTO`
+- Source page: `311`
 
 #### Pair Summary
 
@@ -133,6 +136,9 @@ Revolutionary overthrow, complete and total transformation. Sudden changes that 
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `URANUS/PLUTO`
+- Source page: `311`
+
 #### Basic Ideas
 
 Impulses to remain aloof, detached, and eccentric find intensity, concentration, corruption, and tyranny within this theme. From these stimuli you experience internal urges to create a unique and personal lifestyle away from all pressures to conform to the needs, demands, or wishes which others establish. You desire to concentrate on your own interests, and seek to be left alone with your ideas. You find it easy to resist anyone else’s call, and may become obsessed with the ruin of anything that is not of your creation or design. You may become fanatic with secret desires for personal freedom, gain insight and create new but peculiar inventions, or nurture secret desires to reform lifestyles which do not conform to your ways. You may become obsessed with the misuse of anything, enjoy sexual invention and experimentation, and ignore the destruction of protected settings.
@@ -160,6 +166,15 @@ Stress reactions which cause colon spasms or problems; hemorrhoids; piles; abnor
 
 - [Michael Munkasey - Uranus/Pluto Concepts](../derived/munkasey-uranus-pluto-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Uranus/Pluto = Admetos](../activations/uranus-pluto-equals-admetos.md)
@@ -184,7 +199,13 @@ Stress reactions which cause colon spasms or problems; hemorrhoids; piles; abnor
 - [Uranus/Pluto = Vulcanus](../activations/uranus-pluto-equals-vulcanus.md)
 - [Uranus/Pluto = Zeus](../activations/uranus-pluto-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Uranus/Pluto` is the axis of radical upheaval, revolutionary breakthrough, and total transformation set off by sudden force. It combines freedom, innovation, awakening, and shock with pressure, destruction, regeneration, and the collapse of entrenched systems.

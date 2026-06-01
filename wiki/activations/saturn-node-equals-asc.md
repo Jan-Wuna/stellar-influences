@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ One who resists changes that occur in relationships. Because of fear one desires
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SATURN/NODE with Planets and Points`
+- Source page: `296`
+
 #### Munkasey Entry
 
 Important situations or events which may alter your life; discussions on the wisdom of continuing or supporting an effort; events which may cause you suffering, loss, or pain; a scarcity of help through depressing times.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Saturn/Node = Asc`: reliable conduct, formal rapport, and the ability to carry relational responsibility visibly and steadily. Main caution: reserve: self-protection can make closeness feel burdensome, narrow, or harder to form naturally.
@@ -76,6 +93,7 @@ Important situations or events which may alter your life; discussions on the wis
 - [Node](../factors/node.md)
 - [Asc](../factors/asc.md)
 - [Saturn/Node](../axes/saturn-node.md)
+- [Saturn Node Asc](../triads/saturn-node-asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

@@ -63,7 +63,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -75,6 +75,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `SUN/ASCENDANT`
+- Source page: `95`
 
 #### Pair Summary
 
@@ -126,6 +129,9 @@ Somewhat similar to Sun/Node, but more intimate relationships are involved. The 
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/ASCENDANT`
+- Source page: `95`
+
 #### Basic Ideas
 
 The quality of self-confidence you show thru your mannerisms and temperament, the importance you place on experiencing and interpreting life’s circumstances, and your use of arrogant pretenses as a mask for your feelings can all begin with this motif. The personal satisfaction you have with the way you present yourself, your dedication to learning more about the different roles you have in life, and your effectiveness at reading the motives of others can also start here. The role of life’s experiences as conveyed thru your bearing and attitudes, your enthusiasm for living, your ability to impress others with your spirit, and the importance you place on your normal daily activities or routines are represented here. Taking an impartial and detached look at the effect you have on others, and the immediate influence or power you exert on the people you meet are also represented here.
@@ -153,6 +159,15 @@ Understanding your effect on the world and feeling mentally satisfied with that;
 
 - [Michael Munkasey - Sun/Asc Concepts](../derived/munkasey-sun-asc-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Sun/Asc = Admetos](../activations/sun-asc-equals-admetos.md)
@@ -177,7 +192,13 @@ Understanding your effect on the world and feeling mentally satisfied with that;
 - [Sun/Asc = Vulcanus](../activations/sun-asc-equals-vulcanus.md)
 - [Sun/Asc = Zeus](../activations/sun-asc-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Asc` is the axis of vivid self-projection, confidence, and the urge to make a direct personal impression. It combines vitality, identity, visibility, and will with appearance, personality, immediate surroundings, and close encounters with other people.

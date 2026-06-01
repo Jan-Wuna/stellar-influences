@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Neptune Pluto`
 - Astronomicon triad-set: `X Y Z`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Neptune/Pluto = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `246`
-- `Neptune/Pluto = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `391`
-- `Neptune/Pluto = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `281`
-- `Neptune/Pluto = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `110`
-- `Neptune/Pluto = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `328`
-- `Uranus/Neptune = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `234`
-- `Uranus/Neptune = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `371`
-- `Uranus/Neptune = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `266`
-- `Uranus/Neptune = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `104`
-- `Uranus/Neptune = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `308`
-- `Uranus/Pluto = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `235`
-- `Uranus/Pluto = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `373`
-- `Uranus/Pluto = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `269`
-- `Uranus/Pluto = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `105`
-- `Uranus/Pluto = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `312`
+- `Neptune/Pluto = Uranus`: Michael, page `328`
+- `Uranus/Neptune = Pluto`: Michael, page `308`
+- `Uranus/Pluto = Neptune`: Michael, page `312`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Neptune/Pluto = Uranus`: radical invisible transformation, with hidden pressures erupting into breakthrough, shock, or abrupt alterations in psychic and collective patterns.
-- `Uranus/Neptune = Pluto`: powerful change driven by subtle or ideological forces, with imagination and disruption fused into profound restructuring pressure.
-- `Uranus/Pluto = Neptune`: hidden upheaval, with radical change operating through psychic pressure, collective undercurrents, and destabilizing influences that are felt before they are named.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

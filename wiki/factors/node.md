@@ -14,7 +14,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -81,6 +81,9 @@ Dragon's Tail or Cauda Draconis), the point where the Moon crosses the ecliptic 
 something of the quality of the Sun/Moon midpoint. I have noticed that when the nodes are heightened in the chart there is a greater tendency to go and meet people. I also find that when two people have important connections between major factors in one chart with the North Node in another, the relationship is more constructive than if the connection is with the South Node. I have not been able to validate other ideas about what the nodes mean. The fact that astrologers disagree about them suggests that the nodes are less powerful than factors about which there is more unanimity. But I do not at this time advocate ignoring the nodes. Until recently, astrologers used the mean lunar nodes, which travel backward in the zodiac at a uniform rate. Then in 1975 Digicomp Research Corporation published an ephemeris entitled True Lunar Nodes 1850-2000. This was based on the fact that while the Moon's orbital plane gradually revolves backward in the zodiac, it also wobbles so that the actual lines of intersection move back and forth over the short run. Consequent^, there is disagreement about how to locate the nodes because the mean position differs from the wobbling position by up to at any give time. The American Ephemeris gives positions of both the mean and wobbling nodes. The wobbling nodes are no more "true" than the mean nodes, as they are in their own way just as abstract a concept. They should not be used until research has indicated which, if either, of the two sets of nodes is more valid. The final word has yet to be said, but at this time I am more inclined to use the conventional mean nodes.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `NODE`
+- Source page: `52`
 
 #### Basic Ideas
 
@@ -172,7 +175,21 @@ something of the quality of the Sun/Moon midpoint. I have noticed that when the 
 - Treaties
 - Walls
 
+## Comparative Schema
+
+- core meaning: source-native factor entries are preserved side by side above.
+- psychology: source-specific psychological and doctrinal emphases remain attached to their own source blocks instead of being flattened.
+- body/health: bodily wording remains inside each contributing source block when present.
+- social/relationship: interpersonal implications remain attached to each source's own phrasing.
+- events/manifestations: source-specific extensions remain attached to the source entry that states them.
+- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
+
+## Contradictions and Framework Notes
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Node` is the factor of encounters, relationships, ties, connections, communication, meetings, and the channels through which lives intersect.
@@ -205,6 +222,10 @@ something of the quality of the Sun/Moon midpoint. I have noticed that when the 
 - [Venus/Node](../axes/venus-node.md)
 - [Vernal Point/Node](../axes/vernal-point-node.md)
 
+## Related Activations
+
+- None recorded yet.
+
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
@@ -212,3 +233,7 @@ something of the quality of the Sun/Moon midpoint. I have noticed that when the 
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+
+## Open Questions
+
+- None recorded yet.

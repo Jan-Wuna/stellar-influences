@@ -17,7 +17,14 @@ updated_at: <YYYY-MM-DD>
 
 ## Comparative Schema
 
+<a id="derived-synthesis"></a>
+
 ## Derived Synthesis
+
+- Write 1-3 concise bullets that integrate the factor's strongest repeated motifs across sourced entries.
+- Favor answer-ready meaning over source bookkeeping.
+- Do not compare sources, schools, or astrologers unless the user explicitly asks or a real disagreement matters.
+- Do not leave placeholder prose. If no synthesis is ready, leave the section empty.
 
 ## Related Axes
 

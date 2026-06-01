@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MERCURY/URANUS`
+- Source page: `163`
 
 #### Pair Summary
 
@@ -180,6 +183,9 @@ Lightning-like mind, tendency to be scattered and become nervous through haste. 
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MERCURY/URANUS`
+- Source page: `163`
+
 #### Basic Ideas
 
 This combination symbolizes expressing opinions while you remain emotionally detached and aloof from the subject matter. These themes prompt you to express ideas in clever ways, bring knowledge of and insight into mechanical or electrical methods, and allow you to understand information flows and processes, such as those used in computer or systems work. They heighten your interest in astrology and its application, and you may find yourself doing research or classifying information to see how or why technology works. You may quickly observe ways of doing things, and intuit how different procedures can be shortened or improved. Impertinent ways of expressing opinions, and a quick and ready wit which others may find abrasive are also indicated. You do your best work alone, but you also need friends and companions for the input and personal stimulation they provide.
@@ -207,6 +213,15 @@ Intestinal and stomach gas; sensitivities to certain food groups (milk, wheat, e
 
 - [Michael Munkasey - Mercury/Uranus Concepts](../derived/munkasey-mercury-uranus-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Mercury/Uranus = Admetos](../activations/mercury-uranus-equals-admetos.md)
@@ -231,7 +246,13 @@ Intestinal and stomach gas; sensitivities to certain food groups (milk, wheat, e
 - [Mercury/Uranus = Vulcanus](../activations/mercury-uranus-equals-vulcanus.md)
 - [Mercury/Uranus = Zeus](../activations/mercury-uranus-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mercury/Uranus` is the axis of inventive thinking, sudden insight, mental independence, originality, and unconventional communication. It combines intellect with intuition, innovation, technical acuity, and the impulse to break from standard mental pathways.

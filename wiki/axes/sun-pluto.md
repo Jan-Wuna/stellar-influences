@@ -64,7 +64,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -76,6 +76,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `SUN/PLUTO`
+- Source page: `87`
 
 #### Pair Summary
 
@@ -133,6 +136,9 @@ The will to transform, to be effective, and to bring about regeneration. The wil
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/PLUTO`
+- Source page: `87`
+
 #### Basic Ideas
 
 Your fundamental urge to exert control over all situations, your capacity or determination to defeat or ally with corrupt forces as they rise around you, and the mastery you show against selfcorruption are prominent with this combination. Your commitment to concentrating yourself into the essence of what you are as a person, the secret motivations you rally your inner strength around, and the obsession you have with increasing your self-confidence are also here. You appear as a person who has a deep and formidable willpower, and one who is not easily swayed from important decisions about where your life is going. You may appear to others to have an easygoing outer facade, but inwardly you are a tower of strength and determination. The strength and resolution you bring thru these motifs to effect what you want in life is immense. You do not give up easily against anything.
@@ -160,6 +166,15 @@ The role of the colon in maintaining your overall health; susceptibility to any 
 
 - [Michael Munkasey - Sun/Pluto Concepts](../derived/munkasey-sun-pluto-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Sun/Pluto = Admetos](../activations/sun-pluto-equals-admetos.md)
@@ -184,7 +199,13 @@ The role of the colon in maintaining your overall health; susceptibility to any 
 - [Sun/Pluto = Vulcanus](../activations/sun-pluto-equals-vulcanus.md)
 - [Sun/Pluto = Zeus](../activations/sun-pluto-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Pluto` is the axis of concentrated will, personal power, regeneration, and the drive to become stronger through crisis or deep self-confrontation. It combines identity, purpose, vitality, and leadership with intensity, secrecy, pressure, and transformative force.

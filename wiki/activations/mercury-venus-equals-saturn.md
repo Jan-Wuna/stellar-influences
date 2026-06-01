@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ Practicality manifesting through cleverness. An ability to organize thoughts in 
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MERCURY/VENUS with Planets and Points`
+- Source page: `148`
+
 #### Munkasey Entry
 
 Shortened talk when discussing your affections and love for another; accepting rejections of your love calmly; caution in your expressions of love; you do not obligate yourself to romance easily; long discussions on love.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mercury/Venus = Saturn`: dependable courtesy, thoughtful affection, and the ability to communicate care without excess. Main caution: inhibited charm: expression can become too formal, withheld, or afraid to risk genuine softness.
@@ -76,6 +93,7 @@ Shortened talk when discussing your affections and love for another; accepting r
 - [Venus](../factors/venus.md)
 - [Saturn](../factors/saturn.md)
 - [Mercury/Venus](../axes/mercury-venus.md)
+- [Mercury Venus Saturn](../triads/mercury-venus-saturn.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

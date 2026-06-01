@@ -151,6 +151,35 @@ def test_lint_rejects_derived_missing_updated_at(tmp_path: Path):
     assert "missing required field 'updated_at'" in "\n".join(problems)
 
 
+def test_lint_rejects_canonical_page_missing_derived_synthesis_anchor(tmp_path: Path):
+    page = tmp_path / "wiki" / "factors" / "sun.md"
+    page.parent.mkdir(parents=True)
+    page.write_text(
+        "---\n"
+        "title: Sun\n"
+        "page_type: factor\n"
+        "slug: sun\n"
+        "status: source_ingested\n"
+        "framework_scope: comparative\n"
+        "factors:\n"
+        "  - Sun\n"
+        "aliases: []\n"
+        "source_pages:\n"
+        "  - source-a\n"
+        "updated_at: 2026-05-05\n"
+        "---\n"
+        "\n"
+        "## Identity\n"
+        "\n"
+        "## Derived Synthesis\n",
+        encoding="utf-8",
+    )
+
+    problems = lint_wiki(tmp_path / "wiki")
+
+    assert "canonical pages must include an explicit derived-synthesis anchor" in "\n".join(problems)
+
+
 def test_lint_script_runs_from_repo_root():
     result = subprocess.run(
         [sys.executable, "tools/lint_wiki.py"],

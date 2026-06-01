@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MERCURY/NEPTUNE`
+- Source page: `167`
 
 #### Pair Summary
 
@@ -178,6 +181,9 @@ Imagination and inspiration. Possibility of confusion, muddled or irrational thi
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MERCURY/NEPTUNE`
+- Source page: `167`
+
 #### Basic Ideas
 
 Inspiration expressed thru your communications, increased interest or fascination with mystical subjects, confusion in your everyday thinking or reasoning, and the origin of unsound ideas, are all themes contained in this combination. These motifs highlight your deftness with performing deceptions and illusions, allow you to see both sides of the question even with incomplete reasoning, and add to your impulses to let obligations slide. These themes may inspire your thinking and allow you to express ideas in poetic ways using music, words, symbols, or in foreign languages. The nervousness you have when you are being evasive, your neglect of communications, swift interpretations of your dreams and visions, using your mental faculties to visualize thoughts and ideas, and methods for creating machine aided reasoning are also symbolized within the ideas represented by these subjects.
@@ -205,6 +211,15 @@ Drug reactions which affect the nervous system; weakened lungs; vivid dreaming; 
 
 - [Michael Munkasey - Mercury/Neptune Concepts](../derived/munkasey-mercury-neptune-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Mercury/Neptune = Admetos](../activations/mercury-neptune-equals-admetos.md)
@@ -229,7 +244,13 @@ Drug reactions which affect the nervous system; weakened lungs; vivid dreaming; 
 - [Mercury/Neptune = Vulcanus](../activations/mercury-neptune-equals-vulcanus.md)
 - [Mercury/Neptune = Zeus](../activations/mercury-neptune-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mercury/Neptune` is the axis of imagination, subtle perception, poetic or symbolic communication, and thought shaped by intuition, atmosphere, and porous boundaries. It combines language and reasoning with dream, image, spirituality, ambiguity, and the ability to imply more than one states directly.

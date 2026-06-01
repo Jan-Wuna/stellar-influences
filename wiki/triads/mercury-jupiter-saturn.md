@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Jupiter Saturn`
 - Astronomicon triad-set: `T V W`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,27 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Jupiter/Saturn = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `207`
-- `Jupiter/Saturn = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `324`
-- `Jupiter/Saturn = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `226`
-- `Jupiter/Saturn = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `78`
-- `Jupiter/Saturn = Mercury`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `256`
-- `Mercury/Jupiter = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `161`
-- `Mercury/Jupiter = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `245`
-- `Mercury/Jupiter = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `44`
-- `Mercury/Jupiter = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `156`
-- `Mercury/Saturn = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `162`
-- `Mercury/Saturn = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `246`
-- `Mercury/Saturn = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `155`
-- `Mercury/Saturn = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `45`
-- `Mercury/Saturn = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `160`
+- `Jupiter/Saturn = Mercury`: Michael, page `256`
+- `Mercury/Jupiter = Saturn`: Michael, page `156`
+- `Mercury/Saturn = Jupiter`: Michael, page `160`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Jupiter/Saturn = Mercury`: a balanced, persistent mind capable of blending support with criticism and of working steadily through ideas, changes, or plans.
-- `Mercury/Jupiter = Saturn`: broad thought made workable, with ideas shaped by seriousness, responsibility, and the need to prove meaning through disciplined form.
-- `Mercury/Saturn = Jupiter`: disciplined intelligence applied to large questions, with sober teaching, measured strategy, and careful evaluation guiding growth or belief.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

@@ -64,7 +64,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -76,6 +76,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MOON/PLUTO`
+- Source page: `131`
 
 #### Pair Summary
 
@@ -133,6 +136,9 @@ Emotional transformation, powerful feelings, intense desires, emotional fanatici
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MOON/PLUTO`
+- Source page: `131`
+
 #### Basic Ideas
 
 Intense transitions or reversals combine with cool, ordinary, maternal and instinctive qualities to bring quiet revolutions to life. An opinionated woman’s (perhaps your mother) dominant role affects your life. Your imagination wanders from morbid thoughts to romantic extremes. You find a sensitivity to extremes of change. You may sterilize or use extreme cleanliness to rid impurities. Your attitudes or sentiments toward the role or status of punishment fluctuate. You desire to accumulate power or control over all ordinary activities of life, especially those governed by your inner instincts. Your intuition may help you easily locate or find lost or hidden things, bring sympathy for those who monopolize or centralize powers, spur your attempts to avoid or clean out elements of corruption, and bring you compassion for the victims of immoral practices or criminal elements.
@@ -160,6 +166,15 @@ Activities of the endocrine and pituitary glands; pressures in body cavities cau
 
 - [Michael Munkasey - Moon/Pluto Concepts](../derived/munkasey-moon-pluto-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Moon/Pluto = Admetos](../activations/moon-pluto-equals-admetos.md)
@@ -184,7 +199,13 @@ Activities of the endocrine and pituitary glands; pressures in body cavities cau
 - [Moon/Pluto = Vulcanus](../activations/moon-pluto-equals-vulcanus.md)
 - [Moon/Pluto = Zeus](../activations/moon-pluto-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Moon/Pluto` is the axis of emotional intensity, instinctive transformation, deep survival feeling, and powerful undercurrents in family or intimate life. It combines mood, habit, nurture, and memory with pressure, compulsion, secrecy, regeneration, and the urge to confront what lies beneath the surface.

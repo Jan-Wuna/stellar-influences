@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ The need to spiritualize one’s personal assertiveness, that is, to always asse
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MARS/ASCENDANT with Planets and Points`
+- Source page: `248`
+
 #### Munkasey Entry
 
 Helps you confirm the impressions you receive about the attitudes and inclinations of others; experience in tempering your energy so that you can accomplish all of your goals; helps validate your attitudes and impressions.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mars/Asc = MC`: active vocational engagement, forceful teamwork, and a role that mobilizes people around a practical objective. Main caution: overidentifying with struggle: purposeful action can harden into domination, constant combativeness, or a life organized around conflict.
@@ -76,6 +93,7 @@ Helps you confirm the impressions you receive about the attitudes and inclinatio
 - [Asc](../factors/asc.md)
 - [MC](../factors/mc.md)
 - [Mars/Asc](../axes/mars-asc.md)
+- [Mars Asc MC](../triads/mars-asc-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

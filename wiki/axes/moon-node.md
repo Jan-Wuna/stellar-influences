@@ -63,7 +63,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -75,6 +75,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MOON/NODE`
+- Source page: `135`
 
 #### Pair Summary
 
@@ -126,6 +129,9 @@ Connections with people from the past, connections based primarily on emotion, c
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MOON/NODE`
+- Source page: `135`
+
 #### Basic Ideas
 
 This combination represents an inner need and preoccupation for seeking and finding people who can help you with your tasks, questions, or problems. Your ability to nurture affiliations and ties to others, variations in your ability to progress toward meeting any spiritual or physical goals for personal growth or development, and your ability to relate to the public at large all begin here. Your ability to relate to people in groups or crowds, your indecision about calling or meeting friends, the quality of advice you receive from others, and your inner sensitivity to a destiny or plan for your life are also shown here. These influences also activate you to seek help from others. Your ability to nurture a relationship with the public at large, the hesitations you have when meeting new people, and your ability to demonstrate emotions before the public or during meetings, are also heightened here.
@@ -153,6 +159,15 @@ The lymphatic system, in general; any passages, tubes, or channels associated wi
 
 - [Michael Munkasey - Moon/Node Concepts](../derived/munkasey-moon-node-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Moon/Node = Admetos](../activations/moon-node-equals-admetos.md)
@@ -177,7 +192,13 @@ The lymphatic system, in general; any passages, tubes, or channels associated wi
 - [Moon/Node = Vulcanus](../activations/moon-node-equals-vulcanus.md)
 - [Moon/Node = Zeus](../activations/moon-node-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Moon/Node` is the axis of emotional affiliation, nurturing bonds, and connections based on sympathy, familiarity, or shared feeling. It combines instinct, care, memory, and vulnerability with alliance, kinship, and the need to belong within a supportive network.

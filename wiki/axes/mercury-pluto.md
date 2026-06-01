@@ -64,7 +64,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -76,6 +76,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MERCURY/PLUTO`
+- Source page: `171`
 
 #### Pair Summary
 
@@ -133,6 +136,9 @@ The desire to influence others, to mold others' thinking. Transformations and cr
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MERCURY/PLUTO`
+- Source page: `171`
+
 #### Basic Ideas
 
 You may degrade or debase your thinking in ways that are subtle but important. Thru these themes you can gain an obsession with reasoning and thinking which can lead you into intense and drastic experiences where you will your ambitions to dominate another’s wishes. These themes indicate a push which gives you extreme thoughts about using death or destruction as an implement for control, a duality in your approach to sexual expression, and fanatical speculation and reasoning which takes you areas beyond normal social acceptance. They symbolize desires to imitate people who have achieved power and control, you may think little of using and abandoning others, or get an impetus to take revenge on those who have not followed your orders or instructions. You may have many secrets you are willing to discuss with others, and may consider injuring others to obtain needed information.
@@ -160,6 +166,15 @@ Pituitary or endocrine glandular imbalances are highlighted; breakdown of body t
 
 - [Michael Munkasey - Mercury/Pluto Concepts](../derived/munkasey-mercury-pluto-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Mercury/Pluto = Admetos](../activations/mercury-pluto-equals-admetos.md)
@@ -184,7 +199,13 @@ Pituitary or endocrine glandular imbalances are highlighted; breakdown of body t
 - [Mercury/Pluto = Vulcanus](../activations/mercury-pluto-equals-vulcanus.md)
 - [Mercury/Pluto = Zeus](../activations/mercury-pluto-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mercury/Pluto` is the axis of penetrating thought, persuasive intensity, research, and transformative communication. It combines language, analysis, and nervous alertness with secrecy, depth, pressure, compulsion, and the power to uncover what is hidden.

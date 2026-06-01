@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ A genius for having an intense and/or extreme impact on those with whom one conn
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `PLUTO/NODE with Planets and Points`
+- Source page: `344`
+
 #### Munkasey Entry
 
 Unexpected results from others when you meet with them; novel ideas from meetings; meetings with powerful people in the sciences or engineering (including astrologers); the possibility of finding opposition at meetings.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Pluto/Node = Uranus`: catalytic networks, revolutionary contact, and the ability to encounter rapid life change through intense social links. Main caution: extreme instability: affiliations can become explosive, obsessive, or too reactive to sustain constructive collective purpose.
@@ -76,6 +93,7 @@ Unexpected results from others when you meet with them; novel ideas from meeting
 - [Node](../factors/node.md)
 - [Uranus](../factors/uranus.md)
 - [Pluto/Node](../axes/pluto-node.md)
+- [Uranus Pluto Node](../triads/uranus-pluto-node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

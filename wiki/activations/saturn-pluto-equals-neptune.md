@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ Profoundly deep psychic experiences. An idealism that one carries as if it were 
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SATURN/PLUTO with Planets and Points`
+- Source page: `292`
+
 #### Munkasey Entry
 
 Defects in the planning for large and important activities; improbable effects from excessive activities of the past; neglect of important methods for preserving or caring for waste treatment processes; disguised uses of power.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Saturn/Pluto = Neptune`: endurance in bleak conditions, strategic retreat, and the capacity to persist where morale and clarity are undermined. Main caution: covert destructiveness: pressure and confusion can merge into despair, obsession, or slow internal collapse.
@@ -76,6 +93,7 @@ Defects in the planning for large and important activities; improbable effects f
 - [Pluto](../factors/pluto.md)
 - [Neptune](../factors/neptune.md)
 - [Saturn/Pluto](../axes/saturn-pluto.md)
+- [Saturn Neptune Pluto](../triads/saturn-neptune-pluto.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

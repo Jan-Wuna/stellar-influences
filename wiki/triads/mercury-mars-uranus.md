@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Mars Uranus`
 - Astronomicon triad-set: `T U X`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mars/Uranus = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `194`
-- `Mars/Uranus = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `302`
-- `Mars/Uranus = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `208`
-- `Mars/Uranus = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `71`
-- `Mars/Uranus = Mercury`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `232`
-- `Mercury/Mars = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `160`
-- `Mercury/Mars = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `243`
-- `Mercury/Mars = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `149`
-- `Mercury/Mars = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `42`
-- `Mercury/Mars = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `152`
-- `Mercury/Uranus = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `163`
-- `Mercury/Uranus = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `248`
-- `Mercury/Uranus = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `158`
-- `Mercury/Uranus = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `47`
-- `Mercury/Uranus = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `164`
+- `Mars/Uranus = Mercury`: Michael, page `232`
+- `Mercury/Mars = Uranus`: Michael, page `152`
+- `Mercury/Uranus = Mars`: Michael, page `164`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mars/Uranus = Mercury`: sudden alarming news, stimulating argument, and the drive to communicate or think with unusual speed, intensity, and independence.
-- `Mercury/Mars = Uranus`: brilliant debate, sudden decisions, startling words, and nervous energy released through shock, rupture, or impulsive action.
-- `Mercury/Uranus = Mars`: aggressive insight in motion, with quick reactions, technical acuity, and mentally driven force expressed with urgency or confrontation.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

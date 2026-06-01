@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Venus Jupiter Node`
 - Astronomicon triad-set: `Q V g`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Jupiter/Node = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `144`
-- `Jupiter/Node = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `214`
-- `Jupiter/Node = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `238`
-- `Jupiter/Node = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `84`
-- `Jupiter/Node = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `272`
-- `Venus/Jupiter = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `177`
-- `Venus/Jupiter = Node`: Udo Rudolph - ABC for Planetary Pictures, page `272`
-- `Venus/Jupiter = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `179`
-- `Venus/Jupiter = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `56`
-- `Venus/Jupiter = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `192`
-- `Venus/Node = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `142`
-- `Venus/Node = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `210`
-- `Venus/Node = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `193`
-- `Venus/Node = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `63`
-- `Venus/Node = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `212`
+- `Jupiter/Node = Venus`: Michael, page `272`
+- `Venus/Jupiter = Node`: Michael, page `192`
+- `Venus/Node = Jupiter`: Michael, page `212`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Jupiter/Node = Venus`: affectionate fellowship, love union, popularity, and pleasant connection enriched by beauty, care, or shared enjoyment.
-- `Venus/Jupiter = Node`: popular fellowship, with generosity, attraction, and social grace amplified in relationships, groups, and celebratory contact.
-- `Venus/Node = Jupiter`: helpful friendship, affectionate cooperation, and growth through people who bring opportunity, goodwill, or shared happiness.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

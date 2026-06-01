@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Moon Mars Jupiter`
 - Astronomicon triad-set: `R U V`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mars/Jupiter = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `192`
-- `Mars/Jupiter = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `298`
-- `Mars/Jupiter = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `202`
-- `Mars/Jupiter = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `67`
-- `Mars/Jupiter = Moon`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `224`
-- `Moon/Jupiter = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `125`
-- `Moon/Jupiter = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `182`
-- `Moon/Jupiter = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `123`
-- `Moon/Jupiter = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `29`
-- `Moon/Jupiter = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `116`
-- `Moon/Mars = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `124`
-- `Moon/Mars = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `180`
-- `Moon/Mars = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `120`
-- `Moon/Mars = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `28`
-- `Moon/Mars = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `112`
+- `Mars/Jupiter = Moon`: Michael, page `224`
+- `Moon/Jupiter = Mars`: Michael, page `116`
+- `Moon/Mars = Jupiter`: Michael, page `112`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mars/Jupiter = Moon`: fortunate action guided by feeling, confidence that supports care or nurture, and happy emotional participation in enterprise, family growth, or domestic life.
-- `Moon/Jupiter = Mars`: confident emotional force, with generosity and hope expressed through active support, defense, and purposeful movement.
-- `Moon/Mars = Jupiter`: expansive instinctive force, with passion and protection expressed through generosity, confidence, and readiness to act.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

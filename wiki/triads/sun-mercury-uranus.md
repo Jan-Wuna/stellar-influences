@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Sun Mercury Uranus`
 - Astronomicon triad-set: `S T X`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mercury/Uranus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `163`
-- `Mercury/Uranus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `248`
-- `Mercury/Uranus = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `158`
-- `Mercury/Uranus = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `47`
-- `Mercury/Uranus = Sun`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `164`
-- `Sun/Mercury = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `103`
-- `Sun/Mercury = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `143`
-- `Sun/Mercury = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `81`
-- `Sun/Mercury = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `8`
-- `Sun/Mercury = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `60`
-- `Sun/Uranus = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `108`
-- `Sun/Uranus = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `152`
-- `Sun/Uranus = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `96`
-- `Sun/Uranus = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `17`
-- `Sun/Uranus = Mercury`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `80`
+- `Mercury/Uranus = Sun`: Michael, page `164`
+- `Sun/Mercury = Uranus`: Michael, page `60`
+- `Sun/Uranus = Mercury`: Michael, page `80`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mercury/Uranus = Sun`: original self-expression, with inventive thought, nervous brilliance, and mental independence defining central purpose and character.
-- `Sun/Mercury = Uranus`: inventive consciousness, unusual expression, and a mind that leaps ahead, reveals what others miss, and adapts rapidly to new conditions.
-- `Sun/Uranus = Mercury`: quick insight, radical thought, and communication shaped by invention, nervous speed, and a drive to say what breaks convention.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

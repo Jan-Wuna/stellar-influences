@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Moon Saturn Node`
 - Astronomicon triad-set: `R W g`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Moon/Node = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `121`
-- `Moon/Node = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `175`
-- `Moon/Node = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `137`
-- `Moon/Node = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `37`
-- `Moon/Node = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `136`
-- `Moon/Saturn = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `126`
-- `Moon/Saturn = Node`: Udo Rudolph - ABC for Planetary Pictures, page `184`
-- `Moon/Saturn = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `127`
-- `Moon/Saturn = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `31`
-- `Moon/Saturn = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `120`
-- `Saturn/Node = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `145`
-- `Saturn/Node = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `216`
-- `Saturn/Node = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `257`
-- `Saturn/Node = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `92`
-- `Saturn/Node = Moon`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `296`
+- `Moon/Node = Saturn`: Michael, page `136`
+- `Moon/Saturn = Node`: Michael, page `120`
+- `Saturn/Node = Moon`: Michael, page `296`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Moon/Node = Saturn`: enduring but weighty belonging, with family or group bonds shaped by loyalty, obligation, and the need to carry emotional responsibility over time.
-- `Moon/Saturn = Node`: enduring but weighty connection, with bonds shaped by loyalty, obligation, and the need to hold together under strain.
-- `Saturn/Node = Moon`: emotional reserve in relationship, with belonging shaped by obligation, loyalty, and the weight of shared history or duty.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

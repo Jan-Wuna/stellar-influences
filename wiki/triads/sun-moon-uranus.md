@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Sun Moon Uranus`
 - Astronomicon triad-set: `S R X`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Moon/Uranus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `127`
-- `Moon/Uranus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `186`
-- `Moon/Uranus = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `129`
-- `Moon/Uranus = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `33`
-- `Moon/Uranus = Sun`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `124`
-- `Sun/Moon = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `101`
-- `Sun/Moon = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `139`
-- `Sun/Moon = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `78`
-- `Sun/Moon = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `6`
-- `Sun/Moon = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `56`
-- `Sun/Uranus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `108`
-- `Sun/Uranus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `152`
-- `Sun/Uranus = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `96`
-- `Sun/Uranus = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `17`
-- `Sun/Uranus = Moon`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `80`
+- `Moon/Uranus = Sun`: Michael, page `124`
+- `Sun/Moon = Uranus`: Michael, page `56`
+- `Sun/Uranus = Moon`: Michael, page `80`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Moon/Uranus = Sun`: a selfhood shaped by emotional freedom, sudden insight, and the need to live from instinctive originality rather than convention.
-- `Sun/Moon = Uranus`: an unconventional or changeable partnership principle, with identity and feeling seeking freedom as much as union.
-- `Sun/Uranus = Moon`: emotional unrest, a strong need for freedom in daily life, and intuitive flashes that arrive suddenly and alter the inner climate.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

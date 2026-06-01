@@ -18,6 +18,7 @@ updated_at: 2026-04-21
 - Canonical page type: structural factor page created because the source treats `Chiron` as a first-class participant in axis and activation formulas.
 - This page is source-bounded to Sandbach's modern midpoint corpus.
 - Do not read it as a comparative factor doctrine page.
+- This factor page should not be used as standalone `Chiron` doctrine.
 
 ## Source Entries
 

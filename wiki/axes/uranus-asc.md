@@ -61,7 +61,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -73,6 +73,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `URANUS/ASCENDANT`
+- Source page: `319`
 
 #### Pair Summary
 
@@ -124,6 +127,9 @@ Unusual or unstable relationships, relationships with people who are unusual or 
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `URANUS/ASCENDANT`
+- Source page: `319`
+
 #### Basic Ideas
 
 These themes symbolize an ability to disrupt others in clever ways and for this you may be accused of having hints of mischief in your eyes. You are not one who can easily concentrate on only one subject at a time, and you have an interest in the study and application of many subjects, especially those with scientific, psychological, or astrological themes. You may be quiet one minute and then suddenly burst forth into the consciousness of others like a tornado. You have a strong need to appear as an individual and often do so with mannerisms or preferences that are completely unconscious. You enjoy being unconventional in subtle but prominent ways, and you have singular ways of imposing yourself on the inner ideas of others. You have a quick grasp of electro-mechanical devices and ideas, and playing with the newest electronic gadgetry consumes much of your attention and time.
@@ -151,6 +157,15 @@ Emphasizes finding mental balance and stability; added stress from having to con
 
 - [Michael Munkasey - Uranus/Asc Concepts](../derived/munkasey-uranus-asc-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Uranus/Asc = Admetos](../activations/uranus-asc-equals-admetos.md)
@@ -174,7 +189,13 @@ Emphasizes finding mental balance and stability; added stress from having to con
 - [Uranus/Asc = Vulcanus](../activations/uranus-asc-equals-vulcanus.md)
 - [Uranus/Asc = Zeus](../activations/uranus-asc-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Uranus/Asc` is the axis of unusual self-presentation, sudden contacts, and the need for freedom in immediate relationships and environment. It combines originality, disruption, speed, and nervous excitation with personality, appearance, close surroundings, and one-to-one encounters.

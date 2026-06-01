@@ -18,8 +18,10 @@ def test_munkasey_source_page_exists_and_mentions_mwa_omission():
     assert page.meta["page_type"] == "source"
     assert page.meta["framework_scope"] == "modern_astrology"
     assert "page-1 axis prose into canonical axis pages" in page.body
+    assert "page-2 activation entries are merged into canonical activation pages" in page.body
     assert "page-3 `CONCEPTS` corpus is preserved in `wiki/derived/`" in page.body
     assert "page-4 MWA example tables were intentionally omitted" in page.body
+    assert "Canonical activation pages updated or created: `1014`." in page.body
 
 
 def test_sun_moon_concepts_companion_page_exists():
@@ -33,7 +35,7 @@ def test_sun_moon_concepts_companion_page_exists():
 
 def test_sun_moon_axis_gains_munkasey_source_entry_and_companion_link():
     page = load_page(Path("wiki/axes/sun-moon.md"))
-    assert page.meta["source_pages"] == [
+    for slug in (
         WITTE_SLUG,
         EBERTIN_SLUG,
         FALIS_SLUG,
@@ -42,7 +44,8 @@ def test_sun_moon_axis_gains_munkasey_source_entry_and_companion_link():
         HAND_SLUG,
         MCBROOM_SLUG,
         SOURCE_SLUG,
-    ]
+    ):
+        assert slug in page.meta["source_pages"]
     assert "### Michael Munkasey - Midpoints: Unleashing the Power of the Planets" in page.body
     assert "direction and focus of your personal awareness" in page.body
     assert "#### Munkasey Concepts Companion" in page.body
@@ -52,13 +55,8 @@ def test_sun_moon_axis_gains_munkasey_source_entry_and_companion_link():
 def test_witte_only_axis_becomes_comparative_with_munkasey_entry():
     page = load_page(Path("wiki/axes/sun-node.md"))
     assert page.meta["framework_scope"] == "comparative"
-    assert page.meta["source_pages"] == [
-        WITTE_SLUG,
-        EBERTIN_SLUG,
-        SANDBACH_SLUG,
-        HAND_SLUG,
-        SOURCE_SLUG,
-    ]
+    for slug in (WITTE_SLUG, EBERTIN_SLUG, SANDBACH_SLUG, HAND_SLUG, SOURCE_SLUG):
+        assert slug in page.meta["source_pages"]
     assert "### Michael Munkasey - Midpoints: Unleashing the Power of the Planets" in page.body
     assert "../derived/munkasey-sun-node-concepts.md" in page.body
 
@@ -74,3 +72,29 @@ def test_mwa_example_table_text_is_not_rendered_to_axis_pages():
     assert "STRONG:" not in page.body
     assert "WEAK:" not in page.body
     assert "EVENTS:" not in page.body
+
+
+def test_sun_factor_gains_munkasey_keyword_entry():
+    page = load_page(Path("wiki/factors/sun.md"))
+    assert SOURCE_SLUG in page.meta["source_pages"]
+    assert "### Michael Munkasey - Midpoints: Unleashing the Power of the Planets" in page.body
+    assert "#### Basic Ideas" in page.body
+    assert "- Acceptability" in page.body
+    assert "- Symbolic Leaders" in page.body
+
+
+def test_sun_moon_activation_gains_munkasey_page_two_entry():
+    page = load_page(Path("wiki/activations/sun-moon-equals-mars.md"))
+    assert SOURCE_SLUG in page.meta["source_pages"]
+    assert "### Michael Munkasey - Midpoints: Unleashing the Power of the Planets" in page.body
+    assert "- Source heading: `SUN/MOON with Planets and Points`" in page.body
+    assert "Becoming more self-reliant" in page.body
+
+
+def test_sun_moon_repeated_pair_activation_is_created_from_with_itself_page():
+    page = load_page(Path("wiki/activations/sun-moon-equals-sun.md"))
+    assert page.meta["normalized_formula"] == "Sun/Moon = Sun"
+    assert SOURCE_SLUG in page.meta["source_pages"]
+    assert "Repeated-pair identity: no distinct triad hub exists for this activation." in page.body
+    assert "- Source heading: `SUN/MOON With Itself`" in page.body
+    assert "Helps you focus on the efforts you put into daily events" in page.body

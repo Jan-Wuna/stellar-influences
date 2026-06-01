@@ -24,7 +24,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - don-mcbroom-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -68,11 +68,28 @@ We expect that thoughts, ideas, and communication will be involved as the centra
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/MOON with Planets and Points`
+- Source page: `56`
+
 #### Munkasey Entry
 
 Using your education and reasoning to progress thru life; absorbing the various lessons of life; increases your search for opportunities; applying your knowledge to the different situations you meet in life.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Moon = Mercury`: lively communication, mental rapport, contemplation of union, and the ability to coordinate thought with vitality and feeling. Main caution: that imbalance in communication can unsettle the whole axis, turning nervous thought or poor dialogue into relational and emotional disequilibrium.
@@ -83,6 +100,7 @@ Using your education and reasoning to progress thru life; absorbing the various 
 - [Moon](../factors/moon.md)
 - [Mercury](../factors/mercury.md)
 - [Sun/Moon](../axes/sun-moon.md)
+- [Sun Moon Mercury](../triads/sun-moon-mercury.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

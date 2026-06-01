@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To be generous in the display of affections. An eagerness to put others at ease 
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `VENUS/ASCENDANT with Planets and Points`
+- Source page: `216`
+
 #### Munkasey Entry
 
 Increased desire to notice fashion and style changes in society; an added ability to be recognized for your talents; expanded ideas or artistic qualities to present new social changes or directions to people or the world in general.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Venus/Asc = Jupiter`: popularity, fortunate self-presentation, and opportunities that come through warmth, beauty, and cheerful rapport. Main caution: indulgence: the desire to be liked and comfortable can inflate vanity or weaken discipline.
@@ -76,6 +93,7 @@ Increased desire to notice fashion and style changes in society; an added abilit
 - [Asc](../factors/asc.md)
 - [Jupiter](../factors/jupiter.md)
 - [Venus/Asc](../axes/venus-asc.md)
+- [Venus Jupiter Asc](../triads/venus-jupiter-asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

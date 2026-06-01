@@ -63,7 +63,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -75,6 +75,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `SATURN/NODE`
+- Source page: `295`
 
 #### Pair Summary
 
@@ -126,6 +129,9 @@ Separations, the severing of connections. Connections that involve much restrict
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SATURN/NODE`
+- Source page: `295`
+
 #### Basic Ideas
 
 These themes represent finding a purpose for life by using your contacts with other people, groups, or organizations. Thru these motifs there may be many disappointing directions which your life will follow as you try to find the best conditions for whatever it takes to find happiness. You should try to incorporate both simplicity and credibility in your life. They do not suggest motives, but will cause you to search out other people, groups, connections, and ties to determine which of these, if any, it will take to provide you with the assistance you seek. You may learn much about the concept of loyalty, support, and mutual assistance thru this mixture. The concept of enduring with and thru others, breaking thru the disappointments and restrictions imposed by others, and creating a path for yourself is represented. Suggestions for meeting prior obligations thru others is also shown.
@@ -153,6 +159,15 @@ The blockage or constriction of tubes or passageways in the body; blocked or con
 
 - [Michael Munkasey - Saturn/Node Concepts](../derived/munkasey-saturn-node-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Saturn/Node = Admetos](../activations/saturn-node-equals-admetos.md)
@@ -177,7 +192,13 @@ The blockage or constriction of tubes or passageways in the body; blocked or con
 - [Saturn/Node = Vulcanus](../activations/saturn-node-equals-vulcanus.md)
 - [Saturn/Node = Zeus](../activations/saturn-node-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Saturn/Node` is the axis of difficult but enduring ties, alliances shaped by duty, and associations tested by time, distance, or hardship. It combines restriction, loyalty, endurance, and separation with meetings, fellowship, cooperation, and social bonds.

@@ -14,7 +14,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -80,6 +80,9 @@ their respective nodal axes, even though both are exceptions to the rule above a
 Traveling at the speed they do, they are in a constantly changing relationship to all the other points in the horoscope, highlighting one group of planets at one time, and then another group a few minutes later. Thus the horoscope of a person born at eight o'clock can be quite different from that of another born the same day at eight-thirty. In Chapters 12 and 15 I will describe in detail how the Ascendant and Midheaven derive their meanings from their position in the mundane cycle. Here, however, it suffices to outline their signification using a few keywords. A key idea for the Ascendant-Descendant axis is "exchange with the environment." Planets in a significant angular relationship to this axis generally manifest in relationships and in a person's interaction with the outside world. The Midheaven-I.C. axis, on the other hand, signifies how one feels inwardly (I.C.) and expresses oneself outwardly (Midheaven), or ■where in life one is coming from and going to. The key idea here is "I, me, mine": this axis has less to do with relationships and more to do with one's sense of oneself. Examples of how the Ascendant and Midheaven -work in combination "with planetary energies can be found in the brief midpoint delineations of pairs of points in Chapter o.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `ASCENDANT`
+- Source page: `53`
 
 #### Basic Ideas
 
@@ -156,7 +159,21 @@ Traveling at the speed they do, they are in a constantly changing relationship t
 - Views, An Individual's
 - Views, Foreign
 
+## Comparative Schema
+
+- core meaning: source-native factor entries are preserved side by side above.
+- psychology: source-specific psychological and doctrinal emphases remain attached to their own source blocks instead of being flattened.
+- body/health: bodily wording remains inside each contributing source block when present.
+- social/relationship: interpersonal implications remain attached to each source's own phrasing.
+- events/manifestations: source-specific extensions remain attached to the source entry that states them.
+- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
+
+## Contradictions and Framework Notes
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Asc` is the primary point of contact between the native and the immediate world: body, appearance, instinctive manner, close surroundings, partners, and the near environment.
@@ -189,6 +206,10 @@ Traveling at the speed they do, they are in a constantly changing relationship t
 - [Venus/Asc](../axes/venus-asc.md)
 - [Vernal Point/Asc](../axes/vernal-point-asc.md)
 
+## Related Activations
+
+- None recorded yet.
+
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
@@ -196,3 +217,7 @@ Traveling at the speed they do, they are in a constantly changing relationship t
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+
+## Open Questions
+
+- None recorded yet.

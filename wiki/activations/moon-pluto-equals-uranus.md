@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ Intense emotions manifesting unexpectedly. Inspiration based on allowing the sub
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MOON/PLUTO with Planets and Points`
+- Source page: `132`
+
 #### Munkasey Entry
 
 Becoming agitated or emotionally upset over vacillation; strange ways of eliminating unwanted items from the household; unique ways of hiding or eliminating suspicions; problems with electrical water-carrying systems.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Moon/Pluto = Uranus`: transformative breakthroughs, fierce intuitive alertness, and the ability to change emotional patterns abruptly when they can no longer hold. Main caution: explosive intensity: upheaval can become too severe, destabilizing, or impossible to regulate smoothly.
@@ -76,6 +93,7 @@ Becoming agitated or emotionally upset over vacillation; strange ways of elimina
 - [Pluto](../factors/pluto.md)
 - [Uranus](../factors/uranus.md)
 - [Moon/Pluto](../axes/moon-pluto.md)
+- [Moon Uranus Pluto](../triads/moon-uranus-pluto.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Sun Saturn Neptune`
 - Astronomicon triad-set: `S W Y`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Saturn/Neptune = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `222`
-- `Saturn/Neptune = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `350`
-- `Saturn/Neptune = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `250`
-- `Saturn/Neptune = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `90`
-- `Saturn/Neptune = Sun`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `288`
-- `Sun/Neptune = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `109`
-- `Sun/Neptune = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `155`
-- `Sun/Neptune = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `99`
-- `Sun/Neptune = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `18`
-- `Sun/Neptune = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `84`
-- `Sun/Saturn = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `107`
-- `Sun/Saturn = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `151`
-- `Sun/Saturn = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `93`
-- `Sun/Saturn = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `14`
-- `Sun/Saturn = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `76`
+- `Saturn/Neptune = Sun`: Michael, page `288`
+- `Sun/Neptune = Saturn`: Michael, page `84`
+- `Sun/Saturn = Neptune`: Michael, page `76`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Saturn/Neptune = Sun`: weakened or burdened self-expression, with the life force tested by restraint, uncertainty, sacrifice, or chronic discouragement.
-- `Sun/Neptune = Saturn`: a burdened sensitivity in which ideal or subtle aims meet fear, frustration, bodily debility, or long-drawn suffering.
-- `Sun/Saturn = Neptune`: burdened vitality, discouragement, and the feeling of carrying limits that are hard to define, escape, or resolve directly.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

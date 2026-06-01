@@ -7,6 +7,7 @@ if __package__ in {None, ""}:
     sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from tools.wiki_pages import iter_wiki_pages
+from tools.wiki_links import relative_link_target
 
 
 SECTION_TITLES = {
@@ -19,20 +20,26 @@ SECTION_TITLES = {
 }
 
 
-def _relative_label(root: Path, page_path: Path) -> str:
-    return page_path.relative_to(root).as_posix()
+def _relative_label(index_path: Path, page_path: Path) -> str:
+    return relative_link_target(index_path, page_path)
 
 
 def build_index(root: Path) -> str:
+    index_path = root / "index.md"
     grouped: dict[str, list[tuple[str, str]]] = {key: [] for key in SECTION_TITLES}
     for page in iter_wiki_pages(root):
         page_type = page.meta.get("page_type")
         if page_type not in SECTION_TITLES:
             continue
         title = page.meta.get("title", page.path.stem)
-        grouped[page_type].append((title, _relative_label(root, page.path)))
+        grouped[page_type].append((title, _relative_label(index_path, page.path)))
 
-    lines = ["# Index", ""]
+    lines = [
+        "# Index",
+        "",
+        "Use [Query Guide](query-guide.md) for answer-first retrieval and `query-manifest.json` for machine-readable page roles.",
+        "",
+    ]
     for page_type, heading in SECTION_TITLES.items():
         lines.append(f"## {heading}")
         entries = sorted(grouped[page_type], key=lambda item: item[0].casefold())

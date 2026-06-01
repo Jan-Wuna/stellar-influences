@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Mars Uranus Node`
 - Astronomicon triad-set: `U X g`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mars/Node = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `143`
-- `Mars/Node = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `213`
-- `Mars/Node = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `217`
-- `Mars/Node = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `74`
-- `Mars/Node = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `244`
-- `Mars/Uranus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `194`
-- `Mars/Uranus = Node`: Udo Rudolph - ABC for Planetary Pictures, page `302`
-- `Mars/Uranus = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `209`
-- `Mars/Uranus = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `71`
-- `Mars/Uranus = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `232`
-- `Uranus/Node = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `146`
-- `Uranus/Node = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `218`
-- `Uranus/Node = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `272`
-- `Uranus/Node = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `106`
-- `Uranus/Node = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `316`
+- `Mars/Node = Uranus`: Michael, page `244`
+- `Mars/Uranus = Node`: Michael, page `232`
+- `Uranus/Node = Mars`: Michael, page `316`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mars/Node = Uranus`: quickly formed alliances, energetic groups, and unusual capacity to get things done with others.
-- `Mars/Uranus = Node`: sudden connection with others for free, dynamic, or experimental action, often under exciting or disruptive circumstances.
-- `Uranus/Node = Mars`: tense alliance, with associations shaped by activism, impatience, argument, or the need to act quickly together under unstable conditions.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

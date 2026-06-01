@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To argue masterfully. To stick to what is most important when one is communi cat
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MERCURY/MARS with Planets and Points`
+- Source page: `152`
+
 #### Munkasey Entry
 
 Emphasizing the importance of news activities; talks of an urgent nature by distinguished people; a preference for loud and showy announcements or proclamations; displays which involve great dexterity of movement.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mercury/Mars = Sun`: verbal bravery, command in debate, and the ability to turn ideas quickly into purposeful effort. Main caution: ego in conflict: discussion can become a test of dominance, pride, or the need to be right.
@@ -76,6 +93,7 @@ Emphasizing the importance of news activities; talks of an urgent nature by dist
 - [Mars](../factors/mars.md)
 - [Sun](../factors/sun.md)
 - [Mercury/Mars](../axes/mercury-mars.md)
+- [Sun Mercury Mars](../triads/sun-mercury-mars.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

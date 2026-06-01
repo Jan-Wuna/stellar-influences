@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Venus Jupiter Uranus`
 - Astronomicon triad-set: `Q V X`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Jupiter/Uranus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `208`
-- `Jupiter/Uranus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `326`
-- `Jupiter/Uranus = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `229`
-- `Jupiter/Uranus = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `80`
-- `Jupiter/Uranus = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `260`
-- `Venus/Jupiter = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `177`
-- `Venus/Jupiter = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `273`
-- `Venus/Jupiter = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `179`
-- `Venus/Jupiter = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `56`
-- `Venus/Jupiter = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `192`
-- `Venus/Uranus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `179`
-- `Venus/Uranus = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `276`
-- `Venus/Uranus = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `185`
-- `Venus/Uranus = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `60`
-- `Venus/Uranus = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `200`
+- `Jupiter/Uranus = Venus`: Michael, page `260`
+- `Venus/Jupiter = Uranus`: Michael, page `192`
+- `Venus/Uranus = Jupiter`: Michael, page `200`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Jupiter/Uranus = Venus`: sudden happiness in affection, experimental or unconventional attachments, and artistic or relational excitement that feels liberating and promising.
-- `Venus/Jupiter = Uranus`: playful abundance under change, with love, pleasure, and good fortune expressed through freedom, originality, and sudden openings.
-- `Venus/Uranus = Jupiter`: electric attraction, unconventional love, and liberating value shifts made expansive, experimental, and socially adventurous.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

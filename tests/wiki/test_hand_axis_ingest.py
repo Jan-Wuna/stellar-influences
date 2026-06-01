@@ -12,6 +12,7 @@ CARTER_SLUG = "charles-carter-the-astrological-aspects"
 SANDBACH_SLUG = "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints"
 MCBROOM_SLUG = "don-mcbroom-midpoints"
 MUNKASEY_SLUG = "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+UDO_RUDOLPH_SLUG = "udo-rudolph-abc-fur-planetenbilder"
 
 
 def test_hand_source_page_exists():
@@ -31,6 +32,7 @@ def test_sun_moon_axis_includes_hand_entry():
     assert page.meta["framework_scope"] == "comparative"
     assert page.meta["source_pages"] == [
         WITTE_SLUG,
+        UDO_RUDOLPH_SLUG,
         EBERTIN_SLUG,
         FALIS_SLUG,
         CARTER_SLUG,
@@ -48,7 +50,7 @@ def test_vernal_point_sun_axis_becomes_comparative_with_hand_entry():
     page = load_page(Path("wiki/axes/vernal-point-sun.md"))
 
     assert page.meta["framework_scope"] == "comparative"
-    assert page.meta["source_pages"] == [WITTE_SLUG, HAND_SLUG]
+    assert page.meta["source_pages"] == [WITTE_SLUG, UDO_RUDOLPH_SLUG, HAND_SLUG]
     assert f"### {HAND_TITLE}" in page.body
     assert "- Source heading: `Sun/Aries`" in page.body
     assert "The desire to make connections in the larger world" in page.body
@@ -60,6 +62,7 @@ def test_node_asc_axis_includes_hand_entry():
     assert page.meta["framework_scope"] == "comparative"
     assert page.meta["source_pages"] == [
         WITTE_SLUG,
+        UDO_RUDOLPH_SLUG,
         EBERTIN_SLUG,
         SANDBACH_SLUG,
         HAND_SLUG,
@@ -80,7 +83,13 @@ def test_sun_factor_includes_hand_entry():
     page = load_page(Path("wiki/factors/sun.md"))
 
     assert page.meta["framework_scope"] == "comparative"
-    assert page.meta["source_pages"] == [WITTE_SLUG, EBERTIN_SLUG, HAND_SLUG]
+    assert page.meta["source_pages"] == [
+        WITTE_SLUG,
+        UDO_RUDOLPH_SLUG,
+        EBERTIN_SLUG,
+        HAND_SLUG,
+        MUNKASEY_SLUG,
+    ]
     assert f"### {HAND_TITLE}" in page.body
     assert "- Source heading: `The Sun`" in page.body
     assert "It is the basic energy of Being." in page.body
@@ -90,7 +99,13 @@ def test_asc_factor_includes_hand_shared_entry():
     page = load_page(Path("wiki/factors/asc.md"))
 
     assert page.meta["framework_scope"] == "comparative"
-    assert page.meta["source_pages"] == [WITTE_SLUG, EBERTIN_SLUG, HAND_SLUG]
+    assert page.meta["source_pages"] == [
+        WITTE_SLUG,
+        UDO_RUDOLPH_SLUG,
+        EBERTIN_SLUG,
+        HAND_SLUG,
+        MUNKASEY_SLUG,
+    ]
     assert f"### {HAND_TITLE}" in page.body
     assert "- Source heading: `The Ascendant and Midheaven`" in page.body
     assert "exchange with the environment" in page.body
@@ -100,7 +115,7 @@ def test_vernal_point_factor_becomes_comparative_with_hand_entry():
     page = load_page(Path("wiki/factors/vernal-point.md"))
 
     assert page.meta["framework_scope"] == "comparative"
-    assert page.meta["source_pages"] == [WITTE_SLUG, HAND_SLUG]
+    assert page.meta["source_pages"] == [WITTE_SLUG, UDO_RUDOLPH_SLUG, HAND_SLUG]
     assert page.meta["aliases"] == ["VP"]
     assert f"### {HAND_TITLE}" in page.body
     assert "- Source heading: `The Vernal Point`" in page.body

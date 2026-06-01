@@ -14,7 +14,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -70,6 +70,9 @@ physical universe is also the truth comes from Saturn, not Neptune. Thus Maya in
 what one is—grants us the ability to sacrifice ourselves for that in which we believe, for higher causes and truth. The catch here is that, if we really understand Neptune, we realize that what we are likely to sacrifice ourselves for is as much an illusion as our own ego. It is the awareness of the game that is important in such a case. Simply as a kind of statement about what one may be in the course of playing the divine game, one may, in the full awareness of its ultimate unreality, choose to sacrifice heavily for that in which one believes. Or one may sacrifice oneself while not knowing this, and waste one's life for nothing. The difference between a high martyr and a simple victim is hard to establish; both are Neptunian. Unfortunately, Neptune may indicate severe ego weaknesses in people who really do have to deal vith the physical universe in order to play the game of life. In such cases, Neptune gives rise to covert or dishonest actions, to people who act behind the scenes because they do not have the strength to confront life directly. Poisoning, often called the weapon of the weak, is Neptunian. Many Neptunian people have a severe lack of confidence in themselves. The most desperate will attempt to withdraw from life into drugs or alcohol or even insanity, although all of these difficulties require a considerable contribution from other planets such as
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `NEPTUNE`
+- Source page: `50`
 
 #### Basic Ideas
 
@@ -164,7 +167,21 @@ what one is—grants us the ability to sacrifice ourselves for that in which we 
 - Unplanned Ventures
 - Visions
 
+## Comparative Schema
+
+- core meaning: source-native factor entries are preserved side by side above.
+- psychology: source-specific psychological and doctrinal emphases remain attached to their own source blocks instead of being flattened.
+- body/health: bodily wording remains inside each contributing source block when present.
+- social/relationship: interpersonal implications remain attached to each source's own phrasing.
+- events/manifestations: source-specific extensions remain attached to the source entry that states them.
+- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
+
+## Contradictions and Framework Notes
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Neptune` is the factor of the unknown, uncertainty, dissolution, premonition, subtle substance, sensitivity, metaphysics, and the blurring of ordinary form.
@@ -197,6 +214,10 @@ what one is—grants us the ability to sacrifice ourselves for that in which we 
 - [Venus/Neptune](../axes/venus-neptune.md)
 - [Vernal Point/Neptune](../axes/vernal-point-neptune.md)
 
+## Related Activations
+
+- None recorded yet.
+
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
@@ -204,3 +225,7 @@ what one is—grants us the ability to sacrifice ourselves for that in which we 
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+
+## Open Questions
+
+- None recorded yet.

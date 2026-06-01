@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ Tremendous vitality manifesting through ones actions. Whole-hearted assertive ne
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/MOON with Planets and Points`
+- Source page: `56`
+
 #### Munkasey Entry
 
 Becoming more self-reliant; strengthens personal drive and initiative; a need to impose your will on others; situations where you may force or push others for quicker progress; topics involving anger; a focus on strength.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Moon = Mars`: passion in relationship, courage in self-definition, and the capacity to act when inner division demands resolution. Main caution: friction: force can sharpen the luminary field into conflict, impatience, or reactive struggle between feeling and intention.
@@ -76,6 +93,7 @@ Becoming more self-reliant; strengthens personal drive and initiative; a need to
 - [Moon](../factors/moon.md)
 - [Mars](../factors/mars.md)
 - [Sun/Moon](../axes/sun-moon.md)
+- [Sun Moon Mars](../triads/sun-moon-mars.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

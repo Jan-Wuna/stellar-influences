@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ A need in this lifetime to overcome a deep and obsessive connection to the past,
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MOON/PLUTO with Planets and Points`
+- Source page: `132`
+
 #### Munkasey Entry
 
 Finding others who share ideas for eliminating toxins from the body; rituals which serve to rid the body of impurities; sexually drawn to women of power or wealth; unexpected help from women who hold real power.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Moon/Pluto = Node`: powerful alliance, crisis-tested belonging, and the ability to stay bonded through difficult shared conditions. Main caution: possessive connection: emotional ties can become controlling, fear-bound, or hard to leave once pressure accumulates.
@@ -76,6 +93,7 @@ Finding others who share ideas for eliminating toxins from the body; rituals whi
 - [Pluto](../factors/pluto.md)
 - [Node](../factors/node.md)
 - [Moon/Pluto](../axes/moon-pluto.md)
+- [Moon Pluto Node](../triads/moon-pluto-node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

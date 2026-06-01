@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Uranus Asc`
 - Astronomicon triad-set: `W X Asc`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Saturn/Asc = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `87`
-- `Saturn/Asc = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `115`
-- `Saturn/Asc = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `260`
-- `Saturn/Asc = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `94`
-- `Saturn/Asc = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `300`
-- `Saturn/Uranus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `221`
-- `Saturn/Uranus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `348`
-- `Saturn/Uranus = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `248`
-- `Saturn/Uranus = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `88`
-- `Saturn/Uranus = Asc`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `284`
-- `Uranus/Asc = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `88`
-- `Uranus/Asc = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `117`
-- `Uranus/Asc = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `275`
-- `Uranus/Asc = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `107`
-- `Uranus/Asc = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `320`
+- `Saturn/Asc = Uranus`: Michael, page `300`
+- `Saturn/Uranus = Asc`: Michael, page `284`
+- `Uranus/Asc = Saturn`: Michael, page `320`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Saturn/Asc = Uranus`: strain between reserve and independence, with self-presentation alternating between control and sudden disruption.
-- `Saturn/Uranus = Asc`: a tense, unusual presence, with identity shaped by the struggle between control and freedom, order and sudden change.
-- `Uranus/Asc = Saturn`: tension between eccentricity and self-discipline, with individuality expressed through strain against rules, expectations, or fear of exposure.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

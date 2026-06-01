@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Moon Neptune Pluto`
 - Astronomicon triad-set: `R Y Z`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Moon/Neptune = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `128`
-- `Moon/Neptune = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `189`
-- `Moon/Neptune = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `132`
-- `Moon/Neptune = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `34`
-- `Moon/Neptune = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `128`
-- `Moon/Pluto = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `129`
-- `Moon/Pluto = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `191`
-- `Moon/Pluto = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `135`
-- `Moon/Pluto = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `36`
-- `Moon/Pluto = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `132`
-- `Neptune/Pluto = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `246`
-- `Neptune/Pluto = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `390`
-- `Neptune/Pluto = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `281`
-- `Neptune/Pluto = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `110`
-- `Neptune/Pluto = Moon`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `328`
+- `Moon/Neptune = Pluto`: Michael, page `128`
+- `Moon/Pluto = Neptune`: Michael, page `132`
+- `Neptune/Pluto = Moon`: Michael, page `328`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Moon/Neptune = Pluto`: profound inner permeability, with compassion, longing, and intuition fused to depth, obsession, and survival themes.
-- `Moon/Pluto = Neptune`: porous intensity, with longing, intuition, and hidden emotional force blending into powerful inner tides.
-- `Neptune/Pluto = Moon`: emotionally saturated transformation, with mood, instinct, and psychic receptivity shaped by hidden crises, purifying processes, and forces moving below awareness.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

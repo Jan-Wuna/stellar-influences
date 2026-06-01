@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `URANUS/NEPTUNE`
+- Source page: `307`
 
 #### Pair Summary
 
@@ -174,6 +177,9 @@ Loss of consciousness, altered or alternate states of consciousness, the mystica
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `URANUS/NEPTUNE`
+- Source page: `307`
+
 #### Basic Ideas
 
 These themes symbolize indifference and rebelliousness combining with illusions and dreaminess, or your need for the new or novel blending with the mystical and imaginative. You may find it easy to walk away from or abandon people or activities which you no longer need, or to turn away from disagreements or places where confusion exists and to start upon new paths. You may also find that these motifs bring circumstances where confusion arises in peculiar and unpredictable ways, that you have an urge to replace that which is worn out or weakened, or that ideas which are vague or subtle upset you and cause you to reconsider your involvement with them. These themes also bring an impersonal view of your devotion to religious ideas, help cause you to initiate or participate in reforms which have lofty ideals, and bring unusual ideas on the role of holiness or sanctity.
@@ -201,6 +207,15 @@ Unpredictable and abrupt reactions to drugs; shock or remission due to causes di
 
 - [Michael Munkasey - Uranus/Neptune Concepts](../derived/munkasey-uranus-neptune-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Uranus/Neptune = Admetos](../activations/uranus-neptune-equals-admetos.md)
@@ -225,7 +240,13 @@ Unpredictable and abrupt reactions to drugs; shock or remission due to causes di
 - [Uranus/Neptune = Vulcanus](../activations/uranus-neptune-equals-vulcanus.md)
 - [Uranus/Neptune = Zeus](../activations/uranus-neptune-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Uranus/Neptune` is the axis of visionary disruption, altered consciousness, spiritual experimentation, and revolutionary ideals. It combines awakening, eccentricity, and sudden change with dream, mysticism, imagination, diffusion, and the pull of invisible realities.

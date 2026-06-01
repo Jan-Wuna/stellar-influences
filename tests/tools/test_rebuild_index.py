@@ -31,6 +31,23 @@ def test_build_index_groups_pages_by_type(tmp_path):
     assert "## Activations" in index_text
 
 
+def test_build_index_points_to_query_artifacts(tmp_path):
+    factor = tmp_path / "wiki" / "factors" / "sun.md"
+    factor.parent.mkdir(parents=True)
+    factor.write_text(
+        "---\n"
+        "title: Sun\n"
+        "page_type: factor\n"
+        "---\n",
+        encoding="utf-8",
+    )
+
+    index_text = build_index(tmp_path / "wiki")
+
+    assert "[Query Guide](query-guide.md)" in index_text
+    assert "`query-manifest.json`" in index_text
+
+
 def test_build_index_sorts_titles_within_a_section(tmp_path):
     moon = tmp_path / "wiki" / "factors" / "moon.md"
     moon.parent.mkdir(parents=True)

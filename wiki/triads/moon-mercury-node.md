@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Moon Mercury Node`
 - Astronomicon triad-set: `R T g`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mercury/Node = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `141`
-- `Mercury/Node = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `208`
-- `Mercury/Node = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `167`
-- `Mercury/Node = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `51`
-- `Mercury/Node = Moon`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `176`
-- `Moon/Mercury = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `122`
-- `Moon/Mercury = Node`: Udo Rudolph - ABC for Planetary Pictures, page `176`
-- `Moon/Mercury = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `114`
-- `Moon/Mercury = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `25`
-- `Moon/Mercury = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `104`
-- `Moon/Node = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `121`
-- `Moon/Node = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `174`
-- `Moon/Node = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `137`
-- `Moon/Node = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `37`
-- `Moon/Node = Mercury`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `136`
+- `Mercury/Node = Moon`: Michael, page `176`
+- `Moon/Mercury = Node`: Michael, page `104`
+- `Moon/Node = Mercury`: Michael, page `136`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mercury/Node = Moon`: emotionally intelligent social connection, with conversations and bonds shaped by sympathy, shared memory, and immediate human responsiveness.
-- `Moon/Mercury = Node`: communicative belonging, with bonds formed through sympathetic speech, shared stories, and immediate rapport.
-- `Moon/Node = Mercury`: emotionally intelligent relating, with bonds built through sympathetic conversation, shared memories, and responsive communication.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

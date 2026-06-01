@@ -27,6 +27,7 @@ updated_at: 2026-04-22
 - The live ingest is intentionally limited to explicit doctrine on the `Sun/Moon` axis, the `Ascendant/Midheaven` axis, and one pilot focal-point activation on each axis.
 - General technique, orb policy, chart-synthesis workflow, unknown-birth-time handling, closest-midpoint-picture logic, special aspect structures, and transits/progressions/solar arcs are excluded from canonical ingest.
 - Vernal Point material is excluded from this pilot pending a separate schema decision.
+- Methodology material is preserved separately in [Midpoint Methodology Layer: McBroom](../derived/midpoint-methodology-layer-mcbroom.md) so chart-use workflow stays out of canonical formula pages.
 
 ## Factors Covered
 
@@ -46,6 +47,13 @@ updated_at: 2026-04-22
 - Canonical activation pages updated or created: `2`.
 - Browse [Index](../index.md) or `wiki/activations/` for the pilot pages touched by this source.
 
+## Methodology Layer
+
+- Derived method note: [Midpoint Methodology Layer: McBroom](../derived/midpoint-methodology-layer-mcbroom.md)
+- Use this note for midpoint identification, 90-degree organization, focal-point priority, unknown-birth-time handling, and timing workflow.
+- Do not treat the methodology layer as source doctrine for any specific formula.
+
 ## Ingestion History
 
 - 2026-04-22: Added a bounded McBroom pilot touching `2` axis pages and `2` activation pages without ingesting methodology or timing chapters.
+- 2026-05-06: Added a derived methodology layer for McBroom's midpoint workflow while keeping canonical formula pages unchanged.

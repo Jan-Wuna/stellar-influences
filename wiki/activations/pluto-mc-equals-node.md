@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To be drawn people who can help one find one’s spiritual path, possibly throug
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `PLUTO/MIDHEAVEN with Planets and Points`
+- Source page: `352`
+
 #### Munkasey Entry
 
 Helps others to notice your abilities and ambitions; membership in associations or clubs which can help you achieve your purposes; ridding yourself of undesirable habits which retard progress; the importance of connections.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Pluto/MC = Node`: influential partnerships, collective power, and the ability to transform direction through significant associations. Main caution: power entanglement in groups: alliances can become manipulative, controlling, or too costly to integrity and purpose.
@@ -76,6 +93,7 @@ Helps others to notice your abilities and ambitions; membership in associations 
 - [MC](../factors/mc.md)
 - [Node](../factors/node.md)
 - [Pluto/MC](../axes/pluto-mc.md)
+- [Pluto Node MC](../triads/pluto-node-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

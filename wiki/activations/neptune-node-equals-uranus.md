@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ Curious and/or surprising effects resulting from one’s psychic sensitivity whe
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `NEPTUNE/NODE with Planets and Points`
+- Source page: `332`
+
 #### Munkasey Entry
 
 A tendency to be disruptive and agitated by the actions of other people; sudden displacement and then isolation from friends or associates; inspiration and progress for scientific, occult, engineering, etc. work attempted.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Neptune/Node = Uranus`: awakened fellowship, unusual communities, and the ability to connect through shared vision or subtle perception beyond ordinary social forms. Main caution: erratic alliance: bonds can dissolve suddenly, confuse boundaries, or chase novelty without trust or steadiness.
@@ -76,6 +93,7 @@ A tendency to be disruptive and agitated by the actions of other people; sudden 
 - [Node](../factors/node.md)
 - [Uranus](../factors/uranus.md)
 - [Neptune/Node](../axes/neptune-node.md)
+- [Uranus Neptune Node](../triads/uranus-neptune-node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

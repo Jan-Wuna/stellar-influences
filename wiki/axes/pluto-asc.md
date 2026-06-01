@@ -63,7 +63,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -75,6 +75,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `PLUTO/ASCENDANT`
+- Source page: `347`
 
 #### Pair Summary
 
@@ -126,6 +129,9 @@ Intense relationships that have a transforming effect on one's life. Power strug
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `PLUTO/ASCENDANT`
+- Source page: `347`
+
 #### Basic Ideas
 
 This combination helps you strengthen your mental intensity and focus and increase your concentration and attention on matters important to you, while helping you ignore any irrelevant disturbances. They help enhance your powers of insight and observation about the nature or character of others, and lend your demeanor a look of penetration and intensity. They urge you to always act as you see fit and you may spend much time wringing pain from your inner self for errors you made or inappropriate activities done. Your obsession with the roles and needs of others is heightened, and they help bring a sexual and passionate mannerism to the way you show attention to others. These themes help you excel at observing other people and situations, and also prompt you bring logical order to situations. They increase your need for controlling the feelings and reactions of others.
@@ -153,6 +159,15 @@ Endocrine and pituitary gland functions; reactions toxic or waste matter in the 
 
 - [Michael Munkasey - Pluto/Asc Concepts](../derived/munkasey-pluto-asc-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Pluto/Asc = Admetos](../activations/pluto-asc-equals-admetos.md)
@@ -177,7 +192,13 @@ Endocrine and pituitary gland functions; reactions toxic or waste matter in the 
 - [Pluto/Asc = Vulcanus](../activations/pluto-asc-equals-vulcanus.md)
 - [Pluto/Asc = Zeus](../activations/pluto-asc-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Pluto/Asc` is the axis of intense personal impact, transformative encounters, and power in the immediate environment. It combines depth, compulsion, crisis, and regeneration with personality, self-presentation, close contact, and the way one meets the world.

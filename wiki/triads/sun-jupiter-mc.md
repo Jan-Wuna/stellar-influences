@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Sun Jupiter MC`
 - Astronomicon triad-set: `S V MC`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Jupiter/MC = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `65`
-- `Jupiter/MC = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `74`
-- `Jupiter/MC = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `244`
-- `Jupiter/MC = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `86`
-- `Jupiter/MC = Sun`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `280`
-- `Sun/Jupiter = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `106`
-- `Sun/Jupiter = MC`: Udo Rudolph - ABC for Planetary Pictures, page `148`
-- `Sun/Jupiter = MC`: Reinhold Ebertin - The Combination of Stellar Influences, page `91`
-- `Sun/Jupiter = MC`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `12`
-- `Sun/Jupiter = MC`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `72`
-- `Sun/MC = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `59`
-- `Sun/MC = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `62`
-- `Sun/MC = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `111`
-- `Sun/MC = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `24`
-- `Sun/MC = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `100`
+- `Jupiter/MC = Sun`: Michael, page `280`
+- `Sun/Jupiter = MC`: Michael, page `72`
+- `Sun/MC = Jupiter`: Michael, page `100`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Jupiter/MC = Sun`: confident purpose, harmonious ambition, and the urge to live visibly and well through success, authority, and long-range aims.
-- `Sun/Jupiter = MC`: public advancement, confidence about one's mission, and recognition that grows through constructive purpose, leadership, or broad accomplishment.
-- `Sun/MC = Jupiter`: confidence in life direction, recognition through achievement, and a broadly constructive attitude toward vocation, status, and mission.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

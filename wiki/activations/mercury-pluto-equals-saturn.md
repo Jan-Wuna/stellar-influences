@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ A need to be sensitive to the ideas of others rather than solely focused on oneâ
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MERCURY/PLUTO with Planets and Points`
+- Source page: `172`
+
 #### Munkasey Entry
 
 Disappointment when releasing information which you feel is secret; delays in your plans to exert control over knowledge; added efficiency to your ruthlessness in pursuing sources of data or rumors.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mercury/Pluto = Saturn`: research stamina, mental toughness, and the capacity to persist with difficult truths. Main caution: severe compression: insight can become grim, distrustful, or too closed to release or adapt.
@@ -76,6 +93,7 @@ Disappointment when releasing information which you feel is secret; delays in yo
 - [Pluto](../factors/pluto.md)
 - [Saturn](../factors/saturn.md)
 - [Mercury/Pluto](../axes/mercury-pluto.md)
+- [Mercury Saturn Pluto](../triads/mercury-saturn-pluto.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

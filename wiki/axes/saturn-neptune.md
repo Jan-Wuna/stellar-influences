@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `SATURN/NEPTUNE`
+- Source page: `287`
 
 #### Pair Summary
 
@@ -184,6 +187,9 @@ Confusion about what is and is not real. Fear, pessimism. Asceticism, extreme se
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SATURN/NEPTUNE`
+- Source page: `287`
+
 #### Basic Ideas
 
 Caution, pessimism, and rigidity meet evasion, dreaminess, and inefficiency in themes which allow you to fool others with delusions of personal integrity. They deepen or extend any deceptive practices in progress, and help people avoid restrictions for past activities. These motifs represent neglect which has persisted over long periods, bring confusion or denials about responsibility for present conditions, and mirror disappointment over a general lack of accountability. These topics help bring control over your dreams and visions, and help you alternate between an ever illusive reality and the presence of illusions. They denote weakness in any areas of personal discipline or wariness, allow subtle hints of pessimism to creep thru facades, and encourage caution for those who attempt deceptive practices. They also favor lasting inspiration at a spiritual level and longlived mystical persons.
@@ -211,6 +217,15 @@ Diseases which are difficult to diagnose or of a long lasting nature; weakens th
 
 - [Michael Munkasey - Saturn/Neptune Concepts](../derived/munkasey-saturn-neptune-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Saturn/Neptune = Admetos](../activations/saturn-neptune-equals-admetos.md)
@@ -235,7 +250,13 @@ Diseases which are difficult to diagnose or of a long lasting nature; weakens th
 - [Saturn/Neptune = Vulcanus](../activations/saturn-neptune-equals-vulcanus.md)
 - [Saturn/Neptune = Zeus](../activations/saturn-neptune-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Saturn/Neptune` is the axis of burdened idealism, renunciation, chronic erosion, and the attempt to give practical form to what is subtle, elusive, or sacrificial. It combines restraint, duty, and endurance with dream, compassion, uncertainty, and dissolution.

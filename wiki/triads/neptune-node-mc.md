@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Neptune Node MC`
 - Astronomicon triad-set: `Y g MC`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Neptune/MC = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `68`
-- `Neptune/MC = Node`: Udo Rudolph - ABC for Planetary Pictures, page `80`
-- `Neptune/MC = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `291`
-- `Neptune/MC = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `113`
-- `Neptune/MC = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `340`
-- `Neptune/Node = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `147`
-- `Neptune/Node = MC`: Udo Rudolph - ABC for Planetary Pictures, page `220`
-- `Neptune/Node = MC`: Reinhold Ebertin - The Combination of Stellar Influences, page `285`
-- `Neptune/Node = MC`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `111`
-- `Neptune/Node = MC`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `332`
-- `Node/MC = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `61`
-- `Node/MC = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `67`
-- `Node/MC = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `304`
-- `Node/MC = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `120`
-- `Node/MC = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `360`
+- `Neptune/MC = Node`: Michael, page `340`
+- `Neptune/Node = MC`: Michael, page `332`
+- `Node/MC = Neptune`: Michael, page `360`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Neptune/MC = Node`: a vocation shaped by collective ideals, subtle group influences, and relational currents that blur the line between calling and belonging.
-- `Neptune/Node = MC`: a vocation shaped by subtle bonds, collective feeling, and ideals of belonging, with public purpose linked to community, service, or elusive social obligations.
-- `Node/MC = Neptune`: a life direction shaped by spiritualized or uncertain alliances, with public purpose tied to compassion, atmosphere, and hopes that are not always clearly grounded.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

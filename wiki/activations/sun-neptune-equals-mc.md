@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ A desire to be self-sacrificing to help the world. One’s life’s work involve
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/NEPTUNE with Planets and Points`
+- Source page: `84`
+
 #### Munkasey Entry
 
 Your individual learning and growing about what the world is like and how your purposes can become better realized; maturing in the use of your ability to visualize end goals; coping with reality thru idealistic escapes.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Neptune = MC`: intuitive vocation, compassion in worldly aims, and the wish to reveal deeper meanings through one's work. Main caution: demoralization: weakness, depression, self-deception, or negative outlook can blur direction and undermine practical effectiveness.
@@ -76,6 +93,7 @@ Your individual learning and growing about what the world is like and how your p
 - [Neptune](../factors/neptune.md)
 - [MC](../factors/mc.md)
 - [Sun/Neptune](../axes/sun-neptune.md)
+- [Sun Neptune MC](../triads/sun-neptune-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

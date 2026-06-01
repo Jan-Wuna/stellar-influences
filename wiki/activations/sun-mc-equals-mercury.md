@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ The ability to communicate in a confident and authoritative manner. The attempt 
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/MIDHEAVEN with Planets and Points`
+- Source page: `100`
+
 #### Munkasey Entry
 
 Communicating your intentions about your life’s direction; added needs for educational credentials to achieve recognition from others; the ingenuity you show in making a path for yourself thru life; accolades for scholarship.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/MC = Mercury`: strategic thinking about career, authoritative communication, and the ingenuity to find ways around obstacles to long-range plans. Main caution: over-mentalization: self-contemplation can become too inward or too concerned with framing rather than doing.
@@ -76,6 +93,7 @@ Communicating your intentions about your life’s direction; added needs for edu
 - [MC](../factors/mc.md)
 - [Mercury](../factors/mercury.md)
 - [Sun/MC](../axes/sun-mc.md)
+- [Sun Mercury MC](../triads/sun-mercury-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

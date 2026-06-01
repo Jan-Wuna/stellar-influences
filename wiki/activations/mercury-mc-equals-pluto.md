@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To be obsessed with certain ideas and the wish to fulfill them. To have intense 
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MERCURY/MIDHEAVEN with Planets and Points`
+- Source page: `184`
+
 #### Munkasey Entry
 
 Urges hard work to correct defects in your personal attitudes; the extremes you go thru to reconcile and integrate your principles of work and life; the personal intensity you bring toward gaining any recognition due you.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mercury/MC = Pluto`: strategic intelligence, deep focus, and communications with authorities or the world that carry unusual intensity and consequence. Main caution: fixation: ambition and thought can become so driven that flexibility, proportion, or healthy detachment are lost.
@@ -76,6 +93,7 @@ Urges hard work to correct defects in your personal attitudes; the extremes you 
 - [MC](../factors/mc.md)
 - [Pluto](../factors/pluto.md)
 - [Mercury/MC](../axes/mercury-mc.md)
+- [Mercury Pluto MC](../triads/mercury-pluto-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

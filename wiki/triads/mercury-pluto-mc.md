@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Pluto MC`
 - Astronomicon triad-set: `T Z MC`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mercury/MC = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `62`
-- `Mercury/MC = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `69`
-- `Mercury/MC = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `174`
-- `Mercury/MC = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `53`
-- `Mercury/MC = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `184`
-- `Mercury/Pluto = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `165`
-- `Mercury/Pluto = MC`: Udo Rudolph - ABC for Planetary Pictures, page `252`
-- `Mercury/Pluto = MC`: Reinhold Ebertin - The Combination of Stellar Influences, page `165`
-- `Mercury/Pluto = MC`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `50`
-- `Mercury/Pluto = MC`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `172`
-- `Pluto/MC = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `69`
-- `Pluto/MC = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `82`
-- `Pluto/MC = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `298`
-- `Pluto/MC = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `117`
-- `Pluto/MC = Mercury`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `352`
+- `Mercury/MC = Pluto`: Michael, page `184`
+- `Mercury/Pluto = MC`: Michael, page `172`
+- `Pluto/MC = Mercury`: Michael, page `352`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mercury/MC = Pluto`: powerful concentration on ideas, a turning point in viewpoint or career direction, and the determination to reshape life through force of mind.
-- `Mercury/Pluto = MC`: strategic intelligence on display, with research, influence, and depth of thought shaping reputation and vocational impact.
-- `Pluto/MC = Mercury`: a public path shaped by analysis, persuasion, and the power of ideas to expose, control, or transform wider systems.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

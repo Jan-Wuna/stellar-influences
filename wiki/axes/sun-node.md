@@ -63,7 +63,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -75,6 +75,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `SUN/NODE`
+- Source page: `91`
 
 #### Pair Summary
 
@@ -126,6 +129,9 @@ The desire to reach out and make contact, to connect with others, or to meet som
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/NODE`
+- Source page: `91`
+
 #### Basic Ideas
 
 This combination brings a capacity to establish relationships to people who have qualities or resources you need. Thru these motifs you are able to meet new and important friends with whom you form new and close bonds or sexual ties, and remove people or circumstances from your life which you have grown beyond. They indicate circumstances where you spend more than you plan, bring opportunities which prove to be important, and increase your ties to groups or clubs which can help you. You find yourself mingling with distinguished or successful people, encounter situations where you have to face decisions about your personal destiny, and recognize ways to rid yourself of unwanted people or things. You attend meetings where speakers are arrogant, find inspiration to follow your personal destiny, and may find yourself invited to a meeting with important purposes.
@@ -153,6 +159,15 @@ The blood channels or passages around the heart; clogging of these channels with
 
 - [Michael Munkasey - Sun/Node Concepts](../derived/munkasey-sun-node-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Sun/Node = Admetos](../activations/sun-node-equals-admetos.md)
@@ -177,7 +192,13 @@ The blood channels or passages around the heart; clogging of these channels with
 - [Sun/Node = Vulcanus](../activations/sun-node-equals-vulcanus.md)
 - [Sun/Node = Zeus](../activations/sun-node-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Node` is the axis of purposeful connection, fellowship, and the development of identity through contact with other people. It combines vitality, will, visibility, and selfhood with meetings, groups, teamwork, public interaction, and shared experience.

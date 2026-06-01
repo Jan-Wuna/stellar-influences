@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Jupiter Uranus`
 - Astronomicon triad-set: `T V X`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,27 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Jupiter/Uranus = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `208`
-- `Jupiter/Uranus = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `326`
-- `Jupiter/Uranus = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `229`
-- `Jupiter/Uranus = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `80`
-- `Jupiter/Uranus = Mercury`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `260`
-- `Mercury/Jupiter = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `161`
-- `Mercury/Jupiter = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `245`
-- `Mercury/Jupiter = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `44`
-- `Mercury/Jupiter = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `156`
-- `Mercury/Uranus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `163`
-- `Mercury/Uranus = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `248`
-- `Mercury/Uranus = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `158`
-- `Mercury/Uranus = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `47`
-- `Mercury/Uranus = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `164`
+- `Jupiter/Uranus = Mercury`: Michael, page `260`
+- `Mercury/Jupiter = Uranus`: Michael, page `156`
+- `Mercury/Uranus = Jupiter`: Michael, page `164`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Jupiter/Uranus = Mercury`: abundant thought, witty independence, and fortunate insight that comes through speech, learning, reporting, or technical and speculative thinking.
-- `Mercury/Jupiter = Uranus`: visionary big-picture thinking, with ideas expressed through sudden perception, innovation, and freedom from old mental limits.
-- `Mercury/Uranus = Jupiter`: adventurous intelligence, with breakthrough ideas, broad speculation, and inventive judgment shaping learning, belief, or opportunity.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

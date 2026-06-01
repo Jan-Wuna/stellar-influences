@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Neptune Asc`
 - Astronomicon triad-set: `X Y Asc`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Neptune/Asc = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `89`
-- `Neptune/Asc = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `119`
-- `Neptune/Asc = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `287`
-- `Neptune/Asc = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `112`
-- `Neptune/Asc = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `336`
-- `Uranus/Asc = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `88`
-- `Uranus/Asc = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `117`
-- `Uranus/Asc = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `275`
-- `Uranus/Asc = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `107`
-- `Uranus/Asc = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `320`
-- `Uranus/Neptune = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `234`
-- `Uranus/Neptune = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `370`
-- `Uranus/Neptune = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `267`
-- `Uranus/Neptune = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `104`
-- `Uranus/Neptune = Asc`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `308`
+- `Neptune/Asc = Uranus`: Michael, page `336`
+- `Uranus/Asc = Neptune`: Michael, page `320`
+- `Uranus/Neptune = Asc`: Michael, page `308`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Neptune/Asc = Uranus`: a highly sensitive but irregular presence, with identity shaped by nervous receptivity, intuitive shocks, and unconventional or hard-to-read self-expression.
-- `Uranus/Asc = Neptune`: an unusual but hard-to-pin-down presence, with individuality expressed through intuition, atmosphere, dream, or strange receptivity.
-- `Uranus/Neptune = Asc`: a strange, visionary, or elusive presence, with identity expressed through unusual sensitivity, spiritualized unrest, and a field that feels both electric and diffuse.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

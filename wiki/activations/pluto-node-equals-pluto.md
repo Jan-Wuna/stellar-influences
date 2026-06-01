@@ -32,11 +32,28 @@ updated_at: 2026-05-06
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `PLUTO/NODE With Itself`
+- Source page: `346`
+
 #### Munkasey Entry
 
 Increases desire for position and power in life, and brings a need to work with and thru the potentials others offer to accomplish this; encourages you to use others for your own purposes or intentions; punishing relationships.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Pluto/Node = Pluto`: Increases desire for position and power in life, and brings a need to work with and thru the potentials others offer to accomplish this; encourages one to use others for one's own purposes or intentions; punishing relationships.

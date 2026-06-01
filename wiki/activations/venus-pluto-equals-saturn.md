@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ A fear of intense passion. A tendency to shy away from anything or anyone one fe
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `VENUS/PLUTO with Planets and Points`
+- Source page: `208`
+
 #### Munkasey Entry
 
 Curbs or bans on the use of destructive impulses or weaponry; lessens the impact of destructive forces; an obligation or responsibility toward or over those who take pleasure in delivering restitution; less enjoyment from sex.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Venus/Pluto = Saturn`: deep loyalty, staying power in love, and the ability to survive relational crisis with seriousness and commitment. Main caution: attachment can harden into cold control, loveless endurance, bitterness, or punishing tests of worth.
@@ -76,6 +93,7 @@ Curbs or bans on the use of destructive impulses or weaponry; lessens the impact
 - [Pluto](../factors/pluto.md)
 - [Saturn](../factors/saturn.md)
 - [Venus/Pluto](../axes/venus-pluto.md)
+- [Venus Saturn Pluto](../triads/venus-saturn-pluto.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

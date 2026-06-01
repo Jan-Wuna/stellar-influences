@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ The continual enlarging and refining of one’s ability to love and to appreciat
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `ASCENDANT/MIDHEAVEN with Planets and Points`
+- Source page: `364`
+
 #### Munkasey Entry
 
 Incorporating the admiration you feel for the qualities of others into respect for self and contentment with your life’s goals; appreciation of the role of entertainment and how it can enhance life; the role love plays in your life.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Asc/MC = Venus`: agreeable professional ties, aesthetic interests, personal attachment, and growth through harmony, appreciation, and graceful interaction with others. Main caution: complacency: comfort, laziness, or superficial pleasure can replace the deeper integration and development this axis calls for.
@@ -76,6 +93,7 @@ Incorporating the admiration you feel for the qualities of others into respect f
 - [MC](../factors/mc.md)
 - [Venus](../factors/venus.md)
 - [Asc/MC](../axes/asc-mc.md)
+- [Venus Asc MC](../triads/venus-asc-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

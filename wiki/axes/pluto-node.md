@@ -63,7 +63,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -75,6 +75,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `PLUTO/NODE`
+- Source page: `343`
 
 #### Pair Summary
 
@@ -126,6 +129,9 @@ Connections that transform one, or with people who are powerful and charismatic.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `PLUTO/NODE`
+- Source page: `343`
+
 #### Basic Ideas
 
 These themes help you increase your influence and gain encouragement thru those people or groups who can provide you with important ties. Your compulsion to seek others out, the obsessions you have with meeting the right people, or the needs you have to start new friendships with influential people are encouraged here. These issues help you discover the consequences of past actions thru your experiences with life, and to realize the rewards or gains you may accumulate from these. Your need to find others for fulfillment, your tendency to abuse friendships, the role of friends who disappear or die, or the drains on your personal and material resources which others create may originate here. These motifs also activate your need to wreck vengeance or be vindictive, use or abuse poisonous substances, and mirrors the sexual or carnal opportunities you seek from others.
@@ -153,6 +159,15 @@ Blockages which affect your pituitary or endocrine glands; sexual preferences or
 
 - [Michael Munkasey - Pluto/Node Concepts](../derived/munkasey-pluto-node-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Pluto/Node = Admetos](../activations/pluto-node-equals-admetos.md)
@@ -177,7 +192,13 @@ Blockages which affect your pituitary or endocrine glands; sexual preferences or
 - [Pluto/Node = Vulcanus](../activations/pluto-node-equals-vulcanus.md)
 - [Pluto/Node = Zeus](../activations/pluto-node-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Pluto/Node` is the axis of powerful associations, fateful alliances, and collective ties that carry transformative or burdensome weight. It combines depth, intensity, elimination, and regeneration with meetings, groups, bonds, and shared destiny.

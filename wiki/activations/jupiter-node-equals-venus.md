@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ A love of art that feels like it has many interconnections within it. The desire
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `JUPITER/NODE with Planets and Points`
+- Source page: `272`
+
 #### Munkasey Entry
 
 Added charm and grace with manners or movements; others see you as a more gentle and refined person in social capacities; increased contacts among those who have authority in the artistic, financial, or musical fields.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Jupiter/Node = Venus`: warm social charm, harmonious alliances, and the desire for relationships that feel full, rich, and mutually pleasing. Main caution: overvaluing pleasant connection for its own sake, which can blur the difference between genuinely supportive ties and merely agreeable ones.
@@ -76,6 +93,7 @@ Added charm and grace with manners or movements; others see you as a more gentle
 - [Node](../factors/node.md)
 - [Venus](../factors/venus.md)
 - [Jupiter/Node](../axes/jupiter-node.md)
+- [Venus Jupiter Node](../triads/venus-jupiter-node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

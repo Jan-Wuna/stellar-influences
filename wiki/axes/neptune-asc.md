@@ -63,7 +63,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -75,6 +75,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `NEPTUNE/ASCENDANT`
+- Source page: `335`
 
 #### Pair Summary
 
@@ -126,6 +129,9 @@ Close relationships that involve self-sacrifice, or that require one person to c
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `NEPTUNE/ASCENDANT`
+- Source page: `335`
+
 #### Basic Ideas
 
 These themes prompt you to overlook the reality of what is happening before you and rely instead on what you believe the situation should be. They help you easily overlook what is obvious to others about their human feelings, intentions, needs, or processes. These motifs encourage the use of intuition to tune in to the intentions and motivations of others. You learn to trust your instincts, body language or attitudes, or nuances of speech more than you trust the sensory facts which others present. You encourage yourself to build a false sense of reality about others. You learn you can inspire or charm others easily and present your views of reality in ways that uplift and inspire others. They also help you appear more elusive and hard to pin down, and you may change or shift moods rapidly. You find it easy to dismiss or walk away from people or situations which you no longer want or need.
@@ -153,6 +159,15 @@ Enhanced needs for using drugs to alter reality; an affinity or craving for diff
 
 - [Michael Munkasey - Neptune/Asc Concepts](../derived/munkasey-neptune-asc-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Neptune/Asc = Admetos](../activations/neptune-asc-equals-admetos.md)
@@ -177,7 +192,13 @@ Enhanced needs for using drugs to alter reality; an affinity or craving for diff
 - [Neptune/Asc = Vulcanus](../activations/neptune-asc-equals-vulcanus.md)
 - [Neptune/Asc = Zeus](../activations/neptune-asc-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Neptune/Asc` is the axis of impressionable identity, porous boundaries, and relationships colored by idealization, sympathy, or ambiguity. It combines sensitivity, imagination, intuition, and sacrifice with personality, appearance, and the way one meets and is perceived by others.

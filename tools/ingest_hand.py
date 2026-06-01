@@ -24,7 +24,7 @@ from tools.wiki_pages import WikiPage, load_frontmatter, load_page
 
 
 UPDATED_AT = "2026-04-22"
-DEFAULT_DERIVED_TEXT = "- None yet beyond source structuring."
+DEFAULT_DERIVED_TEXT = ""
 DEFAULT_FACTOR_CONTRADICTIONS = (
     "- Source differences on this factor page are preserved as framework emphasis rather than forced contradiction.\n"
     "- This page keeps the contributing source chapters side by side instead of treating one as a gloss on the other."
@@ -345,6 +345,8 @@ updated_at: {UPDATED_AT}
 - No direct contradiction is recorded yet among the ingested source entries on this axis.
 - Differences are preserved as distinct source voices and framework emphases rather than flattened into one interpretation.
 
+<a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 {derived_text}
@@ -412,6 +414,8 @@ updated_at: {UPDATED_AT}
 ## Contradictions and Framework Notes
 
 {contradictions}
+
+<a id="derived-synthesis"></a>
 
 ## Derived Synthesis
 

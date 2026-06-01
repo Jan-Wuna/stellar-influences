@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Sun Mars MC`
 - Astronomicon triad-set: `S U MC`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mars/MC = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `64`
-- `Mars/MC = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `72`
-- `Mars/MC = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `223`
-- `Mars/MC = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `77`
-- `Mars/MC = Sun`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `252`
-- `Sun/MC = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `59`
-- `Sun/MC = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `62`
-- `Sun/MC = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `111`
-- `Sun/MC = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `24`
-- `Sun/MC = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `100`
-- `Sun/Mars = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `105`
-- `Sun/Mars = MC`: Udo Rudolph - ABC for Planetary Pictures, page `146`
-- `Sun/Mars = MC`: Reinhold Ebertin - The Combination of Stellar Influences, page `88`
-- `Sun/Mars = MC`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `11`
-- `Sun/Mars = MC`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `68`
+- `Mars/MC = Sun`: Michael, page `252`
+- `Sun/MC = Mars`: Michael, page `100`
+- `Sun/Mars = MC`: Michael, page `68`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mars/MC = Sun`: a strong will to achieve, visible effectiveness, and the drive to overcome resistance so that one's aims and authority become unmistakable.
-- `Sun/MC = Mars`: decisive self-direction, leadership through action, and a powerful need to work, fight, and exert oneself toward chosen goals.
-- `Sun/Mars = MC`: industrious purpose, leadership through hard work, and the wish to build a reputation as a fighter, achiever, or person who gets things done.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

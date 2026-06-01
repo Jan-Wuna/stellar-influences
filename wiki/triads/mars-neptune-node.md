@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Mars Neptune Node`
 - Astronomicon triad-set: `U Y g`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mars/Neptune = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `195`
-- `Mars/Neptune = Node`: Udo Rudolph - ABC for Planetary Pictures, page `304`
-- `Mars/Neptune = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `212`
-- `Mars/Neptune = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `72`
-- `Mars/Neptune = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `236`
-- `Mars/Node = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `143`
-- `Mars/Node = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `213`
-- `Mars/Node = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `217`
-- `Mars/Node = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `74`
-- `Mars/Node = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `244`
-- `Neptune/Node = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `147`
-- `Neptune/Node = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `220`
-- `Neptune/Node = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `35`
-- `Neptune/Node = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `111`
-- `Neptune/Node = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `332`
+- `Mars/Neptune = Node`: Michael, page `236`
+- `Mars/Node = Neptune`: Michael, page `244`
+- `Neptune/Node = Mars`: Michael, page `332`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mars/Neptune = Node`: unstable or idealized cooperation, with ties that may form around subtle influence, shared dreams, or refined purpose but prove weak, deceptive, or short-lived.
-- `Mars/Node = Neptune`: group activity that is hard to define clearly, with relationships easily undermined by falsehood, ambiguity, or differing ideals.
-- `Neptune/Node = Mars`: ambiguous alliance under strain, with relationships shaped by subtle friction, covert struggle, sacrifice, or the urge to act without fully clear motives.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

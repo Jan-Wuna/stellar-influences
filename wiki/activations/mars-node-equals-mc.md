@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ One’s highest spiritual attainment is to come together with others for the pur
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MARS/NODE with Planets and Points`
+- Source page: `244`
+
 #### Munkasey Entry
 
 The recognition you achieve with your ideas, and the help you have from groups and associates in achieving distinction; your experience and maturity at being able to control and direct the will of the collective masses.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mars/Node = MC`: working well with others, finding public purpose through cooperation, and building effectiveness by joining one's efforts to a larger task. Main caution: overidentifying with the collective role: group purpose can crowd out nuance, privacy, or individual timing.
@@ -76,6 +93,7 @@ The recognition you achieve with your ideas, and the help you have from groups a
 - [Node](../factors/node.md)
 - [MC](../factors/mc.md)
 - [Mars/Node](../axes/mars-node.md)
+- [Mars Node MC](../triads/mars-node-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

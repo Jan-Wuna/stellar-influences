@@ -7,6 +7,7 @@ if __package__ in {None, ""}:
     sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from tools.wiki_identity import normalize_activation, normalize_axis, normalize_factor, normalize_triad
+from tools.wiki_links import DERIVED_SYNTHESIS_ANCHOR, explicit_anchor
 from tools.wiki_pages import iter_wiki_pages
 
 
@@ -201,6 +202,14 @@ def _check_triad_identity(meta: dict) -> list[str]:
     return problems
 
 
+def _check_canonical_anchors(page_type: str, body: str) -> list[str]:
+    if page_type not in {"factor", "axis", "activation"}:
+        return []
+    if explicit_anchor(DERIVED_SYNTHESIS_ANCHOR) not in body:
+        return ["canonical pages must include an explicit derived-synthesis anchor"]
+    return []
+
+
 def lint_wiki(root: Path) -> list[str]:
     problems: list[str] = []
     for page in iter_wiki_pages(root):
@@ -210,6 +219,7 @@ def lint_wiki(root: Path) -> list[str]:
         page_problems.extend(_check_activation_identity(page.meta))
         page_problems.extend(_check_activation_aliases(page.meta))
         page_problems.extend(_check_triad_identity(page.meta))
+        page_problems.extend(_check_canonical_anchors(str(page.meta.get("page_type", "")), page.body))
         for problem in page_problems:
             problems.append(f"{page.path}: {problem}")
     return problems

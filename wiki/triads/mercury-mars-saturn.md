@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Mars Saturn`
 - Astronomicon triad-set: `T U W`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mars/Saturn = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `193`
-- `Mars/Saturn = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `300`
-- `Mars/Saturn = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `205`
-- `Mars/Saturn = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `68`
-- `Mars/Saturn = Mercury`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `228`
-- `Mercury/Mars = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `160`
-- `Mercury/Mars = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `243`
-- `Mercury/Mars = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `149`
-- `Mercury/Mars = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `42`
-- `Mercury/Mars = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `152`
-- `Mercury/Saturn = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `162`
-- `Mercury/Saturn = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `246`
-- `Mercury/Saturn = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `155`
-- `Mercury/Saturn = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `45`
-- `Mercury/Saturn = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `160`
+- `Mars/Saturn = Mercury`: Michael, page `228`
+- `Mercury/Mars = Saturn`: Michael, page `152`
+- `Mercury/Saturn = Mars`: Michael, page `160`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mars/Saturn = Mercury`: concentrated, severe, and sometimes bleak thinking, with words or news carrying themes of difficulty, separation, or the fear of acting wrongly.
-- `Mercury/Mars = Saturn`: concentrated but burdened thought, cautious or repressed assertion, and speech that can either endure pressure well or turn severe, cutting, and separating.
-- `Mercury/Saturn = Mars`: concentrated thought in action, with disciplined strategy, precise speech, and mentally controlled effort applied under pressure.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ The person places a lot of importance on either growing spiritually and followin
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `JUPITER/MIDHEAVEN with Planets and Points`
+- Source page: `280`
+
 #### Munkasey Entry
 
 Added confidence built within self as you cope and adjust to different circumstances; building moral principles within self as you mature; emphasizing the role of ethics or personal scruples as you develop in life.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Jupiter/MC = Sun`: recognition, healthy confidence, pleasant circumstances, and a life path strengthened by optimism and meaningful objectives. Main caution: status inflation: the pursuit of importance can become too identified with being seen as fortunate, accomplished, or superior.
@@ -76,6 +93,7 @@ Added confidence built within self as you cope and adjust to different circumsta
 - [MC](../factors/mc.md)
 - [Sun](../factors/sun.md)
 - [Jupiter/MC](../axes/jupiter-mc.md)
+- [Sun Jupiter MC](../triads/sun-jupiter-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

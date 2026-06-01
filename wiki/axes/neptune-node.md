@@ -61,7 +61,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -73,6 +73,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `NEPTUNE/NODE`
+- Source page: `331`
 
 #### Pair Summary
 
@@ -124,6 +127,9 @@ Confusing connections, connections whose nature is not clear, deceitful connecti
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `NEPTUNE/NODE`
+- Source page: `331`
+
 #### Basic Ideas
 
 These themes help you retreat from the friendship, advice, and counsel of others to a more private world where you hold the exclusive membership. When you need the time and the space to be with yourself away from the influence of others, when you need an opportunity to be by yourself, or when you need to be free from the ties and obligations that others create, then you can draw upon the power of these patterns. They denote confusion about the intentions of others, help you shy away from and intentionally avoid meetings with associates, or bring you opportunities to gather friends for inspiring meetings or ventures together. When you exhibit shortcomings due to meeting others, when confusion abounds within groups or clubs, or when deceit and misleading arguments are used during or about such exchanges then these issues may be active and working.
@@ -151,6 +157,15 @@ Use of drugs to isolate self from society; subjugating yourself to the influence
 
 - [Michael Munkasey - Neptune/Node Concepts](../derived/munkasey-neptune-node-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Neptune/Node = Admetos](../activations/neptune-node-equals-admetos.md)
@@ -174,7 +189,13 @@ Use of drugs to isolate self from society; subjugating yourself to the influence
 - [Neptune/Node = Vulcanus](../activations/neptune-node-equals-vulcanus.md)
 - [Neptune/Node = Zeus](../activations/neptune-node-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Neptune/Node` is the axis of subtle or sacrificial connection, intuitive fellowship, and bonds shaped by idealism, confusion, or invisible influences. It combines dream, sympathy, mysticism, and ambiguity with friendship, group ties, and shared experience.

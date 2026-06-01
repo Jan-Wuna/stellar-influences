@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ A sudden, surprising and/or unexpected display or forceful or passionate feeling
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MOON/MARS with Planets and Points`
+- Source page: `112`
+
 #### Munkasey Entry
 
 Appearing dispassionate during angry emotional outbursts; detachment of self from suspected animosity or irritation; the emotional energy you use to practice astrology; irregular attempts at or with home repairs.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Moon/Mars = Uranus`: rapid mobilization, emotional breakthrough, and the ability to act instantly when old patterns break open. Main caution: explosive reactivity: upset and force can become erratic, accident-prone, or too volatile for sustained trust.
@@ -76,6 +93,7 @@ Appearing dispassionate during angry emotional outbursts; detachment of self fro
 - [Mars](../factors/mars.md)
 - [Uranus](../factors/uranus.md)
 - [Moon/Mars](../axes/moon-mars.md)
+- [Moon Mars Uranus](../triads/moon-mars-uranus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

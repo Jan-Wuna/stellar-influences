@@ -32,11 +32,28 @@ updated_at: 2026-05-06
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `JUPITER/NODE With Itself`
+- Source page: `274`
+
 #### Munkasey Entry
 
 An interest in the social aspects of life and how people are motivated and function together; a need to expand your circle of friends, and to reach those who can help you; approval from friends or those you trust or endorse.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Jupiter/Node = Jupiter`: An interest in the social aspects of life and how people are motivated and function together; a need to expand one's circle of friends, and to reach those who can help one; approval from friends or those one trust or endorse.

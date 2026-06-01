@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To be afraid of letting go of parts of one’s identity that need to change. Fru
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `NODE/ASCENDANT with Planets and Points`
+- Source page: `356`
+
 #### Munkasey Entry
 
 Demonstrations of organizational or administrative skills; simplifying group structures; explaining problems to others; slowly and patiently teaching others about your ideas or methods; barriers to socializing efforts.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Node/Asc = Saturn`: dependable ties, serious social conscience, and the ability to hold association together through steadiness. Main caution: isolation in company: the person can feel constrained, judged, or overly guarded in the very relationships that shape their identity.
@@ -76,6 +93,7 @@ Demonstrations of organizational or administrative skills; simplifying group str
 - [Asc](../factors/asc.md)
 - [Saturn](../factors/saturn.md)
 - [Node/Asc](../axes/node-asc.md)
+- [Saturn Node Asc](../triads/saturn-node-asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Venus Mars Uranus`
 - Astronomicon triad-set: `Q U X`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mars/Uranus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `194`
-- `Mars/Uranus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `302`
-- `Mars/Uranus = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `208`
-- `Mars/Uranus = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `71`
-- `Mars/Uranus = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `232`
-- `Venus/Mars = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `176`
-- `Venus/Mars = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `271`
-- `Venus/Mars = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `176`
-- `Venus/Mars = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `55`
-- `Venus/Mars = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `188`
-- `Venus/Uranus = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `179`
-- `Venus/Uranus = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `276`
-- `Venus/Uranus = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `185`
-- `Venus/Uranus = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `60`
-- `Venus/Uranus = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `200`
+- `Mars/Uranus = Venus`: Michael, page `232`
+- `Venus/Mars = Uranus`: Michael, page `188`
+- `Venus/Uranus = Mars`: Michael, page `200`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mars/Uranus = Venus`: sudden, highly charged passion, uninhibited relational desire, and experimentation in values or intimacy.
-- `Venus/Mars = Uranus`: restless attraction, with desire, charm, and creative heat expressed through unconventional turns, sudden chemistry, and a need for freedom inside passion.
-- `Venus/Uranus = Mars`: electric attraction, unconventional love, and liberating value shifts made impulsive, exciting, and hard to domesticate.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

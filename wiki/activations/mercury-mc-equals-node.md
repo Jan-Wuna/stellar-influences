@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To connect with people in the search for ultimate truth. To need connections wit
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MERCURY/MIDHEAVEN with Planets and Points`
+- Source page: `184`
+
 #### Munkasey Entry
 
 Associations with different people who can help you to gain stature and recognition in life; the kinship you feel with members of your family; paths which open and allow you to make the most of opportunities in life.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mercury/MC = Node`: friendships of mind, collaborative planning, and development through exchanging ideas with people who matter to one's aims. Main caution: dependence on agreement: the search for resonance can turn into echo chambers or overreliance on approval from one's circle.
@@ -76,6 +93,7 @@ Associations with different people who can help you to gain stature and recognit
 - [MC](../factors/mc.md)
 - [Node](../factors/node.md)
 - [Mercury/MC](../axes/mercury-mc.md)
+- [Mercury Node MC](../triads/mercury-node-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Sun Node Asc`
 - Astronomicon triad-set: `S g Asc`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Node/Asc = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `82`
-- `Node/Asc = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `104`
-- `Node/Asc = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `301`
-- `Node/Asc = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `118`
-- `Node/Asc = Sun`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `356`
-- `Sun/Asc = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `80`
-- `Sun/Asc = Node`: Udo Rudolph - ABC for Planetary Pictures, page `100`
-- `Sun/Asc = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `109`
-- `Sun/Asc = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `23`
-- `Sun/Asc = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `96`
-- `Sun/Node = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `102`
-- `Sun/Node = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `140`
-- `Sun/Node = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `106`
-- `Sun/Node = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `21`
-- `Sun/Node = Asc`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `92`
+- `Node/Asc = Sun`: Michael, page `356`
+- `Sun/Asc = Node`: Michael, page `96`
+- `Sun/Node = Asc`: Michael, page `92`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Node/Asc = Sun`: a selfhood that shines through association, with personality clarified and energized by close contact, social recognition, and the need to be seen within one's immediate human field.
-- `Sun/Asc = Node`: identity shaped in direct contact with others, strong visibility in group settings, and influence that operates through personal presence and association.
-- `Sun/Node = Asc`: identity shaped through meaningful connection, the urge to seek people out, and a manner that presents itself as available for shared purpose or alliance.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

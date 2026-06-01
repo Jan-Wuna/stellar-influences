@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `VENUS/SATURN`
+- Source page: `195`
 
 #### Pair Summary
 
@@ -182,6 +185,9 @@ Love or the desire for comfort being disciplined or restricted by practical cons
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `VENUS/SATURN`
+- Source page: `195`
+
 #### Basic Ideas
 
 These themes serve to lessen or block the enjoyment received from activities designed to bring love, pleasure, or relaxation to your life. They symbolize working for satisfaction, adding caution to your desires for affection, and bringing a realism and innocence to your desire for respect. Thru these motifs you gain lasting enjoyment despite setbacks, acquire pleasure from silence, and discover brief temptations. You may impose some discipline on your jealous tendencies, find that your desire for affection or love becomes more serious and stable, and show a polite and mannered disposition when necessary and proper. You may also find that you are disappointed with the gratification you receive, become inflexible about how you will accept or show luxury, and suffer some temptations in solitude. These themes can also bring restrictions to your love life, and an isolation from admirers.
@@ -209,6 +215,15 @@ Diminishes your sense of smell and taste; restricts passages in the throat; poor
 
 - [Michael Munkasey - Venus/Saturn Concepts](../derived/munkasey-venus-saturn-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Venus/Saturn = Admetos](../activations/venus-saturn-equals-admetos.md)
@@ -233,7 +248,13 @@ Diminishes your sense of smell and taste; restricts passages in the throat; poor
 - [Venus/Saturn = Vulcanus](../activations/venus-saturn-equals-vulcanus.md)
 - [Venus/Saturn = Zeus](../activations/venus-saturn-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Venus/Saturn` is the axis of restrained affection, loyalty, seriousness, and enduring value built through limitation or sacrifice. It combines love, pleasure, beauty, and relationship with duty, realism, delay, sobriety, and the weight of emotional consequences.

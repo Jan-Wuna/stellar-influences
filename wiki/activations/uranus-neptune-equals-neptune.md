@@ -32,11 +32,28 @@ updated_at: 2026-05-06
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `URANUS/NEPTUNE With Itself`
+- Source page: `310`
+
 #### Munkasey Entry
 
 You are not above using evasion and deception to remove yourself from situations which you find uncomfortable; you have a great imagination and the world of make-believe and the made up are just as real for you as life.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Uranus/Neptune = Neptune`: one is not above using evasion and deception to remove oneself from situations which one find uncomfortable; one has a great imagination and the world of make-believe and the made up are just as real for one as life.

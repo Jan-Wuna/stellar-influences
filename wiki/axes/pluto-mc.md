@@ -63,7 +63,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -75,6 +75,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `PLUTO/MIDHEAVEN`
+- Source page: `351`
 
 #### Pair Summary
 
@@ -126,6 +129,9 @@ Striving toward one's goals, the desire to achieve one's objectives at any cost.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `PLUTO/MIDHEAVEN`
+- Source page: `351`
+
 #### Basic Ideas
 
 These themes help you grow with and thru life’s experiences, lessons, and trials and become a better if different person for your experiences. They help you realize that you can not be all things to all people. They introduce you to ideas very different from those which your family and early life taught you, and they guide you to develop self-control in all areas of life, perhaps excessively. They bring obsession with the need for correcting your personal or family distresses, clarifying your personal goals and needs, and urge you to confront your reputation. Your problems in coping with feeling secure about who you are, elimination of self-restraints imposed in your past, or the denial of principles for which you inwardly stand, are also emphasized by these points. The efforts you go thru to clear your name, a family member’s name, or an ancestor’s reputation may also originate with these points.
@@ -153,6 +159,15 @@ Toxins which accumulate due to the stress of living or work; colon or eliminatio
 
 - [Michael Munkasey - Pluto/MC Concepts](../derived/munkasey-pluto-mc-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Pluto/MC = Admetos](../activations/pluto-mc-equals-admetos.md)
@@ -177,7 +192,13 @@ Toxins which accumulate due to the stress of living or work; colon or eliminatio
 - [Pluto/MC = Vulcanus](../activations/pluto-mc-equals-vulcanus.md)
 - [Pluto/MC = Zeus](../activations/pluto-mc-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Pluto/MC` is the axis of transformative destiny, forceful ambition, and the urge to reshape one's life direction through power, crisis, and deep self-redefinition. It combines compulsion, authority, destruction, and regeneration with vocation, status, purpose, and public standing.

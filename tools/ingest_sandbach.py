@@ -66,7 +66,7 @@ SOURCE_TITLES = {
 }
 
 SOURCE_SLUGS_BY_TITLE = {title: slug for slug, title in SOURCE_TITLES.items()}
-MISSING_ACTIVATION_TEXT = "No extractable activation entry text is available in the current PDF text for this expected Sandbach orientation."
+MISSING_ACTIVATION_TEXT = "Sandbach's visible source page omits a text-bearing entry for this activator; no activation paragraph is available to ingest."
 
 FRAMEWORK_BY_SOURCE = {
     WITTE_SLUG: "hamburg_school",
@@ -216,6 +216,12 @@ def _sandbach_activation_entry(block: AxisBlock, entry: ActivationEntry) -> str:
 
 
 def _sandbach_missing_activation_entry(block: AxisBlock, activated_by: str) -> str:
+    missing_text = MISSING_ACTIVATION_TEXT
+    if activated_by == "Chiron":
+        missing_text = (
+            "Sandbach's visible source page omits a text-bearing `Chiron` activator entry "
+            "for this orientation; no activation paragraph is available to ingest."
+        )
     return f"""### {SOURCE_TITLE}
 
 - Source heading: `{block.source_heading}`
@@ -224,7 +230,7 @@ def _sandbach_missing_activation_entry(block: AxisBlock, activated_by: str) -> s
 
 #### Sandbach Entry
 
-- {MISSING_ACTIVATION_TEXT}"""
+- {missing_text}"""
 
 
 def _render_axis_page(path: Path, block: AxisBlock) -> str:
@@ -297,9 +303,10 @@ updated_at: {UPDATED_AT}
 - No direct contradiction is recorded yet among the ingested source entries on this axis.
 - Differences are preserved as distinct source voices and framework emphases rather than flattened into one interpretation.
 
+<a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
-- None yet beyond source structuring.
 
 ## Links
 
@@ -346,13 +353,21 @@ def _render_activation_page(
         else ""
     )
     if sandbach_entry_is_placeholder and source_pages == [SOURCE_SLUG]:
-        comparative_schema = f"""- core meaning: no extractable activation entry text is currently available from the Sandbach PDF for this expected orientation.
+        if identity.activated_by == "Chiron":
+            comparative_schema = """- core meaning: Sandbach's visible source page omits a text-bearing `Chiron` activator entry for this expected orientation.
+- psychology: no source-backed Sandbach wording is available to classify without inventing Chiron doctrine.
+- body/health: no source-backed Sandbach wording is available to classify without inventing Chiron doctrine.
+- social/relationship: no source-backed Sandbach wording is available to classify without inventing Chiron doctrine.
+- events/manifestations: this source-omission slot marks a canonically expected orientation without adding doctrine.
+- conflicts/notes: this page is parked as Sandbach-only and should not be expanded interpretively without a new source-scope decision."""
+        else:
+            comparative_schema = f"""- core meaning: Sandbach's visible source page omits a text-bearing entry for this expected orientation.
 - psychology: no source-backed Sandbach wording is available to classify without inventing doctrine.
 - body/health: no source-backed Sandbach wording is available to classify without inventing doctrine.
 - social/relationship: no source-backed Sandbach wording is available to classify without inventing doctrine.
-- events/manifestations: this structural placeholder marks a canonically expected orientation whose Sandbach entry is not extractable from the current PDF text.
-- conflicts/notes: this structural placeholder preserves the canonical orientation slot without inventing doctrine."""
-        contradictions = "- No source-backed activation text is currently extractable for this Sandbach orientation."
+- events/manifestations: this source-omission slot marks a canonically expected orientation without adding doctrine.
+- conflicts/notes: this source-omission slot preserves the canonical orientation without inventing doctrine."""
+        contradictions = "- Sandbach's visible source page omits this activator entry; no contradiction can be assessed."
     else:
         comparative_schema = """- core meaning: source-native activation entries are preserved side by side above.
 - psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
@@ -400,9 +415,10 @@ updated_at: {UPDATED_AT}
 
 {contradictions}
 
+<a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
-- None yet beyond source structuring.
 
 ## Links
 
@@ -511,6 +527,9 @@ updated_at: {UPDATED_AT}
 
 - Factor: {factor.display}
 - Canonical page type: structural factor page created because the source treats `{factor.display}` as a first-class participant in axis and activation formulas.
+- This page is source-bounded to Sandbach's modern midpoint corpus.
+- Do not read it as a comparative factor doctrine page.
+- This factor page should not be used as standalone `{factor.display}` doctrine.
 
 ## Source Entries
 
@@ -649,8 +668,8 @@ updated_at: {UPDATED_AT}
 - Each Sandbach axis chapter also supplies explicit activator meanings for every remaining factor in the source inventory.
 - This ingest adds `Chiron` to the canonical factor inventory because the source treats it as a full participant in axis and activation structures.
 - The source does not provide standalone factor chapters.
-- The extractable PDF text is missing `{missing_count}` activator labels.
-- Those gaps are preserved as structural placeholder activation pages rather than speculative doctrine.
+- The visible source pages omit `{missing_count}` expected activator entries.
+- Those source-omission slots are preserved as structural activation pages rather than speculative doctrine.
 
 ## Factors Covered
 
@@ -664,7 +683,7 @@ updated_at: {UPDATED_AT}
 ## Activations Covered
 
 - Canonical activation pages updated or created: `{activation_count}`.
-- Of these, `{missing_count}` are structural placeholder pages because the extractable PDF text omits those activator entries.
+- Of these, `{missing_count}` are source-omission structural pages because the visible source pages omit those activator entries.
 - Canonical triad hubs updated or created: `{triad_count}`.
 - Browse [Index](../index.md), `wiki/activations/`, and `wiki/triads/` for the full set.
 

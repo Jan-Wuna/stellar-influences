@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Sun Moon Jupiter`
 - Astronomicon triad-set: `S R V`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Moon/Jupiter = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `125`
-- `Moon/Jupiter = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `182`
-- `Moon/Jupiter = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `123`
-- `Moon/Jupiter = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `29`
-- `Moon/Jupiter = Sun`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `116`
-- `Sun/Jupiter = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `106`
-- `Sun/Jupiter = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `148`
-- `Sun/Jupiter = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `90`
-- `Sun/Jupiter = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `12`
-- `Sun/Jupiter = Moon`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `72`
-- `Sun/Moon = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `101`
-- `Sun/Moon = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `138`
-- `Sun/Moon = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `78`
-- `Sun/Moon = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `6`
-- `Sun/Moon = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `56`
+- `Moon/Jupiter = Sun`: Michael, page `116`
+- `Sun/Jupiter = Moon`: Michael, page `72`
+- `Sun/Moon = Jupiter`: Michael, page `56`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Moon/Jupiter = Sun`: a generous emotional identity, with self-expression shaped by warmth, hope, and the desire to nourish or encourage life around oneself.
-- `Sun/Jupiter = Moon`: emotional warmth, social ease, and a broadly constructive response to life that tends toward generosity, hope, and popularity.
-- `Sun/Moon = Jupiter`: harmony between identity and feeling expressed as optimism, protection, emotional generosity, and the sense that life supports union and balance.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

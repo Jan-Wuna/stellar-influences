@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `SUN/SATURN`
+- Source page: `75`
 
 #### Pair Summary
 
@@ -180,6 +183,9 @@ The active expression of one's principles of right and wrong, true and false. Th
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/SATURN`
+- Source page: `75`
+
 #### Basic Ideas
 
 The Sun and Saturn themes combine your ideas on discipline and determination to lend purpose to your goals for completing your activities. These motifs impart an air of authority to your generally respectable nature, send signals of rejection from or to prominent persons, influence your inflexibility, and then give you resolve and persistence to see your way thru any obstacle or over any barrier. Your dedication when aroused is usually seriously and cautiously shown, you reduce or restrict any personal embellishments or lavishness, and this seriousness helps you gain respect for the accomplishments you do. There is a sense of purpose behind the way you discipline yourself for your work assignments. You realize early that others do not always appreciate your efforts and you must work very hard to overcome their criticisms; you dedicate yourself to patience and completing work thoroughly.
@@ -207,6 +213,15 @@ Mineral deposits in the arteries near the heart; blood and lymph circulation con
 
 - [Michael Munkasey - Sun/Saturn Concepts](../derived/munkasey-sun-saturn-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Sun/Saturn = Admetos](../activations/sun-saturn-equals-admetos.md)
@@ -231,7 +246,13 @@ Mineral deposits in the arteries near the heart; blood and lymph circulation con
 - [Sun/Saturn = Vulcanus](../activations/sun-saturn-equals-vulcanus.md)
 - [Sun/Saturn = Zeus](../activations/sun-saturn-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Saturn` is the axis of disciplined identity, endurance, seriousness, and the effort to build lasting form through restraint and responsibility. It combines vitality and purpose with duty, realism, limits, patience, and the burden of time.

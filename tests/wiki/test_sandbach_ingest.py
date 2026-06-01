@@ -11,6 +11,7 @@ CARTER_SLUG = "charles-carter-the-astrological-aspects"
 HAND_SLUG = "robert-hand-horoscope-symbols"
 MCBROOM_SLUG = "don-mcbroom-midpoints"
 MUNKASEY_SLUG = "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+UDO_RUDOLPH_SLUG = "udo-rudolph-abc-fur-planetenbilder"
 
 
 def test_sandbach_source_page_exists():
@@ -23,8 +24,8 @@ def test_sandbach_source_page_exists():
     assert "Canonical axis pages updated or created: `91`." in page.body
     assert "Canonical activation pages updated or created: `1092`." in page.body
     assert "Canonical triad hubs updated or created: `364`." in page.body
-    assert "The extractable PDF text is missing `8` activator labels" in page.body
-    assert "Those gaps are preserved as structural placeholder activation pages" in page.body
+    assert "The visible source pages omit `7` expected activator entries" in page.body
+    assert "Those source-omission slots are preserved as structural activation pages" in page.body
 
 
 def test_chiron_factor_page_exists_as_structural_stub():
@@ -44,6 +45,7 @@ def test_sun_moon_axis_includes_sandbach_entry():
     assert page.meta["framework_scope"] == "comparative"
     assert page.meta["source_pages"] == [
         WITTE_SLUG,
+        UDO_RUDOLPH_SLUG,
         EBERTIN_SLUG,
         FALIS_SLUG,
         CARTER_SLUG,
@@ -74,7 +76,7 @@ def test_existing_activation_page_gains_sandbach_entry():
     page = load_page(Path("wiki/activations/sun-moon-equals-venus.md"))
 
     assert page.meta["framework_scope"] == "comparative"
-    assert page.meta["source_pages"] == [WITTE_SLUG, EBERTIN_SLUG, SANDBACH_SLUG]
+    assert page.meta["source_pages"] == [WITTE_SLUG, UDO_RUDOLPH_SLUG, EBERTIN_SLUG, SANDBACH_SLUG, MUNKASEY_SLUG]
     assert "### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints" in page.body
     assert "To feel a full and complete love when one loves." in page.body
 
@@ -96,14 +98,14 @@ def test_missing_sandbach_activation_creates_structural_placeholder_page():
     page = load_page(activation_path)
     assert page.meta["framework_scope"] == "modern_astrology"
     assert page.meta["source_pages"] == [SANDBACH_SLUG]
-    assert "No extractable activation entry text is available in the current PDF text for this expected Sandbach orientation." in page.body
-    assert "this structural placeholder preserves the canonical orientation slot without inventing doctrine." in page.body
+    assert "Sandbach's visible source page omits a text-bearing `Chiron` activator entry" in page.body
+    assert "this page is parked as Sandbach-only" in page.body
 
 
 def test_existing_witte_activation_can_absorb_sandbach_extraction_gap_note():
     page = load_page(Path("wiki/activations/moon-asc-equals-mercury.md"))
 
     assert page.meta["framework_scope"] == "comparative"
-    assert page.meta["source_pages"] == [WITTE_SLUG, SANDBACH_SLUG]
+    assert page.meta["source_pages"] == [WITTE_SLUG, UDO_RUDOLPH_SLUG, SANDBACH_SLUG, MUNKASEY_SLUG]
     assert "### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints" in page.body
-    assert "No extractable activation entry text is available in the current PDF text for this expected Sandbach orientation." in page.body
+    assert "Sandbach's visible source page omits a text-bearing entry for this activator" in page.body

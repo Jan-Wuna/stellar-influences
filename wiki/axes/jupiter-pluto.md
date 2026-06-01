@@ -64,7 +64,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -76,6 +76,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `JUPITER/PLUTO`
+- Source page: `267`
 
 #### Pair Summary
 
@@ -133,6 +136,9 @@ The drive to improve. The drive to grow in one's personal life, hence the drive 
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `JUPITER/PLUTO`
+- Source page: `267`
+
 #### Basic Ideas
 
 These themes symbolize developing understanding about and involvement with extremes (of anything), such as the correction of unbearable conditions, the cleansing of impurities, or the use of force. Your beliefs in using sex as a form of service, or using people in ways that degrade their self-image or force them to be viewed as objects instead of humans, may also begin here. These planets impel you to reach for great public renown, and also to use your official powers and connections to attain added personal prestige and recognition. They help increase your reputation for generosity in helping disadvantaged persons (especially those willing to help themselves) or in helping groups work to rehabilitate drug users, the terminally ill, feed the hungry, etc. You may find success by surmounting bad habits acquired in the past, such as obsessions or fetishes which control parts of your life.
@@ -160,6 +166,15 @@ Primary cancer indicator; tends to accumulate fat and poisons in the body; ineff
 
 - [Michael Munkasey - Jupiter/Pluto Concepts](../derived/munkasey-jupiter-pluto-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Jupiter/Pluto = Admetos](../activations/jupiter-pluto-equals-admetos.md)
@@ -184,7 +199,13 @@ Primary cancer indicator; tends to accumulate fat and poisons in the body; ineff
 - [Jupiter/Pluto = Vulcanus](../activations/jupiter-pluto-equals-vulcanus.md)
 - [Jupiter/Pluto = Zeus](../activations/jupiter-pluto-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Jupiter/Pluto` is the axis of magnified power, ambitious growth, large-scale influence, and regenerative success. It combines expansion, faith, law, and opportunity with control, depth, pressure, and the urge to transform systems or masses.

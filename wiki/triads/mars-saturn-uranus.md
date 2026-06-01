@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Mars Saturn Uranus`
 - Astronomicon triad-set: `U W X`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mars/Saturn = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `193`
-- `Mars/Saturn = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `301`
-- `Mars/Saturn = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `205`
-- `Mars/Saturn = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `68`
-- `Mars/Saturn = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `228`
-- `Mars/Uranus = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `194`
-- `Mars/Uranus = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `303`
-- `Mars/Uranus = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `208`
-- `Mars/Uranus = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `71`
-- `Mars/Uranus = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `232`
-- `Saturn/Uranus = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `221`
-- `Saturn/Uranus = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `348`
-- `Saturn/Uranus = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `247`
-- `Saturn/Uranus = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `88`
-- `Saturn/Uranus = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `284`
+- `Mars/Saturn = Uranus`: Michael, page `228`
+- `Mars/Uranus = Saturn`: Michael, page `232`
+- `Saturn/Uranus = Mars`: Michael, page `284`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mars/Saturn = Uranus`: blocked energy that becomes sudden rupture, often around independence, survival pressure, or harsh decisive acts.
-- `Mars/Uranus = Saturn`: explosive action abruptly cut, or freedom-impulse forced through harsh limits, injuries, and hard endings.
-- `Saturn/Uranus = Mars`: blocked but volatile energy, with tension discharged through struggle, abrupt decisions, or hard clashes with resistant conditions.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Jupiter Saturn Uranus`
 - Astronomicon triad-set: `V W X`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Jupiter/Saturn = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `207`
-- `Jupiter/Saturn = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `325`
-- `Jupiter/Saturn = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `226`
-- `Jupiter/Saturn = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `78`
-- `Jupiter/Saturn = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `256`
-- `Jupiter/Uranus = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `208`
-- `Jupiter/Uranus = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `327`
-- `Jupiter/Uranus = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `229`
-- `Jupiter/Uranus = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `80`
-- `Jupiter/Uranus = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `260`
-- `Saturn/Uranus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `221`
-- `Saturn/Uranus = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `348`
-- `Saturn/Uranus = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `247`
-- `Saturn/Uranus = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `88`
-- `Saturn/Uranus = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `284`
+- `Jupiter/Saturn = Uranus`: Michael, page `256`
+- `Jupiter/Uranus = Saturn`: Michael, page `260`
+- `Saturn/Uranus = Jupiter`: Michael, page `284`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Jupiter/Saturn = Uranus`: abrupt decision, rapid development under pressure, and the disruption of slow growth by shocks, separations, or sudden turns.
-- `Jupiter/Uranus = Saturn`: restrained enthusiasm, abrupt inhibition, or a fortunate opening that must pass through caution, separation, or loss before it stabilizes.
-- `Saturn/Uranus = Jupiter`: progress through disciplined innovation, with expansion coming from making change workable rather than merely exciting.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

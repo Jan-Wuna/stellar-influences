@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To be extremely receptive to the ideas of others. To be mentally obsessive about
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MERCURY/PLUTO with Planets and Points`
+- Source page: `172`
+
 #### Munkasey Entry
 
 Mystical insight into where and how to get the information you need; the use of deception and concealing information; an inefficient or messy researcher; the disappearance or falsification of experimental data.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mercury/Pluto = Neptune`: intuitive research, sensitivity to hidden patterns, and speech that works indirectly or below the surface. Main caution: obscured force: insight can slip into paranoia, confusion, or covert manipulation.
@@ -76,6 +93,7 @@ Mystical insight into where and how to get the information you need; the use of 
 - [Pluto](../factors/pluto.md)
 - [Neptune](../factors/neptune.md)
 - [Mercury/Pluto](../axes/mercury-pluto.md)
+- [Mercury Neptune Pluto](../triads/mercury-neptune-pluto.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

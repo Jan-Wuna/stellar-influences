@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To communicate with a delicacy of feeling, and/or much imagination. Thinking and
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MOON/NEPTUNE with Planets and Points`
+- Source page: `128`
+
 #### Munkasey Entry
 
 Articulating dreams received about the future or past themes of living; a study of the occult or magic; ingenuity in being able to express or relate the inner feelings you have about people or things you encounter or experience.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Moon/Neptune = Mercury`: intuitive language, delicate perception, and the ability to speak from image, mood, and subtle human feeling. Main caution: mental and verbal haze: impression and projection can weaken factual clarity or reliable boundaries.
@@ -76,6 +93,7 @@ Articulating dreams received about the future or past themes of living; a study 
 - [Neptune](../factors/neptune.md)
 - [Mercury](../factors/mercury.md)
 - [Moon/Neptune](../axes/moon-neptune.md)
+- [Moon Mercury Neptune](../triads/moon-mercury-neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

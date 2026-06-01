@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `JUPITER/URANUS`
+- Source page: `259`
 
 #### Pair Summary
 
@@ -168,6 +171,9 @@ The urge to break free of restraint, the drive for freedom. The need or desire f
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `JUPITER/URANUS`
+- Source page: `259`
+
 #### Basic Ideas
 
 These themes help increase discontent with legal, religious, and philosophical matters. They represent added internal unhappiness when encountering indifference toward new ideas, or when there is an extension of feelings of detachment about matters of life which were once important. Assertions about the progress of past activities may cause you to seek new prospects or opportunities which will take you thru realms that are unique, different, and surprising. The philosophy of life you build about using scientific or labor saving devices; additional studies you undertake in science, computing, or astrology; your opinions on improving the efficiency of existing political, social, or legal methods; or inclinations to learn the principles of astrology all begin with these motifs. They allow added opportunities to alter your discontent with situations in original or revolutionary ways for you.
@@ -195,6 +201,15 @@ Abnormalities in the body caused by an excess of fat in the blood; upsets to you
 
 - [Michael Munkasey - Jupiter/Uranus Concepts](../derived/munkasey-jupiter-uranus-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Jupiter/Uranus = Admetos](../activations/jupiter-uranus-equals-admetos.md)
@@ -219,7 +234,13 @@ Abnormalities in the body caused by an excess of fat in the blood; upsets to you
 - [Jupiter/Uranus = Vulcanus](../activations/jupiter-uranus-equals-vulcanus.md)
 - [Jupiter/Uranus = Zeus](../activations/jupiter-uranus-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Jupiter/Uranus` is the axis of liberated growth, sudden opportunity, unconventional vision, reform, and fortunate breakthroughs. It joins enthusiasm, meaning, and expansion with freedom, surprise, originality, and the refusal to stay inside stale limits.

@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `JUPITER/NEPTUNE`
+- Source page: `263`
 
 #### Pair Summary
 
@@ -190,6 +193,9 @@ Optimistic dreams and speculations, the tendency to gamble or take other risks. 
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `JUPITER/NEPTUNE`
+- Source page: `263`
+
 #### Basic Ideas
 
 Expansiveness and wholesome joviality combine with confusion and neglect to bring an expansion upon or elaboration of daydreams or visions, a better comprehension of the mystical or unknowable side of life, and a belief that goals and obligations can be explained away as you tire of meeting them. These themes help bring success in understanding miracles or events which have no explanation in physical reality, an aspiration for a study and understanding of the occult, and complications in affairs you had hoped to publicize. They mirror thoughts on what an ideal combination of circumstances and situations may bring, visions of how to effect totally different directions to life, generosity with the attention disadvantaged people receive, and studies concerning drugs, alcohol, or rehabilitation. These motifs also concern how dreams influence society, or worn out or inefficient forms of publicity.
@@ -217,6 +223,15 @@ Fatty deposits in body caused by stress or weakness; not enough exercise or body
 
 - [Michael Munkasey - Jupiter/Neptune Concepts](../derived/munkasey-jupiter-neptune-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Jupiter/Neptune = Admetos](../activations/jupiter-neptune-equals-admetos.md)
@@ -241,7 +256,13 @@ Fatty deposits in body caused by stress or weakness; not enough exercise or body
 - [Jupiter/Neptune = Vulcanus](../activations/jupiter-neptune-equals-vulcanus.md)
 - [Jupiter/Neptune = Zeus](../activations/jupiter-neptune-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Jupiter/Neptune` is the axis of idealism, compassion, expansive imagination, spiritual or artistic longing, and hope that reaches beyond ordinary limits. It combines generosity, faith, and possibility with sensitivity, fantasy, mysticism, and the urge to redeem or uplift.

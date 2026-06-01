@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Venus Jupiter Neptune`
 - Astronomicon triad-set: `Q V Y`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Jupiter/Neptune = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `209`
-- `Jupiter/Neptune = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `328`
-- `Jupiter/Neptune = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `232`
-- `Jupiter/Neptune = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `81`
-- `Jupiter/Neptune = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `264`
-- `Venus/Jupiter = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `177`
-- `Venus/Jupiter = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `273`
-- `Venus/Jupiter = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `179`
-- `Venus/Jupiter = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `56`
-- `Venus/Jupiter = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `192`
-- `Venus/Neptune = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `180`
-- `Venus/Neptune = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `278`
-- `Venus/Neptune = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `188`
-- `Venus/Neptune = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `61`
-- `Venus/Neptune = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `204`
+- `Jupiter/Neptune = Venus`: Michael, page `264`
+- `Venus/Jupiter = Neptune`: Michael, page `192`
+- `Venus/Neptune = Jupiter`: Michael, page `204`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Jupiter/Neptune = Venus`: romantic imagination, artistic rapture, and pleasure in idealized feeling, poetry, or relationships that stimulate shared dreams.
-- `Venus/Jupiter = Neptune`: romantic abundance, with love, beauty, and pleasure softened into dream, spiritualized affection, and extravagant idealism.
-- `Venus/Neptune = Jupiter`: benefic enchantment, with love, art, and values expanded through faith, tenderness, and the wish to redeem life through goodness or beauty.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

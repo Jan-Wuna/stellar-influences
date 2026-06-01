@@ -32,11 +32,28 @@ updated_at: 2026-05-06
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `NODE/MIDHEAVEN With Itself`
+- Source page: `362`
+
 #### Munkasey Entry
 
 Rewards and personal satisfactions received from friendships; recognition received because you pursued opportunities opened by friends; personal interests or talents which allow you to develop innate abilities in life.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Node/MC = MC`: Rewards and personal satisfactions received from friendships; recognition received because one pursued opportunities opened by friends; personal interests or talents which allow one to develop innate abilities in life.

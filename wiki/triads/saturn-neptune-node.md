@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Neptune Node`
 - Astronomicon triad-set: `W Y g`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Neptune/Node = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `147`
-- `Neptune/Node = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `221`
-- `Neptune/Node = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `284`
-- `Neptune/Node = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `111`
-- `Neptune/Node = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `332`
-- `Saturn/Neptune = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `222`
-- `Saturn/Neptune = Node`: Udo Rudolph - ABC for Planetary Pictures, page `350`
-- `Saturn/Neptune = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `250`
-- `Saturn/Neptune = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `90`
-- `Saturn/Neptune = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `288`
-- `Saturn/Node = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `145`
-- `Saturn/Node = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `217`
-- `Saturn/Node = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `257`
-- `Saturn/Node = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `92`
-- `Saturn/Node = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `296`
+- `Neptune/Node = Saturn`: Michael, page `332`
+- `Saturn/Neptune = Node`: Michael, page `288`
+- `Saturn/Node = Neptune`: Michael, page `296`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Neptune/Node = Saturn`: burdened connection, with relationships shaped by uncertainty, disappointment, caution, and the effort to hold fragile or unclear bonds together under pressure.
-- `Saturn/Neptune = Node`: difficult association, sacrificial or draining relationships, and bonds formed through burden, duty, pity, or uncertain obligation.
-- `Saturn/Node = Neptune`: burdened association, with ties shaped by confusion, pity, uncertainty, or responsibilities that are hard to define clearly.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

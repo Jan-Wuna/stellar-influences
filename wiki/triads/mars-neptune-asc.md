@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Mars Neptune Asc`
 - Astronomicon triad-set: `U Y Asc`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mars/Asc = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `85`
-- `Mars/Asc = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `111`
-- `Mars/Asc = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `220`
-- `Mars/Asc = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `75`
-- `Mars/Asc = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `248`
-- `Mars/Neptune = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `195`
-- `Mars/Neptune = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `304`
-- `Mars/Neptune = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `212`
-- `Mars/Neptune = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `72`
-- `Mars/Neptune = Asc`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `236`
-- `Neptune/Asc = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `89`
-- `Neptune/Asc = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `118`
-- `Neptune/Asc = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `287`
-- `Neptune/Asc = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `112`
-- `Neptune/Asc = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `336`
+- `Mars/Asc = Neptune`: Michael, page `248`
+- `Mars/Neptune = Asc`: Michael, page `236`
+- `Neptune/Asc = Mars`: Michael, page `336`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mars/Asc = Neptune`: weakened or confused self-assertion, hidden conflict, and difficulty maintaining position when action is undermined by uncertainty, deception, or lack of energy.
-- `Mars/Neptune = Asc`: a weak, porous, or chaotically assertive manner that can appear subtly aggressive while lacking stable force or clear boundaries.
-- `Neptune/Asc = Mars`: sensitive action under pressure, with porous boundaries meeting irritability, conflict, or covert struggle in the way the person asserts and presents themselves.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

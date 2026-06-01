@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Moon Venus Neptune`
 - Astronomicon triad-set: `R Q Y`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Moon/Neptune = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `128`
-- `Moon/Neptune = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `188`
-- `Moon/Neptune = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `132`
-- `Moon/Neptune = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `34`
-- `Moon/Neptune = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `128`
-- `Moon/Venus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `123`
-- `Moon/Venus = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `179`
-- `Moon/Venus = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `117`
-- `Moon/Venus = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `27`
-- `Moon/Venus = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `108`
-- `Venus/Neptune = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `180`
-- `Venus/Neptune = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `278`
-- `Venus/Neptune = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `188`
-- `Venus/Neptune = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `61`
-- `Venus/Neptune = Moon`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `204`
+- `Moon/Neptune = Venus`: Michael, page `128`
+- `Moon/Venus = Neptune`: Michael, page `108`
+- `Venus/Neptune = Moon`: Michael, page `204`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Moon/Neptune = Venus`: tender enchantment, with feeling shaped by ideal love, aesthetic longing, and the wish to nurture through delicacy and emotional grace.
-- `Moon/Venus = Neptune`: channels the tender, receptive love of the Moon/Venus axis through Neptune, turning affection into romantic longing, idealized tenderness, and soulful sensitivity. It points to emotional harmony experienced as dream, devotion, or the wish to be dissolved into beauty and care.
-- `Venus/Neptune = Moon`: emotional enchantment, with affection and receptivity shaped by tenderness, fantasy, and subtle atmospheric sensitivity.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

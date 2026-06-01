@@ -20,7 +20,7 @@ factors:
   - MC
 aliases: []
 source_pages: []
-updated_at: 2026-04-22
+updated_at: 2026-05-06
 ---
 
 ## Bibliographic Metadata
@@ -32,8 +32,10 @@ updated_at: 2026-04-22
 ## Scope Notes
 
 - This preservation slice merges the source's page-1 axis prose into canonical axis pages.
+- The source's factor keyword chapters are merged into the canonical factor pages.
+- The page-2 activation entries are merged into canonical activation pages.
 - The page-3 `CONCEPTS` corpus is preserved in `wiki/derived/`.
-- The page-2 activations and page-4 `With Itself` activations are intentionally deferred in this slice.
+- The page-4 `With Itself` activations are merged into canonical activation pages.
 - The page-4 MWA example tables were intentionally omitted.
 
 ## Factors Covered
@@ -52,6 +54,8 @@ updated_at: 2026-04-22
 - [Asc](../factors/asc.md)
 - [MC](../factors/mc.md)
 
+- Canonical factor pages updated or created: `13`.
+
 ## Axes Covered
 
 - Canonical axis pages updated or created: `78`.
@@ -64,8 +68,15 @@ updated_at: 2026-04-22
 
 ## Activations Covered
 
-- None. This preservation slice intentionally stops at page-1 axis prose and page-3 concepts.
+- Canonical activation pages updated or created: `1014`.
+- Distinct-factor activation pages from page-2 `with Planets and Points`: `858`.
+- Repeated-pair activation pages from page-4 `With Itself`: `156`.
+
+## Triad Hubs Covered
+
+- Canonical triad hubs updated or created: `286`.
 
 ## Ingestion History
 
 - 2026-04-22: Ingested Munkasey's page-1 axis prose into canonical axis pages, preserved the page-3 `CONCEPTS` corpus as source-grounded companion pages, and intentionally omitted the page-4 MWA example tables.
+- 2026-05-06: Expanded the Munkasey ingest to merge factor keyword chapters, page-2 activation entries, and page-4 `With Itself` activations into the canonical factor and activation layers while still omitting the page-4 MWA example tables.

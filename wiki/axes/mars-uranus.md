@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MARS/URANUS`
+- Source page: `231`
 
 #### Pair Summary
 
@@ -180,6 +183,9 @@ Rebellion, non-conformity, difficulties with authority, the drive for absolute i
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MARS/URANUS`
+- Source page: `231`
+
 #### Basic Ideas
 
 Energy and activity meet rebelliousness and independence, creating unpredictable or unusual activity. These themes stimulate and agitate, but do not allow tranquility or stability until some basic change has been effected. People who are impersonal competitors, who initiate changes in activities which trouble them, or who push for renovation or reform, all have this motif activated. When matters which irritate lie unchallenged, when interference starts noisy arguments, or when anger arises rapidly or suddenly, then these themes have been used. If others label a person as having a ‘short fuse’, then a Mars and/or Uranus are activated. This blend suggests how to employ your energies quickly, or how to gain a grasp of the competitive nature of life’s activities. Hostility against surprises, energy to push for basic research, or struggles against opposition to progress, are also denoted here.
@@ -207,6 +213,15 @@ Muscle spasms; rapidly fluctuating energy levels; deafness from exposure to nois
 
 - [Michael Munkasey - Mars/Uranus Concepts](../derived/munkasey-mars-uranus-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Mars/Uranus = Admetos](../activations/mars-uranus-equals-admetos.md)
@@ -231,7 +246,13 @@ Muscle spasms; rapidly fluctuating energy levels; deafness from exposure to nois
 - [Mars/Uranus = Vulcanus](../activations/mars-uranus-equals-vulcanus.md)
 - [Mars/Uranus = Zeus](../activations/mars-uranus-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mars/Uranus` is the axis of explosive initiative, rebellion, sudden force, decisive rupture, and action that insists on freedom. It combines courage, aggression, and kinetic drive with unpredictability, independence, nervous tension, and the urge to break from restraint.

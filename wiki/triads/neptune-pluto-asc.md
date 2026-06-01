@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Neptune Pluto Asc`
 - Astronomicon triad-set: `Y Z Asc`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Neptune/Asc = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `89`
-- `Neptune/Asc = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `119`
-- `Neptune/Asc = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `288`
-- `Neptune/Asc = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `112`
-- `Neptune/Asc = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `336`
-- `Neptune/Pluto = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `246`
-- `Neptune/Pluto = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `390`
-- `Neptune/Pluto = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `282`
-- `Neptune/Pluto = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `110`
-- `Neptune/Pluto = Asc`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `328`
-- `Pluto/Asc = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `90`
-- `Pluto/Asc = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `121`
-- `Pluto/Asc = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `295`
-- `Pluto/Asc = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `116`
-- `Pluto/Asc = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `348`
+- `Neptune/Asc = Pluto`: Michael, page `336`
+- `Neptune/Pluto = Asc`: Michael, page `328`
+- `Pluto/Asc = Neptune`: Michael, page `348`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Neptune/Asc = Pluto`: a magnetic but elusive presence, with identity shaped by undercurrents, fascination, vulnerability to influence, and the power of what is felt but not clearly seen.
-- `Neptune/Pluto = Asc`: a mysterious, transformative presence, with identity shaped by hidden pressures, psychic sensitivity, and deep changes that are sensed before they can be explained.
-- `Pluto/Asc = Neptune`: a mysterious, psychologically charged presence, with identity shaped by invisible pressures, projection, and deep but hard-to-define transformation.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

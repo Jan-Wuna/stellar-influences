@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Mars Neptune Pluto`
 - Astronomicon triad-set: `U Y Z`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mars/Neptune = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `195`
-- `Mars/Neptune = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `305`
-- `Mars/Neptune = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `211`
-- `Mars/Neptune = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `72`
-- `Mars/Neptune = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `236`
-- `Mars/Pluto = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `196`
-- `Mars/Pluto = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `307`
-- `Mars/Pluto = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `214`
-- `Mars/Pluto = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `73`
-- `Mars/Pluto = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `240`
-- `Neptune/Pluto = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `246`
-- `Neptune/Pluto = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `390`
-- `Neptune/Pluto = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `281`
-- `Neptune/Pluto = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `110`
-- `Neptune/Pluto = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `328`
+- `Mars/Neptune = Pluto`: Michael, page `236`
+- `Mars/Pluto = Neptune`: Michael, page `240`
+- `Neptune/Pluto = Mars`: Michael, page `328`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mars/Neptune = Pluto`: secretive or chaotic force that can wreak havoc, drive radical idealistic action, or push destructive impulses toward deep transformation.
-- `Mars/Pluto = Neptune`: intense force acting behind the scenes, where plans may be concealed, destructive, or driven by ideals that justify ruthless means.
-- `Neptune/Pluto = Mars`: hidden pressure in action, with subtle crises, buried drives, and dissolving or purifying forces pushed toward immediate expression.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Uranus Pluto Asc`
 - Astronomicon triad-set: `X Z Asc`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Pluto/Asc = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `90`
-- `Pluto/Asc = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `121`
-- `Pluto/Asc = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `295`
-- `Pluto/Asc = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `116`
-- `Pluto/Asc = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `348`
-- `Uranus/Asc = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `88`
-- `Uranus/Asc = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `117`
-- `Uranus/Asc = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `276`
-- `Uranus/Asc = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `107`
-- `Uranus/Asc = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `320`
-- `Uranus/Pluto = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `235`
-- `Uranus/Pluto = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `372`
-- `Uranus/Pluto = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `270`
-- `Uranus/Pluto = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `105`
-- `Uranus/Pluto = Asc`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `312`
+- `Pluto/Asc = Uranus`: Michael, page `348`
+- `Uranus/Asc = Pluto`: Michael, page `320`
+- `Uranus/Pluto = Asc`: Michael, page `312`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Pluto/Asc = Uranus`: a volatile but transformative presence, with identity shaped by breakthrough, rebellion, and abrupt shifts in personal environment or behavior.
-- `Uranus/Asc = Pluto`: a powerful, provocative self-projection, with identity expressed through radical difference and pressure for transformation.
-- `Uranus/Pluto = Asc`: a disruptive, uncategorizable presence, with identity shaped by radical change, pressure, and the power to unsettle stagnant conditions simply by appearing in them.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Mars Saturn Neptune`
 - Astronomicon triad-set: `U W Y`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mars/Neptune = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `195`
-- `Mars/Neptune = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `305`
-- `Mars/Neptune = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `211`
-- `Mars/Neptune = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `72`
-- `Mars/Neptune = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `236`
-- `Mars/Saturn = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `193`
-- `Mars/Saturn = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `301`
-- `Mars/Saturn = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `205`
-- `Mars/Saturn = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `68`
-- `Mars/Saturn = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `228`
-- `Saturn/Neptune = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `222`
-- `Saturn/Neptune = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `350`
-- `Saturn/Neptune = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `250`
-- `Saturn/Neptune = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `90`
-- `Saturn/Neptune = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `288`
+- `Mars/Neptune = Saturn`: Michael, page `236`
+- `Mars/Saturn = Neptune`: Michael, page `228`
+- `Saturn/Neptune = Mars`: Michael, page `288`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mars/Neptune = Saturn`: a long struggle with misdirected or drained energy, where action is held back by inferiority, illness, uncertainty, or subtle discouragement.
-- `Mars/Saturn = Neptune`: pent-up hostility or frustration that quietly saps vitality, making resistance harder to meet and action harder to sustain.
-- `Saturn/Neptune = Mars`: frustrated action, exhausting struggle, and the need to work through obscurity, discouragement, or hidden loss.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

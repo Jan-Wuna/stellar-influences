@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To communicate in a smooth, easy-going fashion. To speak artfully and per suasiv
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `VENUS/ASCENDANT with Planets and Points`
+- Source page: `216`
+
 #### Munkasey Entry
 
 Noticing what others wear and how they present themselves to the public; a good fashion and style critic; enhances needs to learn more about manners, charm, and how to use beauty to attract or please others.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Venus/Asc = Mercury`: social intelligence, diplomatic speech, and self-presentation that wins people through tone, language, and responsiveness. Main caution: polished evasiveness: pleasing talk can substitute for clarity or firmer boundaries.
@@ -76,6 +93,7 @@ Noticing what others wear and how they present themselves to the public; a good 
 - [Asc](../factors/asc.md)
 - [Mercury](../factors/mercury.md)
 - [Venus/Asc](../axes/venus-asc.md)
+- [Mercury Venus Asc](../triads/mercury-venus-asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

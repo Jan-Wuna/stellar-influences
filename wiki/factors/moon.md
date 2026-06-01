@@ -14,7 +14,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -87,6 +87,9 @@ govern a larger portion of our activity than rational thought does, and they are
 To conclude this description of the Moon's symbolism, there is an important point to be made. We have already said that astrologers have seemed not to understand the Moon as well as the Sun, and not to accord it quite the same importance. This is due to something within our culture that has manifested as sexism, but which is in reality much deeper. Our culture has lost touch with the power of yin. We strive to go out into the world, to grab it by the throat, and thus to master it. We do not understand the way of waiting and of learning to fit in to become a part of the whole. The only role we completely respect is that of masteiy: of the universe, of nature, of circumstances, or of ourselves. The Moon represents the energy of an alternative path, that of becoming a part of, of belonging, of creative submission to that which we will gain nothing by mastering. It is not enough that the female sex gain political equality with the male if the yin principle does not also gain equality with the yang. Man as well as woman is yin, and both are yang. As long as we act as if the yin is not an equal principle, we face life as half-beings, incomplete and out of touch with nature. Through the study of astrological symbols it is possible to gain some appreciation of what being whole means.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `MOON`
+- Source page: `43`
 
 #### Basic Ideas
 
@@ -178,7 +181,21 @@ To conclude this description of the Moon's symbolism, there is an important poin
 - Women, In General
 - Women, Attitude To
 
+## Comparative Schema
+
+- core meaning: source-native factor entries are preserved side by side above.
+- psychology: source-specific psychological and doctrinal emphases remain attached to their own source blocks instead of being flattened.
+- body/health: bodily wording remains inside each contributing source block when present.
+- social/relationship: interpersonal implications remain attached to each source's own phrasing.
+- events/manifestations: source-specific extensions remain attached to the source entry that states them.
+- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
+
+## Contradictions and Framework Notes
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Moon` is the factor of feeling, emotional nature, receptivity, memory, motherhood, the people, and the moving fluids through which life is received and made bodily or emotionally real.
@@ -211,6 +228,10 @@ To conclude this description of the Moon's symbolism, there is an important poin
 - [Sun/Moon](../axes/sun-moon.md)
 - [Vernal Point/Moon](../axes/vernal-point-moon.md)
 
+## Related Activations
+
+- None recorded yet.
+
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
@@ -218,3 +239,7 @@ To conclude this description of the Moon's symbolism, there is an important poin
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+
+## Open Questions
+
+- None recorded yet.

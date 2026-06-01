@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ Perceiving many layers to one’s identity give one a sense of creativity. One i
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `NEPTUNE/ASCENDANT with Planets and Points`
+- Source page: `336`
+
 #### Munkasey Entry
 
 Sudden impressions about the feelings or motives of others; unpredictable inspirations when relating your dreams and visions; perception of future upheavals or changes; a need to use the occult; interested in seeing trends.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Neptune/Asc = Uranus`: psychic alertness, imaginative originality, and the ability to pick up subtle change quickly. Main caution: unstable permeability: self-presentation can become erratic, alienated, or too overstimulated to hold clear boundaries.
@@ -76,6 +93,7 @@ Sudden impressions about the feelings or motives of others; unpredictable inspir
 - [Asc](../factors/asc.md)
 - [Uranus](../factors/uranus.md)
 - [Neptune/Asc](../axes/neptune-asc.md)
+- [Uranus Neptune Asc](../triads/uranus-neptune-asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

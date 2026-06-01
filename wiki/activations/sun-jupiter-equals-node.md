@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ Connecting with people who can help you attain success in life. The need to lear
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/JUPITER with Planets and Points`
+- Source page: `72`
+
 #### Munkasey Entry
 
 Meeting and influencing other people who can be central to assisting with your successes in life; more political awareness in the pursuing your efforts; encountering others who provide the talent and resources you need now.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Jupiter = Node`: successful teamwork, broad social reach, and growth through collective participation or public favor. Main caution: dependence on approval: alliances can become superficial, opportunistic, or overly tied to status.
@@ -76,6 +93,7 @@ Meeting and influencing other people who can be central to assisting with your s
 - [Jupiter](../factors/jupiter.md)
 - [Node](../factors/node.md)
 - [Sun/Jupiter](../axes/sun-jupiter.md)
+- [Sun Jupiter Node](../triads/sun-jupiter-node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

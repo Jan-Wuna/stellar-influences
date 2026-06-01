@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ One’s assertiveness has much staying power. One will not give up until one ac 
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `JUPITER/SATURN with Planets and Points`
+- Source page: `256`
+
 #### Munkasey Entry
 
 Emphasizes the efforts you go thru to effect positive changes in your social life thru sports or competitive activities; introduces duress as a means for forcing social change; added irritation over delays for new beginnings.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Jupiter/Saturn = Mars`: staying power, delayed results, and readiness to work through resistance rather than quit. Main caution: frustration in action: the drive to accomplish can alternate with discontent, impatience, or sudden breaks when progress feels too slow.
@@ -76,6 +93,7 @@ Emphasizes the efforts you go thru to effect positive changes in your social lif
 - [Saturn](../factors/saturn.md)
 - [Mars](../factors/mars.md)
 - [Jupiter/Saturn](../axes/jupiter-saturn.md)
+- [Mars Jupiter Saturn](../triads/mars-jupiter-saturn.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

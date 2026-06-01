@@ -63,7 +63,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -75,6 +75,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MERCURY/ASCENDANT`
+- Source page: `179`
 
 #### Pair Summary
 
@@ -128,6 +131,9 @@ personality to others, and also the ability to listen to others. To speak. The r
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MERCURY/ASCENDANT`
+- Source page: `179`
+
 #### Basic Ideas
 
 An increased awareness of the world around you, the people in it, and how these people react to you and you to them is central to these themes. You may spend much time noticing the reactions of others, or focusing on the roles that others play in your life or in the lives of others. Thru this motif you receive impressions about people and how they respond to life’s situations, and notice what their postures, pretenses, and reactions are to you, others, or the world in general. These themes bring a restlessness to your concentration, and you may additionally develop the means to mentally follow several thoughts at once. They may symbolize a loss of concentration, or becoming restless or bored with the stimulation you receive from others. You prefer a changing environment. You become very informed about others and what they need or want from other people in life.
@@ -155,6 +161,15 @@ The effect of your mental attitude on your health; intestinal gas from the stres
 
 - [Michael Munkasey - Mercury/Asc Concepts](../derived/munkasey-mercury-asc-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Mercury/Asc = Admetos](../activations/mercury-asc-equals-admetos.md)
@@ -179,7 +194,13 @@ The effect of your mental attitude on your health; intestinal gas from the stres
 - [Mercury/Asc = Vulcanus](../activations/mercury-asc-equals-vulcanus.md)
 - [Mercury/Asc = Zeus](../activations/mercury-asc-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mercury/Asc` is the axis of communicative presence, social perception, and identity formed through exchange with the immediate environment. It combines thought, language, observation, and adaptability with personality, approach, and responsiveness to other people.

@@ -63,7 +63,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -75,6 +75,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `SUN/MIDHEAVEN`
+- Source page: `99`
 
 #### Pair Summary
 
@@ -126,6 +129,9 @@ A part of the ego complex. One's drive to find a unique course for one's life, a
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/MIDHEAVEN`
+- Source page: `99`
+
 #### Basic Ideas
 
 This combination represents your responsibility to both self and society to grow and mature as an individual and to realize that your contributions to life are only one person’s contribution to civilization. These themes help you become motivated about your personal abilities, your potential to society, and the world at large. They indicate a potential for becoming a more effective manager of your personality, your time, and the natural resources inherent within your overall character. They encourage you to apply your native and natural talents to life and expand on basic social skills thru learning lessons taught from schooling, practical experience, and personal efforts toward self-improvement. Other people will recognize your contributions and give you the honors and recognition you deserve, and in the amount you have earned, when you activate and use these themes.
@@ -153,6 +159,15 @@ Psychologically coping with life’s problems; social growth and maturity; becom
 
 - [Michael Munkasey - Sun/MC Concepts](../derived/munkasey-sun-mc-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Sun/MC = Admetos](../activations/sun-mc-equals-admetos.md)
@@ -177,7 +192,13 @@ Psychologically coping with life’s problems; social growth and maturity; becom
 - [Sun/MC = Vulcanus](../activations/sun-mc-equals-vulcanus.md)
 - [Sun/MC = Zeus](../activations/sun-mc-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/MC` is the axis of purpose, self-direction, and the shaping of life around conscious identity and achievement. It combines vitality, ego, will, and central purpose with vocation, status, direction, and the public expression of the self.

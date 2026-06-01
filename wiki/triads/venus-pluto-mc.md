@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Venus Pluto MC`
 - Astronomicon triad-set: `Q Z MC`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Pluto/MC = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `69`
-- `Pluto/MC = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `82`
-- `Pluto/MC = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `298`
-- `Pluto/MC = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `117`
-- `Pluto/MC = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `352`
-- `Venus/MC = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `63`
-- `Venus/MC = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `71`
-- `Venus/MC = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `199`
-- `Venus/MC = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `66`
-- `Venus/MC = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `220`
-- `Venus/Pluto = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `181`
-- `Venus/Pluto = MC`: Udo Rudolph - ABC for Planetary Pictures, page `280`
-- `Venus/Pluto = MC`: Reinhold Ebertin - The Combination of Stellar Influences, page `191`
-- `Venus/Pluto = MC`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `62`
-- `Venus/Pluto = MC`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `208`
+- `Pluto/MC = Venus`: Michael, page `352`
+- `Venus/MC = Pluto`: Michael, page `220`
+- `Venus/Pluto = MC`: Michael, page `208`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Pluto/MC = Venus`: an ambitious but magnetic public path, with vocation shaped by relationship power, emotional intensity, and the ability to influence through charm, beauty, or desire.
-- `Venus/MC = Pluto`: powerful social or artistic influence, with reputation shaped by intensity, desire, and transformative encounters in the outer life.
-- `Venus/Pluto = MC`: compelling attraction, transformative love, and deep value intensity made socially consequential, influential, and hard to ignore.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

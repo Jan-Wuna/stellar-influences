@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Venus Neptune Node`
 - Astronomicon triad-set: `Q Y g`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Neptune/Node = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `147`
-- `Neptune/Node = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `220`
-- `Neptune/Node = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `284`
-- `Neptune/Node = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `111`
-- `Neptune/Node = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `332`
-- `Venus/Neptune = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `180`
-- `Venus/Neptune = Node`: Udo Rudolph - ABC for Planetary Pictures, page `278`
-- `Venus/Neptune = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `189`
-- `Venus/Neptune = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `61`
-- `Venus/Neptune = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `204`
-- `Venus/Node = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `142`
-- `Venus/Node = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `211`
-- `Venus/Node = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `193`
-- `Venus/Node = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `63`
-- `Venus/Node = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `212`
+- `Neptune/Node = Venus`: Michael, page `332`
+- `Venus/Neptune = Node`: Michael, page `204`
+- `Venus/Node = Neptune`: Michael, page `212`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Neptune/Node = Venus`: tender, idealized connection, with bonds shaped by sympathy, romance, artistic feeling, and the wish to experience gentle harmony or soul-level sweetness with others.
-- `Venus/Neptune = Node`: idealized connection, with bonds formed around compassion, romance, beauty, or a longing for soulful companionship.
-- `Venus/Node = Neptune`: romanticized alliance, with social and relational life shaped by longing, empathy, glamour, or the wish for transcendent harmony.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

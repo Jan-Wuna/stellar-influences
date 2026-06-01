@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MOON/URANUS`
+- Source page: `123`
 
 #### Pair Summary
 
@@ -170,6 +173,9 @@ Emotional need for freedom. Need for unusual emotional experiences. Sudden actio
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MOON/URANUS`
+- Source page: `123`
+
 #### Basic Ideas
 
 The melding of these two patterns helps to nurture an inner rebelliousness against maternal or traditional family roles. It can denote emotional detachment and an erratic restlessness. These motifs will both agitate your emotions and your sensitive or nurturing side, yet they also bring insight and perception with an intuitive flair. These planets can represent an innovative wizard without emotional stability, but who has an inventive faculty which comes from working with uncommon ideas or materials. Here is the person whose innovative insights are so far removed from the center of mankind that the person may be truly labeled ‘an eccentric genius’. There is an impersonal sensitivity to tradition, as well as personal insights or uncertainties which breed nonconformity. Shown here is an unusual person whose insights into family needs can change the concept of life or living.
@@ -197,6 +203,15 @@ Stomach spasms; extremes of eyesight (good or bad); changes in the body’s acid
 
 - [Michael Munkasey - Moon/Uranus Concepts](../derived/munkasey-moon-uranus-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Moon/Uranus = Admetos](../activations/moon-uranus-equals-admetos.md)
@@ -221,7 +236,13 @@ Stomach spasms; extremes of eyesight (good or bad); changes in the body’s acid
 - [Moon/Uranus = Vulcanus](../activations/moon-uranus-equals-vulcanus.md)
 - [Moon/Uranus = Zeus](../activations/moon-uranus-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Moon/Uranus` is the axis of emotional freedom, restlessness, unconventional nurture, and sudden changes in habit or attachment. It combines feeling, memory, and domestic pattern with independence, surprise, tension, intuition, and the urge to break from emotional confinement.

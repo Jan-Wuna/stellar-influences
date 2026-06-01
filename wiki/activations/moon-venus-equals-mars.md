@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To assert oneself in a nurturing and soft manner. Agitation caused by feeling vu
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MOON/VENUS with Planets and Points`
+- Source page: `108`
+
 #### Munkasey Entry
 
 A touch of impatience and abruptness to the quality of care you show to others; wanting to nurture, but also wanting to rush into other things; heightened sexual enjoyment with those for whom you sincerely care.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Moon/Venus = Mars` channels the tender, receptive love of the Moon/Venus axis through Mars, turning affection into desire, pursuit, and active protectiveness. It points to emotional warmth that wants to act, defend, and seek closeness in immediate, embodied ways.
@@ -77,6 +94,7 @@ A touch of impatience and abruptness to the quality of care you show to others; 
 - [Venus](../factors/venus.md)
 - [Mars](../factors/mars.md)
 - [Moon/Venus](../axes/moon-venus.md)
+- [Moon Venus Mars](../triads/moon-venus-mars.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To over-react to something that is imagined rather than real. To have an exu ber
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `JUPITER/URANUS with Planets and Points`
+- Source page: `260`
+
 #### Munkasey Entry
 
 Delusion about your ability to improve life thru constant modernization; an avoidance of reality in the pursuit of your dreams; helps with the visualization of new products which you feel will make the world a better place.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Jupiter/Uranus = Neptune`: unusual spiritual or imaginal opportunity, inheritance or gain after release, and exuberant faith in possibilities beyond the obvious. Main caution: false perception: hope can outrun realism and lead to confusion, disappointment, or chasing what is not actually there.
@@ -76,6 +93,7 @@ Delusion about your ability to improve life thru constant modernization; an avoi
 - [Uranus](../factors/uranus.md)
 - [Neptune](../factors/neptune.md)
 - [Jupiter/Uranus](../axes/jupiter-uranus.md)
+- [Jupiter Uranus Neptune](../triads/jupiter-uranus-neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

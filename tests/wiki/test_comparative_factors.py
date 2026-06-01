@@ -25,8 +25,10 @@ def test_shared_factor_pages_reference_both_sources():
         page = load_page(Path("wiki/factors") / f"{slug}.md")
         assert page.meta["source_pages"] == [
             "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+            "udo-rudolph-abc-fur-planetenbilder",
             "reinhold-ebertin-the-combination-of-stellar-influences",
             "robert-hand-horoscope-symbols",
+            "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
         ]
         assert "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures" in page.body
         assert "Reinhold Ebertin - The Combination of Stellar Influences" in page.body

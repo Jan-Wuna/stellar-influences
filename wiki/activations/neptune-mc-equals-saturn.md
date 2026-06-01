@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To be cautious and careful about not being too unrealistic and idealistic about 
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `NEPTUNE/MIDHEAVEN with Planets and Points`
+- Source page: `340`
+
 #### Munkasey Entry
 
 Brings reality to what might otherwise be fruitless planning or a frivolous use of resources; planing more thoroughly for your goals in life, but success comes slowly; lessens your ability to idly dream about future possibilities.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Neptune/MC = Saturn`: disciplined compassion, long endurance in difficult callings, and the capacity to make intuition serve concrete responsibility. Main caution: disappointed purpose: pressure can reduce vision to discouragement, confusion, or a career path that never fully takes shape.
@@ -76,6 +93,7 @@ Brings reality to what might otherwise be fruitless planning or a frivolous use 
 - [MC](../factors/mc.md)
 - [Saturn](../factors/saturn.md)
 - [Neptune/MC](../axes/neptune-mc.md)
+- [Saturn Neptune MC](../triads/saturn-neptune-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

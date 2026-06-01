@@ -270,13 +270,20 @@ def _parse_chapter(
     for factor in remaining:
         buffers[factor] = []
 
-    label_pattern = re.compile(
-        r"^(Principle|Process|Sun|Moon|Mercury|Venus|Mars|Jupiter|Saturn|Chiron|Uranus|Neptune|Pluto|Node|Ascendant|Midheaven)[:.]\s*(.*)$"
-    )
+    label_names = "Principle|Process|Sun|Moon|Mercury|Venus|Mars|Jupiter|Saturn|Chiron|Uranus|Neptune|Pluto|Node|Ascendant|Midheaven"
+    label_pattern = re.compile(rf"^({label_names})[:.]\s*(.*)$")
+    embedded_label_pattern = re.compile(rf"\s({label_names})[:.]\s+")
     for line in lines:
         stripped = line.strip()
         if not stripped:
             continue
+        embedded = embedded_label_pattern.search(stripped)
+        if embedded and not label_pattern.match(stripped):
+            prefix = stripped[: embedded.start()].strip()
+            suffix = stripped[embedded.start() :].strip()
+            if prefix and current_label is not None:
+                buffers[current_label].append(prefix)
+            stripped = suffix
         match = label_pattern.match(stripped)
         if match:
             current_label = label_map[match.group(1)]

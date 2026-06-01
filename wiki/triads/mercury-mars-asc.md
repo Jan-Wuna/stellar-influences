@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Mars Asc`
 - Astronomicon triad-set: `T U Asc`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mars/Asc = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `85`
-- `Mars/Asc = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `110`
-- `Mars/Asc = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `220`
-- `Mars/Asc = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `75`
-- `Mars/Asc = Mercury`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `248`
-- `Mercury/Asc = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `83`
-- `Mercury/Asc = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `106`
-- `Mercury/Asc = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `170`
-- `Mercury/Asc = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `52`
-- `Mercury/Asc = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `180`
-- `Mercury/Mars = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `160`
-- `Mercury/Mars = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `242`
-- `Mercury/Mars = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `150`
-- `Mercury/Mars = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `42`
-- `Mercury/Mars = Asc`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `152`
+- `Mars/Asc = Mercury`: Michael, page `248`
+- `Mercury/Asc = Mars`: Michael, page `180`
+- `Mercury/Mars = Asc`: Michael, page `152`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mars/Asc = Mercury`: a sharp, reactive, and argumentative style of communication that meets the environment through quick replies, debates, and forceful language.
-- `Mercury/Asc = Mars`: argumentative exchange, urgent negotiation, and the push to assert personal ideas directly in social situations.
-- `Mercury/Mars = Asc`: an obviously sharp, quick, and argumentative presence that stimulates, confronts, or energizes others through speech and mental intensity.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

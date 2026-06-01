@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Venus Mars MC`
 - Astronomicon triad-set: `Q U MC`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mars/MC = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `64`
-- `Mars/MC = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `72`
-- `Mars/MC = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `223`
-- `Mars/MC = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `77`
-- `Mars/MC = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `252`
-- `Venus/MC = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `63`
-- `Venus/MC = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `70`
-- `Venus/MC = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `199`
-- `Venus/MC = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `66`
-- `Venus/MC = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `220`
-- `Venus/Mars = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `176`
-- `Venus/Mars = MC`: Udo Rudolph - ABC for Planetary Pictures, page `270`
-- `Venus/Mars = MC`: Reinhold Ebertin - The Combination of Stellar Influences, page `177`
-- `Venus/Mars = MC`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `55`
-- `Venus/Mars = MC`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `188`
+- `Mars/MC = Venus`: Michael, page `252`
+- `Venus/MC = Mars`: Michael, page `220`
+- `Venus/Mars = MC`: Michael, page `188`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mars/MC = Venus`: action guided by affection, beauty, relational motives, or the wish to create peace and pleasure through one's work and decisions.
-- `Venus/MC = Mars`: socially visible passion, with vocation or public role shaped by magnetism, assertive artistry, or the urge to win affection and appreciation.
-- `Venus/Mars = MC`: a vocation shaped by attraction and initiative, with public purpose driven by creative heat, relationship force, and the will to make desire productive.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

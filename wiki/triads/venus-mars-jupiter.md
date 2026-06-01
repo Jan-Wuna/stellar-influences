@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Venus Mars Jupiter`
 - Astronomicon triad-set: `Q U V`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mars/Jupiter = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `192`
-- `Mars/Jupiter = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `298`
-- `Mars/Jupiter = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `202`
-- `Mars/Jupiter = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `67`
-- `Mars/Jupiter = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `224`
-- `Venus/Jupiter = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `177`
-- `Venus/Jupiter = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `272`
-- `Venus/Jupiter = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `179`
-- `Venus/Jupiter = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `56`
-- `Venus/Jupiter = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `192`
-- `Venus/Mars = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `176`
-- `Venus/Mars = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `270`
-- `Venus/Mars = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `176`
-- `Venus/Mars = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `55`
-- `Venus/Mars = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `188`
+- `Mars/Jupiter = Venus`: Michael, page `224`
+- `Venus/Jupiter = Mars`: Michael, page `192`
+- `Venus/Mars = Jupiter`: Michael, page `188`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mars/Jupiter = Venus`: joyful creative action, passionate warmth, and fortunate developments in affection, sexuality, or pleasant productive work.
-- `Venus/Jupiter = Mars`: enthusiastic affection in motion, with pleasure, attraction, and generosity pushed into action, conquest, and vigorous enjoyment.
-- `Venus/Mars = Jupiter`: enlarged passion, with attraction, pleasure, and pursuit amplified into generosity, celebration, and a bigger appetite for love and experience.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

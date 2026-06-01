@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ One comes across to others as a powerful person, or, negatively, overbear ing. F
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/PLUTO with Planets and Points`
+- Source page: `88`
+
 #### Munkasey Entry
 
 Concentrating on making changes thru applying your will; noticing the weakness of others and using this knowledge for personal advantage; efforts to rid your environment of corruption, or degrading or immoral practices.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Pluto = Asc`: force of character, intense self-projection, and the ability to shape circumstances through will and presence alone. Main caution: overbearing self-preservation: the native may suppress others, attract ruthless environments, or meet crisis with too much control and too little adaptability.
@@ -76,6 +93,7 @@ Concentrating on making changes thru applying your will; noticing the weakness o
 - [Pluto](../factors/pluto.md)
 - [Asc](../factors/asc.md)
 - [Sun/Pluto](../axes/sun-pluto.md)
+- [Sun Pluto Asc](../triads/sun-pluto-asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

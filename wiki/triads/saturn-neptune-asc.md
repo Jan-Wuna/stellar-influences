@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Neptune Asc`
 - Astronomicon triad-set: `W Y Asc`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Neptune/Asc = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `89`
-- `Neptune/Asc = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `119`
-- `Neptune/Asc = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `287`
-- `Neptune/Asc = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `112`
-- `Neptune/Asc = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `336`
-- `Saturn/Asc = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `87`
-- `Saturn/Asc = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `115`
-- `Saturn/Asc = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `260`
-- `Saturn/Asc = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `94`
-- `Saturn/Asc = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `300`
-- `Saturn/Neptune = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `222`
-- `Saturn/Neptune = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `350`
-- `Saturn/Neptune = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `251`
-- `Saturn/Neptune = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `90`
-- `Saturn/Neptune = Asc`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `288`
+- `Neptune/Asc = Saturn`: Michael, page `336`
+- `Saturn/Asc = Neptune`: Michael, page `300`
+- `Saturn/Neptune = Asc`: Michael, page `288`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Neptune/Asc = Saturn`: guarded sensitivity, with a vulnerable or uncertain self-presentation held under pressure, inhibition, or the effort to contain diffuse impressions within firmer boundaries.
-- `Saturn/Asc = Neptune`: a burdened yet porous presence, with restraint mixed with fatigue, impressionability, or unclear self-definition.
-- `Saturn/Neptune = Asc`: a burdened, sensitive presence, with identity shaped by restraint, uncertainty, sacrifice, and the need to endure diffuse or draining conditions.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

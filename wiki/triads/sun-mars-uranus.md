@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Sun Mars Uranus`
 - Astronomicon triad-set: `S U X`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mars/Uranus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `194`
-- `Mars/Uranus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `302`
-- `Mars/Uranus = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `208`
-- `Mars/Uranus = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `71`
-- `Mars/Uranus = Sun`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `232`
-- `Sun/Mars = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `105`
-- `Sun/Mars = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `147`
-- `Sun/Mars = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `87`
-- `Sun/Mars = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `11`
-- `Sun/Mars = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `68`
-- `Sun/Uranus = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `108`
-- `Sun/Uranus = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `152`
-- `Sun/Uranus = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `96`
-- `Sun/Uranus = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `17`
-- `Sun/Uranus = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `80`
+- `Mars/Uranus = Sun`: Michael, page `232`
+- `Sun/Mars = Uranus`: Michael, page `68`
+- `Sun/Uranus = Mars`: Michael, page `80`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mars/Uranus = Sun`: a fast, courageous, and fiercely independent self that wants to act immediately and on its own terms.
-- `Sun/Mars = Uranus`: impulsive force, abrupt work changes, and the ability to accomplish goals through unconventional timing, flashes of inspiration, or radical independence.
-- `Sun/Uranus = Mars`: bold independence, technical or strategic daring, and the ability to act quickly when change, rupture, or improvisation is required.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

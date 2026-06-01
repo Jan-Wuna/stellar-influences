@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ Feeling burdened by the feelings of others. To be oppressed by one’s own psych
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MOON/NEPTUNE with Planets and Points`
+- Source page: `128`
+
 #### Munkasey Entry
 
 Added elements of caution and reserve when you start to neglect the things you care for; grounding your fantasies about what life should be; prolonging your indecisiveness, and thus increasing your disappointments.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Moon/Neptune = Saturn`: compassionate stamina, realism about suffering, and the ability to carry delicate responsibilities soberly. Main caution: depletion through discouragement: sadness, fatigue, or fear can harden soft feeling into resignation.
@@ -76,6 +93,7 @@ Added elements of caution and reserve when you start to neglect the things you c
 - [Neptune](../factors/neptune.md)
 - [Saturn](../factors/saturn.md)
 - [Moon/Neptune](../axes/moon-neptune.md)
+- [Moon Saturn Neptune](../triads/moon-saturn-neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

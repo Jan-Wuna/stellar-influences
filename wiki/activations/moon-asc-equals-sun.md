@@ -22,7 +22,7 @@ source_pages:
   - udo-rudolph-abc-fur-planetenbilder
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -54,11 +54,28 @@ One knows the importance of allowing oneself to be vulnerable and open when rela
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MOON/ASCENDANT with Planets and Points`
+- Source page: `140`
+
 #### Munkasey Entry
 
 Effecting major changes in relating to others; determination in caring for those important to you; showing a more successful picture of your willingness to help others; concentrating on your role as a caring person.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Moon/Asc = Sun`: lively personal rapport, emotional visibility, and a strong link between inner life and outward manner. Main caution: subjectivity of selfhood: identity can become too mood-driven or reactive to the immediate emotional environment.
@@ -69,6 +86,7 @@ Effecting major changes in relating to others; determination in caring for those
 - [Asc](../factors/asc.md)
 - [Sun](../factors/sun.md)
 - [Moon/Asc](../axes/moon-asc.md)
+- [Sun Moon Asc](../triads/sun-moon-asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)

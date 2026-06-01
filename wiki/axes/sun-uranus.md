@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `SUN/URANUS`
+- Source page: `79`
 
 #### Pair Summary
 
@@ -182,6 +185,9 @@ and offbeat.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/URANUS`
+- Source page: `79`
+
 #### Basic Ideas
 
 This shows your determination to make a mark or to impose reforms. You set personal initiative loose in a purely individual way to force changes in the way others react to you and also to bring new types of personal excitement to your lifestyle. These planets help you develop ideas of creativity and inventiveness to raise your talents to their peak. Humanitarian concerns and friendliness toward others mark you and your lifestyle. You become known for not going along with the crowd. The significance of what you want to do is tied to your independence and the marks that you will leave in life show you to be a unique person. Also shown here are the importance you place on being known as original and distinctive, the effectiveness you have in exciting others about your ideas, your influence as being politically wise, and your personal interest in using astrology.
@@ -209,6 +215,15 @@ Blood pressure abnormalities; bodily reactions to stress; shock or trauma; deafn
 
 - [Michael Munkasey - Sun/Uranus Concepts](../derived/munkasey-sun-uranus-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Sun/Uranus = Admetos](../activations/sun-uranus-equals-admetos.md)
@@ -233,7 +248,13 @@ Blood pressure abnormalities; bodily reactions to stress; shock or trauma; deafn
 - [Sun/Uranus = Vulcanus](../activations/sun-uranus-equals-vulcanus.md)
 - [Sun/Uranus = Zeus](../activations/sun-uranus-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Uranus` is the axis of liberated individuality, originality, reform, and sudden self-assertion. It combines identity, will, and visibility with freedom, disruption, innovation, nervous voltage, and the refusal to live by ordinary patterns.

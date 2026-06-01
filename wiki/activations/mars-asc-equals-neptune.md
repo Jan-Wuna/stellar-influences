@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To be ready to fight for one’s ideals. Conflicts within the personality which 
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MARS/ASCENDANT with Planets and Points`
+- Source page: `248`
+
 #### Munkasey Entry
 
 Depletes your energy more quickly than you expect; brings a naive understanding of others; an unexplained lack of activity; misleading perceptions about anger or irritation; uncommon measures of progress.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mars/Asc = Neptune`: strained working relations, fighting for ideals, subtle personality conflicts, and situations where the environment drains initiative or clouds what to do next. Main caution: misdirected force: action can dissolve into discouragement, illness, confusion, or conflict based on misunderstanding.
@@ -76,6 +93,7 @@ Depletes your energy more quickly than you expect; brings a naive understanding 
 - [Asc](../factors/asc.md)
 - [Neptune](../factors/neptune.md)
 - [Mars/Asc](../axes/mars-asc.md)
+- [Mars Neptune Asc](../triads/mars-neptune-asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

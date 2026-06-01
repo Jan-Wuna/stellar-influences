@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ Progress in your career happens slowly and may cause frustration. High hopes for
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `JUPITER/MIDHEAVEN with Planets and Points`
+- Source page: `280`
+
 #### Munkasey Entry
 
 Increases your personal restraint and tolerance when accepting various pitfalls in life; meticulous and exacting experiences for you to examine and thus learn more about your inner self; a loss of personal prestige or morals.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Jupiter/MC = Saturn`: slow professional progress, missed openings, and the tension between high hopes and constricting circumstance. Main caution: discontent and underuse of opportunity: talent or promise may be present, but frustration or caution can keep it from being fully realized.
@@ -76,6 +93,7 @@ Increases your personal restraint and tolerance when accepting various pitfalls 
 - [MC](../factors/mc.md)
 - [Saturn](../factors/saturn.md)
 - [Jupiter/MC](../axes/jupiter-mc.md)
+- [Jupiter Saturn MC](../triads/jupiter-saturn-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Sun Neptune Pluto`
 - Astronomicon triad-set: `S Y Z`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Neptune/Pluto = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `246`
-- `Neptune/Pluto = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `390`
-- `Neptune/Pluto = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `281`
-- `Neptune/Pluto = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `110`
-- `Neptune/Pluto = Sun`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `328`
-- `Sun/Neptune = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `109`
-- `Sun/Neptune = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `155`
-- `Sun/Neptune = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `100`
-- `Sun/Neptune = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `18`
-- `Sun/Neptune = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `84`
-- `Sun/Pluto = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `110`
-- `Sun/Pluto = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `157`
-- `Sun/Pluto = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `102`
-- `Sun/Pluto = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `20`
-- `Sun/Pluto = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `88`
+- `Neptune/Pluto = Sun`: Michael, page `328`
+- `Sun/Neptune = Pluto`: Michael, page `84`
+- `Sun/Pluto = Neptune`: Michael, page `88`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Neptune/Pluto = Sun`: a selfhood shaped by deep invisible transformation, with life force tied to spiritual crisis, subtle regeneration, and pressures that alter the core sense of purpose.
-- `Sun/Neptune = Pluto`: hidden suffering, obsessive susceptibility, and profound confrontation with invisible forces that can either deepen consciousness or produce tragic disillusionment.
-- `Sun/Pluto = Neptune`: subtle or hidden power, obsessive sensitivity, and a transformative drive that can either work intuitively and invisibly or drain vitality through martyrdom, depletion, and undermining conditions.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

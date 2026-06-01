@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Uranus Node`
 - Astronomicon triad-set: `T X g`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mercury/Node = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `141`
-- `Mercury/Node = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `209`
-- `Mercury/Node = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `167`
-- `Mercury/Node = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `51`
-- `Mercury/Node = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `176`
-- `Mercury/Uranus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `163`
-- `Mercury/Uranus = Node`: Udo Rudolph - ABC for Planetary Pictures, page `248`
-- `Mercury/Uranus = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `159`
-- `Mercury/Uranus = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `47`
-- `Mercury/Uranus = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `164`
-- `Uranus/Node = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `146`
-- `Uranus/Node = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `218`
-- `Uranus/Node = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `272`
-- `Uranus/Node = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `106`
-- `Uranus/Node = Mercury`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `316`
+- `Mercury/Node = Uranus`: Michael, page `176`
+- `Mercury/Uranus = Node`: Michael, page `164`
+- `Uranus/Node = Mercury`: Michael, page `316`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mercury/Node = Uranus`: stimulating connection, with social and mental life shaped by innovation, sudden ideas, and unconventional coordination.
-- `Mercury/Uranus = Node`: fast-moving connection, with unusual ideas, lively dialogue, and mentally electric rapport shaping relationships and networks.
-- `Uranus/Node = Mercury`: unconventional social thinking, with alliances shaped by unusual ideas, sharp exchange, and communication that awakens, provokes, or reorganizes group perception.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Sun Moon Node`
 - Astronomicon triad-set: `S R g`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Moon/Node = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `121`
-- `Moon/Node = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `174`
-- `Moon/Node = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `137`
-- `Moon/Node = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `37`
-- `Moon/Node = Sun`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `136`
-- `Sun/Moon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `101`
-- `Sun/Moon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `138`
-- `Sun/Moon = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `79`
-- `Sun/Moon = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `6`
-- `Sun/Moon = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `56`
-- `Sun/Node = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `102`
-- `Sun/Node = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `140`
-- `Sun/Node = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `105`
-- `Sun/Node = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `21`
-- `Sun/Node = Moon`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `92`
+- `Moon/Node = Sun`: Michael, page `136`
+- `Sun/Moon = Node`: Michael, page `56`
+- `Sun/Node = Moon`: Michael, page `92`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Moon/Node = Sun`: a belonging-centered selfhood, with identity shaped by emotional ties, shared history, and the need to feel recognized within a relational field.
-- `Sun/Moon = Node`: belonging as the factor that completes identity and feeling, with partnership and emotional reciprocity central to balance.
-- `Sun/Node = Moon`: heartfelt association, the need to share life meaning with others, and bonds formed through care, familiarity, or public and domestic feeling.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

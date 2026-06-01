@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ Intense and even obsessive identification with one’s ideals and/or imaginings.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `PLUTO/ASCENDANT with Planets and Points`
+- Source page: `348`
+
 #### Munkasey Entry
 
 Lends an appearance of being a dreamer and visionary; a need to use drugs to heighten your experiences and reactions to the world; allows you to consider fraud and deception as a personal policy and deliberate activity.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Pluto/Asc = Neptune`: occult sensitivity, subtle magnetism, and the ability to embody change that others feel before they can explain it. Main caution: obscured power: self-presentation can become deceptive, paranoid, or entangled in fantasy and covert control.
@@ -76,6 +93,7 @@ Lends an appearance of being a dreamer and visionary; a need to use drugs to hei
 - [Asc](../factors/asc.md)
 - [Neptune](../factors/neptune.md)
 - [Pluto/Asc](../axes/pluto-asc.md)
+- [Neptune Pluto Asc](../triads/neptune-pluto-asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

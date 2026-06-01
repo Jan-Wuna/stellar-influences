@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MOON/JUPITER`
+- Source page: `115`
 
 #### Pair Summary
 
@@ -182,6 +185,9 @@ Feelings of protection, warmth, and nurture. Generosity. In a man's chart, posit
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MOON/JUPITER`
+- Source page: `115`
+
 #### Basic Ideas
 
 Uncertainty, doubt, and vacillation team with expansion, advice, and opinions to show your need to understand care and sympathy for others and the personal adjustments you make to become more aware of people. These planets denote uncertainty about your personal philosophy of living, and increased desire for protecting self and family in all possible physical, financial, or emotional ways. The Moon symbolizes defensiveness and Jupiter increases and expands that tendency, so needs for personal security are activated. This pair suggests expanding your emotional perceptions, brings on internal debates over your indecisiveness, and helps you discover enjoyment by being with your family. You may also be drawn to study ancient religious or philosophical teachings. These planets may highlight your intuition, but you must examine your ideas for erroneous assumptions.
@@ -209,6 +215,15 @@ Fluid retention; increased sensitivity to drugs or allergens; raises fertility c
 
 - [Michael Munkasey - Moon/Jupiter Concepts](../derived/munkasey-moon-jupiter-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Moon/Jupiter = Admetos](../activations/moon-jupiter-equals-admetos.md)
@@ -233,7 +248,13 @@ Fluid retention; increased sensitivity to drugs or allergens; raises fertility c
 - [Moon/Jupiter = Vulcanus](../activations/moon-jupiter-equals-vulcanus.md)
 - [Moon/Jupiter = Zeus](../activations/moon-jupiter-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Moon/Jupiter` is the axis of expansive feeling, emotional generosity, kindness, protection, faith, and the need to experience life as warm, meaningful, and hopeful. It enlarges the Moon's feeling-nature through optimism, belief, social conscience, and the wish to nourish broadly.

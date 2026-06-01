@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Pluto MC`
 - Astronomicon triad-set: `W Z MC`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Pluto/MC = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `69`
-- `Pluto/MC = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `83`
-- `Pluto/MC = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `298`
-- `Pluto/MC = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `117`
-- `Pluto/MC = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `352`
-- `Saturn/MC = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `66`
-- `Saturn/MC = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `77`
-- `Saturn/MC = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `264`
-- `Saturn/MC = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `95`
-- `Saturn/MC = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `304`
-- `Saturn/Pluto = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `223`
-- `Saturn/Pluto = MC`: Udo Rudolph - ABC for Planetary Pictures, page `352`
-- `Saturn/Pluto = MC`: Reinhold Ebertin - The Combination of Stellar Influences, page `255`
-- `Saturn/Pluto = MC`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `91`
-- `Saturn/Pluto = MC`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `292`
+- `Pluto/MC = Saturn`: Michael, page `352`
+- `Saturn/MC = Pluto`: Michael, page `304`
+- `Saturn/Pluto = MC`: Michael, page `292`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Pluto/MC = Saturn`: a hard, testing vocation, with public path shaped by pressure, responsibility, and long cycles of breakdown and rebuilding.
-- `Saturn/MC = Pluto`: concentrated responsibility, survival within harsh structures, and the power to reshape direction under intense conditions.
-- `Saturn/Pluto = MC`: intense public pressure, with career and mission shaped by severe responsibility, survival strategy, and the need to rebuild under hard conditions.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

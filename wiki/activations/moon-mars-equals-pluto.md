@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ An intimidating emotional forcefulness which may have drastic results. An intens
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MOON/MARS with Planets and Points`
+- Source page: `112`
+
 #### Munkasey Entry
 
 Eliminating the anger or irritation which accompanies complaints; intensified defiance during periods of uncertainty; troubles which arise when your imagination is overstimulated; wasting common sources of energy.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Moon/Mars = Pluto`: fierce resilience, strong gut knowledge, and the capacity to act decisively under emotionally charged conditions. Main caution: compulsion in reaction: force and feeling can fuse into control, vengeance, or destructive escalation.
@@ -76,6 +93,7 @@ Eliminating the anger or irritation which accompanies complaints; intensified de
 - [Mars](../factors/mars.md)
 - [Pluto](../factors/pluto.md)
 - [Moon/Mars](../axes/moon-mars.md)
+- [Moon Mars Pluto](../triads/moon-mars-pluto.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

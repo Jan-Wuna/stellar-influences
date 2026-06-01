@@ -144,9 +144,10 @@ updated_at: {UPDATED_AT}
 - No direct contradiction is recorded yet between Witte and Falis on this axis.
 - Differences are currently treated as emphasis and vocabulary, not as silently merged doctrine.
 
+<a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
-- None yet beyond source structuring.
 
 ## Links
 

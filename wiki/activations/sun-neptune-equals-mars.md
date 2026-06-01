@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ Taking action to help other people because of high-minded, humanitarian con cern
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/NEPTUNE with Planets and Points`
+- Source page: `84`
+
 #### Munkasey Entry
 
 Attempts to work out anger thru dreaming; empowers your dreams and schemes to activate them; stimulates you to control more of your circumstances by visualizing changes; inner anger aroused by the actions of others.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Neptune = Mars`: humanitarian drive, spiritual struggle, and the urge to realize visions through effort. Main caution: drained force: confusion of purpose, weakened will, or unhealthy desire can make action ineffective, harmful, or physically compromising.
@@ -76,6 +93,7 @@ Attempts to work out anger thru dreaming; empowers your dreams and schemes to ac
 - [Neptune](../factors/neptune.md)
 - [Mars](../factors/mars.md)
 - [Sun/Neptune](../axes/sun-neptune.md)
+- [Sun Mars Neptune](../triads/sun-mars-neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

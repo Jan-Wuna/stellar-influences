@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ One has original and unique insights into problems and their underlying and/or h
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SATURN/NEPTUNE with Planets and Points`
+- Source page: `288`
+
 #### Munkasey Entry
 
 Uncommon or unexpected recoveries from weaknesses which surface after a dormant period; a new discipline which adds astrology to religious and mystical practices; indifference to decay in older buildings or structures.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Saturn/Neptune = Uranus`: difficult awakening, structural change born from exhaustion, and the need to break patterns that quietly corrode life. Main caution: collapse through tension: nerves, boundaries, or systems can give way abruptly after prolonged uncertainty.
@@ -76,6 +93,7 @@ Uncommon or unexpected recoveries from weaknesses which surface after a dormant 
 - [Neptune](../factors/neptune.md)
 - [Uranus](../factors/uranus.md)
 - [Saturn/Neptune](../axes/saturn-neptune.md)
+- [Saturn Uranus Neptune](../triads/saturn-uranus-neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

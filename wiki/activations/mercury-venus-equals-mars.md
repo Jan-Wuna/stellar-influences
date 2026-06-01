@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To forcefully or assertively communicate in an artful or smooth way. When one ac
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MERCURY/VENUS with Planets and Points`
+- Source page: `148`
+
 #### Munkasey Entry
 
 Assertion and assurance in your expressions of love and affection; conveying these in ways which please others; a sharpened speech which irritates others, especially in romantic situations; using loud music to heighten love.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mercury/Venus = Mars`: lively attraction, passionate communication, and the ability to move others through engaging verbal energy. Main caution: conflict dressed as charm: expression can become provocative, manipulative, or too eager to win favor forcefully.
@@ -76,6 +93,7 @@ Assertion and assurance in your expressions of love and affection; conveying the
 - [Venus](../factors/venus.md)
 - [Mars](../factors/mars.md)
 - [Mercury/Venus](../axes/mercury-venus.md)
+- [Mercury Venus Mars](../triads/mercury-venus-mars.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

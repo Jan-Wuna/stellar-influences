@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Sun Moon Asc`
 - Astronomicon triad-set: `S R Asc`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,27 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Moon/Asc = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `81`
-- `Moon/Asc = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `102`
-- `Moon/Asc = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `39`
-- `Moon/Asc = Sun`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `140`
-- `Sun/Asc = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `80`
-- `Sun/Asc = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `100`
-- `Sun/Asc = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `108`
-- `Sun/Asc = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `23`
-- `Sun/Asc = Moon`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `96`
-- `Sun/Moon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `101`
-- `Sun/Moon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `138`
-- `Sun/Moon = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `79`
-- `Sun/Moon = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `6`
-- `Sun/Moon = Asc`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `56`
+- `Moon/Asc = Sun`: Michael, page `140`
+- `Sun/Asc = Moon`: Michael, page `96`
+- `Sun/Moon = Asc`: Michael, page `56`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Moon/Asc = Sun`: visible emotionality, with self-expression shaped by feeling, instinct, and the wish to be personally recognized through warmth and responsiveness.
-- `Sun/Asc = Moon`: visible emotionality, strong responsiveness to the environment, and a self-presentation colored by instinct, habit, and the need for connection.
-- `Sun/Moon = Asc`: visible inner balance, with the person's basic pairing of will and feeling expressed directly through manner, appearance, and one-to-one contact.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

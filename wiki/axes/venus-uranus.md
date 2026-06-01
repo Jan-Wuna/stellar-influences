@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `VENUS/URANUS`
+- Source page: `199`
 
 #### Pair Summary
 
@@ -180,6 +183,9 @@ Sudden, unusual or unstable relationships. Desire for freedom in relationships o
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `VENUS/URANUS`
+- Source page: `199`
+
 #### Basic Ideas
 
 This combination brings methods of affection and loving that are both impersonal and independent. You find new ways of expressing your appreciation for what others do, develop a fondness for innovation or unpredictability, and get pleasure from surprising others with peculiar ways of expressing sophistication. You can show a politeness while disrupting and disturbing others, feel delight when seeking reforms, and discover pleasure while expressing new forms of anti-social behavior. Unique and unusual forms of entertainment attract you. You get sudden temptations which need to be satisfied, discover new ways of charming others, and create distinctive forms of dress or relaxation. This combination helps you to express unique ways of showing your affection, brings a love of mechanical and electrical objects, and a jealousy which is aroused in sudden and unusual ways.
@@ -207,6 +213,15 @@ Any unusual compositions in your blood; shock due to acid conditions in the body
 
 - [Michael Munkasey - Venus/Uranus Concepts](../derived/munkasey-venus-uranus-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Venus/Uranus = Admetos](../activations/venus-uranus-equals-admetos.md)
@@ -231,7 +246,13 @@ Any unusual compositions in your blood; shock due to acid conditions in the body
 - [Venus/Uranus = Vulcanus](../activations/venus-uranus-equals-vulcanus.md)
 - [Venus/Uranus = Zeus](../activations/venus-uranus-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Venus/Uranus` is the axis of electric attraction, unconventional love, aesthetic originality, and sudden relational change. It combines affection, beauty, charm, and sociability with freedom, surprise, individuality, excitement, and the refusal to love by ordinary rules.

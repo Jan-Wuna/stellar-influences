@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Venus Neptune MC`
 - Astronomicon triad-set: `Q Y MC`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Neptune/MC = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `68`
-- `Neptune/MC = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `80`
-- `Neptune/MC = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `290`
-- `Neptune/MC = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `113`
-- `Neptune/MC = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `340`
-- `Venus/MC = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `63`
-- `Venus/MC = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `71`
-- `Venus/MC = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `199`
-- `Venus/MC = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `66`
-- `Venus/MC = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `220`
-- `Venus/Neptune = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `180`
-- `Venus/Neptune = MC`: Udo Rudolph - ABC for Planetary Pictures, page `278`
-- `Venus/Neptune = MC`: Reinhold Ebertin - The Combination of Stellar Influences, page `189`
-- `Venus/Neptune = MC`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `61`
-- `Venus/Neptune = MC`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `204`
+- `Neptune/MC = Venus`: Michael, page `340`
+- `Venus/MC = Neptune`: Michael, page `220`
+- `Venus/Neptune = MC`: Michael, page `204`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Neptune/MC = Venus`: an attractive or artistic public image, with vocation shaped by beauty, sympathy, romance, or the desire to create a more refined and compassionate atmosphere.
-- `Venus/MC = Neptune`: a glamorous or soulful vocation, with reputation shaped by artistry, tenderness, longing, or the wish to elevate life through refined feeling.
-- `Venus/Neptune = MC`: an idealized or artistic calling, with outer life shaped by beauty, compassion, inspiration, and the wish to serve or enchant.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

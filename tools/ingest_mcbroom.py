@@ -21,7 +21,7 @@ from tools.wiki_pages import load_page
 
 
 UPDATED_AT = "2026-04-22"
-DEFAULT_DERIVED_TEXT = "- None yet beyond source structuring."
+DEFAULT_DERIVED_TEXT = ""
 
 WITTE_SLUG = "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures"
 WITTE_TITLE = "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures"
@@ -208,6 +208,8 @@ updated_at: {UPDATED_AT}
 
 {contradictions}
 
+<a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 {derived}
@@ -275,6 +277,8 @@ updated_at: {UPDATED_AT}
 ## Contradictions
 
 {contradictions}
+
+<a id="derived-synthesis"></a>
 
 ## Derived Synthesis
 

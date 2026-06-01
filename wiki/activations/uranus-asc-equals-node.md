@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To seek out groups or individuals who will allow one to be oneself and to be ope
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `URANUS/ASCENDANT with Planets and Points`
+- Source page: `320`
+
 #### Munkasey Entry
 
 An attraction to people who have needs to bring attention to themselves; presentations to others which have a unique flair or an unusual innovation in their manner of display; sudden and unexpected encounters with friends.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Uranus/Asc = Node`: stimulating associations, progressive circles, and the power to catalyze change in others through direct contact. Main caution: unstable relating: restlessness or refusal of compromise can produce abrupt separations and uneven loyalty.
@@ -76,6 +93,7 @@ An attraction to people who have needs to bring attention to themselves; present
 - [Asc](../factors/asc.md)
 - [Node](../factors/node.md)
 - [Uranus/Asc](../axes/uranus-asc.md)
+- [Uranus Node Asc](../triads/uranus-node-asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

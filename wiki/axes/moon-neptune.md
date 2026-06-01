@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MOON/NEPTUNE`
+- Source page: `127`
 
 #### Pair Summary
 
@@ -182,6 +185,9 @@ Extreme sensitivity and subjection to external energies and influences. Tendency
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MOON/NEPTUNE`
+- Source page: `127`
+
 #### Basic Ideas
 
 Sentiment and impression combine with dreaminess and illusion in a blending of similar motifs, as many qualities presently attributed to Neptune were assigned to the Moon in more ancient times. These planets symbolize carelessness and periods of neglect in your protection and safekeeping of the people, animals, or possessions entrusted to you. You see yourself acting with deeply felt sentiment about the things you love, but others see your inner yearnings as irregular and uncertain creations from a confused and dreamy person. This combination implies an increase in the sensitivity of your intuition, but you may lose your idea of reality in the dreams and fantasies you constantly build. Your imagination is heightened, and your ability to dream and see the future is enhanced. You may become a more sensitive person and find new ways of using mystical thinking to answer questions.
@@ -209,6 +215,15 @@ Ulcers; a nervous stomach; reactions bought on by a sensitivity to drugs; sensit
 
 - [Michael Munkasey - Moon/Neptune Concepts](../derived/munkasey-moon-neptune-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Moon/Neptune = Admetos](../activations/moon-neptune-equals-admetos.md)
@@ -233,7 +248,13 @@ Ulcers; a nervous stomach; reactions bought on by a sensitivity to drugs; sensit
 - [Moon/Neptune = Vulcanus](../activations/moon-neptune-equals-vulcanus.md)
 - [Moon/Neptune = Zeus](../activations/moon-neptune-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Moon/Neptune` is the axis of porous feeling, empathy, dream, and emotional receptivity to subtle or invisible influences. It combines nurture, memory, and mood with imagination, compassion, spirituality, atmosphere, and the tendency to merge with what is felt around oneself.

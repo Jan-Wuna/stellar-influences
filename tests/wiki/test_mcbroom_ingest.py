@@ -7,6 +7,7 @@ MCBROOM_SLUG = "don-mcbroom-midpoints"
 MCBROOM_TITLE = "Don McBroom - Midpoints"
 HAND_SLUG = "robert-hand-horoscope-symbols"
 MUNKASEY_SLUG = "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+UDO_RUDOLPH_SLUG = "udo-rudolph-abc-fur-planetenbilder"
 
 
 def test_mcbroom_source_page_exists_with_bounded_scope():
@@ -26,6 +27,7 @@ def test_sun_moon_axis_includes_mcbroom_entry():
     assert page.meta["framework_scope"] == "comparative"
     assert page.meta["source_pages"] == [
         "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+        UDO_RUDOLPH_SLUG,
         "reinhold-ebertin-the-combination-of-stellar-influences",
         "michelle-falis-planet-combinations-astrological-brainstorms",
         "charles-carter-the-astrological-aspects",
@@ -46,6 +48,7 @@ def test_asc_mc_axis_includes_mcbroom_entry():
     assert page.meta["framework_scope"] == "comparative"
     assert page.meta["source_pages"] == [
         "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+        UDO_RUDOLPH_SLUG,
         "reinhold-ebertin-the-combination-of-stellar-influences",
         "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
         HAND_SLUG,

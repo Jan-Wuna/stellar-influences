@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `VENUS/MARS`
+- Source page: `187`
 
 #### Pair Summary
 
@@ -192,6 +195,9 @@ Passion, sexual energy, love between the sexes. The physical aspect of sexuality
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `VENUS/MARS`
+- Source page: `187`
+
 #### Basic Ideas
 
 Tenderness encounters impulsiveness, rage feeds on irritation, vanity meets force, and jealousy finds stimulation. The primary female and male planets introduce very different themes as the push and pull of the sexual archetypes unite in this combination. While Venus charms the Martian aggressiveness, Mars’ need for action counters by stimulating Venus to move beyond its lethargy. These motifs may arouse your jealousies, as well as impel you into recognizing the beauty in self or others. They activate the pleasure you derive from haste, danger, and recklessness. They highlight the enjoyment you get from the activities you pursue. They slow and charm your haste, while inflaming your temptations. You may find you are quick to become envious, or hasty in your attachment to the beauty of the person or place at hand. They prompt you to actively display your wealth or beauty.
@@ -219,6 +225,15 @@ Sexual pleasure; haste in sexual release; relaxing your muscles; the muscle tone
 
 - [Michael Munkasey - Venus/Mars Concepts](../derived/munkasey-venus-mars-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Venus/Mars = Admetos](../activations/venus-mars-equals-admetos.md)
@@ -243,7 +258,13 @@ Sexual pleasure; haste in sexual release; relaxing your muscles; the muscle tone
 - [Venus/Mars = Vulcanus](../activations/venus-mars-equals-vulcanus.md)
 - [Venus/Mars = Zeus](../activations/venus-mars-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Venus/Mars` is the axis of passionate attraction, active desire, creative heat, and the union of charm with pursuit. It combines affection, beauty, sociability, and receptivity with initiative, sexuality, competition, and the drive to go after what one wants.

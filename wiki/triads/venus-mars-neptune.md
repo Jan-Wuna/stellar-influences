@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Venus Mars Neptune`
 - Astronomicon triad-set: `Q U Y`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mars/Neptune = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `195`
-- `Mars/Neptune = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `304`
-- `Mars/Neptune = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `211`
-- `Mars/Neptune = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `72`
-- `Mars/Neptune = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `236`
-- `Venus/Mars = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `176`
-- `Venus/Mars = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `271`
-- `Venus/Mars = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `176`
-- `Venus/Mars = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `55`
-- `Venus/Mars = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `188`
-- `Venus/Neptune = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `180`
-- `Venus/Neptune = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `278`
-- `Venus/Neptune = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `188`
-- `Venus/Neptune = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `61`
-- `Venus/Neptune = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `204`
+- `Mars/Neptune = Venus`: Michael, page `236`
+- `Venus/Mars = Neptune`: Michael, page `188`
+- `Venus/Neptune = Mars`: Michael, page `204`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mars/Neptune = Venus`: idealized, subtle, or misdirected passion, where attraction and affection are easily colored by fantasy, infection, disappointment, or blurred boundaries.
-- `Venus/Mars = Neptune`: romanticized desire, with attraction and pursuit softened into idealization, glamour, and erotic or artistic dream.
-- `Venus/Neptune = Mars`: romantic desire in motion, with attraction shaped by idealism, glamour, rescue impulses, or blurry emotional currents.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Moon Jupiter Asc`
 - Astronomicon triad-set: `R V Asc`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,27 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Jupiter/Asc = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `86`
-- `Jupiter/Asc = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `112`
-- `Jupiter/Asc = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `241`
-- `Jupiter/Asc = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `85`
-- `Jupiter/Asc = Moon`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `276`
-- `Moon/Asc = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `81`
-- `Moon/Asc = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `102`
-- `Moon/Asc = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `39`
-- `Moon/Asc = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `140`
-- `Moon/Jupiter = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `125`
-- `Moon/Jupiter = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `182`
-- `Moon/Jupiter = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `124`
-- `Moon/Jupiter = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `29`
-- `Moon/Jupiter = Asc`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `116`
+- `Jupiter/Asc = Moon`: Michael, page `276`
+- `Moon/Asc = Jupiter`: Michael, page `140`
+- `Moon/Jupiter = Asc`: Michael, page `116`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Jupiter/Asc = Moon`: warm-hearted social feeling, sympathy, quick recognition, and happy response from the environment as the factor that enlarges the native's relational field.
-- `Moon/Asc = Jupiter`: a friendly, reassuring presence, with feeling expressed through openness, protection, and the wish to create ease around oneself.
-- `Moon/Jupiter = Asc`: a generous, encouraging presence, with emotional abundance and goodwill expressed directly through manner, appearance, and close contact.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

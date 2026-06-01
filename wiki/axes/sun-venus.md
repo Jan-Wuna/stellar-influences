@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `SUN/VENUS`
+- Source page: `63`
 
 #### Pair Summary
 
@@ -161,6 +164,9 @@ The will to have relationships, love, or create. May relate to artistic creativi
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/VENUS`
+- Source page: `63`
+
 #### Basic Ideas
 
 This combination symbolizes developing and enhancing your appreciation and gratitude toward those things, people, and opportunities which come into your life. These points also include the sincerity behind your love and affection, developing your capacity for devotion and fondness, and further developing your social grace, manners, charm, and culture. Cooperation, calmness, gratitude, and refinement are integrated into your fundamental forms of expression, and you spend much effort in focusing your will on showing charm, affection, regard, and lovingness toward others. The pleasure you get from playful activity with others, the delight you feel returned when others appreciate what you do for them, and the satisfaction in seeing yourself develop grace and culture begin here. These themes also enhance your regard for beauty and peace, but can stimulate jealousy against others.
@@ -188,6 +194,15 @@ Your attitude toward health and your body, in general; your thyroid’s ability 
 
 - [Michael Munkasey - Sun/Venus Concepts](../derived/munkasey-sun-venus-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Sun/Venus = Admetos](../activations/sun-venus-equals-admetos.md)
@@ -212,7 +227,13 @@ Your attitude toward health and your body, in general; your thyroid’s ability 
 - [Sun/Venus = Vulcanus](../activations/sun-venus-equals-vulcanus.md)
 - [Sun/Venus = Zeus](../activations/sun-venus-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Venus` joins identity and will with love, attraction, beauty, charm, pleasure, and the desire for harmonious exchange. It is a primary axis of affection, appreciation, artistry, and social grace.

@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Venus Jupiter Saturn`
 - Astronomicon triad-set: `Q V W`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Jupiter/Saturn = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `207`
-- `Jupiter/Saturn = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `324`
-- `Jupiter/Saturn = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `226`
-- `Jupiter/Saturn = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `78`
-- `Jupiter/Saturn = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `256`
-- `Venus/Jupiter = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `177`
-- `Venus/Jupiter = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `273`
-- `Venus/Jupiter = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `179`
-- `Venus/Jupiter = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `56`
-- `Venus/Jupiter = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `192`
-- `Venus/Saturn = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `178`
-- `Venus/Saturn = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `274`
-- `Venus/Saturn = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `182`
-- `Venus/Saturn = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `57`
-- `Venus/Saturn = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `196`
+- `Jupiter/Saturn = Venus`: Michael, page `256`
+- `Venus/Jupiter = Saturn`: Michael, page `192`
+- `Venus/Saturn = Jupiter`: Michael, page `196`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Jupiter/Saturn = Venus`: patient affection, gradual ripening of harmony, and the effort to make love or value endure through time and change.
-- `Venus/Jupiter = Saturn`: measured abundance, with affection, generosity, and social ease expressed through loyalty, steadiness, and values that can endure over time.
-- `Venus/Saturn = Jupiter`: restrained affection, serious love, and value tested through time, duty, and limitation made mature, ethical, and long-range.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

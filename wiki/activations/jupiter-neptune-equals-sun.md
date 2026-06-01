@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ Fantasies and imaginings give one a lot of energy and bring meaning to one’s l
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `JUPITER/NEPTUNE with Planets and Points`
+- Source page: `264`
+
 #### Munkasey Entry
 
 Emphasizes the use of daydreams and visions to enhance personal capability; brings purpose and confidence to areas where confusion or deception exists; the prestige you lend to efforts which can helping others.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Jupiter/Neptune = Sun`: meaningful fantasies, inspired outlook, and the urge to bring intuitive or artistic possibilities into conscious life. Main caution: lack of self-control: energy may be squandered on speculation, self-deception, or imagined fortune that cannot sustain real development.
@@ -76,6 +93,7 @@ Emphasizes the use of daydreams and visions to enhance personal capability; brin
 - [Neptune](../factors/neptune.md)
 - [Sun](../factors/sun.md)
 - [Jupiter/Neptune](../axes/jupiter-neptune.md)
+- [Sun Jupiter Neptune](../triads/sun-jupiter-neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

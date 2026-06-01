@@ -62,7 +62,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -74,6 +74,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MOON/ASCENDANT`
+- Source page: `139`
 
 #### Pair Summary
 
@@ -103,6 +106,9 @@ Close relationships with women, close emotional relationships, close relationshi
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MOON/ASCENDANT`
+- Source page: `139`
+
 #### Basic Ideas
 
 This combination represents your potential as a protective and sensitive person aware of their immediate surroundings and the roles different people play among each other. It mirrors your perception of the people’s personal styles, and fosters a sensitivity to the dispositions people have. A sentimental inner focus may cause you to nurture and cherish the attention you receive. You may receive subtle impressions from others, become more aware of the inner and personal fears from elements or people around you, have others see you as a somewhat fickle person, or show an inner restlessness which is activated by changes or alterations in your daily routine. An element of moodiness may affect the way you approach life, and you may vacillate as you try to address the cares and concerns of others. Your intuition and non-sensory hunches are accented, and you may learn to pay attention to them.
@@ -130,6 +136,15 @@ Sinus sensitivities or infections; emotions held in check due to social or envir
 
 - [Michael Munkasey - Moon/Asc Concepts](../derived/munkasey-moon-asc-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Moon/Asc = Admetos](../activations/moon-asc-equals-admetos.md)
@@ -154,7 +169,13 @@ Sinus sensitivities or infections; emotions held in check due to social or envir
 - [Moon/Asc = Vulcanus](../activations/moon-asc-equals-vulcanus.md)
 - [Moon/Asc = Zeus](../activations/moon-asc-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Moon/Asc` is the axis of emotional immediacy, sensitivity to the environment, and relationships shaped by habit, mood, and the need for security. It combines feeling, instinct, receptivity, and fluctuation with personality, close contact, physical presence, and the people nearest at hand.

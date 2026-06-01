@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To communicate in a self-confident (egotistical) manner. To think much of the im
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/ASCENDANT with Planets and Points`
+- Source page: `96`
+
 #### Munkasey Entry
 
 Discussions of the interpersonal roles you have with others when you meet together; a clever way of showing others that you are the person you are; information on personal needs and motivations for understanding others.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Asc = Mercury`: communicative presence, wit, and the ability to make oneself known through language or ideas. Main caution: nervous egoism: self-expression can become restless, overly mental, or too eager to prove itself in every interaction.
@@ -76,6 +93,7 @@ Discussions of the interpersonal roles you have with others when you meet togeth
 - [Asc](../factors/asc.md)
 - [Mercury](../factors/mercury.md)
 - [Sun/Asc](../axes/sun-asc.md)
+- [Sun Mercury Asc](../triads/sun-mercury-asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

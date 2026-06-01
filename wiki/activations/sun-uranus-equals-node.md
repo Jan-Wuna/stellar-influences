@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ The need to be around people who will allow one to be oneself fully and openly. 
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/URANUS with Planets and Points`
+- Source page: `80`
+
 #### Munkasey Entry
 
 Encountering others who are able to help you with your shows of uniqueness; ties to friends who give you friendly encouragement for your activities; attracting others who are uniquely peculiar or unusual persons.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Uranus = Node`: unusual friendships, collective change, and the ability to catalyze new currents in group life. Main caution: unstable ties: rebellion, unpredictability, or refusal of compromise can weaken continuity in relationships.
@@ -76,6 +93,7 @@ Encountering others who are able to help you with your shows of uniqueness; ties
 - [Uranus](../factors/uranus.md)
 - [Node](../factors/node.md)
 - [Sun/Uranus](../axes/sun-uranus.md)
+- [Sun Uranus Node](../triads/sun-uranus-node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MOON/MARS`
+- Source page: `111`
 
 #### Pair Summary
 
@@ -178,6 +181,9 @@ Anger, emotional upset, emotional self-assertion. Instinctive reactions of aggre
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MOON/MARS`
+- Source page: `111`
+
 #### Basic Ideas
 
 These themes combine uncertainty and hesitation with aggression and haste, or alternately, bring impulsiveness and the need for activity to soothing and caring desires. Your ability to arouse the emotions of others thru movement (as in sports), and stimulation of your intuitive side is shown here. These planets symbolize a need to behave more in a caring way, sensitivity to events which turns to anger, or activities where your energy ebbs and flows. The aggravation of your emotional nature and your struggles for protection start here. These planets symbolize sensitivity to noise and clamor, represent uneven progress, and convey courage and strength to protect those who require it. They denote an intuition for performing aggressively as a competitor, along with an uncertainty about how far you can push or force others to stretch. You may act indecisively when trying to motivate others.
@@ -205,6 +211,15 @@ Glandular secretions which come too quickly; heat buildup in or on the body; ene
 
 - [Michael Munkasey - Moon/Mars Concepts](../derived/munkasey-moon-mars-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Moon/Mars = Admetos](../activations/moon-mars-equals-admetos.md)
@@ -229,7 +244,13 @@ Glandular secretions which come too quickly; heat buildup in or on the body; ene
 - [Moon/Mars = Vulcanus](../activations/moon-mars-equals-vulcanus.md)
 - [Moon/Mars = Zeus](../activations/moon-mars-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Moon/Mars` is the axis of reactive passion, instinctive action, emotional courage, and the urge to defend needs immediately. It combines feeling, habit, and nurture with heat, assertion, conflict, and the body's quick response to hunger, pressure, or threat.

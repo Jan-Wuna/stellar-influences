@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ The problems encountered in relationships are of a confused or uncertain nature.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `VENUS/SATURN with Planets and Points`
+- Source page: `196`
+
 #### Munkasey Entry
 
 Enhanced abilities to produce artistic works which bring pleasure to others, but only those few who are serious in their appreciation of your work; adds mystery and charm to simple or plain objects of beauty.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Venus/Saturn = Neptune`: spiritual devotion, refined compassion, and the ability to find beauty and meaning in hardship or renunciation. Main caution: love can become sorrowful, impossible, or built on disappointment, passivity, and unattainable ideals.
@@ -76,6 +93,7 @@ Enhanced abilities to produce artistic works which bring pleasure to others, but
 - [Saturn](../factors/saturn.md)
 - [Neptune](../factors/neptune.md)
 - [Venus/Saturn](../axes/venus-saturn.md)
+- [Venus Saturn Neptune](../triads/venus-saturn-neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

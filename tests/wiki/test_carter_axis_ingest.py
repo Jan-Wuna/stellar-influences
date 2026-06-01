@@ -11,6 +11,7 @@ SANDBACH_SLUG = "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-fo
 HAND_SLUG = "robert-hand-horoscope-symbols"
 MCBROOM_SLUG = "don-mcbroom-midpoints"
 MUNKASEY_SLUG = "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+UDO_RUDOLPH_SLUG = "udo-rudolph-abc-fur-planetenbilder"
 
 
 def test_carter_source_page_exists():
@@ -27,6 +28,7 @@ def test_sun_moon_axis_includes_carter_family_headings():
     assert page.meta["framework_scope"] == "comparative"
     assert page.meta["source_pages"] == [
         WITTE_SLUG,
+        UDO_RUDOLPH_SLUG,
         EBERTIN_SLUG,
         FALIS_SLUG,
         CARTER_SLUG,
@@ -48,6 +50,7 @@ def test_mercury_venus_axis_includes_carter_nonstandard_examples():
 
     assert page.meta["source_pages"] == [
         WITTE_SLUG,
+        UDO_RUDOLPH_SLUG,
         EBERTIN_SLUG,
         FALIS_SLUG,
         CARTER_SLUG,

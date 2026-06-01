@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Jupiter Asc`
 - Astronomicon triad-set: `T V Asc`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,27 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Jupiter/Asc = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `86`
-- `Jupiter/Asc = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `112`
-- `Jupiter/Asc = Mercury`: Reinhold Ebertin - The Combination of Stellar Influences, page `241`
-- `Jupiter/Asc = Mercury`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `85`
-- `Jupiter/Asc = Mercury`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `276`
-- `Mercury/Asc = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `83`
-- `Mercury/Asc = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `106`
-- `Mercury/Asc = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `170`
-- `Mercury/Asc = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `52`
-- `Mercury/Asc = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `180`
-- `Mercury/Jupiter = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `161`
-- `Mercury/Jupiter = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `244`
-- `Mercury/Jupiter = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `44`
-- `Mercury/Jupiter = Asc`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `156`
+- `Jupiter/Asc = Mercury`: Michael, page `276`
+- `Mercury/Asc = Jupiter`: Michael, page `180`
+- `Mercury/Jupiter = Asc`: Michael, page `156`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Jupiter/Asc = Mercury`: buoyant communication, stimulating exchange, and socially expansive thinking as the factor that builds goodwill, ideas, and opportunities through contact.
-- `Mercury/Asc = Jupiter`: lively exchange, goodwill in conversation, helpful networking, and the ability to win support or advantage through ideas, discussion, and personable intelligence.
-- `Mercury/Jupiter = Asc`: a broad-minded, articulate presence, with judgment and communication expressed through confidence, openness, and visible intellectual reach.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

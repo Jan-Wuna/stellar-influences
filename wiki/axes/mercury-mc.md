@@ -63,7 +63,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -75,6 +75,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MERCURY/MIDHEAVEN`
+- Source page: `183`
 
 #### Pair Summary
 
@@ -126,6 +129,9 @@ One's own ideas, one's point of view. Planning one's own life direction, thinkin
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MERCURY/MIDHEAVEN`
+- Source page: `183`
+
 #### Basic Ideas
 
 The combination of these themes symbolizes how you apply your education and intellect toward achieving your potential in life. They suggest developing the potential for which your education and family environment have prepared you. They represent your ability to adjust the mental image you have about your life’s objectives, your willingness to work for educational and job related credentials, and the training you put yourself thru to improve your position or stature in life. The ways you apply your creativity, the recognition you receive for your accomplishments, and how you use your native faculties to help you mature as a person are also represented. Your inner image of what you can achieve as a person, your mental preparations in developing an ability to cope with life, and your efforts to play out life’s various roles and scripts are also shown thru these themes.
@@ -153,6 +159,15 @@ Genetic deficiencies or strengths concerning the lungs, breathing, etc.; a famil
 
 - [Michael Munkasey - Mercury/MC Concepts](../derived/munkasey-mercury-mc-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Mercury/MC = Admetos](../activations/mercury-mc-equals-admetos.md)
@@ -177,7 +192,13 @@ Genetic deficiencies or strengths concerning the lungs, breathing, etc.; a famil
 - [Mercury/MC = Vulcanus](../activations/mercury-mc-equals-vulcanus.md)
 - [Mercury/MC = Zeus](../activations/mercury-mc-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mercury/MC` is the axis of mental self-direction, reflective purpose, and public or vocational expression through ideas. It combines analysis, communication, learning, and mobility of mind with life direction, self-knowledge, planning, and outward role.

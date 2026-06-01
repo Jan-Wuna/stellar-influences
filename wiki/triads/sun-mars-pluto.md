@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Sun Mars Pluto`
 - Astronomicon triad-set: `S U Z`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mars/Pluto = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `196`
-- `Mars/Pluto = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `306`
-- `Mars/Pluto = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `214`
-- `Mars/Pluto = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `73`
-- `Mars/Pluto = Sun`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `240`
-- `Sun/Mars = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `105`
-- `Sun/Mars = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `147`
-- `Sun/Mars = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `88`
-- `Sun/Mars = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `11`
-- `Sun/Mars = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `68`
-- `Sun/Pluto = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `110`
-- `Sun/Pluto = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `156`
-- `Sun/Pluto = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `102`
-- `Sun/Pluto = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `20`
-- `Sun/Pluto = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `88`
+- `Mars/Pluto = Sun`: Michael, page `240`
+- `Sun/Mars = Pluto`: Michael, page `68`
+- `Sun/Pluto = Mars`: Michael, page `88`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mars/Pluto = Sun`: relentless self-assertion, a hard-working core will, and goals pursued with such intensity that they can transform life or wear the body down.
-- `Sun/Mars = Pluto`: fanatical work, extreme expenditure of force, and the readiness to push action beyond ordinary limits in order to win, transform, or dominate.
-- `Sun/Pluto = Mars`: relentless will in action, fierce competitiveness, and the urge to accomplish difficult things through pressure, endurance, and force.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

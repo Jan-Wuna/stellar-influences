@@ -61,7 +61,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -73,6 +73,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `JUPITER/MIDHEAVEN`
+- Source page: `279`
 
 #### Pair Summary
 
@@ -124,6 +127,9 @@ Personal growth, reaching out to attain one's objectives, moving toward one's en
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `JUPITER/MIDHEAVEN`
+- Source page: `279`
+
 #### Basic Ideas
 
 These themes represent the importance of cultivating a social or political life, and the role that being a leader in society can have on your goals, hopes, ambitions, and self-image. These motifs help you an inner personal wisdom thru your family and early life experiences. Here begin the rules of personal conduct you adopt to enhance your reputation, the religious or philosophical theories you accept and practice to enrich your personal development, and the optimism you learn to show as part of your life’s guiding principles. Expanding your overall knowledge and acquiring experience from life; developing an understanding of people and their how to motivate them effectively; learning to be forgiving about mistakes, omissions, or intolerances; and developing a respect for conscience and its role in helping you become a more morally and ethically responsible person, begins here.
@@ -151,6 +157,15 @@ Genetic patterns or abnormalities from gracious living, or from being unable to 
 
 - [Michael Munkasey - Jupiter/MC Concepts](../derived/munkasey-jupiter-mc-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Jupiter/MC = Admetos](../activations/jupiter-mc-equals-admetos.md)
@@ -174,7 +189,13 @@ Genetic patterns or abnormalities from gracious living, or from being unable to 
 - [Jupiter/MC = Vulcanus](../activations/jupiter-mc-equals-vulcanus.md)
 - [Jupiter/MC = Zeus](../activations/jupiter-mc-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Jupiter/MC` is the axis of optimistic life direction, public growth, success, and the desire to realize a meaningful or honorable place in the world. It combines expansion, wisdom, ethics, and opportunity with vocation, status, self-direction, and the shaping of one's public role.

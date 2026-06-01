@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ In your work you offer something to the world that is both unique and practical.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SATURN/URANUS with Planets and Points`
+- Source page: `284`
+
 #### Munkasey Entry
 
 Accepting change, remove old habits, and yet benefiting from this as a person; altering your personal goals and aspirations due to changes in society or at work; releasing old ideas which no longer work adequately.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Saturn/Uranus = MC`: disciplined modernization, reformist leadership, and the ability to change rigid institutions from within or under pressure. Main caution: unstable direction: outer responsibilities can fracture when change and duty stop cooperating.
@@ -76,6 +93,7 @@ Accepting change, remove old habits, and yet benefiting from this as a person; a
 - [Uranus](../factors/uranus.md)
 - [MC](../factors/mc.md)
 - [Saturn/Uranus](../axes/saturn-uranus.md)
+- [Saturn Uranus MC](../triads/saturn-uranus-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

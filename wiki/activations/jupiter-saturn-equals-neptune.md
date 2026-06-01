@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ One needs to be intuitive when it comes to deciding what one should do. A confus
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `JUPITER/SATURN with Planets and Points`
+- Source page: `256`
+
 #### Munkasey Entry
 
 Ideas for a more perfect society; dreams about changes you need to implement in your life or business; added needs to avoid change even when needed; brings disillusionment about the relative pace of progress.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Jupiter/Saturn = Neptune`: long-maturing situations, intuitive searching for moral direction, and the struggle to keep faith realistic under discouraging conditions. Main caution: pessimistic confusion: decisions may be deferred too long, losses can follow vague judgment, and loneliness may deepen if ideals are not grounded.
@@ -76,6 +93,7 @@ Ideas for a more perfect society; dreams about changes you need to implement in 
 - [Saturn](../factors/saturn.md)
 - [Neptune](../factors/neptune.md)
 - [Jupiter/Saturn](../axes/jupiter-saturn.md)
+- [Jupiter Saturn Neptune](../triads/jupiter-saturn-neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

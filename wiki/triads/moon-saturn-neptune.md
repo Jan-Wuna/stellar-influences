@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Moon Saturn Neptune`
 - Astronomicon triad-set: `R W Y`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Moon/Neptune = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `128`
-- `Moon/Neptune = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `189`
-- `Moon/Neptune = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `132`
-- `Moon/Neptune = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `34`
-- `Moon/Neptune = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `128`
-- `Moon/Saturn = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `126`
-- `Moon/Saturn = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `185`
-- `Moon/Saturn = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `126`
-- `Moon/Saturn = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `31`
-- `Moon/Saturn = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `120`
-- `Saturn/Neptune = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `222`
-- `Saturn/Neptune = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `350`
-- `Saturn/Neptune = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `224`
-- `Saturn/Neptune = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `90`
-- `Saturn/Neptune = Moon`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `288`
+- `Moon/Neptune = Saturn`: Michael, page `128`
+- `Moon/Saturn = Neptune`: Michael, page `120`
+- `Saturn/Neptune = Moon`: Michael, page `288`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Moon/Neptune = Saturn`: burdened sensitivity, with feeling shaped by sorrow, endurance, disappointment, and the effort to contain what is subtle and diffuse.
-- `Moon/Saturn = Neptune`: emotionally heavy permeability, with care and vulnerability shaped by discouragement, sacrifice, and subtle drain.
-- `Saturn/Neptune = Moon`: emotional fatigue, melancholy sensitivity, and the experience that ordinary life carries a weight of disappointment, uncertainty, or subtle loss.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

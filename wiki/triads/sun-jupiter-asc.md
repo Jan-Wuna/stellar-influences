@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Sun Jupiter Asc`
 - Astronomicon triad-set: `S V Asc`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Jupiter/Asc = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `86`
-- `Jupiter/Asc = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `112`
-- `Jupiter/Asc = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `241`
-- `Jupiter/Asc = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `85`
-- `Jupiter/Asc = Sun`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `276`
-- `Sun/Asc = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `80`
-- `Sun/Asc = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `100`
-- `Sun/Asc = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `108`
-- `Sun/Asc = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `23`
-- `Sun/Asc = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `96`
-- `Sun/Jupiter = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `106`
-- `Sun/Jupiter = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `148`
-- `Sun/Jupiter = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `91`
-- `Sun/Jupiter = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `12`
-- `Sun/Jupiter = Asc`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `72`
+- `Jupiter/Asc = Sun`: Michael, page `276`
+- `Sun/Asc = Jupiter`: Michael, page `96`
+- `Sun/Jupiter = Asc`: Michael, page `72`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Jupiter/Asc = Sun`: congenial association, enthusiasm, and fortunate self-expression as the factor that makes the personality feel larger, warmer, and more purposeful in company with others.
-- `Sun/Asc = Jupiter`: a generous personal presence, strong self-belief, and opportunities that arise through visibility, goodwill, and a broadly affirmative manner.
-- `Sun/Jupiter = Asc`: a confident, generous, and noticeable presence, with identity expressed through optimism, enthusiasm, and a naturally expansive style.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Venus Uranus Node`
 - Astronomicon triad-set: `Q X g`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Uranus/Node = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `146`
-- `Uranus/Node = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `218`
-- `Uranus/Node = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `272`
-- `Uranus/Node = Venus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `106`
-- `Uranus/Node = Venus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `316`
-- `Venus/Node = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `142`
-- `Venus/Node = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `211`
-- `Venus/Node = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `193`
-- `Venus/Node = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `63`
-- `Venus/Node = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `212`
-- `Venus/Uranus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `179`
-- `Venus/Uranus = Node`: Udo Rudolph - ABC for Planetary Pictures, page `276`
-- `Venus/Uranus = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `185`
-- `Venus/Uranus = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `60`
-- `Venus/Uranus = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `200`
+- `Uranus/Node = Venus`: Michael, page `316`
+- `Venus/Node = Uranus`: Michael, page `212`
+- `Venus/Uranus = Node`: Michael, page `200`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Uranus/Node = Venus`: exciting friendship and unconventional affection, with bonds shaped by novelty, charm, artistic exchange, and a wish for freer relational forms.
-- `Venus/Node = Uranus`: exciting alliance, with bonds formed through difference, spontaneity, and the refusal of stale relational patterns.
-- `Venus/Uranus = Node`: electric attraction, unconventional love, and liberating value shifts made unconventional, communal, and network-oriented.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

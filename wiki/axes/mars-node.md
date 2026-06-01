@@ -63,7 +63,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -75,6 +75,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MARS/NODE`
+- Source page: `243`
 
 #### Pair Summary
 
@@ -126,6 +129,9 @@ Involvement with workers in a common activity, either cooperative or conflicting
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MARS/NODE`
+- Source page: `243`
+
 #### Basic Ideas
 
 The activity and emphasis you place on finding new friends or people who can help you achieve your aims in life, your insistence on having your way during meetings, and your haste and impatience with delaying tactics and bureaucracies are all found as part of this pattern. The noisy and persistent criticism you attract, the initiatives you take with any potential offered you, and the trouble and reversals you face from friends are also found here. Insistence and clamor unite with the potential or encouragement you receive thru others in a unique combination of powers which induce you to activate new friendships and associations to help you with your work and its recognition or correction. Your progress due to help or advice from others, arguments which force you to retreat and then attack, and your battles against forces which divide are found within these themes.
@@ -153,6 +159,15 @@ Tears and rips of the muscles or ligaments which hold any body tubes, like the i
 
 - [Michael Munkasey - Mars/Node Concepts](../derived/munkasey-mars-node-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Mars/Node = Admetos](../activations/mars-node-equals-admetos.md)
@@ -177,7 +192,13 @@ Tears and rips of the muscles or ligaments which hold any body tubes, like the i
 - [Mars/Node = Vulcanus](../activations/mars-node-equals-vulcanus.md)
 - [Mars/Node = Zeus](../activations/mars-node-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mars/Node` is the axis of active collaboration, shared effort, and bonds formed through work, struggle, sex, or common action. It combines drive, competition, and physical initiative with association, alliance, and the need to do things with other people.

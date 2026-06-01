@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Saturn Uranus MC`
 - Astronomicon triad-set: `W X MC`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Saturn/MC = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `66`
-- `Saturn/MC = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `77`
-- `Saturn/MC = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `263`
-- `Saturn/MC = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `95`
-- `Saturn/MC = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `304`
-- `Saturn/Uranus = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `221`
-- `Saturn/Uranus = MC`: Udo Rudolph - ABC for Planetary Pictures, page `348`
-- `Saturn/Uranus = MC`: Reinhold Ebertin - The Combination of Stellar Influences, page `248`
-- `Saturn/Uranus = MC`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `88`
-- `Saturn/Uranus = MC`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `284`
-- `Uranus/MC = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `67`
-- `Uranus/MC = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `79`
-- `Uranus/MC = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `278`
-- `Uranus/MC = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `108`
-- `Uranus/MC = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `324`
+- `Saturn/MC = Uranus`: Michael, page `304`
+- `Saturn/Uranus = MC`: Michael, page `284`
+- `Uranus/MC = Saturn`: Michael, page `324`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Saturn/MC = Uranus`: pressure to change public structures, with direction shaped by the clash between duty and freedom, stability and shock.
-- `Saturn/Uranus = MC`: public tension between continuity and reform, with outer life shaped by serious innovation, structural strain, and periodic breaks in established course.
-- `Uranus/MC = Saturn`: tension between innovation and authority, abrupt tests in career matters, and the need to make disruptive change workable under pressure.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

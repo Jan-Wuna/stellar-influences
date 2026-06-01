@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Moon Pluto Asc`
 - Astronomicon triad-set: `R Z Asc`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,27 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Moon/Asc = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `81`
-- `Moon/Asc = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `103`
-- `Moon/Asc = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `39`
-- `Moon/Asc = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `140`
-- `Moon/Pluto = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `129`
-- `Moon/Pluto = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `190`
-- `Moon/Pluto = Asc`: Reinhold Ebertin - The Combination of Stellar Influences, page `135`
-- `Moon/Pluto = Asc`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `36`
-- `Moon/Pluto = Asc`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `132`
-- `Pluto/Asc = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `90`
-- `Pluto/Asc = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `120`
-- `Pluto/Asc = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `295`
-- `Pluto/Asc = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `116`
-- `Pluto/Asc = Moon`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `348`
+- `Moon/Asc = Pluto`: Michael, page `140`
+- `Moon/Pluto = Asc`: Michael, page `132`
+- `Pluto/Asc = Moon`: Michael, page `348`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Moon/Asc = Pluto`: a powerful, reactive atmosphere, with personality shaped by emotional depth, survival instinct, and transformative sensitivity.
-- `Moon/Pluto = Asc`: an intense emotional presence, with instinct, depth, and survival feeling expressed visibly through manner, body, and close contact.
-- `Pluto/Asc = Moon`: an emotionally intense personality, with mood, family imprint, and unconscious pressure strongly shaping self-presentation and one-to-one contact.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

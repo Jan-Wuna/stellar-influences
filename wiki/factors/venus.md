@@ -14,7 +14,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -66,6 +66,9 @@ A young girl or maiden, sweetheart or mistress, people who are connected with ce
 In the universe there are two kinds of force that bring things together. One is coercive, trying to bring elements together regardless of their individual natures or inclinations. Such a force, working from without, does not express the natures of the elements themselves. It creates a conflict when the intrinsic natures of the elements involved resist the energy of coercion from without. The external force must be maintained, or the elements forced together will break apart and try to resume the free expression of what they are. Depending on conditions, such a coercive force may be represented by various combinations of
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `VENUS`
+- Source page: `45`
 
 #### Basic Ideas
 
@@ -151,7 +154,21 @@ In the universe there are two kinds of force that bring things together. One is 
 - Values
 - Wealth
 
+## Comparative Schema
+
+- core meaning: source-native factor entries are preserved side by side above.
+- psychology: source-specific psychological and doctrinal emphases remain attached to their own source blocks instead of being flattened.
+- body/health: bodily wording remains inside each contributing source block when present.
+- social/relationship: interpersonal implications remain attached to each source's own phrasing.
+- events/manifestations: source-specific extensions remain attached to the source entry that states them.
+- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
+
+## Contradictions and Framework Notes
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Venus` is the factor of joy, peace, harmony, affection, love, preference, beauty, art, and the force that joins things by liking, agreement, and enjoyment rather than coercion.
@@ -184,6 +201,10 @@ In the universe there are two kinds of force that bring things together. One is 
 - [Venus/Zeus](../axes/venus-zeus.md)
 - [Vernal Point/Venus](../axes/vernal-point-venus.md)
 
+## Related Activations
+
+- None recorded yet.
+
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
@@ -191,3 +212,7 @@ In the universe there are two kinds of force that bring things together. One is 
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+
+## Open Questions
+
+- None recorded yet.

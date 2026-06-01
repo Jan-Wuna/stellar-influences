@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ Either to allow spiritual forces to strengthen and clarify one's identity, or to
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `PLUTO/ASCENDANT with Planets and Points`
+- Source page: `348`
+
 #### Munkasey Entry
 
 An increase in the respect and admiration others have for you as you age and become better accepted; increased confidence in motivating people; becoming a person who keeps their word; internal struggles with integrity.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Pluto/Asc = MC`: powerful public impact, decisive self-reinvention, and a life path altered through intense personal encounters. Main caution: control through persona: public direction can become too dependent on intimidation, image power, or crisis-driven identity.
@@ -76,6 +93,7 @@ An increase in the respect and admiration others have for you as you age and bec
 - [Asc](../factors/asc.md)
 - [MC](../factors/mc.md)
 - [Pluto/Asc](../axes/pluto-asc.md)
+- [Pluto Asc MC](../triads/pluto-asc-mc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

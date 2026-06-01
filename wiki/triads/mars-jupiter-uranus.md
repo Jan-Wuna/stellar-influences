@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Mars Jupiter Uranus`
 - Astronomicon triad-set: `U V X`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Jupiter/Uranus = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `208`
-- `Jupiter/Uranus = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `326`
-- `Jupiter/Uranus = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `229`
-- `Jupiter/Uranus = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `80`
-- `Jupiter/Uranus = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `260`
-- `Mars/Jupiter = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `192`
-- `Mars/Jupiter = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `299`
-- `Mars/Jupiter = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `202`
-- `Mars/Jupiter = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `67`
-- `Mars/Jupiter = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `224`
-- `Mars/Uranus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `194`
-- `Mars/Uranus = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `302`
-- `Mars/Uranus = Jupiter`: Reinhold Ebertin - The Combination of Stellar Influences, page `208`
-- `Mars/Uranus = Jupiter`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `71`
-- `Mars/Uranus = Jupiter`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `232`
+- `Jupiter/Uranus = Mars`: Michael, page `260`
+- `Mars/Jupiter = Uranus`: Michael, page `224`
+- `Mars/Uranus = Jupiter`: Michael, page `232`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Jupiter/Uranus = Mars`: enterprising, freedom-seeking effort that wants immediate results, technological success, or a fortunate opening seized through courage and initiative.
-- `Mars/Jupiter = Uranus`: sudden initiative, freedom-seeking enterprise, and successful activity that benefits from speed, boldness, or unconventional direction.
-- `Mars/Uranus = Jupiter`: timely decisive action that can win contests, turn danger to advantage, or open sudden periods of growth.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

@@ -14,7 +14,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -83,6 +83,9 @@ data from the sense organs. One remarkable fact about nerve impulses is that in 
 meter serving to assist the memory). Language also allows us to close the gap between us and others—to transmit to another some understanding of our personal map of reality. Something is always lost in translation, of course, because the primary signs of experience are much more powerful than the higher-order signs of language. This is one reason we have created something more powerful than verbal language—something that can cany more of the immediate power of primary signs. This is art in all its forms. While not as precise as verbal language for some purposes, art is much more powerful in conveying certain kinds of experience. Insofar as art is communication, it is signified by Mercury (though the act of creation is
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `MERCURY`
+- Source page: `44`
 
 #### Basic Ideas
 
@@ -171,7 +174,21 @@ meter serving to assist the memory). Language also allows us to close the gap be
 - Trade
 - Transportation
 
+## Comparative Schema
+
+- core meaning: source-native factor entries are preserved side by side above.
+- psychology: source-specific psychological and doctrinal emphases remain attached to their own source blocks instead of being flattened.
+- body/health: bodily wording remains inside each contributing source block when present.
+- social/relationship: interpersonal implications remain attached to each source's own phrasing.
+- events/manifestations: source-specific extensions remain attached to the source entry that states them.
+- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
+
+## Contradictions and Framework Notes
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mercury` is the factor of mind, news, reports, opinions, words, language, writing, media, movement, and the traffic of information between separate people, facts, or experiences.
@@ -204,6 +221,10 @@ meter serving to assist the memory). Language also allows us to close the gap be
 - [Sun/Mercury](../axes/sun-mercury.md)
 - [Vernal Point/Mercury](../axes/vernal-point-mercury.md)
 
+## Related Activations
+
+- None recorded yet.
+
 ## Related Sources
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
@@ -211,3 +232,7 @@ meter serving to assist the memory). Language also allows us to close the gap be
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
+
+## Open Questions
+
+- None recorded yet.

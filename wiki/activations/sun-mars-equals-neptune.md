@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To feel unable to get things accomplished. Lack of vitality due to one’s subtl
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/MARS with Planets and Points`
+- Source page: `68`
+
 #### Munkasey Entry
 
 Adds a basic fundamental flaw in your physical development; alcohol or drugs which both weaken and strengthen your body; deception about your ability as a competitor or fighting person; an idealized concept of your body.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Mars = Neptune`: depleted vitality, vocational undermining, and action compromised by subtle imbalance, disappointment, or dishonesty. Main caution: demobilization: force leaks away through exhaustion, deception, or goals that cannot be clearly or honestly pursued.
@@ -76,6 +93,7 @@ Adds a basic fundamental flaw in your physical development; alcohol or drugs whi
 - [Mars](../factors/mars.md)
 - [Neptune](../factors/neptune.md)
 - [Sun/Mars](../axes/sun-mars.md)
+- [Sun Mars Neptune](../triads/sun-mars-neptune.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

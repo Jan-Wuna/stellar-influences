@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Sun Saturn Node`
 - Astronomicon triad-set: `S W g`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Saturn/Node = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `145`
-- `Saturn/Node = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `216`
-- `Saturn/Node = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `257`
-- `Saturn/Node = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `92`
-- `Saturn/Node = Sun`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `296`
-- `Sun/Node = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `102`
-- `Sun/Node = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `141`
-- `Sun/Node = Saturn`: Reinhold Ebertin - The Combination of Stellar Influences, page `105`
-- `Sun/Node = Saturn`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `21`
-- `Sun/Node = Saturn`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `92`
-- `Sun/Saturn = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `107`
-- `Sun/Saturn = Node`: Udo Rudolph - ABC for Planetary Pictures, page `150`
-- `Sun/Saturn = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `93`
-- `Sun/Saturn = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `14`
-- `Sun/Saturn = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `76`
+- `Saturn/Node = Sun`: Michael, page `296`
+- `Sun/Node = Saturn`: Michael, page `92`
+- `Sun/Saturn = Node`: Michael, page `76`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Saturn/Node = Sun`: a serious relational identity, with self-expression shaped by loyalty, duty, and the need to carry responsibilities toward others visibly.
-- `Sun/Node = Saturn`: reserve in association, difficult public contact, and the experience that ties, groups, or partnerships require patience, endurance, and realism.
-- `Sun/Saturn = Node`: serious ties, duty in relationships, and the sense that belonging must be earned through patience, loyalty, and realism.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

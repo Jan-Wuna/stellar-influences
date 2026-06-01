@@ -63,7 +63,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -75,6 +75,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `NODE/MIDHEAVEN`
+- Source page: `359`
 
 #### Pair Summary
 
@@ -126,6 +129,9 @@ To take the initiative in meeting someone, to establish a connection. Groups or 
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `NODE/MIDHEAVEN`
+- Source page: `359`
+
 #### Basic Ideas
 
 A basic theme here is working with people who share a similar social, political, or business standing with yourself. Locating people who have similar goals or aspirations, friends who cause situations which help you develop as a person, and uncovering people who have needs similar to yours are also described here. The process of attracting people who can help or assist you in becoming a better or more well rounded person, those who are familiar to you yet not necessarily acquainted or friends, and ties to others who are able to help you develop and mature as a person are also shown within these motifs. Separation from your early or family ideas, habits acquired or adopted as you become a better or different person, changes within you which make you a better person as time passes, and integration of your destiny with your daily activities also begin with these combined themes.
@@ -153,6 +159,15 @@ Psychological coping or adaptation with your roots or origins; encounters with t
 
 - [Michael Munkasey - Node/MC Concepts](../derived/munkasey-node-mc-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Node/MC = Admetos](../activations/node-mc-equals-admetos.md)
@@ -177,7 +192,13 @@ Psychological coping or adaptation with your roots or origins; encounters with t
 - [Node/MC = Vulcanus](../activations/node-mc-equals-vulcanus.md)
 - [Node/MC = Zeus](../activations/node-mc-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Node/MC` is the axis of life-shaping association, shared purpose, and bonds that affect destiny, status, or direction in the world. It combines affiliation, alliance, and mutual interests with vocation, maturity, authority, and the formation of one's public course.

@@ -63,7 +63,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -75,6 +75,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MARS/ASCENDANT`
+- Source page: `247`
 
 #### Pair Summary
 
@@ -126,6 +129,9 @@ Competition with others, conflicts, the ability to withstand opposition in one's
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MARS/ASCENDANT`
+- Source page: `247`
+
 #### Basic Ideas
 
 This combination helps energize your concentration upon the common daily events of life which occur around you. It adds life to your personal style, helps you blend your energy into those activities occurring in your immediate environment, allows you to emphasize your attitudes thru activity, and enhances your ability to notice and observe. These points help bring an awareness that the energy of the Universe is without limit and is available as from a cosmic storehouse. When you become physically tired a small rest to recharge yourself (be that five minutes or ten hours) makes you ready for new activity and challenges. This combination promotes your need for activity, adds a restlessness to your body, and helps you center on your approach to people. These themes help you focus, either directly or subconsciously, on using the vitality which permeates your entire life system.
@@ -153,6 +159,15 @@ Pressure or heat within the ocular fluids; elevated blood pressure caused by you
 
 - [Michael Munkasey - Mars/Asc Concepts](../derived/munkasey-mars-asc-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Mars/Asc = Admetos](../activations/mars-asc-equals-admetos.md)
@@ -177,7 +192,13 @@ Pressure or heat within the ocular fluids; elevated blood pressure caused by you
 - [Mars/Asc = Vulcanus](../activations/mars-asc-equals-vulcanus.md)
 - [Mars/Asc = Zeus](../activations/mars-asc-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mars/Asc` is the axis of assertive presence, environmental friction, and the active projection of will into immediate life. It combines drive, conflict, courage, and bodily energy with identity, approach, and the way one meets other people and circumstances.

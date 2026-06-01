@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `SATURN/URANUS`
+- Source page: `283`
 
 #### Pair Summary
 
@@ -182,6 +185,9 @@ Tension between restriction and the desire for freedom. Tension in general, ofte
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SATURN/URANUS`
+- Source page: `283`
+
 #### Basic Ideas
 
 These themes symbolize the tension between maintaining traditional methods and introducing innovative techniques when facing life’s alternatives. Here your need to balance new ideas with conservative objectives begins. You may find that restrictions arise suddenly and without warning, encounter rigidity which leads to rebuffs, or find a commitment to reach for distinctive or unique goals. You may find your insight into new methods of problem solving is diminished, receive disappointments from unexpected sources, or have to tread carefully when introducing new ideas. Revisions which are changes to procedures but simplify your work, the compromise which exists between those of the ‘old school’ and those with ‘fresh ideas’, and pessimism which is broken by unpredictable circumstances can also be found here. They also mirror the conflict between old ways and new ideas.
@@ -209,6 +215,15 @@ Calcium deposits which arise from nervousness or reactions to stress; arthritis 
 
 - [Michael Munkasey - Saturn/Uranus Concepts](../derived/munkasey-saturn-uranus-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Saturn/Uranus = Admetos](../activations/saturn-uranus-equals-admetos.md)
@@ -233,7 +248,13 @@ Calcium deposits which arise from nervousness or reactions to stress; arthritis 
 - [Saturn/Uranus = Vulcanus](../activations/saturn-uranus-equals-vulcanus.md)
 - [Saturn/Uranus = Zeus](../activations/saturn-uranus-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Saturn/Uranus` is the axis of structural tension, disciplined rebellion, and the conflict between order and freedom. It combines limits, realism, and endurance with disruption, innovation, nervous force, and the urge to break obsolete constraints.

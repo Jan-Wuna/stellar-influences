@@ -63,7 +63,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -75,6 +75,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `URANUS/NODE`
+- Source page: `315`
 
 #### Pair Summary
 
@@ -126,6 +129,9 @@ Unusual kinds of connections, connections with unusual people. Unstable or unrel
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `URANUS/NODE`
+- Source page: `315`
+
 #### Basic Ideas
 
 These themes combine your needs for expressing unexpected thoughts as well as meeting new people by offering opportunities to effect unusual or unforeseen alliances with others. You may gain some insight into how and why others form relationships, or how the cosmic process of attraction between people works. When you need certain people to appear in your life this combination helps you create the right external circumstances for this to happen. People who share unconventional views like yours, or others you meet who have similar insights into new ways of doing things are described here. Meetings with scientific or computer groups, and an urge to share insight into or study astrology with friends, are also shown here, as is any fuss you experience or initiate at meetings. You become more aware of sexual, intuitive, or former life bonding to others thru the effects of these motifs.
@@ -153,6 +159,15 @@ Sudden onset of complications due to stress in life; deafness as you close out a
 
 - [Michael Munkasey - Uranus/Node Concepts](../derived/munkasey-uranus-node-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Uranus/Node = Admetos](../activations/uranus-node-equals-admetos.md)
@@ -177,7 +192,13 @@ Sudden onset of complications due to stress in life; deafness as you close out a
 - [Uranus/Node = Vulcanus](../activations/uranus-node-equals-vulcanus.md)
 - [Uranus/Node = Zeus](../activations/uranus-node-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Uranus/Node` is the axis of unconventional associations, sudden meetings, and collective experience shaped by freedom, change, and instability. It combines originality, disruption, awakening, and surprise with bonds, groups, teamwork, and shared life with others.

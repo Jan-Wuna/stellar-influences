@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ To have strong feelings about the conflict between new and old ideas. A need for
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MERCURY/NODE with Planets and Points`
+- Source page: `176`
+
 #### Munkasey Entry
 
 Sensitivity on how information must be presented to those who are able to utilize your ideas; a tradition of using associates to research or pass on information and communication; locating people to gather information.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mercury/Node = Moon`: connective speech, emotionally aware teamwork, and belonging created through listening, reflection, and mental rapport. Main caution: impressionable connection: communication can drift too much with mood, familiarity, or emotional dependency.
@@ -76,6 +93,7 @@ Sensitivity on how information must be presented to those who are able to utiliz
 - [Node](../factors/node.md)
 - [Moon](../factors/moon.md)
 - [Mercury/Node](../axes/mercury-node.md)
+- [Moon Mercury Node](../triads/moon-mercury-node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

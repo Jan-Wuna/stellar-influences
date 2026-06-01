@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Neptune Pluto Node`
 - Astronomicon triad-set: `Y Z g`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Neptune/Node = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `147`
-- `Neptune/Node = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `221`
-- `Neptune/Node = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `285`
-- `Neptune/Node = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `111`
-- `Neptune/Node = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `332`
-- `Neptune/Pluto = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `246`
-- `Neptune/Pluto = Node`: Udo Rudolph - ABC for Planetary Pictures, page `390`
-- `Neptune/Pluto = Node`: Reinhold Ebertin - The Combination of Stellar Influences, page `282`
-- `Neptune/Pluto = Node`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `110`
-- `Neptune/Pluto = Node`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `328`
-- `Pluto/Node = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `148`
-- `Pluto/Node = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `223`
-- `Pluto/Node = Neptune`: Reinhold Ebertin - The Combination of Stellar Influences, page `293`
-- `Pluto/Node = Neptune`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `114`
-- `Pluto/Node = Neptune`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `344`
+- `Neptune/Node = Pluto`: Michael, page `332`
+- `Neptune/Pluto = Node`: Michael, page `328`
+- `Pluto/Node = Neptune`: Michael, page `344`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Neptune/Node = Pluto`: magnetic but complicated bonding, with relationships shaped by fascination, secrecy, sacrifice, and powerful undercurrents that are difficult to name directly.
-- `Neptune/Pluto = Node`: deep invisible entanglement, with bonds shaped by subtle transformation, collective pressures, and ties that feel fated, secret, or psychologically charged.
-- `Pluto/Node = Neptune`: a mysterious alliance field, with powerful but elusive bonds shaped by projection, invisible pressure, and deep transformative undercurrents.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

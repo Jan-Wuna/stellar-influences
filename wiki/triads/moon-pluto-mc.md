@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Moon Pluto MC`
 - Astronomicon triad-set: `R Z MC`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Moon/MC = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `60`
-- `Moon/MC = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `65`
-- `Moon/MC = Pluto`: Reinhold Ebertin - The Combination of Stellar Influences, page `144`
-- `Moon/MC = Pluto`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `40`
-- `Moon/MC = Pluto`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `144`
-- `Moon/Pluto = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `129`
-- `Moon/Pluto = MC`: Udo Rudolph - ABC for Planetary Pictures, page `190`
-- `Moon/Pluto = MC`: Reinhold Ebertin - The Combination of Stellar Influences, page `135`
-- `Moon/Pluto = MC`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `36`
-- `Moon/Pluto = MC`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `132`
-- `Pluto/MC = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `69`
-- `Pluto/MC = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `82`
-- `Pluto/MC = Moon`: Reinhold Ebertin - The Combination of Stellar Influences, page `298`
-- `Pluto/MC = Moon`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `117`
-- `Pluto/MC = Moon`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `352`
+- `Moon/MC = Pluto`: Michael, page `144`
+- `Moon/Pluto = MC`: Michael, page `132`
+- `Pluto/MC = Moon`: Michael, page `352`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Moon/MC = Pluto`: a powerful outer role, with vocation and reputation shaped by instinctive depth, control, and emotionally charged survival themes.
-- `Moon/Pluto = MC`: a consequential emotional path, with outer role shaped by depth, crisis, endurance, and transformative family or instinctive themes.
-- `Pluto/MC = Moon`: a vocation shaped by emotional intensity, ancestral or domestic pressure, and profound inner processes that influence public direction strongly.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

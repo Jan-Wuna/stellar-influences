@@ -65,7 +65,7 @@ source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - robert-hand-horoscope-symbols
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -77,6 +77,9 @@ updated_at: 2026-05-04
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MERCURY/SATURN`
+- Source page: `159`
 
 #### Pair Summary
 
@@ -182,6 +185,9 @@ Careful and considered thought. Caution and conservatism. One-track-mind. Depres
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MERCURY/SATURN`
+- Source page: `159`
+
 #### Basic Ideas
 
 Controlling your communications, simplifying your thought and logic processes, training to become a disciplined observer, or, perhaps some thoughts of despair may appear with these themes. Developing ideas cautiously, organizing your reasoning, and showing caution about how you prepare your information are also represented. Serious delays in talks or negotiations may arise, business dealings underway could be concluded or ended, or discussions about the stability of your workers could arise. They indicate shortened messages, but also tend to foster within you a hesitation or nervousness when speaking before others. These motifs add rigidity to thinking, help you formulate serious inquiries, and shape your naivete or ignorance of the facts. You may develop a sense of loyalty to business or commercial enterprises under their influence, and take information more seriously.
@@ -209,6 +215,15 @@ Cataracts or similar blockage of senses, nerves, or nerve endings; breaks in men
 
 - [Michael Munkasey - Mercury/Saturn Concepts](../derived/munkasey-mercury-saturn-concepts.md)
 
+## Comparative Schema
+
+- core meaning: source-native axis statements from each ingested source are preserved side by side above.
+- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
+- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
+- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
+- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
+- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+
 ## Related Activations
 
 - [Mercury/Saturn = Admetos](../activations/mercury-saturn-equals-admetos.md)
@@ -233,7 +248,13 @@ Cataracts or similar blockage of senses, nerves, or nerve endings; breaks in men
 - [Mercury/Saturn = Vulcanus](../activations/mercury-saturn-equals-vulcanus.md)
 - [Mercury/Saturn = Zeus](../activations/mercury-saturn-equals-zeus.md)
 
+## Contradictions
+
+- No direct contradiction is recorded yet among the ingested source entries on this axis.
+- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Mercury/Saturn` is the axis of concentration, disciplined thought, careful speech, realism, and mental endurance. It brings Mercury's need to think and communicate into Saturn's structure, caution, restraint, and demand for seriousness.

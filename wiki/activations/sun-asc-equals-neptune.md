@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ Coming across to others as being self-important, but not being aware that one is
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `SUN/ASCENDANT with Planets and Points`
+- Source page: `96`
+
 #### Munkasey Entry
 
 An inability to relate clearly or effectively to another person; the feeling that you are not projecting clearly to those around you; illusions about the feelings of people you meet or encounter; shades of mystical togetherness.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Sun/Asc = Neptune`: compassion, artistic impression, and a personal field that evokes fantasy or vulnerability in others. Main caution: weak definition: self-image can blur, boundaries can leak, and the environment can drain vitality.
@@ -76,6 +93,7 @@ An inability to relate clearly or effectively to another person; the feeling tha
 - [Asc](../factors/asc.md)
 - [Neptune](../factors/neptune.md)
 - [Sun/Asc](../axes/sun-asc.md)
+- [Sun Neptune Asc](../triads/sun-neptune-asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

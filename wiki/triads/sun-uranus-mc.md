@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Sun Uranus MC`
 - Astronomicon triad-set: `S X MC`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Sun/MC = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `59`
-- `Sun/MC = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `63`
-- `Sun/MC = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `111`
-- `Sun/MC = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `24`
-- `Sun/MC = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `100`
-- `Sun/Uranus = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `108`
-- `Sun/Uranus = MC`: Udo Rudolph - ABC for Planetary Pictures, page `152`
-- `Sun/Uranus = MC`: Reinhold Ebertin - The Combination of Stellar Influences, page `97`
-- `Sun/Uranus = MC`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `17`
-- `Sun/Uranus = MC`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `80`
-- `Uranus/MC = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `67`
-- `Uranus/MC = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `78`
-- `Uranus/MC = Sun`: Reinhold Ebertin - The Combination of Stellar Influences, page `278`
-- `Uranus/MC = Sun`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `108`
-- `Uranus/MC = Sun`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `324`
+- `Sun/MC = Uranus`: Michael, page `100`
+- `Sun/Uranus = MC`: Michael, page `80`
+- `Uranus/MC = Sun`: Michael, page `324`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Sun/MC = Uranus`: a restless drive to redefine one's place in the world, often through independent career moves, unusual contribution, or revolt against established roles.
-- `Sun/Uranus = MC`: an unconventional career path, disruptive leadership, and a mission shaped by freedom, invention, and sudden turns of status or purpose.
-- `Uranus/MC = Sun`: liberated self-direction, pronounced individuality in public life, and a strong urge to define one's mission through originality and independence.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 

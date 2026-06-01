@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
@@ -61,11 +61,28 @@ The tendency to be frank and direct in the expression of love. The ability to ex
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
+- Source heading: `MOON/MARS with Planets and Points`
+- Source page: `112`
+
 #### Munkasey Entry
 
 Softening the angry emotional feelings you sometimes feel; increased stimulation of your imaginative side for producing art or musical works; appreciating or consoling the emotional nature or ups and downs of others.
 
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
 <a id="derived-synthesis"></a>
+
 ## Derived Synthesis
 
 - `Moon/Mars = Venus`: lively affection, creative emotional energy, and the capacity to combine desire with nurturance. Main caution: touchy desire: attraction and feeling can make reactions more personal, jealous, or harder to moderate.
@@ -76,6 +93,7 @@ Softening the angry emotional feelings you sometimes feel; increased stimulation
 - [Mars](../factors/mars.md)
 - [Venus](../factors/venus.md)
 - [Moon/Mars](../axes/moon-mars.md)
+- [Moon Venus Mars](../triads/moon-venus-mars.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

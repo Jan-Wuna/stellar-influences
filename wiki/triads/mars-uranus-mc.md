@@ -23,13 +23,14 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-04
+updated_at: 2026-05-06
 ---
 
 ## Identity
 
 - Triad-set: `Mars Uranus MC`
 - Astronomicon triad-set: `U X MC`
+- This page is structural only. It does not merge the meanings of its orientations.
 
 ## Orientation Map
 
@@ -39,28 +40,14 @@ updated_at: 2026-05-04
 
 ## Source Coverage
 
-- `Mars/MC = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `64`
-- `Mars/MC = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `73`
-- `Mars/MC = Uranus`: Reinhold Ebertin - The Combination of Stellar Influences, page `223`
-- `Mars/MC = Uranus`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `77`
-- `Mars/MC = Uranus`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `252`
-- `Mars/Uranus = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `194`
-- `Mars/Uranus = MC`: Udo Rudolph - ABC for Planetary Pictures, page `302`
-- `Mars/Uranus = MC`: Reinhold Ebertin - The Combination of Stellar Influences, page `209`
-- `Mars/Uranus = MC`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `71`
-- `Mars/Uranus = MC`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `232`
-- `Uranus/MC = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `67`
-- `Uranus/MC = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `78`
-- `Uranus/MC = Mars`: Reinhold Ebertin - The Combination of Stellar Influences, page `278`
-- `Uranus/MC = Mars`: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints, page `108`
-- `Uranus/MC = Mars`: Michael Munkasey - Midpoints: Unleashing the Power of the Planets, page `324`
+- `Mars/MC = Uranus`: Michael, page `252`
+- `Mars/Uranus = MC`: Michael, page `232`
+- `Uranus/MC = Mars`: Michael, page `324`
 
-<a id="derived-synthesis"></a>
-## Derived Synthesis
+## Contradictions Across Orientations
 
-- `Mars/MC = Uranus`: a drive to advance quickly, act independently, and express a highly individual contribution in the world.
-- `Mars/Uranus = MC`: rebellious leadership, drastic measures, and a life path that demands freedom to act independently rather than under tight control.
-- `Uranus/MC = Mars`: disruptive ambition, sudden career moves, and the will to break through blocked public conditions by decisive or risky action.
+- None recorded yet.
+- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
 
 ## Links
 
